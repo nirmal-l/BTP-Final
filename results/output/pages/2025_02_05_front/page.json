@@ -1,0 +1,718 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_05_front",
+ "source_file": "2025-02-05_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-05_front.png",
+ "date": "2025-02-05",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 243,
+  "mean_line_conf": 88.46005944215821,
+  "orphan_words": 149,
+  "body_words_total": 891
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2791,
+      810,
+      3173,
+      851
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SC Seats Results on",
+   "ocr_conf": 93.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "SC Seats Results on",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      781,
+      4169,
+      1442
+     ],
+     [
+      3243,
+      1499,
+      4148,
+      1629
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3248,
+      693,
+      4028,
+      742
+     ]
+    ],
+    "body_boxes": [
+     [
+      3244,
+      1701,
+      3622,
+      1808
+     ],
+     [
+      3736,
+      2192,
+      3867,
+      2223
+     ],
+     [
+      3733,
+      2287,
+      4169,
+      2412
+     ],
+     [
+      3730,
+      2495,
+      4174,
+      3116
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "Poor our focus,\nsays PM, slams\nOpp as family,\nSheesh Mahal\nTakes swipe at AAP, Cong; asks if 3 of\nSC family have become MPs together",
+   "deck_raw": "REPLY IN LS ON POLL EVE",
+   "body_raw": "VIKAS PATHAK,\nMANOJCG\n& DEEPTIMAN TIWARY\n\nINSIDE\n\nBJP MEMBER SEEKS\nPRIVILEGE MOTION\nAGAINST RAHUL pace 5\n\nHe said 4 crore houses and 12\ncrore toilets have been built by\nhis government for the poor, and\nthat tap water had been taken to\n12 crore families. Targeting the\nOpposition, he said, \u201cThose who\nwenttohutsof villagers for photo\nsessions for entertainment will\nfind this talk in Pariamentabout\nthe poor meaningless. I can un-\nderstand their anger\u201d\nRecalling that a Prime\nMinister called Mr Clean \u2014 he\nwas referring to Rajiv Gandhi \u2014\nhad said that just 15 paise of\nCONTINUED ONPAGE 2",
+   "ocr_conf": 89.39,
+   "ocr_low_conf_share": 0.06,
+   "headline": "Poor our focus, says PM, slams Opp as family, Sheesh Mahal Takes swipe at AAP, Cong; asks if 3 of SC family have become MPs together",
+   "deck": "REPLY IN LS ON POLL EVE",
+   "byline": "VIKAS PATHAK,; MANOJCG; & DEEPTIMAN TIWARY",
+   "text": "BJP MEMBER SEEKS PRIVILEGE MOTION AGAINST RAHUL pace 5\n\nHe said 4 crore houses and 12 crore toilets have been built by his government for the poor, and that tap water had been taken to 12 crore families. Targeting the Opposition, he said, \"Those who wenttohutsof villagers for photo sessions for entertainment will find this talk in Pariamentabout the poor meaningless. I can understand their anger\" Recalling that a Prime Minister called Mr Clean - he was referring to Rajiv Gandhi - had said that just 15 paise of",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2549,
+      931,
+      3050,
+      1082
+     ],
+     [
+      2514,
+      1119,
+      2777,
+      1185
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2372,
+      1942,
+      2682,
+      2065
+     ],
+     [
+      2268,
+      2136,
+      2710,
+      2368
+     ],
+     [
+      2639,
+      1218,
+      3070,
+      1251
+     ],
+     [
+      2508,
+      1451,
+      2984,
+      1517
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "1.56cr | 83.76 lakh | 72.\n\u2018otal Electors Male F\nThird Gender Electors: 1,267\n699 weer",
+   "deck_raw": "",
+   "body_raw": "| |) WHY EASIER\nSAID THAN\nie | DONE pace 6\n\nforeigners whose nationalities\nare known, and file a status re-\nport in two weeks.\nQuestioning Assam's expla-\nnation that the addresses of the\npeople declared foreigners were\n\nParty-wise Seats Wonin 2020\n\nVote \u2014 |\nShare AAP:53.6%\u2014| BUP: 38.5%:",
+   "ocr_conf": 82.3061224489796,
+   "ocr_low_conf_share": 0.12244897959183673,
+   "headline": "'otal Electors Male F Third Gender Electors: 1,267 699 weer",
+   "deck": "",
+   "byline": ") WHY EASIER; SAID THAN",
+   "text": "ie DONE pace 6\n\nforeigners whose nationalities are known, and file a status report in two weeks. Questioning Assam's explanation that the addresses of the people declared foreigners were\n\nParty-wise Seats Wonin 2020\n\nVote - Share AAP:53.6% - BUP: 38.5%:",
+   "n_words": 40,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3001,
+      932,
+      3186,
+      1008
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "72.37 lakh\nFemale",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Female",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1226,
+      598,
+      1290
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      1384,
+      761,
+      2005
+     ]
+    ],
+    "layout_words": 70
+   },
+   "headline_raw": "SHUBHAJIT ROY",
+   "deck_raw": "",
+   "body_raw": "AUNITED States military plane\nbegan deporting Indian mi-\ngrants, implementing President\nDonald Trump's position against\nan estimated 11 million illegal\nimmigrants in the country.\nReuters reported that the C-\n17 aircraft carrying 205 Indian\nnationals departed from San\nAntonio, Texas, around 3 am IST.\nThey are mostly from Gujarat\nand Punjab, according to sources.\nWhen contacted, aUSem-\nbassy spokesperson in Delhi said:\n\u201cThe United States is vigorously\nCONTINUED ONPAGE 2",
+   "ocr_conf": 88.57142857142857,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "SHUBHAJIT ROY",
+   "deck": "",
+   "byline": "",
+   "text": "AUNITED States military plane began deporting Indian migrants, implementing President Donald Trump's position against an estimated 11 million illegal immigrants in the country. Reuters reported that the C- 17 aircraft carrying 205 Indian nationals departed from San Antonio, Texas, around 3 am IST. They are mostly from Gujarat and Punjab, according to sources. When contacted, aUSembassy spokesperson in Delhi said: \"The United States is vigorously",
+   "n_words": 65,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      968,
+      1326,
+      1206,
+      1409
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Turbulence\n1@ ahead",
+   "ocr_conf": 68.33333333333333,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Turbulence 1@ ahead",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      853,
+      1464,
+      1198,
+      1966
+     ]
+    ],
+    "layout_words": 49,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "DEPORTATIONS HAVE\nhappened during the\nBidenand Obama ad-\nministrationstoo but\nthose were quiet affairs.\nThe first in Trump 2.0, in\nthe middle of ahigh-oc-\ntane campaign on immi-\ngration, frames the chal-\nlenge for New Delhi as it\npushes for more H-1B\nvisas and easing of curbs\nonskilled labour.",
+   "ocr_conf": 84.93877551020408,
+   "ocr_low_conf_share": 0.12244897959183673,
+   "headline": "",
+   "deck": "",
+   "byline": "DEPORTATIONS HAVE",
+   "text": "happened during the Bidenand Obama administrationstoo but those were quiet affairs. The first in Trump 2.0, in the middle of ahigh-octane campaign on immigration, frames the challenge for New Delhi as it pushes for more H-1B visas and easing of curbs onskilled labour.",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2940,
+      1448,
+      3197,
+      1530
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2753,
+      1543,
+      3196,
+      1572
+     ],
+     [
+      2754,
+      1940,
+      3199,
+      2361
+     ]
+    ],
+    "layout_words": 56
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "RELATEDREPORTS, PAGES2,3\n\nnot available, Justice A S Oka,\nwho was on the bench with\nJustice Ujjal Bhuyan, told Assam\nChief Secretary Ravi Kota who\nappeared via a video link: \u201cYou\nhave refused tostartdeportation\nsaying their addresses are not\nknown. Why should it be our\nconcern? You deport them to\ntheir foreign country. Are you\nCONTINUEDON PAGE 2",
+   "ocr_conf": 91.33333333333333,
+   "ocr_low_conf_share": 0.03508771929824561,
+   "headline": "",
+   "deck": "",
+   "byline": "RELATEDREPORTS, PAGES2,3",
+   "text": "not available, Justice A S Oka, who was on the bench with Justice Ujjal Bhuyan, told Assam Chief Secretary Ravi Kota who appeared via a video link: \"You have refused tostartdeportation saying their addresses are not known. Why should it be our concern? You deport them to their foreign country. Are you CONTINUEDON PAGE 2",
+   "n_words": 55,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1781,
+      1681,
+      3165,
+      2061
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1780,
+      2097,
+      2223,
+      2368
+     ],
+     [
+      2756,
+      2730,
+      3198,
+      3115
+     ]
+    ],
+    "layout_words": 82
+   },
+   "headline_raw": "Waiting for muhurat? Deport 63\ndeclared foreigners: SC to Assam\n= \u201c WHY EASIER not available, Justice A S Ok",
+   "deck_raw": "",
+   "body_raw": "CASTIGATING THE Assam gov-\nernment for \u201cindulging in sup-\npression of facts\u201d on the contin-\nued detention of people declared\nforeigners, the Supreme Court\nTuesday directed the statetoim-\nmediately deport 63 declared\n\ntenary edition in 2030 \u2014 20 years\nafter the country first held it.\nBut unlike 2010, when the\nGames were hosted in New Delhi,\nAhmedabad has emerged as the\nfrontrunner, with Bhubaneswar\nalso in the mix, officials involved\nin the process told The Indian\nExpress on Tuesday.\nCONTINUEDON PAGE2",
+   "ocr_conf": 90.0,
+   "ocr_low_conf_share": 0.04938271604938271,
+   "headline": "Waiting for muhurat? Deport 63 declared foreigners: SC to Assam = \" WHY EASIER not available, Justice A S Ok",
+   "deck": "",
+   "byline": "",
+   "text": "CASTIGATING THE Assam government for \"indulging in suppression of facts\" on the continued detention of people declared foreigners, the Supreme Court Tuesday directed the statetoimmediately deport 63 declared\n\ntenary edition in 2030 - 20 years after the country first held it. But unlike 2010, when the Games were hosted in New Delhi, Ahmedabad has emerged as the frontrunner, with Bhubaneswar also in the mix, officials involved in the process told The Indian Express on Tuesday. CONTINUEDON PAGE2",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1338,
+      1735,
+      1695,
+      1770
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Business As USUAL",
+   "ocr_conf": 89.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Business As USUAL",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1434,
+      1814,
+      1600,
+      1843
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3246,
+      1818,
+      3599,
+      1872
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3243,
+      1898,
+      3688,
+      2640
+     ]
+    ],
+    "layout_words": 86
+   },
+   "headline_raw": "NEW DELHI, FEBRUARY 4",
+   "deck_raw": "",
+   "body_raw": "ATTACKING THE AAP and Cong-\nress onthe eveofvotingin Delhi\nby referring to Arvind Kejriwal's\n\u201cSheesh Mahal\" and \u201cjacuzzi\u201d,\nSonia Gandhi's \u201cpoor thing\u201d re-\nmark about the President and\nRahul Gandhi \u201cfighting the\nIndian State\u201d, Prime Minister\nNarendra Modi Tuesday said his\ngovemmenthad chosen the path\nof \u201csantushtikaran\" (satisfaction)\nover \u201ctushtikaran\" (appease-\nment) and \u201c100 per cent satura-\ntion\u201d of welfare schemes was\n\u201creal social justice, secularism\nand respect for the Constitution\u201d.\nReplying to the discussion in\nLok Sabha on the Motion of\nThanks on the President's",
+   "ocr_conf": 90.68604651162791,
+   "ocr_low_conf_share": 0.03488372093023256,
+   "headline": "NEW DELHI, FEBRUARY 4",
+   "deck": "",
+   "byline": "",
+   "text": "ATTACKING THE AAP and Congress onthe eveofvotingin Delhi by referring to Arvind Kejriwal's \"Sheesh Mahal\" and \"jacuzzi\", Sonia Gandhi's \"poor thing\" remark about the President and Rahul Gandhi \"fighting the Indian State\", Prime Minister Narendra Modi Tuesday said his govemmenthad chosen the path of \"santushtikaran\" (satisfaction) over \"tushtikaran\" (appeasement) and \"100 per cent saturation\" of welfare schemes was \"real social justice, secularism and respect for the Constitution\". Replying to the discussion in Lok Sabha on the Motion of Thanks on the President's",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1781,
+      1978,
+      2159,
+      2047
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, FEBRUARY 4",
+   "ocr_conf": 91.4,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, FEBRUARY 4",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2091,
+      1212,
+      2542
+     ],
+     [
+      321,
+      2533,
+      597,
+      2598
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2689,
+      760,
+      3113
+     ],
+     [
+      803,
+      2531,
+      1248,
+      3113
+     ]
+    ],
+    "layout_words": 139
+   },
+   "headline_raw": "Trade talks on table as\nIndia and US firm up\ndates for Modi visit\nLikely to meet Vance at Paris Al meet\nSHUBHAJIT ROY",
+   "deck_raw": "",
+   "body_raw": "WITH PRIME Minister Narendra\nModi likely to travel to the US to\nmeet President Donald Trump \u2014\nwhile an official announcement\nisawaited, the visitdatesare said\nto be February 12-14 \u2014 Indiaand\nthe US are expected to start ne-\ngotiations fora free trade agree-\nment inthe coming weeks.\nThe Prime Minister, who will\ntravel to France and co-chair the\n\nArtificial Intelligence Action\nSummit in Paris on February 10-\n11, is also expected to travel to\nMarseille on February 12.\nIn Paris, he is likely to meet\nUS Vice President J D Vancewho\nwillbe attending the Al summit\n\u2014 this wil be the PM's first meet-\ning witha senior leader from the\nTrump 2.0 administration.\nFrom France, he is likely to\ntravel to the US to meet Trump.\nThe govemment has not yet an-\nnounced the dates but both the\nCONTINUEDONPAGE2",
+   "ocr_conf": 90.65467625899281,
+   "ocr_low_conf_share": 0.02877697841726619,
+   "headline": "Trade talks on table as India and US firm up dates for Modi visit Likely to meet Vance at Paris Al meet SHUBHAJIT ROY",
+   "deck": "",
+   "byline": "",
+   "text": "WITH PRIME Minister Narendra Modi likely to travel to the US to meet President Donald Trump - while an official announcement isawaited, the visitdatesare said to be February 12-14 - Indiaand the US are expected to start negotiations fora free trade agreement inthe coming weeks. The Prime Minister, who will travel to France and co-chair the\n\nArtificial Intelligence Action Summit in Paris on February 10- 11, is also expected to travel to Marseille on February 12. In Paris, he is likely to meet US Vice President J D Vancewho willbe attending the Al summit - this wil be the PM's first meeting witha senior leader from the Trump 2.0 administration. From France, he is likely to travel to the US to meet Trump. The govemment has not yet announced the dates but both the CONTINUEDONPAGE2",
+   "n_words": 135,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      2426,
+      2216,
+      2744
+     ],
+     [
+      1295,
+      2731,
+      1562,
+      2796
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      2809,
+      1702,
+      2837
+     ],
+     [
+      1294,
+      2886,
+      1736,
+      3121
+     ],
+     [
+      1778,
+      2730,
+      2223,
+      3114
+     ]
+    ],
+    "layout_words": 77
+   },
+   "headline_raw": "Gujarat sets UCC rolling,\npicks same panel head as\nUttarakhand; Opp protests\nPARIMAL DABHI",
+   "deck_raw": "",
+   "body_raw": "GANDHINAGAR, FEBRUARY 4\n\nMORETHAN two years after the\nGujarat government announced\nthat it would introduce a\nUniform Civil Code (UCC), the\nstate on Tuesday formed a five-\nmember committee headed by\n\nretired Supreme Court judge\nJustice Ranjana Desai to \u201cassess\nthe need\u201d for it and prepare a\ndraft law.\nIfthe UCC promise was made\njust before the 2022 Assembly\nelections in Gujarat, the an-\nnouncement of the panelcomes\na day before Delhi votesand less\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.14102564102564,
+   "ocr_low_conf_share": 0.02564102564102564,
+   "headline": "Gujarat sets UCC rolling, picks same panel head as Uttarakhand; Opp protests PARIMAL DABHI",
+   "deck": "",
+   "byline": "GANDHINAGAR, FEBRUARY 4",
+   "text": "MORETHAN two years after the Gujarat government announced that it would introduce a Uniform Civil Code (UCC), the state on Tuesday formed a five-member committee headed by\n\nretired Supreme Court judge Justice Ranjana Desai to \"assess the need\" for it and prepare a draft law. Ifthe UCC promise was made just before the 2022 Assembly elections in Gujarat, the announcement of the panelcomes a day before Delhi votesand less",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2269,
+      2430,
+      3185,
+      2809
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2270,
+      2887,
+      2712,
+      2997
+     ],
+     [
+      2270,
+      3008,
+      2709,
+      3121
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "After Olympic bid, India\nsets sights on hosting 2030\nCommonwealth Games",
+   "deck_raw": "",
+   "body_raw": "AFTER SUBMITTING a Letter of\nIntent to hostthe 2036 Olympics\nlast October, India is kamrtohave\n\nopened an \u201cinformal\u201d dialogue\nwiththe CommonwealthGames\nFederation (CGF)to host thecen-",
+   "ocr_conf": 80.28,
+   "ocr_low_conf_share": 0.12,
+   "headline": "After Olympic bid, India sets sights on hosting 2030 Commonwealth Games",
+   "deck": "",
+   "byline": "",
+   "text": "AFTER SUBMITTING a Letter of Intent to hostthe 2036 Olympics last October, India is kamrtohave\n\nopened an \"informal\" dialogue withthe CommonwealthGames Federation (CGF)to host thecen-",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      3243,
+      2648,
+      3683,
+      2700
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3243,
+      2710,
+      3685,
+      2769
+     ]
+    ],
+    "body_boxes": [
+     [
+      3243,
+      2770,
+      3685,
+      3123
+     ]
+    ],
+    "layout_words": 45
+   },
+   "headline_raw": "Address, Modilisted his govem-\nrmamnPo creharmnse takanafisrA:Rae_",
+   "deck_raw": "PRICE AMIR ee a Ue leraiee te\nent sections, especially the poor",
+   "body_raw": "and the marginalised. \u201cIn the last\n10 years, 25 crore people came\nout of poverty. For five decades,\nweheard slogans of Gartbi Hatao,\nbut now 25 crore poor people\nhave defeated poverty,\" he said,\nadding, \u201cWe have not given false\nslogans but truedevelopmentto\nthe poor.\u201d",
+   "ocr_conf": 91.08888888888889,
+   "ocr_low_conf_share": 0.022222222222222223,
+   "headline": "Address, Modilisted his govemrmamnPo creharmnse takanafisrA:Rae_",
+   "deck": "PRICE AMIR ee a Ue leraiee te ent sections, especially the poor",
+   "byline": "",
+   "text": "and the marginalised. \"In the last 10 years, 25 crore people came out of poverty. For five decades, weheard slogans of Gartbi Hatao, but now 25 crore poor people have defeated poverty,\" he said, adding, \"We have not given false slogans but truedevelopmentto the poor.\"",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2380,
+      5958,
+      4008,
+      6132
+     ]
+    ],
+    "layout_words": 81,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\u2018Fares shown are per person flying with Singapore Airlines from Delhi to Perth and include all associated taxes\nand surcharges, as on 14 January 2025. Promotion Is valid until 10 February 2025 for travel from 1 March to 30\nSeptember 2025. Actual fares may vary between citles In India. Seats based on advertised fares are limited and\nare subject to availability. Book online at singaporeair.com or contact your travel agent, Singapore Airlines\nContact Centre at 1800 121 212. Other conditions apply.",
+   "ocr_conf": 93.17283950617283,
+   "ocr_low_conf_share": 0.024691358024691357,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "'Fares shown are per person flying with Singapore Airlines from Delhi to Perth and include all associated taxes and surcharges, as on 14 January 2025. Promotion Is valid until 10 February 2025 for travel from 1 March to 30 September 2025. Actual fares may vary between citles In India. Seats based on advertised fares are limited and are subject to availability. Book online at singaporeair.com or contact your travel agent, Singapore Airlines Contact Centre at 1800 121 212. Other conditions apply.",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 12.1,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

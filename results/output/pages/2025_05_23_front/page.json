@@ -1,0 +1,750 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_23_front",
+ "source_file": "2025-05-23_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-23_front.png",
+ "date": "2025-05-23",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 564,
+  "mean_line_conf": 90.44804288009075,
+  "orphan_words": 5,
+  "body_words_total": 2272
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      695,
+      4152,
+      1210
+     ],
+     [
+      3255,
+      1252,
+      4170,
+      1383
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3950,
+      1457,
+      4093,
+      1500
+     ]
+    ],
+    "body_boxes": [
+     [
+      3253,
+      1463,
+      3631,
+      1535
+     ],
+     [
+      3252,
+      1583,
+      3697,
+      2923
+     ],
+     [
+      3903,
+      1522,
+      4049,
+      1600
+     ],
+     [
+      3783,
+      1664,
+      4143,
+      2171
+     ]
+    ],
+    "layout_words": 224
+   },
+   "headline_raw": "ED is crossing all\nlimits, says CJI-led\nbench, stays probe\nagainst TASMAC\nSC says probe agency violating federal\nstructure, seeks reply in two weeks",
+   "deck_raw": "Why TN",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, MAY 22\n\nWARNING THE Enforcement\nDirectorate that it was \u201ccrossing\nall limits\u201d and \u201cviolating the fed-\neral structure\u201d, the Supreme\nCourt Thursday stayed proceed-\nings in the agency's money-\nlaundering investigation into\ngovernment-run liquor retailer\nTamil Nadu State Marketing\nCorporation (TASMAC).\nThe bench of Chief Justice of\nIndia B R Gavai and Justice AG\nMasih, which was hearing the\nTamil Nadu government's plea\nchallenging the ED searches at\nthe TASMAC headquarters,\nsought areply from the probe\nagency within two weeks.\nAppearing for the state,\nSenior Advocate Kapil Sibal said\nthe corporation had found that\nsome people who had been al-\nlotted liquor outlets were taking\ncash. \u201cSo the state itself filed 41\nFIRs from 2014 to 2021. Against\nindividuals, not against the cor-\nporation. The ED comes into the\npicture in 2025 and raids the cor-\nporation, the head office,\u201d he said.\nIssuing notice, CJ] Gavai\nasked Additional Solicitor\nGeneral S V Raju, who appeared\nfor the ED: \u201cHow can (there be)\nan offence against the corpora-\n\ncame\n|@ toSC\n\nTHE ED'S PMLA case\nstemmed fromallega-\ntions of corruption and ir-\nregularities in TN\u2019s liquor\nsales. In March this year,\nthe ED conducted\nsearches at multiple loca-\ntions including the TAS-\nMAC headquarters, The\nstate and the corporation\ncame to the Supreme\nCourt after being denied\nrelief by the Madras HC.",
+   "ocr_conf": 91.72321428571429,
+   "ocr_low_conf_share": 0.03571428571428571,
+   "headline": "ED is crossing all limits, says CJI-led bench, stays probe against TASMAC SC says probe agency violating federal structure, seeks reply in two weeks",
+   "deck": "Why TN",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, MAY 22",
+   "text": "WARNING THE Enforcement Directorate that it was \"crossing all limits\" and \"violating the federal structure\", the Supreme Court Thursday stayed proceed-ings in the agency's money-laundering investigation into government-run liquor retailer Tamil Nadu State Marketing Corporation (TASMAC). The bench of Chief Justice of India B R Gavai and Justice AG Masih, which was hearing the Tamil Nadu government's plea challenging the ED searches at the TASMAC headquarters, sought areply from the probe agency within two weeks. Appearing for the state, Senior Advocate Kapil Sibal said the corporation had found that some people who had been allotted liquor outlets were taking cash. \"So the state itself filed 41 FIRs from 2014 to 2021. Against individuals, not against the corporation. The ED comes into the picture in 2025 and raids the corporation, the head office,\" he said. Issuing notice, CJ] Gavai asked Additional Solicitor General S V Raju, who appeared for the ED: \"How can (there be) an offence against the corporacame @ toSC\n\nTHE ED'S PMLA case stemmed fromallegations of corruption and irregularities in TN's liquor sales. In March this year, the ED conducted searches at multiple loca-tions including the TAS-MAC headquarters, The state and the corporation came to the Supreme Court after being denied relief by the Madras HC.",
+   "n_words": 208,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      817,
+      797,
+      3203,
+      1170
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      696,
+      3197,
+      746
+     ]
+    ],
+    "body_boxes": [
+     [
+      812,
+      1210,
+      1249,
+      1542
+     ],
+     [
+      811,
+      2411,
+      1036,
+      2481
+     ],
+     [
+      810,
+      2530,
+      1252,
+      3626
+     ]
+    ],
+    "layout_words": 165
+   },
+   "headline_raw": "Modi\u2019s mind stays cool, but blood runs\nhot, sindoor in my veins: PM in Bikaner",
+   "deck_raw": "\u2018OUR ENEMIES SAW WHAT HAPPENS WHEN SINDOOR TURNS INTO BAAROOD\u2019",
+   "body_raw": "Befitting reply for\neach terror attack,\nwill view Pak\u2019s\nstate, non-state\nactors as one: PM\n\nHAMZA KHAN\nJAIPUR, MAY 22\n\nPRIME MINISTER Narendra Modi\nsaid on Thursday that the Indian\nArmed Forces made Pakistan\nkneel during Operation Sindoor\nand that the world and enemies\nof the country have now seen\nwhat happens when \u201csindoor\n(vermilion) turns to gunpowder\u201d,\nadding that garam sindoor runs\nthrough his veins now,\nHe said India\u2019s response is a\n\u201cnew form of justice\u201d and em-\nphasised that there will be no\ntrade or talks with Pakistan now.\nSignificantly, the PM said that\nthe recent developments have\nmade three things clear: that\nthere will be a befitting reply for\neach terror attack; that India will\nnot be scared by threats of an\natom bomb; and that India will\nview Pakistan's \u201cstate and non-\nstate actors\u201d as one.\nAddressing a rally in Bikaner,\nparts of which were attacked by\nPakistan recently, the PM said,\n\u201cThis brave land of Rajasthan\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.04242424242425,
+   "ocr_low_conf_share": 0.006060606060606061,
+   "headline": "Modi's mind stays cool, but blood runs hot, sindoor in my veins: PM in Bikaner",
+   "deck": "'OUR ENEMIES SAW WHAT HAPPENS WHEN SINDOOR TURNS INTO BAAROOD'",
+   "byline": "HAMZA KHAN; JAIPUR, MAY 22",
+   "text": "Befitting reply for each terror attack, will view Pak's state, non-state actors as one: PM\n\nPRIME MINISTER Narendra Modi said on Thursday that the Indian Armed Forces made Pakistan kneel during Operation Sindoor and that the world and enemies of the country have now seen what happens when \"sindoor (vermilion) turns to gunpowder\", adding that garam sindoor runs through his veins now, He said India's response is a \"new form of justice\" and emphasised that there will be no trade or talks with Pakistan now. Significantly, the PM said that the recent developments have made three things clear: that there will be a befitting reply for each terror attack; that India will not be scared by threats of an atom bomb; and that India will view Pakistan's \"state and non-state actors\" as one. Addressing a rally in Bikaner, parts of which were attacked by Pakistan recently, the PM said, \"This brave land of Rajasthan",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      823,
+      633,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2765,
+      1211,
+      3204,
+      1589
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      2287,
+      3204,
+      2404
+     ],
+     [
+      2764,
+      2453,
+      3207,
+      3628
+     ]
+    ],
+    "layout_words": 144
+   },
+   "headline_raw": "Sanctioned\nterrorists on\nPak soil, its govt\ncannot say no\nidea: Jaishankar",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, MAY 22\n\nUNDERLINING THE role of\nPakistan's government and army\nin their country's terror infra-\nstructure, External Affairs\nMinister S Jaishankar warned of\nfurther consequences if terrorist\nattacks continue from across the\nborder. India wants a \u201cdefinitive\nend\u201d to terrorism, he said.\nIninterviews with the Dutch\nmedia during his visit to the\nNetherlands on May 19-20,\nwhich were published Thursday,\nhe also ruled out third-party in-\nvolvement, including by US\nPresident Donald Trump, in the\nceasefire that ended the military\nconfrontation with Pakistan fol-\nlowing Operation Sindoornearly\ntwo weeks ago. The \u201ccessation\u201d\nof hostilities was \"negotiated di-\nrectly\" between the two coun-\ntries, he said.\nJaishankar made these com-\nments in The Hague during his\nthree-nation tour that also in-\ncluded Denmark and Germany.\nHis remarks come in the wake of\nPresident Trump repeatedly\nCONTINUED ONPAGE 2",
+   "ocr_conf": 90.38297872340425,
+   "ocr_low_conf_share": 0.06382978723404255,
+   "headline": "Sanctioned terrorists on Pak soil, its govt cannot say no idea: Jaishankar",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, MAY 22",
+   "text": "UNDERLINING THE role of Pakistan's government and army in their country's terror infrastructure, External Affairs Minister S Jaishankar warned of further consequences if terrorist attacks continue from across the border. India wants a \"definitive end\" to terrorism, he said. Ininterviews with the Dutch media during his visit to the Netherlands on May 19-20, which were published Thursday, he also ruled out third-party involvement, including by US President Donald Trump, in the ceasefire that ended the military confrontation with Pakistan following Operation Sindoornearly two weeks ago. The \"cessation\" of hostilities was \"negotiated directly\" between the two countries, he said. Jaishankar made these comments in The Hague during his three-nation tour that also included Denmark and Germany. His remarks come in the wake of President Trump repeatedly",
+   "n_words": 125,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      1448,
+      725,
+      1770
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1858,
+      750,
+      1928
+     ],
+     [
+      319,
+      1976,
+      764,
+      2240
+     ],
+     [
+      321,
+      2254,
+      764,
+      3237
+     ],
+     [
+      319,
+      3242,
+      763,
+      4061
+     ]
+    ],
+    "layout_words": 247
+   },
+   "headline_raw": "Soldier killed\nin anti-terror\noperation in\nKishtwar",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWSSERVICE\nJAMMU, MAY 22\n\nAN ARMY soldier was killed on\nThursday in an exchange of fire\nafter security forces and the\nJammu and Kashmir Police in-\ntercepteda groupofterroristsin\nthe Chatroo areaof Kishtwar dis-\ntrict.\n\nPolice sources said three-four\nterrorists from the Jaish-e-\nMohammed (JeM) are believed\nto be trapped inthe area, follow-\ning the joint cordon-and-search\noperation by police, Army, and\nparamilitary personnel.\nThe operation was launched\nafter what authorities described\nas \u201cprecise intelligence input\u201d\nprovided by the local police. The\ntrapped terrorists are thought to\nbe part of the same group that\nrecently escaped an earlier en-\ncounter in the same region.\nIn a social media post, the\nArmy's Nagrota-based White\nKnight Corps said, \u201cOne of our\nbravehearts sustained grievous\ninjuries in the exchange of fire\nand has succumbed despite best\nmedical efforts.\u201d The statement\nsaid the operation is ongoing and\nthat a fierce gunfight is under-\nway.\n\nThe encounter broke out\nearly Thursday morning in the\nSinghpora area of Chatroo.\nEarlier inthe month, six ter-\nrorists, including three owing al-\nlegiance to JeM, were killed by\nthe Jammu and Kashmir Police,\nthe Army and the CRPF in two\nmajor anti-terror operations in\nthe Kashmir Valley.\nThe encounters come weeks\nafter the Pahalgam terror attack,\nin which 26 civilians were killed.\nThe incident prompted India to\nJaunch strikes on terror infra-\nstructure in Pakistan and\nPakistan-occupied Kashmir, and\nled to heightened tensions be-\ntween the two countries until a\npause on military operations\nwas announced.",
+   "ocr_conf": 92.48987854251013,
+   "ocr_low_conf_share": 0.016194331983805668,
+   "headline": "Soldier killed in anti-terror operation in Kishtwar",
+   "deck": "",
+   "byline": "EXPRESS NEWSSERVICE; JAMMU, MAY 22",
+   "text": "AN ARMY soldier was killed on Thursday in an exchange of fire after security forces and the Jammu and Kashmir Police intercepteda groupofterroristsin the Chatroo areaof Kishtwar district.\n\nPolice sources said three-four terrorists from the Jaish-e-Mohammed (JeM) are believed to be trapped inthe area, following the joint cordon-and-search operation by police, Army, and paramilitary personnel. The operation was launched after what authorities described as \"precise intelligence input\" provided by the local police. The trapped terrorists are thought to be part of the same group that recently escaped an earlier encounter in the same region. In a social media post, the Army's Nagrota-based White Knight Corps said, \"One of our bravehearts sustained grievous injuries in the exchange of fire and has succumbed despite best medical efforts.\" The statement said the operation is ongoing and that a fierce gunfight is underway.\n\nThe encounter broke out early Thursday morning in the Singhpora area of Chatroo. Earlier inthe month, six terrorists, including three owing allegiance to JeM, were killed by the Jammu and Kashmir Police, the Army and the CRPF in two major anti-terror operations in the Kashmir Valley. The encounters come weeks after the Pahalgam terror attack, in which 26 civilians were killed. The incident prompted India to Jaunch strikes on terror infrastructure in Pakistan and Pakistan-occupied Kashmir, and led to heightened tensions between the two countries until a pause on military operations was announced.",
+   "n_words": 232,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3740,
+      2240,
+      3973,
+      2297
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3741,
+      2350,
+      4167,
+      2484
+     ],
+     [
+      3742,
+      2572,
+      4182,
+      2877
+     ]
+    ],
+    "layout_words": 47
+   },
+   "headline_raw": "EXPLAINED",
+   "deck_raw": "",
+   "body_raw": "THE ALLEGATIONS\nAGAINST TNLIQUOR\nRETAILER pace 7\n\ntion?... You may register (an of-\nfence) against individuals, how\n(against the) corporation ina\ncriminal matter?\u201d\n\u201cYour ED is crossing all lim-\nits, Mr Raju,\u201d the CJI Gavai said,\nand asked the ED to file a reply\nin twoweeks.",
+   "ocr_conf": 92.19565217391305,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPLAINED",
+   "deck": "",
+   "byline": "THE ALLEGATIONS; AGAINST TNLIQUOR",
+   "text": "RETAILER pace 7\n\ntion?... You may register (an offence) against individuals, how (against the) corporation ina criminal matter?\" \"Your ED is crossing all limits, Mr Raju,\" the CJI Gavai said, and asked the ED to file a reply in twoweeks.",
+   "n_words": 40,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      2435,
+      2706,
+      2653
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      2729,
+      1578,
+      2799
+     ],
+     [
+      1297,
+      2847,
+      1741,
+      3191
+     ],
+     [
+      1297,
+      3204,
+      1742,
+      3633
+     ],
+     [
+      1787,
+      3283,
+      2228,
+      3634
+     ],
+     [
+      2391,
+      2744,
+      2429,
+      2782
+     ],
+     [
+      2275,
+      3283,
+      2716,
+      3627
+     ]
+    ],
+    "layout_words": 187
+   },
+   "headline_raw": "Be sensitive to our concerns, basis\nfor ties: India to Turkey & China",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, MAY 22\n\nALMOST TWOweeks after nam-\ning Turkey and China for their\nequipment and weapons being\nused by Pakistan against India\nduring the military confronta-\ntion between May 7 and 10, India\non Thursday asked both the\ncountries to be sensitive to its\nconcerns.\n\n\u201cWe expect Turkey to strongly\nurge Pakistan to end its support\nto cross-border terrorism and\ntake credible and verifiable ac-\ntions against theterrorecosystem\nit has harboured for decades.\nRelations are built on the basis of\nsensitivities to each other's con-\ncerns,\u201d the Ministry of External\nAffairs\u2019 official spokesperson\nRandhir Jaiswal said.\n\nOn China, Jaiswal said: \u201cOur\nNSA and the Chinese FM and\nSpecial Representative on\nBoundary Issue Mr Wang Yihad\nspoken to each other on May 10,\n2025, when the NSA conveyed\nIndia\u2019s resolute stance against\ncross-border terrorism emanat-\ning from Pakistan. The Chinese\n\nJa\n\nside is aware that mutual trust,\nmutual respect and mutual sen-\nsitivity remain the basis of India-\nChina relations.\u201d\nOn May 9, a preliminary\nprobe into the debris after\nPakistan's attempt to breach the\nnorthem and western fronts had\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.25268817204301,
+   "ocr_low_conf_share": 0.03225806451612903,
+   "headline": "Be sensitive to our concerns, basis for ties: India to Turkey & China",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, MAY 22",
+   "text": "ALMOST TWOweeks after naming Turkey and China for their equipment and weapons being used by Pakistan against India during the military confrontation between May 7 and 10, India on Thursday asked both the countries to be sensitive to its concerns.\n\n\"We expect Turkey to strongly urge Pakistan to end its support to cross-border terrorism and take credible and verifiable actions against theterrorecosystem it has harboured for decades. Relations are built on the basis of sensitivities to each other's concerns,\" the Ministry of External Affairs' official spokesperson Randhir Jaiswal said.\n\nOn China, Jaiswal said: \"Our NSA and the Chinese FM and Special Representative on Boundary Issue Mr Wang Yihad spoken to each other on May 10, 2025, when the NSA conveyed India's resolute stance against cross-border terrorism emanating from Pakistan. The Chinese\n\nJa\n\nside is aware that mutual trust, mutual respect and mutual sensitivity remain the basis of India-China relations.\" On May 9, a preliminary probe into the debris after Pakistan's attempt to breach the northem and western fronts had",
+   "n_words": 169,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      2993,
+      3496,
+      3050
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      3104,
+      3684,
+      3245
+     ],
+     [
+      3251,
+      3263,
+      3657,
+      3386
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "THE WORLD",
+   "deck_raw": "",
+   "body_raw": "TWO ISRAEL MISSION\nSTAFFERS SHOT\nDEADINU.S.\n\nTRUMP BLOCKS\nFOREIGN STUDENTS\nFROM HARVARD P 12",
+   "ocr_conf": 86.28571428571429,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "THE WORLD",
+   "deck": "",
+   "byline": "TWO ISRAEL MISSION; STAFFERS SHOT; DEADINU.S.; TRUMP BLOCKS; FOREIGN STUDENTS; FROM HARVARD P 12",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      3507,
+      4170,
+      3956
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      4035,
+      3676,
+      4105
+     ],
+     [
+      3250,
+      4156,
+      3695,
+      5139
+     ]
+    ],
+    "layout_words": 135
+   },
+   "headline_raw": "Former J&K Governor\nMalik, 6 others named\nin CBI chargesheet on\nKiru hydel project case",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, MAY 22\n\nTHE CBI Thursday filed a\nchargesheet against seven per-\nsons, including Satya Pal Malik,\nformer Governor of Jammu and\nKashmir, in connection with al-\nleged corruption in the award of\ncivil works for the Kiru hydro\npower project in Kishtwar district.\nMalik is admitted at Ram\nManohar Lohia Hospital for the\nlast three days. He is suffering\nfrom urine infection, sepsis and\nis on dialysis as well, a senior\ndoctor at RML said.\nApart from Malik, the other\nsix persons chargesheeted are: M\nS Babu, MD of Chenab Valley\nPower Projects Private Ltd\n(CVPPPL), M K Mittal and Arun\nKumar Mishra, directors on the\nboard of CVPPPL; Malik\u2019s private\nsecretaries Virendra Rana and\nKanwar Singh Rana, and aprivate\nperson Kanwaljit Singh Duggal.\nCVPPPL is a 51:49 joint ven-",
+   "ocr_conf": 94.15555555555555,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Former J&K Governor Malik, 6 others named in CBI chargesheet on Kiru hydel project case",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, MAY 22",
+   "text": "THE CBI Thursday filed a chargesheet against seven persons, including Satya Pal Malik, former Governor of Jammu and Kashmir, in connection with alleged corruption in the award of civil works for the Kiru hydro power project in Kishtwar district. Malik is admitted at Ram Manohar Lohia Hospital for the last three days. He is suffering from urine infection, sepsis and is on dialysis as well, a senior doctor at RML said. Apart from Malik, the other six persons chargesheeted are: M S Babu, MD of Chenab Valley Power Projects Private Ltd (CVPPPL), M K Mittal and Arun Kumar Mishra, directors on the board of CVPPPL; Malik's private secretaries Virendra Rana and Kanwar Singh Rana, and aprivate person Kanwaljit Singh Duggal. CVPPPL is a 51:49 joint ven-",
+   "n_words": 126,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      3779,
+      1687,
+      4093
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      4138,
+      753,
+      4195
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4768,
+      743,
+      4846
+     ],
+     [
+      811,
+      4193,
+      1121,
+      4263
+     ],
+     [
+      808,
+      4311,
+      1251,
+      5137
+     ],
+     [
+      1296,
+      4154,
+      1741,
+      5130
+     ]
+    ],
+    "layout_words": 223
+   },
+   "headline_raw": "Forest clearance nod\nfor iron ore plant in\nMaoist-hit Gadchiroli",
+   "deck_raw": "EXPRESS NETWORK",
+   "body_raw": "AIRSPACE OVER\nANDAMAN SEA TO BE\n\nNIKHILGHANEKAR\nNEW DELHI, MAY 22\n\nTHE MINISTRY of Environment,\nForest and Climate Change has\ngranted in-principle forest clear-\nance forLloyd Metals and Energy\nLimited's iron ore beneficiation\nplant, a facility thatimprovesthe\nquality of raw ore by removing\nimpurities, in Maharashtra\u2019s\nGadchiroli district where Maoists\nhave been active for years.\nThis in-principle approval\npaves the way for the diversion\nof 937 hectares of forest land and\nthe felling of 1.23 lakh trees, ac-\ncording to Ministry documents.\nThe forest clearance for the\nproposed plant comes amid the\nMaharashtra government's push\ntoexpand miningand industrial\nactivity in the district affected by\nLeft Wing Extremism (LWE).\n\nLast month, the Maharashtra\ncabinet approved the establish-\nment of a Gadchiroli District\nMining Authority, chaired by\nChief Minister Devendra\nFadnavis, for the management of\nmajor and minor minerals. The\ndistrict holds deposits of ironore,\nlimestone and diamonds.\nThe beneficiation plant and\nallied facilities have been pro-\nposed to process low-grade iron\nore (hematite quartzite) ex-\ntracted from the company\u2019s ex-\nisting mining operations in\nSurjagarh, which faced opera-\ntional hurdles for many years\ndue to opposition from Maoists\nto any activity in the area.\nThe mininglease, spread over\n348 hectares, was initially\ngranted to the company for 20\nyears in 2007 and was later ex-\ntended until May 2057, according\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.19282511210763,
+   "ocr_low_conf_share": 0.013452914798206279,
+   "headline": "Forest clearance nod for iron ore plant in Maoist-hit Gadchiroli",
+   "deck": "EXPRESS NETWORK",
+   "byline": "AIRSPACE OVER; ANDAMAN SEA TO BE; NIKHILGHANEKAR; NEW DELHI, MAY 22",
+   "text": "THE MINISTRY of Environment, Forest and Climate Change has granted in-principle forest clearance forLloyd Metals and Energy Limited's iron ore beneficiation plant, a facility thatimprovesthe quality of raw ore by removing impurities, in Maharashtra's Gadchiroli district where Maoists have been active for years. This in-principle approval paves the way for the diversion of 937 hectares of forest land and the felling of 1.23 lakh trees, according to Ministry documents. The forest clearance for the proposed plant comes amid the Maharashtra government's push toexpand miningand industrial activity in the district affected by Left Wing Extremism (LWE).\n\nLast month, the Maharashtra cabinet approved the establishment of a Gadchiroli District Mining Authority, chaired by Chief Minister Devendra Fadnavis, for the management of major and minor minerals. The district holds deposits of ironore, limestone and diamonds. The beneficiation plant and allied facilities have been proposed to process low-grade iron ore (hematite quartzite) extracted from the company's existing mining operations in Surjagarh, which faced operational hurdles for many years due to opposition from Maoists to any activity in the area. The mininglease, spread over 348 hectares, was initially granted to the company for 20 years in 2007 and was later extended until May 2057, according",
+   "n_words": 200,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      3780,
+      3176,
+      4150
+     ],
+     [
+      1788,
+      4095,
+      2066,
+      4155
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      4194,
+      2227,
+      4774
+     ],
+     [
+      1783,
+      4786,
+      2227,
+      5138
+     ],
+     [
+      2273,
+      4826,
+      2714,
+      5138
+     ],
+     [
+      2762,
+      4827,
+      3204,
+      5131
+     ]
+    ],
+    "layout_words": 186
+   },
+   "headline_raw": "Basavaraju dead, focus on hunt\nfor elusive Maoist commander\nBRE LEW PeNEY Foe\nNEW DELHI, MAY 22",
+   "deck_raw": "",
+   "body_raw": "THE DEATH of CPI (Maoist) gen-\neral secretary Namabala Keshav\nRao alias Basavaraju in an en-\ncounter Wednesday with secu-\nrity personnel in Chhattisgarh\nhas dealt a big blow to the Maoist\nrank and file.\nOfficers in the security estab-\nlishment are, however, caution-\ning against lowering the guard,\nsaying until Madvi Hidma, the de\nfacto military chief of the CPI\n(Maoist) in Chhattisgarh, is\nnabbed, the threat remains po-\ntent.\n\nThe elusive Hidma, who hails\nfrom Puvarti village in Bastar, is\nsuspected to have played key\nroles in all major Maoist attacks\non security forces including the\n2010 killing of 76 CRPF person-\nnel in Chintalnar and the 2013\nJhiram Ghati ambush in which\nthe state Congress leadership\n\nwas wiped out.\nHe currently commands\nBattalion 1 of the People\u2019s\nLiberation Guerrilla Army which\noperates in the districts of South\nBastar, Bijapur, Sukma and\nDantewada.He is also a member\nof the Dandakaranya Special\n\nZonal Committee.\n\u201cIn an organisation domi-\nnated by Telugu-speaking\nMaoists, Hidma is the only local\ntribal in a senior position. His\npresence during attacks, military\ntactics, local connect and guile\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.38502673796792,
+   "ocr_low_conf_share": 0.0374331550802139,
+   "headline": "Basavaraju dead, focus on hunt for elusive Maoist commander BRE LEW PeNEY Foe NEW DELHI, MAY 22",
+   "deck": "",
+   "byline": "",
+   "text": "THE DEATH of CPI (Maoist) general secretary Namabala Keshav Rao alias Basavaraju in an encounter Wednesday with security personnel in Chhattisgarh has dealt a big blow to the Maoist rank and file. Officers in the security establishment are, however, cautioning against lowering the guard, saying until Madvi Hidma, the de facto military chief of the CPI (Maoist) in Chhattisgarh, is nabbed, the threat remains potent.\n\nThe elusive Hidma, who hails from Puvarti village in Bastar, is suspected to have played key roles in all major Maoist attacks on security forces including the 2010 killing of 76 CRPF personnel in Chintalnar and the 2013 Jhiram Ghati ambush in which the state Congress leadership\n\nwas wiped out. He currently commands Battalion 1 of the People's Liberation Guerrilla Army which operates in the districts of South Bastar, Bijapur, Sukma and Dantewada.He is also a member of the Dandakaranya Special\n\nZonal Committee. \"In an organisation dominated by Telugu-speaking Maoists, Hidma is the only local tribal in a senior position. His presence during attacks, military tactics, local connect and guile",
+   "n_words": 175,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3739,
+      4108,
+      4132,
+      4235
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3739,
+      4314,
+      4180,
+      5132
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "\"= Satya Pal\nOe, Malikisill,\non s. in hospital",
+   "deck_raw": "",
+   "body_raw": "ture between NHPC and JK State\nPower Development\nCorporation, and is executing the\nKiru hydel project. The Cabinet\nCommittee on Economic Affairs\nhadapproved the project with an\nestimated cost of Rs 4,287.59\ncrore in March 2019,\nThe agency, CBI officials said,\nhad registered two separate\ncasesin April 2022 on allegations\nof malpractices following a re-\nquest by the Jammu & Kashmir\ngovernment. These were: i) an\naward of contract of J&K\nEmployees\u2019 Health Care\nInsurance Scheme to a private\ncompany and release of about\nRs 60 crore in 2017-18, and ii)\naward of a Rs 2,200-crore civil\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.9009900990099,
+   "ocr_low_conf_share": 0.0297029702970297,
+   "headline": "\"= Satya Pal Oe, Malikisill,",
+   "deck": "",
+   "byline": "",
+   "text": "ture between NHPC and JK State Power Development Corporation, and is executing the Kiru hydel project. The Cabinet Committee on Economic Affairs hadapproved the project with an estimated cost of Rs 4,287.59 crore in March 2019, The agency, CBI officials said, had registered two separate casesin April 2022 on allegations of malpractices following a request by the Jammu & Kashmir government. These were: i) an award of contract of J&K Employees' Health Care Insurance Scheme to a private company and release of about Rs 60 crore in 2017-18, and ii) award of a Rs 2,200-crore civil",
+   "n_words": 96,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      4860,
+      719,
+      4910
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4926,
+      731,
+      5097
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "CLOSED MAY 23-24",
+   "deck_raw": "",
+   "body_raw": "WAOF: PETITIONERS\nCOUNTER GOVT, SC\nRESERVES ORDER\nPAGES 5,6",
+   "ocr_conf": 88.66666666666667,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "CLOSED MAY 23-24",
+   "deck": "",
+   "byline": "WAOF: PETITIONERS; COUNTER GOVT, SC; RESERVES ORDER; PAGES 5,6",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5263,
+      4146,
+      5386
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5460,
+      501,
+      5492
+     ],
+     [
+      317,
+      5570,
+      760,
+      5687
+     ],
+     [
+      318,
+      5736,
+      763,
+      6166
+     ],
+     [
+      805,
+      5419,
+      1250,
+      6166
+     ],
+     [
+      1295,
+      5420,
+      1740,
+      6167
+     ],
+     [
+      2762,
+      5421,
+      3203,
+      6168
+     ],
+     [
+      3249,
+      5421,
+      3691,
+      6168
+     ],
+     [
+      3738,
+      5422,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 557
+   },
+   "headline_raw": "First visually impaired woman atop Everest hails from a village in Himachal",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nNITIN SHARMA\nCHANDIGARH, MAY 22\n\nAMAR CHAND began his week\nas he has for decades \u2014 oversee-\ning the green peas and apple\nplantations at his one-acre farm\nin a village deep inside the\nHangrang Valley in Kinnaur dis-\ntrict of Himachal Pradesh.\nBut a video clip he received\nturned the mundane Monday\nmorning memorable. It was of\nhis daughter, Chhonzin Angmo,\n\n29, hoisting the Tricolour atop\nMt Everest. She was flanked by\nher sherpas, Dandu Sherpa and\nOm Gurung, and Army veteran\nLt Col Romil Barthwal (retired),\nthe expedition team leader.\nWhat made Angmo\u2019s feat\neven more special was that she\nbecame the first visually impaired\nperson from India \u2014 and onlythe\nfifth such mountaineer in the\nworld \u2014 to conquer Everest.\nBefore her, there was Erik\nWeihenmayer from the United\nStates \u2014 the first visually im-\npaired person who scaled\nEverestin 2001 \u2014 Austrian Andy\nHolzer (from North Col route in\nTibet) in 2017, Chinese Zhang\n\nHong in 2021 and American\nLonnie Bedwell (2023) Angmo,\nhowever, is the first visually im-\npaired woman summiteer.\n\u201cStepping on the summit of\nMt Everest, my first thought was\nhoweach step counts in our jour-\nney, whether one is abled or spe-\ncially-abled. This is only astepin\nmy dream to instill willpower in\nevery specially-abled person. If\nwe have the willpower, nothing\ncan stop us and my next target\nwillbe the highest peaks ineach\ncontinent,\u201d Angmo told The\nIndian Express from Kathmandu.\n\u201cMy role model is Helen\nKeller, whose books and biogra-\nphy I read asa student. My father,\n\ntoo, is arole model. There were\ntimes when people would taunt\nme for being visually impaired.\nBut my father and my family sup-\nported me in this journey. If], or\nthey, would have been disheart-\nened, we could not have takena\nstep forwardin life,\u201d she said.\n\u201cOur village, Chango, is like\nan oasis in the cold desert; the\nonly green patch amidst yellow\nmountains of the Valley, fed by\ntwoglacier streams and the Spiti\nriver. Our daughter is like the oa-\nsis in our world, and to see her\nclimbing Mt Everest was a spe-\ncial moment for the whole vil-\nlage,\u201d Chand, 76, said.\nAngmo\u2019s younger sister\n\nKesang Yangchen, who lives in\nMohali, was quick to add: \u201cThe\nyellow hills above our village are\ncalled Moonland by the tourists\nand locals, too. To see Angmo\natop Mt Everest is like her reach-\ning the moon for all of us.\u201d\nThe second youngest among\nfive siblings, Angmo was in Class\n3 when her vision got severely\nimpaired following a \u201cmedicine\nallergy\u201d, according to her family.\nChand\u2019s brother, Gopal, said\nthe family only got to know\nwhen herschooiteacherbrougnt\nitto their attention after noticing\nthat Angmo was struggling to\nwrite, \u201cThe next day, we rushed\nto ahospital210 kilometres away,\n\nat Rampur Bushahr, which re-\nferred us to another hospital in\nShimla,\u201d Gopal recalled.\nBut there was no relief. Asthe\nyears passed, Angmo lost vision\nin both her eyes completely.\n\u201cWe visited Chandigarh,\nDehradun and other cities to find\nacure but Angmo slowly lost her\nvision. There were financial\nstruggles, too, but the family did\nwhatever it could to support\nAngmo,\u201d Gopal said.\nIn 2005-06, Chand and his\nwife Sonam Chhomogot Angmo\nenrolled at Leh\u2019s Mahabodhi\nSchool and Hostel for Visually-\nImpaired Children, run by the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.96576576576577,
+   "ocr_low_conf_share": 0.03963963963963964,
+   "headline": "First visually impaired woman atop Everest hails from a village in Himachal",
+   "deck": "",
+   "byline": "ANCHOR; NITIN SHARMA; CHANDIGARH, MAY 22",
+   "text": "AMAR CHAND began his week as he has for decades - overseeing the green peas and apple plantations at his one-acre farm in a village deep inside the Hangrang Valley in Kinnaur district of Himachal Pradesh. But a video clip he received turned the mundane Monday morning memorable. It was of his daughter, Chhonzin Angmo,\n\n29, hoisting the Tricolour atop Mt Everest. She was flanked by her sherpas, Dandu Sherpa and Om Gurung, and Army veteran Lt Col Romil Barthwal (retired), the expedition team leader. What made Angmo's feat even more special was that she became the first visually impaired person from India - and onlythe fifth such mountaineer in the world - to conquer Everest. Before her, there was Erik Weihenmayer from the United States - the first visually impaired person who scaled Everestin 2001 - Austrian Andy Holzer (from North Col route in Tibet) in 2017, Chinese Zhang\n\nHong in 2021 and American Lonnie Bedwell (2023) Angmo, however, is the first visually impaired woman summiteer. \"Stepping on the summit of Mt Everest, my first thought was howeach step counts in our journey, whether one is abled or specially-abled. This is only astepin my dream to instill willpower in every specially-abled person. If we have the willpower, nothing can stop us and my next target willbe the highest peaks ineach continent,\" Angmo told The Indian Express from Kathmandu. \"My role model is Helen Keller, whose books and biography I read asa student. My father,\n\ntoo, is arole model. There were times when people would taunt me for being visually impaired. But my father and my family supported me in this journey. If], or they, would have been disheart-ened, we could not have takena step forwardin life,\" she said. \"Our village, Chango, is like an oasis in the cold desert; the only green patch amidst yellow mountains of the Valley, fed by twoglacier streams and the Spiti river. Our daughter is like the oasis in our world, and to see her climbing Mt Everest was a special moment for the whole village,\" Chand, 76, said. Angmo's younger sister\n\nKesang Yangchen, who lives in Mohali, was quick to add: \"The yellow hills above our village are called Moonland by the tourists and locals, too. To see Angmo atop Mt Everest is like her reaching the moon for all of us.\" The second youngest among five siblings, Angmo was in Class 3 when her vision got severely impaired following a \"medicine allergy\", according to her family. Chand's brother, Gopal, said the family only got to know when herschooiteacherbrougnt itto their attention after noticing that Angmo was struggling to write, \"The next day, we rushed to ahospital210 kilometres away,\n\nat Rampur Bushahr, which referred us to another hospital in Shimla,\" Gopal recalled. But there was no relief. Asthe years passed, Angmo lost vision in both her eyes completely. \"We visited Chandigarh, Dehradun and other cities to find acure but Angmo slowly lost her vision. There were financial struggles, too, but the family did whatever it could to support Angmo,\" Gopal said. In 2005-06, Chand and his wife Sonam Chhomogot Angmo enrolled at Leh's Mahabodhi School and Hostel for Visually-Impaired Children, run by the",
+   "n_words": 530,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.9,
+ "flags": []
+}

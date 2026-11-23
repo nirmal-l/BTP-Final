@@ -1,0 +1,4 @@
+method_a,method_b,n,label_agreement,cohen_kappa,spearman_scores
+transformer,vader,5648,0.258,0.057,0.614
+transformer,llm,5648,0.417,0.105,0.741
+vader,llm,5648,0.478,0.241,0.542

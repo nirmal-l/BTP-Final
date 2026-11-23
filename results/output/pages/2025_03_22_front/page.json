@@ -1,0 +1,577 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_22_front",
+ "source_file": "2025-03-22_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-22_front.png",
+ "date": "2025-03-22",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 283,
+  "mean_line_conf": 82.97897928348787,
+  "orphan_words": 7,
+  "body_words_total": 1076
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Business As USUAL",
+   "ocr_conf": 80.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Business As USUAL",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      628,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      805,
+      785,
+      3176,
+      1398
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      696,
+      2831,
+      747
+     ],
+     [
+      814,
+      1170,
+      1712,
+      1301
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1383,
+      1243,
+      1492
+     ],
+     [
+      811,
+      1542,
+      1256,
+      2052
+     ],
+     [
+      1539,
+      1462,
+      1695,
+      1570
+     ],
+     [
+      1298,
+      1660,
+      1745,
+      2045
+     ],
+     [
+      1788,
+      1424,
+      2143,
+      1572
+     ],
+     [
+      1787,
+      1622,
+      2233,
+      2006
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "Collegium favours transfer of DelhiHC\njudge after report of cash at his home\nHC] sends report; Dhankharsaysif Justice Varma stays away from court,\nita politician, targetedimmediately olice & fire service silent on incident\nANAwTHAKBIeHNANa | OU MSN : .",
+   "deck_raw": "INCIDENT OF FIRE AT RESIDENCE OF JUSTICE YASHWANT VARMA\nHCCJ sends report; Dhankhar says if\nit\u2019s a politician, targeted immediately",
+   "body_raw": "ANANTHAKRISHNAN G\n& ABHINAYAHARIGOVIND\nNEW DELHI.MARCH 21\n\nTHE SUPREME Court Collegium\nhas proposed the transfer of\nDelhi High Court judge Justice\nYashwant Varma to the\nAllahabad High Court, his parent\nHigh Court, following a report\nabout cashat hisNew Delhi res-\nidence where a fire broke outon\nMarch 14.\nIn a statement Friday, the\nSupreme CourtRegistrysaid the\nCollegium\u2019s \u201cproposal for the\ntransfer of Mr Justice Yashwant\n\nJustice\nYas hwant\nVarma\n\nVarma, who isthe second senior\nmost Judge in the Delhi High\nCourt and a member of the\nCollegium, to his parent High\nCourt i.e. the High Court of\nJudicature at Allahabad, where\nhe will be ninthin seniority, isin-\ndependent and separate from\nthe in-house enquiry procedure\u201d\nCONTINUEDONPAGE2\n\nSOHINIGHOSH, ALOK\nSINGH & AJOY SINHA\nKARPURAM\nNEW DELHI.MARCH21\n\nDELHI HIGH Court judge Justice\nYashwant Varma, the subject of\nan in-house inquiry by the High\nCourt following a report about\ncash at his New Delhi residence\nwherea fire broke out on March\n14, did not attend court Friday.\nIn oral remarks, Chief Justice\nDK Upadhyaya said the court\nwas \u201cconscious\u201d when a senior",
+   "ocr_conf": 88.40782122905028,
+   "ocr_low_conf_share": 0.07262569832402235,
+   "headline": "Collegium favours transfer of DelhiHC judge after report of cash at his home HC] sends report; Dhankharsaysif Justice Varma stays away from court, ita politician, targetedimmediately olice & fire service silent on incident ANAwTHAKBIeHNANa OU MSN:.",
+   "deck": "INCIDENT OF FIRE AT RESIDENCE OF JUSTICE YASHWANT VARMA HCCJ sends report; Dhankhar says if it's a politician, targeted immediately",
+   "byline": "ANANTHAKRISHNAN G; & ABHINAYAHARIGOVIND; NEW DELHI.MARCH 21",
+   "text": "THE SUPREME Court Collegium has proposed the transfer of Delhi High Court judge Justice Yashwant Varma to the Allahabad High Court, his parent High Court, following a report about cashat hisNew Delhi residence where a fire broke outon March 14. In a statement Friday, the Supreme CourtRegistrysaid the Collegium's \"proposal for the transfer of Mr Justice Yashwant\n\nJustice Yas hwant Varma\n\nVarma, who isthe second senior most Judge in the Delhi High Court and a member of the Collegium, to his parent High Court i.e. the High Court of Judicature at Allahabad, where he will be ninthin seniority, isindependent and separate from the in-house enquiry procedure\" CONTINUEDONPAGE2\n\nSOHINIGHOSH, ALOK SINGH & AJOY SINHA KARPURAM NEW DELHI.MARCH21\n\nDELHI HIGH Court judge Justice Yashwant Varma, the subject of an in-house inquiry by the High Court following a report about cash at his New Delhi residence wherea fire broke out on March 14, did not attend court Friday. In oral remarks, Chief Justice DK Upadhyaya said the court was \"conscious\" when a senior",
+   "n_words": 170,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3254,
+      755,
+      4168,
+      1058
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3256,
+      697,
+      3997,
+      731
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      1265,
+      4183,
+      2054
+     ],
+     [
+      3741,
+      1899,
+      4181,
+      2047
+     ]
+    ],
+    "layout_words": 157
+   },
+   "headline_raw": "BJP MLAs seek probe\ninto \u2018honeytrap\u2019 charge,\n18 barred for 6 months",
+   "deck_raw": "BEDLAM IN KARNATAKA ASSEMBLY",
+   "body_raw": "ADAY after a Congress minister\nin Karnataka alleged he was\namong 48 leaders across party\nlines whohad beenthetargetsof J 2 a\nattempts to \u201choneytrap\u201d them,\ntheAssembly witnessedchaotic Marshals evict BJP MLAs\nscenes on Friday as 18 BJPMLAs fromthe Karnataka\nwere suspended for six months Assemblyon Friday. Pn\namid pandemonium in the.\nHouse over their demands for a\njudicial probe intothe allegations Shortly after the Assembly\nand protests against quota for convened around 8.40 am, BJP\nMuslims in public contracts. MLAs brought up the allegations\nSpeaker U T Khader sus- _ that Cooperation Minister KN\npended the MLAs, who were _ Rajanna raised onthe floorof the\nsubsequently evicted from the House Thursday evening and be-\nHouse, after they climbed up t \u2014-gan protesting inthe Well of the\nhis chair and threw papersat House. After BJP MLA V Sunil\nhim on what was the last dayof Kumar demanded a judicial\nthe Budget Session. CONTINUED ON PAGE2\n\ngan protesting in the Well of the\nHouse. After BJP MLA V Sunil\nKumar demanded a judicial\nCONTINUED ON PAGE2",
+   "ocr_conf": 82.51149425287356,
+   "ocr_low_conf_share": 0.13218390804597702,
+   "headline": "BJP MLAs seek probe into 'honeytrap' charge, 18 barred for 6 months",
+   "deck": "BEDLAM IN KARNATAKA ASSEMBLY",
+   "byline": "",
+   "text": "ADAY after a Congress minister in Karnataka alleged he was among 48 leaders across party lines whohad beenthetargetsof J 2 a attempts to \"honeytrap\" them, theAssembly witnessedchaotic Marshals evict BJP MLAs scenes on Friday as 18 BJPMLAs fromthe Karnataka were suspended for six months Assemblyon Friday. Pn amid pandemonium in the. House over their demands for a judicial probe intothe allegations Shortly after the Assembly and protests against quota for convened around 8.40 am, BJP Muslims in public contracts. MLAs brought up the allegations Speaker U T Khader sus- _ that Cooperation Minister KN pended the MLAs, who were _ Rajanna raised onthe floorof the subsequently evicted from the House Thursday evening and be-House, after they climbed up t - -gan protesting inthe Well of the his chair and threw papersat House. After BJP MLA V Sunil him on what was the last dayof Kumar demanded a judicial\n\ngan protesting in the Well of the House. After BJP MLA V Sunil Kumar demanded a judicial",
+   "n_words": 165,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      453,
+      927,
+      698,
+      983
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      359,
+      1458,
+      729,
+      1631
+     ],
+     [
+      360,
+      1675,
+      727,
+      1704
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "Ne-Gided poscherg?",
+   "deck_raw": "",
+   "body_raw": "THE\nLITHUANIAN IN\nA KERALA\nBEACH TOWN\n\nFewin Varkala knew aboutAleks\u00a2j",
+   "ocr_conf": 71.9090909090909,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "Ne-Gided poscherg?",
+   "deck": "",
+   "byline": "THE; LITHUANIAN IN; A KERALA; BEACH TOWN",
+   "text": "Fewin Varkala knew aboutAleks\u00a2j",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      895,
+      595,
+      923
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Next stage",
+   "ocr_conf": 77.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Next stage",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2194,
+      1724,
+      2415
+     ]
+    ],
+    "deck_boxes": [
+     [
+      323,
+      2529,
+      599,
+      2587
+     ]
+    ],
+    "body_boxes": [
+     [
+      323,
+      2491,
+      747,
+      2519
+     ],
+     [
+      320,
+      2611,
+      763,
+      3714
+     ],
+     [
+      1299,
+      3165,
+      1741,
+      3671
+     ]
+    ],
+    "layout_words": 217
+   },
+   "headline_raw": "If India stays on path of 2047 plan,\nwill benefit country, world: Gates",
+   "deck_raw": "MUMBAI, MARCH 21",
+   "body_raw": "EXPRESS NEWS SERVICE\n\nACKNOWLEDGING THAT the\npace of innovation in India was\nbetter than he had expected,\nMicrosoft co-founder and bil-\nlonaire philanthropist Bill Gates\nsaid India's emergence as. a de-\nveloped nation by 2047 would\nbenefit not just the country but\nthe rest of the world as well.\n\u201cIf India can stay on the path\nof the 2047 plan, that will be\nbeneficial notjust to India, it will\nbe beneficial for the whole\nworld. The fact that youhave 20\nper cent of the humanity that\nruns, may be asemi-chaotic but\ntrulydemocratic elections... and\nworks out all its priorities \u2014\nmore money for health, more\nmoney for education \u2014 has cre-\nated avery good dynamic where\nyou are competing in good gov-\nemance,\u201d Gates said ina conver-\nsation with Anant Goenka,\nExecutive Director ofThe Indian\nExpress Group, at the Express\nAddaevent on Thursday.\n\u201cI think itis a great placeto be\n\nin when the main debate re-\nvolves around whether the\ngrowth rate will be 5 per centor\n10 per cent. I don't think it will\nbe 10 percent, but Idon'tthink it\nwill fall below 5 percent either.\nIt isa great spotto bein. This isa\nremarkable period, offering sig-\nnificant opportunities. The eco-\nnomic growth will enable the\ngovernment to allocate more\nfundstoward healthcare anded-\nucation,\u201d he said.",
+   "ocr_conf": 88.50230414746544,
+   "ocr_low_conf_share": 0.06912442396313365,
+   "headline": "If India stays on path of 2047 plan, will benefit country, world: Gates",
+   "deck": "MUMBAI, MARCH 21",
+   "byline": "EXPRESS NEWS SERVICE",
+   "text": "ACKNOWLEDGING THAT the pace of innovation in India was better than he had expected, Microsoft co-founder and billonaire philanthropist Bill Gates said India's emergence as. a developed nation by 2047 would benefit not just the country but the rest of the world as well. \"If India can stay on the path of the 2047 plan, that will be beneficial notjust to India, it will be beneficial for the whole world. The fact that youhave 20 per cent of the humanity that runs, may be asemi-chaotic but trulydemocratic elections... and works out all its priorities - more money for health, more money for education - has created avery good dynamic where you are competing in good govemance,\" Gates said ina conversation with Anant Goenka, Executive Director ofThe Indian Express Group, at the Express Addaevent on Thursday. \"I think itis a great placeto be\n\nin when the main debate revolves around whether the growth rate will be 5 per centor 10 per cent. I don't think it will be 10 percent, but Idon'tthink it will fall below 5 percent either. It isa great spotto bein. This isa remarkable period, offering significant opportunities. The economic growth will enable the government to allocate more fundstoward healthcare andeducation,\" he said.",
+   "n_words": 205,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1789,
+      2196,
+      3190,
+      2467
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2763,
+      2533,
+      3204,
+      2655
+     ]
+    ],
+    "body_boxes": [
+     [
+      1787,
+      2493,
+      2113,
+      2599
+     ],
+     [
+      1786,
+      2651,
+      2229,
+      3114
+     ],
+     [
+      1788,
+      3217,
+      1923,
+      3248
+     ],
+     [
+      1786,
+      3300,
+      2177,
+      3468
+     ],
+     [
+      1786,
+      3503,
+      2172,
+      3670
+     ],
+     [
+      2302,
+      2451,
+      3528,
+      2655
+     ],
+     [
+      2275,
+      2650,
+      3744,
+      3115
+     ],
+     [
+      2584,
+      5750,
+      3438,
+      5785
+     ],
+     [
+      2354,
+      5754,
+      3255,
+      5879
+     ]
+    ],
+    "layout_words": 245
+   },
+   "headline_raw": "\u2018Husband was pinned to ground,\nshot\u2019: 44-yr wait for justice ends",
+   "deck_raw": "ily in the village, including seven\nwomen and two minors, were\nshot dead after herhusband.\nfe Roe hk 4D ob\u201d a ee se a whe",
+   "body_raw": "SAMAN HUSAIN\nDEHAULI (FIROZABAD),\nMARCH21\n\nAWIZENED Chameli Devi recalls\nhow thirst forced her to drink\nfrom the drain she ended up ly-\ning next to all night with a bro-\nken leg on November 18, 1981.\nHours earlier, around 4.30 pm,\nher farmer husband was pinned\nto the ground \u2014 \u201ca foot on his\nchest\" \u2014in his field byone of the\n17 dacoits who had entered\nUttar Pradesh's Dehauli village\nand shot dead.\n\nINSIDE\n\nFORMED UNDER\nGEHLOT GOVT, 34\nCOMMISSIONS AND\nBOARDS DEFUNCT\n\nNAGAUR MP ASKS\nGOVT: \u2018WHY PAY\nFOR POOR ROADS?\u2019\nPAGE 3\n\n. : - Twenty-threeothersbelong- ~\n@@ inpunryparce 24 | ing to Chameli'sextended fam- SHUBHAJIT ROY\nBor weston: ily in the village, includingseven NEW DELHI, MARCH\nwoe women and two minors, were -\nmeee shot dead after her husband. DAYS AFTER Ranjani\n\nOn March 18 thisyear,nearly an Indian PhD student in ,\n44 years later, a specialdacoity Columbia University, \u201cself-de-\n2... courtin MainpurisentencedRam \u2014_ ported\" after her US visa wasre-\nSevak,KaptanSinghandRampal, voked, the government said\nall in their 60s, to death.\"There \u2014_ Friday that Indian nationals in\n\u2014_\u2014 \u2014\u2014\u2014w +4 - Were 17 accused inthecase.Of \u2014_ foreign countries must \u201ccomply\nthese, 13havedied andone isstill with local laws and regulations\u201d.\nThe front pageofThe indian = absconding,\u201d says prosecutor This clearly indicates that Delhi\nExpress from November Rohit Sharma, adding that all has distanced itself from her ac-\n1981 shows Indira Gandhi charge-sheeted witnessesdied _ tivities there.\nwith the massacresurvivors during the pendencyofthetrial. Srinivasan's visa was revoked\n. . CONTINUEDONPAGE 2 CONTINUEDON PAGE2__ |.\n\nues. (ee vis: +) (FY Call Centre Services)\n\nDownload Ge... Call Centre Services|\nFollow us} GY 63 (E) GJ uc india Forever | IRDAI Regn No.: $12",
+   "ocr_conf": 76.06028368794327,
+   "ocr_low_conf_share": 0.23049645390070922,
+   "headline": "'Husband was pinned to ground, shot': 44-yr wait for justice ends",
+   "deck": "ily in the village, including seven women and two minors, were shot dead after herhusband. fe Roe hk 4D ob\" a ee se a whe",
+   "byline": "SAMAN HUSAIN; DEHAULI (FIROZABAD),; MARCH21",
+   "text": "AWIZENED Chameli Devi recalls how thirst forced her to drink from the drain she ended up lying next to all night with a broken leg on November 18, 1981. Hours earlier, around 4.30 pm, her farmer husband was pinned to the ground - \"a foot on his chest\" - in his field byone of the 17 dacoits who had entered Uttar Pradesh's Dehauli village and shot dead.\n\nFORMED UNDER GEHLOT GOVT, 34 COMMISSIONS AND BOARDS DEFUNCT\n\nNAGAUR MP ASKS GOVT: 'WHY PAY FOR POOR ROADS?'\n\n@@ inpunryparce 24 ing to Chameli'sextended fam- SHUBHAJIT ROY Bor weston: ily in the village, includingseven NEW DELHI, MARCH woe women and two minors, were - meee shot dead after her husband. DAYS AFTER Ranjani\n\nOn March 18 thisyear,nearly an Indian PhD student in, 44 years later, a specialdacoity Columbia University, \"self-de- 2... courtin MainpurisentencedRam - _ ported\" after her US visa wasre-Sevak,KaptanSinghandRampal, voked, the government said all in their 60s, to death.\"There - _ Friday that Indian nationals in - _ - - - - w +4 - Were 17 accused inthecase.Of - _ foreign countries must \"comply these, 13havedied andone isstill with local laws and regulations\". The front pageofThe indian = absconding,\" says prosecutor This clearly indicates that Delhi Express from November Rohit Sharma, adding that all has distanced itself from her ac- 1981 shows Indira Gandhi charge-sheeted witnessesdied _ tivities there. with the massacresurvivors during the pendencyofthetrial. Srinivasan's visa was revoked.. CONTINUEDONPAGE 2 CONTINUEDON PAGE2__.\n\nues. (ee vis: +) (FY Call Centre Services)\n\nDownload Ge... Call Centre Services Follow us} GY 63 (E) GJ uc india Forever IRDAI Regn No.: $12",
+   "n_words": 269,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2130,
+      4179,
+      2310
+     ],
+     [
+      3252,
+      2326,
+      4123,
+      2468
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      2533,
+      3567,
+      2579
+     ],
+     [
+      3253,
+      2594,
+      3691,
+      2655
+     ],
+     [
+      3227,
+      2726,
+      3692,
+      2770
+     ]
+    ],
+    "body_boxes": [
+     [
+      3785,
+      2691,
+      4128,
+      3084
+     ]
+    ],
+    "layout_words": 34
+   },
+   "headline_raw": "Follow local laws: MEA on\nSrinivasan\u2019s exit; US court\nblocks Suri\u2019s deportation",
+   "deck_raw": "NEW DELHI MARCH 21\nDAYS AFTER Ranjani Srinivasan,\nported\" after her US visa wasre-",
+   "body_raw": "THE TRUMP administra-\ntion is cracking down on\nforeign nationals in-\nvolved in last year's\nprotests on campuses\nacross the US, including\nColumbia University,\nagainst Israel's warin\nGaza, equating it with\nsupport for Hamas.",
+   "ocr_conf": 92.82352941176471,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Follow local laws: MEA on Srinivasan's exit; US court blocks Suri's deportation",
+   "deck": "NEW DELHI MARCH 21 DAYS AFTER Ranjani Srinivasan, ported\" after her US visa wasre-",
+   "byline": "",
+   "text": "THE TRUMP administration is cracking down on foreign nationals involved in last year's protests on campuses across the US, including Columbia University, against Israel's warin Gaza, equating it with support for Hamas.",
+   "n_words": 32,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      912,
+      3083,
+      1148,
+      3182
+     ]
+    ],
+    "deck_boxes": [
+     [
+      994,
+      3234,
+      1196,
+      3288
+     ]
+    ],
+    "body_boxes": [
+     [
+      936,
+      3188,
+      1125,
+      3217
+     ],
+     [
+      1003,
+      3333,
+      1112,
+      3361
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "AcpA",
+   "deck_raw": "; greenke",
+   "body_raw": "Co-presented by\n\n",
+   "ocr_conf": 93.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "AcpA",
+   "deck": "; greenke",
+   "byline": "",
+   "text": "Co-presented by",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3780,
+      754,
+      4185
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      4866,
+      761,
+      5376
+     ],
+     [
+      318,
+      5385,
+      767,
+      5851
+     ],
+     [
+      319,
+      5895,
+      760,
+      6001
+     ]
+    ],
+    "layout_words": 124
+   },
+   "headline_raw": "Ruthlessly\nsuspended kin,\nsupporters of\nterrorists in\nJ&K, says Shah",
+   "deck_raw": "",
+   "body_raw": "THE CENTRE has taken concrete\nmeasures against terrorism in\nJammu and Kashmir and \u201cruth-\nlessly\u201d suspended relatives and\nsympathisers of terrorists from\ngovernment service to send\nacross a message, Union Home\nMinister Amit Shah said in Rajya\nSabha on Friday.\nHe said the govemment has\nalso banned supporters of ter-\nrorism from getting passports,\ngovernment jobs and govem-\n\nment contracts,\nShah said that due tothe gov-\nemment's zero-tolerance policy\nagainst terrorism, the number of\nterror incidents and related\ndeaths and injuries have dropped\nin Jammu and Kashmir, North\nEast and Left-wing extremism-\naffected regions, which saw\n92,000 deaths in fourdecades.\nHe emphasised that Maoism\nwill endin thecountry by March\n\nShah was replying to a de-\nbate on the working of the\nCONTINUED ONPAGE 2",
+   "ocr_conf": 90.55645161290323,
+   "ocr_low_conf_share": 0.04032258064516129,
+   "headline": "Ruthlessly suspended kin, supporters of terrorists in J&K, says Shah",
+   "deck": "",
+   "byline": "",
+   "text": "THE CENTRE has taken concrete measures against terrorism in Jammu and Kashmir and \"ruthlessly\" suspended relatives and sympathisers of terrorists from government service to send across a message, Union Home Minister Amit Shah said in Rajya Sabha on Friday. He said the govemment has also banned supporters of terrorism from getting passports, government jobs and govemment contracts, Shah said that due tothe govemment's zero-tolerance policy against terrorism, the number of terror incidents and related deaths and injuries have dropped in Jammu and Kashmir, North East and Left-wing extremism-affected regions, which saw 92,000 deaths in fourdecades. He emphasised that Maoism will endin thecountry by March\n\nShah was replying to a debate on the working of the",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 13.8,
+ "flags": []
+}

@@ -1,0 +1,727 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_16_front",
+ "source_file": "2025-06-16_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-16_front.png",
+ "date": "2025-06-16",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 489,
+  "mean_line_conf": 90.70425810839922,
+  "orphan_words": 5,
+  "body_words_total": 1894
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      788,
+      3035,
+      1149
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      2047,
+      745
+     ],
+     [
+      811,
+      1171,
+      1236,
+      1373
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1463,
+      1151,
+      1572
+     ],
+     [
+      809,
+      1660,
+      1254,
+      3033
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "Helicopter flying out of Kedarnath\ncrashes amid bad weather, 7 killed",
+   "deck_raw": "CHOPPER SERVICES UNDER DGCA LENS\nPolice file case\nagainst operator:\n\u2018Gross negligence\u2019",
+   "body_raw": "AISWARYARAJ\n& SUKALP SHARMA\nDEHRADUN, NEW DELHI,\n\nA HELICOPTER carrying Char\nDham yatra pilgrims from\nKedarnath crashed near\nGaurikund in Rudraprayag dis-\ntrict early Sunday, killing all\nseven people on board, includ-\ning a two-year-old child.\nInthe evening, the local police\nregistered an FIR, naming two\nmanagers of the helicopter oper-\nator Aryan Aviation, under the\nchargeof culpable homicide. The\nFiRaccused theoperator of \u201cgross\nnegligence\u201d and listed several al-\nleged lapses. It said the helicop-\nter took off around 50 minutes\nbefore its allotted time, during\nconditions of poor visibility\ncaused by clouds and fog.\nEarlier in the day, Inspector\nGeneral (Law and Order) Nilesh\nBharne said the helicopter was\nheaded to Guptkashi from\nKerdarnath. \u201cThe helicopter\nwent missing after taking pas-\nsengers from Kedamath en route\nto Guptkashi. It crashed in\nGaurikund, leading to seven\ndeaths,\u201d he said. The crash took\nplace between 5.30 and5.45 am\nat Gauri Mai Khark, about 5 km\nuphill from Gaurikund.\nThe dead have been identi-\nfied as Captain Rajveer Singh\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.38011695906432,
+   "ocr_low_conf_share": 0.06432748538011696,
+   "headline": "Helicopter flying out of Kedarnath crashes amid bad weather, 7 killed",
+   "deck": "CHOPPER SERVICES UNDER DGCA LENS Police file case against operator: 'Gross negligence'",
+   "byline": "AISWARYARAJ; & SUKALP SHARMA; DEHRADUN, NEW DELHI,",
+   "text": "A HELICOPTER carrying Char Dham yatra pilgrims from Kedarnath crashed near Gaurikund in Rudraprayag district early Sunday, killing all seven people on board, including a two-year-old child. Inthe evening, the local police registered an FIR, naming two managers of the helicopter operator Aryan Aviation, under the chargeof culpable homicide. The FiRaccused theoperator of \"gross negligence\" and listed several alleged lapses. It said the helicopter took off around 50 minutes before its allotted time, during conditions of poor visibility caused by clouds and fog. Earlier in the day, Inspector General (Law and Order) Nilesh Bharne said the helicopter was headed to Guptkashi from Kerdarnath. \"The helicopter went missing after taking passengers from Kedamath en route to Guptkashi. It crashed in Gaurikund, leading to seven deaths,\" he said. The crash took place between 5.30 and5.45 am at Gauri Mai Khark, about 5 km uphill from Gaurikund. The dead have been identified as Captain Rajveer Singh",
+   "n_words": 153,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      625,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1174,
+      3204,
+      1578
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2765,
+      1661,
+      3191,
+      1731
+     ],
+     [
+      2762,
+      1780,
+      3206,
+      3035
+     ]
+    ],
+    "layout_words": 153
+   },
+   "headline_raw": "Three of family\namong dead,\n6-year-old left\nbehind with\ngrandparents",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, JUNE 15\n\nFOR RAJKUMAR Jaiswal and his\nwife Shraddha, the Char Dham\npilgrimage marked the fulfil-\nmentof along-standing religious\nvow. They took their two-year-\nold daughter Kashi along, leaving\ntheir six-year-old son Vivaan be-\nhind with Shraddha\u2019s parents.\nBut on Sunday moming, that\ndream trip came to an abrupt\nand tragic end for the business\nfamily from Vani town in\nMaharashtra\u2019s Yavatmal district.\nRajkumar (41),Shraddha(35)\nand Kashi were among the seven\npeople killed when their helicop-\nter from Kedarnath crashed near\nGaurikund in Uttarakhand, onits\nreturn leg to Guptkashi.\nSpeaking to reporters,\nShraddha\u2019s uncle Raju Borle said\nthe couple, along with\nShraddha\u2019s sister and her hus-\nband, had started the trip to-\ngether on June9.\n\u201cIt was Shraddha\u2019s birthday\non June 10 and they wanted to\ngo to Char Dham. Shraddha\u2018s sis-\nterand her husband were in an-\nother helicopter. While\nShraddha\u2019s helicopter did not\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.51633986928104,
+   "ocr_low_conf_share": 0.08496732026143791,
+   "headline": "Three of family among dead, 6-year-old left behind with grandparents",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, JUNE 15",
+   "text": "FOR RAJKUMAR Jaiswal and his wife Shraddha, the Char Dham pilgrimage marked the fulfilmentof along-standing religious vow. They took their two-yearold daughter Kashi along, leaving their six-year-old son Vivaan behind with Shraddha's parents. But on Sunday moming, that dream trip came to an abrupt and tragic end for the business family from Vani town in Maharashtra's Yavatmal district. Rajkumar (41),Shraddha(35) and Kashi were among the seven people killed when their helicopter from Kedarnath crashed near Gaurikund in Uttarakhand, onits return leg to Guptkashi. Speaking to reporters, Shraddha's uncle Raju Borle said the couple, along with Shraddha's sister and her husband, had started the trip together on June9. \"It was Shraddha's birthday on June 10 and they wanted to go to Char Dham. Shraddha's sisterand her husband were in another helicopter. While Shraddha's helicopter did not",
+   "n_words": 135,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1595,
+      4173,
+      1952
+     ],
+     [
+      3251,
+      1996,
+      4143,
+      2349
+     ],
+     [
+      3253,
+      2139,
+      3384,
+      2203
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3254,
+      2219,
+      3540,
+      2247
+     ],
+     [
+      3252,
+      2296,
+      3696,
+      3114
+     ],
+     [
+      3785,
+      2375,
+      4141,
+      3083
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "PM reaches Cyprus,\nTurkey\u2019s opponent\nand FU chair next\ne\nyear, to deepen ties\n= 7 r\u2014} \u2014\u2014\u2014\nDIVYAA = Why\nNEW DELHI, JUNE15 =\nBECOMING THE first Indian [iS @ matters\nPrime MinictertnvicitCunnicin -\u2014-\nDIVYAA",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, JUNE 15\n\nBECOMING THE first Indian\nPrime Minister to visit Cyprus in\n23 years, Prime Minister\nNarendra Modi reached the\nMediterranean island country\nSunday where he was greeted at\nthe airport by President Nikos\nChristodoulides,\nTouched by this \u201cspecial ges-\nture\u201d of welcoming him at the\nairport, Modi said, \u2018This visit will\nadd significant momentum to\nIndia-Cyprus relations, espe-\ncially in areas like trade, invest-\nment and more.\u201d\nThe two sides are expected to\nsign multi-level cooperation\nagreements when the two lead-\ners meet Monday for talks.\nCyprusis the Prime Minister's\nCONTINUEDON PAGE 2\n\nTHE CHOICE of Cyprus as\nthe PM's first overseas\ndestination after\nOperation Sindoor has\nnot gone unnoticed. The\nisland country hasa\ndecades-old dispute with\nTurkey which backed\nPakistan during the re-\ncent hostilities. Cyprus\nhas also backed India on\nKashmir and its stand\nagainst cross-border ter-\nrorism. It will be taking\ncharge of the EU Council\npresidency at atime\nwhen India is looking to\ndeepen ties with Europe.",
+   "ocr_conf": 92.1280487804878,
+   "ocr_low_conf_share": 0.018292682926829267,
+   "headline": "PM reaches Cyprus, Turkey's opponent and FU chair next e year, to deepen ties DIVYAA = Why NEW DELHI, JUNE15 = BECOMING THE first Indian [iS @ matters Prime MinictertnvicitCunnicin - - - DIVYAA",
+   "deck": "",
+   "byline": "NEW DELHI, JUNE 15",
+   "text": "BECOMING THE first Indian Prime Minister to visit Cyprus in 23 years, Prime Minister Narendra Modi reached the Mediterranean island country Sunday where he was greeted at the airport by President Nikos Christodoulides, Touched by this \"special gesture\" of welcoming him at the airport, Modi said, 'This visit will add significant momentum to India-Cyprus relations, especially in areas like trade, investment and more.\" The two sides are expected to sign multi-level cooperation agreements when the two leaders meet Monday for talks. Cyprusis the Prime Minister's CONTINUEDON PAGE 2\n\nTHE CHOICE of Cyprus as the PM's first overseas destination after Operation Sindoor has not gone unnoticed. The island country hasa decades-old dispute with Turkey which backed Pakistan during the recent hostilities. Cyprus has also backed India on Kashmir and its stand against cross-border terrorism. It will be taking charge of the EU Council presidency at atime when India is looking to deepen ties with Europe.",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      2296,
+      2677,
+      2543
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      2571,
+      1530,
+      2641
+     ],
+     [
+      1295,
+      2689,
+      1740,
+      3041
+     ],
+     [
+      2028,
+      2649,
+      2169,
+      2757
+     ],
+     [
+      1785,
+      2847,
+      2226,
+      3041
+     ],
+     [
+      2275,
+      2531,
+      2717,
+      3035
+     ]
+    ],
+    "layout_words": 147
+   },
+   "headline_raw": "Pilot was Army veteran from Jaipur\nand father of 4-month-old twins",
+   "deck_raw": "",
+   "body_raw": "HAMZAKHAN\nJAIPUR, JUNE 15\n\nTHE PILOT of the helicopter that\ncrashed in Uttarakhand Sunday\nmorning was an Army veteran\nfrom Jaipur with about 15 years\nof service, and had retired as a\nLieutenant Colonel last year.\nRajveer Singh Chauhan was\namong the seven killed after the\nhelicopter carrying Char Dham\n\nRajveer\nSingh\nChauhan\n\nyatra pilgrims from Kedarnath\ncrashed near Gaurikund in\nRudraprayag district.\nHis father, Govind Singh\nChauhan, said the family was in-\n\nformed about the incident by\none of his son\u2019s colleagues.\n\u201cCaptain VK Singh, his colleague,\ninformed us that Rajveer\u2019s heli-\ncopter has crashed. Three heli-\ncopters had left together and two\nof them had landed. He, too, was\nabout to land and had givena last\nmessage that he is taking a left\nturn to land but lost way ina\ncloud, as per what I have been\ntold,\u201d the father said.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.59183673469387,
+   "ocr_low_conf_share": 0.013605442176870748,
+   "headline": "Pilot was Army veteran from Jaipur and father of 4-month-old twins",
+   "deck": "",
+   "byline": "HAMZAKHAN; JAIPUR, JUNE 15",
+   "text": "THE PILOT of the helicopter that crashed in Uttarakhand Sunday morning was an Army veteran from Jaipur with about 15 years of service, and had retired as a Lieutenant Colonel last year. Rajveer Singh Chauhan was among the seven killed after the helicopter carrying Char Dham\n\nRajveer Singh Chauhan\n\nyatra pilgrims from Kedarnath crashed near Gaurikund in Rudraprayag district. His father, Govind Singh Chauhan, said the family was informed about the incident by one of his son's colleagues. \"Captain VK Singh, his colleague, informed us that Rajveer's helicopter has crashed. Three helicopters had left together and two of them had landed. He, too, was about to land and had givena last message that he is taking a left turn to land but lost way ina cloud, as per what I have been told,\" the father said.",
+   "n_words": 136,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      414,
+      2599,
+      676,
+      2647
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      390,
+      2689,
+      692,
+      2958
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "CXCHANGE",
+   "deck_raw": "",
+   "body_raw": "\u2018Institutional rules\nof the game were\nconsiderably\nweakened even\nbefore the\nEmergency\u2019",
+   "ocr_conf": 95.91666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "CXCHANGE",
+   "deck": "",
+   "byline": "",
+   "text": "'Institutional rules of the game were considerably weakened even before the Emergency'",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3188,
+      1226,
+      3654
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3718,
+      606,
+      3788
+     ],
+     [
+      320,
+      3836,
+      760,
+      3949
+     ],
+     [
+      807,
+      4588,
+      1248,
+      5171
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "US team arrives in\nAhmedabad, leads\ncollated: teen\u2019s video\nto CCTV footage",
+   "deck_raw": "",
+   "body_raw": "ADITIRAJA\nVADODARA, JUNE 15\n\nAS Ateam of experts from the US\nreached Ahmedabad Sunday to\ninspect the site of the June 12\n\n\u201cIt took off at 1.38 pm and just\naftera minute, around 1.39-1.40\npm, the pilot sent out a \u2018No\nthrust... May Day...May Day\u2019\nmessage, following which com-\nmunication was lostand acrash\nwas heard,\u201d the officer said.\nAnother officer said aviation\nexperts have also acquired the\nairport footage of the aircraft in\nfull throttle before it becomes\nairbome, \u201cbut so far there is no\nclear footage of what happened\nbetween it being airborne and\nthe crash\u201d.",
+   "ocr_conf": 93.71134020618557,
+   "ocr_low_conf_share": 0.020618556701030927,
+   "headline": "US team arrives in Ahmedabad, leads collated: teen's video to CCTV footage",
+   "deck": "",
+   "byline": "ADITIRAJA; VADODARA, JUNE 15",
+   "text": "AS Ateam of experts from the US reached Ahmedabad Sunday to inspect the site of the June 12\n\n\"It took off at 1.38 pm and just aftera minute, around 1.39-1.40 pm, the pilot sent out a 'No thrust... May Day...May Day' message, following which communication was lostand acrash was heard,\" the officer said. Another officer said aviation experts have also acquired the airport footage of the aircraft in full throttle before it becomes airbome, \"but so far there is no clear footage of what happened between it being airborne and the crash\".",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3188,
+      4082,
+      3547
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      4234,
+      3660,
+      4343
+     ],
+     [
+      3250,
+      4394,
+      3693,
+      5213
+     ],
+     [
+      3737,
+      4195,
+      4180,
+      5213
+     ]
+    ],
+    "layout_words": 231
+   },
+   "headline_raw": "4 killed as \u2018unsafe\u2019\nbridge collapses at\nPune tourist spot",
+   "deck_raw": "",
+   "body_raw": "MANOJ MORE & PARTHA\nSARATHIBISWAS\nPUNE, JUNE 15\n\nAT LEAST four persons, includ-\ning a child, were killed and 38\nothers suffered injuries after an\nallegedly unsafe iron bridge over\na river collapsed Sunday at a\npopular tourist spot in\nMaharashtra\u2019s Pune district.\nThe structure at Kundamala\nin Maval taluka gave way under\nthe weight of scoresof weekend\ntourists, plunging many into the\nIndrayani river swollen by days\nof heavy rain.\nRescue teams were conduct-\ning searches for people who\nwere reported missing.\nPrime Minister Narendra\nModi, Chief Minister Devendra\nFadnavis and NCP (SP) chief\nSharad Pawar were among those\nwho condoled the deaths.\n\nDeputy Chief Minister Ajit\nPawar said that the iron bridge\nwas rusted and promised to act\nagainst those responsible for the\nlack of upkeep.\nUnion Home Minister Amit\nShah spoke to CM Fadnavis.\nDistrict Collector Jitendra\nDudi said: \u201cSix suffered serious\ninjuries but their condition is sta-\nble. Some are reported to be\nmissing as per the local villagers\u2019\naccount.\u201d\nThe district administration\nsaid search operations led by the\nNDRF will continue through the\nnight. \u201cWe will continue the\nsearch till we find the last body.\nBut we don\u2019t expect any more to\nbe found,\u201d the collector said.\nThe district disaster manage-\nment authority said there were\naround 100 people on the bridge\nwhen the accident happened at\n4 pm Sunday. Eyewitnesses\nCONTINUED ON PAGE 6",
+   "ocr_conf": 93.11739130434782,
+   "ocr_low_conf_share": 0.017391304347826087,
+   "headline": "4 killed as 'unsafe' bridge collapses at Pune tourist spot",
+   "deck": "",
+   "byline": "MANOJ MORE & PARTHA; SARATHIBISWAS; PUNE, JUNE 15",
+   "text": "AT LEAST four persons, including a child, were killed and 38 others suffered injuries after an allegedly unsafe iron bridge over a river collapsed Sunday at a popular tourist spot in Maharashtra's Pune district. The structure at Kundamala in Maval taluka gave way under the weight of scoresof weekend tourists, plunging many into the Indrayani river swollen by days of heavy rain. Rescue teams were conducting searches for people who were reported missing. Prime Minister Narendra Modi, Chief Minister Devendra Fadnavis and NCP (SP) chief Sharad Pawar were among those who condoled the deaths.\n\nDeputy Chief Minister Ajit Pawar said that the iron bridge was rusted and promised to act against those responsible for the lack of upkeep. Union Home Minister Amit Shah spoke to CM Fadnavis. District Collector Jitendra Dudi said: \"Six suffered serious injuries but their condition is stable. Some are reported to be missing as per the local villagers' account.\" The district administration said search operations led by the NDRF will continue through the night. \"We will continue the search till we find the last body. But we don't expect any more to be found,\" the collector said. The district disaster management authority said there were around 100 people on the bridge when the accident happened at 4 pm Sunday. Eyewitnesses",
+   "n_words": 214,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      3949,
+      760,
+      4004
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      4014,
+      758,
+      4073
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4074,
+      763,
+      4615
+     ],
+     [
+      320,
+      4627,
+      760,
+      4775
+     ]
+    ],
+    "layout_words": 85
+   },
+   "headline_raw": "crash of Air India flight Al- 171, in-\nwactirestare haweanarrenarsnegrrteee",
+   "deck_raw": "of evidence critical to the probe:",
+   "body_raw": "T7-year-old Aryan Asari's video of\nthe crash, lone survivor\nViswashkumal Rariesh\u2019s account\nof what happened inside the air-\ncraft, CCTV footage of the take-off\nfrom the Ahmedabad airport, and\nfootage of the Digital Video\nRecorder (DVR) recovered from\nthe BJ Medical College premises.\nOfficers of Gujarat Police said\nthat at the request of investiga-\ntors, police \u201cformally acquired on\nrecord\u201d the video shot by Aryan\nAsari.\n\nOn Sunday aftemoon, a team\nof 10 officers from the US\nNational Transportation Safety\nBoard and the Federal Aviation",
+   "ocr_conf": 86.3529411764706,
+   "ocr_low_conf_share": 0.12941176470588237,
+   "headline": "crash of Air India flight Al- 171, inwactirestare haweanarrenarsnegrrteee",
+   "deck": "of evidence critical to the probe:",
+   "byline": "",
+   "text": "T7-year-old Aryan Asari's video of the crash, lone survivor Viswashkumal Rariesh's account of what happened inside the aircraft, CCTV footage of the take-off from the Ahmedabad airport, and footage of the Digital Video Recorder (DVR) recovered from the BJ Medical College premises. Officers of Gujarat Police said that at the request of investigators, police \"formally acquired on record\" the video shot by Aryan Asari.\n\nOn Sunday aftemoon, a team of 10 officers from the US National Transportation Safety Board and the Federal Aviation",
+   "n_words": 83,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      4267,
+      2201,
+      4455
+     ],
+     [
+      1296,
+      4464,
+      2217,
+      4606
+     ],
+     [
+      1297,
+      4592,
+      1533,
+      4655
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      4668,
+      1608,
+      4739
+     ],
+     [
+      1295,
+      4788,
+      1737,
+      5218
+     ],
+     [
+      1783,
+      4589,
+      2226,
+      5211
+     ]
+    ],
+    "layout_words": 138
+   },
+   "headline_raw": "48 hrs later, night without\nend for grieving families,\ntired staff at Civil Hospital\noS 4 lated tn the Londonn-boynd Air\nRITU SHARMA",
+   "deck_raw": "",
+   "body_raw": "& LEENA MISRA\nAHMEDABAD, JUNE 15\n\nTILL WELL after midnight when\nthe city went quiet,a small group\nof labourers was busy rein-\nstalling a canopy, outside the\nAhmedabad Civil Hospital's new\npost-mortem building, that had\nbeen blown away when a sud-\nden storm hit Saturday evening.\nThis space was where the police\nwere stationed since June 12, to\nprocess records and events re-\n\nlated to the London-bound Air\nIndia crash that afternoon in\nwhich 241 passengers died.\nOutside Kasauti Bhavan\nnearby, the exam hall inside BJ\nMedical College where families\nwere being registered for DNA\nsampling to identify the bodies,\nthe crowd had thinned. A few\nfamily members who had come\nfrom other cities waited for up-\ndates from inside the hall\nguarded by policemen. Some\nvolunteers took naps on the\nplastic chairs, before the long\nCONTINUEDON PAGE6",
+   "ocr_conf": 93.67391304347827,
+   "ocr_low_conf_share": 0.014492753623188406,
+   "headline": "48 hrs later, night without end for grieving families, tired staff at Civil Hospital oS 4 lated tn the Londonn-boynd Air RITU SHARMA",
+   "deck": "",
+   "byline": "& LEENA MISRA; AHMEDABAD, JUNE 15",
+   "text": "TILL WELL after midnight when the city went quiet,a small group of labourers was busy rein-stalling a canopy, outside the Ahmedabad Civil Hospital's new post-mortem building, that had been blown away when a sudden storm hit Saturday evening. This space was where the police were stationed since June 12, to process records and events related to the London-bound Air India crash that afternoon in which 241 passengers died. Outside Kasauti Bhavan nearby, the exam hall inside BJ Medical College where families were being registered for DNA sampling to identify the bodies, the crowd had thinned. A few family members who had come from other cities waited for updates from inside the hall guarded by policemen. Some volunteers took naps on the plastic chairs, before the long CONTINUEDON PAGE6",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      4326,
+      3149,
+      4645
+     ],
+     [
+      2274,
+      4632,
+      2713,
+      4707
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      4267,
+      2736,
+      4300
+     ]
+    ],
+    "body_boxes": [
+     [
+      2273,
+      4710,
+      2561,
+      4780
+     ],
+     [
+      2273,
+      4828,
+      2713,
+      5219
+     ],
+     [
+      2761,
+      4629,
+      3203,
+      5212
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "Video offers clues to\nemergency, likely power\nbackup deployment _\nSUKALP SHARMA",
+   "deck_raw": "Al-171 FDR HOLDS KEY",
+   "body_raw": "& ANIL SASI\nNEW DELHI, JUNE 15\n\nAVIDEO of the last mo-\nments of thedoomedAir [&\nIndia Boeing 787-8 could [=\noffer newinsightintothe [&\nAhmedabad crash tillthe [\"~\ntime the flight data\nrecorder (FDR) datais analysed.\nThe video, shot by Class 12\nstudent and amateur terrace\nphotographer Aryan Asari, could\n\nchallenge a few theories doing\nthe rounds on what might have\nled tothe crash, the deadliest dis-\naster involving an Indian airline\nin decades and the world\u2019s first\ncrash of a Boeing 787.\n7 While aviation ex-\n: perts did speculate\nne whether the APU\n(Auxiliary Power Unit) or\nRAT (Ram Air Turbine) -\nboth emergency power sources\nonthe aircraft - were deployed,\nthe clearer video sourced directly\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.22131147540983,
+   "ocr_low_conf_share": 0.03278688524590164,
+   "headline": "Video offers clues to emergency, likely power backup deployment _ SUKALP SHARMA",
+   "deck": "Al-171 FDR HOLDS KEY",
+   "byline": "& ANIL SASI; NEW DELHI, JUNE 15",
+   "text": "AVIDEO of the last moments of thedoomedAir [& India Boeing 787-8 could [= offer newinsightintothe [& Ahmedabad crash tillthe [\"~ time the flight data recorder (FDR) datais analysed. The video, shot by Class 12 student and amateur terrace photographer Aryan Asari, could\n\nchallenge a few theories doing the rounds on what might have led tothe crash, the deadliest disaster involving an Indian airline in decades and the world's first crash of a Boeing 787. 7 While aviation ex-: perts did speculate ne whether the APU (Auxiliary Power Unit) or RAT (Ram Air Turbine) - both emergency power sources onthe aircraft - were deployed, the clearer video sourced directly",
+   "n_words": 108,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4783,
+      760,
+      4826
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4826,
+      762,
+      5210
+     ]
+    ],
+    "layout_words": 50
+   },
+   "headline_raw": "Administration reached",
+   "deck_raw": "",
+   "body_raw": "Ahmedabad to examine the\ncrash site - Al-171 was a Boeing\n787-8 Dreamliner.\nAnofficer said that records of\nthe Air Traffic Control (ATC), ex-\namined by Gujarat Police, show\nthat the aircraft may have taxied\nat least 300 metres more on the\nrunway which the ATC \u201cdid not\nfind unusual\u201d.",
+   "ocr_conf": 92.48,
+   "ocr_low_conf_share": 0.04,
+   "headline": "Administration reached",
+   "deck": "",
+   "byline": "",
+   "text": "Ahmedabad to examine the crash site - Al-171 was a Boeing 787-8 Dreamliner. Anofficer said that records of the Air Traffic Control (ATC), examined by Gujarat Police, show that the aircraft may have taxied at least 300 metres more on the runway which the ATC \"did not find unusual\".",
+   "n_words": 49,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5354,
+      4133,
+      5481
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5499,
+      499,
+      5573
+     ],
+     [
+      320,
+      5696,
+      627,
+      5805
+     ],
+     [
+      319,
+      5856,
+      759,
+      6159
+     ],
+     [
+      805,
+      5496,
+      1248,
+      6166
+     ],
+     [
+      1293,
+      5500,
+      1737,
+      6166
+     ],
+     [
+      1783,
+      5934,
+      2370,
+      5970
+     ],
+     [
+      1784,
+      6054,
+      2224,
+      6167
+     ],
+     [
+      2272,
+      6049,
+      2714,
+      6164
+     ],
+     [
+      2759,
+      5501,
+      3203,
+      6168
+     ],
+     [
+      3250,
+      5502,
+      3692,
+      6168
+     ],
+     [
+      3738,
+      5502,
+      4178,
+      5608
+     ],
+     [
+      3736,
+      5621,
+      4179,
+      6162
+     ]
+    ],
+    "layout_words": 482
+   },
+   "headline_raw": "New headache for sleuths tracking gangsters: Bishnoi and Brar part ways",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nMAHENDER SINGH\nMANRAL\nNEW DELHI, JUNE 15\n\nFORCENTRALintelligence agen-\ncies and state police sleuths\ntracking the syndicate of high-\nprofile gangsters Lawrence\nBishnoi, who isin Sabarmati jail,\nand Goldy Brar, who is believed\nto be operating out of the US,\nthere is anew headache.\n\nBishnoi and Brar have split.\nThis is what Central agencies\nhave concluded after question-\ning a number of their associates,\nsources told The Indian Express.\n\u201cBoth the gangsters have de-\ncided to stop working together.\nGoldy has started working with\nAzerbaijan-based Rohit Godara\nwhile Bishnoi is now associated\nwith Canada-based Noni Rana.\nThis feud and their new syndi-\ncates are now a source of in-\ncreasing tension for state police\nforces,\u201d an official said.\nAccording to sources, this de-\nvelopment was discussed with\n\nthe National Investigation\nAgency (NIA) recently by police\nofficers from Punjab, Rajasthan,\nHaryana and Delhi.\nSources said the split hap-\npened after Bishnoi got upset\nwith Brar and Godara over their\nhandling of his brother Anmol's\ncase in the US. \u201cCentral intelli-\ngence agencies received infor-\nmation that Brar and Godara did\nnothelpAnmol file the required\nbail bond. Anmol was later re-\nleased but with an ankle bracelet\ntracker,\u201d sources said.\nAnmol (25) was arrested by\nUS immigration authorities in\n\nGoldy Brar (left) and Lawrence Bishnoi\n\nNovember 2024 for allegedly\ntravelling with fake documents.\nHe was allegedly involved in\n\nPunjabi singer Sidhu\nMoosewala\u2019s killing in May\n2022, and was the \u201cmastermind\u201d\n\ninthe murder of NCP leader and\nformer Maharashtra minister\nBaba Siddique last year.\nAccording to sources, state\npolice officers found that over\nthe past few months, Noni Rana\n(Surya Pratap), the younger\nbrother of Kala Rana(Virender\nPratap), who is a known gang-\nster from Haryana\u2019s\nYamunanagar, has been making\ncalls from the US and collecting\nmoney on behalf of Bishnoi.\n\u201cNowadays, gangsters do not\nmake extortion calls directly from\nthe US butuse VPN services linked\nto other countries,\u201d they said.\n\nReferring to Brar and Godara,\nthe sources said, \u201cLast month,\nthey took responsibility in a so-\ncial media post for the killing of\nHarjit Singh, a businessman op-\nerating a trucking safety and in-\nsurance consultancy, outside his\noffice in Canada's Mississauga...\nthey did not mention the name\nof Lawrence and other gang\nmembers, which they usually do\nin such posts.\u201d\nApart from the killings of\nMoosewala and Siddique,\nBishnoi's name has cropped up\nover the past three years in con-\nnection with multiple threats is-\n\nsued to Salman Khan, including\nthe firing outside the actor's\nhouse.\n\nMeanwhile, Canada has al-\nleged that \u201cagents\u201d of the Indian\ngovernment were collaborating\nwith the Bishnoi gang to spread\nterror on Canadian soil -- a\ncharge that India has denied.\nBrar (Satwinderjit Singh), the\nalleged mastermind behind the\nmurder of Moosewala, was de-\nclaredadesignated terroristby the\nCentre under the Unlawful\nActivities (Prevention) Act in 2024.\nDuring his initial days in the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.88381742738589,
+   "ocr_low_conf_share": 0.012448132780082987,
+   "headline": "New headache for sleuths tracking gangsters: Bishnoi and Brar part ways",
+   "deck": "",
+   "byline": "ANCHOR; MAHENDER SINGH; MANRAL; NEW DELHI, JUNE 15",
+   "text": "FORCENTRALintelligence agencies and state police sleuths tracking the syndicate of high-profile gangsters Lawrence Bishnoi, who isin Sabarmati jail, and Goldy Brar, who is believed to be operating out of the US, there is anew headache.\n\nBishnoi and Brar have split. This is what Central agencies have concluded after questioning a number of their associates, sources told The Indian Express. \"Both the gangsters have decided to stop working together. Goldy has started working with Azerbaijan-based Rohit Godara while Bishnoi is now associated with Canada-based Noni Rana. This feud and their new syndicates are now a source of increasing tension for state police forces,\" an official said. According to sources, this development was discussed with\n\nthe National Investigation Agency (NIA) recently by police officers from Punjab, Rajasthan, Haryana and Delhi. Sources said the split happened after Bishnoi got upset with Brar and Godara over their handling of his brother Anmol's case in the US. \"Central intelligence agencies received information that Brar and Godara did nothelpAnmol file the required bail bond. Anmol was later released but with an ankle bracelet tracker,\" sources said. Anmol (25) was arrested by US immigration authorities in\n\nGoldy Brar (left) and Lawrence Bishnoi\n\nNovember 2024 for allegedly travelling with fake documents. He was allegedly involved in\n\nPunjabi singer Sidhu Moosewala's killing in May 2022, and was the \"mastermind\"\n\ninthe murder of NCP leader and former Maharashtra minister Baba Siddique last year. According to sources, state police officers found that over the past few months, Noni Rana (Surya Pratap), the younger brother of Kala Rana(Virender Pratap), who is a known gangster from Haryana's Yamunanagar, has been making calls from the US and collecting money on behalf of Bishnoi. \"Nowadays, gangsters do not make extortion calls directly from the US butuse VPN services linked to other countries,\" they said.\n\nReferring to Brar and Godara, the sources said, \"Last month, they took responsibility in a social media post for the killing of Harjit Singh, a businessman operating a trucking safety and insurance consultancy, outside his office in Canada's Mississauga... they did not mention the name of Lawrence and other gang members, which they usually do in such posts.\" Apart from the killings of Moosewala and Siddique, Bishnoi's name has cropped up over the past three years in connection with multiple threats issued to Salman Khan, including the firing outside the actor's house.\n\nMeanwhile, Canada has alleged that \"agents\" of the Indian government were collaborating with the Bishnoi gang to spread terror on Canadian soil -- a charge that India has denied. Brar (Satwinderjit Singh), the alleged mastermind behind the murder of Moosewala, was declaredadesignated terroristby the Centre under the Unlawful Activities (Prevention) Act in 2024. During his initial days in the",
+   "n_words": 450,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.3,
+ "flags": []
+}

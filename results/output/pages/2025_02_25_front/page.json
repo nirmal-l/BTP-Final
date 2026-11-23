@@ -1,0 +1,821 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_25_front",
+ "source_file": "2025-02-25_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-25_front.png",
+ "date": "2025-02-25",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 424,
+  "mean_line_conf": 86.53317737686841,
+  "orphan_words": 12,
+  "body_words_total": 1537
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      721,
+      567,
+      752
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE WORLD",
+   "ocr_conf": 95.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "THE WORLD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      760,
+      1730,
+      1205
+     ],
+     [
+      1787,
+      1740,
+      2608,
+      1818
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      695,
+      1426,
+      728
+     ],
+     [
+      813,
+      1250,
+      1729,
+      1372
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      2253,
+      1185,
+      2322
+     ],
+     [
+      810,
+      2371,
+      1252,
+      2843
+     ],
+     [
+      1297,
+      2214,
+      1740,
+      2835
+     ],
+     [
+      1788,
+      1856,
+      3205,
+      1933
+     ]
+    ],
+    "layout_words": 157
+   },
+   "headline_raw": "US joins Russia to vote\nagainst UN resolution\non Ukraine war; India\nand China abstain\nTHE CM & LoP, DELHI",
+   "deck_raw": "THIRD ANNIVERSARY OF WAR\nUN passes resolution: 93 in favour, 18\nagainst, 65 abstain; rejects US resolution",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, FEBRUARY 24\n\nFORTHE first time since Russia\ninvaded Ukraine three years ago,\nthe US voted with the Russians\nin anattempt & blockadraft res-\nolution byUkraineatthe UN that\ncalled for a \u201cde-escalation, an\nearlycessation of hostilitiesand\na peaceful resolution of the war\nagainst Ukraine.\nThe resolution was passed\nwith the Europeans and the G7\n(minusthe Americans) voting in\n\nfavour of the draft resolution.\nIndia abstained along with\nChina, one of Russia's closest al-\nlies since the war broke out.\nThe finalscore: 93 countries,\nincluding major Europeancoun-\ntries like Germany, UK, France\nand theG7 (minus the US)voted\nin favour, 18, including Russia,\nUS, Israel and Hungary voted\nagainst; and 65, including India,\nChina and Brazil, abstained.\nThat's lower than previous\nvotes, which sawover 140 nations\ncondemn Russia's aggression.\nCONTINUEDONPAGE2\n\nDelhi CM Rekha Gupta greets her predecessor Atishi and other members after taking oath as\nMLA onthe first day of aspecial Assembly session Monday. fashiTobgyal RELATEDREPORT,P3",
+   "ocr_conf": 89.2484076433121,
+   "ocr_low_conf_share": 0.05732484076433121,
+   "headline": "US joins Russia to vote against UN resolution on Ukraine war; India and China abstain THE CM & LoP, DELHI",
+   "deck": "THIRD ANNIVERSARY OF WAR UN passes resolution: 93 in favour, 18 against, 65 abstain; rejects US resolution",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, FEBRUARY 24",
+   "text": "FORTHE first time since Russia invaded Ukraine three years ago, the US voted with the Russians in anattempt & blockadraft resolution byUkraineatthe UN that called for a \"de-escalation, an earlycessation of hostilitiesand a peaceful resolution of the war against Ukraine. The resolution was passed with the Europeans and the G7 (minusthe Americans) voting in\n\nfavour of the draft resolution. India abstained along with China, one of Russia's closest allies since the war broke out. The finalscore: 93 countries, including major Europeancountries like Germany, UK, France and theG7 (minus the US)voted in favour, 18, including Russia, US, Israel and Hungary voted against; and 65, including India, China and Brazil, abstained. That's lower than previous votes, which sawover 140 nations condemn Russia's aggression. CONTINUEDONPAGE2\n\nDelhi CM Rekha Gupta greets her predecessor Atishi and other members after taking oath as MLA onthe first day of aspecial Assembly session Monday. fashiTobgyal RELATEDREPORT,P3",
+   "n_words": 148,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      788,
+      4172,
+      1423
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3255,
+      698,
+      4140,
+      747
+     ],
+     [
+      3255,
+      1451,
+      4181,
+      1572
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      2254,
+      4181,
+      2330
+     ],
+     [
+      3251,
+      2573,
+      3696,
+      3273
+     ],
+     [
+      3270,
+      3353,
+      3693,
+      3390
+     ]
+    ],
+    "layout_words": 101
+   },
+   "headline_raw": "In shadow of US\ntariff, India back\nto table for trade\ntalks with UK, EU",
+   "deck_raw": "STALLED DUE TO ELECTIONS\nHigh tariffs to protect domestic businesses\nfrom non-market economies, says Goyal",
+   "body_raw": "Commerce and Industry Minister Piyush Goyal meets UK's\nBusiness and Trade Secretary jonathan Reynolds in Dethi. ANI\n\nAS US President Donald Trump\nmoves to upend the world trade\norder with tariff threats against\nalliesand rivals alike, New Delhi\nMondayre-started negotiations\nfor two long-stalled, big-ticket\ntrade deals with Britain\u2019s new\nLabour Party-led administration\n\u2014 just days ahead of President of\nthe European Commission\nUrsula von der Leyen\u2019s visit to\nIndia for trade talks.\nAfter an eight-month pause\ndue togeneral electionsin India,\nthe UK and European parlia-\nmentary elections, New Delhi\nand London announced plans to\nCONTINUED ON PAGE 2\n\nfo fe TR",
+   "ocr_conf": 88.4059405940594,
+   "ocr_low_conf_share": 0.07920792079207921,
+   "headline": "tariff, India back to table for trade talks with UK, EU",
+   "deck": "STALLED DUE TO ELECTIONS High tariffs to protect domestic businesses from non-market economies, says Goyal",
+   "byline": "",
+   "text": "Commerce and Industry Minister Piyush Goyal meets UK's Business and Trade Secretary jonathan Reynolds in Dethi. ANI\n\nAS US President Donald Trump moves to upend the world trade order with tariff threats against alliesand rivals alike, New Delhi Mondayre-started negotiations for two long-stalled, big-ticket trade deals with Britain's new Labour Party-led administration - just days ahead of President of the European Commission Ursula von der Leyen's visit to India for trade talks. After an eight-month pause due togeneral electionsin India, the UK and European parliamentary elections, New Delhi and London announced plans to",
+   "n_words": 93,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1285,
+      742,
+      1453
+     ]
+    ],
+    "layout_words": 10,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "XI SPEAKS TO PUTIN,\nAFFIRMS \u2018NO LIMITS\u2019\nPARTNERSHIP\nPAGE 10",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "XI SPEAKS TO PUTIN,; AFFIRMS 'NO LIMITS'; PARTNERSHIP",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1564,
+      725,
+      1885
+     ],
+     [
+      323,
+      1899,
+      752,
+      2008
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2491,
+      699,
+      2560
+     ],
+     [
+      317,
+      2610,
+      763,
+      3041
+     ]
+    ],
+    "layout_words": 65
+   },
+   "headline_raw": "Disputed well\nnear Sambhal\nmosque on\npublic land:\nUP Govt to SC",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI. FEBRUARY 24\n\nTHE UTTAR Pradesh govern-\nment has told the Supreme\nCourt thatthe disputed well near\nSambhal's Jama Masjid is actu-\nally \u201csituated on public land\u201d.\nIn a status report filed before\nthe top court, the state said \u201cthe\nwell_is locally known as \u2018Dharani\nvarah koop\u2019...\u201d and is \u201csituated\nnear and not inside the disputed\nreligious site, and as such, has no",
+   "ocr_conf": 86.55384615384615,
+   "ocr_low_conf_share": 0.09230769230769231,
+   "headline": "Disputed well near Sambhal mosque on public land:",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI. FEBRUARY 24",
+   "text": "THE UTTAR Pradesh government has told the Supreme Court thatthe disputed well near Sambhal's Jama Masjid is actually \"situated on public land\". In a status report filed before the top court, the state said \"the well_is locally known as 'Dharani varah koop'...\" and is \"situated near and not inside the disputed religious site, and as such, has no",
+   "n_words": 58,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2113,
+      3193,
+      2388
+     ],
+     [
+      1786,
+      2371,
+      2015,
+      2452
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1789,
+      2043,
+      3093,
+      2077
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      2453,
+      2161,
+      2522
+     ],
+     [
+      1786,
+      2572,
+      2228,
+      2962
+     ],
+     [
+      2272,
+      2372,
+      2718,
+      2954
+     ],
+     [
+      2758,
+      2373,
+      3207,
+      2955
+     ],
+     [
+      2805,
+      3083,
+      3162,
+      3118
+     ],
+     [
+      2901,
+      3159,
+      3067,
+      3188
+     ],
+     [
+      2834,
+      3553,
+      3133,
+      3649
+     ]
+    ],
+    "layout_words": 208
+   },
+   "headline_raw": "CAG flags \u2018dodgy pollution OKs,\nfaulty air monitors, parking funds\u2019\nJATIN ANAND",
+   "deck_raw": "REPORT ON DELHI POLLUTION SET TO BE TABLED IN ASSEMBLY",
+   "body_raw": "& MALLICA JOSHI\nNEW DELHI FEBRUARY 24\n\nAIR QUALITY monitoring sta-\ntions located near trees and\nroads, which possibly skews\nreadings; Pollution Under\nControl Certificates (PUCC) be-\ning issued at the same time for\ntwo vehicles, andin some cases\nwithin a minute of each other,\nand no account of money col-\nlected in taxes to build parking\n\nfacilities in the city \u2014 these are\namong the findings of a\nComptroller and Auditor General\n(CAG) report on measurestaken\ntocontol air pollution in Delhi,\nThe indian Express has leamt.\nThe report, Prevention and\nMitigation of Vehicular Air\nPollution in Delhi, 2021 will be\ntabled in Delhi Assembly in the\nongoing session. It is among the\n14CG reports thatthe BJPhasac-\ncused the AAP of \u201csuppressing\u201d\nduring its tenure. Former AAP\nChiefMiistrAistinia cad the\n\nBJP\u2019s allegations an attempt to\nmisiead, stating that she had for-\nwarded the reports to the\nAssembly Speakerbeforethe elec-\ntions The BJP retumed to power\nin Delhi after 27 years, ending\nAAP's 10-year runin power.\nAccording to sources, the\nCAG report states that a\nSeptember 2020 audit of 13\nContinuousAmbient Air Quality\nMonitoring Stations (CAAQMS)\nunder the Delhi Pollution\nControl Committee shows that\nCONTINUED ONPAGE 2\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nTust voted 18 doubte engine,\nGrd there 408s uheet\neayyrmont! 7",
+   "ocr_conf": 86.98584905660377,
+   "ocr_low_conf_share": 0.10849056603773585,
+   "headline": "CAG flags 'dodgy pollution OKs, faulty air monitors, parking funds' JATIN ANAND",
+   "deck": "REPORT ON DELHI POLLUTION SET TO BE TABLED IN ASSEMBLY",
+   "byline": "& MALLICA JOSHI; NEW DELHI FEBRUARY 24",
+   "text": "AIR QUALITY monitoring stations located near trees and roads, which possibly skews readings; Pollution Under Control Certificates (PUCC) being issued at the same time for two vehicles, andin some cases within a minute of each other, and no account of money collected in taxes to build parking\n\nfacilities in the city - these are among the findings of a Comptroller and Auditor General (CAG) report on measurestaken tocontol air pollution in Delhi, The indian Express has leamt. The report, Prevention and Mitigation of Vehicular Air Pollution in Delhi, 2021 will be tabled in Delhi Assembly in the ongoing session. It is among the 14CG reports thatthe BJPhasaccused the AAP of \"suppressing\" during its tenure. Former AAP ChiefMiistrAistinia cad the\n\nBJP's allegations an attempt to misiead, stating that she had forwarded the reports to the Assembly Speakerbeforethe elections The BJP retumed to power in Delhi after 27 years, ending AAP's 10-year runin power. According to sources, the CAG report states that a September 2020 audit of 13 ContinuousAmbient Air Quality Monitoring Stations (CAAQMS) under the Delhi Pollution Control Committee shows that\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nTust voted 18 doubte engine, Grd there 408s uheet eayyrmont! 7",
+   "n_words": 196,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3785,
+      2830,
+      4132,
+      2936
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3781,
+      3171,
+      4129,
+      3240
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "INDIA\u2019S EXPORTS\nTOUK ($bn)",
+   "deck_raw": "",
+   "body_raw": "Source Commerceand\nIndustry Ministry *(Apr-Nov)",
+   "ocr_conf": 85.4,
+   "ocr_low_conf_share": 0.0,
+   "headline": "INDIA'S EXPORTS TOUK ($bn)",
+   "deck": "",
+   "byline": "",
+   "text": "Source Commerceand Industry Ministry *(Apr-Nov)",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2910,
+      1680,
+      3250
+     ],
+     [
+      811,
+      3356,
+      1683,
+      3519
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      3286,
+      1685,
+      3340
+     ]
+    ],
+    "body_boxes": [
+     [
+      805,
+      3600,
+      1254,
+      4190
+     ],
+     [
+      1296,
+      3441,
+      1743,
+      4182
+     ]
+    ],
+    "layout_words": 158
+   },
+   "headline_raw": "In 5 yrs since Covid,\nflip in Rlys revenue\nfrom AC, non-AC\nnow just 41%; ACup from 36% to 54%\n= > gers travelling non-AC (excl\nDHEERAJMISHRA =\u2014\u2014_ingsub-urban) accounted f",
+   "deck_raw": "In 2019-20, non-AC contributed 58%,",
+   "body_raw": "INTHE five years since Covid-19\npandemic, the revenues from AC\nclassand allSecond Class tickets\nincluding Sleeper Class (which\noffer a berth), have more or less\nflipped, according tothe analy-\nsis of Budget documents by The\nIndian Express.\nin 2019-20, revenues from\npassengers travelling on AC (AC\nFirst Class, AC 2-Tier, AC 3-Tier\nand AC Chair Car), were just over\none-third or 36 per cent of the\ntotal passenger revenues of Rs\n50,669 crore. That from passen-\n\ngers travelling non-AC (exclud-\ning sub-urban) accounted for a\nbulk of 58 per cent.\nThis trend has almost re-\nversed now.\nIn 2024-25, those travelling\nAC classes in the Railways areex-\npected to contribute 54 percent\nof total passenger revenues of Rs\n80,000 crore. And those in non-\nACclasses(excluding sub-urban)\nare estimated to contribute just\n41 per cent.\nThe non-Ac classes include\nSecond Class Mail] Express,\nwhich run long distances and are\nalso called General lass, Second\nClass Ordinary, which run\nCONTINUEDONPAGE2",
+   "ocr_conf": 89.13924050632912,
+   "ocr_low_conf_share": 0.056962025316455694,
+   "headline": "In 5 yrs since Covid, flip in Rlys revenue from AC, non-AC now just 41%; ACup from 36% to 54% = > gers travelling non-AC (excl DHEERAJMISHRA = - - _ingsub-urban) accounted f",
+   "deck": "In 2019-20, non-AC contributed 58%,",
+   "byline": "",
+   "text": "INTHE five years since Covid-19 pandemic, the revenues from AC classand allSecond Class tickets including Sleeper Class (which offer a berth), have more or less flipped, according tothe analysis of Budget documents by The Indian Express. in 2019-20, revenues from passengers travelling on AC (AC First Class, AC 2-Tier, AC 3-Tier and AC Chair Car), were just over one-third or 36 per cent of the total passenger revenues of Rs 50,669 crore. That from passengers travelling non-AC (excluding sub-urban) accounted for a bulk of 58 per cent. This trend has almost reversed now. In 2024-25, those travelling AC classes in the Railways areexpected to contribute 54 percent of total passenger revenues of Rs 80,000 crore. And those in non-ACclasses(excluding sub-urban) are estimated to contribute just 41 per cent. The non-Ac classes include Second Class Mail] Express, which run long distances and are also called General lass, Second Class Ordinary, which run CONTINUEDONPAGE2",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      3043,
+      763,
+      3096
+     ]
+    ],
+    "deck_boxes": [
+     [
+      370,
+      3106,
+      763,
+      3163
+     ]
+    ],
+    "body_boxes": [
+     [
+      317,
+      3164,
+      763,
+      4182
+     ]
+    ],
+    "layout_words": 119
+   },
+   "headline_raw": "relation/connection with the\nrma naw lidicniitad enliquniic cite\u2019",
+   "deck_raw": "a eo eee\n\u201cEven the disputed religious",
+   "body_raw": "Site is itself situated on public\nland. Itis submitted that the well\nisa public well and is not situ-\nated anywhere inside the\nmosque/disputed religious site.\nIn fact, there is no access to the\nsubject well from inside the\nmosque,\u201d the report said.\nClaims that the Mughal-era\nmosque, the Shahi Jama Masjid,\nwas builtafter destroyingatem-\nple called Hari Mandir, have led\ntoadisputebetween communi-\nties over the religious site\nHearing a plea by the\nmosque management commit-\ntee, the apex court had on\nJanuary 10,2024 stayed theexe-\ncution ofa \u201cnotice\u201d, purportedly\nissued by Sambhal municipal\nauthorities, regarding a well ad-\nJoining the mosque.\nThe mosque committeecon-\ntended that the public poster,\nwhich bore the name of the\nCONTINUED ONPAGE 2",
+   "ocr_conf": 90.99159663865547,
+   "ocr_low_conf_share": 0.025210084033613446,
+   "headline": "relation/connection with the rma naw lidicniitad enliquniic cite'",
+   "deck": "a eo eee \"Even the disputed religious",
+   "byline": "",
+   "text": "Site is itself situated on public land. Itis submitted that the well isa public well and is not situated anywhere inside the mosque/disputed religious site. In fact, there is no access to the subject well from inside the mosque,\" the report said. Claims that the Mughal-era mosque, the Shahi Jama Masjid, was builtafter destroyingatemple called Hari Mandir, have led toadisputebetween communities over the religious site Hearing a plea by the mosque management committee, the apex court had on January 10,2024 stayed theexecution ofa \"notice\", purportedly issued by Sambhal municipal authorities, regarding a well ad-Joining the mosque. The mosque committeecontended that the public poster, which bore the name of the",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      3028,
+      2690,
+      3561
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      3681,
+      2228,
+      4183
+     ],
+     [
+      2274,
+      3947,
+      2282,
+      3982
+     ]
+    ],
+    "layout_words": 56
+   },
+   "headline_raw": "Tunnel rescue ops hit\nnew challenge: Wall\nof mud and water\nNo contact with eight trapped inside",
+   "deck_raw": "",
+   "body_raw": "THE RESCUE operation at the\nSrisailam Left Bank Canal(SLBC)\ntunnel in Telangana\u2019s\nNagarkurnool district, where\neight men have been trapped\nsince Saturday morning, has be-\ncome more difficult with heavy\nseepage of water and mud, res-\ncuers told The indian Express.\nNDRF's 10th Battalion\nCommandant Prasanna Kumar\ntold The Indian Express on\nCONTINUED ON PAGE 2\n\n",
+   "ocr_conf": 91.67857142857143,
+   "ocr_low_conf_share": 0.017857142857142856,
+   "headline": "Tunnel rescue ops hit new challenge: Wall of mud and water No contact with eight trapped inside",
+   "deck": "",
+   "byline": "",
+   "text": "THE RESCUE operation at the Srisailam Left Bank Canal(SLBC) tunnel in Telangana's Nagarkurnool district, where eight men have been trapped since Saturday morning, has become more difficult with heavy seepage of water and mud, rescuers told The indian Express. NDRF's 10th Battalion Commandant Prasanna Kumar told The Indian Express on",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3746,
+      3354,
+      4156,
+      3408
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3742,
+      3451,
+      4139,
+      3669
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "PM TARGETS LALU:\n\u2018THESE JUNGLE RAJ\nWAALE BADMOUTH\nMAHA KUMBH\u2019\nPAGE 5",
+   "ocr_conf": 87.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "PM TARGETS LALU:; 'THESE JUNGLE RAJ; WAALE BADMOUTH; MAHA KUMBH'",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      4254,
+      1244,
+      4451
+     ],
+     [
+      321,
+      4467,
+      1071,
+      4789
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4629,
+      719,
+      4698
+     ],
+     [
+      316,
+      4747,
+      761,
+      5129
+     ],
+     [
+      970,
+      4679,
+      1152,
+      4764
+     ],
+     [
+      856,
+      4827,
+      1209,
+      5091
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "CBSE to start 2 levels of\nScience, Social Science\ne\nin Class 9 next year\nABHINAYAHARIGOVIND =\nNEW DELHI. FEBRUARY 24 s Wh\nSe\nIN A major shift approved byits | # \u00a9 me",
+   "deck_raw": "",
+   "body_raw": "ABHINAYAHARIGOVIND\nNEW DELHI. FEBRUARY 24\n\nIN A major shift approved by its\ngoverning body, the Central\nBoard of Secondary Education\n(CBSE ) will introduce two levels\n\u2014 standard and advanced \u2014 for\nScience and Social Science sub-\njects in Class 9 from next year.\nAsfirstreported by The indian\nExpress on December 4, 2024,\nCONTINUED ONPAGE 2\n\nWhatit\n|@ means\n\nFOR THE board exam,\nthere could bedifferent\nquestion papers forthe\ntwo levels, or a common\nquestion paper with ad-\nditional questions for \u2018ad-\nvanced\u2019 students.",
+   "ocr_conf": 90.03571428571429,
+   "ocr_low_conf_share": 0.023809523809523808,
+   "headline": "CBSE to start 2 levels of Science, Social Science e in Class 9 next year ABHINAYAHARIGOVIND = NEW DELHI. FEBRUARY 24 s Wh Se IN A major shift approved byits # \u00a9 me",
+   "deck": "",
+   "byline": "ABHINAYAHARIGOVIND; NEW DELHI. FEBRUARY 24",
+   "text": "IN A major shift approved by its governing body, the Central Board of Secondary Education (CBSE ) will introduce two levels - standard and advanced - for Science and Social Science subjects in Class 9 from next year. Asfirstreported by The indian Express on December 4, 2024,\n\nWhatit @ means\n\nFOR THE board exam, there could bedifferent question papers forthe two levels, or a common question paper with additional questions for 'advanced' students.",
+   "n_words": 73,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      4255,
+      2649,
+      4349
+     ],
+     [
+      1299,
+      4369,
+      2648,
+      4521
+     ],
+     [
+      1297,
+      4514,
+      1667,
+      4589
+     ],
+     [
+      1796,
+      4633,
+      2155,
+      4741
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1787,
+      4508,
+      2219,
+      4585
+     ],
+     [
+      1832,
+      4717,
+      1983,
+      4774
+     ]
+    ],
+    "body_boxes": [
+     [
+      1295,
+      4669,
+      1738,
+      5138
+     ],
+     [
+      1810,
+      4587,
+      2171,
+      4672
+     ],
+     [
+      1784,
+      4828,
+      2226,
+      5138
+     ],
+     [
+      2274,
+      4510,
+      2716,
+      5131
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "Finance over-rules Rural, calls for\nmerger, budget cuts in 3 key units\nHARIKISHAN SHARMA\nte \u201cxy! with tech\nee support,\n\\- wy, research",
+   "deck_raw": "ShivrajSingh\nba Chouhan;\need",
+   "body_raw": "THE DEPARTMENT of Expen-\nditure (DoE) has asked the\nMinistry of Rural Development\n(MoRD), headed by ShivrajSingh\nChouhan,to absorb two autono-\nmous bodies under its charge\nwhile cutting the annual outlay\nof a third to just a fraction of its\nprevious allotment intheUnion\nBudget \u2014 despite requests from\nthe ministry to reconsider, The\nIndian Express has learnt.\n\nRqyge) \u00a7\u2014 unitsdeal\n\u00a2 7h) Withtech\n\nAccording to records, the DoE\nhas asked for the National Rural\nInfrastructure Development\nAgency (NRIDA) and National\nRural Livelihoods Promotion\nSociety (NRLPS) to be merged\nwith MoRD by March-end, say-\ningit \u201cmaybe difficult\u201d torelease\n\nany more funds for the two au-\ntonomous bodies.\nAt the same time, the DoEhas\nslashed the budget of MoRD's\nNational Institute of Rural\nDevelopment & Panchayati Raj\n(NIRD& PR), whichis based in\nHyderabad and functions mainly\nasa think tank, toRs 1 lakh for the\nfinancial year 2025-26 from\nRs 73.68 crore in revised esti-\nmates of the 2024-25 fiscal and\nRs75.69 crorein 2023-24.\nAmong the four autonomous\nbodies under MoRD, only Bharat\nCONTINUED ON PAGE2",
+   "ocr_conf": 88.32947976878613,
+   "ocr_low_conf_share": 0.06936416184971098,
+   "headline": "Finance over-rules Rural, calls for merger, budget cuts in 3 key units HARIKISHAN SHARMA te \"xy! with tech ee support, \\- wy, research",
+   "deck": "ShivrajSingh ba Chouhan; eed",
+   "byline": "",
+   "text": "THE DEPARTMENT of Expenditure (DoE) has asked the Ministry of Rural Development (MoRD), headed by ShivrajSingh Chouhan,to absorb two autonomous bodies under its charge while cutting the annual outlay of a third to just a fraction of its previous allotment intheUnion Budget - despite requests from the ministry to reconsider, The Indian Express has learnt.\n\nRqyge) \u00a7 - unitsdeal \u00a2 7h) Withtech\n\nAccording to records, the DoE has asked for the National Rural Infrastructure Development Agency (NRIDA) and National Rural Livelihoods Promotion Society (NRLPS) to be merged with MoRD by March-end, sayingit \"maybe difficult\" torelease\n\nany more funds for the two autonomous bodies. At the same time, the DoEhas slashed the budget of MoRD's National Institute of Rural Development & Panchayati Raj (NIRD& PR), whichis based in Hyderabad and functions mainly asa think tank, toRs 1 lakh for the financial year 2025-26 from Rs 73.68 crore in revised estimates of the 2024-25 fiscal and Among the four autonomous bodies under MoRD, only Bharat",
+   "n_words": 163,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5264,
+      2659,
+      5502
+     ],
+     [
+      321,
+      5403,
+      682,
+      5477
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1343,
+      5579,
+      1677,
+      5622
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5541,
+      499,
+      5615
+     ],
+     [
+      319,
+      5737,
+      690,
+      5806
+     ],
+     [
+      318,
+      5856,
+      760,
+      5970
+     ],
+     [
+      804,
+      5538,
+      1250,
+      6167
+     ],
+     [
+      1339,
+      5655,
+      1644,
+      6119
+     ],
+     [
+      1783,
+      5539,
+      2226,
+      6128
+     ],
+     [
+      2273,
+      5540,
+      2715,
+      6161
+     ]
+    ],
+    "layout_words": 288
+   },
+   "headline_raw": "Faith healer\u2019s victim opens up about decades-old\ntrauma: \u201cTell no one... the djinn will destroy you\ntrauma:",
+   "deck_raw": "QO YRS TO JUSTICE",
+   "body_raw": "PAGE1\nANCHOR\n\nBASHAARAT MASOOD\nSRINAGAR, FEBRUARY 24\n\nWHAT HE remembers vividly is\ntheall-consuming darkness that\nsurrounded him on the evening\n\nhealer)\u2019 Ajaz Ahmad Sheikh with\narosaryin hand \u2014 \u201cmesmerising\nand pious-looking\u201d.\n\u201cIt was a dark room, and the\ndarkest night of mylife,\u201d he says,\nrecounting the horrors of that\nnight nearly 23 years ago. Ashe\nsat silently in awe and fear, he\nwasallegedly given instructions:\n\u201cHe said: \u2018I will summon the\ndjinn now but let me explain to\nyou the process first. I will put\nmyhand on your head and when\nI jerk it three times, look down,\ndon't try tolookup, the fire in his\n(djinn\u2019s) eye may bum you'.\u201d\n\nFirst complaint\nMarch 2,2016\nChargesheet\nJune 16, 2017\nFraming of charges\nOctober 10, 2017\nConviction\nFebruary 17, 2025\nSentencing\nFebruary 18,2025\n\nNow 37, he was one of the\nprosecution witnesses in the\ncase and allegedly one of theear-\nliest victimsof Sheikh, who was\nsentenced to 14 yearsofrigorous\nimprisonment on February 17\nfor rape. The conviction, by a\ncourtin Kashmitr\u2019s Sopore, in two\ncasesof rape came eight years af-\nter one of the victims broke his\nsilenceand recounted hisordeal\nto his father. The court had also\nordered police to file separate\ncases for other victims \u2014 includ-\ning his.\n\nlegedly began in 2002 with the\nfinancial losseshis matemal un-\ncle suffered.\n\u201cMy uncle had gone to pray\ninavillage mosque when he saw\nthe faith healer and was imme-\ndiately taken by him \u2014 his per-\nsonality, his sense of dressing, his\nsmile and his manners.\nSomeone told him the pir could\nhelp to find a solution to his\nproblems,\u201d he says.\nSome days later, his uncle\nheaded to Sheikh's residence in\navillage on the foothills of alow\nCONTINUEDON PAGE2",
+   "ocr_conf": 87.23958333333333,
+   "ocr_low_conf_share": 0.07291666666666667,
+   "headline": "Faith healer's victim opens up about decades-old trauma: \"Tell no one... the djinn will destroy you trauma:",
+   "deck": "QO YRS TO JUSTICE",
+   "byline": "ANCHOR; BASHAARAT MASOOD; SRINAGAR, FEBRUARY 24",
+   "text": "WHAT HE remembers vividly is theall-consuming darkness that surrounded him on the evening\n\nhealer)' Ajaz Ahmad Sheikh with arosaryin hand - \"mesmerising and pious-looking\". \"It was a dark room, and the darkest night of mylife,\" he says, recounting the horrors of that night nearly 23 years ago. Ashe sat silently in awe and fear, he wasallegedly given instructions: \"He said: 'I will summon the djinn now but let me explain to you the process first. I will put myhand on your head and when I jerk it three times, look down, don't try tolookup, the fire in his (djinn's) eye may bum you'.\"\n\nFirst complaint Chargesheet Framing of charges Conviction Sentencing February 18,2025\n\nNow 37, he was one of the prosecution witnesses in the case and allegedly one of theearliest victimsof Sheikh, who was sentenced to 14 yearsofrigorous imprisonment on February 17 for rape. The conviction, by a courtin Kashmitr's Sopore, in two casesof rape came eight years after one of the victims broke his silenceand recounted hisordeal to his father. The court had also ordered police to file separate cases for other victims - including his.\n\nlegedly began in 2002 with the financial losseshis matemal uncle suffered. \"My uncle had gone to pray inavillage mosque when he saw the faith healer and was immediately taken by him - his personality, his sense of dressing, his smile and his manners. Someone told him the pir could help to find a solution to his problems,\" he says. Some days later, his uncle headed to Sheikh's residence in avillage on the foothills of alow CONTINUEDON PAGE2",
+   "n_words": 264,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5970,
+      759,
+      6023
+     ]
+    ],
+    "deck_boxes": [
+     [
+      318,
+      6035,
+      760,
+      6092
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      6092,
+      760,
+      6166
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "that he, then 14, stepped into a\nPies hs lit ena in nanrth Yack w'c",
+   "deck_raw": "eee ey cen heen sn sense en eee ie\nSopore. A single oil lantem hung",
+   "body_raw": "in oneofits corners and under it\nallegedly sat the \u201cpir baba (faith",
+   "ocr_conf": 91.41666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "that he, then 14, stepped into a Pies hs lit ena in nanrth Yack w'c",
+   "deck": "eee ey cen heen sn sense en eee ie Sopore. A single oil lantem hung",
+   "byline": "",
+   "text": "in oneofits corners and under it allegedly sat the \"pir baba (faith",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 17.3,
+ "flags": []
+}

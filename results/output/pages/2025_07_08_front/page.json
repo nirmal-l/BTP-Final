@@ -1,0 +1,798 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_08_front",
+ "source_file": "2025-07-08_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-08_front.png",
+ "date": "2025-07-08",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 534,
+  "mean_line_conf": 90.9464821044212,
+  "orphan_words": 20,
+  "body_words_total": 2132
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2766,
+      788,
+      4165,
+      1330
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2766,
+      697,
+      4160,
+      754
+     ]
+    ],
+    "body_boxes": [
+     [
+      2765,
+      1372,
+      3182,
+      1714
+     ],
+     [
+      2765,
+      1779,
+      3189,
+      1849
+     ],
+     [
+      2762,
+      1900,
+      3207,
+      3470
+     ],
+     [
+      2764,
+      3691,
+      2993,
+      3723
+     ]
+    ],
+    "layout_words": 204
+   },
+   "headline_raw": "SC to hear petitions\nagainst Bihar electoral\nroll revision on July 10",
+   "deck_raw": "CONG, OTHER PARTIES AMONG PETITIONERS",
+   "body_raw": "Impossible task,\nsays Sibal; 8 cr\nelectorate, 4 cr\nfor enumeration,\nsays Singhvi\n\nEXPRESS NEWS SERVICE\nNEW DELHI, JULY 7\n\nTHE SUPREME Court on Monday\nagreed to hear on July 10a batch\nof petitions challenging the spe-\ncial intensive revision ofelectoral\nrolls ordered by the Election\nCommission in poll-bound Bihar.\nThe petitions were men-\ntioned before abenchof Justices\nSudhanshu Dhulia and Joymalya\nBagchi by senior advocates Kapil\nSibal, A M Singhvi, Gopal\nSankaranarayanan and Shadan\nFarasat \u2014 all appearing for differ-\nent petitioners.\nSibal termed the exercise as\nan \u201cimpossible task\u201d.\n\u201cEight crore is the electorate\nand four crore have to do the\nenumeration,\u201d said Singhvi.\n\u201cThey won't accept Aadhaar\ncard, voter card,\u201d said\nSankaranarayanan.\nThe petitioners argued that\nthose who don't furnish the re-\nquired documents within the al-\nlotted time would be deleted\nfrom the electoral rolls, even if\nthey have voted earlier. \u201cThe\ntimeline is so strict, and if you\ndon't give by July 25, you willbe\nout,\u201d said Singhvi.\nJustice Dhulia, however,\npointed out that the timeline\n\u201cdoesn\u2019t havesanctity as elections\nhave not been notified as yet\u201d.\nAgreeing to their request for\nan urgent hearing, the bench\npermitted the petitioners to give\nadvance notice of their petitions\ntothe EC.\n\nEXPLAINED",
+   "ocr_conf": 91.17156862745098,
+   "ocr_low_conf_share": 0.029411764705882353,
+   "headline": "SC to hear petitions against Bihar electoral roll revision on July 10",
+   "deck": "CONG, OTHER PARTIES AMONG PETITIONERS",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, JULY 7",
+   "text": "Impossible task, says Sibal; 8 cr electorate, 4 cr for enumeration, says Singhvi\n\nTHE SUPREME Court on Monday agreed to hear on July 10a batch of petitions challenging the special intensive revision ofelectoral rolls ordered by the Election Commission in poll-bound Bihar. The petitions were mentioned before abenchof Justices Sudhanshu Dhulia and Joymalya Bagchi by senior advocates Kapil Sibal, A M Singhvi, Gopal Sankaranarayanan and Shadan Farasat - all appearing for different petitioners. Sibal termed the exercise as an \"impossible task\". \"Eight crore is the electorate and four crore have to do the enumeration,\" said Singhvi. \"They won't accept Aadhaar card, voter card,\" said Sankaranarayanan. The petitioners argued that those who don't furnish the required documents within the allotted time would be deleted from the electoral rolls, even if they have voted earlier. \"The timeline is so strict, and if you don't give by July 25, you willbe out,\" said Singhvi. Justice Dhulia, however, pointed out that the timeline \"doesn't havesanctity as elections have not been notified as yet\". Agreeing to their request for an urgent hearing, the bench permitted the petitioners to give advance notice of their petitions tothe EC.\n\nEXPLAINED",
+   "n_words": 192,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      631,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1472,
+      565,
+      1504
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE WORLD",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "THE WORLD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      1919,
+      2712,
+      2507
+     ],
+     [
+      808,
+      2200,
+      1638,
+      2332
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      1844,
+      2541,
+      1878
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      2411,
+      1155,
+      2481
+     ],
+     [
+      806,
+      2530,
+      1251,
+      3234
+     ],
+     [
+      1296,
+      2373,
+      1739,
+      3231
+     ]
+    ],
+    "layout_words": 218
+   },
+   "headline_raw": "Trump unveils 25% tariffs on South Korea\nand Japan; India eyes extended deadline\nNew tariffs to start from August 1; AS Trump warns BRICS\nTrump warns against raising rates China Russia say group \u2018\nNEWDELHIULY? rhe rate for South Korea is doesn\u2019t target anyone\nNew tariffs to start from August 1;\nTrump warns against raising rates",
+   "deck_raw": "U.S. TO ANNOUNCE MULTIPLE DEALS BEFORE TARIFF PAUSE RUNS OUT TOMORROW",
+   "body_raw": "RAVIDUTTA MISHRA\nNEW DELHI, JULY7\n\nTWODAYS before the reciprocal\ntariff pause runs out on July 9,\nPresident DonaldTrump said on\nMonday that the US would im-\npose 25% tariffs on imports from\nJapan and South Korea begin-\nning August 1 ashe unveiled the\nfirst two of what he has said will\nbe a wave of letters to trading\npartners outlining the new levies\nthey face.\n\u201cIf for any reason you decide\nto raise your tariffs, then, what-\never the number you choose to\nraise them by, will be added onto\nthe 25% that we charge,\u201d Trump\nsaid in letters to the leaders of\nthe two Asian countries, which\n\nhe posted on his Truth Social\nplatform.\nThe rate for South Korea is\nthe same that Trump initially an-\nnounced on April 2, while the\nrate for Japan is 1 point higher\nthan first announced. Trump\ncappedall of the so-called recip-\nrocal tariffs at 10% until July 9 to\nallow for negotiations. Only two\nagreements have so far been\nreached, with Britain and\nVietnam.\nMeanwhile, amid uncertainty\nover the conclusion of aninterim\ntrade deal with India, the US has\nindicated that it may allow nego-\ntiations to continue until an ex-\ntended deadline of August 1.\nIndian officials have indi-\ncated that while efforts are still\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.6559633027523,
+   "ocr_low_conf_share": 0.009174311926605505,
+   "headline": "Trump unveils 25% tariffs on South Korea and Japan; India eyes extended deadline New tariffs to start from August 1; AS Trump warns BRICS Trump warns against raising rates China Russia say group ' NEWDELHIULY? rhe rate for South Korea is doesn't target anyone New tariffs to start from August 1; Trump warns against raising rates",
+   "deck": "U.S. TO ANNOUNCE MULTIPLE DEALS BEFORE TARIFF PAUSE RUNS OUT TOMORROW",
+   "byline": "RAVIDUTTA MISHRA; NEW DELHI, JULY7",
+   "text": "TWODAYS before the reciprocal tariff pause runs out on July 9, President DonaldTrump said on Monday that the US would impose 25% tariffs on imports from Japan and South Korea beginning August 1 ashe unveiled the first two of what he has said will be a wave of letters to trading partners outlining the new levies they face. \"If for any reason you decide to raise your tariffs, then, whatever the number you choose to raise them by, will be added onto the 25% that we charge,\" Trump said in letters to the leaders of the two Asian countries, which\n\nhe posted on his Truth Social platform. The rate for South Korea is the same that Trump initially announced on April 2, while the rate for Japan is 1 point higher than first announced. Trump cappedall of the so-called reciprocal tariffs at 10% until July 9 to allow for negotiations. Only two agreements have so far been reached, with Britain and Vietnam. Meanwhile, amid uncertainty over the conclusion of aninterim trade deal with India, the US has indicated that it may allow negotiations to continue until an extended deadline of August 1. Indian officials have indicated that while efforts are still",
+   "n_words": 201,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2029,
+      758,
+      2245
+     ]
+    ],
+    "layout_words": 13,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "HOURS AFTER BEING\nSACKED, RUSSIAN\nMINISTER FOUND\nDEAD WITH GUNSHOT\nWOUND Pace 10",
+   "ocr_conf": 91.38461538461539,
+   "ocr_low_conf_share": 0.07692307692307693,
+   "headline": "",
+   "deck": "",
+   "byline": "HOURS AFTER BEING; SACKED, RUSSIAN; MINISTER FOUND; DEAD WITH GUNSHOT",
+   "text": "WOUND Pace 10",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      2158,
+      4174,
+      2481
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      2520,
+      4165,
+      2637
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      2730,
+      3668,
+      2837
+     ],
+     [
+      3251,
+      2888,
+      3693,
+      3517
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "Domicile certificates\nmost in demand \u2014 but\nlakhs pending in a week",
+   "deck_raw": "The irony: Aadhaar invalid as voter ID\nbut needed for domicile certificate",
+   "body_raw": "SANTOSH SINGH\nPATNA, MADHUBANI, PURNIA,\nJULY 7\n\nAS VOTERS scramble to put to-\ngether their papers for the\nElection Commission's Special\nIntensive Revision(SIR) drive for\nnew Bihar electoral rolls, the\ndocument most in demand is\nNo.6 on its listof 11 \u2014 adomicile\nor residential certificate.\nOne reason for this is that ap-\nplicants are largely being allowed\nto submit just Aadhaar \u2014 the\nmost commonly available docu-\nment \u2014 as proof of residence to\ngeta domicile certificate.\nIronically, Aadhaar itself does\nnot figure in the list of 11 docu-",
+   "ocr_conf": 87.96629213483146,
+   "ocr_low_conf_share": 0.0898876404494382,
+   "headline": "Domicile certificates most in demand - but lakhs pending in a week",
+   "deck": "The irony: Aadhaar invalid as voter ID but needed for domicile certificate",
+   "byline": "SANTOSH SINGH; PATNA, MADHUBANI, PURNIA,; JULY 7",
+   "text": "AS VOTERS scramble to put together their papers for the Election Commission's Special Intensive Revision(SIR) drive for new Bihar electoral rolls, the document most in demand is No.6 on its listof 11 - adomicile or residential certificate. One reason for this is that applicants are largely being allowed to submit just Aadhaar - the most commonly available document - as proof of residence to geta domicile certificate. Ironically, Aadhaar itself does not figure in the list of 11 docu-",
+   "n_words": 79,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2355,
+      743,
+      2759
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      562,
+      2964,
+      737,
+      3072
+     ],
+     [
+      319,
+      3163,
+      747,
+      3233
+     ],
+     [
+      319,
+      3281,
+      763,
+      4060
+     ],
+     [
+      318,
+      4073,
+      759,
+      5090
+     ],
+     [
+      317,
+      5226,
+      500,
+      5299
+     ],
+     [
+      317,
+      5418,
+      584,
+      5488
+     ],
+     [
+      316,
+      5537,
+      758,
+      6159
+     ]
+    ],
+    "layout_words": 338
+   },
+   "headline_raw": "Targeted by\nthieves thrice\nina month,\nCong MLA hits\nout at police",
+   "deck_raw": "",
+   "body_raw": "DausaMLA\nDeen Dayal\nBairwa\n\nEXPRESS NEWS SERVICE\nJAIPUR, JULY 7\n\nIT'S NOT every day that thieves\nrepeatedly target an individual.\nItis even rarer when the person\nisa sitting MLA.\nThe Congress MLA from\nDausa, Deen Dayal Bairwa, first\nhad his phone stolen on June 11\nat a public programme, then a\nmotorcycle was stolen from his\nDausa residence, and now, a\ntractor trolley has been stolen\novernight from his home, he said\nMonday.\nBairwa was allegedly de-\nprived of his mobile phone at a\nprayer meeting in Dausa to mark\nthe 25th death anniversary of\nthe late Rajesh Pilot, the former\nunion minister and Sachin Pilot's\nfather.\n\nTalking to The Indian Express,\nBairwa said, \u201cIt is a big deal that\nthe thieves are committing theft\nin this manner at an MLA\u2019s\nhouse. It raises questions about\nthe police and breaks trust in\nthem. How can you protect the\ncommon man if this is happen-\ning with an MLA?\u201d\nHe said that when the motor-\ncycle was stolen, the front cam-\nera of his residence wasn't work-\ning, and the other camera\ncouldn't capture the view. And\nlast night, the camera had been\nremoved to allow construction\nwork there, \u201cBut even a camera\ncannot stop them because the\nthieves can simply cover their\nfaces,\u201d he said.\n\u201cThis is unheard of; not even\na nail had been stolen from me\nbefore this. And now these three\nback-to-back thefts have oc-\ncurred. Police should investigate\nCONTINUED ON PAGE 2\n\nPAGE 1\nANCHOR\n\nADITIRAJA\nVADODARA, JULY 7\n\nAT THE Vaghela residence in\nNardipur village of Gujarat\u2019s\nGandhinagar district, the wait for\namidnight call is adaily ritual for\nBalwantsinh and his wife Neela,\nboth in their 40s, since February\n3,2023 \u2014 the day they last spoke\nto their son Dhruvraj.\nDhruvraj, then 20, and eight\nother Gujaratis were all set to\nboard a small vessel from the\nCaribbeanisland of Dominica to\nAntigua, another large island in\nthe region, before setting sail for\nthe United States \u201cto live the\nAmerican dream\u201d. None of the",
+   "ocr_conf": 92.88461538461539,
+   "ocr_low_conf_share": 0.01775147928994083,
+   "headline": "Targeted by thieves thrice ina month, Cong MLA hits out at police",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; JAIPUR, JULY 7",
+   "text": "DausaMLA Deen Dayal Bairwa\n\nIT'S NOT every day that thieves repeatedly target an individual. Itis even rarer when the person isa sitting MLA. The Congress MLA from Dausa, Deen Dayal Bairwa, first had his phone stolen on June 11 at a public programme, then a motorcycle was stolen from his Dausa residence, and now, a tractor trolley has been stolen overnight from his home, he said Monday. Bairwa was allegedly deprived of his mobile phone at a prayer meeting in Dausa to mark the 25th death anniversary of the late Rajesh Pilot, the former union minister and Sachin Pilot's father.\n\nTalking to The Indian Express, Bairwa said, \"It is a big deal that the thieves are committing theft in this manner at an MLA's house. It raises questions about the police and breaks trust in them. How can you protect the common man if this is happening with an MLA?\" He said that when the motorcycle was stolen, the front camera of his residence wasn't working, and the other camera couldn't capture the view. And last night, the camera had been removed to allow construction work there, \"But even a camera cannot stop them because the thieves can simply cover their faces,\" he said. \"This is unheard of; not even a nail had been stolen from me before this. And now these three back-to-back thefts have occurred. Police should investigate\n\nANCHOR\n\nADITIRAJA VADODARA, JULY 7\n\nAT THE Vaghela residence in Nardipur village of Gujarat's Gandhinagar district, the wait for amidnight call is adaily ritual for Balwantsinh and his wife Neela, both in their 40s, since February 3,2023 - the day they last spoke to their son Dhruvraj. Dhruvraj, then 20, and eight other Gujaratis were all set to board a small vessel from the Caribbeanisland of Dominica to Antigua, another large island in the region, before setting sail for the United States \"to live the American dream\". None of the",
+   "n_words": 320,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      2528,
+      2663,
+      2659
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2729,
+      2062,
+      2799
+     ],
+     [
+      1785,
+      2848,
+      2227,
+      3238
+     ],
+     [
+      2273,
+      2690,
+      2715,
+      3232
+     ],
+     [
+      2433,
+      3406,
+      2609,
+      3490
+     ],
+     [
+      2309,
+      3560,
+      2676,
+      4148
+     ]
+    ],
+    "layout_words": 175
+   },
+   "headline_raw": "Extra 10% tariff for anti-US policies,\nsays Trump; no response from India",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, JULY 7\n\nAS PRESIDENT Donald Trump\nwarned that the United States\nwould impose an additional 10\nper cent tariff on any country\nwhichaligns itself with the \u201canti-\nAmerican policies of BRICS\u201d, at\nleast three members of the\ngrouping \u2014 China, Russia and\nSouth Africa \u2014 responded\nsharply on Monday.\n\nThere was no response from\nNew Delhi on Trump's remarks.\nTrump\u2019scomments came af-\nter the BRICS declaration on\nSunday, in an oblique reference\ntothe US, raised \u201cserious con-\ncerns\u201d about the rise in tariffs,\nwhich, it said, were \u201cinconsistent\nwith WTO (World Trade\nOrganisation) rules\u201d and\n\u201cthreaten to reduce global trade,\ndisrupt global supply chains and\nintroduce uncertainty.\u201d\nCONTINUED ON PAGE 2\n\nArea of\n@ thrust\n\nGIVEN THAT the nature of\nwarfare is changing, an\narea where there is likely\nto be a greater thrust\npost-Op Sindoor are\nstandoff weapons, includ-\ning missiles, drones. The\ngovernment is also work-\ning to update its Defence\nAcquisition Procedure to\nstreamline the procure-\nment process, elicit\ngreater industry partici-\npation, and compress ac-\nquisition timelines.",
+   "ocr_conf": 90.21714285714286,
+   "ocr_low_conf_share": 0.05142857142857143,
+   "headline": "Extra 10% tariff for anti-US policies, says Trump; no response from India",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, JULY 7",
+   "text": "AS PRESIDENT Donald Trump warned that the United States would impose an additional 10 per cent tariff on any country whichaligns itself with the \"anti-American policies of BRICS\", at least three members of the grouping - China, Russia and South Africa - responded sharply on Monday.\n\nThere was no response from New Delhi on Trump's remarks. Trump'scomments came after the BRICS declaration on Sunday, in an oblique reference tothe US, raised \"serious concerns\" about the rise in tariffs, which, it said, were \"inconsistent with WTO (World Trade Organisation) rules\" and \"threaten to reduce global trade, disrupt global supply chains and introduce uncertainty.\"\n\nArea of @ thrust\n\nGIVEN THAT the nature of warfare is changing, an area where there is likely to be a greater thrust post-Op Sindoor are standoff weapons, including missiles, drones. The government is also working to update its Defence Acquisition Procedure to streamline the procurement process, elicit greater industry participation, and compress acquisition timelines.",
+   "n_words": 157,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3785,
+      2985,
+      4131,
+      3163
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3836,
+      2913,
+      4085,
+      2967
+     ]
+    ],
+    "body_boxes": [
+     [
+      3804,
+      3163,
+      4133,
+      3205
+     ],
+     [
+      3740,
+      3363,
+      4180,
+      3478
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "NOT\nCOUNT INBIHAR",
+   "deck_raw": "WHAT WILL",
+   "body_raw": "ANEXPRESS SERIES |\n\nments the EC has specified to\nprove date of birth / residence as\npart of the SIR. OO",
+   "ocr_conf": 81.71428571428571,
+   "ocr_low_conf_share": 0.09523809523809523,
+   "headline": "NOT COUNT INBIHAR",
+   "deck": "WHAT WILL",
+   "byline": "ANEXPRESS SERIES",
+   "text": "ments the EC has specified to prove date of birth / residence as part of the SIR. OO",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3304,
+      2219,
+      3513
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      3598,
+      1160,
+      3708
+     ],
+     [
+      807,
+      3758,
+      1249,
+      4188
+     ]
+    ],
+    "layout_words": 62
+   },
+   "headline_raw": "Post Op Sindoor, pvt sector may see\nbig push for defence manufacturing",
+   "deck_raw": "",
+   "body_raw": "AANCHAL MAGAZINE\n& ANIL SASI\nNEW DELHI, JULY7\n\nWITH A specific thrust on the\nneed to \u201cleverage the buying\npower\u201d of the government, au-\nthorities are learnt to have\nreached out to industry bodies\nand multiple private defence\nmanufacturing companies to\nelicit active participation in de-\nfence manufacturing. There is\nlikely to be a greater push for en-\nhanced indigenous arms manu-",
+   "ocr_conf": 94.29032258064517,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Post Op Sindoor, pvt sector may see big push for defence manufacturing",
+   "deck": "",
+   "byline": "AANCHAL MAGAZINE; & ANIL SASI; NEW DELHI, JULY7",
+   "text": "WITH A specific thrust on the need to \"leverage the buying power\" of the government, authorities are learnt to have reached out to industry bodies and multiple private defence manufacturing companies to elicit active participation in defence manufacturing. There is likely to be a greater push for enhanced indigenous arms manu-",
+   "n_words": 51,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      3416,
+      2208,
+      3515
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      3559,
+      1738,
+      4140
+     ],
+     [
+      1343,
+      4154,
+      1737,
+      4188
+     ],
+     [
+      1784,
+      3560,
+      2226,
+      4182
+     ]
+    ],
+    "layout_words": 150
+   },
+   "headline_raw": "defence manufacturing",
+   "deck_raw": "",
+   "body_raw": "facturing of items such as ar-\ntillery guns, missiles, loitering\nand precision-guided munitions,\nand military-grade drones in the\nbackdrop of Operation Sindoor.\nThe government is pivoting\ntowards a leaner equipment pro-\ncurement model that involves\nleveraging the private sectortoa\nmuch greater extent, giving key\nplayers visibility in terms of fu-\nture orders and taking recourse\nto provisions suchas deemed li-\ncensing to tide over procedural\nhurdles.\n\nSpecific measures on the\n\nanvil include plans to compress\nprocurement schedules to\naround two years from an aver-\nage of about six years currently\nfor big orders, as was done for the\nRafale Marine aircraft procured\nby the Navy, a top government\nofficial told The Indian Express.\nA model involving research\nand development (R&D) by pub-\nlic sector undertakings (PSUs),\nsometimes jointly with the pri-\nvate sector players, and the pro-\nduction then being entrusted to\nthe private company, as was\nCONTINUEDON PAGE 2",
+   "ocr_conf": 93.88,
+   "ocr_low_conf_share": 0.013333333333333334,
+   "headline": "defence manufacturing",
+   "deck": "",
+   "byline": "",
+   "text": "facturing of items such as artillery guns, missiles, loitering and precision-guided munitions, and military-grade drones in the backdrop of Operation Sindoor. The government is pivoting towards a leaner equipment procurement model that involves leveraging the private sectortoa much greater extent, giving key players visibility in terms of future orders and taking recourse to provisions suchas deemed licensing to tide over procedural hurdles.\n\nSpecific measures on the\n\nanvil include plans to compress procurement schedules to around two years from an average of about six years currently for big orders, as was done for the Rafale Marine aircraft procured by the Navy, a top government official told The Indian Express. A model involving research and development (R&D) by public sector undertakings (PSUs), sometimes jointly with the private sector players, and the production then being entrusted to the private company, as was CONTINUEDON PAGE 2",
+   "n_words": 142,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      3666,
+      4175,
+      4113
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      4195,
+      3562,
+      4265
+     ],
+     [
+      3247,
+      4313,
+      3691,
+      4704
+     ],
+     [
+      3250,
+      4709,
+      3691,
+      5100
+     ],
+     [
+      3980,
+      4233,
+      4167,
+      4380
+     ],
+     [
+      3739,
+      4471,
+      4178,
+      4540
+     ],
+     [
+      3737,
+      4552,
+      4179,
+      5093
+     ]
+    ],
+    "layout_words": 182
+   },
+   "headline_raw": "UP minister: Art 370 to\nRam Temple, BJP can\nresolve all, why not SC\nquota to Nishads?",
+   "deck_raw": "",
+   "body_raw": "MAULSHREE SETH\nLUCKNOW, JULY 7\n\nWHEN THE BJP can resolve all\ndifficult issues \u2014be it Article 370\nor building the Ram Temple in\nAyodhya \u2014 what is holding it\nback from providing Scheduled\nCaste reservation to the Nishad\ncommunity, the ruling party's\nally and Uttar Pradesh Minister\nSanjay Nishad told The Indian\nExpress.\n\nThe state Fisheries Minister,\nwho is also the NISHAD Party\nchief, said the BJP should fulfil\nthe long-pending demand soon\nor it may face \u201cdifficulties\u201d in the\n2027 Assembly elections in Uttar\nPradesh.\nThe Nishads, a boating and\nfishing community, arecurrently\ncounted among the Other\n\nUP Fisheries\nMinister\nSanjay\nNishad\n\nBackward Classes (OBCs) in the\nstate.\n\n\u201cThe thing is that the BJP has\nfound solutions to all difficult is-\nsues, be it Article 370 or 10 per\ncent upper caste reservation [for\nthe economically backward in\ngeneral category] even when it\nwas not promised in the\nConstitution, women reservation\nand even on the topic of faithi.e.\nconstruction of Ram Temple, so\nwhat is keeping it from fulfilling\nits promise to the fishermen\ncommunity,\u201d said Nishad.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.56043956043956,
+   "ocr_low_conf_share": 0.038461538461538464,
+   "headline": "UP minister: Art 370 to Ram Temple, BJP can resolve all, why not SC quota to Nishads?",
+   "deck": "",
+   "byline": "MAULSHREE SETH; LUCKNOW, JULY 7",
+   "text": "WHEN THE BJP can resolve all difficult issues - be it Article 370 or building the Ram Temple in Ayodhya - what is holding it back from providing Scheduled Caste reservation to the Nishad community, the ruling party's ally and Uttar Pradesh Minister Sanjay Nishad told The Indian Express.\n\nThe state Fisheries Minister, who is also the NISHAD Party chief, said the BJP should fulfil the long-pending demand soon or it may face \"difficulties\" in the 2027 Assembly elections in Uttar Pradesh. The Nishads, a boating and fishing community, arecurrently counted among the Other\n\nUP Fisheries Minister Sanjay Nishad\n\nBackward Classes (OBCs) in the state.\n\n\"The thing is that the BJP has found solutions to all difficult issues, be it Article 370 or 10 per cent upper caste reservation [for the economically backward in general category] even when it was not promised in the Constitution, women reservation and even on the topic of faithi.e. construction of Ram Temple, so what is keeping it from fulfilling its promise to the fishermen community,\" said Nishad.",
+   "n_words": 173,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      806,
+      4258,
+      1156,
+      4315
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4637,
+      1206,
+      4807
+     ],
+     [
+      808,
+      4842,
+      1188,
+      5052
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "GOVT & POLITICS",
+   "deck_raw": "",
+   "body_raw": "AS THACKERAYS\nREUNITE, CONG INA\nBIND, FAULTLINES\nDEEPEN IN MVA\n\nRAHUL QUESTIONS\nGOVT SILENCE ON\n\u2018MANIPULATION\u2019\nBY JANE STREET\nPAGES",
+   "ocr_conf": 93.1,
+   "ocr_low_conf_share": 0.0,
+   "headline": "GOVT & POLITICS",
+   "deck": "",
+   "byline": "AS THACKERAYS; REUNITE, CONG INA; BIND, FAULTLINES; DEEPEN IN MVA; RAHUL QUESTIONS; GOVT SILENCE ON; 'MANIPULATION'; BY JANE STREET; PAGES",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      4254,
+      3187,
+      4454
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2270,
+      4503,
+      2713,
+      4620
+     ],
+     [
+      2271,
+      4669,
+      2713,
+      5092
+     ],
+     [
+      2760,
+      4511,
+      3202,
+      5059
+     ]
+    ],
+    "layout_words": 137
+   },
+   "headline_raw": "RSS says working to restore peace in Manipur:\n\u2018Positive direction... solution will be found\u2019",
+   "deck_raw": "",
+   "body_raw": "DEEPTIMAN TIWARY\nNEW DELHI, JULY 7\n\nAS THE Union government en-\ngages with Manipur\u2019s Meitei and\nKuki groups in Delhi, the RSS on\nMonday said it was involved in\nbringing the two communities\ntogether and that a solution to\nthe ongoing ethnic conflictinthe\nstate \u201cwill be found\u201d.\nRSS publicity in-charge Sunil\nAmbekar said the Sangh had es-\ntablished communication with\n\nboth Meiteis and Kukis.\u201cWhen\nsituations worsen in a region,\nthey do not become alright in a\nday. But compared to last year,\nthere is a modicum of peace (in\nManipur). The kind of commu-\nnication that is taking place on\neither side (of the divide), we be-\nlieve asolution will be found,\u201d he\nsaid at a press conference here\nfollowing the conclusion of the\nSangh\u2019s Prant Pracharak Baithak,\nwhich was held from Friday to\nSunday.",
+   "ocr_conf": 93.16296296296296,
+   "ocr_low_conf_share": 0.007407407407407408,
+   "headline": "RSS says working to restore peace in Manipur: 'Positive direction... solution will be found'",
+   "deck": "",
+   "byline": "DEEPTIMAN TIWARY; NEW DELHI, JULY 7",
+   "text": "AS THE Union government engages with Manipur's Meitei and Kuki groups in Delhi, the RSS on Monday said it was involved in bringing the two communities together and that a solution to the ongoing ethnic conflictinthe state \"will be found\". RSS publicity in-charge Sunil Ambekar said the Sangh had established communication with\n\nboth Meiteis and Kukis.\"When situations worsen in a region, they do not become alright in a day. But compared to last year, there is a modicum of peace (in Manipur). The kind of communication that is taking place on either side (of the divide), we believe asolution will be found,\" he said at a press conference here following the conclusion of the Sangh's Prant Pracharak Baithak, which was held from Friday to Sunday.",
+   "n_words": 125,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      568,
+      5222,
+      4167,
+      5343
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      5380,
+      1248,
+      6166
+     ],
+     [
+      1293,
+      5380,
+      1738,
+      5968
+     ],
+     [
+      1294,
+      5973,
+      1736,
+      6167
+     ],
+     [
+      2759,
+      5382,
+      3201,
+      6168
+     ],
+     [
+      3249,
+      5382,
+      3692,
+      5962
+     ],
+     [
+      3250,
+      5974,
+      3689,
+      6168
+     ],
+     [
+      3736,
+      5382,
+      4178,
+      6162
+     ]
+    ],
+    "layout_words": 486
+   },
+   "headline_raw": "9 from Gujarat disappeared in Caribbean in 2023, families await answers",
+   "deck_raw": "",
+   "body_raw": "nine families have heard from\nthem since February 2023.\nMonths after they went\nmissing, three of these families\nfiled a public interest litigation\n(PIL) in the Gujarat High Court\nseeking government help to\ntrace their whereabouts. On June\n27 this year, the court termed the\nPIL as \u201cinfructuous\u201d after it was\ninformed that the missing per-\nsonscould not be located despite\nefforts by the Indian Embassies/\nHigh Commissions concerned\nand the Centre.\nAccording to court docu-\nments, thenine persons travelled\nto Mumbai from Gujarat in\nOctober 2022. After nearly a\nmonth in Mumbai, the group\n\nflew to Amsterdam where they\nstayed 30days. From Amsterdam,\nthey went to the Port of Spain and\nthen to Dominica, after which\nthey were expected to travel to\nAntiguaby boat. Thereis nodirect\nferry between these two islands,\nwhich are connected by a few\nshort-haul flights. From Antigua,\nthe group was to enter Saint\nMartin, an island divided intotwo\nparts that are underthecontrol of\nthe Netherlands and France re-\nspectively, before entering the US\nillegally.\n\nBesides Dhruvraj, the other\nmissing persons include\nNardipur village resident Ankit\nPatel, Anmedabad\u2019s Kirankumar\nPatel, Gandhinagar district's\n\nAvani Patel, Mehsana district res-\nidents Sudhir Kumar Patel and\nNikhil Patel, Kheda district's\nPratik Patel, Sabarkantha\u2019s\nBharat Rabari and Surat district\u2019s\nChampa Vasava.\nSpeaking to The Indian Express\nafter the June 27 High Court or-\nder, Vaghela says, \u201cWe keep wait-\ning for Dhurvraj\u2019s call butin vain.\nForget sound sleep, my wife and\nIhavenot finished a meal, bought\nnew clothesor attended celebra-\ntions since he went missing. On\nmost nights, Neela (his wife) cries\nherself to sleep. Icrywhen she is\nnot looking.\u201d\nSenior advocate Yatin Oza,\nwho represented the petitioners,\nsaid the Ministry of External\n\nAffairs (MEA) had, through\nIndia\u2019s Ambassadors to the\nDominica and other missions, in-\nquired into the whereabouts of\nthe nine Indians in all the island\ncountries they could have passed\nbefore they went missing.\nHe said primary investiga-\ntionshad revealed that the skip-\nper (captain of a small boat) of\nthe vessel these nine Indians\nwere to take to Antigua had sent\na distress signal. From Antigua,\nthe group was to board a bigger\nvessel.\n\nOza said, \u201cThe skipper sent a\ndistress signal to his brother that\none of the engines had failed (at\nsea), While the skipper had ex-\npressed confidence that he would\n\nreach Antigua with one working\nengine, the Caribbean seas can be\nrough. The skipper may have\ntaken the shipinside Guadeloupe\n(aFrench overseas territory in the\nCaribbean Sea) for safety. Itis pos-\nsible that (the vessel) may have\nbeen full of contraband (the re-\ngion is notorious for smuggling),\nsomething the unsuspecting\nIndians did not realise.\u201d\nSince \u201cno adverse news\u201d has\nbeen received so far in the case\nof the missing nine persons,\nmany families believe their rel-\natives are under \u201cdetention\u201d ina\nCaribbean nation. This, despite\nanMEA affidavitin court stating\nthat the Department of Internal\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.15637860082305,
+   "ocr_low_conf_share": 0.030864197530864196,
+   "headline": "9 from Gujarat disappeared in Caribbean in 2023, families await answers",
+   "deck": "",
+   "byline": "",
+   "text": "nine families have heard from them since February 2023. Months after they went missing, three of these families filed a public interest litigation (PIL) in the Gujarat High Court seeking government help to trace their whereabouts. On June 27 this year, the court termed the PIL as \"infructuous\" after it was informed that the missing personscould not be located despite efforts by the Indian Embassies/ High Commissions concerned and the Centre. According to court documents, thenine persons travelled to Mumbai from Gujarat in October 2022. After nearly a month in Mumbai, the group\n\nflew to Amsterdam where they stayed 30days. From Amsterdam, they went to the Port of Spain and then to Dominica, after which they were expected to travel to Antiguaby boat. Thereis nodirect ferry between these two islands, which are connected by a few short-haul flights. From Antigua, the group was to enter Saint Martin, an island divided intotwo parts that are underthecontrol of the Netherlands and France respectively, before entering the US illegally.\n\nBesides Dhruvraj, the other missing persons include Nardipur village resident Ankit Patel, Anmedabad's Kirankumar Patel, Gandhinagar district's\n\nAvani Patel, Mehsana district residents Sudhir Kumar Patel and Nikhil Patel, Kheda district's Pratik Patel, Sabarkantha's Bharat Rabari and Surat district's Champa Vasava. Speaking to The Indian Express after the June 27 High Court order, Vaghela says, \"We keep waiting for Dhurvraj's call butin vain. Forget sound sleep, my wife and Ihavenot finished a meal, bought new clothesor attended celebrations since he went missing. On most nights, Neela (his wife) cries herself to sleep. Icrywhen she is not looking.\" Senior advocate Yatin Oza, who represented the petitioners, said the Ministry of External\n\nAffairs (MEA) had, through India's Ambassadors to the Dominica and other missions, inquired into the whereabouts of the nine Indians in all the island countries they could have passed before they went missing. He said primary investigationshad revealed that the skipper (captain of a small boat) of the vessel these nine Indians were to take to Antigua had sent a distress signal. From Antigua, the group was to board a bigger vessel.\n\nOza said, \"The skipper sent a distress signal to his brother that one of the engines had failed (at sea), While the skipper had expressed confidence that he would\n\nreach Antigua with one working engine, the Caribbean seas can be rough. The skipper may have taken the shipinside Guadeloupe (aFrench overseas territory in the Caribbean Sea) for safety. Itis possible that (the vessel) may have been full of contraband (the region is notorious for smuggling), something the unsuspecting Indians did not realise.\" Since \"no adverse news\" has been received so far in the case of the missing nine persons, many families believe their relatives are under \"detention\" ina Caribbean nation. This, despite anMEA affidavitin court stating that the Department of Internal",
+   "n_words": 468,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.6,
+ "flags": []
+}

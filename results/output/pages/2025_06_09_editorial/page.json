@@ -1,0 +1,518 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_09_editorial",
+ "source_file": "2025-06-09_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-09_editorial.png",
+ "date": "2025-06-09",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 2,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 420,
+  "mean_line_conf": 89.61551424998905,
+  "orphan_words": 303,
+  "body_words_total": 3008
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      604,
+      1474,
+      713
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      819,
+      1235,
+      875
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      1416,
+      960
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 94.88888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2074,
+      593,
+      3726,
+      819
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2280,
+      918,
+      3529,
+      1047
+     ]
+    ],
+    "body_boxes": [
+     [
+      2920,
+      1369,
+      3532,
+      3104
+     ],
+     [
+      2923,
+      3113,
+      3528,
+      3265
+     ]
+    ],
+    "layout_words": 345
+   },
+   "headline_raw": "Tailoring a sector",
+   "deck_raw": "The garment industry needs export-oriented\nincentives, not just encouragement to produce more",
+   "body_raw": "Shahi Exports. Founded bySarla Ahuja in 1974,\nit began as a stitching unit with just a 15-\nwomen team, producing 200 pieces aday. But\ntoday, it is India\u2019s largest apparel exporter, op-\neratingover 50 factories, and three processing\nmills across eight states, and employing more\nthan 1,00,000 workers, 70 per cent of them\nwomen. With over a billion dollars in annual\nrevenue, Shahi Exports is well known as\n\u201cSarla\u2019s garment miracle\u201d. What sets Shahi\nExports apart is not just its scate, but how it got\nthere: Itevolved over 50years, withafocuson\nprofessionalising operations, investing in ver-\ntical integration (with 80 per cent of the fabric\nproduced in-house), and building an enter-\nprise that treats profits and its people ascom-\nplementary, emphasising women's employ-\nment and environmental sustainability. It is\nliving proofthat Indian firmscanscale upand\nsucceed. But it was an organic evolution over\n50 years. If we have to revolutionise this sec-\ntorand create 10 more Shahi-type enterprises\ninthe next 10 years, we need out-of-bax poli-\ncies, Only then we can hope to increase our\nmarket share in the global trade of apparel.\nTo translate ambition into reality, India\nneeds bold reforms enabling scale.\nFirst, capital must be made accessible and\naffordable for scale-focused investments. A\nstructured capital subsidy of 25-30 per cent,\nlinked to the size of the unit, can provide the\ninitial push, This could be targeted at enter-\nprises meeting a minimum threshold of, say,\n1,000 machines (as per the draft PLI 2.0\nscheme), to ensure viability and scale. A five\nto seven-year tax holiday for units would al-\nlow investments tomature and become glob-\nally competitive. India\u2019s cost of capitalremains\nhigh, averaging 9 per cent compared to 3-35\npercent in China and starting from45 per cent\nin Vietnam. in a sector where margins are ra-\nzor-thin (typically 4-5 per cent), such incen-\ntives are critical for gaining competitiveness.\nSecond, India\u2019s 52 central labour laws have\n\ncreated rigidities, discouraging formal hiring\nand scale. They need flexibility. Overtime pay-\nments are mandated at two times the hourly\nwage, compared to the ILO standard of 1.25",
+   "ocr_conf": 90.47536231884058,
+   "ocr_low_conf_share": 0.05217391304347826,
+   "headline": "Tailoring a sector",
+   "deck": "The garment industry needs export-oriented incentives, not just encouragement to produce more",
+   "byline": "",
+   "text": "Shahi Exports. Founded bySarla Ahuja in 1974, it began as a stitching unit with just a 15- women team, producing 200 pieces aday. But today, it is India's largest apparel exporter, operatingover 50 factories, and three processing mills across eight states, and employing more than 1,00,000 workers, 70 per cent of them women. With over a billion dollars in annual revenue, Shahi Exports is well known as \"Sarla's garment miracle\". What sets Shahi Exports apart is not just its scate, but how it got there: Itevolved over 50years, withafocuson professionalising operations, investing in vertical integration (with 80 per cent of the fabric produced in-house), and building an enterprise that treats profits and its people ascomplementary, emphasising women's employment and environmental sustainability. It is living proofthat Indian firmscanscale upand succeed. But it was an organic evolution over 50 years. If we have to revolutionise this sectorand create 10 more Shahi-type enterprises inthe next 10 years, we need out-of-bax policies, Only then we can hope to increase our market share in the global trade of apparel. To translate ambition into reality, India needs bold reforms enabling scale. First, capital must be made accessible and affordable for scale-focused investments. A structured capital subsidy of 25-30 per cent, linked to the size of the unit, can provide the initial push, This could be targeted at enterprises meeting a minimum threshold of, say, 1,000 machines (as per the draft PLI 2.0 scheme), to ensure viability and scale. A five to seven-year tax holiday for units would allow investments tomature and become globally competitive. India's cost of capitalremains high, averaging 9 per cent compared to 3-35 percent in China and starting from45 per cent in Vietnam. in a sector where margins are razor-thin (typically 4-5 per cent), such incentives are critical for gaining competitiveness. Second, India's 52 central labour laws have\n\ncreated rigidities, discouraging formal hiring and scale. They need flexibility. Overtime payments are mandated at two times the hourly wage, compared to the ILO standard of 1.25",
+   "n_words": 332,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      457,
+      1091,
+      1395,
+      1192
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1627,
+      1228,
+      2578,
+      1283
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      1231,
+      1529,
+      2913
+     ],
+     [
+      1622,
+      1368,
+      2229,
+      3265
+     ],
+     [
+      2319,
+      2425,
+      2827,
+      3271
+     ]
+    ],
+    "layout_words": 915
+   },
+   "headline_raw": "FIGURES OF HOPE",
+   "deck_raw": "BY ASHOK GULATI AND AYUSHI GUPTA",
+   "body_raw": "Release of new data clears the air on poverty in India, it should\nnow lead to more informed policymaking\nOVERTY ANDINEQUALITY estimation in India have been subjects of consider-\nable debate, especially in recent years with the economy experiencing several\nshocks. The great India poverty debate has, in fact, been marked by significant\ndifferences of opinion on the household survey data which forms thebasis ofes-\ntimation, the construction of the poverty lines, and on the trends overthe decades. The de-\nbate has been particularly heated in the absence of data \u2014 the government did not release\nthe consumption expenditiire survey data for 2017-18 due to\u201cdata quality issues\u201d. Thisled\nto several studies trying to estimate poverty levels in India by drawing on alternate data\nsources such as the Periodic Labour Force Surveys and the CMIE data. Recently, the govern-\nment has attempted to fill the data gap by conducting two rounds of household consump-\ntion expenditure surveys for 2022-23 and 2023-24. These surveys now allow for anexam-\nination of the trends in poverty over the past decade or so. The decline has been significant.\nExtreme poverty in India is estimated to have declined from 27.1 per cent in 2011-12\nto 5,3 per cent in 2022-23 as per the latest World Bank data reported in this paper. This\nsteep decline has occurred even as the Bank has raised the threshold for measuring ex-\ntreme poverty to $3 a day from $2.15 earlier. To put these figures in perspective \u2014 the\nnumber of people living in extreme poverty in India fell from 344.47 million to 75.24 mil-\nlion over this period. While there has been some concer over the comparability of the\nconsumption expenditure surveys carried out in 2011-12 and 2022-23 due to changesin\nthe manner in which the recent survey was carried out and its sampling design, this is a\nsteep decline. Moreover, even considering the poverty line for lower-middle income\ncountries of $4.2 per day (revised upwards from $3.65), the poverty ratio in India fell from\n57.7 per cent in 2011-12 to 23.9 per cent in 2022-23. The decline appears to have contin-\nued in the year thereafter. Earlier, Niti Aayog had estimated that multidimensional poverty\nin India had alsoregistered a steep decline \u2014 falling from55.34 per cent in 2005-06to24.85\nper cent in 2015-16 to 14.96 per cent in 2019-21. This estimate of poverty was based on\n12 indicators and drew on data from the National Family Healthy Surveys.\nAlongside these poverty estimates, the World Bank has also estimated that inequal-\nity in India, based on measures such as the Gini and Theil indices, did fall between 2011\nand 2022. However, these estimates of inequality are based on the household consump-\ntion expenditure data, which typically tends to be lower than estimates based on house-\nhold income. This is not just an academic exercise. The data from the latest rounds of the\nconsumption expenditure surveys as well as the labour force surveys must serve as a\nvaluable input for policy, informing the choices of policymakers.\n\nINDIAHAS A deep-rooted tradition in textiles\nandapparel(T&A). Thesector employs 45 mil-\nlion people and contributes 2.3 per cent to\noverall GDP. But its share in global trade re-\nmains lowat4.2 percent, a mere $378 billion\nout of $8978 billion.\nAcloser look at the apparel segment alone\n(under HScodes61 and 62) shows that India\u2019s\nshare in global trade is even lower, at3 percent\n\u2014 $15.7 billion out of $529.3 billion. More dis-\nturbing is the fact that this share has remained\nstagnant for the past two decades.\nDespite these modest numbers, India has\nseta target of $40billion in apparel exports by\n2030. But in the last few years, apparel exports\nhave declined at an AAGRof -2 percent. If we\nhad sustained the stronger AAGR of 8.5 per\ncent(2004-2017), we would reach $31 billion\nby 2030. And an AAGR of 8.5 per cent (2004-\n2023) suggests exports to reach $21 billion by\n2030. Thesenumbers make it dear that with-\nout a significant shift in policy and strategy,\nthe $40-billion goal will remainapipe dream.\nOur research points toa fundamentalcon-\nstraint \u2014 India\u2019s lack of scale. Put simply, we\nare too many, too small, and too dispersed.\nOver 80 per cent of India\u2019s apparel units are\nMicro, Small and Medium Enterprises\n(MSMEs).China and Vietnam have built large-\nscale and export-oriented factoriesbacked by\nintegrated production systems. Even\nBangladesh has founda way to either scale up\nor have single-window \u201cbuying houses\u201d that\ntake large orders and then get executed from\nvarious factories. The large scale helps them\nattract global buyers who demand volume.\nScale also drives down unit costs, shortens de-\nlivery timelines, and generates mass formal\nemployment For a country like India with a\nyoung population, the garment industry of-\nfers a wonderful opportunity to expand em-\nployment and grab alargershare of the global\nmarket. A worker can be trained to operate a\nsewing machine in just 60 days.\nWhilethe overall garment manufacturing\nsector remains fragmented, thereis asilver lin-\ning that shows what scale can achieve. In this\ncontext, the most powerful example is that of\n\nThe garment industry\ndeserves focused policy\nattention because it sits at\nthe intersection of mass\nemployment and maximum\nvalue addition. Success in\nthis segment doesn't just lift\nexport numbers, but it\ncreates demand that pulls\nup the entire textile value\nchain, from cotton to\nlogistics. However, to realise\nthis potential, India must\nmove beyond business as\nusual. The global\nmarketplace will not wait for\nIndia to get its act together.",
+   "ocr_conf": 91.62732240437158,
+   "ocr_low_conf_share": 0.03715846994535519,
+   "headline": "FIGURES OF HOPE",
+   "deck": "BY ASHOK GULATI AND AYUSHI GUPTA",
+   "byline": "",
+   "text": "Release of new data clears the air on poverty in India, it should now lead to more informed policymaking OVERTY ANDINEQUALITY estimation in India have been subjects of considerable debate, especially in recent years with the economy experiencing several shocks. The great India poverty debate has, in fact, been marked by significant differences of opinion on the household survey data which forms thebasis ofestimation, the construction of the poverty lines, and on the trends overthe decades. The debate has been particularly heated in the absence of data - the government did not release the consumption expenditiire survey data for 2017-18 due to\"data quality issues\". Thisled to several studies trying to estimate poverty levels in India by drawing on alternate data sources such as the Periodic Labour Force Surveys and the CMIE data. Recently, the government has attempted to fill the data gap by conducting two rounds of household consumption expenditure surveys for 2022-23 and 2023-24. These surveys now allow for anexamination of the trends in poverty over the past decade or so. The decline has been significant. Extreme poverty in India is estimated to have declined from 27.1 per cent in 2011-12 to 5,3 per cent in 2022-23 as per the latest World Bank data reported in this paper. This steep decline has occurred even as the Bank has raised the threshold for measuring extreme poverty to $3 a day from $2.15 earlier. To put these figures in perspective - the number of people living in extreme poverty in India fell from 344.47 million to 75.24 million over this period. While there has been some concer over the comparability of the consumption expenditure surveys carried out in 2011-12 and 2022-23 due to changesin the manner in which the recent survey was carried out and its sampling design, this is a steep decline. Moreover, even considering the poverty line for lower-middle income countries of $4.2 per day (revised upwards from $3.65), the poverty ratio in India fell from 57.7 per cent in 2011-12 to 23.9 per cent in 2022-23. The decline appears to have continued in the year thereafter. Earlier, Niti Aayog had estimated that multidimensional poverty in India had alsoregistered a steep decline - falling from55.34 per cent in 2005-06to24.85 per cent in 2015-16 to 14.96 per cent in 2019-21. This estimate of poverty was based on 12 indicators and drew on data from the National Family Healthy Surveys. Alongside these poverty estimates, the World Bank has also estimated that inequality in India, based on measures such as the Gini and Theil indices, did fall between 2011 and 2022. However, these estimates of inequality are based on the household consumption expenditure data, which typically tends to be lower than estimates based on household income. This is not just an academic exercise. The data from the latest rounds of the consumption expenditure surveys as well as the labour force surveys must serve as a valuable input for policy, informing the choices of policymakers.\n\nINDIAHAS A deep-rooted tradition in textiles andapparel(T&A). Thesector employs 45 million people and contributes 2.3 per cent to overall GDP. But its share in global trade remains lowat4.2 percent, a mere $378 billion out of $8978 billion. Acloser look at the apparel segment alone (under HScodes61 and 62) shows that India's share in global trade is even lower, at3 percent - $15.7 billion out of $529.3 billion. More disturbing is the fact that this share has remained stagnant for the past two decades. Despite these modest numbers, India has seta target of $40billion in apparel exports by 2030. But in the last few years, apparel exports have declined at an AAGRof -2 percent. If we had sustained the stronger AAGR of 8.5 per cent(2004-2017), we would reach $31 billion by 2030. And an AAGR of 8.5 per cent (2004- 2023) suggests exports to reach $21 billion by 2030. Thesenumbers make it dear that without a significant shift in policy and strategy, the $40-billion goal will remainapipe dream. Our research points toa fundamentalconstraint - India's lack of scale. Put simply, we are too many, too small, and too dispersed. Over 80 per cent of India's apparel units are Micro, Small and Medium Enterprises (MSMEs).China and Vietnam have built large-scale and export-oriented factoriesbacked by integrated production systems. Even Bangladesh has founda way to either scale up or have single-window \"buying houses\" that take large orders and then get executed from various factories. The large scale helps them attract global buyers who demand volume. Scale also drives down unit costs, shortens delivery timelines, and generates mass formal employment For a country like India with a young population, the garment industry offers a wonderful opportunity to expand employment and grab alargershare of the global market. A worker can be trained to operate a sewing machine in just 60 days. Whilethe overall garment manufacturing sector remains fragmented, thereis asilver lining that shows what scale can achieve. In this context, the most powerful example is that of\n\nThe garment industry deserves focused policy attention because it sits at the intersection of mass employment and maximum value addition. Success in this segment doesn't just lift export numbers, but it creates demand that pulls up the entire textile value chain, from cotton to logistics. However, to realise this potential, India must move beyond business as usual. The global marketplace will not wait for India to get its act together.",
+   "n_words": 893,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3578,
+      1370,
+      4181,
+      1675
+     ]
+    ],
+    "layout_words": 57,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "times, adding to cost pressures. Labour ac-\ncounts for around 30 per cent of garment pro-\nduction costs. A bold idea could be to link\nMGNREGA funds (say 25-30 per cent) to sub-\nsidise labour costs in garment units. This could\nmake labour-intensive units more competi-\ntive Wile geneiating productive employment\nona sustainablehasis. Schemes like SAMARTH",
+   "ocr_conf": 85.85714285714286,
+   "ocr_low_conf_share": 0.10714285714285714,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "times, adding to cost pressures. Labour accounts for around 30 per cent of garment production costs. A bold idea could be to link MGNREGA funds (say 25-30 per cent) to subsidise labour costs in garment units. This could make labour-intensive units more competitive Wile geneiating productive employment ona sustainablehasis. Schemes like SAMARTH",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3577,
+      1687,
+      4181,
+      2276
+     ]
+    ],
+    "layout_words": 94,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "should be significantly scaled up to provide\nshort-cycle, demand-linked skilling, especially\nforwomen., India's low female labour force par-\ntidpation andhigh youth unemployment de-\nmand job creation, not just income transfers.\nThird, at least two of the seven PM MITRA\nparks should be designated as garment-fo-\ncused hubs, particularly in states like Uttar\nPradesh and Madhya Pradesh, where labour\ncosts are lower and worker migration to\nsouthern garment hubsis high. Bringing man-\nufacturing closer to the workforce can reduce\ncosts, boost underdeveloped regions, and\nbuild more inclusive industrialisation.\nFinally, India must rethink its incentive ar-",
+   "ocr_conf": 89.08510638297872,
+   "ocr_low_conf_share": 0.05319148936170213,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "should be significantly scaled up to provide short-cycle, demand-linked skilling, especially forwomen., India's low female labour force partidpation andhigh youth unemployment demand job creation, not just income transfers. Third, at least two of the seven PM MITRA parks should be designated as garment-focused hubs, particularly in states like Uttar Pradesh and Madhya Pradesh, where labour costs are lower and worker migration to southern garment hubsis high. Bringing manufacturing closer to the workforce can reduce costs, boost underdeveloped regions, and build more inclusive industrialisation. Finally, India must rethink its incentive ar-",
+   "n_words": 90,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3572,
+      2321,
+      4180,
+      3109
+     ]
+    ],
+    "layout_words": 139,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "an Export-Linked Incentive (ELI) rather than\njust a Production-Linked Incentive (PLI).\nSchemes that reward firms not just for pro-\nducing more, but forcompeting and winning\nin global markets.\nThe garment industry deserves focused\npolicy attention because it sits at the intersec-\ntion of mass employment and maximum\nvalue addition. Successin this segment does-\nnt just lift export numbers, but it creates de-\nmand that pulls up the entire textile value\nchain, from cotton to logistics. However, tore-\nalise this potential, India must move beyond\nbusiness as usual. The global marketplace will\nnot wait for India to get its act together. If we\nare to build 10 Shahi Exports in the next 10\nyears, rather than waiting for 50 years, we\nneed policies that are boldin design and swift\nin execution. We hope our policymakers can\nrise to this challenge.",
+   "ocr_conf": 92.6978417266187,
+   "ocr_low_conf_share": 0.02158273381294964,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "an Export-Linked Incentive (ELI) rather than just a Production-Linked Incentive (PLI). Schemes that reward firms not just for producing more, but forcompeting and winning in global markets. The garment industry deserves focused policy attention because it sits at the intersection of mass employment and maximum value addition. Successin this segment doesnt just lift export numbers, but it creates demand that pulls up the entire textile value chain, from cotton to logistics. However, tore-alise this potential, India must move beyond business as usual. The global marketplace will not wait for India to get its act together. If we are to build 10 Shahi Exports in the next 10 years, rather than waiting for 50 years, we need policies that are boldin design and swift in execution. We hope our policymakers can rise to this challenge.",
+   "n_words": 134,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      403,
+      3019,
+      1444,
+      3104
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3148,
+      1528,
+      4779
+     ]
+    ],
+    "layout_words": 440
+   },
+   "headline_raw": "A PLACE IN THE FAMILY",
+   "deck_raw": "",
+   "body_raw": "Inrecognising transgender couple as co-parents, Kerala HC\naffirms constitutional values; reimagines parenthood\nNA REASSURING affirmation of dignity and equality, the Kerala High Court has\nrecognised a transgender couple from Kozhikode as the legal \u201cparents\u201d of their bi-\nif ological child. The transgender man who gave birth in 2023, and his partner, had\nsought recognition as co-parents without gender-binary labels so that their child\u2019s\nfuture \u2014 especially with regard to identification documents and school admission \u2014 isnot\nimpeded. While the Court declined to read down the format mentioned in the Registration\nof Births and DeathsRules, 1999, saying that this was a \u201crare and exceptional\u201d case, ithas\ndirected authorities to issue a birth certificate that reflects the gender-neutral term instead\nof the conventional \u201cfather\u201d and \u201cmother\u201d. Inits observation, the Court emphasised that\nin certain instances, \u201csocial justice adjudication\u201d must take precedence over an \u201cadver-\nsarial approach\u201d. In doing so, it broadened the legal imagination around family, gender,\nand parenthood.\nIn August 2022, granting maternity leave to acentral government employee who had\npreviously availed it for the care of her step-children, a bench comprising Justices D Y\nChandrachud and AS Bopanna had observed that \u201catypical\u201d families are equally deserving\nof legal protections and social welfare benefits. \u201cThe black letter of the law must not be re-\nlied upon to disadvantage families which are different from traditional ones,\u201d they hadheld.\nThe apex court's refusal to extend civil union or joint adoption rights to LGBTQIA+ couples\nand its deferral of substantive rights to legislative reform \u2014 despite acknowledging queer\nlove and lived discrimination \u2014 however, has come as a setback after years of progressive\nmilestones, such as the 2014 NALSA verdict recognising the rights of transgender persons\nand the 2018 Navtej Johar ruling that decriminalised same-sex relations, In such circum-\nstances, the Kerala High Court\u2019s verdict offers a template for affirming queer parenthood\nwithin the existing legal framework \u2014 and places the child at the centre of that empathetic\nrecognition. It asserts that constitutional dignity cannot wait for political consensus.\nDays after the Kerala HC verdict, the Madras High Court, while ruling ona habeas cor-\npus petition by a woman forcibly estranged from her lesbian partner, upheld herright to\n\u201cfind a family\u201d. \u201cThe concept of a \u2018chosen family\u2019 is now well-settled and acknowledged\nin LGBTQIA+ jurisprudence,\u201d the division bench said. In a country grappling with en-\ntrenched social prejudices, these affirmations of diversity reflecta welcome judicial sen-\nsitivity to the complexities and plurality of lived experience. They validate, with quiet\nstrength, the right to belong \u2014 not as a privilege granted conditionally by tradition, but a\ntruth that embraces every identity, even those that challenge convention.",
+   "ocr_conf": 92.1859410430839,
+   "ocr_low_conf_share": 0.031746031746031744,
+   "headline": "A PLACE IN THE FAMILY",
+   "deck": "",
+   "byline": "",
+   "text": "Inrecognising transgender couple as co-parents, Kerala HC affirms constitutional values; reimagines parenthood NA REASSURING affirmation of dignity and equality, the Kerala High Court has recognised a transgender couple from Kozhikode as the legal \"parents\" of their biif ological child. The transgender man who gave birth in 2023, and his partner, had sought recognition as co-parents without gender-binary labels so that their child's future - especially with regard to identification documents and school admission - isnot impeded. While the Court declined to read down the format mentioned in the Registration of Births and DeathsRules, 1999, saying that this was a \"rare and exceptional\" case, ithas directed authorities to issue a birth certificate that reflects the gender-neutral term instead of the conventional \"father\" and \"mother\". Inits observation, the Court emphasised that in certain instances, \"social justice adjudication\" must take precedence over an \"adversarial approach\". In doing so, it broadened the legal imagination around family, gender, and parenthood. In August 2022, granting maternity leave to acentral government employee who had previously availed it for the care of her step-children, a bench comprising Justices D Y Chandrachud and AS Bopanna had observed that \"atypical\" families are equally deserving of legal protections and social welfare benefits. \"The black letter of the law must not be relied upon to disadvantage families which are different from traditional ones,\" they hadheld. The apex court's refusal to extend civil union or joint adoption rights to LGBTQIA+ couples and its deferral of substantive rights to legislative reform - despite acknowledging queer love and lived discrimination - however, has come as a setback after years of progressive milestones, such as the 2014 NALSA verdict recognising the rights of transgender persons and the 2018 Navtej Johar ruling that decriminalised same-sex relations, In such circumstances, the Kerala High Court's verdict offers a template for affirming queer parenthood within the existing legal framework - and places the child at the centre of that empathetic recognition. It asserts that constitutional dignity cannot wait for political consensus. Days after the Kerala HC verdict, the Madras High Court, while ruling ona habeas corpus petition by a woman forcibly estranged from her lesbian partner, upheld herright to \"find a family\". \"The concept of a 'chosen family' is now well-settled and acknowledged in LGBTQIA+ jurisprudence,\" the division bench said. In a country grappling with entrenched social prejudices, these affirmations of diversity reflecta welcome judicial sensitivity to the complexities and plurality of lived experience. They validate, with quiet strength, the right to belong - not as a privilege granted conditionally by tradition, but a truth that embraces every identity, even those that challenge convention.",
+   "n_words": 434,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3596,
+      3153,
+      4180,
+      3266
+     ]
+    ],
+    "layout_words": 13,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Gulati is distinguished professor and Guptais\nresearch associate at ICRIER.\nViews are personal",
+   "ocr_conf": 79.6923076923077,
+   "ocr_low_conf_share": 0.15384615384615385,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Gulati is distinguished professor and Guptais research associate at ICRIER. Views are personal",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2279,
+      3457,
+      3947,
+      3566
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      3631,
+      3647,
+      3691
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4754,
+      2817,
+      5236
+     ],
+     [
+      2918,
+      3865,
+      3527,
+      5246
+     ],
+     [
+      3572,
+      3865,
+      4179,
+      4217
+     ],
+     [
+      3571,
+      4261,
+      4178,
+      5089
+     ],
+     [
+      3626,
+      5133,
+      4178,
+      5246
+     ],
+     [
+      3573,
+      5528,
+      4178,
+      5644
+     ]
+    ],
+    "layout_words": 473
+   },
+   "headline_raw": "RENEWABLE AND PROTECTED",
+   "deck_raw": "India\u2019s wind sector must innovate and secure, not just scale",
+   "body_raw": "As India pushes towards\nachieving 500 GW of non-\nfossil-based electric installed\ncapacity by 2030, including\nan ambitious target of over\n100 GW from wind, the true\nchallenge goes beyond just\nscaling up. It lies in securing\nwhat we install and howit is\nmanufactured.\n\nthreats. More importantly, Original\nFauinment Manufacturers (OEMs) will be re-\nquired toestablish R&D facilities in India, sig-\nnalling adecisive shift from passive assembly\nto active domestic innovation.\nThis aligns with NITI Aayog\u2019s 2024\nroadmap, emphasising localisation of both\nhardware and control systems, Given thevar-\nious global iicidents where cyberattacks have\ncrippled energy grids, India\u2019s push for digital\nself-reliance isn\u2019t just necessary \u2014 it's urgent.\nMandating local R&D isn't just about job\ncreation or investment; it\u2019s about creating\nwind turbine technology designed for India\u2019s\ngrid, climate, and challenges. India \u2014notChina\nor Europe \u2014 must become the epicentre for\nwind turbine innovation and manufacturing.\nHowever, strong policy intent must trans-\nlate into effective execution, and here the\namendmentstumbles Firstly thereis a greater\nneed to build capacity for enforcement.\nWithout a concrete monitoring mechanism,\nthese rules risk becoming paper mandates.\nSecondly, the amendment needs to artic-\nulate India-specific design adaptation clearly.\nRenewable energy projects here face extreme\noperating conditions \u2014 temperatures exceed-\ning 45\u00b0C, saline coastal air, monsoon deluges,\nand erratic grid voltages. Yet, thereis no man-\ndate for in-country prototype testing or cli-\nmate-resilience validation before inclusion in\nthe RLMMs (Revised List of Models &\nManufacturers), This oversight risks import-\ning turbines built for European conditions that\nbuckle under India\u2019s punishing climate.\n\nThird, the policy skirts the need for em-\nbedded systems security. Today, power con-\nverters used in windturbines and solar invert-\ners in solar projects are effectively\nsoftware-defined assets. They depend on\nSCADA systems, PLCs, and firmware that may\nbe compromised \u2014 often subtly and invisibly.\nWithout mandatory audits of software stacks\nand hardware backdoors, especially from\n\nand solar assets remain vulnerable.\nTo operate in India, vendors/OEMs must\nobtain certification and clearance from Indian\nauthorities and adhereto Government of India\n(GOI) regulations. These regulations should\ninclude provisions for force majeure situa-\ntions, where vendor/OEM-supplied equip-\nment may failtoreceivesupport and patches,\npotentially leading to significant security\nbreaches and national security risks. This en-\nsures that even in times of geopolitical uncer-\ntainty, India\u2019s energy infrastructure remains\noperable, supported, and secure.\nAdditionally, existing regulatory frame-\nworks --like the Central Electricity Authority's\ntemperature thresholds or the National\nInstituteof Wind Energy's certification proto-\ncols \u2014 are treated as optional references, not\ncore requirements. This disconnect must be\naddressed if we waitturbines that are not just\n\u201cMade in India\u201d but truly Engineered forIndia.\n\nThe writer is a Partner at Dalberg Advisors,\nwhere he leads climate-related projects\nin Asia Pacific and globally\n\nAssembly that theIndian government had for\nthe second time put forward its claim to this\narea. \u201cIt obviously is not a new occurrence\u201d.",
+   "ocr_conf": 89.97674418604652,
+   "ocr_low_conf_share": 0.048625792811839326,
+   "headline": "RENEWABLE AND PROTECTED",
+   "deck": "India's wind sector must innovate and secure, not just scale",
+   "byline": "",
+   "text": "As India pushes towards achieving 500 GW of nonfossil-based electric installed capacity by 2030, including an ambitious target of over 100 GW from wind, the true challenge goes beyond just scaling up. It lies in securing what we install and howit is manufactured.\n\nthreats. More importantly, Original Fauinment Manufacturers (OEMs) will be required toestablish R&D facilities in India, signalling adecisive shift from passive assembly to active domestic innovation. This aligns with NITI Aayog's 2024 roadmap, emphasising localisation of both hardware and control systems, Given thevarious global iicidents where cyberattacks have crippled energy grids, India's push for digital self-reliance isn't just necessary - it's urgent. Mandating local R&D isn't just about job creation or investment; it's about creating wind turbine technology designed for India's grid, climate, and challenges. India - notChina or Europe - must become the epicentre for wind turbine innovation and manufacturing. However, strong policy intent must translate into effective execution, and here the amendmentstumbles Firstly thereis a greater need to build capacity for enforcement. Without a concrete monitoring mechanism, these rules risk becoming paper mandates. Secondly, the amendment needs to articulate India-specific design adaptation clearly. Renewable energy projects here face extreme operating conditions - temperatures exceeding 45\u00b0C, saline coastal air, monsoon deluges, and erratic grid voltages. Yet, thereis no mandate for in-country prototype testing or climate-resilience validation before inclusion in the RLMMs (Revised List of Models & Manufacturers), This oversight risks importing turbines built for European conditions that buckle under India's punishing climate.\n\nThird, the policy skirts the need for embedded systems security. Today, power converters used in windturbines and solar inverters in solar projects are effectively software-defined assets. They depend on SCADA systems, PLCs, and firmware that may be compromised - often subtly and invisibly. Without mandatory audits of software stacks and hardware backdoors, especially from\n\nand solar assets remain vulnerable. To operate in India, vendors/OEMs must obtain certification and clearance from Indian authorities and adhereto Government of India (GOI) regulations. These regulations should include provisions for force majeure situations, where vendor/OEM-supplied equipment may failtoreceivesupport and patches, potentially leading to significant security breaches and national security risks. This ensures that even in times of geopolitical uncertainty, India's energy infrastructure remains operable, supported, and secure. Additionally, existing regulatory frame-works --like the Central Electricity Authority's temperature thresholds or the National Instituteof Wind Energy's certification proto-cols - are treated as optional references, not core requirements. This disconnect must be addressed if we waitturbines that are not just \"Made in India\" but truly Engineered forIndia.\n\nThe writer is a Partner at Dalberg Advisors, where he leads climate-related projects in Asia Pacific and globally\n\nAssembly that theIndian government had for the second time put forward its claim to this area. \"It obviously is not a new occurrence\".",
+   "n_words": 455,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1614,
+      3735,
+      1990,
+      3833
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1618,
+      3864,
+      2226,
+      5245
+     ]
+    ],
+    "layout_words": 219
+   },
+   "headline_raw": "JAGJEET SARAN",
+   "deck_raw": "",
+   "body_raw": "AMID HEIGHTENED Indo-Pak tensions, a\nPakistani outlet claimed cyberattacks had\nknocked out 70 per cent of India\u2019s electricity.\nThe false report exposed a very real anxiety:\nWhat happens when energy infrastructure\nbecomes a frontline in cyber warfare?\nForyears, the renewable energy sector has\ndiligently optimised turbine efficiency, im-\nproved grid integration and focusedon speedy\ndeployment. These remain essential.\nHowever, an equally pressing threat looms\nquietly in the background: Cybersecurity and\nthe pace of maximum value addition and lo-\ncalisation in manufacturing.\nUnlike finance or defence sectors, where\ndigital safeguards have long been entrenched,\nrobust cybersecurity measures are only now\nbeing introduced into India\u2019s renewable en-\nergy framework. And it\u2019s about time. A com-\npromised SCADA (Supervisory Control and\nData Acquisition) system or remote-access\nbreach could disable a wind farm \u2014or multi-\nple sites \u2014in mere seconds.\nAs India pushes towards achieving 500\nGW of non-fossil-based electric installed ca-\npacity by 2030, including an ambitious target\nof over 100 GW from wind, thetrue challenge\ngoes beyond just scaling up. It lies in securing\nwhat we install and how itis manufactured.\nThe pmposed amendment requires all op-\nerational wind turbine data to be stored\nwithin Indian territory. Foreign entities will\nno longer be allowed to remotely access or\ncontrol Indian wind farms, a clear attempt to\neliminate vulnerabilities to external cyber",
+   "ocr_conf": 92.0228310502283,
+   "ocr_low_conf_share": 0.0365296803652968,
+   "headline": "JAGJEET SARAN",
+   "deck": "",
+   "byline": "",
+   "text": "AMID HEIGHTENED Indo-Pak tensions, a Pakistani outlet claimed cyberattacks had knocked out 70 per cent of India's electricity. The false report exposed a very real anxiety: What happens when energy infrastructure becomes a frontline in cyber warfare? Foryears, the renewable energy sector has diligently optimised turbine efficiency, improved grid integration and focusedon speedy deployment. These remain essential. However, an equally pressing threat looms quietly in the background: Cybersecurity and the pace of maximum value addition and localisation in manufacturing. Unlike finance or defence sectors, where digital safeguards have long been entrenched, robust cybersecurity measures are only now being introduced into India's renewable energy framework. And it's about time. A compromised SCADA (Supervisory Control and Data Acquisition) system or remote-access breach could disable a wind farm - or multiple sites - in mere seconds. As India pushes towards achieving 500 GW of non-fossil-based electric installed capacity by 2030, including an ambitious target of over 100 GW from wind, thetrue challenge goes beyond just scaling up. It lies in securing what we install and how itis manufactured. The pmposed amendment requires all operational wind turbine data to be stored within Indian territory. Foreign entities will no longer be allowed to remotely access or control Indian wind farms, a clear attempt to eliminate vulnerabilities to external cyber",
+   "n_words": 214,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2266,
+      5395,
+      3379,
+      5485
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2271,
+      5527,
+      2861,
+      5571
+     ],
+     [
+      3575,
+      5691,
+      3939,
+      5735
+     ],
+     [
+      2924,
+      5887,
+      3294,
+      5931
+     ],
+     [
+      2272,
+      6007,
+      2866,
+      6051
+     ]
+    ],
+    "body_boxes": [
+     [
+      2267,
+      5608,
+      2876,
+      5959
+     ],
+     [
+      2270,
+      6083,
+      2874,
+      6156
+     ],
+     [
+      2922,
+      5528,
+      3526,
+      5840
+     ],
+     [
+      2920,
+      5965,
+      3524,
+      6157
+     ],
+     [
+      3573,
+      5767,
+      4177,
+      6157
+     ]
+    ],
+    "layout_words": 247
+   },
+   "headline_raw": "JUNE 9, 1985, FORTY YEARS AGO",
+   "deck_raw": "RESEARCH COOPERATION\nZHAO ON TIBET\nSIACHEN CLAIM\nCURFEW IN HOSHIARPUR",
+   "body_raw": "INDIAAND FRANCE opened a newera of co-\noperation with the signing of an agreement to\nset up a science and technology research cen-\ntre in New Delhi. Another agreement on co-\noperation in the field of environment, which\nincludes France's help for cleaning the\nGanga\u2019s waters, will be signed as well. To be\njointly financed by India and France, the cen-\ntre will always have an Indian director.\n\nDAY CURFEW WAS imposed in Hoshiarpur\nwhich remained tense after last night's inci-\n\ndents of arson and violence followed by po-\nlice firing. The town has remained tense ever\nsince the murder of the Punjab Lok Dal pres-\nident, Balbir Singh, on May 10. The deputy\ncommissioner said that the curfew may be re-\nlaxed tomorrow ifthe situation warranted. He\nalsosaidthat 45 people have been arrested on\ncharges of indulging in violence and arson.\n\nPAKISTAN\u2019S FOREIGN MINISTER, Sahabzada\nYaqub Khan, disputed India\u2019s claim to the\nSiachen glacier area and said that Islamabad\nwould take up the matter again with the\nIndian government. Khan told the National\n\nTHE CHINESE PRIME Minister, Zhao Ziyang,\nsaid there was no question of reconsidering\nthe future of Tibet except within the frame-\nwork of China. He said that Tibet has been an\ninalienable part of China since the seventh\ncentury. This was ahistorical fact and has been\nrecognised by the international community.\nAs such there was \u201cno question\u201d of discussing\nits future pattern or status except within the\nframework of China\u2019s territory, he asserted.",
+   "ocr_conf": 92.48178137651821,
+   "ocr_low_conf_share": 0.016194331983805668,
+   "headline": "JUNE 9, 1985, FORTY YEARS AGO",
+   "deck": "RESEARCH COOPERATION ZHAO ON TIBET SIACHEN CLAIM CURFEW IN HOSHIARPUR",
+   "byline": "",
+   "text": "INDIAAND FRANCE opened a newera of cooperation with the signing of an agreement to set up a science and technology research centre in New Delhi. Another agreement on cooperation in the field of environment, which includes France's help for cleaning the Ganga's waters, will be signed as well. To be jointly financed by India and France, the centre will always have an Indian director.\n\nDAY CURFEW WAS imposed in Hoshiarpur which remained tense after last night's incidents of arson and violence followed by police firing. The town has remained tense ever since the murder of the Punjab Lok Dal president, Balbir Singh, on May 10. The deputy commissioner said that the curfew may be relaxed tomorrow ifthe situation warranted. He alsosaidthat 45 people have been arrested on charges of indulging in violence and arson.\n\nPAKISTAN'S FOREIGN MINISTER, Sahabzada Yaqub Khan, disputed India's claim to the Siachen glacier area and said that Islamabad would take up the matter again with the Indian government. Khan told the National\n\nTHE CHINESE PRIME Minister, Zhao Ziyang, said there was no question of reconsidering the future of Tibet except within the framework of China. He said that Tibet has been an inalienable part of China since the seventh century. This was ahistorical fact and has been recognised by the international community. As such there was \"no question\" of discussing its future pattern or status except within the framework of China's territory, he asserted.",
+   "n_words": 238,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.8,
+ "flags": [
+  "3 kept article(s) without a headline"
+ ]
+}

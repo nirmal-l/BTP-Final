@@ -1,0 +1,776 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_22_front",
+ "source_file": "2025-02-22_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-22_front.png",
+ "date": "2025-02-22",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 471,
+  "mean_line_conf": 89.39230108179153,
+  "orphan_words": 89,
+  "body_words_total": 1851
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      326,
+      787,
+      1220,
+      1452
+     ],
+     [
+      320,
+      1488,
+      1201,
+      1618
+     ]
+    ],
+    "deck_boxes": [
+     [
+      329,
+      696,
+      1230,
+      745
+     ]
+    ],
+    "body_boxes": [
+     [
+      972,
+      2777,
+      1199,
+      2874
+     ],
+     [
+      857,
+      2926,
+      1215,
+      3389
+     ],
+     [
+      810,
+      3479,
+      1252,
+      3589
+     ]
+    ],
+    "layout_words": 64
+   },
+   "headline_raw": "US away, India\nsays: Worked\nwith China to\npreserve G20\nJaishankar and Wang discuss way\nforward on LAC, flights, Mansarovar",
+   "deck_raw": "MEETING IN JOHANNESBURG",
+   "body_raw": "Movesto\n@ repair ties\n\nTHE MEETING comes at a\ntime when India and\nChina are trying to repair\nbilateral ties which dived\nin the wake of Chinese\nincursions along the LAC\nin May 2020 and ledtoa\nmilitary standoff. The\ndisengagement of troops\nin eastem Ladakh sig-\nnalled moves to look at\ntheroad ahead.\n\nsuesand regional challenges.\n\u201cThe G20 Foreign Ministers\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.65625,
+   "ocr_low_conf_share": 0.078125,
+   "headline": "US away, India says: Worked with China to preserve G20 Jaishankar and Wang discuss way forward on LAC, flights, Mansarovar",
+   "deck": "MEETING IN JOHANNESBURG",
+   "byline": "",
+   "text": "Movesto @ repair ties\n\nTHE MEETING comes at a time when India and China are trying to repair bilateral ties which dived in the wake of Chinese incursions along the LAC in May 2020 and ledtoa military standoff. The disengagement of troops in eastem Ladakh signalled moves to look at theroad ahead.\n\nsuesand regional challenges. \"The G20 Foreign Ministers",
+   "n_words": 59,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      1862,
+      4174,
+      2342
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3738,
+      2375,
+      4086,
+      2432
+     ]
+    ],
+    "body_boxes": [
+     [
+      3254,
+      2412,
+      3678,
+      2484
+     ],
+     [
+      3247,
+      2534,
+      3693,
+      3391
+     ],
+     [
+      3738,
+      2762,
+      4176,
+      2998
+     ],
+     [
+      3738,
+      3128,
+      4180,
+      3391
+     ]
+    ],
+    "layout_words": 154
+   },
+   "headline_raw": "USAID. IVIESA SAYS\n\u2018deeply disturbing\u2019,\nbeing looked at by\nministries, agencies",
+   "deck_raw": "GOVT & POLITICS",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI. FEBRUARY 21\n\nTERMING US President Donald\nTrump's claim of \u201c$21 millional-\nlocation to India for voter\ntumout\u201d as \u201cvery dee ply trou-\nbling\u201d, the Ministry of Extemal\nAffairs Friday said, \u201cthishasledto\nconcerns about foreign interfer-\nence in India's intemal affairs\u201d.\nResponding to a question\nabout The Indian Express report\nFriday that the $21 million was\nsanctioned for Bangladesh and\nnot India, MEA spokesperson\nRandhir Jaiswal said, \u201cThere are\nmanydepartments and agencies\nin India that work with USAID.\nAll these ministries and agencies\nare looking at this now. We will\nshare with you as and when we\ngetan update.\u201d\nEarlier, to a question on the\ninformation shared on social\n\nV-P WEIGHSIN:\nSTUNNED AT TRUMP\nREVELATIONONBID\nTOMANIPULATE\nELECTIONS IN INDIA\n\nmedia bythe Trump administra-\ntion's Department of Govern-\nment Efficiency, the MEA\nspokesperson said, \u201cWe have\nseen information that has been\nput out by the US administration\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.48051948051948,
+   "ocr_low_conf_share": 0.06493506493506493,
+   "headline": "USAID. IVIESA SAYS 'deeply disturbing', being looked at by ministries, agencies",
+   "deck": "GOVT & POLITICS",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI. FEBRUARY 21",
+   "text": "TERMING US President Donald Trump's claim of \"$21 millionallocation to India for voter tumout\" as \"very dee ply troubling\", the Ministry of Extemal Affairs Friday said, \"thishasledto concerns about foreign interference in India's intemal affairs\". Responding to a question about The Indian Express report Friday that the $21 million was sanctioned for Bangladesh and not India, MEA spokesperson Randhir Jaiswal said, \"There are manydepartments and agencies in India that work with USAID. All these ministries and agencies are looking at this now. We will share with you as and when we getan update.\" Earlier, to a question on the information shared on social\n\nV-P WEIGHSIN: STUNNED AT TRUMP REVELATIONONBID TOMANIPULATE ELECTIONS IN INDIA\n\nmedia bythe Trump administration's Department of Government Efficiency, the MEA spokesperson said, \"We have seen information that has been put out by the US administration",
+   "n_words": 138,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1301,
+      1998,
+      3117,
+      2304
+     ],
+     [
+      1301,
+      2295,
+      1644,
+      2360
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      2454,
+      1745,
+      2804
+     ],
+     [
+      1786,
+      2293,
+      2229,
+      2796
+     ],
+     [
+      2762,
+      2294,
+      3204,
+      2797
+     ],
+     [
+      2805,
+      2926,
+      3162,
+      2961
+     ],
+     [
+      2901,
+      3002,
+      3067,
+      3031
+     ]
+    ],
+    "layout_words": 165
+   },
+   "headline_raw": "Need leaders who understand global\nmindset, with Indian mind, says PM\nRAVIDUTTA MISHRA",
+   "deck_raw": "",
+   "body_raw": "PRIME MINISTER Narendra\nModi said Friday that the coun-\ntry needs leadership across dif-\nferent fields with a global out-\nlook and local upbringing that\nreflects a national vision.\nInaugurating the School of\nUkimate Leadership(SOUL)con-\nclave 2025 at Bharat Mandapam\n\nin the presence of Bhutan Prime\nMinister Tshering Tobgay who\ncalled him \u201celder brother\" and\n\u201cmentor\u201d, Modi said, \u201cFor na-\ntion-building, the development\nof better citizens is essential. To\nachieve any great heights or at-\ntain vastness, the foundation\nmust be laid from the very be-\nginning.. We need people who\nmove forward, understanding\nthe international mindset with\nan Indian mind.\u201d\n\nevery field to find solutions to\nglobal complexities and needs\nwhile projecting the country's\ninterests on the world stage, he\nsaid, adding that Indiais emerg-\ning asa global powerhouse and\nrequires world-class leaders to\naccelerate this momentum.\nHe highlighted the role ofhu-\nman resources in ensuring suc-\ncess across different fields,\nadding that the country should\nCONTINUED ON PAGE 2\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "ocr_conf": 93.37349397590361,
+   "ocr_low_conf_share": 0.006024096385542169,
+   "headline": "Need leaders who understand global mindset, with Indian mind, says PM RAVIDUTTA MISHRA",
+   "deck": "",
+   "byline": "",
+   "text": "PRIME MINISTER Narendra Modi said Friday that the country needs leadership across different fields with a global outlook and local upbringing that reflects a national vision. Inaugurating the School of Ukimate Leadership(SOUL)conclave 2025 at Bharat Mandapam\n\nin the presence of Bhutan Prime Minister Tshering Tobgay who called him \"elder brother\" and \"mentor\", Modi said, \"For nation-building, the development of better citizens is essential. To achieve any great heights or attain vastness, the foundation must be laid from the very beginning.. We need people who move forward, understanding the international mindset with an Indian mind.\"\n\nevery field to find solutions to global complexities and needs while projecting the country's interests on the world stage, he said, adding that Indiais emerging asa global powerhouse and requires world-class leaders to accelerate this momentum. He highlighted the role ofhuman resources in ensuring success across different fields, adding that the country should\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2322,
+      2290,
+      2716,
+      2342
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      2334,
+      2716,
+      2804
+     ]
+    ],
+    "layout_words": 61
+   },
+   "headline_raw": "\u201cThe development of excep-\nwal Laszdare im Aan, fialA ie",
+   "deck_raw": "",
+   "body_raw": "tional leaders in every field is\ncrucial and anecessity of the\ntimes. That is whythe establish-\nment of the School of Ultimate\nLeadership is a signiftcant and\nmajor stepin India's joumey t-\nwards a developed future. The\nveryname \u2018SOUL is not acoinci-\ndence \u2014 this institution will be-\ncome the soul of India's social\nlife,\u201d he said.\nLeadership is needed in",
+   "ocr_conf": 89.95081967213115,
+   "ocr_low_conf_share": 0.04918032786885246,
+   "headline": "\"The development of excepwal Laszdare im Aan, fialA ie",
+   "deck": "",
+   "byline": "",
+   "text": "tional leaders in every field is crucial and anecessity of the times. That is whythe establishment of the School of Ultimate Leadership is a signiftcant and major stepin India's joumey twards a developed future. The veryname 'SOUL is not acoincidence - this institution will become the soul of India's social life,\" he said. Leadership is needed in",
+   "n_words": 57,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      2769,
+      692,
+      2819
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2847,
+      768,
+      3248
+     ]
+    ],
+    "layout_words": 45
+   },
+   "headline_raw": "NEW DELHI, FEBRUARY 21",
+   "deck_raw": "",
+   "body_raw": "EXTERNAL AFFAIRS Minister S\nJaishankar and his Chinese coun-\nterpart Wang Yi met Friday and\ndiscussed \u201cmanagement of\npeace and tranquillity inborder\nareas\u201d resumption of the Kailash\nMansarovar Yatra, flightconnec-\ntivity and trans border rivers.\nMeeting on the sidelines of\nthe meeting of G20 Foreign\n. YS eee Pe ees ene pahrtn",
+   "ocr_conf": 82.6923076923077,
+   "ocr_low_conf_share": 0.1346153846153846,
+   "headline": "NEW DELHI, FEBRUARY 21",
+   "deck": "",
+   "byline": "",
+   "text": "EXTERNAL AFFAIRS Minister S Jaishankar and his Chinese counterpart Wang Yi met Friday and discussed \"management of peace and tranquillity inborder areas\" resumption of the Kailash Mansarovar Yatra, flightconnectivity and trans border rivers. Meeting on the sidelines of the meeting of G20 Foreign. YS eee Pe ees ene pahrtn",
+   "n_words": 49,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      2870,
+      2704,
+      3140
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3284,
+      1744,
+      3833
+     ],
+     [
+      1786,
+      3719,
+      2230,
+      3833
+     ],
+     [
+      2275,
+      3127,
+      2715,
+      3826
+     ]
+    ],
+    "layout_words": 165
+   },
+   "headline_raw": "Crackdown to transport convoys:\nAnew security plan for Manipur",
+   "deck_raw": "",
+   "body_raw": "WITHPRESIDENTS rulein place,\nManipur, roiled by ethnic vio-\nlencesince May2023, is headed\nfor a paradigm shift inits ap-\nproachto security.\nThe Indian Express has\nlearned that several measures\nare being initiated to restorelaw\nand order \u2014 crackdownon mili-\ntias, recovery of arms, removal\nof illegal checkposts, ferrying of\npeople and goods.\nSome of these steps are al-\nready being taken. In fact, there\n\nwere protests in many parts of\nthe state's valley after 26mem-\nbers of Arambai Tenggol,a Meitei\n\nmilitia, were rounded up Friday\nalong with some village volun-\nwers. They were released later.\nSources said militants on\nboth sides of the ethnic divide\nwill be arrested, illegal check-\nposts of Kuki groups on roads in\nthe hills are already being re-\nmoved, and an amnesty scheme\nhas been rolled out for those\nwho have looted weapons from\npolice armouries.\nSpecific actions have been\nplanned in the hills, including\nbetter regulation of movement\nof goods and people in Moreh\nand speedy construction of the\nCONTINUEDONPAGE2",
+   "ocr_conf": 94.07878787878788,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Crackdown to transport convoys: Anew security plan for Manipur",
+   "deck": "",
+   "byline": "",
+   "text": "WITHPRESIDENTS rulein place, Manipur, roiled by ethnic violencesince May2023, is headed for a paradigm shift inits approachto security. The Indian Express has learned that several measures are being initiated to restorelaw and order - crackdownon militias, recovery of arms, removal of illegal checkposts, ferrying of people and goods. Some of these steps are already being taken. In fact, there\n\nwere protests in many parts of the state's valley after 26members of Arambai Tenggol,a Meitei\n\nmilitia, were rounded up Friday along with some village volunwers. They were released later. Sources said militants on both sides of the ethnic divide will be arrested, illegal checkposts of Kuki groups on roads in the hills are already being removed, and an amnesty scheme has been rolled out for those who have looted weapons from police armouries. Specific actions have been planned in the hills, including better regulation of movement of goods and people in Moreh and speedy construction of the CONTINUEDONPAGE2",
+   "n_words": 157,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      3264,
+      762,
+      3322
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      3322,
+      768,
+      3588
+     ]
+    ],
+    "layout_words": 31
+   },
+   "headline_raw": "ee ee ee ee eng ND\nwas their second meeting since",
+   "deck_raw": "",
+   "body_raw": "thecompletionofthedisengage-\nment process along the Line of\nActual Control ineastem Ladakh\nlast November \u2014 Jaishankar and\nWang held talks amid diplo-\nmatic efforts between the two\ncountries to address bilateral is-",
+   "ocr_conf": 92.70967741935483,
+   "ocr_low_conf_share": 0.0,
+   "headline": "was their second meeting since",
+   "deck": "",
+   "byline": "",
+   "text": "thecompletionofthedisengagement process along the Line of Actual Control ineastem Ladakh last November - Jaishankar and Wang held talks amid diplomatic efforts between the two countries to address bilateral is-",
+   "n_words": 29,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3466,
+      4169,
+      3801
+     ],
+     [
+      3290,
+      3841,
+      4136,
+      3984
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      4076,
+      4029,
+      4114
+     ],
+     [
+      3736,
+      4196,
+      4182,
+      4699
+     ],
+     [
+      3250,
+      4235,
+      3647,
+      4304
+     ],
+     [
+      3250,
+      4354,
+      3692,
+      4706
+     ]
+    ],
+    "layout_words": 117
+   },
+   "headline_raw": "ED raids Mohali home\nof suspect in Canada\u2019s\nbiggest gold heist\nSS Cannkss beeen pol! hest suspect hs ing on Chandigarh outskirts\n\u2014 ~ - . . rs - . ToT - ; 2 aT",
+   "deck_raw": "",
+   "body_raw": "The Indian Express report published on February 15\n\nfollowing a month-long investi-\ngationin collaboration withCBC\nNews: The Fifth Estate, Canada.\nThe ED teams conducted\nparallel raids at Panesar's rented\nresidence in Sector 79 of Mohali\nin Punjab and his father-in-law s\nestablishments in Hoshiarpur.\nThe raids began around7 am\nand lasted nearly nine hours, af-\nter which Panesar and his wife\nwere questioned at the ED\u2019s\nCONTINUED ON PAGE 2\n\nVARINDER BHATIA\nCHANDIGARH, FEBRUARY 21\n\nTHE ENFORCEMENT Directorate\nFriday raided the Mohali resi-\ndence of 32-year-old Simran\nPreet Panesar, one of the nine\nsuspects allegedly involved in\nCanada\u2019s biggest gold heist\nworth $22.5 million. The ED ac-\ntion comes days after The Indian\nExpress tracked down Panesar",
+   "ocr_conf": 90.51282051282051,
+   "ocr_low_conf_share": 0.042735042735042736,
+   "headline": "ED raids Mohali home of suspect in Canada's biggest gold heist SS Cannkss beeen pol! hest suspect hs ing on Chandigarh outskirts",
+   "deck": "",
+   "byline": "",
+   "text": "The Indian Express report published on February 15\n\nfollowing a month-long investigationin collaboration withCBC News: The Fifth Estate, Canada. The ED teams conducted parallel raids at Panesar's rented residence in Sector 79 of Mohali in Punjab and his father-in-law s establishments in Hoshiarpur. The raids began around7 am and lasted nearly nine hours, after which Panesar and his wife were questioned at the ED's\n\nVARINDER BHATIA CHANDIGARH, FEBRUARY 21\n\nTHE ENFORCEMENT Directorate Friday raided the Mohali residence of 32-year-old Simran Preet Panesar, one of the nine suspects allegedly involved in Canada's biggest gold heist worth $22.5 million. The ED action comes days after The Indian Express tracked down Panesar",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3627,
+      3195,
+      4013
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      4116,
+      3130,
+      4225
+     ],
+     [
+      2756,
+      4274,
+      3203,
+      5132
+     ]
+    ],
+    "layout_words": 104
+   },
+   "headline_raw": "Forex case: ED\nslaps %3.4-cr\npenalty on BBC\nIndia, fines 3\ndirectors too",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, FEBRUARY 21\n\nTWO YEARS after registering a\ncaseagainst British Bmadcasting\nCompany (BBC) India under the\nForeign Exchange Management\nAct(FEMA) for alleged foreign ex-\nchange violations, the Enforce-\nment Directorate Friday issued\nan adjudication order, levying a\npenalty of Rs 3.44 crore on the\nbroadcaster The agency also im-\nposedafineofRs 114croreeach\non three BBC directors.\nThe ED lodged the case fol-\nlowing Income-Tax Department\nsurveys at the BBC premises in\nNew Delhi and Mumbai in\nFebruary 2023 for alleged \u201cnon-\ncompliance\u201d with transfer pric-\ningrulesand diversion of profits.\nA BBC spokesperson said,\n\u201cThe BBC is committed to\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.47619047619048,
+   "ocr_low_conf_share": 0.047619047619047616,
+   "headline": "Forex case: ED slaps %3.4-cr penalty on BBC India, fines 3 directors too",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, FEBRUARY 21",
+   "text": "TWO YEARS after registering a caseagainst British Bmadcasting Company (BBC) India under the Foreign Exchange Management Act(FEMA) for alleged foreign exchange violations, the Enforcement Directorate Friday issued an adjudication order, levying a penalty of Rs 3.44 crore on the broadcaster The agency also imposedafineofRs 114croreeach on three BBC directors. The ED lodged the case following Income-Tax Department surveys at the BBC premises in New Delhi and Mumbai in February 2023 for alleged \"noncompliance\" with transfer pricingrulesand diversion of profits. A BBC spokesperson said, \"The BBC is committed to",
+   "n_words": 88,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      3809,
+      1244,
+      4106
+     ]
+    ],
+    "deck_boxes": [
+     [
+      325,
+      3744,
+      1167,
+      3777
+     ]
+    ],
+    "body_boxes": [
+     [
+      323,
+      4193,
+      688,
+      4262
+     ],
+     [
+      319,
+      4312,
+      762,
+      5137
+     ],
+     [
+      808,
+      4155,
+      1254,
+      5130
+     ]
+    ],
+    "layout_words": 231
+   },
+   "headline_raw": "\u201cTwo parties\u2019 to \u2018parties\nconcerned\u2019: Delhi shift on\nUkraine peace process",
+   "deck_raw": "RESPONSE TO US-RUSSIA DIRECT TALKS",
+   "body_raw": "SHUBHAJITROY\nNEW DELHI, FEBRUARY 21\n\nFACED WITH the new geo-polit-\nical reality of US-Russia direct\ntalksonUkraine and the rapidly\nchanging contours of the US-\nEurope trans-Atlantic alliance,\nIndia has nuanced its positionon\nthe war: moving from \u201ctwo par-\nties to the conflict\u201d to \u201cparties\nconcemed\".\nThe US and Russian delega-\ntions, led by their Foreign\nMinisters, met in Riyadh this\nweek to discuss the path to end\nthe war, Ukraine wasn\u2019t at that\ntable. This has rattled Europe as\nit upends US policy under the\nBiden administration that had\nsaid that nothing on Ukraine will\nbe done without Ukraine being\npart of the negotiations.\nIn the light of the changed\n\ncircumstances, India's position\nwas articulated by External\nAffairs minister S Jaishankar late\nThursday hours after his meet-\ning with Russian Foreign minis-\nter Sergey Lavrov. \u201cRegarding the\nUkraine conflict, we have long\nadvocated dialogue and diplo-\nmacy. Today, the world expects\nthat partiesconcemed deal with\neach other to end the war.\u201d He\nwas speaking atthe G20 Foreign\nMinisters meeting in Johannes-\nburg in South Africa on the\nglobal geo-political situation.\nThisisa shift from what Pavan\nKapoor, the Indian representative\nat the Peace summit on Ukraine\norganised by Switzerland, had\nsaid on June 16, 2024. Kapoor,\nthen Secretary in the Ministry of\nExtemal Affairs and now Deputy\nNSA, had said, \u201cWe continue to\nbelieve that such a peace requires\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.90517241379311,
+   "ocr_low_conf_share": 0.03017241379310345,
+   "headline": "\"Two parties' to 'parties concerned': Delhi shift on Ukraine peace process",
+   "deck": "RESPONSE TO US-RUSSIA DIRECT TALKS",
+   "byline": "SHUBHAJITROY; NEW DELHI, FEBRUARY 21",
+   "text": "FACED WITH the new geo-political reality of US-Russia direct talksonUkraine and the rapidly changing contours of the US-Europe trans-Atlantic alliance, India has nuanced its positionon the war: moving from \"two parties to the conflict\" to \"parties concemed\". The US and Russian delegations, led by their Foreign Ministers, met in Riyadh this week to discuss the path to end the war, Ukraine wasn't at that table. This has rattled Europe as it upends US policy under the Biden administration that had said that nothing on Ukraine will be done without Ukraine being part of the negotiations. In the light of the changed\n\ncircumstances, India's position was articulated by External Affairs minister S Jaishankar late Thursday hours after his meeting with Russian Foreign minister Sergey Lavrov. \"Regarding the Ukraine conflict, we have long advocated dialogue and diplomacy. Today, the world expects that partiesconcemed deal with each other to end the war.\" He was speaking atthe G20 Foreign Ministers meeting in Johannes-burg in South Africa on the global geo-political situation. Thisisa shift from what Pavan Kapoor, the Indian representative at the Peace summit on Ukraine organised by Switzerland, had said on June 16, 2024. Kapoor, then Secretary in the Ministry of Extemal Affairs and now Deputy NSA, had said, \"We continue to believe that such a peace requires",
+   "n_words": 215,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      3900,
+      2696,
+      4146
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1298,
+      4141,
+      1696,
+      4328
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      4391,
+      1664,
+      4499
+     ],
+     [
+      1297,
+      4548,
+      1738,
+      5138
+     ],
+     [
+      1784,
+      4985,
+      2226,
+      5134
+     ],
+     [
+      2271,
+      4985,
+      2719,
+      5131
+     ]
+    ],
+    "layout_words": 114
+   },
+   "headline_raw": "Ayushman Bharat plan for Delhi:\n] lakh beneficiaries in first 30 days",
+   "deck_raw": "Mohalla Clinics\nto be upgraded to\nArogya Mandirs",
+   "body_raw": "ANKITAUPADHYAY\n& ANONNA DUTT\nNEW DELHI, FEBRUARY 21\n\nAT LEAST 1 lakh beneficiaries\n\u201cneed to be enrolled\u201d under the\nCentre's Ayushman Bharat in-\nsurance scheme within 30days\nand 553 Mohalla Clinics will be\n\u201cupgraded to Urban Ayushman\nArogya Mandirs\u2019 inthe samedu-\nration, Health officials weretold\nat a meetingearlier this week to\ndiscuss the rolloutof the flagship\nscheme in Delhi.\nThe newly appointed Delhi\nCabinet passed the implemen-\ntation of the scheme in its first\nmeeting on Thursday.\n\nBeneficiariesof the insurance\nscheme, under which eligible\nfamilies get a health insurance\ncover of Rs 5 lakh, will be se-\n\nlected on the basis of National\nFood Security Act data, and Socio\nEconomic and Caste Census\nCONTINUED ONPAGE2",
+   "ocr_conf": 88.22608695652174,
+   "ocr_low_conf_share": 0.05217391304347826,
+   "headline": "Ayushman Bharat plan for Delhi: ] lakh beneficiaries in first 30 days",
+   "deck": "Mohalla Clinics Arogya Mandirs",
+   "byline": "ANKITAUPADHYAY; & ANONNA DUTT; NEW DELHI, FEBRUARY 21",
+   "text": "AT LEAST 1 lakh beneficiaries \"need to be enrolled\" under the Centre's Ayushman Bharat insurance scheme within 30days and 553 Mohalla Clinics will be \"upgraded to Urban Ayushman Arogya Mandirs' inthe sameduration, Health officials weretold at a meetingearlier this week to discuss the rolloutof the flagship scheme in Delhi. The newly appointed Delhi Cabinet passed the implementation of the scheme in its first meeting on Thursday.\n\nBeneficiariesof the insurance scheme, under which eligible families get a health insurance cover of Rs 5 lakh, will be selected on the basis of National Food Security Act data, and Socio Economic and Caste Census",
+   "n_words": 101,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3706,
+      4774,
+      3980,
+      4831
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3736,
+      4877,
+      4175,
+      5092
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "\u2018THE WORLD",
+   "deck_raw": "",
+   "body_raw": "G7 STATEMENT ON\nUKRAINE: US OBJECTS\nTO CALLING RUSSIA\n\u2018AGGRESSOR\u2019\nPAGE 14",
+   "ocr_conf": 94.16666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "'THE WORLD",
+   "deck": "",
+   "byline": "G7 STATEMENT ON; UKRAINE: US OBJECTS; TO CALLING RUSSIA; 'AGGRESSOR'",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      569,
+      5263,
+      3706,
+      5431
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      5420,
+      1252,
+      6159
+     ],
+     [
+      1294,
+      5421,
+      1737,
+      6167
+     ],
+     [
+      1783,
+      6053,
+      2223,
+      6167
+     ],
+     [
+      2273,
+      6053,
+      2712,
+      6168
+     ],
+     [
+      2759,
+      5422,
+      3202,
+      6169
+     ],
+     [
+      3249,
+      5422,
+      3689,
+      5489
+     ],
+     [
+      3246,
+      5501,
+      3689,
+      6169
+     ]
+    ],
+    "layout_words": 380
+   },
+   "headline_raw": "Rebound off helmet and history: Kerala enter first Ranji",
+   "deck_raw": "",
+   "body_raw": "Even levelling the score was\nenough for Gujarat as they had\nbeen better placed on the league\ntable. Spinner Aditya Sarvate\nwho, with his two wickets, had\nSpread panic after Gujarat started\nthe day at 429/7, had the ball in\nhand Just astroke away fromthe\ntarget, Gujarat No.10 Arzan\nNagwaswalla swung his bat but\ncoukdn't clear gritty silly-point\nfielder Salman Nizar. The force-\nful slog-sweep rebounded off\nThalassery brickwall Nizar thala\nto captain Baby's palmsat slip.\nNizar's epoch-making hel-\nmet will be framed for posterity\nwhen the team returns home,\nthe Kerala Cricket Association\n\n(KCA) declared. For now, aticket\nto Nagpur awaits, 74 yearssince\nthe maidans of Thalassery and\nTripunithura forged thecricket-\ning dreams of India\u2019s southwest\ncoast, even before the \u2018Kerala\u2019\nconcept wasconceived in 1956.\nAshis teammates celebrated,\nNizar was stretchered out toa\nhospital after copping ablowon\nthe KCA emblem. Against\nJammuand Kashmirin the quar-\nter-final at Pune last week, he\npartnered M D Nidheesh to se-\ncure that crucial one-run lead.\nOf late, Nizar and Kerala have\ngotused to witnessing miracles.\nAt the Narendra Modi Stadium,\nthey never thought they were\n\nout of the game.\nKerala coach Amay Khura-\nsiya, aformer India intemational\n\nfrom Madhya Pradesh, had a\nchat with his two professional\nspin giants, Jalaj Saxena and\n\nAditya Sarvate. They were chart-\ningacourse todefend the 28-run\nlead by plotting three moments.\nFitness trainer Vysakh Krishna\nsaid he struggled to endure the\nclosing moments, but was re-\nminded of the \u2018Khurasiya' effect\nthat blanketed the boys on the\nfield under mind-crunching\npressure throughout the season.\n\u201cHe had curiously written\ndown the number \u20182\u2019 on his wrist\nlast evening and kept repeating\ntoday that we would eithertake\nthelead bysix or tworuns. Even\nbefore the final delivery, he was\ncalm,\u201d said Krishna.\nAnd Saxena (4/149) and\nSarvate's(4/111 )did propel their\n\nadopted state into the history\nbooks.\n\nTrainer Vysakh would, how-\never, point to thecohesive men-\ntality shift under Khurasiya's\nguard, an eye-opener for him in\nhis five years with the team. \u201cWe\nwere ateam that used to hold\nparties and celebrate reaching\nthe quarters in white-ball\ntournaments.\u201d\nDespite blunting Kerala's\nspinadvances Thursday evening\nwith anadmirable combination\nof defence and running between\nthe wickets, Gujarat batsmen\nJaymeet Patel and Siddharth\nDesai were ready to play the\nwaiting game. Baby would re-",
+   "ocr_conf": 89.1078947368421,
+   "ocr_low_conf_share": 0.06842105263157895,
+   "headline": "Rebound off helmet and history: Kerala enter first Ranji",
+   "deck": "",
+   "byline": "",
+   "text": "Even levelling the score was enough for Gujarat as they had been better placed on the league table. Spinner Aditya Sarvate who, with his two wickets, had Spread panic after Gujarat started the day at 429/7, had the ball in hand Just astroke away fromthe target, Gujarat No.10 Arzan Nagwaswalla swung his bat but coukdn't clear gritty silly-point fielder Salman Nizar. The forceful slog-sweep rebounded off Thalassery brickwall Nizar thala to captain Baby's palmsat slip. Nizar's epoch-making helmet will be framed for posterity when the team returns home, the Kerala Cricket Association\n\n(KCA) declared. For now, aticket to Nagpur awaits, 74 yearssince the maidans of Thalassery and Tripunithura forged thecricketing dreams of India's southwest coast, even before the 'Kerala' concept wasconceived in 1956. Ashis teammates celebrated, Nizar was stretchered out toa hospital after copping ablowon the KCA emblem. Against Jammuand Kashmirin the quarter-final at Pune last week, he partnered M D Nidheesh to secure that crucial one-run lead. Of late, Nizar and Kerala have gotused to witnessing miracles. At the Narendra Modi Stadium, they never thought they were\n\nout of the game. Kerala coach Amay Khurasiya, aformer India intemational\n\nfrom Madhya Pradesh, had a chat with his two professional spin giants, Jalaj Saxena and\n\nAditya Sarvate. They were chart-ingacourse todefend the 28-run lead by plotting three moments. Fitness trainer Vysakh Krishna said he struggled to endure the closing moments, but was reminded of the 'Khurasiya' effect that blanketed the boys on the field under mind-crunching pressure throughout the season. \"He had curiously written down the number '2' on his wrist last evening and kept repeating today that we would eithertake thelead bysix or tworuns. Even before the final delivery, he was calm,\" said Krishna. And Saxena (4/149) and Sarvate's(4/111 )did propel their\n\nadopted state into the history books.\n\nTrainer Vysakh would, however, point to thecohesive mentality shift under Khurasiya's guard, an eye-opener for him in his five years with the team. \"We were ateam that used to hold parties and celebrate reaching the quarters in white-ball tournaments.\" Despite blunting Kerala's spinadvances Thursday evening with anadmirable combination of defence and running between the wickets, Gujarat batsmen Jaymeet Patel and Siddharth Desai were ready to play the waiting game. Baby would re-",
+   "n_words": 370,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3739,
+      5266,
+      3992,
+      5370
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3735,
+      5422,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 85
+   },
+   "headline_raw": "final",
+   "deck_raw": "",
+   "body_raw": "veal he'd thought the final was\n\u201cgone\u201d when he dropped Patel\non the final moming.\nBut moments later, Patel\nlunged a touch forward, only to\nleave a track for wicketkeeper\nMohammed Azharuddeen to\npursue. With nimble collection,\nhe affected astumping with the\nbatsman\u2019s backfoot on the lineof\nthe crease. An animated Kerala\ndugout soon emerged on the\nsidelines with hope reposed and\nastruggling Sarvate regaining his\nlost composure. He would also\naccount for Desai.\nBattling a finger fracture,\nGujarat No.11 PriyajitsinhJadeja\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.34117647058824,
+   "ocr_low_conf_share": 0.047058823529411764,
+   "headline": "final",
+   "deck": "",
+   "byline": "",
+   "text": "veal he'd thought the final was \"gone\" when he dropped Patel on the final moming. But moments later, Patel lunged a touch forward, only to leave a track for wicketkeeper Mohammed Azharuddeen to pursue. With nimble collection, he affected astumping with the batsman's backfoot on the lineof the crease. An animated Kerala dugout soon emerged on the sidelines with hope reposed and astruggling Sarvate regaining his lost composure. He would also account for Desai. Battling a finger fracture, Gujarat No.11 PriyajitsinhJadeja",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      5458,
+      712,
+      5528
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "LALITH KALIDAS\nAHMEDABAD, FEBRUARY 21",
+   "ocr_conf": 92.6,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "LALITH KALIDAS; AHMEDABAD, FEBRUARY 21",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      5577,
+      761,
+      6166
+     ]
+    ],
+    "layout_words": 84,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SEIZING A two-run lead at the\nhalfway stage of the final day's\nplay and surviving a few tense\nmoments in the second innings\nas the light faded, Sachin Baby's\nClass of 2025 became the first\nKeralacricket team in 74 yearsto\nmakeit to the Ranji Trophy final.\nWhile home team Gujarat\nstretched the contest into the fi-\nnalsessionon Friday, the moment\nof the game unfolded at 11 am\nwhen the last Gujarat wicket fell\nChasing 457 to makeit to the\ntitle clash, Gujarat were 455/9.",
+   "ocr_conf": 92.08333333333333,
+   "ocr_low_conf_share": 0.023809523809523808,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "SEIZING A two-run lead at the halfway stage of the final day's play and surviving a few tense moments in the second innings as the light faded, Sachin Baby's Class of 2025 became the first Keralacricket team in 74 yearsto makeit to the Ranji Trophy final. While home team Gujarat stretched the contest into the finalsessionon Friday, the moment of the game unfolded at 11 am when the last Gujarat wicket fell Chasing 457 to makeit to the title clash, Gujarat were 455/9.",
+   "n_words": 83,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.4,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

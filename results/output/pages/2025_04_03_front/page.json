@@ -1,0 +1,714 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_03_front",
+ "source_file": "2025-04-03_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-03_front.png",
+ "date": "2025-04-03",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 441,
+  "mean_line_conf": 90.2325459813555,
+  "orphan_words": 0,
+  "body_words_total": 1751
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      694,
+      4161,
+      1211
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      1253,
+      4093,
+      1383
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      1465,
+      3531,
+      1535
+     ],
+     [
+      3252,
+      1584,
+      3692,
+      1618
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "\u2018PM Modi has ties\nwith all... I want to\nmake Chile hub for\nIndia in the region\u2019",
+   "deck_raw": "\u2018Trump represents all] oppose; we\nrespect China, China respects us\u2019",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 2\n\nFLAGGING CLOSER cooperation",
+   "ocr_conf": 94.44444444444444,
+   "ocr_low_conf_share": 0.0,
+   "headline": "'PM Modi has ties with all... I want to make Chile hub for India in the region'",
+   "deck": "'Trump represents all] oppose; we respect China, China respects us'",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 2",
+   "text": "FLAGGING CLOSER cooperation",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      1619,
+      3691,
+      1676
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3246,
+      1702,
+      3692,
+      2251
+     ],
+     [
+      3246,
+      2296,
+      4182,
+      2648
+     ]
+    ],
+    "layout_words": 123
+   },
+   "headline_raw": "withIndiaas both sides workto-\nware an economic nacnercsin",
+   "deck_raw": "",
+   "body_raw": "on critical minerals and technol-\nogy, Visiting President of Chile\nGabriel Boric Font slammed the\nUS, saying President Donald\nTrump \u201crepresents everything I\noppose.\u201d\nIn an interview to The Indian\nExpress Wednesday, the 39-year-\nold Boric, President since 2022,\nexpressed admiration for what\nhe called was the way Prime\nMinister Narendra Modi had\n\u201crelationships with everyone\u201d.\nExcerpts:\n\nYou are just 39, leadinga . __\ncountry. How do you see\ntoday\u2019s global challenges? asChina, after the humiliation of\nTo analyze what's goingon _ the 19th century and theincred-\ntoday, it\u2019s important ible, incredible things\nto have a glance at that Indiahas done in\nthe long history. So, \u00a2 the last few decades\nof course, these days 7 are clearly changing\nare difficult, but so a the balance of power",
+   "ocr_conf": 87.0859375,
+   "ocr_low_conf_share": 0.109375,
+   "headline": "withIndiaas both sides worktoware an economic nacnercsin",
+   "deck": "",
+   "byline": "",
+   "text": "on critical minerals and technology, Visiting President of Chile Gabriel Boric Font slammed the US, saying President Donald Trump \"represents everything I oppose.\" In an interview to The Indian Express Wednesday, the 39-yearold Boric, President since 2022, expressed admiration for what he called was the way Prime Minister Narendra Modi had \"relationships with everyone\". Excerpts:\n\nYou are just 39, leadinga. __ country. How do you see today's global challenges? asChina, after the humiliation of To analyze what's goingon _ the 19th century and theincredtoday, it's important ible, incredible things to have a glance at that Indiahas done in the long history. So, \u00a2 the last few decades of course, these days 7 are clearly changing are difficult, but so a the balance of power",
+   "n_words": 124,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2353,
+      1243,
+      2785
+     ]
+    ],
+    "deck_boxes": [
+     [
+      807,
+      2848,
+      1128,
+      2905
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      2885,
+      667,
+      3036
+     ],
+     [
+      318,
+      3084,
+      764,
+      4070
+     ],
+     [
+      321,
+      4244,
+      455,
+      4275
+     ],
+     [
+      808,
+      2965,
+      1129,
+      3089
+     ],
+     [
+      810,
+      3124,
+      1202,
+      3290
+     ],
+     [
+      807,
+      3362,
+      1248,
+      4063
+     ]
+    ],
+    "layout_words": 228
+   },
+   "headline_raw": "Shah: No interference\nin Muslim religious\naffairs, Opp spreading\nfear for its vote bank",
+   "deck_raw": "IN PARLIAMENT",
+   "body_raw": "MANOJCG,\nDEEPTIMAN TIWARY\n& LIZMATHEW\nNEW DELHI, APRIL 2\n\nTHE CONTENTIOUS Waqf\n(Amendment) Bill, which pro-\nposes sweeping changes in regu-\nlation of Waaf properties and set-\ntlement of disputes, sailed\nthrough Lok Sabha after a mid-\nnight vote Wednesday, cappinga\nmarathon 12-hour debate in\nwhich the Opposition accused\nthe BjP-led NDA government of\ninterference in Muslim religious\naffairs in contravention of the\nConstitution, a charge rejected by\nUnion Home Minister Amit Shah\nwhosaid the Bill had no provision\nfor government interference.\nEarlier, hitting back at\nOpposition parties which united\nin accusing the government of\ntargeting the beliefs and prac-\ntices of the Muslim community,\nShah said the government had\nno intention to interfere in the\naffairs of the community.\n\u201cWe are not scaring the\n\nINSIDE\n\nOWAISI LEADS\nATTACK BY OPP\nMUSLIM MPs\n\nRIJIJU FLAGS UPA\nMOVE TO DENOTIFY\nDELHI PROPERTIES\nPAGE6\n\nMuslims, you are scaring the\nMuslims. 1am saying that no cit-\nizen of this country, irrespective\nof religion, will be harmed,\u201d he\nsaid and accused the Opposition\nof spreading \u201cmisconceptions\u201d\nand \u201crumours\u201d for their vote\nbank politics.\nBoth Shah and Minority\nAffairs Minister Kiren Rijiju, who\nspoke at the beginning and\nreplied to the debate before the\nvoting, said the proposed re-\nforms wouldensure the welfare\nof poor Muslims and women.\n\u201cAn illusion is being created\nthat this Act is about interference\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.04824561403508,
+   "ocr_low_conf_share": 0.043859649122807015,
+   "headline": "Shah: No interference in Muslim religious affairs, Opp spreading fear for its vote bank",
+   "deck": "IN PARLIAMENT",
+   "byline": "MANOJCG,; DEEPTIMAN TIWARY; & LIZMATHEW; NEW DELHI, APRIL 2",
+   "text": "THE CONTENTIOUS Waqf (Amendment) Bill, which proposes sweeping changes in regulation of Waaf properties and settlement of disputes, sailed through Lok Sabha after a midnight vote Wednesday, cappinga marathon 12-hour debate in which the Opposition accused the BjP-led NDA government of interference in Muslim religious affairs in contravention of the Constitution, a charge rejected by Union Home Minister Amit Shah whosaid the Bill had no provision for government interference. Earlier, hitting back at Opposition parties which united in accusing the government of targeting the beliefs and practices of the Muslim community, Shah said the government had no intention to interfere in the affairs of the community. \"We are not scaring the\n\nOWAISI LEADS ATTACK BY OPP MUSLIM MPs\n\nRIJIJU FLAGS UPA MOVE TO DENOTIFY DELHI PROPERTIES\n\nMuslims, you are scaring the Muslims. 1am saying that no citizen of this country, irrespective of religion, will be harmed,\" he said and accused the Opposition of spreading \"misconceptions\" and \"rumours\" for their vote bank politics. Both Shah and Minority Affairs Minister Kiren Rijiju, who spoke at the beginning and replied to the debate before the voting, said the proposed reforms wouldensure the welfare of poor Muslims and women. \"An illusion is being created that this Act is about interference",
+   "n_words": 206,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1300,
+      2353,
+      3175,
+      2581
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      2650,
+      1644,
+      2799
+     ],
+     [
+      1296,
+      2844,
+      1741,
+      3277
+     ],
+     [
+      1950,
+      2608,
+      2549,
+      2749
+     ],
+     [
+      2272,
+      3600,
+      2717,
+      4071
+     ],
+     [
+      2762,
+      2612,
+      3205,
+      3271
+     ],
+     [
+      2759,
+      3600,
+      3202,
+      4064
+     ]
+    ],
+    "layout_words": 278
+   },
+   "headline_raw": "Govt out to target one community, dilute\nConstitution, cover up failures: Opp chorus",
+   "deck_raw": "",
+   "body_raw": "VIKAS PATHAK,\nDEEPTIMAN TIWARY\n& LIZ MATHEW\nNEW DELHI, APRIL2\n\nSPEARHEADING THE\nOpposition attack on the Waqf\n(Amendment) Bill in Lok Sabha,\nthe Congress said Wednesday\nthat the government was out to\n\u201cdilute the Constitution\u201d and\nwas deliberately targeting the\nbeliefs and practices of the\nMuslim community.\nGaurav Gogoi, Deputy Leader\nof the Congress in Lok Sabha,\n\nTheir motive is to make Muslims\nsecond-class citizens\n\u2014 ASADUDDIN OWAISI, AIMIMMP\n\n\u201csecularism\u201d. As reported by The\nIndian Express, the TDP had one\nsuggestion for the government,\ntoamend the provision for inclu-\nsion of non-Muslims in Waqf\nboards so as to give flexibility to\nstate governmentson the matter.\nIf the JD(U) sought to under-\nline that the party had done\nmore for Muslims \u201cthan any\nother in Bihar since\nIndependence\u201d, the TDP reiter-\n\nwho opened for the Opposition\nin the debate over the Bill, asked\nthe BJP how many Muslim MPs\ndid it have and said the govern-\nment was trying to \u201cdefame the\nminority communities, divide\nIndian society and disenfran-\nchise minority communities\u201d.\nGogoi\u2019s party colleague K C\nVenugopal said, \u201cThey have only\none agenda \u2014 to divide Bharat\nMata in the name of religion.\u201d\nWondering why non-Muslims\nwere to be included in the Waqf\nBoard, he referred to the Vaishno\nDevi Temple Act which stated\nCONTINUED ON PAGE 2\n\nated several times its commit-\nment to the uplift of Muslims.\nWith the BJP at 240 MPs, 32\nshort of a majority, the Narendra\nModi government is dependent\nfor survival upon the TDP and\nJD(U), which together account\nfor 28 MPs. Both parties lead\nstates (Andhra Pradesh and\nBihar, respectively) with signifi-\ncant Muslim populations, and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.47122302158273,
+   "ocr_low_conf_share": 0.02158273381294964,
+   "headline": "Govt out to target one community, dilute Constitution, cover up failures: Opp chorus",
+   "deck": "",
+   "byline": "VIKAS PATHAK,; DEEPTIMAN TIWARY; & LIZ MATHEW; NEW DELHI, APRIL2; SPEARHEADING THE",
+   "text": "Opposition attack on the Waqf (Amendment) Bill in Lok Sabha, the Congress said Wednesday that the government was out to \"dilute the Constitution\" and was deliberately targeting the beliefs and practices of the Muslim community. Gaurav Gogoi, Deputy Leader of the Congress in Lok Sabha,\n\nTheir motive is to make Muslims second-class citizens - ASADUDDIN OWAISI, AIMIMMP\n\n\"secularism\". As reported by The Indian Express, the TDP had one suggestion for the government, toamend the provision for inclusion of non-Muslims in Waqf boards so as to give flexibility to state governmentson the matter. If the JD(U) sought to underline that the party had done more for Muslims \"than any other in Bihar since Independence\", the TDP reiterwho opened for the Opposition in the debate over the Bill, asked the BJP how many Muslim MPs did it have and said the government was trying to \"defame the minority communities, divide Indian society and disenfranchise minority communities\". Gogoi's party colleague K C Venugopal said, \"They have only one agenda - to divide Bharat Mata in the name of religion.\" Wondering why non-Muslims were to be included in the Waqf Board, he referred to the Vaishno Devi Temple Act which stated\n\nated several times its commitment to the uplift of Muslims. With the BJP at 240 MPs, 32 short of a majority, the Narendra Modi government is dependent for survival upon the TDP and JD(U), which together account for 28 MPs. Both parties lead states (Andhra Pradesh and Bihar, respectively) with significant Muslim populations, and",
+   "n_words": 251,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2649,
+      3537,
+      2719
+     ],
+     [
+      3253,
+      2660,
+      3540,
+      2723
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      2731,
+      3691,
+      3118
+     ]
+    ],
+    "layout_words": 45
+   },
+   "headline_raw": "were thedays before\n1914, or inthe\u201930s, or\nwere the days before\n1914, or inthe '30s, or",
+   "deck_raw": "",
+   "body_raw": "the days of the INTE\nOttoman empire... \u00a9 \u2014\u2014\nthe world has never been a quiet\nplace. Nowadays, everything is\nmore interconnected...\nThe decline of the global\npowers, especially the United\nStates, has brought a change in\nthe geopolitical order. And the\nrise of countries from the south,",
+   "ocr_conf": 89.125,
+   "ocr_low_conf_share": 0.10416666666666667,
+   "headline": "were thedays before were the days before 1914, or inthe '30s, or",
+   "deck": "",
+   "byline": "",
+   "text": "the days of the INTE Ottoman empire... \u00a9 - - the world has never been a quiet place. Nowadays, everything is more interconnected... The decline of the global powers, especially the United States, has brought a change in the geopolitical order. And the rise of countries from the south,",
+   "n_words": 49,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3738,
+      2649,
+      4179,
+      2844
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3738,
+      2849,
+      4179,
+      3115
+     ]
+    ],
+    "layout_words": 34
+   },
+   "headline_raw": "RESS in the world.\n- In that scenario,\n\"T/A Latin America has a\n\u2014\u2014\u2014\u2014 lot to say. Even\nthough weare, as Gabriel Garcia",
+   "deck_raw": "",
+   "body_raw": "Marquez said, we cannot live in\na magical realism...\nWhile we see J D Vance hu-\nmiliating the Europeans in\nMunich or Putin defying the in-\nternational order, or Israel\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "RESS in the world. - In that scenario, \"T/A Latin America has a - - - - lot to say. Even though weare, as Gabriel Garcia",
+   "deck": "",
+   "byline": "",
+   "text": "Marquez said, we cannot live in a magical realism... While we see J D Vance humiliating the Europeans in Munich or Putin defying the international order, or Israel",
+   "n_words": 28,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3953,
+      2660,
+      4179,
+      2723
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3963,
+      2772,
+      4178,
+      2805
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "1e world.\nIn that scenario,",
+   "deck_raw": "",
+   "body_raw": "to say. Even",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "1e world. In that scenario,",
+   "deck": "",
+   "byline": "",
+   "text": "to say. Even",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3188,
+      4118,
+      3638
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      4394,
+      3528,
+      4464
+     ],
+     [
+      3248,
+      4512,
+      3690,
+      5141
+     ],
+     [
+      3736,
+      4355,
+      4180,
+      5134
+     ]
+    ],
+    "layout_words": 183
+   },
+   "headline_raw": "In letter to Sonia,\nPMs\u2019 Museum seeks\naccess to Nehru\npapers taken in 2008",
+   "deck_raw": "",
+   "body_raw": "DIVYAA\nNEW DELHI, APRIL 2\n\nAHEAD OF the first annual gen-\neral meeting ofits newly formed\nSociety, the Prime Ministers\u2019\nMuseum & Library (PMML) is\nlearnt to have written to\nCongress leader Sonia Gandhi,\nseeking \u201caccess\u201d to the papers\nfrom Jawaharlal Nehru\u2019s private\ncollection which she had re-\nclaimed in 2008. Sources said\nSonia's office has notresponded\nto PMML\u2019s communication.\nAs first reported by The indian\nExpress, the then PMML Society\nhad discussed the status of the\npapers in Sonia's custody at its\n\nlast annual general meeting in\nFebruary 2024. But this is the\nfirst time thatit has put the mat-\nter on record in an official com-\nmunication to Sonia.\nSonia\u2019s office did not respond\nto an email sent by The Indian\nExpress on the matter.\nAccording to sources, the\nPMML in its letter to Sonia, has\n\u201csought access to the papers for\nresearchers\u201d. The museum au-\nthorities have also asked her to\ndonate any other important cor-\nrespondence pertaining to\nNehru that would help re-\nsearchers\u2019 understanding of\nmodern Indian history,\nAt the last AGM in February\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.060109289617486336,
+   "headline": "In letter to Sonia, PMs' Museum seeks access to Nehru papers taken in 2008",
+   "deck": "",
+   "byline": "DIVYAA; NEW DELHI, APRIL 2",
+   "text": "AHEAD OF the first annual general meeting ofits newly formed Society, the Prime Ministers' Museum & Library (PMML) is learnt to have written to Congress leader Sonia Gandhi, seeking \"access\" to the papers from Jawaharlal Nehru's private collection which she had reclaimed in 2008. Sources said Sonia's office has notresponded to PMML's communication. As first reported by The indian Express, the then PMML Society had discussed the status of the papers in Sonia's custody at its\n\nlast annual general meeting in February 2024. But this is the first time thatit has put the matter on record in an official communication to Sonia. Sonia's office did not respond to an email sent by The Indian Express on the matter. According to sources, the PMML in its letter to Sonia, has \"sought access to the papers for researchers\". The museum authorities have also asked her to donate any other important correspondence pertaining to Nehru that would help researchers' understanding of modern Indian history, At the last AGM in February",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1783,
+      3345,
+      3194,
+      3681
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      3680,
+      2066,
+      3750
+     ],
+     [
+      1781,
+      3798,
+      2229,
+      4064
+     ],
+     [
+      2803,
+      4271,
+      3161,
+      4305
+     ],
+     [
+      2896,
+      4348,
+      3059,
+      4376
+     ],
+     [
+      2962,
+      4442,
+      3129,
+      4472
+     ],
+     [
+      2763,
+      4937,
+      2992,
+      4969
+     ],
+     [
+      2763,
+      5023,
+      3173,
+      5109
+     ]
+    ],
+    "layout_words": 53
+   },
+   "headline_raw": "Asserting \u2018steadfast support for\nMuslims\u2019, TDP & JD(U) back Bill\n\u2014 > \u201csecularism\u201d. As reported by The \u2014_ ated several times its commit-\nDEEPTIMANTIWARY \u2014=\u2014Indian Express,the TDPhad one \u2014_ ment tothe uplift of Muslims.",
+   "deck_raw": "",
+   "body_raw": "& VIKAS PATHAK\nNEW DELHI, APRIL 2\n\nKEY NDA allies TDP and JD(U)\nsupported the Waaf\n(Amendment) Bill in the Lok\nSabha Wednesday, while repeat-\nedly underlining the commit-\nmentof their parties to \u201cthe wel-\nfare of Muslims\u201d and\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nHope Dethi\u2019s House\n\nEXPLAINED\n\nPREPARING FOR\nHEATWAVES pace 10",
+   "ocr_conf": 85.71698113207547,
+   "ocr_low_conf_share": 0.07547169811320754,
+   "headline": "Asserting 'steadfast support for Muslims', TDP & JD(U) back Bill - > \"secularism\". As reported by The - _ ated several times its commit-DEEPTIMANTIWARY - = - Indian Express,the TDPhad one - _ ment tothe uplift of Muslims.",
+   "deck": "",
+   "byline": "& VIKAS PATHAK; NEW DELHI, APRIL 2",
+   "text": "KEY NDA allies TDP and JD(U) supported the Waaf (Amendment) Bill in the Lok Sabha Wednesday, while repeatedly underlining the commit-mentof their parties to \"the welfare of Muslims\" and\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nHope Dethi's House\n\nEXPLAINED\n\nPREPARING FOR HEATWAVES pace 10",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1311,
+      3378,
+      1704,
+      3539
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1343,
+      3599,
+      1695,
+      4031
+     ]
+    ],
+    "layout_words": 41
+   },
+   "headline_raw": "= TDP, JDU\u2019s\n= Muslim\nFre @ dilemma",
+   "deck_raw": "",
+   "body_raw": "BOTH THE TDP and JD(U)\nlead states \u2014 Andhra\nPradesh and Bihar, re-\nspectively \u2014 with signifi-\ncant Muslim popula-\ntions. Their balancing act\non the Waqf Bill must ac-\ncount for the support\nthey have traditionally\nenjoyed among the\ncommunity.",
+   "ocr_conf": 87.14634146341463,
+   "ocr_low_conf_share": 0.12195121951219512,
+   "headline": "= TDP, JDU's = Muslim Fre @ dilemma",
+   "deck": "",
+   "byline": "",
+   "text": "BOTH THE TDP and JD(U) lead states - Andhra Pradesh and Bihar, respectively - with significant Muslim populations. Their balancing act on the Waqf Bill must account for the support they have traditionally enjoyed among the community.",
+   "n_words": 37,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      4216,
+      2692,
+      4482
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4510,
+      1087,
+      4579
+     ],
+     [
+      804,
+      4628,
+      1249,
+      5139
+     ],
+     [
+      2267,
+      4472,
+      2712,
+      5133
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "From Bumrah, Pandyas to Ashwani, Vignesh:\nIndia\u2019s got talent, Mumbai Indians the scouts",
+   "deck_raw": "",
+   "body_raw": "SANDIPG\nNEW DELHI, APRIL 2\n\nAN HOUR after sunset at\nMumbai\u2019s Wankhede Stadium\non Monday, a star burst into the\nMumbai Indians _ skyline.\nAshwani Kumar, 23, claimed four\nwickets against defending cham-\npions Kolkata Knight Riders to\nfinish with the best figures for an\nIndian IPL debutant. The sonofa\nfarmer with modest means,\nAshwani hails from village\nJhanjheri near Mohali in Punjab.\nIt\u2019s a hinterland-to-starlight\n\nscript made in Bollywood.\nExcept there is a twist. Whereas\nthousands descend to India\u2019s\nmovie capital nursing superstar\nambitions every day, Mumbai\nIndians take the opposite route.\nTheir scouts travel far and wide,\nscour thousands of cricketers\nacross obscure leagues, nonde-\nscript maidans and small towns\naround the country to discover\ntheir superstars.\nPresent and former MI cap-\ntains have doffed their hats to\ntheir reputed scout-squad that\nincludes one-time India coach\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.87234042553192,
+   "ocr_low_conf_share": 0.03546099290780142,
+   "headline": "From Bumrah, Pandyas to Ashwani, Vignesh: India's got talent, Mumbai Indians the scouts",
+   "deck": "",
+   "byline": "SANDIPG; NEW DELHI, APRIL 2",
+   "text": "AN HOUR after sunset at Mumbai's Wankhede Stadium on Monday, a star burst into the Mumbai Indians _ skyline. Ashwani Kumar, 23, claimed four wickets against defending cham-pions Kolkata Knight Riders to finish with the best figures for an Indian IPL debutant. The sonofa farmer with modest means, Ashwani hails from village Jhanjheri near Mohali in Punjab. It's a hinterland-to-starlight\n\nscript made in Bollywood. Except there is a twist. Whereas thousands descend to India's movie capital nursing superstar ambitions every day, Mumbai Indians take the opposite route. Their scouts travel far and wide, scour thousands of cricketers across obscure leagues, nondescript maidans and small towns around the country to discover their superstars. Present and former MI captains have doffed their hats to their reputed scout-squad that includes one-time India coach",
+   "n_words": 130,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4594,
+      760,
+      4682
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      4723,
+      728,
+      4848
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "PY Ms EY",
+   "deck_raw": "",
+   "body_raw": "SC SLAMS REVANTH\nFOR \u2018NO BYPOLL\u2019\nREMARK: \u2018WE ARE",
+   "ocr_conf": 86.0,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "",
+   "deck": "",
+   "byline": "SC SLAMS REVANTH; FOR 'NO BYPOLL'; REMARK: 'WE ARE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4860,
+      677,
+      4910
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      4928,
+      737,
+      5097
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "NOT POWERLESS\u2019",
+   "deck_raw": "",
+   "body_raw": "HC ORDERS PAUSE\nON CLEARING GREEN\nCOVER NEAR UOH\nPAGES 3,5",
+   "ocr_conf": 94.63636363636364,
+   "ocr_low_conf_share": 0.0,
+   "headline": "NOT POWERLESS'",
+   "deck": "",
+   "byline": "HC ORDERS PAUSE; ON CLEARING GREEN; COVER NEAR UOH; PAGES 3,5",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5265,
+      4142,
+      5395
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5421,
+      499,
+      5494
+     ],
+     [
+      315,
+      5570,
+      757,
+      5691
+     ],
+     [
+      314,
+      5736,
+      758,
+      6166
+     ],
+     [
+      806,
+      5419,
+      1248,
+      6166
+     ],
+     [
+      1290,
+      5419,
+      1735,
+      6166
+     ],
+     [
+      2759,
+      5421,
+      3200,
+      6168
+     ],
+     [
+      3249,
+      5421,
+      3689,
+      5449
+     ],
+     [
+      3247,
+      5462,
+      3689,
+      6168
+     ],
+     [
+      3735,
+      5422,
+      4177,
+      6162
+     ]
+    ],
+    "layout_words": 543
+   },
+   "headline_raw": "Purnea bridge will be falling, but a puzzle remains: How did it come up?",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nHIMANSHU HARSH\nPURNEA (BIHAR), APRIL 2\n\nLAST YEAR, Bihar saw 12 bridges\ncollapse over 20 days. This time,\nthe state is facing a predicament\nequally unique: a bridge that has\nsprung out of nowhere.\nOnly, as per locals, it should\nnever have.\nThe 60-foot-long, 10-foot-\nwide structure started coming\nup over the Kari Kosi river in\nRahmat Nagar on the outskirts\n\nof Purnea sometime in January.\nWhile the authorities look for\nthe \u201cunknown people\u201d behindit,\nwho claimed they were working\non a \u201cgovernment project\u201d, vil-\nlagerssee the handiworkof land\nsharks seeking to sell their flood-\nprone farm plots, and throwing\nin the bridge as extra attraction,\nIf completed, the bridge\nwould have linked the mainland\nalong Kari Kosi to the flood-\nplains, drawing buyers for the\nlatter, as per the plan.\nAfter itwas \u201cdiscovered\u201d last\nweek, an attempt was made to\ndemolish it. However, some vil-\nlagers, believed to be interested\nin selling their lands, did not let\n\nofficials pull it down.\nAmong those who watched\nindespair as the bridge came up\nis Ramzani, 59, who lives in the\nnearby Bengali Basti, and does\nfarming in the floodplains. He\nsays the floodplains are under\nwater from May till winter, al-\nlowing a window for just one\npaddy crop a year. \u201cThere is no\nvillage or settlement there... it's\njust farmland,\u201d he says.\nMohammad Siraj, 52, also a\npaddy farmer, says: \u201cWe plantin\nJanuary-February, and harvest\nby late April or early May, when\nthe floods come and the whole\narea gets submerged... Even\nduring the dry months, we have\n\nto wade through knee-deep wa-\nter or use a tractor... What's the\npoint of a bridge to these plains?\nIt will only ruin us.\u201d\nBecauseit coincided with the\nplanting season, the farmers re-\nmember exactly when the\nbridge started taking shape.\n\u201cSome people stopped us from\nsowing crops,\u201d says Ramzani.\nAround 28 acres of the flood-\nplains falling under the bridge\nspan were affected, with sowing\ncontinuing in the parts towards\nthe other end.\nThe builders told the farmers\nit was a government project, but\nMohammad Fajlu says they had\ntheir suspicions. \u201cThe builders\n\nused substandard materials, took\n\nsand from the river itself and\nmade a very shallow base. The\namount of water this river gets\nduring the monsoon, a bridge like\nthis would not have held for even\naweek,\u201d says the 34-year-old.\nBut, at worst, the villagers\nthought it was just another gov-\nernment project \u201cscam\u201d. \u201cOnly\nlater did we lear it wasn\u2019t even\na government project,\u201d says a\nwoman villager, requesting\nanonymity.\nIt was afterreports in the local\nmedia that the district authori-\nties took note, and asked Purnea\nMunicipal Commissioner Kumar\nMangalam to \u201cinvestigate\u201d.\n\nOn March 25, Mangalam or-\ndered that the bridge be demol-\nished within twodays. But when\nofficials went to the spot on\nMarch 27, he says, \u201cLocals op-\nposed the demolition, claiming\nit was a community effort.\u201d The\nprotesters, as per the villagers,\nmade up asmall group of around\nadozen people.\nMangalam told The Indian\nExpress: \u201cWhoever built the\nbridge didn\u2019t seek the permission\nof the Municipal Corporation. We\nchecked with the Water\nResources Department, and they\nhad not given approval either.\u201d\nOn why it took them so long\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.55452865064694,
+   "ocr_low_conf_share": 0.024029574861367836,
+   "headline": "Purnea bridge will be falling, but a puzzle remains: How did it come up?",
+   "deck": "",
+   "byline": "ANCHOR; HIMANSHU HARSH; PURNEA (BIHAR), APRIL 2",
+   "text": "LAST YEAR, Bihar saw 12 bridges collapse over 20 days. This time, the state is facing a predicament equally unique: a bridge that has sprung out of nowhere. Only, as per locals, it should never have. The 60-foot-long, 10-foot-wide structure started coming up over the Kari Kosi river in Rahmat Nagar on the outskirts\n\nof Purnea sometime in January. While the authorities look for the \"unknown people\" behindit, who claimed they were working on a \"government project\", villagerssee the handiworkof land sharks seeking to sell their flood-prone farm plots, and throwing in the bridge as extra attraction, If completed, the bridge would have linked the mainland along Kari Kosi to the floodplains, drawing buyers for the latter, as per the plan. After itwas \"discovered\" last week, an attempt was made to demolish it. However, some villagers, believed to be interested in selling their lands, did not let\n\nofficials pull it down. Among those who watched indespair as the bridge came up is Ramzani, 59, who lives in the nearby Bengali Basti, and does farming in the floodplains. He says the floodplains are under water from May till winter, allowing a window for just one paddy crop a year. \"There is no village or settlement there... it's just farmland,\" he says. Mohammad Siraj, 52, also a paddy farmer, says: \"We plantin January-February, and harvest by late April or early May, when the floods come and the whole area gets submerged... Even during the dry months, we have\n\nto wade through knee-deep water or use a tractor... What's the point of a bridge to these plains? It will only ruin us.\" Becauseit coincided with the planting season, the farmers remember exactly when the bridge started taking shape. \"Some people stopped us from sowing crops,\" says Ramzani. Around 28 acres of the floodplains falling under the bridge span were affected, with sowing continuing in the parts towards the other end. The builders told the farmers it was a government project, but Mohammad Fajlu says they had their suspicions. \"The builders\n\nused substandard materials, took\n\nsand from the river itself and made a very shallow base. The amount of water this river gets during the monsoon, a bridge like this would not have held for even aweek,\" says the 34-year-old. But, at worst, the villagers thought it was just another government project \"scam\". \"Only later did we lear it wasn't even a government project,\" says a woman villager, requesting anonymity. It was afterreports in the local media that the district authorities took note, and asked Purnea Municipal Commissioner Kumar Mangalam to \"investigate\".\n\nOn March 25, Mangalam ordered that the bridge be demolished within twodays. But when officials went to the spot on March 27, he says, \"Locals opposed the demolition, claiming it was a community effort.\" The protesters, as per the villagers, made up asmall group of around adozen people. Mangalam told The Indian Express: \"Whoever built the bridge didn't seek the permission of the Municipal Corporation. We checked with the Water Resources Department, and they had not given approval either.\" On why it took them so long",
+   "n_words": 514,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.2,
+ "flags": []
+}

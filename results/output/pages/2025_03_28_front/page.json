@@ -1,0 +1,616 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_28_front",
+ "source_file": "2025-03-28_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-28_front.png",
+ "date": "2025-03-28",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 425,
+  "mean_line_conf": 89.23155425710682,
+  "orphan_words": 0,
+  "body_words_total": 1628
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      692,
+      1241,
+      1305
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1382,
+      722,
+      1452
+     ],
+     [
+      321,
+      1502,
+      765,
+      2090
+     ]
+    ],
+    "layout_words": 79
+   },
+   "headline_raw": "Over half of IITs saw\n10 percentage point\ndrop in placement\nsince \u201921-22: Govt data\nHouse panel says \u2018unusual decline\u2019;\namong older IITs, sharpest fall in Delhi",
+   "deck_raw": "",
+   "body_raw": "ABHINAYAHARIGOVIND\nNEW DELHI, MARCH 27\n\nIN MORE than half of the coun-\ntry\u2019s 23 Indian Institutes of\nTechnology (IfTs), placements for\nBTech students dropped by\nmore than 10 percentage points\nin 2023-24 compared to 2021-\n22, according to the first such\ndisclosure of data by the Union\ngovernment.\nBarring IIT(BHU) Varanasi, 22\nof the 23 IITs have seen a drop in\nplacements in 2023-24 com-\npared to 2021-22, according to\ninformation provided by the gov-\nernment to the Parliamentary",
+   "ocr_conf": 93.45569620253164,
+   "ocr_low_conf_share": 0.012658227848101266,
+   "headline": "Over half of IITs saw 10 percentage point drop in placement since '21-22: Govt data House panel says 'unusual decline'; among older IITs, sharpest fall in Delhi",
+   "deck": "",
+   "byline": "ABHINAYAHARIGOVIND; NEW DELHI, MARCH 27",
+   "text": "IN MORE than half of the country's 23 Indian Institutes of Technology (IfTs), placements for BTech students dropped by more than 10 percentage points in 2023-24 compared to 2021- 22, according to the first such disclosure of data by the Union government. Barring IIT(BHU) Varanasi, 22 of the 23 IITs have seen a drop in placements in 2023-24 compared to 2021-22, according to information provided by the government to the Parliamentary",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1301,
+      773,
+      3186,
+      1115
+     ],
+     [
+      1298,
+      1147,
+      1733,
+      1478
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1301,
+      696,
+      2586,
+      745
+     ]
+    ],
+    "body_boxes": [
+     [
+      1297,
+      1581,
+      1567,
+      1651
+     ],
+     [
+      1296,
+      1700,
+      1742,
+      2087
+     ],
+     [
+      1787,
+      1898,
+      2227,
+      2091
+     ],
+     [
+      2275,
+      1899,
+      2716,
+      2091
+     ],
+     [
+      2762,
+      1148,
+      3205,
+      2085
+     ]
+    ],
+    "layout_words": 203
+   },
+   "headline_raw": "3 policemen killed in gunbattle\nduring J&K search for terrorists\n3 from terror\ngroup also killed,\n5 days after forest\nsighting; likely\ncame from Pak",
+   "deck_raw": "INCIDENT IN JAMMU\u2019S KATHUA DISTRICT",
+   "body_raw": "ARUN SHARMA\nJAMMU, MARCH 27\n\nTHREE POLICEMEN and three\nmilitants were killed in a fierce\ngunbattle that broke out\nThursday in Jammu and\nKashmir\u2019s Kathua district,\nsources said.\nThe militants are suspected\nto be part of a fresh group of\naround half a dozen who crossed\nover from Pakistan, and were\n\nfirst spotted by a local couple in\nthe forests at Saniyal village near\nthe International Border on\nSunday. After the local residents\nraised the alarm, security forces\n\nbegan searches, and on Sunday\nevening, briefly exchanged fire\nwith the militants.\nThe encounter on Thursday\ntook place on the fifth day of the\n\ncombing operation by joint se-\ncurity forces in Hiranagar sub-\ndivision of Kathua.\nThe policemen killed\nThursday were identified as\nSelection Grade Constables Tariq\nAhmad from Reasi, Jaswant\nSingh from Londi in Hiranagar,\nand Balwinder Singh from\nKanna Chak in Kathua.\nSub-Divisional Police Officer\n(Border) Dheeraj Katoch was\namong four injured security per-\nsonnel. The other injured per-\nsonnel were Constable Bharat\nChalotra, Special Police Officer\nHappy Sharma, and Army's Naik\nGurinder Singh.\nAfter the brief encounter on\nSunday, there had been no con-\ntact with the militants until\nThursday. Several senior officers\ntook part in the combing\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.4656862745098,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "3 policemen killed in gunbattle during J&K search for terrorists 3 from terror group also killed, 5 days after forest sighting; likely came from Pak",
+   "deck": "INCIDENT IN JAMMU'S KATHUA DISTRICT",
+   "byline": "ARUN SHARMA; JAMMU, MARCH 27",
+   "text": "THREE POLICEMEN and three militants were killed in a fierce gunbattle that broke out Thursday in Jammu and Kashmir's Kathua district, sources said. The militants are suspected to be part of a fresh group of around half a dozen who crossed over from Pakistan, and were\n\nfirst spotted by a local couple in the forests at Saniyal village near the International Border on Sunday. After the local residents raised the alarm, security forces\n\nbegan searches, and on Sunday evening, briefly exchanged fire with the militants. The encounter on Thursday took place on the fifth day of the\n\ncombing operation by joint security forces in Hiranagar subdivision of Kathua. The policemen killed Thursday were identified as Selection Grade Constables Tariq Ahmad from Reasi, Jaswant Singh from Londi in Hiranagar, and Balwinder Singh from Kanna Chak in Kathua. Sub-Divisional Police Officer (Border) Dheeraj Katoch was among four injured security personnel. The other injured personnel were Constable Bharat Chalotra, Special Police Officer Happy Sharma, and Army's Naik Gurinder Singh. After the brief encounter on Sunday, there had been no contact with the militants until Thursday. Several senior officers took part in the combing",
+   "n_words": 190,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      761,
+      4058,
+      1286
+     ],
+     [
+      3255,
+      1333,
+      4132,
+      1462
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3255,
+      698,
+      3856,
+      731
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      1496,
+      3693,
+      1614
+     ],
+     [
+      3251,
+      1662,
+      3695,
+      3121
+     ],
+     [
+      3900,
+      2100,
+      4115,
+      2190
+     ],
+     [
+      3786,
+      2257,
+      4142,
+      2719
+     ],
+     [
+      3739,
+      2810,
+      4182,
+      3115
+     ]
+    ],
+    "layout_words": 289
+   },
+   "headline_raw": "Putin will visit\nIndia, we share\ncall for talks on\nUkraine: Russia\nLavrov praises Modi and his govt for\n\u2018balanced position\u2019 on the conflict",
+   "deck_raw": "HIS FIRST SINCE WAR BEGAN",
+   "body_raw": "DIVYAA\nNEW DELHI, MARCH 27\n\nPRAISING THE Indian govern-\nment and Prime Minister\nNarendra Modi for \u201cconsis-\ntently\u201d taking a \u201cbalanced posi-\ntiononthe Ukrainiancrisis\u201d and\nfor advocating its \u201cresolution\nthrough dialogue\u201d, Russian\nForeign Minister Sergey Lavrov\nsaid Thursday that President\nVladimir Putin will visit India\nthis year and preparations for it\nare underway.\nThis will be Putin\u2019s first visit\nto India after the Russian inva-\nsion of Ukraine in February 2022.\nThe announcement of the visit\ncomes at a time when US\nPresident Donald Trump has\ntaken the lead in mediating a\nceasefire between the Kremlin\nand Kyiv. Trumpis also expected\nto visit India for the summit of\nQuad leaders later this year.\nIna video address to a con-\nference titled \u2018Russia and India:\nTogether Towards a New\nBilateral Agenda\u2019, hosted by the\nRussian International Affairs\nCouncil and the Indian Embassy\nin Moscow, Lavrov said, \u201cIt is\nsymbolic that Prime Minister\nModi made his first bilateral for-\neign visit after his re-election last\nyear to Russia. Now itis our tum,\nRussian President Putin has ac-\ncepted the invitation of the head\nof the Indian government. The\n\nThe war\n1@ and Delhi\n\nTHE RUSSIAN invasion of\nUkraine in February 2022\ndid put India in a diplo-\nmatic pickle, but Delhi\nhas been one of the few\nCapitals regularly talking\nto both the Kremlinand\nKyiv at various levels,\nmaintaining that the two\nsides need to do direct ne-\ngotiations and find away\nout of the crisis.\n\nvisit of the head of the Russian\nstate to the Republic of India is\nbeing prepared.\u201d\nThe visit is part of a protocol\nbetween India and Russia for re-\nciprocal annual visits by their\nleaders. Once the Ukraine war\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.62020905923345,
+   "ocr_low_conf_share": 0.03484320557491289,
+   "headline": "Putin will visit India, we share call for talks on Ukraine: Russia Lavrov praises Modi and his govt for 'balanced position' on the conflict",
+   "deck": "HIS FIRST SINCE WAR BEGAN",
+   "byline": "DIVYAA; NEW DELHI, MARCH 27",
+   "text": "PRAISING THE Indian government and Prime Minister Narendra Modi for \"consistently\" taking a \"balanced positiononthe Ukrainiancrisis\" and for advocating its \"resolution through dialogue\", Russian Foreign Minister Sergey Lavrov said Thursday that President Vladimir Putin will visit India this year and preparations for it are underway. This will be Putin's first visit to India after the Russian invasion of Ukraine in February 2022. The announcement of the visit comes at a time when US President Donald Trump has taken the lead in mediating a ceasefire between the Kremlin and Kyiv. Trumpis also expected to visit India for the summit of Quad leaders later this year. Ina video address to a conference titled 'Russia and India: Together Towards a New Bilateral Agenda', hosted by the Russian International Affairs Council and the Indian Embassy in Moscow, Lavrov said, \"It is symbolic that Prime Minister Modi made his first bilateral foreign visit after his re-election last year to Russia. Now itis our tum, Russian President Putin has accepted the invitation of the head of the Indian government. The\n\nThe war 1@ and Delhi\n\nTHE RUSSIAN invasion of Ukraine in February 2022 did put India in a diplomatic pickle, but Delhi has been one of the few Capitals regularly talking to both the Kremlinand Kyiv at various levels, maintaining that the two sides need to do direct negotiations and find away out of the crisis.\n\nvisit of the head of the Russian state to the Republic of India is being prepared.\" The visit is part of a protocol between India and Russia for reciprocal annual visits by their leaders. Once the Ukraine war",
+   "n_words": 268,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      804,
+      1246,
+      1239,
+      1306
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      1343,
+      1251,
+      2083
+     ]
+    ],
+    "layout_words": 88
+   },
+   "headline_raw": "arpest fall in Delhi",
+   "deck_raw": "",
+   "body_raw": "Standing Committee on\nEducation, Women, Children,\nYouth and Sports.\nIn its report on the Depart-\nment of Higher Education's de-\nmand for grants 2025-26, the\nParliamentary Standing Comm-\nittee headed by Congress MP\nDigvijaya Singh noted that there\nis an \u201cunusual decline\u201d in place-\nments in IITs and IITs between\nthe year 2021-22 and 2023-24,\nAmong the IITs that sawa\ndropof more than 10 percentage\npoints in BTech placements in\n2023-24 compared to 2021-22,\nwere the older IITs \u2014 Delhi(drop\nof around 15 percentage points,\nCONTINUEDON PAGE 2",
+   "ocr_conf": 91.42045454545455,
+   "ocr_low_conf_share": 0.03409090909090909,
+   "headline": "arpest fall in Delhi",
+   "deck": "",
+   "byline": "",
+   "text": "Standing Committee on Education, Women, Children, Youth and Sports. In its report on the Department of Higher Education's demand for grants 2025-26, the Parliamentary Standing Committee headed by Congress MP Digvijaya Singh noted that there is an \"unusual decline\" in placements in IITs and IITs between the year 2021-22 and 2023-24, Among the IITs that sawa dropof more than 10 percentage points in BTech placements in were the older IITs - Delhi(drop of around 15 percentage points, CONTINUEDON PAGE 2",
+   "n_words": 80,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      366,
+      2172,
+      1123,
+      2241
+     ],
+     [
+      654,
+      2263,
+      929,
+      2323
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      989,
+      2264,
+      1179,
+      2337
+     ],
+     [
+      365,
+      3011,
+      1195,
+      3079
+     ],
+     [
+      403,
+      3236,
+      680,
+      3318
+     ],
+     [
+      369,
+      4033,
+      710,
+      4166
+     ]
+    ],
+    "layout_words": 26
+   },
+   "headline_raw": "MORE APPEAR, FEWER GET PLACEMENTS\nStudents appeared\nfor placements",
+   "deck_raw": "",
+   "body_raw": "% of students\nplaced\n\nSource: Report of the Parliamentary Standing Committee on Education,\nWomen, Children, Youth and Sports\n\nWITH TODAY\u2019S\nISSUE\n\nTHELIST OF\nMOST POWERFUL\nINDIANS",
+   "ocr_conf": 94.46153846153847,
+   "ocr_low_conf_share": 0.0,
+   "headline": "MORE APPEAR, FEWER GET PLACEMENTS Students appeared for placements",
+   "deck": "",
+   "byline": "",
+   "text": "% of students placed\n\nSource: Report of the Parliamentary Standing Committee on Education, Women, Children, Youth and Sports\n\nWITH TODAY'S ISSUE\n\nTHELIST OF MOST POWERFUL INDIANS",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      2237,
+      3151,
+      2462
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      2530,
+      1683,
+      2641
+     ],
+     [
+      1296,
+      2690,
+      1741,
+      3120
+     ],
+     [
+      2024,
+      2529,
+      2219,
+      2725
+     ],
+     [
+      1786,
+      2808,
+      2226,
+      3120
+     ]
+    ],
+    "layout_words": 108
+   },
+   "headline_raw": "Meerut police warn namaz-on-road can lead\nto passport cancellation; Orwellian, says Mo\u2018",
+   "deck_raw": "",
+   "body_raw": "AMIT SHARMA\n& NEETIKAJHA\nMEERUT, NOIDA, MARCH 27\n\nSTEPPING UP security measures\nahead of Eid-ul-Fitr, police in\nUP\u2019s Meerut have warned\nagainst namaz on streets, saying\nviolators would face legal action\nthat could lead to registration of\ncriminal cases, cancellation of\npassports and licences.\nThis has drawn a sharp re-\nsponse from Union Minister of\nState and RLD chief Jayant Singh\n\nChaudhary wha, in a post on X,\nsaid: \u201cPolicing towards\nOrwellian 1984!\u201d. He was refer-\nring to the Thought Police with\nsweeping powers in Orwell's\n\u2018Nineteen Eighty-Four\u2019.\nOn Wednesday, Meerut po-\nlice submitted a list of eight per-",
+   "ocr_conf": 88.47222222222223,
+   "ocr_low_conf_share": 0.07407407407407407,
+   "headline": "Meerut police warn namaz-on-road can lead to passport cancellation; Orwellian, says Mo'",
+   "deck": "",
+   "byline": "AMIT SHARMA; & NEETIKAJHA; MEERUT, NOIDA, MARCH 27",
+   "text": "STEPPING UP security measures ahead of Eid-ul-Fitr, police in UP's Meerut have warned against namaz on streets, saying violators would face legal action that could lead to registration of criminal cases, cancellation of passports and licences. This has drawn a sharp response from Union Minister of State and RLD chief Jayant Singh\n\nChaudhary wha, in a post on X, said: \"Policing towards Orwellian 1984!\". He was refer-ring to the Thought Police with sweeping powers in Orwell's 'Nineteen Eighty-Four'. On Wednesday, Meerut police submitted a list of eight per-",
+   "n_words": 88,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2237,
+      2358,
+      3186,
+      2463
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      2492,
+      2716,
+      3121
+     ],
+     [
+      2763,
+      2492,
+      3207,
+      3114
+     ],
+     [
+      2388,
+      5358,
+      3499,
+      5591
+     ],
+     [
+      2325,
+      5678,
+      3690,
+      5798
+     ],
+     [
+      2313,
+      5829,
+      4132,
+      5917
+     ]
+    ],
+    "layout_words": 298
+   },
+   "headline_raw": "n; Orwellian, says MoS",
+   "deck_raw": "",
+   "body_raw": "sons to District Magistrate Dr\nVijay Kumar Singh, saying they\nviolated last year\u2019s order pro-\nhibiting namaz on the streets\nduring Eid. Police have initiated\nsteps for cancellation of their li-\ncences and passports.\nMeerut City SP Ayush Vikram\nSingh said: \u201cWe have appealed\nto people that they offer namaz\nat a nearby mosque or reach the\nIdgah on time. We have given\nStrict instructions that under no\ncondition will prayers be al-\nlowed on roads.\u201d\nHe said last year a few people\n\nhad offered namaz on a road on\nEid. \u201cWe registered an FIRagainst\nthem... This time too if someone\nsits for prayers in the open, very\nstrict action will be taken. We are\nmaking continuous appeals.\u201d\nSingh said in case a criminal\ncase is registered against a per-\nson, itcan lead to cancellationof\nlicence and passport. The person\nbooked, he said, will not get an\nNOC (no-objection certificate) to\napply for a passport or licence.\nMeerut range DIG Kalanidhi\nNaithani said violators will face\nCONTINUED ON PAGE 2\n\n@ Start with Monthly premium as low as %2,500/-\n\u00ae Choice of two funds - Upto 100% invested in select stocks of\nNIFTY 50 (Flexi Smart Growth Fund) or NIFTY 100 (Flexi Growth Fund)\ne With Guaranteed additions*\n\nFor details, contact your Agent/Nearest LIC Branch or SMS YOUR CITY NAME to 56767474\nrome GTi Quciaan OQ glewseee CLE\n\nBEWARE OF SPURIOUS PHONE CALLS AND FICTITIOUS / FRAUDULENT OFFERS. IRDAI or its officials do not involve in any activities of insurance business like selling insurance policies announcing\nbonus or investment of premiums, refund of amounts, Policyholders or the prospects receiving such phone cails are requested to lodge a police complaint. For more details on risk factors, terms\nand conditions, please read sales brochure carefully before concluding a sale.",
+   "ocr_conf": 90.86868686868686,
+   "ocr_low_conf_share": 0.04377104377104377,
+   "headline": "n; Orwellian, says MoS",
+   "deck": "",
+   "byline": "",
+   "text": "sons to District Magistrate Dr Vijay Kumar Singh, saying they violated last year's order prohibiting namaz on the streets during Eid. Police have initiated steps for cancellation of their licences and passports. Meerut City SP Ayush Vikram Singh said: \"We have appealed to people that they offer namaz at a nearby mosque or reach the Idgah on time. We have given Strict instructions that under no condition will prayers be allowed on roads.\" He said last year a few people\n\nhad offered namaz on a road on Eid. \"We registered an FIRagainst them... This time too if someone sits for prayers in the open, very strict action will be taken. We are making continuous appeals.\" Singh said in case a criminal case is registered against a person, itcan lead to cancellationof licence and passport. The person booked, he said, will not get an NOC (no-objection certificate) to apply for a passport or licence. Meerut range DIG Kalanidhi Naithani said violators will face\n\n@ Start with Monthly premium as low as %2,500/- \u00ae Choice of two funds - Upto 100% invested in select stocks of NIFTY 50 (Flexi Smart Growth Fund) or NIFTY 100 (Flexi Growth Fund) e With Guaranteed additions*\n\nFor details, contact your Agent/Nearest LIC Branch or SMS YOUR CITY NAME to 56767474 rome GTi Quciaan OQ glewseee CLE\n\nBEWARE OF SPURIOUS PHONE CALLS AND FICTITIOUS / FRAUDULENT OFFERS. IRDAI or its officials do not involve in any activities of insurance business like selling insurance policies announcing bonus or investment of premiums, refund of amounts, Policyholders or the prospects receiving such phone cails are requested to lodge a police complaint. For more details on risk factors, terms and conditions, please read sales brochure carefully before concluding a sale.",
+   "n_words": 289,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      3185,
+      2201,
+      3413
+     ],
+     [
+      811,
+      3310,
+      1770,
+      3412
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      3480,
+      1129,
+      3589
+     ],
+     [
+      807,
+      3640,
+      1249,
+      4227
+     ],
+     [
+      1296,
+      3955,
+      1737,
+      4228
+     ],
+     [
+      1784,
+      3442,
+      2227,
+      4064
+     ],
+     [
+      1786,
+      4147,
+      2171,
+      4221
+     ],
+     [
+      1827,
+      4351,
+      2185,
+      4385
+     ],
+     [
+      1921,
+      4426,
+      2094,
+      4454
+     ],
+     [
+      1826,
+      4494,
+      2191,
+      4728
+     ]
+    ],
+    "layout_words": 220
+   },
+   "headline_raw": "Rap to Rahul to House norms,\nOpp unites to approach Speaker\nOpp unites to approac",
+   "deck_raw": "",
+   "body_raw": "LIZ MATHEW\n& ASADREHMAN\nNEW DELHI, MARCH27\n\nIN A show of unity, Opposition\nleaders of the INDIA bioc\nThursday approached Lok Sabha\nSpeaker Om Birla to register their\nprotest at \u201cdisregard for Parlia-\nment and parliamentary proce-\ndures by the government\u201d inthe\nfunctioning of the House, hand-\ning him a letter signed by them.\nThe floor leaders of the\nOpposition parties also flagged\n\u201cdenial of opportunity\u201d toLeader\nof the Opposition Rahul Gandhi\nto speak in the House. Birla\u2019s sug-\ngestion on Wednesday that the\n\nCongress leader wasn\u2019t uphold-\ning the dignity of the House, fol-\nlowed by a quick adjournment\nof the Lok Sabha, was being\n\u201cpoliticised\u201d, they said.\nSources said the Opposition\nletter raises 12 points, including\n\nthe non-appointment of a\nDeputy Speaker in the Lok\nSabha, \u201cdisregard\u201d for Business\nAdvisory Committee (BAC) deci-\nsions, \u201cneglect\u201d of adjournment\nmotions, \u201cexclusion of key min-\nistries\u201d in Budget discussions,\nand \u201cswitching off of micro-\nphones\u201d of Opposition leaders.\nThe Speaker, who met the\nOpposition leaders during Zero\nHour, reportedly assured them\nthathe would go through the is-\nsues and get back.\nWhile INDIA bloc leaders\nCONTINUED ON PAGE2\n\nRELATED REPORTS\nPAGE 4\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nPolice notice five at Tudge\u2019s\nhouse in 8 hours. Supreme\nCourt orders On hate speech,\nFree speech ull\nsome day set\nnoticed by\na BA enka",
+   "ocr_conf": 89.51801801801801,
+   "ocr_low_conf_share": 0.05405405405405406,
+   "headline": "Rap to Rahul to House norms, Opp unites to approach Speaker Opp unites to approac",
+   "deck": "",
+   "byline": "LIZ MATHEW; & ASADREHMAN; NEW DELHI, MARCH27",
+   "text": "IN A show of unity, Opposition leaders of the INDIA bioc Thursday approached Lok Sabha Speaker Om Birla to register their protest at \"disregard for Parliament and parliamentary procedures by the government\" inthe functioning of the House, handing him a letter signed by them. The floor leaders of the Opposition parties also flagged \"denial of opportunity\" toLeader of the Opposition Rahul Gandhi to speak in the House. Birla's suggestion on Wednesday that the\n\nCongress leader wasn't upholding the dignity of the House, followed by a quick adjournment of the Lok Sabha, was being \"politicised\", they said. Sources said the Opposition letter raises 12 points, including\n\nthe non-appointment of a Deputy Speaker in the Lok Sabha, \"disregard\" for Business Advisory Committee (BAC) decisions, \"neglect\" of adjournment motions, \"exclusion of key ministries\" in Budget discussions, and \"switching off of micro-phones\" of Opposition leaders. The Speaker, who met the Opposition leaders during Zero Hour, reportedly assured them thathe would go through the issues and get back. While INDIA bloc leaders\n\nRELATED REPORTS\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nPolice notice five at Tudge's house in 8 hours. Supreme Court orders On hate speech, Free speech ull some day set noticed by a BA enka",
+   "n_words": 200,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4294,
+      1726,
+      4492
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      4588,
+      665,
+      4658
+     ],
+     [
+      317,
+      4708,
+      759,
+      5051
+     ],
+     [
+      808,
+      4549,
+      1248,
+      4655
+     ],
+     [
+      807,
+      4667,
+      1248,
+      5058
+     ],
+     [
+      1294,
+      4549,
+      1737,
+      5051
+     ]
+    ],
+    "layout_words": 167
+   },
+   "headline_raw": "Two smuggling fentanyl inputs got\nit from firm indicted in US: ATS",
+   "deck_raw": "",
+   "body_raw": "BRENDAN DABHI\nAHMEDABAD, MARCH 27\n\nTHE GUJARAT Anti-Terrorist\nSquad (ATS) dlaims to have found\na link between two persons ar-\nrested this month for allegedly\nsmuggling \u201cfentanyl precursors\u201d\nto Mexico and Guatemala and a\nHyderabad-based pharma com-\npany, whose top executives have\nbeen indicted in the United States\n\nfor unlawfully importing the pre-\ncursors, The Indian Express has\nlearnt.\n\nOn March 17, the Gujarat ATS\narrested Satishkumar Haresh\nSutaria and Yukta Ashishkumar\nModi, partners in three Surat-\nbased pharma companies, for al-\nlegedly exporting fentanyl pre-\ncursors \u2014 basic chemicals that\nform fentanyl, an opioid analgesic\nused in anaesthesia \u2014 illegally to\nMexico and Guatemala through\n\nair cargo from Maharashtra.\nOfficials claimed that over the\npast year, the two accused smug-\ngled at least 100 kg of fentanyl\nprecursors out of India.\nOn March 20, three days af-\nter the arrest, the US\nDepartment of Justice indicted\nVasudha Pharma Chem Ltd and\nthree of its employees on\ncharges of illegally importing\nfentanyl precursors.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.92215568862275,
+   "ocr_low_conf_share": 0.029940119760479042,
+   "headline": "Two smuggling fentanyl inputs got it from firm indicted in US: ATS",
+   "deck": "",
+   "byline": "BRENDAN DABHI; AHMEDABAD, MARCH 27",
+   "text": "THE GUJARAT Anti-Terrorist Squad (ATS) dlaims to have found a link between two persons arrested this month for allegedly smuggling \"fentanyl precursors\" to Mexico and Guatemala and a Hyderabad-based pharma company, whose top executives have been indicted in the United States\n\nfor unlawfully importing the precursors, The Indian Express has learnt.\n\nOn March 17, the Gujarat ATS arrested Satishkumar Haresh Sutaria and Yukta Ashishkumar Modi, partners in three Surat-based pharma companies, for allegedly exporting fentanyl precursors - basic chemicals that form fentanyl, an opioid analgesic used in anaesthesia - illegally to Mexico and Guatemala through\n\nair cargo from Maharashtra. Officials claimed that over the past year, the two accused smug-gled at least 100 kg of fentanyl precursors out of India. On March 20, three days after the arrest, the US Department of Justice indicted Vasudha Pharma Chem Ltd and three of its employees on charges of illegally importing fentanyl precursors.",
+   "n_words": 150,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5183,
+      2220,
+      5422
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5503,
+      499,
+      5536
+     ],
+     [
+      319,
+      5657,
+      583,
+      5727
+     ],
+     [
+      318,
+      5775,
+      759,
+      6080
+     ],
+     [
+      319,
+      6092,
+      758,
+      6166
+     ],
+     [
+      1779,
+      5461,
+      2246,
+      6160
+     ]
+    ],
+    "layout_words": 137
+   },
+   "headline_raw": "Gadkari meets Chandrashekhar Azad\nmeets Akhilesh: Party to beat all parties",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nHAMZA KHAN\nJAIPUR, MARCH 27\n\nARRIVING AT the birthday cele-\nbrations of Rashtriya Loktantrik\nParty (RLP) founder and Nagaur\nMP Hanuman Beniwal\u2019s son\nAshutosh, Union minister Nitin\nGadkari told the 10-year-old jok-\ningly, \u201cBecome anything but a\nleader.\u201d\n\nBut going by the celebrations\nfor Ashutosh\u2019s birthday, with a\n\nVVP visitor list that started com-\ning in Tuesday and has not\nflagged since, the boy's fate may\nbe predestined.\nBeniwal is the lone MP of his\nparty, with no MLAs. But Ashu-\ntosh\u2019s birthday festivities have\ndrawn several Union ministers\nand former Chief Ministers, as\nwellas a surfeit of sitting and for-\nmer MPs and MLAs. Including\nfrom Beniwal\u2019s home state\nRajasthan.\nOne explanation is the\nfriends Beniwal has picked up\nacross parties in his shifting po-\nlitical career \u2014 and the potential\nCONTINUED ON PAGE2 |",
+   "ocr_conf": 92.33576642335767,
+   "ocr_low_conf_share": 0.014598540145985401,
+   "headline": "Gadkari meets Chandrashekhar Azad meets Akhilesh: Party to beat all parties",
+   "deck": "",
+   "byline": "ANCHOR; HAMZA KHAN; JAIPUR, MARCH 27",
+   "text": "ARRIVING AT the birthday celebrations of Rashtriya Loktantrik Party (RLP) founder and Nagaur MP Hanuman Beniwal's son Ashutosh, Union minister Nitin Gadkari told the 10-year-old jokingly, \"Become anything but a leader.\"\n\nBut going by the celebrations for Ashutosh's birthday, with a\n\nVVP visitor list that started coming in Tuesday and has not flagged since, the boy's fate may be predestined. Beniwal is the lone MP of his party, with no MLAs. But Ashutosh's birthday festivities have drawn several Union ministers and former Chief Ministers, as wellas a surfeit of sitting and former MPs and MLAs. Including from Beniwal's home state Rajasthan. One explanation is the friends Beniwal has picked up across parties in his shifting political career - and the potential",
+   "n_words": 121,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.2,
+ "flags": []
+}

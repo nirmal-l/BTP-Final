@@ -1,0 +1,592 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_15_editorial",
+ "source_file": "2025-09-15_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-15_editorial.png",
+ "date": "2025-09-15",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 443,
+  "mean_line_conf": 89.95423702907105,
+  "orphan_words": 451,
+  "body_words_total": 3228
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      374,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      618,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      763,
+      771,
+      1091,
+      802
+     ],
+     [
+      435,
+      919,
+      1418,
+      962
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "\u201d FOUNDED BY @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 82.7,
+   "ocr_low_conf_share": 0.1,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2071,
+      604,
+      3726,
+      774
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2258,
+      887,
+      3552,
+      1017
+     ]
+    ],
+    "body_boxes": [
+     [
+      2319,
+      2477,
+      2827,
+      3262
+     ],
+     [
+      2923,
+      1251,
+      3533,
+      3269
+     ]
+    ],
+    "layout_words": 407
+   },
+   "headline_raw": "A time to reinvent",
+   "deck_raw": "Developing countries risk being casualties of global\nreset. They can use shocks to recharge their economies",
+   "body_raw": "Even if global trade were to\nwobble, India must not\ndespair. India\u2019s share of\nglobal manufacturing is still\nless than 2 per cent. So we\ndon\u2019t need the pie to grow.\nWe need our share to grow\nwithin the pie. The collateral\nbenefits of external\norientation are well\nunderstood. Apart from\nexports providing a source\nof demand, global\ncompetition forces firms to\nbe more productive, efficient\nand reach economic scale.\n\n\u201cChina Shock\u201d in the early 2000s, EMs must\nbrace for a China Shock 2.0 after the Trump\ntariffs. Not only must they prepare for amore\nprotectionist world that hinders exports, but\nEMs mustalso simultaneously play defence\nat home to compete againsta rising influxof\nChinese imports that threaten their domes-\ntic manufacturing bases.\nTechnology: The breathtaking pace of\ntechnological change risks morphing from\nlabour-augmenting to labour-substituting.\nAlready, rising capital-labour ratios in manu-\nfacturing have pressured blue-collar jobs\naround theworld. India, too, has experienced\nasharp rise in its capital intensity across man-\nufacturing and exports over the last two\ndecades, atodds with its labour-abundant en-\ndowment. Now, the rapid evolution of Al will\nsimply broaden pressures from blue-collar to\nwhite-collar. Job creation is getting progres-\nsively harder, and developing economies with\ntheir younger populations \u2014 from South Asia\nto sub-Saharan Africa \u2014 are mostatrisk.\nAll told, a potent combination of tariffs,\ntrade diversion and technology riskscreating\naperfectstorm for developing economies, Are\ntheslewof recent youth protests in South Asia\nthecanaryin the coal mine? How then should\npolicy respond?\nDon't turn inward: The demonstration\neffect of the US raising tariffs may embolden\nthe developing world to turn protectionist in\nthe mistaken belief that import substitution\ngenerates more growth and jobs. This would\nbe a grave mistake. We have seen this movie\nbefore in Indiaand know howit ends. We have\nlived through the LernerSymmetry Theorem\n\u2014that an import tariffis effectively an export\ntax. Only 13 economies since the Second\nWorld War have grown at 7 per cent for 25\nyears or more, and they all had one thing in\ncommon: Strong exports and global engage-\nment The US accounts for less than 15 percent\nof globalimports, There is hope yet for the rest\nofthe world to promote rules-based multilat-\neral trade.\nEven if global trade were to wobble, india\nmust not despair. India\u2019s share of global man-\nufacturing is still less than 2 per cent. So we\ndon't need the pie togrow. Weneed ourshare\nto grow within the pie. The collateral benefits",
+   "ocr_conf": 88.8943488943489,
+   "ocr_low_conf_share": 0.07371007371007371,
+   "headline": "A time to reinvent",
+   "deck": "Developing countries risk being casualties of global reset. They can use shocks to recharge their economies",
+   "byline": "",
+   "text": "Even if global trade were to wobble, India must not despair. India's share of global manufacturing is still less than 2 per cent. So we don't need the pie to grow. We need our share to grow within the pie. The collateral benefits of external orientation are well understood. Apart from exports providing a source of demand, global competition forces firms to be more productive, efficient and reach economic scale.\n\n\"China Shock\" in the early 2000s, EMs must brace for a China Shock 2.0 after the Trump tariffs. Not only must they prepare for amore protectionist world that hinders exports, but EMs mustalso simultaneously play defence at home to compete againsta rising influxof Chinese imports that threaten their domestic manufacturing bases. Technology: The breathtaking pace of technological change risks morphing from labour-augmenting to labour-substituting. Already, rising capital-labour ratios in manufacturing have pressured blue-collar jobs around theworld. India, too, has experienced asharp rise in its capital intensity across manufacturing and exports over the last two decades, atodds with its labour-abundant endowment. Now, the rapid evolution of Al will simply broaden pressures from blue-collar to white-collar. Job creation is getting progressively harder, and developing economies with their younger populations - from South Asia to sub-Saharan Africa - are mostatrisk. All told, a potent combination of tariffs, trade diversion and technology riskscreating aperfectstorm for developing economies, Are theslewof recent youth protests in South Asia thecanaryin the coal mine? How then should policy respond? Don't turn inward: The demonstration effect of the US raising tariffs may embolden the developing world to turn protectionist in the mistaken belief that import substitution generates more growth and jobs. This would be a grave mistake. We have seen this movie before in Indiaand know howit ends. We have lived through the LernerSymmetry Theorem - that an import tariffis effectively an export tax. Only 13 economies since the Second World War have grown at 7 per cent for 25 years or more, and they all had one thing in common: Strong exports and global engagement The US accounts for less than 15 percent of globalimports, There is hope yet for the rest ofthe world to promote rules-based multilateral trade. Even if global trade were to wobble, india must not despair. India's share of global manufacturing is still less than 2 per cent. So we don't need the pie togrow. Weneed ourshare to grow within the pie. The collateral benefits",
+   "n_words": 400,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      416,
+      1091,
+      1436,
+      1192
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      1231,
+      1533,
+      3148
+     ]
+    ],
+    "layout_words": 542
+   },
+   "headline_raw": "BUILDING BRIDGES",
+   "deck_raw": "",
+   "body_raw": "PMwas right in framing Manipur\u2019s future as the focus of\ngovernance. The challenge now is to address historical faultlines\n3 IGHTHUNDRED AND sixty-four days since violence erupted and snowballed\ninto an ethnic conflict, which has claimed more than 250 lives and displaced\ntens of thousands of the state\u2019s residents, Prime Minister Narendra Modi vis-\nited Manipur on September 13. Although belated, the visit is a welcome step\namid the deadlockbetween the Meiteis and the Kukis, especially since the PM repeatedly\nemphasised the peace imperative and talked of the need to address the aspirations of the\nstate\u2019s youth. His stops in Kuki-dominated Churachandpur and Meitei-dominated Imphal,\nto meet internally displaced persons and inaugurate infrastructure projects, were sym-\nbolically significant, signalling to both communities that the country\u2019s highest executive\nauthority has summoned all political capital to respond to their concerns. The major theme\nof PM Modi\u2019s speeches was putting Manipur back on the developmental pathway -- a\njourney that has been disrupted by cycles of inter-community friction. At Churachandpur,\nhis first stop, and later in Imphal, the Prime Ministerreassured the people of Manipurthat\nhis government was making \u201call efforts\u201d to restore normalcy as he inaugurated highway,\nrail, and infotech projects worth thousands of crores, These initiatives are much-needed.\nThe Centre must now ensure that they are implemented in atime-bound manner.\nAmore compelling task is to address Manipur's historical faultlines and restore trust\namong the state\u2019s communities. PM Modi described the strife as a grave injustice to \u201cour\nancestors and our future generations,\u201d and stressed the need to build a \u201cstrong bridge\nbetween the people of the Hills and the Valley.\u201d Even a cursory look at the demands of the\nMeiteis and Kuki-Zos reveals the complexity of this challenge. On Saturday, the Kuki-Zo\nCouncil submitted a memorandum, reiterating their iongstanding demand fora \u201clasting\npolitical solution\u201d through a \u201cseparate administration\u201d. In contrast, the most influential\nMeitei civil society organisation, COCOMI, fiercely opposes any separate administration,\ndenouncing it as the \u201cethnicisation\u201d of citizenship and statehood. COCOMI has also pressed\nfor a National Register of Citizens and the identification of \u201cillegal immigrants\u201d to correct\nwhat it perceives as a \u201cdemographic imbalance\u201d. And looming in the background is the\nissue that triggered the conflict in the first place: The Meitei demand for Scheduled Tribe\nstatus and the fear in the hills that it threatens the land rights of the tribal people.\nThat the PM and the state governor were the only dignitaries on the stage at both\nChurachandpurand Imphal frames the immediate challenge for the Centre in Manipur. The\ndismissal of the deeply unpopular N Biren Singh in February was followedby President\u2019s Rule,\nwhich has since been extended. At the same time, weakening the conditions that have made\nethnicity a divisive forcein the state's society requires sustained dialogue between the rep-\nresentatives of the communities. The Centre will have to handhold Manipur on the long\nhaul and enable the state to resume the political process that has been scarred by the eth-\nnic conflict. PM Modi\u2019s visit should be the harbinger of a healing process. In the coming\nweeks and months, the Centre will need to keep talking to all groups in Manipur to make\nsure they talkto each other. The PM\u2019s words need to translate to progress onthe ground.",
+   "ocr_conf": 91.5451197053407,
+   "ocr_low_conf_share": 0.049723756906077346,
+   "headline": "BUILDING BRIDGES",
+   "deck": "",
+   "byline": "",
+   "text": "PMwas right in framing Manipur's future as the focus of governance. The challenge now is to address historical faultlines 3 IGHTHUNDRED AND sixty-four days since violence erupted and snowballed into an ethnic conflict, which has claimed more than 250 lives and displaced tens of thousands of the state's residents, Prime Minister Narendra Modi visited Manipur on September 13. Although belated, the visit is a welcome step amid the deadlockbetween the Meiteis and the Kukis, especially since the PM repeatedly emphasised the peace imperative and talked of the need to address the aspirations of the state's youth. His stops in Kuki-dominated Churachandpur and Meitei-dominated Imphal, to meet internally displaced persons and inaugurate infrastructure projects, were symbolically significant, signalling to both communities that the country's highest executive authority has summoned all political capital to respond to their concerns. The major theme of PM Modi's speeches was putting Manipur back on the developmental pathway -- a journey that has been disrupted by cycles of inter-community friction. At Churachandpur, his first stop, and later in Imphal, the Prime Ministerreassured the people of Manipurthat his government was making \"all efforts\" to restore normalcy as he inaugurated highway, rail, and infotech projects worth thousands of crores, These initiatives are much-needed. The Centre must now ensure that they are implemented in atime-bound manner. Amore compelling task is to address Manipur's historical faultlines and restore trust among the state's communities. PM Modi described the strife as a grave injustice to \"our ancestors and our future generations,\" and stressed the need to build a \"strong bridge between the people of the Hills and the Valley.\" Even a cursory look at the demands of the Meiteis and Kuki-Zos reveals the complexity of this challenge. On Saturday, the Kuki-Zo Council submitted a memorandum, reiterating their iongstanding demand fora \"lasting political solution\" through a \"separate administration\". In contrast, the most influential Meitei civil society organisation, COCOMI, fiercely opposes any separate administration, denouncing it as the \"ethnicisation\" of citizenship and statehood. COCOMI has also pressed for a National Register of Citizens and the identification of \"illegal immigrants\" to correct what it perceives as a \"demographic imbalance\". And looming in the background is the issue that triggered the conflict in the first place: The Meitei demand for Scheduled Tribe status and the fear in the hills that it threatens the land rights of the tribal people. That the PM and the state governor were the only dignitaries on the stage at both Churachandpurand Imphal frames the immediate challenge for the Centre in Manipur. The dismissal of the deeply unpopular N Biren Singh in February was followedby President's Rule, which has since been extended. At the same time, weakening the conditions that have made ethnicity a divisive forcein the state's society requires sustained dialogue between the representatives of the communities. The Centre will have to handhold Manipur on the long haul and enable the state to resume the political process that has been scarred by the ethnic conflict. PM Modi's visit should be the harbinger of a healing process. In the coming weeks and months, the Centre will need to keep talking to all groups in Manipur to make sure they talkto each other. The PM's words need to translate to progress onthe ground.",
+   "n_words": 539,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1623,
+      1115,
+      2038,
+      1211
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      1250,
+      2231,
+      3268
+     ]
+    ],
+    "layout_words": 351
+   },
+   "headline_raw": "SAJJID Z CHINOY",
+   "deck_raw": "",
+   "body_raw": "THE OVERWHELMING FOCUS of the current\nglobal disruption has been on assessing its im-\npact on the US and China. Instead, the real\npressure is likely to fall on emerging markets\nand developing economies that are simulta-\nneously being buffeted by the tripleshocks of\ntariffs, trade diversion, and technology.\nTariffs: Intemational trade has been the\nlifeblood of emerging markets (EMs) for 25\nyears. Growth in EMs (even outside China)and\nglobal trade volumes are so strongly corre-\nlated that they are virtuaily indistinguisnabie,\nNow global trade is facing one ofits most acute\ncrises. First, growth had slowed sharply after\nthe global financial crisis. Then, Covid engen-\ndered a slewofnon-tariff barriers around the\nworld. Now come the Trump tariffs. The ef-\nfective tariffs in the US have increased from\n2.7 per cent to almost 18 per cent, levels last\nseen inthe 1930s.\nHow will emerging markets \u2014 far more\nopen and export-reliant than the US \u2014 grow\namid rising protectionism and economic\nbalkanisation? Where will growth come\nfrom for the small open economies whose\ndomestic markets are not large enough to\ncreate sufficient demand? What about the\nenormous efficiency benefits that trade has\ndelivered? In the run-up to the 250th an-\nniversary of Adam Smith's Wealth of Nations,\nthe concept of specialisation and exchange\nis under serious threat.\nTrade Diversion and China Shock 2.0:\nProtectionism is only half of the story. Think\nabout its knock-on effects. Ever since the US\nstarted imposing tariffs on China in 2017,\nChina has begun to redirect its exports to de-\nveloping economies from Latin America and\nAfrica to Asia. With US tariffs on China hiked\nfrom 10 per cent to 42 per cent, expect that\ndynamic to accelerate sharply. China is cur-\nrently floating in excess capacity that is driv-\ning deflationary pressures at home. Emerging\nmarkets must, therefore, brace for this Chinese\nexcess capacity to flood their markets at prices\nthey can scarcely compete with.\nSurging Chinese imports have impinged\non domestic manufacturing in Thailand,\nIndonesia and India in recent years. Expect\nthose pressures to increase dramatically af-\nter the Trump tariffs. The US experienced a",
+   "ocr_conf": 92.87179487179488,
+   "ocr_low_conf_share": 0.022792022792022793,
+   "headline": "SAJJID Z CHINOY",
+   "deck": "",
+   "byline": "",
+   "text": "THE OVERWHELMING FOCUS of the current global disruption has been on assessing its impact on the US and China. Instead, the real pressure is likely to fall on emerging markets and developing economies that are simultaneously being buffeted by the tripleshocks of tariffs, trade diversion, and technology. Tariffs: Intemational trade has been the lifeblood of emerging markets (EMs) for 25 years. Growth in EMs (even outside China)and global trade volumes are so strongly correlated that they are virtuaily indistinguisnabie, Now global trade is facing one ofits most acute crises. First, growth had slowed sharply after the global financial crisis. Then, Covid engendered a slewofnon-tariff barriers around the world. Now come the Trump tariffs. The effective tariffs in the US have increased from 2.7 per cent to almost 18 per cent, levels last seen inthe 1930s. How will emerging markets - far more open and export-reliant than the US - grow amid rising protectionism and economic balkanisation? Where will growth come from for the small open economies whose domestic markets are not large enough to create sufficient demand? What about the enormous efficiency benefits that trade has delivered? In the run-up to the 250th anniversary of Adam Smith's Wealth of Nations, the concept of specialisation and exchange is under serious threat. Trade Diversion and China Shock 2.0: Protectionism is only half of the story. Think about its knock-on effects. Ever since the US started imposing tariffs on China in 2017, China has begun to redirect its exports to developing economies from Latin America and Africa to Asia. With US tariffs on China hiked from 10 per cent to 42 per cent, expect that dynamic to accelerate sharply. China is currently floating in excess capacity that is driving deflationary pressures at home. Emerging markets must, therefore, brace for this Chinese excess capacity to flood their markets at prices they can scarcely compete with. Surging Chinese imports have impinged on domestic manufacturing in Thailand, Indonesia and India in recent years. Expect those pressures to increase dramatically after the Trump tariffs. The US experienced a",
+   "n_words": 341,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3577,
+      1251,
+      4180,
+      2358
+     ]
+    ],
+    "layout_words": 185,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "of external orientation are well understood.\nApart from exports providing a source of de-\nmand, global competition forces firms to be\nmore productive, efficient and reach economic\nscale. If we want our firms to be more inno-\nvative and spend more on R&D, they should\nbe exposed to more global competition.\nReform Reform Reform: This is also a\nworld where the premium on being compet-\nitive has gone up enormously. To export amid\nrising protectionism or produce domestically\nagainst the threat of Chinese imports, in-\ncreasing competitivenessis the key. This will\nrequire pushing hard on foundational re-\nforms: Land, labour, power, health and edu-\ncation. The recent GST simplification and an-\nnouncement of committeeson deregulation\nand next-generation reforms are crucial and\nencouraging starts. We must now take this\nto its logical conclusion.\nBending the capital-labour ratio: The\nkey to job creation is to equip labour to more\neffectively compete with capital. This will\nnot be easy and necessitates a sustained\npush on education, health, skilling and en-\nsuring that stringent labour laws don't dis-\nadvantage the very factor of production they\nare meant to safeguard.",
+   "ocr_conf": 93.16756756756757,
+   "ocr_low_conf_share": 0.016216216216216217,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "of external orientation are well understood. Apart from exports providing a source of demand, global competition forces firms to be more productive, efficient and reach economic scale. If we want our firms to be more innovative and spend more on R&D, they should be exposed to more global competition. Reform Reform Reform: This is also a world where the premium on being competitive has gone up enormously. To export amid rising protectionism or produce domestically against the threat of Chinese imports, increasing competitivenessis the key. This will require pushing hard on foundational reforms: Land, labour, power, health and education. The recent GST simplification and announcement of committeeson deregulation and next-generation reforms are crucial and encouraging starts. We must now take this to its logical conclusion. Bending the capital-labour ratio: The key to job creation is to equip labour to more effectively compete with capital. This will not be easy and necessitates a sustained push on education, health, skilling and ensuring that stringent labour laws don't disadvantage the very factor of production they are meant to safeguard.",
+   "n_words": 176,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3625,
+      2360,
+      4178,
+      2412
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      2403,
+      4179,
+      3152
+     ],
+     [
+      3706,
+      3196,
+      4180,
+      3270
+     ]
+    ],
+    "layout_words": 132
+   },
+   "headline_raw": "Finally, the sheer pace of technological dy-\nwees ans caeiicinn Geman e test eowieteac",
+   "deck_raw": "",
+   "body_raw": "namism and diffusion demands that societies\nand economies arere-wired to enable, almost\nwelcome, creative destruction. This will re-\nquire letting capital and labour move more\nseamlessly from sunsetto sunrise industries.\nItwillrequire largeinvestments in re-skilling,\nre-training and continuing education. It will\nrequire intelligent and robust safety nets to\nprotect those left behindand a tax system that\ncanfinance all this.\nThese are epochal times. Emerging mar-\nkets are at a forkin the road. They are likely to\nface multiple, reinforcing shocks, One option\nistolookin the mirrorand usethese shocks to\ndo the hard work of reforming and reinvent-\ning themselves, Anotheroptionis to tum pro-\ntectionist and inward in the hope of wishing\naway the global storm. The latter would be\ntempting and simple. And wrong.\n\nThe writer is Head of Asia Economics\nat} P Morgan",
+   "ocr_conf": 89.50757575757575,
+   "ocr_low_conf_share": 0.06060606060606061,
+   "headline": "Finally, the sheer pace of technological dywees ans caeiicinn Geman e test eowieteac",
+   "deck": "",
+   "byline": "",
+   "text": "namism and diffusion demands that societies and economies arere-wired to enable, almost welcome, creative destruction. This will require letting capital and labour move more seamlessly from sunsetto sunrise industries. Itwillrequire largeinvestments in re-skilling, re-training and continuing education. It will require intelligent and robust safety nets to protect those left behindand a tax system that canfinance all this. These are epochal times. Emerging markets are at a forkin the road. They are likely to face multiple, reinforcing shocks, One option istolookin the mirrorand usethese shocks to do the hard work of reforming and reinventing themselves, Anotheroptionis to tum protectionist and inward in the hope of wishing away the global storm. The latter would be tempting and simple. And wrong.\n\nThe writer is Head of Asia Economics at} P Morgan",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      461,
+      3241,
+      1392,
+      3326
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3369,
+      1529,
+      4903
+     ],
+     [
+      984,
+      5189,
+      1283,
+      5385
+     ]
+    ],
+    "layout_words": 472
+   },
+   "headline_raw": "CALMING INFLUENCE",
+   "deck_raw": "",
+   "body_raw": "Amidst US tariffs, moderation in inflation, lowering\nof GST rates could be spur economy needs\nFTER FALLING TO 1.61 per cent in July, retail inflation has inched upwards\nmarginally in the weeks thereafter. Inflation, as measured by the consumer\nA price index, stood at 2.07 per cent in August as per data released by the\nNational Statistics Office. With this latest reading, inflation has averaged\n184 percent so far in the second quarter (July-August) of the year, lower than the central\nbank\u2019s most recent projection of 2.1 per cent made in the last monetary policy committee\nmeeting. Since February this year, inflation has remained below the RBIs target of 4 per cent.\nThis moderation is largely due to falling food prices. The consumer food price index,\nwhich had touched 10.87 per cent in October last year, had declined to 3.75 per cent by\nFebruary, and moved intodeflation inJune, July and August. Within the food category, the\nsharpest falls in August have been observed in vegetables and pulses. Oils and fruits\nthough saw elevated inflation. While excess rainfall in parts of the country may cause\nsome crop damage, it is unlikely to significantly affect output. Any shortfall in kharif will\npossibly be made up in rabi. This suggests that food inflation is likely to remain under\ncontrol in the near term. In contrast, core inflation, which excludes the volatile food and\nfuel components, remains range bound. Inflation remained muted in most categories\nsuch as clothing and footwear, household goods and services and education. The excep-\ntion being the personal care and effects segment, where inflation was at 16.61 per cent.\nGoing ahead, the recent rationalisation and lowering of GST rates, which will be in ef-\nfect from September 22, will also havea calming influence. Economistsat SBI estimate that\nthe tax cuts will lead to inflation moderating in the range of 65-75 basis points over FY26-\n27. These effects should be visible from the October data onwards. This calls for a recali-\nbration of inflation forecasts. In August, the RBI had forecasted inflation to average 3.1 per\ncent for the year. Projections by some others now indicate much lower levels \u2014 for in-\nstance, CARE Edge Ratings has pegged inflation at 2.7 per cent in 2025-26, while ICRA\nhas forecasted 2.6 percent. While this may create the space for more interest rate cuts, it\nis debatable whether the MPC will opt to loosen policy further in the near term. Growth\nhas been strong \u2014 the Indian economy grew at a faster than expected 7.8 per cent in the\nfirst quarter. However, the effects of tariffs imposed by US President Donald Trump \u2014\nthough there have been some positive signals recently on the India-US trade deal \u2014 will\nbecome evident in the weeks and months ahead.\n\n{For now,\nWish us 4 Free\nand fair Selection\nCommission. -",
+   "ocr_conf": 92.63502109704642,
+   "ocr_low_conf_share": 0.0189873417721519,
+   "headline": "CALMING INFLUENCE",
+   "deck": "",
+   "byline": "",
+   "text": "Amidst US tariffs, moderation in inflation, lowering of GST rates could be spur economy needs FTER FALLING TO 1.61 per cent in July, retail inflation has inched upwards marginally in the weeks thereafter. Inflation, as measured by the consumer A price index, stood at 2.07 per cent in August as per data released by the National Statistics Office. With this latest reading, inflation has averaged 184 percent so far in the second quarter (July-August) of the year, lower than the central bank's most recent projection of 2.1 per cent made in the last monetary policy committee meeting. Since February this year, inflation has remained below the RBIs target of 4 per cent. This moderation is largely due to falling food prices. The consumer food price index, which had touched 10.87 per cent in October last year, had declined to 3.75 per cent by February, and moved intodeflation inJune, July and August. Within the food category, the sharpest falls in August have been observed in vegetables and pulses. Oils and fruits though saw elevated inflation. While excess rainfall in parts of the country may cause some crop damage, it is unlikely to significantly affect output. Any shortfall in kharif will possibly be made up in rabi. This suggests that food inflation is likely to remain under control in the near term. In contrast, core inflation, which excludes the volatile food and fuel components, remains range bound. Inflation remained muted in most categories such as clothing and footwear, household goods and services and education. The exception being the personal care and effects segment, where inflation was at 16.61 per cent. Going ahead, the recent rationalisation and lowering of GST rates, which will be in effect from September 22, will also havea calming influence. Economistsat SBI estimate that the tax cuts will lead to inflation moderating in the range of 65-75 basis points over FY26- 27. These effects should be visible from the October data onwards. This calls for a recalibration of inflation forecasts. In August, the RBI had forecasted inflation to average 3.1 per cent for the year. Projections by some others now indicate much lower levels - for instance, CARE Edge Ratings has pegged inflation at 2.7 per cent in 2025-26, while ICRA has forecasted 2.6 percent. While this may create the space for more interest rate cuts, it is debatable whether the MPC will opt to loosen policy further in the near term. Growth has been strong - the Indian economy grew at a faster than expected 7.8 per cent in the first quarter. However, the effects of tariffs imposed by US President Donald Trump - though there have been some positive signals recently on the India-US trade deal - will become evident in the weeks and months ahead.\n\n{For now, Wish us 4 Free and fair Selection Commission. -",
+   "n_words": 470,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2278,
+      3463,
+      3233,
+      3564
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      3638,
+      3449,
+      3698
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4476,
+      2818,
+      5212
+     ],
+     [
+      2920,
+      3910,
+      3530,
+      5214
+     ]
+    ],
+    "layout_words": 304
+   },
+   "headline_raw": "FEAR THE WorRST",
+   "deck_raw": "New horror films are forcing people to confront whai",
+   "body_raw": "This year, films like the\nspellbinding \u2018Sinners\u2019 by\nRyan Coogler and\n\u201cWeapons\u2019 have reinvented\nthe sub-genre in small but\nsignificant ways. Coogler\nand Cregger\u2019s films reflect a\nshift in how many choose to\nprocess life\u2019s disquieting\ntruths \u2014 with a dose of\nhumour. In moments\nboiling over with tension,\ncharacters crack jokes and\nlaugh at themselves and\ntheir circumstances.\n\nOut, Nope and Us by Peele deal with ques-\ntions of race, class and identity; Mike\nFlanagan\u2019s The Fall of the House of Usher and\nMark Mylod\u2019s The Menu dismantle the walls\nthat the rich build to insulate themselves\nfrom \u201chorrors\u201d like poverty and mortality.\nButtonally, in the last year, there has been\nashift. The new horror films \u2014 dubbed as \u201cel-\nevated horror\u201d \u2014 take themselves seriously.\nFilmmakers use the tropes of the genre to\ncommunicate something far scarier than a\nhaunted house: The blurred lines between\nthe fantastical dystopias they have created\nand the dangerous, broken realities we in-\nhabit. Peele and Jane Schoenbrun\u2019s (Saw the\nTV Glow) brand of horror is a plea for the\nrecognition of those who have been dehu-\nmanised, of stories that have been made\nfootnotes. The camera presents evidence of\nasociety haunted by itself.\nThis year, films like the spellbinding\nSinners by Ryan Coogler and Weapons have\nreinvented the sub-genre in small but signif-\nicant ways. Coogler and Cregger\u2019s films re-\nflect a shift in how many choose to process\nlife\u2019s disquieting truths \u2014 with a dose of hu-\nmour. Sinners, set in the Mississippi Delta of\n1932,depicts one night ata juke joint during\nthe Jim Crow years. Made by and for people\nof colour, in the joint, there is song, dance and\njest. There is also the pain of freedoms de-\nnied and the glory of snatching it away. In\nmoments boiling over with tension, charac-",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.013157894736842105,
+   "headline": "FEAR THE WorRST",
+   "deck": "New horror films are forcing people to confront whai",
+   "byline": "",
+   "text": "This year, films like the spellbinding 'Sinners' by Ryan Coogler and \"Weapons' have reinvented the sub-genre in small but significant ways. Coogler and Cregger's films reflect a shift in how many choose to process life's disquieting truths - with a dose of humour. In moments boiling over with tension, characters crack jokes and laugh at themselves and their circumstances.\n\nOut, Nope and Us by Peele deal with questions of race, class and identity; Mike Flanagan's The Fall of the House of Usher and Mark Mylod's The Menu dismantle the walls that the rich build to insulate themselves from \"horrors\" like poverty and mortality. Buttonally, in the last year, there has been ashift. The new horror films - dubbed as \"elevated horror\" - take themselves seriously. Filmmakers use the tropes of the genre to communicate something far scarier than a haunted house: The blurred lines between the fantastical dystopias they have created and the dangerous, broken realities we inhabit. Peele and Jane Schoenbrun's (Saw the TV Glow) brand of horror is a plea for the recognition of those who have been dehumanised, of stories that have been made footnotes. The camera presents evidence of asociety haunted by itself. This year, films like the spellbinding Sinners by Ryan Coogler and Weapons have reinvented the sub-genre in small but significant ways. Coogler and Cregger's films reflect a shift in how many choose to process life's disquieting truths - with a dose of humour. Sinners, set in the Mississippi Delta of 1932,depicts one night ata juke joint during the Jim Crow years. Made by and for people of colour, in the joint, there is song, dance and jest. There is also the pain of freedoms denied and the glory of snatching it away. In moments boiling over with tension, charac-",
+   "n_words": 296,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3479,
+      3638,
+      4138,
+      3698
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      3910,
+      4182,
+      5136
+     ],
+     [
+      3697,
+      5180,
+      4175,
+      5214
+     ],
+     [
+      3572,
+      5497,
+      4177,
+      5769
+     ]
+    ],
+    "layout_words": 268
+   },
+   "headline_raw": "the reel reveals about the real",
+   "deck_raw": "",
+   "body_raw": "terscrack jokes and laugh at themselves and\ntheir circumstances.\nWeapons deals with the horrorsofgun vi-\nolence inthe US. The kids are literally tured\ninto weapons: \u201cIt was like he was\nweaponised. Like a heat missile just locked\nonto you.\u201d The exposition up top names this\ngrief: \u201cThe kids left their homes... and never\ncame back.\u201d\nCoogler and Cregger\u2019s brand of horror is\nbuilt on absurdity \u2014 of the politics of the day\nand people's response to it. In the climax of\nWeapons, as kids turn on the adult responsi-\nble for their ordeal, unleashing the vitriol that\nhasbeen fed to them, residents lookon in be-\nwilderment, eating cereal, mowing their\nlawns, worrying about the shattered \u201cglass\neverywhere\u201d in their homes. As these kids\nare stolen away and brainwashed, the adults\nare missing from the scene. Caught up in\ntheir own messes, these adults are perpetra-\ntors at worst, bystanders at best.\nThe momentof resolution is bloody \u2014the\nkids save the day but are irrevocably changed\nfor having to doit \u2014 and the background mu-\nsic swells with notes of triumph and libera-\ntion. As if the incompetence and ignorance\nof adults is avictory for anyone. Asif kids hav-\ning to tum to violence can be liberation for\nany society. Many would believe itis. That is\nthe ultimate horror \u2014 and the ultimate joke.\n\nsukhmanimalik@expressindia.com\n\nChowk. Suresh Chand, 20, the driver of the\ncar and Karan Singh, 40, who was sitting\nbeside him, were arrested. The contraband\nwas neatly packed in 1 kg packages.\nSmuggling of narcotics and drug traffick-\ning have become big business in the\nnational capital.",
+   "ocr_conf": 88.99253731343283,
+   "ocr_low_conf_share": 0.07835820895522388,
+   "headline": "the reel reveals about the real",
+   "deck": "",
+   "byline": "",
+   "text": "terscrack jokes and laugh at themselves and their circumstances. Weapons deals with the horrorsofgun violence inthe US. The kids are literally tured into weapons: \"It was like he was weaponised. Like a heat missile just locked onto you.\" The exposition up top names this grief: \"The kids left their homes... and never came back.\" Coogler and Cregger's brand of horror is built on absurdity - of the politics of the day and people's response to it. In the climax of Weapons, as kids turn on the adult responsible for their ordeal, unleashing the vitriol that hasbeen fed to them, residents lookon in bewilderment, eating cereal, mowing their lawns, worrying about the shattered \"glass everywhere\" in their homes. As these kids are stolen away and brainwashed, the adults are missing from the scene. Caught up in their own messes, these adults are perpetrators at worst, bystanders at best. The momentof resolution is bloody - the kids save the day but are irrevocably changed for having to doit - and the background music swells with notes of triumph and liberation. As if the incompetence and ignorance of adults is avictory for anyone. Asif kids having to tum to violence can be liberation for any society. Many would believe itis. That is the ultimate horror - and the ultimate joke.\n\nsukhmanimalik@expressindia.com\n\nChowk. Suresh Chand, 20, the driver of the car and Karan Singh, 40, who was sitting beside him, were arrested. The contraband was neatly packed in 1 kg packages. Smuggling of narcotics and drug trafficking have become big business in the national capital.",
+   "n_words": 261,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      3909,
+      2229,
+      5206
+     ]
+    ],
+    "layout_words": 257,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "IN HER 2018 special, Nanette, comedian\nHannah Gadsby talks about the role tension\nplays in the telling of a good joke: If you build\nit right, when you finally break that tension\n\u2014 relieving the audience \u2014 you get a great\npay-off. Ahorror story follows a similar logic.\nBut with horror, the breaking of the tension\ndoes not alwayslead to relief. Thisis why hor-\nror films are notably sequel-prone.\nThis cleavage between closure and relief\nhas, in the last decade, been explored by film-\nmakers to create horror films that speak to\nsocial and political tensions. There may be\nresolution, but no relief. Instead, it forces peo-\nple to sit with the discomfort of what the reel\nreveals about the real.\nZach Cregger\u2019s Weapoiis follows the story of\na small town in the US, where 17 of 18 kids in\naclass go missing. Shot in a point-of-view\nframe, the film puts you in the shoes of the\ncharacters as much as it seems to say: \u201cThis is\nour world, these characters are us\u201d. Cregger\nmarries the tensions of comedy and horror to\ncreate a film that makes you shriek with ter-\nror and laughter in equal measure. A sketch\nartist for decades, Cregger's work with his\ntroupe, The Whitest Kids U\u2019Know, explored the\ngory and the uncomfortable through comedy.\nIn 2017, another comedian and sketch\nartist, Jordan Peele, was among the first to\nbreak open the potential of this subgenre\nwith Get Out. The last decade has seen many\nfilms and shows ina similar vein. Like Get",
+   "ocr_conf": 91.44357976653697,
+   "ocr_low_conf_share": 0.0311284046692607,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "IN HER 2018 special, Nanette, comedian Hannah Gadsby talks about the role tension plays in the telling of a good joke: If you build it right, when you finally break that tension - relieving the audience - you get a great pay-off. Ahorror story follows a similar logic. But with horror, the breaking of the tension does not alwayslead to relief. Thisis why horror films are notably sequel-prone. This cleavage between closure and relief has, in the last decade, been explored by filmmakers to create horror films that speak to social and political tensions. There may be resolution, but no relief. Instead, it forces people to sit with the discomfort of what the reel reveals about the real. Zach Cregger's Weapoiis follows the story of a small town in the US, where 17 of 18 kids in aclass go missing. Shot in a point-of-view frame, the film puts you in the shoes of the characters as much as it seems to say: \"This is our world, these characters are us\". Cregger marries the tensions of comedy and horror to create a film that makes you shriek with terror and laughter in equal measure. A sketch artist for decades, Cregger's work with his troupe, The Whitest Kids U'Know, explored the gory and the uncomfortable through comedy. In 2017, another comedian and sketch artist, Jordan Peele, was among the first to break open the potential of this subgenre with Get Out. The last decade has seen many films and shows ina similar vein. Like Get",
+   "n_words": 253,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      5363,
+      3629,
+      5447
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2271,
+      5495,
+      2743,
+      5539
+     ],
+     [
+      3568,
+      5817,
+      3988,
+      5870
+     ],
+     [
+      2922,
+      5934,
+      3300,
+      5978
+     ]
+    ],
+    "body_boxes": [
+     [
+      2269,
+      5574,
+      2875,
+      6166
+     ],
+     [
+      2921,
+      5496,
+      3306,
+      5539
+     ],
+     [
+      2918,
+      5575,
+      3529,
+      5887
+     ],
+     [
+      2920,
+      6012,
+      3525,
+      6166
+     ],
+     [
+      3571,
+      5894,
+      4178,
+      6167
+     ]
+    ],
+    "layout_words": 237
+   },
+   "headline_raw": "SEPTEMBER 15, 1985, FORTY YEARS AGO",
+   "deck_raw": "ENLEF To MEET PM\nJAIL FOR TEASING\nCHARAS SEIZED",
+   "body_raw": "THE EELAM NATIONAL Liberation Front\n(ENLF) on Saturday night decided to meet\nthe Prime Minister, Mr Rajiv Gandhi, to ex-\nplain the current situation in Sri Lanka. The\ndecision was taken at a meeting of the top\nleaders of the ENLF here, the first in recent\nmonths. A spokesman said the Eelam\nNational Liberation Front leaders would\ndiscuss with Gandhi the need for a moni-\ntoring agency for effective implementation\nof a cease-fire in the island nation as the\npresent arrangement was not satisfactory.\nThe meeting also discussed the recent\ndeaths of three Tamil prisoners in the\nWelikada prison in Colombo.\n\nAKALI BOYCOTT\n\nTHE UNITED AKALI Dal has launched an of-\nfensive of sorts in Punjab to make Sikhs boy-\ncott the coming elections in the state.\nJoginderSinghis addressing meetings at var-\nious places. He addressed a gathering of\nabout 5,000 persons at Guru Ka Baag\nGurudwara near Ajnala. He also addressed a\ngathering at Tarn Taran.\n\nTHE NORTH DISTRICT police made a record\nhaul of charas weighing 250 kg valued at\nRs 2 crore when they intercepted a white\nAmbassador car (DEC 9936) near Merba\n\nIN ARARE case, a young girl here has been\nsentenced to a day\u2019s imprisonment and a\nfine of Rs 20 on the charge of teasing boys.\nThe girl was arrested from the fashionable\nSector 17 market. The sentence was\nawarded by the chief judicial magistrate, J\nD Chandna, the police said.",
+   "ocr_conf": 93.18565400843882,
+   "ocr_low_conf_share": 0.02531645569620253,
+   "headline": "SEPTEMBER 15, 1985, FORTY YEARS AGO",
+   "deck": "ENLEF To MEET PM JAIL FOR TEASING CHARAS SEIZED",
+   "byline": "AKALI BOYCOTT",
+   "text": "THE EELAM NATIONAL Liberation Front (ENLF) on Saturday night decided to meet the Prime Minister, Mr Rajiv Gandhi, to explain the current situation in Sri Lanka. The decision was taken at a meeting of the top leaders of the ENLF here, the first in recent months. A spokesman said the Eelam National Liberation Front leaders would discuss with Gandhi the need for a monitoring agency for effective implementation of a cease-fire in the island nation as the present arrangement was not satisfactory. The meeting also discussed the recent deaths of three Tamil prisoners in the Welikada prison in Colombo.\n\nTHE UNITED AKALI Dal has launched an offensive of sorts in Punjab to make Sikhs boycott the coming elections in the state. JoginderSinghis addressing meetings at various places. He addressed a gathering of about 5,000 persons at Guru Ka Baag Gurudwara near Ajnala. He also addressed a gathering at Tarn Taran.\n\nTHE NORTH DISTRICT police made a record haul of charas weighing 250 kg valued at Rs 2 crore when they intercepted a white Ambassador car (DEC 9936) near Merba\n\nIN ARARE case, a young girl here has been sentenced to a day's imprisonment and a fine of Rs 20 on the charge of teasing boys. The girl was arrested from the fashionable Sector 17 market. The sentence was awarded by the chief judicial magistrate, J D Chandna, the police said.",
+   "n_words": 230,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1685,
+      5487,
+      1872,
+      5525
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Camper school may+\nape care ee |",
+   "ocr_conf": 25.428571428571427,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Camper school may+ ape care ee",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2051,
+      5483,
+      2120,
+      5514
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Two klkd.",
+   "ocr_conf": 17.5,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Two klkd.",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1865,
+      5634,
+      2019,
+      5665
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "_aerlhceere\nSnr ENG decides",
+   "ocr_conf": 18.5,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "_aerlhceere Snr ENG decides",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 21.6,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

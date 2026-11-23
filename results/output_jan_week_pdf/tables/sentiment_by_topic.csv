@@ -1,0 +1,7 @@
+topic_label,n_articles,mean_score,ci95_low,ci95_high,share_positive,share_neutral,share_negative,mean_headline_score,mean_vader,mean_llm_score,share_llm_positive,share_llm_negative,label_agreement_with_vader
+bjp / hindu / ambedkar / minister,30,-0.017,-0.092,0.058,0.033,0.933,0.033,0.125,0.068,,0.0,0.0,0.2
+india / coffee / gas / government,22,-0.033,-0.152,0.085,0.091,0.864,0.045,0.184,0.118,,0.0,0.0,0.409
+state / trump / hospital / manipur,24,-0.238,-0.309,-0.166,0.0,0.792,0.208,-0.289,-0.1,,0.0,0.0,0.417
+team / test / gambhir / bumrah,7,-0.014,-0.125,0.097,0.0,1.0,0.0,0.016,0.107,,0.0,0.0,0.143
+women / iits / iit / india,7,0.151,0.001,0.301,0.0,1.0,0.0,0.114,0.171,,0.0,0.0,0.143
+workers / data / security / digital,15,-0.137,-0.226,-0.047,0.067,0.933,0.0,0.128,0.103,,0.0,0.0,0.267

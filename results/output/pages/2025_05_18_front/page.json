@@ -1,0 +1,845 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_18_front",
+ "source_file": "2025-05-18_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-18_front.png",
+ "date": "2025-05-18",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 486,
+  "mean_line_conf": 89.58100776681023,
+  "orphan_words": 48,
+  "body_words_total": 1939
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3858,
+      73,
+      4070,
+      186
+     ],
+     [
+      3759,
+      314,
+      4169,
+      457
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3771,
+      236,
+      4160,
+      275
+     ]
+    ],
+    "body_boxes": [
+     [
+      3755,
+      498,
+      4167,
+      610
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "eve\nIf Money\nCould Grow",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "A generation of tech-savvy\nyoungsters are brewing a\nrevolution in stock market",
+   "ocr_conf": 95.08333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve If Money Could Grow",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "A generation of tech-savvy youngsters are brewing a revolution in stock market",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      923,
+      4146,
+      1479
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1787,
+      828,
+      3901,
+      886
+     ]
+    ],
+    "body_boxes": [
+     [
+      1788,
+      1343,
+      2235,
+      1602
+     ],
+     [
+      1788,
+      1672,
+      2212,
+      1742
+     ],
+     [
+      1786,
+      1790,
+      2227,
+      2333
+     ],
+     [
+      1783,
+      2345,
+      2228,
+      2965
+     ],
+     [
+      2738,
+      1741,
+      3433,
+      1826
+     ]
+    ],
+    "layout_words": 157
+   },
+   "headline_raw": "To mobilise global support, Govt forms\n7 all-party teams, 3 led by Opp leaders\n70 to 32 aes Leaders of the delegations ere",
+   "deck_raw": "TEAMS TO BRIEF COUNTRIES ON PAK TERROR, OPERATION SINDOOR",
+   "body_raw": "51 politicians will\ngo to 32 countries,\nincluding P5\nminus China\n\nEXPRESS NEWS SERVICE\nNEW DELHI, MAY 17\n\nAS PART of its efforts to rally\nglobal support for India\u2019s war\nagainst terror emanating from\nPakistan and moving to isolate\nIslamabad internationally, the\ngovernment announced\nSaturday that seven multi-party\ndelegations would visit different\ncountriesto convey India\u2019s mes-\nsage post the Pahalgam terror at-\ntack and Operation Sindoor.\nThree of these delegations\nwill be headed by Opposition\nleaders.\n\nThe delegations will be\nheaded by Congress's Shashi\nTharoor, BJP\u2019s Ravi Shankar\nPrasad and Baijayant Panda,\nJD(U)\u2019s Sanjay Kumar Jha, DMK\u2019s\nKanimozhi, NCP (SP)\u2019s Supriya\nSule and Shiv Sena\u2019s Shrikant\nEknath Shinde.\nThe leaders \u2014 four from the\nruling NDA and three from the\nOpposition INDIA bloc \u2014 are sea-\nsoned lawmakers with long\nstints in public life.\nIn all, 51 political leaders are\npart of the delegations which\nCONTINUED ON PAGE 2\n\n| SHASHITHAROOR \u00a9 -RAVISHANKAR \u00abBAL\ni: Congress : PRASAD BJP : BJP",
+   "ocr_conf": 90.63354037267081,
+   "ocr_low_conf_share": 0.055900621118012424,
+   "headline": "To mobilise global support, Govt forms 7 all-party teams, 3 led by Opp leaders 70 to 32 aes Leaders of the delegations ere",
+   "deck": "TEAMS TO BRIEF COUNTRIES ON PAK TERROR, OPERATION SINDOOR",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, MAY 17",
+   "text": "51 politicians will including P5 minus China\n\nAS PART of its efforts to rally global support for India's war against terror emanating from Pakistan and moving to isolate Islamabad internationally, the government announced Saturday that seven multi-party delegations would visit different countriesto convey India's message post the Pahalgam terror attack and Operation Sindoor. Three of these delegations will be headed by Opposition leaders.\n\nThe delegations will be headed by Congress's Shashi Tharoor, BJP's Ravi Shankar Prasad and Baijayant Panda, JD(U)'s Sanjay Kumar Jha, DMK's Kanimozhi, NCP (SP)'s Supriya Sule and Shiv Sena's Shrikant Eknath Shinde. The leaders - four from the ruling NDA and three from the Opposition INDIA bloc - are seasoned lawmakers with long stints in public life. In all, 51 political leaders are part of the delegations which\n\nSHASHITHAROOR \u00a9 -RAVISHANKAR \u00abBAL i: Congress: PRASAD BJP: BJP",
+   "n_words": 140,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3736,
+      1342,
+      4170,
+      1744
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3740,
+      1831,
+      4166,
+      1903
+     ],
+     [
+      3733,
+      1951,
+      4183,
+      2967
+     ]
+    ],
+    "layout_words": 132
+   },
+   "headline_raw": "Informing Pak:\nRahul targets\nJaishankar,\nGovt says his\nfacts wrong",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, MAY 17\n\nINHIS first remarks post Opera-\ntion Sindoor and cessation of\nmilitary action by India and\nPakistan, Rahul Gandhi, Leader\nof the Opposition in Lok Sabha,\nSaturday targeted External\nAffairs Minister S Jaishankar for\nhis remarks that India had in-\nformed Pakistan about target-\ning the terrorist infrastructure\non its soil.\nStating that it was \u201ca crime\u201d\nto inform Pakistan \u201cat the start\nof our attack\u201d, Gandhi sought to\nknow how many aircraft did the\nIAF \u201close as aresult\u201d.\nThe Ministry of External\nAffairs (MEA), responding to\nGandhi's statement, called it a\n\u201cmisrepresentation of facts\u201d.\nSpeaking to reporters\nThursday, Jaishankar had said \u201cat\nthe start of the operation, we had\nsent a message to Pakistan say-\ning we are striking at terrorists\u2019\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.13636363636364,
+   "ocr_low_conf_share": 0.045454545454545456,
+   "headline": "Informing Pak: Rahul targets Jaishankar, Govt says his facts wrong",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, MAY 17",
+   "text": "INHIS first remarks post Operation Sindoor and cessation of military action by India and Pakistan, Rahul Gandhi, Leader of the Opposition in Lok Sabha, Saturday targeted External Affairs Minister S Jaishankar for his remarks that India had informed Pakistan about targeting the terrorist infrastructure on its soil. Stating that it was \"a crime\" to inform Pakistan \"at the start of our attack\", Gandhi sought to know how many aircraft did the IAF \"lose as aresult\". The Ministry of External Affairs (MEA), responding to Gandhi's statement, called it a \"misrepresentation of facts\". Speaking to reporters Thursday, Jaishankar had said \"at the start of the operation, we had sent a message to Pakistan saying we are striking at terrorists'",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2315,
+      1540,
+      3027,
+      1742
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2316,
+      1741,
+      2978,
+      1784
+     ],
+     [
+      2635,
+      2098,
+      2737,
+      2150
+     ]
+    ],
+    "body_boxes": [
+     [
+      2313,
+      2068,
+      3579,
+      2142
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "The teams willinclude | : a\nMPs, prominent 18 es!\npolitical personalities, =| \\r=\nand distinguished | pwr 7",
+   "deck_raw": "diplomats FULLLIST,P4 | SHASHITHAROOR\n| DMK",
+   "body_raw": "SANJAY KUMAR JHA = KANIMOZHI | SUPRIYASULE : SHRIKANT EKNATH\nJD(U) \u00bb DMK | NCP(SP) : SHINDE Shiv Sen:",
+   "ocr_conf": 64.15789473684211,
+   "ocr_low_conf_share": 0.3684210526315789,
+   "headline": "The teams willinclude: a MPs, prominent 18 es! political personalities, = \\r= and distinguished pwr 7",
+   "deck": "diplomats FULLLIST,P4 SHASHITHAROOR DMK",
+   "byline": "",
+   "text": "SANJAY KUMAR JHA = KANIMOZHI SUPRIYASULE: SHRIKANT EKNATH JD(U) \u00bb DMK NCP(SP): SHINDE Shiv Sen:",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      2288,
+      3583,
+      2476
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2310,
+      2098,
+      2390,
+      2150
+     ],
+     [
+      2275,
+      2236,
+      3588,
+      2272
+     ],
+     [
+      2275,
+      2500,
+      3683,
+      2555
+     ]
+    ],
+    "body_boxes": [
+     [
+      2275,
+      2621,
+      2547,
+      2691
+     ],
+     [
+      2274,
+      2741,
+      2714,
+      2973
+     ],
+     [
+      2762,
+      2582,
+      3205,
+      2966
+     ],
+     [
+      3250,
+      2582,
+      3691,
+      2966
+     ]
+    ],
+    "layout_words": 129
+   },
+   "headline_raw": "Congress sulks over Govt choice of\nits 4 leaders, Tharoor as team head",
+   "deck_raw": "JD)\nKANIMOZHI, SUPRIYA SULE SAY THEY ACCEPT INVITE, STAND UNITED\nGovt should have consulted us... all MPs named will go: Jairam",
+   "body_raw": "MANOJCG\nNEW DELHI, MAY 17\n\nONCEAGAIN, the Congress stood\nisolated in the INDIA bloc and its\nfrayed intra-party equations sur-\nfaced Saturday when the gov-\nernment announced the names\nof leaders to head all-party dele-\n\ngations to reinforce Delhi's\nglobal diplomatic outreach un-\nder Operation Sindoor.\nThe party distanced itself\nfrom the choice and made its re-\nsentment evident, saying the\ngovernment \u201ccannot announce\nnames without consulting us\u201d.\nLate at night, after the Centre an-\nnounced the names of the rest of\n\nthe delegation members, the\nCongress said \u201cmost regrettably\u201d\nonly one of the four names it\nsuggested had been included in\nthe seven groups. \u201cThis proves\nthe complete insincerity of the\nModi government and shows\nthe cheap political games it al-\nways plays on serious national\nCONTINUEDON PAGE2",
+   "ocr_conf": 92.43410852713178,
+   "ocr_low_conf_share": 0.023255813953488372,
+   "headline": "Congress sulks over Govt choice of its 4 leaders, Tharoor as team head",
+   "deck": "JD) KANIMOZHI, SUPRIYA SULE SAY THEY ACCEPT INVITE, STAND UNITED Govt should have consulted us... all MPs named will go: Jairam",
+   "byline": "MANOJCG; NEW DELHI, MAY 17",
+   "text": "ONCEAGAIN, the Congress stood isolated in the INDIA bloc and its frayed intra-party equations surfaced Saturday when the government announced the names of leaders to head all-party delegations to reinforce Delhi's global diplomatic outreach under Operation Sindoor. The party distanced itself from the choice and made its resentment evident, saying the government \"cannot announce names without consulting us\". Late at night, after the Centre announced the names of the rest of\n\nthe delegation members, the Congress said \"most regrettably\" only one of the four names it suggested had been included in the seven groups. \"This proves the complete insincerity of the Modi government and shows the cheap political games it always plays on serious national CONTINUEDON PAGE2",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2818,
+      1332,
+      2887
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      2935,
+      1681,
+      3011
+     ]
+    ],
+    "layout_words": 26
+   },
+   "headline_raw": "ISRO\u2019s MISSION 101 TODAY",
+   "deck_raw": "",
+   "body_raw": "ISRO will launch an earth observation satellite, EOS-09, onboard its workhorse PSLV from\nSriharikota in Andhra Pradesh on Sunday. Thisis the space agency's 101st mission. ANI",
+   "ocr_conf": 90.76923076923077,
+   "ocr_low_conf_share": 0.038461538461538464,
+   "headline": "ISRO's MISSION 101 TODAY",
+   "deck": "",
+   "byline": "",
+   "text": "ISRO will launch an earth observation satellite, EOS-09, onboard its workhorse PSLV from Sriharikota in Andhra Pradesh on Sunday. Thisis the space agency's 101st mission. ANI",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      3119,
+      4152,
+      3624
+     ],
+     [
+      3251,
+      3677,
+      4164,
+      3808
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      3887,
+      3525,
+      3957
+     ],
+     [
+      3248,
+      4008,
+      3693,
+      4713
+     ],
+     [
+      3735,
+      3849,
+      4179,
+      4707
+     ],
+     [
+      3738,
+      4809,
+      4151,
+      4841
+     ],
+     [
+      3736,
+      4886,
+      4157,
+      5102
+     ]
+    ],
+    "layout_words": 196
+   },
+   "headline_raw": "In reciprocal move,\nIndia places curbs\non Bangla exports\nto N-E and abroad\nReadymade garments to cotton yarn\nface restrictions, fish, edible oil spared",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, MAY 17\n\nINDIA DECIDED Saturday to\nplace restrictions on Bangladeshi\nproducts being exported to\nNorth-East India and overseas.\nThis appeared to be areciprocal\nmove given that Dhaka had been\nimposing non-tariff barriers on\nIndian exports to Bangladesh.\nThe Directorate General of\nForeign Trade, under the\nMinistry of Commerce, issued a\nnotification Saturday. It said the\nrestrictions will not apply to im-\nport of fish, LPG, edible oil and\ncrushed stone to India from\nBangladesh. The restrictions will\nalso not apply to Bangladesh ex-\nports to Nepal/Bhutan transiting\n\nthrough India, it said.\nThe curbs come a month-\nand-a-half after Bangladesh in-\nterim government chief adviser\nMuhammad Yunus said in\nBeijing that North-East India is\n\u201clandlocked\u201d and Dhaka is the\n\u201conly guardian of the ocean for\nall this region\u201d \u2014 he made the re-\nmark while seeking \u201cextension\nof the Chinese economy\u201d.\nIndia decided toimpose port\nrestrictions on specified\nBangladesh exports to India\nacross all land customs stations\n(LCSs) or integrated check posts\n(ICPs) in Assam, Meghalaya,\nTripura and Mizoram and\nthrough Changrabandha and\nFulbari in north Bengal.\nThe products include\nCONTINUED ON PAGE 2\n\nEXPRESS NETWORK\n\nHARYANA-BASED\nBLOGGER ARRESTED\nON ESPIONAGE\nCHARGES\nPAGE8",
+   "ocr_conf": 92.67857142857143,
+   "ocr_low_conf_share": 0.015306122448979591,
+   "headline": "In reciprocal move, India places curbs on Bangla exports to N-E and abroad Readymade garments to cotton yarn face restrictions, fish, edible oil spared",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, MAY 17",
+   "text": "INDIA DECIDED Saturday to place restrictions on Bangladeshi products being exported to North-East India and overseas. This appeared to be areciprocal move given that Dhaka had been imposing non-tariff barriers on Indian exports to Bangladesh. The Directorate General of Foreign Trade, under the Ministry of Commerce, issued a notification Saturday. It said the restrictions will not apply to import of fish, LPG, edible oil and crushed stone to India from Bangladesh. The restrictions will also not apply to Bangladesh exports to Nepal/Bhutan transiting\n\nthrough India, it said. The curbs come a monthand-a-half after Bangladesh interim government chief adviser Muhammad Yunus said in Beijing that North-East India is \"landlocked\" and Dhaka is the \"only guardian of the ocean for all this region\" - he made the remark while seeking \"extension of the Chinese economy\". India decided toimpose port restrictions on specified Bangladesh exports to India across all land customs stations (LCSs) or integrated check posts (ICPs) in Assam, Meghalaya, Tripura and Mizoram and through Changrabandha and Fulbari in north Bengal. The products include\n\nEXPRESS NETWORK\n\nHARYANA-BASED BLOGGER ARRESTED ON ESPIONAGE CHARGES",
+   "n_words": 180,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1293,
+      3187,
+      3187,
+      3416
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1296,
+      3121,
+      1913,
+      3154
+     ],
+     [
+      1297,
+      3451,
+      2197,
+      3574
+     ]
+    ],
+    "body_boxes": [
+     [
+      1295,
+      3649,
+      1701,
+      3759
+     ],
+     [
+      1295,
+      3809,
+      1737,
+      4198
+     ],
+     [
+      1785,
+      3611,
+      2226,
+      4198
+     ],
+     [
+      2761,
+      3452,
+      3203,
+      4192
+     ]
+    ],
+    "layout_words": 216
+   },
+   "headline_raw": "China curbs on rare earth magnets: Electric\nVehicle makers face shortage, approach govt",
+   "deck_raw": "CURBS POST TRUMP TARIFFS\nBeijing insists on undertakings on\nnature of use, endorsement of importer",
+   "body_raw": "SOUMYARENDRABARIK\n& ANILSASI\nNEW DELHI, MAY 17\n\nNEW RESTRICTIONS on rare\nearth magnets and related ma-\nterials imposed by China, as adi-\nrect response to US imposing\ntariffs that kicked in from April\n4, are beginning to impact au-\ntomakers across the world, in-\ncluding electric vehicle manu-\nfacturers in India.\nEV makers here are staring at\n\napotential shortage ofthe critical\ncomponents, which raises con-\ncems of price hikes and produc-\ntion delays ina nascent, cost-sen-\nsitive segment of the auto market.\nThe Indian car industry is\nlearnt to have initiated a conver-\nsation with the government to\nsmoothen the process for\nprocuring the rare earth mag-\nnets from Beijing. While the\nChinese government has notim-\nposed an outright ban on the ex-\nport of rare earth magnets\u2014a\ncrucial element in making EVs\u2014\n\nthe process has been made very\ndifficult causing protracted de-\nlays and posing shortage risks,\nRare earth magnets, espe-\ncially neodymium-iron-boron\n(NdFeB) magnets, are crucial for\nEV manufacturing, particularly\nin electric motors. They provide\nthe strong magnetic fields\nneeded for efficient and power-\nful electric motors, including\ntraction motors that drive EVs.\nThese magnets also playa major\nrole in other EVcomponents like\npower steering systems, wiper\nmotors, and braking systems.\nChina has anear monopoly over\nthese rare earth magnets,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.10648148148148,
+   "ocr_low_conf_share": 0.009259259259259259,
+   "headline": "China curbs on rare earth magnets: Electric Vehicle makers face shortage, approach govt",
+   "deck": "CURBS POST TRUMP TARIFFS Beijing insists on undertakings on nature of use, endorsement of importer",
+   "byline": "SOUMYARENDRABARIK; & ANILSASI; NEW DELHI, MAY 17",
+   "text": "NEW RESTRICTIONS on rare earth magnets and related materials imposed by China, as adirect response to US imposing tariffs that kicked in from April 4, are beginning to impact automakers across the world, including electric vehicle manufacturers in India. EV makers here are staring at\n\napotential shortage ofthe critical components, which raises concems of price hikes and production delays ina nascent, cost-sensitive segment of the auto market. The Indian car industry is learnt to have initiated a conversation with the government to smoothen the process for procuring the rare earth magnets from Beijing. While the Chinese government has notimposed an outright ban on the export of rare earth magnets - a crucial element in making EVs -\n\nthe process has been made very difficult causing protracted delays and posing shortage risks, Rare earth magnets, especially neodymium-iron-boron (NdFeB) magnets, are crucial for EV manufacturing, particularly in electric motors. They provide the strong magnetic fields needed for efficient and powerful electric motors, including traction motors that drive EVs. These magnets also playa major role in other EVcomponents like power steering systems, wiper motors, and braking systems. China has anear monopoly over these rare earth magnets,",
+   "n_words": 193,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2482,
+      3497,
+      2613,
+      3589
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2433,
+      3598,
+      2554,
+      3631
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "Keyto\nmaking",
+   "deck_raw": "",
+   "body_raw": "1@ EVs",
+   "ocr_conf": 53.5,
+   "ocr_low_conf_share": 0.5,
+   "headline": "Keyto making",
+   "deck": "",
+   "byline": "",
+   "text": "1@ EVs",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2306,
+      3691,
+      2677,
+      4152
+     ]
+    ],
+    "layout_words": 48,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "RARE EARTH magnets pro-\nvide the strong magnetic\nfields needed for efficient\nand powerful electric mo-\ntors, including traction mo-\ntors that drive EVs. The\nmagnets also play a major\nrole in other EVcompo-\nnents like power steering\nsystems, wiper motors, and\nbraking systems. China\ndominates their market.",
+   "ocr_conf": 92.39583333333333,
+   "ocr_low_conf_share": 0.041666666666666664,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "RARE EARTH magnets provide the strong magnetic fields needed for efficient and powerful electric motors, including traction motors that drive EVs. The magnets also play a major role in other EVcomponents like power steering systems, wiper motors, and braking systems. China dominates their market.",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1009,
+      3979,
+      1159,
+      4023
+     ]
+    ],
+    "deck_boxes": [
+     [
+      976,
+      4074,
+      1141,
+      4126
+     ],
+     [
+      1008,
+      4185,
+      1135,
+      4236
+     ]
+    ],
+    "body_boxes": [
+     [
+      994,
+      4026,
+      1135,
+      4061
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "21.83 lakh",
+   "deck_raw": "__ 563 lakh\n2.15 lakh",
+   "body_raw": "614 lakh",
+   "ocr_conf": 4.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "614 lakh",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      360,
+      4121,
+      585,
+      4181
+     ],
+     [
+      608,
+      4121,
+      740,
+      4181
+     ]
+    ],
+    "deck_boxes": [
+     [
+      361,
+      3873,
+      972,
+      3919
+     ],
+     [
+      372,
+      4022,
+      585,
+      4074
+     ],
+     [
+      605,
+      4022,
+      746,
+      4074
+     ],
+     [
+      364,
+      4074,
+      585,
+      4125
+     ],
+     [
+      604,
+      4074,
+      754,
+      4125
+     ],
+     [
+      364,
+      4180,
+      585,
+      4231
+     ],
+     [
+      1294,
+      4268,
+      1540,
+      4325
+     ]
+    ],
+    "body_boxes": [
+     [
+      605,
+      3983,
+      768,
+      4023
+     ],
+     [
+      317,
+      4359,
+      720,
+      4431
+     ],
+     [
+      317,
+      4479,
+      759,
+      5146
+     ],
+     [
+      776,
+      3983,
+      935,
+      4023
+     ],
+     [
+      794,
+      4026,
+      949,
+      4061
+     ],
+     [
+      808,
+      4320,
+      1249,
+      4942
+     ],
+     [
+      808,
+      4954,
+      1248,
+      5139
+     ],
+     [
+      1294,
+      4934,
+      1664,
+      5104
+     ]
+    ],
+    "layout_words": 197
+   },
+   "headline_raw": "\u2018West Bengal |\n1.17 crore",
+   "deck_raw": "| STAVE ENROLMENT\nBihar\n1.79 crore\n\u2018Rajasthan |\n62.65 lakh\nKarnataka |\nTHE WORLD",
+   "body_raw": "1.74 crore _\n\nABHINAYAHARIGOVIND\nNEW DELHI, MAY 17\n\nA STEEP drop in government\nschool enrolment at the primary\nand upper-primary levels across\n23 States and UTs in 2024-25 has\nevoked concem within the Union\ngovernment, prompting the\nMinistry of Education (MoE) to\nask for probes and remedial action\nplans from the states concemed.\nMinutes of meetings held by\nthe MoE with 33 States and UTs\nin April to discuss performance,\nplan and budget under the PM-\nPOSHAN scheme show that stu-\ndent enrolment dipped in 23\nstates, ofwhichat least eight wit-\nnessed declines exceeding\n\n| 1.52crore\n\n1.73 crore\n\n100,000: led by Uttar Pradesh\n(21.83 lakh), Bihar (6.14 lakh),\nRajasthan (5.63 lakh) and West\nBengal (4.01 lakh).\nPM-POSHAN \u2014 Pradhan\nMantri Poshan Shakti Nirman,\nformerly the midday-meal\nscheme \u2014 covers students upto\nClass 8 in government and gov-\nernment-aided schools. Laun-\nched three decades ago, the\nscheme is a flagship nutritional\nsupport programme for children\nin pre-primary to Class 8 in gov-\nernment and government-aided\nschools.\n\nIts cost is shared by the\nCentre and States ona 60:40 ba-\nsis, with the Centre supplying\nfoodgrains. Besides addressing\nCONTINUED ON PAGE 2\n\nRUSSIA WANTED\nUKRAINE \u2018TO CEDE\nMORE TERRITORY\u2019\nAT TALKS Pace 12",
+   "ocr_conf": 91.81,
+   "ocr_low_conf_share": 0.035,
+   "headline": "'West Bengal 1.17 crore",
+   "deck": "STAVE ENROLMENT Bihar 1.79 crore 'Rajasthan Karnataka THE WORLD",
+   "byline": "ABHINAYAHARIGOVIND; NEW DELHI, MAY 17",
+   "text": "A STEEP drop in government school enrolment at the primary and upper-primary levels across 23 States and UTs in 2024-25 has evoked concem within the Union government, prompting the Ministry of Education (MoE) to ask for probes and remedial action plans from the states concemed. Minutes of meetings held by the MoE with 33 States and UTs in April to discuss performance, plan and budget under the PM-POSHAN scheme show that student enrolment dipped in 23 states, ofwhichat least eight witnessed declines exceeding\n\n1.52crore\n\n1.73 crore\n\n100,000: led by Uttar Pradesh (21.83 lakh), Bihar (6.14 lakh), Rajasthan (5.63 lakh) and West Bengal (4.01 lakh). PM-POSHAN - Pradhan Mantri Poshan Shakti Nirman, formerly the midday-meal scheme - covers students upto Class 8 in government and government-aided schools. Laun-ched three decades ago, the scheme is a flagship nutritional support programme for children in pre-primary to Class 8 in government and government-aided schools.\n\nIts cost is shared by the Centre and States ona 60:40 basis, with the Centre supplying foodgrains. Besides addressing\n\nRUSSIA WANTED UKRAINE 'TO CEDE MORE TERRITORY' AT TALKS Pace 12",
+   "n_words": 180,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1783,
+      4266,
+      3195,
+      4484
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4559,
+      2084,
+      4629
+     ],
+     [
+      1781,
+      4678,
+      2224,
+      5147
+     ],
+     [
+      2269,
+      4520,
+      2713,
+      5148
+     ],
+     [
+      2757,
+      4521,
+      3202,
+      5141
+     ]
+    ],
+    "layout_words": 234
+   },
+   "headline_raw": "In Manipur, govt\u2019s tourism festival\nbecomes first real test of normalcy",
+   "deck_raw": "",
+   "body_raw": "SUKRITA BARUAH\nGUWAHATI, MAY 17\n\nONTHURSDAY, popular Imphal-\nbased Instagram handle,\nImphalgram, uploaded a video\nof a\u201croad trip\u201d to the hill station\nof Ukhrul, located around 80\nkilometres from the city. The\nvideo shows the creators travel-\nling by scenic hill roads, passing\nby markets, and security person-\nnel and vehicles \u2014 ubiquitous in\nthe state for the past two years\n\u2014 to reach Ukhrul. There, they\n\nvisit different sites of the Shirui\nLily Festival, one of the two ma-\njor tourism festivals organised by\nthe Manipur government,\nscheduled to begin on May 20,\nThis is the first time since the\nethnic conflict broke out in the\nState in May 2023 that the festi-\nval is being held.\nAfter visiting the sites in\nUkhrul with officials of the\nManipur tourism department\nand meeting district administra-\ntion and police officials, the\nvideo shows the creators driving\nback to Imphal in the evening\n\nand signing off: \u201cThank you for\nthe company, Ukhrul Police.\u201d The\ncomments below immediately\njump to the question of security\nand safety: \u201cCan we go through\nroadways; is it safe; do we need\nto take a chopper?\u201d\nThroughout the conflict,\nMeiteis and Kuki-Zos have been\nunable to safely move in areas\nwhere the other community is\nin the majority. The Shirui Lily\nFestival is held in sites in Ukhrul\ntown and Shirui village in Ukhrul\ndistrict, where the Tangkhul\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.44444444444444,
+   "ocr_low_conf_share": 0.017094017094017096,
+   "headline": "In Manipur, govt's tourism festival becomes first real test of normalcy",
+   "deck": "",
+   "byline": "SUKRITA BARUAH; GUWAHATI, MAY 17",
+   "text": "ONTHURSDAY, popular Imphal-based Instagram handle, Imphalgram, uploaded a video of a\"road trip\" to the hill station of Ukhrul, located around 80 kilometres from the city. The video shows the creators travel-ling by scenic hill roads, passing by markets, and security personnel and vehicles - ubiquitous in the state for the past two years - to reach Ukhrul. There, they\n\nvisit different sites of the Shirui Lily Festival, one of the two major tourism festivals organised by the Manipur government, scheduled to begin on May 20, This is the first time since the ethnic conflict broke out in the State in May 2023 that the festival is being held. After visiting the sites in Ukhrul with officials of the Manipur tourism department and meeting district administration and police officials, the video shows the creators driving back to Imphal in the evening\n\nand signing off: \"Thank you for the company, Ukhrul Police.\" The comments below immediately jump to the question of security and safety: \"Can we go through roadways; is it safe; do we need to take a chopper?\" Throughout the conflict, Meiteis and Kuki-Zos have been unable to safely move in areas where the other community is in the majority. The Shirui Lily Festival is held in sites in Ukhrul town and Shirui village in Ukhrul district, where the Tangkhul",
+   "n_words": 219,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5299,
+      4145,
+      5434
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5471,
+      499,
+      5547
+     ],
+     [
+      316,
+      5666,
+      591,
+      5736
+     ],
+     [
+      317,
+      5785,
+      759,
+      6136
+     ],
+     [
+      803,
+      5468,
+      1248,
+      6055
+     ],
+     [
+      854,
+      6060,
+      1246,
+      6095
+     ],
+     [
+      1290,
+      5468,
+      1735,
+      6133
+     ],
+     [
+      2755,
+      5470,
+      3200,
+      6138
+     ],
+     [
+      3248,
+      5470,
+      3692,
+      6138
+     ],
+     [
+      3736,
+      5471,
+      4177,
+      5544
+     ],
+     [
+      3734,
+      5589,
+      4177,
+      6132
+     ]
+    ],
+    "layout_words": 469
+   },
+   "headline_raw": "Machine moves fast but your brain must be faster: Gaganyaan astronaut",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nANONNA DUTT\nNEW DELHI, MAY 17\n\nFROM HIS training and selection\nto the moment his terminally ill\nmother met the Prime Minister\nmonths before she passed away,\none of India\u2019s four astronaut-des-\nignates, Angad Pratap, talks\nabout his journey since being se-\nlected for Gaganyaan \u2014 the coun-\ntry\u2019s first crewed spaceflight mis-\n\nsion scheduled for 2027.\nPratap (43), an IAF test pilot\nwhobelieves space should be ac-\ncessible to all, spoke to The Indian\nExpress during an ISRO-backed\nevent in the national capital. At\nthe venue, he patiently clicked\nphotographs with all those who\napproached him, asked students\nabout their studies, reassured a\nshy child by saying he looked\n\u201cvery handsome\u201d \u2014 and eventu-\nally had to remove his astronaut\njacket to leave without further\ndelay.\n\nEdited excerpts from the in-\n\nWhat isthe training process\nfor becoming an astronaut?\nHow does it differ from the\ntraining you received asa test\npilot for the IAF?\nThere are definitely certain\nparallels between the two do-\nmains \u2014 while saying this, 1 do\nnot want to imply that piloting\nis essential for becoming an as-\ntronaut. Astronautics is all about\ndoing science in space; it should\nbe accessible to one and all. We\nneed people from all communi-\nties \u2014 scientists, doctors, engi-\nneers, philosophers, those from\nthe arts and commerce world, as\n\nwell as pilots.\n\u2018When space becomes acces-\nsible to everyone \u2014 more and\nmore human beings sent from\nacross the world \u2014 we will start\nthinking of ourselves as repre-\nsentatives of our planet. That is\nwhen we will grow beyond the\nsmaller issues we are embroil-\ning ourselves in.\nIt just so happens that space\ntravel is all about aviating: if you\nwant to go to space, you need to\ntraverse the atmosphere, and\nwhen you come back, you again\nneed totraverse the atmosphere.\nWhat this requires is alot of quick\n\ndecision-making and staying\nahead of a very, very fast-moving\nmachine. The speed at which the\nmachine is moving requires your\nbrain to function even faster... A\nlot of these things are experi-\nenced by pilots here on Earth.\nExperientially, piloting is very\nclose to being an astronaut. It's\nnot that others aren\u2019t capable;\nthey're simply not trained forit.\nSo, test pilots \u2014 by virtue of\ntheir academic prowess and\ntheir experience aviating inside\nfast-moving vehicles \u2014 are more\nsuitable and more easily train-\nable, and thus are given prefer-\n\nence whenever a prototype\nspaceflight starts.\n\nCan you describe the\nselection process for\nGaganyaan?\nAnyone who had cleared the\ntest pilot examination -- the\nmost difficult examination inthe\nIndian Air Force -- was consid-\neredeligible. There were IQ tests,\nflying-skills assessments, and\nstress-tolerance evaluations.\nInthe process, what I realised\nwas that your knowledge can al-\nways be prepared. I'll draw an\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.90191897654584,
+   "ocr_low_conf_share": 0.04051172707889126,
+   "headline": "Machine moves fast but your brain must be faster: Gaganyaan astronaut",
+   "deck": "",
+   "byline": "ANCHOR; ANONNA DUTT; NEW DELHI, MAY 17",
+   "text": "FROM HIS training and selection to the moment his terminally ill mother met the Prime Minister months before she passed away, one of India's four astronaut-designates, Angad Pratap, talks about his journey since being selected for Gaganyaan - the country's first crewed spaceflight mission scheduled for 2027. Pratap (43), an IAF test pilot whobelieves space should be accessible to all, spoke to The Indian Express during an ISRO-backed event in the national capital. At the venue, he patiently clicked photographs with all those who approached him, asked students about their studies, reassured a shy child by saying he looked \"very handsome\" - and eventually had to remove his astronaut jacket to leave without further delay.\n\nEdited excerpts from the in-\n\nWhat isthe training process for becoming an astronaut? How does it differ from the training you received asa test pilot for the IAF? There are definitely certain parallels between the two domains - while saying this, 1 do not want to imply that piloting is essential for becoming an astronaut. Astronautics is all about doing science in space; it should be accessible to one and all. We need people from all communities - scientists, doctors, engineers, philosophers, those from the arts and commerce world, as\n\nwell as pilots. 'When space becomes accessible to everyone - more and more human beings sent from across the world - we will start thinking of ourselves as representatives of our planet. That is when we will grow beyond the smaller issues we are embroiling ourselves in. It just so happens that space travel is all about aviating: if you want to go to space, you need to traverse the atmosphere, and when you come back, you again need totraverse the atmosphere. What this requires is alot of quick\n\ndecision-making and staying ahead of a very, very fast-moving machine. The speed at which the machine is moving requires your brain to function even faster... A lot of these things are experienced by pilots here on Earth. Experientially, piloting is very close to being an astronaut. It's not that others aren't capable; they're simply not trained forit. So, test pilots - by virtue of their academic prowess and their experience aviating inside fast-moving vehicles - are more suitable and more easily trainable, and thus are given preference whenever a prototype spaceflight starts.\n\nCan you describe the selection process for Gaganyaan? Anyone who had cleared the test pilot examination -- the most difficult examination inthe Indian Air Force -- was consideredeligible. There were IQ tests, flying-skills assessments, and stress-tolerance evaluations. Inthe process, what I realised was that your knowledge can always be prepared. I'll draw an",
+   "n_words": 439,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.2,
+ "flags": []
+}

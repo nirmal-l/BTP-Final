@@ -1,0 +1,525 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_15_front",
+ "source_file": "2025-01-15_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-15_front.png",
+ "date": "2025-01-15",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 186,
+  "mean_line_conf": 87.8030871309097,
+  "orphan_words": 31,
+  "body_words_total": 583
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 65.66666666666667,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      787,
+      1640,
+      1449
+     ],
+     [
+      811,
+      1486,
+      1681,
+      1546
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      1570,
+      745
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      1620,
+      1110,
+      1689
+     ],
+     [
+      805,
+      1739,
+      1253,
+      2288
+     ],
+     [
+      1298,
+      2057,
+      1739,
+      2281
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "Pok is foreign\nterritory for\nPak, used for\nterror: Rajnath\nSays J&K is incomplete without PoK",
+   "deck_raw": "MESSAGE FROM JAMMU",
+   "body_raw": "ARUN SHARMA\nJAMMU, JANUARY 14\n\nASSERTING THAT Jammu and\nKashmir, the \u201ccrown jewel\u201d of\nIndia, is incomplete without\nPakistan-occupied Kashmir\n(PoK), Defence Minister Rajnath\nSingh Tuesday wamed Pakistan\nagainstallowing the regionto be\nused for terror actwity.\nRajnath, whowas speakingin\nJammu's Akhnoor at a function\nto mark Armed Forces Veterans\nDay, said, \u201cWhile Jammu and\nKashmir is the crown jewel of\nIndia, and isincomplete without\n\nPakistan-occupied Kashmir, PoK\nis nothing more than a foreign\nterritory for Pakistan.\u201d\nHis comments are in line\nwith the Parliament resolution\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.59550561797752,
+   "ocr_low_conf_share": 0.056179775280898875,
+   "headline": "Pok is foreign territory for Pak, used for terror: Rajnath Says J&K is incomplete without PoK",
+   "deck": "MESSAGE FROM JAMMU",
+   "byline": "ARUN SHARMA; JAMMU, JANUARY 14",
+   "text": "ASSERTING THAT Jammu and Kashmir, the \"crown jewel\" of India, is incomplete without Pakistan-occupied Kashmir (PoK), Defence Minister Rajnath Singh Tuesday wamed Pakistan againstallowing the regionto be used for terror actwity. Rajnath, whowas speakingin Jammu's Akhnoor at a function to mark Armed Forces Veterans Day, said, \"While Jammu and Kashmir is the crown jewel of India, and isincomplete without\n\nPakistan-occupied Kashmir, PoK is nothing more than a foreign territory for Pakistan.\" His comments are in line with the Parliament resolution",
+   "n_words": 80,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1435,
+      759,
+      1799
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1856,
+      671,
+      1925
+     ],
+     [
+      322,
+      1978,
+      763,
+      2051
+     ],
+     [
+      321,
+      2096,
+      762,
+      2438
+     ],
+     [
+      317,
+      2870,
+      729,
+      3124
+     ]
+    ],
+    "layout_words": 71
+   },
+   "headline_raw": "Delhi Police links\nbomb hoax to\n\u2018pro-Afzal\u2019 NGO\nand party; AAP\nsays dirty politics",
+   "deck_raw": "",
+   "body_raw": "SAKSHI CHAND\nNEW DELHI, JANUARY 14\n\nCLAIMING A \u201clarger conspiracy\u201d\nbehind a 16-year-old schoolboy's\n\nwith bomb blasts earlier this\nmonth, Delhi Police Tuesday said\nthe role of an NGO \u201clinked toa\npolitical party\u201d has emerged\nduring its investigation.\nThis triggered apolitical row\nin poll-bound Delhi with the BJP\naccusing the AAP of being the\nCONTINUEDONPAGE2\n\n\u201cALL CENTRES OF\nFAITH SHOULD BE\nRESPECTED, THIS\nAPPLIESTO ALL\u2019\nVVASUDEV DEVNANI\nSPEAKER. RAJASTHAN ASSEMBLY",
+   "ocr_conf": 85.12857142857143,
+   "ocr_low_conf_share": 0.1,
+   "headline": "Delhi Police links bomb hoax to 'pro-Afzal' NGO and party; AAP says dirty politics",
+   "deck": "",
+   "byline": "SAKSHI CHAND; NEW DELHI, JANUARY 14",
+   "text": "CLAIMING A \"larger conspiracy\" behind a 16-year-old schoolboy's\n\nwith bomb blasts earlier this month, Delhi Police Tuesday said the role of an NGO \"linked toa political party\" has emerged during its investigation. This triggered apolitical row in poll-bound Delhi with the BJP accusing the AAP of being the CONTINUEDONPAGE2\n\n\"ALL CENTRES OF FAITH SHOULD BE RESPECTED, THIS APPLIESTO ALL' VVASUDEV DEVNANI SPEAKER. RAJASTHAN ASSEMBLY",
+   "n_words": 64,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3241,
+      1570,
+      4079,
+      1650
+     ],
+     [
+      3252,
+      1728,
+      4172,
+      1997
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      2091,
+      3601,
+      2169
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      2216,
+      3694,
+      2680
+     ],
+     [
+      3738,
+      2172,
+      3781,
+      2213
+     ]
+    ],
+    "layout_words": 56
+   },
+   "headline_raw": "| = Stares at bread daily\nBhagwat \u2018quotes\u2019 Pranab:\nIf no Ghar Wapsi, Adivasis\nwould turn anti-national",
+   "deck_raw": "DEEPTIMAN TIWARY\nNEW DELHI, JANUARY 14",
+   "body_raw": "RSS CHIEF Mohan Bhagwat has\nclaimed that President Pranab\nMukherjee had appreciated the\nGhar Wapsi programme and\ntold him that had it not been for\nthe Sangh's work on reconver-\nsion, a section of Adivasiswould\nhave turned \u201canti-national\u201d.\nBhagwat said this at an event\ninIndore Monday topresent the\n\u2018National Devi Ahilya Award\u2019 to\nCONTINUEDON PAGE2\n\nLF}",
+   "ocr_conf": 85.25,
+   "ocr_low_conf_share": 0.125,
+   "headline": "= Stares at bread daily Bhagwat 'quotes' Pranab: If no Ghar Wapsi, Adivasis would turn anti-national",
+   "deck": "DEEPTIMAN TIWARY NEW DELHI, JANUARY 14",
+   "byline": "LF}",
+   "text": "RSS CHIEF Mohan Bhagwat has claimed that President Pranab Mukherjee had appreciated the Ghar Wapsi programme and told him that had it not been for the Sangh's work on reconversion, a section of Adivasiswould have turned \"anti-national\". Bhagwat said this at an event inIndore Monday topresent the 'National Devi Ahilya Award' to CONTINUEDON PAGE2",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      1658,
+      3194,
+      1736
+     ]
+    ],
+    "layout_words": 26,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Sadhus from various akhadas gather at Triveni Sangamin Prayagrajto take part in the Amrit\nSnanatthe Maha Kumbh on the occasion of Makar Sankranti, Tuesday. VishalSrivastav PAGE7",
+   "ocr_conf": 83.0,
+   "ocr_low_conf_share": 0.11538461538461539,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Sadhus from various akhadas gather at Triveni Sangamin Prayagrajto take part in the Amrit Snanatthe Maha Kumbh on the occasion of Makar Sankranti, Tuesday. VishalSrivastav PAGE7",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      1920,
+      3175,
+      2164
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1788,
+      1844,
+      3150,
+      1877
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      2201,
+      2179,
+      2456
+     ],
+     [
+      1786,
+      2532,
+      2099,
+      2638
+     ],
+     [
+      1786,
+      2690,
+      2226,
+      3122
+     ],
+     [
+      2273,
+      2730,
+      2715,
+      3115
+     ]
+    ],
+    "layout_words": 114
+   },
+   "headline_raw": "Incinerating Carbide\u2019s ghosts:\n337 tonnes, a 250-km journey",
+   "deck_raw": "WASTE GENERATED AT BHOPAL FACTORY BETWEEN 1969 & 1984",
+   "body_raw": "The waste will be\ndestroyed at\na facility in\nPithampur, MP\n\nNIKHIL GHANEKAR\nBHOPAL, PITHAMPUR,\nJANUARY 14\n\nIT WAS a mammoth task that\nwok 40 years to get started.\nFour days of repacking,\nweighing and loading of 337\nmetrictonnes(MT) ofhazardous\nwaste, 40 workers deployed in\n30-minute shifts, 12 long-haul\ncontainers \u2014and a250-km jour-\nney through a green conidor.\nBetween December 29 and\nthe night of January 1, this is\n\nwhat went on at the infamous\nUnion Carbide India Limited\n(UCIL) plant in Bhopal as the\nwaste, collected from the surface\nof the plant's decrepit premises\nand stored since 2005, was\nrepacked and transported to\nPithampur near Indore.\nThe waste, whichremains in\nCONTINUED ONPAGE 2",
+   "ocr_conf": 89.93859649122807,
+   "ocr_low_conf_share": 0.07017543859649122,
+   "headline": "Incinerating Carbide's ghosts: 337 tonnes, a 250-km journey",
+   "deck": "WASTE GENERATED AT BHOPAL FACTORY BETWEEN 1969 & 1984",
+   "byline": "NIKHIL GHANEKAR; BHOPAL, PITHAMPUR,; JANUARY 14",
+   "text": "The waste will be destroyed at a facility in Pithampur, MP\n\nIT WAS a mammoth task that wok 40 years to get started. Four days of repacking, weighing and loading of 337 metrictonnes(MT) ofhazardous waste, 40 workers deployed in 30-minute shifts, 12 long-haul containers - and a250-km journey through a green conidor. Between December 29 and the night of January 1, this is\n\nwhat went on at the infamous Union Carbide India Limited (UCIL) plant in Bhopal as the waste, collected from the surface of the plant's decrepit premises and stored since 2005, was repacked and transported to Pithampur near Indore. The waste, whichremains in",
+   "n_words": 105,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3758,
+      2119,
+      4141,
+      2213
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3786,
+      2256,
+      4144,
+      2647
+     ]
+    ],
+    "layout_words": 33
+   },
+   "headline_raw": "zL TheSangh\nia @ campaign",
+   "deck_raw": "",
+   "body_raw": "BHAGWATS STATEMENT\nis in line withthe Sangh's\nlongstanding campaign\nagainst conversion of\ntribals. [t assumes signifi-\ncance at atime when the\nOpposition has made\ncastecensus and tribal\nrights its political pitch\nforthe elections.",
+   "ocr_conf": 92.60606060606061,
+   "ocr_low_conf_share": 0.0,
+   "headline": "zL TheSangh ia @ campaign",
+   "deck": "",
+   "byline": "BHAGWATS STATEMENT",
+   "text": "is in line withthe Sangh's longstanding campaign against conversion of tribals. [t assumes significance at atime when the Opposition has made castecensus and tribal rights its political pitch forthe elections.",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2199,
+      3199,
+      2474
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2572,
+      3075,
+      2679
+     ],
+     [
+      2760,
+      2730,
+      3204,
+      3115
+     ]
+    ],
+    "layout_words": 51
+   },
+   "headline_raw": "Next challenge:\nOutreach to calm\npublic anxicty\nover waste",
+   "deck_raw": "",
+   "body_raw": "NIKHILGHANEKAR\nBHOPAL, PITHAMPUR,\nJANUARY 14\n\nTARPURA IN Madhya Pradesh's\nPithampur is Ground Zero\nwhere 12 long-haul containers\npacked with hazardous waste\nare parked in a private treat-\nment, storage and disposal facil-\nity \u2014 waiting to be incinerated.\nThere are policemen stationed\nacross the village. And in one\nCONTINUEDON PAGE 2",
+   "ocr_conf": 90.80392156862744,
+   "ocr_low_conf_share": 0.0392156862745098,
+   "headline": "Next challenge: Outreach to calm public anxicty over waste",
+   "deck": "",
+   "byline": "NIKHILGHANEKAR; BHOPAL, PITHAMPUR,; JANUARY 14",
+   "text": "TARPURA IN Madhya Pradesh's Pithampur is Ground Zero where 12 long-haul containers packed with hazardous waste are parked in a private treatment, storage and disposal facility - waiting to be incinerated. There are policemen stationed across the village. And in one CONTINUEDON PAGE 2",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      2355,
+      1707,
+      2648
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      2728,
+      1159,
+      2797
+     ],
+     [
+      808,
+      2847,
+      1256,
+      3116
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "Galwan to Siachen to\nDoklam: New locations\nin \u2018battle tourism\u2019 map",
+   "deck_raw": "",
+   "body_raw": "DIVYAA\nNEW DELHI, JANUARY 14\n\nIN RECENT public memory,\nGalwan \u2014 the river valley in\nLadakh \u2014 isknown as the site of\nviolent border clashes between\nIndia and China in June 2020,\nwherein 20 Indian soldiers lost\ntheir lives. In 2017, there wasthe",
+   "ocr_conf": 89.74418604651163,
+   "ocr_low_conf_share": 0.046511627906976744,
+   "headline": "Galwan to Siachen to Doklam: New locations in 'battle tourism' map",
+   "deck": "",
+   "byline": "DIVYAA; NEW DELHI, JANUARY 14",
+   "text": "IN RECENT public memory, Galwan - the river valley in Ladakh - isknown as the site of violent border clashes between India and China in June 2020, wherein 20 Indian soldiers lost their lives. In 2017, there wasthe",
+   "n_words": 38,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      2575,
+      1677,
+      2667
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      2689,
+      1741,
+      3114
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "rism\u2019 map",
+   "deck_raw": "",
+   "body_raw": "Doklam standoff between the\ntwo Asian neighbours. Doklam\nis a tri-junction between India,\nBhutanand China\nThese two and75 other such\nforward sites alongside the\ncountry's border which have\nwitnessed some military action\nin the past \u2014 including several\nother spots along the Line of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.89583333333333,
+   "ocr_low_conf_share": 0.041666666666666664,
+   "headline": "rism' map",
+   "deck": "",
+   "byline": "",
+   "text": "Doklam standoff between the two Asian neighbours. Doklam is a tri-junction between India, Bhutanand China These two and75 other such forward sites alongside the country's border which have witnessed some military action in the past - including several other spots along the Line of",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3738,
+      2754,
+      4179,
+      2812
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3901,
+      2855,
+      4180,
+      3079
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "THE EDITORIAL PAGE",
+   "deck_raw": "",
+   "body_raw": "MANMOHAN\u2019S\nVISION AND\nWHO WE ARE\nBy AMARTYA SEN\nPAGE?8",
+   "ocr_conf": 62.8,
+   "ocr_low_conf_share": 0.4,
+   "headline": "THE EDITORIAL PAGE",
+   "deck": "",
+   "byline": "MANMOHAN'S; VISION AND; WHO WE ARE; By AMARTYA SEN; PAGE?8",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 10.0,
+ "flags": []
+}

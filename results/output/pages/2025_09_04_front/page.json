@@ -1,0 +1,548 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_04_front",
+ "source_file": "2025-09-04_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-04_front.png",
+ "date": "2025-09-04",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 272,
+  "mean_line_conf": 88.74170283244877,
+  "orphan_words": 3,
+  "body_words_total": 829
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      375,
+      732,
+      707,
+      841
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      376,
+      1068,
+      707,
+      1102
+     ],
+     [
+      404,
+      1215,
+      680,
+      1345
+     ],
+     [
+      364,
+      1498,
+      722,
+      1532
+     ],
+     [
+      457,
+      1575,
+      630,
+      1603
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "America, don\u2019t\nlose India",
+   "deck_raw": "",
+   "body_raw": "THAROORTHINK\n\nHis weekly column\nbegins today\nPAGE 7\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "ocr_conf": 91.15384615384616,
+   "ocr_low_conf_share": 0.0,
+   "headline": "America, don't lose India",
+   "deck": "",
+   "byline": "THAROORTHINK",
+   "text": "His weekly column begins today\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      815,
+      797,
+      4101,
+      1224
+     ],
+     [
+      809,
+      1289,
+      1731,
+      1420
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      2947,
+      745
+     ]
+    ],
+    "body_boxes": [
+     [
+      806,
+      1454,
+      1250,
+      1529
+     ],
+     [
+      809,
+      1620,
+      1251,
+      2051
+     ],
+     [
+      1298,
+      1463,
+      1740,
+      1886
+     ],
+     [
+      1298,
+      1968,
+      1684,
+      2041
+     ],
+     [
+      2317,
+      1371,
+      2837,
+      1507
+     ],
+     [
+      2317,
+      1761,
+      2832,
+      1897
+     ]
+    ],
+    "layout_words": 161
+   },
+   "headline_raw": "GST 2.0 unveiled: Two-slab structure cleared.\nnew rates will come into effect September 22\nWill improve lives of citizens, ensure\nease of doing business: PM hails move",
+   "deck_raw": "COUNCIL CHAIRED BY SITHARAMAN APPROVES NEXT-GEN REFORMS",
+   "body_raw": "AANCHAL MAGAZINE\n\nTHE GOODS and Services Tax\n(GST) Council, in its 56th meet-\ning which lasted over 10 hours\nWednesday, cleared the next-\ngeneration reforms under the\neight-year old indirect tax\nregime. This effectively paves the\nway for a broad two-slab struc-\nture of 5 per centand 18 percent\nwith a demerit rate of 40 per\ncent rate only for super luxury,\n\nsin and demerit goods.\nThe aim: lower tax burden on\ncommon people with sweeping\nrate cuts and reduction in GST\nslabs, ease blocked working cap-\nital, and facilitate ease of doing\nbusiness with automated re-\nfunds and registration process,\nAll the rate changes, except\nthose for tobacco and tobacco\nCONTINUED ON PAGE 2\n\nRELATED REPORTS\nPAGES\n\nDAILY ESSENTIALS\n@ Hair oil, shampoo, toilet soap bar,\ntoothpaste, toothbrush, shaving cream\n@ Butter, ghee, cheese & dairy spreads\n\nAUTOMOBILES\n@ Petrol & petrol hybrid, LPG, CNG cars\n(not exceeding 1200 cc & 4000mm)\n@ Motorcycles (350 cc & below)",
+   "ocr_conf": 90.57861635220125,
+   "ocr_low_conf_share": 0.06289308176100629,
+   "headline": "GST 2.0 unveiled: Two-slab structure cleared. new rates will come into effect September 22 Will improve lives of citizens, ensure ease of doing business: PM hails move",
+   "deck": "COUNCIL CHAIRED BY SITHARAMAN APPROVES NEXT-GEN REFORMS",
+   "byline": "AANCHAL MAGAZINE",
+   "text": "THE GOODS and Services Tax (GST) Council, in its 56th meeting which lasted over 10 hours Wednesday, cleared the next-generation reforms under the eight-year old indirect tax regime. This effectively paves the way for a broad two-slab structure of 5 per centand 18 percent with a demerit rate of 40 per cent rate only for super luxury,\n\nsin and demerit goods. The aim: lower tax burden on common people with sweeping rate cuts and reduction in GST slabs, ease blocked working capital, and facilitate ease of doing business with automated refunds and registration process, All the rate changes, except those for tobacco and tobacco\n\nRELATED REPORTS PAGES\n\nDAILY ESSENTIALS @ Hair oil, shampoo, toilet soap bar, toothpaste, toothbrush, shaving cream @ Butter, ghee, cheese & dairy spreads\n\nAUTOMOBILES @ Petrol & petrol hybrid, LPG, CNG cars (not exceeding 1200 cc & 4000mm) @ Motorcycles (350 cc & below)",
+   "n_words": 148,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      1287,
+      4165,
+      1599
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      1662,
+      3629,
+      1732
+     ],
+     [
+      3250,
+      1780,
+      3691,
+      2053
+     ],
+     [
+      3738,
+      1623,
+      4181,
+      2046
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "FM: Until compensation\nloans are paid, cess on\ntobacco products to stay",
+   "deck_raw": "",
+   "body_raw": "SIDDHARTH UPASANI\nNEW DELHI, SEPTEMBER3\n\nWHILE HUNDREDS of goods and\nservices will see new Goodsand\nServices Tax (GST) rates from\nSeptember 22, tobacco and re-\nlated products will continue to\noperate under the current sys-\ntem \u2014along withthe additional\n\ncess \u2014 until the amount bor-\nrowed by the government dur-\ning the pandemic years to com-\npensate states for shortfall in\nrevenue is paid back, Finance\nMinister Nirmala Sitharaman\nsaid Wednesday.\n\u201cPan masala, cigarettes,\ngutkha, and other tobacco prod-\nucts such as chewing tobacco,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.04545454545455,
+   "ocr_low_conf_share": 0.0,
+   "headline": "FM: Until compensation loans are paid, cess on tobacco products to stay",
+   "deck": "",
+   "byline": "SIDDHARTH UPASANI; NEW DELHI, SEPTEMBER3",
+   "text": "WHILE HUNDREDS of goods and services will see new Goodsand Services Tax (GST) rates from September 22, tobacco and related products will continue to operate under the current system - along withthe additional\n\ncess - until the amount borrowed by the government during the pandemic years to compensate states for shortfall in revenue is paid back, Finance Minister Nirmala Sitharaman said Wednesday. \"Pan masala, cigarettes, gutkha, and other tobacco products such as chewing tobacco,",
+   "n_words": 74,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2196,
+      1241,
+      2542
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2610,
+      643,
+      2680
+     ],
+     [
+      318,
+      2728,
+      761,
+      3317
+     ],
+     [
+      809,
+      2571,
+      1250,
+      3313
+     ]
+    ],
+    "layout_words": 166
+   },
+   "headline_raw": "Rajasthan Assembly\npasses Bill to regulate\ncoaching centres",
+   "deck_raw": "",
+   "body_raw": "HAMZAKHAN\nJAIPUR, SEPTEMBER 3\n\nTHE RAJASTHAN Assembly\nWednesday passed the Bill to\nregulate coaching centres in the\nstate amid criticism by\nOpposition MLAs who said that\nit fails to address the concerns\nraised earlier.\nDeputy Chief Minister and\nHigher Education Minister Prem\nChand Bairwa called the\nRajasthan Coaching Centres\n(Control and Regulation) Bill,\n2025, \u201chistoric\u201d, saying that they\nare showing the way tothe com-\ning generations, He said that in\n\nthe last four years, 88 students in\ncoaching centres have died by\nsuicide, ofwhich 70were in Kota,\n14 in Sikar and rest in other\nplaces. \u201cIt is notjust a figure, but\nevidence of our collective fail-\nure,\u201d he said.\nFirst tabled in March, the Bill\nessentially makes it mandatory\nfor all coaching centres to get\nregistered, lists aminimum-cri-\nteria for their operation and has\nprovisions for setting up a state\nand district level authorities to\nenforce the law,\nHowever, following intense\nOpposition, it was sent to the\nSelect Committee in March and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.41566265060241,
+   "ocr_low_conf_share": 0.018072289156626505,
+   "headline": "Rajasthan Assembly passes Bill to regulate coaching centres",
+   "deck": "",
+   "byline": "HAMZAKHAN; JAIPUR, SEPTEMBER 3",
+   "text": "THE RAJASTHAN Assembly Wednesday passed the Bill to regulate coaching centres in the state amid criticism by Opposition MLAs who said that it fails to address the concerns raised earlier. Deputy Chief Minister and Higher Education Minister Prem Chand Bairwa called the Rajasthan Coaching Centres (Control and Regulation) Bill, 2025, \"historic\", saying that they are showing the way tothe coming generations, He said that in\n\nthe last four years, 88 students in coaching centres have died by suicide, ofwhich 70were in Kota, 14 in Sikar and rest in other places. \"It is notjust a figure, but evidence of our collective failure,\" he said. First tabled in March, the Bill essentially makes it mandatory for all coaching centres to get registered, lists aminimum-criteria for their operation and has provisions for setting up a state and district level authorities to enforce the law, However, following intense Opposition, it was sent to the Select Committee in March and",
+   "n_words": 155,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      2199,
+      4166,
+      2510
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2573,
+      3628,
+      2643
+     ],
+     [
+      3250,
+      2691,
+      3695,
+      3121
+     ],
+     [
+      3734,
+      3008,
+      4182,
+      3115
+     ],
+     [
+      3681,
+      4164,
+      4128,
+      4193
+     ]
+    ],
+    "layout_words": 83
+   },
+   "headline_raw": "At RSS meet, M M Joshi\nflags income inequality,\npoor per capita GDP",
+   "deck_raw": "",
+   "body_raw": "SHYAMLAL YADAV\nNEW DELHI, SEPTEMBER3\n\nAWEEK before RSS chief Mohan\nBhagwat led a three-day lecture\nseries in Delhi to mark 100 years of\nthe Sangh, a closed-door session\nwas held for around 80 delegates\nfromits six organisations working\nin the economic field, who were\nshownslideson the country\u2019s so-\ncial and economic situation.\nThe special invitee and star\npresenter was Murli Manohar\n\nJoshi, 91, the former BJP chief\nwho was eased into the defunct\nCONTINUED ON PAGE 2\n\nLakshita Ma\u2019am __ Vijay Sihag Sir",
+   "ocr_conf": 90.74698795180723,
+   "ocr_low_conf_share": 0.03614457831325301,
+   "headline": "At RSS meet, M M Joshi flags income inequality, poor per capita GDP",
+   "deck": "",
+   "byline": "SHYAMLAL YADAV; NEW DELHI, SEPTEMBER3",
+   "text": "AWEEK before RSS chief Mohan Bhagwat led a three-day lecture series in Delhi to mark 100 years of the Sangh, a closed-door session was held for around 80 delegates fromits six organisations working in the economic field, who were shownslideson the country's social and economic situation. The special invitee and star presenter was Murli Manohar\n\nJoshi, 91, the former BJP chief who was eased into the defunct\n\nLakshita Ma'am __ Vijay Sihag Sir",
+   "n_words": 73,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      3149,
+      1968,
+      3217
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1600,
+      3282,
+      1612,
+      3313
+     ]
+    ],
+    "layout_words": 1
+   },
+   "headline_raw": "IN CONVERSATION",
+   "deck_raw": "",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "IN CONVERSATION",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      3283,
+      2146,
+      3362
+     ],
+     [
+      1785,
+      3453,
+      2164,
+      3711
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      3358,
+      2166,
+      3725
+     ],
+     [
+      1817,
+      3527,
+      2049,
+      3555
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "Chief Economic Advisor\nVAnantha Nageswaran\nindian express Group,\nand P Vaidyanathan Iyer,\nManaging Editor,\nThe Indian Express, atthe\nExpress Adda in Mumbai\non Wednesday.\nNarendra Vaskar",
+   "deck_raw": "",
+   "body_raw": "with Anant Goenka,\nExecutive Director, The\nIndian Express Group,\nand P Vaidyanathan Iyer,\nManaging Editor,\nThe Indian Express, atthe\nExpress Adda in Mumbai\non Wednesday.\nNarendra Vaskar\n\nlanagin: ig Editor,",
+   "ocr_conf": 89.6,
+   "ocr_low_conf_share": 0.1,
+   "headline": "Chief Economic Advisor VAnantha Nageswaran indian express Group, and P Vaidyanathan Iyer, Managing Editor, The Indian Express, atthe Express Adda in Mumbai on Wednesday. Narendra Vaskar",
+   "deck": "",
+   "byline": "",
+   "text": "with Anant Goenka, Executive Director, The Indian Express Group, and P Vaidyanathan Iyer, Managing Editor, The Indian Express, atthe Express Adda in Mumbai on Wednesday. Narendra Vaskar\n\nlanagin: ig Editor,",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      3282,
+      2153,
+      3313
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Chief Economic Advisor",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Chief Economic Advisor",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3385,
+      737,
+      3809
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3875,
+      698,
+      3945
+     ],
+     [
+      317,
+      3996,
+      763,
+      5367
+     ],
+     [
+      477,
+      5519,
+      719,
+      5662
+     ],
+     [
+      363,
+      5736,
+      722,
+      6126
+     ]
+    ],
+    "layout_words": 226
+   },
+   "headline_raw": "Centre, Kuki\ngroups meet,\nin final stages\nof reworking\nceasefire pact",
+   "deck_raw": "",
+   "body_raw": "DEEPTIMAN TIWARY\nNEW DELHI, SEPTEMBER 3\n\nTHE UNION Ministry of Home\nAffairs and Kuki militant groups\nare in the final stages of finalis-\ning fresh terms for extension of\na ceasefire, with the two sides\nholding a meeting here\nWednesday.\nAs per sources, the terms in-\nclude withdrawal of Kuki militant\ncamps from the fringes of the\nMeitei-dominated Imphal Valley,\nconsolidation of multiple camps\ninto fewercamps, identification of\nmilitant cadres through proper\ncertification, regulated movement\nof cadres outside camps, and a\nnew structure of remuneration.\nThe development comes\nahead of the likely visit of Prime\nMinister Narendra Modi to\nManipur on September 13. This\nwould be the first visit of the PM\nto the state since the onset of the\nethnic violence between the\nKukis and Meiteis in May 2023.\nThe Kuki militant groups en-\ntered into a Suspension of\nOperations (SoO) agreement\nwith the Manipur government\nand the Centre in 2008, which\nwas renewed every year until\nFebruary 2024. However, in the\nwake of the ethnic violence in\nthe state, the agreement has\nbeen ina limbo.\n\nShifting of\ncampson\n|@ table\n\nAKEY agenda is with-\ndrawal of SoO group\ncamps from the fringes of\nthe Valley - a long-time\ndemand of the Meiteis,\nMeitei groups have al-\nleged that these camps\nhave been used to launch\nattacks in the Valley, a\ncharge denied by Kukis.",
+   "ocr_conf": 91.78318584070796,
+   "ocr_low_conf_share": 0.048672566371681415,
+   "headline": "Centre, Kuki groups meet, in final stages of reworking ceasefire pact",
+   "deck": "",
+   "byline": "DEEPTIMAN TIWARY; NEW DELHI, SEPTEMBER 3",
+   "text": "THE UNION Ministry of Home Affairs and Kuki militant groups are in the final stages of finalising fresh terms for extension of a ceasefire, with the two sides holding a meeting here Wednesday. As per sources, the terms include withdrawal of Kuki militant camps from the fringes of the Meitei-dominated Imphal Valley, consolidation of multiple camps into fewercamps, identification of militant cadres through proper certification, regulated movement of cadres outside camps, and a new structure of remuneration. The development comes ahead of the likely visit of Prime Minister Narendra Modi to Manipur on September 13. This would be the first visit of the PM to the state since the onset of the ethnic violence between the Kukis and Meiteis in May 2023. The Kuki militant groups entered into a Suspension of Operations (SoO) agreement with the Manipur government and the Centre in 2008, which was renewed every year until February 2024. However, in the wake of the ethnic violence in the state, the agreement has been ina limbo.\n\nShifting of campson @ table\n\nAKEY agenda is withdrawal of SoO group camps from the fringes of the Valley - a long-time demand of the Meiteis, Meitei groups have alleged that these camps have been used to launch attacks in the Valley, a charge denied by Kukis.",
+   "n_words": 215,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2937,
+      3647,
+      3538,
+      3694
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2871,
+      4163,
+      3012,
+      4192
+     ],
+     [
+      3126,
+      4193,
+      3346,
+      4260
+     ],
+     [
+      3472,
+      4164,
+      3581,
+      4192
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "We Bring The Best Out Of You",
+   "deck_raw": "",
+   "body_raw": "Rajveer Sir\n\nDileep Mahecha\nDirector\n\nVijay Sir",
+   "ocr_conf": 95.14285714285714,
+   "ocr_low_conf_share": 0.0,
+   "headline": "We Bring The Best Out Of You",
+   "deck": "",
+   "byline": "",
+   "text": "Rajveer Sir\n\nDileep Mahecha Director\n\nVijay Sir",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2726,
+      4289,
+      3747,
+      4354
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3104,
+      5924,
+      3623,
+      6016
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "f [AS/ RAS Ulaaitid dastto Ueuna tetas ch scchted! cht WANT EL",
+   "deck_raw": "",
+   "body_raw": "Contact us-\n\u00a9 Springboard Academy Online",
+   "ocr_conf": 94.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "f [AS/ RAS Ulaaitid dastto Ueuna tetas ch scchted! cht WANT EL",
+   "deck": "",
+   "byline": "",
+   "text": "Contact us- \u00a9 Springboard Academy Online",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 12.7,
+ "flags": []
+}

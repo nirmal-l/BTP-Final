@@ -1,0 +1,863 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_10_front",
+ "source_file": "2025-04-10_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-10_front.png",
+ "date": "2025-04-10",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 521,
+  "mean_line_conf": 90.12739985009658,
+  "orphan_words": 5,
+  "body_words_total": 2099
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      784,
+      3197,
+      1180
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      696,
+      2496,
+      745
+     ],
+     [
+      811,
+      1221,
+      2218,
+      1353
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1421,
+      1133,
+      1493
+     ],
+     [
+      808,
+      1542,
+      1252,
+      2289
+     ],
+     [
+      1298,
+      2135,
+      1741,
+      2282
+     ],
+     [
+      1788,
+      2167,
+      2169,
+      2250
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "Trump blinks with 90-day pause on\ntariffs but dials up China\u2019s to 125%",
+   "deck_raw": "U.S. MARKETS BOUNCE BACK AFTER ANNOUNCEMENT\nBefore he moved, China hit back with 84% tariff, EU 25%;\nTreasury Secy says India among those willing to \u2018sit at table\u2019",
+   "body_raw": "JOSH BOAK\nWASHINGTON, APRIL 9\n\nFACING A global market melt-\ndown, US President Donald\nTrump Wednesday abruptly\nbacked down on his tariffs on\nmost nations for 90 days, but\nraised the tax rate on Chinese\nimports to 125%.\nIt was seemingly an attempt\nto narrow what had been an un-\nprecedented trade war between\nthe US and most of the world to\na showdown between the US\nand China.\nThe S&P 500 stock index\njumped 8% after the announce-\nment. The Dow Jones Industrial\nAverage was up 2,665 points, or\n71%, as of 2 pm Easter time,and\nthe Nasdaq composite was 10.3%\n\nhigher, But the precise details of\nTrump\u2019s plans to ease tariffs on\nnon-China trade partners were\nCONTINUEDON PAGE 2\n\nEARLIER ANALYSIS\nEXPLAINED, PAGE 13",
+   "ocr_conf": 93.73015873015873,
+   "ocr_low_conf_share": 0.007936507936507936,
+   "headline": "Trump blinks with 90-day pause on tariffs but dials up China's to 125%",
+   "deck": "U.S. MARKETS BOUNCE BACK AFTER ANNOUNCEMENT Before he moved, China hit back with 84% tariff, EU 25%; Treasury Secy says India among those willing to 'sit at table'",
+   "byline": "JOSH BOAK; WASHINGTON, APRIL 9",
+   "text": "FACING A global market melt-down, US President Donald Trump Wednesday abruptly backed down on his tariffs on most nations for 90 days, but raised the tax rate on Chinese imports to 125%. It was seemingly an attempt to narrow what had been an unprecedented trade war between the US and most of the world to a showdown between the US and China. The S&P 500 stock index jumped 8% after the announcement. The Dow Jones Industrial Average was up 2,665 points, or 71%, as of 2 pm Easter time,and the Nasdaq composite was 10.3%\n\nhigher, But the precise details of Trump's plans to ease tariffs on non-China trade partners were CONTINUEDON PAGE 2\n\nEARLIER ANALYSIS EXPLAINED, PAGE 13",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      776,
+      4174,
+      1295
+     ],
+     [
+      3253,
+      1332,
+      4149,
+      1462
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      698,
+      4156,
+      737
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      1544,
+      3561,
+      1653
+     ],
+     [
+      3249,
+      1702,
+      3699,
+      2964
+     ],
+     [
+      3981,
+      1543,
+      4156,
+      1729
+     ],
+     [
+      3739,
+      1821,
+      4182,
+      2957
+     ],
+     [
+      3737,
+      3062,
+      3982,
+      3094
+     ]
+    ],
+    "layout_words": 317
+   },
+   "headline_raw": "Tahawwur Rana,\nextradited from US\nfor his role in 26/11,\nreaches Delhi today\nHe will face trial and punishment,\nextradition big success of Govt: Shah",
+   "deck_raw": "TIHAR READIES CELL, PROSECUTOR NAMED",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, APRIL9\n\nINDIAN SECURITY agencies\nbraced for the arrival Thursday\nof Tahawwur Rana, being extra-\ndited from the US nearly 16 years\nafter his arrest for his role in the\n26/11 Mumbai terror attacks.\nOn Wednesday evening, the\nNayayik Abhiraksha Vahini of\nDelhi Police was asked by the\nNational Investigation Agency\n(NIA) to send a jail van, along\nwith pilot escorts, to the airport\naround 7 am Thursday, ahead of\nRana\u2019s arrival.\nThe Deihi Police Special Cell\nhas been placed on alert and\nSWATcommandos have already\nbeen deployed at the airport.\nA team of three senior offi-\ncers of the NIA, along with three\nintelligence officials, reached the\nUS Sunday to obtain custody of\nRana, sources in the Ministry of\nHome Affairs said.\nThe source said the team ob-\ntained Rana\u2019s custody and he\nwould be reaching Delhi\nThursday. It is likely that he will\nbe placed under judicial custody\nin TiharJail.\n\u201cThe Nayayik Abhiraksha\nVahini, which ferries jail inmates\n\nTahawwur\nRana being\nextradited\n16 years\nafter arrest\n\nfrom prison to courts, has been\nasked tosend its personnel tothe\nairport. Initially, it was told to\nsend a team around 4 am, but\nthat was later changed to7 am,\u201d\nthe source said.\n\u201cA jail van along with pilot es-\ncorts, comprising police person-\nnel, have been asked to reach the\nairport by 7 am. The South\nDistrict police have made extra\nsecurity deployment near the\nNIA headquarters in Pragati\nVihar,\u201d the source said.\nAlso Wednesday, Union\nHome Minister Amit Shah helda\nmeeting with External Affairs\nMinister S Jaishankar and\nNational Security Advisor Ajit\nDoval to discuss the preparations.\nA source said Director of\nIntelligence Bureau Tapan Deka,\nForeign Secretary Vikram Misri\nand NIA Director Sadanand Date\nwere also present at the meeting.\nIn the evening, Shah, speak-\ning at the News18 Rising Bharat\nSummit, called the extradition of\nCONTINUED ON PAGE 2\n\nTHE WORLD",
+   "ocr_conf": 93.16719242902208,
+   "ocr_low_conf_share": 0.015772870662460567,
+   "headline": "Tahawwur Rana, extradited from US for his role in 26/11, reaches Delhi today He will face trial and punishment, extradition big success of Govt: Shah",
+   "deck": "TIHAR READIES CELL, PROSECUTOR NAMED",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, APRIL9",
+   "text": "INDIAN SECURITY agencies braced for the arrival Thursday of Tahawwur Rana, being extradited from the US nearly 16 years after his arrest for his role in the 26/11 Mumbai terror attacks. On Wednesday evening, the Nayayik Abhiraksha Vahini of Delhi Police was asked by the National Investigation Agency (NIA) to send a jail van, along with pilot escorts, to the airport around 7 am Thursday, ahead of Rana's arrival. The Deihi Police Special Cell has been placed on alert and SWATcommandos have already been deployed at the airport. A team of three senior officers of the NIA, along with three intelligence officials, reached the US Sunday to obtain custody of Rana, sources in the Ministry of Home Affairs said. The source said the team obtained Rana's custody and he would be reaching Delhi Thursday. It is likely that he will be placed under judicial custody in TiharJail. \"The Nayayik Abhiraksha Vahini, which ferries jail inmates\n\nTahawwur Rana being extradited 16 years after arrest\n\nfrom prison to courts, has been asked tosend its personnel tothe airport. Initially, it was told to send a team around 4 am, but that was later changed to7 am,\" the source said. \"A jail van along with pilot escorts, comprising police personnel, have been asked to reach the airport by 7 am. The South District police have made extra security deployment near the NIA headquarters in Pragati Vihar,\" the source said. Also Wednesday, Union Home Minister Amit Shah helda meeting with External Affairs Minister S Jaishankar and National Security Advisor Ajit Doval to discuss the preparations. A source said Director of Intelligence Bureau Tapan Deka, Foreign Secretary Vikram Misri and NIA Director Sadanand Date were also present at the meeting. In the evening, Shah, speaking at the News18 Rising Bharat Summit, called the extradition of\n\nTHE WORLD",
+   "n_words": 301,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      823,
+      633,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      1221,
+      3129,
+      1531
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      1574,
+      2716,
+      1691
+     ],
+     [
+      2276,
+      1740,
+      2716,
+      2290
+     ],
+     [
+      2764,
+      1583,
+      3205,
+      1888
+     ],
+     [
+      2760,
+      1900,
+      3205,
+      2283
+     ]
+    ],
+    "layout_words": 169
+   },
+   "headline_raw": "India gets a breather,\nhours after Goyal tells\nexporters not to panic",
+   "deck_raw": "",
+   "body_raw": "RAVIDUTTA MISHRA\nNEW DELHI, APRIL 9\n\nINDIA\u2019S STRATEGY of initiating\ntalks for a bilateral trade agree-\nment (BTA) with the US, along\nwith its restraint in not retaliat-\ning against US tariffs, appears to\nhave paid off, as US President\nDonald Trump Wednesday\npaused reciprocal tariffs on 75\ncountries, including India, while\nimposing a steep 125 per cent\ntariff on China in response to its\nretaliatory measures.\nThe sharply high tariffs on\nChina could provide a compara-\n\ntive advantage for India, as busi-\nnesses based in China may now\nlook to shift operations to coun-\ntries with lower tariff regimes,\nsuch as India. However, concerns\nremain over the riskof dumping\nfrom the Chinese market into\nIndia.\n\nThat said, the threat of recip-\nrocal tariffs on Indiahas not been\nruled out. US Treasury Secretary\nScott Bessent, when asked\nwhether the tariffs were always\nabout China, replied it was about\n\u201cbad actors\u201d and that Vietnam,\nJapan, South Korea and India\ncould be next though he added,\nCONTINUEDON PAGE 2",
+   "ocr_conf": 89.34730538922156,
+   "ocr_low_conf_share": 0.059880239520958084,
+   "headline": "India gets a breather, hours after Goyal tells exporters not to panic",
+   "deck": "",
+   "byline": "RAVIDUTTA MISHRA; NEW DELHI, APRIL 9",
+   "text": "INDIA'S STRATEGY of initiating talks for a bilateral trade agreement (BTA) with the US, along with its restraint in not retaliating against US tariffs, appears to have paid off, as US President Donald Trump Wednesday paused reciprocal tariffs on 75 countries, including India, while imposing a steep 125 per cent tariff on China in response to its retaliatory measures. The sharply high tariffs on China could provide a comparative advantage for India, as businesses based in China may now look to shift operations to countries with lower tariff regimes, such as India. However, concerns remain over the riskof dumping from the Chinese market into India.\n\nThat said, the threat of reciprocal tariffs on Indiahas not been ruled out. US Treasury Secretary Scott Bessent, when asked whether the tariffs were always about China, replied it was about \"bad actors\" and that Vietnam, Japan, South Korea and India could be next though he added, CONTINUEDON PAGE 2",
+   "n_words": 155,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1447,
+      738,
+      1529
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      1843,
+      762,
+      1921
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "CCS CLEARS \u00a264K-CR\nDEAL FOR 26 RAFALE",
+   "ocr_conf": 87.28571428571429,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "CCS CLEARS \u00a264K-CR; DEAL FOR 26 RAFALE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1935,
+      637,
+      1985
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      324,
+      2003,
+      746,
+      2129
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "JETS FOR NAVY",
+   "deck_raw": "",
+   "body_raw": "RUSSIA INVITES MODI\nFOR MAY 9 VICTORY\nDAY PARADE PAGEs 5, 7",
+   "ocr_conf": 90.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "JETS FOR NAVY",
+   "deck": "",
+   "byline": "RUSSIA INVITES MODI; FOR MAY 9 VICTORY; DAY PARADE PAGEs 5, 7",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2237,
+      753,
+      2641
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      2728,
+      627,
+      2798
+     ],
+     [
+      316,
+      2846,
+      765,
+      5170
+     ],
+     [
+      319,
+      5501,
+      501,
+      5534
+     ],
+     [
+      320,
+      5657,
+      746,
+      5727
+     ],
+     [
+      316,
+      5775,
+      764,
+      6159
+     ]
+    ],
+    "layout_words": 346
+   },
+   "headline_raw": "RSS-linked\ncollege cites\nJNU affiliation,\nvarsity says\nonly MoU",
+   "deck_raw": "",
+   "body_raw": "NIKHILAHENRY\nHYDERABAD, APRIL 9\n\nA COLLEGE in Kerala with links\nto the Rashtriya Swayamsevak\nSangh (RSS), which claims to be\n\u201cIndia\u2019s first JNU-affiliated jour-\nnalism college\u201d, is set to hold its\nfirst convocation on April 17.\nBut while the institute,\nMahatma Gandhi College of Mass\nCommunication (MAGCOM), has\nannounced that JNU Vice-\nChancellorSantishree Dhulipudi\nPandit will be in attendance, offi-\ncials at JNU sought to distance\nthemselves from the institute,\nsaying it is \u201cnot recognised by or\naffiliated to\u201d JNU and the central\nvarsity \u201conly signed an MoU for\nPG Diploma courses with the aim\nof academic collaboration\u201d.\nThis contradicts information\non JNU's own website, where\nMAGCOM is listed as a \u201crecog-\nnised research institution\u201d.\nThere are seven defence insti-\ntutes and 23 research institutes\non the list of recognised insti-\ntutes, which the website de-\nscribesas such: \u201cJNU has granted\nrecognition and accreditation to\nthe following prestigious insti-\ntutions across the country. This\nhas added to the true national\ncharacter of the University.\nRepresentatives of these\nInstitutions serve on various ac-\nademic and statutory bodies of\nthe JNU. Similarly, JNU faculty\nalso participate in the academic\nbodies of these Institutions.\u201d\nPandit, the JNU V-C, did not\nrespond to calls and messages\nseeking a comment.\nMAGCOM has as its official\nmentor the editor-in-chief of\nKesani, an RSS-affiliated maga-\nzine launched in 1951, and func-\ntions out of Kesari Bhavan in\nKerala's Kozhikode.\nCollege director A K Anuraj\ntold The indian Express that its PG\nDiploma in Mass Communi-\ncation course was granted affili-\nation by JNU in 2024 through a\nprocess that lasted a year.\nAn invitation sent out by or-\nganisers for the convocation\nreads, \u201cIndia\u2019s first JNU-affiliated\njournalism college is gearing up\nCONTINUED ON PAGE 2\n\nANCHOR\n\nEXPRESS NEWS SERVICE\nNEW DELHI, APRIL9\n\nUNION MINISTER of Food\nProcessing Industries and Lok\nJanshakti Party (Ram Vilas) pres-\nident Chirag Paswan believes\nthat a caste census would offer\ndata to the government for tai-\nloring various welfare schemes\nfor people, but says that such\ndata should not be made public\nas that could fuel casteism.",
+   "ocr_conf": 91.76521739130435,
+   "ocr_low_conf_share": 0.028985507246376812,
+   "headline": "RSS-linked college cites JNU affiliation, varsity says only MoU",
+   "deck": "",
+   "byline": "NIKHILAHENRY; HYDERABAD, APRIL 9",
+   "text": "A COLLEGE in Kerala with links to the Rashtriya Swayamsevak Sangh (RSS), which claims to be \"India's first JNU-affiliated journalism college\", is set to hold its first convocation on April 17. But while the institute, Mahatma Gandhi College of Mass Communication (MAGCOM), has announced that JNU Vice-ChancellorSantishree Dhulipudi Pandit will be in attendance, officials at JNU sought to distance themselves from the institute, saying it is \"not recognised by or affiliated to\" JNU and the central varsity \"only signed an MoU for PG Diploma courses with the aim of academic collaboration\". This contradicts information on JNU's own website, where MAGCOM is listed as a \"recognised research institution\". There are seven defence institutes and 23 research institutes on the list of recognised institutes, which the website describesas such: \"JNU has granted recognition and accreditation to the following prestigious institutions across the country. This has added to the true national character of the University. Representatives of these Institutions serve on various academic and statutory bodies of the JNU. Similarly, JNU faculty also participate in the academic bodies of these Institutions.\" Pandit, the JNU V-C, did not respond to calls and messages seeking a comment. MAGCOM has as its official mentor the editor-in-chief of Kesani, an RSS-affiliated magazine launched in 1951, and functions out of Kesari Bhavan in Kerala's Kozhikode. College director A K Anuraj told The indian Express that its PG Diploma in Mass Communication course was granted affiliation by JNU in 2024 through a process that lasted a year. An invitation sent out by organisers for the convocation reads, \"India's first JNU-affiliated journalism college is gearing up\n\nANCHOR\n\nEXPRESS NEWS SERVICE NEW DELHI, APRIL9\n\nUNION MINISTER of Food Processing Industries and Lok Janshakti Party (Ram Vilas) president Chirag Paswan believes that a caste census would offer data to the government for tailoring various welfare schemes for people, but says that such data should not be made public as that could fuel casteism.",
+   "n_words": 321,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      2354,
+      1726,
+      2597
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      812,
+      2610,
+      1169,
+      2680
+     ],
+     [
+      818,
+      2726,
+      1251,
+      2894
+     ],
+     [
+      811,
+      2880,
+      1251,
+      3152
+     ],
+     [
+      1539,
+      2609,
+      1733,
+      2796
+     ],
+     [
+      1298,
+      2886,
+      1738,
+      3119
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "No knee-jerk this, meet\neconomist behind tariffs",
+   "deck_raw": "",
+   "body_raw": "HARISH DAMODARAN\nNEW DELHI, APRIL9\n\n2 NOT MANY\n= may have heard\n= of Stephen\nme Miran.\nobad e Un tc ehan\n\nee He is the\nman who US\nPresident Donald Trump se-\nlected as the chairman of his\nCouncil of Economic Advisers\n(CEA) \u2014 and also perhaps the\nmost articulate defender of his\n\nStephen\nMiran heads\nthe Council\nof Economic\nAdvisers\n\npolicy of sweeping \u201creciprocal\ntariffs\u201d that threaten to upend\nthe existing international trad-\ning system and have triggered\nmassive sell-off in stock markets\nacross the globe.",
+   "ocr_conf": 90.04545454545455,
+   "ocr_low_conf_share": 0.045454545454545456,
+   "headline": "No knee-jerk this, meet economist behind tariffs",
+   "deck": "",
+   "byline": "HARISH DAMODARAN; NEW DELHI, APRIL9; 2 NOT MANY",
+   "text": "= may have heard = of Stephen me Miran. obad e Un tc ehan\n\nman who US President Donald Trump selected as the chairman of his Council of Economic Advisers (CEA) - and also perhaps the most articulate defender of his\n\nStephen Miran heads the Council of Economic Advisers\n\npolicy of sweeping \"reciprocal tariffs\" that threaten to upend the existing international trading system and have triggered massive sell-off in stock markets across the globe.",
+   "n_words": 74,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      2422,
+      3153,
+      2662
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1788,
+      2360,
+      2637,
+      2393
+     ]
+    ],
+    "body_boxes": [
+     [
+      1787,
+      2690,
+      2028,
+      2760
+     ],
+     [
+      1785,
+      2808,
+      2227,
+      3160
+     ],
+     [
+      2762,
+      2651,
+      3204,
+      2956
+     ],
+     [
+      2762,
+      2976,
+      3203,
+      3153
+     ]
+    ],
+    "layout_words": 105
+   },
+   "headline_raw": "RBI cuts key rate by 25 basis points,\ngrowth projection lowered to 6.5%",
+   "deck_raw": "POLICY STANCE NOW \u2018ACCOMMODATIVE\u2019",
+   "body_raw": "HITESHVYAS\nMUMBAI, APRIL 9\n\nTHE RESERVE Bank of India\u2019s\nMonetary Policy Committee\n(MPC) reduced the repo rate by\n25basis points (bps) to 6 per cent\nWednesday while the growth\nforecast for the current fiscal\n(FY2026) was lowered to 6.5 per\ncent from 6.7 percent amid un-\ncertainties arising from trade\n\nwars following the reciprocal\ntariffs announced by the US.\nAnnouncing the monetary\npolicy, RBI Governor Sanjay\nMalhotra said the trade tariff re-\nlated measures have exacer-\nbated uncertainties clouding the\neconomic outlook across re-\n\ngions, posing new neadwinds for\nglobal growth and inflation.\nHe warned that tariffs will\nimpede domestic growth and\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.12380952380953,
+   "ocr_low_conf_share": 0.05714285714285714,
+   "headline": "RBI cuts key rate by 25 basis points, growth projection lowered to 6.5%",
+   "deck": "POLICY STANCE NOW 'ACCOMMODATIVE'",
+   "byline": "HITESHVYAS; MUMBAI, APRIL 9",
+   "text": "THE RESERVE Bank of India's Monetary Policy Committee (MPC) reduced the repo rate by 25basis points (bps) to 6 per cent Wednesday while the growth forecast for the current fiscal (FY2026) was lowered to 6.5 per cent from 6.7 percent amid uncertainties arising from trade\n\nwars following the reciprocal tariffs announced by the US. Announcing the monetary policy, RBI Governor Sanjay Malhotra said the trade tariff related measures have exacerbated uncertainties clouding the economic outlook across regions, posing new neadwinds for global growth and inflation. He warned that tariffs will impede domestic growth and CONTINUEDON PAGE 2",
+   "n_words": 97,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3739,
+      3144,
+      4180,
+      3287
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3738,
+      3303,
+      4134,
+      3428
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "AHEAD OF OMAN\nTALKS, IRAN SAYS\nNOT SEEKING NUKES ~",
+   "deck_raw": "",
+   "body_raw": "CHINA IS A THREAT\nTO PANAMA CANAL,\nSAYS U.S. PAGE 12",
+   "ocr_conf": 89.36363636363636,
+   "ocr_low_conf_share": 0.0,
+   "headline": "AHEAD OF OMAN TALKS, IRAN SAYS NOT SEEKING NUKES ~",
+   "deck": "",
+   "byline": "CHINA IS A THREAT; TO PANAMA CANAL,; SAYS U.S. PAGE 12",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      3304,
+      1732,
+      3923
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      4588,
+      1153,
+      4658
+     ],
+     [
+      806,
+      4709,
+      1252,
+      5178
+     ],
+     [
+      809,
+      5460,
+      1248,
+      6166
+     ],
+     [
+      1296,
+      4549,
+      1738,
+      5171
+     ],
+     [
+      1296,
+      5461,
+      1737,
+      5891
+     ]
+    ],
+    "layout_words": 276
+   },
+   "headline_raw": "India hits back after\nYunus N-E remark,\nhalts transshipment\nfacility for Dhaka\nDue to congestion at ports, airports: MEA",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTA MISHRA\nNEW DELHI, APRIL 9\n\nDAYS AFTER Bangladesh Chief\nAdviser Muhammad Yunus,\nseeking \u201cextension of the\nChinese economy\u2019, called India's\nNortheast \u201clandlocked\u201d, New\nDelhi decided to terminate the\ntransshipment facility for\nBangladesh\u2019s export cargo, a\nmove that can disrupt Dhaka's\ntrade with several countries,\nThe decision was announced\nlate Tuesday night through a no-\n\nIt may sound paradoxical\n\u201cthat I don't support caste poli-\ntics but support caste census\u201d,\nPaswan said at the Express Adda\non Tuesday night, adding that\ncaste is a harsh reality in the\ncountry. Underlining that both\ndiscrimination and various gov-\nernment schemes for people's\nuplift were based on caste, he\nsaid the state governments\nshould have the caste data but\nrefrain from making it public.\nPaswan, 42, was in conversa-\ntion with Anant Goenka,\nExecutive Director, The Indian\nExpress Group, and Vandita\nMishra, National Opinion Editor,\n\ntification issued by the Central\nBoard of Indirect Taxes and\nCustoms (CBIC).\nThe Ministry of External\nAffairs (MEA) said Wednesday\nthat the transshipment facility\nextended to Bangladesh had\nover a period of time resulted in\nsignificant congestion at India's\nairports and ports. \u201cLogistical de-\nlays and higher costs were hin-\ndering our own exportsand cre-\nating backlogs. The facility,\ntherefore, has been withdrawn\nw.ef. April 8, 2025. To clarify,\nCONTINUEDON PAGE 2\n\nThe Indian Express.\nAsserting that he believed in\nthe concept of \u201cBihar First\u201d and\n\u201cBihari First\u2019, Paswan said, \u201clalso\nhave MY (Mahila and Yuva) for-\nmula. Out of my five MPs, two\nare women. I talk about 14 crore\nBiharis... The moment Biharis\ncome out of Bihar and outside\ncaste, they do so well in every\nfield \u2014 media, corporates and",
+   "ocr_conf": 92.1268115942029,
+   "ocr_low_conf_share": 0.028985507246376812,
+   "headline": "India hits back after Yunus N-E remark, halts transshipment facility for Dhaka Due to congestion at ports, airports: MEA",
+   "deck": "",
+   "byline": "RAVI DUTTA MISHRA; NEW DELHI, APRIL 9",
+   "text": "DAYS AFTER Bangladesh Chief Adviser Muhammad Yunus, seeking \"extension of the Chinese economy', called India's Northeast \"landlocked\", New Delhi decided to terminate the transshipment facility for Bangladesh's export cargo, a move that can disrupt Dhaka's trade with several countries, The decision was announced late Tuesday night through a no-\n\nIt may sound paradoxical \"that I don't support caste politics but support caste census\", Paswan said at the Express Adda on Tuesday night, adding that caste is a harsh reality in the country. Underlining that both discrimination and various government schemes for people's uplift were based on caste, he said the state governments should have the caste data but refrain from making it public. Paswan, 42, was in conversation with Anant Goenka, Executive Director, The Indian Express Group, and Vandita Mishra, National Opinion Editor,\n\ntification issued by the Central Board of Indirect Taxes and Customs (CBIC). The Ministry of External Affairs (MEA) said Wednesday that the transshipment facility extended to Bangladesh had over a period of time resulted in significant congestion at India's airports and ports. \"Logistical delays and higher costs were hindering our own exportsand creating backlogs. The facility, therefore, has been withdrawn w.ef. April 8, 2025. To clarify, CONTINUEDON PAGE 2\n\nThe Indian Express. Asserting that he believed in the concept of \"Bihar First\" and \"Bihari First', Paswan said, \"lalso have MY (Mahila and Yuva) formula. Out of my five MPs, two are women. I talk about 14 crore Biharis... The moment Biharis come out of Bihar and outside caste, they do so well in every field - media, corporates and",
+   "n_words": 262,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      3544,
+      4084,
+      3992
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3816,
+      4075,
+      4099,
+      4118
+     ]
+    ],
+    "body_boxes": [
+     [
+      3248,
+      4077,
+      3529,
+      4147
+     ],
+     [
+      3248,
+      4195,
+      3690,
+      4500
+     ],
+     [
+      3247,
+      4512,
+      3690,
+      5099
+     ],
+     [
+      3785,
+      4164,
+      4118,
+      4629
+     ],
+     [
+      3737,
+      4711,
+      4178,
+      5173
+     ],
+     [
+      3736,
+      5463,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 293
+   },
+   "headline_raw": "AIIMS researchers\ndevelop blood test\nto monitor cervical\ncancer treatment",
+   "deck_raw": "HOW IT WORKS",
+   "body_raw": "ANONNA DUTT\nNEW DELHI, APRILO\n\nA SIMPLE blood test may help\ndetermine whether the patient's\ncervical cancer is responding to\ntreatment or whether it has re-\nlapsed, shows early research by\ndoctors from the All India\nInstitute of Medical Sciences,\nDelhi.\n\nThe study found that the lev-\nels of DNA fragments of human\npapillomavirus (HPV) \u2014 the\nvirus responsible for the vast\nmajority of cervical cancer cases\n\u2014 in the blood closely mirror the\nsize of the tumour. As patients\nbegan treatment, the viral DNA\nlevels dropped, offering a real-\ntime snapshot of howthe cancer\nwas responding.\nThe findings, published in\nScientific Reports, a journal from\nNature, could be a game-\nchangerin how India tackles cer-\n\nAblood sample is\ncollected\nWit\u2019s separated into\ncomponents like\nplasma, red blood cells\n@ Circulating DNAis\nextracted from the\nplasma\n@ DNA is amplified and\ntested using aprecise\nPCR technique\n\nin the country.\nAccording to data from the\nWorld Health Organisation\u2019s\nGlobal Cancer Observatory, India\nreported 127 lakh cervical cancer\ncases and 79,979 deaths in 2022.\nThe overall survival rate of cervi-\ncal cancer in India is around 46\nper cent, according to the study.\nWith over 95% of cervical\ncancer cases linked to high-risk\nCONTINUED ON PAGE 2\n\nmore important than putting\nmoney in banks, Education and\nhealth should be free. I hope af-\nter 2047, when we become ade-\nveloped nation, these things will\nbe used on services.\u201d\nDefending the enactment of\nthe amended Waof law, the\nUP(RV) chief said there wasaten-\ndency in some circles to spread\ndistrust among Muslims, be iton\nthe Citizenship Amendment Act\n(CAA)or on Article370, He under-\nlined that while the CAA was to\ngive citizenship to people from\npersecuted minorities in a few\nneighbouring countries, the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.68367346938776,
+   "ocr_low_conf_share": 0.06462585034013606,
+   "headline": "AIIMS researchers develop blood test to monitor cervical cancer treatment",
+   "deck": "HOW IT WORKS",
+   "byline": "ANONNA DUTT; NEW DELHI, APRILO",
+   "text": "A SIMPLE blood test may help determine whether the patient's cervical cancer is responding to treatment or whether it has relapsed, shows early research by doctors from the All India Institute of Medical Sciences, Delhi.\n\nThe study found that the levels of DNA fragments of human papillomavirus (HPV) - the virus responsible for the vast majority of cervical cancer cases - in the blood closely mirror the size of the tumour. As patients began treatment, the viral DNA levels dropped, offering a real-time snapshot of howthe cancer was responding. The findings, published in Scientific Reports, a journal from Nature, could be a game-changerin how India tackles cer-\n\nAblood sample is collected Wit's separated into components like plasma, red blood cells @ Circulating DNAis extracted from the plasma @ DNA is amplified and tested using aprecise PCR technique\n\nin the country. According to data from the World Health Organisation's Global Cancer Observatory, India reported 127 lakh cervical cancer cases and 79,979 deaths in 2022. The overall survival rate of cervical cancer in India is around 46 per cent, according to the study. With over 95% of cervical cancer cases linked to high-risk\n\nmore important than putting money in banks, Education and health should be free. I hope after 2047, when we become adeveloped nation, these things will be used on services.\" Defending the enactment of the amended Waof law, the UP(RV) chief said there wasatendency in some circles to spread distrust among Muslims, be iton the Citizenship Amendment Act (CAA)or on Article370, He under-lined that while the CAA was to give citizenship to people from persecuted minorities in a few neighbouring countries, the",
+   "n_words": 272,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4115,
+      2629,
+      4183
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      4231,
+      3177,
+      4308
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "AT THE AICC SESSION",
+   "deck_raw": "",
+   "body_raw": "Congress president Mallikarjun Kharge with party leaders Rahul Gandhi, Sonia Gandhi and\nothers at the AICC session in Ahmedabad, Wednesday. Bhupendra Rana REPORT, PAGE 7",
+   "ocr_conf": 94.24,
+   "ocr_low_conf_share": 0.0,
+   "headline": "AT THE AICC SESSION",
+   "deck": "",
+   "byline": "",
+   "text": "Congress president Mallikarjun Kharge with party leaders Rahul Gandhi, Sonia Gandhi and others at the AICC session in Ahmedabad, Wednesday. Bhupendra Rana REPORT, PAGE 7",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1783,
+      4420,
+      3196,
+      4680
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      4709,
+      2169,
+      4779
+     ],
+     [
+      1779,
+      4828,
+      2228,
+      5179
+     ],
+     [
+      2388,
+      4708,
+      2711,
+      4895
+     ],
+     [
+      2273,
+      4985,
+      2713,
+      5179
+     ],
+     [
+      2277,
+      5703,
+      2432,
+      5733
+     ],
+     [
+      2761,
+      4669,
+      3202,
+      5173
+     ]
+    ],
+    "layout_words": 145
+   },
+   "headline_raw": "Singapore court sets aside \u2018copied,\npasted\u2019 arbitral award by ex-CJI",
+   "deck_raw": "",
+   "body_raw": "APURVAVISHWANATH\nNEW DELHI, APRILO\n\nTHE SINGAPORE Court of Appeal\non Tuesday set aside an interna-\ntional arbitral award involving a\ngovernment railway contract af-\nter finding that the award had\nsignificant portions that were\n\u201ccopied and pasted\u201d from two\nsimilar Indian arbitration awards.\nSignificantly, the Court of\n\nJustice Misra\nfe was the\n- } \u00ab Presiding\n= Arbitratorin\n=\u00bb all 3awards\n\nAppeal in a 40-page ruling said\nthe Presiding Arbitrator in all\nthree awards in question was\nformer Chief Justice of India\nDipak Misra.\n\ny Partrvers\n\n\u201cOut of the 451 paragraphs in\nthe Award, it was undisputed that\nat least 212 paragraphs were\ncopied and pasted from the\nParallel Awards,\u201d the ruling noted.\nParallel Awardsis an anonymised\nreference to two Indian arbitra-\ntions that were held parallelto the\nSingapore arbitration involving\nthe same parties.\nThe Court of Appeal is the\nhighest Court in Singapore and\nCONTINUEDON PAGE 2",
+   "ocr_conf": 87.85810810810811,
+   "ocr_low_conf_share": 0.08783783783783784,
+   "headline": "Singapore court sets aside 'copied, pasted' arbitral award by ex-CJI",
+   "deck": "",
+   "byline": "APURVAVISHWANATH; NEW DELHI, APRILO",
+   "text": "THE SINGAPORE Court of Appeal on Tuesday set aside an international arbitral award involving a government railway contract after finding that the award had significant portions that were \"copied and pasted\" from two similar Indian arbitration awards. Significantly, the Court of\n\nJustice Misra fe was the = Arbitratorin =\u00bb all 3awards\n\nAppeal in a 40-page ruling said the Presiding Arbitrator in all three awards in question was former Chief Justice of India Dipak Misra.\n\ny Partrvers\n\n\"Out of the 451 paragraphs in the Award, it was undisputed that at least 212 paragraphs were copied and pasted from the Parallel Awards,\" the ruling noted. Parallel Awardsis an anonymised reference to two Indian arbitrations that were held parallelto the Singapore arbitration involving the same parties. The Court of Appeal is the highest Court in Singapore and CONTINUEDON PAGE 2",
+   "n_words": 137,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      5106,
+      3689,
+      5158
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3247,
+      5462,
+      3692,
+      6168
+     ]
+    ],
+    "layout_words": 99
+   },
+   "headline_raw": "vical cancer \u2014 the second most\nCAIMIMAN Cancer a7MNIMNne iaminwen",
+   "deck_raw": "",
+   "body_raw": "bureaucracy.\u201d\nHe said the need of the hour\nis to work for Bihar\u2019s develop-\nment \u2014 something that having\nthe same alliance in power in the\nstate and at the Centre, he said,\nshould help achieve \u2014 express-\ning confidence that the incum-\nbent NDA would return to power\nin Bihar by clinching the state\nAssembly polls later this year.\nAsked whether he was con-\ncerned about doles being\nhanded out by various parties to\ncome to power, Paswan said, \u201cOf\nlate, yes, itisa concern (Iam)not\ntalking about cash, but as a tax-\npayer, I would say services are",
+   "ocr_conf": 94.14141414141415,
+   "ocr_low_conf_share": 0.010101010101010102,
+   "headline": "vical cancer - the second most CAIMIMAN Cancer a7MNIMNne iaminwen",
+   "deck": "",
+   "byline": "",
+   "text": "bureaucracy.\" He said the need of the hour is to work for Bihar's development - something that having the same alliance in power in the state and at the Centre, he said, should help achieve - expressing confidence that the incumbent NDA would return to power in Bihar by clinching the state Assembly polls later this year. Asked whether he was concerned about doles being handed out by various parties to come to power, Paswan said, \"Of late, yes, itisa concern (Iam)not talking about cash, but as a taxpayer, I would say services are",
+   "n_words": 94,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      5316,
+      4153,
+      5832
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1801,
+      5948,
+      2075,
+      5981
+     ],
+     [
+      2272,
+      6052,
+      3193,
+      6128
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "liti Iso have MY (Mahila, Yi fe la\u2019\nSupport caste census, not caste politics... also have anila, Yuva) formula\nPAGE! It may sound paradoxical The Indian Express. OO * bureaucracy.\u201d more important than puttin\nANCHOR \u201cthat I don't support caste poli- Asserting that he believed in \u00b0 He said the need ofthe hour money inbanks. Education an\nSa tics but support caste census\u201d, the concept of \u201cBihar First\u201d and Radico S is to work for Bihar\u2019s develop- _ health should be free. I hope af\nPaswansaidattheExpressAdda \u201cBihari First\u2019, Paswansaid, \u201clalso SPIRIT OF EXCELLENCE A ment \u2014 something that having _ ter 2047, when we become ade\n. * on Tuesday night, adding that have MY(Mahila and Yuva) for- \u2018 A ; thesame allianceinpowerinthe veloped nation, these things wi\nEXPRESSNEWSSERVICE caste isaharshrealityinthe mula. Out of my five MPs, two > state and at the Centre, he said, be used on services.\u201d\nNEW DELHI, APRIL 9 country. Underlining that both arewomen. Italk about 14crore EXPRESS y Partries ay, * \u00a5 should help achieve \u2014 express- Defending the enactment c\n- discriminationand various gov- _ Biharis... The moment Biharis / 14 \u201cing confidence that theincum- the amended Waaf law, th\nUNION MINISTER of Food ernmentschemes for people\u2019s come out of Bihar and outside q Dp 2 | D | F N = / bentNDAwouldreturnto power JP(RV)chiefsaid there wasaten\nPronceccing Industries andiak t\u00abnlift were haced an cacte he cacte they dn cn well in every {I EI o/,- . ~ in Dehaehy clinching the ctate dency in enma rirclac tn ene 4,",
+   "deck_raw": "",
+   "body_raw": "Hospitality Partner\n\nUnion Food Processing Industries Minister Chirag Paswan at\nExpress Adda in New Delhi on Tuesday. Renuka Puri",
+   "ocr_conf": 93.52631578947368,
+   "ocr_low_conf_share": 0.0,
+   "headline": "liti Iso have MY (Mahila, Yi fe la' Support caste census, not caste politics... also have anila, Yuva) formula PAGE! It may sound paradoxical The Indian Express. OO * bureaucracy.\" more important than puttin ANCHOR \"that I don't support caste poli- Asserting that he believed in \u00b0 He said the need ofthe hour money inbanks. Education an Sa tics but support caste census\", the concept of \"Bihar First\" and Radico S is to work for Bihar's develop- _ health should be free. I hope af PaswansaidattheExpressAdda \"Bihari First', Paswansaid, \"lalso SPIRIT OF EXCELLENCE A ment - something that having _ ter 2047, when we become ade. * on Tuesday night, adding that have MY(Mahila and Yuva) for- ' A; thesame allianceinpowerinthe veloped nation, these things wi EXPRESSNEWSSERVICE caste isaharshrealityinthe mula. Out of my five MPs, two > state and at the Centre, he said, be used on services.\" NEW DELHI, APRIL 9 country. Underlining that both arewomen. Italk about 14crore EXPRESS y Partries ay, * \u00a5 should help achieve - express- Defending the enactment c - discriminationand various gov- _ Biharis... The moment Biharis / 14 \"ing confidence that theincum- the amended Waaf law, th UNION MINISTER of Food ernmentschemes for people's come out of Bihar and outside q Dp 2 D F N = / bentNDAwouldreturnto power JP(RV)chiefsaid there wasaten Pronceccing Industries andiak t\u00abnlift were haced an cacte he cacte they dn cn well in every {I EI o/,-. ~ in Dehaehy clinching the ctate dency in enma rirclac tn ene 4,",
+   "deck": "",
+   "byline": "",
+   "text": "Hospitality Partner\n\nUnion Food Processing Industries Minister Chirag Paswan at Express Adda in New Delhi on Tuesday. Renuka Puri",
+   "n_words": 19,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 21.0,
+ "flags": []
+}

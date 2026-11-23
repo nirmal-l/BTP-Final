@@ -1,0 +1,674 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_27_front",
+ "source_file": "2025-04-27_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-27_front.png",
+ "date": "2025-04-27",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1304,
+  "n_lines": 463,
+  "mean_line_conf": 90.60965760301615,
+  "orphan_words": 193,
+  "body_words_total": 1840
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      2766,
+      1304,
+      4117,
+      1359
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2764,
+      1434,
+      3065,
+      1504
+     ],
+     [
+      2762,
+      1553,
+      3207,
+      2813
+     ],
+     [
+      3252,
+      2226,
+      3693,
+      2807
+     ],
+     [
+      3784,
+      2227,
+      4141,
+      2775
+     ]
+    ],
+    "layout_words": 281
+   },
+   "headline_raw": "5 batches to travel through Uttarakhand, 10 through Sikkim",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL26\n\nIN A significant step towards\nnormalising India-China ties\nsince the border standoff began\nin 2020, New Delhi announced\non Saturday that it will resume\nthe Kailash Mansarovar Yatra\nfrom June this year.\nThe resumption of the yatra\nafter a gap of five years is an im-\nportant measure towards re-\nbuilding the trust deficit that\nemerged since the border stand-\noff in which 20 Indian soldiers\nwere killed in Galwan.\nThis is the first move taken\nafter thedisengagement process\nwas completed in eastern\nLadakh, where 50,000 to 60,000\ntroops are still stationed along\nthe India-China border.\nThe Kailash Mansarovar Yatra\nwas on top of India's wishlist\nsince the talks to normalise the\ntiesbeganin November this year.\nOn Saturday, the Ministry of\nExternal Affairs said, \u201cKailash\nMansarovar Yatra organised by\nMinistry of External Affairs is set\nto take place during June to\nAugust 2025.\u201d\n\u201cThis year, 5 batches, each\nconsisting of 50 Yatris, and 10\n\nbatches, each consisting of 50\nYatris, are scheduled to travel\nthrough Uttarakhand State\ncrossing over at Lipulekh Pass,\nand through Sikkim State cross-\ning over at Nathu La Pass, respec-\ntively,\u201d the ministry said.\n\u201cThe website at kmy.gov.in\nhas been opened for acceptance\nof applications. The Yatris will be\nselected from among applicants\nthrough a fair, coomputer-gener-\nated, random and gender-bal-\nanced selection process.\u201d\nCONTINUED ON PAGE 2\n\nTHE THAW in October\nafter the meeting be-\ntween Prime Minister\nNarendra Modi and\nChinese President Xi\nJinping is finally bearing\nfruit. The Kailash Mans-\narovar Yatra is first evi-\ndence of that. While other\nitems in the wishlist are\nexpected, Delhi would\nwant the de-escalation\nand de-inductionof\ntroops to follow as well.",
+   "ocr_conf": 92.925,
+   "ocr_low_conf_share": 0.025,
+   "headline": "5 batches to travel through Uttarakhand, 10 through Sikkim",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL26",
+   "text": "IN A significant step towards normalising India-China ties since the border standoff began in 2020, New Delhi announced on Saturday that it will resume the Kailash Mansarovar Yatra from June this year. The resumption of the yatra after a gap of five years is an important measure towards rebuilding the trust deficit that emerged since the border standoff in which 20 Indian soldiers were killed in Galwan. This is the first move taken after thedisengagement process was completed in eastern Ladakh, where 50,000 to 60,000 troops are still stationed along the India-China border. The Kailash Mansarovar Yatra was on top of India's wishlist since the talks to normalise the tiesbeganin November this year. On Saturday, the Ministry of External Affairs said, \"Kailash Mansarovar Yatra organised by Ministry of External Affairs is set to take place during June to \"This year, 5 batches, each consisting of 50 Yatris, and 10\n\nbatches, each consisting of 50 Yatris, are scheduled to travel through Uttarakhand State crossing over at Lipulekh Pass, and through Sikkim State crossing over at Nathu La Pass, respectively,\" the ministry said. \"The website at kmy.gov.in has been opened for acceptance of applications. The Yatris will be selected from among applicants through a fair, coomputer-generated, random and gender-balanced selection process.\"\n\nTHE THAW in October after the meeting between Prime Minister Narendra Modi and Chinese President Xi Jinping is finally bearing fruit. The Kailash Mansarovar Yatra is first evidence of that. While other items in the wishlist are expected, Delhi would want the de-escalation and de-inductionof troops to follow as well.",
+   "n_words": 259,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1340,
+      758,
+      1742
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Since Pulwama\nin 2019, India\nhas acquired\ncapabilities to\nstrike from\nwithin its borders",
+   "ocr_conf": 93.21428571428571,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Since Pulwama in 2019, India has acquired capabilities to strike from within its borders",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1828,
+      622,
+      1898
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "LIZ MATHEW\nNEW DELHI, APRIL 26",
+   "ocr_conf": 77.16666666666667,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "LIZ MATHEW; NEW DELHI, APRIL 26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      315,
+      1946,
+      762,
+      3320
+     ]
+    ],
+    "layout_words": 173,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "AS INDIA initiates a series of ag-\ngressive diplomatic measures\nsuch as suspension of the Indus\nWater Treaty andthatofvisaserv-\nices for Pakistani nationals, the\ngovernment is considering a\nrange of retaliatory military op-\ntions, including capabilities that\nallow New Delhi to strike back\nfrom within the country\u2019s borders.\nIn a deadly terrorist attack\nTuesday in Pahalgam,a marquee\ntourist spot in Jammu and\nKashmir, 26 people were killed.\nOn Thursday, Prime Minister\nNarendra Modi promised retri-\nbution and said, \u201cIndia will iden-\ntify, track and punish every ter-\nrorist and their backers\u201d and\nwould \u201cpursue them tothe ends\nof the earth\u201d.\nAtop source in the govern-\nment told The Indian Express,\n\u201cThere will be military retaliation\nand we are prepared. We are dis-\ncussing the nature of the strike...\nSince 2019, we have taken a se-\nries of measures to modemise\nour weapons. We have the op-\ntion of targeting the terrorists\nfrom within our territory.\u201d\nOn February 14, 2019, a Jaish-\ne-Muhammad terrorist rammed\nan explosives-laden car into a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.21965317919076,
+   "ocr_low_conf_share": 0.046242774566473986,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "AS INDIA initiates a series of aggressive diplomatic measures such as suspension of the Indus Water Treaty andthatofvisaservices for Pakistani nationals, the government is considering a range of retaliatory military options, including capabilities that allow New Delhi to strike back from within the country's borders. In a deadly terrorist attack Tuesday in Pahalgam,a marquee tourist spot in Jammu and Kashmir, 26 people were killed. On Thursday, Prime Minister Narendra Modi promised retribution and said, \"India will identify, track and punish every terrorist and their backers\" and would \"pursue them tothe ends of the earth\". Atop source in the government told The Indian Express, \"There will be military retaliation and we are prepared. We are discussing the nature of the strike... Since 2019, we have taken a series of measures to modemise our weapons. We have the option of targeting the terrorists from within our territory.\" On February 14, 2019, a Jaishe-Muhammad terrorist rammed an explosives-laden car into a",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2457,
+      1729,
+      2755
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2818,
+      1178,
+      2888
+     ],
+     [
+      804,
+      2937,
+      1251,
+      3320
+     ],
+     [
+      1296,
+      2778,
+      1738,
+      3321
+     ]
+    ],
+    "layout_words": 116
+   },
+   "headline_raw": "Crackdown gathers pace\nin Kashmir \u2014 from deep\ninside forests to Srinagar",
+   "deck_raw": "",
+   "body_raw": "BASHAARAT MASOOD\nSRINAGAR, APRIL 26\n\nTHE CRACKDOWN in the wakeof\nthe Pahalgam terror attack gath-\nered pace in Kashmir, with secu-\nrity forces conducting massive\ncombing operations in the forests\nsurrounding Pahalgam and the\nState police intensifying its crack-\ndown on suspected terror sym-\npathisers across the Valley.\nAfter the homes of two local\n\nmen suspected to be involved in\nthe Pahalgam attack were de-\nmolished late Thursday night,\nthe residences of four more have\nbeen demolished in south\nKashmir, also using explosives.\nSources say the operations\nwere intensified after Union\nHome Minister Amit Shahasked\nsecurity agencies to take tough\nmeasures to root out terrorists\nand their support structure.\nThe National Investigation\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.05172413793103,
+   "ocr_low_conf_share": 0.05172413793103448,
+   "headline": "Crackdown gathers pace in Kashmir - from deep inside forests to Srinagar",
+   "deck": "",
+   "byline": "BASHAARAT MASOOD; SRINAGAR, APRIL 26",
+   "text": "THE CRACKDOWN in the wakeof the Pahalgam terror attack gathered pace in Kashmir, with security forces conducting massive combing operations in the forests surrounding Pahalgam and the State police intensifying its crackdown on suspected terror sympathisers across the Valley. After the homes of two local\n\nmen suspected to be involved in the Pahalgam attack were demolished late Thursday night, the residences of four more have been demolished in south Kashmir, also using explosives. Sources say the operations were intensified after Union Home Minister Amit Shahasked security agencies to take tough measures to root out terrorists and their support structure. The National Investigation",
+   "n_words": 102,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2454,
+      2676,
+      2752
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2762,
+      2884,
+      3007,
+      2941
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      2819,
+      2085,
+      2889
+     ],
+     [
+      1786,
+      2938,
+      2230,
+      3328
+     ],
+     [
+      2517,
+      2897,
+      2708,
+      3005
+     ],
+     [
+      2274,
+      3095,
+      2715,
+      3322
+     ]
+    ],
+    "layout_words": 82
+   },
+   "headline_raw": "Pak trots out its familiar\npost-attack line: Open\nto any \u2018neutral\u2019 probe",
+   "deck_raw": "THE WORLD",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 26\n\nFACING DIPLOMATIC isolation\nand under increasing pressure in\nthewake ofthe Pahalgam attack,\nin the first response from\nPakistan's political establish-\nment, its Prime Minister\nShehbaz Sharif said Saturday\nthat Pakistan was \u201copen to any\nneutral, transparent and credi-\nble investigation\u201d into the attack.\n\nPakistan\nPM Shehbaz\nSharif\n\nThis is the first \u201coffer\u201d from\nIslamabad and comes when\nIndia has underlined the \u201ccross-\nborder\u201d links tothe attackand, as\nThe Indian Express reported, has\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.2439024390244,
+   "ocr_low_conf_share": 0.04878048780487805,
+   "headline": "Pak trots out its familiar post-attack line: Open to any 'neutral' probe",
+   "deck": "THE WORLD",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 26",
+   "text": "FACING DIPLOMATIC isolation and under increasing pressure in thewake ofthe Pahalgam attack, in the first response from Pakistan's political establishment, its Prime Minister Shehbaz Sharif said Saturday that Pakistan was \"open to any neutral, transparent and credible investigation\" into the attack.\n\nPakistan PM Shehbaz Sharif\n\nThis is the first \"offer\" from Islamabad and comes when India has underlined the \"cross-border\" links tothe attackand, as The Indian Express reported, has",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      2881,
+      4125,
+      3193
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      3255,
+      3657,
+      3325
+     ],
+     [
+      3251,
+      3413,
+      3692,
+      4040
+     ],
+     [
+      3738,
+      3215,
+      4181,
+      4033
+     ]
+    ],
+    "layout_words": 187
+   },
+   "headline_raw": "Centre selects start-up\nSarvam to build first\nhomegrown AI model",
+   "deck_raw": "",
+   "body_raw": "SOUMYARENDRA BARIK\nNEW DELHI, APRIL 26\n\nBengaluru-based _ start-up\nSarvamto build the countrys first\nindigenous artificial intelligence\n(Al) large language model (LLM)\namid waves made by China\u2019s low\ncost model DeepSeek. The start-\nup, chosen from among 67 appli-\ncants, will receive support from\nthe government in terms of com-\npute resources to build the model\nfrom scratch.\nSarvam is the first start-up to\nget approved for sops under\nIndia\u2019s ambitious Rs 10,370 crore\nIndiaAl Mission to build a model,\nwith the government currently\n\nassessing hundreds of other pro-\nposals. Sarvam said its model\nwillbe capable of reasoning, de-\nsigned for voice, and fluent in\nIndian languages, and it will be\nready for population-scale de-\nployment.\nAsenior official said interms\nof government support, the com-\npany will receive access to4,000\ngraphics processing units(GPUs)\nfor six months for the company\nto build and train its model. The\nmodel is not expected to be\nopen-sourced, but will be fine-\ntuned particularly forIndian lan-\nguages. The GPUs will be pro-\nvided to Sarvam by companies\nseparately selected by the gov-\nemmentto set up Al data centres\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.83957219251337,
+   "ocr_low_conf_share": 0.0374331550802139,
+   "headline": "Centre selects start-up Sarvam to build first homegrown AI model",
+   "deck": "",
+   "byline": "SOUMYARENDRA BARIK; NEW DELHI, APRIL 26",
+   "text": "Bengaluru-based _ start-up Sarvamto build the countrys first indigenous artificial intelligence (Al) large language model (LLM) amid waves made by China's low cost model DeepSeek. The start-up, chosen from among 67 applicants, will receive support from the government in terms of compute resources to build the model from scratch. Sarvam is the first start-up to get approved for sops under India's ambitious Rs 10,370 crore IndiaAl Mission to build a model, with the government currently\n\nassessing hundreds of other proposals. Sarvam said its model willbe capable of reasoning, designed for voice, and fluent in Indian languages, and it will be ready for population-scale deployment. Asenior official said interms of government support, the company will receive access to4,000 graphics processing units(GPUs) for six months for the company to build and train its model. The model is not expected to be open-sourced, but will be fine-tuned particularly forIndian languages. The GPUs will be provided to Sarvam by companies separately selected by the govemmentto set up Al data centres",
+   "n_words": 166,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3362,
+      3170,
+      3412
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      3430,
+      3133,
+      3605
+     ],
+     [
+      2764,
+      3739,
+      3177,
+      3772
+     ],
+     [
+      2763,
+      3831,
+      3151,
+      3996
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "PORT BLAST IN IRAN",
+   "deck_raw": "",
+   "body_raw": "VIRGINIA GIUFFRE,\nVOICE IN EPSTEIN\nSEX TRAFFICKING\nSCANDAL, DIES\n\nEXPRESS NETWORK\n\nICHR EX-CHAIRMAN\nMGSNARAYANAN\nDIESAT 92\nPAGE2",
+   "ocr_conf": 92.23529411764706,
+   "ocr_low_conf_share": 0.0,
+   "headline": "PORT BLAST IN IRAN",
+   "deck": "",
+   "byline": "VIRGINIA GIUFFRE,; VOICE IN EPSTEIN; SEX TRAFFICKING; SCANDAL, DIES; EXPRESS NETWORK",
+   "text": "ICHR EX-CHAIRMAN MGSNARAYANAN DIESAT 92",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3392,
+      1194,
+      3685
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3767,
+      620,
+      3837
+     ],
+     [
+      317,
+      3885,
+      763,
+      4276
+     ]
+    ],
+    "layout_words": 58
+   },
+   "headline_raw": "India and Pakistan will\nfigure it out \u2018one way\nor the other\u2019: Trump",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 26\n\nDAYS AFTER US President\nDonald Trump said that the US\nstands strong with India against\nterrorism after the Pahalgam at-\ntack, he said Friday that Indiaand\nPakistan will figure a way out of\nthe current crisis between them-\nselves \u201cone way or the other\u201d.\nIn characteristic flourish,\nTrump said the two countries",
+   "ocr_conf": 89.32758620689656,
+   "ocr_low_conf_share": 0.034482758620689655,
+   "headline": "India and Pakistan will figure it out 'one way or the other': Trump",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 26",
+   "text": "DAYS AFTER US President Donald Trump said that the US stands strong with India against terrorism after the Pahalgam attack, he said Friday that Indiaand Pakistan will figure a way out of the current crisis between themselves \"one way or the other\". In characteristic flourish, Trump said the two countries",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      802,
+      3612,
+      1113,
+      3704
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      3728,
+      1249,
+      4072
+     ],
+     [
+      808,
+      4084,
+      1248,
+      4269
+     ]
+    ],
+    "layout_words": 69
+   },
+   "headline_raw": ": Trump",
+   "deck_raw": "",
+   "body_raw": "have been fighting over Kashmir\nfor \u201c1,000 years\u201d, and that bor-\nder tensions have been simmer-\ning \u201c1,500 years.\u201d\nHowever, there wassome re-\nlief in New Delhi since he has not\nreiterated his offer to mediate\nwhich he had made in his first\nterm.\n\nOnboard Air Force One en\nroute to Rome, Trump was asked\nabout tension between India and\nPakistan in the wake of the\nCONTINUEDON PAGE 2",
+   "ocr_conf": 93.89855072463769,
+   "ocr_low_conf_share": 0.0,
+   "headline": ": Trump",
+   "deck": "",
+   "byline": "",
+   "text": "have been fighting over Kashmir for \"1,000 years\", and that border tensions have been simmering \"1,500 years.\" However, there wassome relief in New Delhi since he has not reiterated his offer to mediate which he had made in his first term.\n\nOnboard Air Force One en route to Rome, Trump was asked about tension between India and Pakistan in the wake of the CONTINUEDON PAGE 2",
+   "n_words": 66,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      4185,
+      4153,
+      4559
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2763,
+      4110,
+      4054,
+      4144
+     ]
+    ],
+    "body_boxes": [
+     [
+      2760,
+      4639,
+      3062,
+      4748
+     ],
+     [
+      2760,
+      4797,
+      3202,
+      5148
+     ],
+     [
+      3250,
+      4600,
+      3690,
+      5141
+     ],
+     [
+      3738,
+      4600,
+      4179,
+      5102
+     ]
+    ],
+    "layout_words": 186
+   },
+   "headline_raw": "\u2018T couldn\u2019t believe it\u2019: F-1 status of\nsome Indian students restored\nRecords purged over \u2018minor\u2019 violations now back but\nuncertainty remains for many who are stuck abroad",
+   "deck_raw": "U.S. REVERSES ABRUPT TERMINATION OF VISA REGISTRATION",
+   "body_raw": "VIDHEESHA\nKUNTAMALLA\nNEW DELHI, APRIL 26\n\nITWAS 3am in Atlanta on Friday,\nthe 20-year-old student from\nBengaluru recalls, when the\ngood news came.\nHis status as an F-1 student\nhad been in limbo since April 4\nwhen his record on SEVIS \u2014 the\nStudent and Exchange Visitor\nInformation System, a US gov-\n\nemment database that tracksin-\nternational students \u2014 was ter-\nminated following a drunk driv-\ning charge that had not led to a\nconviction. He was preparing to\nfile a lawsuit when, on April 24,\nhis status on the SEVIS portal\nshowed \u201cactive\u201d again.\n\u201c| couldn't believe it. 1 was just\nabout to file (the lawsuit). And\nthenit got reactivated.No reason\ngiven,\u201d said the third-year engi-\nneering student. \u201cFornow, 'mre-\nlieved... but I\u2019m still scared. Ifthis\n\nhadn't happened, I would proba-\nbly have had to leave everything\nmidway and go back home.\u201d\nAcross the US, several Indian\nstudents, whose SEVIS records\nwere recently terminated \u2014 over\nminor infractions like speeding\ntickets or dismissed misde-\nmeanours\u2014have seen their sta-\ntuses re-instated in the last 48\nhours. In some cases, this hap-\npened even without filing\nlawsuits.",
+   "ocr_conf": 89.71505376344086,
+   "ocr_low_conf_share": 0.05913978494623656,
+   "headline": "'T couldn't believe it': F-1 status of some Indian students restored Records purged over 'minor' violations now back but uncertainty remains for many who are stuck abroad",
+   "deck": "U.S. REVERSES ABRUPT TERMINATION OF VISA REGISTRATION",
+   "byline": "VIDHEESHA; KUNTAMALLA; NEW DELHI, APRIL 26",
+   "text": "ITWAS 3am in Atlanta on Friday, the 20-year-old student from Bengaluru recalls, when the good news came. His status as an F-1 student had been in limbo since April 4 when his record on SEVIS - the Student and Exchange Visitor Information System, a US govemment database that tracksinternational students - was terminated following a drunk driving charge that had not led to a conviction. He was preparing to file a lawsuit when, on April 24, his status on the SEVIS portal showed \"active\" again. \" couldn't believe it. 1 was just about to file (the lawsuit). And thenit got reactivated.No reason given,\" said the third-year engineering student. \"Fornow, 'mrelieved... but I'm still scared. Ifthis\n\nhadn't happened, I would probably have had to leave everything midway and go back home.\" Across the US, several Indian students, whose SEVIS records were recently terminated - over minor infractions like speeding tickets or dismissed misdemeanours - have seen their statuses re-instated in the last 48 hours. In some cases, this happened even without filing lawsuits.",
+   "n_words": 172,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      4382,
+      2652,
+      4601
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4676,
+      1180,
+      4746
+     ],
+     [
+      807,
+      4795,
+      1247,
+      5146
+     ],
+     [
+      2272,
+      4638,
+      2716,
+      5140
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "7,000 forces, a dreaded \u2018battalion\u2019, and a hill:\nOp that could deliver biggest blow to Maoist",
+   "deck_raw": "",
+   "body_raw": "JAYPRAKASH S NAIDU\nRAIPUR, APRIL 26\n\nFORSIX days now, security forces\nhave surrounded and are tact-\nfully scaling Bijapur\u2019s Karregutta\nhills, which are as high as 700\nmetres and stretch around 20\nkilometres along the Telangana-\nChhattisgarh border. It is here\nthat they believe key members\nof the Maoist leadership are\n\nholed up, being safeguarded by\nBattalion 1, the most dangerous\nunit of the People\u2019s Liberation\nGuerrilla Army(PLGA).\nOfficials said this push in\nDandakaranya could be the \u201ccli-\nmax\u201d of the relentless anti-Naxal\noperations thatbegan in 2024 and\nhave so far led to the killing of 363\nMaoists and the \u201csqueezing\u201d of\nthe Maoist leadership tothe hills.\n\u201cThe location was earlier\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.08695652173913,
+   "ocr_low_conf_share": 0.017391304347826087,
+   "headline": "7,000 forces, a dreaded 'battalion', and a hill: Op that could deliver biggest blow to Maoist",
+   "deck": "",
+   "byline": "JAYPRAKASH S NAIDU; RAIPUR, APRIL 26",
+   "text": "FORSIX days now, security forces have surrounded and are tactfully scaling Bijapur's Karregutta hills, which are as high as 700 metres and stretch around 20 kilometres along the Telangana-Chhattisgarh border. It is here that they believe key members of the Maoist leadership are\n\nholed up, being safeguarded by Battalion 1, the most dangerous unit of the People's Liberation Guerrilla Army(PLGA). Officials said this push in Dandakaranya could be the \"climax\" of the relentless anti-Naxal operations thatbegan in 2024 and have so far led to the killing of 363 Maoists and the \"squeezing\" of the Maoist leadership tothe hills. \"The location was earlier",
+   "n_words": 102,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4869,
+      520,
+      4919
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4937,
+      709,
+      5106
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "DETAINED",
+   "deck_raw": "",
+   "body_raw": "TENSIONS OUTSIDE\nJAIPUR MOSQUE:\nBJP MLA BOOKED\nPAGES 3,5",
+   "ocr_conf": 95.77777777777777,
+   "ocr_low_conf_share": 0.0,
+   "headline": "DETAINED",
+   "deck": "",
+   "byline": "TENSIONS OUTSIDE; JAIPUR MOSQUE:; BJP MLA BOOKED; PAGES 3,5",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5301,
+      4170,
+      5428
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5471,
+      499,
+      5547
+     ],
+     [
+      316,
+      5664,
+      581,
+      5736
+     ],
+     [
+      316,
+      5785,
+      759,
+      6136
+     ],
+     [
+      806,
+      5468,
+      1247,
+      6136
+     ],
+     [
+      1295,
+      5468,
+      1736,
+      5621
+     ],
+     [
+      1295,
+      5626,
+      1738,
+      6137
+     ],
+     [
+      2760,
+      5470,
+      3201,
+      6138
+     ],
+     [
+      3249,
+      5470,
+      3691,
+      6138
+     ],
+     [
+      3737,
+      5470,
+      4181,
+      6132
+     ]
+    ],
+    "layout_words": 501
+   },
+   "headline_raw": "Love for violin, Hawaiian shirts: Meet Goa teen making waves in chess world",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nAMITKAMATH\nMUMBAI, APRIL 26\n\nATLASTweek\u2019s Grenke Freestyle\nChess Open 2025 in Germany,\nanother young Indian chess\nplayer made waves. Leon Luke\nMendonca, 19, defeated top-\nranked players lan\nNepomniachtchi and Richard\nRapport and drew against other\nreputed Grandmasters like\n\nAlexey Sarana, Wesley So and\nMaxime Vachier-Lagrave.\nThe tournament hosted in\nthe German city of Karlsruhe\nsaw Leon take the 10th spot ina\nfield of 297 players. Of these, 31\nplayers started the event witha\nbetter rating than the ever-smil-\ning, violin-playing boy from Goa\nwith a penchant for Hawaiian\nshirts and attacking play.\nFor Leon, who became India\u2019s\n67th Grandmaster in 2020, mo-\nments under the bright arc lights\non the global stage have been\nlimited. His rise, after all, coin-\ncided with India discovering its\n\ngolden generation with stars like\nworld champion D Gukesh, R\nPraggnanandhaa and Arjun\nErigaisi.\n\nUnlike a Gukesh or a Pragg,\nwho hail from chess-loving\nChennai, Leon took his first steps\nin the sport in the small town of\nSaligao in Goa. But his rise is also\ntestament to the fact that the\nsport is spreading fast in India, at\noutposts away from the tradi-\ntional centres. Before Leon, Goa\nhad one more Grandmaster \u2014\nAnurag Mhamal.\n\u201cThere was noculture of chess\nin Goa compared toa city like\n\nChennai when Istarted out at the\nage of six. My first breakthrough\nwas when I won a bronze medal\nin the World Youth Champi-\nonship back in 2014 when I was\neight. That's when my parents\nhad to make some big decisions.\nMy dad left his job to travel with\nme fortournaments. That was not\na simple decision,\u201d Leon told The\nIndian Express.\nThe increasingly popular\n\u2018freestyle\u2019 format of chess is the\nmodern-day version of the sport\nthat encourages players to be in-\ntuitive and sharp. \u2018This variantis\nthe best thing, this is the future\n\nof chess. This forces players to fo-\ncus on their own skills rather\nthan memorising opening the-\nory,\u201d Leon would say after his\nwin over Nepomniachtchi.\nClose look at the games he\nplayed at the tournament gives\nan idea about Leon's stunning\nshow. Nepomniachtchi held an\nadvantage of 114 rating pointson\nthe Indian and was yet forced to\nresign in 36 moves. In the next\nround, Richard Rapport, rated 79\nrating points ahead of Leon, was\nhanded defeat in 35 moves. In\nhis nine games, he lost just once.\nLeon's first motivation to play\n\nthe sport was not too different\nfrom the greatest chess player\never \u2014 the Norwegian star\nMagnus Carlsen. They both\nwanted tobeat theirelder sisters.\n\u201cHis sister Beverly was first given\na chess set as a gift, that\u2019s when\nwe sent her toa class to get coach-\ning. She would then teach Leon,\nwho was just around four or five\nat that time, what she had learnt\nat the class that day. That\u2019s how\nhe started,\u201d said father Lyndon.\nEven ashis sister soon moved\nontoother pursuits, Leon was so\nenamoured by thesport that he\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.2554890219561,
+   "ocr_low_conf_share": 0.033932135728542916,
+   "headline": "Love for violin, Hawaiian shirts: Meet Goa teen making waves in chess world",
+   "deck": "",
+   "byline": "ANCHOR; AMITKAMATH; MUMBAI, APRIL 26",
+   "text": "ATLASTweek's Grenke Freestyle Chess Open 2025 in Germany, another young Indian chess player made waves. Leon Luke Mendonca, 19, defeated topranked players lan Nepomniachtchi and Richard Rapport and drew against other reputed Grandmasters like\n\nAlexey Sarana, Wesley So and Maxime Vachier-Lagrave. The tournament hosted in the German city of Karlsruhe saw Leon take the 10th spot ina field of 297 players. Of these, 31 players started the event witha better rating than the ever-smiling, violin-playing boy from Goa with a penchant for Hawaiian shirts and attacking play. For Leon, who became India's 67th Grandmaster in 2020, moments under the bright arc lights on the global stage have been limited. His rise, after all, coin-cided with India discovering its\n\ngolden generation with stars like world champion D Gukesh, R Praggnanandhaa and Arjun Erigaisi.\n\nUnlike a Gukesh or a Pragg, who hail from chess-loving Chennai, Leon took his first steps in the sport in the small town of Saligao in Goa. But his rise is also testament to the fact that the sport is spreading fast in India, at outposts away from the traditional centres. Before Leon, Goa had one more Grandmaster - Anurag Mhamal. \"There was noculture of chess in Goa compared toa city like\n\nChennai when Istarted out at the age of six. My first breakthrough was when I won a bronze medal in the World Youth Championship back in 2014 when I was eight. That's when my parents had to make some big decisions. My dad left his job to travel with me fortournaments. That was not a simple decision,\" Leon told The Indian Express. The increasingly popular 'freestyle' format of chess is the modern-day version of the sport that encourages players to be intuitive and sharp. 'This variantis the best thing, this is the future\n\nof chess. This forces players to focus on their own skills rather than memorising opening theory,\" Leon would say after his win over Nepomniachtchi. Close look at the games he played at the tournament gives an idea about Leon's stunning show. Nepomniachtchi held an advantage of 114 rating pointson the Indian and was yet forced to resign in 36 moves. In the next round, Richard Rapport, rated 79 rating points ahead of Leon, was handed defeat in 35 moves. In his nine games, he lost just once. Leon's first motivation to play\n\nthe sport was not too different from the greatest chess player ever - the Norwegian star Magnus Carlsen. They both wanted tobeat theirelder sisters. \"His sister Beverly was first given a chess set as a gift, that's when we sent her toa class to get coaching. She would then teach Leon, who was just around four or five at that time, what she had learnt at the class that day. That's how he started,\" said father Lyndon. Even ashis sister soon moved ontoother pursuits, Leon was so enamoured by thesport that he",
+   "n_words": 481,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 16.7,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,609 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_27_front",
+ "source_file": "2025-05-27_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-27_front.png",
+ "date": "2025-05-27",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 15,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 220,
+  "mean_line_conf": 83.46419470680836,
+  "orphan_words": 14,
+  "body_words_total": 615
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      797,
+      3151,
+      1163
+     ],
+     [
+      811,
+      1210,
+      1701,
+      1342
+     ]
+    ],
+    "deck_boxes": [
+     [
+      814,
+      696,
+      3165,
+      751
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1421,
+      1229,
+      1533
+     ],
+     [
+      809,
+      1581,
+      1252,
+      1965
+     ],
+     [
+      810,
+      1977,
+      1251,
+      2050
+     ],
+     [
+      1298,
+      1938,
+      1738,
+      2044
+     ]
+    ],
+    "layout_words": 77
+   },
+   "headline_raw": "Must step forward to free your country\nfrom disease of terror: PM to Pak youth\nLive peacefully, have roti or my goli is\nthere: Modi\u2019s strong message to Pak",
+   "deck_raw": "PAK GOVT, ARMY BACK TERROR, PUSHING YOUTH INTO DARKNESS: PM IN GUJARAT",
+   "body_raw": "RITUSHARMA\n& ADITIRAJA\nAHMEDABAD, DAHOD, MAY 26\n\nUNDERLINING THAT Pakistan\ngovernment and its army have\nbeen supporting terrorists at the\ncost of their people's welfare,\nPrime Minister Narendra Modi\non Monday said it is for the\nyouth of the neighbouring coun-\ntry to step forward and \u201cfree\nPakistan from the disease of ter-\nrorism\u201d.\n\nAddressinga public meeting\nat Bhuj in Gujarat's Kutch district,\n\nbordering Pakistan, Modi said,\n\u201cPakistan ko aatank ki bimari se\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.22077922077922,
+   "ocr_low_conf_share": 0.03896103896103896,
+   "headline": "Must step forward to free your country from disease of terror: PM to Pak youth Live peacefully, have roti or my goli is there: Modi's strong message to Pak",
+   "deck": "PAK GOVT, ARMY BACK TERROR, PUSHING YOUTH INTO DARKNESS: PM IN GUJARAT",
+   "byline": "RITUSHARMA; & ADITIRAJA; AHMEDABAD, DAHOD, MAY 26",
+   "text": "UNDERLINING THAT Pakistan government and its army have been supporting terrorists at the cost of their people's welfare, Prime Minister Narendra Modi on Monday said it is for the youth of the neighbouring country to step forward and \"free Pakistan from the disease of terrorism\".\n\nAddressinga public meeting at Bhuj in Gujarat's Kutch district,\n\nbordering Pakistan, Modi said, \"Pakistan ko aatank ki bimari se",
+   "n_words": 64,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      631,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      490,
+      1099,
+      685,
+      1261
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Wo ED case. \\\nThe family concern\nhas Just become @\nLimited Liability",
+   "ocr_conf": 56.0,
+   "ocr_low_conf_share": 0.5384615384615384,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The family concern has Just become @ Limited Liability",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      1208,
+      3128,
+      1411
+     ],
+     [
+      1788,
+      1587,
+      2226,
+      1660
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1786,
+      1545,
+      2068,
+      1594
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      1661,
+      2229,
+      2044
+     ]
+    ],
+    "layout_words": 49
+   },
+   "headline_raw": "First in Op Sindoor: \u2018Red teams\u2019 of\nexperts to map \u2018mind of adversary\u2019\nFOR THE first time, Operation",
+   "deck_raw": "NEW DELHI, MAY 26",
+   "body_raw": "Sindoor -- the military strike\nlaunched by India earlier this\nmonth against terror targets in\nPakistan \u2014 employed the con-\ncept of \u201cred teaming\u201d as part of\nits operational planning, The\nIndian Express has learnt.\nRed teaming involves em-\nbedding a small group of experts\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.12244897959184,
+   "ocr_low_conf_share": 0.04081632653061224,
+   "headline": "First in Op Sindoor: 'Red teams' of experts to map 'mind of adversary' FOR THE first time, Operation",
+   "deck": "NEW DELHI, MAY 26",
+   "byline": "",
+   "text": "Sindoor -- the military strike launched by India earlier this month against terror targets in Pakistan - employed the concept of \"red teaming\" as part of its operational planning, The Indian Express has learnt. Red teaming involves embedding a small group of experts",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1445,
+      759,
+      1823
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      555,
+      1976,
+      759,
+      2043
+     ],
+     [
+      321,
+      2173,
+      747,
+      2245
+     ],
+     [
+      319,
+      2293,
+      761,
+      2762
+     ],
+     [
+      320,
+      2767,
+      761,
+      3112
+     ]
+    ],
+    "layout_words": 103
+   },
+   "headline_raw": "\u2018May have come\nfrom Pakistan\u2019:\nBJP MLC on\naward-winning\nofficial, booked",
+   "deck_raw": "",
+   "body_raw": "BJP MLC\nN Ravikumar\n\nEXPRESS NEWS SERVICE\nBENGALURU, MAY 25\n\nTHE KARNATAKA Police has\nbooked BJP MLC N Ravikumar\nafter he said ata rally that IAS of-\nficer and Kalaburagi Deputy\nCommissioner Fouzia Taranum\n\u201cmay have come from Pakistan\u201d,\nA 2015-cadre IAS officer,\nTaranum was among the 22 re-\ncipients of the Best Electoral\nPractices Award conferred by the\nPresident of Indiain January this\nyear.\n\nThe JAS Officers\u2019 Association,\nKarnataka, has condemned\nRavikumar\u2019s remarks and de-\nmanded an unconditional apol-\nogy from the BJP legislator.\nRavikumar was addressing a\nrally organised by the BJP in\nKalaburagi on Saturday, against\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.81553398058253,
+   "ocr_low_conf_share": 0.038834951456310676,
+   "headline": "'May have come from Pakistan': BJP MLC on award-winning official, booked",
+   "deck": "",
+   "byline": "BJP MLC; EXPRESS NEWS SERVICE; BENGALURU, MAY 25",
+   "text": "N Ravikumar\n\nTHE KARNATAKA Police has booked BJP MLC N Ravikumar after he said ata rally that IAS officer and Kalaburagi Deputy Commissioner Fouzia Taranum \"may have come from Pakistan\", A 2015-cadre IAS officer, Taranum was among the 22 recipients of the Best Electoral Practices Award conferred by the President of Indiain January this year.\n\nThe JAS Officers' Association, Karnataka, has condemned Ravikumar's remarks and demanded an unconditional apology from the BJP legislator. Ravikumar was addressing a rally organised by the BJP in Kalaburagi on Saturday, against",
+   "n_words": 87,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      1763,
+      4162,
+      2182
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      2256,
+      3620,
+      2326
+     ],
+     [
+      3249,
+      2374,
+      3694,
+      3121
+     ],
+     [
+      3738,
+      2889,
+      4182,
+      3115
+     ]
+    ],
+    "layout_words": 134
+   },
+   "headline_raw": "To build confidence,\ndraw tourists, Omar\nand his Cabinet to meet\nin Pahalgam today",
+   "deck_raw": "",
+   "body_raw": "BASHAARAT MASOOD\nSRINAGAR, MAY 26\n\nTOINSTIL confidence in the wake\nof the Pahalgam terror attack and\nencourage tourists to return to\nKashmir, Chief Minister Omar\nAbdullah and his cabinet will\nmove out of the capital, Srinagar,\nto tourist resorts of Pahalgam and\nGulmarg for two days.\nOn Tuesday, the J&K cabinet\nand top civil and police officers\nwill meet not in Srinagar's civil\nsecretariat, but at a resort in\nPahalgam. This comes a little\nover a month after 25 tourists\nand alocal were killedin a terror\nstrike in the meadows of\nPahalgam.\n\u201cObviously, if we don't go to\nthese places, who will?\u201d CM\u2019s\n\nadvisor Nasir Aslam Wani told\nThe Indian Express. \"There are\ntwo objectives of this meeting -\nfirst, that we go to these far-off\nplaces and get first-hand\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.01492537313433,
+   "ocr_low_conf_share": 0.014925373134328358,
+   "headline": "To build confidence, draw tourists, Omar and his Cabinet to meet in Pahalgam today",
+   "deck": "",
+   "byline": "BASHAARAT MASOOD; SRINAGAR, MAY 26",
+   "text": "TOINSTIL confidence in the wake of the Pahalgam terror attack and encourage tourists to return to Kashmir, Chief Minister Omar Abdullah and his cabinet will move out of the capital, Srinagar, to tourist resorts of Pahalgam and Gulmarg for two days. On Tuesday, the J&K cabinet and top civil and police officers will meet not in Srinagar's civil secretariat, but at a resort in Pahalgam. This comes a little over a month after 25 tourists and alocal were killedin a terror strike in the meadows of Pahalgam. \"Obviously, if we don't go to these places, who will?\" CM's\n\nadvisor Nasir Aslam Wani told The Indian Express. \"There are two objectives of this meeting - first, that we go to these far-off places and get first-hand",
+   "n_words": 125,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      2197,
+      1721,
+      2508
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      2571,
+      1121,
+      2680
+     ],
+     [
+      809,
+      2729,
+      1250,
+      3119
+     ],
+     [
+      1297,
+      3006,
+      1737,
+      3113
+     ]
+    ],
+    "layout_words": 75
+   },
+   "headline_raw": "Mayawati vacates Delhi\nhouse allotted as party\nchief, BSP cites \u2018security\u2019",
+   "deck_raw": "",
+   "body_raw": "DAMININATH\n& LALMANI VERMA\nNEW DELHI, MAY 26\n\nROUGHLY 10 years ago, the civic\nauthorities had shifted a bus stop\nfrom frontof BSP chief Mayawati's\nthen Lutyens Delhi bungalow as\nshe claimed threat to her security.\nLast week, with the BSP claiming\nsimilar security concerns regard-\ning her 35, Lodhi Estate, bungalow,\nMayawati quietly vacated it\nMayawati had moved into the\n\nresidence, allotted to her as the\npresident of a national party,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.30263157894737,
+   "ocr_low_conf_share": 0.11842105263157894,
+   "headline": "Mayawati vacates Delhi house allotted as party chief, BSP cites 'security'",
+   "deck": "",
+   "byline": "DAMININATH; & LALMANI VERMA; NEW DELHI, MAY 26",
+   "text": "ROUGHLY 10 years ago, the civic authorities had shifted a bus stop from frontof BSP chief Mayawati's then Lutyens Delhi bungalow as she claimed threat to her security. Last week, with the BSP claiming similar security concerns regarding her 35, Lodhi Estate, bungalow, Mayawati quietly vacated it Mayawati had moved into the\n\nresidence, allotted to her as the president of a national party,",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      2197,
+      3187,
+      2408
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1785,
+      2533,
+      2067,
+      2584
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      2611,
+      2226,
+      3080
+     ],
+     [
+      2490,
+      2634,
+      2778,
+      2684
+     ],
+     [
+      2544,
+      2731,
+      2703,
+      2761
+     ]
+    ],
+    "layout_words": 66
+   },
+   "headline_raw": "Aizawl becomes fourth N-E capital\nwith rail link, trial run successful",
+   "deck_raw": "NEW DELHI, MAY 26",
+   "body_raw": "IN Abig push for deeper connec-\ntivity in the North-East,\nMizoram\u2019s capital Aizawl has\nnow been linked to the national\nrailway network via the\nBairabi-Sairang line in the state.\nBairabi in Kolasib district,\nnear the border with Assam, has\nso far been the only railhead in\nMizoram. Sairang is a satellite\ntown of Aizawl, around 20 km\nfrom the city,\n\naL ~\u00ablOPASIGH\n. _Sikkir 26.15km\n\n\u201c3 BHUTAN",
+   "ocr_conf": 85.07462686567165,
+   "ocr_low_conf_share": 0.1044776119402985,
+   "headline": "Aizawl becomes fourth N-E capital with rail link, trial run successful",
+   "deck": "NEW DELHI, MAY 26",
+   "byline": "",
+   "text": "IN Abig push for deeper connectivity in the North-East, Mizoram's capital Aizawl has now been linked to the national railway network via the Bairabi-Sairang line in the state. Bairabi in Kolasib district, near the border with Assam, has so far been the only railhead in Mizoram. Sairang is a satellite town of Aizawl, around 20 km from the city,\n\naL ~\u00ablOPASIGH\n\n\"3 BHUTAN",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2646,
+      2575,
+      2777,
+      2660
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2385,
+      2495,
+      3158,
+      2538
+     ]
+    ],
+    "body_boxes": [
+     [
+      2558,
+      3035,
+      2778,
+      3073
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "\u201c MURKONC\n= TOPASIGH",
+   "deck_raw": "DEEPER CONNECTIVITY IN NORTH-EAST",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "\" MURKONC = TOPASIGH",
+   "deck": "DEEPER CONNECTIVITY IN NORTH-EAST",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      408,
+      3460,
+      2130,
+      3533
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      847,
+      4542,
+      916,
+      4575
+     ],
+     [
+      954,
+      5092,
+      1241,
+      5162
+     ],
+     [
+      1395,
+      5092,
+      1681,
+      5162
+     ],
+     [
+      405,
+      5196,
+      2143,
+      5238
+     ],
+     [
+      1111,
+      5971,
+      1562,
+      6060
+     ],
+     [
+      1078,
+      6093,
+      2199,
+      6132
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "IAS 2025 A trareara a ueett TH (AIR- 20th) & rer aatfite wae !!",
+   "deck_raw": "",
+   "body_raw": "AIR\n\nRAS Foundation\nClassroom Student\n\nIAS Foundation\nClassroom Student\n\nfrset 15 cat @ IAS Utter a Froat Gallien Uae S4 ale User aor \u201cWaeaTa\u201d WIA Sprinaboard Academy\n\n\u00a9 Springboard Academy Online\nfi Springboard Academy Jaipur\n\nlarly wicu suciod [he Notes Hub (610010054, (300134518 |",
+   "ocr_conf": 63.02272727272727,
+   "ocr_low_conf_share": 0.4318181818181818,
+   "headline": "IAS 2025 A trareara a ueett TH (AIR- 20th) & rer aatfite wae!!",
+   "deck": "",
+   "byline": "AIR",
+   "text": "RAS Foundation Classroom Student\n\nIAS Foundation Classroom Student\n\nfrset 15 cat @ IAS Utter a Froat Gallien Uae S4 ale User aor \"WaeaTa\" WIA Sprinaboard Academy\n\n\u00a9 Springboard Academy Online fi Springboard Academy Jaipur\n\nlarly wicu suciod [he Notes Hub (610010054, (300134518",
+   "n_words": 42,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1570,
+      3991,
+      2166,
+      4332
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1836,
+      5092,
+      2122,
+      5162
+     ],
+     [
+      1644,
+      5930,
+      2174,
+      5970
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "wad ot bee\nRank In\nRajasthan",
+   "deck_raw": "",
+   "body_raw": "IAS Foundation\nClassroom Student\n\nUaareraie arta firm OR Code wat Bigee",
+   "ocr_conf": 56.09090909090909,
+   "ocr_low_conf_share": 0.45454545454545453,
+   "headline": "wad ot bee Rank In Rajasthan",
+   "deck": "",
+   "byline": "",
+   "text": "IAS Foundation Classroom Student\n\nUaareraie arta firm OR Code wat Bigee",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3393,
+      5183,
+      4022,
+      5424
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3392,
+      5459,
+      4018,
+      5547
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "Shri. Nitin\nGadkari",
+   "deck_raw": "",
+   "body_raw": "Minister of Road Transport\n& Highways, Government of India",
+   "ocr_conf": 95.22222222222223,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Shri. Nitin Gadkari",
+   "deck": "",
+   "byline": "",
+   "text": "Minister of Road Transport & Highways, Government of India",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 11.1,
+ "flags": []
+}

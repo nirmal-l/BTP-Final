@@ -1,0 +1,884 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_23_front",
+ "source_file": "2025-03-23_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-23_front.png",
+ "date": "2025-03-23",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1282,
+  "n_lines": 500,
+  "mean_line_conf": 88.83066810966811,
+  "orphan_words": 346,
+  "body_words_total": 1830
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1313,
+      590,
+      1385
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "HAMZA KHAN\nJAIPUR, MARCH 22",
+   "ocr_conf": 94.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "HAMZA KHAN; JAIPUR, MARCH 22",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      1313,
+      1197,
+      1645
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Cl forms probe\nteam, Justice\nVarma not to be\nassigned any\nwork for now",
+   "ocr_conf": 88.78571428571429,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Cl forms probe team, Justice Varma not to be assigned any work for now",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      1315,
+      2229,
+      2057
+     ]
+    ],
+    "layout_words": 89,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Supreme Court Saturday re-\nleased an internal inquiry report\nby the High Court.\nIn the redacted report, Delhi\nHigh Court Chief Justice\nDevendra Upadhyaya in a letter\ndated March 21 asked Justice\nVarma to \u201caccount forthe pres-\nenceof moneycash\u201d inthe room\nlocated in his official bungalow.\nJustice Varma, in his official\nresponse to Chief Justice\nUpadhyaya has denied the alle-\ngations \u201cI would beseech youto\nbear in consideration that no\ncurrency was recovered from the\npremises that we actually oc-\ncupy and use asa family,\u201d he said.\nCONTINUED ON PAGE2",
+   "ocr_conf": 89.3,
+   "ocr_low_conf_share": 0.05555555555555555,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Supreme Court Saturday released an internal inquiry report by the High Court. In the redacted report, Delhi High Court Chief Justice Devendra Upadhyaya in a letter dated March 21 asked Justice Varma to \"account forthe presenceof moneycash\" inthe room located in his official bungalow. Justice Varma, in his official response to Chief Justice Upadhyaya has denied the alle-gations \"I would beseech youto bear in consideration that no currency was recovered from the premises that we actually occupy and use asa family,\" he said.",
+   "n_words": 83,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      1311,
+      3172,
+      1610
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      1672,
+      2598,
+      1780
+     ],
+     [
+      2273,
+      1830,
+      2715,
+      2065
+     ],
+     [
+      2760,
+      1634,
+      3205,
+      2057
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "HC to Delhi Police: Give\ndetails for last 6 months\nof judge\u2019s security staff",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI.MARCH 22\n\nON THE day ChiefJustice of india\nSanjiv Khanna formed a three-\nmember panel to investigate al-\nlegations against Justice\nYashwant Varma, the Dethi High\nCourt contacted police authori-\n\nties requesting comprehensive\ndetails about security personnel\ndeployed at the judge's residence,\nThe Sunday Express has learned.\nA letter from Delhi High\nCourt Chief Justice D K\nUpadhyay\u2019s office, sources said,\nwas received by the security di-\nvision of the Delhi Police\nSaturday morning seeking\nCONTINUEDON PAGE2",
+   "ocr_conf": 85.34567901234568,
+   "ocr_low_conf_share": 0.13580246913580246,
+   "headline": "HC to Delhi Police: Give details for last 6 months of judge's security staff",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI.MARCH 22",
+   "text": "ON THE day ChiefJustice of india Sanjiv Khanna formed a three-member panel to investigate allegations against Justice Yashwant Varma, the Dethi High Court contacted police authorities requesting comprehensive details about security personnel deployed at the judge's residence, The Sunday Express has learned. A letter from Delhi High Court Chief Justice D K Upadhyay's office, sources said, was received by the security division of the Delhi Police Saturday morning seeking CONTINUEDON PAGE2",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      1434,
+      767,
+      2806
+     ]
+    ],
+    "layout_words": 191,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "WITH THEIR family member\nmissing for almost three months\nnow in the African country of\nGuinea, a Barmer family has\nsought help from all quarters \u2014\nincluding the Ministry of\nExternal Affairs (MEA) \u2014 to fig-\nure out his whereabouts and\nbring him back home to India.\nIn July last year, Jivraj\nBeniwal, about 30, had left for\nConakry \u2014 the capital and\nlargest city of Guinea, a country\non the west coast of the African\ncontinent. Hailing from Barmer's\nRampura Garal village, Jivraj had\nleft to start his tilesbusiness.\nTalking to The Indian Express,\nJiveaj's older brother Virama\nBeniwal, 34, said that Jivraj last\nspoke to the family around 8 pm\non December 29 last year \u201cWe\nusually spoke over a WhatsApp\ncall and he called his wife onthe\nevening of December 29, Later,\nhe also called another person in\nour village but that person\nmissed the calls as it was past\nmidnight here - there is a 5:30\nhour time difference between\nthe two countries,\u201d he said.\n\u201cWhen he called back Jivraj\nthe next day, there was no re-\nsponse. We also called Jivraj and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.717277486911,
+   "ocr_low_conf_share": 0.031413612565445025,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "WITH THEIR family member missing for almost three months now in the African country of Guinea, a Barmer family has sought help from all quarters - including the Ministry of External Affairs (MEA) - to figure out his whereabouts and bring him back home to India. In July last year, Jivraj Beniwal, about 30, had left for Conakry - the capital and largest city of Guinea, a country on the west coast of the African continent. Hailing from Barmer's Rampura Garal village, Jivraj had left to start his tilesbusiness. Talking to The Indian Express, Jiveaj's older brother Virama Beniwal, 34, said that Jivraj last spoke to the family around 8 pm on December 29 last year \"We usually spoke over a WhatsApp call and he called his wife onthe evening of December 29, Later, he also called another person in our village but that person missed the calls as it was past midnight here - there is a 5:30 hour time difference between the two countries,\" he said. \"When he called back Jivraj the next day, there was no response. We also called Jivraj and",
+   "n_words": 185,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      1616,
+      4155,
+      2069
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2148,
+      3585,
+      2256
+     ],
+     [
+      3248,
+      2306,
+      3694,
+      3250
+     ],
+     [
+      3738,
+      2110,
+      4183,
+      3210
+     ],
+     [
+      3738,
+      3345,
+      3982,
+      3377
+     ],
+     [
+      3737,
+      3440,
+      4117,
+      3633
+     ]
+    ],
+    "layout_words": 244
+   },
+   "headline_raw": "Citing \u2018constitutional,\nmoral duty\u2019, judges\nfrom SC, Manipur\nHC visit relief camps",
+   "deck_raw": "",
+   "body_raw": "SUKRITABARUAH\nCHURACHANDPUR,\nBISHNUPUR, MARCH 22\n\nWITH THOUSANDS of peoplein\nManipur close to completing\ntwo years displaced from their\nhomes, judges from the\nSupreme Court and Manipur\nHigh Court led by Justice BR\nGavai visited relief camps in\nChurachandpur and Bishnupur\non Saturday.\nEven in their visit, the deep\nfault lines persisting inthe state\nwere evident, with Justice N\nKotiswar Singh \u2014 a judge from\nthe Supreme Court delegation\nfrom the Meitei community \u2014\nand two Meitei Manipur High\nCourtjudges, A Bimol Singh and\nA Guneshwar Sharma, skipping\nthe visit to Kuki-Zo majority\nChurachandpur\nThe judges visited a relief\ncamp eachin Churachandpur\nand Meitei-majority Bishnupur\nas part of a delegation from the\n\nNational Legal Services Authority\n(NALSA) and distributed relief\nmaterials such as mattresses and\nhealth cards. They also virtually\ninaugurated medicalcamps and\n265 legal clinics in 109 locations\nacross the state.\n\u201cOne of the most vulnerable\nsections of the societycomprises\nintemally displaced persons due\ntovarious circumstances beyond\ntheir contro}. Many individuals\nand families have found them-\nselves uprooted from their\nhouses, struggling to rebuild\ntheir lives. It is our moral and\nconstitutional duty to ensure\nthatthey arenot leftbehind. the\nlegal aid will also play a crucial\nrole in ensuring that displaced\nindividuals receive their rightful\nentitlements, be it in matters of\nidentity documentation, prop-\nerty rights or compensation\nclaims,\u201d said Justice Gavai, who\nis the executive chairman of\nNALSA, in Churachandpur on\nSaturday.\n\nTHE WORLD\n\nISRAEL RESPONDS\nTO ROCKET FIRE\nFROM LEBANON\nWITH STRIKES",
+   "ocr_conf": 91.26229508196721,
+   "ocr_low_conf_share": 0.045081967213114756,
+   "headline": "Citing 'constitutional, moral duty', judges from SC, Manipur HC visit relief camps",
+   "deck": "",
+   "byline": "SUKRITABARUAH; CHURACHANDPUR,; BISHNUPUR, MARCH 22",
+   "text": "WITH THOUSANDS of peoplein Manipur close to completing two years displaced from their homes, judges from the Supreme Court and Manipur High Court led by Justice BR Gavai visited relief camps in Churachandpur and Bishnupur on Saturday. Even in their visit, the deep fault lines persisting inthe state were evident, with Justice N Kotiswar Singh - a judge from the Supreme Court delegation from the Meitei community - and two Meitei Manipur High Courtjudges, A Bimol Singh and A Guneshwar Sharma, skipping the visit to Kuki-Zo majority Churachandpur The judges visited a relief camp eachin Churachandpur and Meitei-majority Bishnupur as part of a delegation from the\n\nNational Legal Services Authority (NALSA) and distributed relief materials such as mattresses and health cards. They also virtually inaugurated medicalcamps and 265 legal clinics in 109 locations across the state. \"One of the most vulnerable sections of the societycomprises intemally displaced persons due tovarious circumstances beyond their contro}. Many individuals and families have found themselves uprooted from their houses, struggling to rebuild their lives. It is our moral and constitutional duty to ensure thatthey arenot leftbehind. the legal aid will also play a crucial role in ensuring that displaced individuals receive their rightful entitlements, be it in matters of identity documentation, property rights or compensation claims,\" said Justice Gavai, who is the executive chairman of NALSA, in Churachandpur on Saturday.\n\nTHE WORLD\n\nISRAEL RESPONDS TO ROCKET FIRE FROM LEBANON WITH STRIKES",
+   "n_words": 237,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      1710,
+      1226,
+      1818
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\n& APURVAVISHWANATH\nNEW DELHI, MARCH 22",
+   "ocr_conf": 60.42857142857143,
+   "ocr_low_conf_share": 0.2857142857142857,
+   "headline": "",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; & APURVAVISHWANATH; NEW DELHI, MARCH 22",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      1908,
+      1253,
+      2059
+     ]
+    ],
+    "layout_words": 24,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "that cash was found in the resi-\ndence of Delhi High Court judge\nYashwant Varma when a fire\nbroke out on March 14, the",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "that cash was found in the residence of Delhi High Court judge Yashwant Varma when a fire broke out on March 14, the",
+   "n_words": 23,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      813,
+      1867,
+      1252,
+      1895
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "IN THE first official confirmatinn",
+   "ocr_conf": 56.0,
+   "ocr_low_conf_share": 0.6,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "IN THE first official confirmatinn",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      813,
+      2237,
+      1223,
+      2269
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NETWORK",
+   "ocr_conf": 95.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "EXPRESS NETWORK",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      2277,
+      3156,
+      2570
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1298,
+      2212,
+      3033,
+      2246
+     ]
+    ],
+    "body_boxes": [
+     [
+      1299,
+      2569,
+      1733,
+      2824
+     ],
+     [
+      1296,
+      2897,
+      1663,
+      2966
+     ],
+     [
+      1296,
+      3016,
+      1741,
+      3794
+     ],
+     [
+      1298,
+      3885,
+      1703,
+      3918
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "Opp states pass resolution: Freeze\nLok Sabha seats for another 25 years",
+   "deck_raw": "STALIN HOSTS CHENNAI MEET: JOINT ACTION COMMITTEE ON DELIMITATION SET UP",
+   "body_raw": "Except Andhra,\nCMs, Dy CM of 4\nsouth states attend;\nMamata skips\n\nARUN JANARDHANAN\nCHENNAI. MARCH 22\n\nDESCRIBING AS \u201cunclear and\nconfusing\u201d the promise of Union\nHome Minister Amit Shah that\nsouthern states will not lose a\nsingle seat in the Lok Sabha ona\npro rata basis after delimitation,\na joint Action Committee for Fair\nDelimitation (JAC) led by Tamil\nNadu Chief Minister M K Stalin\npassed a resolution demanding\nthatthe \u201cfreeze on Parliamentary\nconstituencies based on 1971\nCensus Population should be ex-\ntended byanother 25 years\u201d.\nThe gathering of at least four\nCMs (Tamil Nadu, Telangana,\nKerala and Punjab), Deputy Chief\nMinister of Kamataka, and sen-\nior political leaders from\nCONTINUEDON PAGE 4\n\nDELIMITATION SUITS",
+   "ocr_conf": 86.94827586206897,
+   "ocr_low_conf_share": 0.07758620689655173,
+   "headline": "Opp states pass resolution: Freeze Lok Sabha seats for another 25 years",
+   "deck": "STALIN HOSTS CHENNAI MEET: JOINT ACTION COMMITTEE ON DELIMITATION SET UP",
+   "byline": "ARUN JANARDHANAN; CHENNAI. MARCH 22",
+   "text": "Except Andhra, south states attend; Mamata skips\n\nDESCRIBING AS \"unclear and confusing\" the promise of Union Home Minister Amit Shah that southern states will not lose a single seat in the Lok Sabha ona pro rata basis after delimitation, a joint Action Committee for Fair Delimitation (JAC) led by Tamil Nadu Chief Minister M K Stalin passed a resolution demanding thatthe \"freeze on Parliamentary constituencies based on 1971 Census Population should be extended byanother 25 years\". The gathering of at least four CMs (Tamil Nadu, Telangana, Kerala and Punjab), Deputy Chief Minister of Kamataka, and senior political leaders from CONTINUEDON PAGE 4\n\nDELIMITATION SUITS",
+   "n_words": 104,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2549,
+      1247,
+      2769
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "VINOD SHUKLA FIRST\nFROM CHHATTISGARH\nTO WIN JNANPITH\nAWARD\nPAGE 3",
+   "ocr_conf": 93.81818181818181,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "VINOD SHUKLA FIRST; FROM CHHATTISGARH; TO WIN JNANPITH; AWARD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      2567,
+      3200,
+      2857
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      3492,
+      3153,
+      3600
+     ],
+     [
+      2758,
+      3650,
+      3206,
+      4153
+     ]
+    ],
+    "layout_words": 65
+   },
+   "headline_raw": "MP from Pawan\nKalyan\u2019s party\narrived in city,\nleft before meet",
+   "deck_raw": "",
+   "body_raw": "ARUN JANARDHANAN\n& SREENIVAS JANYALA\nCHENNAI. HYDERABAD\n\nTANGELLA UDAY Srinivas, the\nJana Sena Party (JSP) MP from\nKakinada, arrived inChennaion\nFriday night, ostensibly toattend\nthe Joint Action Committee(JAC)\nmeeting on delimitation being\nhosted by Tamil Nadu Chief\nMinister MK Stalin. By Saturday\nmoming, he was gone.\nThe DMK had arranged for a\nwarm welcome for Srinivas,\nwhose party is a key NDA\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.77272727272727,
+   "ocr_low_conf_share": 0.10606060606060606,
+   "headline": "MP from Pawan Kalyan's party arrived in city, left before meet",
+   "deck": "",
+   "byline": "ARUN JANARDHANAN; & SREENIVAS JANYALA; CHENNAI. HYDERABAD",
+   "text": "TANGELLA UDAY Srinivas, the Jana Sena Party (JSP) MP from Kakinada, arrived inChennaion Friday night, ostensibly toattend the Joint Action Committee(JAC) meeting on delimitation being hosted by Tamil Nadu Chief Minister MK Stalin. By Saturday moming, he was gone. The DMK had arranged for a warm welcome for Srinivas, whose party is a key NDA",
+   "n_words": 55,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2878,
+      1230,
+      3210
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3293,
+      605,
+      3401
+     ],
+     [
+      320,
+      3451,
+      762,
+      3961
+     ],
+     [
+      1048,
+      3253,
+      1218,
+      3487
+     ],
+     [
+      809,
+      3569,
+      1253,
+      3922
+     ]
+    ],
+    "layout_words": 131
+   },
+   "headline_raw": "CBI files closure report\nin Sushant Rajput case:\n\u2018Simple case of suicide\u2019",
+   "deck_raw": "",
+   "body_raw": "SAGAR RAJPUT\n& SADAF MODAK\nMUMBAI. MARCH 22\n\nALMOST FIVE years after actor\nSushant Singh Rajput was found\nhanging at his Mumbai home,\nthe CBI has filed aclosure report\nonits probe into his death, call-\ning ita \u201csimple case of suicide\u201d.\nIn a miscellaneous criminal\napplication filed Friday before\nthe Bandra magistrate court, the\nCBI, seeking to close the case, has\nabsolved all named in two FIRs\nfiled in the case, including actor\nRhea Chakraborty, her parents,\n\nThe actor\nwas found\nhanging at\nhis Bandra\nhomein\nJune 2020\n\nbrother; and Rajput's sister\nPriyanka and adoctor namedin\nacounter FIR filed by Rhea, con-\ncluding that there was no in-\nvolvement of these persons in\nabetment of the suicide.\nRajputwas found hanging by\nhis staff at his Bandra residence\non June 14, 2020.",
+   "ocr_conf": 89.07633587786259,
+   "ocr_low_conf_share": 0.07633587786259542,
+   "headline": "CBI files closure report in Sushant Rajput case: 'Simple case of suicide'",
+   "deck": "",
+   "byline": "SAGAR RAJPUT; & SADAF MODAK; MUMBAI. MARCH 22",
+   "text": "ALMOST FIVE years after actor Sushant Singh Rajput was found hanging at his Mumbai home, the CBI has filed aclosure report onits probe into his death, calling ita \"simple case of suicide\". In a miscellaneous criminal application filed Friday before the Bandra magistrate court, the CBI, seeking to close the case, has absolved all named in two FIRs filed in the case, including actor Rhea Chakraborty, her parents,\n\nThe actor was found hanging at his Bandra homein\n\nbrother; and Rajput's sister Priyanka and adoctor namedin acounter FIR filed by Rhea, concluding that there was no involvement of these persons in abetment of the suicide. Rajputwas found hanging by his staff at his Bandra residence",
+   "n_words": 114,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      3238,
+      2619,
+      3744
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      3767,
+      2228,
+      4152
+     ]
+    ],
+    "layout_words": 47
+   },
+   "headline_raw": "Hindi belt Opp parties\nnot on same page, T'M(\nstays away; TDP silent\nMANOJCG 7 :E \u201cOppdilemm\nNEW DELHI, MARCH 22 & e inNorth",
+   "deck_raw": "",
+   "body_raw": "THE LEADERSHIP of anti-BJP\nparties, including the Congress,\nfrom states in the South, Punjab\nand Odisha forged abroad coali-\ntion Saturday against the pro-\nposed delimitation exercise but\nthe silence of the INDIAbIoc par-\nties from the Hindi belt and\nMaharashtra and the TMC's\nCONTINUEDON PAGE 2",
+   "ocr_conf": 88.57446808510639,
+   "ocr_low_conf_share": 0.06382978723404255,
+   "headline": "Hindi belt Opp parties not on same page, T'M( stays away; TDP silent MANOJCG 7:E \"Oppdilemm NEW DELHI, MARCH 22 & e inNorth",
+   "deck": "",
+   "byline": "",
+   "text": "THE LEADERSHIP of anti-BJP parties, including the Congress, from states in the South, Punjab and Odisha forged abroad coalition Saturday against the proposed delimitation exercise but the silence of the INDIAbIoc parties from the Hindi belt and Maharashtra and the TMC's CONTINUEDON PAGE 2",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2525,
+      3383,
+      2661,
+      3471
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2382,
+      3648,
+      2646,
+      3746
+     ]
+    ],
+    "body_boxes": [
+     [
+      2319,
+      3768,
+      2660,
+      4121
+     ]
+    ],
+    "layout_words": 33
+   },
+   "headline_raw": "MC",
+   "deck_raw": "Oppdilemma\ne inNorth",
+   "body_raw": "INDIA bloc partners RJD\nand SP do not want tobe\nseen opposing a delimi-\ntation move that guar-\nantees their states \u2014\nBihar and UP\u2014 more\nseats in Parliament.\nEspecially aheadof\nAssembly polls.",
+   "ocr_conf": 89.48484848484848,
+   "ocr_low_conf_share": 0.06060606060606061,
+   "headline": "MC",
+   "deck": "Oppdilemma e inNorth",
+   "byline": "",
+   "text": "INDIA bloc partners RJD and SP do not want tobe seen opposing a delimitation move that guar-antees their states - Bihar and UP - more seats in Parliament. Especially aheadof Assembly polls.",
+   "n_words": 32,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      3752,
+      4162,
+      4100
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3250,
+      4120,
+      4153,
+      4176
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      4243,
+      3676,
+      4312
+     ],
+     [
+      3243,
+      4362,
+      3697,
+      5190
+     ],
+     [
+      3737,
+      4205,
+      4181,
+      4472
+     ],
+     [
+      3736,
+      4523,
+      4179,
+      5183
+     ]
+    ],
+    "layout_words": 200
+   },
+   "headline_raw": "RSS flags role of \u2018deep\nstate\u2019 in anti-Hindu\nviolence in Bangla",
+   "deck_raw": "\u2018Part of larger effort to destabilise region\u2019",
+   "body_raw": "EXPRESS NEWS SERVICE\nBENGALURU, MARCH 22\n\nTHE RASHTRIYA Swayamsevak\nSangh (RSS)has raisedstrongcon-\ncemsoverwhat it described as the\n\u201cunabated and systematic perse-\ncution\u201d of Hindus in Bangladesh,\nattributingitto a larger geopoliti-\ncalconspiracy involving \u201cPakistan\nand the Deep State\u201d.\nThe Akhil Bharatiya\nPratinidhi Sabha (ABPS), the\nhighest decision-making body of\ntheRSS, passed a resolution dur-\ning its annual meeting in\nBengaluru on Saturday, high-\nlighting whatit called the \u201cinsti-\ntutionalized oppression\u201d of\nHindu and other minonty com-\nmunities in Bangladesh.\nThe resolution alleged that\nradicalldamist groups, withim-\nplicit support from sections of\n\nBangladesh's administration,\nhave been orchestrating targeted\nattackson temples, religious in-\nstitutions, and individuals from\nthe Hindu community. These in-\nclude the alleged desecration of\ndeities, arson, forced conver-\n\nolence against women. \u201cTo dis-\nmiss these attacks as mere\npolitical conflictsis toignorethe\nreality that the victims belong\noverwhelmingly to the Hindu\nand other minority communi-\nties,\u201d the resolution stated.\nThe RSS body claimed that\nthe violence is not just an inter-\nnal issue of Bangladesh but part\nofa larger effort to destabilise the\nregion. \u201cThere is a concerted at-\ntempt by international forces,\nparticularly Pakistan and the\nDeep State, to create an atmos-\nphere of distrust and hostility\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.48258706467662,
+   "ocr_low_conf_share": 0.06467661691542288,
+   "headline": "RSS flags role of 'deep state' in anti-Hindu violence in Bangla",
+   "deck": "'Part of larger effort to destabilise region'",
+   "byline": "EXPRESS NEWS SERVICE; BENGALURU, MARCH 22",
+   "text": "THE RASHTRIYA Swayamsevak Sangh (RSS)has raisedstrongconcemsoverwhat it described as the \"unabated and systematic persecution\" of Hindus in Bangladesh, attributingitto a larger geopoliticalconspiracy involving \"Pakistan and the Deep State\". The Akhil Bharatiya Pratinidhi Sabha (ABPS), the highest decision-making body of theRSS, passed a resolution during its annual meeting in Bengaluru on Saturday, high-lighting whatit called the \"institutionalized oppression\" of Hindu and other minonty communities in Bangladesh. The resolution alleged that radicalldamist groups, withimplicit support from sections of\n\nBangladesh's administration, have been orchestrating targeted attackson temples, religious institutions, and individuals from the Hindu community. These include the alleged desecration of deities, arson, forced converolence against women. \"To dismiss these attacks as mere political conflictsis toignorethe reality that the victims belong overwhelmingly to the Hindu and other minority communities,\" the resolution stated. The RSS body claimed that the violence is not just an internal issue of Bangladesh but part ofa larger effort to destabilise the region. \"There is a concerted attempt by international forces, particularly Pakistan and the Deep State, to create an atmosphere of distrust and hostility",
+   "n_words": 175,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      3930,
+      1732,
+      3982
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      3998,
+      1687,
+      4123
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "ONLY BJP: PINARAYI _",
+   "deck_raw": "",
+   "body_raw": "FOLLOW VAJPAYEE\nWAY: REVANTH TO\nPRIME MINISTER es",
+   "ocr_conf": 90.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "ONLY BJP: PINARAYI _",
+   "deck": "",
+   "byline": "FOLLOW VAJPAYEE; WAY: REVANTH TO; PRIME MINISTER es",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      4026,
+      1240,
+      4348
+     ],
+     [
+      322,
+      4387,
+      1240,
+      4518
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4598,
+      618,
+      4667
+     ],
+     [
+      319,
+      4717,
+      761,
+      5180
+     ],
+     [
+      809,
+      5071,
+      1248,
+      5144
+     ]
+    ],
+    "layout_words": 63
+   },
+   "headline_raw": "Nagpur violence claims\nfirst life: 38-yr-old man\nsuccumbs to injuries\nMDP founder among arrested; rioters\nmust pay for damages: CM Fadnavis",
+   "deck_raw": "",
+   "body_raw": "ANKITADESHKAR\nNAGPUR, MARCH 22\n\nTHE MARCH 17 violence that\nrocked Nagpur claimed its first\nvictim Saturday when 38-year\nold Irfan Ansari succumbed to\ninjuries sustained during an at-\ntack by a mob.\nIrfan Ansari passed away\nSaturday aftemoon, five days af-\nter being injured. His death was\nconfirmed by Dr Sagar Pandey,\nDeputyMedical Sunerintendent\natthe IndiraGandhiGovemment\n\nMedical College & Hospital (IG-\nGMCH).",
+   "ocr_conf": 89.45161290322581,
+   "ocr_low_conf_share": 0.08064516129032258,
+   "headline": "Nagpur violence claims first life: 38-yr-old man succumbs to injuries MDP founder among arrested; rioters must pay for damages: CM Fadnavis",
+   "deck": "",
+   "byline": "ANKITADESHKAR; NAGPUR, MARCH 22; THE MARCH 17 violence that",
+   "text": "rocked Nagpur claimed its first victim Saturday when 38-year old Irfan Ansari succumbed to injuries sustained during an attack by a mob. Irfan Ansari passed away Saturday aftemoon, five days after being injured. His death was confirmed by Dr Sagar Pandey, DeputyMedical Sunerintendent atthe IndiraGandhiGovemment\n\nMedical College & Hospital (IG-GMCH).",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 20,
+   "layout": {
+    "headline_boxes": [
+     [
+      2760,
+      4264,
+      3105,
+      4523
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2756,
+      4677,
+      3189,
+      5140
+     ]
+    ],
+    "layout_words": 41
+   },
+   "headline_raw": "WARSHIP\nMIGHT\nGROWS",
+   "deck_raw": "",
+   "body_raw": "Tavasya, the second frigate\nof the Navy's Project 11356\n(Yard 1259), being launched\nat Goa Shipyard Limitedin\nVasco on Saturday. The\nwarshipis engineered to\nexecute adiverse range of\noffensive and defensive\noperations, ensuring\nStrategicdominancein\nthe Indian Ocean Region,\nofficials said. pn",
+   "ocr_conf": 89.6829268292683,
+   "ocr_low_conf_share": 0.024390243902439025,
+   "headline": "WARSHIP MIGHT GROWS",
+   "deck": "",
+   "byline": "",
+   "text": "Tavasya, the second frigate of the Navy's Project 11356 (Yard 1259), being launched at Goa Shipyard Limitedin Vasco on Saturday. The warshipis engineered to execute adiverse range of offensive and defensive operations, ensuring Strategicdominancein the Indian Ocean Region, officials said. pn",
+   "n_words": 41,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 21,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5341,
+      4130,
+      5464
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5552,
+      499,
+      5585
+     ],
+     [
+      318,
+      5703,
+      642,
+      5772
+     ],
+     [
+      318,
+      5825,
+      763,
+      6135
+     ],
+     [
+      807,
+      5507,
+      1252,
+      6136
+     ],
+     [
+      1294,
+      5508,
+      1736,
+      6136
+     ],
+     [
+      2759,
+      5509,
+      3202,
+      6130
+     ],
+     [
+      3245,
+      5509,
+      3691,
+      6138
+     ],
+     [
+      3733,
+      5510,
+      4180,
+      6131
+     ]
+    ],
+    "layout_words": 427
+   },
+   "headline_raw": "Hello unplugged music, goodbye printing press \u2014 The Beatles ashram revamp",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nAISWARYARAJ\nDEHRADUN, MARCH 22\n\nACAFETERIA, a \u201csatvik\u201d kitchen,\na tea pavilion, avenue for un-\nplugged music, anexhibition on\nThe Beatles in India, and a sou-\nvenir shop \u2014 these are some of\nthe proposed upgrades to the\nChaurasi Kutiya Swargashram,\npopularly known as The Beatles\n\nAshram, situated inside the\nRajaji National Park in\nUttarakhand's Rishikesh, The\nIndian Express has learnt.\nThe consultancy firm HCP\nDesign, Planning, and Manage-\nment Private Limited, which was\nalso behind the architect ure of\nthe Central Vista and the Kashi\nVishwanath corndor project, is\nlearnt to have submitted a de-\ntailed project report(DPR)to the\nUttarakhand goverment along\nwith a final master plan report.\nThese proposals feature inthese\ndocuments, which the govern-\n\nment will look into before the\ntender is floated for execution.\nWhile the Tourism Department\nbears the consultancy cost, the\nForest Department will execute\nthe projectastheashram is situ-\natedinthe tiger reserve.\nThe Indian Express first re-\nported about the planto revamp\nthe ashram in October last year.\nThe British band members\nGeorge Harrison, Ringo Starr,\nPaul McCartney and John\nLennon visited the ashram, at\nthe time the home to Mahesh\nYogi, in 1968. Chaurasi Kutiya\n\ngets its namefrom the84 medi-\ntation rooms \u2014 42 on either side\nof a yoga centre. The complex\nhas nearly 25 buildings, of which\n12 will be revamped in the up-\ncoming project.\nWith a budgetofRs 84 crore,\nthe conceptual estimate by the\nconsultant has a detailed pro-\nposal of retrofitting, repairing,\nand rebuilding several structures,\nand thedemolitionof the iconic\nPrinting Press. Constructed inthe\nearly 1960s, this press was used\nto print literature on \u201ctranscen-\ndental meditation\u201d. The Science\n\nof Being and the Art of Lvingand\nMahanishi Mahesh Yogi's com-\nmentary on the first six chapters\nof Shrimad Bhagavad Gita were\nptinted in thisbuilding\nThis dilapidated building,\nnow overrun by vegetation and\nplants has been recommended\nto be turned into a souvenir\nshop. If executed, the concrete\nsteel, roofing, doors, and win-\ndows will be demolished to ac-\ncommodate the new structure,\nThe other proposal at the\nAshram, where the band com-\nposed White Album, which in-\n\ncludes Dear Prudence and\nBlackbird, is to turn the Ved\nBhawan into a venue for un-\nplugged music. Constructed in\n1976, this Duiiding was used as a\nlecture hall and is currently a\npopular location inside thecam-\npus because of the famous graf-\nfiti of The Beatles. The structure\nhas corrosion, cracks between\nthe masonry wall and reinforced\nconcrete column, algae growth\nin walls and columns and\nSpalling of concrete. Currently,\nvisitorscannot enter the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.01639344262296,
+   "ocr_low_conf_share": 0.03981264637002342,
+   "headline": "Hello unplugged music, goodbye printing press - The Beatles ashram revamp",
+   "deck": "",
+   "byline": "ANCHOR; AISWARYARAJ; DEHRADUN, MARCH 22",
+   "text": "ACAFETERIA, a \"satvik\" kitchen, a tea pavilion, avenue for unplugged music, anexhibition on The Beatles in India, and a souvenir shop - these are some of the proposed upgrades to the Chaurasi Kutiya Swargashram, popularly known as The Beatles\n\nAshram, situated inside the Rajaji National Park in Uttarakhand's Rishikesh, The Indian Express has learnt. The consultancy firm HCP Design, Planning, and Management Private Limited, which was also behind the architect ure of the Central Vista and the Kashi Vishwanath corndor project, is learnt to have submitted a detailed project report(DPR)to the Uttarakhand goverment along with a final master plan report. These proposals feature inthese documents, which the government will look into before the tender is floated for execution. While the Tourism Department bears the consultancy cost, the Forest Department will execute the projectastheashram is situatedinthe tiger reserve. The Indian Express first reported about the planto revamp the ashram in October last year. The British band members George Harrison, Ringo Starr, Paul McCartney and John Lennon visited the ashram, at the time the home to Mahesh Yogi, in 1968. Chaurasi Kutiya\n\ngets its namefrom the84 meditation rooms - 42 on either side of a yoga centre. The complex has nearly 25 buildings, of which 12 will be revamped in the upcoming project. With a budgetofRs 84 crore, the conceptual estimate by the consultant has a detailed proposal of retrofitting, repairing, and rebuilding several structures, and thedemolitionof the iconic Printing Press. Constructed inthe early 1960s, this press was used to print literature on \"transcendental meditation\". The Science\n\nof Being and the Art of Lvingand Mahanishi Mahesh Yogi's commentary on the first six chapters of Shrimad Bhagavad Gita were ptinted in thisbuilding This dilapidated building, now overrun by vegetation and plants has been recommended to be turned into a souvenir shop. If executed, the concrete steel, roofing, doors, and windows will be demolished to accommodate the new structure, The other proposal at the Ashram, where the band composed White Album, which includes Dear Prudence and Blackbird, is to turn the Ved Bhawan into a venue for unplugged music. Constructed in 1976, this Duiiding was used as a lecture hall and is currently a popular location inside thecampus because of the famous graffiti of The Beatles. The structure has corrosion, cracks between the masonry wall and reinforced concrete column, algae growth in walls and columns and Spalling of concrete. Currently, visitorscannot enter the",
+   "n_words": 399,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.4,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

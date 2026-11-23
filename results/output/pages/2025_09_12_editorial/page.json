@@ -1,0 +1,464 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_12_editorial",
+ "source_file": "2025-09-12_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-12_editorial.png",
+ "date": "2025-09-12",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 0,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 461,
+  "mean_line_conf": 89.5148805284794,
+  "orphan_words": 351,
+  "body_words_total": 3348
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1473,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      771,
+      1089,
+      802
+     ],
+     [
+      433,
+      919,
+      1416,
+      962
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 92.88888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2190,
+      599,
+      3606,
+      778
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2410,
+      888,
+      3402,
+      1019
+     ]
+    ],
+    "body_boxes": [
+     [
+      2319,
+      2678,
+      2819,
+      3475
+     ],
+     [
+      2924,
+      1251,
+      3531,
+      3468
+     ]
+    ],
+    "layout_words": 430
+   },
+   "headline_raw": "A sense of drift",
+   "deck_raw": "Democracy seems overtaken once more,\nlike an exercise of agency to nowhere",
+   "body_raw": "Across Nepal, France, and\nthe US, there is one\nrecurring theme: Young\npeople feel robbed of their\nfuture. Yet, although\ndemocracies like India and\nthe US are often rightly\ndescribed as gerontocracies,\nit is unclear whether politics\ncan be organised along\ngenerational lines. Youth\nanger does not produce\nyouth consensus. It reflects\nshared anxiety about the\nfuture, not a shared\nprogramme for it.\n\nsive demands on the state. The former eroded\nthe discipline and sacrifice required for public\ngoods; the latter overloaded institutions with\ndemands they could not meet, making eco-\nnomic policymaking almost impossible. The\nsiiiking Claim was thatit was not inequality but\nexcessive political mobilisation that endan-\ngered democracy. Democracies did notmerely\nwaste or exhaust themselves; they collapsed\nunder the weight of their own expectations.\nToday, the consensusis different: Growing\ninequality fuels democratic disenchantment.\nDemocracies are finding it increasingly diffi-\ncult to build social coalitions that enableeffec-\ntive economic policies. Mass protestscan reg-\nister dissatisfaction, but forging a consensus\naround intelligent reform is far harder. Gabriel\nBoric\u2019s swift fall from optimism to plummeting\napproval in Chile illustrates this fragility.\nGlobally, we may be entering anewera of dual\npolarisation: Not only aclash of values but also\ndiametrically opposed economic visions. The\nLeft fears lack of public investment; the Right\nfears socialist excess, This polarisation extends\nbeyond policy into perceptions of the econ-\nomy itself. In the 1970s, the concerns were fa-\nmiliar \u2014 oil shocks, the scale of government\nspending, the reachof social programmes. But\ntoday\u2019s radical uncertainty is deeper: The\nfalling employment elasticity of capital raises\nthe possibility that even well-designed poli-\ncies cannot generate enough jobs.\nAcross Nepal, France, and the US, there is\none recurring theme: Young people feel\nrobbed of their future. Yet, although democra-\ncies like India and the US are often rightly de-\nscribed as gerontocracies, itis unclear whether\npolitics can be organised along generational\nlines. Youth anger doesnot produce youthicon-\nsensus. It reflects shared anxiety about the fu-\nture, nota shared programme for it.\nParticipation presents a further puzzle. Itis\ndifficult to argue that the current crisis of\ndemocracy stems from excessive participation\nin any conventional sense. It is not the\nSeventies\u2019 siyie social mobilisation that is over-\nloading institutions. There is one exception \u2014\nunless one counts social media. The radical de-\nmocratisation of the information order has be-\ncome a form of political participation in itself,\ndissolving authority and making the old con-\ncemaboutadversarial intellectuals casting sus-\nPicion on power seem almost quaint.\nCorruption is another persistent theme in\ndemocratic politics. It appears as both struc-\ntural corruption \u2014 entrenched elites monop-",
+   "ocr_conf": 89.54861111111111,
+   "ocr_low_conf_share": 0.05787037037037037,
+   "headline": "A sense of drift",
+   "deck": "Democracy seems overtaken once more, like an exercise of agency to nowhere",
+   "byline": "",
+   "text": "Across Nepal, France, and the US, there is one recurring theme: Young people feel robbed of their future. Yet, although democracies like India and the US are often rightly described as gerontocracies, it is unclear whether politics can be organised along generational lines. Youth anger does not produce youth consensus. It reflects shared anxiety about the future, not a shared programme for it.\n\nsive demands on the state. The former eroded the discipline and sacrifice required for public goods; the latter overloaded institutions with demands they could not meet, making economic policymaking almost impossible. The siiiking Claim was thatit was not inequality but excessive political mobilisation that endangered democracy. Democracies did notmerely waste or exhaust themselves; they collapsed under the weight of their own expectations. Today, the consensusis different: Growing inequality fuels democratic disenchantment. Democracies are finding it increasingly difficult to build social coalitions that enableeffective economic policies. Mass protestscan register dissatisfaction, but forging a consensus around intelligent reform is far harder. Gabriel Boric's swift fall from optimism to plummeting approval in Chile illustrates this fragility. Globally, we may be entering anewera of dual polarisation: Not only aclash of values but also diametrically opposed economic visions. The Left fears lack of public investment; the Right fears socialist excess, This polarisation extends beyond policy into perceptions of the economy itself. In the 1970s, the concerns were familiar - oil shocks, the scale of government spending, the reachof social programmes. But today's radical uncertainty is deeper: The falling employment elasticity of capital raises the possibility that even well-designed policies cannot generate enough jobs. Across Nepal, France, and the US, there is one recurring theme: Young people feel robbed of their future. Yet, although democracies like India and the US are often rightly described as gerontocracies, itis unclear whether politics can be organised along generational lines. Youth anger doesnot produce youthiconsensus. It reflects shared anxiety about the future, nota shared programme for it. Participation presents a further puzzle. Itis difficult to argue that the current crisis of democracy stems from excessive participation in any conventional sense. It is not the Seventies' siyie social mobilisation that is over-loading institutions. There is one exception - unless one counts social media. The radical democratisation of the information order has become a form of political participation in itself, dissolving authority and making the old concemaboutadversarial intellectuals casting sus-Picion on power seem almost quaint. Corruption is another persistent theme in democratic politics. It appears as both structural corruption - entrenched elites monop-",
+   "n_words": 414,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      333,
+      1090,
+      1521,
+      1184
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      1233,
+      1535,
+      2964
+     ]
+    ],
+    "layout_words": 481
+   },
+   "headline_raw": "A PRECARIOUS MOMENT",
+   "deck_raw": "",
+   "body_raw": "The present crisis offers a chance for long overdue stabilisation\nand reform in Nepal. It must not miss the opportunity\nHE IMPLOSION OF institutions does not automatically pave the way fora\ndemocratic transition or renewal \u2014 that\u2019s why the coming weeks are going\nto be critical for Nepal. Prime Minister KP Sharma Oli resigned earlier this\nweek after a ban on social media triggered widespread protests. For thou-\nsands of young Nepalis, online platforms are not only spaces for free expression but also\ncritical lifelines for professional and financial growth. Nepal has long wrestled with do-\nmesticturmoil. A decade-long civil war abolished the monarchy and kindled hopes of a\ncorruption-free Nepal. Yet since 2008, governments recycled the same set of leaders, and\nfailed to deliver stability or prosperity. Rule of law was ignored, constitutional bodies\nwere captured by political factions, and top leaders enjoyed immunity from corruption\nand other crimes. Even the investigative commissions envisioned in the 2006\nComprehensive Peace Accord were never taken seriously. The present crisis offers achance\nfor long overdue stabilisation and reform.\nThe constitution of Nepal has no clear provision for an interim prime minister whois\nnot a member of parliament, which is, technically, still not dissolved. The youth leaders\nare reportedly looking for a way out of thiscrisis. They have made it clearthat their protest\nisnot against the constitution, but against the incumbent political dass. The greatest chal-\nlenge that Gen-Z faces is, arguably, the lack of a coherent agenda. A dozen representatives\nhave met the army chiefbut divisions are already visible \u2014 some back former Chief Justice\nSushila Karki as interim prime minister, others have reportedly put forward the name of\nKulman Ghising, former head of the Nepal Electricity Authority, Tocarry themovement for-\nward, all factions must agree on a clear path to elections and ensure they are conducted\nfreely and fairly. The young protesters need to present a united front, even though their\ndemands might be different,and secure meaningful representation in the political process.\nThe dangers of failure hardly need detailing. In neighbouring Bangladesh, a student-\nled movement was taken over by the entrenched political class. Hopefully, Nepal will\nmanage to avoid that trajectory. Former Prime Minister Pushpa Kamal Dahal \u201cPrachanda\u201d\nhas already issued a statement of solidarity, urging restraint and an independent judi-\ncial inquiry into the violence. Political parties that have lost the trust of the youth must\nnot obstruct the transition; if they choose to participate, they should do so by consulting\nthe younger leaders at every stage. In the interim, the priority should be not only elections\nbut also the urgent revival of law and order, aided by the army. Arson, vandalism, and\nlooting have spread fear among citizens, and escaped inmates are likely to exploit the\nprevailing chaos. Rogue elements must not be allowed to hijack the Gen-Z movement,\neven as all efforts are made to restore state authority.",
+   "ocr_conf": 92.28898128898129,
+   "ocr_low_conf_share": 0.031185031185031187,
+   "headline": "A PRECARIOUS MOMENT",
+   "deck": "",
+   "byline": "",
+   "text": "The present crisis offers a chance for long overdue stabilisation and reform in Nepal. It must not miss the opportunity HE IMPLOSION OF institutions does not automatically pave the way fora democratic transition or renewal - that's why the coming weeks are going to be critical for Nepal. Prime Minister KP Sharma Oli resigned earlier this week after a ban on social media triggered widespread protests. For thou-sands of young Nepalis, online platforms are not only spaces for free expression but also critical lifelines for professional and financial growth. Nepal has long wrestled with domesticturmoil. A decade-long civil war abolished the monarchy and kindled hopes of a corruption-free Nepal. Yet since 2008, governments recycled the same set of leaders, and failed to deliver stability or prosperity. Rule of law was ignored, constitutional bodies were captured by political factions, and top leaders enjoyed immunity from corruption and other crimes. Even the investigative commissions envisioned in the 2006 Comprehensive Peace Accord were never taken seriously. The present crisis offers achance for long overdue stabilisation and reform. The constitution of Nepal has no clear provision for an interim prime minister whois not a member of parliament, which is, technically, still not dissolved. The youth leaders are reportedly looking for a way out of thiscrisis. They have made it clearthat their protest isnot against the constitution, but against the incumbent political dass. The greatest challenge that Gen-Z faces is, arguably, the lack of a coherent agenda. A dozen representatives have met the army chiefbut divisions are already visible - some back former Chief Justice Sushila Karki as interim prime minister, others have reportedly put forward the name of Kulman Ghising, former head of the Nepal Electricity Authority, Tocarry themovement forward, all factions must agree on a clear path to elections and ensure they are conducted freely and fairly. The young protesters need to present a united front, even though their demands might be different,and secure meaningful representation in the political process. The dangers of failure hardly need detailing. In neighbouring Bangladesh, a studentled movement was taken over by the entrenched political class. Hopefully, Nepal will manage to avoid that trajectory. Former Prime Minister Pushpa Kamal Dahal \"Prachanda\" has already issued a statement of solidarity, urging restraint and an independent judicial inquiry into the violence. Political parties that have lost the trust of the youth must not obstruct the transition; if they choose to participate, they should do so by consulting the younger leaders at every stage. In the interim, the priority should be not only elections but also the urgent revival of law and order, aided by the army. Arson, vandalism, and looting have spread fear among citizens, and escaped inmates are likely to exploit the prevailing chaos. Rogue elements must not be allowed to hijack the Gen-Z movement, even as all efforts are made to restore state authority.",
+   "n_words": 475,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1622,
+      1118,
+      2200,
+      1215
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      1250,
+      2230,
+      3467
+     ],
+     [
+      1622,
+      3931,
+      1995,
+      3974
+     ],
+     [
+      1616,
+      4027,
+      2225,
+      5331
+     ]
+    ],
+    "layout_words": 579
+   },
+   "headline_raw": "PRATAP BHANU MEHTA",
+   "deck_raw": "",
+   "body_raw": "THE POLITICAL CRISES across the world this\nweek may appear as disparate events, shaped\nbynational histories and local politics. Yet there\nare striking commonalities. Consider three cur-\nrentcrises. Nepal, Franceand the United States\ncouldnotbemore different Nepal's weakly in-\nStitutionalised democracy, born of the people's\nmovement of 2006, has ended in deep disap-\npointment: Corruption, economic stagnation\nand a pervasive sense among the young that\ntheir future has been stolen. French democ-\nracy has long been anomalous \u2014 governed\nlargely by presidential decree, punctuated by\nviolentstreet protests, and sustained by aneco-\nnomic model thatis unsustainable In the US,\nthe assassination of Charlie Kirkis a grim re-\nminder offising political violence. The county\nseems closer to civil war than atany timeinre-\ncent memory, and it is uncertain whether its\nchosen economic path can address its crisis of\ngovemability. Even more stable democracies,\nlikeIndiaand the United Kingdom, face storms\ngathering on the horizon.\nNormatively, there is no alternative to\ndemocracy; it must be reinvigorated.\nAuthoritarian regimes have their own gover-\nnance crises, and the sheer momentum of in-\nstitutions maystill carry democracies through.\nYet the fear that John Adams once expressed\n\u2014 that \u201cdemocracy never lasts long; it soon\nwastes, exhausts, and murders itself\u2019 \u2014seems\napt once again. Democracies appear to follow\nacycle: After 40 to 50 years of expansion, a\nphase of exhaustion inevitably sets in.\nThe last global crises of confidence in\ndemocracy came in the 1920s and 1930s, wh-\nen many believed parliamentary government\nwas doomed, and again in the late 1960s and\n1970s. That era culminated in the Trilateral\nCommission's 1975 report on The Crisis of\nDemocracy, authored by Samuel Huntington,\nMichel Crozier, and Joji Watanuki. There port\u2019s\ndiagnosis was conservative and geographi-\ncally narrow, butits omissions and insights re-\nmain instructive.\nThe malaise of democracy, it argued, was\ninternal: A product of democratic excess.\nDemocracy nurtured an adversarial intellectu-\nalism so suspicious of authority that it under-\nmined democracyitself. The decline of elite co-\nhesion weakened mediationandcompromise.\nThe clash of incompatible values, politicised in\nthe cultural upheavals of the late 1960s, made\npolarisation inevitable. Democracies, the re-\nport claimed, suffered from bothexcessive pre-\noccupation with private satisfaction and exces-\n\nKAMINI WALIA\n\nINDIA FACES A dual burden: While under-nu-\ntrition persists, obesity is escalating rapidly. A\nlarge portion of the population is also meta-\nbolically unhealthy even without high BMI,\nsilently increasing the risk of diabetes, heart\ndisease, fatty liver, and more.\nIndia\u2019s anti-obesity market has long been\ndominated by naturopathy, Ayurveda, yoga\nand nutrition. In 2022, semaglutide(Ozempic,\nWegovy, Rybelsus), one specific drug in the\nclass of GLP-1 receptor antagonists, was ap-\nproved in India to treat diabetes. This drug, in-\ncidentally, also slowed digestion down, helping\npatients feel full forlonger. The drug was picked\nup by the elite weight-loss industry. Medically\nsupervised weight-loss centres now offer\nsemaglutide injections as partof weight-man-\nagement regimens, often alongside tailored\ndiet and exercise plans.\nThe global weight-loss drug market is pro-\njected toreach $100billion by decades\u2019 end. In\nIndia, the anti-obesity drug market touchedRs\n600 crore in June 2025, a five-fold rise in five\nyears, with GLP-1 drugs making up around75\npercent of that share. Demand is expected to\nrise steeply after the 2026 patent expiry, when\naffordable generics are likely to enter.\nUsers of these drugs see phenomenal im-\nprovement in their health indicators, both in-\ntended and unintended. The positive health\neffects include weight loss, improved blood\nsugar control, reduced risk of cardiovascular\nevents, kidney protection and improved fat",
+   "ocr_conf": 88.41968911917098,
+   "ocr_low_conf_share": 0.07426597582037997,
+   "headline": "PRATAP BHANU MEHTA",
+   "deck": "",
+   "byline": "KAMINI WALIA",
+   "text": "THE POLITICAL CRISES across the world this week may appear as disparate events, shaped bynational histories and local politics. Yet there are striking commonalities. Consider three currentcrises. Nepal, Franceand the United States couldnotbemore different Nepal's weakly in-Stitutionalised democracy, born of the people's movement of 2006, has ended in deep disappointment: Corruption, economic stagnation and a pervasive sense among the young that their future has been stolen. French democracy has long been anomalous - governed largely by presidential decree, punctuated by violentstreet protests, and sustained by aneconomic model thatis unsustainable In the US, the assassination of Charlie Kirkis a grim reminder offising political violence. The county seems closer to civil war than atany timeinrecent memory, and it is uncertain whether its chosen economic path can address its crisis of govemability. Even more stable democracies, likeIndiaand the United Kingdom, face storms gathering on the horizon. Normatively, there is no alternative to democracy; it must be reinvigorated. Authoritarian regimes have their own governance crises, and the sheer momentum of institutions maystill carry democracies through. Yet the fear that John Adams once expressed - that \"democracy never lasts long; it soon wastes, exhausts, and murders itself' - seems apt once again. Democracies appear to follow acycle: After 40 to 50 years of expansion, a phase of exhaustion inevitably sets in. The last global crises of confidence in democracy came in the 1920s and 1930s, when many believed parliamentary government was doomed, and again in the late 1960s and 1970s. That era culminated in the Trilateral Commission's 1975 report on The Crisis of Democracy, authored by Samuel Huntington, Michel Crozier, and Joji Watanuki. There port's diagnosis was conservative and geographically narrow, butits omissions and insights remain instructive. The malaise of democracy, it argued, was internal: A product of democratic excess. Democracy nurtured an adversarial intellectualism so suspicious of authority that it undermined democracyitself. The decline of elite cohesion weakened mediationandcompromise. The clash of incompatible values, politicised in the cultural upheavals of the late 1960s, made polarisation inevitable. Democracies, the report claimed, suffered from bothexcessive preoccupation with private satisfaction and exces-\n\nINDIA FACES A dual burden: While under-nutrition persists, obesity is escalating rapidly. A large portion of the population is also meta-bolically unhealthy even without high BMI, silently increasing the risk of diabetes, heart disease, fatty liver, and more. India's anti-obesity market has long been dominated by naturopathy, Ayurveda, yoga and nutrition. In 2022, semaglutide(Ozempic, Wegovy, Rybelsus), one specific drug in the class of GLP-1 receptor antagonists, was approved in India to treat diabetes. This drug, incidentally, also slowed digestion down, helping patients feel full forlonger. The drug was picked up by the elite weight-loss industry. Medically supervised weight-loss centres now offer semaglutide injections as partof weight-management regimens, often alongside tailored diet and exercise plans. The global weight-loss drug market is projected toreach $100billion by decades' end. In India, the anti-obesity drug market touchedRs 600 crore in June 2025, a five-fold rise in five years, with GLP-1 drugs making up around75 percent of that share. Demand is expected to rise steeply after the 2026 patent expiry, when affordable generics are likely to enter. Users of these drugs see phenomenal improvement in their health indicators, both intended and unintended. The positive health effects include weight loss, improved blood sugar control, reduced risk of cardiovascular events, kidney protection and improved fat",
+   "n_words": 553,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      1252,
+      4183,
+      3350
+     ]
+    ],
+    "layout_words": 343,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "olising power \u2014and transactional corruption,\nvisible in the lavish lifestyles of politicians.\nStrikingly, anti-corruption, more than eco-\nnomic reform, hasbeen the engine of political\nchange across much of the world.\nYet twa sobering facts stand out: Anti-cor-\nruption movements rarely eliminate corrup-\ntion, and more often than not, they license au-\nthoritarian turns, It is staggering how much\nthe rhetoric of anti-corruption serves author-\nitarian ends. Corruption matters deeply, as\nNepal's stunning levels of rentextraction show.\nBut the old adage still applies: The structure of\ncorruption matters more than its incidence.\nAnti-corruption can devour democracy as\nmuch as corruption itself.\nThe Trilateral Commissiondownplayed an-\nother source of disenchantment: War. In the\nUS, the Vietnam war corroded authority; inthe\n2000s, the Iraq war undermined liberal legit-\nimacy. Nothing corrodes democracy more\nthan lies about war. Today, Gaza may quietly\nplaya similar role in deepening cynicism, par-\nticularlyin the West.\nOur present moment, then, is marked by\nparadox. Thereis an explosion of youthful en-\nergy and even pockets of idealism. Yet every\ncause that inspires them \u2014 from jobs to anti-\ncorruption \u2014 seems to turn into its opposite,\nbreeding disillusion. No wonder the shadow\nof nihilism haunts democracy more deeply\nnow than inearlier crises.\nAndisnihilismdestiny? Democracies have\nadapted in the past. If the 1920s and 1970s\nteach anything, itis that moments of exhaus-\ntion can give way to reinvention. The same\nSamuel Huntington was writing about a Third\nWave of Democratisation shortly after his pes-\nsimistic diagnosis, But the crisis of the 1930s\nwas ultimately overcome by World War Il\nmore than anything else.\nThechallenge is toturn sharedanxietyinto\ndurable institutional solutions rather than just\nfleeting protest, and to imagine economic fu-\ntures not defined by scarcity of work or zero-\nsum polarisation. This is about the only ques-\ntion differentdemocracies of the world are not\ndiscussing with the degree of seriousness and\nconsensus-building required to carry any pro-\ngramme through. Theexhilarationof protest is\nso easily foreshadowed, not just by violence,\nbut a sense of drift. Democracy seems like an\nexercise of agency to nowhere,",
+   "ocr_conf": 91.56268221574344,
+   "ocr_low_conf_share": 0.03498542274052478,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "olising power - and transactional corruption, visible in the lavish lifestyles of politicians. Strikingly, anti-corruption, more than economic reform, hasbeen the engine of political change across much of the world. Yet twa sobering facts stand out: Anti-corruption movements rarely eliminate corruption, and more often than not, they license authoritarian turns, It is staggering how much the rhetoric of anti-corruption serves authoritarian ends. Corruption matters deeply, as Nepal's stunning levels of rentextraction show. But the old adage still applies: The structure of corruption matters more than its incidence. Anti-corruption can devour democracy as much as corruption itself. The Trilateral Commissiondownplayed another source of disenchantment: War. In the US, the Vietnam war corroded authority; inthe 2000s, the Iraq war undermined liberal legitimacy. Nothing corrodes democracy more than lies about war. Today, Gaza may quietly playa similar role in deepening cynicism, particularlyin the West. Our present moment, then, is marked by paradox. Thereis an explosion of youthful energy and even pockets of idealism. Yet every cause that inspires them - from jobs to anti-corruption - seems to turn into its opposite, breeding disillusion. No wonder the shadow of nihilism haunts democracy more deeply now than inearlier crises. Andisnihilismdestiny? Democracies have adapted in the past. If the 1920s and 1970s teach anything, itis that moments of exhaustion can give way to reinvention. The same Samuel Huntington was writing about a Third Wave of Democratisation shortly after his pessimistic diagnosis, But the crisis of the 1930s was ultimately overcome by World War Il more than anything else. Thechallenge is toturn sharedanxietyinto durable institutional solutions rather than just fleeting protest, and to imagine economic futures not defined by scarcity of work or zerosum polarisation. This is about the only question differentdemocracies of the world are not discussing with the degree of seriousness and consensus-building required to carry any programme through. Theexhilarationof protest is so easily foreshadowed, not just by violence, but a sense of drift. Democracy seems like an exercise of agency to nowhere,",
+   "n_words": 328,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      562,
+      3101,
+      1285,
+      3185
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3230,
+      1530,
+      4771
+     ]
+    ],
+    "layout_words": 436
+   },
+   "headline_raw": "DIVIDED STATES",
+   "deck_raw": "",
+   "body_raw": "Assassination of Charlie Kirk frames a grim crisis. It will take\nmature leadership to tide over it\nHE ASSASSINATION OF 31-year-old Charlie Kirk \u2014 Donald Trump's ally and\na person with a vast and growing following among conservative youth in\nthe US \u2014isaninflexion point. Itmarksa rupture,an attack on America's body\npolitic, the consequences of which will be felt over the coming weeks and\nmonths. At the same time, Kirk\u2019s murder by a sniper on a university campus is part of a\nbroader story of a shrinking of the middle ground and space for dialogue, and the increas-\ning coarseness, even abuse, in public conversations, Kirk's death can lead the US further\ndown this dangerous path. It will take mature leadership and statesmanship on both\nsides of the political divide to prevent such a spiralling, and bring people together.\nKirk was one of the moving forces behind Turning Point USA, a conservative youth\norganisation, which he co-founded in 2012. His popularity on campus and social media\nis arguably a backlash against the threat, real and imagined, of \u201ccancel culture\u201d in the\nAmerican university. Part of Kirk's appeal was that he wasn't merely an armchair warrior\nputting out reels and TikToks. Rather, he engaged with his detractorson campus, through\ntours that covered much of the country. His ideas were controversial and divisive. To\nmany, he seemed to target the weak with his rhetorical flourish. The pathology of the\ncurrent moment in America, in its most extreme form, is symbolised by his murder.\nBecause in acountry knownto be the strongest champion of the democratic right to free\nspeech, words must be met with words, not violence.\nSince the January 6 Capitol Hill attack in 2021, there has been a growing sense of\nchaos, a seeming acceptance of violence among sections of US society and polity.\nBefore Kirk's murder, the killing of Ukrainian refugee, Iryna Zarutska, on a metro train\nin North Carolina, reportedly by a mentally ill assailant, invited a political reaction\nfrom President Donald Trump. In Zarutska\u2019's death, he said Democrats \u201chave blood on\ntheir hands\u201d. After Kirk's assassination, Trump blamed the \u201cradical left\u201d for \u201cdemon-\nising\u201d those who disagree with their point of view. On social media, many posted\nabout Kirk's support of guns after his death. Others have expressed fears of copycat\ncrimes. A divided society cannot heal overnight. But there is a way forward through\nconversation and, more importantly, listening. For that to happen, the US needs its\ncurrent leadership on both sides of the aisle to step up and for a new one thatis up to\nthe challenge in the long run to emerge.",
+   "ocr_conf": 93.35550458715596,
+   "ocr_low_conf_share": 0.016055045871559634,
+   "headline": "DIVIDED STATES",
+   "deck": "",
+   "byline": "",
+   "text": "Assassination of Charlie Kirk frames a grim crisis. It will take mature leadership to tide over it HE ASSASSINATION OF 31-year-old Charlie Kirk - Donald Trump's ally and a person with a vast and growing following among conservative youth in the US - isaninflexion point. Itmarksa rupture,an attack on America's body politic, the consequences of which will be felt over the coming weeks and months. At the same time, Kirk's murder by a sniper on a university campus is part of a broader story of a shrinking of the middle ground and space for dialogue, and the increasing coarseness, even abuse, in public conversations, Kirk's death can lead the US further down this dangerous path. It will take mature leadership and statesmanship on both sides of the political divide to prevent such a spiralling, and bring people together. Kirk was one of the moving forces behind Turning Point USA, a conservative youth organisation, which he co-founded in 2012. His popularity on campus and social media is arguably a backlash against the threat, real and imagined, of \"cancel culture\" in the American university. Part of Kirk's appeal was that he wasn't merely an armchair warrior putting out reels and TikToks. Rather, he engaged with his detractorson campus, through tours that covered much of the country. His ideas were controversial and divisive. To many, he seemed to target the weak with his rhetorical flourish. The pathology of the current moment in America, in its most extreme form, is symbolised by his murder. Because in acountry knownto be the strongest champion of the democratic right to free speech, words must be met with words, not violence. Since the January 6 Capitol Hill attack in 2021, there has been a growing sense of chaos, a seeming acceptance of violence among sections of US society and polity. Before Kirk's murder, the killing of Ukrainian refugee, Iryna Zarutska, on a metro train in North Carolina, reportedly by a mentally ill assailant, invited a political reaction from President Donald Trump. In Zarutska''s death, he said Democrats \"have blood on their hands\". After Kirk's assassination, Trump blamed the \"radical left\" for \"demon-ising\" those who disagree with their point of view. On social media, many posted about Kirk's support of guns after his death. Others have expressed fears of copycat crimes. A divided society cannot heal overnight. But there is a way forward through conversation and, more importantly, listening. For that to happen, the US needs its current leadership on both sides of the aisle to step up and for a new one thatis up to the challenge in the long run to emerge.",
+   "n_words": 435,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3734,
+      3395,
+      4178,
+      3469
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is contributing editor,\nThe Indian Express",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is contributing editor, The Indian Express",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2271,
+      3629,
+      3178,
+      3736
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2266,
+      3801,
+      3892,
+      3862
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4592,
+      2828,
+      5339
+     ],
+     [
+      2921,
+      4028,
+      3529,
+      5332
+     ],
+     [
+      3572,
+      4028,
+      4178,
+      5214
+     ],
+     [
+      3768,
+      5258,
+      4179,
+      5332
+     ],
+     [
+      3572,
+      5575,
+      4177,
+      5848
+     ],
+     [
+      3571,
+      5896,
+      4012,
+      5939
+     ],
+     [
+      3567,
+      5973,
+      4176,
+      6167
+     ]
+    ],
+    "layout_words": 553
+   },
+   "headline_raw": "No MaaIc PILL",
+   "deck_raw": "As GLP-1 drugs reshape obesity care, they could also increase disparities",
+   "body_raw": "In India, weak enforcement\nmay lead to OTC misuse,\nunsafe online sourcing, and\nunmonitored use. High cost\nof the drug and shifting\ngovernment resources from\nprevention programmes may\nheighten the divide between\nthe elite and the poor. Urban\nwealthy classes may access\nsemaglutide for weight loss,\nwhile rural/low-income\npopulations remain under-\nserved in basic diabetes and\nobesity care.\n\nliver content and inflammation markers.\nImproved insulin sensitivity, weight loss, and\nandrogen levels were helpful in restoring reg-\nular menstrual cycles and improved ovulation\nrates in women with polycystic ovary syn-\ndrome. Emerging studies suggest GLP-1 drugs\nmay also improve fertility outcomes when\ncombined with lifestyle interventions.\nBut as with most drugs, this also has side\neffects: Fallouts associated with semaglutide\nuseare loss of appetite, nausea, vomiting, diar-\nrhoea, constipation, abdominal pain. Serious\nside effects include gallbladder diseases, pan-\ncreatitis, kidney issues and hypoglycemia.\nThyroid tumours, muscle and lean-mass loss,\npsychological effects and rebound weight gain\nare other serious concerns still under research.\nRapid weight loss may reduce not just fat but\nalsolean-muscle mass, worsening sarcopenia\nin olderadults and leadingto increased frailty.\nFrom an economic perspective, weight loss\nwithsemaglutide costs around Rs 2,00,000 per\nyear for 12-15 kg loss, thatis Rs 13,000-16,000\nper kg lost and includes strong metabolic; car-\ndiac benefits. Diet and structured exercise, on\nthe other hand, costs around Rs 40,000 peryear\nfor 6-8 kg loss, that is Rs 5,000-6,500 per kg\nlost, and improves long-term habits.\nWalking/yoga incurs minimal cost, almostfree\nfor alossof2-5 kg.\nIndia currently imports a large number of\nsemagiutide formulations Although semaglu-\ntide gives quick results at an individual level,\n\npushing this drug as a first-line intervention\nMay see resources shifting away from cost-ef-\nfective initiatives such as public-health cam-\npaignswith emphasis on diet, exercise and pre-\nventive health, nutrition programmes, and\ndiabetes prevention programmes. Over-focus\nonexpensive branded GLP-1 drugscould also\ncrowd out traditional, cheaper options.\nIn India, weak enforcement may lead to\nOTC misuse, unsafe online sourcing, and un-\nmonitored use. High cost of the drug and shift-\ning government resources from prevention\nprogrammes may heighten the divide be-\ntween the elite and the poor. Urban wealthy\nClasses may access semagiutide for weighitioss,\nwhile rural/low-income populations remain\nunder-served in basic diabetes and obesity\ncare, This would also bring about a shift from\nweight control being seen asa lifestyle/behav-\nioural issue to a drug-dependent condition,\ndiscouraging community-based prevention\nstrategies such as healthy diets.\nGoing forward, semaglutide should be\nused selectively in obese patients with dia-\nbetes/CVD risk, or those failing lifestyle thera-\npies. The drug must be integrated in public-\nhealth prevention programmes. To ensure\nequity, it should also be brought under price\ncontrol to make it affordable after the patent\nexpiry in 2026.\n\nThe writer is senior scientistand\nprogramme officer, AMR, ICMR\n\nKhas, killing two and injuring 13 others. One\nof the injuredisin aserious condition. The DIC\nbus apparently went out of control as it ap-\nproached the bus stop at the Green Park\nchurch, said South Delhi police chief Maxwell\nPereira. It ran right on to the horrified group\nof waiting passengers.\n\nFAKE BAIL ORDERS\n\nTHECHIEF JUSTICE of the Supreme Courtis un-\nderstood to have taken seriously the unearthing\nof a gang in Bihar that aided undertrials in-\nvolved in heinous crimes to get out of jail on\nforged bail orders of the Supreme Court",
+   "ocr_conf": 91.05978260869566,
+   "ocr_low_conf_share": 0.03985507246376811,
+   "headline": "No MaaIc PILL",
+   "deck": "As GLP-1 drugs reshape obesity care, they could also increase disparities",
+   "byline": "",
+   "text": "In India, weak enforcement may lead to OTC misuse, unsafe online sourcing, and unmonitored use. High cost of the drug and shifting government resources from prevention programmes may heighten the divide between the elite and the poor. Urban wealthy classes may access semaglutide for weight loss, while rural/low-income populations remain under-served in basic diabetes and obesity care.\n\nliver content and inflammation markers. Improved insulin sensitivity, weight loss, and androgen levels were helpful in restoring regular menstrual cycles and improved ovulation rates in women with polycystic ovary syndrome. Emerging studies suggest GLP-1 drugs may also improve fertility outcomes when combined with lifestyle interventions. But as with most drugs, this also has side effects: Fallouts associated with semaglutide useare loss of appetite, nausea, vomiting, diarrhoea, constipation, abdominal pain. Serious side effects include gallbladder diseases, pancreatitis, kidney issues and hypoglycemia. Thyroid tumours, muscle and lean-mass loss, psychological effects and rebound weight gain are other serious concerns still under research. Rapid weight loss may reduce not just fat but alsolean-muscle mass, worsening sarcopenia in olderadults and leadingto increased frailty. From an economic perspective, weight loss withsemaglutide costs around Rs 2,00,000 per year for 12-15 kg loss, thatis Rs 13,000-16,000 per kg lost and includes strong metabolic; cardiac benefits. Diet and structured exercise, on the other hand, costs around Rs 40,000 peryear for 6-8 kg loss, that is Rs 5,000-6,500 per kg lost, and improves long-term habits. Walking/yoga incurs minimal cost, almostfree for alossof2-5 kg. India currently imports a large number of semagiutide formulations Although semaglutide gives quick results at an individual level,\n\npushing this drug as a first-line intervention May see resources shifting away from cost-effective initiatives such as public-health campaignswith emphasis on diet, exercise and preventive health, nutrition programmes, and diabetes prevention programmes. Over-focus onexpensive branded GLP-1 drugscould also crowd out traditional, cheaper options. In India, weak enforcement may lead to OTC misuse, unsafe online sourcing, and unmonitored use. High cost of the drug and shifting government resources from prevention programmes may heighten the divide between the elite and the poor. Urban wealthy Classes may access semagiutide for weighitioss, while rural/low-income populations remain under-served in basic diabetes and obesity care, This would also bring about a shift from weight control being seen asa lifestyle/behavioural issue to a drug-dependent condition, discouraging community-based prevention strategies such as healthy diets. Going forward, semaglutide should be used selectively in obese patients with diabetes/CVD risk, or those failing lifestyle therapies. The drug must be integrated in public-health prevention programmes. To ensure equity, it should also be brought under price control to make it affordable after the patent expiry in 2026.\n\nThe writer is senior scientistand programme officer, AMR, ICMR\n\nKhas, killing two and injuring 13 others. One of the injuredisin aserious condition. The DIC bus apparently went out of control as it approached the bus stop at the Green Park church, said South Delhi police chief Maxwell Pereira. It ran right on to the horrified group of waiting passengers.\n\nFAKE BAIL ORDERS\n\nTHECHIEF JUSTICE of the Supreme Courtis understood to have taken seriously the unearthing of a gang in Bihar that aided undertrials involved in heinous crimes to get out of jail on forged bail orders of the Supreme Court",
+   "n_words": 532,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      375,
+      4910,
+      1474,
+      4994
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5040,
+      1530,
+      6168
+     ]
+    ],
+    "layout_words": 319
+   },
+   "headline_raw": "SATURN\u2019S SILENT BALLET",
+   "deck_raw": "",
+   "body_raw": "Inits luminosity through this month,\nlessons in wonder and humility\nTIS Aworld of extremes: A giant ball large enough to hold 760 Earths, orbited by\nover 274 moons, including Titan, a hazy, complex satellite with methane lakes\n] and possibly a subterranean ocean. From its supersonic winds to the mysterious\nhexagon storm at its north pole, from its long seasons \u2014 Saturn is much farther\nfrom the Sun, so the time it takes to complete one solar orbit is about 29 Earth years \u2014to\nits rings of ice and rock, Saturn's ancient rhythms have evoked wonder in those who have\ncared to seek out its mysteries. Now, through September, the planet will lend itself toa\nmore intimate observation as it moves closer to Earth, reaching opposition \u2014 when Earth\nsits directly between Saturn and the sun \u2014 on September 21.\nThis moment of cosmic alignment brings with it another rarity: The phenomenon of\n\u201cring crossing\u201d, when Satum\u2019s majestic rings appear to vanish, reduced to a spectral blade\nof light in another fascinating display of orbital mechanics that occurs every 15 years\nwhen Saturn reaches equinox. Scientists have urged people to look up atthe night sky to\nappreciate in that narrowing the possibility of recognising something larger than the self\n\u2014a sense of scale, of silence, and of belonging to achoreography far older thanmemory.\nIn apolarised world, diminished by conflicts, natural disasters and the slowbum of hate,\nthere is meaning to that invitation. The silent ballet of distant Saturn offers a counter-\npoise that feelsrevolutionary in the ceaseless noise and bluster of daily life. Inthe enigma\nof its asymmetric magnetic field, the spectacle of its vanishing rings, there is a lesson:\nThat at its most distilled, wonder is a quiet act of resistance against cynicism, that beauty\nexists beyond human understanding. It reconnects humanity to humility, to curiosity\nand to the fragile privilege of being alive on a pale blue dot.",
+   "ocr_conf": 90.8125,
+   "ocr_low_conf_share": 0.040625,
+   "headline": "SATURN'S SILENT BALLET",
+   "deck": "",
+   "byline": "",
+   "text": "Inits luminosity through this month, lessons in wonder and humility TIS Aworld of extremes: A giant ball large enough to hold 760 Earths, orbited by over 274 moons, including Titan, a hazy, complex satellite with methane lakes ] and possibly a subterranean ocean. From its supersonic winds to the mysterious hexagon storm at its north pole, from its long seasons - Saturn is much farther from the Sun, so the time it takes to complete one solar orbit is about 29 Earth years - to its rings of ice and rock, Saturn's ancient rhythms have evoked wonder in those who have cared to seek out its mysteries. Now, through September, the planet will lend itself toa more intimate observation as it moves closer to Earth, reaching opposition - when Earth sits directly between Saturn and the sun - on September 21. This moment of cosmic alignment brings with it another rarity: The phenomenon of \"ring crossing\", when Satum's majestic rings appear to vanish, reduced to a spectral blade of light in another fascinating display of orbital mechanics that occurs every 15 years when Saturn reaches equinox. Scientists have urged people to look up atthe night sky to appreciate in that narrowing the possibility of recognising something larger than the self - a sense of scale, of silence, and of belonging to achoreography far older thanmemory. In apolarised world, diminished by conflicts, natural disasters and the slowbum of hate, there is meaning to that invitation. The silent ballet of distant Saturn offers a counterpoise that feelsrevolutionary in the ceaseless noise and bluster of daily life. Inthe enigma of its asymmetric magnetic field, the spectacle of its vanishing rings, there is a lesson: That at its most distilled, wonder is a quiet act of resistance against cynicism, that beauty exists beyond human understanding. It reconnects humanity to humility, to curiosity and to the fragile privilege of being alive on a pale blue dot.",
+   "n_words": 321,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      5421,
+      3632,
+      5531
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      5572,
+      2724,
+      5616
+     ]
+    ],
+    "body_boxes": [
+     [
+      2268,
+      5655,
+      2876,
+      6165
+     ],
+     [
+      2921,
+      5573,
+      3471,
+      5616
+     ],
+     [
+      2920,
+      5656,
+      3525,
+      6000
+     ]
+    ],
+    "layout_words": 152
+   },
+   "headline_raw": "SEPTEMBER 12, 1985, Forty YEARS AGO",
+   "deck_raw": "AKALI MANIFESTO",
+   "body_raw": "RELEASE OF ALL innocent youths detained in\njails and a judicial inquiry into all killings in\nPunjab are among the \u201cimmediate tasks\u201d the\nAkali Dal (L) would undertakeaftercoming to\npower in Punjab, according tothe party's elec-\ntion manifesto made public by Balwant Singh,\nthe former finance minister. It also promise\nthe rehabilitation of released youths, financial\nand other assistance to the dependents of\nthose killed in \u201cfalse encounters,\u201d pension to\ndependents of those killed in the Akali agita-\ntion, and measures to restore peace and nor-\nmalcy in the state.\n\nTwo INDIANS MISSING\n\nTWO INDIANS WERE reported missing as the\nBirmingham riots, which have daimed four\nlives and resulted in extensive property dam-\nage, continued for the third straight day de-\nspite massive police presence, India\u2019s assis-\ntant high commissioner, O P Gupta, told UNI\naftera surveyof the affected areas that the two\nIndians were missing and the police have\nmounted a search.",
+   "ocr_conf": 89.16993464052288,
+   "ocr_low_conf_share": 0.05228758169934641,
+   "headline": "SEPTEMBER 12, 1985, Forty YEARS AGO",
+   "deck": "AKALI MANIFESTO",
+   "byline": "Two INDIANS MISSING",
+   "text": "RELEASE OF ALL innocent youths detained in jails and a judicial inquiry into all killings in Punjab are among the \"immediate tasks\" the Akali Dal (L) would undertakeaftercoming to power in Punjab, according tothe party's election manifesto made public by Balwant Singh, the former finance minister. It also promise the rehabilitation of released youths, financial and other assistance to the dependents of those killed in \"false encounters,\" pension to dependents of those killed in the Akali agitation, and measures to restore peace and normalcy in the state.\n\nTWO INDIANS WERE reported missing as the Birmingham riots, which have daimed four lives and resulted in extensive property damage, continued for the third straight day despite massive police presence, India's assistant high commissioner, O P Gupta, told UNI aftera surveyof the affected areas that the two Indians were missing and the police have mounted a search.",
+   "n_words": 144,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 22.8,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,775 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_04_editorial",
+ "source_file": "2025-06-04_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-04_editorial.png",
+ "date": "2025-06-04",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 436,
+  "mean_line_conf": 89.91993424740997,
+  "orphan_words": 350,
+  "body_words_total": 3171
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      375,
+      605,
+      1475,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      618,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      763,
+      771,
+      1091,
+      802
+     ],
+     [
+      437,
+      918,
+      951,
+      960
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "t\u201d FOUNDED By &\n\nBECAUSE THE TRUTH",
+   "ocr_conf": 72.85714285714286,
+   "ocr_low_conf_share": 0.2857142857142857,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2081,
+      593,
+      4002,
+      818
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2240,
+      917,
+      3571,
+      1049
+     ]
+    ],
+    "body_boxes": [
+     [
+      2321,
+      2787,
+      2805,
+      3434
+     ],
+     [
+      2926,
+      1371,
+      3531,
+      1563
+     ],
+     [
+      3573,
+      1372,
+      4182,
+      3231
+     ],
+     [
+      3612,
+      3275,
+      4179,
+      3429
+     ]
+    ],
+    "layout_words": 392
+   },
+   "headline_raw": "e great churn in Asia",
+   "deck_raw": "Shangri-La Dialogue, South Korean election, underscore\nnewrealities, demand rethink of Delhi\u2019s diplomacy",
+   "body_raw": "For over three decades,\nIndia\u2019s Asian strategy was\npremised on great-power\nharmony, regional stability,\neconomic interdependence\nand stronger regional\ninstitutions. That era may\nbe ending. Delhi must now\ncontend with growing\ndisorder, which demands\nboth stronger national\ncapabilities and enhanced\nstrategic flexibility.\n\nnerships in Asia. \u201cNo one should doubt\nAmerica\u2019s commitment toour Indo-Pacific al-\nlies and partners... We will continue towrap\nour arms around our friends and find new\nways to work together.\u201d Yet, he made it clear\n\npragmatism over ideological confrontation.\nWith Chinaahsorhing about aquarter of South\nKorea\u2019s exports, Lee seeks to stabilise trade\nand supply chains, especially in strategic sec-\ntors like semiconductors and batteries.\nBalancing economic ties with China against\nsecurity expectations from the US will be a\ndelicate act. On North Korea, Lee favours a re-\nturn to engagement. He supports reopening\njoint projects like the Kaesong Industrial\nComplex in exchange for verifiable progress\non denuclearisation. A potential diplomatic\noutreach from Trump \u2014 whohas promisedto\nre-engage Pyongyang \u2014 could provide new\nopportunities for Lee. On Japan, Lee diverges\nsharply from Yoon\u2019s approach, While support-\ning trilateral defence initiatives, he insists on\nhistorical accountability from Tokyo for its im-\nperial-era abuses. This dual-track approach\nMay resonate domestically but could generate\ndiplomatic friction with Japan and the US,\nboth of which have encouraged Seoul! and\nTokyo to move past historical disputes.\nLeejae-myung\u2019s foreign policy vision rep-\nresentsa significant departure from tradition,\naiming to balance strategic autonomy, eco-\nnomic security, and principled diplomacy. His\nsuccess will depend on managing the deep\ninternal divisions on foreign and security poli-\ncies, stabilising ties with the US, insulating the\neconomy from US-China tensions, and navi-\ngating a complex external environment\nBoth the SLD and South Korea's political\nturn underscore the deepening uncertainty\nin Asian geopolitics, shaped by thetension be-\ntween alliance building and strategic auton-\nomy, between economic integration and com-\nmercial de-risking, and vastly divergent views\nwithin Asian polities on dealing with the\nchanging extemal conditions. For over three\ndecades, India\u2019s Asian sirategy was premised\non great-power harmony, regional stability,\neconomic interdependence and stronger re-\ngional institutions. That era may be ending.\nDelhi must nowcontend with growing disor-\nder, which demands both stronger national\ncapabilities and enhanced strategic flexibility.\n\nThewriter is contributing editor on\ninternational affairs for The Indian Express\nand holds the Korea Chair at the Councilon\nStrategic and Defence Research, Delhi",
+   "ocr_conf": 91.80867346938776,
+   "ocr_low_conf_share": 0.03316326530612245,
+   "headline": "e great churn in Asia",
+   "deck": "Shangri-La Dialogue, South Korean election, underscore newrealities, demand rethink of Delhi's diplomacy",
+   "byline": "",
+   "text": "For over three decades, India's Asian strategy was premised on great-power harmony, regional stability, economic interdependence and stronger regional institutions. That era may be ending. Delhi must now contend with growing disorder, which demands both stronger national capabilities and enhanced strategic flexibility.\n\nnerships in Asia. \"No one should doubt America's commitment toour Indo-Pacific allies and partners... We will continue towrap our arms around our friends and find new ways to work together.\" Yet, he made it clear\n\npragmatism over ideological confrontation. With Chinaahsorhing about aquarter of South Korea's exports, Lee seeks to stabilise trade and supply chains, especially in strategic sectors like semiconductors and batteries. Balancing economic ties with China against security expectations from the US will be a delicate act. On North Korea, Lee favours a return to engagement. He supports reopening joint projects like the Kaesong Industrial Complex in exchange for verifiable progress on denuclearisation. A potential diplomatic outreach from Trump - whohas promisedto re-engage Pyongyang - could provide new opportunities for Lee. On Japan, Lee diverges sharply from Yoon's approach, While supporting trilateral defence initiatives, he insists on historical accountability from Tokyo for its imperial-era abuses. This dual-track approach May resonate domestically but could generate diplomatic friction with Japan and the US, both of which have encouraged Seoul! and Tokyo to move past historical disputes. Leejae-myung's foreign policy vision representsa significant departure from tradition, aiming to balance strategic autonomy, economic security, and principled diplomacy. His success will depend on managing the deep internal divisions on foreign and security policies, stabilising ties with the US, insulating the economy from US-China tensions, and navigating a complex external environment Both the SLD and South Korea's political turn underscore the deepening uncertainty in Asian geopolitics, shaped by thetension between alliance building and strategic autonomy, between economic integration and commercial de-risking, and vastly divergent views within Asian polities on dealing with the changing extemal conditions. For over three decades, India's Asian sirategy was premised on great-power harmony, regional stability, economic interdependence and stronger regional institutions. That era may be ending. Delhi must nowcontend with growing disorder, which demands both stronger national capabilities and enhanced strategic flexibility.\n\nThewriter is contributing editor on international affairs for The Indian Express and holds the Korea Chair at the Councilon Strategic and Defence Research, Delhi",
+   "n_words": 378,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      496,
+      1112,
+      1358,
+      1196
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1231,
+      1534,
+      2871
+     ]
+    ],
+    "layout_words": 481
+   },
+   "headline_raw": "PROMISE OF A PACT",
+   "deck_raw": "",
+   "body_raw": "Trade talks with India are among few positives for US while its\nnegotiations with China and EU are on unsure footing\nT HE UNCERTAINTY UNLEASHED by Donald Trump's tariffs has only been ag-\ngravated by a spate of recent court rulings. On May 28, the US Court of\nInternational Trade struck down Trump's \u201cLiberation Day\u201d tariffs, saying that\nthe emergency law (International Emergency Economic Powers Act) does\nnot give the President the power to impose broad tariffs, However, a day later, a federal\nappeals court temporarily reinstated the tariffs. The case is now likely to work its way\nthrough the US legal system. The uncertainty is likely to linger on as the 90-day pause on\nthe Liberation Day tariffs ends in the second week of July.\nThe Trump administration may have hoped that some trade deals would be quickly\nnegotiated. And while the US and the UK have reached an agreement \u2014 the deal was an-\nnounced on May 8th\u2014 progress with other major trading nations/blocks remains a pro-\ntracted process, Take the case of China. A few days ago, US Treasury Secretary Scott Bessent\nis reported to have said that trade talks between the US and China \u201care abit stalled\u201d. Last\nFriday, Trump said that China has \u201ctotally violated\u201d its agreement with the US, a charge\nthat China has rejected. The US President is expected to speak to Chinese President Xi\nJinping this week to iron out their differences. Inthe case of Japan, several rounds of talks\nhave taken place, and another is expected before the G7 summit. But last Friday, the le-\ngal challenges to his tariffs notwithstanding, Trump also raised the tariffs on steel and\naluminium to 50 per cent, potentially impacting countries such as Canada, Mexico and\nSouth Korea, which account for a sizeable share of US steel imports. A day later, the\nEuropean Union, which had agreed to \u201caccelerate talks\u201d on a US trade deal, has also re-\nsponded firmly, saying it is prepared to impose \u201ccountermeasures\u201d against the US. It\nnoted that such moves to increase tariffs \u201cundermine ongoing efforts to reach a negoti-\nated solution\u201d. The new tariffs are effective from June 4.\nThese latest tariff moves come at a time when India and the US are negotiating a bi-\nlateral trade deal. AUS team is expected to visit India over the coming few days. On\nMonday, US Commerce Secretary Howard Lutnick, speaking in Washington at the US-\nIndia Strategic Partnership Forum\u2019s leadership summit, said that adeal between the US\nand India could happen in the \u201cnot too distant future\u201d. The India-EU trade deal also ap-\npears to beon course. As pera report, the two sides have agreed onseveral chapters, and\nthe pact could be concluded before the end of the year. Coming after the finalisation of\nthe India-UK agreement, the successful culmination of these deals would increase the\ncountry\u2019s attractiveness as an investment destination.",
+   "ocr_conf": 92.59128630705395,
+   "ocr_low_conf_share": 0.024896265560165973,
+   "headline": "PROMISE OF A PACT",
+   "deck": "",
+   "byline": "",
+   "text": "Trade talks with India are among few positives for US while its negotiations with China and EU are on unsure footing T HE UNCERTAINTY UNLEASHED by Donald Trump's tariffs has only been aggravated by a spate of recent court rulings. On May 28, the US Court of International Trade struck down Trump's \"Liberation Day\" tariffs, saying that the emergency law (International Emergency Economic Powers Act) does not give the President the power to impose broad tariffs, However, a day later, a federal appeals court temporarily reinstated the tariffs. The case is now likely to work its way through the US legal system. The uncertainty is likely to linger on as the 90-day pause on the Liberation Day tariffs ends in the second week of July. The Trump administration may have hoped that some trade deals would be quickly negotiated. And while the US and the UK have reached an agreement - the deal was announced on May 8th - progress with other major trading nations/blocks remains a protracted process, Take the case of China. A few days ago, US Treasury Secretary Scott Bessent is reported to have said that trade talks between the US and China \"are abit stalled\". Last Friday, Trump said that China has \"totally violated\" its agreement with the US, a charge that China has rejected. The US President is expected to speak to Chinese President Xi Jinping this week to iron out their differences. Inthe case of Japan, several rounds of talks have taken place, and another is expected before the G7 summit. But last Friday, the legal challenges to his tariffs notwithstanding, Trump also raised the tariffs on steel and aluminium to 50 per cent, potentially impacting countries such as Canada, Mexico and South Korea, which account for a sizeable share of US steel imports. A day later, the European Union, which had agreed to \"accelerate talks\" on a US trade deal, has also responded firmly, saying it is prepared to impose \"countermeasures\" against the US. It noted that such moves to increase tariffs \"undermine ongoing efforts to reach a negotiated solution\". The new tariffs are effective from June 4. These latest tariff moves come at a time when India and the US are negotiating a bilateral trade deal. AUS team is expected to visit India over the coming few days. On Monday, US Commerce Secretary Howard Lutnick, speaking in Washington at the US-India Strategic Partnership Forum's leadership summit, said that adeal between the US and India could happen in the \"not too distant future\". The India-EU trade deal also appears to beon course. As pera report, the two sides have agreed onseveral chapters, and the pact could be concluded before the end of the year. Coming after the finalisation of the India-UK agreement, the successful culmination of these deals would increase the country's attractiveness as an investment destination.",
+   "n_words": 474,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1625,
+      1370,
+      2228,
+      1841
+     ]
+    ],
+    "layout_words": 70,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "TWORECENT DEVELOPMENTS to India\u2019seast\noffer insights into therapidly shifting contours\nof Asian geopolitics. The first was the annual\nShangri-La Dialogue (SLD) in Singapore,\nwhere US Defence Secretary Pete Hegseth\noutlined the administration's priorities for\nAsia. French President Emmanuel Macron\u2019s\nkeynoteaddress offered aEuropean perspec-\ntive on Asian security that diverged from\nWashington's in key respects. The second was\nSouth Korea's presidential election, where the\nlikely victory of left-leaning candidate Lee Jae-",
+   "ocr_conf": 85.12857142857143,
+   "ocr_low_conf_share": 0.11428571428571428,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "TWORECENT DEVELOPMENTS to India'seast offer insights into therapidly shifting contours of Asian geopolitics. The first was the annual Shangri-La Dialogue (SLD) in Singapore, where US Defence Secretary Pete Hegseth outlined the administration's priorities for Asia. French President Emmanuel Macron's keynoteaddress offered aEuropean perspective on Asian security that diverged from Washington's in key respects. The second was South Korea's presidential election, where the likely victory of left-leaning candidate Lee Jae-",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2927,
+      1566,
+      3527,
+      1624
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2927,
+      1609,
+      3532,
+      2555
+     ]
+    ],
+    "layout_words": 167
+   },
+   "headline_raw": "thatUS support would not be unconditional:\nHeralled nn sliestn choiileer mare recnannc_",
+   "deck_raw": "",
+   "body_raw": "He called on allies to shoulder more responsi-\nbility, notably by raising their defence spend-\ning to 5 percent of GDP This is an impossible\nask for most Asian nations, Japan has prom-\nised toraise it to2 per cent but is having trou-\nble mobilising the financial resources for it.\nIndia, despite a two-front threat from China\nand Pakistan, spends only about2 per cent.\nAsked about NATO's potential role in Asia,\nHegseth urged Europe to remain focused on\nRussiaratherthan overstretch its resources in\nthe Indo-Pacific. Macron, however, had a dif-\nferent message. Heemphasised Europe's stake\nin Indo-Pacific security and called for new\ncoalitions between Europe and Asian part-\nners. Macron stressed the importance of\n\u201cstrategic autonomy\u201d and a balanced ap-\nproach to global power shifts. Kaja Kallas, the\nEU's High Representative for Foreign and\nSecurity Policy, echoed Macron. She argued\nthat the security of Europe and Asia is deeply\ninterconnected. Both were critical of China\nbut avoided overt confrontation, reflecting the\nnuanced European posture amid the shifting",
+   "ocr_conf": 91.30538922155688,
+   "ocr_low_conf_share": 0.03592814371257485,
+   "headline": "thatUS support would not be unconditional: Heralled nn sliestn choiileer mare recnannc_",
+   "deck": "",
+   "byline": "",
+   "text": "He called on allies to shoulder more responsibility, notably by raising their defence spending to 5 percent of GDP This is an impossible ask for most Asian nations, Japan has promised toraise it to2 per cent but is having trouble mobilising the financial resources for it. India, despite a two-front threat from China and Pakistan, spends only about2 per cent. Asked about NATO's potential role in Asia, Hegseth urged Europe to remain focused on Russiaratherthan overstretch its resources in the Indo-Pacific. Macron, however, had a different message. Heemphasised Europe's stake in Indo-Pacific security and called for new coalitions between Europe and Asian partners. Macron stressed the importance of \"strategic autonomy\" and a balanced approach to global power shifts. Kaja Kallas, the EU's High Representative for Foreign and Security Policy, echoed Macron. She argued that the security of Europe and Asia is deeply interconnected. Both were critical of China but avoided overt confrontation, reflecting the nuanced European posture amid the shifting",
+   "n_words": 160,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1626,
+      1843,
+      2227,
+      1895
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      1886,
+      2231,
+      2674
+     ]
+    ],
+    "layout_words": 129
+   },
+   "headline_raw": "myung could reshape not only Korea's politi-\nreal eestacenwis hae alo Oleg whee ode cet eee ies",
+   "deck_raw": "",
+   "body_raw": "cal trajectory but also the strategic dynamics\nof Northeast Asia. More broadly, South Korea's\npolitical churn reflects the growing dilemmas\nacross Asia in responding toan assertive China\nand anincreasingly unpredictable US.\nAs expected, US-China relations domi-\nnated discussions at the SLD. The absence of\nChina\u2019s defence minister underscored thecur-\nrent crisis in bilateral ties. The SLD historically\nserved as avaluable platform for US-Chinadi-\nalogue on regional security. Much of Asia was\neager to hear from Hegseth about the Trump\nadministration's strategic intentions. Many\ncountries remain caught in the crossfire of\nPresident Donald Trump\u2019s trade wars and\nwere watching closely to see if Washington\nwould uphold traditional alliances or, as in\nEurope, move to dismantle them.\nHegseth, however, steered clear of eco-\nnomics, saying his focus was \u201ctanks, not tar-",
+   "ocr_conf": 88.93023255813954,
+   "ocr_low_conf_share": 0.06976744186046512,
+   "headline": "myung could reshape not only Korea's politireal eestacenwis hae alo Oleg whee ode cet eee ies",
+   "deck": "",
+   "byline": "",
+   "text": "cal trajectory but also the strategic dynamics of Northeast Asia. More broadly, South Korea's political churn reflects the growing dilemmas across Asia in responding toan assertive China and anincreasingly unpredictable US. As expected, US-China relations dominated discussions at the SLD. The absence of China's defence minister underscored thecurrent crisis in bilateral ties. The SLD historically served as avaluable platform for US-Chinadialogue on regional security. Much of Asia was eager to hear from Hegseth about the Trump administration's strategic intentions. Many countries remain caught in the crossfire of President Donald Trump's trade wars and were watching closely to see if Washington would uphold traditional alliances or, as in Europe, move to dismantle them. Hegseth, however, steered clear of economics, saying his focus was \"tanks, not tar-",
+   "n_words": 125,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2922,
+      2542,
+      3528,
+      2599
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2925,
+      2601,
+      3532,
+      2873
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "ee ee re pee CULT INE UER OL IEILEL ES\ndynamics involving the US, Russia and China.",
+   "deck_raw": "",
+   "body_raw": "No Asian nation illustrates the impact of\ndomestic politics on foreign policy more\nvividly than South Korea Thecurrent election,\nprompted by the fall of conservative President\nYoon Suk Yeol, follows a period of political tur-\nbulence. The frontrunner, Lee Jae-myung, rep-\nresents the progressive tradition that seeks a",
+   "ocr_conf": 93.04166666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "ee ee re pee CULT INE UER OL IEILEL ES dynamics involving the US, Russia and China.",
+   "deck": "",
+   "byline": "",
+   "text": "No Asian nation illustrates the impact of domestic politics on foreign policy more vividly than South Korea Thecurrent election, prompted by the fall of conservative President Yoon Suk Yeol, follows a period of political turbulence. The frontrunner, Lee Jae-myung, represents the progressive tradition that seeks a",
+   "n_words": 46,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1626,
+      2674,
+      2228,
+      2727
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1626,
+      2736,
+      2227,
+      2797
+     ]
+    ],
+    "body_boxes": [
+     [
+      1624,
+      2798,
+      2230,
+      3428
+     ]
+    ],
+    "layout_words": 94
+   },
+   "headline_raw": "iffs\u201d. He had strong words on China's military\npwanshilinoac and am binanc af annoavingTananan",
+   "deck_raw": "LA DAUTIMES AU ALTRI U8 GAIHIC AMS Ll Weal\nEvenas Hegseth warned against Chinese hege-",
+   "body_raw": "mony, USTreasury Secretary Scott Bessent an-\nnounced the breakdown of the trade truce\nwith Bejing he had negotiated last month. Asia\nand the world, which welcomed therelaxation\nof US-China commercial tensions, must now\nbrace for more turbulence. Forthosein the re-\ngion worried about aUS-Chinacondominium\nor apotential G2 arrangement, there wassome\nrelief: A strategic alignment isn\u2019t imminent.\nNor is Washington likely to cede an Asian\nsphere of influence to Beijing. However,\nHegseth reinforced concems about the risks\nof an escalating US-China rivalry, economic\nand geopolitical.\nOn regional security, Hegseth reaffirmed\nastrong UScommitmentto alliances and part-",
+   "ocr_conf": 83.48936170212765,
+   "ocr_low_conf_share": 0.11702127659574468,
+   "headline": "iffs\". He had strong words on China's military pwanshilinoac and am binanc af annoavingTananan",
+   "deck": "LA DAUTIMES AU ALTRI U8 GAIHIC AMS Ll Weal Evenas Hegseth warned against Chinese hege-",
+   "byline": "",
+   "text": "mony, USTreasury Secretary Scott Bessent announced the breakdown of the trade truce with Bejing he had negotiated last month. Asia and the world, which welcomed therelaxation of US-China commercial tensions, must now brace for more turbulence. Forthosein the region worried about aUS-Chinacondominium or apotential G2 arrangement, there wassome relief: A strategic alignment isn't imminent. Nor is Washington likely to cede an Asian sphere of influence to Beijing. However, Hegseth reinforced concems about the risks of an escalating US-China rivalry, economic and geopolitical. On regional security, Hegseth reaffirmed astrong UScommitmentto alliances and part-",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2923,
+      2875,
+      3529,
+      3089
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2922,
+      2940,
+      3299,
+      2992
+     ]
+    ],
+    "body_boxes": [
+     [
+      2926,
+      2997,
+      3528,
+      3031
+     ],
+     [
+      2924,
+      3076,
+      3531,
+      3429
+     ]
+    ],
+    "layout_words": 56
+   },
+   "headline_raw": "more autonomous foreign policy. Yoon deep-\nened South Korea's alignment with the US and\nJapan and adopted a tough stance on China\nand North Korea. Lee, by contrast, promotes\n\u201cpragmatic realism\u201d \u2014 aimed at reposition-\nino Sniuith hnres 4\u00a24 cratecic oa) aqrer rarer",
+   "deck_raw": "ESR RS UR eM Re eign nat et\nJapan and adopted a tough",
+   "body_raw": "and North Korea. Lee, by contrast, promotes\n\ning South Korea asa strategic balancer rather\nthanacompliant US ally. While affirming the\nalliance with Washington, Lee advocates\ngreater autonomy and legislative oversight\nover South Korea\u2019s military involvement in\nUS-led operations, especially concerning\nTaiwan. This could complicate American con-\ntingency planning in the Indo-Pacific.\nLee's China policy prioritises economic",
+   "ocr_conf": 85.96428571428571,
+   "ocr_low_conf_share": 0.10714285714285714,
+   "headline": "more autonomous foreign policy. Yoon deepened South Korea's alignment with the US and Japan and adopted a tough stance on China and North Korea. Lee, by contrast, promotes \"pragmatic realism\" - aimed at repositionino Sniuith hnres 4\u00a24 cratecic oa) aqrer rarer",
+   "deck": "ESR RS UR eM Re eign nat et Japan and adopted a tough",
+   "byline": "",
+   "text": "and North Korea. Lee, by contrast, promotes\n\ning South Korea asa strategic balancer rather thanacompliant US ally. While affirming the alliance with Washington, Lee advocates greater autonomy and legislative oversight over South Korea's military involvement in US-led operations, especially concerning Taiwan. This could complicate American contingency planning in the Indo-Pacific. Lee's China policy prioritises economic",
+   "n_words": 55,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      479,
+      3014,
+      1378,
+      3098
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3144,
+      1531,
+      4410
+     ]
+    ],
+    "layout_words": 350
+   },
+   "headline_raw": "OUT OF A MOLEHILL",
+   "deck_raw": "",
+   "body_raw": "Outrage over Kamal Haasan\u2019s remark on Kannada is excessive.\nEngaging with cosmopolitan reality needs a broader imagination\nT HE CACOPHONY OF outrage over Kamal Haasan\u2019s remark that Kannada was\n\u201cbom out of Tamil\u201d has reached an unseemly but not unexpected crescendo\n\u2014 it follows a pattem seen whenever the politics of language and the lan-\nguage ofhurt sentiments are invoked. It has gone all the way to the Kamataka\nHigh Court, which advised Haasan to apologise and questioned his credentials to make\nsuch a statement, asking, \u201cAre you a historian, linguist?\u201d But there are other pertinent\nquestions, which the Court didn\u2019t ask: Is such escalation over a misinformed comment\nproportionate or justified? Does one need to be anexpert, or even correct, to exercise the\nright to free speech? Is this an appropriate use of the state\u2019s time and resources?\nThe fallout of Haasan\u2019s remark saw apologiesdemanded, protests held, effigiesburnt,\na police complaint filed,a state minister calling for aban on screening the actor-politician's\nfilm Thug Life in Karnataka and the Karnataka Film Chamber of Commerce promptly\nobliging him. There is ahistoryand acontextto this mobilisation of linguistic grievance:\nIn the present, it is exacerbated by growing resentimentover the presence of people from\nother states, particularly Hindi speakers. Alongside thisis an older anxiety over the dom-\ninance of Tamil speakers in Bengaluru, in the backdrop of the regional rivalry between\nKamataka and Tamil Nadu. Looming over it all, but sometimes unmentioned inthe con-\ntext of North-South and South-South tussles, is the shadow of English. All this \u2014 with\nparallels across multiple states, for instance in neighbouring Maharashtra \u2014 creates fer-\ntile ground for a politics of relentless prickliness that makes mountains out of molehills.\nIt can lead to violence, and often has.\nHaasan is wrong about Kannadaand Tamil, and appears to be ill-informed about the\nhistory of the Dravidian languages. One did not come from the other \u2014 the two are better\ncharacterised assisters. He has refused to apologise. The question is not whether or not he's\nbeen wise. What's questionable is the clamour for an apology \u2014 it comes from a place of",
+   "ocr_conf": 92.06552706552706,
+   "ocr_low_conf_share": 0.019943019943019943,
+   "headline": "OUT OF A MOLEHILL",
+   "deck": "",
+   "byline": "",
+   "text": "Outrage over Kamal Haasan's remark on Kannada is excessive. Engaging with cosmopolitan reality needs a broader imagination T HE CACOPHONY OF outrage over Kamal Haasan's remark that Kannada was \"bom out of Tamil\" has reached an unseemly but not unexpected crescendo - it follows a pattem seen whenever the politics of language and the language ofhurt sentiments are invoked. It has gone all the way to the Kamataka High Court, which advised Haasan to apologise and questioned his credentials to make such a statement, asking, \"Are you a historian, linguist?\" But there are other pertinent questions, which the Court didn't ask: Is such escalation over a misinformed comment proportionate or justified? Does one need to be anexpert, or even correct, to exercise the right to free speech? Is this an appropriate use of the state's time and resources? The fallout of Haasan's remark saw apologiesdemanded, protests held, effigiesburnt, a police complaint filed,a state minister calling for aban on screening the actor-politician's film Thug Life in Karnataka and the Karnataka Film Chamber of Commerce promptly obliging him. There is ahistoryand acontextto this mobilisation of linguistic grievance: In the present, it is exacerbated by growing resentimentover the presence of people from other states, particularly Hindi speakers. Alongside thisis an older anxiety over the dominance of Tamil speakers in Bengaluru, in the backdrop of the regional rivalry between Kamataka and Tamil Nadu. Looming over it all, but sometimes unmentioned inthe context of North-South and South-South tussles, is the shadow of English. All this - with parallels across multiple states, for instance in neighbouring Maharashtra - creates fertile ground for a politics of relentless prickliness that makes mountains out of molehills. It can lead to violence, and often has. Haasan is wrong about Kannadaand Tamil, and appears to be ill-informed about the history of the Dravidian languages. One did not come from the other - the two are better characterised assisters. He has refused to apologise. The question is not whether or not he's been wise. What's questionable is the clamour for an apology - it comes from a place of",
+   "n_words": 347,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2279,
+      3623,
+      3817,
+      3731
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2272,
+      3795,
+      3810,
+      3856
+     ],
+     [
+      1624,
+      3925,
+      2154,
+      3969
+     ]
+    ],
+    "body_boxes": [
+     [
+      1619,
+      4027,
+      2229,
+      5252
+     ],
+     [
+      2316,
+      4559,
+      2815,
+      5256
+     ],
+     [
+      2923,
+      4028,
+      3531,
+      5253
+     ]
+    ],
+    "layout_words": 477
+   },
+   "headline_raw": "HAPPINESS IS Not AN APP",
+   "deck_raw": "As asociety, we need to find more ways to care for those around us\nPRAVEEN SIDDHARTH",
+   "body_raw": "ON APRIL 28, Hariman Sharma, afarmerfrom\nthehills of Himachal Pradesh, walked up bare-\nfoot to Rashtrapati Bhavan\u2019s Durbar Hall tore-\nceive the Padma Shri from the President of\nIndia. He had developed anew variety of ap-\nple that could be cultivated in tropical or sub-\ntropical climate regions, potentially enabling\nit to be grown almost anywhere in our coun-\ntry. Sharma is nota government scientist ora\nresearcher in a multinational biotech com-\npany. He is acommonman.\n\u2018What does it mean to be acommon man in\nIndia? A battle to make ends meet? Stealing\nmoments of happiness before harsh reality\ncreeps up? The World Happiness Index 2025,\nan initiative of Gallup, the University of Oxford\nand the UN\u2019s Sustainable Development\nSolutions Network, ranked India 118th among\n147 countries. Therankingis basedon people\u2019s\nself-evaluation of their lives. So, we have\nranked ourseives iower thanimostof the world,\nAlarge portion of oureconomy thrives on\nour perceived unhappiness. From Bollywood\ntothe health-supplement industry, everyone\nwants us to believe that they can bring joyinto\nour lives. This pursuit of happiness is fuelled\nnot by aninner striving for emancipation but\nbyaconfluence of images which seem tosug-\ngest a lack of meaning in our lives. With the\ninformation revolution, a new and powerful\ndriver of unhappiness has emerged: FOMO.\n\nA large portion of our\neconomy thrives on our\nperceived unhappiness.\nFrom Bollywood to the\nhealth supplement industry,\neveryone wants us to believe\nthat they can bring joy into\nour lives. This pursuit of\nhappiness is fuelled not by\nan inner striving for\nemancipation but by a\nconfluence of images which\nseem to suggest a lack of\nmeaning in our lives.\n\nOur addiction to social media keeps us always\nwanting to not just keep up with our peers,\nbut do better than them.\nIn One-Dimensional Man (1964), Herbert\nMarcuse prophesied a world in which con-\nsumerism and mass media stifle originality.\nThey create a \u201cblissful slave\u201d , who is kept pre-\noccupied due to the creation and pursuit of\n\u201cfalse needs\u201d. He wasn't completely correct. We\nare far from being blissful. The pursuit of false\nneeds hasn't been an entirely fulfilling affair.\nWhat weneed in our lives determines our hap-\npiness, and unfortunately, we haven't really\nbeen good at identifying these needs, letalone\nplanning a pathtowards achieving satisfaction,\nUnion Minister of Commerce and Industry\nPiyush Goyal ruffled a few sentiments when\nhe chided Indian start-ups for concentrating\non food delivery apps when their Chinese\ncounterparts were developing deep tech. What\nexactly is the need10-minute delivery apps are\nfulfilling? The need for instant gratification?\nIncontrast, peoplelike Sharma are quietly\nworking towards fulfilling real needs, Hailing\nfrom Paniala village in Bilaspur(HP), Sharma\nobserved apple seeds discarded in his back-\nyard take root and grow into a fruit-bearing\ntree despite the warm, unfriendly climate.\nThis set him off on ajourney of experimenta-\ntion that led to the development of the\nHRMN-99 apple. Similarly, Arunachalam",
+   "ocr_conf": 91.62993762993763,
+   "ocr_low_conf_share": 0.02494802494802495,
+   "headline": "HAPPINESS IS Not AN APP",
+   "deck": "As asociety, we need to find more ways to care for those around us PRAVEEN SIDDHARTH",
+   "byline": "ON APRIL 28, Hariman Sharma, afarmerfrom",
+   "text": "thehills of Himachal Pradesh, walked up barefoot to Rashtrapati Bhavan's Durbar Hall tore-ceive the Padma Shri from the President of India. He had developed anew variety of apple that could be cultivated in tropical or subtropical climate regions, potentially enabling it to be grown almost anywhere in our country. Sharma is nota government scientist ora researcher in a multinational biotech company. He is acommonman. 'What does it mean to be acommon man in India? A battle to make ends meet? Stealing moments of happiness before harsh reality creeps up? The World Happiness Index 2025, an initiative of Gallup, the University of Oxford and the UN's Sustainable Development Solutions Network, ranked India 118th among 147 countries. Therankingis basedon people's self-evaluation of their lives. So, we have ranked ourseives iower thanimostof the world, Alarge portion of oureconomy thrives on our perceived unhappiness. From Bollywood tothe health-supplement industry, everyone wants us to believe that they can bring joyinto our lives. This pursuit of happiness is fuelled not by aninner striving for emancipation but byaconfluence of images which seem tosuggest a lack of meaning in our lives. With the information revolution, a new and powerful driver of unhappiness has emerged: FOMO.\n\nA large portion of our economy thrives on our perceived unhappiness. From Bollywood to the health supplement industry, everyone wants us to believe that they can bring joy into our lives. This pursuit of happiness is fuelled not by an inner striving for emancipation but by a confluence of images which seem to suggest a lack of meaning in our lives.\n\nOur addiction to social media keeps us always wanting to not just keep up with our peers, but do better than them. In One-Dimensional Man (1964), Herbert Marcuse prophesied a world in which consumerism and mass media stifle originality. They create a \"blissful slave\", who is kept preoccupied due to the creation and pursuit of \"false needs\". He wasn't completely correct. We are far from being blissful. The pursuit of false needs hasn't been an entirely fulfilling affair. What weneed in our lives determines our happiness, and unfortunately, we haven't really been good at identifying these needs, letalone planning a pathtowards achieving satisfaction, Union Minister of Commerce and Industry Piyush Goyal ruffled a few sentiments when he chided Indian start-ups for concentrating on food delivery apps when their Chinese counterparts were developing deep tech. What exactly is the need10-minute delivery apps are fulfilling? The need for instant gratification? Incontrast, peoplelike Sharma are quietly working towards fulfilling real needs, Hailing from Paniala village in Bilaspur(HP), Sharma observed apple seeds discarded in his back-yard take root and grow into a fruit-bearing tree despite the warm, unfriendly climate. This set him off on ajourney of experimentation that led to the development of the HRMN-99 apple. Similarly, Arunachalam",
+   "n_words": 462,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      4029,
+      4178,
+      5134
+     ]
+    ],
+    "layout_words": 174,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Muruganantham designedand produced ma-\nchines that produce low-cost sanitary nap-\nkins \u2014 these have benefitted 13 million\nwomen. He has created over 25,000 jobs with\nhis invention. The movie, Pad Man(2018), win-\nner ofa National Award in 2019, was based on\nhis story. Muruganantham was conferred the\nPadma Shri in 2016.\nYanung Jamoh Lego from Arunachal\nPradesh has popularised nature's herbal reme-\ndies. Her methods offer affordable and cultur-\nally rooted healthcare. She has helped revive\ntraditional healing, empowered localwomen,\nand promoted sustainable health practices.\nOver 300,000 patients have been reported\ncured using her medicines. Yanung was con-\nferred the Padma Shri last year.\nThese stories have another thing in com-\nmon. The National Innovation Foundation, an\nautonomous organisation under the\nDepartment of Science and Technology, nur-\ntured theirinnovations. It has funded and sup-\nported 13 such common men and women\nwhohave laterwon the Padma Shri.Oursoci-\nety needs more such organisations, The theme\nofthe World Happiness Report for2025iscar-\ningand sharing. Weneed to find more ways as\nasociety to start caring for others around us.",
+   "ocr_conf": 87.41954022988506,
+   "ocr_low_conf_share": 0.08620689655172414,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Muruganantham designedand produced machines that produce low-cost sanitary napkins - these have benefitted 13 million women. He has created over 25,000 jobs with his invention. The movie, Pad Man(2018), winner ofa National Award in 2019, was based on his story. Muruganantham was conferred the Padma Shri in 2016. Yanung Jamoh Lego from Arunachal Pradesh has popularised nature's herbal remedies. Her methods offer affordable and culturally rooted healthcare. She has helped revive traditional healing, empowered localwomen, and promoted sustainable health practices. Over 300,000 patients have been reported cured using her medicines. Yanung was conferred the Padma Shri last year. These stories have another thing in common. The National Innovation Foundation, an autonomous organisation under the Department of Science and Technology, nurtured theirinnovations. It has funded and supported 13 such common men and women whohave laterwon the Padma Shri.Oursociety needs more such organisations, The theme ofthe World Happiness Report for2025iscaringand sharing. Weneed to find more ways as asociety to start caring for others around us.",
+   "n_words": 163,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      4416,
+      1527,
+      4480
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4466,
+      1527,
+      4730
+     ]
+    ],
+    "layout_words": 78
+   },
+   "headline_raw": "parochialism. What is needed, instead, is an imagination that is broad enough to accom-\nmoadate thea scmnahnancnat recininal and baosiiictic citnasting acim and addrece nannle\u2019c la,",
+   "deck_raw": "",
+   "body_raw": "modate the aspirations of regional and linguistic sitbiationatisin and address people's le-\ngitimate conceims about the future of their mother tongues. Alsoneeded isa self-confidence\nto engage fruitfully with an increasingly cosmopolitan reality. Political leaders could do\nworse than take a leaf out of Kamataka Deputy CM DK Shivakumar\u2019s book. In one of the\nmost sensible responses to this controversy, he said, \u201cWearenot enemies; we are all friends.\nI don't want to comment on it because J don't know the history of that issue.\u201d",
+   "ocr_conf": 86.09638554216868,
+   "ocr_low_conf_share": 0.10843373493975904,
+   "headline": "parochialism. What is needed, instead, is an imagination that is broad enough to accommoadate thea scmnahnancnat recininal and baosiiictic citnasting acim and addrece nannle'c la,",
+   "deck": "",
+   "byline": "",
+   "text": "modate the aspirations of regional and linguistic sitbiationatisin and address people's legitimate conceims about the future of their mother tongues. Alsoneeded isa self-confidence to engage fruitfully with an increasingly cosmopolitan reality. Political leaders could do worse than take a leaf out of Kamataka Deputy CM DK Shivakumar's book. In one of the most sensible responses to this controversy, he said, \"Wearenot enemies; we are all friends. I don't want to comment on it because J don't know the history of that issue.\"",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      388,
+      4860,
+      1466,
+      4946
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      4991,
+      1531,
+      5383
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "A GRASSROOTS TEACHER",
+   "deck_raw": "",
+   "body_raw": "Pratima Barwa gave wings to dreams of\nyoung Adivasi hockey players\nHANCES ARE THAT most outside the modest Indian hockey universe would\nnot have heard of Pratima Barwa. Perhaps she preferred it that way. Barwa,\nwhopassed away on Sunday aged 44 due toa brain haemorrhage, dedicated\nher life to hockey. She did what few could \u2014 identify and nurture young tal-\nents in one of the sport's biggest catchment areas, Jharkhand's Simdega. Because of her\nefforts, Indian hockey is in a better place \u2014 three players, including captain Salima Tete,",
+   "ocr_conf": 85.84444444444445,
+   "ocr_low_conf_share": 0.13333333333333333,
+   "headline": "A GRASSROOTS TEACHER",
+   "deck": "",
+   "byline": "",
+   "text": "Pratima Barwa gave wings to dreams of young Adivasi hockey players HANCES ARE THAT most outside the modest Indian hockey universe would not have heard of Pratima Barwa. Perhaps she preferred it that way. Barwa, whopassed away on Sunday aged 44 due toa brain haemorrhage, dedicated her life to hockey. She did what few could - identify and nurture young talents in one of the sport's biggest catchment areas, Jharkhand's Simdega. Because of her efforts, Indian hockey is in a better place - three players, including captain Salima Tete,",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      5180,
+      4179,
+      5254
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is an Indian Revenue Service officer\nViews are personal",
+   "ocr_conf": 80.18181818181819,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is an Indian Revenue Service officer Views are personal",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      5391,
+      1529,
+      5525
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5531,
+      1531,
+      6164
+     ]
+    ],
+    "layout_words": 194
+   },
+   "headline_raw": "are currently part of the national team that is in Europe forthe FIH Pro League.\nGrassroots coachingis one of the most unglamorous parts of sport because of the lack\nof incentive. Yet, without such coaches, the sporting ecosystem would be a non-starter.",
+   "deck_raw": "",
+   "body_raw": "Selfless coaches like Barwa, whowas from Khunti, have kept Indian hockeyrunning. Her\nacademy was rudimentary, and some of the coaching methods were, possibly, archaic. But\nBarwa, described as a \u201cmother figure\u201d by her wards, did something far more impactful \u2014\nshe got children hooked to hockey and gave wings to their dreams.\nBarwa\u2019s own aspirations to play for India were unfulfilled. She played for Bihar in the\nearly 1990s. However, a left knee ligament injury in 1995 cut short her playing career.\nShe then promised herself that she would help young players from the region. Barwa's\njourney as acoach began in 2008 after she completed a diploma from the National Institute\nof Sport in Patiala. A job with the Jharkhand governmentas acoach took her to Simdega,\nand the hard yards began. From sunrise to sunset, she would travel to schools and vil-\nlages where there was the slightest promise of talent, convince the families tolet their child\nplay hockey and then groom them into world-class talents. Barwa never got the recog-\nnition she deserved. Her legacy will, however, be there for all to see each time the Indian\nteam steps onto the hockey field.",
+   "ocr_conf": 92.6082474226804,
+   "ocr_low_conf_share": 0.020618556701030927,
+   "headline": "are currently part of the national team that is in Europe forthe FIH Pro League. Grassroots coachingis one of the most unglamorous parts of sport because of the lack of incentive. Yet, without such coaches, the sporting ecosystem would be a non-starter.",
+   "deck": "",
+   "byline": "",
+   "text": "Selfless coaches like Barwa, whowas from Khunti, have kept Indian hockeyrunning. Her academy was rudimentary, and some of the coaching methods were, possibly, archaic. But Barwa, described as a \"mother figure\" by her wards, did something far more impactful - she got children hooked to hockey and gave wings to their dreams. Barwa's own aspirations to play for India were unfulfilled. She played for Bihar in the early 1990s. However, a left knee ligament injury in 1995 cut short her playing career. She then promised herself that she would help young players from the region. Barwa's journey as acoach began in 2008 after she completed a diploma from the National Institute of Sport in Patiala. A job with the Jharkhand governmentas acoach took her to Simdega, and the hard yards began. From sunrise to sunset, she would travel to schools and villages where there was the slightest promise of talent, convince the families tolet their child play hockey and then groom them into world-class talents. Barwa never got the recognition she deserved. Her legacy will, however, be there for all to see each time the Indian team steps onto the hockey field.",
+   "n_words": 192,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      2268,
+      5402,
+      3383,
+      5491
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2272,
+      5534,
+      2596,
+      5578
+     ],
+     [
+      2919,
+      5816,
+      3352,
+      5870
+     ]
+    ],
+    "body_boxes": [
+     [
+      2272,
+      5614,
+      2875,
+      6006
+     ],
+     [
+      2272,
+      6054,
+      2705,
+      6097
+     ],
+     [
+      2924,
+      5535,
+      3526,
+      5762
+     ],
+     [
+      2923,
+      5894,
+      3526,
+      6166
+     ]
+    ],
+    "layout_words": 165
+   },
+   "headline_raw": "JUNE 4, 1985, FoRTY YEARS AGO",
+   "deck_raw": "ASSAM TALKS\nJOINT STATEMENT",
+   "body_raw": "THE MONTH-LONG talks between the Centre\nand the Assam agitation leaders on resolving\nthevexed foreign nationals issue seem to have\nreached a crucial stage. Both Governor,\nBhishma Narain Singh and Chief Minister,\nHiteshwar Saikia are now in the capital to be\navailable for consultations. However, accord-\ning to informed sources, there are still some\ndifferences on the cut-off year as well as the\nquestion of disenfranchisement..\n\nMOB TEARGASSED\n\ntown of Patan when a violent mob stoned a\npolice chowki there, while violence contin-\nued in the central parts of Gujarat. Arsonists\nset ablaze a post office and a policeman was\ninjured in stone-pelting. Four people were ar-\nrested in this connection.\n\nINDIAAND SRI Lanka have agreed to take early\nsteps to defuse and cease the ethnic violence\nso that conditions are created for finding a\ndurable political settlement acceptable to all\nconcermed. In a joint press statement issued\nat the conclusion of the visit of the Sri Lankan\nPresident, J R Jayewardene, both sides have",
+   "ocr_conf": 93.21818181818182,
+   "ocr_low_conf_share": 0.030303030303030304,
+   "headline": "JUNE 4, 1985, FoRTY YEARS AGO",
+   "deck": "ASSAM TALKS JOINT STATEMENT",
+   "byline": "MOB TEARGASSED",
+   "text": "THE MONTH-LONG talks between the Centre and the Assam agitation leaders on resolving thevexed foreign nationals issue seem to have reached a crucial stage. Both Governor, Bhishma Narain Singh and Chief Minister, Hiteshwar Saikia are now in the capital to be available for consultations. However, according to informed sources, there are still some differences on the cut-off year as well as the question of disenfranchisement..\n\ntown of Patan when a violent mob stoned a police chowki there, while violence continued in the central parts of Gujarat. Arsonists set ablaze a post office and a policeman was injured in stone-pelting. Four people were arrested in this connection.\n\nINDIAAND SRI Lanka have agreed to take early steps to defuse and cease the ethnic violence so that conditions are created for finding a durable political settlement acceptable to all concermed. In a joint press statement issued at the conclusion of the visit of the Sri Lankan President, J R Jayewardene, both sides have",
+   "n_words": 160,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      5536,
+      4177,
+      5690
+     ]
+    ],
+    "layout_words": 27,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "also agreed for speedy restoration ofnormalcy\nin the northern and eastem provinces of Sri\nLanka, conducive to the return of the Sri\nLankan Tamil refugees in India,",
+   "ocr_conf": 88.96296296296296,
+   "ocr_low_conf_share": 0.07407407407407407,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "also agreed for speedy restoration ofnormalcy in the northern and eastem provinces of Sri Lanka, conducive to the return of the Sri Lankan Tamil refugees in India,",
+   "n_words": 27,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3573,
+      5738,
+      4177,
+      6160
+     ]
+    ],
+    "layout_words": 68,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "TECHNOLOGY IMPORT\nPRIME MINISTER RAJIV Gandhi's forthcom-\ning visit to the US is likely to open new vistas\nof cooperation in the field of \u201chigh technol-\nogy\u201d, flow of investment in infrastructure sec-\ntors of the Indian economy and diversification\noftradebetween the two \u201cthe vibrant democ-\nracies\u201d. During his direct talks with Ronald\nReagan, Gandhi will also try to personally get\nto know and understand the US President.",
+   "ocr_conf": 91.58823529411765,
+   "ocr_low_conf_share": 0.04411764705882353,
+   "headline": "",
+   "deck": "",
+   "byline": "TECHNOLOGY IMPORT",
+   "text": "PRIME MINISTER RAJIV Gandhi's forthcoming visit to the US is likely to open new vistas of cooperation in the field of \"high technology\", flow of investment in infrastructure sectors of the Indian economy and diversification oftradebetween the two \"the vibrant democracies\". During his direct talks with Ronald Reagan, Gandhi will also try to personally get to know and understand the US President.",
+   "n_words": 62,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 23.0,
+ "flags": [
+  "3 kept article(s) without a headline"
+ ]
+}

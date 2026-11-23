@@ -1,0 +1,539 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_09_editorial",
+ "source_file": "2025-12-09_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-09_editorial.png",
+ "date": "2025-12-09",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 483,
+  "n_lines": 562,
+  "mean_line_conf": 89.15289019501654,
+  "orphan_words": 0,
+  "body_words_total": 3488
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      421,
+      579,
+      1104,
+      644
+     ]
+    ],
+    "deck_boxes": [
+     [
+      369,
+      697,
+      1157,
+      814
+     ]
+    ],
+    "body_boxes": [
+     [
+      681,
+      840,
+      844,
+      871
+     ],
+     [
+      573,
+      920,
+      951,
+      995
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "$ The IndianEXPRESS",
+   "deck_raw": "~ FOUNDED BY ~\nRAMNATH GOENKA",
+   "body_raw": "IN 1932\n\nBECAUSE THE TRUTH\nINVOLVES US ALL",
+   "ocr_conf": 95.375,
+   "ocr_low_conf_share": 0.0,
+   "headline": "$ The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1434,
+      565,
+      4049,
+      878
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      952,
+      1904,
+      2578
+     ]
+    ],
+    "layout_words": 246
+   },
+   "headline_raw": "To fulfil STEM potential, India must\ncastthe net wider. goto the roots",
+   "deck_raw": "",
+   "body_raw": "RECENT NEWS report says\nthat the government has\nasked ministries and depart-\nments to re-examine how\nguides for doctoral degrees\nare selected. According to it, the govern-\nmentintends for research to be largely con-\nfined to \u201ctopics that fit emerging needs and\npriorities of the country\u201d, believing that\nPhD programmes should be \u201creoriented to\npromote innovation and development of\nnew relevant ideas and technologies\u201d.\nThat research of direct relevance tothe\ncountry should be supported and pro-\nmoted is inarguable. It is a good starting\npoint to ask where public money is being\nspent \u2014 itshould bein ways that can be ex-\nplained to the public. This also includes\ncommunicating the importance of re-\nsearch that has no foreseeable application.\nThis is as true for STEM (science, technol-\nogy, engineering, and mathematics) sub-\njects as fornon-STEM ones,\nThe obvious areas of immediate rel-\nevance to Indiainclude renewable energy,\nbattery technology, sustainable agricul-\nture, and health technologies. These areas\ntend to be well-supported anyway, though\nmainly through a variety of national\nmissions spread across several ministries\nand government departments. Standard\ngovernment grant mechanisms can be\nenhanced easily if additional support\nmust be directed to such areas. But direct\napproaches such as these can be subtly\nflawed. This is because they are targeted\nto the present and not to the future.\nThinking long-term, there\u2019s a broader vir-\ntue in building the imagination and agil-\nity torespond to what mightunfold in the\nfuture rather than to simply go with what",
+   "ocr_conf": 93.95528455284553,
+   "ocr_low_conf_share": 0.0,
+   "headline": "To fulfil STEM potential, India must castthe net wider. goto the roots",
+   "deck": "",
+   "byline": "",
+   "text": "RECENT NEWS report says that the government has asked ministries and departments to re-examine how guides for doctoral degrees are selected. According to it, the govern-mentintends for research to be largely confined to \"topics that fit emerging needs and priorities of the country\", believing that PhD programmes should be \"reoriented to promote innovation and development of new relevant ideas and technologies\". That research of direct relevance tothe country should be supported and promoted is inarguable. It is a good starting point to ask where public money is being spent - itshould bein ways that can be explained to the public. This also includes communicating the importance of research that has no foreseeable application. This is as true for STEM (science, technology, engineering, and mathematics) subjects as fornon-STEM ones, The obvious areas of immediate relevance to Indiainclude renewable energy, battery technology, sustainable agriculture, and health technologies. These areas tend to be well-supported anyway, though mainly through a variety of national missions spread across several ministries and government departments. Standard government grant mechanisms can be enhanced easily if additional support must be directed to such areas. But direct approaches such as these can be subtly flawed. This is because they are targeted to the present and not to the future. Thinking long-term, there's a broader virtue in building the imagination and agility torespond to what mightunfold in the future rather than to simply go with what",
+   "n_words": 234,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2695,
+      745,
+      3908,
+      914
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1947,
+      951,
+      3527,
+      2578
+     ],
+     [
+      2924,
+      951,
+      3531,
+      2579
+     ],
+     [
+      2658,
+      1228,
+      2822,
+      1265
+     ],
+     [
+      2482,
+      2142,
+      2994,
+      2540
+     ],
+     [
+      1948,
+      2424,
+      3529,
+      2459
+     ],
+     [
+      3576,
+      952,
+      4184,
+      2421
+     ],
+     [
+      3646,
+      2465,
+      4176,
+      2573
+     ]
+    ],
+    "layout_words": 759
+   },
+   "headline_raw": "er, gotothe roots",
+   "deck_raw": "",
+   "body_raw": "we see most clearly now. prominent public universities, has not\nIn science, developments in applied been paid for the past nine months. Her\nareas typically lag basic research, some- Be case is not atypical.\ntimes by decades. This year\u2019s Nobel Prize eis Some years ago, an innovative idea was\nin Physics is a good example. An experi- ia implemented, that of transferring fellow-\nment, done in the 1980s, that demon- a ship amounts directlyto the bank accounts\nstrated that quantum mechanics could ofPhDstudents. This eliminated aspecific\nmanifest at ascale much larger than that of GAUTAM corrupt practice, whereby some institu-\nsingle atoms, is of relevance to quantum I MENON tions would siphon off a cut from the PhD\ncomputers, an application that wasn\u2019teven . \u2014\u2014_ .__ scholar\u2019s stipend before paying them. How-\nreferred to inthe original papers. ever, given the payment delaysthat existin\nThe success of Bell Laboratories, an practice, institutions cannot support stu-\nAmerican industrial lab that once held dents in the interim because of the com-\nsome of the most impactful patents glo- plexities of getting reimbursed.\nbally (forexample, thetransistor, the laser, A large number of university-funded\nand optical fibre technology), was due, in PhD students in India, the non-NET stu-\nlarge part, to aculture ofbasic research that dents, receive a stipend of Rs 8,000 per\nwas aided by considerable freedom to ex- month, which is below the minimum\nplore directions of no immediate relevance wage. This amount has remained un-\nto the company. Concentrating on ident- changed since 2012. To supplement this\nifying areas that seem obvious at present meagre income, students must take on\nis superficially attractive. For one, progress temporary teaching appointments. This\ncan be easily quantified. But a more reduces the time and attention they can\nmeasured approach would recognise the devote toresearch.\nvalue of indirect approaches, those that ad- Here\u2019s another problem: Industry-\ndress core problems of supporting the funded PhDs are few and far between.\nlarger enterprise of knowledge creation, They are absent altogether outside a few\nwhether in science and technology or IITs and similar institutions. This is for sev-\nmore broadly. eral reasons, among them a historical dis-\nHere\u2019s one such problem: Pick connect between industry and\nany government-funded student, Ensuring the timely academia and the feeling that In-\none who receives afellowshipdi- dishursementofsalariesand \u2018ian academia cannot deliver on\nrectly. Fellowships awarded by ss : A its promises in a timely manner.\nagencies such asthe DST and the fellowships Isa basic hygiene There\u2019s a case for training Indian\nUGC are examples. The likeli- factor that Indian higher PhDs to be able to better exploit\nhood is that they receive their educationneedstoaddress. __ the potential for such collabora-\nscholarships only at intermittent That this issue remains tions as well as to improve the\nintervals, often separated by : ability of institutionsand advisors\nmonths. A friend, awarded a pres- unsolved signals to manage them.\ntigious government research fel- deeper problems Finally, there are large parts of\nlowship at one of India\u2019s most ' academic investigation that have\n\nprominent public universities, has not\nbeen paid for the past nine months. Her\ncase is not atypical.\nSome years ago, an innovative idea was\nimplemented, that of transferring fellow-\nship amounts directlyto the bank accounts\nofPhDstudents. This eliminated aspecific\ncorrupt practice, whereby some institu-\ntions would siphon off a cut from the PhD\nscholar\u2019s stipend before paying them. How-\never, given the payment delaysthat existin\npractice, institutions cannot support stu-\ndents in the interim because of the com-\nplexities of getting reimbursed.\nA large number of university-funded\nPhD students in India, the non-NET stu-\ndents, receive a stipend of Rs 8,000 per\nmonth, which is below the minimum\nwage. This amount has remained un-\nchanged since 2012. To supplement this\nmeagre income, students must take on\ntemporary teaching appointments. This\nreduces the time and attention they can\ndevote toresearch.\nHere\u2019s another problem: Industry-\nfunded PhDs are few and far between.\nThey are absent altogether outside a few\nIITs and similar institutions. This is for sev-\neral reasons, among them a historical dis-\nconnect between industry and\nacademia and the feeling that In-\nand dian academia cannot deliver on\niene its promises in a timely manner.\nThere\u2019s a case for training Indian\ner PhDs to be able to better exploit\ness. the potential for such collabora-\n1S tions as well as to improve the\nability of institutionsand advisors\nto manage them.\nFinally, there are large parts of\nacademic investigation that have\n\nGAUTAM\n\nEnsuring the timely\ndisbursement of salaries and\nfellowships is a basic hygiene\nfactor that Indian higher\neducation needs to address.\nThat this issue remains\nunsolved signals\ndeeper problems\n\nintervals, often separated by ete dcte ale ability of institutionsand advisors\n\nlittle or nothing to do with industry orap-\nplications. These include philosophy, soci-\nology, history, political science, and soon.\nUnbiased enquiry in these areas ofthe hu-\nmanities and social sciences is an essential\npart of what makes us human. But these\nare also areas where the question of\n\u201ctopics that fit emerging needs and prio-\nrities of the country\u201d is subject to most\npolitical interference. Devaluing research\nand training in non-STEM subjects will\nnot help produce scientists and engineers\nwho are in any way better placed to ad-\ndress India\u2019s needs.\nIn management theory, hygiene factors\nare components that, if absent or inad-\nequate, lead to demotivation. Their pres-\nence only ensures employees are not un-\nhappy. Specific motivators supplement\nthem, including a supportive work en-\nvironment and the conviction that one\u2019s\nwork is important.\nBut there's no greater demotivatorthan\nnot being paid \u2014 or being paid very poorly\n\u2014 for one\u2019s work. Ensuring the timely dis-\nbursement of salaries and fellowships that\ncome from the government is a basic hy-\ngiene factor that Indian higher education\nneeds to address. That this issue remains\nstubbornly unsolved signals deep prob-\nlems with the way we treat the most vulner-\nable of our researchers.\nTosimply do better at what we're doing\nnow, as opposed to finding new and more\nglamorous things to do, is not often priori-\ntised. If we don\u2019t get these basics right, we\nwill not get anything else right.\n\nMenonis a professor at Ashoka University.\nViews are his own and do not represent\nthose of his institution",
+   "ocr_conf": 89.42665388302972,
+   "ocr_low_conf_share": 0.06999041227229147,
+   "headline": "er, gotothe roots",
+   "deck": "",
+   "byline": "",
+   "text": "we see most clearly now. prominent public universities, has not In science, developments in applied been paid for the past nine months. Her areas typically lag basic research, some- Be case is not atypical. times by decades. This year's Nobel Prize eis Some years ago, an innovative idea was in Physics is a good example. An experi- ia implemented, that of transferring fellow-ment, done in the 1980s, that demon- a ship amounts directlyto the bank accounts strated that quantum mechanics could ofPhDstudents. This eliminated aspecific manifest at ascale much larger than that of GAUTAM corrupt practice, whereby some institusingle atoms, is of relevance to quantum I MENON tions would siphon off a cut from the PhD computers, an application that wasn'teven. - - _.__ scholar's stipend before paying them. Howreferred to inthe original papers. ever, given the payment delaysthat existin The success of Bell Laboratories, an practice, institutions cannot support stu-American industrial lab that once held dents in the interim because of the comsome of the most impactful patents glo- plexities of getting reimbursed. bally (forexample, thetransistor, the laser, A large number of university-funded and optical fibre technology), was due, in PhD students in India, the non-NET stularge part, to aculture ofbasic research that dents, receive a stipend of Rs 8,000 per was aided by considerable freedom to ex- month, which is below the minimum plore directions of no immediate relevance wage. This amount has remained unto the company. Concentrating on ident- changed since 2012. To supplement this ifying areas that seem obvious at present meagre income, students must take on is superficially attractive. For one, progress temporary teaching appointments. This can be easily quantified. But a more reduces the time and attention they can measured approach would recognise the devote toresearch. value of indirect approaches, those that ad- Here's another problem: Industry-dress core problems of supporting the funded PhDs are few and far between. larger enterprise of knowledge creation, They are absent altogether outside a few whether in science and technology or IITs and similar institutions. This is for sevmore broadly. eral reasons, among them a historical dis-Here's one such problem: Pick connect between industry and any government-funded student, Ensuring the timely academia and the feeling that Inone who receives afellowshipdi- dishursementofsalariesand 'ian academia cannot deliver on rectly. Fellowships awarded by ss: A its promises in a timely manner. agencies such asthe DST and the fellowships Isa basic hygiene There's a case for training Indian UGC are examples. The likeli- factor that Indian higher PhDs to be able to better exploit hood is that they receive their educationneedstoaddress. __ the potential for such collaborascholarships only at intermittent That this issue remains tions as well as to improve the intervals, often separated by: ability of institutionsand advisors months. A friend, awarded a pres- unsolved signals to manage them. tigious government research fel- deeper problems Finally, there are large parts of lowship at one of India's most ' academic investigation that have\n\nprominent public universities, has not been paid for the past nine months. Her case is not atypical. Some years ago, an innovative idea was implemented, that of transferring fellowship amounts directlyto the bank accounts ofPhDstudents. This eliminated aspecific corrupt practice, whereby some institutions would siphon off a cut from the PhD scholar's stipend before paying them. However, given the payment delaysthat existin practice, institutions cannot support students in the interim because of the complexities of getting reimbursed. A large number of university-funded PhD students in India, the non-NET students, receive a stipend of Rs 8,000 per month, which is below the minimum wage. This amount has remained unchanged since 2012. To supplement this meagre income, students must take on temporary teaching appointments. This reduces the time and attention they can devote toresearch. Here's another problem: Industry-funded PhDs are few and far between. They are absent altogether outside a few IITs and similar institutions. This is for several reasons, among them a historical disconnect between industry and academia and the feeling that Inand dian academia cannot deliver on iene its promises in a timely manner. There's a case for training Indian er PhDs to be able to better exploit ess. the potential for such collabora- 1S tions as well as to improve the ability of institutionsand advisors to manage them. Finally, there are large parts of academic investigation that have\n\nGAUTAM\n\nEnsuring the timely disbursement of salaries and fellowships is a basic hygiene factor that Indian higher education needs to address. That this issue remains unsolved signals deeper problems\n\nintervals, often separated by ete dcte ale ability of institutionsand advisors\n\nlittle or nothing to do with industry orapplications. These include philosophy, sociology, history, political science, and soon. Unbiased enquiry in these areas ofthe humanities and social sciences is an essential part of what makes us human. But these are also areas where the question of \"topics that fit emerging needs and priorities of the country\" is subject to most political interference. Devaluing research and training in non-STEM subjects will not help produce scientists and engineers who are in any way better placed to address India's needs. In management theory, hygiene factors are components that, if absent or inadequate, lead to demotivation. Their presence only ensures employees are not unhappy. Specific motivators supplement them, including a supportive work environment and the conviction that one's work is important. But there's no greater demotivatorthan not being paid - or being paid very poorly - for one's work. Ensuring the timely disbursement of salaries and fellowships that come from the government is a basic hygiene factor that Indian higher education needs to address. That this issue remains stubbornly unsolved signals deep problems with the way we treat the most vulnerable of our researchers. Tosimply do better at what we're doing now, as opposed to finding new and more glamorous things to do, is not often prioritised. If we don't get these basics right, we will not get anything else right.\n\nMenonis a professor at Ashoka University. Views are his own and do not represent those of his institution",
+   "n_words": 1004,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      352,
+      1087,
+      1174,
+      1275
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1309,
+      1206,
+      2974
+     ]
+    ],
+    "layout_words": 391
+   },
+   "headline_raw": "On fire safety, break\nsilence and complicity",
+   "deck_raw": "",
+   "body_raw": "HEFIRE thatbrokeouton Saturday nightat anightclub\nin Goa\u2019s Arpora village, and claimed 25 lives, was atra-\ngedy foretold. Lacking the requisite permissions and\nlicences, including a no-objection certificate from the\nfire department, the alleged illegalities at the Arpora establish-\nment had already been flagged multiple times, including by the\nvillage panchayat. There wereseveral glaring lapsesin fire safety\ncomplianceas well: Fundamental safety infrastructure was miss-\ning, including proper exits through which people could escape.\nThebasement, which housed the kitchen, lacked adequate venti-\nlation. Flammable material, including bamboo, appears to have\nbeen used in the furnishings and decor. The people inside were,\nin other words, trapped in what was a virtual tinderbox.\nThis latest conflagration fits a longer and larger dismal pat-\ntern of callousness and shocking disregard of fire safety laws.\nThis has led to other fire disasters in recent memory, including\nthe one that broke out ina Jaipur hospital in October, resulting\nin six deaths, and the blazes that broke out, within 12 hours of\neach other, at a paediatric hospital in Delhianda gaming centre\nin Rajkot in June last year, resulting in several fatalities. Clearly,\nthere is a yawning chasm between fire safety mles and guide-\nlines, as found inthe National Building Code and variousstate\nlaws, and their enforcement on the ground in an ecosystem\nwhere such tules are often flouted in the interest ofgrowth and\nexpansion. As high-rises and commercial establishments like\nrestaurants, pubs, shopping malls andclubs mushroom across\ncities andtowns, especially in densely populated metropolises\nlike Delhiand Mumbai and in tourist destinations like Goa, this\ntendency to cut corners has repeatedly led to disaster \u2014 be it\ntheinferno that engulfed two establishmentsin Mumhai\u2019s Ka-\nmala Mills in 2017 and the hotel fire in Delhi\u2019s Karol Bagh in\n2019 or the one in Arpora on Saturday.\nIn a belated effort to fix accountability, the state govern-\nment has formed afour-member magisterial inquiry commit-\ntee. Looking into the specific lapses that led to this avoidable\ntragedy is certainly important. But there also needs to bea\nlarger reckoning with the lack of fire safety compliance in the\ncountry. From hospitals to hotels to residences, every fire is a\nreminder of how widely, and with what impunity, safety codes\nand laws are routinely given the go-by. The networks of silence\nand complicity that allow such illegalities to flourish must be\ndismantled urgently.",
+   "ocr_conf": 88.46410256410256,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "On fire safety, break silence and complicity",
+   "deck": "",
+   "byline": "",
+   "text": "HEFIRE thatbrokeouton Saturday nightat anightclub in Goa's Arpora village, and claimed 25 lives, was atragedy foretold. Lacking the requisite permissions and licences, including a no-objection certificate from the fire department, the alleged illegalities at the Arpora establishment had already been flagged multiple times, including by the village panchayat. There wereseveral glaring lapsesin fire safety complianceas well: Fundamental safety infrastructure was missing, including proper exits through which people could escape. Thebasement, which housed the kitchen, lacked adequate ventilation. Flammable material, including bamboo, appears to have been used in the furnishings and decor. The people inside were, in other words, trapped in what was a virtual tinderbox. This latest conflagration fits a longer and larger dismal pattern of callousness and shocking disregard of fire safety laws. This has led to other fire disasters in recent memory, including the one that broke out ina Jaipur hospital in October, resulting in six deaths, and the blazes that broke out, within 12 hours of each other, at a paediatric hospital in Delhianda gaming centre in Rajkot in June last year, resulting in several fatalities. Clearly, there is a yawning chasm between fire safety mles and guide-lines, as found inthe National Building Code and variousstate laws, and their enforcement on the ground in an ecosystem where such tules are often flouted in the interest ofgrowth and expansion. As high-rises and commercial establishments like restaurants, pubs, shopping malls andclubs mushroom across cities andtowns, especially in densely populated metropolises like Delhiand Mumbai and in tourist destinations like Goa, this tendency to cut corners has repeatedly led to disaster - be it theinferno that engulfed two establishmentsin Mumhai's Kamala Mills in 2017 and the hotel fire in Delhi's Karol Bagh in 2019 or the one in Arpora on Saturday. In a belated effort to fix accountability, the state government has formed afour-member magisterial inquiry committee. Looking into the specific lapses that led to this avoidable tragedy is certainly important. But there also needs to bea larger reckoning with the lack of fire safety compliance in the country. From hospitals to hotels to residences, every fire is a reminder of how widely, and with what impunity, safety codes and laws are routinely given the go-by. The networks of silence and complicity that allow such illegalities to flourish must be dismantled urgently.",
+   "n_words": 381,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      2759,
+      2708,
+      3016
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      3061,
+      2226,
+      3294
+     ],
+     [
+      1358,
+      3372,
+      1513,
+      3409
+     ],
+     [
+      1298,
+      3380,
+      2226,
+      4729
+     ],
+     [
+      2271,
+      3062,
+      2879,
+      5127
+     ],
+     [
+      2316,
+      5173,
+      2946,
+      5246
+     ],
+     [
+      2225,
+      5405,
+      2507,
+      5444
+     ],
+     [
+      2178,
+      5490,
+      2825,
+      5963
+     ],
+     [
+      2223,
+      6016,
+      2820,
+      6122
+     ]
+    ],
+    "layout_words": 645
+   },
+   "headline_raw": "A defence partnership that\naddresses global challenges",
+   "deck_raw": "",
+   "body_raw": "HE TRUE test of a strong de-\nfence relationship lies in our\nmilitaries\u2019 ability to work to-\ngether on theground. [havehad\nthe privilege of visiting India\ntwice this year and have witnessed a defence\n\nCOAKER\n\nCOAKER ting the intent for future cooperation.\nTTT This refreshed commitmentto working\ntogether is already being fulfilled. Recently,\nsoldiers from the British Army\u2019s Royal\nGurkha Rifles trained alongside the Indian\nArmy\u2019s Sikh Regimentin the eighth edition\nof Exercise Ajeya Warrior in Rajasthan. With\nevery iteration, this exercise has grown in\ncomplexity and depth, increasing our level\nofunderstanding. When the UK hosted the\nIndian Army for Ajeya Warrior in 2023, a\ncompany of Indian soldiers integrated\nwithin the British Army\u2019s 16th Air Assault\nBrigade, providing invaluable experience\nto the two forces, operating in a unified\ncommandand leaving us withan increased\nmutual understanding of military capabil-\nities and tactics. This year, the exercise fo-\ncused on executing complex operations in\namulti-domainenvironment. This was also\nan opportunity for our soldiers to develop\nprofessional bonds and friendships.\nAjeya Warrior is just one exampleina\nseries of exercises we ve delivered together.\nIn October, the UK\u2019s Carrier Strike\nGroup, led by HMS Prince of Wales, exer-\nTheUKisan _ cised with India\u2019s Carrier Strike Group, led\nenthusiastic by the indigenous aircraft carrier INS Vik-\npartnerin fant. These immense naval flotillas spent\nour days completing complex maritime\nsupportofPM manoeuvres as part of Exercise KONKAN,\nModi\u2019svisionto followed by a testing air defence exercise.\nbecomea Not only was this the first time that UKand\ndevalaned Indian carriers exercised together, but it\n\nvision of self-reliance whilst driving econ-\nomic growth in the UK. The two countries\nhave recently agreed on a 10-year Defence\nIndustrial Roadmap. The complementary\nstrengths of India\u2019s and the UK\u2019s defence\nindustry provide excellent opportunities\nfor collaboration, and some of them have\nalready started delivering results.\nOur prime ministers were also proud to\nannounce a \u00a3350-million agreement to\nproceed via government-to-governmentto\nsupply Lightweight Multirole Missile sys-\ntems forthe Indian Army. Weare in motion\nto finalise a UK-India inter-governmental\nagreement on cooperation in developing\nmaritime electric propulsion systems for\nIndian naval platforms. This will deliver UK\ninnovations aboard Indian naval ships, of-\nfering a more advanced propulsion tech-\nnology for its future platforms.\nKnowledge sharing is also at the heart\nof our defence cooperation \u2014 from military\nto industrial. We are honoured to host In-\ndian officers as instructors at our world-re-\nnowned UK military institutions, including\nthe Royal Military Academy Sandhurst and\nBritannia Royal Naval College. And weare\nworking towards an agreement that would\nsee Indian Air Force Qualified Flying In-\nstructors integrated into the UK Royal Air\nForcetraining.\nAll these commitments attest to a core\nprinciple the UK and India share \u2014 the\ncommitment to maintain a free and open\nIndo-Pacific, based on the respect for sov-\nereignty, freedom of navigation and inter-\nnational law. India stands as one of the\nemerging superpowers of the 21st century,\nand the UK is an enthusiastic partnerin\nsupport ofPM Modi\u2019svision tobecomeade-\nveloped nation by 2047. We believe our\ndeepening partiership and shared commit-\nment to security have boundless potential\nto address regional and global challenges.\nThe recent India-UK Comprehensive\nEconomic and Trade Agreement comple-\nments and reinforces our defence cooper-\nation, creating a virtuous circle ofsecurity\nand prosperity. Our recent exercises dem-\nonstrate ourcommitment todeliversecur-\nity and prosperity that benefits people\nacross both our nations, and beyond.\n\nThe writer is Minister of State for Defence of\nthe United Kingdom \u2014\u2014\n\nSAARC launch\n\nThe seven South Asian leaders launched the\nworld's most populous regional grouping\nwith the hope that it would improve these-\ncurity environment in the region and that co-\noperation among themin the economic and\ncultural fields will result in a better life for\ntheir peoples. On the final day of their first-\never summit, the heads of state of Bangla-\ndesh, Bhutan, India, the Maldives, Nepal,\n| Pakistan and Sri Lanka adopted a charter giv-\ning birth to the South Asian Association for\nRegional Cooperation (SAARC).\n\nH MErshadonSAARC\nThePresident of Bangladesh, Lt Gen H MEr-",
+   "ocr_conf": 89.54464285714286,
+   "ocr_low_conf_share": 0.05952380952380952,
+   "headline": "A defence partnership that addresses global challenges",
+   "deck": "",
+   "byline": "COAKER",
+   "text": "HE TRUE test of a strong defence relationship lies in our militaries' ability to work together on theground. [havehad the privilege of visiting India twice this year and have witnessed a defence\n\nCOAKER ting the intent for future cooperation. TTT This refreshed commitmentto working together is already being fulfilled. Recently, soldiers from the British Army's Royal Gurkha Rifles trained alongside the Indian Army's Sikh Regimentin the eighth edition of Exercise Ajeya Warrior in Rajasthan. With every iteration, this exercise has grown in complexity and depth, increasing our level ofunderstanding. When the UK hosted the Indian Army for Ajeya Warrior in 2023, a company of Indian soldiers integrated within the British Army's 16th Air Assault Brigade, providing invaluable experience to the two forces, operating in a unified commandand leaving us withan increased mutual understanding of military capabilities and tactics. This year, the exercise focused on executing complex operations in amulti-domainenvironment. This was also an opportunity for our soldiers to develop professional bonds and friendships. Ajeya Warrior is just one exampleina series of exercises we ve delivered together. In October, the UK's Carrier Strike Group, led by HMS Prince of Wales, exer-TheUKisan _ cised with India's Carrier Strike Group, led enthusiastic by the indigenous aircraft carrier INS Vikpartnerin fant. These immense naval flotillas spent our days completing complex maritime supportofPM manoeuvres as part of Exercise KONKAN, Modi'svisionto followed by a testing air defence exercise. becomea Not only was this the first time that UKand devalaned Indian carriers exercised together, but it\n\nvision of self-reliance whilst driving economic growth in the UK. The two countries have recently agreed on a 10-year Defence Industrial Roadmap. The complementary strengths of India's and the UK's defence industry provide excellent opportunities for collaboration, and some of them have already started delivering results. Our prime ministers were also proud to announce a \u00a3350-million agreement to proceed via government-to-governmentto supply Lightweight Multirole Missile systems forthe Indian Army. Weare in motion to finalise a UK-India inter-governmental agreement on cooperation in developing maritime electric propulsion systems for Indian naval platforms. This will deliver UK innovations aboard Indian naval ships, offering a more advanced propulsion technology for its future platforms. Knowledge sharing is also at the heart of our defence cooperation - from military to industrial. We are honoured to host Indian officers as instructors at our world-renowned UK military institutions, including the Royal Military Academy Sandhurst and Britannia Royal Naval College. And weare working towards an agreement that would see Indian Air Force Qualified Flying Instructors integrated into the UK Royal Air Forcetraining. All these commitments attest to a core principle the UK and India share - the commitment to maintain a free and open Indo-Pacific, based on the respect for sovereignty, freedom of navigation and international law. India stands as one of the emerging superpowers of the 21st century, and the UK is an enthusiastic partnerin support ofPM Modi'svision tobecomeadeveloped nation by 2047. We believe our deepening partiership and shared commitment to security have boundless potential to address regional and global challenges. The recent India-UK Comprehensive Economic and Trade Agreement complements and reinforces our defence cooperation, creating a virtuous circle ofsecurity and prosperity. Our recent exercises demonstrate ourcommitment todeliversecurity and prosperity that benefits people across both our nations, and beyond.\n\nThe writer is Minister of State for Defence of the United Kingdom - -\n\nSAARC launch\n\nThe seven South Asian leaders launched the world's most populous regional grouping with the hope that it would improve these-curity environment in the region and that cooperation among themin the economic and cultural fields will result in a better life for their peoples. On the final day of their first-ever summit, the heads of state of Bangladesh, Bhutan, India, the Maldives, Nepal, Pakistan and Sri Lanka adopted a charter giving birth to the South Asian Association for Regional Cooperation (SAARC).\n\nH MErshadonSAARC ThePresident of Bangladesh, Lt Gen H MEr-",
+   "n_words": 645,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2974,
+      2766,
+      4105,
+      3005
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2974,
+      4357,
+      3243,
+      5204
+     ],
+     [
+      2874,
+      5410,
+      3478,
+      5924
+     ],
+     [
+      2874,
+      5978,
+      3444,
+      6123
+     ],
+     [
+      3294,
+      3063,
+      4179,
+      5128
+     ],
+     [
+      3589,
+      5174,
+      4176,
+      5247
+     ],
+     [
+      3526,
+      5411,
+      4126,
+      5645
+     ],
+     [
+      3526,
+      5699,
+      4126,
+      6116
+     ]
+    ],
+    "layout_words": 704
+   },
+   "headline_raw": "IndiGo crisis is aclassic case\nof corporate negligence",
+   "deck_raw": "",
+   "body_raw": "The meltdown\nhas exposeda\nharsh truth: In\nour current\nsystem,\npassengers\nabsorb the\ndamage while\ncompanies\nwalk away.\nIndians\ndeserve more\nthan apologies\nand automated\nmessages.\nThey deserve\naccountability\n\nshad, said that the scope of SAARC willbe ex-\npanded to cover trade and other issues in due\ncourse. Though the contentious bilateralis-\nsues are outside the charter of the SAARC,\nGen Ershad, who will be the chairman ofthe\nnewly founded regional organisation for one\nyear, said that it could providea forum for re-\nsolving outstanding bilateralissues between\nthem. Gen Ershad said that only regional is-\nsues were discussed during the informal\nmeetings among the heads of state and gov-\nernment and issues suchas Afghanistan and\nKampuchea did not figure in it.\n\nCampaign tensionsinAssam\nTension is building up in the northeastern\nstate of Assam as electioneering is picking\n\nNDIGO, THE airline that controls India\u2019s domestic skies,\nhas left thousands stranded as its network collapses\nunder new pilot fatigue rules. The ironyispainful: Regu-\nlationsmeant to protect passengers have instead become\na catalyst for passenger suffering. But let\u2019s be clear: The\nrules are not the problem. The revised Flight Duty Time Limi-\ntations (FDTL) were announced well in advance, aimed at re-\nducing pilot fatigue that can lead to deadly mistakes. Airlines\nhad more than a year to prepare: Recruit, rebalance schedules\nand strengthen operations.\nThey didn\u2019t A phased rollout \u2014 Julyand November \u2014 gave\nIndiGoeven more time. Yet when the day arrived, IndiGo's net-\nwork collapsed. Instead of readiness, there was chaos. Instead\nof accountability, there were excuses. The rules were put in\nplaceto combat pilot fatigue and ensure passenger safety.\nTechnically, the IndiGo collapse is a classic crew-planning\nand systemsintegration failure. The new FDTL rules, effective\nJune 1, reduced legal duty windows and increased rest. IndiGo\nappears notto have re- optimised its winter schedule, training\npipeline, and leave-planning to the newconstraints. Then there\nwas the captain bottleneck. Command-qualified pilotsare the\nscarcest resource. Training/upgrades, SIM slots, and base\nchanges lagged, so the network was \u201cover-scheduled\u201d relative\ntoavailable captains. The optimisation software likelyshowed\nfatigue warnings and uncovered pairings days in advance.\nEither parameters were mis-set or alerts overridden, so the\nroster was computer-generated but operationally non-robust,\nwith minimal standby buffers. Once asubset of pilots \u201ctimed-\nout\u201d under FDTL, the network granh fragmented. With point-\nto-point connectivity and thin reserves, recovery algorithms\nhad too few legal crew-aircraft combinations to rebuild rota-\ntions, so cancellations cascaded system-wide.\nAnd what do passengers receive? A one-line message: \u201cA re-\nfund has been processed.\u201d Refund? To parents who booked\nemergency flights fora medical procedure? To travellers who paid\n300 per cent higher prices for last-minute alternatives? To astu-\ndent whose college admission or visa slot is now gone? A refund\nreturns only the money you gave. A cancellation steals the life\nyou planned. The true cost ofa failed flight cannot be measured\ninrupees\u2014 ajob opportunity thatwon\u2019t come again, a lost chance\nat treatment or recovery, or a family milestone left behind.\nPassengers are not containersto be moved around; theyare\nhumans with lives that function on time, commitment, and\ncare. The IndiGocrisis isan outcome of avoidable corporate neg-\nligence from a company that Knows it is too big to be ignored.\nIndia is building world-class airports, expanding fleets, celebra-\nting aviation growth. But true progress is measured not by how\nmany planes take off, but by how airlines treat the people who\nboard them. The meltdown has exposed a harsh truth: In our\ncurrent system, passengers absorb the damage while companies\nwalkaway. Indians deservemore thanapologies and automated\nmessages. They deserve accountability.\n\nThe writer is an aviation professional with over\n35 years of experience in commercialairlines\n\nup. The state will go to polls on December 16\nto elect 126 members of the StateLegislative\nAssembly and14 members tothe Lok Sabha.\nThe ruling Congress (I) has adopted a de-\nfensive stand against the feverish campaign\nby the newly-formed Asom Gana Parishad.\n\nIndian sciencejournalssoar\nIndian scientific journals of repute have\ntoday becomethe most expensive in the\nworld, especially when sold in the devel-\noped world. These journals, published by\nthe Indian National Science Academy (INSA)\nand the Indian Academy of Sciences (IASc),\nhave been stocked by theleading libraries in\nthe US, Europe and practically all countries\nof the world.",
+   "ocr_conf": 89.30311614730878,
+   "ocr_low_conf_share": 0.056657223796033995,
+   "headline": "IndiGo crisis is aclassic case of corporate negligence",
+   "deck": "",
+   "byline": "",
+   "text": "The meltdown has exposeda harsh truth: In our current system, passengers absorb the damage while companies walk away. Indians deserve more than apologies and automated messages. They deserve accountability\n\nshad, said that the scope of SAARC willbe expanded to cover trade and other issues in due course. Though the contentious bilateralissues are outside the charter of the SAARC, Gen Ershad, who will be the chairman ofthe newly founded regional organisation for one year, said that it could providea forum for resolving outstanding bilateralissues between them. Gen Ershad said that only regional issues were discussed during the informal meetings among the heads of state and government and issues suchas Afghanistan and Kampuchea did not figure in it.\n\nCampaign tensionsinAssam Tension is building up in the northeastern state of Assam as electioneering is picking\n\nNDIGO, THE airline that controls India's domestic skies, has left thousands stranded as its network collapses under new pilot fatigue rules. The ironyispainful: Regulationsmeant to protect passengers have instead become a catalyst for passenger suffering. But let's be clear: The rules are not the problem. The revised Flight Duty Time Limitations (FDTL) were announced well in advance, aimed at reducing pilot fatigue that can lead to deadly mistakes. Airlines had more than a year to prepare: Recruit, rebalance schedules and strengthen operations. They didn't A phased rollout - Julyand November - gave IndiGoeven more time. Yet when the day arrived, IndiGo's network collapsed. Instead of readiness, there was chaos. Instead of accountability, there were excuses. The rules were put in placeto combat pilot fatigue and ensure passenger safety. Technically, the IndiGo collapse is a classic crew-planning and systemsintegration failure. The new FDTL rules, effective June 1, reduced legal duty windows and increased rest. IndiGo appears notto have re- optimised its winter schedule, training pipeline, and leave-planning to the newconstraints. Then there was the captain bottleneck. Command-qualified pilotsare the scarcest resource. Training/upgrades, SIM slots, and base changes lagged, so the network was \"over-scheduled\" relative toavailable captains. The optimisation software likelyshowed fatigue warnings and uncovered pairings days in advance. Either parameters were mis-set or alerts overridden, so the roster was computer-generated but operationally non-robust, with minimal standby buffers. Once asubset of pilots \"timedout\" under FDTL, the network granh fragmented. With pointto-point connectivity and thin reserves, recovery algorithms had too few legal crew-aircraft combinations to rebuild rota-tions, so cancellations cascaded system-wide. And what do passengers receive? A one-line message: \"A refund has been processed.\" Refund? To parents who booked emergency flights fora medical procedure? To travellers who paid 300 per cent higher prices for last-minute alternatives? To astudent whose college admission or visa slot is now gone? A refund returns only the money you gave. A cancellation steals the life you planned. The true cost ofa failed flight cannot be measured inrupees - ajob opportunity thatwon't come again, a lost chance at treatment or recovery, or a family milestone left behind. Passengers are not containersto be moved around; theyare humans with lives that function on time, commitment, and care. The IndiGocrisis isan outcome of avoidable corporate negligence from a company that Knows it is too big to be ignored. India is building world-class airports, expanding fleets, celebrating aviation growth. But true progress is measured not by how many planes take off, but by how airlines treat the people who board them. The meltdown has exposed a harsh truth: In our current system, passengers absorb the damage while companies walkaway. Indians deservemore thanapologies and automated messages. They deserve accountability.\n\nThe writer is an aviation professional with over 35 years of experience in commercialairlines\n\nup. The state will go to polls on December 16 to elect 126 members of the StateLegislative Assembly and14 members tothe Lok Sabha. The ruling Congress (I) has adopted a defensive stand against the feverish campaign by the newly-formed Asom Gana Parishad.\n\nIndian sciencejournalssoar Indian scientific journals of repute have today becomethe most expensive in the world, especially when sold in the developed world. These journals, published by the Indian National Science Academy (INSA) and the Indian Academy of Sciences (IASc), have been stocked by theleading libraries in the US, Europe and practically all countries of the world.",
+   "n_words": 689,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      380,
+      3036,
+      1140,
+      3226
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3259,
+      1205,
+      4728
+     ]
+    ],
+    "layout_words": 349
+   },
+   "headline_raw": "Food inflation dips\nbut that isn\u2019t enough",
+   "deck_raw": "",
+   "body_raw": "OWING OF rabicrops\u2014 wheat, mustard, chana, masoor\nand maize, among others\u2014hasbeenbrisk, with farmers\nplanting nearly 10 per cent more area so far this time\ncompared to last year. The main driver is thesurplusrain-\nfall from an extended southwest monsoon that has helped fill\nup reservoirs, recharge aquifers and bolster soil moisture. Also,\nfarmers who suffered crop losses from excess rain during the\nkharifseason are seeking to make up for it in rabi. The hike in\nthe government\u2019s minimum support prices (MSP), especially for\nwheat, has further boosted their enthusiasm. With the World\nMeteorological Organisation predicting a 55 per cent chance of\na \u201cweak\u201d La Nifia, which could result in a colder and longer\nwinter, the rabi crop prospects appear bright.\nThat is great news from a food inflation standpoint. The high\nretail food inflation, from mid-2023 through 2024, had signifi-\ncantly eroded household purchasing power and consumption\nspending. An easing of those pressures has, along with the in-\ncometax and GST rate cuts this fiscal, led toa revival in sentiment\nand also enabled the RBI to cut its key policy lending rate from\n6.50 per cent to 5.25 per cent since February. A bumper rabi har-\nVest and the tumaround even in commoditiessuch as wheat and\nsugar, whichwere facing atight supply situation, should ensure\nno fresh spike in food prices.\nThe flip side to food inflation being in negative/low single-\ndigitterritory since April, however, isthe impact on farm incomes.\nOfficial GDP data shows the gross value added for agriculture\ngrowing by 3.7 per cent year-on-year in April-June and 3.5 per\ncent in July-September 2025 at constant prices. But the corre-\nsponding growth rates at current prices have beenlower at 3.2 per\ncent and 1.8 per cent, implying defiationary pressiires. Extreme\nprice volatility is in the interest of neither producers or consumers.\nJustas high food inflation unsets household budget calculations,\ndeflation discourages farmers from planting and making long-\nterm investments in technology and land improvement. The\nlargeswings in farm pricesare alsoa manifestation of theabsence\nof reforms. Unlike in the industrial, financial and otherservices\nsectors, these have eluded and bypassed agriculture.",
+   "ocr_conf": 88.80515759312321,
+   "ocr_low_conf_share": 0.08022922636103152,
+   "headline": "Food inflation dips but that isn't enough",
+   "deck": "",
+   "byline": "",
+   "text": "OWING OF rabicrops - wheat, mustard, chana, masoor and maize, among others - hasbeenbrisk, with farmers planting nearly 10 per cent more area so far this time compared to last year. The main driver is thesurplusrainfall from an extended southwest monsoon that has helped fill up reservoirs, recharge aquifers and bolster soil moisture. Also, farmers who suffered crop losses from excess rain during the kharifseason are seeking to make up for it in rabi. The hike in the government's minimum support prices (MSP), especially for wheat, has further boosted their enthusiasm. With the World Meteorological Organisation predicting a 55 per cent chance of a \"weak\" La Nifia, which could result in a colder and longer winter, the rabi crop prospects appear bright. That is great news from a food inflation standpoint. The high retail food inflation, from mid-2023 through 2024, had significantly eroded household purchasing power and consumption spending. An easing of those pressures has, along with the incometax and GST rate cuts this fiscal, led toa revival in sentiment and also enabled the RBI to cut its key policy lending rate from 6.50 per cent to 5.25 per cent since February. A bumper rabi har-Vest and the tumaround even in commoditiessuch as wheat and sugar, whichwere facing atight supply situation, should ensure no fresh spike in food prices. The flip side to food inflation being in negative/low single-digitterritory since April, however, isthe impact on farm incomes. Official GDP data shows the gross value added for agriculture growing by 3.7 per cent year-on-year in April-June and 3.5 per cent in July-September 2025 at constant prices. But the corresponding growth rates at current prices have beenlower at 3.2 per cent and 1.8 per cent, implying defiationary pressiires. Extreme price volatility is in the interest of neither producers or consumers. Justas high food inflation unsets household budget calculations, deflation discourages farmers from planting and making long-term investments in technology and land improvement. The largeswings in farm pricesare alsoa manifestation of theabsence of reforms. Unlike in the industrial, financial and otherservices sectors, these have eluded and bypassed agriculture.",
+   "n_words": 345,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1302,
+      4706,
+      2225,
+      4843
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1341,
+      4850,
+      1526,
+      4948
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      4916,
+      2225,
+      5211
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "indljan Carriers exercised together, Out it\ndevelop ed was the first time an Indian carrier group\nnation by 2047. had participated in multi-domain military\nWebelieveour exercises with a multi-national carrier",
+   "deck_raw": "deepening\npartnership",
+   "body_raw": "hii SOLU INNA SLCAL ELEN COLANE AAANEECLER ES EELAIN, AVAEES\npartnership ister Narendra Modi met in Mumbai to\nand shared drive astronger, future-facing parmership.\ncommitment to Our militaries are working together\nsecurity have more closely than ever, and our cooper-\nboundless ation is not limited to joint exercises. Weare\n. entering a newera of defenceindustrial co-\npotential operation and co-production, designed to",
+   "ocr_conf": 75.58064516129032,
+   "ocr_low_conf_share": 0.22580645161290322,
+   "headline": "indljan Carriers exercised together, Out it develop ed was the first time an Indian carrier group nation by 2047. had participated in multi-domain military Webelieveour exercises with a multi-national carrier",
+   "deck": "deepening partnership",
+   "byline": "",
+   "text": "hii SOLU INNA SLCAL ELEN COLANE AAANEECLER ES EELAIN, AVAEES partnership ister Narendra Modi met in Mumbai to and shared drive astronger, future-facing parmership. commitment to Our militaries are working together security have more closely than ever, and our cooper-boundless ation is not limited to joint exercises. Weare. entering a newera of defenceindustrial copotential operation and co-production, designed to",
+   "n_words": 59,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1620,
+      4706,
+      2224,
+      4948
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1621,
+      4450,
+      2223,
+      4550
+     ],
+     [
+      1622,
+      4535,
+      2224,
+      4608
+     ],
+     [
+      1617,
+      4916,
+      2224,
+      5008
+     ],
+     [
+      1621,
+      5053,
+      2224,
+      5145
+     ],
+     [
+      1621,
+      5117,
+      2224,
+      5211
+     ]
+    ],
+    "body_boxes": [
+     [
+      1621,
+      5212,
+      2223,
+      5246
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "indljan Carriers exercised together, Out it\nwas the first time an Indian carrier group\nhad participated in multi-domain military\nexercises with a multi-national carrier\nstrike group. This came as UK Prime Min-\nister Keir Starmer and Indian Prime Min-\njerear Narendra Mandi merin Miumbaita",
+   "deck_raw": "by the indigenous aircraft carrier INS Vik-\nrant. These immense naval flotillas spent\nfair dave cnamnpnleoting camniey maritima\nfour days completing complex maritime\nmanoeuvres as part of Exercise KONKAN,\nSOLE ENN EE SLCALELEW ES CALAN LLANE CLEE A LELAIN LVAERS\nister Narendra Modi met in Mumbai to\ndrive astronger, future-facing parmership.\nmore closely than ever, and our cooper-\nation is not limited to joint exercises. We are\nentering s nowara nf deafenraindierrial ra\nMALES S Ses SAUL SEE SSE per aae Neda dee FE CL\nentering a newera of defenceindustrial co-\noperation and co-production, designed to",
+   "body_raw": "deliver mutual benefits: Supporting India\u2019s",
+   "ocr_conf": 95.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "indljan Carriers exercised together, Out it was the first time an Indian carrier group had participated in multi-domain military exercises with a multi-national carrier strike group. This came as UK Prime Minister Keir Starmer and Indian Prime Minjerear Narendra Mandi merin Miumbaita",
+   "deck": "by the indigenous aircraft carrier INS Vikrant. These immense naval flotillas spent fair dave cnamnpnleoting camniey maritima four days completing complex maritime manoeuvres as part of Exercise KONKAN, SOLE ENN EE SLCALELEW ES CALAN LLANE CLEE A LELAIN LVAERS ister Narendra Modi met in Mumbai to drive astronger, future-facing parmership. more closely than ever, and our cooperation is not limited to joint exercises. We are entering s nowara nf deafenraindierrial ra MALES S Ses SAUL SEE SSE per aae Neda dee FE CL entering a newera of defenceindustrial cooperation and co-production, designed to",
+   "byline": "",
+   "text": "deliver mutual benefits: Supporting India's",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      4794,
+      1195,
+      4983
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      312,
+      5012,
+      1203,
+      6201
+     ]
+    ],
+    "layout_words": 277
+   },
+   "headline_raw": "Cloud Dancer & a desire\nfor mental whitespace",
+   "deck_raw": "",
+   "body_raw": "NANNOUNCING \u201cCloud Dancer\u201d as its colour of 2026, Pan-\ntone has floated a white so airy it practically hums with the\npromise of a fresh start. It is the colour of a primed canvas\nbefore the first stroke, a clearmomiing sky without \u2014 ifone\nis in the national capital \u2014 the chokehold of pollution. The first\never shadeofwhite tobe chosensince Pantonebegan itsannual\nforecasting in 1999, there is something subversive about cham-\npioning a colour that refuses to stand out; an act of resistance\nagainst the unceasing sound and fury of a world in churn, a\n\u201cwhisper of calm in a noisy world\u201d, as the institute has putit.\nWhite, of course, has long served as art history\u2019s metaphor\nfor possibility. For much of her career, Canadian-American\nAgnes Martin drew what seemed to bethe sameimage over and\nover again \u2014 grids in white in many different variationssuch as\nThe Tree (1964) and On a Clear Day (1973). Diagnosed with para-\nnoid schizophrenia, the monasticscaffoiding ofthe white grids\nwas her way of making sense of what often appeared to be an ad-\nversarial world. Much before her, Russian artist Kazimir Male-\nvich\u2019s white-on-white paintings, particularly the1918 Suprema-\ntist Composition: White on White, spoke of modern art\u2019s\nself-containment.\nCloud Dancer\u2019s coronation has not gone without challenge.\nInatimeof vital social changethat demands radical political and\nenvironmental action, leaching all colour feels, it has been ar-\ngued, likepointless redaction, an aesthetised neutrality, But per-\nhaps, what Cloud Dancer really dredges up is acollective desire\nfor mental whitespace, an increasingly elusive imagination of\nrest, recuperation and recalibration. Inananxious, over-wrought\nworld, the freedom of the Cloud Dancer might just be the green\nflag of everyone's dreams.",
+   "ocr_conf": 87.1726618705036,
+   "ocr_low_conf_share": 0.1079136690647482,
+   "headline": "Cloud Dancer & a desire for mental whitespace",
+   "deck": "",
+   "byline": "",
+   "text": "NANNOUNCING \"Cloud Dancer\" as its colour of 2026, Pantone has floated a white so airy it practically hums with the promise of a fresh start. It is the colour of a primed canvas before the first stroke, a clearmomiing sky without - ifone is in the national capital - the chokehold of pollution. The first ever shadeofwhite tobe chosensince Pantonebegan itsannual forecasting in 1999, there is something subversive about cham-pioning a colour that refuses to stand out; an act of resistance against the unceasing sound and fury of a world in churn, a \"whisper of calm in a noisy world\", as the institute has putit. White, of course, has long served as art history's metaphor for possibility. For much of her career, Canadian-American Agnes Martin drew what seemed to bethe sameimage over and over again - grids in white in many different variationssuch as The Tree (1964) and On a Clear Day (1973). Diagnosed with paranoid schizophrenia, the monasticscaffoiding ofthe white grids was her way of making sense of what often appeared to be an adversarial world. Much before her, Russian artist Kazimir Male-vich's white-on-white paintings, particularly the1918 Suprematist Composition: White on White, spoke of modern art's self-containment. Cloud Dancer's coronation has not gone without challenge. Inatimeof vital social changethat demands radical political and environmental action, leaching all colour feels, it has been argued, likepointless redaction, an aesthetised neutrality, But perhaps, what Cloud Dancer really dredges up is acollective desire for mental whitespace, an increasingly elusive imagination of rest, recuperation and recalibration. Inananxious, over-wrought world, the freedom of the Cloud Dancer might just be the green flag of everyone's dreams.",
+   "n_words": 270,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 27.6,
+ "flags": []
+}

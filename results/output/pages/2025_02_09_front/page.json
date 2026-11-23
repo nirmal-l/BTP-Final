@@ -1,0 +1,756 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_09_front",
+ "source_file": "2025-02-09_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-09_front.png",
+ "date": "2025-02-09",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 0,
+  "n_lines": 340,
+  "mean_line_conf": 86.29577537593984,
+  "orphan_words": 87,
+  "body_words_total": 1210
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3470,
+      195,
+      4044,
+      312
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3470,
+      333,
+      4112,
+      415
+     ],
+     [
+      3554,
+      494,
+      3602,
+      534
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "Che Urban Tribe",
+   "deck_raw": "",
+   "body_raw": "dating sites have lost their sheen, meetup\nforms are the new convergence grounds\n\n",
+   "ocr_conf": 95.46153846153847,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Che Urban Tribe",
+   "deck": "",
+   "byline": "",
+   "text": "dating sites have lost their sheen, meetup forms are the new convergence grounds",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      688,
+      868,
+      886,
+      964
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "DELHI\nASSEMBLY",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "DELHI; ASSEMBLY",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3266,
+      868,
+      3487,
+      896
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "mBJP BAAP",
+   "ocr_conf": 57.5,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "",
+   "byline": "mBJP BAAP",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      959,
+      1087,
+      1006,
+      1121
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BP",
+   "ocr_conf": 62.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BP",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3321,
+      1214,
+      3342,
+      1254
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "q",
+   "ocr_conf": 76.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "q",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      759,
+      1315,
+      835,
+      1352
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Seats",
+   "ocr_conf": 87.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Seats",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      367,
+      1458,
+      4137,
+      1530
+     ],
+     [
+      378,
+      1573,
+      4117,
+      1823
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      3400,
+      4089,
+      3433
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "AAP OUSTED, CONG STUCK AT ZERO, VOTERS HAND OVER CAPITAL\u2019S KEYS TO BJP AFTER 27 YEARS\nAam aadmi verdict: BUP for Delhi",
+   "deck_raw": "",
+   "body_raw": "AAP TALLY FALLS FROM 62 TO 22 SEATS",
+   "ocr_conf": 95.625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "AAP OUSTED, CONG STUCK AT ZERO, VOTERS HAND OVER CAPITAL'S KEYS TO BJP AFTER 27 YEARS Aam aadmi verdict: BUP for Delhi",
+   "deck": "",
+   "byline": "AAP TALLY FALLS FROM 62 TO 22 SEATS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2003,
+      1243,
+      2363
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3175,
+      679,
+      3362
+     ],
+     [
+      320,
+      3411,
+      762,
+      3882
+     ],
+     [
+      806,
+      3136,
+      1252,
+      3876
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "5-fold jump in BJP\nseats: PM promises\nto build modern city",
+   "deck_raw": "",
+   "body_raw": "MALLICAJOSHI,\nJATINANAND,\nGAYATHRI MANI\n& SAMANHUSAIN\nNEW DELHI, FEBRUARY 8\n\nENDING ITS 27-year exile from\npower inthe national Capital\nand handing the ruling AAP a\nstunning defeat, the BJP swept\nthe Delhi Assembly elections\nSaturday, bagging 48 of the 70\nseats in the House.\nThe remaining 22 seats went\ntw AAP while the Congress drew\nablank for the thirdtime ina\nrow. AAP leader and former\nChief Minister Arvind Kejriwal,\n\nformer Deputy Chief Minister\nManish Sisodia were among the\nprominent leaders who lost. Of\nthe AAP tally of 22 -downfrom\n67 and 62 seats in 2015 and\n2020 respectively - most came\nfrom the reserved constituen-\ncies (8 out of 12) and Muslim-\nmajority seats (6 out of 7).\nThanking the people of Delhi\nfor reposing faith in the BJP,\nPrime Minister Narendra Modi,\nwhile addressing a gathering at\nthe partytiead quarters hours af-\nter the verdict, said, \u201cDelhi has\nliberated itself from a decade of\nAAPda (calamity). Delhi's vot-\ners have shown the truth to\nCONTINUE DONPAGE 2",
+   "ocr_conf": 90.2202380952381,
+   "ocr_low_conf_share": 0.041666666666666664,
+   "headline": "5-fold jump in BJP seats: PM promises to build modern city",
+   "deck": "",
+   "byline": "MALLICAJOSHI,; JATINANAND,; GAYATHRI MANI; & SAMANHUSAIN; NEW DELHI, FEBRUARY 8",
+   "text": "ENDING ITS 27-year exile from power inthe national Capital and handing the ruling AAP a stunning defeat, the BJP swept the Delhi Assembly elections Saturday, bagging 48 of the 70 seats in the House. The remaining 22 seats went tw AAP while the Congress drew ablank for the thirdtime ina row. AAP leader and former Chief Minister Arvind Kejriwal,\n\nformer Deputy Chief Minister Manish Sisodia were among the prominent leaders who lost. Of the AAP tally of 22 -downfrom 67 and 62 seats in 2015 and 2020 respectively - most came from the reserved constituencies (8 out of 12) and Muslimmajority seats (6 out of 7). Thanking the people of Delhi for reposing faith in the BJP, Prime Minister Narendra Modi, while addressing a gathering at the partytiead quarters hours after the verdict, said, \"Delhi has liberated itself from a decade of AAPda (calamity). Delhi's voters have shown the truth to CONTINUE DONPAGE 2",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1340,
+      3419,
+      1696,
+      3507
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1435,
+      3524,
+      1601,
+      3553
+     ],
+     [
+      1335,
+      4146,
+      1605,
+      4188
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "BUSINESS AS USUAL",
+   "deck_raw": "",
+   "body_raw": "By UNNY\n\nVERDICT \u00a2",
+   "ocr_conf": 91.25,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BUSINESS AS USUAL",
+   "deck": "",
+   "byline": "VERDICT \u00a2",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      3455,
+      3168,
+      3762
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1788,
+      3399,
+      2914,
+      3438
+     ],
+     [
+      1494,
+      3858,
+      1643,
+      3916
+     ]
+    ],
+    "body_boxes": [
+     [
+      1565,
+      3908,
+      1625,
+      3940
+     ],
+     [
+      1782,
+      3722,
+      2222,
+      3878
+     ],
+     [
+      1785,
+      3928,
+      2227,
+      4152
+     ],
+     [
+      2271,
+      4640,
+      2714,
+      5150
+     ],
+     [
+      2782,
+      4639,
+      3203,
+      4801
+     ],
+     [
+      2760,
+      4798,
+      3205,
+      4946
+     ]
+    ],
+    "layout_words": 127
+   },
+   "headline_raw": "In 13 seats, Congress tally more\nthan AAP\u2019s margin of loss",
+   "deck_raw": "INCLUDES ARVIND KEJRIWAL, MANISH SISODIA SEATS\nPT\nchart becomes\npeu chert.",
+   "body_raw": "ait,\n\nANJISHNU DAS&\nLALMANI VERMA\nNEW DELHI,FEBRUARY8\n\nSEVERALAAP stalwarts, includ-\ning Arvind Kejriwal, lost by mar-\ngins smaller than the votes se-\ncured by the Congress in their\nseats. In all, there were 13 such\nseats out of 70.\n\nvictory Saturday setsthe 12\nStage foreasing ofthe |=\nprolongedtegaltussle |=\nover the state's \u201cunique = j=\nconstitutional status\u201d L__\nbetween the Centre and\nthe former Aam AadmiParty-led\ngoverment.\nAs it stands now, Article\n239AA of the Constitution, keeps\nservices, land, police and public\norder out of the control of the\nelected government. While the\n\n| pre-eminence of the\nLieutenant Governor (L-\nG) was accepted inland,\n1@ | police and public order,\n\n___} theissue of services con-\ntinued to beakeyareaof\nconflict between the Centre and\nthe state.",
+   "ocr_conf": 83.616,
+   "ocr_low_conf_share": 0.128,
+   "headline": "In 13 seats, Congress tally more than AAP's margin of loss",
+   "deck": "INCLUDES ARVIND KEJRIWAL, MANISH SISODIA SEATS PT chart becomes peu chert.",
+   "byline": "ANJISHNU DAS&; LALMANI VERMA; NEW DELHI,FEBRUARY8",
+   "text": "ait,\n\nSEVERALAAP stalwarts, including Arvind Kejriwal, lost by margins smaller than the votes secured by the Congress in their seats. In all, there were 13 such seats out of 70.\n\nvictory Saturday setsthe 12 Stage foreasing ofthe = prolongedtegaltussle = over the state's \"unique = j= constitutional status\" L__ between the Centre and the former Aam AadmiParty-led goverment. As it stands now, Article 239AA of the Constitution, keeps services, land, police and public order out of the control of the elected government. While the\n\npre-eminence of the Lieutenant Governor (L-G) was accepted inland, 1@ police and public order,\n\n___} theissue of services continued to beakeyareaof conflict between the Centre and the state.",
+   "n_words": 112,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      3731,
+      3203,
+      4232
+     ]
+    ],
+    "layout_words": 60,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "for the third time in a row.\nIf Kejriwal lost from New\nDelhi, Manish Sisodia was de-\nfeated from Jangpura, Saurabh\nBharadwajfrom Greater Kailash,\nSomnath Bharti from Malviya\nNagar and Durgesh Pathak from\nRajinder Nagar, all seats where\nthe Congress got more votes than\nthe defeat marginofthe AAP.\nBJP\u2019s Parvesh Verma defeated\nKejriwal\u2014 the AAP chiefhad won\nCONTINUED ONPAGE 2",
+   "ocr_conf": 92.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "for the third time in a row. If Kejriwal lost from New Delhi, Manish Sisodia was defeated from Jangpura, Saurabh Bharadwajfrom Greater Kailash, Somnath Bharti from Malviya Nagar and Durgesh Pathak from Rajinder Nagar, all seats where the Congress got more votes than the defeat marginofthe AAP. BJP's Parvesh Verma defeated Kejriwal - the AAP chiefhad won",
+   "n_words": 57,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4006,
+      1236,
+      4217
+     ],
+     [
+      319,
+      4227,
+      1237,
+      4377
+     ],
+     [
+      319,
+      4363,
+      545,
+      4429
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      3952,
+      1156,
+      3990
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4559,
+      764,
+      5141
+     ],
+     [
+      806,
+      4362,
+      1251,
+      5109
+     ]
+    ],
+    "layout_words": 152
+   },
+   "headline_raw": "Who will be Delhi CM?\nWith high stakes, BJP\nweighs in many factors\nJATINANAND",
+   "deck_raw": "OPTIONS: MP, NEW MLA, SURPRISE PICK",
+   "body_raw": "BALANCNGGENDER, caste and\ncommunitywithexperience its\nvision of a \u201cDelhi befitting the\nstatusofIndia'scapitatcity\" and\nconsolidating, for the future, a\npolitical mandate that has\neluded it for close to three\ndecades \u2014 these are the factors\nthat are likely to guide the BJP\u2019s\ndecision while picking its Deihi\nChief Minister, according to\nparty sources,\nAccording to sources, discus-\nsions on a potential CM began\nsoon after theannouncement of\n\nthe party'sfinallistofcandidates\nin January, coinciding with the\nbeginning of Prime Minister\nNarendra Modi's public meet-\nings in the city later that month.\nSo far, the discussions are\nlearnt to have revolved around\npossibilities ranging from pick-\ning one ofits seven Lok Sabha\nMPs from the Capital \u2014 six of the\nsevenare first-time Parliame-\nntanans\u2014 tochoosing oneofits\nnew legislators with the highest\nvictory margin, especially a\nwoman leader, forthe post.\nIn addition, sources said, the\nselection of \u201cmore than one\ndeputy chief minister\u201d was also\na possibility.",
+   "ocr_conf": 86.76315789473684,
+   "ocr_low_conf_share": 0.09210526315789473,
+   "headline": "Who will be Delhi CM? With high stakes, BJP weighs in many factors JATINANAND",
+   "deck": "OPTIONS: MP, NEW MLA, SURPRISE PICK",
+   "byline": "",
+   "text": "BALANCNGGENDER, caste and communitywithexperience its vision of a \"Delhi befitting the statusofIndia'scapitatcity\" and consolidating, for the future, a political mandate that has eluded it for close to three decades - these are the factors that are likely to guide the BJP's decision while picking its Deihi Chief Minister, according to party sources, According to sources, discussions on a potential CM began soon after theannouncement of\n\nthe party'sfinallistofcandidates in January, coinciding with the beginning of Prime Minister Narendra Modi's public meet-ings in the city later that month. So far, the discussions are learnt to have revolved around possibilities ranging from picking one ofits seven Lok Sabha MPs from the Capital - six of the sevenare first-time Parliamentanans - tochoosing oneofits new legislators with the highest victory margin, especially a woman leader, forthe post. In addition, sources said, the selection of \"more than one deputy chief minister\" was also a possibility.",
+   "n_words": 149,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1832,
+      4160,
+      2227,
+      4242
+     ],
+     [
+      1786,
+      4367,
+      3186,
+      4799
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1787,
+      4313,
+      2194,
+      4346
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      4797,
+      2226,
+      5149
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "Incidentally, the Congress\ned to onenitsaccountin Delhi\nbs \u2018\u00a2\nDelhi L-G vs CM: Now \u2018double\nby \u2019\nengine\u2019 on parallel tracks?\n0 victory Saturday setsthe 12 pre-eminence of the\nAPURVA VISHWANATH Stage foreasing ofthe [= Lieutenant Governor(L\nNEW DELHI, FEBRUARY 8 prolongediegaltussle [= G) was accepted inland",
+   "deck_raw": "BATTLELINES BLUR",
+   "body_raw": "ONE REFRAIN in the BJP\u2019s elec-\ntion campaign in stateshas been\nits rhetoric around the benefits\nofa \u201cdouble engine\u201d \u2014 the party\nin power inthe state working\nwith the NDA-ruled Centre. In\nDelhi, this rhetoric rings closer\nhome to reality.\nindeed, the BJP\u2019s electoral",
+   "ocr_conf": 88.3409090909091,
+   "ocr_low_conf_share": 0.06818181818181818,
+   "headline": "Incidentally, the Congress ed to onenitsaccountin Delhi Delhi L-G vs CM: Now 'double by ' engine' on parallel tracks? 0 victory Saturday setsthe 12 pre-eminence of the APURVA VISHWANATH Stage foreasing ofthe [= Lieutenant Governor(L NEW DELHI, FEBRUARY 8 prolongediegaltussle [= G) was accepted inland",
+   "deck": "BATTLELINES BLUR",
+   "byline": "",
+   "text": "ONE REFRAIN in the BJP's election campaign in stateshas been its rhetoric around the benefits ofa \"double engine\" - the party in power inthe state working with the NDA-ruled Centre. In Delhi, this rhetoric rings closer home to reality. indeed, the BJP's electoral",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      4189,
+      4168,
+      4573
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      4600,
+      3607,
+      4709
+     ],
+     [
+      3250,
+      4758,
+      3692,
+      5151
+     ],
+     [
+      3735,
+      4562,
+      4181,
+      5144
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "Kejriwall crumbled:\nCity falling apart, graft\ncloud, blame game...",
+   "deck_raw": "",
+   "body_raw": "MALLICA JOSHI\n& JATINANAND\nNEW DELHI, FEBRUARY 8\n\nIN APRIL 2024, AAP chief Arvind\nKejriwal, his former deputy\nManish Sisodia, former health\nminister Satyendar Jain, com-\nmunications in-charge Vijay Nair\nand Rajya Sabha MP Sanjay\nSingh were in jail. The party's\ntoughestelectoral battle was just\n10 months away.\nSaturday's results indicate\n\nthe missing leadership had a\nmore significant impact on the\nparty than it let on.\nWhileJain wasarrested inan\nalleged money laundering case,\nthe rest were behind bars in the\nexcise policy case being probed\nby the ED and CBI. Ail of them\nwere released on bail between\nAugust and October\nSenior party leaders said that\nthe stints in jail, so close to the\nelections, was among the key\nreasons for the AAP being unable\nCONTINUEDON PAGE 2",
+   "ocr_conf": 83.8359375,
+   "ocr_low_conf_share": 0.140625,
+   "headline": "Kejriwall crumbled: City falling apart, graft cloud, blame game...",
+   "deck": "",
+   "byline": "MALLICA JOSHI; & JATINANAND; NEW DELHI, FEBRUARY 8",
+   "text": "IN APRIL 2024, AAP chief Arvind Kejriwal, his former deputy Manish Sisodia, former health minister Satyendar Jain, communications in-charge Vijay Nair and Rajya Sabha MP Sanjay Singh were in jail. The party's toughestelectoral battle was just 10 months away. Saturday's results indicate\n\nthe missing leadership had a more significant impact on the party than it let on. WhileJain wasarrested inan alleged money laundering case, the rest were behind bars in the excise policy case being probed by the ED and CBI. Ail of them were released on bail between August and October Senior party leaders said that the stints in jail, so close to the elections, was among the key reasons for the AAP being unable CONTINUEDON PAGE 2",
+   "n_words": 119,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1337,
+      4622,
+      1691,
+      4986
+     ]
+    ],
+    "layout_words": 20,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "@ Behind BJP\u2019s Capital\ncomebackafter\n27 years\n@ Tracing AAP map,\nwhere it is still\nstanding\n@ Cong sees silver",
+   "ocr_conf": 90.85,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "@ Behind BJP's Capital comebackafter 27 years @ Tracing AAP map, where it is still standing @ Cong sees silver",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      4954,
+      3201,
+      5036
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      5037,
+      3202,
+      5143
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "TwoConstitution benchesof\nthe Supreme Court had twice, in",
+   "deck_raw": "",
+   "body_raw": "2017 and againin 2023, accepted\nthe Delhigovemment's position\nCONTINUED ONPAGE 2",
+   "ocr_conf": 91.0909090909091,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TwoConstitution benchesof the Supreme Court had twice, in",
+   "deck": "",
+   "byline": "",
+   "text": "2017 and againin 2023, accepted the Delhigovemment's position",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5301,
+      4133,
+      5435
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5513,
+      499,
+      5545
+     ],
+     [
+      318,
+      5785,
+      759,
+      6138
+     ],
+     [
+      805,
+      5471,
+      1248,
+      6138
+     ],
+     [
+      1294,
+      5471,
+      1737,
+      6139
+     ],
+     [
+      2469,
+      5943,
+      2700,
+      6093
+     ],
+     [
+      2760,
+      5473,
+      3202,
+      5933
+     ],
+     [
+      2759,
+      5945,
+      3202,
+      6141
+     ],
+     [
+      3249,
+      5473,
+      3694,
+      6059
+     ],
+     [
+      3250,
+      6066,
+      3689,
+      6141
+     ],
+     [
+      3734,
+      5473,
+      4180,
+      6134
+     ]
+    ],
+    "layout_words": 442
+   },
+   "headline_raw": "Region where Chandrayaan-3 landed on Moon 3.7 billion years old: ISRO",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nA NEW study by ISRO scientists\nhas estimated the age of the re-\ngion where Chandrayaan-3\nlanded on the Moon to be 3.7 bil-\nlion years, coinciding with the\nperiod when primitive, micro-\nbial life first emerged onEarth\nA team of scientists from\nISRO's Physical Research\n\nLaboratory (PRL), Ahmedabad,\nhas for the first time performed\nmorphological and topographic\nanalysis of the Chandrayaan-3\nlanding site, now popularasthe\nShiv Shakti point.\nIndia,on August 23, 2023, be-\ncame the first country to suc-\ncessfully makea soft landing on\nthe Moon'ssouth pole. Withthe\nhelp of data generated by the\nPragyan rover that was housed\ninside the Vikram lander on-\nboard Chandrayaan-3, Indian\nscientists have been chuming\nOut new interpretations and in-\nsights into the Moon'sevolution.\n\nPRL scientistsdeployed high-\nend imaging techniques, like the\nLunar Reconnaissance Orbiter\n(LRO) wide angle camera and\nterrain camera to gather crater\nand rock distribution data from\nthe lunar surface near Shiv\nShaku. They noted that the\nPragyan rover had unusually en-\ncountered several rock frag-\nments (of over 1 cm in size) at\nthe landing site of Chandrayaan-\n3 mission The chainsofsecond-\nary craters and crater ejectarays\nwere used to infer the potential\nsource of materials within the\nlanding area.\n\nThe landing\nsite is\nsurrounded by\ncraters. PRL\n\nNumerous craters with three\ndistinct types of terrain types\nwere studied: high-reliefrugged\nterrain, high- relief smooth plains\nand low-reliefsmooth plains.\n\u201cFor the low-relief smooth\nplains, the area that hosts the\nlanding site, the best-fit age is\nabout3.7 Ga(billion years), done\nusing 25 craters (diameter 500-\n1,150 metres),\u201d the researchers\nsaid.\n\nFurther, the age estimates\nfrom another 23 craters (meas-\nuring 500 - 1,250 metres in diam-\neter) having rugged terrains and\nadditional 5 craters (measuring\n\n600 - 1,150 metres in diameter)\nhaving high-relief and smooth\nplains established the age of the\nregion to be 3,7 billion years.\nThe lunar surface often su\u00e9\nfers a combined influence and\nimpact of micro-meteorite bom-\nbardments and extreme thermal\nexcursions. Asa result, the ex-\nposed rockfragmentsin this ge-\nologically old terrain would have\nfragmented into regolith over\nthe past several hundreds of mil-\nlion years, the PRL team ex-\nplained.\n\nBased on the morphological\ninterpretations, the ISRO scien-\n\ntists have concluded that thelo-\ncal area around the landing area\nwas mainly formed bytheejecta\nof secondary craters \u2014 Manzinus\nand Boguslawsky.\nThe latest study published in\nthe Advances in Space Research\ndescribes the regional geograpty\naround the ShivShaktipoint. The\nChandrayaan-3 landing site isen-\nclosed between multiple large\nimpact craters \u2014 Manzinus (di-\nameter -about 96 km,age -about\n3.9 bn years) to the north,\nBoguslawsky (diameter - about\n95 kmand age -about4 bn years)\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.49773755656109,
+   "ocr_low_conf_share": 0.07692307692307693,
+   "headline": "Region where Chandrayaan-3 landed on Moon 3.7 billion years old: ISRO",
+   "deck": "",
+   "byline": "ANCHOR",
+   "text": "A NEW study by ISRO scientists has estimated the age of the region where Chandrayaan-3 landed on the Moon to be 3.7 billion years, coinciding with the period when primitive, microbial life first emerged onEarth A team of scientists from ISRO's Physical Research\n\nLaboratory (PRL), Ahmedabad, has for the first time performed morphological and topographic analysis of the Chandrayaan-3 landing site, now popularasthe Shiv Shakti point. India,on August 23, 2023, became the first country to successfully makea soft landing on the Moon'ssouth pole. Withthe help of data generated by the Pragyan rover that was housed inside the Vikram lander onboard Chandrayaan-3, Indian scientists have been chuming Out new interpretations and insights into the Moon'sevolution.\n\nPRL scientistsdeployed highend imaging techniques, like the Lunar Reconnaissance Orbiter (LRO) wide angle camera and terrain camera to gather crater and rock distribution data from the lunar surface near Shiv Shaku. They noted that the Pragyan rover had unusually encountered several rock fragments (of over 1 cm in size) at the landing site of Chandrayaan- 3 mission The chainsofsecondary craters and crater ejectarays were used to infer the potential source of materials within the landing area.\n\nThe landing site is surrounded by craters. PRL\n\nNumerous craters with three distinct types of terrain types were studied: high-reliefrugged terrain, high- relief smooth plains and low-reliefsmooth plains. \"For the low-relief smooth plains, the area that hosts the landing site, the best-fit age is about3.7 Ga(billion years), done using 25 craters (diameter 500- 1,150 metres),\" the researchers said.\n\nFurther, the age estimates from another 23 craters (measuring 500 - 1,250 metres in diameter) having rugged terrains and additional 5 craters (measuring\n\n600 - 1,150 metres in diameter) having high-relief and smooth plains established the age of the region to be 3,7 billion years. The lunar surface often su\u00e9 fers a combined influence and impact of micro-meteorite bombardments and extreme thermal excursions. Asa result, the exposed rockfragmentsin this geologically old terrain would have fragmented into regolith over the past several hundreds of million years, the PRL team explained.\n\nBased on the morphological interpretations, the ISRO scientists have concluded that thelocal area around the landing area was mainly formed bytheejecta of secondary craters - Manzinus and Boguslawsky. The latest study published in the Advances in Space Research describes the regional geograpty around the ShivShaktipoint. The Chandrayaan-3 landing site isenclosed between multiple large impact craters - Manzinus (diameter -about 96 km,age -about 3.9 bn years) to the north, Boguslawsky (diameter - about 95 kmand age -about4 bn years)",
+   "n_words": 415,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 14.6,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,700 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_25_front",
+ "source_file": "2025-06-25_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-25_front.png",
+ "date": "2025-06-25",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 471,
+  "mean_line_conf": 89.9891647165365,
+  "orphan_words": 233,
+  "body_words_total": 1869
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      781,
+      1241,
+      1443
+     ],
+     [
+      322,
+      1488,
+      1249,
+      1619
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      695,
+      1242,
+      744
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      1699,
+      643,
+      1849
+     ],
+     [
+      319,
+      1897,
+      766,
+      2841
+     ],
+     [
+      808,
+      2215,
+      1250,
+      2677
+     ]
+    ],
+    "layout_words": 185
+   },
+   "headline_raw": "Fragile truce in\nWest Asia: Iran\nand Israel trade\nstrikes, charges\nFighting so long they don\u2019t know what\nthe f*\u2122* they\u2019re doing: US President",
+   "deck_raw": "TRUMP DECLARED CEASEFIRE",
+   "body_raw": "JON GAMBRELL,\nDAVID RISING\n& MELANIELIDMAN\nDUBAI, JUNE 24\n\nAFRAGILE ceasefire between Iran\nand Israel appeared to hold\nTuesday after initially faltering,\nand US President Donald Trump\nexpressed frustration with both\nsides, saying they have fought \u201cfor\nso long and so hard\u201d that they\ndon't know what they are doing.\nIsrael had earlieraccused Iran\nof launching missiles into its air-\nspace after the truce was sup-\nposed to take effect, and the\nIsraeli finance minister vowed\nthat \u201cTehran will tremble\u201d. The\nIranian military denied firing on\nIsrael, state media reported, but\nexplosions boomed and sirens\nsounded across northern Israel\nin the morning; an Israeli mili-\ntary official said twolranian mis-\nsiles were intercepted.\n(Reuters adds: Two wit-\nnesses reached by telephone in\nthe Iranian capital said they\n\nheard two loud blasts. Prime\nMinister Benjamin Netanyahu's\noffice acknowledged that Israel\nhad bombed a radar site near\nTehran. It said Israel had decided\nto refrain from further attacks\nfollowing a call between\nNetanyahu and Trump, but did\nnot explicitly say whether the\nstrike on the radarsite took place\nbefore or after they spoke.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.70270270270271,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Fragile truce in West Asia: Iran and Israel trade strikes, charges Fighting so long they don't know what the f*\u2122* they're doing: US President",
+   "deck": "TRUMP DECLARED CEASEFIRE",
+   "byline": "JON GAMBRELL,; DAVID RISING; & MELANIELIDMAN; DUBAI, JUNE 24",
+   "text": "AFRAGILE ceasefire between Iran and Israel appeared to hold Tuesday after initially faltering, and US President Donald Trump expressed frustration with both sides, saying they have fought \"for so long and so hard\" that they don't know what they are doing. Israel had earlieraccused Iran of launching missiles into its airspace after the truce was supposed to take effect, and the Israeli finance minister vowed that \"Tehran will tremble\". The Iranian military denied firing on Israel, state media reported, but explosions boomed and sirens sounded across northern Israel in the morning; an Israeli military official said twolranian missiles were intercepted. (Reuters adds: Two witnesses reached by telephone in the Iranian capital said they\n\nheard two loud blasts. Prime Minister Benjamin Netanyahu's office acknowledged that Israel had bombed a radar site near Tehran. It said Israel had decided to refrain from further attacks following a call between Netanyahu and Trump, but did not explicitly say whether the strike on the radarsite took place before or after they spoke.",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1308,
+      1314,
+      1778,
+      1433
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1346,
+      1513,
+      1492,
+      1562
+     ]
+    ],
+    "body_boxes": [
+     [
+      1376,
+      2015,
+      1669,
+      2109
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "The govt pushed, an\nto take control of TI",
+   "deck_raw": "mw",
+   "body_raw": "The blank editorial in |\nThe Indian Express |\nafterthe Proclamation",
+   "ocr_conf": 74.36363636363636,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "The govt pushed, an to take control of TI",
+   "deck": "mw",
+   "byline": "",
+   "text": "The blank editorial in The Indian Express afterthe Proclamation",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1345,
+      2194,
+      1690,
+      2321
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1343,
+      2346,
+      1673,
+      2400
+     ]
+    ],
+    "body_boxes": [
+     [
+      1358,
+      2423,
+      1676,
+      2451
+     ],
+     [
+      1297,
+      2571,
+      1591,
+      2641
+     ],
+     [
+      1292,
+      2690,
+      1741,
+      3904
+     ],
+     [
+      1361,
+      4056,
+      1719,
+      4090
+     ],
+     [
+      1462,
+      4270,
+      1544,
+      4306
+     ],
+     [
+      1391,
+      4726,
+      1611,
+      4766
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "THE EMERGENCY\n50 YEARS ON",
+   "deck_raw": ". Its shadow \u2014andlight",
+   "body_raw": "AN ExPpREss SERIES\n\nCOOMI KAPOOR\nNEW DELHI, JUNE 24\n\nI NEVER kept a diary during the\nEmergency, though our editor\nKuldip Nayar advised reporters to\nmake daily notes for posterity,\neven ifthe censors would not per-\nmit us to write of the travesty of\ndemocracy we were witnessing\nfirst hand. But some events are so\nindelibly etched inyour memory,\nthat you can recall them half a\ncentury later with great precision\nwithout the help of notes.\nOn June 26, around 4 am, I\nwas woken by a phone call from\nmy sister Roxna informing me\nthat Jayaprakash Narayan,\nknown universally as JP, and\nmany other Opposition leaders\nhad been arrested. Jana Sangh\nleader Nanaji Deshmukh, who\nhad managed to escape thanks\ntoa tip-off, had alerted Roxna\u2019s\nhusband Subramanian Swamy\nto leave the house. My husband\nVirendra Kapoor, also a journal-\nist, rushed to the UNI news\nagency office next door to get the\nlatest information and the\nnames of those arrested. Hours\nlater, Roxna rang again to tell me\nCONTINUED ON PAGE 2\n\nBUSINESS AS USUAL\n\nnow itis,\n\nEXPLATRED Bye\na",
+   "ocr_conf": 89.18232044198895,
+   "ocr_low_conf_share": 0.06629834254143646,
+   "headline": "THE EMERGENCY 50 YEARS ON",
+   "deck": ". Its shadow - andlight",
+   "byline": "COOMI KAPOOR; NEW DELHI, JUNE 24",
+   "text": "AN ExPpREss SERIES\n\nI NEVER kept a diary during the Emergency, though our editor Kuldip Nayar advised reporters to make daily notes for posterity, even ifthe censors would not permit us to write of the travesty of democracy we were witnessing first hand. But some events are so indelibly etched inyour memory, that you can recall them half a century later with great precision without the help of notes. On June 26, around 4 am, I was woken by a phone call from my sister Roxna informing me that Jayaprakash Narayan, known universally as JP, and many other Opposition leaders had been arrested. Jana Sangh leader Nanaji Deshmukh, who had managed to escape thanks toa tip-off, had alerted Roxna's husband Subramanian Swamy to leave the house. My husband Virendra Kapoor, also a journalist, rushed to the UNI news agency office next door to get the latest information and the names of those arrested. Hours later, Roxna rang again to tell me\n\nBUSINESS AS USUAL\n\nnow itis,\n\nEXPLATRED Bye a",
+   "n_words": 169,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2514,
+      3204,
+      2749
+     ],
+     [
+      1831,
+      2796,
+      3158,
+      2997
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      3085,
+      2157,
+      3155
+     ],
+     [
+      1786,
+      3243,
+      2226,
+      3675
+     ],
+     [
+      1785,
+      3719,
+      2227,
+      3911
+     ],
+     [
+      1808,
+      4024,
+      2156,
+      4212
+     ],
+     [
+      1785,
+      4307,
+      2177,
+      4549
+     ],
+     [
+      1804,
+      4590,
+      2151,
+      4861
+     ],
+     [
+      2272,
+      3799,
+      2713,
+      3912
+     ],
+     [
+      2763,
+      3799,
+      3204,
+      3905
+     ]
+    ],
+    "layout_words": 148
+   },
+   "headline_raw": "Durga, dictator, democrat. How\nthe 3 veins ran parallel in Indira\nHer instinct was to \u2018choose order above democracy\u2019 in\nsituations that spelt instability. In 1959, she persuaded\nNehru to dismiss the Kerala govt on similar grounds",
+   "deck_raw": "",
+   "body_raw": "NEERJA CHOWDHURY\nNEW DELHI, JUNE 24\n\nas fresh material and new books\nthrow more light ona darkchap-\nter in India\u2019s history, itis still tan-\ntalising how Indira Gandhi, the\ncentral character around whom\nthe events of the 1970s revolved,\ncouldbe a\u201cDurga\u201d in 1971, adic-\ntator in 1975 \u2014 and evenasadic-\ntator, call for elections in 1977, dis-\nplaying ademocratic streak in her\n\u2014all within atimespan offive-six\n\nMrs Gandhi's opponent Atal\nBihari Vajpayee had hailed her as\n\u201cDurga\u201d after she helped split\nPakistan to create Bangladesh,\nchanging geo-political realities.\n\nPAGE 6\nTHE EDITORIAL PAGE\nWHEN WE\nREMEMBER 1975\n\nPAGE 7\nTHEIDEAS PAGE\nTHE NEW THREATS\nTODEMOCRACY\nJohn Keane\n\nPAGE 5\nTHE RESISTANCE\nHow asemi-retired\nJayaprakash Narayan\nstirred student\nprotests into a storm\n\nIn a preemptive move, she\nsigned a Treaty of Friendship\nwith the then Soviet Union (now\n\nRussia), to counter the new\nPakistan-China-America axis\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.97972972972973,
+   "ocr_low_conf_share": 0.0472972972972973,
+   "headline": "Durga, dictator, democrat. How the 3 veins ran parallel in Indira Her instinct was to 'choose order above democracy' in situations that spelt instability. In 1959, she persuaded Nehru to dismiss the Kerala govt on similar grounds",
+   "deck": "",
+   "byline": "NEERJA CHOWDHURY; NEW DELHI, JUNE 24",
+   "text": "as fresh material and new books throw more light ona darkchapter in India's history, itis still tantalising how Indira Gandhi, the central character around whom the events of the 1970s revolved, couldbe a\"Durga\" in 1971, adictator in 1975 - and evenasadictator, call for elections in 1977, displaying ademocratic streak in her - all within atimespan offive-six\n\nMrs Gandhi's opponent Atal Bihari Vajpayee had hailed her as \"Durga\" after she helped split Pakistan to create Bangladesh, changing geo-political realities.\n\nTHE EDITORIAL PAGE WHEN WE REMEMBER 1975\n\nTHEIDEAS PAGE THE NEW THREATS TODEMOCRACY John Keane\n\nTHE RESISTANCE How asemi-retired Jayaprakash Narayan stirred student protests into a storm\n\nIn a preemptive move, she signed a Treaty of Friendship with the then Soviet Union (now\n\nRussia), to counter the new Pakistan-China-America axis",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2492,
+      3694,
+      3635
+     ]
+    ],
+    "layout_words": 150,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PAVING THE way for a nation-\nwide exercise, the Election\nCommission announced\nTuesday a\u201cspecial intensive revi-\nsion\u201d of the electoral roll in poll-\nbound Bihar, where all existing\nelectors who were not on the\nrolls in 2003 will have to again\nprovide documentation proving\ntheir eligibility.\nThe enumeration form will\nrequire those electors born be-\nfore July 1, 1987 to provide adoc-\nument establishing date and/or\nplace of birth. Apart from that,\nfor those born between July 1,\n1987 and December 2, 2004, a\ndate of birth and/or place proof\nof the mother or father will be\nrequired and for those born af-\nter December 2, 2004, date of\nbirth proof and/or place of both\nparents will be needed. These\ncategories, EC sources said, have\nbeen devised in line with the\nCitizenship Act, 1955.\nIn its order issued Tuesday,\nthe EC said itwas empowered by\nthe Representation of the People",
+   "ocr_conf": 94.82,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "PAVING THE way for a nationwide exercise, the Election Commission announced Tuesday a\"special intensive revision\" of the electoral roll in poll-bound Bihar, where all existing electors who were not on the rolls in 2003 will have to again provide documentation proving their eligibility. The enumeration form will require those electors born before July 1, 1987 to provide adocument establishing date and/or place of birth. Apart from that, for those born between July 1, 1987 and December 2, 2004, a date of birth and/or place proof of the mother or father will be required and for those born after December 2, 2004, date of birth proof and/or place of both parents will be needed. These categories, EC sources said, have been devised in line with the Citizenship Act, 1955. In its order issued Tuesday, the EC said itwas empowered by the Representation of the People",
+   "n_words": 144,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3776,
+      2574,
+      4147,
+      3082
+     ]
+    ],
+    "layout_words": 56,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE EC move to revise the\nelectoral rolls in Bihar,\nwhere Assembly polls are\ndue later this year, comes\nat atime when the\nOpposition, especially the\nCongress, has been raising\nquestions about the purity\nof the electoral roils in\nsome states. The revision,\nthe EC says, will ensure\ntransparency and the in-\ntegrity of electoral rolls,",
+   "ocr_conf": 91.60714285714286,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "THE EC move to revise the electoral rolls in Bihar, where Assembly polls are due later this year, comes at atime when the Opposition, especially the Congress, has been raising questions about the purity of the electoral roils in some states. The revision, the EC says, will ensure transparency and the integrity of electoral rolls,",
+   "n_words": 55,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3739,
+      3260,
+      4170,
+      3429
+     ]
+    ],
+    "layout_words": 10,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ECINVITES RAHULTO\nDISCUSS \u2018ISSUES\u2019\nLINKED TO POLLSIN\nMAHARASHTRA Pa4cE 3",
+   "ocr_conf": 74.9,
+   "ocr_low_conf_share": 0.3,
+   "headline": "",
+   "deck": "",
+   "byline": "ECINVITES RAHULTO; DISCUSS 'ISSUES'; LINKED TO POLLSIN; MAHARASHTRA Pa4cE 3",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3740,
+      3178,
+      3874,
+      3210
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "INSIDE",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3736,
+      3522,
+      4179,
+      3628
+     ]
+    ],
+    "layout_words": 16,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Act, 1950 to direct a special in-\ntensive revision of the electoral\nCONTINUED ON PAGE 2",
+   "ocr_conf": 83.5,
+   "ocr_low_conf_share": 0.125,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Act, 1950 to direct a special intensive revision of the electoral",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      3702,
+      1237,
+      4083
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      499,
+      4153,
+      760,
+      4242
+     ],
+     [
+      318,
+      4318,
+      755,
+      4351
+     ],
+     [
+      317,
+      4431,
+      762,
+      5131
+     ],
+     [
+      806,
+      4114,
+      1250,
+      5132
+     ]
+    ],
+    "layout_words": 238
+   },
+   "headline_raw": "\u2018Trapped between fear\nof war, hope that it\nwill end dictatorship\u2019",
+   "deck_raw": "",
+   "body_raw": "SPECIALTO\nTHE EXPRESS\n\nMOHSEN MAKHMALBAF\n\nAS AN Iranian filmmaker, I have\nalways tried to be a voice for\npeace. In my films, I have ex-\npressed my firm opposition to\nwar. Wars come to an end, but\nthe innocent children who were\nkilled will never return to life.\nThey will never have the chance\nto participate in the celebration\nof peace.\nBut war is not the only en-\nemy of freedom. I always stood\nagainst dictatorship as strongly\nas] opposed war. The freedom of\nhuman beings \u2014 regardless of\ngeography, religion, or ethnicity\n\u2014 has always beena central con-\ncem for meas an artist.\n\nUnfortunately, the people of\nIran today are living under the\ncrushing weight of two simulta-\nneous pressures: on one hand,\nthe escalating threat of war be-\ntween Israel and Iran; on the\nother, the ongoing, systematic\nrepression by the Islamic\nRepublic\u2019s authoritarian regime.\nThis situation has placed the\nIranian people in a difficult and\ndeeply complex position.\nMany Iranians fear that a war\nwould bring massive destruction\nto their country and result in the\ndeath of countless innocent civil-\nians. Yet, atthe same time, a part\nof society \u2014 despite their anxi-\nety \u2014 holds a fragile hope that\nthis crisis might finally lead to\nthe downfall of a regime that\nhas, for more than 40 years,\nstripped people of their funda-\nmental freedom, especially\nwomen, and dragged Iran into\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.79411764705883,
+   "ocr_low_conf_share": 0.008403361344537815,
+   "headline": "'Trapped between fear of war, hope that it will end dictatorship'",
+   "deck": "",
+   "byline": "SPECIALTO; THE EXPRESS; MOHSEN MAKHMALBAF",
+   "text": "AS AN Iranian filmmaker, I have always tried to be a voice for peace. In my films, I have expressed my firm opposition to war. Wars come to an end, but the innocent children who were killed will never return to life. They will never have the chance to participate in the celebration of peace. But war is not the only enemy of freedom. I always stood against dictatorship as strongly as] opposed war. The freedom of human beings - regardless of geography, religion, or ethnicity - has always beena central concem for meas an artist.\n\nUnfortunately, the people of Iran today are living under the crushing weight of two simultaneous pressures: on one hand, the escalating threat of war between Israel and Iran; on the other, the ongoing, systematic repression by the Islamic Republic's authoritarian regime. This situation has placed the Iranian people in a difficult and deeply complex position. Many Iranians fear that a war would bring massive destruction to their country and result in the death of countless innocent civil-ians. Yet, atthe same time, a part of society - despite their anxiety - holds a fragile hope that this crisis might finally lead to the downfall of a regime that has, for more than 40 years, stripped people of their fundamental freedom, especially women, and dragged Iran into",
+   "n_words": 221,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      3702,
+      4171,
+      4038
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4116,
+      3542,
+      4186
+     ],
+     [
+      3248,
+      4235,
+      3690,
+      5140
+     ],
+     [
+      3736,
+      4471,
+      4159,
+      4506
+     ],
+     [
+      3735,
+      4591,
+      4178,
+      5134
+     ]
+    ],
+    "layout_words": 188
+   },
+   "headline_raw": "After delays, Axiom-4\nwith India\u2019s Shukla\nset for launch today",
+   "deck_raw": "",
+   "body_raw": "ANONNADUTT\nNEW DELHI, JUNE 24\n\nAFTER MULTIPLE delays, the\nAxiom-4 mission is now slated\nfor launch Wednesday, accord-\ning to US space agency NASA.\nCarrying India\u2019s Shubhanshu\nShukla and three other astro-\nnauts, the mission is scheduled\nto take off from Kennedy Space\nCentre's Complex 39A around\nnoon IST. Aftera 28-hourjourney,\nthe spacecraft is expected to dock\nwith the International Space\nStation (ISS) at around 4:30 pm\n(IST) Thursday. The astronauts\nare slated to spend around 14\ndays on the ISS.\nThe announcement of the\nnew launch slot came Tuesday\nmorning, just a day before the\nmission that was previously\nscheduled for June 22.\nThe mission has been de-\nlayed several times since its ini-\n\nthe rest of the crew. X/ SpaceX\n\ntial schedule of May 29 due to\nvarious reasons, ranging from\nproblems in the launch vehicle\nand changes in pressure on ISS\u2019\nZvezda module. The leak in\nZvezdawas first detected in2019\nand space agencies have been\nworking for years to fixit.Repairs\nwere carried out ahead of the\nAxiom-4 mission.\n\u201cBecause of the space sta-\ntion's interconnected and inter-\ndependent systems, NASA wants\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.37234042553192,
+   "ocr_low_conf_share": 0.03723404255319149,
+   "headline": "After delays, Axiom-4 with India's Shukla set for launch today",
+   "deck": "",
+   "byline": "ANONNADUTT; NEW DELHI, JUNE 24",
+   "text": "AFTER MULTIPLE delays, the Axiom-4 mission is now slated for launch Wednesday, according to US space agency NASA. Carrying India's Shubhanshu Shukla and three other astronauts, the mission is scheduled to take off from Kennedy Space Centre's Complex 39A around noon IST. Aftera 28-hourjourney, the spacecraft is expected to dock with the International Space Station (ISS) at around 4:30 pm (IST) Thursday. The astronauts are slated to spend around 14 days on the ISS. The announcement of the new launch slot came Tuesday morning, just a day before the mission that was previously scheduled for June 22. The mission has been delayed several times since its inithe rest of the crew. X/ SpaceX\n\ntial schedule of May 29 due to various reasons, ranging from problems in the launch vehicle and changes in pressure on ISS' Zvezda module. The leak in Zvezdawas first detected in2019 and space agencies have been working for years to fixit.Repairs were carried out ahead of the Axiom-4 mission. \"Because of the space station's interconnected and interdependent systems, NASA wants",
+   "n_words": 173,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      4046,
+      3140,
+      4356
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      3983,
+      3043,
+      4015
+     ]
+    ],
+    "body_boxes": [
+     [
+      2271,
+      4432,
+      2566,
+      4502
+     ],
+     [
+      2269,
+      4551,
+      2721,
+      5133
+     ]
+    ],
+    "layout_words": 79
+   },
+   "headline_raw": "Shah: Must keep alive\nEmergency memories,\nchallenge to democrac",
+   "deck_raw": "BOOK BY PM TO BE RELEASED TODAY",
+   "body_raw": "VIKAS PATHAK\nNEW DELHI, JUNE 24\n\nTARGETING THE Congress and\nits allies for \u201craising questions\nabout democracy and the\nConstitution\u201d, Union Home\nMinister AmitShah, speaking in\nNew Delhi Tuesday onthe eve of\n50 years of the imposition of\nEmergency, said it is necessary\nthat memories of the Emergency\ndo not fade away, so that the\nyouth are able to recall thischal-\nlenge to democracy.\nHe said a book by Prime\nMinister Narendra Modi on the\ntheme would be released",
+   "ocr_conf": 94.45569620253164,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Shah: Must keep alive Emergency memories, challenge to democrac",
+   "deck": "BOOK BY PM TO BE RELEASED TODAY",
+   "byline": "VIKAS PATHAK; NEW DELHI, JUNE 24",
+   "text": "TARGETING THE Congress and its allies for \"raising questions about democracy and the Constitution\", Union Home Minister AmitShah, speaking in New Delhi Tuesday onthe eve of 50 years of the imposition of Emergency, said it is necessary that memories of the Emergency do not fade away, so that the youth are able to recall thischallenge to democracy. He said a book by Prime Minister Narendra Modi on the theme would be released",
+   "n_words": 72,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2759,
+      4262,
+      3193,
+      4357
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2760,
+      4709,
+      3198,
+      4902
+     ],
+     [
+      2760,
+      4986,
+      3203,
+      5133
+     ]
+    ],
+    "layout_words": 35
+   },
+   "headline_raw": "democracy",
+   "deck_raw": "",
+   "body_raw": "Home Minister Amit Shah at\na programme organised on\nthe eve of 50th anniversary\nof the Emergency, in New\nDelhi, Tuesday. Pri\n\nWednesday.\nRecalling that 1.1 lakh people\nwere imprisoned during the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.58333333333333,
+   "ocr_low_conf_share": 0.05555555555555555,
+   "headline": "democracy",
+   "deck": "",
+   "byline": "",
+   "text": "Home Minister Amit Shah at a programme organised on the eve of 50th anniversary of the Emergency, in New Delhi, Tuesday. Pri\n\nWednesday. Recalling that 1.1 lakh people were imprisoned during the",
+   "n_words": 32,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      315,
+      5273,
+      4093,
+      5400
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5421,
+      499,
+      5494
+     ],
+     [
+      315,
+      5570,
+      757,
+      5687
+     ],
+     [
+      316,
+      5736,
+      758,
+      6166
+     ],
+     [
+      806,
+      5419,
+      1251,
+      6166
+     ],
+     [
+      1293,
+      5419,
+      1736,
+      6167
+     ],
+     [
+      2757,
+      5421,
+      3201,
+      6168
+     ],
+     [
+      3247,
+      5421,
+      3688,
+      6168
+     ],
+     [
+      3734,
+      5422,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 537
+   },
+   "headline_raw": "The many wrong turns that led to Bhopal\u2019s infamous right-angle bridge",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nANAND MOHAN J\nBHOPAL, JUNE 24\n\nA NEWLY constructed rail over-\nbridge (ROB) in Bhopal, which\nmade headlines for its almost\n90-degree tum, has quickly gone\nfrom being the subject of memes\nto the subject ofan investigation.\nAnd, as an enquiry gets under-\nway to figure out what led tothe\npeculiar construction, officials\nfrom the Madhya Pradesh Public\nWorks Department (PWD) and\n\nthe Indian Railways appear to be\nshifting blame.\nThe 648-metre bridge in the\nAishbagh area, which cost Rs 18\ncrore to build, was meant to\neliminate long delays at railway\ncrossings and shorten the com-\nmute for nearly three lakh peo-\nple daily.\nKPS Rana, the engineer-in-\nchief of the PWD, told The Indian\nExpress that the bridge\u2019s design\nwas sanctioned in 2018 and was\nexecuted by a team originally\nfrom the bridge engineering de-\npartment, comprising officials at\nthe assistant engineer, superin-\ntendent engineer, executive en-\ngineer, and chief engineer levels.\n\n\u201cWe have formed acommit-\ntee to look into the role of these\nofficials,\u201d he said. Rana empha-\nsised that the General\nArrangement Drawing (GAD), a\ncomprehensive layout plan nec-\nessary for all ROB projects, was\nprepared in collaboration with\nthe Indian Railways and super-\nvised within the PWD by the\nChief Engineer (Bridges). G P\nVerma, the Chief Engineer\n(Bridges), refused to comment\non the matter.\nRanasaid the \"final approval\u201d\nremained within the depart-\nment of the Chief Engineer\n(Bridges), and \u201cthe design did not\nescalate to higher authorities.\u201d\n\n\u201cIt was the bridge engineer-\ning department which had dealt\nwith the design. The GAD was\nformulated with the help of rail-\nway officials and PWD officers.\nA private contractor was en-\ngaged to execute the work, and\nthey also have a final role to ex-\necute the design in the later\nStages. If there had been better\ncommunication, we could have\nrectified the design or made an\nunderbridge. The railway built\nits own ROB considering the\nspace crunch,\u201d he said.\nRana said the project faced\nspatial constraints, and the issue\nof alignment should have been\nflagged earlier in the GAD for-\n\nmulation phase. \u201cThere was a\nlack of communication between\ndifferent departments over this,\nIf we could have got this at the\nreception stage itself, the\nRailways could have denied giv-\ning approval to the project. Then\nwe could have worked on a re-\ndesign,\u201d he said.\nAnd so, the departments pro-\nceeded with the existing design,\nand alternatives such as an un-\nderground crossing or different\nalignment were not explored,\nRana said.\nRailways spokesperson Naval\nAgarwalacknowledged that both\ndepartments had coordinated\nduring the design phase and that\n\nRailways had raised early con-\ncerns about the alignment. \u201cWe\nhad done our job and built our\nportion of the ROB as per the\nGAD. We had communicated to\nthe PWD through a letter some\ntime ago on the design flaws. We\ndid our job.\"\nAnupam Awasthi, the Chief\nProject Manager, declined to\ncomment in detail, stating only\nthat he was not involved when\nthe GAD was prepared and sug-\ngesting that any design flaws\ncould have been addressed viaa\nrevision proposal at that time. \"If\nthere was anapproach problem,\nthen there could have been a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.2803738317757,
+   "ocr_low_conf_share": 0.018691588785046728,
+   "headline": "The many wrong turns that led to Bhopal's infamous right-angle bridge",
+   "deck": "",
+   "byline": "ANCHOR; ANAND MOHAN J; BHOPAL, JUNE 24",
+   "text": "A NEWLY constructed rail overbridge (ROB) in Bhopal, which made headlines for its almost 90-degree tum, has quickly gone from being the subject of memes to the subject ofan investigation. And, as an enquiry gets underway to figure out what led tothe peculiar construction, officials from the Madhya Pradesh Public Works Department (PWD) and\n\nthe Indian Railways appear to be shifting blame. The 648-metre bridge in the Aishbagh area, which cost Rs 18 crore to build, was meant to eliminate long delays at railway crossings and shorten the commute for nearly three lakh people daily. KPS Rana, the engineer-inchief of the PWD, told The Indian Express that the bridge's design was sanctioned in 2018 and was executed by a team originally from the bridge engineering department, comprising officials at the assistant engineer, superintendent engineer, executive engineer, and chief engineer levels.\n\n\"We have formed acommittee to look into the role of these officials,\" he said. Rana emphasised that the General Arrangement Drawing (GAD), a comprehensive layout plan necessary for all ROB projects, was prepared in collaboration with the Indian Railways and super-vised within the PWD by the Chief Engineer (Bridges). G P Verma, the Chief Engineer (Bridges), refused to comment on the matter. Ranasaid the \"final approval\" remained within the department of the Chief Engineer (Bridges), and \"the design did not escalate to higher authorities.\"\n\n\"It was the bridge engineering department which had dealt with the design. The GAD was formulated with the help of railway officials and PWD officers. A private contractor was engaged to execute the work, and they also have a final role to execute the design in the later Stages. If there had been better communication, we could have rectified the design or made an underbridge. The railway built its own ROB considering the space crunch,\" he said. Rana said the project faced spatial constraints, and the issue of alignment should have been flagged earlier in the GAD formulation phase. \"There was a lack of communication between different departments over this, If we could have got this at the reception stage itself, the Railways could have denied giving approval to the project. Then we could have worked on a redesign,\" he said. And so, the departments proceeded with the existing design, and alternatives such as an underground crossing or different alignment were not explored, Rana said. Railways spokesperson Naval Agarwalacknowledged that both departments had coordinated during the design phase and that\n\nRailways had raised early concerns about the alignment. \"We had done our job and built our portion of the ROB as per the GAD. We had communicated to the PWD through a letter some time ago on the design flaws. We did our job.\" Anupam Awasthi, the Chief Project Manager, declined to comment in detail, stating only that he was not involved when the GAD was prepared and suggesting that any design flaws could have been addressed viaa revision proposal at that time. \"If there was anapproach problem, then there could have been a",
+   "n_words": 498,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.9,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

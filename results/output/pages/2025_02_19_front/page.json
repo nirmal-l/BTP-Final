@@ -1,0 +1,539 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_19_front",
+ "source_file": "2025-02-19_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-19_front.png",
+ "date": "2025-02-19",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 228,
+  "mean_line_conf": 88.56122984634828,
+  "orphan_words": 0,
+  "body_words_total": 888
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      366,
+      717,
+      723,
+      784
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "BUSINESS AS USUAL",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BUSINESS AS USUAL",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      772,
+      1692,
+      1275
+     ],
+     [
+      809,
+      1268,
+      1128,
+      1342
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      804,
+      1503,
+      1252,
+      2288
+     ],
+     [
+      1297,
+      1817,
+      1743,
+      2124
+     ],
+     [
+      1300,
+      2203,
+      1658,
+      2236
+     ]
+    ],
+    "layout_words": 125
+   },
+   "headline_raw": "KIIT student\u2019s death,\n\u2018racist\u2019 remarks echo\nin Nepal Parliament;\nOdisha sets up panel\nYUBARAJ GHIMIRE",
+   "deck_raw": "",
+   "body_raw": "NEPAL'S PARLIAMENT wit-\nnessed angry scenes Tuesday as\nOpposition members protested\nthe alleged suicideofa 20-year-\nold student from the country at\nthe Kalinga Institut of industrial\nTechnology (KIIT) in Bhuba-\nneswar They also expressed out-\nrage over \u201cracist\u201d remarksmade\nby some university staff mem-\nbers against students demand-\ning a probeinto the death.\nThiscameeven as the Odisha\ngoverment formed a fact-find-\ning committee and police ar-\nrested five persons \u2014 three sen-\nior KIIT staff members and two\nsecurity guards \u2014 for allegedly\nassaulting theagitating students\nonMonday.\n\nAs soon as Nepal's House of\nRepresentatives assembled, the\nOpposition members said the\nresponse of the KIIT authorities\n\u2014tothedeath of Prakriti Lamsal,\na third-year B.Tech (computer\nscience) student, as well as the\nCONTINUED ON PAGE 2\n\nRELATED REPORT",
+   "ocr_conf": 87.648,
+   "ocr_low_conf_share": 0.08,
+   "headline": "KIIT student's death, 'racist' remarks echo in Nepal Parliament; Odisha sets up panel YUBARAJ GHIMIRE",
+   "deck": "",
+   "byline": "",
+   "text": "NEPAL'S PARLIAMENT witnessed angry scenes Tuesday as Opposition members protested the alleged suicideofa 20-yearold student from the country at the Kalinga Institut of industrial Technology (KIIT) in Bhubaneswar They also expressed outrage over \"racist\" remarksmade by some university staff members against students demanding a probeinto the death. Thiscameeven as the Odisha goverment formed a fact-finding committee and police arrested five persons - three senior KIIT staff members and two security guards - for allegedly assaulting theagitating students onMonday.\n\nAs soon as Nepal's House of Representatives assembled, the Opposition members said the response of the KIIT authorities - tothedeath of Prakriti Lamsal, a third-year B.Tech (computer science) student, as well as the\n\nRELATED REPORT",
+   "n_words": 113,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      1346,
+      3170,
+      1424
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      1462,
+      3183,
+      1539
+     ],
+     [
+      3009,
+      1507,
+      3203,
+      1535
+     ]
+    ],
+    "layout_words": 30
+   },
+   "headline_raw": "US, Russia AT THE TABLE IN RIYADH",
+   "deck_raw": "",
+   "body_raw": "US Secretary of State Marco Rubio (second from left) and Russian counterpart Sergei Lavrov\n(extreme right) in Riyadh on Tuesday for talks to end the Ukraine war. Reuters \u00a9 REPORT,P 1!\n\nREPORT,P 18",
+   "ocr_conf": 82.36363636363636,
+   "ocr_low_conf_share": 0.15151515151515152,
+   "headline": "US, Russia AT THE TABLE IN RIYADH",
+   "deck": "",
+   "byline": "REPORT,P 18",
+   "text": "US Secretary of State Marco Rubio (second from left) and Russian counterpart Sergei Lavrov (extreme right) in Riyadh on Tuesday for talks to end the Ukraine war. Reuters \u00a9 REPORT,P 1!",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      1446,
+      751,
+      1814
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      391,
+      1894,
+      753,
+      1965
+     ],
+     [
+      319,
+      2013,
+      758,
+      2055
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "Rahul: Midnight\ndecision on\nCEC selection\ndisrespectful,\ndiscourteous",
+   "deck_raw": "",
+   "body_raw": "\u2122 y One of three\nee inselection\n\n+4 NL ,\u00ab Gandhifiled",
+   "ocr_conf": 47.90909090909091,
+   "ocr_low_conf_share": 0.6363636363636364,
+   "headline": "Rahul: Midnight decision on CEC selection disrespectful, discourteous",
+   "deck": "",
+   "byline": "",
+   "text": "\u2122 y One of three ee inselection",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      1633,
+      3193,
+      1837
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      1975,
+      2715,
+      2027
+     ],
+     [
+      2275,
+      2040,
+      2715,
+      2093
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      2018,
+      2228,
+      2285
+     ],
+     [
+      2274,
+      1858,
+      2716,
+      1974
+     ],
+     [
+      2273,
+      2097,
+      2716,
+      2290
+     ],
+     [
+      2760,
+      1858,
+      3208,
+      2145
+     ],
+     [
+      2764,
+      2137,
+      3205,
+      2283
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "Flagging trial delay, SC grants bail to\nVVIP chopper case accused Michel",
+   "deck_raw": "case registered by the\nLatn erramant MVienrrnararalrc ibah:\noe eee SeEE ee NY\nto be heard by the Delhi High",
+   "body_raw": "POINTING TO the delay in trial,\nthe Supreme Court Tuesday\ngranted bail to Christian Michel\nJames, one of the alleged mid-\ndlemen in the AgustaWestland\nWIP chopper case who was ex-\ntradited from the UAE in 2018, in\n\na corruption case registered by\nthe CBI in 2013.\nMichel'sbailpleain arelated\n\nCourt Wednesday.\nThe ED, which alleged Michel\nreceived 30 million euros (ap-\nproximately Rs 225 crore) from\nAgustaWestland, had argued\n\nagainst grant of bail saying he\nwas a flight risk.\nIn the Supreme Court, the\nbench offustices Vikram Nath and\nSandeep Mehta, which granted\nbail t Michel, said that given the\npace at which the case is proceed-\nsonet than tris) meas ent ha rne\n\ning, the trial may not be com-\npleted even inthe next 25 years.\n\u201c.you will not be able to\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.58394160583941,
+   "ocr_low_conf_share": 0.0948905109489051,
+   "headline": "Flagging trial delay, SC grants bail to VVIP chopper case accused Michel",
+   "deck": "case registered by the Latn erramant MVienrrnararalrc ibah: oe eee SeEE ee NY to be heard by the Delhi High",
+   "byline": "",
+   "text": "POINTING TO the delay in trial, the Supreme Court Tuesday granted bail to Christian Michel James, one of the alleged middlemen in the AgustaWestland WIP chopper case who was extradited from the UAE in 2018, in\n\na corruption case registered by the CBI in 2013. Michel'sbailpleain arelated\n\nCourt Wednesday. The ED, which alleged Michel received 30 million euros (approximately Rs 225 crore) from AgustaWestland, had argued\n\nagainst grant of bail saying he was a flight risk. In the Supreme Court, the bench offustices Vikram Nath and Sandeep Mehta, which granted bail t Michel, said that given the pace at which the case is proceed-sonet than tris) meas ent ha rne\n\ning, the trial may not be completed even inthe next 25 years. \".you will not be able to",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      388,
+      1956,
+      756,
+      2096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2331,
+      766,
+      3113
+     ]
+    ],
+    "layout_words": 87
+   },
+   "headline_raw": "Fv\u2019 TSMR\ny ote Y | panel, Rahul\nwr Gandhifiled\n\u2018 ) dissent note",
+   "deck_raw": "",
+   "body_raw": "ADAY afterthe govemment no-\ntified the appointment of the\nnew Chief Election\nCommissioner (CEC), Leader of\nOpposition in the Lok Sabha,\nRahul Gandhi, on Tuesday said\nthe \u201cmidnight decision\u201d was\n\u201cdisrespectfuland discourteous\u2019,\npointing out that the Supreme\nCourt was set to hear petitions\nchallenging the new selection\nprocess \u201cin less than 48 hours\u201d.\nThe notification of the ap-\npointment of Election\nCommissioner Gyanesh Kumar\nas the next CEC, and Haryana\nChief Secretary Dr Vivek Joshi as\nElection Commissioner came kate\non Monday night, hours after the\nCONTINUEDONPAGE2",
+   "ocr_conf": 88.35632183908046,
+   "ocr_low_conf_share": 0.09195402298850575,
+   "headline": "Fv' TSMR y ote Y panel, Rahul wr Gandhifiled ' ) dissent note",
+   "deck": "",
+   "byline": "",
+   "text": "ADAY afterthe govemment notified the appointment of the new Chief Election Commissioner (CEC), Leader of Opposition in the Lok Sabha, Rahul Gandhi, on Tuesday said the \"midnight decision\" was \"disrespectfuland discourteous', pointing out that the Supreme Court was set to hear petitions challenging the new selection process \"in less than 48 hours\". The notification of the appointment of Election Commissioner Gyanesh Kumar as the next CEC, and Haryana Chief Secretary Dr Vivek Joshi as Election Commissioner came kate on Monday night, hours after the CONTINUEDONPAGE2",
+   "n_words": 85,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      2353,
+      2212,
+      2548
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1001,
+      2592,
+      1243,
+      2753
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      3007,
+      1250,
+      3113
+     ],
+     [
+      1296,
+      2572,
+      1739,
+      3121
+     ],
+     [
+      1784,
+      2571,
+      2229,
+      3114
+     ]
+    ],
+    "layout_words": 163
+   },
+   "headline_raw": "Stage set in Karachi today, India waits\nin Dubai wings: \u2018Public will miss out\u2019",
+   "deck_raw": "EXPRESS AT\nCHAMPIONS\nTROPHY",
+   "body_raw": "IN DUBAI the city of endless pos-\nsibilities, home to expatriates,\ncricket teams of India and\n\nPakistan will kick-start a new\narrangement with the\nChampions Trophy. India willbe\nholed up here while Pakistan\nplay at their home. If Indiahosts\nan ICC tournament next, India\nwill be playing at home, while\nPakistan will find itself in Dubai.\nUp until 2027, both teams\nwith storied history \u2014 which\ncan't avoid facing each other in\nglobal events because of the rev-\nenue they generate \u2014 will play\neach other only at neutral ven-\n\nues. The first of such fixtures is\nscheduled for Sunday, with\nthousands expected to fly down\nfrom world over for the cricket-\ning El Clasico.\n\u201cIt's quite sad thatit hascome\nto this,\u201d Mudassar Nazar, a\nPakistan veteran of many battles\nagainst India at home, away, and\nin neutral Sharjah, laments.\n\u201cMore than the players, it is\nthe public who will miss out on\nthe biggest fixture in cricket,\" he\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.05590062111801,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "Stage set in Karachi today, India waits in Dubai wings: 'Public will miss out'",
+   "deck": "EXPRESS AT CHAMPIONS TROPHY",
+   "byline": "",
+   "text": "IN DUBAI the city of endless possibilities, home to expatriates, cricket teams of India and\n\nPakistan will kick-start a new arrangement with the Champions Trophy. India willbe holed up here while Pakistan play at their home. If Indiahosts an ICC tournament next, India will be playing at home, while Pakistan will find itself in Dubai. Up until 2027, both teams with storied history - which can't avoid facing each other in global events because of the revenue they generate - will play each other only at neutral venues. The first of such fixtures is scheduled for Sunday, with thousands expected to fly down from world over for the cricketing El Clasico. \"It's quite sad thatit hascome to this,\" Mudassar Nazar, a Pakistan veteran of many battles against India at home, away, and in neutral Sharjah, laments. \"More than the players, it is the public who will miss out on the biggest fixture in cricket,\" he CONTINUEDON PAGE2",
+   "n_words": 157,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      2360,
+      3204,
+      2807
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2275,
+      2925,
+      2644,
+      2983
+     ]
+    ],
+    "body_boxes": [
+     [
+      2272,
+      2840,
+      2713,
+      2915
+     ],
+     [
+      2272,
+      3008,
+      2715,
+      3122
+     ],
+     [
+      2761,
+      2848,
+      3207,
+      3115
+     ]
+    ],
+    "layout_words": 51
+   },
+   "headline_raw": "Pervert mind, no shows\ntill order: SC on Allahbadia\nas it grants interim relief\nBench flags \u2018vacuum\u2019 in regulating\nonline content, asks Govt to act",
+   "deck_raw": "NEW DELHI, FEBRUARY 18",
+   "body_raw": "ANANTHAKRISHNANG\n\nWHILE I granted interim pro-\ntection from arrest in the FIRs\nregistered against podcaster-\n\ninfluencer Ranveer Allahbadia\nfor his comments on a YouTube\nshow, the Supreme Court on\nTuesday barred him from airing\n\u201cany show\u2019 tll further orders. It\nsaid hisconduct showed \u201clack of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.18367346938776,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Pervert mind, no shows till order: SC on Allahbadia as it grants interim relief Bench flags 'vacuum' in regulating online content, asks Govt to act",
+   "deck": "NEW DELHI, FEBRUARY 18",
+   "byline": "ANANTHAKRISHNANG",
+   "text": "WHILE I granted interim protection from arrest in the FIRs registered against podcasterinfluencer Ranveer Allahbadia for his comments on a YouTube show, the Supreme Court on Tuesday barred him from airing \"any show' tll further orders. It said hisconduct showed \"lack of",
+   "n_words": 42,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      2498,
+      3771,
+      2635
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      2323,
+      4128,
+      2453
+     ]
+    ],
+    "body_boxes": [
+     [
+      3254,
+      2574,
+      3771,
+      2609
+     ],
+     [
+      3248,
+      2652,
+      3693,
+      3115
+     ],
+     [
+      3878,
+      2574,
+      4011,
+      2609
+     ],
+     [
+      3789,
+      2652,
+      4124,
+      3077
+     ]
+    ],
+    "layout_words": 109
+   },
+   "headline_raw": "e \u2018 jo\nSHUBHAJIT ROY IE\nNEW DELHI, FEBRUARY 18 =",
+   "deck_raw": "Strategic partnership, doubling of\nbilateral trade in 5 years announced",
+   "body_raw": "NEW DELHI, FEBRUARY 18 l=\n\nAS PRIME Minister Narendra\nModi and Amir Sheikh Tamim\nbin Hamad Al Thani held talks in\nNew Delhi Tuesday, India and\nQatar decided toelevate theirties\ntoa \u201cstrategicpartnership\u201d, dou-\nble the targetof bilateral trade to\nUSD 28 billion in the next five\nyears, and bring Qatari invest-\nment of USD 10 billion to India\nModi, in a post on X, said,\nCONTINUED ON PAGE 2\n\nmatters\n\nQATAR IS a key player\nand mediator inthe on-\ngoing conflict between\nIsrael and Hamas. Delhi\nbuys a massive amount\nof natural gas from\nQatar and has a large\nIndian community\nthere. It also wants\nDoha to invest in India's\ninfrastructure.",
+   "ocr_conf": 85.64864864864865,
+   "ocr_low_conf_share": 0.07207207207207207,
+   "headline": "SHUBHAJIT ROY IE NEW DELHI, FEBRUARY 18 =",
+   "deck": "Strategic partnership, doubling of bilateral trade in 5 years announced",
+   "byline": "NEW DELHI, FEBRUARY 18 l=",
+   "text": "AS PRIME Minister Narendra Modi and Amir Sheikh Tamim bin Hamad Al Thani held talks in New Delhi Tuesday, India and Qatar decided toelevate theirties toa \"strategicpartnership\", double the targetof bilateral trade to USD 28 billion in the next five years, and bring Qatari investment of USD 10 billion to India Modi, in a post on X, said,\n\nmatters\n\nQATAR IS a key player and mediator inthe ongoing conflict between Israel and Hamas. Delhi buys a massive amount of natural gas from Qatar and has a large Indian community there. It also wants Doha to invest in India's infrastructure.",
+   "n_words": 99,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      427,
+      5502,
+      2487,
+      5666
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      427,
+      5697,
+      2543,
+      6027
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "Contact your MFD/RIA to know more.\nAn Investor Education and Awareness Initiative",
+   "deck_raw": "",
+   "body_raw": "Visit https: //www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know\nYour Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of\nwhich can be verified on the SEBI website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance\nredressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge\ncomplaints directly with the AMCs, if they are unsatisfied with the resolutions given by AMCs they may raise complaint through\nthe SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and\nsubsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the\nAMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login.",
+   "ocr_conf": 94.41134751773049,
+   "ocr_low_conf_share": 0.014184397163120567,
+   "headline": "Contact your MFD/RIA to know more. An Investor Education and Awareness Initiative",
+   "deck": "",
+   "byline": "",
+   "text": "Visit https: //www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs, if they are unsatisfied with the resolutions given by AMCs they may raise complaint through the SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login.",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2696,
+      5512,
+      3046,
+      5868
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2702,
+      5906,
+      3052,
+      6017
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "ae\none",
+   "deck_raw": "",
+   "body_raw": "Scan the QR code\nto learn more\nabout SIP",
+   "ocr_conf": 95.55555555555556,
+   "ocr_low_conf_share": 0.0,
+   "headline": "ae one",
+   "deck": "",
+   "byline": "",
+   "text": "Scan the QR code to learn more about SIP",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 12.1,
+ "flags": []
+}

@@ -1,0 +1,14 @@
+page_id,source_file,date,page_type,articles_kept,candidates,dropped_short,dropped_duplicate,words_kept,mean_ocr_conf,skew_deg,photos_removed,unreliable,flags
+Jaipur_January_01_2025_page_1_1,Jaipur-January-01--2025-page-1 (1).pdf,2025-01-01,editorial,6,8,1,1,3506,92.9,-0.05,0,True,1 kept article(s) without a headline
+Jaipur_January_01_2025_page_1,Jaipur-January-01--2025-page-1.pdf,2025-01-01,front,8,11,3,0,1999,93.2,-0.05,8,False,
+Jaipur_January_02_2025_page_1_1,Jaipur-January-02--2025-page-1 (1).pdf,2025-01-02,editorial,7,12,4,1,3191,93.4,-0.05,1,False,
+Jaipur_January_02_2025_page_1,Jaipur-January-02--2025-page-1.pdf,2025-01-02,front,9,16,7,0,2038,93.3,-0.05,5,True,1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1,Jaipur-January-03--2025-page-1 (1).pdf,2025-01-03,editorial,7,9,2,0,3284,92.9,-0.05,2,True,1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1,Jaipur-January-03--2025-page-1.pdf,2025-01-03,front,10,15,5,0,1919,93.1,-0.05,8,False,
+Jaipur_January_04_2025_page_1_1,Jaipur-January-04--2025-page-1 (1).pdf,2025-01-04,editorial,6,7,1,0,3242,94.0,-0.05,1,False,
+Jaipur_January_04_2025_page_1,Jaipur-January-04--2025-page-1.pdf,2025-01-04,front,6,10,4,0,585,92.1,-0.05,5,False,
+Jaipur_January_05_2025_page_1,Jaipur-January-05--2025-page-1.pdf,2025-01-05,other,12,14,2,0,2639,92.8,-0.05,7,True,page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1,Jaipur-January-06--2025-page-1 (1).pdf,2025-01-06,editorial,5,6,1,0,2798,93.9,-0.05,1,False,
+Jaipur_January_06_2025_page_1,Jaipur-January-06--2025-page-1.pdf,2025-01-06,front,9,17,8,0,1949,92.6,-0.05,10,False,
+Jaipur_January_07_2025_page_1_1,Jaipur-January-07--2025-page-1 (1).pdf,2025-01-07,editorial,9,12,3,0,3252,93.1,-0.05,0,False,
+Jaipur_January_07_2025_page_1,Jaipur-January-07--2025-page-1.pdf,2025-01-07,front,11,17,6,0,1726,90.9,-0.05,4,False,

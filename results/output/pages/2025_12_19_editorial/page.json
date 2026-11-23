@@ -1,0 +1,605 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_19_editorial",
+ "source_file": "2025-12-19_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-19_editorial.png",
+ "date": "2025-12-19",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 483,
+  "n_lines": 533,
+  "mean_line_conf": 88.13216105514003,
+  "orphan_words": 0,
+  "body_words_total": 3486
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      424,
+      579,
+      1107,
+      644
+     ]
+    ],
+    "deck_boxes": [
+     [
+      371,
+      697,
+      1159,
+      814
+     ]
+    ],
+    "body_boxes": [
+     [
+      683,
+      840,
+      846,
+      871
+     ],
+     [
+      576,
+      920,
+      953,
+      995
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "$ The IndianEXPRESS",
+   "deck_raw": "~ FOUNDED BY ~\nRAMNATH GOENKA",
+   "body_raw": "IN 1932\n\nBECAUSE THE TRUTH\nINVOLVES US ALL",
+   "ocr_conf": 94.625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "$ The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1463,
+      567,
+      4017,
+      915
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1300,
+      950,
+      1904,
+      1184
+     ],
+     [
+      1296,
+      1229,
+      1905,
+      2698
+     ],
+     [
+      1946,
+      951,
+      2554,
+      1345
+     ],
+     [
+      2927,
+      951,
+      3531,
+      1343
+     ],
+     [
+      1949,
+      1389,
+      3530,
+      2380
+     ],
+     [
+      1949,
+      2211,
+      3527,
+      2600
+     ],
+     [
+      3573,
+      952,
+      4182,
+      2580
+     ],
+     [
+      3788,
+      2624,
+      4180,
+      2699
+     ]
+    ],
+    "layout_words": 927
+   },
+   "headline_raw": "MGNREGA was the ground\nbeneath our feet. Its slipping away",
+   "deck_raw": "",
+   "body_raw": "F THE Nobel Prize were awarded for\ngenuine economic thinking com-\nbined with deinoistiabic positive pol-\nicy impact, the architects of the Ma-\nhatma Gandhi National Rural\nEmployment Guarantee Act (MGNREGA)\n\nItis difficult to imagine a publicprogramme\nof comparable scale that was both so care-\nfully designed and soconsequentialin its ef-\nfects. Yet the way the MGNREGA is usually\ndebated is strikingly impoverished. It is too\noften dismissed as a mere welfare handout,\nor defended onlyasa normatively attractive\nrights-based scheme. In fact, the MGNREGA\nrepresented a far deeper revolution in how\npoverty alleviation, labour markets and ser-\nvice delivery are conceptualised in India.\nThe MGNREGA is possibly the most in-\ntensively studied public policy in Indian\nhistory. There are hundreds of academic\npapers analysing its design, implementa-\ntion, and effects. The overwhelming ver-\ndict, even among scholars who began as\nsceptics, is that the scheme has been a re-\nmarkable success. Among the most rigor-\nousand influential contributionsis Karthik\nMuralidharan, Paul Niehaus, and Sandip\nSukhtankar\u2019s paper, \u2018The General Equilib-\nrium Effectsof(Improving) Public Employ-\nment Programs: Experimental Evidence\nfrom India\u2019. Their findings went far beyond\ndocumenting the scheme\u2019s direct benefits.\nThey showed that the general equilibrium\neffects were substantial: Household earn-\nings rose by about 14 per cent, poverty de-\nclined by roughly 26 per cent. The pro-\ngramme increased the bargaining powerof\nlabour. This led to higher wagesand greater\nlocal demand, which in tur generated ad-\nditional non-farm employment.\nItistherefore astonishing that oneof the\nprincipal arguments now advanced against\nthe MGNREGA is precisely that it raises\n\nwages. This concern underlies the clamour\nto restrict the scheme tothe agricultural off-\nseason. Economists often worry when wage\ngrowth cuiipaces prodiictivity growth. Butin\nthecontext of theextreme precarity at which\nthe Indian pooroperate, thisconcernisclose\nto moot. More importantly, the evidence\nshowed that higher wages under the\nMGNREGA did notleadtoreduced employ-\nment. That rising wages for the poorest\n\ncurrent government itself has grudgingly\nacknowledged this logic in expanding food\nsecurity coverage. The MGNREGA cut\nthrough interminable debatesby adopting\naself-targeting design: Anyonewillingto do\nthe work could demand employment.\nThe social consequences of this design\nchoice were transformative. Nationally,\nmore than 57 per centofthe MGNREGAem-\nploymentdaysgeneratedin2023accruedto\n\nthan avirtue oftheschemeis mind-boggling. urerises to nearly 80 per cent. Few public pol-\nIndeed, elevatingthe bargaining power of la- icieshavesodecisively altered gendered pat-\nbour was not an unintended side effect; it terns of labour force participation at scale.\nwas central to the economic logic of the The demand-driven nature of the\nMGNREGA. And it achieved this withoutad- MGNREGA also made it unusually supple.\nverse macroeconomic consequences. It could respond to diverse local conditions\nPublic memory is short. Despite its im- and shifting economic circumstances across\nplementation weaknesses, the MGNREGA States. Its signalling value, that the state\nwas the programme that effectively helped would act as an employer of last resort, was\nsave India during the Covid shock. It pro- immense. In principle, the scheme could\nvided a critical lifeline to millions of house- certainly be improved, for example, by better\nholds and played a key role in sustaining linking it to skill formation or more durable\nruraldemand. Even the Narendra Modi gov- public asset creation, and by situating it\nemment, initially hostile to the scheme and within a changing welfare architecture. Yet\nlater content to dilute it through adminis- many of its apparent shortcomings were de-\ntrative attrition, was compelled to rely on it liberate design choices. The gains fromsim-\nduring the crisis. The MGNREGA thus func- plicity far outweighed the benefits ofburden-\ntioned not merely as a welfare measure, but ing the programme with multiple, and often\nas an instrument that generated a virtuous conflicting, objectives.\ncycle of economic effects across the From this perspective, propo-\nrural economy. sals to alterthe scheme by allocat-\nEqually important were the One argument advanced ing work to states on supposedly\ntheoretical principles that in- againstthe MGNREGAisthatit objective criteria determined by\nformedthescheme\u2019sdesign.Even raises wages. Economists often \u2018technocrats in NITI Aayog repre-\nsetting aside any commitment to ware uwhenwace crmwth senta regression in India\u2019s admin-\n\nllateetatetelaatiatenbaieatntatel ded whe US CARL ELE OU \u201cwy CMV UC\nEqually important were the One argument advanced ing work to states on supposedly\ntheoretical principles that in- againstthe MGNREGAisthatit objective criteria determined by\ncating aside any oommitmentto SS Wages. Economistsoften eee oninindize admin,\nnt a regression in India\u2019s admin-\na rights-based welfare state, the worry when wage growth istrativearchitecture. Thechanges\nMGNREGA graspedafundamen- outpaces productivity growth. proposed inthe new VB-GRAMG\ntal truth about governance in But in thecontext of the Bill largely move in the wrong di-\nIndia: Targeted programmes are precarity at which the Indian _\u2018%ction. On the surface, extending\nexceptionally prone to failure and thi . the employment guarantee to 125\nmaninulation niversaliry near- poor operate, this concern is dave anneare nincreccive Tn nrac-\n\nconverting a demand-driven entitlement\ninto a budget-capped, supply-driven pro-\ngramme and by shifting a greater financial\nburden onto states.\nThe MGNREGA, for all its limitations,\nwas also a significant instrument of decen-\ntralisation, empowering gram panchayatsin\nmeaningful ways. Although thenew Billfor-\niaily involves panchayats in planning, the\nrequirementthat these plans align with cen-\ntrally determined priorities will, in practice,\nhollow out their agency.\nThe UPA government largely got the\npolicy design right but mishandled the\npolitics ofthe MGNREGA. Congresslacked\nthe organisational capacity to credibly\nclaim ownership ofthe scheme\u2019ssuccesses,\ndespite its administrative imperfections.\nIn 2014, party leaders compounded this\nerror by projecting the MGNREGA as aceil-\ning of achievement rather than a floor,\nallowing Narendra Modi to appropriatethe\nlanguage of aspiration. From the outset, he\nsuccessfully framed the MGNREGA as em-\nblematic of a politics of low ambition, an\ninterpretation eagerly amplified bya media\necosystem indifferent to scholarly evi-\ndenceand refiexively aligned with elite dis-\ncomfort over higher wages. That this gov-\nernment also displays an instinctive\naversion to anything bearing Gandhi\u2019s\nname only reinforced this posture.\nYet, viewed over the longer arc of the\npast two decades, the MGNREGA may\ncome to be seen as more than a relative\neconomic success. It may well have been\nthe bedrock safety net that underwrote\npolitical stability in a period of profound\neconomic and social transformation. Quite\nliterally, it provided the political and econ-\nomic ground beneath our feet.\n\nThewriteris contributing editor,\nThe Indian Express",
+   "ocr_conf": 88.02892960462874,
+   "ocr_low_conf_share": 0.06846673095467695,
+   "headline": "MGNREGA was the ground beneath our feet. Its slipping away",
+   "deck": "",
+   "byline": "",
+   "text": "F THE Nobel Prize were awarded for genuine economic thinking combined with deinoistiabic positive policy impact, the architects of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)\n\nItis difficult to imagine a publicprogramme of comparable scale that was both so carefully designed and soconsequentialin its effects. Yet the way the MGNREGA is usually debated is strikingly impoverished. It is too often dismissed as a mere welfare handout, or defended onlyasa normatively attractive rights-based scheme. In fact, the MGNREGA represented a far deeper revolution in how poverty alleviation, labour markets and service delivery are conceptualised in India. The MGNREGA is possibly the most intensively studied public policy in Indian history. There are hundreds of academic papers analysing its design, implementation, and effects. The overwhelming verdict, even among scholars who began as sceptics, is that the scheme has been a remarkable success. Among the most rigor-ousand influential contributionsis Karthik Muralidharan, Paul Niehaus, and Sandip Sukhtankar's paper, 'The General Equilibrium Effectsof(Improving) Public Employment Programs: Experimental Evidence from India'. Their findings went far beyond documenting the scheme's direct benefits. They showed that the general equilibrium effects were substantial: Household earnings rose by about 14 per cent, poverty declined by roughly 26 per cent. The programme increased the bargaining powerof labour. This led to higher wagesand greater local demand, which in tur generated additional non-farm employment. Itistherefore astonishing that oneof the principal arguments now advanced against the MGNREGA is precisely that it raises\n\nwages. This concern underlies the clamour to restrict the scheme tothe agricultural offseason. Economists often worry when wage growth cuiipaces prodiictivity growth. Butin thecontext of theextreme precarity at which the Indian pooroperate, thisconcernisclose to moot. More importantly, the evidence showed that higher wages under the MGNREGA did notleadtoreduced employment. That rising wages for the poorest\n\ncurrent government itself has grudgingly acknowledged this logic in expanding food security coverage. The MGNREGA cut through interminable debatesby adopting aself-targeting design: Anyonewillingto do the work could demand employment. The social consequences of this design choice were transformative. Nationally, more than 57 per centofthe MGNREGAemploymentdaysgeneratedin2023accruedto\n\nthan avirtue oftheschemeis mind-boggling. urerises to nearly 80 per cent. Few public pol-Indeed, elevatingthe bargaining power of la- icieshavesodecisively altered gendered patbour was not an unintended side effect; it terns of labour force participation at scale. was central to the economic logic of the The demand-driven nature of the MGNREGA. And it achieved this withoutad- MGNREGA also made it unusually supple. verse macroeconomic consequences. It could respond to diverse local conditions Public memory is short. Despite its im- and shifting economic circumstances across plementation weaknesses, the MGNREGA States. Its signalling value, that the state was the programme that effectively helped would act as an employer of last resort, was save India during the Covid shock. It pro- immense. In principle, the scheme could vided a critical lifeline to millions of house- certainly be improved, for example, by better holds and played a key role in sustaining linking it to skill formation or more durable ruraldemand. Even the Narendra Modi gov- public asset creation, and by situating it emment, initially hostile to the scheme and within a changing welfare architecture. Yet later content to dilute it through adminis- many of its apparent shortcomings were detrative attrition, was compelled to rely on it liberate design choices. The gains fromsimduring the crisis. The MGNREGA thus func- plicity far outweighed the benefits ofburdentioned not merely as a welfare measure, but ing the programme with multiple, and often as an instrument that generated a virtuous conflicting, objectives. cycle of economic effects across the From this perspective, proporural economy. sals to alterthe scheme by allocat-Equally important were the One argument advanced ing work to states on supposedly theoretical principles that in- againstthe MGNREGAisthatit objective criteria determined by formedthescheme'sdesign.Even raises wages. Economists often 'technocrats in NITI Aayog represetting aside any commitment to ware uwhenwace crmwth senta regression in India's adminllateetatetelaatiatenbaieatntatel ded whe US CARL ELE OU \"wy CMV UC Equally important were the One argument advanced ing work to states on supposedly theoretical principles that in- againstthe MGNREGAisthatit objective criteria determined by cating aside any oommitmentto SS Wages. Economistsoften eee oninindize admin, nt a regression in India's admina rights-based welfare state, the worry when wage growth istrativearchitecture. Thechanges MGNREGA graspedafundamen- outpaces productivity growth. proposed inthe new VB-GRAMG tal truth about governance in But in thecontext of the Bill largely move in the wrong di-India: Targeted programmes are precarity at which the Indian _'%ction. On the surface, extending exceptionally prone to failure and thi. the employment guarantee to 125 maninulation niversaliry near- poor operate, this concern is dave anneare nincreccive Tn nracconverting a demand-driven entitlement into a budget-capped, supply-driven programme and by shifting a greater financial burden onto states. The MGNREGA, for all its limitations, was also a significant instrument of decentralisation, empowering gram panchayatsin meaningful ways. Although thenew Billforiaily involves panchayats in planning, the requirementthat these plans align with centrally determined priorities will, in practice, hollow out their agency. The UPA government largely got the policy design right but mishandled the politics ofthe MGNREGA. Congresslacked the organisational capacity to credibly claim ownership ofthe scheme'ssuccesses, despite its administrative imperfections. In 2014, party leaders compounded this error by projecting the MGNREGA as aceiling of achievement rather than a floor, allowing Narendra Modi to appropriatethe language of aspiration. From the outset, he successfully framed the MGNREGA as emblematic of a politics of low ambition, an interpretation eagerly amplified bya media ecosystem indifferent to scholarly evidenceand refiexively aligned with elite discomfort over higher wages. That this government also displays an instinctive aversion to anything bearing Gandhi's name only reinforced this posture. Yet, viewed over the longer arc of the past two decades, the MGNREGA may come to be seen as more than a relative economic success. It may well have been the bedrock safety net that underwrote political stability in a period of profound economic and social transformation. Quite literally, it provided the political and economic ground beneath our feet.\n\nThewriteris contributing editor, The Indian Express",
+   "n_words": 994,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      358,
+      1086,
+      1173,
+      1274
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1309,
+      1206,
+      2896
+     ]
+    ],
+    "layout_words": 402
+   },
+   "headline_raw": "RBI shores up rupee. It\nmay be good tolet it be",
+   "deck_raw": "",
+   "body_raw": "N WEDNESDAY, the Indian nupee registered its best\ngain against theUS dollar in seven months following\nan intervention by the Reserve Bank of India. Asare-\nsult of the RBI selling dollars, the nipee\u2019s exchange\nrate versus the dollar rose by over 1 per cent during the day. By\ntheclose of day, the rupee had gained 07 per cent over the dollar\nandthe exchange rate had shifted from 91.05 toa dollar to 90.09\nto a dollar. The RBI\u2019s intervention in the form of amassive sale\nof dollars, increasing the relative supply of dollars vis-a-vis the\nrupee and boosting the relative price of the rupee, camein the\nwake ofasharp fallin the nipee\u2019s exchange rate versusthe dollar.\nBeforethis intervention, the rupee had lost more than6 percent\nof its value over the past year \u2014 almost two to three times the\nrate at which the rupee hashistorically lost value relative to the\ndollar. The rapidity of this fall was particularly sharpasthe rupee\nlost 3 per cent relative to the dollar since November 15.\nAt one level, the RBI\u2019s intervention is nothing new, and is\nunderstandable. In the mostrecent monetary policyreview on\nDecember 5, RBI Governor Sanjay Malhotrasounded sanguine\nabout the rupee\u2019s exchange rate trajectory ashe delineated the\nRBI's approach. \u201cOur stated policy, always, has been that we\nallow the markets to determine (the value of rupee). We don\u2019t\ntarget any price levels orany (price) bands... Oureffort always\nhas been to reduce any abnormal or excessive volatility and\nthat is what we will continueto endeavour,\u201d he said. There are\nno set definitions of what constitutes \u201cexcessive\u201d fluctuation,\nbutit isnoteworthy thatthe mpeeslid from 90 to 91 ina matter\nof just10 days. There is always arisk thata sustained sharp fall\nturns intoa panic and becomes self-fulfilling.\nWith India\u2019s domestic inflation being below even the RBI's\ncom fort zone and with crude oil prices staying subdued, this is\nas good a time as any for the RBI to let the rupee depreciate\nagainst the dollar \u2014since a weaker rupee will not result in spik-\ning domestic inflation to uncomfortable levels. RBI interven-\ntions can only achieve the goal of moderating fluctuations in\nthe rupee\u2019s exchange rate. They cannotbe, and should notbe,\nthe way forward for an economy that is open to trading globally.\nEventually, the rupee\u2019s true value can only be determined by\nthe ground realities of how much India exports and imports\nand how well itattracts global capital flows.",
+   "ocr_conf": 88.85572139303483,
+   "ocr_low_conf_share": 0.06467661691542288,
+   "headline": "RBI shores up rupee. It may be good tolet it be",
+   "deck": "",
+   "byline": "",
+   "text": "N WEDNESDAY, the Indian nupee registered its best gain against theUS dollar in seven months following an intervention by the Reserve Bank of India. Asaresult of the RBI selling dollars, the nipee's exchange rate versus the dollar rose by over 1 per cent during the day. By theclose of day, the rupee had gained 07 per cent over the dollar andthe exchange rate had shifted from 91.05 toa dollar to 90.09 to a dollar. The RBI's intervention in the form of amassive sale of dollars, increasing the relative supply of dollars vis-a-vis the rupee and boosting the relative price of the rupee, camein the wake ofasharp fallin the nipee's exchange rate versusthe dollar. Beforethis intervention, the rupee had lost more than6 percent of its value over the past year - almost two to three times the rate at which the rupee hashistorically lost value relative to the dollar. The rapidity of this fall was particularly sharpasthe rupee lost 3 per cent relative to the dollar since November 15. At one level, the RBI's intervention is nothing new, and is understandable. In the mostrecent monetary policyreview on December 5, RBI Governor Sanjay Malhotrasounded sanguine about the rupee's exchange rate trajectory ashe delineated the RBI's approach. \"Our stated policy, always, has been that we allow the markets to determine (the value of rupee). We don't target any price levels orany (price) bands... Oureffort always has been to reduce any abnormal or excessive volatility and that is what we will continueto endeavour,\" he said. There are no set definitions of what constitutes \"excessive\" fluctuation, butit isnoteworthy thatthe mpeeslid from 90 to 91 ina matter of just10 days. There is always arisk thata sustained sharp fall turns intoa panic and becomes self-fulfilling. With India's domestic inflation being below even the RBI's com fort zone and with crude oil prices staying subdued, this is as good a time as any for the RBI to let the rupee depreciate against the dollar - since a weaker rupee will not result in spiking domestic inflation to uncomfortable levels. RBI interventions can only achieve the goal of moderating fluctuations in the rupee's exchange rate. They cannotbe, and should notbe, the way forward for an economy that is open to trading globally. Eventually, the rupee's true value can only be determined by the ground realities of how much India exports and imports and how well itattracts global capital flows.",
+   "n_words": 400,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2926,
+      1325,
+      3528,
+      1389
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3022,
+      2211,
+      3529,
+      2459
+     ]
+    ],
+    "layout_words": 24
+   },
+   "headline_raw": "PloyINentdays SeNemved Mi zUzcoaCcruedto\nwomen: instates suchas Tamil Nadu, the fig-",
+   "deck_raw": "",
+   "body_raw": "whe US CARL ELE OU \u201cwy CMV UC\ning work to states on supposedly\nobjective criteria determined by\ntechnocrats in NITI Aayog repre-\nsenta regression in India\u2019s admin-\nistrativearchitecture. Thechanges\nproposed in the new VB-G RAMG",
+   "ocr_conf": 79.86111111111111,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "PloyINentdays SeNemved Mi zUzcoaCcruedto women: instates suchas Tamil Nadu, the fig-",
+   "deck": "",
+   "byline": "",
+   "text": "whe US CARL ELE OU \"wy CMV UC ing work to states on supposedly objective criteria determined by technocrats in NITI Aayog representa regression in India's admin-istrativearchitecture. Thechanges proposed in the new VB-G RAMG",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1949,
+      2358,
+      2427,
+      2459
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1949,
+      2568,
+      2428,
+      2658
+     ]
+    ],
+    "body_boxes": [
+     [
+      1949,
+      2664,
+      2588,
+      2692
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "setting aside any comnmutment to\na rights-based welfare state, the\nMGNREGA grasped a fundamen-",
+   "deck_raw": "eke Pe en pi WAS SCALA UEL Ch\nmanipulation. Universality, near-\nuniversality, orself-targeting offers",
+   "body_raw": "the best chance of success. The (",
+   "ocr_conf": 88.57142857142857,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "setting aside any comnmutment to a rights-based welfare state, the MGNREGA grasped a fundamen-",
+   "deck": "eke Pe en pi WAS SCALA UEL Ch manipulation. Universality, near-universality, orself-targeting offers",
+   "byline": "",
+   "text": "the best chance of success. The (",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      331,
+      2957,
+      1193,
+      3144
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3181,
+      1206,
+      4767
+     ]
+    ],
+    "layout_words": 367
+   },
+   "headline_raw": "Insulate Dhaka ties\nfrom short-term politics",
+   "deck_raw": "",
+   "body_raw": "HE PROTESTS at Indian diplomatic outposts, includ-\ning the High Commission in Dhaka, are concerning.\nThey also carry a disquieting portent for a bilateral re-\nlationship that was, until recently, arguably Delhi\u2019s\ngreatest success in the neighbourhood. The demand for the re-\npatriation of Sheikh Hasina by the group marching under the\nbanner of \u201cJuly Oikya\u201d and the anti-India rhetoric of National\nCitizen Party leader Hasnat Abdullah, threatening to provide\nshelter and support to separatists from northeastern states, less\nthan two months before the general elections, show just how\ndeeply politicised bilateral ties have become. Delhi has sum-\nmoned the Bangladesh High Commissioner and made its con-\ncerns known. However, the leadershin at the highest level in both\nCotintries must prioritise the need to repair the relationship.\nWith the benefit of hindsight, it is clear that India underesti-\nmated the depth of support for thestudent-led uprising and the\nanger against Sheikh Hasina. During the protests and in their\naftermath, certain sections on both sides of the border further\npolarised the conversation by invoking historical socialand com-\nmunal fissures in the Subcontinent. In the age of 24/7 news and\nWhatsApp forwards, irresponsible rhetoric cannot butaffect the\ntenor ofties with animportant neighbour. Onits part, theinterim\ngovernment in Dhaka has done little to bridge the domestic\npolitical divide. As Sajeeb Wazed Joy, Sheikh Hasina\u2019s son, under-\nlined in an interview to this newspaper, the Awami League has\nbeen a major political force in Bangladesh since its formation,\nandthe ban on theparty fromcontesting will castashadowover\nthe election. By excluding the Awami League from the political\nprocess, theinterim government is repeating Hasina\u2019s mistakes.\nIt is important for Delhi and Dhaka to recall the realities of\ngeography, history, culture, geopolitics and economics that can-\nnot be wished away. Both countries have made strides in trade,\ntackling insurgencies, sharing river waters and policing the\nshared 4,096-km land border. India must communicate to the\npeople of Bangladesh as muchas its government that the bilat-\neralstory isaboutiwosocieties, regardiess ofthe government in\npower. Delhi must becareful not to takepolitical sidesin Dhaka.\nThe political class in Bangladesh, foritspart, needsto show ma-\nturity ahead oftheelection. Inthe longterm, both countries have\nmuch to gain by building back the relationship.",
+   "ocr_conf": 90.48633879781421,
+   "ocr_low_conf_share": 0.040983606557377046,
+   "headline": "Insulate Dhaka ties from short-term politics",
+   "deck": "",
+   "byline": "",
+   "text": "HE PROTESTS at Indian diplomatic outposts, including the High Commission in Dhaka, are concerning. They also carry a disquieting portent for a bilateral relationship that was, until recently, arguably Delhi's greatest success in the neighbourhood. The demand for the repatriation of Sheikh Hasina by the group marching under the banner of \"July Oikya\" and the anti-India rhetoric of National Citizen Party leader Hasnat Abdullah, threatening to provide shelter and support to separatists from northeastern states, less than two months before the general elections, show just how deeply politicised bilateral ties have become. Delhi has summoned the Bangladesh High Commissioner and made its concerns known. However, the leadershin at the highest level in both Cotintries must prioritise the need to repair the relationship. With the benefit of hindsight, it is clear that India underestimated the depth of support for thestudent-led uprising and the anger against Sheikh Hasina. During the protests and in their aftermath, certain sections on both sides of the border further polarised the conversation by invoking historical socialand communal fissures in the Subcontinent. In the age of 24/7 news and WhatsApp forwards, irresponsible rhetoric cannot butaffect the tenor ofties with animportant neighbour. Onits part, theinterim government in Dhaka has done little to bridge the domestic political divide. As Sajeeb Wazed Joy, Sheikh Hasina's son, under-lined in an interview to this newspaper, the Awami League has been a major political force in Bangladesh since its formation, andthe ban on theparty fromcontesting will castashadowover the election. By excluding the Awami League from the political process, theinterim government is repeating Hasina's mistakes. It is important for Delhi and Dhaka to recall the realities of geography, history, culture, geopolitics and economics that cannot be wished away. Both countries have made strides in trade, tackling insurgencies, sharing river waters and policing the shared 4,096-km land border. India must communicate to the people of Bangladesh as muchas its government that the bilateralstory isaboutiwosocieties, regardiess ofthe government in power. Delhi must becareful not to takepolitical sidesin Dhaka. The political class in Bangladesh, foritspart, needsto show maturity ahead oftheelection. Inthe longterm, both countries have much to gain by building back the relationship.",
+   "n_words": 355,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1301,
+      2876,
+      2721,
+      3130
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1623,
+      3182,
+      2878,
+      3805
+     ],
+     [
+      2270,
+      3381,
+      2878,
+      4446
+     ],
+     [
+      1623,
+      3819,
+      2228,
+      4530
+     ],
+     [
+      2270,
+      4455,
+      2880,
+      5087
+     ],
+     [
+      1310,
+      4516,
+      2226,
+      4689
+     ],
+     [
+      2444,
+      5132,
+      2873,
+      5204
+     ]
+    ],
+    "layout_words": 529
+   },
+   "headline_raw": "Cleaning Delhi's air requires\na Delhi-specific plan",
+   "deck_raw": "",
+   "body_raw": "HEGOVERNMENT 'Stepliesto health and the economy. Acting late can\nquestions inthe LokSabhaon _ force harsher shutdowns \u2014 Stage 3 instead\nNovember29,2021,and July18, of Stage 2. The delay ends up hurting\n2022, show that even the Covid _ livelihoods and lungs more than pre-emp-\nlockdown couldnotcompletely _ tive action would.\nclean Delhi\u2019s air. The fix lies in prediction, Delhi, therefore, does not need another\nparticipation, intensity of airshed-wideac- _ alert, but a redesign of its air-governance\ntion, and the will to act before the airturns philosophy \u2014 from reaction to prediction,\ntoxic. In 2020, whenroads were deserted, fac- from control to prevention, from partial to\ntories were silent, andthe skies wereun- completesolutions. Itneedsa framework to\nusually clear, the city recorded 49 \u201cvery act beforethveshoidsarebreached. Thefight\npoor\u201d and 15 \u201csevere\u201d air-quality days.In for clean air will not be won in laboratories\n2021, as economic activity revived, those or conference hails alone. It must becomea\nnumbers fell to 41 and 12. The year before, mass movement \u2014 moving from criticism\n2019, had seen 56 and 24 such days. toparticination, and finally to power, orvot-\nThedatademolish an illusion:Ifvehicles ingintooffice those who care enough toact.\n\nDelhi, therefore, does not need another\nalert, but a redesign of its air-governance\nphilosophy \u2014 from reaction to prediction,\nfrom control to prevention, from partial to\ncomplete solutions. Itneedsa framework to\nact beforethvesholds are breached. The fight\nfor clean air will not be won in laboratories\nor conference hails alone. It must becomea\nmass movement \u2014 moving from criticism\ntoparticination, and finally to power, orvot-\ning into office those who care enough toact.\nGovernment must lead with foresight,\nnot just enforcement. Predictive pollution\nmodelling should drive pre-emptiveimple-\nmentation of GRAP \u2014 it could mean using\nAL IoT, and satellite data. Transparency in\ndecision-making is essential for participa-\ntion. Stable electricity can eliminate diesel\ngenerators. Roads and construction sites\nmust be dust-proofed through mechanised\nsweeping and water sprinkling. Every un-\npaved stretch must be paved, every bare\npatch greened, and every landfillcontained.\nAll this must be done on the scale of an\nairshed, leaving nogaps\u2014thisisimpossible\nWithoutimass participation, involvingevery\nhabitation, institution, and individual. At the\n\nslowed and factories paused, Delhi would\nbreathe easy. Something deeper traps the\ncapital in a haze that neither iockdowns nor\nroutine regulations can dispel. The current\nplans are inadequate to overcome the chal-\nlenge. There are three lessons for Delhi.\nFirst, its geography demands thinking\nbeyond routine responses. Chennai\nbreathes sea air, hill towns draw freshness\nfrom altitude. But the Gangetic plains trap\npollution undera lid of stagnantair. Delhi,\ntherefore, needsan action plan that pushes\nthe envelope, not one cut from a national\ntemplate. Studies that apportion sources of\npollution do help, but when the air quality\nremains poor even in the absence of major\nsources of emissions, it is time to acknowl-\nedge thatthecity has become areservoir of\n\nmicro level, protection must focus on the\nmost vulnerable. Simple administrative\nchangescan makea difference. Adjusting of-\nfice hours \u2014 starting slightly later and clos-\ning earlier\u2014 canalign peak traffic emissions\nwith periods of better atmospheric mixing.\nDelhi\u2019s smog is a test of governance,\nscience, and shared will. Government data\nshow that the current framework, even if\nfully enforced, cannot deliver clean air. The\nchallenge is whether Delhi can move from\nhope to commitment, from reaction to re-\nsolve. Because this is notabout AQI numbers\norpolicy stages. Itisabout whether acitycan\nrediscover its moral clarity, to not let its\ncitizens struggle for aclean breath.\n\nry RAIS ULL LI OILY ics UCLVILIE Cito YUL Un\nDelhi does not itsown toxicity.\nneed another Second, theimprovementin 2021\u2014 de-\nalert, buta spite revived economic activity \u2014 shows that\nradecionnfite meteorology is a dominant force. Wind\n\nThewriteris former chief secretary,\nJ&K, and ex-chairman, CPCB",
+   "ocr_conf": 84.89660743134087,
+   "ocr_low_conf_share": 0.1147011308562197,
+   "headline": "Cleaning Delhi's air requires a Delhi-specific plan",
+   "deck": "",
+   "byline": "",
+   "text": "HEGOVERNMENT 'Stepliesto health and the economy. Acting late can questions inthe LokSabhaon _ force harsher shutdowns - Stage 3 instead November29,2021,and July18, of Stage 2. The delay ends up hurting 2022, show that even the Covid _ livelihoods and lungs more than pre-emplockdown couldnotcompletely _ tive action would. clean Delhi's air. The fix lies in prediction, Delhi, therefore, does not need another participation, intensity of airshed-wideac- _ alert, but a redesign of its air-governance tion, and the will to act before the airturns philosophy - from reaction to prediction, toxic. In 2020, whenroads were deserted, fac- from control to prevention, from partial to tories were silent, andthe skies wereun- completesolutions. Itneedsa framework to usually clear, the city recorded 49 \"very act beforethveshoidsarebreached. Thefight poor\" and 15 \"severe\" air-quality days.In for clean air will not be won in laboratories 2021, as economic activity revived, those or conference hails alone. It must becomea numbers fell to 41 and 12. The year before, mass movement - moving from criticism 2019, had seen 56 and 24 such days. toparticination, and finally to power, orvot-Thedatademolish an illusion:Ifvehicles ingintooffice those who care enough toact.\n\nDelhi, therefore, does not need another alert, but a redesign of its air-governance philosophy - from reaction to prediction, from control to prevention, from partial to complete solutions. Itneedsa framework to act beforethvesholds are breached. The fight for clean air will not be won in laboratories or conference hails alone. It must becomea mass movement - moving from criticism toparticination, and finally to power, orvoting into office those who care enough toact. Government must lead with foresight, not just enforcement. Predictive pollution modelling should drive pre-emptiveimplementation of GRAP - it could mean using AL IoT, and satellite data. Transparency in decision-making is essential for participation. Stable electricity can eliminate diesel generators. Roads and construction sites must be dust-proofed through mechanised sweeping and water sprinkling. Every unpaved stretch must be paved, every bare patch greened, and every landfillcontained. All this must be done on the scale of an airshed, leaving nogaps - thisisimpossible Withoutimass participation, involvingevery habitation, institution, and individual. At the\n\nslowed and factories paused, Delhi would breathe easy. Something deeper traps the capital in a haze that neither iockdowns nor routine regulations can dispel. The current plans are inadequate to overcome the challenge. There are three lessons for Delhi. First, its geography demands thinking beyond routine responses. Chennai breathes sea air, hill towns draw freshness from altitude. But the Gangetic plains trap pollution undera lid of stagnantair. Delhi, therefore, needsan action plan that pushes the envelope, not one cut from a national template. Studies that apportion sources of pollution do help, but when the air quality remains poor even in the absence of major sources of emissions, it is time to acknowledge thatthecity has become areservoir of\n\nmicro level, protection must focus on the most vulnerable. Simple administrative changescan makea difference. Adjusting office hours - starting slightly later and closing earlier - canalign peak traffic emissions with periods of better atmospheric mixing. Delhi's smog is a test of governance, science, and shared will. Government data show that the current framework, even if fully enforced, cannot deliver clean air. The challenge is whether Delhi can move from hope to commitment, from reaction to resolve. Because this is notabout AQI numbers orpolicy stages. Itisabout whether acitycan rediscover its moral clarity, to not let its citizens struggle for aclean breath.\n\nry RAIS ULL LI OILY ics UCLVILIE Cito YUL Un Delhi does not itsown toxicity. need another Second, theimprovementin 2021 - dealert, buta spite revived economic activity - shows that radecionnfite meteorology is a dominant force. Wind\n\nThewriteris former chief secretary, J&K, and ex-chairman, CPCB",
+   "n_words": 611,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2974,
+      2882,
+      4130,
+      3120
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2987,
+      4267,
+      3230,
+      4704
+     ],
+     [
+      2976,
+      4720,
+      3549,
+      5165
+     ],
+     [
+      2876,
+      5410,
+      3469,
+      5605
+     ],
+     [
+      2875,
+      5729,
+      3476,
+      6122
+     ],
+     [
+      3294,
+      3184,
+      4183,
+      5128
+     ],
+     [
+      3569,
+      5094,
+      4077,
+      5128
+     ],
+     [
+      3752,
+      5174,
+      4172,
+      5202
+     ],
+     [
+      3527,
+      5410,
+      4122,
+      5645
+     ],
+     [
+      3526,
+      5698,
+      4119,
+      6123
+     ]
+    ],
+    "layout_words": 708
+   },
+   "headline_raw": "The teacher's red pen should\nopen minds, not shut doors",
+   "deck_raw": "",
+   "body_raw": "Today, with\nacademiaon\nthe cusp of\nchange, it is\nthis tradition\nthat we must\ncarry forward\n\u2014 one that\ncreates an\n\nvypewtt Ms SW wl\nequal and encourages questic\nrespectful diminish respect fo\nrelationship teachers do we ren\nTeachers\u2019 role h\nbetween the Infact, today itism\nlearnerandthe are beingtrainedt\nteacher, that teachers miustiake'\nTheteacher\u2019sredp\nestionean d it should guide stu\nquestions and ities, new ways of \u00a2\nengagement\n\ncountries. The proposed treaty is in the con-\ntext of Sikh terrorist activities in Canada. Ca-\nnada feels that these activities area security\nchallenge for both countries, visiting Cana-\ndian Foreign Minister Joe Clark said.\n\nTHE OIL and Natural Gas Commission has\ndecided tolaunch atwo-pronged attack to\nextinguishthe firein Well Number 53 at Kadi\nin North Gujarat, about 40 km from Ahmeda-\nbad. Talking to newsmen, SP Wahi, the chair-\nman of the ONGC, said that a Soviet expert\nwas expected shortly to assist the ONGC in\ncapping the well. Another expert, Raymond\nde Smedt of Argentina, who was present at\nthe press conference, remarked that the\n\nMONGTHE many things that distinguisha teacher,\none is the red pen. Teachers wield it as a form of\nauthority; sometimes, asanexnressionofaffection,\ntoo. Wehaveall experienced itin ourschool life, liv-\ningunderitssway, whereasingletickorcrosscould\nmake or unmake our day. Teachers, on their part, become so ac-\ncustomed to this red pen that they are prone to approving or re-\njecting things even in their dreams. Language teachers like us\ntend tocorrect snellingsand grammar anywhereand everywhere\n\u2014whetherin notebooks, writings on walls, oron billboards. They\nknow the invisible power thispen carries. Perhaps, at the begin-\nning of their careers, there is a tinge of nervousness while using\nit, but with experience, itbecomes second nature.\nTypically, this red pen does not invite dialogue or dissent. It\ndelivers a final verdict, drawing a sharp line between right and\nwrong. In thisrole, teachers almost tur into \u201csoldiers of the pen\u201d\n(\u201cqalam kesipahi\u201d,withapologiestothe great Hindi writer Prem-\nchand). The authority of the red pen is deeply seductive, and\nmany aspire to it Gradually, the red pen ina teacher\u2019s hand ex-\npands into an invisible red pen in society\u2019s hand. Those with\npower orresources begin touse it, sometimesopenly, sometimes\nsilently, marking their approval or disapproval of people, ideas,\nandactions. Itsinkneverruns dry, and it gets handed down from\none generation to the next.\nSir Francis Bacon\u2019s famous assertion that \u201cknowledge is\npower\u201d, later examined more rigorously by the French philos-\nopher Michel Foucault, continues to hold true. Knowledge has\nbeen treated as a source of power. Large sections of society were\ndenied access to it, deliberately or otherwise, creating rigid hier-\narchies. This uneven distribution ensured that knowledge did\nnot merely enlighten but also governed. Butalongside this, there\nhasalsoalways existed a sinailer but stronger traditionofteachers\nwho sought to replace power with values such as equality, curi-\nosity, scientific thinking, social awareness, freedom, dignity, and\nconfidence. They consciously chose to see themselves as facili-\ntators rather than teachers in the conventional sense.\nToday, with academia on the cusp of change, itis this tradition\nthat we must carry forward \u2014 one that creates an equal and re-\nspectful relationship between the leamer and the teacher, that\nencourages questions and engagement. This approach does not\ndiminish respect forteachers; in fact, it deepensit. Afterall, which\nteachers do we remember with love and gratitude?\nTeachers\u2019 role has always been important and will remain so.\nInfact, today itis more critical than ever. Whenentire generations\nare being trained to walk with their eyes closed, to not disrupt,\nteachers musttake the responsibility ofheiping themsee the light\nTheteacher\u2019sred pen should not shut doors orgatekeep. Instead,\nit should guide students to open their minds \u2014 to new possibil-\nities, new ways of discovering themselves and the world.\n\niscovering themselves and the world.\n\nThe writer isa Delhi-based teacher\n\nsafety precautions taken by the ONGC were\nof an international order. Referring to his two\naction plans, Wahi said that the first of these\nwould be launched within 72 to 90 hours.\nThis would comprise removing of the debris,\ncleaning of the area and capping of the well.\n\n200 feared drowned\nALMOST 200 people were missing and\nfeared dead after a passenger ship sank in\nthecentral Philippines, coast guard sources\nsaid. They said only three of the 200 passen-\ngers and crew had beenrescued by another\nship off the coast of Mindoroisland, about\n80 km south of Manila. The ship, which was\nbound for the island of Palawan, apparently\nsank inrough seas, sources said.",
+   "ocr_conf": 87.6747311827957,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "The teacher's red pen should open minds, not shut doors",
+   "deck": "",
+   "byline": "",
+   "text": "Today, with academiaon the cusp of change, it is this tradition that we must carry forward - one that creates an\n\nequal and encourages questic respectful diminish respect fo relationship teachers do we ren Teachers' role h between the Infact, today itism learnerandthe are beingtrainedt teacher, that teachers miustiake' Theteacher'sredp estionean d it should guide stu questions and ities, new ways of \u00a2 engagement\n\ncountries. The proposed treaty is in the context of Sikh terrorist activities in Canada. Canada feels that these activities area security challenge for both countries, visiting Canadian Foreign Minister Joe Clark said.\n\nTHE OIL and Natural Gas Commission has decided tolaunch atwo-pronged attack to extinguishthe firein Well Number 53 at Kadi in North Gujarat, about 40 km from Ahmedabad. Talking to newsmen, SP Wahi, the chairman of the ONGC, said that a Soviet expert was expected shortly to assist the ONGC in capping the well. Another expert, Raymond de Smedt of Argentina, who was present at the press conference, remarked that the\n\nMONGTHE many things that distinguisha teacher, one is the red pen. Teachers wield it as a form of authority; sometimes, asanexnressionofaffection, too. Wehaveall experienced itin ourschool life, livingunderitssway, whereasingletickorcrosscould make or unmake our day. Teachers, on their part, become so accustomed to this red pen that they are prone to approving or rejecting things even in their dreams. Language teachers like us tend tocorrect snellingsand grammar anywhereand everywhere - whetherin notebooks, writings on walls, oron billboards. They know the invisible power thispen carries. Perhaps, at the beginning of their careers, there is a tinge of nervousness while using it, but with experience, itbecomes second nature. Typically, this red pen does not invite dialogue or dissent. It delivers a final verdict, drawing a sharp line between right and wrong. In thisrole, teachers almost tur into \"soldiers of the pen\" (\"qalam kesipahi\",withapologiestothe great Hindi writer Premchand). The authority of the red pen is deeply seductive, and many aspire to it Gradually, the red pen ina teacher's hand expands into an invisible red pen in society's hand. Those with power orresources begin touse it, sometimesopenly, sometimes silently, marking their approval or disapproval of people, ideas, andactions. Itsinkneverruns dry, and it gets handed down from one generation to the next. Sir Francis Bacon's famous assertion that \"knowledge is power\", later examined more rigorously by the French philosopher Michel Foucault, continues to hold true. Knowledge has been treated as a source of power. Large sections of society were denied access to it, deliberately or otherwise, creating rigid hierarchies. This uneven distribution ensured that knowledge did not merely enlighten but also governed. Butalongside this, there hasalsoalways existed a sinailer but stronger traditionofteachers who sought to replace power with values such as equality, curiosity, scientific thinking, social awareness, freedom, dignity, and confidence. They consciously chose to see themselves as facilitators rather than teachers in the conventional sense. Today, with academia on the cusp of change, itis this tradition that we must carry forward - one that creates an equal and respectful relationship between the leamer and the teacher, that encourages questions and engagement. This approach does not diminish respect forteachers; in fact, it deepensit. Afterall, which teachers do we remember with love and gratitude? Teachers' role has always been important and will remain so. Infact, today itis more critical than ever. Whenentire generations are being trained to walk with their eyes closed, to not disrupt, teachers musttake the responsibility ofheiping themsee the light Theteacher'sred pen should not shut doors orgatekeep. Instead, it should guide students to open their minds - to new possibilities, new ways of discovering themselves and the world.\n\niscovering themselves and the world.\n\nThe writer isa Delhi-based teacher\n\nsafety precautions taken by the ONGC were of an international order. Referring to his two action plans, Wahi said that the first of these would be launched within 72 to 90 hours. This would comprise removing of the debris, cleaning of the area and capping of the well.\n\n200 feared drowned ALMOST 200 people were missing and feared dead after a passenger ship sank in thecentral Philippines, coast guard sources said. They said only three of the 200 passen-gers and crew had beenrescued by another ship off the coast of Mindoroisland, about 80 km south of Manila. The ship, which was bound for the island of Palawan, apparently sank inrough seas, sources said.",
+   "n_words": 723,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1623,
+      4664,
+      2225,
+      4732
+     ],
+     [
+      1623,
+      4865,
+      2224,
+      4932
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1623,
+      4516,
+      1846,
+      4569
+     ],
+     [
+      1623,
+      4614,
+      2227,
+      4657
+     ],
+     [
+      1623,
+      4766,
+      2225,
+      4817
+     ]
+    ],
+    "body_boxes": [
+     [
+      1302,
+      4729,
+      2226,
+      4881
+     ],
+     [
+      1304,
+      4865,
+      2224,
+      5166
+     ],
+     [
+      1622,
+      4968,
+      2225,
+      5207
+     ]
+    ],
+    "layout_words": 66
+   },
+   "headline_raw": "meteorology is a dominant force. Wind\nspeed, temperature inversion, and mixing\nbreathe more than short-term emission\ncurbs. Delhi must keep tackling its sources,",
+   "deck_raw": "CUBS UAL Ie WIL}\nits own toxicity.\nspite revived economic activity \u2014showsthat\nup to the level where pollutants, heat, and",
+   "body_raw": "alr-governance _ height(the vertical distancefrom theground\nphilosophy\u2014 up tothe level where pollutants, heat, and\nfromreaction moisture come together) determinewhat we\nten nen Atte breathe more than short-term emission\n\n: tt breathe more than short-term emission\nto prediction, curbs. Delhi must keep tackling its sources,\nfromcontrol to \u2014 butitmustaisomitigate itsnaturaldisadvan-\nprevention, tage through predictive planning that ac-\n\u2018 counts for weather behaviour.\nfrom partial to Third, the instrument meant to control\ncomp ete air quality \u2014 the Graded Response Action\nsolutions Plan(GRAP)\u2014 often reactslate. Thedelayed\n\ntage through predictive planning that ac-\ncounts for weather behaviour.\nThird, the instrument meant to control\nair quality \u2014 the Graded Response Action\nPlan(GRAP) \u2014 often reacts late. Thedelayed\nimplementation of GRAP stages harms",
+   "ocr_conf": 81.23728813559322,
+   "ocr_low_conf_share": 0.2033898305084746,
+   "headline": "meteorology is a dominant force. Wind speed, temperature inversion, and mixing breathe more than short-term emission curbs. Delhi must keep tackling its sources,",
+   "deck": "CUBS UAL Ie WIL} its own toxicity. spite revived economic activity - showsthat up to the level where pollutants, heat, and",
+   "byline": "",
+   "text": "alr-governance _ height(the vertical distancefrom theground philosophy - up tothe level where pollutants, heat, and fromreaction moisture come together) determinewhat we ten nen Atte breathe more than short-term emission\n\n: tt breathe more than short-term emission to prediction, curbs. Delhi must keep tackling its sources, fromcontrol to - butitmustaisomitigate itsnaturaldisadvanprevention, tage through predictive planning that ac- ' counts for weather behaviour. from partial to Third, the instrument meant to control comp ete air quality - the Graded Response Action solutions Plan(GRAP) - often reactslate. Thedelayed\n\ntage through predictive planning that accounts for weather behaviour. Third, the instrument meant to control air quality - the Graded Response Action Plan(GRAP) - often reacts late. Thedelayed implementation of GRAP stages harms",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      396,
+      4830,
+      1129,
+      5019
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1344,
+      5405,
+      1790,
+      5529
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      5052,
+      1205,
+      6202
+     ]
+    ],
+    "layout_words": 278
+   },
+   "headline_raw": "Little Foot tells a big\nevolution story",
+   "deck_raw": "40 YEARS AGO\nDecember 19,1985",
+   "body_raw": "NEW study on \u201cLittle Foot\u201d, one of the world\u2019s most\ncomplete early human fossils, could reshape the\nunderstanding of human evolution as it stands. First\ndiscovered in 1994-1998 in the cave system of Sterk-\nfontein, South Africa, and unveiled to the public in 2017, \u201cLittle\nFoot\u201d was long thought to be either a member of the Australo-\npithecus prometheus or of the Australopithecus africanus. The\nnew study, published in the American Journal of Biological An-\nthropology, posits that the skeleton belongs to neither family. It\nmay actually be part of anew species of human ancestorsentirely.\nThis is the latest addition to the ever-changing picture of\nevolution. Initially thought to be linear, evolution is increas-\ningly being seen as a more diffuse process. Just as the dis-\ncoveries with \u201cLittle Foot\u201d point to the existence of another\nbranch in the human familytree, another discovery earlier this\nyear challenges the very timeline of human evolution. A skull\ndiscovered by a team of researchers in China was thought to\nbelong to the Homo erectus, given that it was a million years\nold. However, genetic studies on the remnant uncovered that\nit likely belonged to Homo longi, aspecies with similar levels of\ncerebral development as Homo sapiens and Neanderthals.\nThat theevolution of Homosapniens \u2014in fact, thespecies\u2019 very\nexistence \u2014has been shaped by more factors than previously\nimagined makes for a richer story, one that should deepen hu-\nmans\u2019 appreciation for theirown ability to adapt andsurvive. In\natime ofgreat existential threats \u2014 climate change, wars, AI\u2014\nthis ever-complicating picture of evolution offers both solace\nand upliftment. There may be much that humans areupagainst\n\u2014but prehistory shows that they are up to the challenge.",
+   "ocr_conf": 91.89568345323741,
+   "ocr_low_conf_share": 0.039568345323741004,
+   "headline": "Little Foot tells a big evolution story",
+   "deck": "40 YEARS AGO December 19,1985",
+   "byline": "",
+   "text": "NEW study on \"Little Foot\", one of the world's most complete early human fossils, could reshape the understanding of human evolution as it stands. First discovered in 1994-1998 in the cave system of Sterk-fontein, South Africa, and unveiled to the public in 2017, \"Little Foot\" was long thought to be either a member of the Australopithecus prometheus or of the Australopithecus africanus. The new study, published in the American Journal of Biological Anthropology, posits that the skeleton belongs to neither family. It may actually be part of anew species of human ancestorsentirely. This is the latest addition to the ever-changing picture of evolution. Initially thought to be linear, evolution is increasingly being seen as a more diffuse process. Just as the discoveries with \"Little Foot\" point to the existence of another branch in the human familytree, another discovery earlier this year challenges the very timeline of human evolution. A skull discovered by a team of researchers in China was thought to belong to the Homo erectus, given that it was a million years old. However, genetic studies on the remnant uncovered that it likely belonged to Homo longi, aspecies with similar levels of cerebral development as Homo sapiens and Neanderthals. That theevolution of Homosapniens - in fact, thespecies' very existence - has been shaped by more factors than previously imagined makes for a richer story, one that should deepen humans' appreciation for theirown ability to adapt andsurvive. In atime ofgreat existential threats - climate change, wars, AI - this ever-complicating picture of evolution offers both solace and upliftment. There may be much that humans areupagainst - but prehistory shows that they are up to the challenge.",
+   "n_words": 276,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2226,
+      5405,
+      2740,
+      5453
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2225,
+      5490,
+      2822,
+      5884
+     ],
+     [
+      2264,
+      5932,
+      2390,
+      5962
+     ],
+     [
+      2225,
+      5936,
+      2825,
+      6122
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "AGP emergeslargest party",
+   "deck_raw": "",
+   "body_raw": "IN THE Assam Assembly elections, thenewly\nformed Asom Gana Parishad (AGP) was\nemerging as the singlelargest party with\nCongress-l and others far behind. The AGP\nhad won 38 of the 68 seats declared so far.\nTheCongress-I could manage to win only 13\nseats. The United Minority Front came third\nwith sixseats. The Chief Minister, Hiteswar\nSaikia, won from Nazira but seven of his min-\nisterial colleagues were defeated.\n\ntens oe ol Sn? |\nrite\n\nExtradition treaty draft\nTHE CANADIAN government hashanded\nover to the Indian governmenta draft of the\nproposed extradition treaty between thetwo",
+   "ocr_conf": 85.98936170212765,
+   "ocr_low_conf_share": 0.09574468085106383,
+   "headline": "AGP emergeslargest party",
+   "deck": "",
+   "byline": "",
+   "text": "IN THE Assam Assembly elections, thenewly formed Asom Gana Parishad (AGP) was emerging as the singlelargest party with Congress-l and others far behind. The AGP had won 38 of the 68 seats declared so far. TheCongress-I could manage to win only 13 seats. The United Minority Front came third with sixseats. The Chief Minister, Hiteswar Saikia, won from Nazira but seven of his ministerial colleagues were defeated.\n\ntens oe ol Sn? rite\n\nExtradition treaty draft THE CANADIAN government hashanded over to the Indian governmenta draft of the proposed extradition treaty between thetwo",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 27.6,
+ "flags": []
+}

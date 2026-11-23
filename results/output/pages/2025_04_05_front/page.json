@@ -1,0 +1,769 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_05_front",
+ "source_file": "2025-04-05_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-05_front.png",
+ "date": "2025-04-05",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 511,
+  "mean_line_conf": 90.67908996309193,
+  "orphan_words": 7,
+  "body_words_total": 2047
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3383,
+      704,
+      3589,
+      734
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "@ nn ea",
+   "ocr_conf": 42.666666666666664,
+   "ocr_low_conf_share": 0.6666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      796,
+      3199,
+      1486
+     ],
+     [
+      811,
+      1197,
+      1247,
+      1541
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      696,
+      2572,
+      745
+     ],
+     [
+      2763,
+      1568,
+      3177,
+      1625
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      1573,
+      1250,
+      1690
+     ],
+     [
+      809,
+      1738,
+      1254,
+      2598
+     ],
+     [
+      2275,
+      1582,
+      2562,
+      1652
+     ],
+     [
+      2274,
+      1701,
+      2718,
+      2130
+     ],
+     [
+      2273,
+      2175,
+      2716,
+      2607
+     ]
+    ],
+    "layout_words": 224
+   },
+   "headline_raw": "Avoid rhetoric that vitiates environment,\nPM tells Yunus after his remarks on N-E\nRaises security of UPI, energy links, trade\nHindus and other \u00b0\nminorities; Yunus in local Currency: PM\u2019s\nbrings up Hasina BIMSTEC initiatives\nRaises security of\nHindus and other\nminorities; Yunus\nbrings up Hasina\nextradition plea",
+   "deck_raw": "THEIR FIRST MEETING SINCE OUSTER OF SHEIKH HASINA\nEXPRESS NETWORK",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 4\n\nIN THEIR first meeting since the\nouster of Sheikh Hasina last\nAugust, Prime Minister Narendra\nModi and Bangladesh interim\ngovernment Chief Adviser Prof\nMuhammad Yunus Friday un-\nderlined their concerns upfront.\nDuring talks said tobea sharp\n40-minute meeting on the side-\nlines of the BIMSTEC summit in\nBangkok, Modi raised the issue\nof the safety of Hindus and other\nminorities who have been tar-\ngeted in Bangladesh while Yunus\nasked him about Dhaka's request\nfor the extradition of Hasina who\nfled to India after her ouster.\nModi told Yunus that \u201crheto-\nricthatvitiates the environment\nis best avoided\u201d, an Indian gov-\nernment statement said \u2014\nCONTINUED ONPAGE 2\n\nSHUBHAJIT ROY\nNEW DELHI, APRIL 4\n\nUNDERLINING THAT BIMSTECis\na model for inclusive develop-\nmentand collective security and\nnot merely a regional organisa-\ntion, Prime Minister Narendra\nModi Friday announced more\nthan 20 initiatives \u2014 from the\nmechanism of Home Ministers\non security to UPI connecting\npayment mechanisms, an\nenergy centre to a chamber of\n\nSpeaking at the 6th BIMSTEC\nSummit in Bangkok, Modi said,\n\u201cBIMSTECserves as a vital bridge\nbetween South and Southeast\nAsia, and is emerging as apower-\nful platform for advancing re-\ngional connectivity, cooperation\nand shared prosperity.\u201d\n\u201cIt is a matter of great satis-\nfaction that the BIMSTEC Charter\ncame into force last year. 1am",
+   "ocr_conf": 92.25675675675676,
+   "ocr_low_conf_share": 0.013513513513513514,
+   "headline": "Avoid rhetoric that vitiates environment, PM tells Yunus after his remarks on N-E Raises security of UPI, energy links, trade Hindus and other \u00b0 minorities; Yunus in local Currency: PM's brings up Hasina BIMSTEC initiatives Raises security of Hindus and other minorities; Yunus brings up Hasina extradition plea",
+   "deck": "THEIR FIRST MEETING SINCE OUSTER OF SHEIKH HASINA EXPRESS NETWORK",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 4",
+   "text": "IN THEIR first meeting since the ouster of Sheikh Hasina last August, Prime Minister Narendra Modi and Bangladesh interim government Chief Adviser Prof Muhammad Yunus Friday underlined their concerns upfront. During talks said tobea sharp 40-minute meeting on the side-lines of the BIMSTEC summit in Bangkok, Modi raised the issue of the safety of Hindus and other minorities who have been targeted in Bangladesh while Yunus asked him about Dhaka's request for the extradition of Hasina who fled to India after her ouster. Modi told Yunus that \"rhetoricthatvitiates the environment is best avoided\", an Indian government statement said -\n\nSHUBHAJIT ROY NEW DELHI, APRIL 4\n\nUNDERLINING THAT BIMSTECis a model for inclusive develop-mentand collective security and not merely a regional organisation, Prime Minister Narendra Modi Friday announced more than 20 initiatives - from the mechanism of Home Ministers on security to UPI connecting payment mechanisms, an energy centre to a chamber of\n\nSpeaking at the 6th BIMSTEC Summit in Bangkok, Modi said, \"BIMSTECserves as a vital bridge between South and Southeast Asia, and is emerging as apowerful platform for advancing regional connectivity, cooperation and shared prosperity.\" \"It is a matter of great satisfaction that the BIMSTEC Charter came into force last year. 1am",
+   "n_words": 203,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      823,
+      633,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 57.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1753,
+      719,
+      1880
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1884,
+      666,
+      1966
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "MANOJ KUMAR,\nVETERANACTOR&",
+   "deck_raw": "",
+   "body_raw": "DIRECTOR, DIES\nAT 87 PaceE3",
+   "ocr_conf": 70.6,
+   "ocr_low_conf_share": 0.2,
+   "headline": "MANOJ KUMAR, VETERANACTOR&",
+   "deck": "",
+   "byline": "DIRECTOR, DIES",
+   "text": "AT 87 PaceE3",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2765,
+      1890,
+      3161,
+      1955
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      1967,
+      3178,
+      2045
+     ],
+     [
+      2762,
+      2175,
+      3204,
+      2600
+     ]
+    ],
+    "layout_words": 63
+   },
+   "headline_raw": "MODI MEETS NEPAL",
+   "deck_raw": "",
+   "body_raw": "PM OLI, BOTH AGREE\nTO DEEPEN TIES\n\nconfident that the Bangkok\nVision 2030, which we are adopt-\ning today, will further our collec-\ntive commitment to building a\nprosperous, secure and inclusive\nBay of Bengal region,\u201d he said.\nStating itembodies the spirit\nof \u2018Sabka Saath, Sabka Vikas,\nSabka Prayas\u2019, he said \u201cit stands\nas a testament to our shared\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.23809523809524,
+   "ocr_low_conf_share": 0.0,
+   "headline": "MODI MEETS NEPAL",
+   "deck": "",
+   "byline": "PM OLI, BOTH AGREE; TO DEEPEN TIES",
+   "text": "confident that the Bangkok Vision 2030, which we are adopting today, will further our collective commitment to building a prosperous, secure and inclusive Bay of Bengal region,\" he said. Stating itembodies the spirit of 'Sabka Saath, Sabka Vikas, Sabka Prayas', he said \"it stands as a testament to our shared",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      1841,
+      4155,
+      2415
+     ],
+     [
+      3252,
+      2456,
+      3596,
+      2531
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3250,
+      1767,
+      3588,
+      1800
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      2534,
+      3532,
+      2562
+     ],
+     [
+      3249,
+      2613,
+      3695,
+      3517
+     ],
+     [
+      3739,
+      2555,
+      4159,
+      2720
+     ],
+     [
+      3736,
+      2810,
+      4179,
+      3510
+     ]
+    ],
+    "layout_words": 218
+   },
+   "headline_raw": "The day after: On\nGovt table, issue\nof potential surge\nin China imports\nRAVIDUTTA MISHRA",
+   "deck_raw": "TRUMP TARIFFS",
+   "body_raw": "NEW DELHI, APRIL 4\n\nAMID ESCALATING trade ten-\nsions, with China announcing du-\nties of 34 per cent onall US im-\nports in retaliation to Donald\nTrump's tariffs, senior govern-\nment officials in the Ministry of\nCommerce and Industry held a\ntop-level meeting to assess a po-\ntential surge in imports following\ntheimplementation of reciprocal\ntariffs set totake effect on April 9,\nThe Indian Express has learned.\nConcerns over a surge in im-\nports from China stem from the\nlikelihood of an increased glutin\nChinese exports, following the\nimposition ofa 34 per cent US re-\nciprocal tariff on Chinese goods\non top of the 20 per cent an-\nnounced earlier by Trump. Trade\nofficials are evaluating this pos-\nsibility as China\u2019s overcapacity\nwas already a concern even be-\n\nSENSEX TANKS 1.2%\nAMID FEARS OF\nGLOBAL SLOWDOWN\nPAGES\n\nfore the latest US tariff measures,\nExporters, especially steel\nmanufacturers, had raised con-\ncerns with the government fol-\nlowing Trump\u2019s decision to im-\npose 25 per cent tariffs on steel\nand aluminium. In response, the\nCommerce and_ Industry\nMinistry, already investigating\ndumping, recommended that\nthe Finance Ministry imposea 12\npercent safeguard duty onsteel.\nThis came despite protest from\nthe small scale industry surge in\nsteel cost due to the steel duty.\nWhile the Commerce and\nIndustry Ministry spokesperson\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.2420091324201,
+   "ocr_low_conf_share": 0.0639269406392694,
+   "headline": "The day after: On Govt table, issue of potential surge in China imports RAVIDUTTA MISHRA",
+   "deck": "TRUMP TARIFFS",
+   "byline": "NEW DELHI, APRIL 4",
+   "text": "AMID ESCALATING trade tensions, with China announcing duties of 34 per cent onall US imports in retaliation to Donald Trump's tariffs, senior government officials in the Ministry of Commerce and Industry held a top-level meeting to assess a potential surge in imports following theimplementation of reciprocal tariffs set totake effect on April 9, The Indian Express has learned. Concerns over a surge in imports from China stem from the likelihood of an increased glutin Chinese exports, following the imposition ofa 34 per cent US reciprocal tariff on Chinese goods on top of the 20 per cent announced earlier by Trump. Trade officials are evaluating this possibility as China's overcapacity was already a concern even be-\n\nSENSEX TANKS 1.2% AMID FEARS OF GLOBAL SLOWDOWN PAGES\n\nfore the latest US tariff measures, Exporters, especially steel manufacturers, had raised concerns with the government following Trump's decision to impose 25 per cent tariffs on steel and aluminium. In response, the Commerce and_ Industry Ministry, already investigating dumping, recommended that the Finance Ministry imposea 12 percent safeguard duty onsteel. This came despite protest from the small scale industry surge in steel cost due to the steel duty. While the Commerce and Industry Ministry spokesperson",
+   "n_words": 199,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2078,
+      713,
+      2503
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      564,
+      2571,
+      746,
+      2723
+     ],
+     [
+      321,
+      2885,
+      685,
+      3072
+     ],
+     [
+      317,
+      3124,
+      762,
+      5131
+     ]
+    ],
+    "layout_words": 242
+   },
+   "headline_raw": "ED searches\nat Empuraan\nproducer\u2019s\nTN, Kerala\npremises",
+   "deck_raw": "",
+   "body_raw": "FEMA case:\n5 premises\nofGokulam\nGopalan\n\nARUN JANARDHANAN\n& SHAJU PHILIP\nCHENNAI,\nTHIRUVANANTHAPURAM,\nAPRIL 4\n\nTHEENFORCEMENT Directorate\n(ED) on Friday carried out\nsearches in Kerala and Tamil\nNadu at premises linked to busi-\nnessman and film producer\nGokulam Gopalan, whose pro-\nduction house backed the\nMalayalam film Empuraan,\nwhich faced criticism for its por-\ntrayal of the 2002 Gujarat riots,\nED sources said the searches\nare \u201cin (connection with) a FEMA\n(Foreign Exchange Management\nAct)case involving Gopalan and\nhis company Sree Gokulam Chit\nand Finance Co Ltd\u201d.\n\u201cCurrently, five premises are\ncovered (under the raids). The\ncase relates to alleged violations\nof various FEMA provisions\nworth Rs 1,000 crore with NRIs\nand other unauthorised transac-\ntions. The EDis also verifying al-\nleged cheating and forgery cases\nregistered against the company\nunder PMLA,\u201d ED officers\nclaimed.\nThe searches, carried out by\nthe Kerala wing of the ED, began\nFriday moming with at least 10\npersonnel arriving at the offices\nof Sree Gokulam Chit and Finance\nin Chennai\u2019s Kodambakkam area.\nAnother team landed at\nGopalan\u2019s farmhouse at\nNeelankarai in Chennai city.\nThe ED action comes just\ndays after the release of\nMohanlal-starrer Empuraan,\nwhich was co-produced by\nGopalan along with Antony\nPerumbavoor, Mohanlal\u2019s close\naide, and Lyca Productions\u2019\nSubaskaran Allirajah. Gopalan\nwas a late entrant into the pro-\nduction, at a time when the\nfilm's release was delayed over\nfinancial troubles faced by Lyca\nProductions,\nThe film, a sequel to the 2019\nCONTINUEDON PAGE2",
+   "ocr_conf": 92.10330578512396,
+   "ocr_low_conf_share": 0.012396694214876033,
+   "headline": "ED searches at Empuraan producer's TN, Kerala premises",
+   "deck": "",
+   "byline": "ARUN JANARDHANAN; & SHAJU PHILIP; CHENNAI,; THIRUVANANTHAPURAM,; APRIL 4",
+   "text": "FEMA case: 5 premises ofGokulam Gopalan\n\nTHEENFORCEMENT Directorate (ED) on Friday carried out searches in Kerala and Tamil Nadu at premises linked to businessman and film producer Gokulam Gopalan, whose production house backed the Malayalam film Empuraan, which faced criticism for its portrayal of the 2002 Gujarat riots, ED sources said the searches are \"in (connection with) a FEMA (Foreign Exchange Management Act)case involving Gopalan and his company Sree Gokulam Chit and Finance Co Ltd\". \"Currently, five premises are covered (under the raids). The case relates to alleged violations of various FEMA provisions worth Rs 1,000 crore with NRIs and other unauthorised transactions. The EDis also verifying alleged cheating and forgery cases registered against the company under PMLA,\" ED officers claimed. The searches, carried out by the Kerala wing of the ED, began Friday moming with at least 10 personnel arriving at the offices of Sree Gokulam Chit and Finance in Chennai's Kodambakkam area. Another team landed at Gopalan's farmhouse at Neelankarai in Chennai city. The ED action comes just days after the release of Mohanlal-starrer Empuraan, which was co-produced by Gopalan along with Antony Perumbavoor, Mohanlal's close aide, and Lyca Productions' Subaskaran Allirajah. Gopalan was a late entrant into the production, at a time when the film's release was delayed over financial troubles faced by Lyca Productions, The film, a sequel to the 2019 CONTINUEDON PAGE2",
+   "n_words": 227,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      2751,
+      1731,
+      3118
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      3124,
+      1118,
+      3233
+     ],
+     [
+      807,
+      3283,
+      1253,
+      4188
+     ],
+     [
+      1298,
+      3680,
+      1737,
+      4181
+     ]
+    ],
+    "layout_words": 191
+   },
+   "headline_raw": "Z-plus to Z: MHA scales\ndown security for wife\nof Manmohan Singh",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, APRIL 4\n\nTHE MINISTRY of Home Affairs\n(MHA) has downgraded the se-\ncurity cover of Gursharan Kaur,\nwife of former Prime Minister Dr\nManmohan Singh, from Z-plus\nto Z category, to be provided by\nthe CRPE\nSingh and his wife were ac-\ncorded CRPF's Z-plus security\ncoverin 2019 after the MHA with-\ndrew their Special Protection\nGroup (SPG) cover. In 2013, Kaur\nbecame the first SPG protectee to\nhave women commandos in her\nimmediate security cordon.\nA source in the security es-\ntablishment said the decision to\ndowngrade Kaur\u2019s security was\ntaken last week after a review by\nmultiple agencies. \u201cA latest\nthreat assessment was con-\nducted in which no threat was\nfound. This was conveyed to\n\nthose concemed. It was later de-\ncided to downgrade her security\ncover. Now she has Z category\nsecurity cover of the CRPF, which\nhas sixgunmen for mobile secu-\nrity, and two (plus eight) for res-\nidence security. Earlier, it was Z-\nplus, which has 10 security\npersonnel for mobile security\nand two (plus eight) for resi-\ndence security,\u201d the officer said.\nAnother source said around\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.67539267015707,
+   "ocr_low_conf_share": 0.02617801047120419,
+   "headline": "Z-plus to Z: MHA scales down security for wife of Manmohan Singh",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, APRIL 4",
+   "text": "THE MINISTRY of Home Affairs (MHA) has downgraded the security cover of Gursharan Kaur, wife of former Prime Minister Dr Manmohan Singh, from Z-plus the CRPE Singh and his wife were accorded CRPF's Z-plus security coverin 2019 after the MHA with-drew their Special Protection Group (SPG) cover. In 2013, Kaur became the first SPG protectee to have women commandos in her immediate security cordon. A source in the security establishment said the decision to downgrade Kaur's security was taken last week after a review by multiple agencies. \"A latest threat assessment was conducted in which no threat was found. This was conveyed to\n\nthose concemed. It was later decided to downgrade her security cover. Now she has Z category security cover of the CRPF, which has sixgunmen for mobile security, and two (plus eight) for residence security. Earlier, it was Z-plus, which has 10 security personnel for mobile security and two (plus eight) for residence security,\" the officer said. Another source said around",
+   "n_words": 163,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2751,
+      3178,
+      3087
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      3133,
+      2223,
+      3454
+     ],
+     [
+      1784,
+      3520,
+      2148,
+      3707
+     ],
+     [
+      1784,
+      3759,
+      2229,
+      4182
+     ]
+    ],
+    "layout_words": 74
+   },
+   "headline_raw": "No Rahul in Wagaf debate, no\nPriyanka in Parliament, Congress\nsays \u2018immaterial\u2019, \u2018opposed Bill\u2019",
+   "deck_raw": "",
+   "body_raw": "Pro-IUML daily calls\nWayanad MP\nabsence a\u2018blot\u2019;;\nshe\u2019sin US to meet\nan ailing relative\n\nMANOJCG\n& SHAJU PHILIP\nNEW DELHI,\nTHIRUVANANTHAPURAM,\nAPRIL 4\n\nASTHEcontentious and politically\ncontroversial Waqf(Amendment)\nBill was being discussed in the Lok\nSabha Wednesday, Leader of\nOpposition Rahul Gandhi put out\natweet calling the Bill a\u201cweapon\u201d\naimed at \u201cmarginalising\nMuslims\u201d. But, contrary to expec-\ntations, he chose not to speak on\nthe Bill inthe House.\nWhen the Bill came to the",
+   "ocr_conf": 89.51351351351352,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "No Rahul in Wagaf debate, no Priyanka in Parliament, Congress says 'immaterial', 'opposed Bill'",
+   "deck": "",
+   "byline": "MANOJCG; & SHAJU PHILIP; NEW DELHI,; THIRUVANANTHAPURAM,; APRIL 4",
+   "text": "Pro-IUML daily calls Wayanad MP absence a'blot';; she'sin US to meet an ailing relative\n\nASTHEcontentious and politically controversial Waqf(Amendment) Bill was being discussed in the Lok Sabha Wednesday, Leader of Opposition Rahul Gandhi put out atweet calling the Bill a\"weapon\" aimed at \"marginalising Muslims\". But, contrary to expectations, he chose not to speak on the Bill inthe House. When the Bill came to the",
+   "n_words": 64,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2351,
+      3534,
+      3013,
+      3707
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      3757,
+      3200,
+      3834
+     ],
+     [
+      2273,
+      3917,
+      2714,
+      4189
+     ],
+     [
+      2761,
+      3917,
+      3204,
+      4183
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "se gt?\nwai No Oe",
+   "deck_raw": "",
+   "body_raw": "Leader of Opposition in the Lok Sabha Rahul Gandhi with his\nparty MPs in Parliament complex on Friday. AN!\n\nRajya Sabha on Thursday, Rahul\u2019s\ncounterpart in the House\nMallikarjun Kharge addressed\nthe House, slamming the gov-\nernment strongly.\nRahul's decision not to speak\nonthe Bill in Parliament, coupled\n\nwith his sister and Wayanad MP\nPriyanka Gandhi Vadra\u2019s ab-\nsence from the House through\nthe discussion, has not gone un-\nnoticed, Neither was present for\nthe debate on the ratification of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.47619047619048,
+   "ocr_low_conf_share": 0.023809523809523808,
+   "headline": "se gt? wai No Oe",
+   "deck": "",
+   "byline": "",
+   "text": "Leader of Opposition in the Lok Sabha Rahul Gandhi with his party MPs in Parliament complex on Friday. AN!\n\nRajya Sabha on Thursday, Rahul's counterpart in the House Mallikarjun Kharge addressed the House, slamming the government strongly. Rahul's decision not to speak onthe Bill in Parliament, coupled\n\nwith his sister and Wayanad MP Priyanka Gandhi Vadra's absence from the House through the discussion, has not gone unnoticed, Neither was present for the debate on the ratification of",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3584,
+      4079,
+      4036
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3249,
+      4079,
+      3643,
+      4267
+     ],
+     [
+      2818,
+      4299,
+      3144,
+      4344
+     ]
+    ],
+    "body_boxes": [
+     [
+      2785,
+      4442,
+      3176,
+      4749
+     ],
+     [
+      3248,
+      4354,
+      3588,
+      4503
+     ],
+     [
+      3249,
+      4551,
+      3690,
+      5141
+     ],
+     [
+      3899,
+      4170,
+      4124,
+      4255
+     ],
+     [
+      3784,
+      4314,
+      4139,
+      4697
+     ],
+     [
+      3737,
+      4790,
+      4178,
+      5134
+     ]
+    ],
+    "layout_words": 182
+   },
+   "headline_raw": "Beijing hits back at\nTrump, slaps extra\n34% tariffs on all US\ngoods from April 10",
+   "deck_raw": "China played it\nwrong, they\npanicked: Trump\nBIG PICTURE",
+   "body_raw": "BRIDGE TO\nTHE FUTURE\n110-year-old\nPamban Bridge\nmakes way for new,\nPM to open\n\nMEI MEICHU, ETHAN\nWANG, SHIBU\n& XIUHAOCHEN\nBEIJING, APRIL 4\n\nCHINA ON Friday struck back at\nthe US tariffs imposed by\nPresident Donald Trump witha\nslew of countermeasures, in-\ncluding extra levies of 34% on all\nUS goods and export curbs on\nsome rare earths, deepening the\ntrade war between the world\u2019s\ntwo biggest economies.\nBeijing also imposed restric-\ntions on about 30 US organisa-\ntions, mostly in defence-related\nindustries, adding tothe already\ntwo dozen US companies pun-\nished over Trump's tariffs.\n\nWhat this\n|/@ means\n\nTHE 34% tariff makes it\nvery difficult for US agri-\ncultural products to enter\nChina. At the sametime,\nexperts believe this\nopens a window for\nother exporters like\nAustralia and Brazil to\nincrease their market\nshare in China.\n\nBeijing\u2019s sweeping retaliation\ncomes after Trump slapped the\nworld\u2019s No. 2 economy with ad-\nditional 34% tariffs on Chinese\ngoods, bringing the total new\nlevies this year to 54%. Trump\nalso closed a trade loophole that\nhad allowed low-value packages\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.78571428571429,
+   "ocr_low_conf_share": 0.04395604395604396,
+   "headline": "Beijing hits back at Trump, slaps extra 34% tariffs on all US goods from April 10",
+   "deck": "China played it wrong, they panicked: Trump BIG PICTURE",
+   "byline": "BRIDGE TO; THE FUTURE; MEI MEICHU, ETHAN; WANG, SHIBU; & XIUHAOCHEN; BEIJING, APRIL 4",
+   "text": "110-year-old Pamban Bridge makes way for new, PM to open\n\nCHINA ON Friday struck back at the US tariffs imposed by President Donald Trump witha slew of countermeasures, including extra levies of 34% on all US goods and export curbs on some rare earths, deepening the trade war between the world's two biggest economies. Beijing also imposed restrictions on about 30 US organisations, mostly in defence-related industries, adding tothe already two dozen US companies punished over Trump's tariffs.\n\nWhat this /@ means\n\nTHE 34% tariff makes it very difficult for US agricultural products to enter China. At the sametime, experts believe this opens a window for other exporters like Australia and Brazil to increase their market share in China.\n\nBeijing's sweeping retaliation comes after Trump slapped the world's No. 2 economy with additional 34% tariffs on Chinese goods, bringing the total new levies this year to 54%. Trump also closed a trade loophole that had allowed low-value packages",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      806,
+      4255,
+      2546,
+      4356
+     ],
+     [
+      807,
+      4367,
+      2690,
+      4522
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4549,
+      1088,
+      4619
+     ],
+     [
+      806,
+      4667,
+      1252,
+      5090
+     ],
+     [
+      807,
+      5062,
+      2185,
+      5140
+     ],
+     [
+      2268,
+      4511,
+      2716,
+      5133
+     ]
+    ],
+    "layout_words": 176
+   },
+   "headline_raw": "To step out of Chouhan\u2019s shadow, MP CM\nMohan Yadav makes his moves, rankles some",
+   "deck_raw": "",
+   "body_raw": "ANAND MOHAN J\nBHOPAL, APRIL 4\n\nWHEN MOHAN Yadav took\ncharge as the Chief Minister of\nMadhya Pradesh in December\n2023, he faced a daunting task of\nfilling the shoes of Shivraj Singh\nChouhan, the longest-serving\nCM of the state who had been\neased out as the BJP looked to\nmake a fresh start in the key\nHindi heartland state.\nYadav went to work to take\n\nYadav went to work totake \u00a9 Mohan Yadav (right), who took charge as CM in 2023, with\ncontrol of the state BJPand leave | Union Agriculture Minister Shivraj Singh Chouhan. File\n\nhisimprinton both the party and\nthe government. Almost a year-\nand-a-half later, in yet another de-\ncision that illustrates Yadav's at-\ntempts to carve out a niche for\nhimself and not be burdened by\nthe legacy of Chouhan, now the\nUnion Agriculture Minister, here-\ncently renamed the CM Rise\nSchools in the state as Maharshi\nSandipani Vidyalayas. While the\nmovewas not the first time Yadav\nwas seen to be breaking from his\npredecessor's legacy, it has raised\nquestions inthe state BJP.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.14285714285714,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "To step out of Chouhan's shadow, MP CM Mohan Yadav makes his moves, rankles some",
+   "deck": "",
+   "byline": "ANAND MOHAN J; BHOPAL, APRIL 4",
+   "text": "WHEN MOHAN Yadav took charge as the Chief Minister of Madhya Pradesh in December 2023, he faced a daunting task of filling the shoes of Shivraj Singh Chouhan, the longest-serving CM of the state who had been eased out as the BJP looked to make a fresh start in the key Hindi heartland state. Yadav went to work to take\n\nYadav went to work totake \u00a9 Mohan Yadav (right), who took charge as CM in 2023, with control of the state BJPand leave Union Agriculture Minister Shivraj Singh Chouhan. File\n\nhisimprinton both the party and the government. Almost a yearand-a-half later, in yet another decision that illustrates Yadav's attempts to carve out a niche for himself and not be burdened by the legacy of Chouhan, now the Union Agriculture Minister, here-cently renamed the CM Rise Schools in the state as Maharshi Sandipani Vidyalayas. While the movewas not the first time Yadav was seen to be breaking from his predecessor's legacy, it has raised questions inthe state BJP.",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      570,
+      5266,
+      4155,
+      5432
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      5419,
+      1249,
+      6166
+     ],
+     [
+      1295,
+      5419,
+      1737,
+      6166
+     ],
+     [
+      2760,
+      5421,
+      3203,
+      6168
+     ],
+     [
+      3247,
+      5421,
+      3689,
+      6168
+     ],
+     [
+      3734,
+      5422,
+      4179,
+      5965
+     ],
+     [
+      3737,
+      5977,
+      4177,
+      6162
+     ]
+    ],
+    "layout_words": 475
+   },
+   "headline_raw": "\u2018Dua answered\u2019: SC nudge, Rohingya kids go to school in capital",
+   "deck_raw": "",
+   "body_raw": "refugee wholivesin aone-room\nhouse with her four children in\nKhajuri Khas, next to eight other\nsimilarly displaced families.\nIn December last year, the\nDelhi government had asked\nschools to \u201cprevent\u201d the enrol-\nment of \u201cillegal Bangladesh mi-\ngrant\u201d children and toinform the\npolice in case of doubts over a\nchild's citizenship status. Despite\nnumerous attempts to secure\nschooling, children of Rohingya\nrefugees were denied admission\ndue to their displaced status.\nHowever, in response to a\nplea by 19 Rohingya children, the\nSupreme Court intervened on\nFebruary 17 this year, instructing\n\nthem to apply for admission to\nDelhi government schools.\nIn case of denial of admis-\nsion, they were advised to move\nthe Delhi High Court. By\nFebruary 25, their applications\nwere submitted to and accepted\nby the Sarvodaya Kanya/Bal\nVidyalaya in Sri Ram Colony.\nFor Roshida, as Friday morn-\ning dawned bright and clear, it\nwas anew day and a newstart.\nTen minutes before school\nstarted at 730 am, Afna rubbed\nher eyes, listening closely to her\nmother\u2019s instructions. Her three\nsiblings, meanwhile, were fast\nasleep, tucked under a thick sin-\ngle blanket on the floor.\n\n\u201cGetready as fastasyoucan,\u201d\nRoshida instructed, struggling to\nlocate her nigab (veil).\nPointing to the majority of\ntheir belongings, packed into\nsmall cloth bundles, Roshida ex-\nplains, \u201cWe just shifted to this\nhouse yesterday. We lived a few\ngullies away before that. Our\nlandlord asked us to vacate his\nhouse over lifestyle differences,\nlike cooking habits.\u201d\nShe acknowledged that the\n\u201conly silver lining\u201d for her at\npresent was that two of her four\nchildren had got admission to a\n\u201cgood school\u201d.\nWhile her older son, 14, has\nnot applied for admission to\n\nschool, her elder daughter Noor,\n16, does not qualify under the\nRightto Education (RTE) Act and\nhas been asked to come to school\non Saturday.\nOn what drove Roshida and\nher children to seek refuge in\nIndia, she says, \u201cI am still\nhaunted by the memories of the\nviolent clashes in 2017 that\nbrought us to India. Three of my\nnephews were killed and our\nhouse in Maungdaw (in\nMyanmar) was bumt down.\u201d\nWithout showing any visible\nreaction to the discussion\naround her, Afna gets ready for\nschool. With no school bag, uni-\nform and books, she slips into a\n\nblue top and black jeans. \u201cI dis-\ncovered just last night that Iwas\ngoing to school today. I don\u2019t\nhave a school bag or books...\nlekin pata chalte hi bahut khushi\nhui (I was elated to learn that I\nwas going to school today). My\nyounger brother(Umar)has also\njoined (the school),\u201d says Afna.\nBeaming with excitement,\nAfna stepped out of the house,\nonly to be joined by seven-year-\nold Umar, who got admission to\nClass 2.\n\nHaving just woken up, he\ncouldn't resist poking Afna and\nrunning behind her, besides\ntrying Rashida's patience by\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.25052631578947,
+   "ocr_low_conf_share": 0.008421052631578947,
+   "headline": "'Dua answered': SC nudge, Rohingya kids go to school in capital",
+   "deck": "",
+   "byline": "",
+   "text": "refugee wholivesin aone-room house with her four children in Khajuri Khas, next to eight other similarly displaced families. In December last year, the Delhi government had asked schools to \"prevent\" the enrolment of \"illegal Bangladesh migrant\" children and toinform the police in case of doubts over a child's citizenship status. Despite numerous attempts to secure schooling, children of Rohingya refugees were denied admission due to their displaced status. However, in response to a plea by 19 Rohingya children, the Supreme Court intervened on February 17 this year, instructing\n\nthem to apply for admission to Delhi government schools. In case of denial of admission, they were advised to move the Delhi High Court. By February 25, their applications were submitted to and accepted by the Sarvodaya Kanya/Bal Vidyalaya in Sri Ram Colony. For Roshida, as Friday morning dawned bright and clear, it was anew day and a newstart. Ten minutes before school started at 730 am, Afna rubbed her eyes, listening closely to her mother's instructions. Her three siblings, meanwhile, were fast asleep, tucked under a thick single blanket on the floor.\n\n\"Getready as fastasyoucan,\" Roshida instructed, struggling to locate her nigab (veil). Pointing to the majority of their belongings, packed into small cloth bundles, Roshida explains, \"We just shifted to this house yesterday. We lived a few gullies away before that. Our landlord asked us to vacate his house over lifestyle differences, like cooking habits.\" She acknowledged that the \"only silver lining\" for her at present was that two of her four children had got admission to a \"good school\". While her older son, 14, has not applied for admission to\n\nschool, her elder daughter Noor, 16, does not qualify under the Rightto Education (RTE) Act and has been asked to come to school on Saturday. On what drove Roshida and her children to seek refuge in India, she says, \"I am still haunted by the memories of the violent clashes in 2017 that brought us to India. Three of my nephews were killed and our house in Maungdaw (in Myanmar) was bumt down.\" Without showing any visible reaction to the discussion around her, Afna gets ready for school. With no school bag, uniform and books, she slips into a\n\nblue top and black jeans. \"I discovered just last night that Iwas going to school today. I don't have a school bag or books... lekin pata chalte hi bahut khushi hui (I was elated to learn that I was going to school today). My younger brother(Umar)has also joined (the school),\" says Afna. Beaming with excitement, Afna stepped out of the house, only to be joined by seven-yearold Umar, who got admission to Class 2.\n\nHaving just woken up, he couldn't resist poking Afna and running behind her, besides trying Rashida's patience by",
+   "n_words": 462,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5310,
+      502,
+      5371
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5267,
+      460,
+      5299
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      5460,
+      636,
+      5530
+     ],
+     [
+      316,
+      5578,
+      760,
+      6166
+     ]
+    ],
+    "layout_words": 82
+   },
+   "headline_raw": "ANCHOR",
+   "deck_raw": "PAGE1",
+   "body_raw": "SOPHIYAMATHEW\nNEW DELHI, APRIL 4\n\nTWELVE-YEAR-OLD Afna is not\nused to waking up early because\nshe has never gone to a school\nbefore. So, on Friday morning,\nher first day ever at school, she\narrived late.\nAs tears welled up in her\neyes, Afna\u2019s mother Roshida\nBegum, 30, a single parent, de-\nscribed that moment as a \u201cdua\n(prayer) answered\u201d.\nThe past couple of years had\nbeen filled with setbacks and re-\njections from the school author-\nities, says Roshida, a Rohingya",
+   "ocr_conf": 94.26829268292683,
+   "ocr_low_conf_share": 0.012195121951219513,
+   "headline": "ANCHOR",
+   "deck": "",
+   "byline": "SOPHIYAMATHEW; NEW DELHI, APRIL 4",
+   "text": "TWELVE-YEAR-OLD Afna is not used to waking up early because she has never gone to a school before. So, on Friday morning, her first day ever at school, she arrived late. As tears welled up in her eyes, Afna's mother Roshida Begum, 30, a single parent, described that moment as a \"dua (prayer) answered\". The past couple of years had been filled with setbacks and rejections from the school author-ities, says Roshida, a Rohingya",
+   "n_words": 74,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.7,
+ "flags": []
+}

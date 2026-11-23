@@ -1,0 +1,777 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_26_front",
+ "source_file": "2025-10-26_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-26_front.png",
+ "date": "2025-10-26",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 477,
+  "mean_line_conf": 91.00393664104357,
+  "orphan_words": 2,
+  "body_words_total": 1968
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3744,
+      301,
+      4182,
+      475
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3771,
+      236,
+      4160,
+      275
+     ]
+    ],
+    "body_boxes": [
+     [
+      3775,
+      498,
+      4148,
+      610
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "The Big\nFang Theory",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "Vampires are reclaiming\ntheir place in the\nmainstream cinema",
+   "ocr_conf": 95.55555555555556,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The Big Fang Theory",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "Vampires are reclaiming their place in the mainstream cinema",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1484,
+      565,
+      1516
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE WORLD",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "THE WORLD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      1550,
+      3168,
+      1900
+     ],
+     [
+      811,
+      1934,
+      1734,
+      2066
+     ],
+     [
+      806,
+      2231,
+      1250,
+      2303
+     ]
+    ],
+    "deck_boxes": [
+     [
+      808,
+      2182,
+      1103,
+      2241
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      2145,
+      1087,
+      2173
+     ],
+     [
+      809,
+      2305,
+      1250,
+      3163
+     ],
+     [
+      1353,
+      2695,
+      1548,
+      2730
+     ],
+     [
+      1415,
+      2840,
+      1620,
+      2869
+     ],
+     [
+      1337,
+      2924,
+      1688,
+      3123
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "Nitish willremain Bihar CM, no two ways\naboutit, says outgoing BUP Deputy CM\n\u2018Nitish represents light, Lalu darkness...\nneed to remind people of jungle raj\u2019\nINTHE first instance of asenior BJP",
+   "deck_raw": "PATNA, OCTOBER 25",
+   "body_raw": "SANTOSH SINGH\n\nleader categorically stating that\nBihar Chief Minister Nitish Kumar\nwill remain CM if the NDA wins\nthe coming Assembly elections,\nDeputy CM Samrat Choudhary\ntold The Indian Expressin an inter-\nview Saturday that \u201cNitish ji CM\nhain aur aage bhi bane rahenge\n(Nitish ji is the CM and will con-\ntinue to remain theCM)\u2019.\nThe comments came aday af-\nter Prime Minister Narendra\nModi, in his first campaign stop in\nthe state, said the NDA under\nNitish would clinch the polls and\nbreak electoral records, but did\nnot refer to him as the NDA\u2019s CM\ncandidate. Last week, Union\nHome Minister Amit Shah\ntouched a raw nerve in Nitish\u2019s\nparty JD(U) when he said the\nCONTINUED ON PAGE 2\n\nDECISION\n\nBIHAR\n\n@ Deputy CM: My lawyer\nfiled affidavit saying\nTwas aminor._ but\ncourt did not accept it\u2019\nPAGE 4",
+   "ocr_conf": 91.88652482269504,
+   "ocr_low_conf_share": 0.014184397163120567,
+   "headline": "Nitish willremain Bihar CM, no two ways aboutit, says outgoing BUP Deputy CM 'Nitish represents light, Lalu darkness... need to remind people of jungle raj' INTHE first instance of asenior BJP",
+   "deck": "PATNA, OCTOBER 25",
+   "byline": "SANTOSH SINGH",
+   "text": "leader categorically stating that Bihar Chief Minister Nitish Kumar will remain CM if the NDA wins the coming Assembly elections, Deputy CM Samrat Choudhary told The Indian Expressin an interview Saturday that \"Nitish ji CM hain aur aage bhi bane rahenge (Nitish ji is the CM and will continue to remain theCM)'. The comments came aday after Prime Minister Narendra Modi, in his first campaign stop in the state, said the NDA under Nitish would clinch the polls and break electoral records, but did not refer to him as the NDA's CM candidate. Last week, Union Home Minister Amit Shah touched a raw nerve in Nitish's party JD(U) when he said the\n\nDECISION\n\nBIHAR\n\n@ Deputy CM: My lawyer filed affidavit saying Twas aminor._ but court did not accept it'",
+   "n_words": 130,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      1534,
+      4166,
+      2019
+     ],
+     [
+      3250,
+      2053,
+      4127,
+      2113
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2187,
+      3630,
+      2257
+     ],
+     [
+      3250,
+      2307,
+      3699,
+      3290
+     ],
+     [
+      3898,
+      2239,
+      4135,
+      2323
+     ],
+     [
+      3780,
+      2386,
+      4141,
+      3013
+     ],
+     [
+      3738,
+      3097,
+      4179,
+      3283
+     ]
+    ],
+    "layout_words": 225
+   },
+   "headline_raw": "Combat squadron\nstrength dwindles,\nGovt looks at plan to\nupgrade Su-30MKIs\nWill increase service life by 20 years",
+   "deck_raw": "",
+   "body_raw": "AMRITA NAYAK DUTTA\nNEW DELHI, OCTOBER 25\n\nWITHTHE final exit of the MiG-\n21s last month bringing down\nthe IAF fighter squadron strength\nto 29 as against the sanctioned\n42,there\u2019s apush within the gov-\nernment to go ahead with the\nprogramme to upgrade the\nSukhoi Su-30MKI fleet, the back-\nbone of the IAF officials aware of\nthe latest discussions have told\nThe Sunday Express.\nThe Su-30MKI upgrade pro-\ngramme, also referred to as the\nSuper Sukhoi programme, is a\nmajor midlife upgrade pro-\ngramme whichcanincrease the\nservice life of the multirole\nfighter by another 20 years.\nAccording to officials, the\nupgradation proposal is cur-\nrently being examined by the\nMinistry of Defence and efforts\nare underway to fast-track its\nmovement to the Cabinet\nCommittee of Security (CCS) for\n\nThe worry,\n1@ the need\n\nTHEDWINDUIING combat\nstrength is aconcern given\nthat the IAF has to patrol\nthe skies over the borders\nwith Pakistan and China.\nDown to 29 squadrons\nfrom the sanctioned\nstrength of 42, the IAF is in\nurgent need of aircraft.\nThe Jaguar and Mirage\n2000 fleets will be retired\ninaphased manner\nsometime after 2030 and\nthe IAF isstill to receive\ndelivery of the Tejas\nMK1Ato fill existing gaps.\n\nits approval.\n\u201cIt is currently being exam-\nined by the Ministry of Defence.\nEfforts are on to send it soon to\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.60444444444444,
+   "ocr_low_conf_share": 0.06222222222222222,
+   "headline": "Combat squadron strength dwindles, Govt looks at plan to upgrade Su-30MKIs Will increase service life by 20 years",
+   "deck": "",
+   "byline": "AMRITA NAYAK DUTTA; NEW DELHI, OCTOBER 25",
+   "text": "WITHTHE final exit of the MiG- 21s last month bringing down the IAF fighter squadron strength to 29 as against the sanctioned 42,there's apush within the government to go ahead with the programme to upgrade the Sukhoi Su-30MKI fleet, the backbone of the IAF officials aware of the latest discussions have told The Sunday Express. The Su-30MKI upgrade programme, also referred to as the Super Sukhoi programme, is a major midlife upgrade programme whichcanincrease the service life of the multirole fighter by another 20 years. According to officials, the upgradation proposal is currently being examined by the Ministry of Defence and efforts are underway to fast-track its movement to the Cabinet Committee of Security (CCS) for\n\nThe worry, 1@ the need\n\nTHEDWINDUIING combat strength is aconcern given that the IAF has to patrol the skies over the borders with Pakistan and China. Down to 29 squadrons from the sanctioned strength of 42, the IAF is in urgent need of aircraft. The Jaguar and Mirage 2000 fleets will be retired inaphased manner sometime after 2030 and the IAF isstill to receive delivery of the Tejas MK1Ato fill existing gaps.\n\nits approval. \"It is currently being examined by the Ministry of Defence. Efforts are on to send it soon to",
+   "n_words": 208,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      2027,
+      713,
+      2097
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      2095,
+      758,
+      2172
+     ],
+     [
+      321,
+      2207,
+      753,
+      2372
+     ],
+     [
+      322,
+      2453,
+      735,
+      2485
+     ],
+     [
+      319,
+      3037,
+      743,
+      3203
+     ]
+    ],
+    "layout_words": 31
+   },
+   "headline_raw": "AFGHAN, PAKISTAN",
+   "deck_raw": "",
+   "body_raw": "HEAD TO TURKEY FOR\nROUND 2 OF TALKS\n\nEARLY VOTING\nBEGINS IN NEW YORK\nMAYORAL POLLS\nPAGE 10\n\nEXPRESS NETWORK\n\nANDHRA ON ALERT\nAS SEVERE CYCLONE\nHEADS TOWARDS IT\nPAGE 6",
+   "ocr_conf": 94.93548387096774,
+   "ocr_low_conf_share": 0.0,
+   "headline": "AFGHAN, PAKISTAN",
+   "deck": "",
+   "byline": "HEAD TO TURKEY FOR; ROUND 2 OF TALKS; EARLY VOTING; BEGINS IN NEW YORK; MAYORAL POLLS",
+   "text": "EXPRESS NETWORK\n\nANDHRA ON ALERT AS SEVERE CYCLONE HEADS TOWARDS IT",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      2607,
+      3193,
+      2830
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2809,
+      2895,
+      3206,
+      2947
+     ],
+     [
+      2763,
+      2957,
+      3201,
+      3016
+     ]
+    ],
+    "body_boxes": [
+     [
+      1787,
+      2859,
+      2105,
+      2928
+     ],
+     [
+      1786,
+      2977,
+      2226,
+      3171
+     ],
+     [
+      2273,
+      2820,
+      2714,
+      3171
+     ],
+     [
+      2763,
+      2820,
+      3205,
+      2887
+     ],
+     [
+      2763,
+      3017,
+      3204,
+      3164
+     ]
+    ],
+    "layout_words": 103
+   },
+   "headline_raw": "Polls take over Gandhi Maidan, shrink\nspace for those training for job exams",
+   "deck_raw": "Anotice issued by the district\ney ee eS OS ne\nEe Peth l Lot Yo ll PU al\ntivities on the ground are barred",
+   "body_raw": "PARVEEN KDOGRA\nPATNA, OCTOBER 25\n\nIT\u2019S ELECTION time, and from\nthe dais of Patna\u2019s large Gandhi\nMaidan, Bihar expects to soon\nhear parties repeat their tall\npromises of jobs. It\u2019s an irony\n\nthat rings loudest in the ground\nsurrounding the platform.\nEvery morning, thousands\nturn up here for \u201ctraining\u201d, to\nclear the \u201cphysical test\u201d thatis an\nessential component of a range\nof government job exams. But\nnow, the only open expanse\naround for miles is officially\n\nbarred for public use \u201cin view of\nelections\u201d.\n\nfrom October 24 till November 3\nfor security and administrative\nreasons, in view of elections. It\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.9326923076923,
+   "ocr_low_conf_share": 0.019230769230769232,
+   "headline": "Polls take over Gandhi Maidan, shrink space for those training for job exams",
+   "deck": "Anotice issued by the district tivities on the ground are barred",
+   "byline": "PARVEEN KDOGRA; PATNA, OCTOBER 25",
+   "text": "IT'S ELECTION time, and from the dais of Patna's large Gandhi Maidan, Bihar expects to soon hear parties repeat their tall promises of jobs. It's an irony\n\nthat rings loudest in the ground surrounding the platform. Every morning, thousands turn up here for \"training\", to clear the \"physical test\" thatis an essential component of a range of government job exams. But now, the only open expanse around for miles is officially\n\nbarred for public use \"in view of elections\".\n\nfrom October 24 till November 3 for security and administrative reasons, in view of elections. It",
+   "n_words": 95,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3357,
+      4170,
+      3692
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      3769,
+      3675,
+      3839
+     ],
+     [
+      3248,
+      3888,
+      3693,
+      4350
+     ],
+     [
+      3736,
+      3731,
+      4181,
+      4350
+     ]
+    ],
+    "layout_words": 146
+   },
+   "headline_raw": "Govt set to hike print\nmedia ad rates by 26%,\nreform TRP ratings",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, OCTOBER 25\n\nTHE GOVERNMENT is likely to\nincrease print media advertise-\nment rates by 26% after the\nModel Code of Conduct for the\nBihar Assembly elections is lifted\nnext month, according to a\nsource in the Ministry of\nInformation and Broadcasting.\nGovernment advertisement\nrates for television will also be\nrevised later, itis learnt.\nThe decisioncomes at atime\n\nwhen conventional media is un-\ndergoing changes, asource said,\nadding that the government\nseeks to support the print media\nparticularly to prevent job losses,\nThe rates were last hiked in\n2019, when a 25% hike was im-\nplemented. At that time, the 1&B\nMinistry had said the decision\nwas based on several factors, \u201cin-\ncluding the increase in price of\nnewsprint, processing charges\nand other factors which go into\nthe computation of advertise-\nment rates\u201d. It had said the rate\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.77397260273973,
+   "ocr_low_conf_share": 0.02054794520547945,
+   "headline": "Govt set to hike print media ad rates by 26%, reform TRP ratings",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, OCTOBER 25",
+   "text": "THE GOVERNMENT is likely to increase print media advertisement rates by 26% after the Model Code of Conduct for the Bihar Assembly elections is lifted next month, according to a source in the Ministry of Information and Broadcasting. Government advertisement rates for television will also be revised later, itis learnt. The decisioncomes at atime\n\nwhen conventional media is undergoing changes, asource said, adding that the government seeks to support the print media particularly to prevent job losses, The rates were last hiked in 2019, when a 25% hike was implemented. At that time, the 1&B Ministry had said the decision was based on several factors, \"including the increase in price of newsprint, processing charges and other factors which go into the computation of advertisement rates\". It had said the rate",
+   "n_words": 130,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3394,
+      1313,
+      3844
+     ],
+     [
+      320,
+      3873,
+      1237,
+      4074
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4162,
+      746,
+      4232
+     ],
+     [
+      317,
+      4282,
+      759,
+      5106
+     ],
+     [
+      805,
+      4123,
+      1248,
+      5100
+     ]
+    ],
+    "layout_words": 226
+   },
+   "headline_raw": "Post report claims ]\nGovt directed LIC to 1\ninvest $3.9 bn in Adani, .\ninsurer says \u2018baseless\u2019;\nCong asks: Under whose pressure did\nofficials of Finance and NITI Aayog\ndecide to bail out a private company?",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, OCTOBER 25\n\nGOVERNMENT OFFICIALS\n\u201cdrafted and pushed through a\nproposal in Mayto steer roughly\n$3.9 billion in investments to\nAdani\u2019s businesses from the Life\nInsurance Corporation, or LIC\u2019,\nWashington Post said in a news\nreport Friday.Ina \u201crebuttal tothe\narticle\u201d, LIC said, \u2018The allegations\nlevelled by Washington Post that\nthe investment decisions of LIC\nare influenced by external fac-\ntors are false, baseless, and far\nfrom truth.\u201d\nThe report claimed that two\nofficials familiar with the matter\ntold the Washington Post that,\n\u201cThe investment plan was\ncrafted by officials at DFS\n(Department of Financial\nServices) in coordination with\n\nLIC and India's main govern-\nment-funded think tank, Niti\nAayog, the documents show, and\napproved by the Finance\nMinistry.\u201d\nIn its statement, LIC said, \u201cNo\nsuch document or plan as al-\nleged in the article has ever been\nprepared by LIC, whichcreates a\nroadmap for infusing funds by\nLIC into Adani group of compa-\nnies. The investment decisions\nare taken by LIC independently\nas per Board approved policies\nafter detailed due diligence. The\nDepartment of Financial\nServices or any other body does\nnot have any role in such deci-\nsions.... These purported state-\nments in the article appear to\nhave been made with the inten-\ntions to prejudice the well set-\ntled decision-making process of\nLIC and also to tarnish the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.48230088495575,
+   "ocr_low_conf_share": 0.022123893805309734,
+   "headline": "Post report claims ] Govt directed LIC to 1 invest $3.9 bn in Adani,. insurer says 'baseless'; Cong asks: Under whose pressure did officials of Finance and NITI Aayog decide to bail out a private company?",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, OCTOBER 25; GOVERNMENT OFFICIALS",
+   "text": "\"drafted and pushed through a proposal in Mayto steer roughly $3.9 billion in investments to Adani's businesses from the Life Insurance Corporation, or LIC', Washington Post said in a news report Friday.Ina \"rebuttal tothe article\", LIC said, 'The allegations levelled by Washington Post that the investment decisions of LIC are influenced by external factors are false, baseless, and far from truth.\" The report claimed that two officials familiar with the matter told the Washington Post that, \"The investment plan was crafted by officials at DFS (Department of Financial Services) in coordination with\n\nLIC and India's main government-funded think tank, Niti Aayog, the documents show, and approved by the Finance Ministry.\" In its statement, LIC said, \"No such document or plan as alleged in the article has ever been prepared by LIC, whichcreates a roadmap for infusing funds by LIC into Adani group of companies. The investment decisions are taken by LIC independently as per Board approved policies after detailed due diligence. The Department of Financial Services or any other body does not have any role in such decisions.... These purported state-ments in the article appear to have been made with the intentions to prejudice the well settled decision-making process of LIC and also to tarnish the",
+   "n_words": 206,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      3394,
+      3145,
+      3664
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1297,
+      3320,
+      2842,
+      3353
+     ],
+     [
+      2760,
+      3653,
+      2902,
+      3709
+     ],
+     [
+      2760,
+      3731,
+      3191,
+      3790
+     ]
+    ],
+    "body_boxes": [
+     [
+      1296,
+      3689,
+      1613,
+      3759
+     ],
+     [
+      1294,
+      3807,
+      1737,
+      4355
+     ],
+     [
+      2761,
+      3797,
+      3180,
+      3877
+     ],
+     [
+      2761,
+      4007,
+      3202,
+      4349
+     ]
+    ],
+    "layout_words": 129
+   },
+   "headline_raw": "Rohit and Virat put on a class act to avert\nwhitewash, say goodbye to Australia",
+   "deck_raw": "168-RUN PARTNERSHIP POWERS INDIA WIN IN 3RD ODI AGAINST AUSTRALIA\nSPORT\nROHIT, VIRAT PLAY TO",
+   "body_raw": "SRIRAMVEERA\nMUMBAI, OCTOBER 25\n\nTWO SWEET little moments\ncaptured a heartwarming\nevening in Sydney on Saturday s\ntwomodern ODI masters synced\ntogether in a jugalbandi to re-\nmember. The first came right\nwhen Virat Kohli clenched his\nfist with a smile after getting his\nfirst run after two ducks in the\nprevious games. It was a light-\nhearted gesture, not an angsty\nrelief, that said much about his\nrelaxed state of mind.\nThe second was right at the\n\nTHE GALLERY AS SCG\nTURNS SEA OF BLUE\n\nend, when Rohit Sharma and\nVirat warmly hugged each other\nafter their unbeaten 168-run\npartnership steered India toa\n9-wicket win against Australia.\nIt was a dead rubber since the\nAussies had won the first two\ngames of the three-match series,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Rohit and Virat put on a class act to avert whitewash, say goodbye to Australia",
+   "deck": "168-RUN PARTNERSHIP POWERS INDIA WIN IN 3RD ODI AGAINST AUSTRALIA SPORT ROHIT, VIRAT PLAY TO",
+   "byline": "SRIRAMVEERA; MUMBAI, OCTOBER 25",
+   "text": "TWO SWEET little moments captured a heartwarming evening in Sydney on Saturday s twomodern ODI masters synced together in a jugalbandi to remember. The first came right when Virat Kohli clenched his fist with a smile after getting his first run after two ducks in the previous games. It was a lighthearted gesture, not an angsty relief, that said much about his relaxed state of mind. The second was right at the\n\nTHE GALLERY AS SCG TURNS SEA OF BLUE\n\nend, when Rohit Sharma and Virat warmly hugged each other after their unbeaten 168-run partnership steered India toa 9-wicket win against Australia. It was a dead rubber since the Aussies had won the first two games of the three-match series,",
+   "n_words": 120,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      4422,
+      2712,
+      4506
+     ],
+     [
+      1296,
+      4523,
+      2035,
+      4654
+     ],
+     [
+      1294,
+      4641,
+      1576,
+      4704
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      4719,
+      1608,
+      4747
+     ],
+     [
+      1293,
+      4795,
+      1736,
+      5107
+     ],
+     [
+      1783,
+      4638,
+      2224,
+      5108
+     ],
+     [
+      2272,
+      4639,
+      2716,
+      5101
+     ]
+    ],
+    "layout_words": 151
+   },
+   "headline_raw": "2 Australian women cricketers \u2018stalked,\nsexually harassed\u2019 in\n\u00a2 \u201c Vilamen\u2019'e Ward C1\nANAND MOHAN J",
+   "deck_raw": "",
+   "body_raw": "BHOPAL, OCTOBER 25\n\nTWO CRICKETERS from the\nAustralian women\u2019s team were\nallegedly stalked and sexually\nharassed while walking to acafe\nfrom their hotel in Indore on\nThursday moming.\nThe incident comes at atime\nwhen India is hosting the ICC\n\nWomen\u2019s World Cup.\nIn a statement, Cricket\nAustralia(CA) said, \u201cCAcancon-\nfirm two members of the\nAustralian Women\u2019s team were\napproached and touched inap-\npropriately by a motorcyclist\nwhile walking to a cafe in Indore.\nThe matter was reported by\nteam security to police, who are\nhandling the matter.\u201d\nBCCI Secretary Devajit Saikia\n\ncalled it a \u201cvery condemnable\nbut stray incident\u201d.\n\u201cIndia is known for its hospi-\ntality and care. We have zero tol-\nerance for suchincidents. We ap-\npreciate the State Police\n(Madhya Pradesh) for their\npromptaction to nab the culprit.\nLet the law take its course to\npunish the culprit. We assure to\nrevisit our safety protocols if\nCONTINUED ON PAGE2",
+   "ocr_conf": 87.9205298013245,
+   "ocr_low_conf_share": 0.07947019867549669,
+   "headline": "2 Australian women cricketers 'stalked, sexually harassed' in \u00a2 \" Vilamen''e Ward C1 ANAND MOHAN J",
+   "deck": "",
+   "byline": "BHOPAL, OCTOBER 25",
+   "text": "TWO CRICKETERS from the Australian women's team were allegedly stalked and sexually harassed while walking to acafe from their hotel in Indore on Thursday moming. The incident comes at atime when India is hosting the ICC\n\nWomen's World Cup. In a statement, Cricket Australia(CA) said, \"CAcanconfirm two members of the Australian Women's team were approached and touched inappropriately by a motorcyclist while walking to a cafe in Indore. The matter was reported by team security to police, who are handling the matter.\" BCCI Secretary Devajit Saikia\n\ncalled it a \"very condemnable but stray incident\". \"India is known for its hospitality and care. We have zero tolerance for suchincidents. We appreciate the State Police (Madhya Pradesh) for their promptaction to nab the culprit. Let the law take its course to punish the culprit. We assure to revisit our safety protocols if",
+   "n_words": 140,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2760,
+      4423,
+      4160,
+      4655
+     ],
+     [
+      2760,
+      4639,
+      3134,
+      4718
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      4720,
+      3063,
+      4748
+     ],
+     [
+      2758,
+      4798,
+      3202,
+      5101
+     ],
+     [
+      3248,
+      4639,
+      3689,
+      5109
+     ],
+     [
+      3736,
+      4640,
+      4180,
+      5102
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "Maoists kill CRPF jawan\u2019s brother, man\npreparing for police exam in Bijapur\ne 2 when the Maniect rank: have According tn cecurity offi.\nJAYPRAKASH S NAIDU",
+   "deck_raw": "",
+   "body_raw": "RAIPUR, OCTOBER 25\n\nTWO VILLAGERS \u2014 a CRPF\njawan\u2019s brother and a police job\naspirant \u2014 were hacked to death\nby Maoists, who suspected them\nof being police informers, in\nChhattisgarh\u2019s Bijapur district on\nFriday night.\nThe incident comes atatime\n\nwhen the Maoist ranks have\nseen a spate of surrenders, caus-\ning a churn in its leadership\nstructure. It also comes months\nahead of the March 2026 dead-\nline set by Home Minister Amit\nShah to wipe out Naxalism from\nthe country.\nThe killings took place at\naround 8 pm ina remote village\nnamed Nelakanker, 80 km from\nthe Bijapur district headquarters.\n\nAccording to security offi-\ncials, a group of around 10-15\nMaoists knocked on the doors of\nthe two men, Ravi Kattam (25)\nand Tirupati Sodi (38). Both were\nasked to step out and then killed\nin front of their homes.\nWhile Ravi Kattam wasa po-\nlice aspirant, Tirupati Sodi\u2019s\nbrother is a jawan with the\nCentral Reserve Police Force\u2019s\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.5939393939394,
+   "ocr_low_conf_share": 0.024242424242424242,
+   "headline": "Maoists kill CRPF jawan's brother, man preparing for police exam in Bijapur e 2 when the Maniect rank: have According tn cecurity offi. JAYPRAKASH S NAIDU",
+   "deck": "",
+   "byline": "RAIPUR, OCTOBER 25; TWO VILLAGERS  -  a CRPF",
+   "text": "jawan's brother and a police job aspirant - were hacked to death by Maoists, who suspected them of being police informers, in Chhattisgarh's Bijapur district on Friday night. The incident comes atatime\n\nwhen the Maoist ranks have seen a spate of surrenders, causing a churn in its leadership structure. It also comes months ahead of the March 2026 deadline set by Home Minister Amit Shah to wipe out Naxalism from the country. The killings took place at around 8 pm ina remote village named Nelakanker, 80 km from the Bijapur district headquarters.\n\nAccording to security officials, a group of around 10-15 Maoists knocked on the doors of the two men, Ravi Kattam (25) and Tirupati Sodi (38). Both were asked to step out and then killed in front of their homes. While Ravi Kattam wasa police aspirant, Tirupati Sodi's brother is a jawan with the Central Reserve Police Force's",
+   "n_words": 149,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5261,
+      2246,
+      5390
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5432,
+      499,
+      5507
+     ],
+     [
+      317,
+      5625,
+      672,
+      5697
+     ],
+     [
+      317,
+      5745,
+      758,
+      6136
+     ],
+     [
+      806,
+      5429,
+      1248,
+      6136
+     ],
+     [
+      1293,
+      5429,
+      1735,
+      6137
+     ]
+    ],
+    "layout_words": 247
+   },
+   "headline_raw": "Dead D\u2019Mello brought us to life: The",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nSHUBHRAGUPTA\nNEW DELHI, OCTOBER 25\n\nIF THERE was one dead body\nwhich brought to crackling life\ntwo hours and some of the most\ninspired madness and mayhem,\nit belonged to Commissioner\nD\u2019Mello.\nThe legions of fans of Kundan\nShah\u2019s 1983 Jaane Bhi Do Yaaro, a\nbiting satire unparalleled in Hindi\ncinema in the way it melded\n\nsavagery and hilarity, have many\ncharacters to admire. But D\u2019Mello\nhasa separate fan base: As there-\ncently deceased corrupt babu,\nwho was happy to be swayed by\na few coins and whose corpse\nwas then dragged in a coffin all\nover the streets of Mumbai,\nSatish Shah gave the phrase\n\u201czinda laash\u201d anew meaning.\nShah, who passed away\nSaturday of kidney failure at 74,\nwas not just one of the finest co-\nmedians in Indian cinema; he\nwas ahumourist par excellence,\nwhose craft shone in the way he\nimbued even his most inane\nroles with surprising depth and\n\nwarmth. Yes, he could slip over\nbanana peels with ease, but h\ncould, with equal felicity, give yo\na snapshot appreciation of th\ncharacter about to do the slip\nping, and that takes serious skil\nOf the countless roles he es\nsayed in a career of aroun:\n50 years, the one most people\nwill remember him for was\nthe genial Indravadan ~\n\u201cIndu\u201d Sarabhai, who\npresided over his family and\nits \u201csukh-dukh\u201d, with flavour-\nful support from Maya\nMazumdar Sarabhai, played by\nthe inimitable Ratna Pathak\nShah, in the long-running show,",
+   "ocr_conf": 92.46370967741936,
+   "ocr_low_conf_share": 0.04032258064516129,
+   "headline": "Dead D'Mello brought us to life: The",
+   "deck": "",
+   "byline": "ANCHOR; SHUBHRAGUPTA; NEW DELHI, OCTOBER 25",
+   "text": "IF THERE was one dead body which brought to crackling life two hours and some of the most inspired madness and mayhem, it belonged to Commissioner D'Mello. The legions of fans of Kundan Shah's 1983 Jaane Bhi Do Yaaro, a biting satire unparalleled in Hindi cinema in the way it melded\n\nsavagery and hilarity, have many characters to admire. But D'Mello hasa separate fan base: As there-cently deceased corrupt babu, who was happy to be swayed by a few coins and whose corpse was then dragged in a coffin all over the streets of Mumbai, Satish Shah gave the phrase \"zinda laash\" anew meaning. Shah, who passed away Saturday of kidney failure at 74, was not just one of the finest comedians in Indian cinema; he was ahumourist par excellence, whose craft shone in the way he imbued even his most inane roles with surprising depth and\n\nwarmth. Yes, he could slip over banana peels with ease, but h could, with equal felicity, give yo a snapshot appreciation of th character about to do the slip ping, and that takes serious skil Of the countless roles he es sayed in a career of aroun: 50 years, the one most people will remember him for was the genial Indravadan ~ \"Indu\" Sarabhai, who presided over his family and its \"sukh-dukh\", with flavourful support from Maya Mazumdar Sarabhai, played by the inimitable Ratna Pathak Shah, in the long-running show,",
+   "n_words": 237,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      5263,
+      4146,
+      5391
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2271,
+      5430,
+      2713,
+      6137
+     ],
+     [
+      2760,
+      5430,
+      3200,
+      6138
+     ],
+     [
+      3247,
+      5431,
+      3690,
+      6138
+     ],
+     [
+      3733,
+      5431,
+      4177,
+      5697
+     ],
+     [
+      3735,
+      5709,
+      4177,
+      6132
+     ]
+    ],
+    "layout_words": 361
+   },
+   "headline_raw": "incomparable humourist, humanist",
+   "deck_raw": "",
+   "body_raw": "Sarabhai vs Sarabhai.\nShah was one of those\n\u2018ined FTII actors who was al-\nyysin high demand, inbothTV\nd films. Kundan Shah was\nick to recognise the quicksil-\nrqualityin his batchmate, and\ne way he presented him inan-\nother DD classic Yeh Jo Hai\nZindagi (1984) is a guaran-\nteed chaser-away-of-the-\n_ blues: Intheshow fronted\n* by the affable Shafi\nInamdar and Swaroop\nSampat, Satish Shah appeared\nin 55 different guises in the 60\nplus episodes, using subtle shifts\nin delivery and expression.\n\nEffortless actors like Shah\nmake it easy to forget the effort\ncertified comedians have to put\nin to create a differential, espe-\nCally in Hindi anema where hu-\nmour was, and still is, often con-\nfined to crude, loud tracks.\nHe blurred the lines between\nthe straight-up comedian andthe\ncharacter who uses comedic de-\nvices to play his part, whether he\nwas playing \u201cDoctor Chacha\u201d in\nthe 1994 Hum Aapke Hain Koun\n(helping a bashful Salman Khan\nwoo the stunning Madhuri-in-\nthat-purple-sari) with his \u201csher-\no-shayari\u201d, or a Gulshan Kumar-\ncoded music baron handing out\n\nabreak tothestruggling musidan\nplayed by Aamir Khan in Akele\nHum Akele Tum (1995), or a col-\nlege-professor-and-buffoon who\ntreats the world like his walking\nspittoon and who Shah Rukh\nKhan keeps having to dodge in\nMain Hoon Na(2004).\nSo good was Shah in these\nkinds of roles, which saw him in\nsupporting roles to the three\nKhans, or in the ones he kept\nplaying endless variations of the\nbumbling cop or the hopelessly\namorphous ones in the loud\ncomedies of David Dhawan and\nRohit Shetty, that one forgot his\nearly substantive parts in the so-\n\nciallyconscious cinema of Saeed\nAkhtar Mirza: His characters in\nArvind Desai Ki Ajeeb Dastaan\n(1978) and Albert Pinto Ko Gussa\nKyon Aata Hai (1980) had weight;\nthey were integral to those\nmovies.\n\nWhichever way you sliced\nthe entertainment pie, in bothTV\nand movies during the\u201980s and\n\"90s, there would be Shah, light\non his feet despite his decidedly\npodgy frame, eyes twinkling in\nhis round face, and that trade-\nmark moustache quivering in de-\nlight or disgust, depending upon\nthe demands made on him.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.30470914127424,
+   "ocr_low_conf_share": 0.055401662049861494,
+   "headline": "incomparable humourist, humanist",
+   "deck": "",
+   "byline": "",
+   "text": "Sarabhai vs Sarabhai. Shah was one of those 'ined FTII actors who was alyysin high demand, inbothTV d films. Kundan Shah was ick to recognise the quicksilrqualityin his batchmate, and e way he presented him inanother DD classic Yeh Jo Hai Zindagi (1984) is a guaranteed chaser-away-of-the- _ blues: Intheshow fronted * by the affable Shafi Inamdar and Swaroop Sampat, Satish Shah appeared in 55 different guises in the 60 plus episodes, using subtle shifts in delivery and expression.\n\nEffortless actors like Shah make it easy to forget the effort certified comedians have to put in to create a differential, espe-Cally in Hindi anema where humour was, and still is, often confined to crude, loud tracks. He blurred the lines between the straight-up comedian andthe character who uses comedic devices to play his part, whether he was playing \"Doctor Chacha\" in the 1994 Hum Aapke Hain Koun (helping a bashful Salman Khan woo the stunning Madhuri-inthat-purple-sari) with his \"shero-shayari\", or a Gulshan Kumar-coded music baron handing out\n\nabreak tothestruggling musidan played by Aamir Khan in Akele Hum Akele Tum (1995), or a college-professor-and-buffoon who treats the world like his walking spittoon and who Shah Rukh Khan keeps having to dodge in Main Hoon Na(2004). So good was Shah in these kinds of roles, which saw him in supporting roles to the three Khans, or in the ones he kept playing endless variations of the bumbling cop or the hopelessly amorphous ones in the loud comedies of David Dhawan and Rohit Shetty, that one forgot his early substantive parts in the sociallyconscious cinema of Saeed Akhtar Mirza: His characters in Arvind Desai Ki Ajeeb Dastaan (1978) and Albert Pinto Ko Gussa Kyon Aata Hai (1980) had weight; they were integral to those movies.\n\nWhichever way you sliced the entertainment pie, in bothTV and movies during the'80s and \"90s, there would be Shah, light on his feet despite his decidedly podgy frame, eyes twinkling in his round face, and that trademark moustache quivering in delight or disgust, depending upon the demands made on him.",
+   "n_words": 342,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.8,
+ "flags": []
+}

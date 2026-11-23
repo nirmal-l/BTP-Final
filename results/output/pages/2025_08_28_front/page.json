@@ -1,0 +1,576 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_28_front",
+ "source_file": "2025-08-28_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-28_front.png",
+ "date": "2025-08-28",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 272,
+  "mean_line_conf": 89.72766985662602,
+  "orphan_words": 160,
+  "body_words_total": 1019
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      699,
+      736,
+      767
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      801,
+      706,
+      970
+     ],
+     [
+      321,
+      1005,
+      702,
+      1130
+     ],
+     [
+      320,
+      1164,
+      707,
+      1334
+     ],
+     [
+      322,
+      1448,
+      681,
+      1531
+     ]
+    ],
+    "layout_words": 30
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "ASSAM CM: POLICE\nTOLOOK INTO\nINTER-RELIGION\nLAND TRANSFERS\n\nSC ORDERS PROBE\nAFTER NCLAT\nJUDGE REMARK\n\nGOVT APPOINTS\nJUSTICES ARADHE,\nPANCHOLI TO SC\nPAGE 5\n\nNAMED BY U.S. IN\nPANNUN CASE",
+   "ocr_conf": 88.43333333333334,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "ASSAM CM: POLICE; TOLOOK INTO; INTER-RELIGION; LAND TRANSFERS; SC ORDERS PROBE; AFTER NCLAT; JUDGE REMARK",
+   "text": "GOVT APPOINTS JUSTICES ARADHE, PANCHOLI TO SC\n\nNAMED BY U.S. IN PANNUN CASE",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      788,
+      3212,
+      1148
+     ],
+     [
+      811,
+      1188,
+      1718,
+      1391
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      696,
+      2603,
+      753
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1463,
+      1184,
+      1530
+     ],
+     [
+      809,
+      1620,
+      1251,
+      2129
+     ],
+     [
+      1319,
+      1489,
+      1727,
+      1648
+     ],
+     [
+      1296,
+      1739,
+      1742,
+      2123
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "As 50% tariffs begin, US treasury secy\nsays: End of day, we will come together\nCommunication lines with US open...\nalso in touch with industry to soften\nimpact: Commerce Ministry officials",
+   "deck_raw": "TRUMP, MODI HAVE VERY GOOD RELATIONSHIP: BESSENT",
+   "body_raw": "SUKALP SHARMA\n& RAVIDUTTAMISHRA\n\nON THE day 50 per cent US tariffs\non Indian goods became effec-\ntive, US Treasury Secretary Scott\nBessent said the India-US rela-\ntionship is a\u201ccomplicated\u201d one,\nbut he believed that \u201cat the end\nof the day\u2019 the twocountries will\n\u201ccome together\u201d.\n\u201cThis is a complicated rela-\ntionship. President Trump and\nPrime Minister Modi have a very\ngood relationship at that level.\nIt\u2019s not just over the Russian oil.\n\nat ~ |\n' v\ni BE\" US Treasury\na gee Secy Scott\nwaey\u2019 Bessent\n\nThe Indians came in early after\nLiberation Day to start negotiat-\ning on tariffs and we still don\u2019t\nhave a deal. ] thought we would\nhave a deal in May or June. I\nthought Indiacould be one of the\nearlier deals and they kind of\ntapped us along in terms of the\nnegotiations and then there is\nCONTINUED ON PAGE2",
+   "ocr_conf": 86.72972972972973,
+   "ocr_low_conf_share": 0.10810810810810811,
+   "headline": "As 50% tariffs begin, US treasury secy says: End of day, we will come together Communication lines with US open... also in touch with industry to soften impact: Commerce Ministry officials",
+   "deck": "TRUMP, MODI HAVE VERY GOOD RELATIONSHIP: BESSENT",
+   "byline": "SUKALP SHARMA; & RAVIDUTTAMISHRA",
+   "text": "ON THE day 50 per cent US tariffs on Indian goods became effective, US Treasury Secretary Scott Bessent said the India-US relationship is a\"complicated\" one, but he believed that \"at the end of the day' the twocountries will \"come together\". \"This is a complicated relationship. President Trump and Prime Minister Modi have a very good relationship at that level. It's not just over the Russian oil.\n\nat ~ i BE\" US Treasury a gee Secy Scott waey' Bessent\n\nThe Indians came in early after Liberation Day to start negotiating on tariffs and we still don't have a deal. ] thought we would have a deal in May or June. I thought Indiacould be one of the earlier deals and they kind of tapped us along in terms of the negotiations and then there is",
+   "n_words": 134,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      1186,
+      2717,
+      1484
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      1542,
+      2119,
+      1612
+     ],
+     [
+      1786,
+      1661,
+      2227,
+      2130
+     ],
+     [
+      2311,
+      1543,
+      2615,
+      1578
+     ]
+    ],
+    "layout_words": 71
+   },
+   "headline_raw": "\u2018Told Modi, Pak to stop\nwar or will make your\nhead spin with high tariff",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nCANBERRA, AUGUST 27\n\nLAUNCHING A broadside that\nhas left many in Delhi bristling,\nUS President Donald Trump,\nwhilerepeating that he brokered\na ceasefire between India and\nPakistan in May, Wednesday\nclaimed that he spoke to Prime\nMinister Narendra Modi and\nPakistan and said the US will not\ndo \u201cany (trade) deals with you\u201d,\nthat \u201cwe are going to put tariffs\non you that are so high, your\n\ni. Trump",
+   "ocr_conf": 94.67605633802818,
+   "ocr_low_conf_share": 0.014084507042253521,
+   "headline": "'Told Modi, Pak to stop war or will make your head spin with high tariff",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; CANBERRA, AUGUST 27",
+   "text": "LAUNCHING A broadside that has left many in Delhi bristling, US President Donald Trump, whilerepeating that he brokered a ceasefire between India and Pakistan in May, Wednesday claimed that he spoke to Prime Minister Narendra Modi and Pakistan and said the US will not do \"any (trade) deals with you\", that \"we are going to put tariffs on you that are so high, your\n\ni. Trump",
+   "n_words": 66,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      1188,
+      3198,
+      1572
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2300,
+      1570,
+      2714,
+      1624
+     ]
+    ],
+    "body_boxes": [
+     [
+      2371,
+      1620,
+      2701,
+      1728
+     ],
+     [
+      2275,
+      1820,
+      2715,
+      2123
+     ],
+     [
+      2985,
+      1661,
+      3202,
+      1895
+     ],
+     [
+      2762,
+      1978,
+      3095,
+      2048
+     ],
+     [
+      2760,
+      2097,
+      3204,
+      3114
+     ]
+    ],
+    "layout_words": 179
+   },
+   "headline_raw": "Australia does\nnot back tariffs,\nsays Wong, flags\nshared aims as\nQuad partners",
+   "deck_raw": "Sy c |} Tepeatsclaim",
+   "body_raw": ". ofbrokering\n~) 8 India-Pak\n' ceasefire\n\nhead's going to spin\u2019 if the fight-\ning doesn\u2019t stop.\nHe claimed he stopped the\nIndia-Pakistan conflict from\n\u201cgoing nuclear\u2019.\n\u201clam talking toa very terrific\nman, Modi of India. | said, \u2018What's\nCONTINUEDON PAGE2\n\nPenny Wong:\nImportant\ntime for India,\nAustralia to\nkeep working\ntogether\n\nSHUBHAJIT ROY\nCANBERRA, AUGUST 27\n\nUNDERLINING THAT Australia\nwants a \u201cdeep, strong and\ntrusted partnership\u201d with India,\nAustralian Foreign Minister\nPenny Wong said on Wednesday\nthat her country \u201cdoesn\u2019t sup-\nport tariffs\u201d.\nOn the US administration\u2019s\ntariffs on India, Wong said: \u201cI'll\nleave you to comment on yourbi-\nlateral relationships. I can tell you\nwhat Australia\u2019s position is... we\ndon't support tariffs. We believe\nin the logic of the post-war eco-\nnomic order, that openness can\nenable growth, and oureconomy\nis a testament to that. Australia\nhas developed our economy and\nadvanced over these last decades\nbecause we have traded with the\nworld in large part.\u201d\nAsked about US President\nDonald Trump's turn against\nIndia in recent months, Wong\nsaid: \u201cWhat we would want as\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.83977900552486,
+   "ocr_low_conf_share": 0.0718232044198895,
+   "headline": "Australia does not back tariffs, says Wong, flags shared aims as Quad partners",
+   "deck": "",
+   "byline": "",
+   "text": ". ofbrokering ~) 8 India-Pak ' ceasefire\n\nhead's going to spin' if the fighting doesn't stop. He claimed he stopped the India-Pakistan conflict from \"going nuclear'. \"lam talking toa very terrific man, Modi of India. said, 'What's CONTINUEDON PAGE2\n\nPenny Wong: Important time for India, Australia to keep working together\n\nSHUBHAJIT ROY CANBERRA, AUGUST 27\n\nUNDERLINING THAT Australia wants a \"deep, strong and trusted partnership\" with India, Australian Foreign Minister Penny Wong said on Wednesday that her country \"doesn't support tariffs\". On the US administration's tariffs on India, Wong said: \"I'll leave you to comment on yourbilateral relationships. I can tell you what Australia's position is... we don't support tariffs. We believe in the logic of the post-war economic order, that openness can enable growth, and oureconomy is a testament to that. Australia has developed our economy and advanced over these last decades because we have traded with the world in large part.\" Asked about US President Donald Trump's turn against India in recent months, Wong said: \"What we would want as",
+   "n_words": 172,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      1425,
+      4174,
+      1736
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      1821,
+      3650,
+      1967
+     ],
+     [
+      3250,
+      2018,
+      3693,
+      2210
+     ],
+     [
+      3738,
+      1780,
+      4183,
+      2203
+     ]
+    ],
+    "layout_words": 88
+   },
+   "headline_raw": "Jammu rain: Toll rises to\nAl, many Vaishno Devi\npilgrims among dead",
+   "deck_raw": "",
+   "body_raw": "ARUN SHARMA\n& BASHAARAT MASOOD\nJAMMU, SRINAGAR,\nAUGUST 27\n\nAT LEAST 41 people, most of\nthem Vaishno Devi pilgrims,\ndied inJammu\u2019s Reasi and Doda\ndistricts between Tuesday and\nWednesday as the heaviest-ever\n\nrainfall recorded during 24 hours\nin Jammu province left a trail of\ndeath and devastation.\nThirty-four people died near\nAdhkunwari en route to the\nshrine on Tuesday afternoon fol-\nlowing a cloudburst in the area,\nwhile four died in the hilly Doda\ndistrict due to rain and flash\nfloods earlier in the moming.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.2247191011236,
+   "ocr_low_conf_share": 0.06741573033707865,
+   "headline": "Jammu rain: Toll rises to Al, many Vaishno Devi pilgrims among dead",
+   "deck": "",
+   "byline": "ARUN SHARMA; & BASHAARAT MASOOD; JAMMU, SRINAGAR,; AUGUST 27",
+   "text": "AT LEAST 41 people, most of them Vaishno Devi pilgrims, died inJammu's Reasi and Doda districts between Tuesday and Wednesday as the heaviest-ever\n\nrainfall recorded during 24 hours in Jammu province left a trail of death and devastation. Thirty-four people died near Adhkunwari en route to the shrine on Tuesday afternoon following a cloudburst in the area, while four died in the hilly Doda district due to rain and flash floods earlier in the moming.",
+   "n_words": 75,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1568,
+      761,
+      1918
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2015,
+      654,
+      2085
+     ],
+     [
+      319,
+      2134,
+      764,
+      3112
+     ]
+    ],
+    "layout_words": 121
+   },
+   "headline_raw": "Two days later,\ncourt cancels\nnon-bailable\nwarrant against\nex-R&AW officer",
+   "deck_raw": "",
+   "body_raw": "NIRBHAY THAKUR\nNEW DELHI, AUGUST 27\n\nTWO DAYS after a Delhi court is-\nsued a non-bailable warrant\n(NBW) against Vikash Yadav, the\nformer R&AW officer who was\nnamed by the US asa conspirator\nin an alleged plot to kill pro-\nKhalistan separatist Gurpatwant\nSingh Pannun, the court can-\ncelled it on Wednesday.\nAdditional Sessions Judge\nSaurabh Partap Singh Laler of\nPatiala House Courts had issued\nthe NBWon Monday, noting that\nYadav had failed toappear before\nthecourtinacase of alleged kid-\nnapping and extortion despite\nrepeated calls. \u201cIssue NBWs\nagainst accused... and notice to\nhis surety under Section 491\nBharatiya Nagrik Suraksha\nSanhita (the procedure when\nbond has been forfeited) for\nOctober 17,\u201d he had said.\nOn Wednesday, Yadav's\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.94214876033058,
+   "ocr_low_conf_share": 0.03305785123966942,
+   "headline": "Two days later, court cancels non-bailable warrant against ex-R&AW officer",
+   "deck": "",
+   "byline": "NIRBHAY THAKUR; NEW DELHI, AUGUST 27",
+   "text": "TWO DAYS after a Delhi court issued a non-bailable warrant (NBW) against Vikash Yadav, the former R&AW officer who was named by the US asa conspirator in an alleged plot to kill pro-Khalistan separatist Gurpatwant Singh Pannun, the court cancelled it on Wednesday. Additional Sessions Judge Saurabh Partap Singh Laler of Patiala House Courts had issued the NBWon Monday, noting that Yadav had failed toappear before thecourtinacase of alleged kidnapping and extortion despite repeated calls. \"Issue NBWs against accused... and notice to his surety under Section 491 Bharatiya Nagrik Suraksha Sanhita (the procedure when bond has been forfeited) for October 17,\" he had said. On Wednesday, Yadav's",
+   "n_words": 107,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2200,
+      1236,
+      2257
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      2316,
+      1244,
+      2560
+     ],
+     [
+      811,
+      2656,
+      1059,
+      2688
+     ],
+     [
+      810,
+      2747,
+      1187,
+      2872
+     ],
+     [
+      808,
+      2907,
+      1232,
+      3076
+     ]
+    ],
+    "layout_words": 40
+   },
+   "headline_raw": "THE EDITORIAL PAGE",
+   "deck_raw": "",
+   "body_raw": "THE BIG PICTURE\nEven as India continues trade\ntalks with the US, it must\nreiterate red lines, push ahead\nondomestic reforms\nPAGE6\n\nRAJASTHAN\n\n\u2018FAULTY CAR\u2019: SRK,\nDEEPIKA BOOKED\nIN BHARATPUR\n\nJUSTICE ARUN\nMONGA MAY RETURN\nTO RAJASTHAN HC\nPAGE 3",
+   "ocr_conf": 89.3,
+   "ocr_low_conf_share": 0.05,
+   "headline": "THE EDITORIAL PAGE",
+   "deck": "",
+   "byline": "THE BIG PICTURE; RAJASTHAN",
+   "text": "Even as India continues trade talks with the US, it must reiterate red lines, push ahead ondomestic reforms\n\n'FAULTY CAR': SRK, DEEPIKA BOOKED IN BHARATPUR\n\nJUSTICE ARUN MONGA MAY RETURN TO RAJASTHAN HC",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      2204,
+      2695,
+      2402
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      2462,
+      2505,
+      2518
+     ]
+    ],
+    "body_boxes": [
+     [
+      1297,
+      2491,
+      1630,
+      2561
+     ],
+     [
+      1295,
+      2611,
+      1738,
+      3120
+     ],
+     [
+      1827,
+      2493,
+      2185,
+      2527
+     ],
+     [
+      1921,
+      5433,
+      2319,
+      5475
+     ],
+     [
+      1921,
+      5544,
+      2288,
+      5586
+     ],
+     [
+      2275,
+      2558,
+      2661,
+      2682
+     ],
+     [
+      2272,
+      2769,
+      2714,
+      3113
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "Lutnick says green card to change,\nDeSantis calls H-IB visas a scam",
+   "deck_raw": "EXPLAINED",
+   "body_raw": "SHUBHAJIT ROY\nCANBERRA, AUGUST 27\n\nAMID THE strain in ties, the\nTrump administration has\nopened a new front, targeting\nskilled Indian professionals on\nthe H-1B visa programme, a\nmove thatis expected tohit mid-\ndle-class Indians in the US.\nSecretary of Commerce\nHoward Lutnick has said the US\nintends to modify the current\nimmigration system, specifically\nthe H-1B visa programme and\ngreen cards. He said the Trump\n\nBUSINESS AS USUAL\n\nWell-suited for\n\naccumulation\n\nECONOMICS\nH-1B VISA DEBATE\nIN U.S. paces\n\nadministration plans to intro-\nduce a \u201cgold card\u201d programme.\nIt will allow wealthy foreigners\nto invest $5 million in exchange\nfor US residency.\n\u201cI am involved in changing\nthe H-1B visa programme.\nWe are going to change that\nCONTINUEDON PAGE2",
+   "ocr_conf": 92.84873949579831,
+   "ocr_low_conf_share": 0.025210084033613446,
+   "headline": "Lutnick says green card to change, DeSantis calls H-IB visas a scam",
+   "deck": "EXPLAINED",
+   "byline": "SHUBHAJIT ROY; CANBERRA, AUGUST 27",
+   "text": "AMID THE strain in ties, the Trump administration has opened a new front, targeting skilled Indian professionals on the H-1B visa programme, a move thatis expected tohit middle-class Indians in the US. Secretary of Commerce Howard Lutnick has said the US intends to modify the current immigration system, specifically the H-1B visa programme and green cards. He said the Trump\n\nBUSINESS AS USUAL\n\nWell-suited for\n\naccumulation\n\nECONOMICS H-1B VISA DEBATE IN U.S. paces\n\nadministration plans to introduce a \"gold card\" programme. It will allow wealthy foreigners to invest $5 million in exchange for US residency. \"I am involved in changing the H-1B visa programme. We are going to change that CONTINUEDON PAGE2",
+   "n_words": 112,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2283,
+      4094,
+      2574
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      2652,
+      3686,
+      2722
+     ],
+     [
+      3249,
+      2770,
+      3691,
+      3114
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "\u2018We are being lied to...\nresponding to request\nto hate each other\u2019",
+   "deck_raw": "",
+   "body_raw": "PAROMITA CHAKRABARTI\nNEW DELHI, AUGUST 27\n\nMOTHERHOOD, IN much of the\nsubcontinent\u2019s _ storytelling,\ncomes wrapped in sentiment \u2014\nashorthand for nurture and sac-\nrifice, for safe harbour, forthe first\nand most abiding of refuges.\nArundhati Roy,63, was not raised\ninside that fable. Her mother,\nCONTINUEDON PAGE 2",
+   "ocr_conf": 86.33333333333333,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "'We are being lied to... responding to request to hate each other'",
+   "deck": "",
+   "byline": "PAROMITA CHAKRABARTI; NEW DELHI, AUGUST 27",
+   "text": "MOTHERHOOD, IN much of the subcontinent's _ storytelling, comes wrapped in sentiment - ashorthand for nurture and sacrifice, for safe harbour, forthe first and most abiding of refuges. Arundhati Roy,63, was not raised inside that fable. Her mother, CONTINUEDON PAGE 2",
+   "n_words": 41,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      639,
+      5453,
+      887,
+      5584
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Scan to\nknow more or\ncontact your\nMFD/ RIA",
+   "ocr_conf": 95.11111111111111,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Scan to know more or contact your MFD/ RIA",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      383,
+      5748,
+      4110,
+      6043
+     ]
+    ],
+    "layout_words": 151,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "An Investor Education and Awareness Initiative | SIP - Systematic Investment Plan\nVisit https//www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only\ndeal with registered Mutual Funds, details of which can be verified on the SEB! website (www-sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the\nAMCs and/or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through\nthe SCORES portal on https//scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the\ncomplaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login.",
+   "ocr_conf": 93.49006622516556,
+   "ocr_low_conf_share": 0.026490066225165563,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "An Investor Education and Awareness Initiative SIP - Systematic Investment Plan Visit https//www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEB! website (www-sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and/or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through the SCORES portal on https//scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login.",
+   "n_words": 150,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 13.1,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

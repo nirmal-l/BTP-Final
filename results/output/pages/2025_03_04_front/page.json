@@ -1,0 +1,827 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_04_front",
+ "source_file": "2025-03-04_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-04_front.png",
+ "date": "2025-03-04",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 405,
+  "mean_line_conf": 83.94184150770896,
+  "orphan_words": 43,
+  "body_words_total": 1368
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Business As USUAL",
+   "ocr_conf": 65.0,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Business As USUAL",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      773,
+      1705,
+      1465
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      696,
+      1671,
+      754
+     ],
+     [
+      814,
+      1489,
+      1740,
+      1694
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      2371,
+      1087,
+      2399
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "Ukraine, trade\ntalks on table\nas Jaishankar\nvisits UK today",
+   "deck_raw": "6-DAY TRIP TO UK, IRELAND\nFrance proposes Russia-Ukraine truce\nfor one month, Britain distances itself\nKI!",
+   "body_raw": "SHUBHAJIT ROY",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Ukraine, trade talks on table as Jaishankar visits UK today",
+   "deck": "6-DAY TRIP TO UK, IRELAND France proposes Russia-Ukraine truce for one month, Britain distances itself KI!",
+   "byline": "SHUBHAJIT ROY",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      628,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      490,
+      886,
+      677,
+      1005
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ety ot be pace\nOsc 81 and Che\nNobet Peace ual\nlg\u201d some tO",
+   "ocr_conf": 43.214285714285715,
+   "ocr_low_conf_share": 0.7142857142857143,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ety ot be pace Osc 81 and Che Nobet Peace ual lg\" some tO",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      538,
+      1177,
+      576,
+      1208
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "-\nZz",
+   "ocr_conf": 39.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Zz",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1524,
+      761,
+      1929
+     ]
+    ],
+    "deck_boxes": [
+     [
+      324,
+      1449,
+      607,
+      1481
+     ]
+    ],
+    "body_boxes": [
+     [
+      563,
+      2015,
+      746,
+      2209
+     ],
+     [
+      323,
+      2331,
+      685,
+      2400
+     ],
+     [
+      317,
+      2452,
+      765,
+      4378
+     ]
+    ],
+    "layout_words": 263
+   },
+   "headline_raw": "Didn't allow\nstampede to be\nhighlighted to\navoid panic,\nsays UP CM",
+   "deck_raw": "MAHAKUMBH",
+   "body_raw": "Dismissed\nclaims of\nhigh water\npollutionat\nSangam\n\nBHUPENDRA PANDEY\nLUCKNOW. MARCH 3\n\nA MONTH after 30 people died\nin a stampede at the\nMahakumbh in Prayagraj, Uttar\nPradesh Chief Minister Yogi\nAdityanath said on Monday that\nhis government acted swiftly to\ncontrol the situation and did not\nallow the incident to be high-\nlighted \u201cas it could have caused\npanic\u201d among crores of devotees\npresent at the s@ onthat day.\nHe also dismissed claims\nbased on a Central Pollution\nControl Board report (CPCB)\nabout high levels of fecalcoliform\npresent in water samples taken\nat the Mahakumbh, stating that\nthe CPG too later accepted that\nthe levels were not high.\nAddressing a gathering of IIM\nand Indian Postal Service officials\nat an event on \u2018Nation Building\nthrough the Successful\nOrganisation of Mahakumbh\u2019,\nAdityanath spoke at length for\nthe first time about the stam-\npede that took place early on\nJanuary 29 on the occasion of\nMauni Amawasya, ahead of the\nholy bath in the river\n\u201cThe crowd islikewatercur-\nrent in a river.. whenever an at-\ntempt is made to stop the cur-\nrent, it will either force its way\nout or spread and cause damage.\nThis happened that night when\nthere wasa huge gathering pres-\nent at the site and everyone\nwanted to take the holy bath at\n4 am. Since Mauni Amawasya\nstarted at 7.30 pmonjanuary 28,\nthe crowd swelled and the inci-\ndent happened between 1 am\nand 1.30 am,\" he said.\n\u201cThere wasacrowd of 4 crore\npeople, including devotees, pres-\nent in the Mahakumbh area\nwhilea similarnumberof people\nCONTINUED ONPAGE 2",
+   "ocr_conf": 86.25855513307985,
+   "ocr_low_conf_share": 0.09885931558935361,
+   "headline": "Didn't allow stampede to be highlighted to avoid panic, says UP CM",
+   "deck": "MAHAKUMBH",
+   "byline": "BHUPENDRA PANDEY; LUCKNOW. MARCH 3",
+   "text": "Dismissed claims of high water pollutionat Sangam\n\nA MONTH after 30 people died in a stampede at the Mahakumbh in Prayagraj, Uttar Pradesh Chief Minister Yogi Adityanath said on Monday that his government acted swiftly to control the situation and did not allow the incident to be high-lighted \"as it could have caused panic\" among crores of devotees present at the s@ onthat day. He also dismissed claims based on a Central Pollution Control Board report (CPCB) about high levels of fecalcoliform present in water samples taken at the Mahakumbh, stating that the CPG too later accepted that the levels were not high. Addressing a gathering of IIM and Indian Postal Service officials at an event on 'Nation Building through the Successful Organisation of Mahakumbh', Adityanath spoke at length for the first time about the stampede that took place early on January 29 on the occasion of Mauni Amawasya, ahead of the holy bath in the river \"The crowd islikewatercurrent in a river.. whenever an attempt is made to stop the current, it will either force its way out or spread and cause damage. This happened that night when there wasa huge gathering present at the site and everyone wanted to take the holy bath at 4 am. Since Mauni Amawasya started at 7.30 pmonjanuary 28, the crowd swelled and the incident happened between 1 am and 1.30 am,\" he said. \"There wasacrowd of 4 crore people, including devotees, present in the Mahakumbh area whilea similarnumberof people",
+   "n_words": 247,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1792,
+      4139,
+      2336
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2765,
+      2582,
+      3123,
+      2637
+     ],
+     [
+      2765,
+      2760,
+      3208,
+      2813
+     ]
+    ],
+    "body_boxes": [
+     [
+      2762,
+      3132,
+      3173,
+      3303
+     ],
+     [
+      2763,
+      3341,
+      3202,
+      3418
+     ],
+     [
+      3247,
+      2413,
+      3696,
+      3470
+     ],
+     [
+      3741,
+      2571,
+      4172,
+      2688
+     ]
+    ],
+    "layout_words": 149
+   },
+   "headline_raw": "Who are the country\u2019s\nbest DMs? Express\nGovernance Awards\nto honour them today\nEXPRESSNEWSSERVICE pr => (M",
+   "deck_raw": "RELATED REPORT\nEXPRESS NETWORK >",
+   "body_raw": "MAYAWATI EXPELS\nNEPHEW FROM BSP:\n\u2018UNDER INFLUENCE\nOF FATHER-IN-LAW\u2019\n\n\u2018IIT BABA\u2019 ARRESTED\nWITH GANJAIN\n\nEMPOWERING STUDENTS in\nArunachal Pradesh with technol-\nogy so that the classroom be-\ncomesa hub for innovation, help-\ning farmers in Tamil Nadu take\ntheir produce to the world, float-\ningcommunity-based water con-\nservation efforts in Jharkhand,\nstarting projects for women in\nOdisha \u2014 these are some of the\nworks undertaken by District\nMagistrates across India that are\namong those to be acknowledged\nat The Indian Express Excellence\nin Governance Awards in New\nDelhi on Tuesday.\nThis isthe third editionofthe\nawards held every twoyears that\ncelebrate and showcase the\nworks of DMs who are at the\nforefrontof governanceinindia\nThis year\u2019s awards will be given\nover categories such as agnicul-\nture, sustainability, e-gover-\nnance, resource utilisation of\nCentral and Sate government\nCONTINUEDON PAGE 2\n\nChief Guest Union Minister\nAshwini Vaishnaw; Guest of\nHonour MoS Jitendra Singh",
+   "ocr_conf": 92.08053691275168,
+   "ocr_low_conf_share": 0.013422818791946308,
+   "headline": "Who are the country's best DMs? Express Governance Awards to honour them today",
+   "deck": "RELATED REPORT EXPRESS NETWORK >",
+   "byline": "MAYAWATI EXPELS; NEPHEW FROM BSP:; 'UNDER INFLUENCE; OF FATHER-IN-LAW'; 'IIT BABA' ARRESTED; WITH GANJAIN",
+   "text": "EMPOWERING STUDENTS in Arunachal Pradesh with technology so that the classroom becomesa hub for innovation, helping farmers in Tamil Nadu take their produce to the world, floatingcommunity-based water conservation efforts in Jharkhand, starting projects for women in Odisha - these are some of the works undertaken by District Magistrates across India that are among those to be acknowledged at The Indian Express Excellence in Governance Awards in New Delhi on Tuesday. This isthe third editionofthe awards held every twoyears that celebrate and showcase the works of DMs who are at the forefrontof governanceinindia This year's awards will be given over categories such as agniculture, sustainability, e-governance, resource utilisation of Central and Sate government CONTINUEDON PAGE 2\n\nChief Guest Union Minister Ashwini Vaishnaw; Guest of Honour MoS Jitendra Singh",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      1937,
+      3188,
+      2191
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2214,
+      2181,
+      2360
+     ],
+     [
+      1786,
+      2412,
+      2236,
+      2686
+     ],
+     [
+      2276,
+      2176,
+      2718,
+      2686
+     ],
+     [
+      2762,
+      2176,
+      3205,
+      2522
+     ]
+    ],
+    "layout_words": 136
+   },
+   "headline_raw": "PM\u2019s wildlife push: Cheetahs in more\nareas, lion survey, conservation plans",
+   "deck_raw": "",
+   "body_raw": "NIKHIL GHANEKAR\n& PARIMAL DABHI\nNEW DELHI, GANDHINAGAR,\nMARCH3\n\nPRIME MINISTER Narendra\nModi chaired his first meeting of\nthe National Board for Wildlife\n(NBWL) at theGir National Park\nin Junagadh district on Monday,\nwhere he announced plans to\nexpand Project Cheetah to\n\nGandhisagar Sanctuary in\nMadhya Pradesh and Banni\nGrasslands in Gujarat.\nModi made a slew of an-\nnouncements, including on\nStarting theAsiatic Lion popula-\ntion estimation exercisein May,\nsetting up a centre for effective\nmanagement of human-wildlife\nconflict, and new conservation\ninitiatives for gharials and Great\nIndian Bustards. The PM also re-\nviewed the govemment's flag-\n\nship wildlife conservation pro-\ngrammes like Project Lion and\nProject Cheetah,\nThis was the seventh meet-\ning of the NBWL, the apex body\nonwildlife conservation and de-\nvelopment. The last full-body\nNBWL meeting, with its 47\nCONTINUEDONPAGE 2",
+   "ocr_conf": 92.65925925925926,
+   "ocr_low_conf_share": 0.02962962962962963,
+   "headline": "PM's wildlife push: Cheetahs in more areas, lion survey, conservation plans",
+   "deck": "",
+   "byline": "NIKHIL GHANEKAR; & PARIMAL DABHI; NEW DELHI, GANDHINAGAR,; MARCH3",
+   "text": "PRIME MINISTER Narendra Modi chaired his first meeting of the National Board for Wildlife (NBWL) at theGir National Park in Junagadh district on Monday, where he announced plans to expand Project Cheetah to\n\nGandhisagar Sanctuary in Madhya Pradesh and Banni Grasslands in Gujarat. Modi made a slew of announcements, including on Starting theAsiatic Lion population estimation exercisein May, setting up a centre for effective management of human-wildlife conflict, and new conservation initiatives for gharials and Great Indian Bustards. The PM also reviewed the govemment's flagship wildlife conservation programmes like Project Lion and Project Cheetah, This was the seventh meeting of the NBWL, the apex body onwildlife conservation and development. The last full-body NBWL meeting, with its 47 CONTINUEDONPAGE 2",
+   "n_words": 119,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      2412,
+      1113,
+      2464
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      2493,
+      1253,
+      2874
+     ]
+    ],
+    "layout_words": 50
+   },
+   "headline_raw": "NEW DELHI, MARCH3",
+   "deck_raw": "",
+   "body_raw": "DAYS AFTER UK Prime Minister\nKeir Starmer hosted an emer-\ngency meeting of European lead-\ners in support of Ukraine and its\nPresident Volodymyr Zelenskyy\n\u2014 after the latter's public show-\ndown with US President Donald\nTrump and Vice-President J D\nVance at the White House \u2014\nExternal Affairs Minister",
+   "ocr_conf": 86.88,
+   "ocr_low_conf_share": 0.1,
+   "headline": "NEW DELHI, MARCH3",
+   "deck": "",
+   "byline": "",
+   "text": "DAYS AFTER UK Prime Minister Keir Starmer hosted an emergency meeting of European leaders in support of Ukraine and its President Volodymyr Zelenskyy - after the latter's public showdown with US President Donald Trump and Vice-President J D Vance at the White House - External Affairs Minister",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1459,
+      2426,
+      1696,
+      2523
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1330,
+      2572,
+      1713,
+      3082
+     ]
+    ],
+    "layout_words": 47
+   },
+   "headline_raw": "Diplomatic\n|@ tightrope",
+   "deck_raw": "",
+   "body_raw": "AFTER THE acrimonious\nmeeting between US\nPresident Donald Trump\nand Ukraine President\nVolodymyr Zelenskyy, the\nLondon summit signalled\nsupport for Kyiv. With the\nworld's gaze on Europe's\nnext steps, Extemal Affairs\nMinister S Jaishankar's visit\nwill be watched and Delhi's\ndiplomatic tightrope walk\nwill be put to test.",
+   "ocr_conf": 88.875,
+   "ocr_low_conf_share": 0.041666666666666664,
+   "headline": "Diplomatic @ tightrope",
+   "deck": "",
+   "byline": "",
+   "text": "AFTER THE acrimonious meeting between US President Donald Trump and Ukraine President Volodymyr Zelenskyy, the London summit signalled support for Kyiv. With the world's gaze on Europe's next steps, Extemal Affairs Minister S Jaishankar's visit will be watched and Delhi's diplomatic tightrope walk will be put to test.",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      2750,
+      2713,
+      3116
+     ],
+     [
+      1831,
+      3111,
+      2641,
+      3293
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1831,
+      3788,
+      2571,
+      3881
+     ],
+     [
+      1785,
+      3948,
+      2226,
+      4106
+     ],
+     [
+      2275,
+      3956,
+      2716,
+      4380
+     ],
+     [
+      1784,
+      4156,
+      2230,
+      4387
+     ]
+    ],
+    "layout_words": 122
+   },
+   "headline_raw": "Why market fall hurts:\nEquity a mass product,\nspread deep and wide\nSTEADY UPTICK IN SMALL-TOWN INDIA .\nC1 Industry AAUM* (8er) ~ g 5\nW@Shaeof N . 2",
+   "deck_raw": "",
+   "body_raw": "*Aveiage ass i uncer inaiageme ni af the endofquarter\n**As per Association of Mutual Funds in iidia, usese are cities be yond\nlop 10 Gis coi niuiaig te iInGaiiuin AUM\n\nSANDEEP SINGH\n& ANIL SASI\nMUMBAI. NEW DELHI, MARCH3\n\nhaving an outsized impact on a\nlarge number of people, given\nhow the investor community\nhas burgeoned, spreading deep\nand wide into the country.\nIn fact, Finance Minister\nNirmala Sitharaman had just a\nmonth ago in the Budget on\nFebruary 1, extended to thesein-\nvestors, many of them taxpayers,\nCONTINUEDON PAGE2\n\nTHE SHARP AND continuous\nstock market slide, with Nifty\nand Sensexdropping 15 percent\norso inthe last fvemonths, may\nnot be extraordinary in terms of\nthe quantum of decline, butis",
+   "ocr_conf": 80.45378151260505,
+   "ocr_low_conf_share": 0.19327731092436976,
+   "headline": "Why market fall hurts: Equity a mass product, spread deep and wide STEADY UPTICK IN SMALL-TOWN INDIA. C1 Industry AAUM* (8er) ~ g 5",
+   "deck": "",
+   "byline": "SANDEEP SINGH; & ANIL SASI; MUMBAI. NEW DELHI, MARCH3",
+   "text": "*Aveiage ass i uncer inaiageme ni af the endofquarter **As per Association of Mutual Funds in iidia, usese are cities be yond lop 10 Gis coi niuiaig te iInGaiiuin AUM\n\nhaving an outsized impact on a large number of people, given how the investor community has burgeoned, spreading deep and wide into the country. In fact, Finance Minister Nirmala Sitharaman had just a month ago in the Budget on February 1, extended to theseinvestors, many of them taxpayers, CONTINUEDON PAGE2\n\nTHE SHARP AND continuous stock market slide, with Nifty and Sensexdropping 15 percent orso inthe last fvemonths, may not be extraordinary in terms of the quantum of decline, butis",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2882,
+      1251,
+      2941
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2965,
+      1252,
+      3113
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "SJaishankar is headed to London\ntomeet the pritich sovemmenr\u2019s",
+   "deck_raw": "",
+   "body_raw": "leadership, including Foreign\nSecretary David Lammy.\nAnnouncing the visit, the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 95.07142857142857,
+   "ocr_low_conf_share": 0.0,
+   "headline": "SJaishankar is headed to London tomeet the pritich sovemmenr's",
+   "deck": "",
+   "byline": "",
+   "text": "leadership, including Foreign Secretary David Lammy. Announcing the visit, the",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3264,
+      1727,
+      3611
+     ],
+     [
+      811,
+      3598,
+      1235,
+      3681
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      3681,
+      1112,
+      3731
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      3758,
+      1253,
+      4386
+     ],
+     [
+      1299,
+      3914,
+      1711,
+      3987
+     ],
+     [
+      1295,
+      4076,
+      1743,
+      4379
+     ]
+    ],
+    "layout_words": 106
+   },
+   "headline_raw": "Cong leader sparks row\nwith Rohit post; BCCI\nand minister hit back\nEXPRESS NEWS SERVICE",
+   "deck_raw": "NEW DELHI,MARCH 3",
+   "body_raw": "ABOUT 24 hours before India\ncaptain Rohit Sharma walks out\nfor the toss for the Champions\nLeague semi-final against\nAustraliain Dubai onTuesday, a\nsocial media post about his\nweight triggered a political\nslugfest at home.\nItall started with Congressna-\ntional spokesperson Shama\nMohamed calling Sharma \u201cfat for\nasportsperson\u201d.Even as the party\ndistanced itself and said it had\nasked Mohamed to delete the\npost, Sports Minister Mansukh\nMandaviya saidthe \u201cbody-sham-\n\nCong spokespersonShama\nMohamed; Rohit Sharma\n\ning\u201d comments were \u201cdeeply\nshameful\" and the Board of\nControl for Cricket in India (BCCI)\ncalled it \u201cunfortunate\u201d.\nMohamed, however, didn't\nagree that she had \u201cbody-\nshamed\u201d Sharma. \u201cItis ageneric\nCONTINUEDONPAGE2",
+   "ocr_conf": 90.34285714285714,
+   "ocr_low_conf_share": 0.02857142857142857,
+   "headline": "Cong leader sparks row with Rohit post; BCCI and minister hit back EXPRESS NEWS SERVICE",
+   "deck": "NEW DELHI,MARCH 3",
+   "byline": "",
+   "text": "ABOUT 24 hours before India captain Rohit Sharma walks out for the toss for the Champions League semi-final against Australiain Dubai onTuesday, a social media post about his weight triggered a political slugfest at home. Itall started with Congressnational spokesperson Shama Mohamed calling Sharma \"fat for asportsperson\".Even as the party distanced itself and said it had asked Mohamed to delete the post, Sports Minister Mansukh Mandaviya saidthe \"body-sham-\n\nCong spokespersonShama Mohamed; Rohit Sharma\n\ning\" comments were \"deeply shameful\" and the Board of Control for Cricket in India (BCCI) called it \"unfortunate\". Mohamed, however, didn't agree that she had \"body-shamed\" Sharma. \"Itis ageneric CONTINUEDONPAGE2",
+   "n_words": 103,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3434,
+      3140,
+      3483
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      3501,
+      3167,
+      3674
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "JAIPUR; GETS BAIL",
+   "deck_raw": "",
+   "body_raw": "U.P. WOMAN, HELD\nGUILTY OF MURDER,\nEXECUTED IN UAE\nPAGES 3,8",
+   "ocr_conf": 95.27272727272727,
+   "ocr_low_conf_share": 0.0,
+   "headline": "JAIPUR; GETS BAIL",
+   "deck": "",
+   "byline": "U.P. WOMAN, HELD; GUILTY OF MURDER,; EXECUTED IN UAE; PAGES 3,8",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      4451,
+      2686,
+      4684
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1784,
+      4667,
+      2226,
+      4723
+     ]
+    ],
+    "body_boxes": [
+     [
+      1294,
+      4827,
+      1740,
+      5059
+     ],
+     [
+      1781,
+      4710,
+      2227,
+      5060
+     ],
+     [
+      2272,
+      4670,
+      2716,
+      5052
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "On the ground, in makhana fields of\nBihar, Budget promise holds out hope",
+   "deck_raw": "(He wentinside to pick makhana\ncaanle: naver came in)\" mralle",
+   "body_raw": "SOME years ago, Joginder\nMukhiya, 45, took adipina pond,\nbut never came back. A few hours\nlater, his fellow workers found his\nbody. \u201cMakhana nikalne paani ke\nandar gnye the, andarhireh gnye...\n\nseeds: never came up),\u201d recalls\nJoginder's neighbour Sharwan\nMukhiya, 29, a makhana farmer\nfrom Mahisi village of Bihar's\nSaharsa district.\nin Bihar, astate that accounts\nfor 85 per centof the country's\nmakhana production, farming\npractices for the crop have seen\n\nfew advancements, oftentied to\nlaborious traditional practices\nthat are fraught with risks and\npoor pay. Yet, for the generations\nof mallahs (acommunity of fish-\nermen) in the state's riverine\nbelts of Kosi and Mithanchal. it's\nthe only livelihood they have\nknown. The makhana\u2019s recent\nCON TINUEDON PAGE2",
+   "ocr_conf": 88.6470588235294,
+   "ocr_low_conf_share": 0.07563025210084033,
+   "headline": "On the ground, in makhana fields of Bihar, Budget promise holds out hope",
+   "deck": "(He wentinside to pick makhana caanle: naver came in)\" mralle",
+   "byline": "",
+   "text": "SOME years ago, Joginder Mukhiya, 45, took adipina pond, but never came back. A few hours later, his fellow workers found his body. \"Makhana nikalne paani ke andar gnye the, andarhireh gnye...\n\nseeds: never came up),\" recalls Joginder's neighbour Sharwan Mukhiya, 29, a makhana farmer from Mahisi village of Bihar's Saharsa district. in Bihar, astate that accounts for 85 per centof the country's makhana production, farming practices for the crop have seen\n\nfew advancements, oftentied to laborious traditional practices that are fraught with risks and poor pay. Yet, for the generations of mallahs (acommunity of fish-ermen) in the state's riverine belts of Kosi and Mithanchal. it's the only livelihood they have known. The makhana's recent CON TINUEDON PAGE2",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      4557,
+      793,
+      4668
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BestActor: Best Actress:\nAdrienBrody, \u00a7 MikeyMadison,\nThe Brutalist Anora",
+   "ocr_conf": 70.44444444444444,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "BestActor: Best Actress: AdrienBrody, \u00a7 MikeyMadison, The Brutalist Anora",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      417,
+      4489,
+      1153,
+      4522
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\u2018ANORA\u2019 DOMINATES OSCARS NIGHT",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "'ANORA' DOMINATES OSCARS NIGHT",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      924,
+      4627,
+      1199,
+      4894
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "be Best\n> Director:\n= Sean Baker,\nwe Ano. He\n) also won the\n$ B-@ best original\n4 screenplay",
+   "ocr_conf": 64.05,
+   "ocr_low_conf_share": 0.35,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "be Best > Director: = Sean Baker, we Ano. He ) also won the $ B-@ best original 4 screenplay",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      5197,
+      2669,
+      5471
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1309,
+      5558,
+      1612,
+      5671
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      5462,
+      502,
+      5537
+     ],
+     [
+      321,
+      5655,
+      623,
+      5727
+     ],
+     [
+      318,
+      5777,
+      766,
+      6159
+     ],
+     [
+      805,
+      5460,
+      1250,
+      6167
+     ],
+     [
+      2271,
+      5461,
+      2717,
+      6161
+     ]
+    ],
+    "layout_words": 256
+   },
+   "headline_raw": "She lost her baby but is nursing 30 at AITMS new\nmilk bank: \u2018My child didn\u2019t need it, others did\u2019",
+   "deck_raw": "Sra BULOn\nMeems + see @ Um\nave epew\nCamnperesenn La ls ms Oe agp card ( ee",
+   "body_raw": "PAGE1\nANCHOR\n\nANONNA DUTT\nNEW DELHI,.MARCH3\n\nIN JANUARY last year, Jyoti\nMaan\u2019s baby was bom prema-\nture at week 29, weighing a\nmere 780 grams. As the new-\nborn battled it out for nine\nmonths in the neonatal ICU of\nAIIMS, Delhi, Jyoti, lactating and\nseparated from her baby, do-\nnated nearly 25 litres of her\nbreast milkto the new milk bank\n\nat AIIMS. While Jyoti lost her\nbaby at the end of those trau-\nmatic nine months, she ended\nup being alifesaver for nearty 30\nnewboms.\nJyoti says that when her baby\nwas bom, he was put on ventila-\ntor support and needed very lit-\ntleofher milk. \u201cAs was lactating,\nthe nurses from the AIIMS milk\nbank asked meif I could give my\nexcess milk to other babies who\nneeded it. Since my baby didn't\nneed so much milk, | decided to\nhelpothermothers instead of let-\ntingit go waste,\u201d she says.\nPayodhi, the milk bank at Al-\nIMS that was inaugurated in\n\nFebruary, reliesondonor moth-\ners like Jyoti for the pre-term ba-\nbies \u2014 those born before 32\nweeks or weighing less than 1.5\nkg\u2014under itscare. Setupas part\nof the Health Ministry's guide-\nlines to open more lactation\nmanagement centres, the facil-\nity at AIIMS is the second breast\nmilk bank ina public hospitalin\nDelhi and one of only 90 such\ncentres across the country.\nDoctors and public health\nspecialists say milk banks can\nplay a key role in reducing\nneonatal deaths \u2014 in India, an es-\ntimated 5.8 lakh newboms die\nCONTINUEDON PAGE2",
+   "ocr_conf": 90.34117647058824,
+   "ocr_low_conf_share": 0.03529411764705882,
+   "headline": "She lost her baby but is nursing 30 at AITMS new milk bank: 'My child didn't need it, others did'",
+   "deck": "Sra BULOn Meems + see @ Um ave epew Camnperesenn La ls ms Oe agp card ( ee",
+   "byline": "ANCHOR; ANONNA DUTT; NEW DELHI,.MARCH3",
+   "text": "IN JANUARY last year, Jyoti Maan's baby was bom premature at week 29, weighing a mere 780 grams. As the newborn battled it out for nine months in the neonatal ICU of AIIMS, Delhi, Jyoti, lactating and separated from her baby, donated nearly 25 litres of her breast milkto the new milk bank\n\nat AIIMS. While Jyoti lost her baby at the end of those traumatic nine months, she ended up being alifesaver for nearty 30 newboms. Jyoti says that when her baby was bom, he was put on ventilator support and needed very littleofher milk. \"As was lactating, the nurses from the AIIMS milk bank asked meif I could give my excess milk to other babies who needed it. Since my baby didn't need so much milk, decided to helpothermothers instead of lettingit go waste,\" she says. Payodhi, the milk bank at Al-IMS that was inaugurated in\n\nFebruary, reliesondonor mothers like Jyoti for the pre-term babies - those born before 32 weeks or weighing less than 1.5 kg - under itscare. Setupas part of the Health Ministry's guide-lines to open more lactation management centres, the facility at AIIMS is the second breast milk bank ina public hospitalin Delhi and one of only 90 such centres across the country. Doctors and public health specialists say milk banks can play a key role in reducing neonatal deaths - in India, an estimated 5.8 lakh newboms die CONTINUEDON PAGE2",
+   "n_words": 237,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 16.3,
+ "flags": []
+}

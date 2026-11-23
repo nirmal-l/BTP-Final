@@ -1,0 +1,5 @@
+.env
+scraper/session_cookies.json
+scraper/storage_state.json
+scraper/debug/
+raw_scraped/

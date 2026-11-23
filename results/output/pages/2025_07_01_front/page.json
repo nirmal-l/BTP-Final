@@ -1,0 +1,903 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_01_front",
+ "source_file": "2025-07-01_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-01_front.png",
+ "date": "2025-07-01",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 480,
+  "mean_line_conf": 89.65525479576466,
+  "orphan_words": 113,
+  "body_words_total": 1854
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      786,
+      3145,
+      1171
+     ],
+     [
+      811,
+      1211,
+      1641,
+      1342
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      2597,
+      745
+     ],
+     [
+      1816,
+      1251,
+      2126,
+      1294
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1421,
+      1154,
+      1493
+     ],
+     [
+      806,
+      1542,
+      1252,
+      2051
+     ],
+     [
+      1297,
+      1383,
+      1742,
+      2044
+     ],
+     [
+      1816,
+      1328,
+      2122,
+      1616
+     ],
+     [
+      1816,
+      1647,
+      2184,
+      2014
+     ]
+    ],
+    "layout_words": 203
+   },
+   "headline_raw": "Indian negotiators extend US stay in\nattempt to seal an interim trade deal\nBoth sides ironing out differences,\nespecially over agriculture, dairy",
+   "deck_raw": "90-DAY PAUSE ON RECIPROCAL TARIFFS ENDS ON JULY 9\nTHE FINAL ROUND",
+   "body_raw": "RAVIDUTTA MISHRA\nNEW DELHI, JUNE 30\n\nWITH THE US reciprocal tariffs\npause set to run out on July 9,\nIndian trade negotiators are\nlearnt to have extended their\nvisit to Washington ina bid tore-\nsolve differences, particularly\nover sensitive issues such as agri-\nculture, and to finalise negotia-\ntions for an interim trade deal.\nThe ongoing round of talks\nassumes significance as the US\nhas announced the conclusion of\ntalks with China that had begun\n\nmuch later than those with India\nbut have resulted in a significant\neasing of tensions between the\ntwo countries. Indian businesses\nhad begun benefitting from the\nsteeper duties imposed on\nChinese products compared to\nthose on Indian goods.\nWhile India is seeking the\nelimination of reciprocal tariffs\nand additional duties such as\nthose on steel, aluminium, and\nauto components \u2014 along with\nassurances that no future tariffs\nwill be imposed \u2014 the US is seek-\ning a broad-based opening of\nCONTINUED ON PAGE 2\n\nWHAT INDIA WANTS\nElimination of\nreciprocal tariffs,\nadditional duties\n@ Assurance that no\nfuture tariffs willbe\nimposed\n\nWHATU.S. WANTS\n@ Broad-based opening\nof Indian sectors, from\nautomobiles, whisky to\nagricultural items\n@ Access to Indian\nmarket for GM products,\nremoval of regulations\nrelating todairy products",
+   "ocr_conf": 91.70098039215686,
+   "ocr_low_conf_share": 0.029411764705882353,
+   "headline": "Indian negotiators extend US stay in attempt to seal an interim trade deal Both sides ironing out differences, especially over agriculture, dairy",
+   "deck": "90-DAY PAUSE ON RECIPROCAL TARIFFS ENDS ON JULY 9 THE FINAL ROUND",
+   "byline": "RAVIDUTTA MISHRA; NEW DELHI, JUNE 30",
+   "text": "WITH THE US reciprocal tariffs pause set to run out on July 9, Indian trade negotiators are learnt to have extended their visit to Washington ina bid tore-solve differences, particularly over sensitive issues such as agriculture, and to finalise negotiations for an interim trade deal. The ongoing round of talks assumes significance as the US has announced the conclusion of talks with China that had begun\n\nmuch later than those with India but have resulted in a significant easing of tensions between the two countries. Indian businesses had begun benefitting from the steeper duties imposed on Chinese products compared to those on Indian goods. While India is seeking the elimination of reciprocal tariffs and additional duties such as those on steel, aluminium, and auto components - along with assurances that no future tariffs will be imposed - the US is seeking a broad-based opening of\n\nWHAT INDIA WANTS Elimination of reciprocal tariffs, additional duties @ Assurance that no future tariffs willbe imposed\n\nWHATU.S. WANTS @ Broad-based opening of Indian sectors, from automobiles, whisky to agricultural items @ Access to Indian market for GM products, removal of regulations relating todairy products",
+   "n_words": 190,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      373,
+      823,
+      691,
+      975
+     ]
+    ],
+    "layout_words": 13,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY\nHow come Free Citizen veadily\nbetieves a digital fraudster",
+   "ocr_conf": 78.9090909090909,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY How come Free Citizen veadily betieves a digital fraudster",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      1208,
+      3150,
+      1519
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      1582,
+      2679,
+      1652
+     ],
+     [
+      2274,
+      1700,
+      2715,
+      2052
+     ],
+     [
+      2764,
+      1543,
+      3204,
+      2045
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "Teams across the table,\nDelhi seeks zero tariff\non export of electronic:",
+   "deck_raw": "",
+   "body_raw": "SOUMYARENDRABARIK\nNEW DELHI, JUNE 30\n\nAS PART of its ongoing trade\ntalks with the US, India has\nsought a zero-tariff structureon\nexportof electronics itemsto the\ncountry, even as President\nDonald Trump has raised con-\ncems around import of gadgets\nlike the iPhone from India, and\nhas threatened toslap additional\n\ntariffs on Apple if it sells foreign\nmade phones in the country.\n\u201cWe have sought zero duty\non electronics exports to the US\nand our negotiators are currently\ndiscussing how tooperationalise\nthat,\u201d a senior government offi-\ncial told The Indian Express re-\nquesting anonymity since the\ndiscussions arecurrently private.\nAs part of his wide ranging\ntariffaction in April, Trump had\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.71681415929204,
+   "ocr_low_conf_share": 0.035398230088495575,
+   "headline": "Teams across the table, Delhi seeks zero tariff on export of electronic:",
+   "deck": "",
+   "byline": "SOUMYARENDRABARIK; NEW DELHI, JUNE 30",
+   "text": "AS PART of its ongoing trade talks with the US, India has sought a zero-tariff structureon exportof electronics itemsto the country, even as President Donald Trump has raised concems around import of gadgets like the iPhone from India, and has threatened toslap additional\n\ntariffs on Apple if it sells foreign made phones in the country. \"We have sought zero duty on electronics exports to the US and our negotiators are currently discussing how tooperationalise that,\" a senior government official told The Indian Express requesting anonymity since the discussions arecurrently private. As part of his wide ranging tariffaction in April, Trump had",
+   "n_words": 101,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1367,
+      4157,
+      1750
+     ],
+     [
+      3252,
+      1777,
+      4136,
+      1908
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      1979,
+      3676,
+      2085
+     ],
+     [
+      3248,
+      2137,
+      3695,
+      3003
+     ]
+    ],
+    "layout_words": 111
+   },
+   "headline_raw": "Power tussle out in\nopen in Karnataka,\nCong brass steps in\nSiddaramaiah vs Shivakumar again,\nSurjewala to meet party MLAs, MLCs",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nBENGALURU, NEW DELHI,\nJUNE 30\n\nWITH THE power struggle in\nKarnataka between Chief\nMinister Siddaramaiah and state\nCongress president and Deputy\nChief Minister D K Shivakumar\nshowing signs of escalating, the\nCongress central leadership\nstepped in Monday, deputing\nAICC general secretary Randeep\nSurjewala to take stock of the sit-\nuation, a move which inciden-\ntallyraised hopes in both camps.\nDuring his three-day visit to\nKarnataka, Surjewala plans to in-\nteract with all the MLAs and\nMLCs, district Congress presi-\ndents, candidates who were de-\nfeated in Assembly and Lok\nSabha elections and other lead-\ners to understand their problems,\nconcerns and demands, relating\nto both governance and politics.",
+   "ocr_conf": 92.71171171171171,
+   "ocr_low_conf_share": 0.018018018018018018,
+   "headline": "Power tussle out in open in Karnataka, Cong brass steps in Siddaramaiah vs Shivakumar again, Surjewala to meet party MLAs, MLCs",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; BENGALURU, NEW DELHI,; JUNE 30",
+   "text": "WITH THE power struggle in Karnataka between Chief Minister Siddaramaiah and state Congress president and Deputy Chief Minister D K Shivakumar showing signs of escalating, the Congress central leadership stepped in Monday, deputing AICC general secretary Randeep Surjewala to take stock of the situation, a move which incidentallyraised hopes in both camps. During his three-day visit to Karnataka, Surjewala plans to interact with all the MLAs and MLCs, district Congress presidents, candidates who were defeated in Assembly and Lok Sabha elections and other leaders to understand their problems, concerns and demands, relating to both governance and politics.",
+   "n_words": 97,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1486,
+      762,
+      1526
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": ", aan) a Ser",
+   "ocr_conf": 18.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": ", aan) a Ser",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1873,
+      762,
+      2086
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SAJAD LONE, JAMAAT\nFACTION IN NEW J&K\nALLIANCE, TO PUSH\nFOR STATEHOOD\nPAGE 5",
+   "ocr_conf": 87.78571428571429,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "",
+   "deck": "",
+   "byline": "SAJAD LONE, JAMAAT; FACTION IN NEW J&K; ALLIANCE, TO PUSH; FOR STATEHOOD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3784,
+      2141,
+      4128,
+      2210
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3754,
+      2030,
+      4091,
+      2127
+     ]
+    ],
+    "body_boxes": [
+     [
+      3784,
+      2218,
+      4134,
+      2766
+     ],
+     [
+      3738,
+      2849,
+      4182,
+      2997
+     ]
+    ],
+    "layout_words": 77
+   },
+   "headline_raw": "THE RULING Congress in",
+   "deck_raw": "Ee z The war\nis @ within",
+   "body_raw": "Kamataka is divided into\ntwocamps, one which\nwants Siddaramaiah to\ncontinue as CM and the\nother which wants him\nto make way for\nShivakumar, his deputy\nwho is also the state PCC\nchief. The Shivakumar\ncamp insists there was a\npact to share power mid-\nway through the govern-\nment's term \u2014 aclaim\nthe CM's camp rejects.\n\nHis decision to meet the\nMLAs and MLCs was immedi-\nately seen by various sections of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.83116883116882,
+   "ocr_low_conf_share": 0.03896103896103896,
+   "headline": "THE RULING Congress in",
+   "deck": "Ee z The war is @ within",
+   "byline": "",
+   "text": "Kamataka is divided into twocamps, one which wants Siddaramaiah to continue as CM and the other which wants him to make way for Shivakumar, his deputy who is also the state PCC chief. The Shivakumar camp insists there was a pact to share power midway through the government's term - aclaim the CM's camp rejects.\n\nHis decision to meet the MLAs and MLCs was immediately seen by various sections of",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2197,
+      1242,
+      2643
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3322,
+      745,
+      3432
+     ],
+     [
+      318,
+      3480,
+      763,
+      4030
+     ],
+     [
+      809,
+      3283,
+      1249,
+      4023
+     ]
+    ],
+    "layout_words": 170
+   },
+   "headline_raw": "Weighing 337 tonnes,\nUnion Carbide waste\nincinerated, residue\nburial in landfill cells",
+   "deck_raw": "",
+   "body_raw": "ANAND MOHAN J\n& NIKHILGHANEKAR\nBHOPAL, NEW DELHI, JUNE 30\n\nTHE ENTIRE 337 tonnes of waste\nfrom the now-defunct Union\nCarbide factory in Bhopal has\nbeen incinerated, officials said\non Monday.\nBhopal Gas Tragedy Relief\nand Rehabilitation director\nSwatantra Kumar Singh told The\nIndian Express, \u201cThe pollution\nboard officials have informed us\nthat all the waste has been dis-\nposed of as per protocol.\u201d\nMore than 40 years after the\nBhopal gas tragedy, the process\n\nof relocating the toxic waste\nfrom Bhopal's Union Carbide fac-\ntory began on January 1, when\n12 containers carrying 337 met-\nric tonnes of hazardous waste\nleft for a private disposal plantin\nPithampur run by the firm\nRe Sustainability,\nThis came after the Madhya\nPradesh High Court on\nDecember 3 set a four-week\ndeadline for the authorities to\ndispose of the waste. On\nDecember 5, the HC pulled up\nthe state government over the\nlack of progress, observing that\nthe authorities were \u201cstill in a\nstate of inertia despite 40 years\u201d\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.12941176470588,
+   "ocr_low_conf_share": 0.011764705882352941,
+   "headline": "Weighing 337 tonnes, Union Carbide waste incinerated, residue burial in landfill cells",
+   "deck": "",
+   "byline": "ANAND MOHAN J; & NIKHILGHANEKAR; BHOPAL, NEW DELHI, JUNE 30",
+   "text": "THE ENTIRE 337 tonnes of waste from the now-defunct Union Carbide factory in Bhopal has been incinerated, officials said on Monday. Bhopal Gas Tragedy Relief and Rehabilitation director Swatantra Kumar Singh told The Indian Express, \"The pollution board officials have informed us that all the waste has been disposed of as per protocol.\" More than 40 years after the Bhopal gas tragedy, the process\n\nof relocating the toxic waste from Bhopal's Union Carbide factory began on January 1, when 12 containers carrying 337 metric tonnes of hazardous waste left for a private disposal plantin Pithampur run by the firm Re Sustainability, This came after the Madhya Pradesh High Court on December 3 set a four-week deadline for the authorities to dispose of the waste. On December 5, the HC pulled up the state government over the lack of progress, observing that the authorities were \"still in a state of inertia despite 40 years\"",
+   "n_words": 153,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1306,
+      2284,
+      3196,
+      2534
+     ],
+     [
+      1345,
+      2570,
+      3154,
+      2702
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1673,
+      2204,
+      2826,
+      2248
+     ]
+    ],
+    "body_boxes": [
+     [
+      1296,
+      2768,
+      1658,
+      2914
+     ],
+     [
+      1295,
+      2967,
+      1738,
+      3864
+     ],
+     [
+      1296,
+      3876,
+      1736,
+      4028
+     ],
+     [
+      1786,
+      2789,
+      2179,
+      2829
+     ],
+     [
+      1785,
+      3641,
+      2225,
+      3872
+     ],
+     [
+      2273,
+      3641,
+      2714,
+      3872
+     ],
+     [
+      1822,
+      3929,
+      2675,
+      4004
+     ],
+     [
+      2759,
+      3642,
+      3202,
+      4025
+     ]
+    ],
+    "layout_words": 273
+   },
+   "headline_raw": "Opening balance barely 500; %3.72 cr in,\n3,33 cr out, all in a day \u2014 no one noticed\nThis faceless outfit with East Delhi address is at heart of probes in 6 states;\nbanks claim they follow process, KYC norms, but how red flags are ignored",
+   "deck_raw": "AN EXPRESS INVESTIGATION - PART 2",
+   "body_raw": "RITU SARIN\nNEW DELHI, JHAJJAR\n(HARYANA), HYDERABAD,\nJUNE30\n\nA BLUE signboard saying\n\u201cJeevika Foundation\u201d hung out-\nside the flat till about a year ago,\nsay neighbors near the A Block\nparking lot of the resettlement\ncolony in East Delhi's Trilokpuri,\nNo one knows who put the\nboard up, or who removed it \u2014\nthe flat has been unoccupied for\nlong, they say.\nWhat they also don't know is\nthat this faceless outfit with the\nmissing signboard stands today\nas a symbol of how leading\nbanks and their officials who are\nmeant to track money flows\ndropped the ball even as cyber\nscamsters passed crores of stolen\nmoney right under their noses\nthrough ghost accounts opened\nby fictitious outfits, an investiga-\ntion by The Indian Express has\nfound.\n\nOfficials at HDFC Bank's Karol\nBagh branch in Delhi, where\n\u201cJeevika Foundation\u201d opened an\naccount in October 2023,\n\nr- et *>\n\nclaimed they followed due\nprocess, including KYC norms, at\nthe time. But there were no an-\nswers to questions on how large\nsums of money were subse-\nquently transferred through this\n\naccount without red flags being\nraised \u2014 until the police came\nknocking.\nConsider the numbers that\ncame up in Jeevika's bank state-\nment on just onescam day:\n\nTOMORROW: STOLEN & VANISHED: WHY MONEY\nLOST MAY BE GONE FOREVER\n\n@ On August 8, 2024, there\nwere 1,960 transactions in the\naccount with Rs3.72 crore cred-\nited and Rs 3.33 crore debited.\nThe opening balance for that\nday: Rs 556. Police recordsshow\nthis was the day when a 78-year-\nold retired IAF officer, Biren\nYadav, was ensnared in a digital\nCONTINUED ON PAGE7",
+   "ocr_conf": 91.58518518518518,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "Opening balance barely 500; %3.72 cr in, 3,33 cr out, all in a day - no one noticed This faceless outfit with East Delhi address is at heart of probes in 6 states; banks claim they follow process, KYC norms, but how red flags are ignored",
+   "deck": "AN EXPRESS INVESTIGATION - PART 2",
+   "byline": "RITU SARIN; NEW DELHI, JHAJJAR; (HARYANA), HYDERABAD,; JUNE30",
+   "text": "A BLUE signboard saying \"Jeevika Foundation\" hung outside the flat till about a year ago, say neighbors near the A Block parking lot of the resettlement colony in East Delhi's Trilokpuri, No one knows who put the board up, or who removed it - the flat has been unoccupied for long, they say. What they also don't know is that this faceless outfit with the missing signboard stands today as a symbol of how leading banks and their officials who are meant to track money flows dropped the ball even as cyber scamsters passed crores of stolen money right under their noses through ghost accounts opened by fictitious outfits, an investigation by The Indian Express has found.\n\nOfficials at HDFC Bank's Karol Bagh branch in Delhi, where \"Jeevika Foundation\" opened an account in October 2023,\n\nclaimed they followed due process, including KYC norms, at the time. But there were no answers to questions on how large sums of money were subsequently transferred through this\n\naccount without red flags being raised - until the police came knocking. Consider the numbers that came up in Jeevika's bank statement on just onescam day:\n\nTOMORROW: STOLEN & VANISHED: WHY MONEY LOST MAY BE GONE FOREVER\n\n@ On August 8, 2024, there were 1,960 transactions in the account with Rs3.72 crore credited and Rs 3.33 crore debited. The opening balance for that day: Rs 556. Police recordsshow this was the day when a 78-yearold retired IAF officer, Biren Yadav, was ensnared in a digital",
+   "n_words": 249,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3861,
+      4171,
+      4196
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      4225,
+      3683,
+      4481
+     ],
+     [
+      3249,
+      4551,
+      3543,
+      4621
+     ],
+     [
+      3245,
+      4669,
+      3693,
+      5137
+     ],
+     [
+      3970,
+      4233,
+      4110,
+      4262
+     ],
+     [
+      3835,
+      4312,
+      4090,
+      4348
+     ]
+    ],
+    "layout_words": 79
+   },
+   "headline_raw": "PM heading to BRICS,\ndeclaration on terror\nto factor in Pahalgam",
+   "deck_raw": "",
+   "body_raw": "Must counter\nstate-sponsored\nterror: Jaishankar\nin New York\n\nSHUBHAJIT ROY\nNEW DELHI, JUNE 30\n\nAT A time when Delhi is reach-\ning out to leaders of the Global\nSouth and the BRICS grouping,\nPrime Minister Narendra Modi\nwill be visiting five nations in\nAfrica and South America from\nJuly2 to9.\nModi will be visiting Ghana,\nTrinidad & Tobago, Argentina,\nBrazil and Namibia and, in his\nmeetings with the leaders of\nthese countries, will discuss is-\n\nWill visit\n\nTobago,",
+   "ocr_conf": 91.71794871794872,
+   "ocr_low_conf_share": 0.01282051282051282,
+   "headline": "PM heading to BRICS, declaration on terror to factor in Pahalgam",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, JUNE 30",
+   "text": "Must counter state-sponsored terror: Jaishankar in New York\n\nAT A time when Delhi is reaching out to leaders of the Global South and the BRICS grouping, Prime Minister Narendra Modi will be visiting five nations in Africa and South America from July2 to9. Modi will be visiting Ghana, Trinidad & Tobago, Argentina, Brazil and Namibia and, in his meetings with the leaders of these countries, will discuss is-\n\nWill visit\n\nTobago,",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4165,
+      1664,
+      4347
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      4099,
+      1548,
+      4132
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      4430,
+      631,
+      4540
+     ],
+     [
+      317,
+      4588,
+      759,
+      5138
+     ],
+     [
+      317,
+      5267,
+      499,
+      5342
+     ],
+     [
+      807,
+      5023,
+      1247,
+      5135
+     ],
+     [
+      1295,
+      5024,
+      1735,
+      5132
+     ]
+    ],
+    "layout_words": 114
+   },
+   "headline_raw": "Booth officers fan out across Bihar,\nhand out forms to 1 crore voters",
+   "deck_raw": "SPECIAL INTENSIVE REVISION OF STATE ELECTORAL ROLLS",
+   "body_raw": "SANTOSH SINGH &\nHIMANSHU HARSH\nPATNA, JUNE 30\n\nAS TEAMS fan out across Bihar,\ndistributing enumeration forms\nas part of an unprecedented ex-\nercise to revise the electoral rolls\nahead of the upcoming Assembly\nelections, the Election Commi-\nssion is at pains to assuage con-\ncerns that themove couldendup\nexcluding some of the most mar-\nginalised in the state.\nSince June 25, booth level of-\nficers (BLOs) of the Election\nCommission have been going\ndoor to door, seeking out voters\n\nPAGE 1\nANCHOR\n\nas part of the month-long \u201cspe-\ncial intensive revision\u201d of Bihar's\nelectoral rolls. So far, the forms\n\nhave been distributed at the\nhomesof one crore voters across\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.7719298245614,
+   "ocr_low_conf_share": 0.05263157894736842,
+   "headline": "Booth officers fan out across Bihar, hand out forms to 1 crore voters",
+   "deck": "SPECIAL INTENSIVE REVISION OF STATE ELECTORAL ROLLS",
+   "byline": "SANTOSH SINGH &; HIMANSHU HARSH; PATNA, JUNE 30",
+   "text": "AS TEAMS fan out across Bihar, distributing enumeration forms as part of an unprecedented exercise to revise the electoral rolls ahead of the upcoming Assembly elections, the Election Commission is at pains to assuage concerns that themove couldendup excluding some of the most marginalised in the state. Since June 25, booth level officers (BLOs) of the Election Commission have been going door to door, seeking out voters\n\nANCHOR\n\nas part of the month-long \"special intensive revision\" of Bihar's electoral rolls. So far, the forms\n\nhave been distributed at the homesof one crore voters across",
+   "n_words": 94,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1783,
+      4166,
+      3179,
+      4367
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1784,
+      4100,
+      3178,
+      4134
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      4432,
+      2150,
+      4502
+     ],
+     [
+      1783,
+      4550,
+      2224,
+      5133
+     ],
+     [
+      2272,
+      5025,
+      2712,
+      5140
+     ],
+     [
+      2761,
+      5025,
+      3201,
+      5133
+     ]
+    ],
+    "layout_words": 91
+   },
+   "headline_raw": "Odisha officer dragged out of office &\nbeaten, told to apologise to BJP leader",
+   "deck_raw": "THREE ARRESTED AFTER ADDITIONAL COMMISSIONER ASSAULTED",
+   "body_raw": "SUJITBISOYI\nBHUBANESWAR, JUNE 30\n\nA GROUP of men allegedly\ndragged out and assaulted an\non-duty Odisha Administrative\nServices (OAS) officer at the\nBhubaneswar Municipal Corpo-\nration (BMC) premises on\nMonday.\nThe incident occurred when\nthe official, Additional Commi-\nssioner Ratnakar Sahoo, was\nconducting a grievance redres-\nsal meeting at his chamber.\nAccording to the policecom-\nplaint that Sahoo filed, six-seven\nunknown individuals entered\n\nhis chamber and asked whether\nhe had spoken to Jagannath\nPradhan, a BJP leader from\n\nBhubaneswar. Sahoo said he re-\nsponded that he had a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.81521739130434,
+   "ocr_low_conf_share": 0.021739130434782608,
+   "headline": "Odisha officer dragged out of office & beaten, told to apologise to BJP leader",
+   "deck": "THREE ARRESTED AFTER ADDITIONAL COMMISSIONER ASSAULTED",
+   "byline": "SUJITBISOYI; BHUBANESWAR, JUNE 30",
+   "text": "A GROUP of men allegedly dragged out and assaulted an on-duty Odisha Administrative Services (OAS) officer at the Bhubaneswar Municipal Corporation (BMC) premises on Monday. The incident occurred when the official, Additional Commissioner Ratnakar Sahoo, was conducting a grievance redressal meeting at his chamber. According to the policecomplaint that Sahoo filed, six-seven unknown individuals entered\n\nhis chamber and asked whether he had spoken to Jagannath Pradhan, a BJP leader from\n\nBhubaneswar. Sahoo said he responded that he had a",
+   "n_words": 79,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3766,
+      4328,
+      3912,
+      4414
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3792,
+      4384,
+      4111,
+      4435
+     ]
+    ],
+    "body_boxes": [
+     [
+      3971,
+      4432,
+      4175,
+      4466
+     ],
+     [
+      3736,
+      4552,
+      4178,
+      5134
+     ]
+    ],
+    "layout_words": 70
+   },
+   "headline_raw": "J aN )",
+   "deck_raw": "",
+   "body_raw": "Ghana, Brazil\n\nsues ranging from trade to de-\nfence, energy totechnology, and\nagriculture to health.\nAhead ofthe Prime Minister's\ntrip, Dammu Ravi, Secretary\n(Economic Relations) in the\nMinistry of External Affairs, indi-\ncated that the BRICS declaration\n\u201clanguage\u201d on terrorism will be\n\u201cmuch to our satisfaction\u201d.\n\u201cThere is no contradiction in\nthe way the members have\ncome out with their understand-\ning, and their sympathy and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.38571428571429,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Ghana, Brazil\n\nsues ranging from trade to defence, energy totechnology, and agriculture to health. Ahead ofthe Prime Minister's trip, Dammu Ravi, Secretary (Economic Relations) in the Ministry of External Affairs, indicated that the BRICS declaration \"language\" on terrorism will be \"much to our satisfaction\". \"There is no contradiction in the way the members have come out with their understanding, and their sympathy and",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      566,
+      5263,
+      3692,
+      5384
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1828,
+      5464,
+      2404,
+      5507
+     ]
+    ],
+    "body_boxes": [
+     [
+      806,
+      5419,
+      1247,
+      6166
+     ],
+     [
+      1290,
+      5419,
+      1735,
+      5970
+     ],
+     [
+      1294,
+      5974,
+      1735,
+      6167
+     ],
+     [
+      1839,
+      5653,
+      2094,
+      5847
+     ],
+     [
+      1840,
+      5873,
+      2407,
+      6129
+     ],
+     [
+      2888,
+      5618,
+      3149,
+      5971
+     ],
+     [
+      3247,
+      5421,
+      3689,
+      6168
+     ]
+    ],
+    "layout_words": 309
+   },
+   "headline_raw": "Maoist-hit Bijapur gets closer to mainstream, one mobile tower",
+   "deck_raw": "ANTI-MAOIST OPS STEPPED UP",
+   "body_raw": "many mobile towers as com-\npared to the previous two years.\nThe Bastar region comprises\nseven districts \u2014 Bastar,\nKondagaon, Kanker, Narayanpur,\nDantewada, Bijapur and Sukma.,\nAlookatanti-Maoist operations\nindicates Bijapur is the worst-hit,\nwhich makesimplementing de-\nvelopment activities a challenge,\nofficials say. According to offi-\ncials, Maoists destroy mobile\ntowersas they believe these will\nhelp police informers in remote\nvillages alert security forces.\nMaoists have seton fire eight\nmobile towers in the district\nsince 2022, including six in\n2024-2025. However, the push-\n\nback by forces since 2024 has\nhelped the administration install\n48 mobile towers between\nJanuary 2024 and June 2025,\nproviding coverage to 110 vil-\nlages in Bijapur. In comparison,\n24 towers were installed in 2022\nand 2023.\nOne of the mobile towers in-\nstalled last month was in the\nKutruarea, where eight security\npersonnel and a civilian driver\nwere killed in an IED blast in\nJanuary.\n\n\u201cAs of mid-2025, significant\nstrides have been made in en-\nhancing mobile connectivity\nacross Bijapur, particularly in its\nremote and previously insur-\n\nEncounters\nMaoists killed\nSecurity forces killed\nCivilianskiled \u2014 |\n\n\\EDsseized | 1,013 732\nWeaponsseied | 515 | 175\nMaocistsarested | 1391 | 771\nMaoistssurrendered, 1401 | 429\nBijapur is one of 7 districts in Bastar region\n\nAmobile tower\nin Ambeli village\nunder Kutru\npolice station,\nwhere 8 security\npersonnel anda\ndriver were\nkilled ina blast\nin January\n\ngency-affected areas. Bijapur\nlikely has around 45% of its vil-\nlages covered by mobile network,\nwithapproximately 300villages\nhaving coverage, many of which\nare currently part of ongoing gov-\nemment tower deployment ef-\nforts,\u201d District Collector Sambit\nMishra told The Indian Express.\nStil, nearly 400 villages in\nBijapur district continue to ex-\nperience limited networks.\nDetailing the challenges, Bijapur\nSP Jitendra Kumar Yadav said,\n\u201cWe made 20 camps in the last\ntwo years. It is difficult to install\nmobile towers; in the last two\nyears, six towers have been sab-\notaged. We are able to install",
+   "ocr_conf": 89.64906832298136,
+   "ocr_low_conf_share": 0.055900621118012424,
+   "headline": "Maoist-hit Bijapur gets closer to mainstream, one mobile tower",
+   "deck": "ANTI-MAOIST OPS STEPPED UP",
+   "byline": "",
+   "text": "many mobile towers as compared to the previous two years. The Bastar region comprises seven districts - Bastar, Kondagaon, Kanker, Narayanpur, Dantewada, Bijapur and Sukma., Alookatanti-Maoist operations indicates Bijapur is the worst-hit, which makesimplementing development activities a challenge, officials say. According to officials, Maoists destroy mobile towersas they believe these will help police informers in remote villages alert security forces. Maoists have seton fire eight mobile towers in the district since 2022, including six in\n\nback by forces since 2024 has helped the administration install 48 mobile towers between January 2024 and June 2025, providing coverage to 110 villages in Bijapur. In comparison, 24 towers were installed in 2022 One of the mobile towers installed last month was in the Kutruarea, where eight security personnel and a civilian driver were killed in an IED blast in January.\n\n\"As of mid-2025, significant strides have been made in enhancing mobile connectivity across Bijapur, particularly in its remote and previously insur-\n\nEncounters Maoists killed Security forces killed Civilianskiled -\n\nWeaponsseied 515 175 Maocistsarested 1391 771 Maoistssurrendered, 1401 429 Bijapur is one of 7 districts in Bastar region\n\nAmobile tower in Ambeli village under Kutru police station, where 8 security personnel anda driver were killed ina blast in January\n\ngency-affected areas. Bijapur likely has around 45% of its villages covered by mobile network, withapproximately 300villages having coverage, many of which are currently part of ongoing govemment tower deployment efforts,\" District Collector Sambit Mishra told The Indian Express. Stil, nearly 400 villages in Bijapur district continue to experience limited networks. Detailing the challenges, Bijapur SP Jitendra Kumar Yadav said, \"We made 20 camps in the last two years. It is difficult to install mobile towers; in the last two years, six towers have been sabotaged. We are able to install",
+   "n_words": 295,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      3722,
+      5272,
+      4144,
+      5361
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3734,
+      5422,
+      4178,
+      6162
+     ]
+    ],
+    "layout_words": 86
+   },
+   "headline_raw": "at a time",
+   "deck_raw": "",
+   "body_raw": "towers close to the camps. In a\nsecurity vacuum, this is always\ndifficult.\u201d\n\u201cOngoing initiatives are ex-\npected to continue to bridge\nthese gaps, bringing essential\nservices and connectivity to all\ncorners of the district. Erecting\nmobile towers is challenging due\nto tough terrain, limited connec-\ntivity, and persistent security\nthreats. Yet, every mobile tower\nwe install brings avillage closer\nto the mainstream \u2014 enabling\ndigital access, financial inclusion,\nand emergency services. The\ngrateful smile on the face of the\nvillagers makes every effort\nworth it.\u201d",
+   "ocr_conf": 93.98837209302326,
+   "ocr_low_conf_share": 0.0,
+   "headline": "at a time",
+   "deck": "",
+   "byline": "",
+   "text": "towers close to the camps. In a security vacuum, this is always difficult.\" \"Ongoing initiatives are expected to continue to bridge these gaps, bringing essential services and connectivity to all corners of the district. Erecting mobile towers is challenging due to tough terrain, limited connectivity, and persistent security threats. Yet, every mobile tower we install brings avillage closer to the mainstream - enabling digital access, financial inclusion, and emergency services. The grateful smile on the face of the villagers makes every effort worth it.\"",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5460,
+      692,
+      5530
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "JAYPRAKASH S NAIDU\nRAIPUR, JUNE 30",
+   "ocr_conf": 93.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "JAYPRAKASH S NAIDU; RAIPUR, JUNE 30",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      5578,
+      758,
+      6166
+     ]
+    ],
+    "layout_words": 74,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "AMOBILE tower may be ubiqui-\ntous in most partsof India, butin\nBijapur, a sprawling 6,500 sq km\ndistrict in Chhattisgarh that is\none of the worst-hit by Left-\nWing Extremism, itisa meansto\nbring villagers living under the\nshadow of Maoists closer to the\nmainstream.\nOver the last 18 months, as\noperations against Maoists have\npicked up pace, the local admin-\nistration has also embarked ona\nmission to bolster mobile con-\nnectivity, installing twice as",
+   "ocr_conf": 92.6891891891892,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "AMOBILE tower may be ubiquitous in most partsof India, butin Bijapur, a sprawling 6,500 sq km district in Chhattisgarh that is one of the worst-hit by Left-Wing Extremism, itisa meansto bring villagers living under the shadow of Maoists closer to the mainstream. Over the last 18 months, as operations against Maoists have picked up pace, the local administration has also embarked ona mission to bolster mobile connectivity, installing twice as",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.3,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

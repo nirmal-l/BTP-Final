@@ -1,0 +1,867 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_09_front",
+ "source_file": "2025-11-09_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-09_front.png",
+ "date": "2025-11-09",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 12,
+ "layout_stats": {
+  "H": 39.0,
+  "masthead_y": 916,
+  "n_lines": 327,
+  "mean_line_conf": 76.4052963185081,
+  "orphan_words": 11,
+  "body_words_total": 776
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      624,
+      999,
+      788,
+      1042
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "me",
+   "ocr_conf": 60.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "me",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      999,
+      3200,
+      1042
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "[ _",
+   "ocr_conf": 68.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3435,
+      999,
+      4090,
+      1042
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1823,
+      1086,
+      3123,
+      1595
+     ],
+     [
+      1916,
+      1193,
+      3170,
+      1595
+     ],
+     [
+      1917,
+      1511,
+      3105,
+      1618
+     ],
+     [
+      1859,
+      1687,
+      3123,
+      1803
+     ],
+     [
+      1811,
+      1761,
+      3168,
+      1832
+     ],
+     [
+      1785,
+      1934,
+      2226,
+      2153
+     ],
+     [
+      1782,
+      2086,
+      2227,
+      2332
+     ],
+     [
+      1787,
+      2279,
+      2226,
+      2379
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1787,
+      2376,
+      2226,
+      2452
+     ],
+     [
+      1786,
+      2441,
+      2071,
+      2509
+     ],
+     [
+      1298,
+      2955,
+      1738,
+      3011
+     ],
+     [
+      2022,
+      2999,
+      2965,
+      3050
+     ]
+    ],
+    "body_boxes": [
+     [
+      1787,
+      1932,
+      2071,
+      1974
+     ],
+     [
+      1787,
+      2177,
+      2225,
+      2210
+     ],
+     [
+      1796,
+      2291,
+      2232,
+      2330
+     ]
+    ],
+    "layout_words": 16
+   },
+   "headline_raw": "44-ACRE MAHAR LAND CONTROVERSY\nInJune, Pune official\nsoughtland evictiona\nPawar son firm behest\nnJune, Pune omicial\nyughtland eviction at\nawar son firm behest\nawar Son firm benes\nFIR says firm\u2019s application seeking land possession,\nahsildar\u2019s orderto Botanical Survev to vacate it illeo:\nTehsildar\u2019s order to Botanical Survey to vacate it \u2018illegal\u2019\n& Alok Deshpande\nPune, Mumbai, November 8\nJUST FIVE months ago, the\nPune City Tehsildar asked Cen-\ntral sovern ment 1ndertaking\nee nee en i in NO\nPune City Tehsildar asked Cen-\ntral government undertaking\nBotanical Survey of India (BSI)\nto vacate 17.51 hectares or 44\nacres of land in Mundhwa\nleased to it by the state after a\nGRILLS VE PARAS LLL LVL ULI\nleased to it by the state after a\nfirm 99% owned by Deputy",
+   "deck_raw": "Chief Minister Ajit Pawar\u2019s son\ninformed his office that it had\nSSSA ALAA Lhd WLI |\npurchased the land.\nU6 earoivan a ls\nAMAL UMIC?, abt Peat OVO y ii\ndividual regardless of their so-\nFULL REPORT ON WWW.INDIANEXPRESS.COM",
+   "body_raw": "& Alok Deshpande\n\nBotanical Survey of India (BSI)\n\n",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "44-ACRE MAHAR LAND CONTROVERSY InJune, Pune official soughtland evictiona Pawar son firm behest nJune, Pune omicial yughtland eviction at awar son firm behest awar Son firm benes FIR says firm's application seeking land possession, ahsildar's orderto Botanical Survev to vacate it illeo: Tehsildar's order to Botanical Survey to vacate it 'illegal' & Alok Deshpande Pune, Mumbai, November 8 JUST FIVE months ago, the Pune City Tehsildar asked Central sovern ment 1ndertaking Pune City Tehsildar asked Central government undertaking Botanical Survey of India (BSI) to vacate 17.51 hectares or 44 acres of land in Mundhwa leased to it by the state after a GRILLS VE PARAS LLL LVL ULI leased to it by the state after a firm 99% owned by Deputy",
+   "deck": "Chief Minister Ajit Pawar's son informed his office that it had SSSA ALAA Lhd WLI purchased the land. AMAL UMIC?, abt Peat OVO y ii",
+   "byline": "",
+   "text": "& Alok Deshpande\n\nBotanical Survey of India (BSI)",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2982,
+      1161,
+      3008,
+      1199
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "a",
+   "ocr_conf": 28.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "a",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      1511,
+      1734,
+      1902
+     ],
+     [
+      813,
+      1810,
+      1755,
+      2332
+     ],
+     [
+      808,
+      2086,
+      1484,
+      2332
+     ],
+     [
+      809,
+      2279,
+      1250,
+      2379
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      2376,
+      1739,
+      2452
+     ],
+     [
+      809,
+      2441,
+      1249,
+      2509
+     ]
+    ],
+    "body_boxes": [
+     [
+      1299,
+      2291,
+      1777,
+      2330
+     ],
+     [
+      809,
+      2496,
+      1739,
+      2586
+     ],
+     [
+      808,
+      2558,
+      1766,
+      2971
+     ]
+    ],
+    "layout_words": 92
+   },
+   "headline_raw": "Ease of living, and\nbusiness possible\nbusiness possible\nonly when there\u2019s\nease of justice: PM\nAnanthakrishnanG eUnderlining the signifi-\nease of yusuce:\nAnanthakrishnan G inthis directi\nNew Dethi, November 8 Underlin:\nSe ; cance of lega\nSVC SAU FEE, LY OREUCE O\nPRIME MINISTER Narendra",
+   "deck_raw": "Modi said Saturdaythateaseof that which canbe understood\nliving and ease ofbusiness are _ by those receiving it\u201d. This, he\nany aT CAR AN Ne EO ee\npossible only when ease of jus-\ntireiconaired",
+   "body_raw": "\n\nticeis ensured. time of drafting laws.\nSpeaking at the National Pointing to the need for\nCan faranca ann Crrancthoning Htidamante and ladal Anri.\n\nVP CAND AS Ah LAAN INGLIS fUiiiligg LU LEIS LIE AE\nConference on Strengthening judgments and legal docu-\nLegal Aid Delivery Mechan- ments to be made available in\nisms, organised bythe National local languages, he said that\nLegal Services Authority when people comprehend the\n(NALSA)tomarktheLegalSer- law in their own language, it\nvices Day, Modi said, \u201cEaseof will lead to better compliance\nDoing Businessand EaseofLiv- and reduce litigation.\ningaretruly possible only when \u201cWhen justice is accessible\nEase of Justice is alsoensured. to all, delivered in a timely\nIn recent years, several steps manner, and reaches every in- |",
+   "ocr_conf": 74.28333333333333,
+   "ocr_low_conf_share": 0.24166666666666667,
+   "headline": "Ease of living, and business possible business possible only when there's ease of justice: PM AnanthakrishnanG eUnderlining the signifiease of yusuce: Ananthakrishnan G inthis directi New Dethi, November 8 Underlin: Se; cance of lega SVC SAU FEE, LY OREUCE O PRIME MINISTER Narendra",
+   "deck": "Modi said Saturdaythateaseof that which canbe understood living and ease ofbusiness are _ by those receiving it\". This, he possible only when ease of justireiconaired",
+   "byline": "",
+   "text": "ticeis ensured. time of drafting laws. Speaking at the National Pointing to the need for Can faranca ann Crrancthoning Htidamante and ladal Anri.\n\nVP CAND AS Ah LAAN INGLIS fUiiiligg LU LEIS LIE AE Conference on Strengthening judgments and legal docu-Legal Aid Delivery Mechan- ments to be made available in isms, organised bythe National local languages, he said that Legal Services Authority when people comprehend the (NALSA)tomarktheLegalSer- law in their own language, it vices Day, Modi said, \"Easeof will lead to better compliance Doing Businessand EaseofLiv- and reduce litigation. ingaretruly possible only when \"When justice is accessible Ease of Justice is alsoensured. to all, delivered in a timely In recent years, several steps manner, and reaches every in-",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1934,
+      738,
+      2153
+     ],
+     [
+      321,
+      2086,
+      746,
+      2214
+     ],
+     [
+      322,
+      2252,
+      745,
+      2332
+     ],
+     [
+      322,
+      2279,
+      730,
+      2379
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      2376,
+      749,
+      2509
+     ],
+     [
+      325,
+      2558,
+      762,
+      2610
+     ]
+    ],
+    "body_boxes": [
+     [
+      450,
+      2291,
+      530,
+      2330
+     ]
+    ],
+    "layout_words": 1
+   },
+   "headline_raw": "ISRAEL RETURNS\n15 BODIES AFTER\nTAKING REMAINS\nfo BUDIPS AF LER\nTAKING REMAINS\nOF A HOSTAGE\nRUSSIAN STRIKES\nRUSSIAN STRIKES\nHIT APARTMENT",
+   "deck_raw": "BLOCK, ENERGY\nSITES INUKRAINE\nINSIDE PAGE7",
+   "body_raw": "IAN",
+   "ocr_conf": 76.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "ISRAEL RETURNS 15 BODIES AFTER TAKING REMAINS fo BUDIPS AF LER TAKING REMAINS OF A HOSTAGE RUSSIAN STRIKES RUSSIAN STRIKES HIT APARTMENT",
+   "deck": "BLOCK, ENERGY SITES INUKRAINE INSIDE PAGE7",
+   "byline": "IAN",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3355,
+      2057,
+      4104,
+      2153
+     ],
+     [
+      3246,
+      2086,
+      4174,
+      2332
+     ],
+     [
+      3250,
+      2279,
+      4091,
+      2379
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3249,
+      2441,
+      3597,
+      2509
+     ],
+     [
+      3250,
+      2536,
+      4083,
+      2586
+     ],
+     [
+      3250,
+      2955,
+      4176,
+      3050
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      2414,
+      3554,
+      2452
+     ],
+     [
+      3250,
+      2558,
+      4172,
+      2971
+     ]
+    ],
+    "layout_words": 68
+   },
+   "headline_raw": "deplovment to tech\nRedeployment to tech:\nArmy prepares for sixth\nwinter in eactT adalch\nwinter in east Ladakh",
+   "deck_raw": "WUEEE Eas blsteeslt Mendel bh tah teh tel\nNew Delhi, November 8\nTHE ARMY\u2019S plans for the *\nJHE ARMY \u00a9 plans for Me -Thetrust deficit\nKRY ICAlUlICs dlOlls WIC LAY did SUDIPUOT OL PAU Ol. DULL\nstrengthening of the surveil- trust deficit remains, as do\nlance infrastructure. troops on either side of LAC.",
+   "body_raw": "Amrita Nayak Dutta\n\n251k SANIVIL O Pidllo Vi UT s Pas |\nharsh winter in eastern Ladakh thetrust deficit\ninclude redeployment of Disengagement ofIndian\ntroops alongtheLineofActual and Chinese troops in\nControl(LAC)\u2014itmayinvolve Depsang and Demchok was\ntemporary reduction of sol- completed in November\ndiers in the higher reaches iso- 2024, days after leaders of\nlated by snow \u2014 withadequate the two countries held talks\nreserves in depth areas, com- in Russia\u2019s Kazan. There\npletion of the geo-tagging of was also agreement on re-\nkey featuresalongtheLACand sumption of patrols. But the",
+   "ocr_conf": 77.47191011235955,
+   "ocr_low_conf_share": 0.23595505617977527,
+   "headline": "deplovment to tech Redeployment to tech: Army prepares for sixth winter in eactT adalch winter in east Ladakh",
+   "deck": "WUEEE Eas blsteeslt Mendel bh tah teh tel New Delhi, November 8 THE ARMY'S plans for the * JHE ARMY \u00a9 plans for Me -Thetrust deficit KRY ICAlUlICs dlOlls WIC LAY did SUDIPUOT OL PAU Ol. DULL strengthening of the surveil- trust deficit remains, as do lance infrastructure. troops on either side of LAC.",
+   "byline": "",
+   "text": "Amrita Nayak Dutta\n\n251k SANIVIL O Pidllo Vi UT s Pas harsh winter in eastern Ladakh thetrust deficit include redeployment of Disengagement ofIndian troops alongtheLineofActual and Chinese troops in Control(LAC) - itmayinvolve Depsang and Demchok was temporary reduction of sol- completed in November diers in the higher reaches iso- 2024, days after leaders of lated by snow - withadequate the two countries held talks reserves in depth areas, com- in Russia's Kazan. There pletion of the geo-tagging of was also agreement on rekey featuresalongtheLACand sumption of patrols. But the",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      3160,
+      2219,
+      3423
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      2955,
+      1737,
+      3050
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      3448,
+      613,
+      3524
+     ],
+     [
+      318,
+      3572,
+      759,
+      3726
+     ],
+     [
+      1783,
+      3453,
+      2224,
+      3727
+     ]
+    ],
+    "layout_words": 57
+   },
+   "headline_raw": "Inthe wings, RJD chief Lalu strikes new\nnotes: Jobs priority, no reachout to Nitish\u2019",
+   "deck_raw": "SALLE AN YUalLo, ob Veldl oleyo AMAL UMIC?, abt Peat OVO y ii\nhave beentakentoenhance dividual regardless of their so-\nEase of Justice and going for- _cial or financial background,",
+   "body_raw": "Neerja Chowdhury\nPatna, November 8\n\nAS THE Bihar election cam-\npaign enters its homestretch,\nthe verdict in less than a week,\nLalu Prasad, the ageing RJD\n\nment)... We are going to form\nthe government \u2014 and we are\ngoing to remove Nitish\nKumar.\u201d\nOn the possibility ofanother\ntie-up with the JD(U) in case\nthe numbersdon\u2019t addup, Lalu",
+   "ocr_conf": 91.28070175438596,
+   "ocr_low_conf_share": 0.05263157894736842,
+   "headline": "Inthe wings, RJD chief Lalu strikes new notes: Jobs priority, no reachout to Nitish'",
+   "deck": "SALLE AN YUalLo, ob Veldl oleyo AMAL UMIC?, abt Peat OVO y ii have beentakentoenhance dividual regardless of their so-Ease of Justice and going for- _cial or financial background,",
+   "byline": "",
+   "text": "Neerja Chowdhury Patna, November 8\n\nAS THE Bihar election campaign enters its homestretch, the verdict in less than a week, Lalu Prasad, the ageing RJD\n\nment)... We are going to form the government - and we are going to remove Nitish Kumar.\" On the possibility ofanother tie-up with the JD(U) in case the numbersdon't addup, Lalu",
+   "n_words": 56,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2467,
+      3474,
+      3972,
+      3554
+     ],
+     [
+      2896,
+      3819,
+      3376,
+      3949
+     ],
+     [
+      2876,
+      3885,
+      3384,
+      4022
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2354,
+      3705,
+      4054,
+      3783
+     ],
+     [
+      3166,
+      3730,
+      3269,
+      3783
+     ]
+    ],
+    "body_boxes": [
+     [
+      2357,
+      3724,
+      4068,
+      3852
+     ],
+     [
+      2883,
+      3932,
+      3334,
+      3967
+     ],
+     [
+      2358,
+      4013,
+      4079,
+      4048
+     ]
+    ],
+    "layout_words": 36
+   },
+   "headline_raw": "Star achievers who realised their dreams of civil services with us\nele | Ss\n| SS wi ag 4 a\u201d\nPriyanka Choudhary = Mohenda XumarYaday \u2014 Karaniiesar Medanki",
+   "deck_raw": "Ankita Parashar ParmeshwarChoudhary = Ranjan Sharma Vikram Singh Khiriya Rashi Kumawat Kamal Choudhary Vikash Siyag Kuldeep Kumawat Richhpal\nRANK- 2 RANK- 3 RANK- 3 RANK: 5 RANK- 6 RANK- 9 RANK- 10 RANK- 11 RANK- 12\nashi Kumawe\nRANK- 6",
+   "body_raw": "Ankita Parashar = ParmeshwarChoudhary = Ranjan Sharma Vikram Singh Khiriya Rashi Kumawat Kamal Choudhary Vikash Siyag Kuldeep Kumawat Richhpal\nRANK- 2 RANK- 3 RANK- 3 RANK: 5 RANK- 6 RANK- 9 RANK- 10 RANK- 11 RANK- 12\nMains Online Batch Online Foundation Bah Test Series- Interview Mains Online Batch Test Series Interiew Test Series- Interwew Mains Batch Test Series Interview Foundation Batch\n\u2122~ an ca ~ - f T ~\nthe Ge SS. \"ee. eee ete) ee _. Ween ey\u2019 2 te \u00ab Se. <\n\nLN | poe fy Ae",
+   "ocr_conf": 67.81818181818181,
+   "ocr_low_conf_share": 0.35454545454545455,
+   "headline": "Star achievers who realised their dreams of civil services with us ele Ss Priyanka Choudhary = Mohenda XumarYaday - Karaniiesar Medanki",
+   "deck": "Ankita Parashar ParmeshwarChoudhary = Ranjan Sharma Vikram Singh Khiriya Rashi Kumawat Kamal Choudhary Vikash Siyag Kuldeep Kumawat Richhpal RANK- 2 RANK- 3 RANK- 3 RANK: 5 RANK- 6 RANK- 9 RANK- 10 RANK- 11 RANK- 12 ashi Kumawe RANK- 6",
+   "byline": "",
+   "text": "Ankita Parashar = ParmeshwarChoudhary = Ranjan Sharma Vikram Singh Khiriya Rashi Kumawat Kamal Choudhary Vikash Siyag Kuldeep Kumawat Richhpal RANK- 2 RANK- 3 RANK- 3 RANK: 5 RANK- 6 RANK- 9 RANK- 10 RANK- 11 RANK- 12 Mains Online Batch Online Foundation Bah Test Series- Interview Mains Online Batch Test Series Interiew Test Series- Interwew Mains Batch Test Series Interview Foundation Batch the Ge SS. \"ee. eee ete) ee _. Ween ey' 2 te \u00ab Se. <",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      3819,
+      1246,
+      3949
+     ],
+     [
+      319,
+      3885,
+      759,
+      4022
+     ],
+     [
+      806,
+      3885,
+      1739,
+      4022
+     ],
+     [
+      318,
+      4091,
+      758,
+      4221
+     ],
+     [
+      853,
+      4091,
+      1735,
+      4221
+     ],
+     [
+      321,
+      4230,
+      2036,
+      4314
+     ],
+     [
+      319,
+      4252,
+      2124,
+      4444
+     ],
+     [
+      320,
+      4626,
+      760,
+      4785
+     ],
+     [
+      319,
+      4628,
+      1248,
+      4790
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      3705,
+      2186,
+      3783
+     ],
+     [
+      320,
+      4482,
+      697,
+      4584
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      3773,
+      2223,
+      3852
+     ],
+     [
+      366,
+      3932,
+      2223,
+      3967
+     ],
+     [
+      319,
+      4013,
+      2222,
+      4083
+     ],
+     [
+      1296,
+      4053,
+      1735,
+      4087
+     ],
+     [
+      1783,
+      4053,
+      2222,
+      4087
+     ],
+     [
+      602,
+      4319,
+      1905,
+      4360
+     ],
+     [
+      319,
+      4572,
+      1248,
+      4651
+     ],
+     [
+      320,
+      4767,
+      1247,
+      4815
+     ],
+     [
+      319,
+      4890,
+      2081,
+      5016
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "takes centrestagein hisbidto tary chair in the verandah at\ndefeat the Nitish Kumar-led Patna\u2019s 10, Circular Road, the\nNDA government. official residence of his wife, the\nLalu. who has heen ailing. RIN\u2019: Tleader of Onnoasition in\nNDA government.\nLalu, who has been ailing,\ndoes not look his usual buoyant\ncalf Tkanirhing ha laalbeo crim\nofficial residence ofhis wife,the | when asked what the focus of\nRJD\u2019s Leader of Oppositionin the Mahagathhandhan gov-\nthe Legislative Council, and ernment would beif it came to\nfavsmar rhiaf minicear Dakvi Rmaumy \u201cTa haav hiim havannaxw\ndian Express, sitting on the soli-\nLalustrikesadifferent note _ will rid the state of unemploy-\nKejriwal house row has an address famili\nKejriwal house row nas an address familar\nto Punjab: Bungalow No. 50 in Chandigarh\nALUCURUUNG LUTE BUP, bun-\ngalow No. 50 ofthe Punjab gov-\nernment, in Chandigarh\u2019s Sec-\ntor2,is Aam Aadmi Party (AAP)\nnational convenor Arvind\nAULYVARVING LUUL DUP, DUTI- alld OLlO) al UO Neat OF LS\ngalowNo.50ofthePunjabgov- _ political ups and downs.\nernment, in Chandigarh\u2019s Sec- The Opposition says that\ntor2,isAam AadmiParty(AAP) _ Kejriwal, who has been coming\nnational convenor Arvind \u00a7 to Puniab frequently since he",
+   "deck_raw": "Lalu Prasad, the ageing KJD REPORTS, PAGE6 the numbersdon t add up, La\npatriarch, hasremained largely \u00a7=\u2014\u2014\u2014\u2014\u2014 is categorical. \u201cAb hum Niti:\ntn tha unnace ac can Taiachun Vimar va ourmalvar nahin Lb\nKanchan Vasdev\nChandigarh, November 8",
+   "body_raw": "in the wings as son Tejashwi Kumar ko sweekar nahin ka-\ntakes centrestageinhisbidto tarychairintheverandahat RJC chief LaluPrasad renge(We will not accept Nitish\n\nLalu, who has been ailing, RJD\u2019s Leader of Oppositionin the Mahagathbandhan gov- Lalu\u2019s disclaimer notwith-\n\nself. Ifanything, he looks grim former chief minister Rabri power. \u201cIs baar hum berozgari speculation that Nitish may do\nand restless,ashe meets TheIn- Devi. ko dur karenge (This time, we another \u201cpalta(U-tum)\u201d, ifheis\n\nCe i > Te: en, .ae . ) ee \u00a9\n\n~ than justan address in the state,\nACCORDING TOtheBJP,Bun- and often at the heart of its\n\nnational convenor Arvind to Punjab frequently since he\nTY nce li ens SO AArnlke Biante Lene bet Telhe? ale? nfienn tent nem ente ten\n\nbeen added to a residence bungalowintoa \u201cpalatial\u201d base\nspread overtwoacres, located _ for his visitsto Chandigarh. The\na stone\u2019s throw away from the \u00bbCONTINUEDONPAGE2 Outside Bungalow No. 50 in Sector 2, Chandigarh. express",
+   "ocr_conf": 70.76687116564418,
+   "ocr_low_conf_share": 0.3006134969325153,
+   "headline": "takes centrestagein hisbidto tary chair in the verandah at defeat the Nitish Kumar-led Patna's 10, Circular Road, the NDA government. official residence of his wife, the Lalu. who has heen ailing. RIN': Tleader of Onnoasition in NDA government. Lalu, who has been ailing, does not look his usual buoyant calf Tkanirhing ha laalbeo crim official residence ofhis wife,the when asked what the focus of RJD's Leader of Oppositionin the Mahagathhandhan govthe Legislative Council, and ernment would beif it came to favsmar rhiaf minicear Dakvi Rmaumy \"Ta haav hiim havannaxw dian Express, sitting on the soli-Lalustrikesadifferent note _ will rid the state of unemploy-Kejriwal house row has an address famili Kejriwal house row nas an address familar to Punjab: Bungalow No. 50 in Chandigarh ALUCURUUNG LUTE BUP, bungalow No. 50 ofthe Punjab government, in Chandigarh's Sector2,is Aam Aadmi Party (AAP) national convenor Arvind AULYVARVING LUUL DUP, DUTI- alld OLlO) al UO Neat OF LS galowNo.50ofthePunjabgov- _ political ups and downs. ernment, in Chandigarh's Sec- The Opposition says that tor2,isAam AadmiParty(AAP) _ Kejriwal, who has been coming national convenor Arvind \u00a7 to Puniab frequently since he",
+   "deck": "Lalu Prasad, the ageing KJD REPORTS, PAGE6 the numbersdon t add up, La patriarch, hasremained largely \u00a7= - - - - - is categorical. \"Ab hum Niti: tn tha unnace ac can Taiachun Vimar va ourmalvar nahin Lb Kanchan Vasdev Chandigarh, November 8",
+   "byline": "",
+   "text": "in the wings as son Tejashwi Kumar ko sweekar nahin katakes centrestageinhisbidto tarychairintheverandahat RJC chief LaluPrasad renge(We will not accept Nitish\n\nLalu, who has been ailing, RJD's Leader of Oppositionin the Mahagathbandhan gov- Lalu's disclaimer notwithself. Ifanything, he looks grim former chief minister Rabri power. \"Is baar hum berozgari speculation that Nitish may do and restless,ashe meets TheIn- Devi. ko dur karenge (This time, we another \"palta(U-tum)\", ifheis\n\nCe i > Te: en,.ae. ) ee \u00a9\n\n~ than justan address in the state, ACCORDING TOtheBJP,Bun- and often at the heart of its\n\nnational convenor Arvind to Punjab frequently since he TY nce li ens SO AArnlke Biante Lene bet Telhe? ale? nfienn tent nem ente ten\n\nbeen added to a residence bungalowintoa \"palatial\" base spread overtwoacres, located _ for his visitsto Chandigarh. The a stone's throw away from the \u00bbCONTINUEDONPAGE2 Outside Bungalow No. 50 in Sector 2, Chandigarh. express",
+   "n_words": 149,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2346,
+      4230,
+      4076,
+      4314
+     ],
+     [
+      2338,
+      4252,
+      4054,
+      4584
+     ],
+     [
+      2531,
+      4628,
+      3889,
+      4790
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2539,
+      4526,
+      2655,
+      4584
+     ],
+     [
+      3066,
+      4526,
+      3190,
+      4584
+     ]
+    ],
+    "body_boxes": [
+     [
+      2343,
+      4319,
+      4095,
+      4360
+     ],
+     [
+      2352,
+      4522,
+      4095,
+      4607
+     ],
+     [
+      2508,
+      4890,
+      3807,
+      5016
+     ],
+     [
+      2486,
+      5096,
+      4101,
+      5131
+     ]
+    ],
+    "layout_words": 93
+   },
+   "headline_raw": "GA Fs Cwuy | ULL le PO GS\nRupalJhajhria \u2014 Himani Rathore \u00a9 Saroj Choyal = VaendaKunarkhip Dinesh NeerajSharma \u2014_\u2014_Teriza Chahar PayalOadhich =\u2014Utkarsh Sattavan = Rahul Meena\nRANK- 25 RANK- 28 RANK- 29 RANK- 30 RANK- 31 RANK- 32 RANK- 33 RANK- 34 RANK- 35 RANK- 37\nRupal Jhajhria_~\u2014Himani Rathore \u2014_Saroj Choyal Voenda Kumar kina Dinesh NeerajSharma \u2014_Teriza Chahar PayalOadhich = UtlarshSattavan = Rahul Meer\nRANK- 25 RANK- 28 RANK- 29 RANK- 30 RANK- 31 RANK- 32 RANK- 33 RANK- 34 RANK. 35 RANK: 3\nFoundation Batch + Foundation Batch Foundation Batch Foundation Batch += Mains Batch = Pre/ Mains Batch = Foundation Batch Foundation Batch Foundation Batch foundation B\nCAD 7, anu LT = ~ =. -\n| aad el OF pri ig ab] &\nat oe 7 ae in OO a\nT's S = = \u2014). =\n4 oo p y i+ & a f ve ha ba. = wt\nA A A, re Rea i Ol and \u2122 . j ane\nRajnish Bhakar Shankar Gurjar Sanjay Dukiya Rajesh Jat Rajshree Kanawat Anand Patel Maneesh Singh GhewarRam = Dinesh Bishnol Aja Smgh Choud\nRANK: 38 RANK: 39 RANK- 44 RANK- 47 RANK- 48 RANK- 49 RANK- 51 RANK: 55 RANK- 57 RANK- 5\neG QR SHS Oise",
+   "deck_raw": "Shankar Gurjar\nRANK: 39\ntajshree Kanawat\nRANK- 48",
+   "body_raw": "Foundation Batch \u00a9 Foundation Batch + Foundation Batch + Foundation Batch 4= Mains Batch = Pre/Mains Batch \u00a7 Foundation Batch foundation Batch Foundation Batch foundation Batch\n[CAr) lee AL Mis) EE ae a Ty 5 CO i fl rr Yr .lhlUCd) Ll Tra 7) fr a ll) 7 oe es\n\ntajnish Bhakar \u00a9 Shankar Gurjar Sanjay Dukiya RajeshJat Rajshree Kanawat Anand Patel \u00a9 Maneesh Singh + Ghewar Ram Dinesh Bishnol _Ajt Sh Choudhary\nRANK-38 RANK-39 RANK-44 RANK-47 RANK-48 RANK-49 RANK-S1 RANK-55 - RANK-57 RANK. 59\ninterview Foundation Batch Foundation Batch Foundation Batch [AS Foundation Batch Test Series-Interview Foundation Batch Interview Mains Online Batch Foundation Batch\n\n\u20acn | PES) RES eS | eS",
+   "ocr_conf": 42.983739837398375,
+   "ocr_low_conf_share": 0.6422764227642277,
+   "headline": "RupalJhajhria - Himani Rathore \u00a9 Saroj Choyal = VaendaKunarkhip Dinesh NeerajSharma - _ - _Teriza Chahar PayalOadhich = - Utkarsh Sattavan = Rahul Meena RANK- 25 RANK- 28 RANK- 29 RANK- 30 RANK- 31 RANK- 32 RANK- 33 RANK- 34 RANK- 35 RANK- 37 Rupal Jhajhria_~ - Himani Rathore - _Saroj Choyal Voenda Kumar kina Dinesh NeerajSharma - _Teriza Chahar PayalOadhich = UtlarshSattavan = Rahul Meer RANK- 25 RANK- 28 RANK- 29 RANK- 30 RANK- 31 RANK- 32 RANK- 33 RANK- 34 RANK. 35 RANK: 3 Foundation Batch + Foundation Batch Foundation Batch Foundation Batch += Mains Batch = Pre/ Mains Batch = Foundation Batch Foundation Batch Foundation Batch foundation B aad el OF pri ig ab] & Rajnish Bhakar Shankar Gurjar Sanjay Dukiya Rajesh Jat Rajshree Kanawat Anand Patel Maneesh Singh GhewarRam = Dinesh Bishnol Aja Smgh Choud RANK: 38 RANK: 39 RANK- 44 RANK- 47 RANK- 48 RANK- 49 RANK- 51 RANK: 55 RANK- 57 RANK- 5 eG QR SHS Oise",
+   "deck": "Shankar Gurjar RANK: 39 tajshree Kanawat RANK- 48",
+   "byline": "",
+   "text": "Foundation Batch \u00a9 Foundation Batch + Foundation Batch + Foundation Batch 4= Mains Batch = Pre/Mains Batch \u00a7 Foundation Batch foundation Batch Foundation Batch foundation Batch\n\ntajnish Bhakar \u00a9 Shankar Gurjar Sanjay Dukiya RajeshJat Rajshree Kanawat Anand Patel \u00a9 Maneesh Singh + Ghewar Ram Dinesh Bishnol _Ajt Sh Choudhary RANK-38 RANK-39 RANK-44 RANK-47 RANK-48 RANK-49 RANK-S1 RANK-55 - RANK-57 RANK. 59 interview Foundation Batch Foundation Batch Foundation Batch [AS Foundation Batch Test Series-Interview Foundation Batch Interview Mains Online Batch Foundation Batch\n\n\u20acn PES) RES eS eS",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5120,
+      2140,
+      5281
+     ],
+     [
+      320,
+      5300,
+      2168,
+      5467
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5445,
+      671,
+      5519
+     ],
+     [
+      318,
+      5570,
+      762,
+      6081
+     ]
+    ],
+    "layout_words": 69
+   },
+   "headline_raw": "@ UTTARA MAHILA PATRIKA HAS HELD A MIRROR TO THE REGION\u2019S SOCIAL AND POLITICAL CHURN\nUttarakhand turns 25, a magazine marks\na milestone in its women\u2019s many journeys\nAiswarva Rai ] WE s dun home \u201cWehad nirtun;:",
+   "deck_raw": "",
+   "body_raw": "Aiswarya Raj\nDehradun, November 8\n\nWHEN UTTARAKHAND was\ncarved out of Uttar Pradesh on\nNovember 9, 2000, after a dec-\nades-long movement, an edi-\ntorial in Uttara Mahila Patrika,\na quarterly magazine, won-\ndered what women \u2014 one of\nthe most crucial segments of\nthe agitation \u2014 would do now.\n\u201cNow that the dream of a\nseparate Uttarakhand state has\nbeen realised, what are the\nwomen going to do? Should",
+   "ocr_conf": 93.27142857142857,
+   "ocr_low_conf_share": 0.0,
+   "headline": "@ UTTARA MAHILA PATRIKA HAS HELD A MIRROR TO THE REGION'S SOCIAL AND POLITICAL CHURN Uttarakhand turns 25, a magazine marks a milestone in its women's many journeys Aiswarva Rai ] WE s dun home \"Wehad nirtun;:",
+   "deck": "",
+   "byline": "",
+   "text": "Aiswarya Raj Dehradun, November 8\n\nWHEN UTTARAKHAND was carved out of Uttar Pradesh on November 9, 2000, after a decades-long movement, an editorial in Uttara Mahila Patrika, a quarterly magazine, wondered what women - one of the most crucial segments of the agitation - would do now. \"Now that the dream of a separate Uttarakhand state has been realised, what are the women going to do? Should",
+   "n_words": 67,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.5,
+ "flags": [
+  "low OCR confidence (74)"
+ ]
+}

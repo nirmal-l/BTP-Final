@@ -1,0 +1,723 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_30_front",
+ "source_file": "2025-04-30_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-30_front.png",
+ "date": "2025-04-30",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 447,
+  "mean_line_conf": 90.11663072820791,
+  "orphan_words": 106,
+  "body_words_total": 1839
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3222,
+      698,
+      3565,
+      738
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "lic> a a a",
+   "ocr_conf": 49.0,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      326,
+      789,
+      802,
+      1123
+     ],
+     [
+      324,
+      1210,
+      752,
+      1541
+     ]
+    ],
+    "deck_boxes": [
+     [
+      326,
+      695,
+      2958,
+      743
+     ]
+    ],
+    "body_boxes": [
+     [
+      324,
+      1620,
+      750,
+      1690
+     ],
+     [
+      321,
+      1738,
+      766,
+      3429
+     ]
+    ],
+    "layout_words": 221
+   },
+   "headline_raw": "PM: Arm\ndecide |\n\u2018National resolve\nfor crushing blow\nto terrorism...\ncomplete faith in\narmed forces\u2019",
+   "deck_raw": "PAHALGAM ATTACK: MODI CHAIRS MEETING OF MILITARY BRASS. CCS MEETS TODAY",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, APRIL 29\n\nAS HIS government weighs its\nresponse to the Pahalgam terror\nattack, Prime Minister Narendra\nModi chaired a meeting with the\nmilitary brass in New Delhi\nTuesday and official sources\nquoted him saying the armed\nforces have \u201ccomplete opera-\ntional freedom to decide on the\nmode, targets and timing of our\nresponse\u201d.\nReposing \u201ccomplete faith and\nconfidence in the professional\nabilities of the armed forces\u201d,\nModi, according to sources, said,\n\u201cit is our national resolve to deal\na crushing blow to terrorism\u201d.\nThe meeting at 7, Lok Kalyan\nMarg, the Prime Minister's resi-\ndence, was attended by Defence\nMinister Rajnath Singh, National\nSecurity Advisor Ajit Doval, Chief\nof Defence Staff General Anil\nChauhan, Army chief General\nUpendra Dwivedi, IAF chief Air\nChief Marshal Amar Preet Singh\nand Navy chief Admiral Dinesh\nK Tripathi.\nLater, Home Minister Amit\nShah met the Prime Minister. So\ndid RSS chief Mohan Bhagwat.\nIn 2019, after the terror attack\nona CRPF convoy in Pulwama,\nthe Prime Minister had made a\nsimilar statement, saying secu-\nrity forces had been given \u201cfull\nfreedom\u201d to choose a \u201ctime and\nplace\u201d for the \u201cfuture course of\naction\u201d. He had promised a \u201cmuh\ntod jawab\u201d (befitting reply) for\nthe attack. Days later, the IAF car-\nried out air strikes at a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.59276018099547,
+   "ocr_low_conf_share": 0.05429864253393665,
+   "headline": "PM: Arm decide 'National resolve for crushing blow to terrorism... complete faith in armed forces'",
+   "deck": "PAHALGAM ATTACK: MODI CHAIRS MEETING OF MILITARY BRASS. CCS MEETS TODAY",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, APRIL 29",
+   "text": "AS HIS government weighs its response to the Pahalgam terror attack, Prime Minister Narendra Modi chaired a meeting with the military brass in New Delhi Tuesday and official sources quoted him saying the armed forces have \"complete operational freedom to decide on the mode, targets and timing of our response\". Reposing \"complete faith and confidence in the professional abilities of the armed forces\", Modi, according to sources, said, \"it is our national resolve to deal a crushing blow to terrorism\". The meeting at 7, Lok Kalyan Marg, the Prime Minister's residence, was attended by Defence Minister Rajnath Singh, National Security Advisor Ajit Doval, Chief of Defence Staff General Anil Chauhan, Army chief General Upendra Dwivedi, IAF chief Air Chief Marshal Amar Preet Singh and Navy chief Admiral Dinesh K Tripathi. Later, Home Minister Amit Shah met the Prime Minister. So did RSS chief Mohan Bhagwat. In 2019, after the terror attack ona CRPF convoy in Pulwama, the Prime Minister had made a similar statement, saying security forces had been given \"full freedom\" to choose a \"time and place\" for the \"future course of action\". He had promised a \"muh tod jawab\" (befitting reply) for the attack. Days later, the IAF carried out air strikes at a",
+   "n_words": 206,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3805,
+      2298,
+      4124,
+      2431
+     ],
+     [
+      3784,
+      2457,
+      4085,
+      2520
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3900,
+      2400,
+      4107,
+      2443
+     ]
+    ],
+    "body_boxes": [
+     [
+      3782,
+      2533,
+      4144,
+      3036
+     ],
+     [
+      3738,
+      3126,
+      4179,
+      3313
+     ]
+    ],
+    "layout_words": 74
+   },
+   "headline_raw": "! Keeping a\n@ lineopen\nDELHI'S RECENT talks",
+   "deck_raw": "@ lineopen",
+   "body_raw": "with Taliban-ruled Kabul,\nits humanitarian assis-\ntance to the people of\nAfghanistan have not\ngone unnoticed. Nor has\nKabul\u2019s swift condemna-\ntion of the Pahalgam ter-\nrorattack. Pakistan, on\nthe other hand, now has\nproblems with the\nTaliban and its decision to\nexpel Afghan refugees has\nadded to the slide in ties.\n\nAfghanistan categorically con-\ndemns the recent attack on\ntourists in the Pahalgam region\nof Jammu and Kashmir, and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "! Keeping a @ lineopen DELHI'S RECENT talks",
+   "deck": "@ lineopen",
+   "byline": "",
+   "text": "with Taliban-ruled Kabul, its humanitarian assistance to the people of Afghanistan have not gone unnoticed. Nor has Kabul's swift condemnation of the Pahalgam terrorattack. Pakistan, on the other hand, now has problems with the Taliban and its decision to expel Afghan refugees has added to the slide in ties.\n\nAfghanistan categorically condemns the recent attack on tourists in the Pahalgam region of Jammu and Kashmir, and",
+   "n_words": 66,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2414,
+      3694,
+      3232
+     ]
+    ],
+    "layout_words": 92,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "EVERSINCEthe Pahalgam terror\nattack, India and Pakistan have\nbeen in an intense diplomatic\npower play with both Delhi and\nIslamabad trying to mobilise in-\ntemational support.\nAs foreign ministries of both\ncountries briefed foreign ambas-\nsadors in their capitals, Delhi also\nsent M Anand Prakash, Joint\nSecretary in charge of Pakistan,\nAfghanistan and Iran in the\nMinistry of External Affairs, to\nKabul this week \u2014 Prakash han-\ndied the Shanghai Cooperation\nOrganisation (SCO) in the MEA.\nEven before Prakash reached\nKabul, the Foreign Ministry of\nTaliban-ruled Afghanistan\ncondemned the Pahalgam terror\nattack",
+   "ocr_conf": 92.46739130434783,
+   "ocr_low_conf_share": 0.021739130434782608,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "EVERSINCEthe Pahalgam terror attack, India and Pakistan have been in an intense diplomatic power play with both Delhi and Islamabad trying to mobilise intemational support. As foreign ministries of both countries briefed foreign ambassadors in their capitals, Delhi also sent M Anand Prakash, Joint Secretary in charge of Pakistan, Afghanistan and Iran in the Ministry of External Affairs, to Kabul this week - Prakash handied the Shanghai Cooperation Organisation (SCO) in the MEA. Even before Prakash reached Kabul, the Foreign Ministry of Taliban-ruled Afghanistan condemned the Pahalgam terror attack",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      2515,
+      3184,
+      2861
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2274,
+      2887,
+      2684,
+      3074
+     ],
+     [
+      2272,
+      3125,
+      2715,
+      3430
+     ]
+    ],
+    "layout_words": 49
+   },
+   "headline_raw": "Srinagar to Gurez: After\nsecurity audit, J&K Govt\nshuts 49 tourist sites",
+   "deck_raw": "",
+   "body_raw": "BASHAARAT MASOOD,\nDEEPTIMAN TIWARY\n& AMRITANAYAK DUTTA\nNEW DELHI, SRINAGAR,\nAPRIL 29\n\nA WEEK after terrorists massa-\ncred 26 people in Pahalgam, the\nJammu and Kashmir govern-\nment has decided to shut down\n49 tourist destinations and\ntrekking trails in the Valley, cit-\ning security reasons.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.46,
+   "ocr_low_conf_share": 0.04,
+   "headline": "Srinagar to Gurez: After security audit, J&K Govt shuts 49 tourist sites",
+   "deck": "",
+   "byline": "BASHAARAT MASOOD,; DEEPTIMAN TIWARY; & AMRITANAYAK DUTTA; NEW DELHI, SRINAGAR,; APRIL 29",
+   "text": "A WEEK after terrorists massa-cred 26 people in Pahalgam, the Jammu and Kashmir government has decided to shut down 49 tourist destinations and trekking trails in the Valley, citing security reasons.",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      2592,
+      2228,
+      2694
+     ],
+     [
+      813,
+      2705,
+      2100,
+      2860
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      2517,
+      2098,
+      2550
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      2886,
+      1109,
+      2958
+     ],
+     [
+      811,
+      3006,
+      1251,
+      3429
+     ],
+     [
+      1536,
+      2926,
+      1707,
+      3073
+     ],
+     [
+      1295,
+      3164,
+      1739,
+      3430
+     ],
+     [
+      1786,
+      2848,
+      2227,
+      3430
+     ]
+    ],
+    "layout_words": 162
+   },
+   "headline_raw": "Pak in UNSC, India gets support of\nother non-permanent members",
+   "deck_raw": "FLAGS PAK DEFENCE MINISTER\u2019S CONFESSION OF TERROR LINK",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 29\n\nHAVING FACED a tough battle in\nnegotiating a statement at the\nUN Security Council where\nPakistan is currently a non-per-\nmanent member, India has\nreached out to the other non-\npermanent members of the\nUNSCas part of its diplomatic of-\nfensive in the wake of the\nPahalgam terror attack.\nExternal Affairs Minister S\n\nJaishankar\nspoketo\nForeign\nMinisters\n\nJaishankar spoke to Foreign\nMinisters of Algeria, Greece,\nGuyana, Panama, Sierra Leone,\nSlovenia and Somalia \u2014 all are\ncurrently on the UNSC fora two-\nyear term as non-permanent\nmembers.\n\nHealsospoketoUN Secretary\nGeneral Antonio Guterres. In a\npost on X, he said he received a\ncall from Guterres. \u201cAppreciate\nhis unequivocal condemnation\nof the terrorist attack in\nPahalgam. Agreed onthe impor-\ntance of accountability. India is\nresolved that the perpetrators,\nplanners and backers of this at-\ntack are brought to justice.\u201d\nThe Cabinet Committee on\nSecurity, of which Jaishankar is\na member, is due to meet in\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.5521472392638,
+   "ocr_low_conf_share": 0.024539877300613498,
+   "headline": "Pak in UNSC, India gets support of other non-permanent members",
+   "deck": "FLAGS PAK DEFENCE MINISTER'S CONFESSION OF TERROR LINK",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 29",
+   "text": "HAVING FACED a tough battle in negotiating a statement at the UN Security Council where Pakistan is currently a non-permanent member, India has reached out to the other nonpermanent members of the UNSCas part of its diplomatic offensive in the wake of the Pahalgam terror attack. External Affairs Minister S\n\nJaishankar spoketo Foreign Ministers\n\nJaishankar spoke to Foreign Ministers of Algeria, Greece, Guyana, Panama, Sierra Leone, Slovenia and Somalia - all are currently on the UNSC fora twoyear term as non-permanent members.\n\nHealsospoketoUN Secretary General Antonio Guterres. In a post on X, he said he received a call from Guterres. \"Appreciate his unequivocal condemnation of the terrorist attack in Pahalgam. Agreed onthe importance of accountability. India is resolved that the perpetrators, planners and backers of this attack are brought to justice.\" The Cabinet Committee on Security, of which Jaishankar is a member, is due to meet in",
+   "n_words": 147,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      3244,
+      3694,
+      3313
+     ]
+    ],
+    "layout_words": 10,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\u201cThe Ministry of Foreign\nAffairs of the Islamic Emirate of",
+   "ocr_conf": 95.7,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "\"The Ministry of Foreign Affairs of the Islamic Emirate of",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3388,
+      4170,
+      3736
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      3760,
+      3627,
+      3830
+     ],
+     [
+      3249,
+      3878,
+      3691,
+      4389
+     ],
+     [
+      3738,
+      3721,
+      4181,
+      4382
+     ]
+    ],
+    "layout_words": 149
+   },
+   "headline_raw": "SC on Pegasus use: No\nwrong, nation\u2019s security\ncannot be sacrificed",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, APRIL 29\n\nUNDERLINING THAT the secu-\nrity ofthe nationcannotbecom-\npromised or \u201csacrificed\u201d, the\nSupreme Court said Tuesday\nthat there is nothing wrong if a\ncountry has spyware and em-\nploys it for its security \u2014and the\nonly question would be \u201cagainst\nwhom it is used\u201d.\nOn demands to disclose the\nreport of the Justice R V\nRaveendran committee, which\nhad probed allegations that\n\nIsraeli-made spyware Pegasus\nwas being used for the surveil-\nlance of journalists, activists and\npoliticians, Justice Surya Kant\nsaid, \u201cAny report which touches\nthe security and sovereignty of\nthe country will not be touched.\u201d\nJustice Kant said, \u201cBut indi-\nviduals who want to know\nwhether they are included, that\ncan be informed. Yes, individual\napprehension must be ad-\ndressed but it cannot be made a\ndocument for discussion on the\nstreets.\u201d He was presiding over a\ntwo-judge bench, also\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.42281879194631,
+   "ocr_low_conf_share": 0.020134228187919462,
+   "headline": "SC on Pegasus use: No wrong, nation's security cannot be sacrificed",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, APRIL 29",
+   "text": "UNDERLINING THAT the security ofthe nationcannotbecompromised or \"sacrificed\", the Supreme Court said Tuesday that there is nothing wrong if a country has spyware and employs it for its security - and the only question would be \"against whom it is used\". On demands to disclose the report of the Justice R V Raveendran committee, which had probed allegations that\n\nIsraeli-made spyware Pegasus was being used for the surveillance of journalists, activists and politicians, Justice Surya Kant said, \"Any report which touches the security and sovereignty of the country will not be touched.\" Justice Kant said, \"But individuals who want to know whether they are included, that can be informed. Yes, individual apprehension must be addressed but it cannot be made a document for discussion on the streets.\" He was presiding over a two-judge bench, also",
+   "n_words": 135,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3581,
+      1202,
+      3913
+     ],
+     [
+      322,
+      3942,
+      1208,
+      4002
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4074,
+      621,
+      4144
+     ],
+     [
+      316,
+      4193,
+      762,
+      5138
+     ],
+     [
+      319,
+      5421,
+      501,
+      5494
+     ],
+     [
+      851,
+      4086,
+      1209,
+      4119
+     ],
+     [
+      946,
+      4163,
+      1119,
+      4191
+     ],
+     [
+      977,
+      4268,
+      1210,
+      4336
+     ],
+     [
+      808,
+      4748,
+      1252,
+      5132
+     ],
+     [
+      808,
+      5419,
+      1249,
+      6166
+     ]
+    ],
+    "layout_words": 277
+   },
+   "headline_raw": "In Canada, Trump fear\nbrings back Liberals,\nModi greets Carney\nDelhi, Ottawa set to reinstate envoys",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 29\n\nAFTER MORE than a year-and-a-\nhalf of strained diplomatic rela-\ntions, India and Canada are set to\nbringbilaterai ties \u201cback on track\u201d,\nstarting with the reinstatement\nof High Commissioners, even as\nPrime Minister Narendra Modion\nTuesday congratulated his\nCanadian counterpart Mark\nCarney on the victory of his\nLiberal Party in the federal elec-\ntions there.\nSources told The Indian\nExpress that New Delhi and\nOttawa are looking at \u201crestoring\ntheir High Commissioners by\nJune this year\u201d after they were\nexpelled in October last year.\nIndia\u2019s current ambassador to\nSpain, Dinesh Patnaik, is being\ntapped for the position of the\nnext Indian High Commissioner\nto Canada, and the process will\nbegin soon, the sources said.\n\nPAGE 1\nANCHOR\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nPresident xi, now\na is your Chance (0\n\u201cei Guta Lied LP\n\nGiving an indication of the\nturnaround, Modi said that he\nlooked forward to working with\nCarney to \u201cstrengthen our part-\nnership\u201d. \u201cCongratulations\n@MarkJCamey on your election\nas the Prime Minister of Canada\nand to the Liberal Party on their\nvictory,\u201d Modi said ina post on X.\nCONTINUED ON PAGE 2\n\nand Spiti on April 27, all seven top\ngovernance and administrative\nposts in the tribal district are\nnow held by women.\nChief Minister Sukhvinder\nSingh Sukhu had last year an-\nnounced in the Vidhan Sabha his\nplans to create a women-led dis-\ntrict administration on experi-\nmental basis.\nCoincidentally, the district is\nalso represented by a woman\nMember of Parliament (MP) \u2014\nactor Kangana Ranaut \u2014 since\nLahaul and Spiti falls under the\nMandi parliamentary con-\nstituency, while Anuradha Rana\nof the Congress had lastyear de-\nfeated BJP\u2019s Ravi Thakur to be-",
+   "ocr_conf": 90.77304964539007,
+   "ocr_low_conf_share": 0.04609929078014184,
+   "headline": "In Canada, Trump fear brings back Liberals, Modi greets Carney Delhi, Ottawa set to reinstate envoys",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 29",
+   "text": "AFTER MORE than a year-and-ahalf of strained diplomatic relations, India and Canada are set to bringbilaterai ties \"back on track\", starting with the reinstatement of High Commissioners, even as Prime Minister Narendra Modion Tuesday congratulated his Canadian counterpart Mark Carney on the victory of his Liberal Party in the federal elections there. Sources told The Indian Express that New Delhi and Ottawa are looking at \"restoring their High Commissioners by June this year\" after they were expelled in October last year. India's current ambassador to Spain, Dinesh Patnaik, is being tapped for the position of the next Indian High Commissioner to Canada, and the process will begin soon, the sources said.\n\nANCHOR\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nPresident xi, now a is your Chance (0 \"ei Guta Lied LP\n\nGiving an indication of the turnaround, Modi said that he looked forward to working with Carney to \"strengthen our partnership\". \"Congratulations @MarkJCamey on your election as the Prime Minister of Canada and to the Liberal Party on their victory,\" Modi said ina post on X.\n\nand Spiti on April 27, all seven top governance and administrative posts in the tribal district are now held by women. Chief Minister Sukhvinder Singh Sukhu had last year announced in the Vidhan Sabha his plans to create a women-led district administration on experimental basis. Coincidentally, the district is also represented by a woman Member of Parliament (MP) - actor Kangana Ranaut - since Lahaul and Spiti falls under the Mandi parliamentary constituency, while Anuradha Rana of the Congress had lastyear defeated BJP's Ravi Thakur to be-",
+   "n_words": 261,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3582,
+      2709,
+      3792
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      4390,
+      2707,
+      4467
+     ],
+     [
+      1783,
+      4550,
+      2228,
+      5133
+     ],
+     [
+      2274,
+      4550,
+      2714,
+      5133
+     ],
+     [
+      1297,
+      4589,
+      1724,
+      4659
+     ],
+     [
+      1296,
+      4709,
+      1737,
+      5139
+     ]
+    ],
+    "layout_words": 244
+   },
+   "headline_raw": "Visas cancelled, farewells and tears\non both sides of Attari border post",
+   "deck_raw": "",
+   "body_raw": "Pakistan national Farheen (left) as she leaves her 18-month-old son and other family members\nat Attari, Tuesday. (Right) An Indian citizen upon her return from Pakistan atthe check post.\n\nCheck Post (ICP) at Attari has wit-\nnessed scenes of heartbreak and\nfarewells as Pakistan nationals,\nmany of whom have lived in\nIndia for years, leave their fami-\nlies behind to cross over to the\nother side. Following the\nPahalgam terror attack on April\n22, India has taken a series of\nmeasures to ratchet up pressure\non Pakistan \u2014 putting the Indus\nWaters Treaty (IWT) on hold,\ndowngrading diplomatic ties and\nshutting the Attari-Wagah bor-\nder.It has alsocancelled all short-\n\nterm and special visas to Pakistan\nnationals. Islamabad responded\nby suspending visas issued to\nIndian nationals. However, long-\nterm visas \u2014 usually valid for one\nto five years and issued by India\nto Pakistan and Bangladesh na-\ntionals who have close relatives\nholding Indian citizenship \u2014\nhave not been revoked.\nSo far, 787 Pakistan nationals\nhave gone across the border\nthrough the Attari ICP since the\ncurbs cameinto effecton April25.\nCONTINUED ON PAGE 2\n\nKAMALDEEP SINGH BRAR\nAMRITSAR, APRIL 29\n\nHOLDING HER 18-month-old son\ntightly to her chest, Farheen sobs\nbitterly. \u201cUttar ja beta, uttar ja,\u201d\nsays her mother-in-law, Sadia,\nfrominside the autorickshaw that\nhas brought the family to the\nAttari-Wagah border, fromwhere\nFarheen will leave her child and\nrelatives behind and walk across\nthe border to Pakistan.\nSince April 25, the Integrated",
+   "ocr_conf": 92.8099173553719,
+   "ocr_low_conf_share": 0.01652892561983471,
+   "headline": "Visas cancelled, farewells and tears on both sides of Attari border post",
+   "deck": "",
+   "byline": "",
+   "text": "Pakistan national Farheen (left) as she leaves her 18-month-old son and other family members at Attari, Tuesday. (Right) An Indian citizen upon her return from Pakistan atthe check post.\n\nCheck Post (ICP) at Attari has witnessed scenes of heartbreak and farewells as Pakistan nationals, many of whom have lived in India for years, leave their families behind to cross over to the other side. Following the Pahalgam terror attack on April 22, India has taken a series of measures to ratchet up pressure on Pakistan - putting the Indus Waters Treaty (IWT) on hold, downgrading diplomatic ties and shutting the Attari-Wagah border.It has alsocancelled all shortterm and special visas to Pakistan nationals. Islamabad responded by suspending visas issued to Indian nationals. However, long-term visas - usually valid for one to five years and issued by India to Pakistan and Bangladesh nationals who have close relatives holding Indian citizenship - have not been revoked. So far, 787 Pakistan nationals have gone across the border through the Attari ICP since the curbs cameinto effecton April25.\n\nKAMALDEEP SINGH BRAR AMRITSAR, APRIL 29\n\nHOLDING HER 18-month-old son tightly to her chest, Farheen sobs bitterly. \"Uttar ja beta, uttar ja,\" says her mother-in-law, Sadia, frominside the autorickshaw that has brought the family to the Attari-Wagah border, fromwhere Farheen will leave her child and relatives behind and walk across the border to Pakistan. Since April 25, the Integrated",
+   "n_words": 232,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3585,
+      3175,
+      3642
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      3692,
+      3165,
+      3862
+     ],
+     [
+      2762,
+      3897,
+      3136,
+      4062
+     ],
+     [
+      2764,
+      4135,
+      2993,
+      4167
+     ],
+     [
+      2763,
+      4218,
+      3072,
+      4342
+     ]
+    ],
+    "layout_words": 26
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "CRACKDOWN IN\nAHMEDABAD: 2,000\nILLEGAL HUTMENTS\nTO BE \u2018REMOVED\u2019\n\nSC PULLS UP MP\nPOLICE OVER\nCUSTODIAL DEATH\nPAGE8\n\nEXPLAINED\n\nDEFENCE\nNAVY'S 26 NEW\nRAFALES Pace 10",
+   "ocr_conf": 83.88461538461539,
+   "ocr_low_conf_share": 0.15384615384615385,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "CRACKDOWN IN; AHMEDABAD: 2,000; ILLEGAL HUTMENTS; TO BE 'REMOVED'; POLICE OVER; CUSTODIAL DEATH",
+   "text": "EXPLAINED\n\nDEFENCE NAVY'S 26 NEW RAFALES Pace 10",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2760,
+      4454,
+      4157,
+      4674
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2757,
+      4702,
+      3200,
+      4819
+     ],
+     [
+      2761,
+      4868,
+      3202,
+      5140
+     ],
+     [
+      2759,
+      5421,
+      3203,
+      6161
+     ],
+     [
+      3248,
+      4710,
+      3689,
+      5070
+     ],
+     [
+      3737,
+      4711,
+      4178,
+      5134
+     ],
+     [
+      3736,
+      5422,
+      4179,
+      6162
+     ]
+    ],
+    "layout_words": 324
+   },
+   "headline_raw": "Delhi Cabinet approves draft Bill\nto regulate fees in private schools",
+   "deck_raw": "",
+   "body_raw": "GAYATHRI MANI\nNEW DELHI, APRIL 29\n\nSCHOOLS IN Delhi will notbe al-\nlowed to increase fees without\nclearance from government-\nmandated committees, accord-\ning to a draft Bill passed by the\nDelhi Cabinet on Tuesday.\nThe Cabinet approved the\n\ncome the first woman MLA from\nthe remote Assembly in 53 years.\nBesides the post of the Deputy\nCommissioner, the other top posi-\ntions in the district include those\nof the Superintendent of Police\n(SP), Additional Deputy Comm-\nissioner(ADC), two Sub-Divisional\nMagistrates (SDMs), Member of\nLegislative Assembly (MLA) and\nZila Parishad chairperson.\nWhile Bina Devi is the cur-\nrent Zila Parishad chairperson, in\nKaza, the headquarters of the\ndistrict\u2019s Spiti sub-division,\nHimachal Pradesh Administra-\ntive Service (HAS) officer Shikha\nSimtia is currently serving as\nboth SDM and ADC. Akanksha\n\ndraft of the Delhi School\nEducation (Transparency in\nFixation and Regulation of Fees)\nBill, 2025 to regulate fees in pri-\nvate and government-aided pri-\nvate schools.\nThe move follows sustained\nprotests by parents against fee\nhikes over the past several\nae. a, a a. a a\n\nence, Delhi Chief Minister Rekha\nGupta said, \u201cWe have passed a\ndraft Bill in the Cabinet meeting,\napplicable to all 1,677 aided and\nunaided private schools, to fix\nguidelines and procedures forfee\nhikes.\u201d She said schools found vi-\nolating the guidelines will face a\npenalty of up to Rs 10 lakh,\nAccording to the draft Bill,\nCONTINUED ON PAGE 2\n\nInterestingly, this is my first post-\ning as a Deputy Commissioner in\nany district of the state.\u201d\nMLA Rana is hopeful about\nthe model being extended to\nother districts in Himachal\nPradesh \u201cif this experiment\nproves successful\u201d, Rana, a resi-\ndent of Rangcha village near\nKoksar, says, \u201cI willinteract with\nmy administrative colleagues\nsoon. Our objective is to make\nthis tribal area more progressive.\u201d\nRana, who had contested the\nAssembly by-elections in May\n2024, also holds the distinction\nof being the second woman leg-\nislator to represent the seat in\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.47256097560975,
+   "ocr_low_conf_share": 0.042682926829268296,
+   "headline": "Delhi Cabinet approves draft Bill to regulate fees in private schools",
+   "deck": "",
+   "byline": "GAYATHRI MANI; NEW DELHI, APRIL 29",
+   "text": "SCHOOLS IN Delhi will notbe allowed to increase fees without clearance from government-mandated committees, according to a draft Bill passed by the Delhi Cabinet on Tuesday. The Cabinet approved the\n\ncome the first woman MLA from the remote Assembly in 53 years. Besides the post of the Deputy Commissioner, the other top positions in the district include those of the Superintendent of Police (SP), Additional Deputy Commissioner(ADC), two Sub-Divisional Magistrates (SDMs), Member of Legislative Assembly (MLA) and Zila Parishad chairperson. While Bina Devi is the current Zila Parishad chairperson, in Kaza, the headquarters of the district's Spiti sub-division, Himachal Pradesh Administrative Service (HAS) officer Shikha Simtia is currently serving as both SDM and ADC. Akanksha\n\ndraft of the Delhi School Education (Transparency in Fixation and Regulation of Fees) Bill, 2025 to regulate fees in private and government-aided private schools. The move follows sustained protests by parents against fee hikes over the past several\n\nence, Delhi Chief Minister Rekha Gupta said, \"We have passed a draft Bill in the Cabinet meeting, applicable to all 1,677 aided and unaided private schools, to fix guidelines and procedures forfee hikes.\" She said schools found violating the guidelines will face a According to the draft Bill,\n\nInterestingly, this is my first posting as a Deputy Commissioner in any district of the state.\" MLA Rana is hopeful about the model being extended to other districts in Himachal Pradesh \"if this experiment proves successful\", Rana, a resident of Rangcha village near Koksar, says, \"I willinteract with my administrative colleagues soon. Our objective is to make this tribal area more progressive.\" Rana, who had contested the Assembly by-elections in May 2024, also holds the distinction of being the second woman legislator to represent the seat in",
+   "n_words": 288,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3294,
+      5087,
+      3688,
+      5141
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      5421,
+      3692,
+      6168
+     ]
+    ],
+    "layout_words": 95
+   },
+   "headline_raw": "FERRE L EEE LSE DEL ER ADD Le Lye\nAddressing a press confer-",
+   "deck_raw": "",
+   "body_raw": "Sharma was appointed as the\nSDM of Keylong last week, while\nIlma Afroz, a 2018-batch IPS offi-\ncer, was transferred as the SP of\nLahaul and Spiti in March.\nDeputy Commissioner\nBhadana, who took over from\n2016-batch IAS officer Rahul\nKumar, the current Deputy\nCommissioner of Bilaspur, hasin\nthe past served as the head of var-\nious state denartments, including\ninformation and public relations.\nStating that she was aware of\nthe government's plan to create\na district administered entirely\nby women, Bhadana says, \u201cI had\nnever imagined thatI would be a\npart of this experiment.",
+   "ocr_conf": 86.45263157894736,
+   "ocr_low_conf_share": 0.07368421052631578,
+   "headline": "FERRE L EEE LSE DEL ER ADD Le Lye Addressing a press confer-",
+   "deck": "",
+   "byline": "",
+   "text": "Sharma was appointed as the SDM of Keylong last week, while Ilma Afroz, a 2018-batch IPS officer, was transferred as the SP of Lahaul and Spiti in March. Deputy Commissioner Bhadana, who took over from 2016-batch IAS officer Rahul Kumar, the current Deputy Commissioner of Bilaspur, hasin the past served as the head of various state denartments, including information and public relations. Stating that she was aware of the government's plan to create a district administered entirely by women, Bhadana says, \"I had never imagined thatI would be a part of this experiment.",
+   "n_words": 93,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5265,
+      4170,
+      5444
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5617,
+      685,
+      5687
+     ],
+     [
+      317,
+      5736,
+      763,
+      6166
+     ],
+     [
+      1296,
+      6051,
+      2668,
+      6127
+     ]
+    ],
+    "layout_words": 85
+   },
+   "headline_raw": "In Lahaul & Spiti, all-woman team: MP, MLA, DC, SP SDM, Zila chief",
+   "deck_raw": "",
+   "body_raw": "SAURABH PARASHAR\nSHIMLA, APRIL 29\n\n\u201cUNHONEBHI acha kaam kiya hai,\npar ab mahilaon ki baari hai (The\nmen did a good job, but it\u2019s\nwomen'sturn now),\u201d says Shanti\nDevi, 47, the pradhanof the rural\nBarbog gram panchayat in\nHimachal Pradesh\u2019s Lahaul block.\nWith the appointment of\nKiran Bhadana, a2017-batch IAS\nofficer, as the first woman\nDeputy Commissioner of Lahaul\n\n(Clockwise from left) MLA Anuradha Rana; SDM Akansha Sharma; Addl DC Shikha Simtia;\nDeputy Commissioner Kiran Bhadana; SP Ima Afroz; and Zila Parishad chief Bina Devi",
+   "ocr_conf": 91.31764705882352,
+   "ocr_low_conf_share": 0.023529411764705882,
+   "headline": "In Lahaul & Spiti, all-woman team: MP, MLA, DC, SP SDM, Zila chief",
+   "deck": "",
+   "byline": "SAURABH PARASHAR; SHIMLA, APRIL 29",
+   "text": "\"UNHONEBHI acha kaam kiya hai, par ab mahilaon ki baari hai (The men did a good job, but it's women'sturn now),\" says Shanti Devi, 47, the pradhanof the rural Barbog gram panchayat in Himachal Pradesh's Lahaul block. With the appointment of Kiran Bhadana, a2017-batch IAS officer, as the first woman Deputy Commissioner of Lahaul\n\n(Clockwise from left) MLA Anuradha Rana; SDM Akansha Sharma; Addl DC Shikha Simtia; Deputy Commissioner Kiran Bhadana; SP Ima Afroz; and Zila Parishad chief Bina Devi",
+   "n_words": 80,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.8,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,3 @@
+page_type,n_articles,mean_score,ci95_low,ci95_high,share_positive,share_neutral,share_negative,mean_headline_score,mean_vader,mean_llm_score,share_llm_positive,share_llm_negative,label_agreement_with_vader,llm_ci95_low,llm_ci95_high,share_llm_neutral,llm_net,share_vader_positive,share_vader_negative
+editorial,2668,-0.111,-0.12,-0.102,0.025,0.867,0.108,0.043,0.05,-0.127,0.226,0.434,0.294,-0.146,-0.109,0.34,-0.208,0.527,0.265
+front,2980,-0.065,-0.073,-0.057,0.015,0.958,0.026,-0.137,0.008,-0.191,0.179,0.472,0.227,-0.208,-0.174,0.348,-0.293,0.436,0.372

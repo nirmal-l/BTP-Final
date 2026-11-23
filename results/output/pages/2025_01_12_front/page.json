@@ -1,0 +1,842 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_12_front",
+ "source_file": "2025-01-12_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-12_front.png",
+ "date": "2025-01-12",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 489,
+  "mean_line_conf": 88.21895400100922,
+  "orphan_words": 11,
+  "body_words_total": 1991
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3858,
+      75,
+      4071,
+      188
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3760,
+      315,
+      4160,
+      425
+     ]
+    ],
+    "body_boxes": [
+     [
+      3771,
+      236,
+      4160,
+      274
+     ],
+     [
+      3744,
+      454,
+      4180,
+      621
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "eve",
+   "deck_raw": "The five brothers\nand their wife",
+   "body_raw": "THE SUNDAY EXPRESS MAGAZINE\n\nAs the restored version of\nThe Mahabharata releases,\nMallika Sarabhai looks back\natessaying Draupadi",
+   "ocr_conf": 94.44444444444444,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve",
+   "deck": "The five brothers and their wife",
+   "byline": "THE SUNDAY EXPRESS MAGAZINE",
+   "text": "As the restored version of The Mahabharata releases, Mallika Sarabhai looks back atessaying Draupadi",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      324,
+      853,
+      670,
+      885
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "GOVT & POLITICS",
+   "ocr_conf": 93.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "GOVT & POLITICS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      921,
+      4169,
+      1549
+     ],
+     [
+      3249,
+      1619,
+      4167,
+      1749
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      831,
+      4177,
+      880
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      1830,
+      3678,
+      1899
+     ],
+     [
+      3248,
+      1949,
+      3693,
+      3203
+     ],
+     [
+      3976,
+      1870,
+      4164,
+      2027
+     ],
+     [
+      3734,
+      2109,
+      4183,
+      3203
+     ]
+    ],
+    "layout_words": 298
+   },
+   "headline_raw": "Cracks in MVA:\nUddhav Sena\nsays willgosolo\ninlocal elections\nWill wait for Uddhav to announce, says\nCong; NCP-SP to leave it to \u2018district units\u2019",
+   "deck_raw": "INCLUDES HIGH-STAKES BMC",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, JANUARY 11\n\nUNDER INCREASING pressure\nfrom its cadre, who questioned\nthe utility of being in the Maha\nVikas Aghadi (MVA) alliance af-\nter its humiliating defeat in the\nMaharashtraAssembyly elections,\nthe Shiv Sena (UBT)Saturdayan-\nnounced its intent of contesting\nall the urban local body and Zilla\nParishad elections including the\none for the coveted Brihan-\nmumbai Municipal Corporation\nonits own,\n\u201cFrom Mumbai till Nag pur,\nwe will fight corporation elec-\ntions on our own. Let it happen\nonce and forall, we want to lest\nourselves. We have been givena\ngo-ahead for this by party chief\nUddhav Thackeray,\u201d Shiv Sena\n(UBT) MP Sanjay Raut said in\nNagpur Saturday.\nThe move comes after the\nShiv Sena (UBT) faced intense\ncriticism from its own elected\nMIAs and cadre following the re-\nsults of the Maharashtra\nAssembly elections. The al-\nliance\u2019s combined tally of 46\nseats\u2014including 20 from Shiv\nSena (UBT), 16 from Congress,\nand 10 from NCP-SP\u2014was lower\n\nWe want\nto test\nourselves:\nSanjay Raut\n\nthan that of the Shinde Sena\nalone (57).\nAdditionally, Shiv Sena\n(UBT) garnered just 9.96% of the\nvote share, a significant drop\nfrom the 16.72% it got in the Lok\nSabha elections barely six\nmonths earlier.\nAfter the election setback,\nparty leaders urged Uddhav\nThackeray & consider severing\nties with the MVA and contest-\ning elections independently. On\nNovember 25, two days after the\nAssembly results, the majority of\n20 MLAs from Shiv Sena (UBT),\nin their first meeting with\nThackeray, had asked for break-\ning away from the MVA.\nThey had argued that doing\nso would be essential for recon-\nnecting with their base and pre-\nventing further support from\ndrifting to the Shinde Sena.\nWith critical corporation\nelections onthe horizon, includ-\ning the BMC, which the Shiv\nCONTINUEDON PAGE 2",
+   "ocr_conf": 91.08724832214764,
+   "ocr_low_conf_share": 0.03355704697986577,
+   "headline": "Cracks in MVA: Uddhav Sena says willgosolo inlocal elections Will wait for Uddhav to announce, says Cong; NCP-SP to leave it to 'district units'",
+   "deck": "INCLUDES HIGH-STAKES BMC",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, JANUARY 11",
+   "text": "UNDER INCREASING pressure from its cadre, who questioned the utility of being in the Maha Vikas Aghadi (MVA) alliance after its humiliating defeat in the MaharashtraAssembyly elections, the Shiv Sena (UBT)Saturdayannounced its intent of contesting all the urban local body and Zilla Parishad elections including the one for the coveted Brihanmumbai Municipal Corporation onits own, \"From Mumbai till Nag pur, we will fight corporation elections on our own. Let it happen once and forall, we want to lest ourselves. We have been givena go-ahead for this by party chief Uddhav Thackeray,\" Shiv Sena (UBT) MP Sanjay Raut said in Nagpur Saturday. The move comes after the Shiv Sena (UBT) faced intense criticism from its own elected MIAs and cadre following the results of the Maharashtra Assembly elections. The alliance's combined tally of 46 seats - including 20 from Shiv Sena (UBT), 16 from Congress, and 10 from NCP-SP - was lower\n\nWe want to test ourselves: Sanjay Raut\n\nthan that of the Shinde Sena Additionally, Shiv Sena (UBT) garnered just 9.96% of the vote share, a significant drop from the 16.72% it got in the Lok Sabha elections barely six months earlier. After the election setback, party leaders urged Uddhav Thackeray & consider severing ties with the MVA and contesting elections independently. On November 25, two days after the Assembly results, the majority of 20 MLAs from Shiv Sena (UBT), in their first meeting with Thackeray, had asked for breaking away from the MVA. They had argued that doing so would be essential for recon-necting with their base and preventing further support from drifting to the Shinde Sena. With critical corporation elections onthe horizon, including the BMC, which the Shiv CONTINUEDON PAGE 2",
+   "n_words": 283,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      324,
+      1454,
+      727,
+      1622
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "INPHASE 2,GENOME\nINDIA PROJECT TO\nFOCUSONDISEASES\nPAGE 6",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "INPHASE 2,GENOME; INDIA PROJECT TO; FOCUSONDISEASES",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1802,
+      744,
+      2226
+     ]
+    ],
+    "deck_boxes": [
+     [
+      323,
+      1736,
+      607,
+      1768
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      2303,
+      685,
+      2409
+     ],
+     [
+      320,
+      2461,
+      763,
+      2971
+     ],
+     [
+      316,
+      3002,
+      763,
+      4151
+     ]
+    ],
+    "layout_words": 200
+   },
+   "headline_raw": "Kerala teen\nathlete claims\nsexual abuse\nby 62 people\nover years",
+   "deck_raw": "14 ARRESTED",
+   "body_raw": "SHAJU PHILIP\nTHIRUVANANTHAPURAM,\nJANUARY 11\n\nKERALA POLICE has registered\nfive cases and arrested 14 people\nafter an 18-year-old from\nPathanamthitta district alleged\nthat as many as 62 people sexu-\nally abused herover the last sev-\neral years,\nPolice said the girl, who is\nfrom the Dalit community, has\nalleged that she had been sexu-\nally abused from the age of 16.\nThe alleged incident came to\nlight when volunteers of the\n\nmet the girl, a district-level ath-\nlew, during a field visit.\nWhen she told them she\nwanted to share her ordeal, the\nvolunteers informed the district\nChild Welfare Committee(CWC).\nPathanamthitta Superin-\ntendent of Police V G Vinod\nKumar said the probe has been\nintensified.\n\u201cMore cases will be regis-\ntered based onthe girl'sdetailed\nstatement, which is being\nrecorded by women police inthe\npresence of her mother. Action\nwill continue based on her state-\nments,\u201d he said.\nApartfrom relevant sections\nofthe Indian Penal Code and the\nProtection of Children from\nSexual Offences Act (POCSO), the\nsuspects were booked under\nvarious sections of the\nScheduled Caste and Scheduled\nTribe (Prevention of Atrocities)\nAct, 1989. Five cases were regis-\ntered in the last two days.\nAdvocate N Rajeev, who\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.09547738693468,
+   "ocr_low_conf_share": 0.05025125628140704,
+   "headline": "Kerala teen athlete claims sexual abuse by 62 people over years",
+   "deck": "14 ARRESTED",
+   "byline": "SHAJU PHILIP; THIRUVANANTHAPURAM,; JANUARY 11",
+   "text": "KERALA POLICE has registered five cases and arrested 14 people after an 18-year-old from Pathanamthitta district alleged that as many as 62 people sexually abused herover the last several years, Police said the girl, who is from the Dalit community, has alleged that she had been sexually abused from the age of 16. The alleged incident came to light when volunteers of the\n\nmet the girl, a district-level athlew, during a field visit. When she told them she wanted to share her ordeal, the volunteers informed the district Child Welfare Committee(CWC). Pathanamthitta Superintendent of Police V G Vinod Kumar said the probe has been intensified. \"More cases will be registered based onthe girl'sdetailed statement, which is being recorded by women police inthe presence of her mother. Action will continue based on her statements,\" he said. Apartfrom relevant sections ofthe Indian Penal Code and the Protection of Children from Sexual Offences Act (POCSO), the suspects were booked under various sections of the Scheduled Caste and Scheduled Tribe (Prevention of Atrocities) Act, 1989. Five cases were registered in the last two days. Advocate N Rajeev, who CONTINUEDON PAGE2",
+   "n_words": 186,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      2108,
+      2468,
+      2176
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      804,
+      2223,
+      3147,
+      2301
+     ]
+    ],
+    "layout_words": 49
+   },
+   "headline_raw": "WOMEN AGNIVEERS PREPARE FOR ARMY DAY",
+   "deck_raw": "",
+   "body_raw": "Women Agniveers from the Corps of Military Police march during rehearsals for the Army Day parade in Pune on Saturday. This is the first time an all-women\nAgniveer contingent will take part in the Army Day parade, to be held at Bombay EngineerGroup Centre, Khadki, onjanuary 15. Pawn Khengre",
+   "ocr_conf": 91.0204081632653,
+   "ocr_low_conf_share": 0.061224489795918366,
+   "headline": "WOMEN AGNIVEERS PREPARE FOR ARMY DAY",
+   "deck": "",
+   "byline": "",
+   "text": "Women Agniveers from the Corps of Military Police march during rehearsals for the Army Day parade in Pune on Saturday. This is the first time an all-women Agniveer contingent will take part in the Army Day parade, to be held at Bombay EngineerGroup Centre, Khadki, onjanuary 15. Pawn Khengre",
+   "n_words": 49,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      2408,
+      3131,
+      2890
+     ],
+     [
+      810,
+      2922,
+      1649,
+      3053
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      3133,
+      1236,
+      3161
+     ],
+     [
+      806,
+      3175,
+      1251,
+      4159
+     ],
+     [
+      1534,
+      3172,
+      1716,
+      3322
+     ],
+     [
+      1293,
+      3412,
+      1738,
+      3644
+     ],
+     [
+      1296,
+      3728,
+      1722,
+      3762
+     ],
+     [
+      1783,
+      3095,
+      2226,
+      3248
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "Citing CAG report, SpaDeX satellites 230 metres apat\nNadda says \u20182,026 cr ISRO may attempt docking today\nb bt ' * 48 \u2014\u2014\u2014~_ in that configuration for fur\nloss from liquor settee [EE eae hen\npolicy, targets AAP \u2014 we wounsprereieaan \u201cme CaO ion ny eco\nReport manufactured at BJP office,\nhas no credibility: AAP hits back",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\n\nNEW DELHI, JANUARY 11\nA WAR OF words erupted be-\ntween the Bharatiya Janata Party\n(BJP) and the Aam Aadmi Party\n(AAP) over the findings of aCAG\nreport purportedly saying that\nthe state exchequer incurred a\nloss of Rs 2,026 crore due tothe\nDethi government's now-re-\ntracted excise policy.\nFollowing news reports by\nTV channels CNN News 18 and\nIndia Today, BJP national presi-\ndent Jagat Prakash Nadda went\nontheoffensive and said \u201cinten-\ntional lapses\u201d in the policy\ncaused losses of Rs 2,026 crore to\nthe exchequer. AAP dismissed\nthe report and said itwas \u201cman-\nufactured at the BJP office\u201d.\n\u201cIntoxicated by power, high\non mis-governance. \u2018AAP'DA\nmodel of loot in full display and\nthat to on something like liquor.\n\nAAP model\noflootin\nfull display:\nNadda\n\nJust a matter of a few weeks be-\nforethey are voted out and pun-\nished for their misdeeds. CAG\nReport on \u2018Liquorgate\u2019 exposes\n@ArnvindKejnwaland @AamAad-\nmuParty Gov. Intentional'Lapses\u2019\n\n(Sic.)\" Nadda said in apostonX.\n\nThe two satellites, called\nChaser and Target, were brought\ntogether, just 230 metres apart,\non Saturday eveningand locked",
+   "ocr_conf": 85.65555555555555,
+   "ocr_low_conf_share": 0.09444444444444444,
+   "headline": "Citing CAG report, SpaDeX satellites 230 metres apat Nadda says '2,026 cr ISRO may attempt docking today loss from liquor settee [EE eae hen policy, targets AAP - we wounsprereieaan \"me CaO ion ny eco Report manufactured at BJP office, has no credibility: AAP hits back",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, JANUARY 11",
+   "text": "A WAR OF words erupted between the Bharatiya Janata Party (BJP) and the Aam Aadmi Party (AAP) over the findings of aCAG report purportedly saying that the state exchequer incurred a loss of Rs 2,026 crore due tothe Dethi government's now-retracted excise policy. Following news reports by TV channels CNN News 18 and India Today, BJP national president Jagat Prakash Nadda went ontheoffensive and said \"intentional lapses\" in the policy caused losses of Rs 2,026 crore to the exchequer. AAP dismissed the report and said itwas \"manufactured at the BJP office\". \"Intoxicated by power, high on mis-governance. 'AAP'DA model of loot in full display and that to on something like liquor.\n\nAAP model oflootin full display: Nadda\n\nJust a matter of a few weeks beforethey are voted out and punished for their misdeeds. CAG Report on 'Liquorgate' exposes @ArnvindKejnwaland @AamAadmuParty Gov. Intentional'Lapses'\n\n(Sic.)\" Nadda said in apostonX.\n\nThe two satellites, called Chaser and Target, were brought together, just 230 metres apart, on Saturday eveningand locked",
+   "n_words": 165,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      2407,
+      3198,
+      2510
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2701,
+      2126,
+      2770
+     ],
+     [
+      1786,
+      2820,
+      2226,
+      3090
+     ],
+     [
+      2762,
+      2662,
+      3204,
+      2730
+     ],
+     [
+      2762,
+      2741,
+      3204,
+      3242
+     ]
+    ],
+    "layout_words": 99
+   },
+   "headline_raw": "SpaDeX satellites 230 metres apart,",
+   "deck_raw": "",
+   "body_raw": "ANONNA DUTT\nNEW DELHI, JANUARY 11\n\nTHE INDIAN Space Research\nOrganisation (ISRO) is hoping to\nget third-time tucky asit islikely\nto make another attempt at\ndocking the two satellites of the\nSpaDeX mission in space on\nSunday.\n\nin that configuration for further\nchecks.\n\nOfficials told The Indian\nExpress that the final docking\nmanoeuvre may be carried out\non Sunday.\nISRO had to postpone the\ndocking plans on two occasions\nearlier, on January7 and January\n9, because the satellites had not\nbeen able to achieve the required\nalignment.\n\u201cAfter the last manoeuvre,\nthe satellites had drifted away,\nCONTINUEDON PAGE2",
+   "ocr_conf": 90.44897959183673,
+   "ocr_low_conf_share": 0.04081632653061224,
+   "headline": "SpaDeX satellites 230 metres apart,",
+   "deck": "",
+   "byline": "ANONNA DUTT; NEW DELHI, JANUARY 11",
+   "text": "THE INDIAN Space Research Organisation (ISRO) is hoping to get third-time tucky asit islikely to make another attempt at docking the two satellites of the SpaDeX mission in space on Sunday.\n\nin that configuration for further checks.\n\nOfficials told The Indian Express that the final docking manoeuvre may be carried out on Sunday. ISRO had to postpone the docking plans on two occasions earlier, on January7 and January 9, because the satellites had not been able to achieve the required alignment. \"After the last manoeuvre, the satellites had drifted away, CONTINUEDON PAGE2",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2292,
+      2723,
+      2673,
+      2830
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2309,
+      2860,
+      2683,
+      3209
+     ]
+    ],
+    "layout_words": 40
+   },
+   "headline_raw": "a Exercising\nre} @ caution",
+   "deck_raw": "",
+   "body_raw": "DOCKING TWO moving\nSatellites in space is acom-\nplicated operation, so it is\nno surprise ISRO is being\ncautious. Since this is just a\ntechnology demonstration\nmission, getting it right is\nmore important that get-\nting it done on schedule.",
+   "ocr_conf": 87.125,
+   "ocr_low_conf_share": 0.1,
+   "headline": "a Exercising re} @ caution",
+   "deck": "",
+   "byline": "",
+   "text": "DOCKING TWO moving Satellites in space is acomplicated operation, so it is no surprise ISRO is being cautious. Since this is just a technology demonstration mission, getting it right is more important that getting it done on schedule.",
+   "n_words": 38,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      3315,
+      3192,
+      3582
+     ],
+     [
+      1787,
+      3569,
+      2118,
+      3650
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      3727,
+      2229,
+      4159
+     ],
+     [
+      2513,
+      3648,
+      2690,
+      3795
+     ],
+     [
+      2272,
+      3889,
+      2714,
+      4160
+     ],
+     [
+      2761,
+      3572,
+      3206,
+      4153
+     ]
+    ],
+    "layout_words": 165
+   },
+   "headline_raw": "Bumrah likely to miss Champions\nTrophy group stage matches\nDEVENDRA PANDEY",
+   "deck_raw": "",
+   "body_raw": "IN A setback for India, strike\nbowler Jasprit Bumrah is likely\nto miss the group stage of next\nmonth's Champions Tro phy due\nto health reasons,\nThe Indian Express has leamt\nthat Bumrah, whohas swelling on\nhis back, has been asked to report\nto the National Cricket Academy\n(NCA) in Bengaluru where his re-\ncovery will be monitored.\n\nThe strike\nbowler has\nswellingon\nhis back\n\nThe Champions Trophy,\nwhich will have the world\u2019s top\neight ODI teams, begins on\nFebruary 19, with the matches\nscheduled at Karachi,\nRawalpindi, Lahore and Dubai\nfor India's games.\n\nThe national selectors, who\nmet in Mumbai on Saturday to\npick the team for the T20 series\nat home against England later\nthis month, are learnt to have\nbeen updated about Bumrah's\nfitness status. Though thedead-\nline for announcing squads for\nthe Champions Trophy is\nSunday, the BCCI has sought an\nextension.\nSelectors are considering if\ntheyshould name Bumrahin the\nsquad of 15 or add him to thelist\nCONTINUEDON PAGE2",
+   "ocr_conf": 87.92073170731707,
+   "ocr_low_conf_share": 0.09146341463414634,
+   "headline": "Bumrah likely to miss Champions Trophy group stage matches DEVENDRA PANDEY",
+   "deck": "",
+   "byline": "",
+   "text": "IN A setback for India, strike bowler Jasprit Bumrah is likely to miss the group stage of next month's Champions Tro phy due to health reasons, The Indian Express has leamt that Bumrah, whohas swelling on his back, has been asked to report to the National Cricket Academy (NCA) in Bengaluru where his recovery will be monitored.\n\nThe strike bowler has swellingon his back\n\nThe Champions Trophy, which will have the world's top eight ODI teams, begins on February 19, with the matches scheduled at Karachi, Rawalpindi, Lahore and Dubai for India's games.\n\nThe national selectors, who met in Mumbai on Saturday to pick the team for the T20 series at home against England later this month, are learnt to have been updated about Bumrah's fitness status. Though thedeadline for announcing squads for the Champions Trophy is Sunday, the BCCI has sought an extension. Selectors are considering if theyshould name Bumrahin the squad of 15 or add him to thelist CONTINUEDON PAGE2",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3356,
+      4174,
+      3824
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3250,
+      3845,
+      4171,
+      3968
+     ]
+    ],
+    "body_boxes": [
+     [
+      3248,
+      4046,
+      3610,
+      4115
+     ],
+     [
+      3244,
+      4166,
+      3690,
+      5109
+     ],
+     [
+      3733,
+      4795,
+      4180,
+      5101
+     ]
+    ],
+    "layout_words": 150
+   },
+   "headline_raw": "Members of Public\nService Commissions\nmust not be wedded\nto any ideology: V-P",
+   "deck_raw": "Criticises practice of granting extension\nin service, post-retirement appointment",
+   "body_raw": "SANATH PRASAD\nBENGALURU, JANUARY 11\n\nSPEAKING OUT against appoint-\nments \u201cdriven by patronage and\nfavouritism\u201d in Public Service\nCommissions, Vice-President\nJagdeep Dhankhar on Saturday\nsaid PSC members should not be\n\u201cwedded to a particular ideology\norindwidual\".\nDhankhar also criticised the\npractice of granting extensionsin\nservice, calling it a \u201csetback to\nthose who are in line\u201d and a\nmove that \u201cdefies the logical\nprinciple of extension\u201d. In this\ncontext. he also spoke out against\npost-retirement assignments,\nsaying such \u201clargesse... is anti-\nthetical to what was visualised\nby framers of the Constitution\u201d.\nDhankhar was delivering the\ninaugural address at the 25th\nNational Conference of Chair-\npersonsof All State Public Service\nCommissions in Bengaluru.\n\nCalling for the strenginening ofin-\nstitutions, he expressed concem\noverthe divisive and polarisedna-\nture of India's polity, and under-\nlined the need for \u201cpolitical fire ex-\ntinguishers\u201d.\n\u201cIt is with utmost restraint\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.6938775510204,
+   "ocr_low_conf_share": 0.08843537414965986,
+   "headline": "Members of Public Service Commissions must not be wedded to any ideology: V-P",
+   "deck": "Criticises practice of granting extension in service, post-retirement appointment",
+   "byline": "SANATH PRASAD; BENGALURU, JANUARY 11",
+   "text": "SPEAKING OUT against appoint-ments \"driven by patronage and favouritism\" in Public Service Commissions, Vice-President Jagdeep Dhankhar on Saturday said PSC members should not be \"wedded to a particular ideology orindwidual\". Dhankhar also criticised the practice of granting extensionsin service, calling it a \"setback to those who are in line\" and a move that \"defies the logical principle of extension\". In this context. he also spoke out against post-retirement assignments, saying such \"largesse... is antithetical to what was visualised by framers of the Constitution\". Dhankhar was delivering the inaugural address at the 25th National Conference of Chair-personsof All State Public Service Commissions in Bengaluru.\n\nCalling for the strenginening ofinstitutions, he expressed concem overthe divisive and polarisednature of India's polity, and under-lined the need for \"political fire extinguishers\". \"It is with utmost restraint",
+   "n_words": 131,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      3666,
+      1736,
+      3821
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1294,
+      3825,
+      1737,
+      3884
+     ]
+    ],
+    "body_boxes": [
+     [
+      1296,
+      3888,
+      1738,
+      3994
+     ],
+     [
+      1297,
+      4068,
+      1692,
+      4146
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "TDR Pr RRA RA AUS\nCr Loss to Exchequer money\n(Sic.)\u201d Nadda said in apostonX\nRetaliating to the allegations,\nAAP chiof nananalcmeecnecnn",
+   "deck_raw": "PU CPCs PARA SPOKE SDE TMT\nPriyanka Kakkar accused the BJP",
+   "body_raw": "of \u201cmanufacturing\u201d the \u201cfake\u201d re-\nport to attack the AAP.\nCONTINUEDON PAGE 2\n\nDELHI POLLS: BJP\n2ND LIST OUT Pace 3",
+   "ocr_conf": 82.95238095238095,
+   "ocr_low_conf_share": 0.09523809523809523,
+   "headline": "TDR Pr RRA RA AUS Cr Loss to Exchequer money (Sic.)\" Nadda said in apostonX Retaliating to the allegations, AAP chiof nananalcmeecnecnn",
+   "deck": "PU CPCs PARA SPOKE SDE TMT Priyanka Kakkar accused the BJP",
+   "byline": "DELHI POLLS: BJP",
+   "text": "of \"manufacturing\" the \"fake\" report to attack the AAP. CONTINUEDON PAGE 2\n\n2ND LIST OUT Pace 3",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4223,
+      1226,
+      4417
+     ],
+     [
+      321,
+      4427,
+      1143,
+      4573
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4598,
+      745,
+      4667
+     ],
+     [
+      319,
+      4717,
+      761,
+      5106
+     ],
+     [
+      1047,
+      4636,
+      1243,
+      4784
+     ],
+     [
+      805,
+      4874,
+      1253,
+      5099
+     ]
+    ],
+    "layout_words": 93
+   },
+   "headline_raw": "Anti-Naxal, J&K veteran\ncop will be Delhi Police\nSpecial Commissioner",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, JANUARY 11\n\nADDITIONAL DIRECTOR General\nof Police, Law and Order in J&K,\nVijay Kumar, who has led J&K\nPolice in Kashmir Valley for the\nlast five years, will take over as\nSpecial Commissioner of Police\nin Delhi.\nThis comes at atime when\ncrimeand gang- related violence\nin the Capital became a political\n\nVijay Kumar\nisan IPS\nofficer of the\n1997 batch\n\nflashpoint between the AAP\nstate government and the Centre\n\u2014 Delhi Police comes under the\nUnion Home Ministry.\nA 1997 batch IPS officer of\nCONTINUED ON PAGE2",
+   "ocr_conf": 88.45161290322581,
+   "ocr_low_conf_share": 0.07526881720430108,
+   "headline": "Anti-Naxal, J&K veteran cop will be Delhi Police Special Commissioner",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, JANUARY 11",
+   "text": "ADDITIONAL DIRECTOR General of Police, Law and Order in J&K, Vijay Kumar, who has led J&K Police in Kashmir Valley for the last five years, will take over as Special Commissioner of Police in Delhi. This comes at atime when crimeand gang- related violence in the Capital became a political\n\nVijay Kumar isan IPS officer of the 1997 batch\n\nflashpoint between the AAP state government and the Centre - Delhi Police comes under the Union Home Ministry. A 1997 batch IPS officer of",
+   "n_words": 83,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      4223,
+      3133,
+      4490
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      4520,
+      1652,
+      4589
+     ],
+     [
+      1295,
+      4638,
+      1740,
+      5103
+     ],
+     [
+      2760,
+      4480,
+      3202,
+      5101
+     ]
+    ],
+    "layout_words": 144
+   },
+   "headline_raw": "At Maha Kumbh, a 30-member musicians\u2019\nband strikes a united note \u2014 for 4 decades",
+   "deck_raw": "",
+   "body_raw": "ANAND MOHAN J\nPRAYAGRAJ, JANUARY 11\n\nON THE banks of the Sangam,\nwhere the Ganga and the\nYamuna converge, Azad Band's\n12-hour performance reaches a\ncrescendo, enthralling its audi-\nence\u2014a sea of saffron-clad sad-\nhus atthe MahaKumbh in Uttar\nPradesh\u2019s Prayagraj.\nAweek after controversial\nstatements by religious leaders\nof either side over the entry of\nMuslim traders in the mela, the\n\n30-member band led by musi-\ncians from the community has\nbecome a symbol of tradition\nand resilience. For the band,\nwhich has been playing at the\nKumbh for 40 years now, its mu-\nSic is more than just entertain-\nment \u2014 it is a bridge, a prayer\nand a celebration of unity.\n\u201cSangeeteksagar hai. Iska koi\nant nahi hai. Yeh Hindu-Musim\nchalta rahega. Ganga-Jamuni\ntehzeeb rahe gi (Music isendless,\nlike the ocean. Communal ten-\nsions will keep going on but the\nCONTINUED ON PAGE2",
+   "ocr_conf": 89.50344827586207,
+   "ocr_low_conf_share": 0.04827586206896552,
+   "headline": "At Maha Kumbh, a 30-member musicians' band strikes a united note - for 4 decades",
+   "deck": "",
+   "byline": "ANAND MOHAN J; PRAYAGRAJ, JANUARY 11",
+   "text": "ON THE banks of the Sangam, where the Ganga and the Yamuna converge, Azad Band's 12-hour performance reaches a crescendo, enthralling its audience - a sea of saffron-clad sadhus atthe MahaKumbh in Uttar Pradesh's Prayagraj. Aweek after controversial statements by religious leaders of either side over the entry of Muslim traders in the mela, the\n\n30-member band led by musicians from the community has become a symbol of tradition and resilience. For the band, which has been playing at the Kumbh for 40 years now, its mu-Sic is more than just entertainment - it is a bridge, a prayer and a celebration of unity. \"Sangeeteksagar hai. Iska koi ant nahi hai. Yeh Hindu-Musim chalta rahega. Ganga-Jamuni tehzeeb rahe gi (Music isendless, like the ocean. Communal tensions will keep going on but the",
+   "n_words": 132,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      316,
+      5261,
+      4159,
+      5393
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5474,
+      499,
+      5506
+     ],
+     [
+      318,
+      5743,
+      760,
+      6131
+     ],
+     [
+      805,
+      5429,
+      1251,
+      6136
+     ],
+     [
+      1294,
+      5429,
+      1738,
+      5614
+     ],
+     [
+      1294,
+      5626,
+      1736,
+      5971
+     ],
+     [
+      1294,
+      5983,
+      1735,
+      6136
+     ],
+     [
+      2759,
+      5430,
+      3205,
+      5543
+     ],
+     [
+      3246,
+      5431,
+      3691,
+      6138
+     ],
+     [
+      3735,
+      5431,
+      4178,
+      5855
+     ],
+     [
+      3735,
+      5867,
+      4177,
+      6131
+     ]
+    ],
+    "layout_words": 424
+   },
+   "headline_raw": "As kite festival draws near, \u2018terrace tourism\u2019 takes flight in Old Ahmedabad",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nA WELCOME drink, a lunch\nspread with delicacies like und-\nhiyu and til-chikki, hand mas-\nsagers to work out the kinks\nfrom the shoulders, and music,\nmasks hatsand vuvuzelas(plas-\ntic horns) tocelebrate a win.\nAs the two-day Uttarayan,\ncelebrated in north India as\nMakar Sankranti, inches closer,\n\nOld Ahmedabad gets.ascompet-\nitive about \u201cterrace tourism\u201d, as\nit does about flying kites during\nthe festival onJanuary 14-15.\nWith most residents of Old\nAhmedabad, which was given\nthe UNESCO World Heritage City\ntag in 2017, moving to the other\nend of the city, across the\nSabarmati \u2014 where terraces are\nrare, have been taken over by s0-\nlar panels or are at a distance\nfrom each other \u2014 contests in\ntheskies continue to be more ex-\nciting in the walled city.\nDuring the two days of the\nfestival, intense kite fights take\nplace on these rented terraces,\n\nwhere victors\u2019 shouts of \u201ckai po\nche (I've cut the kite)\" are accom-\npanied by bewigged and\nmasked spectators blowing vu-\nvuzelas.\n\nThough the concept of terrace\nrentals has existed in Old\nAhmedabad for a few years, ravel\nfirms have now started offering a\nrange of packages for those inter-\nested, including people from\nacross the city, different states,\nother countries and even corpo-\nrates.\n\nAjay Modi, who runs a travel\nfirm and owns three houses in\nOld Ahmedabad\u2019s Khadia local-\nity, says, \"Many people from pols\n\n(localities in the walled city) mi-\ngrated to other parts of\nAhmedabad over the years.Since\n\nperson on Vasi-Uttarayan\n(January 15).\u201d\nPrakash Bhavsar is a resident\nof Khadia who facilitates terrace\nrentals \u201cPeople who want to rent\nterraces contact me and I put\nthem in touch with the house\nownersconcemed.! have already\nfacilitated four deals this year.\nThough women from some\nhouses in the walled city are in-\nvolved in gruh udyog (home en-\nterprises), they rarely use their\nterraces. Terrace rentals are a\ngreat way for them to supple-\nmenttheir income,\u201d says Bhavsar.\nKetan Vyas, a resident of\nDariapur in Old Ahmedabad,\n\nsayshe rents outhis massive ter-\nrace, which can accommodate\nbetween 30 and 50 persons. His\npackage, which includes a host\nof features, costs Rs 3,800 per\nadultand Rs 2,400 per child Like\nModi's, Vyas's terrace package\ncomes with a host of facilities.\nHowever hesays, it offerssome-\nthing that few can\u2014 parking fa-\ncilities.\n\nModi, whose terrace package\ndoes not include parking facili-\nties, says, \u201cSince parking space is\nvery limited in the walled city, |\ntell my guests w either take ataxi\nor an auto rickshaw.\u201d\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.28537735849056,
+   "ocr_low_conf_share": 0.04716981132075472,
+   "headline": "As kite festival draws near, 'terrace tourism' takes flight in Old Ahmedabad",
+   "deck": "",
+   "byline": "ANCHOR",
+   "text": "A WELCOME drink, a lunch spread with delicacies like undhiyu and til-chikki, hand massagers to work out the kinks from the shoulders, and music, masks hatsand vuvuzelas(plastic horns) tocelebrate a win. As the two-day Uttarayan, celebrated in north India as Makar Sankranti, inches closer,\n\nOld Ahmedabad gets.ascompetitive about \"terrace tourism\", as it does about flying kites during the festival onJanuary 14-15. With most residents of Old Ahmedabad, which was given the UNESCO World Heritage City tag in 2017, moving to the other end of the city, across the Sabarmati - where terraces are rare, have been taken over by s0- lar panels or are at a distance from each other - contests in theskies continue to be more exciting in the walled city. During the two days of the festival, intense kite fights take place on these rented terraces,\n\nwhere victors' shouts of \"kai po che (I've cut the kite)\" are accompanied by bewigged and masked spectators blowing vuvuzelas.\n\nThough the concept of terrace rentals has existed in Old Ahmedabad for a few years, ravel firms have now started offering a range of packages for those interested, including people from across the city, different states, other countries and even corporates.\n\nAjay Modi, who runs a travel firm and owns three houses in Old Ahmedabad's Khadia locality, says, \"Many people from pols\n\n(localities in the walled city) migrated to other parts of Ahmedabad over the years.Since\n\nperson on Vasi-Uttarayan (January 15).\" Prakash Bhavsar is a resident of Khadia who facilitates terrace rentals \"People who want to rent terraces contact me and I put them in touch with the house ownersconcemed.! have already facilitated four deals this year. Though women from some houses in the walled city are involved in gruh udyog (home enterprises), they rarely use their terraces. Terrace rentals are a great way for them to supple-menttheir income,\" says Bhavsar. Ketan Vyas, a resident of Dariapur in Old Ahmedabad,\n\nsayshe rents outhis massive terrace, which can accommodate between 30 and 50 persons. His package, which includes a host of features, costs Rs 3,800 per adultand Rs 2,400 per child Like Modi's, Vyas's terrace package comes with a host of facilities. However hesays, it offerssomething that few can - parking facilities.\n\nModi, whose terrace package does not include parking facilities, says, \"Since parking space is very limited in the walled city, tell my guests w either take ataxi or an auto rickshaw.\"",
+   "n_words": 401,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2757,
+      5545,
+      3202,
+      5602
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2761,
+      5608,
+      3199,
+      5666
+     ]
+    ],
+    "body_boxes": [
+     [
+      2759,
+      5667,
+      3201,
+      6138
+     ]
+    ],
+    "layout_words": 66
+   },
+   "headline_raw": "lastyear,| started offering terrace\net tet tet geet eee ee Oe",
+   "deck_raw": "EE RG Te I din\nmosphere in pols during",
+   "body_raw": "Uttarayan is unique. By renting\nouttheir terraces, house owners\neam some money, while people\nwho want to enjoy Uttarayan\nhere, do so with such packages.\u201d\nStating that he rents out all\nthree of his terraces, Modi says,\n\u201cEach of my terracescanaccom-\nmodate a maximum of 12 per-\nsons. They can be rented for Rs\n3,000 per person on Uttarayan\n(January 14) and for Rs 2,000 per",
+   "ocr_conf": 92.5909090909091,
+   "ocr_low_conf_share": 0.0,
+   "headline": "lastyear, started offering terrace et tet tet geet eee ee Oe",
+   "deck": "mosphere in pols during",
+   "byline": "",
+   "text": "Uttarayan is unique. By renting outtheir terraces, house owners eam some money, while people who want to enjoy Uttarayan here, do so with such packages.\" Stating that he rents out all three of his terraces, Modi says, \"Each of my terracescanaccommodate a maximum of 12 persons. They can be rented for Rs 3,000 per person on Uttarayan (January 14) and for Rs 2,000 per",
+   "n_words": 64,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.2,
+ "flags": []
+}

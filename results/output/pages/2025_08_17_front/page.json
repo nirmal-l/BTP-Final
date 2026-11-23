@@ -1,0 +1,947 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_17_front",
+ "source_file": "2025-08-17_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-17_front.png",
+ "date": "2025-08-17",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1254,
+  "n_lines": 545,
+  "mean_line_conf": 90.6559231288589,
+  "orphan_words": 81,
+  "body_words_total": 2318
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      907,
+      4170,
+      1397
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3252,
+      1462,
+      4168,
+      1593
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      1673,
+      3666,
+      1782
+     ],
+     [
+      3250,
+      1831,
+      3692,
+      2509
+     ],
+     [
+      3899,
+      1725,
+      4132,
+      1819
+     ],
+     [
+      3784,
+      1873,
+      4140,
+      2453
+     ],
+     [
+      3738,
+      2544,
+      4182,
+      3006
+     ]
+    ],
+    "layout_words": 221
+   },
+   "headline_raw": "GoM meeting on\nGST reforms next\nweek, tight timeline\nfor Council\u2019s nod",
+   "deck_raw": "Pre-filled returns, refunds within fixed\ntime among other proposed changes",
+   "body_raw": "ANILSASI\n&PVAIDYANATHAN IYER\nNEW DELHI, AUGUST 16\n\nTHE GROUP of Ministers (GoM)\non Rate Rationalisation is set to\nmeetin the coming week to dis-\ncuss the proposal on next-gen-\neration GST reforms Prime\nMinister Narendra Modi an-\nnounced on Friday. The GoM has\nministers from sixstates: Kerala,\nUttar Pradesh, Rajasthan, West\nBengal, Bihar and Karnataka.\nWhile the proposal was\nshared with the ministers from\nthe six states a day before the\nPM's Independence Day address,\nthe Department of Revenue in\nthe Union Ministry of Finance\nwill make a presentation to the\nF ae ey es ey en eee |\n\nBehind\n|}@ thetiming\n\nTHECENTRE is leat to\nhave factored in at least\nthree meetings of the\nGroup of Ministers\n(GoM) before a final pro-\nposal is putbefore the GST\nCouncil. Indications are\nthat a rollout is being\ntargeted well ahead of\nDiwali, since the industry\nneedstime toreconcile to\nthe new rate structure and\nany disruption ahead of\nthe festive season would\nneed to be avoided.\n\nproposal, sources said most of\nthe products and services would\nbe placed in either of the two\nrates \u20145 per cent or 18 percent.\nGoods and services used by the\ncommon man, or as inputs by\nfarmers, small entrepreneurs\nand MSMEs, will attract the\nlower 5 per cent duty. This will\nreduce the tax burdenand is ex-\npected to drive consumption.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.91703056768559,
+   "ocr_low_conf_share": 0.06550218340611354,
+   "headline": "GoM meeting on GST reforms next week, tight timeline for Council's nod",
+   "deck": "Pre-filled returns, refunds within fixed time among other proposed changes",
+   "byline": "ANILSASI; &PVAIDYANATHAN IYER; NEW DELHI, AUGUST 16",
+   "text": "THE GROUP of Ministers (GoM) on Rate Rationalisation is set to meetin the coming week to discuss the proposal on next-generation GST reforms Prime Minister Narendra Modi announced on Friday. The GoM has ministers from sixstates: Kerala, Uttar Pradesh, Rajasthan, West Bengal, Bihar and Karnataka. While the proposal was shared with the ministers from the six states a day before the PM's Independence Day address, the Department of Revenue in the Union Ministry of Finance will make a presentation to the\n\nBehind }@ thetiming\n\nTHECENTRE is leat to have factored in at least three meetings of the Group of Ministers (GoM) before a final proposal is putbefore the GST Council. Indications are that a rollout is being targeted well ahead of Diwali, since the industry needstime toreconcile to the new rate structure and any disruption ahead of the festive season would need to be avoided.\n\nproposal, sources said most of the products and services would be placed in either of the two rates - 5 per cent or 18 percent. Goods and services used by the common man, or as inputs by farmers, small entrepreneurs and MSMEs, will attract the lower 5 per cent duty. This will reduce the tax burdenand is expected to drive consumption.",
+   "n_words": 206,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      1325,
+      1226,
+      1657
+     ]
+    ],
+    "layout_words": 15,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Says Ukraine has\nto make a deal:\n\u2018Best way is peace\nagreement and\nnot ceasefire...\u2019",
+   "ocr_conf": 91.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Says Ukraine has to make a deal: 'Best way is peace agreement and not ceasefire...'",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1322,
+      3210,
+      1726
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2764,
+      1791,
+      3095,
+      1861
+     ],
+     [
+      2760,
+      1911,
+      3206,
+      3796
+     ]
+    ],
+    "layout_words": 247
+   },
+   "headline_raw": "India will have\nto look beyond\ntariff, at reset of\nUS-Russia ties,\nits implications",
+   "deck_raw": "",
+   "body_raw": "CRAJA MOHAN\nNEW DELHI, AUGUST 16\n\nIFINDIA wascounting on aclear\nand positive outcome from the\nAlaska summit to avert the ad-\nditional 25 per cent US tariff on\nIndian exports, it will be disap-\npointed by the inability of\nDonald Trump and Vladimir\nPutin to deliver last night. The\nunfinished US-Russian talks in\nAlaska leave a cloud of uncer-\ntainty over India\u2019s trade negotia-\ntions with Washington. On the\nupside, though, there was no\nbreakdown of engagement, and\nthe two leaders remain hopeful\nof an accom-\nmodation. As |\nthe details of =\nthe summit [=\nconversations |< e\ncome into pub-\nlic view, India\nwill have to look beyond the tar-\niff question at the implications\nof a potential reset in Russia's re-\nlations with the US and the West.\nAt their joint press appear-\nance, Putin spoke of the \u201cagree-\nment\u201d between the two leaders\nthat \u201cwill pave the path toward\npeace in Ukraine\u201d.\nTrump was less definitive.\n\u201cThere\u2019s no deal until there\u2019s a\ndeal,\u201d he said. \u201cWe didn\u2019t get\nthere, but we have a very good\nchance of getting there... There\nare just a very few (sticking\npoints) left,\u201d Trump said. \u201cSome\nare not that significant. One is\nprobably the most significant \u2014\nbut we have a very good chance\nof getting there,\u201d he added, with-\nout identifying the issues,\nWhile the initial assessments\nof the summit focused on the\nlack of an agreement on cease-\nfire in Ukraine, Trump and Putin\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.53815261044177,
+   "ocr_low_conf_share": 0.03614457831325301,
+   "headline": "India will have to look beyond tariff, at reset of US-Russia ties, its implications",
+   "deck": "",
+   "byline": "CRAJA MOHAN; NEW DELHI, AUGUST 16",
+   "text": "IFINDIA wascounting on aclear and positive outcome from the Alaska summit to avert the additional 25 per cent US tariff on Indian exports, it will be disappointed by the inability of Donald Trump and Vladimir Putin to deliver last night. The unfinished US-Russian talks in Alaska leave a cloud of uncertainty over India's trade negotiations with Washington. On the upside, though, there was no breakdown of engagement, and the two leaders remain hopeful the details of = the summit [= conversations < e come into public view, India will have to look beyond the tariff question at the implications of a potential reset in Russia's relations with the US and the West. At their joint press appearance, Putin spoke of the \"agreement\" between the two leaders that \"will pave the path toward peace in Ukraine\". Trump was less definitive. \"There's no deal until there's a deal,\" he said. \"We didn't get there, but we have a very good chance of getting there... There are just a very few (sticking points) left,\" Trump said. \"Some are not that significant. One is probably the most significant - but we have a very good chance of getting there,\" he added, without identifying the issues, While the initial assessments of the summit focused on the lack of an agreement on ceasefire in Ukraine, Trump and Putin",
+   "n_words": 222,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1606,
+      758,
+      1976
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      1538,
+      696,
+      1570
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      2460,
+      714,
+      2575
+     ],
+     [
+      319,
+      2658,
+      685,
+      2728
+     ],
+     [
+      318,
+      2779,
+      763,
+      3952
+     ]
+    ],
+    "layout_words": 159
+   },
+   "headline_raw": "ED raids homes\nof TN minister,\nkin; DMK says\nbid to deflect\nfrom \u2018vote chor?",
+   "deck_raw": "DA CASE REVIVED",
+   "body_raw": "During the ED searches at\none of the properties in\nDindigul, Tamil Nadu. PT!\n\nARUN JANARDHANAN\nCHENNAI, AUGUST 16\n\nOFFICERS FROM the Enforcement\nDirectorate (ED) launched simul-\ntaneous searches on Saturday at\nthe properties of Tamil Nadu\nRural Development Minister\n1 Periyasamy, his family members,\nand linked premises in Dindigul\nand Chennai, reviving a years-old\ndisproportionate assets case that\nhad been dismissed but was re-\ncently reopened by the Madras\nHigh Court.\nAbout a dozen ED officials,\nsplit into three teams and backed\nby armed Central Reserve Police\nForce personnel, arrived at three\nresidential locations in Dindigul\n\u2014 Durairaj Nagar, Vallalar Nagar,\nand Seelapadi \u2014 around 7:30\nam. Local DMK cadre quickly\ngathered near the sites as police\ntightened security.\nThe searches targeted the\nminister's home, as well as that of\nhisson and Dindigul East MLAIP\nSenthil Kumar and his daughter\nIndra. In Chennai, ED teams con-\nducted searches at Periyasamy\u2019s\nofficial bungalow on Greenways\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.40880503144655,
+   "ocr_low_conf_share": 0.05660377358490566,
+   "headline": "ED raids homes of TN minister, kin; DMK says bid to deflect from 'vote chor?",
+   "deck": "DA CASE REVIVED",
+   "byline": "ARUN JANARDHANAN; CHENNAI, AUGUST 16",
+   "text": "During the ED searches at one of the properties in Dindigul, Tamil Nadu. PT!\n\nOFFICERS FROM the Enforcement Directorate (ED) launched simultaneous searches on Saturday at the properties of Tamil Nadu Rural Development Minister 1 Periyasamy, his family members, and linked premises in Dindigul and Chennai, reviving a years-old disproportionate assets case that had been dismissed but was recently reopened by the Madras High Court. About a dozen ED officials, split into three teams and backed by armed Central Reserve Police Force personnel, arrived at three residential locations in Dindigul - Durairaj Nagar, Vallalar Nagar, and Seelapadi - around 7:30 am. Local DMK cadre quickly gathered near the sites as police tightened security. The searches targeted the minister's home, as well as that of hisson and Dindigul East MLAIP Senthil Kumar and his daughter Indra. In Chennai, ED teams conducted searches at Periyasamy's official bungalow on Greenways",
+   "n_words": 147,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      1750,
+      1248,
+      1936
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "STEVE HOLLAND,\nANDREW OSBORN\n& TOM BALMFORTH\nWASHINGTON, MOSCOW, KYIV,\nAUGUST 16",
+   "ocr_conf": 84.33333333333333,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "STEVE HOLLAND,; ANDREW OSBORN; & TOM BALMFORTH; WASHINGTON, MOSCOW, KYIV,; AUGUST 16",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      805,
+      1988,
+      1250,
+      2298
+     ]
+    ],
+    "layout_words": 43,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "US PRESIDENT Donald Trump\nsaid on Saturday that Ukraine\nshould make a deal to end the\nwar with Russia because \u201cRussia\nis a very big power, and they're\nnot\u201d, after hosting a summit\nwhere Vladimir Putin was re-\nported to have demanded more",
+   "ocr_conf": 94.11627906976744,
+   "ocr_low_conf_share": 0.023255813953488372,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "US PRESIDENT Donald Trump said on Saturday that Ukraine should make a deal to end the war with Russia because \"Russia is a very big power, and they're not\", after hosting a summit where Vladimir Putin was reported to have demanded more",
+   "n_words": 42,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2301,
+      1249,
+      2423
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      805,
+      2423,
+      1252,
+      3795
+     ]
+    ],
+    "layout_words": 176
+   },
+   "headline_raw": "Ukrainian land.\nIna subsequent briefing with\nUkrainian President Volodymyr",
+   "deck_raw": "",
+   "body_raw": "Zelenskyy, a source familiar with\nthe discussion cited Trump as\nsaying the Russian leader had of-\nfered to freeze most front lines if\nKyiv's forces ceded all of Donetsk,\nthe industrial region that is one\nof Moscow\u2019s main targets.\nZelenskyy rejected the de-\nmand, the source said. Russia al-\nready controls a fifth of Ukraine,\nincluding about three-quarters\nof Donetsk province, which it\nfirst entered in 2014,\nTrumpalsosaidhehad agreed\nwith Putin that a peace deal\nshould be sought without the\nprior ceasefire that Ukraine and\nits Europeanaliies, until now with\nUS support, have demanded.\nZelenskyy said he would\nmeet Trump in Washington on\nMonday, while Kyiv\u2019s European\nallies welcomed Trump's efforts\nbut vowed to back Ukraine and\ntighten sanctions on Russia. The\nsource said European leaders had\nalso been invited to those talks.\nTrump's meeting with Putin\nin Alaska on Friday, the first US-\nRussia summit since Moscow\nlaunched a full-scale invasion of\nUkraine in February 2022, lasted\njust three hours. \u201cIt was deter-\nmined by all that the best way to\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.71022727272727,
+   "ocr_low_conf_share": 0.022727272727272728,
+   "headline": "Ukrainian land. Ina subsequent briefing with Ukrainian President Volodymyr",
+   "deck": "",
+   "byline": "",
+   "text": "Zelenskyy, a source familiar with the discussion cited Trump as saying the Russian leader had offered to freeze most front lines if Kyiv's forces ceded all of Donetsk, the industrial region that is one of Moscow's main targets. Zelenskyy rejected the demand, the source said. Russia already controls a fifth of Ukraine, including about three-quarters of Donetsk province, which it first entered in 2014, Trumpalsosaidhehad agreed with Putin that a peace deal should be sought without the prior ceasefire that Ukraine and its Europeanaliies, until now with US support, have demanded. Zelenskyy said he would meet Trump in Washington on Monday, while Kyiv's European allies welcomed Trump's efforts but vowed to back Ukraine and tighten sanctions on Russia. The source said European leaders had also been invited to those talks. Trump's meeting with Putin in Alaska on Friday, the first US-Russia summit since Moscow launched a full-scale invasion of Ukraine in February 2022, lasted just three hours. \"It was determined by all that the best way to",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      2523,
+      2691,
+      2740
+     ],
+     [
+      1297,
+      2850,
+      2133,
+      3016
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1298,
+      2779,
+      2215,
+      2838
+     ]
+    ],
+    "body_boxes": [
+     [
+      1297,
+      3018,
+      1628,
+      3046
+     ],
+     [
+      1295,
+      3095,
+      1737,
+      3802
+     ],
+     [
+      1785,
+      2937,
+      2226,
+      3482
+     ],
+     [
+      1784,
+      3491,
+      2228,
+      3796
+     ],
+     [
+      1967,
+      3858,
+      2336,
+      3891
+     ]
+    ],
+    "layout_words": 190
+   },
+   "headline_raw": "US team visit \u2018halted\u2019 for now,\ntrade talks with India stuck\nthis month; agri sector main hurdle\n. \u201cinto effect, government of\nRAVI DUTTA MISHRA have said the levy of anot",
+   "deck_raw": "Negotiators were to arrive in India later",
+   "body_raw": "NEW DELHI, AUGUST 16\n\nTHE INDIA-US negotiations fora\ntrade deal, which began in\nFebruary after Prime Minister\nNarendra Modi visited the\nUnited States, have been paused,\nwith the scheduled visit of offi-\ncials from Washington DC to\nIndia later this month \u201chalted\u201d\nby the US for now, a source\naware of the development told\nThe Indian Express.\nThe breakdown intrade talks\nassumes significance as US\nPresident Donald Trump has an-\nnounced 50 per cent tariff on\nIndian products, the highest on\nany country globally. While 25\nper cent tariff has already come\n\ninto effect, government officials\nhave said the levy of another 25\nper cent \u2014 for Russia oil trade \u2014\ncould depend on \u201chow geopolit-\nical events unfold\u201d.\nThe Indian Express had first\nreported on August 8 thatthe ar-\nrival of the US trade team was\nuncertain, asno formal commu-\nnication had been received from\ntheir side.\nDeal stuck over\nagriculture\n\nThe deal has been stuck over\nIndia\u2019s long-standing stance of\nprotecting farmers inevery trade\nagreement. The US, under\nTrump, is prioritising market ac-\ncess for its agricultural products.\nIn his Independence Day\nCONTINUED ON PAGE 2\n\nUKRAINIANS DISMAYED BY",
+   "ocr_conf": 91.96335078534031,
+   "ocr_low_conf_share": 0.031413612565445025,
+   "headline": "US team visit 'halted' for now, trade talks with India stuck this month; agri sector main hurdle. \"into effect, government of RAVI DUTTA MISHRA have said the levy of anot",
+   "deck": "Negotiators were to arrive in India later",
+   "byline": "NEW DELHI, AUGUST 16",
+   "text": "THE INDIA-US negotiations fora trade deal, which began in February after Prime Minister Narendra Modi visited the United States, have been paused, with the scheduled visit of officials from Washington DC to India later this month \"halted\" by the US for now, a source aware of the development told The Indian Express. The breakdown intrade talks assumes significance as US President Donald Trump has announced 50 per cent tariff on Indian products, the highest on any country globally. While 25 per cent tariff has already come\n\ninto effect, government officials have said the levy of another 25 per cent - for Russia oil trade - could depend on \"how geopolitical events unfold\". The Indian Express had first reported on August 8 thatthe arrival of the US trade team was uncertain, asno formal communication had been received from their side. Deal stuck over agriculture\n\nThe deal has been stuck over India's long-standing stance of protecting farmers inevery trade agreement. The US, under Trump, is prioritising market access for its agricultural products. In his Independence Day\n\nUKRAINIANS DISMAYED BY",
+   "n_words": 177,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3298,
+      2522,
+      3690,
+      2582
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2583,
+      3695,
+      3013
+     ]
+    ],
+    "layout_words": 55
+   },
+   "headline_raw": "IVIVVERCIDIL IEICE LS, SUUTICES SoTL\nSources in the Union Finance",
+   "deck_raw": "",
+   "body_raw": "Ministry said they wereconfident\ntheGoM andlaterthe GST Council\nwould find merit in the proposal.\nInternal calculations by the\nDepartment of Revenue in the\nFinance Ministry suggest that\ngross GST revenuesunder the pro-\nposed two-pillar rate structure of\n5 percent and 18 percent willnot\nbe lower than whatit is now.\nGiving a broad idea of the",
+   "ocr_conf": 83.43636363636364,
+   "ocr_low_conf_share": 0.12727272727272726,
+   "headline": "IVIVVERCIDIL IEICE LS, SUUTICES SoTL Sources in the Union Finance",
+   "deck": "",
+   "byline": "",
+   "text": "Ministry said they wereconfident theGoM andlaterthe GST Council would find merit in the proposal. Internal calculations by the Department of Revenue in the Finance Ministry suggest that gross GST revenuesunder the proposed two-pillar rate structure of 5 percent and 18 percent willnot be lower than whatit is now. Giving a broad idea of the",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      2777,
+      2693,
+      3138
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      3215,
+      2604,
+      3285
+     ],
+     [
+      2272,
+      3334,
+      2713,
+      3796
+     ]
+    ],
+    "layout_words": 58
+   },
+   "headline_raw": "Meanwhile,\nIndia hails meet,\nTrump sends\npositive signal\non \u2018penalty\u2019",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, AUGUST 16\n\nINDIA ON Saturday \u201cwelcomed\u201d\nthe meeting between US\nPresident Donald Trump and\nRussian President Viadimir Putin\nin Alaska and \u201cappreciated the\nprogress made\u201d. Meanwhile, be-\nfore his meeting with Putin,\nTrump indicated that the US\nmay not impose secondary tar-\niffs on countries continuing to\nprocure Russian crude oil.\nCONTINUED ON PAGE2",
+   "ocr_conf": 94.82758620689656,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Meanwhile, India hails meet, Trump sends positive signal on 'penalty'",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, AUGUST 16",
+   "text": "INDIA ON Saturday \"welcomed\" the meeting between US President Donald Trump and Russian President Viadimir Putin in Alaska and \"appreciated the progress made\". Meanwhile, before his meeting with Putin, Trump indicated that the US may not impose secondary tariffs on countries continuing to procure Russian crude oil.",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3078,
+      4109,
+      3163
+     ],
+     [
+      3252,
+      3197,
+      4176,
+      3468
+     ],
+     [
+      3249,
+      3455,
+      3602,
+      3519
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      3533,
+      3581,
+      3562
+     ],
+     [
+      3248,
+      3612,
+      3692,
+      4509
+     ],
+     [
+      3737,
+      3454,
+      3844,
+      3487
+     ],
+     [
+      3736,
+      3492,
+      4179,
+      4510
+     ],
+     [
+      3737,
+      4612,
+      4089,
+      4644
+     ]
+    ],
+    "layout_words": 300
+   },
+   "headline_raw": "Lower 18% for small\ncars, tax on luxury\ncars may remain high\nAANCHAL MAGAZINE",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, AUGUST 16\n\nTHE PROPOSED overhaul of the\nGoods and Services Tax (GST)\nregime is likely to bring relief to\nthose looking to buy cars, espe-\ncially smaller cars, with the gov-\nernment looking at creating a\ndistinction in tax rates for smaller\nand biggercars. Small cars, which\ncurrently attract 28 percent GST\nplus small cess rates of 1-3 per\ncent, could get moved into the 18\nper cent bracket in the new dis-\npensation, government sources\nsaid. Bigger luxury cars and SUVs\nare likely to be shifted into the\nspecial rate category of 40 per\ncent after the removal of the 28\nper cent slab, they said.\n\u201cSmall cars are not luxury\nitems or demerit goods. Only 5-\n7 items are going to be retained\nin the 40percent slab,\u201d a govern-\nment source told The Indian\n\nExpress.\n\nThe benefits are also ex-\npected to accrue for entry-level\nmotorcycles.GST on 350 cc bikes\nis 28 per cent at present, which\nmay be brought down to 18 per\ncent, while bikes withanengine\ncapacity of more than 350 cc\nmay get charged the higher rate,\nAt present, bikes with engine ca-\npacity of over 350 cc attract a\nGST rate of 28 per cent along\nwith acess of 3 per cent, taking\nthe total tax levy to 31 percent.\nAmongcars, smaller cars, in-\ncluding entry level hatchbacks,\nsmall sedans and mini-SUVs at-\ntract 28 per cent GST along with\ncess rates of 1 per cent or 3 per\ncent at present. For instance,\nsmall cars with engine capacity\nupto 1200 cc and less than 4 me-\ntres in length figure in the high-\nest slab rate of 28 per cent and\nface a cess of 1 per cent (petrol)\nand 3 per cent (diesel).\nCONTINUED ON PAGE 2\n\nGOVT & POLITICS",
+   "ocr_conf": 92.35,
+   "ocr_low_conf_share": 0.03333333333333333,
+   "headline": "Lower 18% for small cars, tax on luxury cars may remain high AANCHAL MAGAZINE",
+   "deck": "",
+   "byline": "NEW DELHI, AUGUST 16",
+   "text": "THE PROPOSED overhaul of the Goods and Services Tax (GST) regime is likely to bring relief to those looking to buy cars, especially smaller cars, with the government looking at creating a distinction in tax rates for smaller and biggercars. Small cars, which currently attract 28 percent GST plus small cess rates of 1-3 per cent, could get moved into the 18 per cent bracket in the new dispensation, government sources said. Bigger luxury cars and SUVs are likely to be shifted into the special rate category of 40 per cent after the removal of the 28 per cent slab, they said. \"Small cars are not luxury items or demerit goods. Only 5- 7 items are going to be retained in the 40percent slab,\" a government source told The Indian\n\nExpress.\n\nThe benefits are also expected to accrue for entry-level motorcycles.GST on 350 cc bikes is 28 per cent at present, which may be brought down to 18 per cent, while bikes withanengine capacity of more than 350 cc may get charged the higher rate, At present, bikes with engine capacity of over 350 cc attract a GST rate of 28 per cent along with acess of 3 per cent, taking the total tax levy to 31 percent. Amongcars, smaller cars, including entry level hatchbacks, small sedans and mini-SUVs attract 28 per cent GST along with cess rates of 1 per cent or 3 per cent at present. For instance, small cars with engine capacity upto 1200 cc and less than 4 metres in length figure in the highest slab rate of 28 per cent and face a cess of 1 per cent (petrol) and 3 per cent (diesel).\n\nGOVT & POLITICS",
+   "n_words": 282,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1113,
+      3857,
+      1430,
+      3935
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "HANDSHAKES, LIMO\nRIDE... ABRUPT ENDING",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "HANDSHAKES, LIMO; RIDE... ABRUPT ENDING",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1483,
+      3845,
+      1900,
+      3891
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1481,
+      3903,
+      1861,
+      3936
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "PUTIN EMERGES FROM SUMMI]",
+   "deck_raw": "",
+   "body_raw": "WITH INCREASEDSTATURES",
+   "ocr_conf": 22.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "PUTIN EMERGES FROM SUMMI]",
+   "deck": "",
+   "byline": "WITH INCREASEDSTATURES",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2526,
+      3859,
+      3072,
+      3892
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ROTM AND JEWELLERY SEC IOR FLARSS",
+   "ocr_conf": 46.666666666666664,
+   "ocr_low_conf_share": 0.6666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "ROTM AND JEWELLERY SEC IOR FLARSS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      4029,
+      1190,
+      4319
+     ],
+     [
+      320,
+      4347,
+      1203,
+      4491
+     ]
+    ],
+    "deck_boxes": [
+     [
+      317,
+      4488,
+      697,
+      4546
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4560,
+      649,
+      4589
+     ],
+     [
+      318,
+      4638,
+      766,
+      5106
+     ],
+     [
+      804,
+      4480,
+      1250,
+      5100
+     ]
+    ],
+    "layout_words": 147
+   },
+   "headline_raw": "Centre to SC: Setting\ndeadline for President,\nGovernors can cause\nconstitutional disorder",
+   "deck_raw": "ANANTHAKRISHNANG",
+   "body_raw": "NEW DELHI, AUGUST 16\n\nOPPOSING THE Supreme Court's\ndecision to fix a timeline for the\nPresident and Governors to act\non Bills forwarded by State\nLegislatures, the Centre has un-\nderlined the separation of pow-\ners between the executive, leg-\nislature and judiciary, and said\nthe order has the potential to\n\u201cdestabilise the constitutional\nbalance between (the) organs of\nState\u201d. It has emphasised that\n\n\u201cgubematorial assent is a high\nprerogative, plenary, non-justi-\nciable power\u2019.\nIn a written submission to\nthe court on August 12 \u2014a five-\njudge bench is hearing a refer-\nence made by the President on\nwhether timelines can be fixed\nfor the actions of the President\nor Governors \u2014 Solicitor General\nTushar Mehta said the judiciary\ndoes not hold answers to all\nproblems in a democracy, and \u201cif\nany organ is permitted to arro-\ngate to itself the functions of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.70068027210884,
+   "ocr_low_conf_share": 0.013605442176870748,
+   "headline": "Centre to SC: Setting deadline for President, Governors can cause constitutional disorder",
+   "deck": "ANANTHAKRISHNANG",
+   "byline": "NEW DELHI, AUGUST 16",
+   "text": "OPPOSING THE Supreme Court's decision to fix a timeline for the President and Governors to act on Bills forwarded by State Legislatures, the Centre has underlined the separation of powers between the executive, legislature and judiciary, and said the order has the potential to \"destabilise the constitutional balance between (the) organs of State\". It has emphasised that\n\n\"gubematorial assent is a high prerogative, plenary, non-justiciable power'. In a written submission to the court on August 12 - a five-judge bench is hearing a reference made by the President on whether timelines can be fixed for the actions of the President or Governors - Solicitor General Tushar Mehta said the judiciary does not hold answers to all problems in a democracy, and \"if any organ is permitted to arrogate to itself the functions of",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      1293,
+      4105,
+      3187,
+      4373
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1297,
+      4030,
+      2673,
+      4064
+     ]
+    ],
+    "body_boxes": [
+     [
+      1295,
+      4401,
+      1658,
+      4471
+     ],
+     [
+      1294,
+      4520,
+      1739,
+      5107
+     ],
+     [
+      2272,
+      4676,
+      3199,
+      4831
+     ],
+     [
+      2271,
+      4916,
+      2712,
+      5108
+     ],
+     [
+      2761,
+      4917,
+      3203,
+      5101
+     ]
+    ],
+    "layout_words": 176
+   },
+   "headline_raw": "As last date for papers looms, some confused,\nothers unaware: \u2018Will father\u2019s passbook work?\u2019",
+   "deck_raw": "BIHAR SPECIAL INTENSIVE REVISION PHASE-2 ENDS SEPTEMBER 1",
+   "body_raw": "SANTOSH SINGH\nSAMASTIPUR, AUGUST 16\n\nFOR THE last 10 days, Kumar, a\nteacher, has been shuttling be-\ntween his schooland \u201cfield duty\u201d\nin a village in Sarairanjan\nAssembly constituency of Bihar's\nSamastipur district. A volunteer\nfor the Election Commission of\nIndia, he has alist of about 120\nwomen whom he has to help\nwith documents to ensure they\nmake itto the final electoral roll.\n\u201c] have prepared an all-\nwoman list because they are the\nones who are struggling for iden-\ntity documents \u2014 both of them-\n\nMukesh Kumar from Dighashows his Aadhaarcard and driving\nlicence, both of which are not among the 11 EC-mandated\ndocuments; Pramila Devi of Samastipur district is banking\nonherson, a DU student, for help. Rahu! Sharma & Santosh Singh\n\nSpecial Intensive Revision (SIR)\n\u2014 during which the EC has in-\nvited claims and objections toits\ndraft electoral roll that was pub-\nlished on August 1 \u2014 ends on\n\nSeptember 1. While data re-\nleased by the EC showed over\n7.24 crore people had submitted\ntheir enumeration forms, many\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.9774011299435,
+   "ocr_low_conf_share": 0.022598870056497175,
+   "headline": "As last date for papers looms, some confused, others unaware: 'Will father's passbook work?'",
+   "deck": "BIHAR SPECIAL INTENSIVE REVISION PHASE-2 ENDS SEPTEMBER 1",
+   "byline": "SANTOSH SINGH; SAMASTIPUR, AUGUST 16",
+   "text": "FOR THE last 10 days, Kumar, a teacher, has been shuttling between his schooland \"field duty\" in a village in Sarairanjan Assembly constituency of Bihar's Samastipur district. A volunteer for the Election Commission of India, he has alist of about 120 women whom he has to help with documents to ensure they make itto the final electoral roll. \"] have prepared an allwoman list because they are the ones who are struggling for identity documents - both of them-\n\nMukesh Kumar from Dighashows his Aadhaarcard and driving licence, both of which are not among the 11 EC-mandated documents; Pramila Devi of Samastipur district is banking onherson, a DU student, for help. Rahu! Sharma & Santosh Singh\n\nSpecial Intensive Revision (SIR) - during which the EC has invited claims and objections toits draft electoral roll that was published on August 1 - ends on\n\nSeptember 1. While data released by the EC showed over 7.24 crore people had submitted their enumeration forms, many",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      1930,
+      4654,
+      2081,
+      4738
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1879,
+      4582,
+      2129,
+      4635
+     ],
+     [
+      1832,
+      4756,
+      2175,
+      4810
+     ]
+    ],
+    "body_boxes": [
+     [
+      1785,
+      4916,
+      2223,
+      5108
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "NOT",
+   "deck_raw": "WHAT WILL\nCOUNT IN BIHAR",
+   "body_raw": "selves and their parents,\u201d says\nKumar, whose first name has\nbeen withheld to protect his\nidentity.\nThe second phase of Bihar's",
+   "ocr_conf": 95.19047619047619,
+   "ocr_low_conf_share": 0.0,
+   "headline": "NOT",
+   "deck": "WHAT WILL COUNT IN BIHAR",
+   "byline": "",
+   "text": "selves and their parents,\" says Kumar, whose first name has been withheld to protect his identity. The second phase of Bihar's",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      3706,
+      4664,
+      4085,
+      4721
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3735,
+      4736,
+      4146,
+      4860
+     ],
+     [
+      3736,
+      4893,
+      4169,
+      5064
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "~ CHINA'S WANG YI",
+   "deck_raw": "",
+   "body_raw": "TO ARRIVE MONDAY,\nHOLD TALKS WITH\nNSA DOVAL\n\nSHUBHANSHU\nSHUKLA RETURNS TO\nINDIA TODAY, TO\nMEET PM pace 5",
+   "ocr_conf": 93.6842105263158,
+   "ocr_low_conf_share": 0.0,
+   "headline": "~ CHINA'S WANG YI",
+   "deck": "",
+   "byline": "TO ARRIVE MONDAY,; HOLD TALKS WITH; NSA DOVAL; SHUBHANSHU; SHUKLA RETURNS TO; INDIA TODAY, TO",
+   "text": "MEET PM pace 5",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5264,
+      4173,
+      5386
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5432,
+      499,
+      5507
+     ],
+     [
+      317,
+      5625,
+      722,
+      5733
+     ],
+     [
+      316,
+      5785,
+      758,
+      6136
+     ],
+     [
+      803,
+      5429,
+      1246,
+      5977
+     ],
+     [
+      1293,
+      5429,
+      1738,
+      6130
+     ],
+     [
+      3247,
+      5430,
+      3692,
+      6138
+     ],
+     [
+      3732,
+      5431,
+      4178,
+      6132
+     ]
+    ],
+    "layout_words": 409
+   },
+   "headline_raw": "\u2018Encounter\u2019 heat on Jharkhand cops, tribal area mourns politician behind school",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nSHUBHAMTIGGA\nLALMATIA(GODDA), RANCHI,\nAUGUST 16\n\nDEPENDING ON whom you ask,\nthere were two Surya Hansdas.\nFor his village Lalmatia in Boarijor\nblock of Godda district, he was a\nman dedicated to tribal welfare,\nwho ran a school providing free\neducation and lodging to Adivasi\nchildren. For police, the 45-year-\nold who entered politics some-\n\ntime in 2009 and changed par-\nties several times, was a trouble-\nmaker, with 25 criminal cases\nagainst him.\nOn the evening of August 10,\nHansda, who was once associ-\nated with the BJP, was killedina\npolice \u201cencounter\u201d. While a pall\nof gloom hangs over Lalmatia,\nwith videos of children of his\nschool crying over his body go-\ning viral, police point to the cases\nregistered against him across\nGodda and neighbouring areas,\n\noting. One case police talk about\nis of Hansda allegedly breaking\nthe hand of an officer who had\ngone to arrest him.\nHowever, details regarding\nthe cases against him remain\nfuzzy, with police clamming up\nas the issue snowballs.\n\u201cSurya\u2019s killing is not just his\nencounter. It is an encounter of\nthe entire future of Adivasi chil-\ndren,\u201d says his younger brother\nPramod Hansda, who lives in\nLalmatiaand works with Eastern\nCoalfields Limited (ECL), the\nlargest employer in these parts.\nJharkhand BJP chief Babulal\nMarandi \u2014 with whom Hansda's\n\nfamily claims he was close \u2014 has\nannounced a seven-member\nteam to \u201cprobe\u201d the alleged en-\ncounter, calling it a murder.\nHansda was one of five sib-\nlings \u2014four brothers anda sister\n\u2014 born to Raja Hansda, who\nserved for a time as mukhiya of\nLalmatia village. A graduate in\nEnglish from Sahibganj College\n\u2014 afarity in an area where few\ngo for higher studies \u2014 Raja be-\nlieved fervently in tribals getting\nagood education, the family says.\nHe donated land for the local\nchurch authority to start a\nschool, says Pramod.\nHansda studied at St John\u2019s\n\nMissionary School in the village\nand later joined a college in\nGodda. However, he dropped out\nhalfway through his BA course.\nIn the early 2000s, after\nJharkhand had been carved out\nof Bihar, Hansda got a job as a\nworker at ECL, as compensation\nfor the government taking over\nan acre of the family land.\nAccording to Pramod, it was\nthen that Hansda was attracted\nto activism, with tribals feeling\nshortchanged by the govern-\nment on land compensation.\n\u201cHe was labelled an extremist for\nraising Adivasi issues,\u201d he says.\nCONTINUED ON PAGE 4",
+   "ocr_conf": 93.78728606356968,
+   "ocr_low_conf_share": 0.009779951100244499,
+   "headline": "'Encounter' heat on Jharkhand cops, tribal area mourns politician behind school",
+   "deck": "",
+   "byline": "ANCHOR; SHUBHAMTIGGA; LALMATIA(GODDA), RANCHI,; AUGUST 16",
+   "text": "DEPENDING ON whom you ask, there were two Surya Hansdas. For his village Lalmatia in Boarijor block of Godda district, he was a man dedicated to tribal welfare, who ran a school providing free education and lodging to Adivasi children. For police, the 45-yearold who entered politics sometime in 2009 and changed parties several times, was a troublemaker, with 25 criminal cases against him. On the evening of August 10, Hansda, who was once associated with the BJP, was killedina police \"encounter\". While a pall of gloom hangs over Lalmatia, with videos of children of his school crying over his body going viral, police point to the cases registered against him across Godda and neighbouring areas,\n\noting. One case police talk about is of Hansda allegedly breaking the hand of an officer who had gone to arrest him. However, details regarding the cases against him remain fuzzy, with police clamming up as the issue snowballs. \"Surya's killing is not just his encounter. It is an encounter of the entire future of Adivasi children,\" says his younger brother Pramod Hansda, who lives in Lalmatiaand works with Eastern Coalfields Limited (ECL), the largest employer in these parts. Jharkhand BJP chief Babulal Marandi - with whom Hansda's\n\nfamily claims he was close - has announced a seven-member team to \"probe\" the alleged encounter, calling it a murder. Hansda was one of five siblings - four brothers anda sister - born to Raja Hansda, who served for a time as mukhiya of Lalmatia village. A graduate in English from Sahibganj College - afarity in an area where few go for higher studies - Raja believed fervently in tribals getting agood education, the family says. He donated land for the local church authority to start a school, says Pramod. Hansda studied at St John's\n\nMissionary School in the village and later joined a college in Godda. However, he dropped out halfway through his BA course. In the early 2000s, after Jharkhand had been carved out of Bihar, Hansda got a job as a worker at ECL, as compensation for the government taking over an acre of the family land. According to Pramod, it was then that Hansda was attracted to activism, with tribals feeling shortchanged by the government on land compensation. \"He was labelled an extremist for raising Adivasi issues,\" he says.",
+   "n_words": 387,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 20,
+   "layout": {
+    "headline_boxes": [
+     [
+      803,
+      6039,
+      1245,
+      6099
+     ]
+    ],
+    "deck_boxes": [
+     [
+      807,
+      5978,
+      1245,
+      6035
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      6102,
+      1246,
+      6136
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "THULUCH, KIUL tadPPUig LUT Ld TISUILI,\nextortion, criminal conspiracy,",
+   "deck_raw": "oncharges of murder, attempt to\nmurder icnanning mzpincnm",
+   "body_raw": "possession of illegal armsand ri-",
+   "ocr_conf": 78.4,
+   "ocr_low_conf_share": 0.2,
+   "headline": "THULUCH, KIUL tadPPUig LUT Ld TISUILI, extortion, criminal conspiracy,",
+   "deck": "oncharges of murder, attempt to murder icnanning mzpincnm",
+   "byline": "",
+   "text": "possession of illegal armsand ri-",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 20.6,
+ "flags": []
+}

@@ -1,0 +1,705 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_12_editorial",
+ "source_file": "2025-11-12_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-12_editorial.png",
+ "date": "2025-11-12",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 2,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 483,
+  "n_lines": 568,
+  "mean_line_conf": 89.57641121593586,
+  "orphan_words": 113,
+  "body_words_total": 3413
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      422,
+      579,
+      1105,
+      644
+     ]
+    ],
+    "deck_boxes": [
+     [
+      369,
+      697,
+      1159,
+      814
+     ]
+    ],
+    "body_boxes": [
+     [
+      681,
+      840,
+      844,
+      871
+     ],
+     [
+      574,
+      920,
+      951,
+      995
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "$ The IndianEXPRESS",
+   "deck_raw": "~ FOUNDED BY ~\nRAMNATH GOENKA",
+   "body_raw": "IN 1932\n\nBECAUSE THE TRUTH\nINVOLVES US ALL",
+   "ocr_conf": 94.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "$ The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1504,
+      566,
+      3980,
+      913
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      950,
+      1903,
+      2650
+     ],
+     [
+      1950,
+      950,
+      2554,
+      1420
+     ],
+     [
+      2926,
+      951,
+      3531,
+      2140
+     ],
+     [
+      2648,
+      1228,
+      2833,
+      1265
+     ],
+     [
+      1949,
+      1429,
+      2554,
+      2140
+     ],
+     [
+      1949,
+      2119,
+      3529,
+      2498
+     ],
+     [
+      1949,
+      2304,
+      3528,
+      2339
+     ],
+     [
+      3576,
+      952,
+      4182,
+      2492
+     ],
+     [
+      3655,
+      2545,
+      4182,
+      2658
+     ]
+    ],
+    "layout_words": 939
+   },
+   "headline_raw": "Red Fort blast reminds us that war\nagainst terror will never end",
+   "deck_raw": "",
+   "body_raw": "S THIS REMAINS a develop-\ning story with implications\nfor national security, it is pru-\ndent to acknowledge that\nsome assessments may shift\neven while these lines are in print. What\nmust notshift is the clarity with which we\nexamine India\u2019s long and complex contest\nwith terrorism.\nFor 14 years, India\u2019s major cities have\nenjoyed a rare calm. Since the September\n2011 bombing outside the Delhi High\nCourt, Delhi has remained largely un-\ntouched by major acts of terrorism \u2014a\ntribute tothe professionalism and synergy\nof our intelligence agencies and police\nforces. Pune saw the German Bakery blast\nin 2010. Some later incidents \u2014 at Pathan-\nkot, Pulwama and Pahalgam \u2014 did re-\nmind us that India\u2019s proxy war has not van-\nished, only been contained to J&K where\nit has simmered since 1989. The Mumbai\nattacks of November 26, 2008, meanwhile,\nbecame the watershed that transformed\nIndia\u2019s urban counter-terror readiness.\nThe explosion outside Red Fort Metro\nStation at 6:52 pm on November 10 has\ncaused unease across the nation. Occur-\nring during evening rush hour, it killed 13\nand injured many more. Though forensic\nevidence has yet to confirm the use of a\nbomb \u2014 no crater or shrapnel has been\nfound \u2014 the timing and location are un-\nsettling. Only days earlier, a joint oper-\nation by Jammu and Kashmir Police, Ha-\nryana Police and Delhi Police exposed a\nterror module of Kashmiri-origin doctors,\nseizing nearly 2,900 kg of ammonium ni-\ntrate and detonators linked from Anant-\nnag to Faridabad. Whether the Red Fort\nblast connects to that networkis unclear,\nbut the coincidence appears improbable.\nWhether or not the two incidents are\n\nlinked, the underlying reality remains that\nterrorism never truly disappears \u2014 it mu-\ntates, lies low, waits, and re-emerges\nthrough its ecosystems. Over the years,\nIndia has successfully reduced active ter-\nrorist footprint in Jammu and Kashmir\nfrom an estimated 4,500 to just over 100\ntoday. But neutralising the support net-\nworks \u2014 the financiers, ideologues, logis-\nticians, radicalisers and cyber recruiters\n\u2014is an entirely different battle. These net-\nworks thrive on hate, misinformation and\n\naway at the collective sense of safety that\nfuels economic growth and investor con-\nfidence. Urban terrorism is designed pre-\ncisely for that psychological effect: To cre-\nate doubt where there was optimism. Our\nadversaries understand that \u2014 and will\naim to puncture India\u2019s confidence, not\njust its security.\nIn response, India\u2019s counter-terror\narchitecture must constantly evolve. The\nintelligence agencies, which have so far\ndone a remarkable job in maintaining\nvigilance, need enhanced technological\ntools \u2014 predictive analytics, integrated\ndatabases, and Al-assisted threat map-\nping \u2014 tostay ahead of networked adver-\nsaries. Equally vital is the human factor:\nCitizen participation. Intelligence gather-\ning thrives on public cooperation. Every\nvigilant commuter, shopkeeper or neigh-\nbour is an essential node in the national-\nsecurity grid. A terror network can be\noverwhelmed only when the source net-\nwork \u2014 the information ecosystem of\nalert, aware citizens \u2014 stays motivated\nand expansive.\nIndia must also deepen its partner-\nships across the Islamic world.\nrime Fortoolong, Pakistan has hidden\na behind religious sentiment while\n\nSYED ATA\n\nnarcotics-driven funding chains that flow\nthrough porous channels. The involve-\nment of educated individuals like doctors\nin Faridabad reflects how radical ideo-\nlogies have penetrated unlikely spaces.\nTerrorism\u2019s physical footprint may\nhave shrunk, but its intellectual and fi-\nnancial ecosystem is resilient. From Pa-\nhalgam to Pulwama, from Anantnag to\nFaridabad, the linkages that sustain terror\nare alive. Pakistan\u2019s Inter-Services Intel-\nligence continues to serve as the conduit\nthat fuels these embers, keeping networks\non life support through financial incen-\ntives, narcotics trade and cyber propa-\nganda. The global terror land-\nscape may havereceded\u2014the Arth\nMiddle East is quietertoday, ISIS Py\n\n, AS es benind religious sentiment while\nis diminished, and \u201ceven \u2018AL . Minister and the Home nurturing extremist proxies. A\nQaeda has faded from the spot- Minister have displayed great concerted diplomatic effort,\nlight \u2014 but in Pakistan\u2019s bad- maturity andrestraint. Their calling out its duplicity before\nFor India, this poses both ana- rush toconclusions is claims. The government's over-\ntional-securityanddevelopmen- reassuring. It sendsamessage tures to the Afghan Taliban\ntal challenge. A progressive state that India will neitherbe too are in the right direction.\nthat aspires to \u201cViksit Bharat\u201d \u2014 nravoked into reactive Many Islamic nations have\n\n. SVs UY GDVLIVOALIVviiciliow Va . tos ae\nendures, restless for relevance. : . will erode the moral legitimacy it\n_ _ _ wench thn nannluicitanoc 0\n\nsuch nations with Indiacan isolate Pakis-\ntan\u2019s export model of jihad more effec-\ntively than isolated bilateral condemna-\ntion ever can.\nAt the political level, the Prime Min-\nister and the Home Minister have dis-\nplayed great maturity and restraint. Their\nrefusal to sensationalise or rush to con-\nclusions is reassuring. It sends a message\nthat India will neither be provoked into\nreactive aggression nor lulled into com-\nplacency. Terrorists thrive on knee-jerk\nresponses \u2014 whether in the form of com-\nmunal polarisation or reckless retaliation.\nA measured firmness that combines in-\ntelligence, law enforcement, and cali-\nbrated strategic options is far more lethal\nto their cause.\nThe Red Fort episode \u2014 whatever\nits eventual classification \u2014 reminds us\nthat the war against terror is unending\nand muilti-dimensional. It cannot be\nfought by the security establishment\nalone. It demands the fusion of technol-\nogy, diplomacy, public awareness, and\nconstant refinement of urban prepared-\nness \u2014 a true \u201cwhole-of-nation\u201d effort.\nThe tragedy in Delhi stems from radical-\nised overground networks in Kashmir,\nwhich must now be dismantled with the\nsame urgency once reserved for hardcore\nterrorists. India\u2019s metropolises, symbols\nof its democratic vitality, must never\nagain become playgrounds for transna-\ntional terror. The calm since 2011 must\nnot breed comfort. Peace is born of vigi-\nlance, not chance \u2014 and in the chess-\nboard of proxy wars, complacency re-\nmains the first checkmate.\n\nThe writer is a former corps commander\nof the Srinagar-based 15 Corps and\nmember of NDMA. Views are personal",
+   "ocr_conf": 90.44232698094282,
+   "ocr_low_conf_share": 0.048144433299899696,
+   "headline": "Red Fort blast reminds us that war against terror will never end",
+   "deck": "",
+   "byline": "",
+   "text": "S THIS REMAINS a developing story with implications for national security, it is prudent to acknowledge that some assessments may shift even while these lines are in print. What must notshift is the clarity with which we examine India's long and complex contest with terrorism. For 14 years, India's major cities have enjoyed a rare calm. Since the September 2011 bombing outside the Delhi High Court, Delhi has remained largely untouched by major acts of terrorism - a tribute tothe professionalism and synergy of our intelligence agencies and police forces. Pune saw the German Bakery blast in 2010. Some later incidents - at Pathankot, Pulwama and Pahalgam - did remind us that India's proxy war has not vanished, only been contained to J&K where it has simmered since 1989. The Mumbai attacks of November 26, 2008, meanwhile, became the watershed that transformed India's urban counter-terror readiness. The explosion outside Red Fort Metro Station at 6:52 pm on November 10 has caused unease across the nation. Occur-ring during evening rush hour, it killed 13 and injured many more. Though forensic evidence has yet to confirm the use of a bomb - no crater or shrapnel has been found - the timing and location are unsettling. Only days earlier, a joint operation by Jammu and Kashmir Police, Haryana Police and Delhi Police exposed a terror module of Kashmiri-origin doctors, seizing nearly 2,900 kg of ammonium nitrate and detonators linked from Anantnag to Faridabad. Whether the Red Fort blast connects to that networkis unclear, but the coincidence appears improbable. Whether or not the two incidents are\n\nlinked, the underlying reality remains that terrorism never truly disappears - it mutates, lies low, waits, and re-emerges through its ecosystems. Over the years, India has successfully reduced active terrorist footprint in Jammu and Kashmir from an estimated 4,500 to just over 100 today. But neutralising the support networks - the financiers, ideologues, logisticians, radicalisers and cyber recruiters - is an entirely different battle. These networks thrive on hate, misinformation and\n\naway at the collective sense of safety that fuels economic growth and investor confidence. Urban terrorism is designed precisely for that psychological effect: To create doubt where there was optimism. Our adversaries understand that - and will aim to puncture India's confidence, not just its security. In response, India's counter-terror architecture must constantly evolve. The intelligence agencies, which have so far done a remarkable job in maintaining vigilance, need enhanced technological tools - predictive analytics, integrated databases, and Al-assisted threat mapping - tostay ahead of networked adversaries. Equally vital is the human factor: Citizen participation. Intelligence gathering thrives on public cooperation. Every vigilant commuter, shopkeeper or neighbour is an essential node in the national-security grid. A terror network can be overwhelmed only when the source network - the information ecosystem of alert, aware citizens - stays motivated and expansive. India must also deepen its partner-ships across the Islamic world. rime Fortoolong, Pakistan has hidden a behind religious sentiment while\n\nSYED ATA\n\nnarcotics-driven funding chains that flow through porous channels. The involvement of educated individuals like doctors in Faridabad reflects how radical ideologies have penetrated unlikely spaces. Terrorism's physical footprint may have shrunk, but its intellectual and financial ecosystem is resilient. From Pahalgam to Pulwama, from Anantnag to Faridabad, the linkages that sustain terror are alive. Pakistan's Inter-Services Intelligence continues to serve as the conduit that fuels these embers, keeping networks on life support through financial incentives, narcotics trade and cyber propaganda. The global terror landscape may havereceded - the Arth Middle East is quietertoday, ISIS Py\n\n, AS es benind religious sentiment while is diminished, and \"even 'AL. Minister and the Home nurturing extremist proxies. A Qaeda has faded from the spot- Minister have displayed great concerted diplomatic effort, light - but in Pakistan's bad- maturity andrestraint. Their calling out its duplicity before For India, this poses both ana- rush toconclusions is claims. The government's over-tional-securityanddevelopmen- reassuring. It sendsamessage tures to the Afghan Taliban tal challenge. A progressive state that India will neitherbe too are in the right direction. that aspires to \"Viksit Bharat\" - nravoked into reactive Many Islamic nations have\n\n. SVs UY GDVLIVOALIVviiciliow Va. tos ae endures, restless for relevance.:. will erode the moral legitimacy it _ _ _ wench thn nannluicitanoc 0\n\nsuch nations with Indiacan isolate Pakistan's export model of jihad more effectively than isolated bilateral condemnation ever can. At the political level, the Prime Minister and the Home Minister have displayed great maturity and restraint. Their refusal to sensationalise or rush to conclusions is reassuring. It sends a message that India will neither be provoked into reactive aggression nor lulled into complacency. Terrorists thrive on knee-jerk responses - whether in the form of communal polarisation or reckless retaliation. A measured firmness that combines intelligence, law enforcement, and calibrated strategic options is far more lethal to their cause. The Red Fort episode - whatever its eventual classification - reminds us that the war against terror is unending and muilti-dimensional. It cannot be fought by the security establishment alone. It demands the fusion of technology, diplomacy, public awareness, and constant refinement of urban preparedness - a true \"whole-of-nation\" effort. The tragedy in Delhi stems from radical-ised overground networks in Kashmir, which must now be dismantled with the same urgency once reserved for hardcore terrorists. India's metropolises, symbols of its democratic vitality, must never again become playgrounds for transnational terror. The calm since 2011 must not breed comfort. Peace is born of vigilance, not chance - and in the chessboard of proxy wars, complacency remains the first checkmate.\n\nThe writer is a former corps commander of the Srinagar-based 15 Corps and member of NDMA. Views are personal",
+   "n_words": 944,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      352,
+      1088,
+      1174,
+      1276
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1309,
+      1206,
+      3016
+     ]
+    ],
+    "layout_words": 408
+   },
+   "headline_raw": "Terror\u2019s new footprint\nis the urgent challenge",
+   "deck_raw": "",
+   "body_raw": "HE DEADLY CAR blast outside the Red Fort Metro\nStation Monday evening shatters a prolonged lull.\nDelhi\u2019slast brush with terror wasthe bombing outside\nthe High Court 14 years ago, which followed a spate\nof attacks that had begun at the turn of the century. Monday\u2019s\ndeath toll has risen to 13, with several undergoing treatment for\nserious injuries. The blast came just hours after Jammu and\nKashmir Policerecovered over350kg of suspected ammonium\nnitrate from the Faridabad residence of a doctor as part of an\noperation that unearthed nearly 3,000 kg of explosives, busting\nwhat officials have described as \u201can inter-state and transna-\ntional terror module\u201d allegedly linked to the Jaish-e-Moham-\nmad and Ansar Ghazwat-ul-Hind. The seizure and the nature\nof the blast point to evidence that security agencies may have\nfoiled what appears to have been a much larger plot to stage a\nbigger attack. Several questions remain unanswered and a thor-\nough, time-bound probe must deliverthe answers, which can\nhelp plug the security gaps and also enforce accountability. In\nthis, the ongoing coordination between the Delhi Police,\nJammu and Kashmir Police, Intelligence Bureau and National\nInvestigation Agency \u2014 the NIA is now reportedly leading the\nprobe \u2014 will be much needed.\nThe blast outside the Red Fort comes when the wounds of\nthe Pahalgam terror attack nearly seven months ago have still\nnot faded. The recent operation in J&K suggests that the JeM\nmodule has expanded beyond Kashmir, and made new inroads\non the back of a white-collar terror network. It is clear that ter-\nrorism and its ever-shifting footprint remains a persistent chal-\nlenge to India\u2019s growth story. Incidents like these threaten the\nsafety and confidence that areessential fora nationthat sets itself\nincreasingly ambitious goals as it turns its face to the future.\nThe NDA government\u2019s response hasbeen measured so far,\nfocusing on facts and letting the evidence show the way. The\nOpposition, too, has displayed restraint and maturity. This is\nnot amoment for polarising politics or point-scoring. In times\nlikethese, the most powerful message political leaderscan send\n\u2014 asthey did in theaftermath of Pahalgam recently \u2014 isoneof\nunity. Much ofthe investigation will bein the Valley, soalthough\nsecurity is beyond the purview ofthe UT government, local of-\nficials and elected representatives have their task cut out. No-\nthingcan compensate those who lost their loved ones on Mon-\nday. But bringing the guilty to justice, demonstrating a resolve\nto dismantle the terror network would provide some closure.",
+   "ocr_conf": 92.0906862745098,
+   "ocr_low_conf_share": 0.024509803921568627,
+   "headline": "Terror's new footprint is the urgent challenge",
+   "deck": "",
+   "byline": "",
+   "text": "HE DEADLY CAR blast outside the Red Fort Metro Station Monday evening shatters a prolonged lull. Delhi'slast brush with terror wasthe bombing outside the High Court 14 years ago, which followed a spate of attacks that had begun at the turn of the century. Monday's death toll has risen to 13, with several undergoing treatment for serious injuries. The blast came just hours after Jammu and Kashmir Policerecovered over350kg of suspected ammonium nitrate from the Faridabad residence of a doctor as part of an operation that unearthed nearly 3,000 kg of explosives, busting what officials have described as \"an inter-state and transnational terror module\" allegedly linked to the Jaish-e-Mohammad and Ansar Ghazwat-ul-Hind. The seizure and the nature of the blast point to evidence that security agencies may have foiled what appears to have been a much larger plot to stage a bigger attack. Several questions remain unanswered and a thorough, time-bound probe must deliverthe answers, which can help plug the security gaps and also enforce accountability. In this, the ongoing coordination between the Delhi Police, Jammu and Kashmir Police, Intelligence Bureau and National Investigation Agency - the NIA is now reportedly leading the probe - will be much needed. The blast outside the Red Fort comes when the wounds of the Pahalgam terror attack nearly seven months ago have still not faded. The recent operation in J&K suggests that the JeM module has expanded beyond Kashmir, and made new inroads on the back of a white-collar terror network. It is clear that terrorism and its ever-shifting footprint remains a persistent challenge to India's growth story. Incidents like these threaten the safety and confidence that areessential fora nationthat sets itself increasingly ambitious goals as it turns its face to the future. The NDA government's response hasbeen measured so far, focusing on facts and letting the evidence show the way. The Opposition, too, has displayed restraint and maturity. This is not amoment for polarising politics or point-scoring. In times likethese, the most powerful message political leaderscan send - asthey did in theaftermath of Pahalgam recently - isoneof unity. Much ofthe investigation will bein the Valley, soalthough security is beyond the purview ofthe UT government, local officials and elected representatives have their task cut out. Nothingcan compensate those who lost their loved ones on Monday. But bringing the guilty to justice, demonstrating a resolve to dismantle the terror network would provide some closure.",
+   "n_words": 400,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3046,
+      2119,
+      3530,
+      2420
+     ],
+     [
+      3049,
+      2476,
+      3529,
+      2625
+     ],
+     [
+      3275,
+      2476,
+      3409,
+      2546
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3050,
+      2624,
+      3531,
+      2658
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "benind religious sentiment while\nnurturing extremist proxies. A\nconcerted diplomatic effort,\ncalling out its duplicity before\nthe broader Muslim community,\nwill erode the moral legitimacy it\nclaims. The government\u2019s over-\ntures to the Afghan Taliban\nMany Islamic nations have\nthemselves suffered from\nthe cancer of terror and under-\nstand the futility of using ideol-\nc nation\nsuffered",
+   "deck_raw": "",
+   "body_raw": "ogy as a weapon. A coalition of",
+   "ocr_conf": 94.57142857142857,
+   "ocr_low_conf_share": 0.0,
+   "headline": "benind religious sentiment while nurturing extremist proxies. A concerted diplomatic effort, calling out its duplicity before the broader Muslim community, will erode the moral legitimacy it claims. The government's over-tures to the Afghan Taliban Many Islamic nations have themselves suffered from the cancer of terror and understand the futility of using ideolc nation suffered",
+   "deck": "",
+   "byline": "",
+   "text": "ogy as a weapon. A coalition of",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1948,
+      2476,
+      2427,
+      2625
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1949,
+      2623,
+      2587,
+      2657
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "Mat aspires (oO \u201cVIKSIt bNnarat\u2019 \u2014\na developed, confident nation by\n2047 \u2014 cannotafford the re-entry\nof terror into its cities. Each inci-",
+   "deck_raw": "",
+   "body_raw": "dent, even a minor one, chips ;",
+   "ocr_conf": 81.85714285714286,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "Mat aspires (oO \"VIKSIt bNnarat' - a developed, confident nation by 2047 - cannotafford the re-entry of terror into its cities. Each inci-",
+   "deck": "",
+   "byline": "",
+   "text": "dent, even a minor one, chips;",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      2838,
+      2848,
+      3088
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3051,
+      3218,
+      3182,
+      3265
+     ]
+    ],
+    "body_boxes": [
+     [
+      1293,
+      3140,
+      2227,
+      4690
+     ],
+     [
+      1621,
+      4256,
+      2225,
+      4609
+     ],
+     [
+      2271,
+      3140,
+      2878,
+      4928
+     ],
+     [
+      2316,
+      4972,
+      2877,
+      5047
+     ],
+     [
+      2226,
+      5241,
+      2537,
+      5279
+     ],
+     [
+      2224,
+      5331,
+      2820,
+      5844
+     ],
+     [
+      2143,
+      5967,
+      2815,
+      6116
+     ],
+     [
+      2954,
+      3452,
+      3257,
+      3489
+     ],
+     [
+      2971,
+      4109,
+      3247,
+      5007
+     ],
+     [
+      2877,
+      5251,
+      3477,
+      5403
+     ],
+     [
+      2876,
+      5458,
+      3478,
+      6123
+     ]
+    ],
+    "layout_words": 816
+   },
+   "headline_raw": "Why my son and I went to\nIndia Gate to protest, to breathe",
+   "deck_raw": "ia >",
+   "body_raw": "= N NOVEMBER 9,I stood at\nJARS India Gatewith my son, not for\n~ aSunday stroll, not forthe nos-\nee talgiaof childhood \u2014 running\nAw & on the open lawns, breathing\naia freely. But because the air around us had\nAT grown so thick with poison that breathing\nNAMRATA had become an act of survival.\nYADAV India Gate, for me and families like\nmine, with generations of military service,\nis not just a monument or tourist spot \u2014\nit is sacred. In one of those chakras of Na-\ntional War Memorials, I will always find a\nfamiliar name. Someone I have met.\nSomeone my family has loved more than\nlife itself.\nButon Sunday, all Isawwerebarricades,\ngates chained shut, and _ police\ncordoning off every corner. A memorial\nmeant to be a place of gratitude and\nhonour had turned intoa fortress \u2014 not to\nprotect the nation, but to silence\nits people.\nI was one of those protesting against air\npollution. We were not violent. We simply\nwanted totell the government that weare in\na state of emergency \u2014 that the air is un-\nIt'sironicthat breathable, our children are not well, and\nthe regions Delhi has become injurious to our health.\nwhose Yet, the masked amongst us became easy\ntargets. We were the ones stopped, ques-\ncountlesssons tioned, pushed to the sides and asked to\nanddaughters _leave. The masks meant to protect us made\nmakeupthe 4S identifiable faces ofdissent.\nButthere was another India there too \u2014\narmed forces \u2014 unmasked, unaware or unwilling toaccept\nthe villages of reality. They had come to enjoy aSunday\nNorth India, evening. Children chasing balloons,\nthetownsof _ couplestakingselfies, vendorsselling \u201cbhel\n\nDelhi has become injurious to our health.\nYet, the masked amongst us became easy\ntargets. We were the ones stopped, ques-\ntioned, pushed to the sides and asked to\nleave. The masks meant to protect us made\nus identifiable faces of dissent.\nButthere was another India there too \u2014\nunmasked, unaware or unwilling toaccept\nreality. They had come to enjoy aSunday\n\ndied for this country die for all of us \u2014 the\nmasked and unmasked?\u201d\nThey died trusting that the nationthey\nserved would honourtheir sacrifice by pro-\ntecting the future oftheir children. And yet\nwe are fighting for something as basic as\nclean air.\nIt\u2019s ironic that the regions whose\ncountless sons and daughters make up\nthe armed forces \u2014 the villages of North\nIndia, the towns of Haryana, Punjab,\nUttar Pradesh \u2014 are blanketed with air\nchoking youngsters.\nOur protest was a plea to listen. We do\nnot have all the answers.\nWe are not policymakers or atmos-\npheric scientists, or environmental\nengineers.\nWe are parents.\nWe are citizens.\nWeare human beings, mothers whojust\nwant their children to live.\nAnd yet, when I raised my voice, I was\nasked, \u201cHow will you solve it?\u201d\nI cannot solve it alone. Why should I\nhaveto? This is whywe elect governments,\nrely on policymakers, scientists and ex-\nperts. Instead, the only advice we receive\nis: Leave Delhi.\nWhy should I have to? Where should\nmillions of us go? Some may return to vil-\nlages or towns their forefathers once mi-\ngrated from in search of a better life. But\nwhy dowe have to abandon our homes, our\nmemories, our identity, our history? Why\ncan\u2019t webe heard?\nThis nation has been served by gener-\nations of families like mine. But today, ser-\nvice is being replaced by survival. Sacrifice\nis being replaced by silence. Honour is\nbeing replaced by indifference.\nI went there to protest. I came back\nknowing this: If the dead could speak,\nthey would ask why we stopped fighting\nfor the living.\n\nThe writer is an independent researcher and\nmother of a seven-year-old boy\n\nPMonterrorism\n\nTHE PRIME MINISTER, Rajiv Gandhi,\nwarned people against the repetition of\nmistakes which had scuttled Punjab\u2019s\npeace and development in the past. Gan-\ndhi, who was addressing a large public\nmeeting after laying the foundation stone\nof the prestigious TheinDam project in\nGurdaspur, said terrorism was manifest-\ning its horrible face here and there again.\nThe menace had to be finished once for\nall. \u201cWe had to strengthen democracy and\nensure that none who sought to subvert it\nachieved any success,\u201d he added.\n\nELECTIONS TO THE 14 Lok Sabha and 126\nAssembly seats in Assam and all pending\nby-elections in the country will be held on\n\"+ December 16. The election rolls to all 125\n\nBHATTACHARYA\n\nThese songs\nhad much in\ncommon. But\nthe most\nsignificant\nwas the\nimagination\nand celebration\nof motherhood,\nwhere the land\ntranscends its\nphysical reality\nand becomes\nanaffectionate\nmother in need\nofher\nchildren\u2019s\nprotection\n\nconstituencies in Assam after the disposal\nof claims and objections will be published\nsoon, the Chief Election Commissioner, R\nK Trivedi, announced.\n\nRush to buy small arms\nTHE RECENT ANNOUNCEMENT by the\nState Trading Corporation to sell im-\nported, sophisticated small arms to the\ngeneral public (only licence holders) has\ncreated a rush among potential buyers.\nThe State Trading Corporation had im-\nported a large quantity of small arms (pis-\ntols and revolvers) sometime in 1978-79 to\nsell them to arms dealers. But according\nto the dealers, it had priced them so high\nthat the issue was takentothe court. What\nwas the fate of the case, neither the\ndealers nor STC marketing manager VK\nNarain, in charge of the current small arms\nsale, are disclosing.",
+   "ocr_conf": 90.44344904815229,
+   "ocr_low_conf_share": 0.055991041433370664,
+   "headline": "Why my son and I went to India Gate to protest, to breathe",
+   "deck": "ia >",
+   "byline": "= N NOVEMBER 9,I stood at",
+   "text": "JARS India Gatewith my son, not for ~ aSunday stroll, not forthe nosee talgiaof childhood - running Aw & on the open lawns, breathing aia freely. But because the air around us had AT grown so thick with poison that breathing NAMRATA had become an act of survival. YADAV India Gate, for me and families like mine, with generations of military service, is not just a monument or tourist spot - it is sacred. In one of those chakras of National War Memorials, I will always find a familiar name. Someone I have met. Someone my family has loved more than life itself. Buton Sunday, all Isawwerebarricades, gates chained shut, and _ police cordoning off every corner. A memorial meant to be a place of gratitude and honour had turned intoa fortress - not to protect the nation, but to silence its people. I was one of those protesting against air pollution. We were not violent. We simply wanted totell the government that weare in a state of emergency - that the air is un-It'sironicthat breathable, our children are not well, and the regions Delhi has become injurious to our health. whose Yet, the masked amongst us became easy targets. We were the ones stopped, quescountlesssons tioned, pushed to the sides and asked to anddaughters _leave. The masks meant to protect us made makeupthe 4S identifiable faces ofdissent. Butthere was another India there too - armed forces - unmasked, unaware or unwilling toaccept the villages of reality. They had come to enjoy aSunday North India, evening. Children chasing balloons, thetownsof _ couplestakingselfies, vendorsselling \"bhel\n\nDelhi has become injurious to our health. Yet, the masked amongst us became easy targets. We were the ones stopped, questioned, pushed to the sides and asked to leave. The masks meant to protect us made us identifiable faces of dissent. Butthere was another India there too - unmasked, unaware or unwilling toaccept reality. They had come to enjoy aSunday\n\ndied for this country die for all of us - the masked and unmasked?\" They died trusting that the nationthey served would honourtheir sacrifice by protecting the future oftheir children. And yet we are fighting for something as basic as clean air. It's ironic that the regions whose countless sons and daughters make up the armed forces - the villages of North India, the towns of Haryana, Punjab, Uttar Pradesh - are blanketed with air choking youngsters. Our protest was a plea to listen. We do not have all the answers. We are not policymakers or atmospheric scientists, or environmental engineers. We are parents. We are citizens. Weare human beings, mothers whojust want their children to live. And yet, when I raised my voice, I was asked, \"How will you solve it?\" I cannot solve it alone. Why should I haveto? This is whywe elect governments, rely on policymakers, scientists and experts. Instead, the only advice we receive is: Leave Delhi. Why should I have to? Where should millions of us go? Some may return to villages or towns their forefathers once migrated from in search of a better life. But why dowe have to abandon our homes, our memories, our identity, our history? Why can't webe heard? This nation has been served by generations of families like mine. But today, service is being replaced by survival. Sacrifice is being replaced by silence. Honour is being replaced by indifference. I went there to protest. I came back knowing this: If the dead could speak, they would ask why we stopped fighting for the living.\n\nThe writer is an independent researcher and mother of a seven-year-old boy\n\nPMonterrorism\n\nTHE PRIME MINISTER, Rajiv Gandhi, warned people against the repetition of mistakes which had scuttled Punjab's peace and development in the past. Gandhi, who was addressing a large public meeting after laying the foundation stone of the prestigious TheinDam project in Gurdaspur, said terrorism was manifesting its horrible face here and there again. The menace had to be finished once for all. \"We had to strengthen democracy and ensure that none who sought to subvert it achieved any success,\" he added.\n\nELECTIONS TO THE 14 Lok Sabha and 126 Assembly seats in Assam and all pending by-elections in the country will be held on \"+ December 16. The election rolls to all 125\n\nBHATTACHARYA\n\nThese songs had much in common. But the most significant was the imagination and celebration of motherhood, where the land transcends its physical reality and becomes anaffectionate mother in need ofher children's protection\n\nconstituencies in Assam after the disposal of claims and objections will be published soon, the Chief Election Commissioner, R K Trivedi, announced.\n\nRush to buy small arms THE RECENT ANNOUNCEMENT by the State Trading Corporation to sell imported, sophisticated small arms to the general public (only licence holders) has created a rush among potential buyers. The State Trading Corporation had imported a large quantity of small arms (pistols and revolvers) sometime in 1978-79 to sell them to arms dealers. But according to the dealers, it had priced them so high that the issue was takentothe court. What was the fate of the case, neither the dealers nor STC marketing manager VK Narain, in charge of the current small arms sale, are disclosing.",
+   "n_words": 870,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2975,
+      2845,
+      4165,
+      3088
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3291,
+      3183,
+      4182,
+      4929
+     ],
+     [
+      3507,
+      4973,
+      4178,
+      5048
+     ]
+    ],
+    "layout_words": 410
+   },
+   "headline_raw": "Vande Mataram, Amar Sonar\nBangla share one imagination",
+   "deck_raw": "",
+   "body_raw": "Congress, held in Benaras and presided over by M KGan-\ndhi\u2019s political mentor, Gopal Krishna Gokhale, onenot-yet-\nprominent political figure became the centre of attention\n\u2014 Sarala Devi, a singer and Rabindranath Tagore\u2019s niece.\nBuoyed by her presence, the massive crowd began demanding\nthat she sing \u201cVande Mataram\u2019, which had become acry for Inde-\npendenceand drewthe wrath ofthe Rritish administration. Gok-\nhale thought it might disrupt the session. To avoid this, he in-\nstructed Sarala Devi to sing only the first stanza. But once she\nStarted, there was noturning back \u2014 she had to sing the full song,\nThat was the popularity of those verses, written by Bankim\nChandra Chattopadhyay in 1875and included inhisnovel Anan-\ndamath in 1882. The same year, when the Viceroy, Lord Curzon,\nannounced the partition of Bengal, another song took centre\nstage: Amar sonar Bangla, ami tomay bhalobashi\u2019, written by Ta-\ngore, who not only carried on Chattopadhyay\u2019s legacy by editing\nBatigadarsnan magazine, where \u201cVande Mataram was first pub-\nlished, but also sang the song for the first time in a public forum\nat the Congress\u2019s 1896 annual session.\nThese songs had much in common \u2014a patriotic framework,\n(sub)nationalist imagination, description of abountiful land. But\nthe most significant was the imagination and celebration of\nmotherhood, where the land transcends its physical reality and\nbecomes an affectionate mother inneed of herchildren\u2019s protec-\ntion. After 120 years, however, the twosongs have invoked two\ndifferent imaginations. Onthe one hand, thenation is celebrating\n150 years of \u201cVande Mataram\u2019 with much gusto; on the other,\n\u2018Amar sonar Bangla\u2019, now the national anthem of Bangladesh, is\nbeing vilified by Assam CM Himanta Biswa Sarma, who, referring\ntoa Congress member humming thesong during aparty session,\nsaid, \u201cThis is somehow an endorsement of the claim of various\nBangladeshi people that the Northeast istheir part and parcel.\u201d\nThis proclamation is ahistorical and demeans the nation\u2019s\npast. \u2018Amar sonar Bangla\u2019 was adopted as Bangladesh\u2019s national\nanthem 66 years after it was written. India\u2019s relationship with its\nneighbour, or concerns about illegalimmigration, cannot rewrite\nitssignificance duringthe freedom movement. Onecan differ on\nthe imagination ofthe motherland \u2014sometimes portrayed asan\naffectionate \u201cBharat mata\u201d, seeking her colonised children\u2019s pro-\ntection, orin the frameworkof warrior Kali, who, inthe wordsof\npoet Mukunda Das, \u201cwantstodrinktheblood of her children, un-\nless you awake\u201d. But the mother has always been celebrated.\n\u201cVande Matarany isnotmuchdifferent, when putin context, from\n\u2018Amar Sonar Bangla\u2019. Theydon\u2019t deserve different treatment.\n\nThe writer is senior assistant editor, The Indian Express.\nabhik.bnattacna ya@expressindia.com",
+   "ocr_conf": 87.05839416058394,
+   "ocr_low_conf_share": 0.07542579075425791,
+   "headline": "Vande Mataram, Amar Sonar Bangla share one imagination",
+   "deck": "",
+   "byline": "",
+   "text": "Congress, held in Benaras and presided over by M KGandhi's political mentor, Gopal Krishna Gokhale, onenot-yetprominent political figure became the centre of attention - Sarala Devi, a singer and Rabindranath Tagore's niece. Buoyed by her presence, the massive crowd began demanding that she sing \"Vande Mataram', which had become acry for Inde-pendenceand drewthe wrath ofthe Rritish administration. Gokhale thought it might disrupt the session. To avoid this, he instructed Sarala Devi to sing only the first stanza. But once she Started, there was noturning back - she had to sing the full song, That was the popularity of those verses, written by Bankim Chandra Chattopadhyay in 1875and included inhisnovel Anan-damath in 1882. The same year, when the Viceroy, Lord Curzon, announced the partition of Bengal, another song took centre stage: Amar sonar Bangla, ami tomay bhalobashi', written by Tagore, who not only carried on Chattopadhyay's legacy by editing Batigadarsnan magazine, where \"Vande Mataram was first published, but also sang the song for the first time in a public forum at the Congress's 1896 annual session. These songs had much in common - a patriotic framework, (sub)nationalist imagination, description of abountiful land. But the most significant was the imagination and celebration of motherhood, where the land transcends its physical reality and becomes an affectionate mother inneed of herchildren's protection. After 120 years, however, the twosongs have invoked two different imaginations. Onthe one hand, thenation is celebrating 150 years of \"Vande Mataram' with much gusto; on the other, 'Amar sonar Bangla', now the national anthem of Bangladesh, is being vilified by Assam CM Himanta Biswa Sarma, who, referring toa Congress member humming thesong during aparty session, said, \"This is somehow an endorsement of the claim of various Bangladeshi people that the Northeast istheir part and parcel.\" This proclamation is ahistorical and demeans the nation's past. 'Amar sonar Bangla' was adopted as Bangladesh's national anthem 66 years after it was written. India's relationship with its neighbour, or concerns about illegalimmigration, cannot rewrite itssignificance duringthe freedom movement. Onecan differ on the imagination ofthe motherland - sometimes portrayed asan affectionate \"Bharat mata\", seeking her colonised children's protection, orin the frameworkof warrior Kali, who, inthe wordsof poet Mukunda Das, \"wantstodrinktheblood of her children, unless you awake\". But the mother has always been celebrated. \"Vande Matarany isnotmuchdifferent, when putin context, from 'Amar Sonar Bangla'. Theydon't deserve different treatment.\n\nThe writer is senior assistant editor, The Indian Express. abhik.bnattacna ya@expressindia.com",
+   "n_words": 402,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      348,
+      3079,
+      1172,
+      3269
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3299,
+      1206,
+      4051
+     ],
+     [
+      320,
+      4095,
+      1201,
+      4647
+     ]
+    ],
+    "layout_words": 314
+   },
+   "headline_raw": "Warren Buffett\u2019s shoes\nare too large to fill",
+   "deck_raw": "",
+   "body_raw": "ARREN BUFFETT, THE renowned investor, is\n\u201cgoing quiet\u201d. He will no longer write Berkshire\nHathaway\u2019s annual report or speak at its annual\nmeetings \u2014 rituals that go back several decades.\nBuffett\u2019s phenomenal success, and almost unparallelled track\nrecord, had led to his letters to shareholders and Berkshire\u2019s\nannual meetings \u2014 where he and his longtime friend, Charlie\nMunger, would hold forth on arange of issues, from companies\nto markets and the economy \u2014 being widely followed by in-\nvestors across the world. His withdrawal now \u2014 Greg Abel is\nset totake over as CEO \u2014 markstheend ofanera.\nBuffett's investment philosophy was shaped by men such as\nBen Graham, widely considered the father of value investing. An\nadvocate of thebuy-and-hold philosophy, Buffett has held stakes\nin companies like Coca-Cola and American Express. He also has\nsignificant holdings in global tech major Apple. In an era when\ncompanies and investors tend to be guided more by quarterly re-\nsults, Buffet has continued to stay with his approach: Start early,\nstayinvested. Compounding works. Itwasin1986, whenheturned\n\ndecades, and it is currently pegged at around $150 billion.\nBuffett has never been afraid to speak his mind. He once fa-\nmously likened derivatives to weapons of mass destruction \u2014\naview that resonated widely during the financial crisis of 2008.\nSome of his methods to gauge the market cycle \u2014 for instance,\nthe total stock market capitalisation to GDP ratio\u2014 have served\nas useful tools to understand market valuation. Asthe Oracle\nof Omaha departs, his successor has atough job. Berkshire cur-\nrently has cash reserves in excess of $350 billion. Abel will need\ntodeploy this war chest carefully and tactically, ensuring that\nthe risk-reward profiledoesnot change much. Berkshire share-\nholders have at times cut Buffett some slack \u2014for instance, re-\nturns have trailed the benchmark index this year. Whether they\nshow the same patience and confidence in Abel is tobe seen.",
+   "ocr_conf": 89.85987261146497,
+   "ocr_low_conf_share": 0.054140127388535034,
+   "headline": "Warren Buffett's shoes are too large to fill",
+   "deck": "",
+   "byline": "",
+   "text": "ARREN BUFFETT, THE renowned investor, is \"going quiet\". He will no longer write Berkshire Hathaway's annual report or speak at its annual meetings - rituals that go back several decades. Buffett's phenomenal success, and almost unparallelled track record, had led to his letters to shareholders and Berkshire's annual meetings - where he and his longtime friend, Charlie Munger, would hold forth on arange of issues, from companies to markets and the economy - being widely followed by investors across the world. His withdrawal now - Greg Abel is set totake over as CEO - markstheend ofanera. Buffett's investment philosophy was shaped by men such as Ben Graham, widely considered the father of value investing. An advocate of thebuy-and-hold philosophy, Buffett has held stakes in companies like Coca-Cola and American Express. He also has significant holdings in global tech major Apple. In an era when companies and investors tend to be guided more by quarterly results, Buffet has continued to stay with his approach: Start early, stayinvested. Compounding works. Itwasin1986, whenheturned\n\ndecades, and it is currently pegged at around $150 billion. Buffett has never been afraid to speak his mind. He once famously likened derivatives to weapons of mass destruction - aview that resonated widely during the financial crisis of 2008. Some of his methods to gauge the market cycle - for instance, the total stock market capitalisation to GDP ratio - have served as useful tools to understand market valuation. Asthe Oracle of Omaha departs, his successor has atough job. Berkshire currently has cash reserves in excess of $350 billion. Abel will need todeploy this war chest carefully and tactically, ensuring that the risk-reward profiledoesnot change much. Berkshire shareholders have at times cut Buffett some slack - for instance, returns have trailed the benchmark index this year. Whether they show the same patience and confidence in Abel is tobe seen.",
+   "n_words": 310,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1621,
+      4659,
+      2225,
+      4749
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1621,
+      4718,
+      2224,
+      4811
+     ]
+    ],
+    "body_boxes": [
+     [
+      1308,
+      4813,
+      2224,
+      4881
+     ],
+     [
+      1620,
+      4859,
+      2224,
+      5048
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "couples taking selfies, vendorsselling \u201cbhel\npuri\u201d while I stood, ushered to the other\nadeofindia Gate canaht hehween decnair",
+   "deck_raw": "PAE MER RA EN REN REE Le\nside of India Gate, caught between despair,\nmemory and responsibility \u2014 our two",
+   "body_raw": "Pradesh\u2014are worlds collided in the same toxic air.\nKian lated with I wanted to cross over and walk to the\n\nI wanted to cross over and walk to the\nWar Memorial to say hello to my brother.\nButI was surrounded by the living and the\ndead, between police barricades and gasp-\ning children, thinking: \u201cDidn't those who",
+   "ocr_conf": 84.71929824561404,
+   "ocr_low_conf_share": 0.10526315789473684,
+   "headline": "couples taking selfies, vendorsselling \"bhel puri\" while I stood, ushered to the other adeofindia Gate canaht hehween decnair",
+   "deck": "PAE MER RA EN REN REE Le side of India Gate, caught between despair, memory and responsibility - our two",
+   "byline": "",
+   "text": "Pradesh - are worlds collided in the same toxic air. Kian lated with I wanted to cross over and walk to the\n\nI wanted to cross over and walk to the War Memorial to say hello to my brother. ButI was surrounded by the living and the dead, between police barricades and gasping children, thinking: \"Didn't those who",
+   "n_words": 58,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      394,
+      4710,
+      1124,
+      4898
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      4932,
+      1203,
+      6201
+     ]
+    ],
+    "layout_words": 292
+   },
+   "headline_raw": "The way men are, in\nspirit and in Flesh",
+   "deck_raw": "",
+   "body_raw": "HE BOOK WE kept coming back to, the one that\nstood out from the other great novels\u201d, ishow writer\nRoddy Doyle, chair of judges, described this year's\nBooker Prize-winning novel Flesh by Hungarian-\nBritish writer David Szalay. Szalay\u2019s protagonist, Istvan, drifts\nfrom Hungarian adolescence to military service and London\nexile, his movements slow and sparse, his silences louder\nthan speech, his singularity coded in the writer's refusal to\nmake his character stand for anything larger than his own\nfaltering life.\nWhat the Vienna-based Szalay, 51, achieves, in the process,\nis not a grand statement on masculinity, but an exposure of\nits architecture \u2014 its weight, absences, its quiet humiliations,\nits undeniable hubris. The novel\u2019s power lies in how it un-\nravels the idea of the man as an actor with agency, asking in-\nstead what happens when he is acted upon. There is no re-\ndemptionarc, no moral lesson. Szalay dismantles the myths\nof masculinity not by correcting them but by ignoring their\nframe altogether. His men are not more or less. They simply\nare, in body and flesh.\nAt atime when conversations around toxic and per-\nformative masculinity dominate both culture and critique,\nSzalay\u2019s refusal to join the chorus or offer a prescription or\nremedy feels both unsettling and subversive. His fourth\nnovel, the Booker-shortlisted All That Man Is (2016), too, had\nmapped stages of manhood. Flesh stands out forits attention\nto the texture of existence, for restoring to fiction a kind of\nmoral depth that chooses ambiguity over certainty. It makes\nSzalay\u2019s sixth novel, in Doyle\u2019s words, \u201ca dark book but... ajoy\nto read\u201d \u2014 a novel not just about men, but about what re-\nmains of them and of the rest, when language, certainty and\nmyth are stripped away.",
+   "ocr_conf": 91.31506849315069,
+   "ocr_low_conf_share": 0.04452054794520548,
+   "headline": "The way men are, in spirit and in Flesh",
+   "deck": "",
+   "byline": "",
+   "text": "HE BOOK WE kept coming back to, the one that stood out from the other great novels\", ishow writer Roddy Doyle, chair of judges, described this year's Booker Prize-winning novel Flesh by Hungarian-British writer David Szalay. Szalay's protagonist, Istvan, drifts from Hungarian adolescence to military service and London exile, his movements slow and sparse, his silences louder than speech, his singularity coded in the writer's refusal to make his character stand for anything larger than his own faltering life. What the Vienna-based Szalay, 51, achieves, in the process, is not a grand statement on masculinity, but an exposure of its architecture - its weight, absences, its quiet humiliations, its undeniable hubris. The novel's power lies in how it unravels the idea of the man as an actor with agency, asking instead what happens when he is acted upon. There is no redemptionarc, no moral lesson. Szalay dismantles the myths of masculinity not by correcting them but by ignoring their frame altogether. His men are not more or less. They simply are, in body and flesh. At atime when conversations around toxic and performative masculinity dominate both culture and critique, Szalay's refusal to join the chorus or offer a prescription or remedy feels both unsettling and subversive. His fourth novel, the Booker-shortlisted All That Man Is (2016), too, had mapped stages of manhood. Flesh stands out forits attention to the texture of existence, for restoring to fiction a kind of moral depth that chooses ambiguity over certainty. It makes Szalay's sixth novel, in Doyle's words, \"a dark book but... ajoy to read\" - a novel not just about men, but about what remains of them and of the rest, when language, certainty and myth are stripped away.",
+   "n_words": 286,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3529,
+      5241,
+      4000,
+      5280
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Indians dead inLebanon",
+   "ocr_conf": 74.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Indians dead inLebanon",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3527,
+      5332,
+      4123,
+      5520
+     ]
+    ],
+    "layout_words": 35,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE LEBANESE POLICE have recovered at\nleast six bodies of Indians in Beirut and\ntowns to its north. Beirut newspapers said\nthese people were killed in Lebanon in\ncommunal dashes in the last six weeks.",
+   "ocr_conf": 95.14285714285714,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "THE LEBANESE POLICE have recovered at least six bodies of Indians in Beirut and towns to its north. Beirut newspapers said these people were killed in Lebanon in communal dashes in the last six weeks.",
+   "n_words": 35,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1366,
+      5425,
+      2001,
+      5488
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1341,
+      5242,
+      1790,
+      5366
+     ]
+    ],
+    "body_boxes": [
+     [
+      1390,
+      5529,
+      1808,
+      5557
+     ],
+     [
+      1358,
+      5589,
+      1644,
+      5662
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "f=] INDIAN EXPRESS",
+   "deck_raw": "40 YEARS AGO\nNovember 12, 1985",
+   "body_raw": "ae \u2014\nnee =e ee\n\nNo N-bomb at this\njuncture, says PM",
+   "ocr_conf": 67.75,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "f=] INDIAN EXPRESS",
+   "deck": "40 YEARS AGO",
+   "byline": "",
+   "text": "nee =e ee\n\nNo N-bomb at this juncture, says PM",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3528,
+      5579,
+      3832,
+      5618
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SriLankablasts",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "SriLankablasts",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3526,
+      5651,
+      4129,
+      6117
+     ]
+    ],
+    "layout_words": 73,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "LANDMINES LAID BY suspected Tamil\nguerillas killed 11 security personnel,\nseven policemen and four soldiers, and in-\njured four others intwo separate ex-\nplosions in eastern Sri Lanka, a defence\nministry spokesman said. The policemen\nwere ina jeep when a landmine exploded\non Allai-Kantalai Road in the eastern Trin-\ncomalee district about 225 km from Co-\nlombo. Later, four soldiers died and four\nothers were injured in an explosion near\nVakarai in Batticaloa.",
+   "ocr_conf": 89.78082191780823,
+   "ocr_low_conf_share": 0.0547945205479452,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "LANDMINES LAID BY suspected Tamil guerillas killed 11 security personnel, seven policemen and four soldiers, and injured four others intwo separate explosions in eastern Sri Lanka, a defence ministry spokesman said. The policemen were ina jeep when a landmine exploded on Allai-Kantalai Road in the eastern Trin-comalee district about 225 km from Colombo. Later, four soldiers died and four others were injured in an explosion near Vakarai in Batticaloa.",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 26.6,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

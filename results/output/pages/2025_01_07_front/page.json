@@ -1,0 +1,961 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_07_front",
+ "source_file": "2025-01-07_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-07_front.png",
+ "date": "2025-01-07",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 4,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 495,
+  "mean_line_conf": 86.73445246111913,
+  "orphan_words": 17,
+  "body_words_total": 1876
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      747,
+      723,
+      782
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      770,
+      2694,
+      1062
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      2222,
+      741
+     ]
+    ],
+    "body_boxes": [
+     [
+      1971,
+      2383,
+      2059,
+      2415
+     ],
+     [
+      2270,
+      2333,
+      2716,
+      2876
+     ]
+    ],
+    "layout_words": 62
+   },
+   "headline_raw": "Maoists ambush securitymen on\nway back from operation, 9 killed",
+   "deck_raw": "VEHICLE TARGETED WITH IED IN BIJAPUR, CHHATTISGARH",
+   "body_raw": "Raipur\n\ngion. The operation had started\nFriday, and on Saturday, an en-\ncounter broke out inAbujhmad,\nin which five Maoists and a\nDistrict Reserve Guard (DRG)\nJawan were killed.\nThe security per sonneikilied\nMondaywere identifted as Head\nConstable Budhram Korsa and\nConstables Duma Markam,\nPandru Ram Poyam, and Baman\nSodi from the DRG, as well as\nConstables Somdu Vetti,\nCONTINUED ONPAGE 2",
+   "ocr_conf": 86.58064516129032,
+   "ocr_low_conf_share": 0.11290322580645161,
+   "headline": "Maoists ambush securitymen on way back from operation, 9 killed",
+   "deck": "VEHICLE TARGETED WITH IED IN BIJAPUR, CHHATTISGARH",
+   "byline": "",
+   "text": "Raipur\n\ngion. The operation had started Friday, and on Saturday, an encounter broke out inAbujhmad, in which five Maoists and a District Reserve Guard (DRG) Jawan were killed. The security per sonneikilied Mondaywere identifted as Head Constable Budhram Korsa and Constables Duma Markam, Pandru Ram Poyam, and Baman Sodi from the DRG, as well as Constables Somdu Vetti,",
+   "n_words": 58,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2768,
+      787,
+      4176,
+      1315
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2767,
+      698,
+      3375,
+      753
+     ],
+     [
+      2765,
+      1371,
+      3163,
+      1422
+     ],
+     [
+      2765,
+      1462,
+      3196,
+      1661
+     ]
+    ],
+    "body_boxes": [
+     [
+      2763,
+      1740,
+      3097,
+      1809
+     ],
+     [
+      2763,
+      1859,
+      3205,
+      1975
+     ],
+     [
+      2759,
+      2019,
+      3207,
+      3115
+     ]
+    ],
+    "layout_words": 146
+   },
+   "headline_raw": "US eases curbs to push\nN-deal, 3 India entities\nmay be off blacklist",
+   "deck_raw": "NSA SULLIVAN MEET:\nUS President to\nease norms\nto allow tech\ntransfer in space",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI. JANUARY 6\n\nIN AN incremental step towards\noperationaltsing the Indo-US nu-\nclear deal, US National Security\n\nMonday that Washington is fi-\nnalizing steps to remove long-\nstanding regulations that have\nprevented civil nuclear coopera-\ntion between India's leading nu-\nclear entities and UScompanies.\nThis includes removing\nIndian goverment entities from\nthe US entity list, The Indian\nExpress has learnt. Sources said\nthese could include: Bhabha\nAtomicResearch Centre(BARC):\nIndira Gandhi Atomic Research\nCentre (IGCAR) and Indian Rare\nEarths Limited (IREL) \u2014 all gov-\nemment-run institutions\nThe US Entity List is a list of\nforeign individuals, businesses,\nand organizations that are sub-\nject to export restrictions and li-\ncensing requir emenis fr certain\ngoods and technologies Thelist\n\u2014 compiled by the Bureau of\nIndustry and Security(BIS) ofthe\nUS Department of Commerce \u2014\nis ostensibly used to prevent\nunauthorized tradein items that\nCONTINUEDON PAGE2",
+   "ocr_conf": 86.9448275862069,
+   "ocr_low_conf_share": 0.09655172413793103,
+   "headline": "US eases curbs to push N-deal, 3 India entities may be off blacklist",
+   "deck": "NSA SULLIVAN MEET: US President to ease norms to allow tech transfer in space",
+   "byline": "SHUBHAJIT ROY; NEW DELHI. JANUARY 6",
+   "text": "IN AN incremental step towards operationaltsing the Indo-US nuclear deal, US National Security\n\nMonday that Washington is finalizing steps to remove long-standing regulations that have prevented civil nuclear cooperation between India's leading nuclear entities and UScompanies. This includes removing Indian goverment entities from the US entity list, The Indian Express has learnt. Sources said these could include: Bhabha AtomicResearch Centre(BARC): Indira Gandhi Atomic Research Centre (IGCAR) and Indian Rare Earths Limited (IREL) - all govemment-run institutions The US Entity List is a list of foreign individuals, businesses, and organizations that are subject to export restrictions and licensing requir emenis fr certain goods and technologies Thelist - compiled by the Bureau of Industry and Security(BIS) ofthe US Department of Commerce - is ostensibly used to prevent unauthorized tradein items that CONTINUEDON PAGE2",
+   "n_words": 131,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      412,
+      899,
+      607,
+      966
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Make (\u20ac OF cial On",
+   "ocr_conf": 53.2,
+   "ocr_low_conf_share": 0.6,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Make (\u20ac OF cial On",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      627,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      408,
+      927,
+      580,
+      999
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      418,
+      2401,
+      664,
+      2483
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "Bectave sue",
+   "deck_raw": "",
+   "body_raw": "JANMEJAYA\nSINHA",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Bectave sue",
+   "deck": "",
+   "byline": "JANMEJAYA; SINHA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      325,
+      1474,
+      737,
+      1506
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NETWORK",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "EXPRESS NETWORK",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      2099,
+      4163,
+      2369
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2454,
+      3586,
+      2524
+     ],
+     [
+      3248,
+      2574,
+      3692,
+      3123
+     ]
+    ],
+    "layout_words": 69
+   },
+   "headline_raw": "2 key hurdles: US law that\nbars manufacturing here,\nIndian law on liability",
+   "deck_raw": "",
+   "body_raw": "ANILSASI\nNEWDELHI, JANUARY 6\n\nWHILE US National Security\nAdvisor Jake Sullivan did not\nspell out the details with sources\nsuggesting that three en-\ntities may be takenoffthe fF\nblacklist, there arecur- [E\nrently two key legal barri-\nersto furthering Indo-US \u2018\u2014\nnuclear collaboration.\nOn the American side,a signif-\nicant impediment is the\n*10CFR810' authorisation (Part 810\nof Title 10, Code of Federal\nRegulations (Part 810) of the US",
+   "ocr_conf": 76.8970588235294,
+   "ocr_low_conf_share": 0.23529411764705882,
+   "headline": "2 key hurdles: US law that bars manufacturing here, Indian law on liability",
+   "deck": "",
+   "byline": "ANILSASI; NEWDELHI, JANUARY 6",
+   "text": "WHILE US National Security Advisor Jake Sullivan did not spell out the details with sources suggesting that three entities may be takenoffthe fF blacklist, there arecur- [E rently two key legal barriersto furthering Indo-US ' - nuclear collaboration. On the American side,a significant impediment is the *10CFR810' authorisation (Part 810 of Title 10, Code of Federal Regulations (Part 810) of the US",
+   "n_words": 62,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      2333,
+      1705,
+      2456
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      2531,
+      1185,
+      2600
+     ],
+     [
+      810,
+      2650,
+      1255,
+      2874
+     ],
+     [
+      1297,
+      2493,
+      1740,
+      2882
+     ]
+    ],
+    "layout_words": 76
+   },
+   "headline_raw": "8 security personnel, their driver killed;\nambush after road-opening party left",
+   "deck_raw": "",
+   "body_raw": "JAY PRAKASH S NAIDU\nRAIPUR, JANUARY 6\n\nATLEAST eight security person-\nnel and a driver were killed\nMonday after Maoists attacked\ntheir vehicle in the jungle area of\nKutru in Chhattisgarh's Bijapur\ndistrict.\n\n\u201cMaoists blew up a police ve-\nhicle using an Improvised\nExplosive Device on the Kutru-\nBedre road,\u201d Inspector General\nof Police for Bastar Range,\nSundarrajP, said.\nAccording to sources, the se\ncurity personnel were retuming\nafter conducting ananti-Maoist\noperation in the Abujhmad re-",
+   "ocr_conf": 83.76315789473684,
+   "ocr_low_conf_share": 0.14473684210526316,
+   "headline": "8 security personnel, their driver killed; ambush after road-opening party left",
+   "deck": "",
+   "byline": "JAY PRAKASH S NAIDU; RAIPUR, JANUARY 6",
+   "text": "ATLEAST eight security personnel and a driver were killed Monday after Maoists attacked their vehicle in the jungle area of Kutru in Chhattisgarh's Bijapur district.\n\n\"Maoists blew up a police vehicle using an Improvised Explosive Device on the Kutru-Bedre road,\" Inspector General of Police for Bastar Range, SundarrajP, said. According to sources, the se curity personnel were retuming after conducting ananti-Maoist operation in the Abujhmad re-",
+   "n_words": 66,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3753,
+      2299,
+      4023,
+      2386
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3738,
+      2413,
+      4180,
+      2562
+     ],
+     [
+      3738,
+      2613,
+      4181,
+      3116
+     ]
+    ],
+    "layout_words": 78
+   },
+   "headline_raw": "liability",
+   "deck_raw": "",
+   "body_raw": "AtomicEnergy Actof 1954) which\ngives US nuclear vendors the abil-\nity & export equipment to coun-\ntries such as India under some\n\nmit them to manufacture anynu-\nclear equipment or perform any\n: Nuctear design work here,\nThis authorisation is a\n' Clear impediment from\nse | New Delhi's perspective,\nwhich wants to participate\ninthe manufacturing value chain\nand co-produce the nuciear com-\nponents for atomic power proj-\nects being jointly planned tw be\nset upin India, sources said.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 80.87951807228916,
+   "ocr_low_conf_share": 0.1927710843373494,
+   "headline": "liability",
+   "deck": "",
+   "byline": "",
+   "text": "AtomicEnergy Actof 1954) which gives US nuclear vendors the ability & export equipment to countries such as India under some\n\nmit them to manufacture anynuclear equipment or perform any: Nuctear design work here, This authorisation is a ' Clear impediment from se New Delhi's perspective, which wants to participate inthe manufacturing value chain and co-produce the nuciear components for atomic power projects being jointly planned tw be set upin India, sources said.",
+   "n_words": 72,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      375,
+      2532,
+      712,
+      2649
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      387,
+      2701,
+      699,
+      2739
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "SPECIAL TO THE\nEXPRESS",
+   "deck_raw": "",
+   "body_raw": "RUNUP TO BUDGET",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "SPECIAL TO THE EXPRESS",
+   "deck": "",
+   "byline": "RUNUP TO BUDGET",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      2948,
+      1244,
+      3427
+     ],
+     [
+      320,
+      3468,
+      1221,
+      3598
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4429,
+      656,
+      4498
+     ],
+     [
+      316,
+      4547,
+      762,
+      5176
+     ],
+     [
+      809,
+      4391,
+      1253,
+      5169
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "His ratings down,\nTrudeau announces\nresignation, opens a\nwindow to reset ties\nTask easier said than done given\nOttawa\u2019s hard line against New Delhi",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, JANUARY 6\n\nFACING LOSS of support within\nhis party and low popularity in\npolis, Canadian Prime Minister\nJustin Trudeau announced\nMonday that he will resign as\nparty leader and PM, but will stay\non as the PM until the Liberal\nParty chooses anew leader\nOn Trudeau's request,\nGovernor General Mary Simon\nagreed to prorogue Parliament\nuntil March 24. This willgive the\nLiberal Party time to hold a\nshortened leadership contest.\nFrom New Delhi's perspec-\ntive, Trudeau's time was up and\n\nthe assessment, going by opin-\nion polb, was thathe would have\npossibly lost the elections after\nbeing in office for 10 years \u2014 he\nbecame the Liberal Party's leader\nin 2013 andPMin 2015.\nTrudeau is seen as someone\nwho hastalena \u201cscorched earth\npolicy\u201d in termsofindia-Canada\nties, especially after his allega-\ntion in September 2023 that\nIndian goverment agentswere\ninvolved in the killing of\nKhalistan separatist Hardeep\nSingh Nijjar in Canada.\nDelhi hasrejected Trudeau's\nallegations as \u201cabsurd\u201d and \u201cpo-\nlitically motivated\", and accused\nhis government of sheltering\nCONTINUEDON PAGE2",
+   "ocr_conf": 89.96511627906976,
+   "ocr_low_conf_share": 0.06395348837209303,
+   "headline": "His ratings down, Trudeau announces resignation, opens a window to reset ties Task easier said than done given Ottawa's hard line against New Delhi",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, JANUARY 6",
+   "text": "FACING LOSS of support within his party and low popularity in polis, Canadian Prime Minister Justin Trudeau announced Monday that he will resign as party leader and PM, but will stay on as the PM until the Liberal Party chooses anew leader On Trudeau's request, Governor General Mary Simon agreed to prorogue Parliament until March 24. This willgive the Liberal Party time to hold a shortened leadership contest. From New Delhi's perspective, Trudeau's time was up and\n\nthe assessment, going by opinion polb, was thathe would have possibly lost the elections after being in office for 10 years - he became the Liberal Party's leader Trudeau is seen as someone who hastalena \"scorched earth policy\" in termsofindia-Canada ties, especially after his allegation in September 2023 that Indian goverment agentswere involved in the killing of Khalistan separatist Hardeep Singh Nijjar in Canada. Delhi hasrejected Trudeau's allegations as \"absurd\" and \"politically motivated\", and accused his government of sheltering CONTINUEDON PAGE2",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      3028,
+      2622,
+      3388
+     ],
+     [
+      1296,
+      3429,
+      2609,
+      3489
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      3561,
+      1722,
+      3630
+     ],
+     [
+      1296,
+      3679,
+      1741,
+      4190
+     ],
+     [
+      1785,
+      3519,
+      2227,
+      4190
+     ],
+     [
+      2269,
+      3520,
+      2716,
+      4183
+     ]
+    ],
+    "layout_words": 247
+   },
+   "headline_raw": "Unprecedented rush to be in\nDelhi voter list after last date,\nneeds greater scrutiny: CEO\nAAP vs BJP over additions, deletions from electoral list",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI. JANUARY 6\n\nAHEADOF the announcementof\nthe Assembly election schedule\nfor Delhi - it isexpected any day\nnow - its Chief Electoral Officer\nMonday flagged an \u201cunprece-\ndented\" rush for new voter reg-\nistration since December 16 and\nsaid this \u201cneeds greater\nscrutiny\u201d.\nThe office of the CEO, ina\nstatement, said it received new\nvoter registration applications\nfrom 5.1 lakh people after the\n\ncut-off date of November 28. It\nsaid this was over and above the\n3.08 lakh new voters added to\nthe roll during the special sum-\nmary revision in October.\n\u201cThis trend of unprecedented\nincrease... and that too after 20\ndays of the last date of receiving\nclaims and objections as sched-\nuled.. is unexpected and needs\ngreater scrutiny,\u201d the CEO said.\n\u201cDirections are issued to...\nscrutinise each and every form\nstrictly as per ECI guidelines.\n100% field verification shall be\ndone... to identify the genuineel-\nigible persons. EROs are alsocon-\n\nducting personal hearings in\ndoubtful cases as per ECI guide-\nlines,\u201d the statement said, adding\nthat eight FIRs had been filed\nagainst 24 people for submission\nof false or tampered documents\nfor obtaining voter IDs.\nOver the past month, the AAP\nhas accused the BJP of filing ob-\njections letters and getting the\nnames of \u201cbona fide voters\u201d\ndeleted from the voter list. The\nBJP, on the other hand, has ac-\ncused AAP of getting names of\n\u201cbogus voters\u201d added to the list.\nOn Monday, locking horns\nCONTINUED ONPAGE 2",
+   "ocr_conf": 89.36437246963563,
+   "ocr_low_conf_share": 0.044534412955465584,
+   "headline": "Unprecedented rush to be in Delhi voter list after last date, needs greater scrutiny: CEO AAP vs BJP over additions, deletions from electoral list",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI. JANUARY 6",
+   "text": "AHEADOF the announcementof the Assembly election schedule for Delhi - it isexpected any day now - its Chief Electoral Officer Monday flagged an \"unprecedented\" rush for new voter registration since December 16 and said this \"needs greater scrutiny\". The office of the CEO, ina statement, said it received new voter registration applications from 5.1 lakh people after the\n\ncut-off date of November 28. It said this was over and above the 3.08 lakh new voters added to the roll during the special summary revision in October. \"This trend of unprecedented increase... and that too after 20 days of the last date of receiving claims and objections as scheduled.. is unexpected and needs greater scrutiny,\" the CEO said. \"Directions are issued to... scrutinise each and every form strictly as per ECI guidelines. 100% field verification shall be done... to identify the genuineeligible persons. EROs are alsoconducting personal hearings in doubtful cases as per ECI guidelines,\" the statement said, adding that eight FIRs had been filed against 24 people for submission of false or tampered documents for obtaining voter IDs. Over the past month, the AAP has accused the BJP of filing objections letters and getting the names of \"bona fide voters\" deleted from the voter list. The BJP, on the other hand, has accused AAP of getting names of \"bogus voters\" added to the list. On Monday, locking horns",
+   "n_words": 228,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      3265,
+      3595,
+      3744
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      3838,
+      3161,
+      3946
+     ],
+     [
+      2760,
+      3995,
+      3205,
+      5181
+     ],
+     [
+      3410,
+      3884,
+      3645,
+      3979
+     ],
+     [
+      3295,
+      4035,
+      3650,
+      4667
+     ],
+     [
+      3247,
+      4750,
+      3691,
+      4935
+     ]
+    ],
+    "layout_words": 213
+   },
+   "headline_raw": "UGC eases hiring\ncontract teachers,\nopens V-C post to\nnon-academics tor",
+   "deck_raw": "",
+   "body_raw": "ABHINAYA HARIGOVIND\n& RITIKACHOPRA\nNEW DELHI, JANUARY6\n\nIN A MAJOR overhaul of the\nprocess ofappointment of lead-\ners in higher education, the\nUniversity Grants Commission\n(UGC) issued new mules Monday\nwhich \u2014 effectively gives\nGovernors in states broader\npowers in appointing Vice-\nChancellorsand opened the po-\nsition to industry experts and\npublic sector veterans, thus\nbreaking from the tradition of\nselecting only academicians.\nAccording to government\nsources, if approved as is, the\nnew regulations will give\nChancellors greater controlover\nVice-Chancellor selection. This\nwilllikely have significant ram-\nifications for Opposition-ruled\nstates suchas Tamil Nadu, West\nBengal, and Kerala, where the\ngovemment and Govemor (who\nserves as Chancellor of state uni-\nversities) arecurrently locked in\ndisputes over the top academic\nappointment process.\nThe new draft regulations \u2014\ntitled \u2018University Grants\nCommission (Minimum\n\nAnew\n@ flashpoint\n\nTHEUGC'S draft norms\nhave safely provided that\nChancellors would get to\ncontrol the entire process\nof appointing V-Cs in\nState unwersities. Some\nState gzovemments led by\nnon-BJP parties have al-\nready proposed that the\nCM \u2014 and not the\nGovemor, whois ap-\npointed by the Union\ngovemment \u2014 shouldbe\nthe Chancellor. The new\nnorms could become a\nnew flashpoint.\n\nQualifications for Appointment\nand Promotion of Teachers and\nAcademic Staff in Universities\nand Colleges and Measures for\nMaintenance of Standards in",
+   "ocr_conf": 89.5868544600939,
+   "ocr_low_conf_share": 0.06103286384976526,
+   "headline": "UGC eases hiring contract teachers, opens V-C post to non-academics tor",
+   "deck": "",
+   "byline": "ABHINAYA HARIGOVIND; & RITIKACHOPRA; NEW DELHI, JANUARY6",
+   "text": "IN A MAJOR overhaul of the process ofappointment of leaders in higher education, the University Grants Commission (UGC) issued new mules Monday which - effectively gives Governors in states broader powers in appointing Vice-Chancellorsand opened the position to industry experts and public sector veterans, thus breaking from the tradition of selecting only academicians. According to government sources, if approved as is, the new regulations will give Chancellors greater controlover Vice-Chancellor selection. This willlikely have significant ramifications for Opposition-ruled states suchas Tamil Nadu, West Bengal, and Kerala, where the govemment and Govemor (who serves as Chancellor of state universities) arecurrently locked in disputes over the top academic appointment process. The new draft regulations - titled 'University Grants Commission (Minimum\n\nAnew @ flashpoint\n\nTHEUGC'S draft norms have safely provided that Chancellors would get to control the entire process of appointing V-Cs in State unwersities. Some State gzovemments led by non-BJP parties have already proposed that the CM - and not the Govemor, whois appointed by the Union govemment - shouldbe the Chancellor. The new norms could become a new flashpoint.\n\nQualifications for Appointment and Promotion of Teachers and Academic Staff in Universities and Colleges and Measures for Maintenance of Standards in",
+   "n_words": 199,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      3738,
+      3268,
+      4173,
+      3499
+     ],
+     [
+      3738,
+      3604,
+      4084,
+      3674
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3738,
+      3536,
+      4118,
+      3575
+     ],
+     [
+      3737,
+      3760,
+      4071,
+      3829
+     ],
+     [
+      3247,
+      3879,
+      4181,
+      5172
+     ]
+    ],
+    "layout_words": 191
+   },
+   "headline_raw": "9 men trapped\nin flooded coal\nmine in Assam,\nagainst time",
+   "deck_raw": "",
+   "body_raw": "rescuers race\n\nSUKRITABARUAH\nGUWAHATI, JANUARY 6\n\n= Anew ATLEASTnineworkers had been\nme flashpoint trapped for over 12 hours ina\nui @ fashpoin coal mine in Assam\u2019s Dima\nHasao district as of 10pm on\nTHEUGC'S draft norms Monday, reportedly after it was\nhave safely provided that flooded in the moming.\nChancellors would get to On Monday night, the state\ncontrol the entire process goverment released alist ofthe\nof appointing V-Cs in workers, aged between 26 and57.\nState universities. Some Oneofthem is from Nepal, one is\nState gzovemments led by from West Bengal's Jalpaiguridis-\nnon-BJP parties have al- trict, one is a local from Dima\nready proposed that the Hasao,while the rest are from dif-\nCM \u2014 and not the ferent parts of Assam such as\nGovemor, whois ap- Darrang,KokraiharandSonitpur\npointed by the Union The site of the incident is in\ngovemment \u2014 shouldbe the Kalamati area in Umrangso,\nthe Chancellor. The new in the hilly district of Dima\nnorms could become a Hasao. The area is remote -\nnew flashpoint. around 150 kilometres from the\n___________ district headquarters Haflong -\nand the Superintendent of\nQualifications for Appointment \u2014_ Police, District Collector and\nand Promotion of Teachers and \u2014_ other senior government func-\nAcademic Staff in Universities tionaries were yet to reach the\nand Colleges and Measures for site asof8:30pm\nMaintenance of Standards in \u201cThe incident took place in\nHigher Education) Regulations, the morning, and rescue teams\n2025' \u2014 have also removedthe were rushed thereas soonaswe\ncaponcontract teacher appoint- were informed. The rescue op-\nments. erations have been ongoing for\nThe 2018 regulations had about seven hours now,\u201d the SP\nCONTINUED ONPAGE 2 CONTINUED ON PAGE 2",
+   "ocr_conf": 87.07636363636364,
+   "ocr_low_conf_share": 0.06909090909090909,
+   "headline": "9 men trapped in flooded coal mine in Assam, against time",
+   "deck": "",
+   "byline": "SUKRITABARUAH; GUWAHATI, JANUARY 6",
+   "text": "rescuers race\n\n= Anew ATLEASTnineworkers had been me flashpoint trapped for over 12 hours ina ui @ fashpoin coal mine in Assam's Dima Hasao district as of 10pm on THEUGC'S draft norms Monday, reportedly after it was have safely provided that flooded in the moming. Chancellors would get to On Monday night, the state control the entire process goverment released alist ofthe of appointing V-Cs in workers, aged between 26 and57. State universities. Some Oneofthem is from Nepal, one is State gzovemments led by from West Bengal's Jalpaiguridisnon-BJP parties have al- trict, one is a local from Dima ready proposed that the Hasao,while the rest are from dif-CM - and not the ferent parts of Assam such as Govemor, whois ap- Darrang,KokraiharandSonitpur pointed by the Union The site of the incident is in govemment - shouldbe the Kalamati area in Umrangso, the Chancellor. The new in the hilly district of Dima norms could become a Hasao. The area is remote - new flashpoint. around 150 kilometres from the ___________ district headquarters Haflong - and the Superintendent of Qualifications for Appointment - _ Police, District Collector and and Promotion of Teachers and - _ other senior government func-Academic Staff in Universities tionaries were yet to reach the and Colleges and Measures for site asof8:30pm Maintenance of Standards in \"The incident took place in Higher Education) Regulations, the morning, and rescue teams 2025' - have also removedthe were rushed thereas soonaswe caponcontract teacher appoint- were informed. The rescue opments. erations have been ongoing for The 2018 regulations had about seven hours now,\" the SP",
+   "n_words": 262,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      4254,
+      2704,
+      4466
+     ],
+     [
+      1298,
+      4492,
+      2266,
+      4552
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      4630,
+      1622,
+      4699
+     ],
+     [
+      1295,
+      4749,
+      1737,
+      4784
+     ],
+     [
+      1295,
+      4827,
+      1737,
+      5177
+     ],
+     [
+      2026,
+      4629,
+      2197,
+      4816
+     ],
+     [
+      1785,
+      4906,
+      2229,
+      5178
+     ]
+    ],
+    "layout_words": 87
+   },
+   "headline_raw": "Salman initial target, Lawrence gang\nshot Siddique over proximity: Police\nFocus shifted due to tight Salman securi",
+   "deck_raw": "",
+   "body_raw": "MOHAMED THAVER\nMUMBAI, JANUARY 6\n\nTHE LAWRENCE Bishnoi gang\n\nbut instead targeted hiscloseas-\nsociate, NCP leader Baba\nSiddique, owing to the height-\nened security around the actor\nfollowing the shooting outside\nhis Mumbai residence last year.\nThe Mumbai Police Crime\nBranchoutlined this shift in tar-\nget inan4590-page chargesheet\n\nNCP leader\nBaba\nSiddique\nwas killed\nonOct12\n\nfiled before a special court on\nMonday.\nThe gang, led by the younger\nbrother of imprisoned gangster\nLawrence Bishnoi, Anmol, has\ntargeted Salman over his in-\nvolvement in the 1998 killing of",
+   "ocr_conf": 90.22988505747126,
+   "ocr_low_conf_share": 0.05747126436781609,
+   "headline": "Salman initial target, Lawrence gang shot Siddique over proximity: Police Focus shifted due to tight Salman securi",
+   "deck": "",
+   "byline": "MOHAMED THAVER; MUMBAI, JANUARY 6",
+   "text": "THE LAWRENCE Bishnoi gang\n\nbut instead targeted hiscloseassociate, NCP leader Baba Siddique, owing to the height-ened security around the actor following the shooting outside his Mumbai residence last year. The Mumbai Police Crime Branchoutlined this shift in target inan4590-page chargesheet\n\nNCP leader Baba Siddique was killed onOct12\n\nfiled before a special court on Monday. The gang, led by the younger brother of imprisoned gangster Lawrence Bishnoi, Anmol, has targeted Salman over his involvement in the 1998 killing of",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      4493,
+      2656,
+      4553
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2270,
+      4589,
+      2717,
+      5171
+     ]
+    ],
+    "layout_words": 68
+   },
+   "headline_raw": "ity: Chargesheet",
+   "deck_raw": "",
+   "body_raw": "a blackbuck, whichisrevered by\nthe Bishnoi community.\nRuling out any property dis-\npute, the chargesheet lists a\nnumber of reasons for the hit \u2014\nthe gang trying to establish its\nhold on thecity: Siddique's prox-\nimity to Salman Khan; alleged\nlinks to Dawood Ibrahim; and\nthe custodial death of Anuj\nThapan, who was arrested over\nthe firing outside Salman's\nBandra residence.\nThese reasons were first\nCONTINUED ONPAGE 2",
+   "ocr_conf": 92.79411764705883,
+   "ocr_low_conf_share": 0.029411764705882353,
+   "headline": "ity: Chargesheet",
+   "deck": "",
+   "byline": "",
+   "text": "a blackbuck, whichisrevered by the Bishnoi community. Ruling out any property dispute, the chargesheet lists a number of reasons for the hit - the gang trying to establish its hold on thecity: Siddique's proximity to Salman Khan; alleged links to Dawood Ibrahim; and the custodial death of Anuj Thapan, who was arrested over the firing outside Salman's Bandra residence. These reasons were first",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5328,
+      3175,
+      5454
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1325,
+      5503,
+      1706,
+      5696
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5538,
+      499,
+      5570
+     ],
+     [
+      318,
+      5698,
+      655,
+      5806
+     ],
+     [
+      318,
+      5855,
+      760,
+      6166
+     ],
+     [
+      808,
+      5499,
+      1249,
+      5844
+     ],
+     [
+      807,
+      5856,
+      1249,
+      6159
+     ],
+     [
+      1376,
+      5714,
+      1653,
+      5743
+     ],
+     [
+      1291,
+      5817,
+      1736,
+      6167
+     ],
+     [
+      1783,
+      5500,
+      2226,
+      6168
+     ],
+     [
+      2270,
+      5500,
+      2711,
+      5535
+     ],
+     [
+      2269,
+      5594,
+      2713,
+      6168
+     ],
+     [
+      2760,
+      5500,
+      3202,
+      6011
+     ],
+     [
+      2760,
+      6015,
+      3201,
+      6161
+     ]
+    ],
+    "layout_words": 380
+   },
+   "headline_raw": "ITT campus jobs dip, students seek pastures elsewhere",
+   "deck_raw": "Your RIGHT\nTO KNOW\nAN EXPRESS rTI",
+   "body_raw": "ANCHOR\n\nVIDHEESHA\nKUNTAMALLA\nNEW DELHI, JANUARY 6\n\nIN ANindicationofthe changing\nhiring trends from the Indian\nInstitutes of Technology, atleast\nfour older IITs have seen ade-\ncline in their campus placement\npercentagesin recent years, even\nas surveys indicate the number\nof students getting jobs inde-\n\npendently may be on the rise.\nThe trends, based ondataob-\ntained by The Indian Express,\ncome against the backdrop of a\nshifting tech landscape, global\neconomic uncertainties, and an\nincreasing number of IIT gradu-\nates competing inadynamic job\nmarket.\n\nFiveofthe seven first-gener-\nation IITs responded to The\nindian Express's request under\nthe RTI Act for placement data\nspanning six years, from 2018-\n19 to 2023-24. IIT Madrasand IIT\nGuwahati did not share details\nand instead referred tw their an-\n\nAPPLICATION\n\nnual reports.\nAmong the institutes that\ndisclosed placement rates (the\npercentage of students receiving\nJoboflers across undergradiiaie,\npostgraduate, and research pro-\ngrams, IIT Kanpur, IIT Kharagpue\nand IIT Roorkee recorded de-\nclines ranging from 5 to 16 per-\n\ncentage points(see chart).\nIT Bombay provided data\nonly for 2022-23 and 2023-24,\nshowing a drop from 82% to\n75%. While IIT Guwahati's\nplacement percentage for\n2023-24 (71%) is higher than\nthe pre-pandemic level of 2018-\n19( 67%), itis seven percentage\npoints lower than the previous\nyear, 2022-23 (78%).\nIIT Delhi is the only institu-\ntion that bucked the trend,\nmaintaining a consistent place-\nment percentage of 84% to85%\nsince 2018-19, except for fluctu-\nations during the pandemic\n\nyears of 2020-21 (80%) and\n\nThe factors \u2014 and\nsome riders\nWhile the IITs refused to\ncomment on the record, stu-\ndents and teachers associated\nwith the campus hiring process\nattributed the drop \u00a9 a combi-\nnationof factors: the aftereffects\nof post-Covid mass hiring in\n2022,a slowdown in key sectors\nlike tech and software, and in-\ncreasing batch sizes.\n\u201cIn2022, there wasaspikein\nplacement percentages as the\n\nmarket recovered after Covid,\nwith rates exceeding 85%. This\nspike followed a two-year hiring\nfreeze. Hiringin2023 was more\nconservative, with fewer top\nMNCscomingin and adecline in\nsoftware and tech recruitment.\nPlacements this year might im-\nprove over last year, but are un-\nlikely to match 2022 levels. The\nnumbers may normalise by\n2025,\u201d said a source from IIT\nKanpur.\n\nAnother person associated\nwith placements at IIT Kharagpur\npointed to growing batch sizes as\nCONTINUEDON PAGE2",
+   "ocr_conf": 87.02894736842106,
+   "ocr_low_conf_share": 0.0868421052631579,
+   "headline": "ITT campus jobs dip, students seek pastures elsewhere",
+   "deck": "Your RIGHT TO KNOW AN EXPRESS rTI",
+   "byline": "ANCHOR; VIDHEESHA; KUNTAMALLA; NEW DELHI, JANUARY 6",
+   "text": "IN ANindicationofthe changing hiring trends from the Indian Institutes of Technology, atleast four older IITs have seen adecline in their campus placement percentagesin recent years, even as surveys indicate the number of students getting jobs independently may be on the rise. The trends, based ondataobtained by The Indian Express, come against the backdrop of a shifting tech landscape, global economic uncertainties, and an increasing number of IIT graduates competing inadynamic job market.\n\nFiveofthe seven first-generation IITs responded to The indian Express's request under the RTI Act for placement data spanning six years, from 2018- 19 to 2023-24. IIT Madrasand IIT Guwahati did not share details and instead referred tw their an-\n\nAPPLICATION\n\nnual reports. Among the institutes that disclosed placement rates (the percentage of students receiving Joboflers across undergradiiaie, postgraduate, and research programs, IIT Kanpur, IIT Kharagpue and IIT Roorkee recorded declines ranging from 5 to 16 percentage points(see chart). IT Bombay provided data only for 2022-23 and 2023-24, showing a drop from 82% to 75%. While IIT Guwahati's placement percentage for 2023-24 (71%) is higher than the pre-pandemic level of 2018- 19( 67%), itis seven percentage points lower than the previous IIT Delhi is the only institution that bucked the trend, maintaining a consistent placement percentage of 84% to85% since 2018-19, except for fluctuations during the pandemic\n\nyears of 2020-21 (80%) and\n\nThe factors - and some riders While the IITs refused to comment on the record, students and teachers associated with the campus hiring process attributed the drop \u00a9 a combinationof factors: the aftereffects of post-Covid mass hiring in 2022,a slowdown in key sectors like tech and software, and increasing batch sizes. \"In2022, there wasaspikein placement percentages as the\n\nmarket recovered after Covid, with rates exceeding 85%. This spike followed a two-year hiring freeze. Hiringin2023 was more conservative, with fewer top MNCscomingin and adecline in software and tech recruitment. Placements this year might improve over last year, but are unlikely to match 2022 levels. The numbers may normalise by 2025,\" said a source from IIT Kanpur.\n\nAnother person associated with placements at IIT Kharagpur pointed to growing batch sizes as CONTINUEDON PAGE2",
+   "n_words": 354,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [
+     [
+      3408,
+      5370,
+      4020,
+      5414
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3321,
+      5518,
+      4095,
+      5553
+     ],
+     [
+      3329,
+      5727,
+      3778,
+      5764
+     ],
+     [
+      3919,
+      5729,
+      4087,
+      5764
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "REGISTRATIONS vs PLACEMENTS",
+   "deck_raw": "",
+   "body_raw": "(1516) (1475) 1.270) (1287) (210) 1)\n\nUTBombay UT Delhi\n\nIT Kanpur",
+   "ocr_conf": 62.36363636363637,
+   "ocr_low_conf_share": 0.45454545454545453,
+   "headline": "REGISTRATIONS vs PLACEMENTS",
+   "deck": "",
+   "byline": "",
+   "text": "(1516) (1475) 1.270) (1287) (210) 1)\n\nUTBombay UT Delhi\n\nIT Kanpur",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 20,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3297,
+      6098,
+      3753,
+      6127
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\u201cRegistered(vs Placed) Placement in &",
+   "ocr_conf": 19.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "\"Registered(vs Placed) Placement in &",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 19.9,
+ "flags": []
+}

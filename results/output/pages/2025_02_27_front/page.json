@@ -1,0 +1,465 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_27_front",
+ "source_file": "2025-02-27_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-27_front.png",
+ "date": "2025-02-27",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 210,
+  "mean_line_conf": 88.28379267698983,
+  "orphan_words": 35,
+  "body_words_total": 837
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      747,
+      723,
+      782
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 94.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2766,
+      791,
+      4171,
+      1383
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2767,
+      701,
+      3721,
+      747
+     ]
+    ],
+    "body_boxes": [
+     [
+      2764,
+      1173,
+      3199,
+      1417
+     ],
+     [
+      2763,
+      1622,
+      3206,
+      1736
+     ],
+     [
+      2761,
+      1780,
+      3208,
+      2211
+     ],
+     [
+      3250,
+      1741,
+      3694,
+      2212
+     ],
+     [
+      3787,
+      1426,
+      4144,
+      1855
+     ],
+     [
+      3742,
+      1941,
+      4183,
+      2205
+     ]
+    ],
+    "layout_words": 212
+   },
+   "headline_raw": "r] r] B\nShah: In delimitation, no\nB\nloss for South, fair share\nwill bereluced E a Theworry\npro rata, he assures 1% Kame south",
+   "deck_raw": "HITS BACK AT STALIN AMID ROW",
+   "body_raw": "Nota single seat\nwill be reduced\nprorata, he assures\nsouthern states\n\nA DAY after DMK leader and\nTamil Nadu Chief Minister M K\nStalin described the proposed\n\nhanging over the head of South\nIndia\", Union Home Minister\nAmit Shah said Wednesday that\nthe southern states, including\nTamil Nadu, will not lose a single\nParliamentary seatonaccountof\ndelimitation.\nAddressing BJP workers at\nthe inauguration of partyoffices\nin Coimbatore, Tiruvannamalai\nand Ramanathapuram, Shah\n\nsaid, \u201cToday a meeting will be\nheld to ensure the South does\nnot suffer on account of delimi-\ntation. The public in Tamil Nadu\nis disturbed. This is why the\nTamil Nadu OM (Stalin) and his\nson (Udhayanidhi) are trying to\ndistract the public. Mr Stalin, the\nModi government has made it\nclear in Lok Sabha that after de-\nlimitation, on pro rata basis, not\na single seat will be reduced in\n\nTHE PROPOSED delimita-\ntionafter 50 years has\nthe southern states wor-\nried that anexercise\nbased on population will\ndisregard their progress\nin populationcontrol, re-\nduce their representation\nin Parliament and give\nthe northem states an\nundue advantage.\n\nany southem state.And! wantto\nreassure the public of South\nIndia that Modi sihas kept your\ninterest in mind to make sure\nthatnoteven one seatis reduced\npro rata. And whatever increase\nCONTINUED ON PAGE2",
+   "ocr_conf": 88.08962264150944,
+   "ocr_low_conf_share": 0.08490566037735849,
+   "headline": "Shah: In delimitation, no B loss for South, fair share will bereluced E a Theworry pro rata, he assures 1% Kame south",
+   "deck": "HITS BACK AT STALIN AMID ROW",
+   "byline": "",
+   "text": "Nota single seat will be reduced prorata, he assures southern states\n\nA DAY after DMK leader and Tamil Nadu Chief Minister M K Stalin described the proposed\n\nhanging over the head of South India\", Union Home Minister Amit Shah said Wednesday that the southern states, including Tamil Nadu, will not lose a single Parliamentary seatonaccountof delimitation. Addressing BJP workers at the inauguration of partyoffices in Coimbatore, Tiruvannamalai and Ramanathapuram, Shah\n\nsaid, \"Today a meeting will be held to ensure the South does not suffer on account of delimitation. The public in Tamil Nadu is disturbed. This is why the Tamil Nadu OM (Stalin) and his son (Udhayanidhi) are trying to distract the public. Mr Stalin, the Modi government has made it clear in Lok Sabha that after delimitation, on pro rata basis, not a single seat will be reduced in\n\nTHE PROPOSED delimitationafter 50 years has the southern states worried that anexercise based on population will disregard their progress in populationcontrol, reduce their representation in Parliament and give the northem states an undue advantage.\n\nany southem state.And! wantto reassure the public of South India that Modi sihas kept your interest in mind to make sure thatnoteven one seatis reduced pro rata. And whatever increase",
+   "n_words": 204,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      415,
+      991,
+      493,
+      1031
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "JPC",
+   "ocr_conf": 85.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "JPC",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3901,
+      1216,
+      4129,
+      1358
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Theworry\nin the\n1@ South",
+   "ocr_conf": 63.6,
+   "ocr_low_conf_share": 0.4,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Theworry in the 1@ South",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1445,
+      738,
+      1767
+     ],
+     [
+      808,
+      1818,
+      1738,
+      1886
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      1977,
+      766,
+      2953
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "Trump offers\n$5-mn \u2018gold\ncard\u2019 visas for\nUS citizenship\nTHE MAHA KUMBH ENDS",
+   "deck_raw": "",
+   "body_raw": "US PRESIDENT Donald Trump\nhas announced plans to offer a\n\u201cgold card\" visa that can be\nbought for $5 miilion(Rs 43.5\ncrore approximately) as a route\nto American citizenship.\nThe proposed visa will re-\nplace the existing EB-5 visa for\nforeign investors, which grants\nresidency to those who invest\n$800,000 (Rs 7 crore) to $1 mil-\nlion dollars (Rs 8.71 crore) and\ncreate at least 10 jobs. The EB-5\nprogramme is popular among\nIndians with sizeable invest-\nment potential.\n\u201cWe are going to be selling a\ngold card... We are going to be\nputting a price on that card of\nabout $5 million,\u201d Trump told re-\nporters in the Oval Office on\nTuesday.\n\u201cIt's going to give you green\ncard privileges, plus it's going to\nCONTINUEDONPAGE2",
+   "ocr_conf": 90.73809523809524,
+   "ocr_low_conf_share": 0.03968253968253968,
+   "headline": "Trump offers $5-mn 'gold card' visas for US citizenship THE MAHA KUMBH ENDS",
+   "deck": "",
+   "byline": "",
+   "text": "US PRESIDENT Donald Trump has announced plans to offer a \"gold card\" visa that can be bought for $5 miilion(Rs 43.5 crore approximately) as a route to American citizenship. The proposed visa will replace the existing EB-5 visa for foreign investors, which grants residency to those who invest $800,000 (Rs 7 crore) to $1 million dollars (Rs 8.71 crore) and create at least 10 jobs. The EB-5 programme is popular among Indians with sizeable investment potential. \"We are going to be selling a gold card... We are going to be putting a price on that card of about $5 million,\" Trump told reporters in the Oval Office on Tuesday. \"It's going to give you green card privileges, plus it's going to CONTINUEDONPAGE2",
+   "n_words": 122,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      1936,
+      2715,
+      1974
+     ]
+    ],
+    "layout_words": 24,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Devotees gather to take a dip at the Sangam in Prayagraj on Wednesday, the final day of the Maha Kumbh. AP REPORT, PAGE 3",
+   "ocr_conf": 82.08333333333333,
+   "ocr_low_conf_share": 0.125,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Devotees gather to take a dip at the Sangam in Prayagraj on Wednesday, the final day of the Maha Kumbh. AP REPORT, PAGE 3",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2156,
+      1730,
+      2491
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      2690,
+      1252,
+      3121
+     ],
+     [
+      1539,
+      2570,
+      1735,
+      2757
+     ],
+     [
+      1299,
+      2844,
+      1658,
+      2916
+     ],
+     [
+      1296,
+      3008,
+      1739,
+      3081
+     ]
+    ],
+    "layout_words": 68
+   },
+   "headline_raw": "EU trade talks: India\nto red-flag carbon tax,\ndata privacy concerns",
+   "deck_raw": "",
+   "body_raw": "INDIA IS set to raise concerns\nover the European Union's\ncontroversial carbon tax, which\nseeks to impose tariffs as high\nas 30 per cent on imports of\ncarbon-intensive products such\nas steel and aluminium from\nnext year, during the two-day\nvisit by the President of the\nEuropean Commission, Ursula\nvon der Leyen, and 21 EU\n\nUrsulavon\nder Leyen,\nEuropean\nCommission\nPresident\n\nRELATED REPORT\nPAGE 11\n\nCommissioners, beginning\nThursday. ;",
+   "ocr_conf": 91.81159420289855,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "EU trade talks: India to red-flag carbon tax, data privacy concerns",
+   "deck": "",
+   "byline": "",
+   "text": "INDIA IS set to raise concerns over the European Union's controversial carbon tax, which seeks to impose tariffs as high as 30 per cent on imports of carbon-intensive products such as steel and aluminium from next year, during the two-day visit by the President of the European Commission, Ursula von der Leyen, and 21 EU\n\nUrsulavon der Leyen, European Commission President\n\nRELATED REPORT\n\nCommissioners, beginning Thursday.;",
+   "n_words": 66,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      2157,
+      2706,
+      2492
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      2690,
+      2228,
+      3121
+     ],
+     [
+      2270,
+      2533,
+      2718,
+      3115
+     ]
+    ],
+    "layout_words": 130
+   },
+   "headline_raw": "32 countries, global\nmoney trails: FIRs on\ndeportees\u2019 statements",
+   "deck_raw": "",
+   "body_raw": "IN SEPTEMBER last year,\nGurwinder Singh, a 44-year-old\ndairy farmer from Patiala, left\nhome after paying Haryana- based\nagents Rs 45 lakh to go to the\nUnited Stares, according toanAR\nregistered by the Punjab Police.\nThis was his third attempt \u2014\nhis first via Dubai and the second\nvia Amsterdam (Netherlands)en\nroute to Conakry (Guinea) had\n\nboth failed. On January 25, after\na journey that involved a flight\ntoSuriname in SouthAmerica,a\nboat to Guyana, traversing the\njungles of Panamaand hiding in\na vegetable truck for hoursuntil\nthe Mexican border, he finally\nentered the US, only to be de-\nported backto India in February.\nGurwinderis among the 131\ndeportees from Punjabwho have\nbeen sent back home in batches\nfrom the US this month for hav-\ning crossed into the country\nCONTINUEDONPAGE2",
+   "ocr_conf": 89.1,
+   "ocr_low_conf_share": 0.05384615384615385,
+   "headline": "32 countries, global money trails: FIRs on deportees' statements",
+   "deck": "",
+   "byline": "both failed. On January 25, after",
+   "text": "IN SEPTEMBER last year, Gurwinder Singh, a 44-year-old dairy farmer from Patiala, left home after paying Haryana- based agents Rs 45 lakh to go to the United Stares, according toanAR registered by the Punjab Police. This was his third attempt - his first via Dubai and the second via Amsterdam (Netherlands)en route to Conakry (Guinea) had\n\na journey that involved a flight toSuriname in SouthAmerica,a boat to Guyana, traversing the jungles of Panamaand hiding in a vegetable truck for hoursuntil the Mexican border, he finally entered the US, only to be deported backto India in February. Gurwinderis among the 131 deportees from Punjabwho have been sent back home in batches from the US this month for having crossed into the country CONTINUEDONPAGE2",
+   "n_words": 122,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      2349,
+      4162,
+      2553
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2765,
+      2570,
+      4173,
+      2702
+     ]
+    ],
+    "body_boxes": [
+     [
+      2760,
+      2809,
+      3207,
+      3122
+     ],
+     [
+      2702,
+      5901,
+      3052,
+      6012
+     ],
+     [
+      3739,
+      2652,
+      4183,
+      3116
+     ]
+    ],
+    "layout_words": 110
+   },
+   "headline_raw": "Sexual exploitation charges put town\non edge, Governor joins \u2018dharma\u2019 call",
+   "deck_raw": "Rajasthan: 11 held, \u2018encroachment notices to mosque, graveyard\n= > fr legedly exploiting Hindu girls.\nDADIN KI CHRECTHA m\u2122. VAthibe the molircres cn ll LAnb fine",
+   "body_raw": "IT STARTED with Rs2,000 going\nmissing from a wallet. In the 10\ndays since, a town inthis district\nof Rajasthan has been swept up\nin communal tension, with a\ngrowing web of charges leading\nto the arrest of 11 members of\nthe Muslim community for al-\n\nScan the QR code\nto learn more\nabout SIP\n\nlegedly exploiting Hindu girls\nWhile the police still look for\nevidence, the VHP has got in-\nvolved, Governor Haribhau\nBagde has suggested the girls\nwere targeted as they are \u201casso-\nciated with a Hindu organisa-\ntion\u201d, the families of the accused\nand the local Jama Masjid have\ngot \u201cencroachment\u201d notices,and\natownwitha mixed population\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.86363636363636,
+   "ocr_low_conf_share": 0.03636363636363636,
+   "headline": "Sexual exploitation charges put town on edge, Governor joins 'dharma' call",
+   "deck": "Rajasthan: 11 held, 'encroachment notices to mosque, graveyard = > fr legedly exploiting Hindu girls. DADIN KI CHRECTHA m\u2122. VAthibe the molircres cn ll LAnb fine",
+   "byline": "",
+   "text": "IT STARTED with Rs2,000 going missing from a wallet. In the 10 days since, a town inthis district of Rajasthan has been swept up in communal tension, with a growing web of charges leading to the arrest of 11 members of the Muslim community for al-\n\nScan the QR code to learn more about SIP\n\nlegedly exploiting Hindu girls While the police still look for evidence, the VHP has got involved, Governor Haribhau Bagde has suggested the girls were targeted as they are \"associated with a Hindu organisation\", the families of the accused and the local Jama Masjid have got \"encroachment\" notices,and atownwitha mixed population CONTINUEDON PAGE2",
+   "n_words": 107,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      425,
+      5497,
+      2488,
+      5660
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      424,
+      5691,
+      2543,
+      6021
+     ]
+    ],
+    "layout_words": 140
+   },
+   "headline_raw": "Contact your MFD/RIA to know more.\nAn Investor Education and Awareness Initiative",
+   "deck_raw": "",
+   "body_raw": "Visit https://www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know\nYour Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of\nwhich can be verified on the SEB! website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance\nredressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge\ncomplaints directly with the AMCs, if they are unsatisfied with the resolutions given by AMCs they may raise complaint through\nthe SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and\nsubsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the\nAMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login.",
+   "ocr_conf": 93.78571428571429,
+   "ocr_low_conf_share": 0.02142857142857143,
+   "headline": "Contact your MFD/RIA to know more. An Investor Education and Awareness Initiative",
+   "deck": "",
+   "byline": "",
+   "text": "Visit https://www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEB! website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs, if they are unsatisfied with the resolutions given by AMCs they may raise complaint through the SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login.",
+   "n_words": 140,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 10.8,
+ "flags": []
+}

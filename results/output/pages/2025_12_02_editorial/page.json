@@ -1,0 +1,782 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_02_editorial",
+ "source_file": "2025-12-02_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-02_editorial.png",
+ "date": "2025-12-02",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 484,
+  "n_lines": 547,
+  "mean_line_conf": 90.29359613573507,
+  "orphan_words": 300,
+  "body_words_total": 3385
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      421,
+      580,
+      1105,
+      644
+     ]
+    ],
+    "deck_boxes": [
+     [
+      369,
+      697,
+      1157,
+      814
+     ]
+    ],
+    "body_boxes": [
+     [
+      681,
+      842,
+      844,
+      873
+     ],
+     [
+      574,
+      921,
+      951,
+      997
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "$ The IndianEXPRESS",
+   "deck_raw": "~ FOUNDED BY ~\nRAMNATH GOENKA",
+   "body_raw": "IN 1932\n\nBECAUSE THE TRUTH\nINVOLVES US ALL",
+   "ocr_conf": 95.875,
+   "ocr_low_conf_share": 0.0,
+   "headline": "$ The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1767,
+      566,
+      3714,
+      913
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2611,
+      1271,
+      2869,
+      1425
+     ]
+    ],
+    "body_boxes": [
+     [
+      1950,
+      952,
+      2557,
+      1345
+     ],
+     [
+      1949,
+      1435,
+      2554,
+      2222
+     ],
+     [
+      1949,
+      2227,
+      2591,
+      2255
+     ],
+     [
+      2477,
+      1924,
+      3003,
+      2222
+     ],
+     [
+      2926,
+      953,
+      3534,
+      2262
+     ]
+    ],
+    "layout_words": 432
+   },
+   "headline_raw": "Give states their fair share,\nprotect their fiscal space",
+   "deck_raw": "RANGARAJAN\n&DK\nSRIVASTAVA",
+   "body_raw": "post-transfer share of states by 4.23 percen-\ntage points. Thus, the share of states after\ntransfers (fiscal space) increased from63.85\npercent to 68.08 percent of combined rev-\nenue receipts. Thus, the relative shares of\nCentre and states were reversed.\nThere has been, however, a small fall\nduring the 15th FC period in states\u2019 total re-\nceipts, that is, their fiscal space, which con-\nsists of their own revenue receipts and the\n\naggregate reventie receipts relative to com-\nbined revenue receipts fell from 68.08 per\ncent in the 14th FC period to 67.39 per cent\ninthe 15th FC period \u2014 that is, areduction\nofnearly 0.70 percent points. This was due\ntoareduction inthe share of tax devolution\nby1.05 percentage points to18.2 percent in\nthe 15th FC period, which was\nlargely offset by an increase in the\nshares of both FC and non-FC\ngrants so that the total transfers\nfell only by a margin of 0.23 per-\ncentage points of combined rev- Both\nenue receipts. The share ofstates\u2019 .\nown revenue receipts also fell Neec\nfrom 37.72 per cent (14th FC)to mul\n37.35 per cent (15th FC), thatis,by tayr\na margin of 0.47 percentage\npoints. It may be noted that forthe a\n15th FC period, the number of\n\nstates had been reduced to 28. c\n\nBoth the Centre and the states\nneed larger resources to meet\nmultiple challenges. For this,\ntax receipts of both the Union\nand state governments\nmustincrease\n\nAlso, the share of non-sharable cesses and\nsurcharges by the central governmenthad\nbeen increased.\nThe situation, however, varies from\nState to state. Itis worthwhileto examineif\nthereis amore serious probiem for high-in-\ncome states. Consider five high-income\nstates, namely, Haryana, Karnataka, Ke-\nrala, Maharashtra and Tamil Nadu. The key\naggregates determining their fiscal space\nconsist ofstates\u2019 own revenue receipts and\ntotal transfers fromthe Centre. Comparing\nthe 14th FC with the 13th FC period, there\nwas no change in the fiscal space of these\nhigh-income states as the increase in the\ntotal transfers from the Centre was offset\nby a fall in their own revenue receipts.\nThere is, however, a fall in the fiscal space\nof high-income states when we compare\nthe 15th FC to the 14th FC period\naverages. This fall, amounting to\n0.38 percentage points of com-\nbined revenue receipts, is due\nboth to a fall in states\u2019 own rev-\ntates enue receipts (0.25 percentage\npoints) and in transfers from the\nneet Centre (0.13 percentage points).\nthis, | Partofthefall inthetransfers from\nnion the Centre may be due to the in-\ncrease in the non-sharable cesses\nSs and surcharges and partly, itmay\nbe due to the devolution formula\nused. Going forward, states\u2019 GST",
+   "ocr_conf": 89.94077448747153,
+   "ocr_low_conf_share": 0.04555808656036447,
+   "headline": "Give states their fair share, protect their fiscal space",
+   "deck": "RANGARAJAN &DK SRIVASTAVA",
+   "byline": "",
+   "text": "post-transfer share of states by 4.23 percentage points. Thus, the share of states after transfers (fiscal space) increased from63.85 percent to 68.08 percent of combined revenue receipts. Thus, the relative shares of Centre and states were reversed. There has been, however, a small fall during the 15th FC period in states' total receipts, that is, their fiscal space, which consists of their own revenue receipts and the\n\naggregate reventie receipts relative to combined revenue receipts fell from 68.08 per cent in the 14th FC period to 67.39 per cent inthe 15th FC period - that is, areduction ofnearly 0.70 percent points. This was due toareduction inthe share of tax devolution by1.05 percentage points to18.2 percent in the 15th FC period, which was largely offset by an increase in the shares of both FC and non-FC grants so that the total transfers fell only by a margin of 0.23 percentage points of combined rev- Both enue receipts. The share ofstates'. own revenue receipts also fell Neec from 37.72 per cent (14th FC)to mul 37.35 per cent (15th FC), thatis,by tayr a margin of 0.47 percentage points. It may be noted that forthe a 15th FC period, the number of\n\nstates had been reduced to 28. c\n\nBoth the Centre and the states need larger resources to meet multiple challenges. For this, tax receipts of both the Union and state governments mustincrease\n\nAlso, the share of non-sharable cesses and surcharges by the central governmenthad been increased. The situation, however, varies from State to state. Itis worthwhileto examineif thereis amore serious probiem for high-income states. Consider five high-income states, namely, Haryana, Karnataka, Kerala, Maharashtra and Tamil Nadu. The key aggregates determining their fiscal space consist ofstates' own revenue receipts and total transfers fromthe Centre. Comparing the 14th FC with the 13th FC period, there was no change in the fiscal space of these high-income states as the increase in the total transfers from the Centre was offset by a fall in their own revenue receipts. There is, however, a fall in the fiscal space of high-income states when we compare the 15th FC to the 14th FC period averages. This fall, amounting to 0.38 percentage points of combined revenue receipts, is due both to a fall in states' own revtates enue receipts (0.25 percentage points) and in transfers from the neet Centre (0.13 percentage points). this, Partofthefall inthetransfers from nion the Centre may be due to the increase in the non-sharable cesses Ss and surcharges and partly, itmay be due to the devolution formula used. Going forward, states' GST",
+   "n_words": 426,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1293,
+      952,
+      1903,
+      1584
+     ]
+    ],
+    "layout_words": 102,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "TATES HAVE often expressed\nconcern regarding their fiscal\nspace being squeezed in recent\nyears. There was a noticeable\nchange that was brought about by\nthe14th Finance Commission in raising the\nshare of states in the divisible pool of central\ntaxes from 32 per cent to 42 per cent. Both\nthe Finance Commission (FC) and non-Fi-\nnance Commission (non-FC) grants had\nbroadly remained stable over the period\nfrom 12th Finance Commission tothe 14th.\nThere was a marginal increase in the grants\nin the 15th Finance Commission period. It\nwill be interesting to see how these shares\nare likely to change under the recommen-",
+   "ocr_conf": 94.47058823529412,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "TATES HAVE often expressed concern regarding their fiscal space being squeezed in recent years. There was a noticeable change that was brought about by the14th Finance Commission in raising the share of states in the divisible pool of central taxes from 32 per cent to 42 per cent. Both the Finance Commission (FC) and non-Finance Commission (non-FC) grants had broadly remained stable over the period from 12th Finance Commission tothe 14th. There was a marginal increase in the grants in the 15th Finance Commission period. It will be interesting to see how these shares are likely to change under the recommen-",
+   "n_words": 101,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3575,
+      954,
+      4183,
+      1985
+     ]
+    ],
+    "layout_words": 164,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "revenues maybe further adversely affected\ndueto the extensive rate reductions in the\nreforms introduced recently under GST 2.0\nand the discontinuation of the GST com-\npensation cess.\nPast trends indicate a rise in the share\nof states in tax devolution and total\ntransfers relative to combined revenue re-\nceipts when 14th FC averages are compared\nwith 12th and 13th FC averages. More re-\ncently, there hasbeen a small fall in the fis-\ncal space available to the states in general\nand high-income states in particular.\nHopefully, the 16th Finance Commission\nhas taken into accounttheseconcernsand\nmodified the weight attached to the dis-\ntance criterion in the horizontal distribu-\ntion. The Centre should also refrain from\nraising non-sharable surcharges and\ncesses. Needlessto say, both the Centre and\nthe states need larger resources to meet\nmultiple challenges. For this, tax receipts\nof both the Union and state governments\nmust increase. This must be supplemented\nby a fair system of transfers that strikes a\nbalancebetween equity and contribution.",
+   "ocr_conf": 90.9390243902439,
+   "ocr_low_conf_share": 0.054878048780487805,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "revenues maybe further adversely affected dueto the extensive rate reductions in the reforms introduced recently under GST 2.0 and the discontinuation of the GST compensation cess. Past trends indicate a rise in the share of states in tax devolution and total transfers relative to combined revenue receipts when 14th FC averages are compared with 12th and 13th FC averages. More recently, there hasbeen a small fall in the fiscal space available to the states in general and high-income states in particular. Hopefully, the 16th Finance Commission has taken into accounttheseconcernsand modified the weight attached to the distance criterion in the horizontal distribution. The Centre should also refrain from raising non-sharable surcharges and cesses. Needlessto say, both the Centre and the states need larger resources to meet multiple challenges. For this, tax receipts of both the Union and state governments must increase. This must be supplemented by a fair system of transfers that strikes a balancebetween equity and contribution.",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      377,
+      1088,
+      1149,
+      1278
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1309,
+      1206,
+      2939
+     ]
+    ],
+    "layout_words": 389
+   },
+   "headline_raw": "Rupee has fallen and\nthat is notabad thing",
+   "deck_raw": "",
+   "body_raw": "NTHE past year, the rupee has fallen 5.6 percent, from 84.7\nto 89.7, against the US dollar. It has fallen even more against\nthe euro (94 percent) and the British pound (14.3 per cent),\nbesides also weakening against the Japanese yen and the\nChinese yuan over this period. Thus, the rupee hasdepreciated\nagainst all major currencies in nominal terms. And given the\ncurrent low consumer price inflation in India \u2014 beloweven that\ninthe US, UK, Eurozone or Japan \u2014 there has beena declinein\nthe rupee\u2019s real effective exchange rate (REER) too. The Reserve\nBank of India\u2019s (RBI) datashows the REER index dipping from\nan all-time high of 108.1 in November 2024 to 97.5 in October\n2025. In other words, the rupee has moved from beinga highly\novervalued to an undervalued currency today.\nThat\u2019s not abad thing froma foreign tradestandpoint India\u2019s\nmerchandise trade deficit touched a record $41.7 billion in Oc-\ntober. In a scenario oftwin shocks \u2014 from US President Donald\nTrump\u2019s unilateral tariff actions and the Chinese response in\nthe form of an aggressive redirection ofits exports tothe restof\nthe world \u2014 an artificially strong rupee isthe last thing theecon-\nomy needs. Ifanything, aslightly undervalued currency, which\nIndia now has, would help boost exports and also mitigate the\nthreat from a flood of cheap Chinese imports. Exchange rates\nare an effective shock absorber anda better tool to correct trade\nimbalances and improve competitiveness than tariffs and sub-\nsidies. Indian policymakers have in the recent past relied ona\ncombination of overvalued exchange rateand retrograde trade\nmeasures, from tariffs and export bans toquality control orders,\ntocontrol inflation and protect domestic industry.\nThat approach, mercifully, haschanged. The RBI, under the\ncurrent governor, has adopted a more flexible exchange rate\npolicy, letting the rupee float in a calibrated manner. The will-\ningnessto allow steady depreciation has been partly on account\nof easing inflation: The fear of a weaker rupee raising the cost\nofimports and pushingup domestic prices has receded dueto\ngeneral global defiationary pressures. But a bigger driver, pro-\nbably, has been the Trump tariffs and the prospect of a China\nShock 2.0 from that country exporting its excess industrial ca-\npacity. India has acurrent account deficit problem arising from\nagrowing mismatch between exports and importsthatcannot\nbe left unaddressed for too long. The exchange rate policy has\nto adjust to this reality.",
+   "ocr_conf": 88.13367609254499,
+   "ocr_low_conf_share": 0.061696658097686374,
+   "headline": "Rupee has fallen and that is notabad thing",
+   "deck": "",
+   "byline": "",
+   "text": "NTHE past year, the rupee has fallen 5.6 percent, from 84.7 to 89.7, against the US dollar. It has fallen even more against the euro (94 percent) and the British pound (14.3 per cent), besides also weakening against the Japanese yen and the Chinese yuan over this period. Thus, the rupee hasdepreciated against all major currencies in nominal terms. And given the current low consumer price inflation in India - beloweven that inthe US, UK, Eurozone or Japan - there has beena declinein the rupee's real effective exchange rate (REER) too. The Reserve Bank of India's (RBI) datashows the REER index dipping from an all-time high of 108.1 in November 2024 to 97.5 in October 2025. In other words, the rupee has moved from beinga highly overvalued to an undervalued currency today. That's not abad thing froma foreign tradestandpoint India's merchandise trade deficit touched a record $41.7 billion in October. In a scenario oftwin shocks - from US President Donald Trump's unilateral tariff actions and the Chinese response in the form of an aggressive redirection ofits exports tothe restof the world - an artificially strong rupee isthe last thing theeconomy needs. Ifanything, aslightly undervalued currency, which India now has, would help boost exports and also mitigate the threat from a flood of cheap Chinese imports. Exchange rates are an effective shock absorber anda better tool to correct trade imbalances and improve competitiveness than tariffs and subsidies. Indian policymakers have in the recent past relied ona combination of overvalued exchange rateand retrograde trade measures, from tariffs and export bans toquality control orders, tocontrol inflation and protect domestic industry. That approach, mercifully, haschanged. The RBI, under the current governor, has adopted a more flexible exchange rate policy, letting the rupee float in a calibrated manner. The will-ingnessto allow steady depreciation has been partly on account of easing inflation: The fear of a weaker rupee raising the cost ofimports and pushingup domestic prices has receded dueto general global defiationary pressures. But a bigger driver, probably, has been the Trump tariffs and the prospect of a China Shock 2.0 from that country exporting its excess industrial capacity. India has acurrent account deficit problem arising from agrowing mismatch between exports and importsthatcannot be left unaddressed for too long. The exchange rate policy has to adjust to this reality.",
+   "n_words": 383,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      1586,
+      1905,
+      1709
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      1709,
+      1902,
+      2254
+     ]
+    ],
+    "layout_words": 103
+   },
+   "headline_raw": "dations of the 16th Finance Commission,\nwhich has recently submitted its report.\nTransfers from the Centre to the states",
+   "deck_raw": "",
+   "body_raw": "consist of tax devolution and FC and non-\nFC grants. We can consider trends in these\nrelative to the combined revenue receipts\nofthe Centre and the states with respect to\nsome of the recent FC periods. Tax devol-\nution and FC grants are determined by the\nFC whereas non-FC grants are at the discre-\ntion of the central government. States\u2019\nshare in central taxes relative to the com-\nbined revenue receipts increased from an\naverage of 15 per cent during the 13th FC\nperiodto 19.2 per centin the 14th FC period\n\u2014 an increase of 4.25 percentage points.\nThere was a corresponding increase in the",
+   "ocr_conf": 89.83809523809524,
+   "ocr_low_conf_share": 0.05714285714285714,
+   "headline": "dations of the 16th Finance Commission, which has recently submitted its report. Transfers from the Centre to the states",
+   "deck": "",
+   "byline": "",
+   "text": "consist of tax devolution and FC and non-FC grants. We can consider trends in these relative to the combined revenue receipts ofthe Centre and the states with respect to some of the recent FC periods. Tax devolution and FC grants are determined by the FC whereas non-FC grants are at the discretion of the central government. States' share in central taxes relative to the combined revenue receipts increased from an average of 15 per cent during the 13th FC periodto 19.2 per centin the 14th FC period - an increase of 4.25 percentage points. There was a corresponding increase in the",
+   "n_words": 101,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3629,
+      2030,
+      4181,
+      2262
+     ]
+    ],
+    "layout_words": 34,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Rangarajan is chairman, Madras School of\nEconomics (MSE) and formerly governor,\nReserve Bank of India and Srivastava is\nmember, Advisory Council to the Sixteenth\nFinance Commission and formerly director,\nMSE. Views expressed are personal",
+   "ocr_conf": 93.8529411764706,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Rangarajan is chairman, Madras School of Economics (MSE) and formerly governor, Reserve Bank of India and Srivastava is member, Advisory Council to the Sixteenth Finance Commission and formerly director, MSE. Views expressed are personal",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      2441,
+      2787,
+      2698
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1320,
+      2747,
+      2228,
+      4318
+     ],
+     [
+      1342,
+      4220,
+      2225,
+      4494
+     ],
+     [
+      2272,
+      2747,
+      2882,
+      5093
+     ],
+     [
+      2485,
+      5138,
+      2873,
+      5212
+     ],
+     [
+      2179,
+      5424,
+      2820,
+      6127
+     ]
+    ],
+    "layout_words": 708
+   },
+   "headline_raw": "Celebrate Constitution by\nrespecting checks & balances",
+   "deck_raw": "",
+   "body_raw": "Pe N NOVEMBER 26, we cel-\nea ebrated Constitution Day. At\n\u2018eye the end of this week, the\n\" p country will commemorate\nf December 6, the death anni-\nee versary of B R Ambedkar. The Winter\nD RAJA Session of Parliament started on De-\ncember 1. These dates are more than a se-\nquence \u2014 they form alens through which\nto examine the health of our republic, the\nerosion of legislative functioning, and the\nurgent need to reclaim accountability.\nWhen the Constituent Assembly\ndebated the structure of the future repub-\nlic, Ambedkar\u2019s clarity in rejecting a presi-\ndential system was unmistakable. He\nargued that India required a system\nwhere the executive remained continu-\nously responsible to the legislature, en-\nsuring that no single individual could\nclaim untrammelled authority. He envis-\naged that India embrace a model of col-\nlective responsibility rather than vest\npower in one supreme leader or institu-\ntion. The parliamentary system was\nchosen because it was inherently more ac-\ncountable, deliberative, and reflective of\nthe people's sovereign will.\nYet, the space between the ideals hear-\nticulated and the reality unfolding before\nus has grown wider.\nNowhere is this drift more evident than\ninthe functioning, or rather, the shrinking\nof Parliament itself. While the first and\nfourth Lok Sabha met for an average of 135\nand 123 days, in recent years, its sittings\nOne concrete have declined to a historic low. The 16th\nstep that can Lok Sabha averaged 66 sittings per year,\nreinvigorate and the 17th Lok Sabha slumped to just 55\n\u2014 sitting davs annually the lowest for anv\n\ntep that can Lok Sabha averaged 66 sittings per year,\nreinvigorate and the 17th Lok Sabha slumped to just 55\n: sitting days annually, the lowest for any\narliamentary full-term Lok Sabha since 1952.\nmocracy is to This reduced duration has been\nmandatea accompanied by less scrutiny of the\nHinimimof eXecutive. Of the 179 bills passed by the\n\nreplace constitutional methods with auth-\noritarian shortcuts, encouraged by a\npolitical climate that elevates leaders\nrather than institutions.\nBesides institutional imbalance lies\nanother grave threat: The weakening of\nIndia\u2019s federal structure. Ambedkar and\nthe framers were unequivocal that India\nwould be a \u201cUnion of States,\u201d a federal\nsystem in which the Union and the states\nderived their authority from the Constitu-\ntion and not from each other. Today,\nfederalism itself is under visible strain.\nThe increasing centralisation of fiscal\npowers, reflected in shrinking tax devol-\nution, growing dependence on centrally\ndesigned schemes, and the functioning\nof the GST Council, has constrained\nthe autonomy of states. The partisan role\nof governors, along with the rising use\nof central agencies against political\nopponents in Opposition-ruled states,\nhas transformed constitutional instru-\nments into levers of coercion. The sidelin-\ning of institutions like the Inter-State\nCouncil further erodes the cooperative\nspirit Ambedkar envisioned.\nTo reverse this decline, restoring ac-\ncountability must be the foundational\ngoal of our political life. The battle must\nbewaged on three fronts simultaneously:\nPolitically, through mobilisation and elec-\ntoral choices that prioritise democratic in-\ntegrity; ideologically, through the reaf-\nfirmation ofconstitutional values against\nsectarian narratives; and legally, through\nchallenging arbitrary executive action and\ndefending institutional independence in\ncourts and public forums.\nOne concrete step that can reinvigorate\nparliamentary democracy isto mandate a\nminimum of 100 sitting days for each cal-\nendar year. Moresittings would naturally\nenable thorough debate, ensure greater\ntime for scrutiny, give the Opposition a\nplatform to articulate concerns, and rees-\ntablish Parliament as the centre of demo-\ncratic decision-making.\nThe Constitution is not merely adocu-\nment to be celebrated once a year, nor is\nAmbedkar merely an icon to be gar-\nlanded. Both represent a vigilance we\nmust exercise to prevent power from\nbeing absolute. The strength of ademoc-\nracy is not measured by the size of its\nmandate but by the rigour of its checks\nand balances, the independence of itsin-\nstitutions, and the courage of its citizens\nto defend their sovereign will.\n\nThe writer is general secretary,\nCommunist Party of India\n\nPMontechimportnorms\nPrime Minister Rajiv Gandhi emphatically\ntold Indian industries that they would not\n| beallowed to sacrifice quality andthe stan-\ndards already set by inducting technology\nat one level. Earlier, Gandhi said in Osaka\nthat the government was going to lay down\n\u201cvery strictnorms\u2019 for private Indian indus-\ntry to qualify for import of sophisticated\ntechnology. He made it absolutely clear\nthat the government would notallow killing\nof the local market.\nStricter libellaws\nKarnataka Chief Minister Ramakrishna\n| Hegde called for stringentlibel lawsto en-\n\u00bb sure thatthe freedom of the pressis not",
+   "ocr_conf": 91.9,
+   "ocr_low_conf_share": 0.038157894736842106,
+   "headline": "Celebrate Constitution by respecting checks & balances",
+   "deck": "",
+   "byline": "",
+   "text": "Pe N NOVEMBER 26, we celea ebrated Constitution Day. At 'eye the end of this week, the \" p country will commemorate f December 6, the death anniee versary of B R Ambedkar. The Winter D RAJA Session of Parliament started on December 1. These dates are more than a sequence - they form alens through which to examine the health of our republic, the erosion of legislative functioning, and the urgent need to reclaim accountability. When the Constituent Assembly debated the structure of the future republic, Ambedkar's clarity in rejecting a presidential system was unmistakable. He argued that India required a system where the executive remained continuously responsible to the legislature, ensuring that no single individual could claim untrammelled authority. He envisaged that India embrace a model of collective responsibility rather than vest power in one supreme leader or institution. The parliamentary system was chosen because it was inherently more accountable, deliberative, and reflective of the people's sovereign will. Yet, the space between the ideals hear-ticulated and the reality unfolding before us has grown wider. Nowhere is this drift more evident than inthe functioning, or rather, the shrinking of Parliament itself. While the first and fourth Lok Sabha met for an average of 135 and 123 days, in recent years, its sittings One concrete have declined to a historic low. The 16th step that can Lok Sabha averaged 66 sittings per year, reinvigorate and the 17th Lok Sabha slumped to just 55 - sitting davs annually the lowest for anv\n\ntep that can Lok Sabha averaged 66 sittings per year, reinvigorate and the 17th Lok Sabha slumped to just 55: sitting days annually, the lowest for any arliamentary full-term Lok Sabha since 1952. mocracy is to This reduced duration has been mandatea accompanied by less scrutiny of the Hinimimof eXecutive. Of the 179 bills passed by the\n\nreplace constitutional methods with authoritarian shortcuts, encouraged by a political climate that elevates leaders rather than institutions. Besides institutional imbalance lies another grave threat: The weakening of India's federal structure. Ambedkar and the framers were unequivocal that India would be a \"Union of States,\" a federal system in which the Union and the states derived their authority from the Constitution and not from each other. Today, federalism itself is under visible strain. The increasing centralisation of fiscal powers, reflected in shrinking tax devolution, growing dependence on centrally designed schemes, and the functioning of the GST Council, has constrained the autonomy of states. The partisan role of governors, along with the rising use of central agencies against political opponents in Opposition-ruled states, has transformed constitutional instruments into levers of coercion. The sidelining of institutions like the Inter-State Council further erodes the cooperative spirit Ambedkar envisioned. To reverse this decline, restoring accountability must be the foundational goal of our political life. The battle must bewaged on three fronts simultaneously: Politically, through mobilisation and electoral choices that prioritise democratic integrity; ideologically, through the reaffirmation ofconstitutional values against sectarian narratives; and legally, through challenging arbitrary executive action and defending institutional independence in courts and public forums. One concrete step that can reinvigorate parliamentary democracy isto mandate a minimum of 100 sitting days for each calendar year. Moresittings would naturally enable thorough debate, ensure greater time for scrutiny, give the Opposition a platform to articulate concerns, and rees-tablish Parliament as the centre of democratic decision-making. The Constitution is not merely adocument to be celebrated once a year, nor is Ambedkar merely an icon to be garlanded. Both represent a vigilance we must exercise to prevent power from being absolute. The strength of ademocracy is not measured by the size of its mandate but by the rigour of its checks and balances, the independence of itsinstitutions, and the courage of its citizens to defend their sovereign will.\n\nThe writer is general secretary, Communist Party of India\n\nPMontechimportnorms Prime Minister Rajiv Gandhi emphatically told Indian industries that they would not beallowed to sacrifice quality andthe stan-dards already set by inducting technology at one level. Earlier, Gandhi said in Osaka that the government was going to lay down \"very strictnorms' for private Indian industry to qualify for import of sophisticated technology. He made it absolutely clear that the government would notallow killing of the local market. Stricter libellaws Karnataka Chief Minister Ramakrishna Hegde called for stringentlibel lawsto en- \u00bb sure thatthe freedom of the pressis not",
+   "n_words": 726,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2975,
+      2446,
+      4115,
+      2701
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3293,
+      2748,
+      4182,
+      4695
+     ],
+     [
+      3040,
+      3055,
+      3184,
+      3092
+     ],
+     [
+      3002,
+      4673,
+      4180,
+      4896
+     ],
+     [
+      2973,
+      4724,
+      3247,
+      4860
+     ]
+    ],
+    "layout_words": 485
+   },
+   "headline_raw": "Ukraine, between terrible\nwar and humiliating peace",
+   "deck_raw": "",
+   "body_raw": "O COUNTRY deserves the fate of Ukraine. Its ter-\nritory is under siege, its people have endured\nprolonged suffering, and its leadership is under\npressure to accept a peace plan that largely fa-\nvours Russia. Ukraine stands as a poignant rem-\ninder of the perils associated with relying on external support\nfor conflict and security.\nUkraine is incurring heavy losses at the frontline and can-\nnot resist the mounting Russian pressure. It is facing man-\npower and material shortages against the intensifying Russian\nassaults. Russian troops have besieged the city of Pokrovsk,\nan industrial hub, where Ukrainian forces had fortified them-\nselves. This city is crucial to Ukraine\u2019s military supply chain,\ngiven its extensive rail and road network connectivity. Russia\naims to capture the entire Donbas region, comprising the Lu-\nhansk and Donetsk provinces.\nInits latest phase of negotiations, the Donald Trump team,\nled by Secretary Marco Rubio and Steve Witkoff, is meeting\nwith the Ukrainian team, led by Rustem Umerov, in Florida.\nThe initial Trump peace proposal, known as the 28-point\npeace deal, has been revised under European pressure. The\nnew proposal is likely to offer some security guarantees to\nUkraine. The guarantee will certainly not be NATO member-\nship, but the West can provide a formal commitment to\nUkraine thatthe latter willbe protected from a future Russian\nassault. The European countries insist on Ukraine\u2019s right to\nprotect its sovereignty and keep open the possibility of de-\nploying European troops on Ukrainian territory. However,\nRussiais unlikely to agree to the deployment of European de-\nfence forces in Ukraine.\nAnother sticking point is the issue of Donbas. Russia wants\nUkraine to accept dejure the entire region of Donbas as its ter-\nritory. Russiacontrols 90 per centofthe Donbas territory, and\nthe rest remains with Ukraine. For Ukraine\u2019s President Vol-\nodymyr Zelenskyy, the withdrawal of troops and acceptingthe\nloss of the whole of Donbas is a dangerous proposition, as it\nwould amount to the surrender of its territory. His regime,\nwhich has become highly vulnerable after corruption charges,\nwill face stiff resistance from the opposition parties. Ukraine's\nchief negotiator, Andriy Yermak, was replaced due to allega-\ntions of corruption. Umerov is Ukraine\u2019s new negotiator in\nFlorida. The survival of Zelenskyy\u2019s regime depends on con-\ntinued European financial and military support.\nThetragedy of Ukraine is that itcannot match the Russian\nfirepower, and if the war continues, it will lose more territory.\nOn the other hand, no peace proposal can retrieve the territory\nthat Ukraine has lost to Russia. Moreover, given the current\nstate of negotiations, there is no guarantee that Russia will\nagree to the new proposal. Therefore, for Ukraine, uncertainty\n\nKUMAR\n\n* agree to the new proposal. ihererore, lor UKraine, uncertainty\nUkraine has will persist.\never appeared The Trumpad ministration isin ahurryto concludea peace\n30 vulnerable. \u2014_ deal, disregarding the concerns of Ukraine and Europe. But\nFor the the negotiating process will face stiffresistance from Brussels\nZramlin itjiea Leforeitreaches Moscow. Moreover, there is no guarantee that\n\nnever appeared\nso vulnerable.\nFor the",
+   "ocr_conf": 90.362,
+   "ocr_low_conf_share": 0.052,
+   "headline": "Ukraine, between terrible war and humiliating peace",
+   "deck": "",
+   "byline": "KUMAR",
+   "text": "O COUNTRY deserves the fate of Ukraine. Its territory is under siege, its people have endured prolonged suffering, and its leadership is under pressure to accept a peace plan that largely favours Russia. Ukraine stands as a poignant reminder of the perils associated with relying on external support for conflict and security. Ukraine is incurring heavy losses at the frontline and cannot resist the mounting Russian pressure. It is facing manpower and material shortages against the intensifying Russian assaults. Russian troops have besieged the city of Pokrovsk, an industrial hub, where Ukrainian forces had fortified themselves. This city is crucial to Ukraine's military supply chain, given its extensive rail and road network connectivity. Russia aims to capture the entire Donbas region, comprising the Luhansk and Donetsk provinces. Inits latest phase of negotiations, the Donald Trump team, led by Secretary Marco Rubio and Steve Witkoff, is meeting with the Ukrainian team, led by Rustem Umerov, in Florida. The initial Trump peace proposal, known as the 28-point peace deal, has been revised under European pressure. The new proposal is likely to offer some security guarantees to Ukraine. The guarantee will certainly not be NATO membership, but the West can provide a formal commitment to Ukraine thatthe latter willbe protected from a future Russian assault. The European countries insist on Ukraine's right to protect its sovereignty and keep open the possibility of deploying European troops on Ukrainian territory. However, Russiais unlikely to agree to the deployment of European defence forces in Ukraine. Another sticking point is the issue of Donbas. Russia wants Ukraine to accept dejure the entire region of Donbas as its territory. Russiacontrols 90 per centofthe Donbas territory, and the rest remains with Ukraine. For Ukraine's President Volodymyr Zelenskyy, the withdrawal of troops and acceptingthe loss of the whole of Donbas is a dangerous proposition, as it would amount to the surrender of its territory. His regime, which has become highly vulnerable after corruption charges, will face stiff resistance from the opposition parties. Ukraine's chief negotiator, Andriy Yermak, was replaced due to allegations of corruption. Umerov is Ukraine's new negotiator in Florida. The survival of Zelenskyy's regime depends on continued European financial and military support. Thetragedy of Ukraine is that itcannot match the Russian firepower, and if the war continues, it will lose more territory. On the other hand, no peace proposal can retrieve the territory that Ukraine has lost to Russia. Moreover, given the current state of negotiations, there is no guarantee that Russia will agree to the new proposal. Therefore, for Ukraine, uncertainty\n\n* agree to the new proposal. ihererore, lor UKraine, uncertainty Ukraine has will persist. ever appeared The Trumpad ministration isin ahurryto concludea peace 30 vulnerable. - _ deal, disregarding the concerns of Ukraine and Europe. But For the the negotiating process will face stiffresistance from Brussels Zramlin itjiea Leforeitreaches Moscow. Moreover, there is no guarantee that\n\nnever appeared so vulnerable. For the",
+   "n_words": 486,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      431,
+      3006,
+      1091,
+      3172
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      314,
+      3224,
+      1205,
+      4732
+     ]
+    ],
+    "layout_words": 347
+   },
+   "headline_raw": "On Dec6, minister\ncrosses red lines",
+   "deck_raw": "",
+   "body_raw": "HE SUPREME Court\u2019s Ramjanmabhoomi-Babri Mas-\njid verdict in 2019 put an end to arguably the most\npolitically fraught title suit inIndenendent India\u2019s his-\ntory. In doing so, the Court did not condone the illegal\ndestruction of the mosque nor did it absolve the perpetrators of\nwhat it termed a \u201ccalculated\u201d, \u201ccriminal\u201d act and an \u201cegregious\nviolation ofthe nileoflaw\u201d. After the verdict, Prime Minister Nar-\nendra Modi counselled sobriety: \u201cThis verdict must not be seen\nas either victory or loss.\u201d He asked \u201c130 crore Indians to give an\nexampleof peace and harmony\u201d. Raiasthan Education and Pan-\nchayati Raj Minister Madan Dilawar is perhaps unaware of, and\nhe certainly appears insensitive to, the judicious balance struck\nby the apex courtand the political message tosidestep triumpnal-\nism while moving forward with equanimity.\nOn Saturday, the ministerissued an order toboth government\nand private schools in Rajasthan to celebrate December 6, thean-\nniversary of the demolition of the Babri Masjid, as \u201cShaurya\nDiwas\u201d. A series of activities, including events celebrating the\nRam Temple at Ayodhya andits history, were meant to promote\n\u201cpatriotism, nationalism, bravery, cultural pride and national\nunity\u201d among students and staff. The order was withdrawn by\ntheminister on Sunday morning, because \u201call schoolsin thestate\nare currently conducting examinations, which will be held from\nDecember 5 and 6\u201d.\nThe now rescinded order can be viewed as the act ofan indi-\nvidual politician with a history of courting controversy. Dilawar\nhascalled Mughal Emperor Akbara \u201crapist\u201d, blamed \u201clove affairs\u201d\nforstudentsuicides and told women teachers not to \u201cexposetheir\nbody and wear proper clothes\u201d. But thisis a minister, not asocial\nmedia troll. His officegives him the power to influencethe entire\nedifice of education in Rajasthan. Dilawar\u2019s politics evidently\nseeks permanent conflict and equates a crime with an act of\nbravery. It threatens to stoke the embers on an issue that theju-\ndiciary has resolved and the BJP leadershipclaimsto havemoved\non from. The latter has sought to frame the temple asa cultural\nand \u201ccivilisational\u201d achievement, not a zero-sum victory. Forthat\nsentimenttoring true, the likes of Minister Dilawar must begiven\nanurgent lesson in political and constitutional propriety.",
+   "ocr_conf": 87.64553314121038,
+   "ocr_low_conf_share": 0.08069164265129683,
+   "headline": "On Dec6, minister crosses red lines",
+   "deck": "",
+   "byline": "",
+   "text": "HE SUPREME Court's Ramjanmabhoomi-Babri Masjid verdict in 2019 put an end to arguably the most politically fraught title suit inIndenendent India's history. In doing so, the Court did not condone the illegal destruction of the mosque nor did it absolve the perpetrators of what it termed a \"calculated\", \"criminal\" act and an \"egregious violation ofthe nileoflaw\". After the verdict, Prime Minister Narendra Modi counselled sobriety: \"This verdict must not be seen as either victory or loss.\" He asked \"130 crore Indians to give an exampleof peace and harmony\". Raiasthan Education and Panchayati Raj Minister Madan Dilawar is perhaps unaware of, and he certainly appears insensitive to, the judicious balance struck by the apex courtand the political message tosidestep triumpnalism while moving forward with equanimity. On Saturday, the ministerissued an order toboth government and private schools in Rajasthan to celebrate December 6, theanniversary of the demolition of the Babri Masjid, as \"Shaurya Diwas\". A series of activities, including events celebrating the Ram Temple at Ayodhya andits history, were meant to promote \"patriotism, nationalism, bravery, cultural pride and national unity\" among students and staff. The order was withdrawn by theminister on Sunday morning, because \"all schoolsin thestate are currently conducting examinations, which will be held from December 5 and 6\". The now rescinded order can be viewed as the act ofan individual politician with a history of courting controversy. Dilawar hascalled Mughal Emperor Akbara \"rapist\", blamed \"love affairs\" forstudentsuicides and told women teachers not to \"exposetheir body and wear proper clothes\". But thisis a minister, not asocial media troll. His officegives him the power to influencethe entire edifice of education in Rajasthan. Dilawar's politics evidently seeks permanent conflict and equates a crime with an act of bravery. It threatens to stoke the embers on an issue that thejudiciary has resolved and the BJP leadershipclaimsto havemoved on from. The latter has sought to frame the temple asa cultural and \"civilisational\" achievement, not a zero-sum victory. Forthat sentimenttoring true, the likes of Minister Dilawar must begiven anurgent lesson in political and constitutional propriety.",
+   "n_words": 339,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1620,
+      4471,
+      2226,
+      5132
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1621,
+      5137,
+      2224,
+      5213
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "executive. Of the 1/9 bills passed by the\n17th Lok Sabha (excluding finance and\nappropriation bills), 35 per cent were\napproved after less than one hour of\ndebate. Only 16 per cent of introduced\nbills were referred to standing commit-\ntees. Thus, even as sittings shrink,\nthe government has leveraged its major-\nity to push through legislation with\nminimal deliberation.\nThis degrading of parliamentary\nnorms is further reflected ina disquieting\ntrend: Members of the treasury benches\ndisrupting proceedings, and an un-\nprecedented escalation in the suspension\nof Opposition Members of Parliament,\neven for raising legitimate questions.",
+   "deck_raw": "",
+   "body_raw": "Ambedkar had warned against such\ndanger. He feared that India might",
+   "ocr_conf": 95.72727272727273,
+   "ocr_low_conf_share": 0.0,
+   "headline": "executive. Of the 1/9 bills passed by the 17th Lok Sabha (excluding finance and appropriation bills), 35 per cent were approved after less than one hour of debate. Only 16 per cent of introduced bills were referred to standing committees. Thus, even as sittings shrink, the government has leveraged its majority to push through legislation with minimal deliberation. This degrading of parliamentary norms is further reflected ina disquieting trend: Members of the treasury benches disrupting proceedings, and an unprecedented escalation in the suspension of Opposition Members of Parliament, even for raising legitimate questions.",
+   "deck": "",
+   "byline": "",
+   "text": "Ambedkar had warned against such danger. He feared that India might",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1293,
+      4616,
+      1571,
+      4938
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1296,
+      4301,
+      2226,
+      4415
+     ],
+     [
+      1297,
+      4471,
+      2228,
+      4614
+     ]
+    ],
+    "body_boxes": [
+     [
+      1439,
+      4660,
+      2224,
+      4693
+     ],
+     [
+      1447,
+      4859,
+      2226,
+      4892
+     ],
+     [
+      1297,
+      4931,
+      2223,
+      5132
+     ],
+     [
+      1402,
+      5058,
+      2222,
+      5092
+     ]
+    ],
+    "layout_words": 32
+   },
+   "headline_raw": "calendar year.\nMore sittings\nwould enable\nthorough\ndebate, ensure\ngreater time for\ncnsstiety mito",
+   "deck_raw": "awit fovecttw See = .\nli t sitting days annually, the lowest for any\npatamentary full-term Lok Sabha since 1952.\ndemocracy is to This reduced duration has been\ninim executive. Of the 1/9 bills passed by the\nm woe um of 17th Lok Sabha (excluding finance and\n100 sitting days appropriation bills), 35 per cent were\nfor each approved after less than one hour of",
+   "body_raw": "me\u201d eee . 4 7; . \u2018\nSept bills were referred to standing commit-\n\nTe This degrading of parliamentary\n\nscrutiny, give \u2014_ trend: Members of the treasury benches\nthe Opposition disrupting proceedings, and an un-\naplatform to precedented escalation in the suspension\n: of Opposition Members of Parliament,\narticulate even for raising legitimate questions.\n\na alot, \u2014 of Opposition Members of Parliament,\n<4tlAaAta \u00a3 \u201c\u2014\u2014 eee ~",
+   "ocr_conf": 72.55223880597015,
+   "ocr_low_conf_share": 0.2835820895522388,
+   "headline": "calendar year. More sittings would enable thorough debate, ensure greater time for cnsstiety mito",
+   "deck": "awit fovecttw See =. li t sitting days annually, the lowest for any patamentary full-term Lok Sabha since 1952. democracy is to This reduced duration has been inim executive. Of the 1/9 bills passed by the m woe um of 17th Lok Sabha (excluding finance and 100 sitting days appropriation bills), 35 per cent were for each approved after less than one hour of",
+   "byline": "",
+   "text": "Sept bills were referred to standing commit-\n\nTe This degrading of parliamentary\n\nscrutiny, give - _ trend: Members of the treasury benches the Opposition disrupting proceedings, and an unaplatform to precedented escalation in the suspension: of Opposition Members of Parliament, articulate even for raising legitimate questions.\n\na alot, - of Opposition Members of Parliament,",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      426,
+      4798,
+      1092,
+      4988
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      313,
+      5016,
+      1203,
+      5648
+     ]
+    ],
+    "layout_words": 136
+   },
+   "headline_raw": "Don\u2019ttake the rage\nbait, don\u2019t give in",
+   "deck_raw": "",
+   "body_raw": "NTHEbeginning there was \u201cclickbait\u201d,a desperateattempt\n| byonlinecontent creators to get viewers to fall for their pitch,\nhook, headlineand sinker. Now, itistheera ofthe \u201crage bait\u201d,\nplucked out from the clamour of the internet, crowned the\nword ofthe year by Oxford University Press (OUP), and defined\nas \u201conlinecontent deliberately designed toelicit angeroroutrage\nby being frustrating, provocative or offensive\u201d. In a culture in\nwhich provocation has become routine and ambient, \u201cragebait\u201d,\nfirst used online on Usenet in 2002, turfed out two close con-\ntenders \u2014 \u201caura farming\u201d and \u201cbio hack\u201d \u2014 to institutionalise\nthe zeitgeist.\nThe linguistic elevation offers a portrait of the modern in-\nformation ecosystem that is increasingly shaped by emotional\nmanipulation. Its prevalence is no accident \u2014 algorithms have\nlong come to reward friction and performative coarseness over\nnuance and empathy. It describes the finely tuned mechanicsof",
+   "ocr_conf": 88.71532846715328,
+   "ocr_low_conf_share": 0.058394160583941604,
+   "headline": "Don'ttake the rage bait, don't give in",
+   "deck": "",
+   "byline": "",
+   "text": "NTHEbeginning there was \"clickbait\",a desperateattempt byonlinecontent creators to get viewers to fall for their pitch, hook, headlineand sinker. Now, itistheera ofthe \"rage bait\", plucked out from the clamour of the internet, crowned the word ofthe year by Oxford University Press (OUP), and defined as \"onlinecontent deliberately designed toelicit angeroroutrage by being frustrating, provocative or offensive\". In a culture in which provocation has become routine and ambient, \"ragebait\", first used online on Usenet in 2002, turfed out two close contenders - \"aura farming\" and \"bio hack\" - to institutionalise the zeitgeist. The linguistic elevation offers a portrait of the modern information ecosystem that is increasingly shaped by emotional manipulation. Its prevalence is no accident - algorithms have long come to reward friction and performative coarseness over nuance and empathy. It describes the finely tuned mechanicsof",
+   "n_words": 134,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3296,
+      4876,
+      3841,
+      4934
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3297,
+      4940,
+      4180,
+      5055
+     ],
+     [
+      3589,
+      5138,
+      4173,
+      5213
+     ],
+     [
+      3530,
+      5456,
+      4025,
+      5555
+     ],
+     [
+      3528,
+      5576,
+      4129,
+      6128
+     ]
+    ],
+    "layout_words": 135
+   },
+   "headline_raw": "DEIOTe ILTCaChes IViOSCOW. IViOTCOVET, Uh\nMoscow will agreetosuch a proposal.",
+   "deck_raw": "",
+   "body_raw": "Ultimately, Ukraine is trapped between a terrible war and\na humiliating peace. It has never appeared so vulnerable. For\nthe Kremlin, it isa moment towait and watch without stopping\n\nThe writer is professor, School of International\nStudies, Jawaharlal Nehru University, Delhi\n\nduring the last 24 hours.\nEx-CM arrested, released\n\nFormer Odisha chief minister Nandini\nSatpathy was released after day-long cus-\ntody at the police headquarters in Bhuba-\nneswar. She was physically lifted and\nthrown intoa waiting police vehicle at the\nstate secretariat, where she had gone with\nagroup of 200 Opposition workers to pro-\ntest against abus fare hike. Opposition\nleaders, including Loknath Chaudhary of\nthe CPI, who could not find out where she\nhad been taken, senta telegram tothe\nPrime Minister alleging foul play behind her\ndisappearance. The police had arrested 148\nOpposition workers.",
+   "ocr_conf": 87.05925925925926,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "DEIOTe ILTCaChes IViOSCOW. IViOTCOVET, Uh Moscow will agreetosuch a proposal.",
+   "deck": "",
+   "byline": "",
+   "text": "Ultimately, Ukraine is trapped between a terrible war and a humiliating peace. It has never appeared so vulnerable. For the Kremlin, it isa moment towait and watch without stopping\n\nThe writer is professor, School of International Studies, Jawaharlal Nehru University, Delhi\n\nduring the last 24 hours. Ex-CM arrested, released\n\nFormer Odisha chief minister Nandini Satpathy was released after day-long custody at the police headquarters in Bhubaneswar. She was physically lifted and thrown intoa waiting police vehicle at the state secretariat, where she had gone with agroup of 200 Opposition workers to protest against abus fare hike. Opposition leaders, including Loknath Chaudhary of the CPI, who could not find out where she had been taken, senta telegram tothe Prime Minister alleging foul play behind her disappearance. The police had arrested 148 Opposition workers.",
+   "n_words": 132,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      3031,
+      5022,
+      3411,
+      5120
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2986,
+      4876,
+      3235,
+      4934
+     ]
+    ],
+    "body_boxes": [
+     [
+      2976,
+      4931,
+      3244,
+      5010
+     ],
+     [
+      3043,
+      5128,
+      3176,
+      5162
+     ],
+     [
+      2877,
+      5455,
+      3470,
+      5763
+     ],
+     [
+      2875,
+      5792,
+      3469,
+      6122
+     ]
+    ],
+    "layout_words": 103
+   },
+   "headline_raw": "without the Kren\nstopping e war.",
+   "deck_raw": "Kremlin, it isa\nene fran rant + fo",
+   "body_raw": "momentto\nwait and watch\n\nthe war\n\nabused. The defamation laws completely\nlack teeth and involve along-drawn-out\nbattle in which both the victor and the van-\nquished suffer alike, if at all the case is ever\ndecided, he declared, delivering the\nSeventh Bhimsen Sachar Memorial Lecture\non \u201cFreedom of Media\u201d at Lajpat Bhawan in\nNew Delhi.\n\nThree killed in Punjab violence\nTerrorists stepped up their activities\nin Punjab as they gunned down a Nihang\nanda shopkeeper while injuring three\nothers, including a policeman, even as\nthe police struck back and killed one\nof the assailants and nabbed another\nin two different incidents in the state",
+   "ocr_conf": 89.32692307692308,
+   "ocr_low_conf_share": 0.038461538461538464,
+   "headline": "without the Kren stopping e war.",
+   "deck": "Kremlin, it isa ene fran rant + fo",
+   "byline": "",
+   "text": "momentto wait and watch\n\nthe war\n\nabused. The defamation laws completely lack teeth and involve along-drawn-out battle in which both the victor and the vanquished suffer alike, if at all the case is ever decided, he declared, delivering the Seventh Bhimsen Sachar Memorial Lecture on \"Freedom of Media\" at Lajpat Bhawan in New Delhi.\n\nThree killed in Punjab violence Terrorists stepped up their activities in Punjab as they gunned down a Nihang anda shopkeeper while injuring three others, including a policeman, even as the police struck back and killed one of the assailants and nabbed another in two different incidents in the state",
+   "n_words": 103,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5651,
+      1200,
+      5709
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      313,
+      5694,
+      1200,
+      6048
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "content designed to tapintothe latent aiiger sitting just beneath\ntheerfare afcontemnorar ifeand he rewardad farit Thororm\u2019e",
+   "deck_raw": "",
+   "body_raw": "thesurface ofcontemporary life and be rewarded forit. Theterm\u2019s\nrise \u2014 OUP notes that the word \u201chastripled inusage in the last 12\nmonths\u201d \u2014 suggests aculture aware that its collective attention\nisbeing mined with industrial efficiency: Muchofonlineconver-\nsation now operates at the mercy of stimuli contrived tomakein-\ndividuals shuteach other down rather than speakto one another.\nYet, the choice offers an important opening to rethink digital\nengagement. By distilling a sprawling cultural malaise intoa\nsingle (or almost so) word, it renews the possibility for discern-",
+   "ocr_conf": 82.14285714285714,
+   "ocr_low_conf_share": 0.17857142857142858,
+   "headline": "content designed to tapintothe latent aiiger sitting just beneath theerfare afcontemnorar ifeand he rewardad farit Thororm'e",
+   "deck": "",
+   "byline": "",
+   "text": "thesurface ofcontemporary life and be rewarded forit. Theterm's rise - OUP notes that the word \"hastripled inusage in the last 12 months\" - suggests aculture aware that its collective attention isbeing mined with industrial efficiency: Muchofonlineconversation now operates at the mercy of stimuli contrived tomakeindividuals shuteach other down rather than speakto one another. Yet, the choice offers an important opening to rethink digital engagement. By distilling a sprawling cultural malaise intoa single (or almost so) word, it renews the possibility for discern-",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      1370,
+      5610,
+      1990,
+      5785
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1342,
+      5410,
+      1790,
+      5535
+     ],
+     [
+      1368,
+      5987,
+      1570,
+      6066
+     ],
+     [
+      317,
+      6049,
+      1199,
+      6106
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      6092,
+      1200,
+      6200
+     ]
+    ],
+    "layout_words": 26
+   },
+   "headline_raw": "\u2019@ INDIAN EXPRESS",
+   "deck_raw": "40 YEARS AGO\nDecember 2, 1985\n\nment and resistance \u2014 recognising manipulation for the calcu-\nlee ad ala that iticand rariaiming cnime meaqciranfacencyuqgver",
+   "body_raw": "lated ploy that itisand reciaiming some measure of agency over\nthe emotional contours of online life by refusing to give into its\ncorrosive cues.",
+   "ocr_conf": 89.41666666666667,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "'@ INDIAN EXPRESS",
+   "deck": "40 YEARS AGO December 2, 1985 ment and resistance - recognising manipulation for the calculee ad ala that iticand rariaiming cnime meaqciranfacencyuqgver",
+   "byline": "",
+   "text": "lated ploy that itisand reciaiming some measure of agency over the emotional contours of online life by refusing to give into its corrosive cues.",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 27.3,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,716 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_24_front",
+ "source_file": "2025-06-24_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-24_front.png",
+ "date": "2025-06-24",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 299,
+  "mean_line_conf": 87.65871591540927,
+  "orphan_words": 0,
+  "body_words_total": 997
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      1671,
+      697,
+      2840,
+      818
+     ],
+     [
+      1719,
+      767,
+      2787,
+      827
+     ],
+     [
+      326,
+      878,
+      4152,
+      1124
+     ]
+    ],
+    "deck_boxes": [
+     [
+      325,
+      696,
+      1549,
+      825
+     ],
+     [
+      543,
+      1397,
+      662,
+      1451
+     ],
+     [
+      354,
+      1504,
+      496,
+      1562
+     ]
+    ],
+    "body_boxes": [
+     [
+      340,
+      1395,
+      454,
+      1434
+     ],
+     [
+      1301,
+      2503,
+      1433,
+      2534
+     ],
+     [
+      1298,
+      2789,
+      1705,
+      2867
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "MATCHED NUMBER OF BOMBS DROPPED\nby US, mighty and successful response: Iran\nby US, mighty and successful response: Iran\nWar widens: Iran hits US military base in Qatar",
+   "deck_raw": "ALUDEID AIR BASE HIT BY SHORT-RANGE,\nmedium-range ballistic missiles, no casualties: US\nBaghdac\n7IsRAEL",
+   "body_raw": "Tel Aviv\n\nINSIDE\n\nRUSSIA BACKS IRAN\nAS PUTIN HOSTS",
+   "ocr_conf": 95.77777777777777,
+   "ocr_low_conf_share": 0.0,
+   "headline": "MATCHED NUMBER OF BOMBS DROPPED by US, mighty and successful response: Iran by US, mighty and successful response: Iran War widens: Iran hits US military base in Qatar",
+   "deck": "ALUDEID AIR BASE HIT BY SHORT-RANGE, medium-range ballistic missiles, no casualties: US Baghdac 7IsRAEL",
+   "byline": "",
+   "text": "Tel Aviv\n\nRUSSIA BACKS IRAN AS PUTIN HOSTS",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3254,
+      1194,
+      4136,
+      1640
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      1740,
+      3544,
+      1810
+     ],
+     [
+      3252,
+      1861,
+      3695,
+      2330
+     ],
+     [
+      3740,
+      1702,
+      4182,
+      2164
+     ],
+     [
+      3740,
+      2176,
+      4181,
+      2323
+     ]
+    ],
+    "layout_words": 143
+   },
+   "headline_raw": "Qatar home to over\n8 lakh Indians, Delhi\nmonitors situation,\nalerts its nationals",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, JUNE 23\n\nAWORRIED Delhi was monitor-\ning the situation in Qatar where\nmore than 8 lakh Indianslive and\nwork, and the Indian embassy\nasked the community to be cau-\ntious as Iran launched a military\nattack Monday night on a US\nbase in Qatar.\nThe Indian embassy in Doha\nsaid, \u201cIn view of the ongoingsit-\nuation, the Indian communityin\nQatar is urged to be cautious and\n\nremain indoors. Please remain\ncalm and follow local news, in-\nstructions and guidance pro-\nvided by Qatari authorities. The\nEmbassy will also keep updat-\ning through our social media\nchannels.\u201d\nThe Indiancommunity is the\nlargest expat community in the\ncountry, which has one of the\nhighest per capitaincome in the\nworld.\n\nIran said it launched a military\nattack on the Al Udeid air base in\nQatar, the largest US military\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.88194444444444,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "Qatar home to over 8 lakh Indians, Delhi monitors situation, alerts its nationals",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, JUNE 23",
+   "text": "AWORRIED Delhi was monitoring the situation in Qatar where more than 8 lakh Indianslive and work, and the Indian embassy asked the community to be cautious as Iran launched a military attack Monday night on a US base in Qatar. The Indian embassy in Doha said, \"In view of the ongoingsituation, the Indian communityin Qatar is urged to be cautious and\n\nremain indoors. Please remain calm and follow local news, instructions and guidance provided by Qatari authorities. The Embassy will also keep updating through our social media channels.\" The Indiancommunity is the largest expat community in the country, which has one of the highest per capitaincome in the world.\n\nIran said it launched a military attack on the Al Udeid air base in Qatar, the largest US military",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      1845,
+      1164,
+      1983
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2055,
+      621,
+      2203
+     ],
+     [
+      320,
+      2254,
+      763,
+      3116
+     ],
+     [
+      853,
+      2068,
+      1211,
+      2102
+     ],
+     [
+      946,
+      2145,
+      1118,
+      2173
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "Qatar condemns attack, Bahrain\nsuspends flights in its airspace",
+   "deck_raw": "",
+   "body_raw": "DAVIDRISING,\nJON GAMBRELL &\nMELANIE LIDMAN\nDUBAI, JUNE 23\n\nIRAN LAUNCHED missile attacks\nMonday on a United States mil-\nitary base in Qatar, retaliating for\nthe American bombing of its nu-\nclear sites and escalating ten-\nsions in the volatile region.\nAUS defence department of-\nficial confirmed the missile at-\ntack but said no casualties have\nbeen reported. The official said\nthat the Al Udeid Air Base was at-\ntacked by short-range and\nmedium-range ballistic missiles,\nThe US is continuing to monitor\nthe situation, said the official.\n(Reuters adds: Iran, which\nhad been warned by\nWashington not to retaliate or\nface massive US military action,\nhad informed the US via two\ndiplomatic channels hours\nahead of the attack, as well as\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "ocr_conf": 93.23015873015873,
+   "ocr_low_conf_share": 0.031746031746031744,
+   "headline": "Qatar condemns attack, Bahrain suspends flights in its airspace",
+   "deck": "",
+   "byline": "DAVIDRISING,; JON GAMBRELL &; MELANIE LIDMAN; DUBAI, JUNE 23",
+   "text": "IRAN LAUNCHED missile attacks Monday on a United States military base in Qatar, retaliating for the American bombing of its nuclear sites and escalating tensions in the volatile region. AUS defence department official confirmed the missile attack but said no casualties have been reported. The official said that the Al Udeid Air Base was attacked by short-range and medium-range ballistic missiles, The US is continuing to monitor the situation, said the official. (Reuters adds: Iran, which had been warned by Washington not to retaliate or face massive US military action, had informed the US via two diplomatic channels hours ahead of the attack, as well as\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "n_words": 111,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      871,
+      2283,
+      1175,
+      2363
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      911,
+      2436,
+      1051,
+      2501
+     ],
+     [
+      808,
+      2729,
+      1250,
+      3112
+     ]
+    ],
+    "layout_words": 52
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\u2018Pnti-Amervica\nGent Ayan?\n\nQatari authorities, a senior re-\ngional source told Reuters.)\nQatar condemned the attack,\nbut said it successfully inter-\ncepted the missiles and no casu-\nalties were reported. It said its\nairspace is now safe.\nShortly after the attack, the\nGulf nation of Bahrain that is\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.09615384615384,
+   "ocr_low_conf_share": 0.09615384615384616,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "'Pnti-Amervica Gent Ayan?\n\nQatari authorities, a senior regional source told Reuters.) Qatar condemned the attack, but said it successfully inter-cepted the missiles and no casualties were reported. It said its airspace is now safe. Shortly after the attack, the Gulf nation of Bahrain that is",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      2475,
+      3196,
+      2569
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      2690,
+      2716,
+      3121
+     ],
+     [
+      2762,
+      2691,
+      3207,
+      3114
+     ]
+    ],
+    "layout_words": 107
+   },
+   "headline_raw": "India set to ramp up oil imports from",
+   "deck_raw": "",
+   "body_raw": "US and Latin America \u2014 as ship-\npingroutes to Indian ports from\nthese suppliers are detached\nfrom the critical choke point in\nthe Persian Gulf, according to in-\ndustry sources and experts.\nIn fact, India\u2019s oil sourcing\nstrategy is already reflecting a\nrisk-hedged posture pertaining\nto West Asian oil flows with\nRussian oil dominating India\u2019s oil\n\nimport mix.\nFollowing US air strikes at\nIranian nuclear facilities over the\nweekend, Iran\u2019s Parliament\nSunday approved a motion call-\ning forthe closure of the Strait of\nHormuz, a critical oil transit\nchoke point in global energy\nflows. It is now up to Iran's\nSupreme National Security\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.85981308411215,
+   "ocr_low_conf_share": 0.0,
+   "headline": "India set to ramp up oil imports from",
+   "deck": "",
+   "byline": "",
+   "text": "US and Latin America - as ship-pingroutes to Indian ports from these suppliers are detached from the critical choke point in the Persian Gulf, according to industry sources and experts. In fact, India's oil sourcing strategy is already reflecting a risk-hedged posture pertaining to West Asian oil flows with Russian oil dominating India's oil\n\nimport mix. Following US air strikes at Iranian nuclear facilities over the weekend, Iran's Parliament Sunday approved a motion calling forthe closure of the Strait of Hormuz, a critical oil transit choke point in global energy flows. It is now up to Iran's Supreme National Security",
+   "n_words": 100,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1605,
+      2574,
+      3188,
+      2717
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2729,
+      2082,
+      2799
+     ],
+     [
+      1785,
+      2848,
+      2228,
+      3120
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "=\\\". Russia, Africa, US and Latin America\nche e ~~ USand LatinAmerica\u2014asship- import mix.",
+   "deck_raw": "",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, JUNE 23\n\nTHE ESCALATION in the Israel-\nIran conflict and Tehran's threat\nto close the Strait of Hormuz are\nlikely to push Indian refiners to\nfurther ramp up oil purchases\nfrom non-West Asian suppliers\n\u2014 mainly Russia, West Africa, the",
+   "ocr_conf": 89.1590909090909,
+   "ocr_low_conf_share": 0.06818181818181818,
+   "headline": "=\\\". Russia, Africa, US and Latin America che e ~~ USand LatinAmerica - asship- import mix.",
+   "deck": "",
+   "byline": "SUKALP SHARMA; NEW DELHI, JUNE 23",
+   "text": "THE ESCALATION in the Israel-Iran conflict and Tehran's threat to close the Strait of Hormuz are likely to push Indian refiners to further ramp up oil purchases from non-West Asian suppliers - mainly Russia, West Africa, the",
+   "n_words": 37,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1300,
+      2881,
+      1682,
+      2931
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      2948,
+      1707,
+      3121
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "FOREIGN MINISTER",
+   "deck_raw": "",
+   "body_raw": "IAEA\u2019S CHALLENGES\nAFTER ATTACKS ON\nIRAN\u2019S N-SITES\nWORLD, EXPLAINED",
+   "ocr_conf": 92.77777777777777,
+   "ocr_low_conf_share": 0.0,
+   "headline": "FOREIGN MINISTER",
+   "deck": "",
+   "byline": "IAEA'S CHALLENGES; AFTER ATTACKS ON; IRAN'S N-SITES; WORLD, EXPLAINED",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      3306,
+      1214,
+      3499
+     ],
+     [
+      321,
+      3514,
+      1163,
+      3813
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      3230,
+      1241,
+      3260
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      3679,
+      612,
+      3748
+     ],
+     [
+      321,
+      3797,
+      760,
+      4180
+     ],
+     [
+      321,
+      4193,
+      760,
+      4338
+     ],
+     [
+      1016,
+      3730,
+      1213,
+      3813
+     ],
+     [
+      837,
+      3876,
+      1223,
+      4299
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "India seeks pause in WB\nexpert\u2019s proceedings on\nKishanganga and Ratle\nRITIKA CHOPRA - E\nNEW DELHI, JUNE 23 = Ultimat.\nINDIA HAS writtentathe World lias @ toPak",
+   "deck_raw": "AFTER SUSPENSION OF INDUS WATERS TREATY",
+   "body_raw": "RITIKACHOPRA\nNEW DELHI, JUNE 23\n\nINDIA HAS written to the World\nBank's neutral expert, Michel\nLino, requesting a pause in his\nproceedings on the Ratle and\nKishanganga hydropower dis-\nputes, following the Union gov-\nernment\u2019s decision to place the\nIndus Waters Treaty (IWT) in\nabeyance, The Indian Express has\nlearned.\n\nLino is understood to have\nsought Pakistan\u2019s views on\nIndia\u2019s request, which Islamabad\nCONTINUED ON PAGE 2\n\nUltimatum\nto Pak\n\nAFTER THE Pahalgam at-\ntack, India kept the WT in\nabeyance until Pakistan \u201cab-\njures its support for cross-\nborder terrorism\u201d. Under\nIWT, the waters of \u201cEastern\nRivers\u201d \u2014Sutiej, Beas, Ravi-\nare for India\u2019s unrestricted\nuse, while the \u201cWestern\nRivers\u201d - Indus, Jhelum,\nChenab - are for Pakistan.",
+   "ocr_conf": 92.22881355932203,
+   "ocr_low_conf_share": 0.025423728813559324,
+   "headline": "India seeks pause in WB expert's proceedings on Kishanganga and Ratle RITIKA CHOPRA - E NEW DELHI, JUNE 23 = Ultimat. INDIA HAS writtentathe World lias @ toPak",
+   "deck": "AFTER SUSPENSION OF INDUS WATERS TREATY",
+   "byline": "RITIKACHOPRA; NEW DELHI, JUNE 23",
+   "text": "INDIA HAS written to the World Bank's neutral expert, Michel Lino, requesting a pause in his proceedings on the Ratle and Kishanganga hydropower disputes, following the Union government's decision to place the Indus Waters Treaty (IWT) in abeyance, The Indian Express has learned.\n\nLino is understood to have sought Pakistan's views on India's request, which Islamabad\n\nUltimatum to Pak\n\nAFTER THE Pahalgam attack, India kept the WT in abeyance until Pakistan \"abjures its support for cross-border terrorism\". Under IWT, the waters of \"Eastern Rivers\" - Sutiej, Beas, Raviare for India's unrestricted use, while the \"Western Rivers\" - Indus, Jhelum, Chenab - are for Pakistan.",
+   "n_words": 104,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      3741,
+      2160,
+      3827
+     ],
+     [
+      1297,
+      3838,
+      2215,
+      3968
+     ],
+     [
+      1298,
+      3958,
+      1429,
+      4024
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      4038,
+      1589,
+      4066
+     ],
+     [
+      1296,
+      4115,
+      1738,
+      4346
+     ],
+     [
+      1782,
+      3956,
+      2227,
+      4339
+     ],
+     [
+      1784,
+      4629,
+      2229,
+      5091
+     ]
+    ],
+    "layout_words": 138
+   },
+   "headline_raw": "PMML to take legal steps\nfor return of Nehru papers\nDIVYAA",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, JUNE 23\n\nAT THE annual general meeting\nMonday of the Prime Ministers\nMuseum and Library (PMML)\nSociety, chaired by Prime\nMinister Narendra Modi, a\nstrong consensus emerged\n\namong members that the mat-\nter of Congress leader Sonia\nGandhi taking away the\nJawaharlal Nehru papers should\nbe legally pursued, The Indian\nExpress has learnt.\nBesides the Prime Minister\nwho is the PMML Society presi-\ndent, the 47th AGM was\nCONTINUED ON PAGE 2\n\nAccording to Rajya Sabha\nsources, so far only 44 of those\nMPs have verified their signa-\ntures after the secretariat sought\ntheir responses via emails and\ncalls in March and May thisyear.\nOf the remaining 10, The\nIndian Express was told by six\nMPs that they had signed the no-\ntice. Three MPs could not be\nreached for comment and one,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.15107913669065,
+   "ocr_low_conf_share": 0.014388489208633094,
+   "headline": "PMML to take legal steps for return of Nehru papers DIVYAA",
+   "deck": "",
+   "byline": "NEW DELHI, JUNE 23",
+   "text": "AT THE annual general meeting Monday of the Prime Ministers Museum and Library (PMML) Society, chaired by Prime Minister Narendra Modi, a strong consensus emerged\n\namong members that the matter of Congress leader Sonia Gandhi taking away the Jawaharlal Nehru papers should be legally pursued, The Indian Express has learnt. Besides the Prime Minister who is the PMML Society president, the 47th AGM was\n\nAccording to Rajya Sabha sources, so far only 44 of those MPs have verified their signatures after the secretariat sought their responses via emails and calls in March and May thisyear. Of the remaining 10, The Indian Express was told by six MPs that they had signed the notice. Three MPs could not be reached for comment and one,",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4417,
+      733,
+      4473
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4886,
+      758,
+      5058
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "AAP RETAINS SEATS\nIN GUJARAT, PUNJAB;\nCONG WINSIN\nKERALA paGce6",
+   "ocr_conf": 88.7,
+   "ocr_low_conf_share": 0.1,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "AAP RETAINS SEATS; IN GUJARAT, PUNJAB;; CONG WINSIN",
+   "text": "KERALA paGce6",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      4414,
+      2169,
+      4760
+     ],
+     [
+      808,
+      4634,
+      1031,
+      4707
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1318,
+      4704,
+      1695,
+      4828
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      4708,
+      1100,
+      4778
+     ],
+     [
+      804,
+      4827,
+      1249,
+      5097
+     ],
+     [
+      1358,
+      4826,
+      1707,
+      4862
+     ],
+     [
+      1297,
+      4945,
+      1736,
+      5091
+     ]
+    ],
+    "layout_words": 64
+   },
+   "headline_raw": "50 Rajya Sabha MPs confirm signing\nnotice against Justice Shekhar Yadav\n- ; . According to Rajya Sal\nDAMININATH",
+   "deck_raw": "Y Shekhar\na Yadav of\n-* 4 Allahabad",
+   "body_raw": "& LIZ MATHEW\nNEW DELHI, JUNE 23\n\nTHE IMPEACHMENT notice by\n54 Rajya Sabha MPs against\nAllahabad High Court judge\nJustice Shekhar Yadav fora con-\ntroversial speech by him at a\nVishwa Hindu Parishad event\nlast year is confirmed to have\n\n\u2018eZ\u2019 BM HighCourt\n\nbeen signed by at least 50 MPs -\nthe minimum required to move\nforward \u2014 The Indian Express has\nlearnt.",
+   "ocr_conf": 92.15625,
+   "ocr_low_conf_share": 0.03125,
+   "headline": "50 Rajya Sabha MPs confirm signing notice against Justice Shekhar Yadav -;. According to Rajya Sal DAMININATH",
+   "deck": "Y Shekhar a Yadav of -* 4 Allahabad",
+   "byline": "& LIZ MATHEW; NEW DELHI, JUNE 23",
+   "text": "THE IMPEACHMENT notice by 54 Rajya Sabha MPs against Allahabad High Court judge Justice Shekhar Yadav fora controversial speech by him at a Vishwa Hindu Parishad event last year is confirmed to have\n\n'eZ' BM HighCourt\n\nbeen signed by at least 50 MPs - the minimum required to move forward - The Indian Express has learnt.",
+   "n_words": 56,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2824,
+      4595,
+      3618,
+      4706
+     ],
+     [
+      2546,
+      4831,
+      3911,
+      5060
+     ],
+     [
+      2847,
+      5133,
+      3600,
+      5244
+     ],
+     [
+      2514,
+      5380,
+      3920,
+      5585
+     ],
+     [
+      2962,
+      5652,
+      3471,
+      5741
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3710,
+      5915,
+      4033,
+      5956
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "1 Sess A a OA\nIAS /RAS\n10 3 Wadd UAT\nRAS Pre/PSI\nTA ad Wa",
+   "deck_raw": "",
+   "body_raw": "Wrsmrisart aia pas",
+   "ocr_conf": 10.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "IAS /RAS 10 3 Wadd UAT RAS Pre/PSI",
+   "deck": "",
+   "byline": "",
+   "text": "Wrsmrisart aia pas",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5224,
+      2223,
+      5477
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5545,
+      499,
+      5577
+     ],
+     [
+      320,
+      5696,
+      610,
+      5766
+     ],
+     [
+      318,
+      5816,
+      760,
+      6166
+     ],
+     [
+      1782,
+      5501,
+      2228,
+      6160
+     ]
+    ],
+    "layout_words": 131
+   },
+   "headline_raw": "In India team\u2019s chess win, story of a\nrecreational player from IM-Calcutta",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nMAYANK\nNEW DELHI, JUNE 23\n\nIT WAS just another day for\nAtharvaa Tayade, a 24-year-old\npursuing an MBA degree at IIM-\nCalcutta, when a message\npopped up on his chess.com ac-\ncount in March: \u201cWeare partic-\nipating as Team MGD1, would\nyou be interested to play?\u201d\nThe message was from N\n\nSrinath, the gold medal-winning\ncaptain of India\u2019s Budapest\nOlympiad team, seeking a\n\u201crecreational player\u201d for the only\nteam from India at the FIDE\nWorld Rapid and Blitz Team\nChampionships.\nThe championship requires\nsix players per team, with one\ncompulsory spot each for a\nwoman and a recreational player\n(someone who has never\nachieved FIDE Classical, Rapid or\nBlitz Rating of 2000 Elo points).\nTayade was a perfect fit: a skilled\nplayer who stepped away from\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.47328244274809,
+   "ocr_low_conf_share": 0.015267175572519083,
+   "headline": "In India team's chess win, story of a recreational player from IM-Calcutta",
+   "deck": "",
+   "byline": "ANCHOR; MAYANK; NEW DELHI, JUNE 23",
+   "text": "IT WAS just another day for Atharvaa Tayade, a 24-year-old pursuing an MBA degree at IIM-Calcutta, when a message popped up on his chess.com account in March: \"Weare participating as Team MGD1, would you be interested to play?\" The message was from N\n\nSrinath, the gold medal-winning captain of India's Budapest Olympiad team, seeking a \"recreational player\" for the only team from India at the FIDE World Rapid and Blitz Team Championships. The championship requires six players per team, with one compulsory spot each for a woman and a recreational player (someone who has never achieved FIDE Classical, Rapid or Blitz Rating of 2000 Elo points). Tayade was a perfect fit: a skilled player who stepped away from",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 14.0,
+ "flags": []
+}

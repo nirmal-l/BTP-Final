@@ -1,0 +1,560 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_20_front",
+ "source_file": "2025-10-20_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-20_front.png",
+ "date": "2025-10-20",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1291,
+  "n_lines": 262,
+  "mean_line_conf": 85.76257917008218,
+  "orphan_words": 35,
+  "body_words_total": 849
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      1419,
+      1689,
+      2080
+     ],
+     [
+      811,
+      2122,
+      1697,
+      2251
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2333,
+      1159,
+      2403
+     ],
+     [
+      808,
+      2451,
+      1251,
+      3230
+     ],
+     [
+      1457,
+      2390,
+      1667,
+      2477
+     ],
+     [
+      1335,
+      2530,
+      1699,
+      2993
+     ],
+     [
+      1297,
+      3085,
+      1738,
+      3231
+     ]
+    ],
+    "layout_words": 179
+   },
+   "headline_raw": "After violence,\nLadakh talks\nback on track,\nresume Oct 22\nLeh and Kargil civil society groups to\nmeet senior Home Ministry officials",
+   "deck_raw": "",
+   "body_raw": "DEEPTIMAN TIWARY\nNEW DELHI, OCTOBER 19\n\nDAYS AFTER the Union Ministry\nof Home Affairs (MHA) ordered\na judicial probe into the\nSeptember 24 violence in Leh \u2014\nfour persons were killed in police\nfiring after protests turned vio-\nlent \u2014 Ladakh civil society groups\nhaveagreed to resume talks with\nthe Centre on October 22.\nFollowing the September 24\nviolence, which erupted during\nprotests over Ladakh\u2019s demands\nfor statehood and Sixth Schedule\nstatus, and the subsequent arrest\nof climate activist Sonam\nWangchuk under the National\nSecurity Act (NSA) the Apex Body,\nLeh (ABL) and Kargil Democratic\nAlliance (KDA) had pulled out of\ntalks that were scheduled with\n\nCentre\u2019s\n1@ outreach\n\nTHE VIOLENCE last month,\nwhich resulted in the\ndeaths of four persons in\npolice firing, had deepened\nthe mistrust between the\nCentre and Ladakh's civil\nsociety groups that had\nbeen negotiating for\nmonths. But the Centre\u2019s\ndecision to set up a judicial\nprobe has opened a\nwindow for talks.\n\nthe Centre on October 6, saying\nthey would not resume talks un-\ntil an independent judicial probe\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.11731843575419,
+   "ocr_low_conf_share": 0.0335195530726257,
+   "headline": "After violence, Ladakh talks back on track, resume Oct 22 Leh and Kargil civil society groups to meet senior Home Ministry officials",
+   "deck": "",
+   "byline": "DEEPTIMAN TIWARY; NEW DELHI, OCTOBER 19",
+   "text": "DAYS AFTER the Union Ministry of Home Affairs (MHA) ordered a judicial probe into the September 24 violence in Leh - four persons were killed in police firing after protests turned violent - Ladakh civil society groups haveagreed to resume talks with the Centre on October 22. Following the September 24 violence, which erupted during protests over Ladakh's demands for statehood and Sixth Schedule status, and the subsequent arrest of climate activist Sonam Wangchuk under the National Security Act (NSA) the Apex Body, Leh (ABL) and Kargil Democratic Alliance (KDA) had pulled out of talks that were scheduled with\n\nCentre's 1@ outreach\n\nTHE VIOLENCE last month, which resulted in the deaths of four persons in police firing, had deepened the mistrust between the Centre and Ladakh's civil society groups that had been negotiating for months. But the Centre's decision to set up a judicial probe has opened a window for talks.\n\nthe Centre on October 6, saying they would not resume talks until an independent judicial probe",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      376,
+      1741,
+      705,
+      2023
+     ]
+    ],
+    "layout_words": 28,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Because of Diwali holiday,\nthere will be no print\nedition of this newspaper\ndated October 21, 2025.\nOur coverage and\nnews updates 24x7 will\nbe available on\nindianexpress.com",
+   "ocr_conf": 92.64285714285714,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Because of Diwali holiday, there will be no print edition of this newspaper dated October 21, 2025. Our coverage and news updates 24x7 will be available on indianexpress.com",
+   "n_words": 28,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      363,
+      2171,
+      721,
+      2205
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      457,
+      2248,
+      626,
+      2276
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 90.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1783,
+      2347,
+      3198,
+      2550
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2355,
+      2626,
+      3122,
+      2732
+     ]
+    ],
+    "body_boxes": [
+     [
+      1787,
+      2609,
+      2158,
+      2681
+     ],
+     [
+      1783,
+      2731,
+      2226,
+      3113
+     ]
+    ],
+    "layout_words": 49
+   },
+   "headline_raw": "Jal Jeevan: States told to submit report\non cases against officials, contractors",
+   "deck_raw": "Tweak in Jal Jeevan tender rule removed cap\non expense, led to Rs 16,000-crore extra cost",
+   "body_raw": "HARIKISHAN SHARMA\nNEW DELHI, OCTOBER 19\n\nUNDERSCORING ITS concerns\nover \u201cirregularities\u201d in the imple-\nmentation of its flagship Jal\nJeevan Mission (JJM) for supply-\ning drinking water torural house-\nholds, the Centre has directed\nstates to outline action taken\nagainst officials and contractors\ninvolved, including graft cases\nCONTINUEDON PAGE2",
+   "ocr_conf": 89.71428571428571,
+   "ocr_low_conf_share": 0.10204081632653061,
+   "headline": "Jal Jeevan: States told to submit report on cases against officials, contractors",
+   "deck": "Tweak in Jal Jeevan tender rule removed cap on expense, led to Rs 16,000-crore extra cost",
+   "byline": "HARIKISHAN SHARMA; NEW DELHI, OCTOBER 19",
+   "text": "UNDERSCORING ITS concerns over \"irregularities\" in the implementation of its flagship Jal Jeevan Mission (JJM) for supplying drinking water torural house-holds, the Centre has directed states to outline action taken against officials and contractors involved, including graft cases CONTINUEDON PAGE2",
+   "n_words": 40,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      2347,
+      4176,
+      2693
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3479,
+      2123,
+      3886,
+      2229
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      2730,
+      3602,
+      2800
+     ],
+     [
+      3252,
+      2849,
+      3701,
+      3114
+     ],
+     [
+      3740,
+      2692,
+      4182,
+      3115
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "ICAR data breach: Head\nof institute replaced 3\ndays before end of term",
+   "deck_raw": "Amul\nsweet meets a",
+   "body_raw": "SHYAMLAL YADAV\nNEW DELHI, OCTOBER 19\n\nFOLLOWING A \u201ccyberattack\u201d ear-\nlier this yearthat led to the loss of\n\u201ccrucial data\u201d from the Indian\nCouncil of Agricultural Research\n(ICAR), from recruitment to re-\nsearch projects, the organisation\nhas removed the director of the\n\ninstitute in charge ofthe datacen-\ntre just three days prior to the\ncompletion of his tenure at the\npost, The Indian Express has learnt.\nAccording to sources, the\ncountry's premier agricultural re-\nsearch organisation has also\nshunted out two Principal\nScientists associated with the in-\nstitute as part of its crackdown\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.20618556701031,
+   "ocr_low_conf_share": 0.041237113402061855,
+   "headline": "ICAR data breach: Head of institute replaced 3 days before end of term",
+   "deck": "Amul sweet meets a",
+   "byline": "SHYAMLAL YADAV; NEW DELHI, OCTOBER 19",
+   "text": "FOLLOWING A \"cyberattack\" earlier this yearthat led to the loss of \"crucial data\" from the Indian Council of Agricultural Research (ICAR), from recruitment to research projects, the organisation has removed the director of the\n\ninstitute in charge ofthe datacentre just three days prior to the completion of his tenure at the post, The Indian Express has learnt. According to sources, the country's premier agricultural research organisation has also shunted out two Principal Scientists associated with the institute as part of its crackdown",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      2897,
+      735,
+      2929
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NETWORK",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "EXPRESS NETWORK",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2991,
+      692,
+      3132
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3148,
+      731,
+      3273
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "KERALA WILL JOIN\nPM SHRI SCHEME,\nSAYS MINISTER",
+   "deck_raw": "",
+   "body_raw": "MAHARASHTRA OPP\nTO PROTEST OVER\n\u2018BOGUS VOTERS\u2019 p7",
+   "ocr_conf": 86.75,
+   "ocr_low_conf_share": 0.125,
+   "headline": "KERALA WILL JOIN PM SHRI SCHEME, SAYS MINISTER",
+   "deck": "",
+   "byline": "MAHARASHTRA OPP; TO PROTEST OVER; 'BOGUS VOTERS' p7",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      3188,
+      2216,
+      3558
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2027,
+      3716,
+      2214,
+      3912
+     ],
+     [
+      1785,
+      3995,
+      2072,
+      4065
+     ],
+     [
+      1784,
+      4113,
+      2226,
+      4536
+     ],
+     [
+      1785,
+      4546,
+      2229,
+      4934
+     ],
+     [
+      1793,
+      4616,
+      1949,
+      4644
+     ],
+     [
+      1785,
+      5015,
+      2105,
+      5089
+     ]
+    ],
+    "layout_words": 98
+   },
+   "headline_raw": "Giriraj Singh\nagain: Minister\ntriggers row\nwith \u2018namak\nharaam\u2019 remark",
+   "deck_raw": "",
+   "body_raw": "BJP leader's\nremark was\ncriticised by\nOpp as well\nas ally JDU\n\nSANTOSH SINGH\nPATNA, OCTOBER 19\n\nWEEKS AHEAD of the Assembly\nelections in Bihar, BJPleader and\nUnion minister Giriraj Singh\nmade controversial remarks\nabout the minority community\nat a rally in the state, drawing\ncriticism not just from the\nOpposition but\nalso from the\n; | BJP\u2019s ally, JD(U).\nThe Union\n\n\\ } minister of\nTextiles, who is\nDECISION an MP from\nBIHAR Begusarai, said at\na rally in Arwal\nthat the BJP did\nnot want votes from \u201cnamak\nharaam (betrayers)\u2019 while refer-\nring toa purported conversation\nCONTINUEDON PAGE2\n\nDECISION!\n\nMORE REPORTS\nPAGE6",
+   "ocr_conf": 86.14423076923077,
+   "ocr_low_conf_share": 0.09615384615384616,
+   "headline": "Giriraj Singh again: Minister triggers row with 'namak haraam' remark",
+   "deck": "",
+   "byline": "SANTOSH SINGH; PATNA, OCTOBER 19",
+   "text": "BJP leader's remark was criticised by Opp as well as ally JDU\n\nWEEKS AHEAD of the Assembly elections in Bihar, BJPleader and Union minister Giriraj Singh made controversial remarks about the minority community at a rally in the state, drawing criticism not just from the Opposition but also from the; BJP's ally, JD(U). The Union\n\nTextiles, who is DECISION an MP from BIHAR Begusarai, said at a rally in Arwal that the BJP did not want votes from \"namak haraam (betrayers)' while refer-ring toa purported conversation CONTINUEDON PAGE2\n\nDECISION!\n\nMORE REPORTS",
+   "n_words": 91,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      3383,
+      1732,
+      3601
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3677,
+      711,
+      3786
+     ],
+     [
+      319,
+      3836,
+      759,
+      4377
+     ],
+     [
+      807,
+      4152,
+      1201,
+      4346
+     ],
+     [
+      806,
+      4667,
+      1248,
+      5090
+     ],
+     [
+      1294,
+      4668,
+      1739,
+      5091
+     ]
+    ],
+    "layout_words": 186
+   },
+   "headline_raw": "\u2018No Kings\u2019 protests draw crowds in\nUS, Trump mocks them with video",
+   "deck_raw": "",
+   "body_raw": "MIKE PESOLI, MATT\nBROWN & GARY FIELDS\nWASHINGTON, OCTOBER 19\n\nLARGE CROWDS of protesters\nmarched and rallied in cities\nacross the United States\nSaturday for \u201cNo Kings\u201d demon-\nstrations, decrying what partic-\nipants see as the government's\nswift drift into authoritarianism\nunder President Donald Trump.\nPeople carrying signs with\nslogans suchas \u201cNothing ismore\npatriotic than protesting\u201d or\n\u201cResist Fascism\u201d packed into\nNew York City\u2019s Times Square\nCONTINUED ON PAGE 2\n\nArally at Times Square AP;\n(right) Trump\u2019s Al video\nshows him ina fighter jet,\nand dumping a brown\nliquid on protesters\n\nworst violence between the\nSouth Asian neighbours since\nthe Taliban seized power in\nKabulin 2021.\nThe ceasefire \u201chas been fi-\nnalised\u201d, Pakistan's Defence\nMinister Khawaja Muhammad\nAsif posted onX on Sunday, say-\ning both sides would meet again\non October 25 in Istanbul to dis-\ncuss \u201cdetailed matters\u201d. Taliban\n\nspokesperson Zabihullah\nMujahid said in a statement the\nparties agreed ona complete and\nmeaningful ceasefire.\nQatar's foreign ministry,\nwhich mediated Saturday's talks\nalong with Turkey, said the fol-\nlow-up meetings were meant\n\u201cto ensure the sustainability of\nthe ceasefire and verify its\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.20430107526882,
+   "ocr_low_conf_share": 0.06451612903225806,
+   "headline": "'No Kings' protests draw crowds in US, Trump mocks them with video",
+   "deck": "",
+   "byline": "MIKE PESOLI, MATT; BROWN & GARY FIELDS; WASHINGTON, OCTOBER 19",
+   "text": "LARGE CROWDS of protesters marched and rallied in cities across the United States Saturday for \"No Kings\" demon-strations, decrying what participants see as the government's swift drift into authoritarianism under President Donald Trump. People carrying signs with slogans suchas \"Nothing ismore patriotic than protesting\" or \"Resist Fascism\" packed into New York City's Times Square\n\nArally at Times Square AP; (right) Trump's Al video shows him ina fighter jet, and dumping a brown liquid on protesters\n\nworst violence between the South Asian neighbours since the Taliban seized power in Kabulin 2021. The ceasefire \"has been finalised\", Pakistan's Defence Minister Khawaja Muhammad Asif posted onX on Sunday, saying both sides would meet again on October 25 in Istanbul to discuss \"detailed matters\". Taliban\n\nspokesperson Zabihullah Mujahid said in a statement the parties agreed ona complete and meaningful ceasefire. Qatar's foreign ministry, which mediated Saturday's talks along with Turkey, said the follow-up meetings were meant \"to ensure the sustainability of the ceasefire and verify its",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4451,
+      1714,
+      4747
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4746,
+      716,
+      4855
+     ],
+     [
+      317,
+      4905,
+      758,
+      5094
+     ]
+    ],
+    "layout_words": 35
+   },
+   "headline_raw": "In Doha peace talks, Afghanistan and\nPakistan agree to immediate ceasefire\n\u2014_\u2014\u2014\u2014\u2014\u2014 worst violence between the spokesperson Zabihullal",
+   "deck_raw": "",
+   "body_raw": "MOHAMMAD YUNUS\nYAWAR& MUSHTAQALI\nISLAMABAD, KABUL, OCT 19\n\nAFGHANISTAN AND Pakistan\nagreed to an immediate cease-\nfire during talks in Doha, both\nsides said on Sunday, after a\nweek of fierce border clashes, the",
+   "ocr_conf": 94.55882352941177,
+   "ocr_low_conf_share": 0.0,
+   "headline": "In Doha peace talks, Afghanistan and Pakistan agree to immediate ceasefire - _ - - - - - worst violence between the spokesperson Zabihullal",
+   "deck": "",
+   "byline": "MOHAMMAD YUNUS; YAWAR& MUSHTAQALI; ISLAMABAD, KABUL, OCT 19",
+   "text": "AFGHANISTAN AND Pakistan agreed to an immediate ceasefire during talks in Doha, both sides said on Sunday, after a week of fierce border clashes, the",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5225,
+      2112,
+      5471
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5545,
+      499,
+      5577
+     ],
+     [
+      316,
+      5696,
+      631,
+      5766
+     ],
+     [
+      313,
+      5814,
+      761,
+      6162
+     ],
+     [
+      1780,
+      5499,
+      2227,
+      6160
+     ]
+    ],
+    "layout_words": 133
+   },
+   "headline_raw": "\u2018Rehab policy ensures those coming\nfrom jungles do not regret decision\u2019",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nANKITA DESHKAR\nNAGPUR, OCTOBER 19\n\nTHE OCTOBER 14 surrender of\nCPI(Maoist) Central Committee\nleader Mallojula Venugopal Rao\nalias Bhupati alias Sonu came\namid differences within the em-\nbattled organisation over leader-\nship and the way forward. Police\nSaidit was aletter, sent tothemby\na surrendered Maoist, Asin\n\nRajaram Kumar alias Anil, that\nplayed a key role in persuading\nBhupatiand60 cadres to lay down\narms and join the mainstream.\nIn his letter addressed to\nBhupati, Asin, 37, wrote, \u201cDear\nComrade, I know you have im-\nmense love and compassion for\nthe people and your comrades.\nYou are fundamentally a sensi-\ntive litterateur, not a guerrilla, for\nwhom the people have always\nbeenimportant. You, too, do not\ndesire bloodshed.\u201d\nAsin and his wife Anju Sulya\nJale (28) alias Sonia \u2014 both of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.20149253731343,
+   "ocr_low_conf_share": 0.05223880597014925,
+   "headline": "'Rehab policy ensures those coming from jungles do not regret decision'",
+   "deck": "",
+   "byline": "ANCHOR; ANKITA DESHKAR; NAGPUR, OCTOBER 19",
+   "text": "THE OCTOBER 14 surrender of CPI(Maoist) Central Committee leader Mallojula Venugopal Rao alias Bhupati alias Sonu came amid differences within the embattled organisation over leadership and the way forward. Police Saidit was aletter, sent tothemby a surrendered Maoist, Asin\n\nRajaram Kumar alias Anil, that played a key role in persuading Bhupatiand60 cadres to lay down arms and join the mainstream. In his letter addressed to Bhupati, Asin, 37, wrote, \"Dear Comrade, I know you have immense love and compassion for the people and your comrades. You are fundamentally a sensitive litterateur, not a guerrilla, for whom the people have always beenimportant. You, too, do not desire bloodshed.\" Asin and his wife Anju Sulya Jale (28) alias Sonia - both of",
+   "n_words": 120,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 11.7,
+ "flags": []
+}

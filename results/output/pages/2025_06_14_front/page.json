@@ -1,0 +1,439 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_14_front",
+ "source_file": "2025-06-14_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-14_front.png",
+ "date": "2025-06-14",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 214,
+  "mean_line_conf": 89.79762255974472,
+  "orphan_words": 8,
+  "body_words_total": 787
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      691,
+      4126,
+      1085
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      1113,
+      4148,
+      1236
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      1305,
+      3559,
+      1454
+     ],
+     [
+      3251,
+      1505,
+      3696,
+      2171
+     ],
+     [
+      3742,
+      1855,
+      4125,
+      1929
+     ],
+     [
+      3741,
+      2019,
+      4181,
+      2164
+     ]
+    ],
+    "layout_words": 116
+   },
+   "headline_raw": "Israel strikes Iran\nn-sites, takes out\nits military brass",
+   "deck_raw": "Tehran retaliates with drone swarm,\nKhamenei warns of \u2018severe punishment\u2019",
+   "body_raw": "JON GAMBRELL,\nJOSEFFEDERMAN\n& JULIAFRANKEL\nDUBAI, JUNE 13\n\nISRAEL ATTACKED Iran early\nFriday with abarrage of airstrikes\nthat tookout top military officers\nand hit nuclear and missile sites,\ncalling it just the beginning and\nraising the potential for an all-out\nwar between the two bitter\nMiddle East adversaries,\nIt appeared to be the most\nsignificant attack Iran has faced\nsince its 1980s war with Iraq.\nIran quickly retaliated, sending a\nswarm of drones at Israel as\nSupreme Leader Ayatollah Ali\nKhamenei warned of \u201csevere\npunishment\u201d.\nIran had been censured by\n\nRELATED REPORTS\nPAGES 12 & 14\n\nthe UN's atomic watchdog a day\nearlier for not complying with\nobligations meant to prevent it\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.06896551724138,
+   "ocr_low_conf_share": 0.0603448275862069,
+   "headline": "Israel strikes Iran n-sites, takes out its military brass",
+   "deck": "Tehran retaliates with drone swarm, Khamenei warns of 'severe punishment'",
+   "byline": "JON GAMBRELL,; JOSEFFEDERMAN; & JULIAFRANKEL; DUBAI, JUNE 13",
+   "text": "ISRAEL ATTACKED Iran early Friday with abarrage of airstrikes that tookout top military officers and hit nuclear and missile sites, calling it just the beginning and raising the potential for an all-out war between the two bitter Middle East adversaries, It appeared to be the most significant attack Iran has faced since its 1980s war with Iraq. Iran quickly retaliated, sending a swarm of drones at Israel as Supreme Leader Ayatollah Ali Khamenei warned of \"severe punishment\". Iran had been censured by\n\nRELATED REPORTS\n\nthe UN's atomic watchdog a day earlier for not complying with obligations meant to prevent it",
+   "n_words": 100,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      366,
+      753,
+      1205,
+      813
+     ],
+     [
+      1343,
+      754,
+      2185,
+      814
+     ],
+     [
+      390,
+      858,
+      3128,
+      1223
+     ]
+    ],
+    "deck_boxes": [
+     [
+      348,
+      696,
+      1226,
+      734
+     ],
+     [
+      1301,
+      697,
+      2228,
+      735
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      3087,
+      1356,
+      3116
+     ],
+     [
+      395,
+      5748,
+      4099,
+      6033
+     ]
+    ],
+    "layout_words": 158
+   },
+   "headline_raw": "collected, results likely in 72 hours\nis on, accident bureau team at spot\nThe grief, the wait",
+   "deck_raw": "SAMPLES OF KIN OF 219 PASSENGERS\nSEARCH FORCOCKPIT VOICE RECORDER",
+   "body_raw": "FULL COVERAGE, PAGES 6, 7,10 & 12\n\nAn Investor Education and Awareness Initiative | SIP - Systematic Investment Plan\nVisit httos:/Awww.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should\nonly deal with registered Mutual Funds, details of which can be verified on the SEBI website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out\nto the AMCs and/or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint\nthrough the SCORES portal on https//scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the\nresolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https//smartodr.in/login.",
+   "ocr_conf": 93.42405063291139,
+   "ocr_low_conf_share": 0.0189873417721519,
+   "headline": "collected, results likely in 72 hours is on, accident bureau team at spot The grief, the wait",
+   "deck": "SAMPLES OF KIN OF 219 PASSENGERS SEARCH FORCOCKPIT VOICE RECORDER",
+   "byline": "FULL COVERAGE, PAGES 6, 7,10 & 12",
+   "text": "An Investor Education and Awareness Initiative SIP - Systematic Investment Plan Visit httos:/Awww.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and/or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through the SCORES portal on https//scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https//smartodr.in/login.",
+   "n_words": 150,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1286,
+      759,
+      1775
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1858,
+      634,
+      1928
+     ],
+     [
+      319,
+      1976,
+      764,
+      2478
+     ],
+     [
+      320,
+      2529,
+      764,
+      3072
+     ]
+    ],
+    "layout_words": 142
+   },
+   "headline_raw": "The day after,\nthe agonising\nhours: Families\nline up for\nDNA tests to\nidentify kin",
+   "deck_raw": "",
+   "body_raw": "PARIMAL DABHI\nAHMEDABAD, JUNE 13\n\nTHE DAY after Air India\u2019s\nLondon-bound Al 171 crashed\nsoon after taking off from\nAhmedabad, staff at the BJ\nMedical College, where the air-\ncraft fell and broke into pieces,\nushered a solemn group of peo-\nple into a large hail on the\nground floor of the main build-\ning and seated them on rows of\nbenches where the students\nusually write their exams.\nThis was a test of a different\n\nThese were family members\nand relatives of many of the 241\npassengers and crew who had\ndied in Thursday's crash \u2014arriv-\ning from different parts of the\ncountry, waiting to provide their\nDNA samples so that they could\nidentify whatever was left of\ntheir loved ones,\nAccording to rescue person-\nnel, most of the bodies were\ncharred beyond recognition, and\nmany died with their seatbelts\nstillon.",
+   "ocr_conf": 92.02112676056338,
+   "ocr_low_conf_share": 0.028169014084507043,
+   "headline": "The day after, the agonising hours: Families line up for DNA tests to identify kin",
+   "deck": "",
+   "byline": "PARIMAL DABHI; AHMEDABAD, JUNE 13",
+   "text": "THE DAY after Air India's London-bound Al 171 crashed soon after taking off from Ahmedabad, staff at the BJ Medical College, where the aircraft fell and broke into pieces, ushered a solemn group of people into a large hail on the ground floor of the main building and seated them on rows of benches where the students usually write their exams. This was a test of a different\n\nThese were family members and relatives of many of the 241 passengers and crew who had died in Thursday's crash - arriving from different parts of the country, waiting to provide their DNA samples so that they could identify whatever was left of their loved ones, According to rescue personnel, most of the bodies were charred beyond recognition, and many died with their seatbelts stillon.",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      1288,
+      2683,
+      1585
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      1660,
+      2152,
+      1806
+     ],
+     [
+      1786,
+      1859,
+      2231,
+      2243
+     ],
+     [
+      2317,
+      1670,
+      2675,
+      1704
+     ],
+     [
+      2411,
+      1747,
+      2584,
+      1775
+     ]
+    ],
+    "layout_words": 65
+   },
+   "headline_raw": "At crash site, flight data\nrecorder found, likely to\nprovide leads for probe",
+   "deck_raw": "",
+   "body_raw": "SUKALP SHARMA\n& RITU SHARMA\nNEW DELHI, AHMEDABAD,\nJUNE 13\n\nONE OF the black boxes of the Air\nIndia Boeing 787-8 aircraft has\nbeen recovered from the crash\nsite in Ahmedabad by the on-site\nteam of the Aircraft Accident\nInvestigation Bureau (AAIB),\nwhich is leading the investiga-\ntion into the worst aviation dis-\naster involving an Indian airline\nin decades.\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "ocr_conf": 89.29230769230769,
+   "ocr_low_conf_share": 0.06153846153846154,
+   "headline": "At crash site, flight data recorder found, likely to provide leads for probe",
+   "deck": "",
+   "byline": "SUKALP SHARMA; & RITU SHARMA; NEW DELHI, AHMEDABAD,; JUNE 13",
+   "text": "ONE OF the black boxes of the Air India Boeing 787-8 aircraft has been recovered from the crash site in Ahmedabad by the on-site team of the Aircraft Accident Investigation Bureau (AAIB), which is leading the investigation into the worst aviation disaster involving an Indian airline in decades.\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "n_words": 53,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      1804,
+      3172,
+      2124
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      2175,
+      3189,
+      2247
+     ],
+     [
+      2762,
+      2295,
+      3206,
+      3114
+     ]
+    ],
+    "layout_words": 111
+   },
+   "headline_raw": "Difficult time,\nstay strong:\nPM to families\nat hospital",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nAHMEDABAD, JUNE 13\n\nPRIME MINISTER Narendra\nModi reached Ahmedabad on\nFriday and met the relatives of\nthose killed and the lone sur-\nvivor in the Air India plane crash\nthe day before, and chaired a \u201cre-\nview meeting\u201d with Gujarat\nChief Minister Bhupendra Patel,\nstate and Central ministers, and\nsenior officials.\nHe also met the medical stu-\ndents who were injured at the site\nofcrashin BJ Medical College and\ncurrently undergoing treatment\nat the Ahmedabad Civil Hospital.\nThose he met during the day in-\ncluded Anjaliben, wife of Gujarat\nex-CM Vijay Rupani who was\namong the 241 who died in the\ncrash in Meghaninagar.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.4054054054054,
+   "ocr_low_conf_share": 0.018018018018018018,
+   "headline": "Difficult time, stay strong: PM to families at hospital",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; AHMEDABAD, JUNE 13",
+   "text": "PRIME MINISTER Narendra Modi reached Ahmedabad on Friday and met the relatives of those killed and the lone survivor in the Air India plane crash the day before, and chaired a \"review meeting\" with Gujarat Chief Minister Bhupendra Patel, state and Central ministers, and senior officials. He also met the medical students who were injured at the site ofcrashin BJ Medical College and currently undergoing treatment at the Ahmedabad Civil Hospital. Those he met during the day included Anjaliben, wife of Gujarat ex-CM Vijay Rupani who was among the 241 who died in the crash in Meghaninagar.",
+   "n_words": 97,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2241,
+      4168,
+      2574
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2652,
+      3538,
+      2722
+     ],
+     [
+      3250,
+      2771,
+      3690,
+      3122
+     ],
+     [
+      3740,
+      2613,
+      4180,
+      3115
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "Operation Rising Lion\ntests Khamenei, raises\nquestions on regime",
+   "deck_raw": "",
+   "body_raw": "CRAJAMOHAN\nNEW DELHI, JUNE 13\n\nISRAEL'S UNPRECEDENTED at-\ntack on Iran's nuclear infrastruc-\nture, including its scientists, ne-\ngotiators, missile bases and\nmilitary leadership, marksa dra-\nmaticescalation in the long-sim-\nmering conflict between these\ntwosworn enemies in the Middle\nEast, with far-reaching implica-\n\ntions for regional stability.\nThe irresistible force, Israel, is\nfinally locked in along-expected\na \u2014. showdown with\n2 the immovable\n= object, the Islamic\n> @ | Republic of Iran.\n\u201c Unlike previ-\nous military ex-\nchanges, Israel insists that\nOperation Rising Lionis not aone-\noff show of force. Declaring that\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.65306122448979,
+   "ocr_low_conf_share": 0.10204081632653061,
+   "headline": "Operation Rising Lion tests Khamenei, raises questions on regime",
+   "deck": "",
+   "byline": "CRAJAMOHAN; NEW DELHI, JUNE 13",
+   "text": "ISRAEL'S UNPRECEDENTED attack on Iran's nuclear infrastructure, including its scientists, negotiators, missile bases and military leadership, marksa dramaticescalation in the long-simmering conflict between these twosworn enemies in the Middle East, with far-reaching implications for regional stability. The irresistible force, Israel, is finally locked in along-expected a -. showdown with 2 the immovable = object, the Islamic > @ Republic of Iran. \" Unlike previous military exchanges, Israel insists that Operation Rising Lionis not aoneoff show of force. Declaring that",
+   "n_words": 79,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2356,
+      2695,
+      2655
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2457,
+      2712,
+      2656,
+      2768
+     ]
+    ],
+    "body_boxes": [
+     [
+      1785,
+      2729,
+      2065,
+      2799
+     ],
+     [
+      1783,
+      2849,
+      2227,
+      3120
+     ],
+     [
+      1962,
+      5428,
+      2345,
+      5468
+     ],
+     [
+      1963,
+      5535,
+      2314,
+      5575
+     ],
+     [
+      2463,
+      2769,
+      2692,
+      2915
+     ],
+     [
+      2273,
+      3007,
+      2718,
+      3113
+     ]
+    ],
+    "layout_words": 59
+   },
+   "headline_raw": "She wanted to surprise\nhusband on his birthday,\nrescheduled her flight",
+   "deck_raw": "N Harpreet",
+   "body_raw": "ANANDMOHAN J\nBHOPAL, JUNE 13\n\nTHE WHATSAPP message was\nsimple, but filled with warmth\nonly family can convey: \u201cHappy\njourney Harpreet beta.\u201d Those\nwords, sent on a family\nWhatsApp group Thursday\nmoming, would become the last\n\nWell-suited for\n\naccumulation\n\n\u201cKaur Hora\n\u2018 _wasamong\nHl the 242 0n\n. board\n\nblessing Harpreet Kaur Hora (30)\nwould receive before she\nCONTINUED ONPAGE 2",
+   "ocr_conf": 83.1639344262295,
+   "ocr_low_conf_share": 0.14754098360655737,
+   "headline": "She wanted to surprise husband on his birthday, rescheduled her flight",
+   "deck": "N Harpreet",
+   "byline": "ANANDMOHAN J; BHOPAL, JUNE 13",
+   "text": "THE WHATSAPP message was simple, but filled with warmth only family can convey: \"Happy journey Harpreet beta.\" Those words, sent on a family WhatsApp group Thursday moming, would become the last\n\nWell-suited for\n\naccumulation\n\n\"Kaur Hora ' _wasamong. board\n\nblessing Harpreet Kaur Hora (30) would receive before she",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      647,
+      5451,
+      896,
+      5577
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Scan to\nknow more or\ncontact your\nMFD / RIA",
+   "ocr_conf": 82.2,
+   "ocr_low_conf_share": 0.2,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Scan to know more or contact your MFD / RIA",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 11.2,
+ "flags": []
+}

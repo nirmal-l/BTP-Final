@@ -1,0 +1,585 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_14_front",
+ "source_file": "2025-10-14_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-14_front.png",
+ "date": "2025-10-14",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 196,
+  "mean_line_conf": 86.48334423662925,
+  "orphan_words": 179,
+  "body_words_total": 769
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      608,
+      694,
+      764,
+      734
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "@w\u2014_",
+   "ocr_conf": 25.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      378,
+      744,
+      572,
+      779
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "DECISION",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "DECISION",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      786,
+      2701,
+      1134
+     ]
+    ],
+    "deck_boxes": [
+     [
+      814,
+      696,
+      2612,
+      753
+     ],
+     [
+      809,
+      1181,
+      2708,
+      1242
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      2451,
+      1162,
+      2598
+     ],
+     [
+      2317,
+      2463,
+      2675,
+      2497
+     ],
+     [
+      2412,
+      2540,
+      2581,
+      2568
+     ],
+     [
+      809,
+      2650,
+      1253,
+      3119
+     ],
+     [
+      1785,
+      2790,
+      2227,
+      3025
+     ],
+     [
+      1787,
+      3064,
+      2033,
+      3092
+     ],
+     [
+      397,
+      5662,
+      3349,
+      6125
+     ]
+    ],
+    "layout_words": 279
+   },
+   "headline_raw": "Hostages back, prisoners freed;\nTrump says long nightmare over",
+   "deck_raw": "U.S., EGYPT, TURKEY, QATAR SIGN CEASEFIRE DOCUMENT\nYou can be alittle bit nicer, Bibi... you\u2019re not at war anymore: Trump to Netanyahu",
+   "body_raw": "NIDAL AL-MUGHRABI\n& MAAYAN LUBELL\nCAIRO, JERUSALEM,\nOCTOBER 13\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nHAMAS FREED the last living\nIsraeli hostages from Gaza on\nMonday under a ceasefire deal\nand Israel senthome busloads of\nPalestinian detainees, as US\nPresident Donald Trump told\nIsrael's Parliament that peace\nhad arrived in the \u201choly land\u201d.\nThe israeli military said it had\nreceived all 20 hostages con-\nfirmed to be alive, after their\ntransfer from Gaza by the Red\n\nMoS Kirti Vardhan Singh with\nPresident Trump in Sharm\nel-Sheikh. The PM, in a post\non X, said Indiasupports\nTrump\u2019s\u2018sincere efforts to\nbring peace to the region\u2019. Pri\n\nREPORT, PAGE 2\n\nAn Investor Education and Awareness Initiative | SIP - Systematic Investment Plan\nVisit https//www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement\nto invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website\n(www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and/or Investor Relations Officers.\nAdditionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint\nthrough the SCORES portal on https://scores sebi.gov.in/, SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its\nstatus. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any\ncomplaint on the Smart ODR on https//smartodr.in/login. To learn more about SIP, visit: hdfcfund.corn/sip\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.",
+   "ocr_conf": 92.83870967741936,
+   "ocr_low_conf_share": 0.025089605734767026,
+   "headline": "Hostages back, prisoners freed; Trump says long nightmare over",
+   "deck": "U.S., EGYPT, TURKEY, QATAR SIGN CEASEFIRE DOCUMENT You can be alittle bit nicer, Bibi... you're not at war anymore: Trump to Netanyahu",
+   "byline": "NIDAL AL-MUGHRABI; & MAAYAN LUBELL; CAIRO, JERUSALEM,; OCTOBER 13; BUSINESS AS USUAL",
+   "text": "By UNNY\n\nHAMAS FREED the last living Israeli hostages from Gaza on Monday under a ceasefire deal and Israel senthome busloads of Palestinian detainees, as US President Donald Trump told Israel's Parliament that peace had arrived in the \"holy land\". The israeli military said it had received all 20 hostages confirmed to be alive, after their transfer from Gaza by the Red\n\nMoS Kirti Vardhan Singh with President Trump in Sharm el-Sheikh. The PM, in a post on X, said Indiasupports Trump's'sincere efforts to bring peace to the region'. Pri\n\nREPORT, PAGE 2\n\nAn Investor Education and Awareness Initiative SIP - Systematic Investment Plan Visit https//www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and/or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through the SCORES portal on https://scores sebi.gov.in/, SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https//smartodr.in/login. To learn more about SIP, visit: hdfcfund.corn/sip Mutual Fund investments are subject to market risks, read all scheme related documents carefully.",
+   "n_words": 265,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      773,
+      4178,
+      999
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2764,
+      698,
+      4137,
+      736
+     ]
+    ],
+    "body_boxes": [
+     [
+      2765,
+      1032,
+      3174,
+      1292
+     ],
+     [
+      2759,
+      1504,
+      3206,
+      2124
+     ]
+    ],
+    "layout_words": 77
+   },
+   "headline_raw": "Trade, energy, AI: India, Canada\ntake series of steps to restore ties",
+   "deck_raw": "ANAND HOLDS TALKS IN DELHI, CONSENSUS ON A \u2018NEW ROADMAP\u2019",
+   "body_raw": "Both underline\n\u2018respect foreach\nother\u2019s concerns\nand sensitivities\u2019\n\nAMID THEstrain inties withthe\nUS over the Trump administra-\ntion's imposition of tariffs and\nthe \u201congoing global economic\nuncertainty\u201d, India Monday sig-\nnalled the revival of bilateral re-\nlations with Canada as the two\nsides agreed on a roadmap to\ndeepen cooperation intrade, in-\nvestment, agriculture, science\nand technology, avil nuclear col-\nlaboration, artificial intelligence,\ncritical minerals and energy.\nCanada\u2019s Foreign Minister\nAnita Anand, who reached\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.98717948717949,
+   "ocr_low_conf_share": 0.05128205128205128,
+   "headline": "Trade, energy, AI: India, Canada take series of steps to restore ties",
+   "deck": "ANAND HOLDS TALKS IN DELHI, CONSENSUS ON A 'NEW ROADMAP'",
+   "byline": "",
+   "text": "Both underline 'respect foreach other's concerns and sensitivities'\n\nAMID THEstrain inties withthe US over the Trump administration's imposition of tariffs and the \"ongoing global economic uncertainty\", India Monday signalled the revival of bilateral relations with Canada as the two sides agreed on a roadmap to deepen cooperation intrade, investment, agriculture, science and technology, avil nuclear collaboration, artificial intelligence, critical minerals and energy. Canada's Foreign Minister Anita Anand, who reached",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      475,
+      889,
+      611,
+      918
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BIHAR",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BIHAR",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      362,
+      977,
+      701,
+      1344
+     ]
+    ],
+    "layout_words": 34,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "@ Bhagalpur victims\u2019\nlawyer, SC from general\nseat in PK\u2019s second list\n@ How Chirag Paswan\noutflanked his allies\nin the NDA\n@ In Kishanganj, two\n\u2018non-citizens\u2019 flagged,\nmake it to voter list P7",
+   "ocr_conf": 88.79411764705883,
+   "ocr_low_conf_share": 0.08823529411764706,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "@ Bhagalpur victims' lawyer, SC from general seat in PK's second list @ How Chirag Paswan outflanked his allies in the NDA @ In Kishanganj, two 'non-citizens' flagged, make it to voter list P7",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1559,
+      726,
+      1849
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Indian team\nheaded back\nto Washington\nfor trade talks",
+   "ocr_conf": 95.88888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Indian team headed back to Washington for trade talks",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1487,
+      695,
+      1520
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\u2018NOT HURT CHINA\u2019",
+   "ocr_conf": 94.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "'NOT HURT CHINA'",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3434,
+      1766,
+      3927,
+      1835
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3293,
+      1861,
+      4141,
+      2092
+     ]
+    ],
+    "layout_words": 51
+   },
+   "headline_raw": "Hitting the reset button",
+   "deck_raw": "",
+   "body_raw": "THE CHILL in bilateral : Ottawa, the two sides have\nrelations owing to the | pressed the reset button,\nthenTrudeaugovernment\u2019s = movingtorestorestability in\ncharges against Indianow : ties and cooperation amid the\nappears tobe in the past. : fallout of the Trump tariffs,\nWith the change of guardin : globaleconomicuncertainty.",
+   "ocr_conf": 79.9,
+   "ocr_low_conf_share": 0.18,
+   "headline": "Hitting the reset button",
+   "deck": "",
+   "byline": "",
+   "text": "THE CHILL in bilateral: Ottawa, the two sides have relations owing to the pressed the reset button, thenTrudeaugovernment's = movingtorestorestability in charges against Indianow: ties and cooperation amid the appears tobe in the past.: fallout of the Trump tariffs, With the change of guardin: globaleconomicuncertainty.",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1937,
+      674,
+      2007
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTAMISHRA\nNEW DELHI, OCTOBER 13",
+   "ocr_conf": 57.666666666666664,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "RAVI DUTTAMISHRA; NEW DELHI, OCTOBER 13",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      2055,
+      764,
+      3112
+     ]
+    ],
+    "layout_words": 123,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SIGNALLING A likely thaw in\ntrade talks with the US, Indian\nnegotiators are set to reach\nWashington this week to bridge\ndifferences with American ne-\ngotiators and inch closer to a\ntrade deal, a senior government\nofficial said Monday. This comes\nafter newly appointed US\nAmbassador-designate Sergio\nGor met Prime Minister\nNarendra Modi, External Affairs\nMinister S Jaishankar, as well as\nCommerce Secretary Rajesh\nAgrawal over the weekend.\nWhile it's unclear if the up-\ncoming meeting with the United\nStates Trade Representative\n(USTR) will be a formal round of\nnegotiations, India has ex-\npressed willingness to step up\nenergy imports from the US to\nresolve Washington's concerns\nover New Delhi\u2019s imports of\nRussian oil.\nOfficials from both the US\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.07317073170732,
+   "ocr_low_conf_share": 0.024390243902439025,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "SIGNALLING A likely thaw in trade talks with the US, Indian negotiators are set to reach Washington this week to bridge differences with American negotiators and inch closer to a trade deal, a senior government official said Monday. This comes after newly appointed US Ambassador-designate Sergio Gor met Prime Minister Narendra Modi, External Affairs Minister S Jaishankar, as well as Commerce Secretary Rajesh Agrawal over the weekend. While it's unclear if the upcoming meeting with the United States Trade Representative (USTR) will be a formal round of negotiations, India has expressed willingness to step up energy imports from the US to resolve Washington's concerns over New Delhi's imports of Russian oil. Officials from both the US",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      2214,
+      4172,
+      2568
+     ],
+     [
+      3297,
+      2931,
+      3566,
+      3013
+     ],
+     [
+      3297,
+      3015,
+      3621,
+      3098
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3302,
+      2600,
+      3630,
+      2660
+     ],
+     [
+      3302,
+      2729,
+      3675,
+      2775
+     ],
+     [
+      3300,
+      2767,
+      3694,
+      2921
+     ]
+    ],
+    "body_boxes": [
+     [
+      2762,
+      2612,
+      3205,
+      3114
+     ],
+     [
+      3301,
+      2629,
+      3664,
+      2707
+     ],
+     [
+      3297,
+      2940,
+      3621,
+      2978
+     ],
+     [
+      3769,
+      2729,
+      4131,
+      2921
+     ]
+    ],
+    "layout_words": 77
+   },
+   "headline_raw": "EPFO allows 100% withdrawal of\neligible balance, eases corpus access\nAANcHALMAGAZINE FEWER CATEGORIES, FLEXIBLE NORMS\nHowine [595]\nEducation and | 7s tye\nmarriage",
+   "deck_raw": "Essential needs(illness, /\nHousing needs 1)\n- y=\nSpecial circumstances (@)\nIriminidin Sciwice porou",
+   "body_raw": "IN A significant change in the\nwithdrawal conditions forover30\ncroremembers of theEmployees\u2019\nProvident Fund Organisation\n(EPFO), the retirement fund\nbody\u2019s Central Board of Trustees,\nin its 238th meeting Monday,\nstreamlined the categories for\ndrawing funds to just three \u2014es-\nsential needs (illness, education,\nmarriage); housing needs; and\n\u2018special circumstances\u2019 \u2014 from the\nCONTINUED ONPAGE 2\n\nEssential needs (illness, \u00a9\neducation, marriage) \u00ab\n\nHousing | Syrs| 1yr\n\nwithdraw up to 100 per\ncent of \u2018eligible balance\u2019\nm@ Members must earmark\n25% of contributions",
+   "ocr_conf": 86.46341463414635,
+   "ocr_low_conf_share": 0.12195121951219512,
+   "headline": "EPFO allows 100% withdrawal of eligible balance, eases corpus access AANcHALMAGAZINE FEWER CATEGORIES, FLEXIBLE NORMS Howine [595] Education and 7s tye marriage",
+   "deck": "Essential needs(illness, / Housing needs 1) Special circumstances (@) Iriminidin Sciwice porou",
+   "byline": "",
+   "text": "IN A significant change in the withdrawal conditions forover30 croremembers of theEmployees' Provident Fund Organisation (EPFO), the retirement fund body's Central Board of Trustees, in its 238th meeting Monday, streamlined the categories for drawing funds to just three - essential needs (illness, education, marriage); housing needs; and 'special circumstances' - from the\n\nEssential needs (illness, \u00a9 education, marriage) \u00ab\n\nHousing Syrs 1yr\n\nwithdraw up to 100 per cent of 'eligible balance' m@ Members must earmark 25% of contributions",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      2409,
+      1724,
+      2486
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      2517,
+      1705,
+      2795
+     ],
+     [
+      1295,
+      2887,
+      1741,
+      3113
+     ]
+    ],
+    "layout_words": 45
+   },
+   "headline_raw": "THE EDITORIAL PAGE",
+   "deck_raw": "",
+   "body_raw": "HOPE INGAZA\nTrump, disruptor-in-chief,\nbecomes the unlikely\npeacemaker; what next\ndepends on Hamas and\nIsrael moving to Phase 2\nPAGES\n\nCross. The announcement\nprompted cheering, hugging and\nweeping among thousands\nwaiting at \u201cHostage Square\u201d in\nTel Aviv. In Gaza, thousands of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.86666666666666,
+   "ocr_low_conf_share": 0.044444444444444446,
+   "headline": "THE EDITORIAL PAGE",
+   "deck": "",
+   "byline": "HOPE INGAZA",
+   "text": "Trump, disruptor-in-chief, becomes the unlikely peacemaker; what next depends on Hamas and Israel moving to Phase 2 PAGES\n\nCross. The announcement prompted cheering, hugging and weeping among thousands waiting at \"Hostage Square\" in Tel Aviv. In Gaza, thousands of",
+   "n_words": 39,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2472,
+      2883,
+      2624,
+      2927
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2467,
+      2976,
+      2645,
+      3013
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "\u2018We aveet this\nt.97 tet",
+   "deck_raw": "",
+   "body_raw": "fingers crossed,",
+   "ocr_conf": 76.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "'We aveet this t.97 tet",
+   "deck": "",
+   "byline": "",
+   "text": "fingers crossed,",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 11.1,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,820 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_26_front",
+ "source_file": "2025-07-26_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-26_front.png",
+ "date": "2025-07-26",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 414,
+  "mean_line_conf": 89.51723572674183,
+  "orphan_words": 25,
+  "body_words_total": 1551
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3255,
+      698,
+      4021,
+      731
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "RS NOTICE MAY NOT BE CONSIDERED",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "RS NOTICE MAY NOT BE CONSIDERED",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      818,
+      786,
+      3160,
+      1463
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      695,
+      1860,
+      744
+     ],
+     [
+      1791,
+      1174,
+      2289,
+      1222
+     ]
+    ],
+    "body_boxes": [
+     [
+      1790,
+      1304,
+      2078,
+      1374
+     ],
+     [
+      1788,
+      1423,
+      2230,
+      1933
+     ],
+     [
+      1788,
+      1938,
+      2230,
+      2408
+     ],
+     [
+      2318,
+      1504,
+      2677,
+      1927
+     ],
+     [
+      2275,
+      2017,
+      2717,
+      2408
+     ]
+    ],
+    "layout_words": 213
+   },
+   "headline_raw": "iT | a a\nIne of creait, trade talks, direct flights:\n| 5 7\nOd, WIUIZZU Mark turmMaround in ties\nen 7 PM Guest of Honour at Maldives Independence Day toda\n& \u00bb [9 _ focusing on consolidating coc\nDIVYAA = eration in areas of trade, defer\nNEW DELHI, JULY 25 E Chill to and infrastructure.\n; \u2014\u2014\u2014 |& Besides FTA negotiatio:\nINDIAIS proud to be the most \"4 @ warmth Modi also announced that t",
+   "deck_raw": "ALL-WEATHER FRIENDSHIP: MODI\nPM Guest of Honour",
+   "body_raw": "DIVYAA\nNEW DELHI, JULY 25\n\nINDIA IS proud to be the most\ntrusted friend of the Maldives,\nPrime Minister Narendra Modi\nsaid Friday after announcing a\nRs 4,850-crore line of credit to\nthe island nation.\nA day after sealing the Free\nTrade Agreement (FTA) with the\nUnited Kingdom, India also an-\nnounced the launch of talks on\nan FTA with Maldives during the\nPM\u2019s two-day state visit to the\ncountry.\n\n\"Mausam chahe jaisa bhi ho\n(whatever the weather may\nbe)... our friendship will always\nremain bright and clear. India\nwill continue to support the de-\nvelopment of Maldives\u2019 defence\ncapabilities,\u201d Modi said, address-\ning a joint press conference\nalongside Maldivian President\nMohamed Muizzu.\nThis marked a significant\nturnaround in the relationship\n\nTHE VISIT marks a defin-\ning reset in ties that had\ncome understrain al-\nmost 20 months ago.\nArguably, New Delhi's\nsustained efforts, includ-\ning its assistance to the\nisland nation to deal with\neconomic hardship,\nhelped bring the rela-\ntions back on track.\n\nwhich had seen some unease in\nthe beginning of last year.\n\u201cPeace, stability, and prosper-\nity in the Indian Ocean region are\nour shared goals. Together,\nthrough the Colombo Security\nConclave, we will strengthen re-\ngional maritime security,\" Modi\nsaid, inhisremarks after the two\nleaders held wide-ranging talks",
+   "ocr_conf": 91.62910798122066,
+   "ocr_low_conf_share": 0.028169014084507043,
+   "headline": "Ine of creait, trade talks, direct flights: Od, WIUIZZU Mark turmMaround in ties en 7 PM Guest of Honour at Maldives Independence Day toda & \u00bb [9 _ focusing on consolidating coc DIVYAA = eration in areas of trade, defer NEW DELHI, JULY 25 E Chill to and infrastructure.; - - - & Besides FTA negotiatio: INDIAIS proud to be the most \"4 @ warmth Modi also announced that t",
+   "deck": "ALL-WEATHER FRIENDSHIP: MODI PM Guest of Honour",
+   "byline": "DIVYAA; NEW DELHI, JULY 25",
+   "text": "INDIA IS proud to be the most trusted friend of the Maldives, Prime Minister Narendra Modi said Friday after announcing a Rs 4,850-crore line of credit to the island nation. A day after sealing the Free Trade Agreement (FTA) with the United Kingdom, India also announced the launch of talks on an FTA with Maldives during the PM's two-day state visit to the country.\n\n\"Mausam chahe jaisa bhi ho (whatever the weather may be)... our friendship will always remain bright and clear. India will continue to support the development of Maldives' defence capabilities,\" Modi said, addressing a joint press conference alongside Maldivian President Mohamed Muizzu. This marked a significant turnaround in the relationship\n\nTHE VISIT marks a defining reset in ties that had come understrain almost 20 months ago. Arguably, New Delhi's sustained efforts, including its assistance to the island nation to deal with economic hardship, helped bring the relations back on track.\n\nwhich had seen some unease in the beginning of last year. \"Peace, stability, and prosperity in the Indian Ocean region are our shared goals. Together, through the Colombo Security Conclave, we will strengthen regional maritime security,\" Modi said, inhisremarks after the two leaders held wide-ranging talks",
+   "n_words": 199,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      372,
+      823,
+      700,
+      953
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY\nTwo cheers for that 400d old\nimport from Britain -\nRhewliiomectea: =m,",
+   "ocr_conf": 74.28571428571429,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY Two cheers for that 400d old import from Britain - Rhewliiomectea: =m,",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2298,
+      1175,
+      3204,
+      1235
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2437,
+      1350,
+      2627,
+      1439
+     ],
+     [
+      2761,
+      1266,
+      3206,
+      2401
+     ]
+    ],
+    "layout_words": 133
+   },
+   "headline_raw": "at Maldives Independence Day today",
+   "deck_raw": "",
+   "body_raw": "Chill to\n|@ warmth\n\nfocusing on consolidating coop-\neration in areas of trade, defence\nand infrastructure.\nBesides FTA negotiations,\nModi also announced that the\ntwocountries will work towards\nfinalising a bilateral investment\ntreaty. Later, addressing a media\nbriefing, Foreign Secretary\nVikram Misri said that both sides\nexpect this FTA to be completed\n\u201cfairly quickly\u201d.\nThe Maldives holds an im-\nportant place in India's\n\u2018Neighbourhood First\u2019 policy,\nModi said, underlining that mu-\ntual cooperation in defence and\nsecurity is a testament to the\nmutual trust. \u201cIndia will always\nsupport the Maldives to\nstrengthen its defence capabili-\nties,\u201d he said.\nIn his remarks, President\nMuizzu \u2014 who had visited India\nin October last year, signifying a\nthawin bilateral ties\u2014 said: \"Iam\nalso pleased to announcethe ini-\ntiation of negotiations for a free\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.3731343283582,
+   "ocr_low_conf_share": 0.11940298507462686,
+   "headline": "at Maldives Independence Day today",
+   "deck": "",
+   "byline": "",
+   "text": "Chill to @ warmth\n\nfocusing on consolidating cooperation in areas of trade, defence and infrastructure. Besides FTA negotiations, Modi also announced that the twocountries will work towards finalising a bilateral investment treaty. Later, addressing a media briefing, Foreign Secretary Vikram Misri said that both sides expect this FTA to be completed \"fairly quickly\". The Maldives holds an important place in India's 'Neighbourhood First' policy, Modi said, underlining that mutual cooperation in defence and security is a testament to the mutual trust. \"India will always support the Maldives to strengthen its defence capabilities,\" he said. In his remarks, President Muizzu - who had visited India in October last year, signifying a thawin bilateral ties - said: \"Iam also pleased to announcethe initiation of negotiations for a free",
+   "n_words": 126,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1448,
+      746,
+      1535
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "GURUGRAM DIGITAL\nARREST SCAM",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "GURUGRAM DIGITAL; ARREST SCAM",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1565,
+      737,
+      1954
+     ]
+    ],
+    "deck_boxes": [
+     [
+      366,
+      2011,
+      720,
+      2054
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      2370,
+      706,
+      2446
+     ],
+     [
+      323,
+      2529,
+      611,
+      2601
+     ],
+     [
+      318,
+      2650,
+      763,
+      3586
+     ]
+    ],
+    "layout_words": 132
+   },
+   "headline_raw": "Court rejects\nbail plea of\nkey accused,\npoints to bank\nchairman role",
+   "deck_raw": "An Rr noteT Kare paath\nDigital scam trail (racked: Crores move in\nninutes across hanks state borders: officiok",
+   "body_raw": "The Indian Express report\npublished on June 30\n\nRITUSARIN\nNEW DELHI, JULY 25\n\nA COURT in Gurugram has re-\nJectedthesecond bailapplication\nof a former cooperative bank di-\nrector from Hyderabad in a Rs5.8-\ncrore digital arrest scam case\nwhile noting that \u201cthe chairman\nof the bank is also involved\u201d ac-\ncording to the accused's disclosure\nstatement and has \u201cto be joined\ninto the (police) investigation\u201d.\nIn the order rejecting bail on\nJuly 21, Judicial Magistrate Arun\nDabla found the allegations in\nthe casetobe \u201cgrave and serious\u201d\nand stated that the accused,\nSamudrala Venkateswarlu,com-\nmitted a \u201csocio economic of-\nfence which has deep rooted im-\npact on the society\u201d.\nThe scam, which targeted a\ntop advertising executive, was at\nthe heartof a series of investiga-\ntive reports published by\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.33333333333333,
+   "ocr_low_conf_share": 0.022727272727272728,
+   "headline": "Court rejects bail plea of key accused, points to bank chairman role",
+   "deck": "An Rr noteT Kare paath Digital scam trail (racked: Crores move in ninutes across hanks state borders: officiok",
+   "byline": "RITUSARIN; NEW DELHI, JULY 25",
+   "text": "The Indian Express report published on June 30\n\nA COURT in Gurugram has re-Jectedthesecond bailapplication of a former cooperative bank director from Hyderabad in a Rs5.8- crore digital arrest scam case while noting that \"the chairman of the bank is also involved\" according to the accused's disclosure statement and has \"to be joined into the (police) investigation\". In the order rejecting bail on July 21, Judicial Magistrate Arun Dabla found the allegations in the casetobe \"grave and serious\" and stated that the accused, Samudrala Venkateswarlu,committed a \"socio economic offence which has deep rooted impact on the society\". The scam, which targeted a top advertising executive, was at the heartof a series of investigative reports published by",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      1608,
+      4145,
+      2120
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2217,
+      3665,
+      2326
+     ],
+     [
+      3249,
+      2374,
+      3697,
+      2844
+     ],
+     [
+      3980,
+      2295,
+      4136,
+      2402
+     ],
+     [
+      3742,
+      2493,
+      4182,
+      2837
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "Process to remove\nJustice Varma will\nbegin in LS, has to\nbe joint call: Govt",
+   "deck_raw": "",
+   "body_raw": "LIZ MATHEW\n& APURVAVISHWANATH\nNEW DELHI, JULY 25\n\nTHE NOTICE for removal of\nJustice Yashwant Varmais likely\nto be taken up in the Lok Sabha,\nwith that \u201creceived\u201d by former\nVice-President Jagdeep\nDhankhar in the Rajya Sabha un-\nlikely to be considered.\nThe announcement by\nDhankhar, as Chairman of the\nRajya Sabha, that he had \u201cre-\nceived\u201d a notice for the removal\nof Justice Varma from 63\n\nJustice\nYashwant\nVarma\n\nOpposition MPs is believed to\nhave triggered theseries ofevents\nleading to his resignation as V-P.\nSpeaking to reporters Friday,\nParliamentary Affairs Minister\nKiren Rijiju said: \u201cAll the political\nparties have agreed that the re-\nmoval of Justice Yashwant Varma\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.76106194690266,
+   "ocr_low_conf_share": 0.017699115044247787,
+   "headline": "Process to remove Justice Varma will begin in LS, has to be joint call: Govt",
+   "deck": "",
+   "byline": "LIZ MATHEW; & APURVAVISHWANATH; NEW DELHI, JULY 25",
+   "text": "THE NOTICE for removal of Justice Yashwant Varmais likely to be taken up in the Lok Sabha, with that \"received\" by former Vice-President Jagdeep Dhankhar in the Rajya Sabha unlikely to be considered. The announcement by Dhankhar, as Chairman of the Rajya Sabha, that he had \"received\" a notice for the removal of Justice Varma from 63\n\nJustice Yashwant Varma\n\nOpposition MPs is believed to have triggered theseries ofevents leading to his resignation as V-P. Speaking to reporters Friday, Parliamentary Affairs Minister Kiren Rijiju said: \"All the political parties have agreed that the removal of Justice Yashwant Varma",
+   "n_words": 98,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      2553,
+      2220,
+      2763
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2846,
+      1246,
+      2958
+     ],
+     [
+      811,
+      3006,
+      1252,
+      3594
+     ],
+     [
+      2098,
+      2942,
+      2176,
+      2974
+     ]
+    ],
+    "layout_words": 96
+   },
+   "headline_raw": "1in 3 US smartphone imports now\nmade in India, China\u2019s lead shrinks",
+   "deck_raw": "",
+   "body_raw": "AGGAM WALIA\n& SOUMYARENDRABARIK\nNEW DELHI, JULY 25\n\nINDIA\u2019S SHARE in US smart-\nphone imports surged to nearly\n36 per cent in the first five\nmonths of 2025, from about 11\nper cent in 2024. China, which\ncontinues to dominate the prod-\nuct category, saw its share drop\nfrom 82 per cent to 49 per cent\nover the same period.\nIndia\u2019s growing share \u2014now\n1 in 3, driven largely by Apple\niPhones \u2014 comes amid ongoing\ntrade talks with the US. While\nsmartphones are India\u2019s top ex-\nport to the US by value, President\n\n(in %)",
+   "ocr_conf": 91.53125,
+   "ocr_low_conf_share": 0.041666666666666664,
+   "headline": "1in 3 US smartphone imports now made in India, China's lead shrinks",
+   "deck": "",
+   "byline": "AGGAM WALIA; & SOUMYARENDRABARIK; NEW DELHI, JULY 25",
+   "text": "INDIA'S SHARE in US smartphone imports surged to nearly 36 per cent in the first five months of 2025, from about 11 per cent in 2024. China, which continues to dominate the product category, saw its share drop from 82 per cent to 49 per cent over the same period. India's growing share - now 1 in 3, driven largely by Apple iPhones - comes amid ongoing trade talks with the US. While smartphones are India's top export to the US by value, President",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      2557,
+      2712,
+      2959
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      2994,
+      2707,
+      3037
+     ]
+    ],
+    "body_boxes": [
+     [
+      2276,
+      3125,
+      2700,
+      3195
+     ],
+     [
+      2271,
+      3244,
+      2716,
+      4300
+     ]
+    ],
+    "layout_words": 145
+   },
+   "headline_raw": "Be patriots...\nfocus on causes\nhere: HC junks\nCPM plea for\nGaza protest",
+   "deck_raw": "Smacks of bias: CPM",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, JULY 25\n\nDISMISSING Apleaby the CPI(M)\nagainst Mumbai Police\u2019s refusal\nto allow a protest against the al-\nleged genocide in Gaza, aBombay\nHigh Court bench on Friday ob-\nserved that instead of being\n\u201cshort-sighted\u201d, the petitioner\nshould focus on issues in India.\nIn oral remarks, Justice\nRavindra V Ghuge, heading atwo-\njudge bench, said, \u201cLook at your\nown country. Be patriots. This is\nNot patriotism. Speak up for the\ncauses in our own country.\u201d\nThebenchsaid that petitioner\nCPI(M) had no locus standi to\nchallenge the police decision as\nit was not an applicant seeking\npermission for the protest.\nOnJune 17, police hadrejected\nan application of the All India\nPeace and Solidarity Foundation\n(AIPSF) to stage a protest on the\nGaza issue at south Mumbai's\nAzad Maidan, which is a desig-\nnated site for protests and rallies.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.63888888888889,
+   "ocr_low_conf_share": 0.013888888888888888,
+   "headline": "Be patriots... focus on causes here: HC junks CPM plea for Gaza protest",
+   "deck": "Smacks of bias: CPM",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, JULY 25",
+   "text": "DISMISSING Apleaby the CPI(M) against Mumbai Police's refusal to allow a protest against the alleged genocide in Gaza, aBombay High Court bench on Friday observed that instead of being \"short-sighted\", the petitioner should focus on issues in India. In oral remarks, Justice Ravindra V Ghuge, heading atwo-judge bench, said, \"Look at your own country. Be patriots. This is Not patriotism. Speak up for the causes in our own country.\" Thebenchsaid that petitioner CPI(M) had no locus standi to challenge the police decision as it was not an applicant seeking permission for the protest. OnJune 17, police hadrejected an application of the All India Peace and Solidarity Foundation (AIPSF) to stage a protest on the Gaza issue at south Mumbai's Azad Maidan, which is a designated site for protests and rallies.",
+   "n_words": 130,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      2558,
+      3178,
+      2615
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2765,
+      2652,
+      3186,
+      2817
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "GOVT BLOCKS25\nOTTs OVER OBSCENE,\nPORN CONTENT\nPAGE6",
+   "ocr_conf": 88.375,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "GOVT BLOCKS25; OTTs OVER OBSCENE,; PORN CONTENT",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1344,
+      2814,
+      2052,
+      2917
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      3363,
+      1739,
+      3594
+     ],
+     [
+      1787,
+      3363,
+      2227,
+      3587
+     ]
+    ],
+    "layout_words": 54
+   },
+   "headline_raw": "SHAREINU.S. SMARTPHONE IMPORTS",
+   "deck_raw": "",
+   "body_raw": "Donald Trump has threatened a\n25 per cent tariff on Indian-\nmade iPhones.\nUS smartphone imports from\nIndiajumped by overthree times\nyear-on-year to 21.3 million units\n\nbetween January and May this\nyear, according to data from the\nUS Intemational Trade Commis-\nsion (USITC) In value terms (CIF),\nimports of Indian-made\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.75925925925925,
+   "ocr_low_conf_share": 0.05555555555555555,
+   "headline": "SHAREINU.S. SMARTPHONE IMPORTS",
+   "deck": "",
+   "byline": "",
+   "text": "Donald Trump has threatened a 25 per cent tariff on Indian-made iPhones. US smartphone imports from Indiajumped by overthree times year-on-year to 21.3 million units\n\nbetween January and May this year, according to data from the US Intemational Trade Commission (USITC) In value terms (CIF), imports of Indian-made",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2765,
+      2910,
+      4172,
+      3105
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2765,
+      3165,
+      3014,
+      3235
+     ],
+     [
+      2763,
+      3285,
+      3205,
+      3676
+     ],
+     [
+      3741,
+      3127,
+      4181,
+      3628
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "RBI Gov: US Fed chair doing good job,\ncentral bank independence important",
+   "deck_raw": "",
+   "body_raw": "HITESH VYAS\nMUMBAI, JULY 25\n\nAMID THE ongoing feud be-\ntween US President Donald\nTrump and Federal Reserve\nChairman Jerome Powell,\nReserve Bank of India Governor\nSanjay Malhotra on Friday ap-\npreciated the Fed chair for doing\na\u201cgood job\u201d.\n\u201cI don't think he needs ad-\nvice. I think he is doing a very\n\ngood job. Maintaining the inde-\npendence of the central bank is\nvery important. I think he has\ndone a commendable job,\u201d\nMalhotra said on Friday, when\nasked what advice he would give\nPowell to deal with Trump.\nHe was responding to aques-\ntion asked by Anant Goenka,\nExecutive Director, The Indian\nExpress Group, at the Financial\nExpress Modern BFSI Summit in\nMumbai.",
+   "ocr_conf": 94.35652173913043,
+   "ocr_low_conf_share": 0.0,
+   "headline": "RBI Gov: US Fed chair doing good job, central bank independence important",
+   "deck": "",
+   "byline": "HITESH VYAS; MUMBAI, JULY 25",
+   "text": "AMID THE ongoing feud between US President Donald Trump and Federal Reserve Chairman Jerome Powell, Reserve Bank of India Governor Sanjay Malhotra on Friday appreciated the Fed chair for doing a\"good job\". \"I don't think he needs advice. I think he is doing a very\n\ngood job. Maintaining the independence of the central bank is very important. I think he has done a commendable job,\" Malhotra said on Friday, when asked what advice he would give Powell to deal with Trump. He was responding to aquestion asked by Anant Goenka, Executive Director, The Indian Express Group, at the Financial Express Modern BFSI Summit in Mumbai.",
+   "n_words": 105,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      3661,
+      2202,
+      3997
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      4628,
+      1676,
+      4698
+     ],
+     [
+      1296,
+      4748,
+      1746,
+      5059
+     ],
+     [
+      1786,
+      4589,
+      2227,
+      4934
+     ],
+     [
+      1787,
+      5013,
+      2223,
+      5046
+     ]
+    ],
+    "layout_words": 80
+   },
+   "headline_raw": "Seven students killed\nas roof of govt school\ncollapses in Rajasthan",
+   "deck_raw": "",
+   "body_raw": "PARULKULSHRESTHA\nJHALAWAR, JULY 25\n\nTHE ROOF of a government pri-\nmary school in Piplodi village of\nRajasthan\u2019s Jhalawar district col-\nlapsed Friday morning, killing\nseven students and leaving eight\ncritically injured,\nThe incident prompted the\nstate\u2019s Bhajan Lal Sharma gov-\n\nernment toordera probe and led\nto the suspension of five govern-\nment teachers.\nThe incidentoccurred at 8:30\nam, when students of the\nGovernment Higher Primary\nSchool gathered for morning\nprayers. One student described\nCONTINUED ON PAGE 2\n\nRELATED REPORT p3",
+   "ocr_conf": 90.4625,
+   "ocr_low_conf_share": 0.0375,
+   "headline": "Seven students killed as roof of govt school collapses in Rajasthan",
+   "deck": "",
+   "byline": "PARULKULSHRESTHA; JHALAWAR, JULY 25",
+   "text": "THE ROOF of a government primary school in Piplodi village of Rajasthan's Jhalawar district collapsed Friday morning, killing seven students and leaving eight critically injured, The incident prompted the state's Bhajan Lal Sharma government toordera probe and led to the suspension of five government teachers. The incidentoccurred at 8:30 am, when students of the Government Higher Primary School gathered for morning prayers. One student described\n\nRELATED REPORT p3",
+   "n_words": 68,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      3730,
+      1222,
+      4039
+     ],
+     [
+      321,
+      4073,
+      1205,
+      4204
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4271,
+      609,
+      4341
+     ],
+     [
+      315,
+      4391,
+      762,
+      5058
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "Phase 1 over, 65 lakh\nelectors likely to be\ndropped from draft rolls\nEC: 22 lakh dead, 7 lakh duplications,\n35 lakh migrated, could not be traced",
+   "deck_raw": "",
+   "body_raw": "DAMINI NATH\nNEW DELHI, JULY 25\n\nAS THE first phase of the Special\nIntensive Revision (SIR) of Bihar\u2019s\nelectoral rolls concluded on\nFriday, the Election Commission\n(EC)said about 92% of 7.89 crore\nregistered electors in the state\nwould remain on the draft rolls\nto be published on August 1.\nAbout 8%, or approximately\n65 lakh names, are likely to be re-\nmoved from the draft rolls after\nthey were found to be either de-\nceased, registered in more than\none place, permanently mi-\ngrated to another place, or un-\ntraceable, according to the EC.\nThe poll panel said 7.23 crore",
+   "ocr_conf": 92.95,
+   "ocr_low_conf_share": 0.02,
+   "headline": "Phase 1 over, 65 lakh electors likely to be dropped from draft rolls EC: 22 lakh dead, 7 lakh duplications, 35 lakh migrated, could not be traced",
+   "deck": "",
+   "byline": "DAMINI NATH; NEW DELHI, JULY 25",
+   "text": "AS THE first phase of the Special Intensive Revision (SIR) of Bihar's electoral rolls concluded on Friday, the Election Commission (EC)said about 92% of 7.89 crore registered electors in the state would remain on the draft rolls to be published on August 1. About 8%, or approximately 65 lakh names, are likely to be removed from the draft rolls after they were found to be either deceased, registered in more than one place, permanently migrated to another place, or untraceable, according to the EC. The poll panel said 7.23 crore",
+   "n_words": 90,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      4378,
+      2714,
+      4460
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      4474,
+      2713,
+      4951
+     ],
+     [
+      2274,
+      4997,
+      2631,
+      5028
+     ]
+    ],
+    "layout_words": 40
+   },
+   "headline_raw": "STUDENT SUICIDES",
+   "deck_raw": "",
+   "body_raw": "SCISSUES GUIDELINES\nWf Institutions should engage\ncounsellor or psychologist\n@ Display helpline numbers\nprominently\n@ Staff should undergo\ntraining at least twice ayear\n@ Set up internal committee\nto take immediate action, and\nprovide psycho-social support\n\nFULL REPORT, PAGE 6",
+   "ocr_conf": 85.75,
+   "ocr_low_conf_share": 0.1,
+   "headline": "STUDENT SUICIDES",
+   "deck": "",
+   "byline": "SCISSUES GUIDELINES; FULL REPORT, PAGE 6",
+   "text": "Wf Institutions should engage counsellor or psychologist @ Display helpline numbers prominently @ Staff should undergo training at least twice ayear @ Set up internal committee to take immediate action, and provide psycho-social support",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      857,
+      4540,
+      1201,
+      4725
+     ]
+    ],
+    "deck_boxes": [
+     [
+      904,
+      4468,
+      1154,
+      4522
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      4787,
+      1252,
+      5051
+     ]
+    ],
+    "layout_words": 33
+   },
+   "headline_raw": "NOT\nCOUNTINBIHAR",
+   "deck_raw": "WHAT WILL",
+   "body_raw": "electors had submitted their\nforms, approximately 22 lakh of\nthe electors were found to have\npassed away, an estimated 7 lakh\nwere registered in more than\none location, and approximately\nCONTINUEDON PAGE 2",
+   "ocr_conf": 93.54545454545455,
+   "ocr_low_conf_share": 0.0,
+   "headline": "NOT COUNTINBIHAR",
+   "deck": "WHAT WILL",
+   "byline": "",
+   "text": "electors had submitted their forms, approximately 22 lakh of the electors were found to have passed away, an estimated 7 lakh were registered in more than one location, and approximately CONTINUEDON PAGE 2",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      5214,
+      2704,
+      5460
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      5546,
+      501,
+      5579
+     ],
+     [
+      321,
+      5696,
+      758,
+      5770
+     ],
+     [
+      320,
+      5816,
+      761,
+      6166
+     ],
+     [
+      805,
+      5500,
+      1249,
+      6159
+     ],
+     [
+      2272,
+      5501,
+      2717,
+      6160
+     ]
+    ],
+    "layout_words": 242
+   },
+   "headline_raw": "Restaurant named July 30, new house: Wayanad\nman who lost Il of family in landslide rebuilds life",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nSHAJU PHILIP\nMEPPADI (WAYANAD), JULY 25\n\nON JULY 30 last year, the cata-\nstrophic Wayanad landslides\nwiped out 11 members of his fam-\nily, including his wife and three\nchildren. But Kalathingal Noufal\ndecided to rebuild his life, brick by\nbrick.A year later, Noufal\u2019s story is\none of grit, determination and\nmassive community support.\n\nThe 43-year-old has found a\nnew partner in life, started a\nrestaurant \u2014 named \u2018July 30\u00b0 \u2014\nand got anew house.\nNoufal lived at Mundakkai,\nthe village in Kerala's Wayanad\ndistrict that was totally wiped\nout in the landslides that\nclaimed 298 lives, washed away\nhouses and buildings, and buried\nwhole families.\nOn the day of the tragedy,\nNoufal was in Oman, where he\nworked as a chef. The next day,\nhe flew back home, only to find\njust rubble where his house once\nstood. He soon learnt that his\n\nwife, parents and other close rel-\natives were among 11 of his fam-\nily tohave died inthe landslides.\n\u201c| had to go through the\ntrauma of seeing their bodies. Of\nthe 11, I could only identify five.\nThe rest were identified through\nDNA tests,\u201d he said.\nA few days after the tragedy,\nhe said, \u201cI made the decision that\nI should look forward. | realised\nthat my lost life, my family and\nbelongings will never come back.\nWhile lodged in a temporary\nbuilding, I decided not to dwell\non the tragedy and the loss.\u201d\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.52674897119341,
+   "ocr_low_conf_share": 0.04938271604938271,
+   "headline": "Restaurant named July 30, new house: Wayanad man who lost Il of family in landslide rebuilds life",
+   "deck": "",
+   "byline": "ANCHOR; SHAJU PHILIP; MEPPADI (WAYANAD), JULY 25",
+   "text": "ON JULY 30 last year, the catastrophic Wayanad landslides wiped out 11 members of his family, including his wife and three children. But Kalathingal Noufal decided to rebuild his life, brick by brick.A year later, Noufal's story is one of grit, determination and massive community support.\n\nThe 43-year-old has found a new partner in life, started a restaurant - named 'July 30\u00b0 - and got anew house. Noufal lived at Mundakkai, the village in Kerala's Wayanad district that was totally wiped out in the landslides that claimed 298 lives, washed away houses and buildings, and buried whole families. On the day of the tragedy, Noufal was in Oman, where he worked as a chef. The next day, he flew back home, only to find just rubble where his house once stood. He soon learnt that his\n\nwife, parents and other close relatives were among 11 of his family tohave died inthe landslides. \" had to go through the trauma of seeing their bodies. Of the 11, I could only identify five. The rest were identified through DNA tests,\" he said. A few days after the tragedy, he said, \"I made the decision that I should look forward. realised that my lost life, my family and belongings will never come back. While lodged in a temporary building, I decided not to dwell on the tragedy and the loss.\"",
+   "n_words": 227,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.1,
+ "flags": []
+}

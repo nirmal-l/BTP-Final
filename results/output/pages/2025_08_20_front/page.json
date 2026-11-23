@@ -1,0 +1,800 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_20_front",
+ "source_file": "2025-08-20_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-20_front.png",
+ "date": "2025-08-20",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 478,
+  "mean_line_conf": 90.12327271583905,
+  "orphan_words": 9,
+  "body_words_total": 1832
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      774,
+      4170,
+      1273
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3738,
+      1304,
+      4060,
+      1361
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      1345,
+      3664,
+      1454
+     ],
+     [
+      3251,
+      1505,
+      3692,
+      2448
+     ],
+     [
+      3739,
+      1409,
+      4148,
+      1579
+     ],
+     [
+      3735,
+      1662,
+      4183,
+      2442
+     ]
+    ],
+    "layout_words": 250
+   },
+   "headline_raw": "Govt to bring Bill\nto remove ministers\ndetained for 30 days\non serious charges",
+   "deck_raw": "IN PARLIAMENT",
+   "body_raw": "LIZ MATHEW\n& APURVAVISHWANATH\nNEW DELHI, AUGUST 19\n\nUNION HOME Minister Amit\nShah is expected to move in the\nLok Sabha on Wednesday the\nConstitution (130th Amen-\ndment) Bill, 2025, which seeks\nto remove a Central or State\nMinister who is facing allega-\ntions of corruption or serious of-\nfences and hasbeen detained for\nat least 30 days.\nThe Bill will amend Article 75\nof the Constitution, which pri-\nmarily deals with the appoint-\nment and responsibilities of the\nCouncil of Ministers, including\nthe Prime Minister.\n\u201cA Minister, who for any pe-\nriod of 30 consecutive days dur-\ning holding the office as such, is\narrested and detained in custody,\non allegation of committing an\noffence under any law for the\ntime being in force, which is\npunishable with imprisonment\n\nBILL TO BOOST\nEXPLORATION OF\nCRITICAL MINERALS\nCLEARS RS PAGE 5\n\nfor a term which may extend to\nfive years or more, shall be re-\nmoved from his office by the\nPresident on the advice of the\nPrime Minister to be tendered by\nthe 31st day after being takenin\nsuch custody,\u201d the Bill states.\nThe move comes against the\nbackdrop of the controversy that\nsurrounded the arrest in 2023 of\nV Senthil Balaji, a minister in\nTamil Nadu's DMK government.\nTamil Nadu Governor R N Ravi\nhad dismissed Balaji following\nhis arrest in an alleged money\nlaundering case. Chief Minister\nM KStalin had then reinstated\nBalaji after the Supreme Court\ngranted him bail. But after the\nCONTINUED ONPAGE 2",
+   "ocr_conf": 91.07228915662651,
+   "ocr_low_conf_share": 0.04417670682730924,
+   "headline": "Govt to bring Bill to remove ministers detained for 30 days on serious charges",
+   "deck": "IN PARLIAMENT",
+   "byline": "LIZ MATHEW; & APURVAVISHWANATH; NEW DELHI, AUGUST 19",
+   "text": "UNION HOME Minister Amit Shah is expected to move in the Lok Sabha on Wednesday the Constitution (130th Amendment) Bill, 2025, which seeks to remove a Central or State Minister who is facing allegations of corruption or serious offences and hasbeen detained for at least 30 days. The Bill will amend Article 75 of the Constitution, which primarily deals with the appointment and responsibilities of the Council of Ministers, including the Prime Minister. \"A Minister, who for any period of 30 consecutive days during holding the office as such, is arrested and detained in custody, on allegation of committing an offence under any law for the time being in force, which is punishable with imprisonment\n\nBILL TO BOOST EXPLORATION OF CRITICAL MINERALS CLEARS RS PAGE 5\n\nfor a term which may extend to five years or more, shall be removed from his office by the President on the advice of the Prime Minister to be tendered by the 31st day after being takenin such custody,\" the Bill states. The move comes against the backdrop of the controversy that surrounded the arrest in 2023 of V Senthil Balaji, a minister in Tamil Nadu's DMK government. Tamil Nadu Governor R N Ravi had dismissed Balaji following his arrest in an alleged money laundering case. Chief Minister M KStalin had then reinstated Balaji after the Supreme Court granted him bail. But after the",
+   "n_words": 230,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      631,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      816,
+      868,
+      3190,
+      1218
+     ]
+    ],
+    "deck_boxes": [
+     [
+      832,
+      697,
+      1553,
+      821
+     ],
+     [
+      1641,
+      697,
+      2376,
+      827
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1251,
+      1213,
+      1511
+     ],
+     [
+      810,
+      1620,
+      1141,
+      1690
+     ],
+     [
+      809,
+      1739,
+      1250,
+      2564
+     ],
+     [
+      1296,
+      2095,
+      1738,
+      2558
+     ],
+     [
+      1786,
+      2096,
+      2226,
+      2368
+     ],
+     [
+      1787,
+      2373,
+      2226,
+      2558
+     ]
+    ],
+    "layout_words": 231
+   },
+   "headline_raw": "Look forward to meeting Xi, says PM as\nIndia, China move on border, trade, flights",
+   "deck_raw": "3 NEW MECHANISMS\non border, de-escalation talks\nINDIAFLAGS CONCERNS\nover terror, Brahmaputra dam",
+   "body_raw": "Wang Yi meets\nModi who calls\nfor stable and\nconstructive ties\n\nSHUBHAJIT ROY\nNEW DELHI, AUGUST 19\n\nUNDERLINING THAT \u201cstable,\npredictable, constructive ties be-\ntween India and China will con-\ntribute significantly to regional\nas well as global peace and pros-\nperity\u201d, Prime Minister Narendra\nModi said Tuesday he was look-\ning forward to meeting Chinese\nPresident Xi Jinping in Tianjinon\nthe sidelines of the Shanghai\nCooperation Organisation lead-\ners\u2019 summit on August 31-\nSeptember 1.\nHis remarks came as Delhi\nand Beijing agreed on resump-\ntion of direct flights, border\ntrade, facilitating trade and in-\nvestments, and at least three\nborder-related new mecha-\nnisms, signalling headway made\nin rebuilding ties after five years\n\nofa tense border standoff.\nAfter visiting Chinese Foreign\nMinister Wang Yi called on him\nin New Delhi, Modi, in a post on\nX, said, \u201cGlad to meet Foreign\nMinister Wang Yi. Since my\nmeeting with President Xi in\nKazan last year, India-China re-\nlations have made steady\nprogress guided by respect for\neach other's interests and sensi-\ntivities. look forward to our next\n\nThe Prime Minister's Office\nsaid, \u201cPrime Minister empha-\nsised the importance of main-\ntaining peace and tranquillity on\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.23275862068965,
+   "ocr_low_conf_share": 0.034482758620689655,
+   "headline": "Look forward to meeting Xi, says PM as India, China move on border, trade, flights",
+   "deck": "3 NEW MECHANISMS on border, de-escalation talks INDIAFLAGS CONCERNS over terror, Brahmaputra dam",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, AUGUST 19",
+   "text": "Wang Yi meets Modi who calls for stable and constructive ties\n\nUNDERLINING THAT \"stable, predictable, constructive ties between India and China will contribute significantly to regional as well as global peace and prosperity\", Prime Minister Narendra Modi said Tuesday he was looking forward to meeting Chinese President Xi Jinping in Tianjinon the sidelines of the Shanghai Cooperation Organisation leaders' summit on August 31- September 1. His remarks came as Delhi and Beijing agreed on resumption of direct flights, border trade, facilitating trade and investments, and at least three border-related new mechanisms, signalling headway made in rebuilding ties after five years\n\nofa tense border standoff. After visiting Chinese Foreign Minister Wang Yi called on him in New Delhi, Modi, in a post on X, said, \"Glad to meet Foreign Minister Wang Yi. Since my meeting with President Xi in Kazan last year, India-China relations have made steady progress guided by respect for each other's interests and sensitivities. look forward to our next\n\nThe Prime Minister's Office said, \"Prime Minister emphasised the importance of maintaining peace and tranquillity on",
+   "n_words": 177,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      393,
+      1174,
+      659,
+      1272
+     ]
+    ],
+    "deck_boxes": [
+     [
+      508,
+      1174,
+      680,
+      1230
+     ]
+    ],
+    "body_boxes": [
+     [
+      323,
+      1452,
+      736,
+      1484
+     ],
+     [
+      321,
+      1987,
+      737,
+      2161
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "NOt On our bordey and s\nWith your blessings, Fore:\nistry can de ecalete\nPane? eee al ee Se",
+   "deck_raw": "ur border and so\nblessings, Foreias",
+   "body_raw": "EXPRESS NETWORK\n\nWHAT IS RECOURSE\nIF GOVERNOR KEEPS\nBILLS PENDING: SC\nPAGES 3,7",
+   "ocr_conf": 95.15384615384616,
+   "ocr_low_conf_share": 0.0,
+   "headline": "NOt On our bordey and s With your blessings, Fore: istry can de ecalete Pane? eee al ee Se",
+   "deck": "ur border and so blessings, Foreias",
+   "byline": "EXPRESS NETWORK; WHAT IS RECOURSE; IF GOVERNOR KEEPS; BILLS PENDING: SC; PAGES 3,7",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      397,
+      1202,
+      667,
+      1238
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "with your blessings, Forey",
+   "ocr_conf": 69.25,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "with your blessings, Forey",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      1249,
+      3198,
+      1599
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2764,
+      1701,
+      3094,
+      1771
+     ],
+     [
+      2759,
+      1821,
+      3206,
+      2559
+     ]
+    ],
+    "layout_words": 94
+   },
+   "headline_raw": "Jaishankar said\nTaiwan part of\nChina: Beijing;\nDelhi says Taipei\nties not affected",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, AUGUST 19\n\nBEIJING SAID Tuesday External\nAffairs Minister S Jaishankar told\nvisiting Chinese Foreign Minister\nWang Yi that \u201cTaiwan is part of\nChina\u201d and National Security\nAdvisor Ajit Doval conveyed that\nIndia \u201cconsistently adhered to\nthe one-China policy\u201d.\nResponding to these remarks\nin the Chinese readout of Wang\u2019s\nmeetings in New Delhi, official\nsources said there has been \u201cno\nchange\u201d in India\u2019s position on\nTaiwan and its ties with Taipei\nare focused on economy, tech-\nnology and culture.\nThe Chinese Foreign\nMinistry, in an English version of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.98947368421052,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Jaishankar said Taiwan part of China: Beijing; Delhi says Taipei ties not affected",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, AUGUST 19",
+   "text": "BEIJING SAID Tuesday External Affairs Minister S Jaishankar told visiting Chinese Foreign Minister Wang Yi that \"Taiwan is part of China\" and National Security Advisor Ajit Doval conveyed that India \"consistently adhered to the one-China policy\". Responding to these remarks in the Chinese readout of Wang's meetings in New Delhi, official sources said there has been \"no change\" in India's position on Taiwan and its ties with Taipei are focused on economy, technology and culture. The Chinese Foreign Ministry, in an English version of",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2320,
+      1964,
+      2665,
+      2022
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2320,
+      2045,
+      2654,
+      2476
+     ]
+    ],
+    "layout_words": 24
+   },
+   "headline_raw": "SERIES OF STEPS",
+   "deck_raw": "",
+   "body_raw": "THREEnew\nmechanisms to\nmanage border\nAGREE to discuss de-\nescalation at LAC\nFACIITATE trade and\ninvestment flows\nBORDER trade via\ndesignated points\nRESUMPTIONofdirect",
+   "ocr_conf": 92.04347826086956,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "SERIES OF STEPS",
+   "deck": "",
+   "byline": "",
+   "text": "THREEnew mechanisms to manage border AGREE to discuss deescalation at LAC FACIITATE trade and investment flows BORDER trade via designated points RESUMPTIONofdirect",
+   "n_words": 22,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2199,
+      461,
+      2256
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      2317,
+      761,
+      2457
+     ],
+     [
+      319,
+      2456,
+      717,
+      2510
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      2522,
+      762,
+      2605
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "SPORT",
+   "deck_raw": "GILLIN T20I TEAM\nAS VICE-CAPTAIN,\nSURYAKUMAR LEADS\nPAK WON'T TRAVEL",
+   "body_raw": "TO INDIA FOR HOCKEY\nASIA CUP PAGES 15, 16",
+   "ocr_conf": 92.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "SPORT",
+   "deck": "GILLIN T20I TEAM AS VICE-CAPTAIN, SURYAKUMAR LEADS PAK WON'T TRAVEL",
+   "byline": "TO INDIA FOR HOCKEY; ASIA CUP PAGES 15, 16",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2515,
+      4138,
+      2999
+     ],
+     [
+      3250,
+      3033,
+      4172,
+      3165
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3246,
+      3198,
+      3689,
+      3316
+     ],
+     [
+      3246,
+      3364,
+      3693,
+      4144
+     ],
+     [
+      3898,
+      3299,
+      4142,
+      3393
+     ],
+     [
+      3790,
+      3444,
+      4134,
+      3913
+     ],
+     [
+      3737,
+      3999,
+      4181,
+      4144
+     ]
+    ],
+    "layout_words": 171
+   },
+   "headline_raw": "Centre set to ban\nonline real money\ngaming, Bill likely\nin Parliament today\nSeeks to promote competitive e-sports,\ngame development via proposed law",
+   "deck_raw": "",
+   "body_raw": "SOUMYARENDRABARIK\nNEW DELHI, AUGUST 19\n\nTHE MINISTRY of Electronics and\nInformation Technology (MeitY)\nhas drafted a legislation which\ncould place a blanket ban on all\nonline real money gaming serv-\nices \u2014 where users can play\ngames after depositing money in\nthe form of a stake or a wager \u2014\nowing to growing concerns\nabout alleged money laundering\nthrough these services and their\nharmful societal impact, The\nIndian Express has learnt.\nThe proposed law, learnt to\nbe titled \u2018The Promotion and\nRegulation of Online Gaming\nBill, 2025\u2019, has been cleared by\nCabinet andis likely to be tabled\nin Parliament on Wednesday.\nThe Bill hasbeen drafted over\n\nGamingvs\n|@ e-sports\n\nTHE PROPOSAL to ban\nreal money gaming has\nbeen made keeping in\nview growing concerns\naround socio-economic\nand national security\nrisks that such platforms\ncould pose. The govern-\nment, meanwhile, is\nkeen to promote e-\nsports as a legitimate\ncompetitive sport.\n\nnational security concerns re-\nlated to online gaming plat-\nforms, including the use of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.0952380952381,
+   "ocr_low_conf_share": 0.02976190476190476,
+   "headline": "Centre set to ban online real money gaming, Bill likely in Parliament today Seeks to promote competitive e-sports, game development via proposed law",
+   "deck": "",
+   "byline": "SOUMYARENDRABARIK; NEW DELHI, AUGUST 19",
+   "text": "THE MINISTRY of Electronics and Information Technology (MeitY) has drafted a legislation which could place a blanket ban on all online real money gaming services - where users can play games after depositing money in the form of a stake or a wager - owing to growing concerns about alleged money laundering through these services and their harmful societal impact, The Indian Express has learnt. The proposed law, learnt to be titled 'The Promotion and Regulation of Online Gaming Bill, 2025', has been cleared by Cabinet andis likely to be tabled in Parliament on Wednesday. The Bill hasbeen drafted over\n\nGamingvs @ e-sports\n\nTHE PROPOSAL to ban real money gaming has been made keeping in view growing concerns around socio-economic and national security risks that such platforms could pose. The government, meanwhile, is keen to promote e-sports as a legitimate competitive sport.\n\nnational security concerns related to online gaming platforms, including the use of",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2790,
+      1235,
+      3241
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3322,
+      724,
+      3468
+     ],
+     [
+      318,
+      3519,
+      760,
+      4259
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "No objections filed by\npolitical parties: EC;\non ground, workers\nsay raised red flags",
+   "deck_raw": "",
+   "body_raw": "DAMINI NATH, SANTOSH\nSINGH & ASAD REHMAN\nDARBHANGA, ARA,\nAURANGABAD AUGUST 19\n\nIN ITS daily statements since\nAugust 1, the Election\nCommission of India has been\nmaintaining that none of the 1.6\nlakh booth-level agents (BLAs) ap-\npointed by political parties has\nfiled any claims and objections to\nthe recently published draft elec-\ntoral roll as part of Bihar\u2019s ongoing\nSpecial Intensive Revision (SIR).\nYet, on the ground, the BLAs\n\u2014 political workers meant to be\nthe eyes and ears of parties at the\nlevel of Assembly constituencies\nand booths \u2014 say they have been\nactively raising objections: from\nalleged duplication of voters to\nthe presence of \u2018fake voters\u2019 and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.04385964912281,
+   "ocr_low_conf_share": 0.043859649122807015,
+   "headline": "No objections filed by political parties: EC; on ground, workers say raised red flags",
+   "deck": "",
+   "byline": "DAMINI NATH, SANTOSH; SINGH & ASAD REHMAN; DARBHANGA, ARA,; AURANGABAD AUGUST 19",
+   "text": "IN ITS daily statements since August 1, the Election Commission of India has been maintaining that none of the 1.6 lakh booth-level agents (BLAs) appointed by political parties has filed any claims and objections to the recently published draft electoral roll as part of Bihar's ongoing Special Intensive Revision (SIR). Yet, on the ground, the BLAs - political workers meant to be the eyes and ears of parties at the level of Assembly constituencies and booths - say they have been actively raising objections: from alleged duplication of voters to the presence of 'fake voters' and",
+   "n_words": 96,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3798,
+      2238,
+      3866
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3914,
+      3174,
+      4032
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "EUROPE AT TRUMP TABLE",
+   "deck_raw": "",
+   "body_raw": "Italian PM Giorgia Meloni, European Commission President Ursula von der Leyen, Chancellor of Germany Friedrich Merz,\nFrench President Emmanuel Macron, Finland President Alexander Stubb, Ukrainian President Volodymyr Zelenskyy, NATO\nSecy General Mark Rutte during a meeting with US President Donald Trump at the Oval Office on Monday. x/@whiteHouse",
+   "ocr_conf": 94.10416666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EUROPE AT TRUMP TABLE",
+   "deck": "",
+   "byline": "",
+   "text": "Italian PM Giorgia Meloni, European Commission President Ursula von der Leyen, Chancellor of Germany Friedrich Merz, French President Emmanuel Macron, Finland President Alexander Stubb, Ukrainian President Volodymyr Zelenskyy, NATO Secy General Mark Rutte during a meeting with US President Donald Trump at the Oval Office on Monday. x/@whiteHouse",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1291,
+      4060,
+      3202,
+      4143
+     ],
+     [
+      1294,
+      4229,
+      2708,
+      4432
+     ],
+     [
+      1297,
+      4457,
+      2685,
+      4517
+     ],
+     [
+      1817,
+      4713,
+      2035,
+      4793
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1866,
+      4588,
+      2143,
+      4690
+     ],
+     [
+      1818,
+      4894,
+      2053,
+      4944
+     ]
+    ],
+    "body_boxes": [
+     [
+      1296,
+      4589,
+      1667,
+      4659
+     ],
+     [
+      1294,
+      4709,
+      1745,
+      5139
+     ],
+     [
+      1818,
+      4805,
+      2166,
+      4872
+     ],
+     [
+      1818,
+      4953,
+      2144,
+      4981
+     ],
+     [
+      1818,
+      5063,
+      2101,
+      5096
+     ],
+     [
+      2265,
+      4550,
+      2713,
+      5133
+     ],
+     [
+      2760,
+      4511,
+      3092,
+      4621
+     ],
+     [
+      2758,
+      4669,
+      3203,
+      5133
+     ]
+    ],
+    "layout_words": 188
+   },
+   "headline_raw": "CCST: russia may not WANT TOMAKEDEAL: TRUMP JD} THEGREAT TRUMPRESET ey crasamonan [LED\nCentre lists \u2018ineligible\u2019 ration card\nholders, asks states to remove them\nDetails matched with databases of taxpayers, car owners\n5.31 lakh",
+   "deck_raw": "FOUND HAVING\nRATION CARDS\n17.51 lakh",
+   "body_raw": "HARIKISHAN SHARMA\nNEW DELHI, AUGUST 19\n\nTHE CENTRAL government has\nfor the first time prepared a list\nof ration card holders who may\nnot qualify for benefits such as\nfree food grains since they are ei-\nther taxpayers, owners of four-\nwheelers or even directors in\ncompanies.\nThe Centre\u2019s Department of\nFood and Public Distribution has\narrived at sucha list by matching\n\nDirector Identification\nNumber holders\n\nfour-wheeler owners\n\nIncome Tax payers\n\nthe details of ration card holders\nwith databases of government\nentities such as the Income-Tax\ndepartment (taxpayers),\nMinistry of Corporate Affairs (di-\nrectors) and Ministry of Road\nTransport & Highways (four-\nwheeler owners).\nIn this exercise of cross-veri-\nfication, the department found\nthat 94.71 lakh ration card hold-\ners are taxpayers, 17.51 lakh are\nowners of four-wheelersand an-\nother 5.31 lakh ration card\nCONTINUED ON PAGE 6\n\nMANOJ CG\n& JATINANAND\nNEW DELHI, AUGUST 19\n\nPITCHING THE forthcoming\nVice-Presidential elections as an\n\u201cideological battle\u201d, the\nOpposition parties Wednesday\nnamed former Supreme Court\njudge Justice (retd)B Sudershan\nReddy as their candidate\nagainst NDA nominee\nCPRadhakrishnan.\nReddy, who retired from the\nSupreme Court in 2011, most\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.7989417989418,
+   "ocr_low_conf_share": 0.042328042328042326,
+   "headline": "CCST: russia may not WANT TOMAKEDEAL: TRUMP JD} THEGREAT TRUMPRESET ey crasamonan [LED Centre lists 'ineligible' ration card holders, asks states to remove them Details matched with databases of taxpayers, car owners",
+   "deck": "FOUND HAVING RATION CARDS",
+   "byline": "HARIKISHAN SHARMA; NEW DELHI, AUGUST 19",
+   "text": "THE CENTRAL government has for the first time prepared a list of ration card holders who may not qualify for benefits such as free food grains since they are either taxpayers, owners of four-wheelers or even directors in companies. The Centre's Department of Food and Public Distribution has arrived at sucha list by matching\n\nDirector Identification Number holders\n\nfour-wheeler owners\n\nIncome Tax payers\n\nthe details of ration card holders with databases of government entities such as the Income-Tax department (taxpayers), Ministry of Corporate Affairs (directors) and Ministry of Road Transport & Highways (four-wheeler owners). In this exercise of cross-verification, the department found that 94.71 lakh ration card holders are taxpayers, 17.51 lakh are owners of four-wheelersand another 5.31 lakh ration card\n\nMANOJ CG & JATINANAND NEW DELHI, AUGUST 19\n\nPITCHING THE forthcoming Vice-Presidential elections as an \"ideological battle\", the Opposition parties Wednesday named former Supreme Court judge Justice (retd)B Sudershan Reddy as their candidate against NDA nominee CPRadhakrishnan. Reddy, who retired from the Supreme Court in 2011, most",
+   "n_words": 168,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4335,
+      1235,
+      4633
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4708,
+      745,
+      4778
+     ],
+     [
+      317,
+      4826,
+      762,
+      5135
+     ],
+     [
+      807,
+      4667,
+      1247,
+      5132
+     ]
+    ],
+    "layout_words": 103
+   },
+   "headline_raw": "ICSSR to issue notice to\nCSDS over \u2018manipulation\u2019\nof Maharashtra poll data",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, AUGUST 19\n\nTHE INDIAN Council of Social\nScience Research (ICSSR) on\nTuesday said it willissuea show\ncause notice tothe Centre for the\nStudy of Developing Societies\nover an erroneous claim made\nby Sanjay Kumar \u2014 professor\nand co-director of Lokniti, a re-\n\nsearch programme at the CSDS\n\u2014inasocial media post that two\nconstituencies in Maharashtra\nhad shown a significant fall in\nthe numbers of voters between\nthe Lok Sabha and Assembly\npolls last year.\nThe ICSSR, which operates\nunder the aegis of the Ministry\nof Education, is the govern-\nment\u2019s apex body for research in\nCONTINUED ONPAGE 6",
+   "ocr_conf": 94.55339805825243,
+   "ocr_low_conf_share": 0.0,
+   "headline": "ICSSR to issue notice to CSDS over 'manipulation' of Maharashtra poll data",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, AUGUST 19",
+   "text": "THE INDIAN Council of Social Science Research (ICSSR) on Tuesday said it willissuea show cause notice tothe Centre for the Study of Developing Societies over an erroneous claim made by Sanjay Kumar - professor and co-director of Lokniti, a research programme at the CSDS - inasocial media post that two constituencies in Maharashtra had shown a significant fall in the numbers of voters between the Lok Sabha and Assembly polls last year. The ICSSR, which operates under the aegis of the Ministry of Education, is the government's apex body for research in",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5270,
+      4128,
+      5423
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5421,
+      499,
+      5494
+     ],
+     [
+      315,
+      5570,
+      757,
+      5687
+     ],
+     [
+      317,
+      5736,
+      758,
+      6166
+     ],
+     [
+      807,
+      5419,
+      1246,
+      5534
+     ],
+     [
+      806,
+      5579,
+      1247,
+      6163
+     ],
+     [
+      1293,
+      5420,
+      1735,
+      6167
+     ],
+     [
+      2759,
+      5421,
+      3201,
+      6168
+     ],
+     [
+      3246,
+      5421,
+      3689,
+      6161
+     ],
+     [
+      3735,
+      5422,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 527
+   },
+   "headline_raw": "How CBI case against Kejriwal ex-aide hit a wall in approver\u2019s bank locker",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nNIRBHAY THAKUR\nNEW DELHI, AUGUST 19\n\nIT STARTED with a raid nearly a\ndecade ago.\nOn December 15, 2015,\nsleuths from the CBI searched\nthe office and residence of for-\nmer Delhi Chief Minister Arvind\nKejriwal\u2019s ex-Principal Secretary\nRajendra Kumar ina case related\nto the award of contracts worth\nRs 9.5 crore between 2007 and\n2014 to a private company in al-\n\nleged violation of rules, The CBI\nalsosearched 14 locations linked\nto eight other accused in this\n\nAmong the accused was A K\nDuggal, who was a managing di-\nrector at the time of Intelligent\nCommunication Systems India\nLimited (ICSIL), a PSU through\nwhich the contracts under probe\nwere allegedly awarded to\nEndeavour Systems Pvt Ltd\n(ESPL). While Duggal was ini-\ntially an accused, he was granted\na pardon by a Delhi Court in\nNovember 2016 after the CBI\nnamed him an approver.\nAlong with the houses and\noffices raided, the CBI also\n\nsearched the bank lockers of all\nthe accused. While the contents\nof the lockers of all accused per-\nsons were eventually made\nknown to the court and to the\nother accused, what was found\ninside Duggal\u2019s locker still re-\nmains a mystery.\n\u201cWhat was in the locker?\u201d\nSpecial Judge Manisha Khurana\nKakkar, who is hearing the cor-\nruption case at Rouse Avenue\nCourt, asked the CBlon July 22 \u2014\nclose to a decade after the case\nwas lodged. \u201cWe don\u2019t know,\nyour honour,\u201d came the re-\nsponse of the CBI's counsel.\nThe judge asked the CBI to\nclarify whether the missing ma-\n\nterial was \u201cuntraceable\u201d.\n\u201cOtherwise, the matter won't\nproceed further,\u201d she said.\nIssuing notice for the\nInvestigating Officer to appear,\nthe judge listed the matter for\nAugust 26.\nCourt records trace the locker\nmystery back to 2015 when the\nCBI submitted a compliance re-\nport before the court mention-\ning that they had seized a \u201cstain-\nless locker key of a locker\nmaintained at SBI Civil Lines\u201d\nfrom the accused Kumar's resi-\ndence. A similar search con-\nducted at Duggal\u2019s residence re-\nsulted in two locker keys being\nfound: \u201cone Locker Key of Canara\n\nBank, Vikas Puri\u201d and another\n\u201cLocker Key No. 20756 of State\nBank of Patiala, near Janak\nCinema Hall, Janak Puri\u201d, the\nagency said.\nRecords show that the mys-\ntery unfolded in aseriesof court\nhearings:\nSEPTEMBER 2018: The CBI\ntold the court that they were\npreparing a list of \u201cun-relied\u201d\ndocuments \u2014 ie, records not\nused by the prosecution to build\nits case but can be accessed by\nthe accused.\nJULY 2019: Advocates Rahul\nTyagi and Mathew M Philip, who\nrepresented Kumar, asked for a\nlist of \u201cun-relied\u201d documents\n\nand alist of all witnesses whose\nstatements were recorded dur-\ning investigation.\nAPRIL 2022: The court di-\nrected the CBI to supply a list of\n\u201cun-relied\u201d documents, holding\nthat the accused were \u201centitled\nfor the same\u201d.\nAUGUST 2022: The court\ntook on record the listof\u201cun-re-\nlied\u201d documents. In Duggal\u2019s\ncase, this included printouts of\nemails, a debit card intimation,\na vehicle insurance certificate,\nbank documents, receipts of\npurchase of jewellery, such as di-\namonds, anda duplicate vehicle\nregistration. What was allegedly\nCONTINUED ON PAGE 6",
+   "ocr_conf": 92.16761904761904,
+   "ocr_low_conf_share": 0.03238095238095238,
+   "headline": "How CBI case against Kejriwal ex-aide hit a wall in approver's bank locker",
+   "deck": "",
+   "byline": "ANCHOR; NIRBHAY THAKUR; NEW DELHI, AUGUST 19",
+   "text": "IT STARTED with a raid nearly a decade ago. sleuths from the CBI searched the office and residence of former Delhi Chief Minister Arvind Kejriwal's ex-Principal Secretary Rajendra Kumar ina case related to the award of contracts worth Rs 9.5 crore between 2007 and 2014 to a private company in alleged violation of rules, The CBI alsosearched 14 locations linked to eight other accused in this\n\nAmong the accused was A K Duggal, who was a managing director at the time of Intelligent Communication Systems India Limited (ICSIL), a PSU through which the contracts under probe were allegedly awarded to Endeavour Systems Pvt Ltd (ESPL). While Duggal was initially an accused, he was granted a pardon by a Delhi Court in November 2016 after the CBI named him an approver. Along with the houses and offices raided, the CBI also\n\nsearched the bank lockers of all the accused. While the contents of the lockers of all accused persons were eventually made known to the court and to the other accused, what was found inside Duggal's locker still remains a mystery. \"What was in the locker?\" Special Judge Manisha Khurana Kakkar, who is hearing the corruption case at Rouse Avenue Court, asked the CBlon July 22 - close to a decade after the case was lodged. \"We don't know, your honour,\" came the response of the CBI's counsel. The judge asked the CBI to clarify whether the missing material was \"untraceable\". \"Otherwise, the matter won't proceed further,\" she said. Issuing notice for the Investigating Officer to appear, the judge listed the matter for August 26. Court records trace the locker mystery back to 2015 when the CBI submitted a compliance report before the court mentioning that they had seized a \"stainless locker key of a locker maintained at SBI Civil Lines\" from the accused Kumar's residence. A similar search conducted at Duggal's residence resulted in two locker keys being found: \"one Locker Key of Canara\n\nBank, Vikas Puri\" and another \"Locker Key No. 20756 of State Bank of Patiala, near Janak Cinema Hall, Janak Puri\", the agency said. Records show that the mystery unfolded in aseriesof court hearings: SEPTEMBER 2018: The CBI told the court that they were preparing a list of \"un-relied\" documents - ie, records not used by the prosecution to build its case but can be accessed by the accused. JULY 2019: Advocates Rahul Tyagi and Mathew M Philip, who represented Kumar, asked for a list of \"un-relied\" documents\n\nand alist of all witnesses whose statements were recorded during investigation. APRIL 2022: The court directed the CBI to supply a list of \"un-relied\" documents, holding that the accused were \"entitled for the same\". AUGUST 2022: The court took on record the listof\"un-relied\" documents. In Duggal's case, this included printouts of emails, a debit card intimation, a vehicle insurance certificate, bank documents, receipts of purchase of jewellery, such as diamonds, anda duplicate vehicle registration. What was allegedly",
+   "n_words": 488,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.2,
+ "flags": []
+}

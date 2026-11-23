@@ -1,0 +1,886 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_15_front",
+ "source_file": "2025-12-15_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-15_front.png",
+ "date": "2025-12-15",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 505,
+  "mean_line_conf": 89.3030911405195,
+  "orphan_words": 5,
+  "body_words_total": 1983
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4180,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 92.6,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      357,
+      936,
+      730,
+      1096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1154,
+      754,
+      1512
+     ],
+     [
+      322,
+      1586,
+      740,
+      1655
+     ],
+     [
+      364,
+      1730,
+      718,
+      1826
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@ PRIME MINISTER Narendra\nModi embarks ona three-\nnation tour \u2014 he will first\nvisit Jordan, then Ethiopia\nfollowed by Oman.\n@ MINISTRY OF Commerce\nand industry will release the\ntradeand Wholesale Price Index\ninflation data for November.\n\nTRACK THESE AND MORE ON\nWWW.INDIANEXPRESS.COM\n\nBusiness as Usual\nByEPUNNY",
+   "ocr_conf": 84.70833333333333,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "TRACK THESE AND MORE ON",
+   "text": "@ PRIME MINISTER Narendra Modi embarks ona three-nation tour - he will first visit Jordan, then Ethiopia followed by Oman. @ MINISTRY OF Commerce and industry will release the tradeand Wholesale Price Index inflation data for November.\n\nBusiness as Usual ByEPUNNY",
+   "n_words": 41,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2738,
+      1006,
+      4071,
+      1558
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2739,
+      938,
+      4172,
+      983
+     ]
+    ],
+    "body_boxes": [
+     [
+      2763,
+      1613,
+      3201,
+      2017
+     ],
+     [
+      2763,
+      2063,
+      3179,
+      2181
+     ],
+     [
+      2762,
+      2226,
+      3204,
+      3136
+     ],
+     [
+      3739,
+      2308,
+      4180,
+      3012
+     ],
+     [
+      3737,
+      3073,
+      4122,
+      3103
+     ]
+    ],
+    "layout_words": 220
+   },
+   "headline_raw": "11 killed in terror\nattack on Jewish\neventin Sydney",
+   "deck_raw": "~PM MODI JOINS WORLD LEADERS IN CONDEMNING ATTACK",
+   "body_raw": "One gunman shot\ndown, another\ncritical; act of evil,\nantisemitism,\nterrorism, Says\nPM Albanese\n\nKirsty Needham, Stella Qiu\n& Alasdair Pal\nSydney, December 14\n\nGUNMEN OPENED fire at a\nJewish holiday celebration at\nSydney\u2019s Bondi Beach on Sun-\nday, killing at least 11 people in\nwhat Australian officials de-\nscribed as a targeted antise-\nmitic terror attack.\nOne of the suspected\ngunmen was also killed. Asec-\nond was in critical condition\nand police were investigating\nwhether a third gunman was\ninvolved, New South Wales Po-\nlice Commissioner Mal Lanyon\ntold a press conference. Two\npolice officers were among 29\npeople taken to hospital with\ninjuries, he said.\nAuthorities said far more\npeople would have been killed\nwere it not for a bystander,\nidentified by local media as\nfruit shop owner Ahmed al-\n\nAhmed, 43, who was filmed\ncharging a gunman from be-\nhind, grappling with him and\nwrestinga rifle from his hands.\n\u201cThere are many, many people\nalive tonight as a result of his\nbravery,\u201d said Chris Minns, pre-\nmier of New South Wales state\nwhere Sydney is located, calling\nthe bystander \u201ca genuine hero\u201d.\nA bomb-disposal unit was\nworking on several suspected\nimprovised explosive devices,\nLanyonsaid. Mike Burgess, atop\nAustralian intelligence official,\nsaid one of the suspected at-\ntackers was known to authorities\n\u00bbCONTINUED ON PAGE2\n\nREPORTS, \u2018THE WORLD",
+   "ocr_conf": 91.11363636363636,
+   "ocr_low_conf_share": 0.03636363636363636,
+   "headline": "11 killed in terror attack on Jewish eventin Sydney",
+   "deck": "~PM MODI JOINS WORLD LEADERS IN CONDEMNING ATTACK",
+   "byline": "",
+   "text": "One gunman shot down, another critical; act of evil, antisemitism, terrorism, Says PM Albanese\n\nKirsty Needham, Stella Qiu & Alasdair Pal Sydney, December 14\n\nGUNMEN OPENED fire at a Jewish holiday celebration at Sydney's Bondi Beach on Sunday, killing at least 11 people in what Australian officials described as a targeted antisemitic terror attack. One of the suspected gunmen was also killed. Asecond was in critical condition and police were investigating whether a third gunman was involved, New South Wales Police Commissioner Mal Lanyon told a press conference. Two police officers were among 29 people taken to hospital with injuries, he said. Authorities said far more people would have been killed were it not for a bystander, identified by local media as fruit shop owner Ahmed al-\n\nAhmed, 43, who was filmed charging a gunman from behind, grappling with him and wrestinga rifle from his hands. \"There are many, many people alive tonight as a result of his bravery,\" said Chris Minns, premier of New South Wales state where Sydney is located, calling the bystander \"a genuine hero\". A bomb-disposal unit was working on several suspected improvised explosive devices, Lanyonsaid. Mike Burgess, atop Australian intelligence official, said one of the suspected attackers was known to authorities\n\nREPORTS, 'THE WORLD",
+   "n_words": 209,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      553,
+      2034,
+      722,
+      2084
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      553,
+      2078,
+      672,
+      2106
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "\u2018vom B\nFrom Bengal,",
+   "deck_raw": "",
+   "body_raw": "the lionel",
+   "ocr_conf": 83.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "'vom B From Bengal,",
+   "deck": "",
+   "byline": "",
+   "text": "the lionel",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      2271,
+      2710,
+      2487
+     ],
+     [
+      809,
+      2579,
+      1708,
+      2705
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      2738,
+      1145,
+      2814
+     ],
+     [
+      808,
+      2862,
+      1250,
+      3134
+     ],
+     [
+      1295,
+      2742,
+      1738,
+      3009
+     ],
+     [
+      1298,
+      3022,
+      1738,
+      3135
+     ],
+     [
+      1785,
+      2578,
+      2225,
+      2787
+     ],
+     [
+      1785,
+      2862,
+      2226,
+      3135
+     ],
+     [
+      2273,
+      2545,
+      2717,
+      3128
+     ]
+    ],
+    "layout_words": 199
+   },
+   "headline_raw": "From Ballia to Aurangabad, fans flock to\nWankhede for another No. 10 \u2014 Messi\nTendulkar: Indeed a golden moment\nfor Mumbai, Mumbaikars and India",
+   "deck_raw": "",
+   "body_raw": "Mihir Vasavda\nMumbai, December 14\n\nFOR THREE hours on Sunday,\ntheiconic cricket stadium here\nturned intoa football coliseum.\nAsis always the case on match\ndays, Wankhede Stadium was\nblue, but today the shade was\nlighter, the one associated with\n\nArgentine footballers. Thou-\nsands in the stands wore No.10\n\u2014 Sachin Tendulkar\u2019s number\nin these parts. But tonight it was\nfor another No.10 \u2014 global\nsporting superstar Lionel\nMessi.\n\nThe first leg of Messi's GOAT\nIndia Tour had descended into\nchaos in Kolkata on Saturday,\n\nSPORT PAGE14\nWHEN A 13-YR-OLD\nNUTMEGGED\nLUIS SUAREZ\n\nwith fans feeling cheated as\nmost of them didn\u2019t get to see\nthe one-of-a-kind footballer.\nOn Sunday, Mumbai got its fill\nof Messi. The World Cup\nwinner stepped onto the red\ncarpet laid out for him at 5:51\n\npm, and his grand entry\nbrought the roof down. Beside\nhim were his club teammates\nRodrigo de Paul and Luis Sua-\nrez. But all eyes were on Messi\nascameras kept flashing where\nthestarventured.\nShy as ever, the 5\u20197\u201d icon\nsmiled and waved. He would\nalso enthusiastically participate\ninakick-around with agroupof\nboys and girls, who were partof\nthe Project Mahadeva, an\ninitiative by Chief Minister\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 90.94949494949495,
+   "ocr_low_conf_share": 0.030303030303030304,
+   "headline": "From Ballia to Aurangabad, fans flock to Wankhede for another No. 10 - Messi Tendulkar: Indeed a golden moment for Mumbai, Mumbaikars and India",
+   "deck": "",
+   "byline": "",
+   "text": "Mihir Vasavda Mumbai, December 14\n\nFOR THREE hours on Sunday, theiconic cricket stadium here turned intoa football coliseum. Asis always the case on match days, Wankhede Stadium was blue, but today the shade was lighter, the one associated with\n\nArgentine footballers. Thou-sands in the stands wore No.10 - Sachin Tendulkar's number in these parts. But tonight it was for another No.10 - global sporting superstar Lionel Messi.\n\nThe first leg of Messi's GOAT India Tour had descended into chaos in Kolkata on Saturday,\n\nSPORT PAGE14 WHEN A 13-YR-OLD NUTMEGGED LUIS SUAREZ\n\nwith fans feeling cheated as most of them didn't get to see the one-of-a-kind footballer. On Sunday, Mumbai got its fill of Messi. The World Cup winner stepped onto the red carpet laid out for him at 5:51\n\npm, and his grand entry brought the roof down. Beside him were his club teammates Rodrigo de Paul and Luis Suarez. But all eyes were on Messi ascameras kept flashing where thestarventured. Shy as ever, the 5'7\" icon smiled and waved. He would also enthusiastically participate inakick-around with agroupof boys and girls, who were partof the Project Mahadeva, an initiative by Chief Minister",
+   "n_words": 192,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3343,
+      2403,
+      3664,
+      2480
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3282,
+      2553,
+      3392,
+      2637
+     ],
+     [
+      3252,
+      2853,
+      3543,
+      2897
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      2928,
+      3692,
+      3101
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "Sydney\u201d BondiBeach",
+   "deck_raw": "\u2018Sydney\nAirport\nsy?\nTHE WORLD",
+   "body_raw": "BROWN UNIVERSITY\nSHOOTING LEAVES\nTWO DEAD AND\nNINE INJURED",
+   "ocr_conf": 76.22222222222223,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "Sydney\" BondiBeach",
+   "deck": "'Sydney Airport sy? THE WORLD",
+   "byline": "BROWN UNIVERSITY; SHOOTING LEAVES; TWO DEAD AND; NINE INJURED",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2520,
+      736,
+      2826
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      2857,
+      677,
+      2932
+     ],
+     [
+      319,
+      2982,
+      762,
+      3410
+     ],
+     [
+      318,
+      3418,
+      764,
+      3845
+     ],
+     [
+      318,
+      3858,
+      761,
+      4480
+     ],
+     [
+      317,
+      4495,
+      763,
+      4640
+     ],
+     [
+      319,
+      4795,
+      759,
+      5049
+     ]
+    ],
+    "layout_words": 195
+   },
+   "headline_raw": "Citing \u2018weather\nconditions\u2019, SC\nasks lawyers to\nappear online",
+   "deck_raw": "",
+   "body_raw": "Apurva Vishwanath\nNew Delhi, December 14\n\nIN AN unprecedented move,\nthe Supreme Court issued acir-\ncular Sunday advising lawyers\nandlitigantsto appear virtually,\nciting \u201cprevailing weather con-\nditions\u201d, a day after Delhi\u2019s air\nquality plunged into the \u201cse-\nvere plus\u201d category triggering\nemergency measures across\nthe National Capital Region\n(NCR).\n\n\u201cIn view of the prevailing\nweather conditions, the\nHon\u2019bie Chief Justice of India\nhas advised, if convenient, the\nMembers of the Bar/Parties-in-\nPerson to avail hybrid mode of\nappearance through videocon-\nferencing facility in their\nmatters listed before the\nHon\u2019ble Courts,\u201d the circular\nstated.\n\nThe Supreme Court cur-\nrently has a video-conferenc-\ning facility for lawyers. How-\never, itislearnt that the need for\na separate circular was felt to\nensure uniformity across all\ncourts. Thisis the last week that\nthe apex court will function be-\nfore the 10-day winter break.\nOn Saturday, the Commis-\nsion for Air Quality Manage-\nment\u2019s sub-committee on the\nGraded Response Action Plan\n(GRAP) invoked Stage IV (Se-\nvere+) restrictions across Delhi-\nNCR.\n\nThis is the highest level of\nemergency curbs as the Air\nQuality Index crossed the\n450-mark.\n\nNATION PAGE4\nRS 1,000-CR CYBER\nFRAUD: 4 CHINESE\nAMONG 17 IN CBI\nCHARGE SHEET",
+   "ocr_conf": 92.87755102040816,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Citing 'weather conditions', SC asks lawyers to appear online",
+   "deck": "",
+   "byline": "",
+   "text": "Apurva Vishwanath New Delhi, December 14\n\nIN AN unprecedented move, the Supreme Court issued acircular Sunday advising lawyers andlitigantsto appear virtually, citing \"prevailing weather conditions\", a day after Delhi's air quality plunged into the \"severe plus\" category triggering emergency measures across the National Capital Region (NCR).\n\n\"In view of the prevailing weather conditions, the Hon'bie Chief Justice of India has advised, if convenient, the Members of the Bar/Parties-in-Person to avail hybrid mode of appearance through videoconferencing facility in their matters listed before the Hon'ble Courts,\" the circular stated.\n\nThe Supreme Court currently has a video-conferencing facility for lawyers. However, itislearnt that the need for a separate circular was felt to ensure uniformity across all courts. Thisis the last week that the apex court will function before the 10-day winter break. On Saturday, the Commission for Air Quality Management's sub-committee on the Graded Response Action Plan (GRAP) invoked Stage IV (Severe+) restrictions across Delhi-NCR.\n\nThis is the highest level of emergency curbs as the Air Quality Index crossed the\n\nNATION PAGE4 RS 1,000-CR CYBER FRAUD: 4 CHINESE AMONG 17 IN CBI CHARGE SHEET",
+   "n_words": 182,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      3238,
+      4141,
+      3470
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2272,
+      3497,
+      2559,
+      3646
+     ],
+     [
+      2271,
+      3700,
+      2714,
+      4205
+     ],
+     [
+      2267,
+      4818,
+      2706,
+      5055
+     ],
+     [
+      2759,
+      4097,
+      3200,
+      4212
+     ],
+     [
+      3248,
+      4098,
+      3690,
+      4206
+     ]
+    ],
+    "layout_words": 114
+   },
+   "headline_raw": "Bihar Minister Nitin Nabin is BJP\u2019s new\nworking president, youngest to hold post",
+   "deck_raw": "",
+   "body_raw": "Liz Mathew\n& Himanshu Harsh\nNew Delhi, Patna,\nDecember 14\n\nTHE BJP\u2019S Parliamentary\nBoard on Sunday appointed\nBihar Cabinet Minister and\nfive-term MLA Nitin Nabin as\nthe party\u2019s national working\npresident. While Union Heaith\nMinister J PNadda remains the\nBJP\u2019s national president, party\ninsiders said Nabin could be\nelected as his successor in Ja-\nnuary, marking a generational\nshift in the party\u2019s leadership.\nThe decision will then have to\n\n\u2018Scrutiny should not affect\nJudges. They are answerable\nto their conscience...\u2019\nBRGAVAI,\nFORMER CHIEF JUSTICE OF INDIA\nPAGE 12\n\nbe endorsed at the BJP\u2019s Na-\ntional Council meeting.\nNavin, 45, is the BJP\u2019s youn-\n\ngest national working presi-\ndent. Ifelected party president,\n\u00bb CONTINUED ONPAGE 2",
+   "ocr_conf": 91.5391304347826,
+   "ocr_low_conf_share": 0.02608695652173913,
+   "headline": "Bihar Minister Nitin Nabin is BJP's new working president, youngest to hold post",
+   "deck": "",
+   "byline": "",
+   "text": "Liz Mathew & Himanshu Harsh New Delhi, Patna, December 14\n\nTHE BJP'S Parliamentary Board on Sunday appointed Bihar Cabinet Minister and five-term MLA Nitin Nabin as the party's national working president. While Union Heaith Minister J PNadda remains the BJP's national president, party insiders said Nabin could be elected as his successor in January, marking a generational shift in the party's leadership. The decision will then have to\n\n'Scrutiny should not affect Judges. They are answerable to their conscience...' BRGAVAI, FORMER CHIEF JUSTICE OF INDIA\n\nbe endorsed at the BJP's National Council meeting. Navin, 45, is the BJP's youngest national working president. Ifelected party president, \u00bb CONTINUED ONPAGE 2",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      818,
+      3360,
+      2219,
+      3734
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1080,
+      3286,
+      1959,
+      3330
+     ],
+     [
+      1299,
+      3814,
+      1634,
+      3862
+     ],
+     [
+      1298,
+      3872,
+      1443,
+      3972
+     ],
+     [
+      1478,
+      3924,
+      1586,
+      3972
+     ],
+     [
+      1300,
+      3972,
+      1421,
+      4017
+     ],
+     [
+      1300,
+      4025,
+      1441,
+      4117
+     ],
+     [
+      1478,
+      4025,
+      1567,
+      4076
+     ],
+     [
+      1300,
+      4124,
+      1402,
+      4168
+     ],
+     [
+      1309,
+      4177,
+      1385,
+      4223
+     ],
+     [
+      1296,
+      4219,
+      1413,
+      4272
+     ]
+    ],
+    "body_boxes": [
+     [
+      806,
+      4177,
+      1251,
+      5082
+     ],
+     [
+      1308,
+      4282,
+      1430,
+      4318
+     ],
+     [
+      1295,
+      4496,
+      1739,
+      5087
+     ],
+     [
+      1786,
+      3778,
+      2229,
+      5080
+     ]
+    ],
+    "layout_words": 324
+   },
+   "headline_raw": "In first year of Sahyog portal,\nsix content block orders a\nday, most in WhatsApp",
+   "deck_raw": "OCT 2024-25 INCLUDES OP SINDOOR\neBlocking orders\n| WhatsApp\nFacebook\nMas\ni YouTube\nInstagram\nTelegram\nMico\n\u2018Google\nApple\nAmazon",
+   "body_raw": "MORE THAN 2,300 blocking\norders were sent to 19 online\nplatforms, including Whats-\nApp, Facebook, YouTube and\nInstagram, between October\n2024 and October 2025 through\nthe Union Home Ministry's Sa-\nhyog portal, according to data\nobtained by TheIndian Express\nunder the Rightto Information\n(RTI) Act.\nThe period captures the first\nfull year since Sahyog has been\nin operation \u2014 and the number\nof orders, for the first time, re-\nveals how the contentious por-\ntal has rapidly become acentral\ntool in India\u2019sexpanding online\ncensorship framework. These\norders cover a wide range of on-\nline links, including allegedly\noffensive or unlawful posts on-\nline, or entire accounts.\n\nNothers*\n\nAccording to RTI datashared\nby the Home Ministry's Indian\nCybercrime Coordination\nCentre (14C), which is respon-\nsible for the Sahyog portal, the\nMeta family of online services \u2014\nWhatsApp, Facebook and Insta-\ngram \u2014 accounted for over78\nper cent of the total 2,312 block-\ningorders that weresentoverthe\none-year period (see chart).\nWhatsApp received the\nhighest number of blocking\norders by a huge margin, with\n1,392, followed by Facebook,\n\nwhich received 255, and Insta-\ngram with 169. In total, these\nplatforms received 1,816 block-\ning orders.\nYouTube accounted for 176\nblocking orders, and messaging\napp Telegram was issued 123\nblocking requests. Google re-\nceived 93, Apple 43 and Ama-\nzon 23. A further 38 orders were\ndistributed across 11 other on-\nline intermediaries, including\nMicrosoft (10), LinkedIn (2)and\nSnapchat (1), among others.\nEach order can contain\nmultiple links that platforms\nare expected to act on.\nThe period covered under\nthe RTI request also includes\ntheflurry of contenttakedowns\nthat took place during Oper-\nation Sindoor in May, when the\nGovernment acted on content\nand accounts it believed orig-\ninated from Pakistanto neutral-\nise online propaganda. For in-\nstance, Elon Musk-owned\nsocial media platform X had, at\nthe time, said that it received\norders to block more than 8,000\naccounts by the Government,\nincluding those belonging to\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 89.26851851851852,
+   "ocr_low_conf_share": 0.06790123456790123,
+   "headline": "In first year of Sahyog portal, six content block orders a day, most in WhatsApp",
+   "deck": "OCT 2024-25 INCLUDES OP SINDOOR eBlocking orders WhatsApp Facebook Mas i YouTube Instagram Telegram Mico 'Google Apple Amazon",
+   "byline": "",
+   "text": "MORE THAN 2,300 blocking orders were sent to 19 online platforms, including Whats-App, Facebook, YouTube and Instagram, between October 2024 and October 2025 through the Union Home Ministry's Sahyog portal, according to data obtained by TheIndian Express under the Rightto Information (RTI) Act. The period captures the first full year since Sahyog has been in operation - and the number of orders, for the first time, reveals how the contentious portal has rapidly become acentral tool in India'sexpanding online censorship framework. These orders cover a wide range of online links, including allegedly offensive or unlawful posts online, or entire accounts.\n\nNothers*\n\nAccording to RTI datashared by the Home Ministry's Indian Cybercrime Coordination Centre (14C), which is responsible for the Sahyog portal, the Meta family of online services - WhatsApp, Facebook and Instagram - accounted for over78 per cent of the total 2,312 block-ingorders that weresentoverthe one-year period (see chart). WhatsApp received the highest number of blocking orders by a huge margin, with 1,392, followed by Facebook,\n\nwhich received 255, and Instagram with 169. In total, these platforms received 1,816 blocking orders. YouTube accounted for 176 blocking orders, and messaging app Telegram was issued 123 blocking requests. Google received 93, Apple 43 and Amazon 23. A further 38 orders were distributed across 11 other online intermediaries, including Microsoft (10), LinkedIn (2)and Snapchat (1), among others. Each order can contain multiple links that platforms are expected to act on. The period covered under the RTI request also includes theflurry of contenttakedowns that took place during Operation Sindoor in May, when the Government acted on content and accounts it believed originated from Pakistanto neutralise online propaganda. For instance, Elon Musk-owned social media platform X had, at the time, said that it received orders to block more than 8,000 accounts by the Government, including those belonging to",
+   "n_words": 303,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3733,
+      3491,
+      4075,
+      3619
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3737,
+      3635,
+      4032,
+      3686
+     ]
+    ],
+    "body_boxes": [
+     [
+      3736,
+      3701,
+      4175,
+      4174
+     ]
+    ],
+    "layout_words": 45
+   },
+   "headline_raw": "fe] EXPLAINED",
+   "deck_raw": "Balancing act",
+   "body_raw": "For BJP, havinganupper-\ncaste leader asits national\nworking president, and likely\nthenext president, is part of\nthe politicalsignalling at\nwhichithas provedtobe\nadept. Having an upper-caste\nleaderis key at atime when\nthe party has looked to\nbroaden its baseand appoint\nOBCstoimportant positions\ninthe party and government.",
+   "ocr_conf": 82.02222222222223,
+   "ocr_low_conf_share": 0.13333333333333333,
+   "headline": "fe] EXPLAINED",
+   "deck": "Balancing act",
+   "byline": "",
+   "text": "For BJP, havinganuppercaste leader asits national working president, and likely thenext president, is part of the politicalsignalling at whichithas provedtobe adept. Having an upper-caste leaderis key at atime when the party has looked to broaden its baseand appoint OBCstoimportant positions inthe party and government.",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      903,
+      3777,
+      1175,
+      3900
+     ]
+    ],
+    "deck_boxes": [
+     [
+      876,
+      3972,
+      1184,
+      4022
+     ]
+    ],
+    "body_boxes": [
+     [
+      915,
+      3931,
+      1146,
+      3960
+     ],
+     [
+      809,
+      4052,
+      1164,
+      4126
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "YOUR RIGHT\nto know",
+   "deck_raw": "| APPLICATION |",
+   "body_raw": "ANEXPRESS RTI\n\nSoumyarendra Barik\nNew Delhi, December 14",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "YOUR RIGHT to know",
+   "deck": "APPLICATION",
+   "byline": "ANEXPRESS RTI",
+   "text": "Soumyarendra Barik New Delhi, December 14",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2759,
+      4283,
+      4127,
+      4517
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3247,
+      4574,
+      3685,
+      4618
+     ]
+    ],
+    "body_boxes": [
+     [
+      2758,
+      4532,
+      3164,
+      4606
+     ],
+     [
+      2758,
+      4656,
+      3201,
+      5084
+     ],
+     [
+      3248,
+      4658,
+      3689,
+      4845
+     ],
+     [
+      3246,
+      4934,
+      3688,
+      5088
+     ],
+     [
+      3731,
+      4537,
+      4177,
+      5082
+     ]
+    ],
+    "layout_words": 154
+   },
+   "headline_raw": "3 years after falling out with Cong,\nPrashant Kishor meets Priyanka",
+   "deck_raw": "POLITICS paces",
+   "body_raw": "Ritika Chopra & Manoj CG\nNew Delhi, December 14\n\nNEARLY A month after the As-\nsembly elections in Bihar in\nwhich his Jan Suraaj Party\nfought against the Mahagath-\nbandhan \u2014 of which the Con-\ngress is akey constituent \u2014 and\nthe BJP, Prashant Kishor is\nlearnt to have had a meeting\nwith senior Congress leader\nPriyanka Gandhi Vadra recently.\nWhen contacted, Kishor\n\nRAHUL, PRIYANKA\nWARNECs OF\nACTION WHEN\nCONGIS IN POWER\n\ndeclined tocomment.\nWhile sources in both the\nparties played down the signifi-\ncance of the meeting, the inter-\n\naction is politically interesting\ngiven that Kishor and the Con-\ngress had a bitter parting some\nyears ago. Since then, he has\nbeen critical ofthe Congress, ar-\nguing even inthe middle ofthe\nBiharcampaign thatthe Special\nIntensive Revision (SIR) ofelec-\ntoral rolls and Rahul Gandhi's\nvote theft campaign wasnotan\nelectoral issue in the state.\nKishor\u2019s electoral outing,\nhowever, turned out to be\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 89.98701298701299,
+   "ocr_low_conf_share": 0.05844155844155844,
+   "headline": "3 years after falling out with Cong, Prashant Kishor meets Priyanka",
+   "deck": "POLITICS paces",
+   "byline": "",
+   "text": "Ritika Chopra & Manoj CG New Delhi, December 14\n\nNEARLY A month after the Assembly elections in Bihar in which his Jan Suraaj Party fought against the Mahagathbandhan - of which the Congress is akey constituent - and the BJP, Prashant Kishor is learnt to have had a meeting with senior Congress leader Priyanka Gandhi Vadra recently. When contacted, Kishor\n\nRAHUL, PRIYANKA WARNECs OF ACTION WHEN CONGIS IN POWER\n\ndeclined tocomment. While sources in both the parties played down the significance of the meeting, the interaction is politically interesting given that Kishor and the Congress had a bitter parting some years ago. Since then, he has been critical ofthe Congress, arguing even inthe middle ofthe Biharcampaign thatthe Special Intensive Revision (SIR) ofelectoral rolls and Rahul Gandhi's vote theft campaign wasnotan electoral issue in the state. Kishor's electoral outing, however, turned out to be \u00bbCONTINUEDON PAGE 2",
+   "n_words": 146,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5263,
+      1578,
+      5384
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5201,
+      1668,
+      5233
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5405,
+      596,
+      5480
+     ],
+     [
+      806,
+      5410,
+      1248,
+      5720
+     ],
+     [
+      319,
+      5530,
+      1247,
+      5802
+     ],
+     [
+      1295,
+      5411,
+      1737,
+      6202
+     ]
+    ],
+    "layout_words": 194
+   },
+   "headline_raw": "Hindi & English to Santali",
+   "deck_raw": "@ REPRESENTATION OF REGIONAL LANGUAGES SPIKED OVER THE LAST DECADE",
+   "body_raw": "Soham Shah\nPune, December 14\n\nsonal story of separation from\nhis mother and one last meet-\ning with her while staying at his\naunt\u2019s house. \u201cDespite having\nsuch a large population, very\nfew films were coming out (in\nSantali). So as I was passing out\nof the institute, I felt\n\nDISCUSSING FILMS with his _aunt\u2019s house. \u201cDespite having\nfriends as aClass12sciencestu- such a large population, very\ndent, Mansingh Baskey was _ few films were coming out (in\ndisappointed at the quality of Santali).SoasIwas passingout\ncinema being pro- of the institute, I felt\nduced in his mother PAGE1 that the cinema\ntongue Santali. Bas- f anch 1 should be made in\n\nSantali is spoken in and\naround Jharkhand by people\nfrom the Santal tribal commu-\nnity. And this change at FTI is\nreflective of a larger trend: an\nincreasing number of student\nfilms being made in languages\nother than Hindi or English.\n\u201cIt\u2019s a wonderful kind of a\nchange. In some of the (lan-\nguages), it is required that\nsomeone comes and makes\ngood films,\u201d said Professor San-\ndeep Chatterjee, head of the Di-\nrection department at FTII.\nAccording to the film cata-\nlogue available at the institute,\nonly eight of the 82 student di-\nploma films made at its film\nwing from 1988 to 1995 in-",
+   "ocr_conf": 88.80555555555556,
+   "ocr_low_conf_share": 0.06944444444444445,
+   "headline": "Hindi & English to Santali",
+   "deck": "@ REPRESENTATION OF REGIONAL LANGUAGES SPIKED OVER THE LAST DECADE",
+   "byline": "",
+   "text": "Soham Shah Pune, December 14\n\nsonal story of separation from his mother and one last meeting with her while staying at his aunt's house. \"Despite having such a large population, very few films were coming out (in Santali). So as I was passing out of the institute, I felt\n\nDISCUSSING FILMS with his _aunt's house. \"Despite having friends as aClass12sciencestu- such a large population, very dent, Mansingh Baskey was _ few films were coming out (in disappointed at the quality of Santali).SoasIwas passingout cinema being pro- of the institute, I felt duced in his mother PAGE1 that the cinema tongue Santali. Bas- f anch 1 should be made in\n\nSantali is spoken in and around Jharkhand by people from the Santal tribal community. And this change at FTI is reflective of a larger trend: an increasing number of student films being made in languages other than Hindi or English. \"It's a wonderful kind of a change. In some of the (languages), it is required that someone comes and makes good films,\" said Professor Sandeep Chatterjee, head of the Direction department at FTII. According to the film catalogue available at the institute, only eight of the 82 student diploma films made at its film wing from 1988 to 1995 in-",
+   "n_words": 209,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1639,
+      5263,
+      4142,
+      5384
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      6088,
+      2223,
+      6203
+     ],
+     [
+      2272,
+      6088,
+      2712,
+      6203
+     ],
+     [
+      2755,
+      5412,
+      3201,
+      6239
+     ],
+     [
+      3247,
+      5412,
+      3691,
+      5964
+     ],
+     [
+      3247,
+      6010,
+      3689,
+      6204
+     ],
+     [
+      3736,
+      5412,
+      4180,
+      6197
+     ]
+    ],
+    "layout_words": 317
+   },
+   "headline_raw": "x Mundari: Changing language of FTII student films",
+   "deck_raw": "",
+   "body_raw": "cluded a language otherthan\nHindi or English. However, in\nthe 2019 film wing batch, the\n\nlast for which complete data is\navailable, seven of the 10 films\nincorporated languages such as\n\nAssamese, Ho, Malayalam, Ma-\nrathi, Nagamese, Punjabi and\nWancho.\nSimilarly, in the TV wing\n2023 batch, only one film was\nmade solely in Hindi. Three\nfilms were made in Marathi,\nand one each in Malayalam,\nGujarati, Haryanviand Santali.\nOne film was made using a\ncombination of English, Mara-\nthi and Hindi while another\nwas made using English, Hindi,\nMizo and Nagamese.\nWhile Hindi and English re-\nmain popular as film languages\nat FTIL, representation of lan-\nguages like Marathi, Bengali,\nMalayalam, and tribal lan-\nguages has spiked over the past\nJaipur\n\ntwo decades.\nSaurav Munda, a film wing\n2023 graduate, made his film A\nRiver Colored Red in Mundari,\nspoken by the Munda tribes.\nHis film is set in a mining-rich\nforested village in Jharkhand\nscarred by the tension between\nthe state and Naxalites, with\nthe indigenous community\nsuffering the most. The film\u2019s\nstory unfolds through the eyes\nof Rimil, a 12-year-old boy, and\nincludes real and mythical el-\n\n\u201cTo me, language is the soul\nof this film. I cannot imagine\ntelling this story in Hindi or\nEnglish, because doing so\nwould drain away the authen-\n\nticity ofthe land, its people, and\ntheir lived culture. The lan-\nguage of a film must rise from\nthe soil it inhabits \u2014 from the\nvoices, memory, andrhythmof\nthe place it portrays. Choosing\nany dominant language would\nhave stripped the story of its\nidentity,\u201d Munda said.\nChirag Solanki, also from\nthe TV Wing 2022 batch, made\nhis film Through my eyes in his\nmother tongue Gujarati. \u201cThe\ngreat writer, Saadat Hasan\nManto, said that every lan-\nguage gives a thought to itself.\nMeaning your mother tongue\ngives you thoughts you don\u2019t\neven know. So while writing in\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 92.3217665615142,
+   "ocr_low_conf_share": 0.025236593059936908,
+   "headline": "x Mundari: Changing language of FTII student films",
+   "deck": "",
+   "byline": "",
+   "text": "cluded a language otherthan Hindi or English. However, in the 2019 film wing batch, the\n\nlast for which complete data is available, seven of the 10 films incorporated languages such as\n\nAssamese, Ho, Malayalam, Marathi, Nagamese, Punjabi and Wancho. Similarly, in the TV wing 2023 batch, only one film was made solely in Hindi. Three films were made in Marathi, and one each in Malayalam, Gujarati, Haryanviand Santali. One film was made using a combination of English, Marathi and Hindi while another was made using English, Hindi, Mizo and Nagamese. While Hindi and English remain popular as film languages at FTIL, representation of languages like Marathi, Bengali, Malayalam, and tribal languages has spiked over the past Jaipur\n\ntwo decades. Saurav Munda, a film wing 2023 graduate, made his film A River Colored Red in Mundari, spoken by the Munda tribes. His film is set in a mining-rich forested village in Jharkhand scarred by the tension between the state and Naxalites, with the indigenous community suffering the most. The film's story unfolds through the eyes of Rimil, a 12-year-old boy, and includes real and mythical el-\n\n\"To me, language is the soul of this film. I cannot imagine telling this story in Hindi or English, because doing so would drain away the authenticity ofthe land, its people, and their lived culture. The language of a film must rise from the soil it inhabits - from the voices, memory, andrhythmof the place it portrays. Choosing any dominant language would have stripped the story of its identity,\" Munda said. Chirag Solanki, also from the TV Wing 2022 batch, made his film Through my eyes in his mother tongue Gujarati. \"The great writer, Saadat Hasan Manto, said that every language gives a thought to itself. Meaning your mother tongue gives you thoughts you don't even know. So while writing in \u00bbCONTINUEDON PAGE 2",
+   "n_words": 309,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5732,
+      1248,
+      5844
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5849,
+      762,
+      6201
+     ],
+     [
+      806,
+      5849,
+      1249,
+      6202
+     ]
+    ],
+    "layout_words": 98
+   },
+   "headline_raw": "duced in his mother PAGE1 that the cinema\ntongue Santali. Bas- should be made in\nkey went on to com- {anchor} this language. Be-",
+   "deck_raw": "",
+   "body_raw": "plete a degree in\nmass communication and en-\nrolled in the TV wing of the\nFilm and Television Instituteof\nIndia (FTID) to study Direction.\nHe chose to make his \u201cCourse\nEnd?\u201d fiction film titled Where\ndo the trees go? in Santali.\nThe film is a deeply per-\n\ncause if outsiders\ncome and make our story then\nit will have their perspective. If\nwetell the story ofour land our-\nselves, it will be good for the\ncommunity as well. And people\noutside will also get to watch a\nnew kind of cinema,\u201d said Bas-\nkey, who graduated in 2023.",
+   "ocr_conf": 87.03061224489795,
+   "ocr_low_conf_share": 0.11224489795918367,
+   "headline": "duced in his mother PAGE1 that the cinema tongue Santali. Bas- should be made in key went on to com- {anchor} this language. Be-",
+   "deck": "",
+   "byline": "",
+   "text": "plete a degree in mass communication and enrolled in the TV wing of the Film and Television Instituteof India (FTID) to study Direction. He chose to make his \"Course End?\" fiction film titled Where do the trees go? in Santali. The film is a deeply percause if outsiders come and make our story then it will have their perspective. If wetell the story ofour land ourselves, it will be good for the community as well. And people outside will also get to watch a new kind of cinema,\" said Baskey, who graduated in 2023.",
+   "n_words": 94,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.4,
+ "flags": []
+}

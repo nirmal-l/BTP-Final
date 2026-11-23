@@ -1,0 +1,370 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_26_front",
+ "source_file": "2025-01-26_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-26_front.png",
+ "date": "2025-01-26",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 148,
+  "mean_line_conf": 88.8621004933505,
+  "orphan_words": 8,
+  "body_words_total": 472
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      374,
+      1418,
+      1197,
+      1852
+     ]
+    ],
+    "deck_boxes": [
+     [
+      341,
+      1877,
+      1234,
+      1988
+     ],
+     [
+      857,
+      2116,
+      1203,
+      2216
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      2819,
+      1249,
+      3122
+     ]
+    ],
+    "layout_words": 36
+   },
+   "headline_raw": "A Supreme Court\nruling that continues\nto guardrail free\nspeech in India",
+   "deck_raw": "The Indian Express tracks down the women\nand men who reshaped the Republic\nROMESH THAPAR V\nSTATE OF MADRAS",
+   "body_raw": "to ban the sale and distribution\nofthe magazine in the state.\nThe editor of CrossRoads,\nRomesh Thapar, moved the\nSupreme Court, perhaps bullish\nabout the new Constitution that\nguaranteed a remedy for the\nCONTINUED ONPAGE 2",
+   "ocr_conf": 93.55555555555556,
+   "ocr_low_conf_share": 0.0,
+   "headline": "A Supreme Court ruling that continues to guardrail free speech in India",
+   "deck": "The Indian Express tracks down the women and men who reshaped the Republic ROMESH THAPAR V STATE OF MADRAS",
+   "byline": "",
+   "text": "to ban the sale and distribution ofthe magazine in the state. The editor of CrossRoads, Romesh Thapar, moved the Supreme Court, perhaps bullish about the new Constitution that guaranteed a remedy for the",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      1419,
+      4180,
+      1891
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      1991,
+      3696,
+      2262
+     ],
+     [
+      3774,
+      1908,
+      4148,
+      2027
+     ],
+     [
+      3739,
+      2110,
+      4181,
+      2255
+     ],
+     [
+      3740,
+      2920,
+      4149,
+      3043
+     ]
+    ],
+    "layout_words": 70
+   },
+   "headline_raw": "US court rejects plea,\nIndia prepares to get\n26/11 plotter Rana back",
+   "deck_raw": "",
+   "body_raw": "PAVING THE way for his extradi-\ntion, the US Supreme Court has\nrejected a review petition filed\nby Tahawwur Rana, who is\nwanted in India for his rolein the\n26/11 Mumbai terror attacks.\nFollowing the court's deci-\n\n+ \u2014 . arently\nmmm sein Los\n' \u201c& = Angeles\n\nsion, the[ndian government has\nstarted making preparations to\nbring RanatoIndiato face trialin\nCONTINUE DONPAGE 7\n\nHINDU SENA CHIEF\nSAYS HIS CAR FIRED\nAT TO\u2018SILENCE\u2019 HIM",
+   "ocr_conf": 78.82191780821918,
+   "ocr_low_conf_share": 0.1780821917808219,
+   "headline": "US court rejects plea, India prepares to get 26/11 plotter Rana back",
+   "deck": "",
+   "byline": "",
+   "text": "PAVING THE way for his extradition, the US Supreme Court has rejected a review petition filed by Tahawwur Rana, who is wanted in India for his rolein the 26/11 Mumbai terror attacks. Following the court's decimmm sein Los\n\nsion, the[ndian government has started making preparations to bring RanatoIndiato face trialin CONTINUE DONPAGE 7\n\nHINDU SENA CHIEF SAYS HIS CAR FIRED AT TO'SILENCE' HIM",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      1511,
+      3191,
+      1862
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1300,
+      1897,
+      1833,
+      1944
+     ]
+    ],
+    "body_boxes": [
+     [
+      1299,
+      2028,
+      1653,
+      2097
+     ],
+     [
+      1294,
+      2147,
+      1740,
+      3122
+     ],
+     [
+      2763,
+      2463,
+      3115,
+      2532
+     ],
+     [
+      2762,
+      2581,
+      3205,
+      2973
+     ],
+     [
+      2764,
+      2978,
+      3204,
+      3123
+     ]
+    ],
+    "layout_words": 188
+   },
+   "headline_raw": "Joint polls promises to redefine\ngood governance: President",
+   "deck_raw": "Praises new criminal l.",
+   "body_raw": "DIVYAA\nNEW DELHI JANUARY 25\n\nADDRESSING THE nationonthe\neve of Republic Day, President\nDroupadi Murmu on Saturday\nweighed in on the \u2018One Nation,\nOne Election\u2019 Bills brought in\nParliament last month, saying\nthe move \u201cpromises to redefine\nthe terms of good govemance\u201d.\nThe plan to hold simultane-\nous elections to the Lok Sabha\nand Assemblies \u201ccan promote\nconsistency in governance, pre-\nvent policy paralysis, mitigat re-\nsource diversion, and reduce the\nfinancial burden, apart fromoF\nfering manyother benefits,\u201d she\nsaid in hertelevised address.\nThe President also praised\nthe decision to replace the old\ncriminal laws \u2014 the new laws\ncame into effect in July last year.\n\u201cWe won freedom in 1947, but\nmany relics of a colonial mind-\nset persisted among us for long.\nCONTINUED ON PAGE 2\n\nSHUBHAJIT ROY\nNEW DELHI, JANUARY 25\n\nINDIA AND Indonesia signed\npactson maritime security, health,\ntraditional medicine, culture and\ndigital cooperation as Prime\nMinister Narendra Modi met the\nvisiting President of Indonesia\nPrabown Subianto Saturday,\nHe is the Chief Guest at the\nRepublic Day celebrations on\nSunday.\n\nAfter the bilateral talks in\nHyderabad House, Prime\nMinister Modi addressed him as\nCONTINUEDON PAGE 2",
+   "ocr_conf": 91.59473684210526,
+   "ocr_low_conf_share": 0.031578947368421054,
+   "headline": "Joint polls promises to redefine good governance: President",
+   "deck": "Praises new criminal l.",
+   "byline": "DIVYAA; NEW DELHI JANUARY 25",
+   "text": "ADDRESSING THE nationonthe eve of Republic Day, President Droupadi Murmu on Saturday weighed in on the 'One Nation, One Election' Bills brought in Parliament last month, saying the move \"promises to redefine the terms of good govemance\". The plan to hold simultaneous elections to the Lok Sabha and Assemblies \"can promote consistency in governance, prevent policy paralysis, mitigat resource diversion, and reduce the financial burden, apart fromoF fering manyother benefits,\" she said in hertelevised address. The President also praised the decision to replace the old criminal laws - the new laws came into effect in July last year. \"We won freedom in 1947, but many relics of a colonial mindset persisted among us for long.\n\nSHUBHAJIT ROY NEW DELHI, JANUARY 25\n\nINDIA AND Indonesia signed pactson maritime security, health, traditional medicine, culture and digital cooperation as Prime Minister Narendra Modi met the visiting President of Indonesia Prabown Subianto Saturday, He is the Chief Guest at the Republic Day celebrations on Sunday.\n\nAfter the bilateral talks in Hyderabad House, Prime Minister Modi addressed him as CONTINUEDON PAGE 2",
+   "n_words": 177,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3254,
+      1830,
+      3605,
+      1939
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL& DIVYAA\nNEW DELHI, JANUARY 25",
+   "ocr_conf": 88.75,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL& DIVYAA; NEW DELHI, JANUARY 25",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      2328,
+      3687,
+      2621
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      2702,
+      3607,
+      2771
+     ],
+     [
+      3248,
+      2821,
+      3696,
+      3124
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "WFI chief says\noffice at new\naddress, facts\nshow otherwise",
+   "deck_raw": "",
+   "body_raw": "NIHAL KOSHIE\nNEW DELHI. JANUARY 25\n\nON FRIDAY, when The Indian\nExpress messaged Wrestling\nFederation of India (WA) chief\nSanjay Singh to askhim why the\nWH office was back to function-\ning at the 21, Ashoka Road resi-\ndence of five-time BJP MP and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.54166666666667,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "WFI chief says office at new address, facts show otherwise",
+   "deck": "",
+   "byline": "NIHAL KOSHIE; NEW DELHI. JANUARY 25",
+   "text": "ON FRIDAY, when The Indian Express messaged Wrestling Federation of India (WA) chief Sanjay Singh to askhim why the WH office was back to functioning at the 21, Ashoka Road residence of five-time BJP MP and",
+   "n_words": 36,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      394,
+      2484,
+      684,
+      2553
+     ]
+    ],
+    "deck_boxes": [
+     [
+      357,
+      2291,
+      726,
+      2412
+     ],
+     [
+      361,
+      2425,
+      720,
+      2457
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      2621,
+      705,
+      2690
+     ],
+     [
+      321,
+      2739,
+      763,
+      3121
+     ]
+    ],
+    "layout_words": 54
+   },
+   "headline_raw": "AN EXPRESS SERIES",
+   "deck_raw": "RESHAPING THE\nREPUBLIC\nCASE BY LANDMARK CASE",
+   "body_raw": "APURVAVISHWANATH\nNEW DELHI, JANUARY 25\n\nIN THE summer of 1950, across\nMadras, copies of the weekly\nCrossRoads were quietly pulled\noff shelves \u2014 anarticleon police\nviolence that killed 22\nCommunists in a Salem prison\nwas deemed too subversive by\nthe State. The Madras govern-\nment had invoked the Madras\nMaintenance of Public Order Act",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "AN EXPRESS SERIES",
+   "deck": "RESHAPING THE REPUBLIC CASE BY LANDMARK CASE",
+   "byline": "APURVAVISHWANATH; NEW DELHI, JANUARY 25",
+   "text": "IN THE summer of 1950, across Madras, copies of the weekly CrossRoads were quietly pulled off shelves - anarticleon police violence that killed 22 Communists in a Salem prison was deemed too subversive by the State. The Madras government had invoked the Madras Maintenance of Public Order Act",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2607,
+      2700,
+      2778
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1788,
+      2858,
+      2139,
+      2967
+     ],
+     [
+      1785,
+      3017,
+      2228,
+      3126
+     ],
+     [
+      2270,
+      2820,
+      2715,
+      3005
+     ],
+     [
+      2275,
+      3090,
+      2651,
+      3123
+     ]
+    ],
+    "layout_words": 40
+   },
+   "headline_raw": "Osamu Suzuki, Debroy on\nlist of Padma awardees",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, JANUARY 25\n\nTHE LATE Suzuki Motor\nCorporation chairman Osamu\nSuzuki, who revolutionised\n\nIndia'sautomotive industry, and\nformer Chief Justice of India\nJagdish Singh Khehar, who led\nthe Supreme Court bench that\nCONTINUED ONPAGE 7\n\nMORE REPORTS p4",
+   "ocr_conf": 92.58536585365853,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Osamu Suzuki, Debroy on list of Padma awardees",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, JANUARY 25",
+   "text": "THE LATE Suzuki Motor Corporation chairman Osamu Suzuki, who revolutionised\n\nIndia'sautomotive industry, and former Chief Justice of India Jagdish Singh Khehar, who led the Supreme Court bench that\n\nMORE REPORTS p4",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 8.6,
+ "flags": [
+  "one article holds most of the page text - possible merge"
+ ]
+}

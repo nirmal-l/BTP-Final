@@ -1,0 +1,930 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_18_front",
+ "source_file": "2025-12-18_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-18_front.png",
+ "date": "2025-12-18",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 476,
+  "mean_line_conf": 87.03969172117007,
+  "orphan_words": 5,
+  "body_words_total": 1809
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4182,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 91.6,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1005,
+      2666,
+      1310
+     ]
+    ],
+    "deck_boxes": [
+     [
+      324,
+      936,
+      1498,
+      985
+     ]
+    ],
+    "body_boxes": [
+     [
+      323,
+      1347,
+      736,
+      1680
+     ],
+     [
+      321,
+      1742,
+      680,
+      1818
+     ],
+     [
+      321,
+      1866,
+      765,
+      2218
+     ],
+     [
+      1206,
+      1397,
+      1337,
+      1434
+     ],
+     [
+      811,
+      1517,
+      1370,
+      1789
+     ],
+     [
+      1429,
+      1368,
+      1704,
+      1408
+     ],
+     [
+      1431,
+      1419,
+      1760,
+      1499
+     ],
+     [
+      1432,
+      1420,
+      1574,
+      1451
+     ],
+     [
+      2275,
+      1311,
+      2717,
+      2213
+     ]
+    ],
+    "layout_words": 185
+   },
+   "headline_raw": "A years of delay, short 87-km stretch derails\nRs 1-lakh-crore Delhi-Mumbai Expressway",
+   "deck_raw": "1,386-KM ROAD PROJECT TO HALVE TRAVEL TIME",
+   "body_raw": "Project scrapped\nin March 2023,\nre-awarded to\nsame Pune firm\nmonths later\n\nDheeraj Mishra\nNew Delhi, December 17\n\nTHREE SMALL stretches in\nGujarat adding up to just\n87 km and awarded to a Pune\ncontractor have ended up de-\nrailing the massive 1,386-km\nDelhi-Mumbai Expressway\nproject being built at a cost of\nRs 1.04 lakh crore, The Indian\nExpress has learnt.\n\neh\n. UTTAR\n\n| Existing NH-48\u2014- Udlioa\u201d\n~ DELHI-MUMBAI Kota\nEXPRESSWAY ~\u20ac-f i,\n| GUJARAT & g\n' Ratlam MADHYA\nJt\nVadadara 5 PRADESH\n\nJUJUWA-GANDEVA\n\nProjectcost \u2014_ Total spent\n@1,228 cr %59.56cr\n\nProject cost\n\nAt the end of almost four\nyears now, less than 20 percent\nof the 87 km has been com-\npleted, raising red flags in the\nMinistry of Road Transport and\nHighways. And frustrated at\nthe slow progress, the NHAI is\nnow considering issuing no-\ntices to RSOL, that mayeven re-\nsult in the termination of the\ncontract.\nWhen contacted, Navjeet\nGadhoke, Director, RSIIL, at-\ntributed the delay to \u201cnon-\nprovision of land by NHAI\u201d.\nNHAI officials, however,\nblamed non-performance by\nRSIILand contractual disputes\nand litigations for adversely af-\nfecting the pace of execution.\nThe Expressway, which\npasses through Delhi, Haryana,\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 86.54545454545455,
+   "ocr_low_conf_share": 0.09595959595959595,
+   "headline": "A years of delay, short 87-km stretch derails Rs 1-lakh-crore Delhi-Mumbai Expressway",
+   "deck": "1,386-KM ROAD PROJECT TO HALVE TRAVEL TIME",
+   "byline": "",
+   "text": "Project scrapped in March 2023, re-awarded to same Pune firm months later\n\nDheeraj Mishra New Delhi, December 17\n\nTHREE SMALL stretches in Gujarat adding up to just 87 km and awarded to a Pune contractor have ended up derailing the massive 1,386-km Delhi-Mumbai Expressway project being built at a cost of Rs 1.04 lakh crore, The Indian Express has learnt.\n\neh. UTTAR\n\nExisting NH-48 - - Udlioa\" ~ DELHI-MUMBAI Kota EXPRESSWAY ~\u20ac-f i, GUJARAT & g ' Ratlam MADHYA Jt Vadadara 5 PRADESH\n\nJUJUWA-GANDEVA\n\nProjectcost - _ Total spent\n\nProject cost\n\nAt the end of almost four years now, less than 20 percent of the 87 km has been completed, raising red flags in the Ministry of Road Transport and Highways. And frustrated at the slow progress, the NHAI is now considering issuing notices to RSOL, that mayeven result in the termination of the contract. When contacted, Navjeet Gadhoke, Director, RSIIL, attributed the delay to \"nonprovision of land by NHAI\". NHAI officials, however, blamed non-performance by RSIILand contractual disputes and litigations for adversely affecting the pace of execution. The Expressway, which passes through Delhi, Haryana,",
+   "n_words": 185,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      1006,
+      4172,
+      1485
+     ],
+     [
+      2763,
+      1574,
+      3175,
+      1919
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2767,
+      938,
+      4009,
+      983
+     ]
+    ],
+    "body_boxes": [
+     [
+      2764,
+      1984,
+      3026,
+      2054
+     ],
+     [
+      3739,
+      2386,
+      4183,
+      2813
+     ]
+    ],
+    "layout_words": 58
+   },
+   "headline_raw": "Air toxic, Delhi govt\nmakes 50% work\nfrom homea must\nRs 10,000 to be\ngiven to verified\nconstruction\nworkers affected\nby GRAP rules",
+   "deck_raw": "BAN ON ENTRY OF NON-BS VI CARS KICKS IN TODAY",
+   "body_raw": "Drishti Jain\n& Devansh Mittal\n\nseries of steps announced by\nthe Delhi government in re-\nsponse to the alarming decline\nin air quality inthe Capital since\nthe beginning of November.\nOn Tuesday, itannounceda\nban on the entry into Delhi of\nprivate vehicles that are regis-\ntered outside the Capital and\nare not compliant with the\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 94.12068965517241,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Air toxic, Delhi govt makes 50% work from homea must given to verified construction workers affected by GRAP rules",
+   "deck": "BAN ON ENTRY OF NON-BS VI CARS KICKS IN TODAY",
+   "byline": "",
+   "text": "Drishti Jain & Devansh Mittal\n\nseries of steps announced by the Delhi government in response to the alarming decline in air quality inthe Capital since the beginning of November. On Tuesday, itannounceda ban on the entry into Delhi of private vehicles that are registered outside the Capital and are not compliant with the",
+   "n_words": 53,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1426,
+      1498,
+      1989,
+      1609
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1627,
+      1623,
+      1760,
+      1656
+     ],
+     [
+      1432,
+      1624,
+      1574,
+      1655
+     ],
+     [
+      1836,
+      1706,
+      1969,
+      1738
+     ],
+     [
+      1835,
+      1929,
+      1968,
+      1962
+     ],
+     [
+      991,
+      1998,
+      2169,
+      2031
+     ],
+     [
+      809,
+      2107,
+      1251,
+      2216
+     ],
+     [
+      1298,
+      2107,
+      1739,
+      2220
+     ],
+     [
+      1786,
+      2107,
+      2227,
+      2213
+     ]
+    ],
+    "layout_words": 63
+   },
+   "headline_raw": "hth \u2014 completed\nKARVAD - JUJUWA",
+   "deck_raw": "",
+   "body_raw": "Total spent\n\nProject cost\n\ncompleted\n\ncompleted\n\n@ Most packages within Gujarat are targeted for completion between Marchand June 2026\n\nThe Punecontractor, Road-\nway Solutions India Infra Ltd\n(RSIIL), was first awarded all\n\nthese three stretches in 2021.\nTwo of these were scrapped in\nMarch 2023 dueto delays, only\n\nto be re-awarded to the same\ncompany in November 2023\nafterit bid the lowest.",
+   "ocr_conf": 90.5,
+   "ocr_low_conf_share": 0.06451612903225806,
+   "headline": "hth - completed KARVAD - JUJUWA",
+   "deck": "",
+   "byline": "",
+   "text": "Total spent\n\nProject cost\n\ncompleted\n\ncompleted\n\n@ Most packages within Gujarat are targeted for completion between Marchand June 2026\n\nThe Punecontractor, Roadway Solutions India Infra Ltd (RSIIL), was first awarded all\n\nthese three stretches in 2021. Two of these were scrapped in March 2023 dueto delays, only\n\nto be re-awarded to the same company in November 2023 afterit bid the lowest.",
+   "n_words": 61,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1010,
+      1832,
+      1759,
+      1921
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      995,
+      1925,
+      1622,
+      1957
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "Ge _ _ _ oe\na _-Projectcost \u2014_Total spent\nS IHES/-KMSTRETCH | %1,560cr %565 cr",
+   "deck_raw": "",
+   "body_raw": "nS Length: 25km",
+   "ocr_conf": 55.333333333333336,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "a _-Projectcost - _Total spent S IHES/-KMSTRETCH %1,560cr %565 cr",
+   "deck": "",
+   "byline": "",
+   "text": "nS Length: 25km",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2063,
+      3117,
+      2115
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2147,
+      3204,
+      2819
+     ]
+    ],
+    "layout_words": 77
+   },
+   "headline_raw": "New Delhi, December17",
+   "deck_raw": "",
+   "body_raw": "THE GOVERNMENT of Delhi\nwill provide one-time assis-\ntance of Rs 10,000 each tocon-\nstruction workers hit by restric-\ntions imposed on building\nactivities under Stage 3 of the\nGraded Response Action Plan\n(GRAP) to combat air pollution,\nLabour Minister Kapil Mishra\nannounced on Wednesday.\nMishra also directed that\nfrom Thursday, all government\nand private institutions in\nDelhi must mandatorilyswitch\nto \u2018work from home\u2019 for 50 per\ncent of their employees.\nThe decisions are part of a",
+   "ocr_conf": 91.62337662337663,
+   "ocr_low_conf_share": 0.025974025974025976,
+   "headline": "New Delhi, December17",
+   "deck": "",
+   "byline": "",
+   "text": "THE GOVERNMENT of Delhi will provide one-time assistance of Rs 10,000 each toconstruction workers hit by restrictions imposed on building activities under Stage 3 of the Graded Response Action Plan (GRAP) to combat air pollution, Labour Minister Kapil Mishra announced on Wednesday. Mishra also directed that from Thursday, all government and private institutions in Delhi must mandatorilyswitch to 'work from home' for 50 per cent of their employees. The decisions are part of a",
+   "n_words": 74,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      2222,
+      3592,
+      2351
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      2378,
+      3682,
+      2778
+     ]
+    ],
+    "layout_words": 30
+   },
+   "headline_raw": "re] EXPLAINED",
+   "deck_raw": "",
+   "body_raw": "Supreme Court\u2019s\nsuggestions\nAs Delhi moved to take steps,\nthe Supreme Court called\nfor along-term planinstead\nofshort-term measures. It\ncalled fora plan todoaway\nwith toll plazas from\nOctoberto January 2026.",
+   "ocr_conf": 81.53333333333333,
+   "ocr_low_conf_share": 0.13333333333333333,
+   "headline": "re] EXPLAINED",
+   "deck": "",
+   "byline": "",
+   "text": "Supreme Court's suggestions As Delhi moved to take steps, the Supreme Court called for along-term planinstead ofshort-term measures. It called fora plan todoaway with toll plazas from Octoberto January 2026.",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      333,
+      2436,
+      1234,
+      2870
+     ],
+     [
+      328,
+      2935,
+      1244,
+      3140
+     ],
+     [
+      397,
+      3220,
+      705,
+      3300
+     ]
+    ],
+    "deck_boxes": [
+     [
+      385,
+      2361,
+      1186,
+      2405
+     ],
+     [
+      376,
+      3165,
+      621,
+      3215
+     ],
+     [
+      318,
+      3375,
+      673,
+      3429
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      3336,
+      469,
+      3366
+     ],
+     [
+      318,
+      3460,
+      762,
+      4369
+     ],
+     [
+      808,
+      3658,
+      1248,
+      3845
+     ],
+     [
+      807,
+      3897,
+      1248,
+      4363
+     ]
+    ],
+    "layout_words": 178
+   },
+   "headline_raw": "\u2018Threat to India very\nreal, Yunus trying to\nbring Islamists to\npower via rigged poll\u2019\n\u2018speak tomy mother (Sheikh Hasina)\nregularly on the phone. Ihave been to\nDelhi once and planto goagain\u2019\nexclusive :",
+   "deck_raw": "HASINA\u2019S SON SAJEEB WAZED JOY\n| EXPRESS\nNew Delhi, December 17",
+   "body_raw": "Ritu Sarin\n\nIN FIRST remarks on the an-\nnouncement of elections in\nBangladesh next February and\nthe ban that rules out participa-\ntion of Awami League, Sajeeb\nWazed Joy, son and advisor of\nousted Prime Minister Sheikh\nHasina, said the interim govern-\nment in Dhaka, headed by Mu-\nhammad Yunus, was attempt-\ning to appointan Islamic regime.\nHealsowarned that the security\nsituation in Bangladesh poseda\nheightened threat to India.\nFifty-four-year-old Wazed,\nwho livesin the US, made these\nremarks in an email interview\nwith The Indian Express on the\nday Delhi summoned Dhaka\u2019s\nHigh Commissioner to convey\nIndia\u2019s \u201cstrong concerns\u201d over\nthe deteriorating security situ-\nation in Bangladesh and activ-\n\nities of extremist elements\nthreatening the Indian High\nCommission there.\nThese are excerpts from the\ninterview with Wazed:\n\nYou and your mother\nSheikh Hasina are in exile.\nBegum Khaleda Ziais\ncritically ill and her son\nTarique has not returned\nto Bangladesh. Could this\nbe the end of the two most\npowerful dynasties in\nBangladesh politics?\nIcannot speak for the Zia\nfamily, but my mother did not\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 90.36312849162012,
+   "ocr_low_conf_share": 0.0335195530726257,
+   "headline": "'Threat to India very real, Yunus trying to bring Islamists to power via rigged poll' 'speak tomy mother (Sheikh Hasina) regularly on the phone. Ihave been to Delhi once and planto goagain' exclusive:",
+   "deck": "HASINA'S SON SAJEEB WAZED JOY EXPRESS New Delhi, December 17",
+   "byline": "",
+   "text": "Ritu Sarin\n\nIN FIRST remarks on the announcement of elections in Bangladesh next February and the ban that rules out participation of Awami League, Sajeeb Wazed Joy, son and advisor of ousted Prime Minister Sheikh Hasina, said the interim government in Dhaka, headed by Muhammad Yunus, was attempting to appointan Islamic regime. Healsowarned that the security situation in Bangladesh poseda heightened threat to India. Fifty-four-year-old Wazed, who livesin the US, made these remarks in an email interview with The Indian Express on the day Delhi summoned Dhaka's High Commissioner to convey India's \"strong concerns\" over the deteriorating security situation in Bangladesh and activities of extremist elements threatening the Indian High Commission there. These are excerpts from the interview with Wazed:\n\nYou and your mother Sheikh Hasina are in exile. Begum Khaleda Ziais critically ill and her son Tarique has not returned to Bangladesh. Could this be the end of the two most powerful dynasties in Bangladesh politics? Icannot speak for the Zia family, but my mother did not",
+   "n_words": 168,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2889,
+      4174,
+      3124
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      3178,
+      3139,
+      3256
+     ],
+     [
+      2761,
+      3303,
+      3203,
+      3734
+     ],
+     [
+      3249,
+      3183,
+      3692,
+      3735
+     ],
+     [
+      3736,
+      3183,
+      4184,
+      3728
+     ],
+     [
+      3784,
+      3882,
+      4136,
+      3978
+     ],
+     [
+      3971,
+      4196,
+      4152,
+      4321
+     ],
+     [
+      4051,
+      4364,
+      4154,
+      4431
+     ]
+    ],
+    "layout_words": 199
+   },
+   "headline_raw": "Bondi shooter came to Hyderabad\nfor nikah in 2001, with son later",
+   "deck_raw": "",
+   "body_raw": "Nikhila Henry\nHyderabad, December 17\n\nBONDI BEACH shooter Sajid\nAkram brought his European-\norigin wife to Hyderabad in\n2001 fora nikah ceremony, and\nhis son Naveed Akram \u2014 a co-\naccused in the terror attack \u2014\naround 2004-05 to introduce\nhim to his parents, The Indian\nExpress has learnt based on\nconversations with investiga-\ntors who have questioned close\n\nrelatives.\nAfter 15 people were killed\nin the mass shooting that oc-\ncurred during a Hanukkah cel-\nebration in Sydney, law en-\nforcement agencies identified\nthe gunmen as Sajid (50) and\nhis son Naveed (24). While the\nformer left for Australiain 1998,\nthe latter was born there.\n\u201cSajid\u2019s family had to be\nquestioned because we needed\nto know whether they had any\ninkling about the attack. They\n\ncooperated. We have not found\nanything suspicious so far,\u201d a\nTelangana intelligence officer\nwho questioned them told\nThe Indian Express.\n\u201cThey seemed shocked to\nknowhe (Sajid) could dosome-\nthing like this. They immedi-\nately told us all they knew\nabout his visits to Hyderabad,\u201d\nthe officer said.\nSajid, an Indian passport\nholder, moved to Australia in\n\u00bbCONTINUED ON PAGE 2\n\nBusiness as Usual\nBy EPUNNY\n\nAmitestone in\nOur nucteay\nJourney,\n\nrename\nit?",
+   "ocr_conf": 92.5959595959596,
+   "ocr_low_conf_share": 0.020202020202020204,
+   "headline": "Bondi shooter came to Hyderabad for nikah in 2001, with son later",
+   "deck": "",
+   "byline": "",
+   "text": "Nikhila Henry Hyderabad, December 17\n\nBONDI BEACH shooter Sajid Akram brought his European-origin wife to Hyderabad in 2001 fora nikah ceremony, and his son Naveed Akram - a coaccused in the terror attack - around 2004-05 to introduce him to his parents, The Indian Express has learnt based on conversations with investigators who have questioned close\n\nrelatives. After 15 people were killed in the mass shooting that occurred during a Hanukkah celebration in Sydney, law enforcement agencies identified the gunmen as Sajid (50) and his son Naveed (24). While the former left for Australiain 1998, the latter was born there. \"Sajid's family had to be questioned because we needed to know whether they had any inkling about the attack. They\n\ncooperated. We have not found anything suspicious so far,\" a Telangana intelligence officer who questioned them told The Indian Express. \"They seemed shocked to knowhe (Sajid) could dosomething like this. They immediately told us all they knew about his visits to Hyderabad,\" the officer said. Sajid, an Indian passport holder, moved to Australia in\n\nBusiness as Usual By EPUNNY\n\nAmitestone in Our nucteay Journey,\n\nrename it?",
+   "n_words": 186,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      3379,
+      2217,
+      3564
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      3617,
+      2207,
+      3732
+     ]
+    ],
+    "layout_words": 27
+   },
+   "headline_raw": "In Conversation With\nThe J&K Chief Minister",
+   "deck_raw": "",
+   "body_raw": "Jammu and Kashmir Chief Minister Omar Abdullah in conversation\nwith The indian Express National Opinion Editor Vandita Mishra at\nthe Express Adda in New Delhion Wednesday. reNukaPuri",
+   "ocr_conf": 89.96296296296296,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "In Conversation With The J&K Chief Minister",
+   "deck": "",
+   "byline": "",
+   "text": "Jammu and Kashmir Chief Minister Omar Abdullah in conversation with The indian Express National Opinion Editor Vandita Mishra at the Express Adda in New Delhion Wednesday. reNukaPuri",
+   "n_words": 27,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      3835,
+      2218,
+      4161
+     ],
+     [
+      1300,
+      3961,
+      1423,
+      4029
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      4212,
+      1627,
+      4286
+     ],
+     [
+      1296,
+      4336,
+      1738,
+      5040
+     ],
+     [
+      1784,
+      4573,
+      1928,
+      4602
+     ]
+    ],
+    "layout_words": 91
+   },
+   "headline_raw": "Stand-up comic, poet,\nstoryteller Zakir Khan\nis guest at Adda today\nsto",
+   "deck_raw": "",
+   "body_raw": "Heena Khandelwal\nMumbai, December 17\n\nZAKIR KHAN dons many hats\n\u2014 stand-up comedian, writer,\npoet, lyricist and actor \u2014 and\nhas emerged asone of the most\nrecognisable voices of contem-\nporary Indian storytelling. Over\nthe last decade, he has built a\nloyal following through a\ndeeply personal brand of hu-\nmour that blends romance,\nheartbreak, family, ambition\nand quiet resilience. Most re-\ncently, in August 2025, he be-\ncame the first Indian comedian\nto headline a full-length Hindi\nstand-up show at the iconic\nMadison Square Garden in\nNew York.\n\nZakir Khan",
+   "ocr_conf": 91.46153846153847,
+   "ocr_low_conf_share": 0.04395604395604396,
+   "headline": "Stand-up comic, poet, storyteller Zakir Khan is guest at Adda today sto",
+   "deck": "",
+   "byline": "",
+   "text": "Heena Khandelwal Mumbai, December 17\n\nZAKIR KHAN dons many hats - stand-up comedian, writer, poet, lyricist and actor - and has emerged asone of the most recognisable voices of contemporary Indian storytelling. Over the last decade, he has built a loyal following through a deeply personal brand of humour that blends romance, heartbreak, family, ambition and quiet resilience. Most recently, in August 2025, he became the first Indian comedian to headline a full-length Hindi stand-up show at the iconic Madison Square Garden in New York.\n\nZakir Khan",
+   "n_words": 87,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      3924,
+      3680,
+      4139
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      3844,
+      3494,
+      3893
+     ]
+    ],
+    "body_boxes": [
+     [
+      2275,
+      4173,
+      2624,
+      4248
+     ],
+     [
+      2270,
+      4299,
+      2714,
+      5080
+     ],
+     [
+      2760,
+      4615,
+      3203,
+      5081
+     ],
+     [
+      3248,
+      4179,
+      3694,
+      5081
+     ]
+    ],
+    "layout_words": 251
+   },
+   "headline_raw": "Zubeen was made to go to sea, not\nenough done to save him: Police",
+   "deck_raw": "CHARGESHEET FILED, TRIAL BEGINS DECEMBER 22",
+   "body_raw": "Sukrita Baruah\nGuwahati, December17\n\nFROM ALLEGEDLY encourag-\ning Zubeen Gargtoventure into\nthe sea while drunk to not\ndoing enough to save him \u2014\nthe chargesheet submitted last\nweek in connection with the\ndeath of the Assamese super-\nstar in Singapore on September\n19 details why the state govern-\nment believes murder charges\nshould be invoked against the\naccused, The Indian Express\nhas learnt.\nThis is in line with what\nChief Minister Himanta Biswa\nSarma has said more thanonce\n\u2014thatthesinger\u2019sdeath was not\nan accident but amurder.\nZubeen was in Singapore as\nacultural brand ambassador\n\nfor the North East India Festi-\nval. Before the festival began,\nhe went for a yacht outing, re-\nportedly organised by\nmembers of the Assam Associ-\nation Singapore, and lost con-\nsciousness while swimming.\nHe was declared dead at Singa-\npore General Hospital. The\ndeath certificate issued by Sin-\ngapore authorities stated that\nthe cause of death was drown-\n\ning, while the Assam Police\nfound that he was intoxicated\nat the time.\nPolice have charged four\npersons with murder: festival\norganiser Shyamkanu Ma-\nhanta, Zubeen\u2019s manager Sidd-\nharth Sharma, and co-musi-\ncians Shekhar Jyoti Goswami\nand Amritprava Mahanta. His\ncousin and Assam Police Ser-\nvice officer Sandipan Garg has\nbeen charged with culpable\nhomicide. Mahanta was in Sin-\ngapore forthe festival whilethe\nother four were on the yacht\nwhen the incident happened.\nIt is learnt that Zubeen\u2019s\nmanager Sharma has been ac-\ncused of \u201ccausing the state of\nintoxication\u201d which impaired\nhis coordination and reflexes\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 92.85657370517929,
+   "ocr_low_conf_share": 0.01593625498007968,
+   "headline": "Zubeen was made to go to sea, not enough done to save him: Police",
+   "deck": "CHARGESHEET FILED, TRIAL BEGINS DECEMBER 22",
+   "byline": "",
+   "text": "Sukrita Baruah Guwahati, December17\n\nFROM ALLEGEDLY encouraging Zubeen Gargtoventure into the sea while drunk to not doing enough to save him - the chargesheet submitted last week in connection with the death of the Assamese super-star in Singapore on September 19 details why the state government believes murder charges should be invoked against the accused, The Indian Express has learnt. This is in line with what Chief Minister Himanta Biswa Sarma has said more thanonce - thatthesinger'sdeath was not an accident but amurder. Zubeen was in Singapore as acultural brand ambassador\n\nfor the North East India Festival. Before the festival began, he went for a yacht outing, reportedly organised by members of the Assam Association Singapore, and lost consciousness while swimming. He was declared dead at Singapore General Hospital. The death certificate issued by Singapore authorities stated that the cause of death was drowning, while the Assam Police found that he was intoxicated at the time. Police have charged four persons with murder: festival organiser Shyamkanu Mahanta, Zubeen's manager Siddharth Sharma, and co-musicians Shekhar Jyoti Goswami and Amritprava Mahanta. His cousin and Assam Police Service officer Sandipan Garg has been charged with culpable homicide. Mahanta was in Singapore forthe festival whilethe other four were on the yacht when the incident happened. It is learnt that Zubeen's manager Sharma has been accused of \"causing the state of intoxication\" which impaired his coordination and reflexes",
+   "n_words": 233,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      353,
+      4519,
+      785,
+      4681
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4731,
+      753,
+      4959
+     ],
+     [
+      319,
+      5012,
+      782,
+      5078
+     ]
+    ],
+    "layout_words": 33
+   },
+   "headline_raw": "Happening \u00a9\ntoday",
+   "deck_raw": "",
+   "body_raw": "@ INDIA AND THEUAE will\nbegin a joint military exercise\nto enhance interoperability and\nfoster defence cooperation.\nExercise Desert Cyclone will\nbe held until December 30.\n\nTRACK THIS AND MORE ON\nWWW.INDIANEXPRESS.COM |",
+   "ocr_conf": 81.18181818181819,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "Happening \u00a9 today",
+   "deck": "",
+   "byline": "TRACK THIS AND MORE ON",
+   "text": "@ INDIA AND THEUAE will begin a joint military exercise to enhance interoperability and foster defence cooperation. Exercise Desert Cyclone will be held until December 30.",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3740,
+      4759,
+      4179,
+      4802
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      4840,
+      4163,
+      5029
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "THE WORLD pacEev",
+   "deck_raw": "",
+   "body_raw": "MUNIR MAY VISIT\nWASHINGTON TO\nDISCUSS TRUMP\u2019S\nGAZA FORCE",
+   "ocr_conf": 93.55555555555556,
+   "ocr_low_conf_share": 0.0,
+   "headline": "THE WORLD pacEev",
+   "deck": "",
+   "byline": "MUNIR MAY VISIT; WASHINGTON TO; DISCUSS TRUMP'S; GAZA FORCE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1864,
+      4922,
+      2067,
+      4974
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1943,
+      4985,
+      2116,
+      5013
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ow Expenieece Partner",
+   "ocr_conf": 34.333333333333336,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ow Expenieece Partner",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5265,
+      4155,
+      5382
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5199,
+      2870,
+      5235
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5405,
+      673,
+      5480
+     ],
+     [
+      806,
+      5410,
+      1250,
+      5636
+     ],
+     [
+      318,
+      5530,
+      1250,
+      5961
+     ],
+     [
+      319,
+      5966,
+      1246,
+      6201
+     ],
+     [
+      1295,
+      5966,
+      2677,
+      6043
+     ],
+     [
+      1291,
+      6087,
+      1736,
+      6202
+     ],
+     [
+      1783,
+      6088,
+      2223,
+      6203
+     ],
+     [
+      2272,
+      6088,
+      2712,
+      6203
+     ],
+     [
+      2759,
+      5411,
+      3202,
+      6239
+     ],
+     [
+      3247,
+      5412,
+      4177,
+      6204
+     ],
+     [
+      3736,
+      5413,
+      4178,
+      6123
+     ]
+    ],
+    "layout_words": 487
+   },
+   "headline_raw": "When NDA considered govt minus Vajpayee, and BJP suggested he be President",
+   "deck_raw": "@ BOOK BY ASHOK TANDON, A MEMBER OF VAJPAYEE\u2019S PMO, SHEDS NEW LIGHT ON THE GOINGS-ON WITHIN THE RULING COALITION AND THE OPPOSITION",
+   "body_raw": "Vikas Pathak\nNew Delhi, December 17\n\nfor five years once fresh elec-\ntions were ordered.\nAshok Tandon, a member\nof Vajpayee\u2019s PMO as in-charge\nof media relations, writes about\nthis little-known anecdote of\n\nWHEN ATAL Bihari Vajpayee\u2019s of Vajpayee\u2019sPMO as in-charge\n13-month government fell by of media relations, writes about\none vote in April 1999, there _ this little-known anecdote of\nweremurmursintheNDAthat 1999 in his book Atal Sansma-\nthe alliance should trytostake ran, which was released on\nfresh claim withthesupportof Tuesday.\nsome new parties after replac- The argument was that \u201cif\ning Vajpayee. the United Front government\nHowever, the (which preceded the\nmove was stone- PAGE1 NDAs) could replace\nwalled by Trinamool anchor (Hp Deve Gowda as\n\nCongress chief Ma- ~ \u201c \u2014 Prime Minister with\nmata Banerjee and MDMK IK Gujral, why could the NDA\nleader Vaiko, who also hadthe not do the same\u201d to explore\nsupport of BJD chief Naveen forminganalternative govern-\nPatnaik. Vajpayee survived, ment, Tandon writes.\nand the NDA returned to power But Banerjee and Vaiko re-\n\nAB Vajpayee being sworn inas PM for athird time on October13, 1999, monthsafter his government\nfell by onevote. arcuive; Atal Sansmaran, published by Prabhat Prakashan, was released Tuesday\n\njected the idea straightaway,\nsaying there would be \u201cNo NDA\ngovernment without Vajpayee\u201d.\n\nPatnaikalso took the same line.\nTandon says, \u201cMamata Ba-\nnerjee and Vaiko could go to\n\nany extent to defend Vajpayee,\nbe it atan NDA forum ora pub-\nlic rally \u2014 Mamata considered\n\nhim a father figure and freely\npoured her heart out when she\nspoke with him.\u201d\nAs per Tandon, what re-\nmained unclear to those in the\nPMO was who was behind the\ncampaign to replace Vajpayee.\nThe senior journalist also\nwrites about why noalternative\ngovernment could be formed\nafter the fall of the Vajpayee\ncoalition, despitethecombined\nOpposition having the\nnumbers. According to him,\nCongress president Sonia Gan-\ndhi tried, but felt betrayed by\nthe Left, and hence refused to\nsupportany third front\u2019 parties.\nThe \u201cbetrayal\u201d, as per Tan-\ndon, wasthat Gandhi had come\nJaipur\n\nto knowthat evenas CPI(M) porttheCongress, askingherto\nleader HarkishanSinghSurieet stake claim. Accordingly, she\nencouraged herto stakeclaim met President K R Narayanan\nto form the government after on April 21, 1999, and told him\nVajpayee\u2019s coalition fell, he she had the support of 272\ngoaded Samajwadi Party chief members, and more would\nMulayam SinghYadavtosayhe join. The next day, Mulayam\nwould not support her as PM. and the Left bloc\u2019s Revolution-\nTandon cites from Gujral\u2019s _ arySocialist Partyand Forward\nbook Matters of Discretionto Bloc vetoed the name of Gan-\nsay that Surjeet wanted Jyoti dhi, indicating their 28 MPs\nBasutobe PM. Gujral alsowrote would not support the Con-\nthat he had cautioned Gandhi _gressifshe was the PM.\non April 20, 1999, to not be Accordingto Tandon, while\n\u201cnaive\u201d and trust the Left, say- Surjeet wanted Basu as PM, he\ning it would betray heratthe also had a plan-B in case the\nlast moment. West Bengal Chief Minister re-\nIn Tandon\u2019s words, Surjeet fused \u2014 President Narayanan,\nshared with Gandhi alist of288 | whosecandidaturewould have\nMPs apparently ready to sup- \u00bbCONTINUED ON PAGE 2\n\nportthe Congress, asking herto\nstake claim. Accordingly, she\nmet President K R Narayanan\non April 21, 1999, and told him\nshe had the support of 272\nmembers, and more would\njoin. The next day, Mulayam\nand the Left bloc\u2019s Revolution-\narySocialist Partyand Forward\nBloc vetoed the name of Gan-\ndhi, indicating their 28 MPs\nwould not support the Con-\ngress ifshe was the PM.\nAccording to Tandon, while\nSurjeet wanted Basu as PM, he\nalso had a plan-B in case the\nWest Bengal Chief Minister re-\nfused \u2014 President Narayanan,",
+   "ocr_conf": 87.24013157894737,
+   "ocr_low_conf_share": 0.08552631578947369,
+   "headline": "When NDA considered govt minus Vajpayee, and BJP suggested he be President",
+   "deck": "@ BOOK BY ASHOK TANDON, A MEMBER OF VAJPAYEE'S PMO, SHEDS NEW LIGHT ON THE GOINGS-ON WITHIN THE RULING COALITION AND THE OPPOSITION",
+   "byline": "",
+   "text": "Vikas Pathak New Delhi, December 17\n\nfor five years once fresh elections were ordered. Ashok Tandon, a member of Vajpayee's PMO as in-charge of media relations, writes about this little-known anecdote of\n\nWHEN ATAL Bihari Vajpayee's of Vajpayee'sPMO as in-charge 13-month government fell by of media relations, writes about one vote in April 1999, there _ this little-known anecdote of weremurmursintheNDAthat 1999 in his book Atal Sansmathe alliance should trytostake ran, which was released on fresh claim withthesupportof Tuesday. some new parties after replac- The argument was that \"if ing Vajpayee. the United Front government However, the (which preceded the move was stone- PAGE1 NDAs) could replace walled by Trinamool anchor (Hp Deve Gowda as\n\nCongress chief Ma- ~ \" - Prime Minister with mata Banerjee and MDMK IK Gujral, why could the NDA leader Vaiko, who also hadthe not do the same\" to explore support of BJD chief Naveen forminganalternative govern-Patnaik. Vajpayee survived, ment, Tandon writes. and the NDA returned to power But Banerjee and Vaiko re-\n\nAB Vajpayee being sworn inas PM for athird time on October13, 1999, monthsafter his government fell by onevote. arcuive; Atal Sansmaran, published by Prabhat Prakashan, was released Tuesday\n\njected the idea straightaway, saying there would be \"No NDA government without Vajpayee\".\n\nPatnaikalso took the same line. Tandon says, \"Mamata Banerjee and Vaiko could go to\n\nany extent to defend Vajpayee, be it atan NDA forum ora public rally - Mamata considered\n\nhim a father figure and freely poured her heart out when she spoke with him.\" As per Tandon, what remained unclear to those in the PMO was who was behind the campaign to replace Vajpayee. The senior journalist also writes about why noalternative government could be formed after the fall of the Vajpayee coalition, despitethecombined Opposition having the numbers. According to him, Congress president Sonia Gandhi tried, but felt betrayed by the Left, and hence refused to supportany third front' parties. The \"betrayal\", as per Tandon, wasthat Gandhi had come Jaipur\n\nto knowthat evenas CPI(M) porttheCongress, askingherto leader HarkishanSinghSurieet stake claim. Accordingly, she encouraged herto stakeclaim met President K R Narayanan to form the government after on April 21, 1999, and told him Vajpayee's coalition fell, he she had the support of 272 goaded Samajwadi Party chief members, and more would Mulayam SinghYadavtosayhe join. The next day, Mulayam would not support her as PM. and the Left bloc's Revolution-Tandon cites from Gujral's _ arySocialist Partyand Forward book Matters of Discretionto Bloc vetoed the name of Gansay that Surjeet wanted Jyoti dhi, indicating their 28 MPs Basutobe PM. Gujral alsowrote would not support the Conthat he had cautioned Gandhi _gressifshe was the PM. on April 20, 1999, to not be Accordingto Tandon, while \"naive\" and trust the Left, say- Surjeet wanted Basu as PM, he ing it would betray heratthe also had a plan-B in case the last moment. West Bengal Chief Minister re-In Tandon's words, Surjeet fused - President Narayanan, shared with Gandhi alist of288 whosecandidaturewould have\n\nportthe Congress, asking herto stake claim. Accordingly, she met President K R Narayanan on April 21, 1999, and told him she had the support of 272 members, and more would join. The next day, Mulayam and the Left bloc's Revolution-arySocialist Partyand Forward Bloc vetoed the name of Gandhi, indicating their 28 MPs would not support the Congress ifshe was the PM. According to Tandon, while Surjeet wanted Basu as PM, he also had a plan-B in case the West Bengal Chief Minister refused - President Narayanan,",
+   "n_words": 582,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      954,
+      5873,
+      1247,
+      5961
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      6008,
+      1248,
+      6201
+     ]
+    ],
+    "layout_words": 24
+   },
+   "headline_raw": "Ball llctnteatad wr Ne WA A LE\nNDAs) could replace\nH D Deve Gowda as",
+   "deck_raw": "",
+   "body_raw": "IK Gujral, why could the NDA\nnot do the same\u201d to explore\nforming an alternative govern-\nment, Tandon writes.\nBut Banerjee and Vaiko re-",
+   "ocr_conf": 93.20833333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "NDAs) could replace H D Deve Gowda as",
+   "deck": "",
+   "byline": "",
+   "text": "IK Gujral, why could the NDA not do the same\" to explore forming an alternative government, Tandon writes. But Banerjee and Vaiko re-",
+   "n_words": 23,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 20.9,
+ "flags": []
+}

@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Secrets and environment variables
+.env
+*.env
+results/.env
+results/scraper/session_cookies.json
+results/scraper/storage_state.json
+
+# Large raw scraped assets and debug logs
+results/scraper/debug/
+results/raw_scraped/
+
+# OS and Python artifacts
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class

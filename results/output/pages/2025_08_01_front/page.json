@@ -1,0 +1,590 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_01_front",
+ "source_file": "2025-08-01_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-01_front.png",
+ "date": "2025-08-01",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 261,
+  "mean_line_conf": 89.11091284837634,
+  "orphan_words": 120,
+  "body_words_total": 1015
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      771,
+      1218,
+      1189
+     ]
+    ],
+    "deck_boxes": [
+     [
+      323,
+      696,
+      1236,
+      729
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      1263,
+      693,
+      1334
+     ],
+     [
+      320,
+      1382,
+      762,
+      1925
+     ]
+    ],
+    "layout_words": 72
+   },
+   "headline_raw": "US tariff: India bright\nspot in global economy\n..Will protect national\ninterest, says Govt",
+   "deck_raw": "PIYUSH GOYAL STATEMENT IN PARLIAMENT",
+   "body_raw": "HARIKISHAN SHARMA\nNEW DELHI, JULY 31\n\nADAY after US President Donald\nTrump announced a25 per cent\ntariff on Indian goods from\nAugust 1, with an additional but\nunspecified \u201cpenalty\u201d for its de-\nfence and energy imports from\nRussia, Union Commerce and\nIndustry Minister Piyush Goyal\nsaid on Thursday that while the\ngovernment was \u201cexamining the\nimplications\u201d, it would take \u201call\nnecessary steps to safeguard and\npromote national interest\u201d.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.09722222222223,
+   "ocr_low_conf_share": 0.027777777777777776,
+   "headline": "US tariff: India bright spot in global economy..Will protect national interest, says Govt",
+   "deck": "PIYUSH GOYAL STATEMENT IN PARLIAMENT",
+   "byline": "HARIKISHAN SHARMA; NEW DELHI, JULY 31",
+   "text": "ADAY after US President Donald Trump announced a25 per cent tariff on Indian goods from August 1, with an additional but unspecified \"penalty\" for its defence and energy imports from Russia, Union Commerce and Industry Minister Piyush Goyal said on Thursday that while the government was \"examining the implications\", it would take \"all necessary steps to safeguard and promote national interest\".",
+   "n_words": 61,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1300,
+      774,
+      3192,
+      1101
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1300,
+      696,
+      2689,
+      754
+     ],
+     [
+      1299,
+      1146,
+      1726,
+      1339
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      1422,
+      1545,
+      1494
+     ],
+     [
+      1296,
+      1542,
+      1740,
+      2361
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "\u2018Strong suspicion, no proof\u2019: Court\nacquits Malegaon blast accused",
+   "deck_raw": "2008 BLAST KILLED 6, INJURED NEARLY 100\nFormer BJP MP\nPragya Thakur\namong 7 acquitted",
+   "body_raw": "SADAF MODAK\nMUMBAI, JULY 31\n\nOBSERVING THAT there was\n\u201cstrong suspicion\u201d about their\nrole in the 2008 Malegaon blast\nbut that cannot be a substitute\nfor \u201clegal proof\u201d, a special court\nThursday acquitted all the seven\naccused in the case, including\nformer BJP MP Pragya Singh\nThakur and Lt Col Prasad Purohit.\nDelivering the verdict,\nSpecial Judge AK Lahoti said that\nwhile it was proven that abomb\nblast had taken place, the prose-\ncution failed to provide reliable\nevidence to prove that the seven\naccused were behind it.\nThe case relates to the blast\nthat occurred on September 29,\n2008, in Malegaon, about 100\nkm northeast of Nashik in\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.88495575221239,
+   "ocr_low_conf_share": 0.017699115044247787,
+   "headline": "'Strong suspicion, no proof': Court acquits Malegaon blast accused",
+   "deck": "2008 BLAST KILLED 6, INJURED NEARLY 100 Former BJP MP Pragya Thakur among 7 acquitted",
+   "byline": "SADAF MODAK; MUMBAI, JULY 31",
+   "text": "OBSERVING THAT there was \"strong suspicion\" about their role in the 2008 Malegaon blast but that cannot be a substitute for \"legal proof\", a special court Thursday acquitted all the seven accused in the case, including former BJP MP Pragya Singh Thakur and Lt Col Prasad Purohit. Delivering the verdict, Special Judge AK Lahoti said that while it was proven that abomb blast had taken place, the prosecution failed to provide reliable evidence to prove that the seven accused were behind it. The case relates to the blast that occurred on September 29, 2008, in Malegaon, about 100 km northeast of Nashik in",
+   "n_words": 103,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1210,
+      3224,
+      1431
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2765,
+      1141,
+      3109,
+      1195
+     ]
+    ],
+    "body_boxes": [
+     [
+      2764,
+      1504,
+      3062,
+      1574
+     ],
+     [
+      2760,
+      1622,
+      3208,
+      2362
+     ],
+     [
+      2806,
+      2490,
+      3164,
+      2524
+     ],
+     [
+      2899,
+      2567,
+      3063,
+      2595
+     ],
+     [
+      2808,
+      2777,
+      3068,
+      2847
+     ],
+     [
+      2881,
+      2845,
+      3075,
+      2935
+     ]
+    ],
+    "layout_words": 123
+   },
+   "headline_raw": "victims\u2019 homes: |\n\u2018Hopes of justice\nare shattered\u2019",
+   "deck_raw": "Chorus from",
+   "body_raw": "ZEESHAN SHAIKH\nMALEGAON, JULY 31\n\nSOME OF them had clung tothe\nhope of getting justice for their\nloved ones; some had moved on,\ntrying to forget the two-decade-\nold trauma and rebuild their\nlives. But Thursday\u2019s verdict by a\nMumbai court, acquitting all\nseven accused in the 2008\nMalegaon bomb blast case, has\ncome asa shock for all of them.\nAmong the hardest hit was\nNisar Bilal, whose 19-year-oldson\nAzhar was among the six people\nkilled on September 29,2008, af-\ntera bombplaced insidea motor-\ncycle exploded at the bustling\nBhikhu Chowk in Malegaon, in-\njuring over a hundred others.\nCONTINUED ON PAGE 2\n\nBUSINESS AS USUAL\n\nBy UNNY\n\n_,\nReta!\n# / vie are together in\n\nce With America (0\nImOp the mess\n_ betow,",
+   "ocr_conf": 87.16,
+   "ocr_low_conf_share": 0.104,
+   "headline": "victims' homes: 'Hopes of justice are shattered'",
+   "deck": "Chorus from",
+   "byline": "ZEESHAN SHAIKH; MALEGAON, JULY 31",
+   "text": "SOME OF them had clung tothe hope of getting justice for their loved ones; some had moved on, trying to forget the two-decadeold trauma and rebuild their lives. But Thursday's verdict by a Mumbai court, acquitting all seven accused in the 2008 Malegaon bomb blast case, has come asa shock for all of them. Among the hardest hit was Nisar Bilal, whose 19-year-oldson Azhar was among the six people killed on September 29,2008, aftera bombplaced insidea motorcycle exploded at the bustling Bhikhu Chowk in Malegaon, injuring over a hundred others.\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nReta! # / vie are together in\n\nce With America (0 ImOp the mess _ betow,",
+   "n_words": 111,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3236,
+      1566,
+      4089,
+      1651
+     ],
+     [
+      3253,
+      1737,
+      4071,
+      2072
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3254,
+      2136,
+      3678,
+      2206
+     ],
+     [
+      3251,
+      2257,
+      3693,
+      3082
+     ],
+     [
+      3965,
+      2174,
+      4180,
+      2324
+     ]
+    ],
+    "layout_words": 119
+   },
+   "headline_raw": "|=. Desh ke har Mukh pe\nKal Penn, actor and\nactivist, is guest at\nExpress Adda today",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, JULY 31\n\nKAL PENN wears many hats \u2014\nactor, author, TV show host, pro-\nducer and former White House\nstaffer. Most recently, he has\nbeen making headlines for\nreprising the role of Kumar in the\nupcoming fourth installment in\nthe Harold and Kumar franchise\nand for the fact that hisname for\nthe role of Gogol in Mira Nair\u2019s\nadaptation of Jnumpa Lahiri\u2019s\nThe Namesake (2006) was sug-\ngested by New York City\u2019s may-\noral candidate and Nair\u2019s son\nZohran Mamdani.\nPenn will be the guest at\nExpress Adda in Mumbai on\nFriday. He will be in conversation\nwith Anant Goenka, Executive\nDirector, The Indian Express\nGroup.\n\nPennbacked\nKamala Harris\nfor post of US\nPresident",
+   "ocr_conf": 93.72268907563026,
+   "ocr_low_conf_share": 0.0,
+   "headline": "=. Desh ke har Mukh pe Kal Penn, actor and activist, is guest at Express Adda today",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, JULY 31",
+   "text": "KAL PENN wears many hats - actor, author, TV show host, producer and former White House staffer. Most recently, he has been making headlines for reprising the role of Kumar in the upcoming fourth installment in the Harold and Kumar franchise and for the fact that hisname for the role of Gogol in Mira Nair's adaptation of Jnumpa Lahiri's The Namesake (2006) was suggested by New York City's mayoral candidate and Nair's son Zohran Mamdani. Penn will be the guest at Express Adda in Mumbai on Friday. He will be in conversation with Anant Goenka, Executive Director, The Indian Express Group.\n\nPennbacked Kamala Harris for post of US President",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      1646,
+      1019,
+      1703
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      1761,
+      1216,
+      1886
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "ECONOMY",
+   "deck_raw": "",
+   "body_raw": "U.S. SANCTIONS\nEIGHT INDIAN FIRMS,\nFIVE INDIANS pace 13",
+   "ocr_conf": 69.11111111111111,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "ECONOMY",
+   "deck": "",
+   "byline": "U.S. SANCTIONS; EIGHT INDIAN FIRMS,",
+   "text": "FIVE INDIANS pace 13",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      1760,
+      2707,
+      1893
+     ],
+     [
+      1788,
+      1902,
+      2693,
+      1988
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1788,
+      2056,
+      2214,
+      2126
+     ],
+     [
+      1785,
+      2174,
+      2228,
+      2368
+     ],
+     [
+      2276,
+      2017,
+      2717,
+      2362
+     ]
+    ],
+    "layout_words": 75
+   },
+   "headline_raw": "Congress should apologise,\nconspiracy decimated: BJP",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, NEW DELHI, JULY 31\n\nFOLLOWING THE acquittal of all\nseven accused in the 2008\nMalegaon blast case, the BJP\nThursday demanded a public\napology from Congress, including\n\nits leaders Sonia and Rahul\nGandhi, for \u201cconspiring\u201d to im-\npose a narrative of \u201csaffron terror\u2019.\n\u201cTerrorism was not, is not,\nand will never be saffron. The\nCongress must seek forgiveness\nfrom the entire Hindu commu-\nnity. The Congress-led UPA\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.54666666666667,
+   "ocr_low_conf_share": 0.05333333333333334,
+   "headline": "Congress should apologise, conspiracy decimated: BJP",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, NEW DELHI, JULY 31",
+   "text": "FOLLOWING THE acquittal of all seven accused in the 2008 Malegaon blast case, the BJP Thursday demanded a public apology from Congress, including\n\nits leaders Sonia and Rahul Gandhi, for \"conspiring\" to impose a narrative of \"saffron terror'. \"Terrorism was not, is not, and will never be saffron. The Congress must seek forgiveness from the entire Hindu community. The Congress-led UPA",
+   "n_words": 61,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1999,
+      1227,
+      2296
+     ]
+    ],
+    "deck_boxes": [
+     [
+      835,
+      2373,
+      1188,
+      2471
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      2372,
+      603,
+      2442
+     ],
+     [
+      319,
+      2490,
+      762,
+      3112
+     ],
+     [
+      830,
+      2489,
+      1224,
+      2915
+     ],
+     [
+      825,
+      2925,
+      1202,
+      3109
+     ]
+    ],
+    "layout_words": 138
+   },
+   "headline_raw": "Sense in Govt: Stay calm\namid headwinds, not get\npushed into \u2018bad deal\u2019",
+   "deck_raw": "INDIA, RUSSIADEAD\nECONOMIES: TRUMP",
+   "body_raw": "ANILSASI\nNEW DELHI, JULY 31\n\nAMID THE upheaval in Donald\nTrump\u2019s tariff blitzkrieg, there\nare certain assumptions New\nDelhi had factored in: that a bi-\nlateral trade deal, like all deals,\nwould involve some give and\ntake; that Washington DC will\nmaintain a substantial differen-\ntial in tariffs between China and\nIndia; and that the American\nside would be cognizant of red-\nlines that have endured for\ndecades, including concerns\nover genetically modified crops\nand safeguards for the vast\nCONTINUED ON PAGE 2\n\n\u201cI don't care what India\ndoes with Russia They can\ntake their dead economies\ndown together, for alll care\u201d\nUS-PAK TRADE DEAL\n\u201cPakistan, US will work\ntogether on developing\ntheir massive oil reserves...\nmaybe they will be selling\n_ oiltoIndia\n\n~ some day\u201d\nfj '\u2019 USPRESIDENT\ns ah jf DONALDTRUMP\n<= a PAGES6G, 13",
+   "ocr_conf": 88.69343065693431,
+   "ocr_low_conf_share": 0.08759124087591241,
+   "headline": "Sense in Govt: Stay calm amid headwinds, not get pushed into 'bad deal'",
+   "deck": "INDIA, RUSSIADEAD ECONOMIES: TRUMP",
+   "byline": "ANILSASI; NEW DELHI, JULY 31",
+   "text": "AMID THE upheaval in Donald Trump's tariff blitzkrieg, there are certain assumptions New Delhi had factored in: that a bilateral trade deal, like all deals, would involve some give and take; that Washington DC will maintain a substantial differential in tariffs between China and India; and that the American side would be cognizant of redlines that have endured for decades, including concerns over genetically modified crops and safeguards for the vast\n\n\"I don't care what India does with Russia They can take their dead economies down together, for alll care\" US-PAK TRADE DEAL \"Pakistan, US will work together on developing their massive oil reserves... maybe they will be selling _ oiltoIndia\n\n~ some day\" fj '' USPRESIDENT",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      2506,
+      2707,
+      2701
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1298,
+      2442,
+      2490,
+      2476
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      2768,
+      1580,
+      2838
+     ],
+     [
+      1296,
+      2886,
+      1738,
+      3119
+     ],
+     [
+      1923,
+      2939,
+      2089,
+      2972
+     ],
+     [
+      1893,
+      3052,
+      2119,
+      3085
+     ],
+     [
+      2275,
+      2730,
+      2716,
+      3113
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "As next phase starts, EC may deploy its\nofficers to help voters get documents",
+   "deck_raw": "BIHAR SPECIAL INTENSIVE REVISION: DRAFT ROLL TODAY",
+   "body_raw": "DAMINI NATH\nNEW DELHI, JULY 31\n\nWITH A minority of the 7.23\ncrore applicants submitting doc-\numents to prove their eligibility\nso far, and Bihar\u2019s draft electoral\nroll set to go live Friday, the\nElection Commission (EC) is\n\nWHAT WILL\n\nCOUNTIN BIHAR\n\nweighing a new plan \u2014 deploy-\ning itsown machinery to helpis-\nsue the necessary papers, The\nIndian Express has learnt.\nThe poll watchdog has asked\nDistrict Magistrates, who are\nalso District Election Officers\n(DEOs), to get Assistant Electoral\nRegistration Officers \u2014 usually\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.86363636363636,
+   "ocr_low_conf_share": 0.0,
+   "headline": "As next phase starts, EC may deploy its officers to help voters get documents",
+   "deck": "BIHAR SPECIAL INTENSIVE REVISION: DRAFT ROLL TODAY",
+   "byline": "DAMINI NATH; NEW DELHI, JULY 31",
+   "text": "WITH A minority of the 7.23 crore applicants submitting documents to prove their eligibility so far, and Bihar's draft electoral roll set to go live Friday, the Election Commission (EC) is\n\nWHAT WILL\n\nCOUNTIN BIHAR\n\nweighing a new plan - deploying itsown machinery to helpissue the necessary papers, The Indian Express has learnt. The poll watchdog has asked District Magistrates, who are also District Election Officers (DEOs), to get Assistant Electoral Registration Officers - usually",
+   "n_words": 75,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1425,
+      4858,
+      3226,
+      4983
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      631,
+      5220,
+      2563,
+      5454
+     ],
+     [
+      1329,
+      5586,
+      1569,
+      5625
+     ],
+     [
+      1719,
+      5592,
+      2153,
+      5629
+     ],
+     [
+      2260,
+      5595,
+      2445,
+      5629
+     ],
+     [
+      2668,
+      5216,
+      3306,
+      5507
+     ]
+    ],
+    "layout_words": 81
+   },
+   "headline_raw": "THE ONLY AMC IN LEH",
+   "deck_raw": "",
+   "body_raw": "Enabling opportunities for every Indian, Nippon India Mutual Fund is delighted to opena\nbranch in Leh that unlocks new doors and possibilities for the people. Because we believe\nevery Indian, no matter how remote, deserves to invest for a better future. And we are making\nFinancial inclusion more than just a promise; we are making it happen.\n\nCrore AUM\n\nMutual Fund investors\n\nLocations\n\nInauguration by\nGeneral V.P. Malik\n(Retd) Kargil War Veteran and\nIndependent Director, Nippon Life\nIndia Asset Management Limited",
+   "ocr_conf": 94.58024691358025,
+   "ocr_low_conf_share": 0.0,
+   "headline": "THE ONLY AMC IN LEH",
+   "deck": "",
+   "byline": "",
+   "text": "Enabling opportunities for every Indian, Nippon India Mutual Fund is delighted to opena branch in Leh that unlocks new doors and possibilities for the people. Because we believe every Indian, no matter how remote, deserves to invest for a better future. And we are making Financial inclusion more than just a promise; we are making it happen.\n\nCrore AUM\n\nMutual Fund investors\n\nLocations\n\nInauguration by General V.P. Malik (Retd) Kargil War Veteran and Independent Director, Nippon Life India Asset Management Limited",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1329,
+      5523,
+      1667,
+      5627
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1246,
+      5951,
+      1476,
+      6019
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "76.39 Lakh+ |\nCrore AUM",
+   "deck_raw": "",
+   "body_raw": "to download\nour Investor App",
+   "ocr_conf": 95.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Crore AUM",
+   "deck": "",
+   "byline": "",
+   "text": "to download our Investor App",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1799,
+      5879,
+      3853,
+      6057
+     ]
+    ],
+    "layout_words": 120,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Data presented herein is as on 30\" June, 2025. Assets Under Management (AUM) (in INR Crore) include: Debt: 87,605.95, Gilt: 2,059.68, Liquid: 39,066.53, ELSS: 15,620.19,\nEquity: 258,855.22, Hybrid Schemes: 32,758.02, Gold ETF: 21,579.70, Index Funds: 18,228.91, Other ETFs: 160,022.28, Solution Oriented Schemes: 3,430.82, Total AUM\n(After Inter scheme Adjustments): 6,39,227.32, Fund of Funds (Domestic): 6,169.87, Geographical Spread (%): Top 5 Cities: 63.11 | Next 10 Cities: 12.27 | Next 20 Cities:\n6.05 | Next 75 Cities: 7.79 | Other: 10.78. The Unique investors count for Mutual Fund industry as on 30\" June, 2025 is 5,52,68,610, and that for Nippon India Mutual Fund\nis 2,11,61,947. Market Share: 38.3%. Hence the phrase '1 out of every 3\u2019 investors is used. Source: AMFI.",
+   "ocr_conf": 93.825,
+   "ocr_low_conf_share": 0.008333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Data presented herein is as on 30\" June, 2025. Assets Under Management (AUM) (in INR Crore) include: Debt: 87,605.95, Gilt: 2,059.68, Liquid: 39,066.53, ELSS: 15,620.19, Equity: 258,855.22, Hybrid Schemes: 32,758.02, Gold ETF: 21,579.70, Index Funds: 18,228.91, Other ETFs: 160,022.28, Solution Oriented Schemes: 3,430.82, Total AUM (After Inter scheme Adjustments): 6,39,227.32, Fund of Funds (Domestic): 6,169.87, Geographical Spread (%): Top 5 Cities: 63.11 Next 10 Cities: 12.27 Next 20 Cities: 6.05 Next 75 Cities: 7.79 Other: 10.78. The Unique investors count for Mutual Fund industry as on 30\" June, 2025 is 5,52,68,610, and that for Nippon India Mutual Fund is 2,11,61,947. Market Share: 38.3%. Hence the phrase '1 out of every 3' investors is used. Source: AMFI.",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 14.0,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

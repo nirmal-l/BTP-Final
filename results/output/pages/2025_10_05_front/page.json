@@ -1,0 +1,731 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_05_front",
+ "source_file": "2025-10-05_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-05_front.png",
+ "date": "2025-10-05",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 439,
+  "mean_line_conf": 88.69750696026323,
+  "orphan_words": 0,
+  "body_words_total": 1714
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3858,
+      73,
+      4070,
+      186
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3771,
+      236,
+      4160,
+      275
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "eve",
+   "deck_raw": "",
+   "body_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve",
+   "deck": "",
+   "byline": "THE SUNDAY EXPRESS MAGAZINE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3702,
+      451,
+      4184,
+      526
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3399,
+      545,
+      4181,
+      626
+     ],
+     [
+      3251,
+      1910,
+      4153,
+      1986
+     ]
+    ],
+    "layout_words": 33
+   },
+   "headline_raw": "\u2018he Fibre Fix",
+   "deck_raw": "",
+   "body_raw": "Nutritionists and chefs are designing diets rich in\nthis nutrient that can protect your gut, heart, brain\n\nPrime Minister Narendra Modi and Bihar CM Nitish Kumar\nduring the virtual event on Saturday. AN",
+   "ocr_conf": 94.0909090909091,
+   "ocr_low_conf_share": 0.0,
+   "headline": "'he Fibre Fix",
+   "deck": "",
+   "byline": "",
+   "text": "Nutritionists and chefs are designing diets rich in this nutrient that can protect your gut, heart, brain\n\nPrime Minister Narendra Modi and Bihar CM Nitish Kumar during the virtual event on Saturday. AN",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1498,
+      736,
+      1555
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2053,
+      761,
+      2180
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "ZUBEEN POISONED IN\nSINGAPORE, ALLEGES\nBANDMATE paces 4,5",
+   "ocr_conf": 58.375,
+   "ocr_low_conf_share": 0.5,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "ZUBEEN POISONED IN; SINGAPORE, ALLEGES",
+   "text": "BANDMATE paces 4,5",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      1589,
+      3108,
+      1948
+     ],
+     [
+      811,
+      1987,
+      1739,
+      2311
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      1504,
+      2228,
+      1553
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      2263,
+      1164,
+      2414
+     ],
+     [
+      808,
+      2463,
+      1249,
+      3050
+     ],
+     [
+      1332,
+      2332,
+      1699,
+      2865
+     ],
+     [
+      1297,
+      2937,
+      1737,
+      3043
+     ]
+    ],
+    "layout_words": 147
+   },
+   "headline_raw": "Israel, Hamas say they will work with\nTrump\u2019s Gaza plan but gaps remain\nHamas agrees to release hostages but\nmuch unclear about its future; Trump\nsays it must move quickly or all bets off\nAARONBOXERMAN, | QUESTIONS PERSIST",
+   "deck_raw": "AHEAD OF SECOND ANNIVERSARY OF ATTACK",
+   "body_raw": "AARON BOXERMAN,\nNATAN ODENHEIMER\n& ADAM RAGSON\nJERUSALEM, OCTOBER 4\n\nISRAEL AND Hamas signalled a\nreadiness to move forward with\nparts of US President Donald\nTrump's 20-point cease-fire plan\nin what many hoped would lead\nto a diplomatic breakthrough\nbut significant gaps will need to\nbe negotiated to bring an end to\nthe war in Gaza days ahead of its\nsecond anniversary.\nThe Israeli government said\nSaturday that it was preparing for\nthe \u201cimmediate implementa-\ntion\u201d of the first steps of Trump's\nproposal. Hours earlier, Hamas\n\n@ Hamas said it\u2019s willing\nto release hostages and\nhand over power to other\nPalestinians but other\naspects of plan require\nconsultations among\nPalestinians.\nIt didn't address issue\nof group demilitarising\n@ Next steps unclear for\nPalestinians in Gazaas\nIsraelitroops are still\nlaying siege to the city.\n\nsaid ina statement that it would\nrelease ail of its remaining\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.62837837837837,
+   "ocr_low_conf_share": 0.05405405405405406,
+   "headline": "Israel, Hamas say they will work with Trump's Gaza plan but gaps remain Hamas agrees to release hostages but much unclear about its future; Trump says it must move quickly or all bets off AARONBOXERMAN, QUESTIONS PERSIST",
+   "deck": "AHEAD OF SECOND ANNIVERSARY OF ATTACK",
+   "byline": "AARON BOXERMAN,; NATAN ODENHEIMER; & ADAM RAGSON; JERUSALEM, OCTOBER 4",
+   "text": "ISRAEL AND Hamas signalled a readiness to move forward with parts of US President Donald Trump's 20-point cease-fire plan in what many hoped would lead to a diplomatic breakthrough but significant gaps will need to be negotiated to bring an end to the war in Gaza days ahead of its second anniversary. The Israeli government said Saturday that it was preparing for the \"immediate implementation\" of the first steps of Trump's proposal. Hours earlier, Hamas\n\n@ Hamas said it's willing to release hostages and hand over power to other Palestinians but other aspects of plan require consultations among Palestinians. It didn't address issue of group demilitarising @ Next steps unclear for Palestinians in Gazaas Israelitroops are still laying siege to the city.\n\nsaid ina statement that it would release ail of its remaining",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      1984,
+      3197,
+      2403
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      2464,
+      3103,
+      2534
+     ],
+     [
+      2762,
+      2582,
+      3203,
+      3044
+     ]
+    ],
+    "layout_words": 58
+   },
+   "headline_raw": "PM welcomes\nleadership of\nTrump, calls it\ndecisive progress\nFingers crossedin\nDelhi over next steps",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER 4\n\nWITHIN HOURS of US President\nDonald Trump\u2019s welcoming the\nHaimias statement broadly agree-\ning to his proposal and asking\nIsrael to stop bombing Gaza,\nPrime Minister Narendra Modi\nonce again welcomed Trump's\n\u201cleadership\u201d on what he called\n\u201cdecisive progress\u201d and a \u201csignif-\nicant step forward\u201d.\nWhile there are many\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.91525423728814,
+   "ocr_low_conf_share": 0.06779661016949153,
+   "headline": "PM welcomes leadership of Trump, calls it decisive progress Fingers crossedin Delhi over next steps",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER 4",
+   "text": "WITHIN HOURS of US President Donald Trump's welcoming the Haimias statement broadly agreeing to his proposal and asking Israel to stop bombing Gaza, Prime Minister Narendra Modi once again welcomed Trump's \"leadership\" on what he called \"decisive progress\" and a \"significant step forward\". While there are many",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2050,
+      4167,
+      2527
+     ],
+     [
+      3251,
+      2580,
+      4165,
+      2711
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      2781,
+      3564,
+      2851
+     ],
+     [
+      3250,
+      2899,
+      3691,
+      3915
+     ]
+    ],
+    "layout_words": 125
+   },
+   "headline_raw": "Rolling out schemes\nfor youth, PM says\nRJD, Cong ruined\neducation in Bihar\nModi takes swipe at Rahul, says some\nare trying to steal title of Jan Nayak",
+   "deck_raw": "",
+   "body_raw": "HIMANSHUHARSH\nPATNA, OCTOBER 4\n\nLAUNCHING A slewof youth-cen-\ntric initiatives worth Rs 62,000\ncrore in poll-bound Bihar, Prime\nMinister Narendra Modi on\nSaturday blamed previous gov-\nernments led by the RJD and\nCongress for \u201cruining the educa-\ntionsystem\u2019 inthestate, which he\nsaid, led to largescale migration.\nIn an address through video\nconferencing from Vigyan\nBhawan in New Delhi, the Prime\nMinister said, \u201cTwo to two-and-\na-halfdecades ago, the education\nsystem in Bihar was in asham-\nbles. Schools barely opened, ap-\npointments were not made. This\nisthe truth.\u201d\nHe said people were forced\ntosend their children away from\nBihar to cities in other states,\nmarking the beginning of the\nmigration of youth from Bihar.\n\u201cWhich parent doesn\u2019t want\ntheir child to study here and\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.984,
+   "ocr_low_conf_share": 0.04,
+   "headline": "Rolling out schemes for youth, PM says RJD, Cong ruined education in Bihar Modi takes swipe at Rahul, says some are trying to steal title of Jan Nayak",
+   "deck": "",
+   "byline": "HIMANSHUHARSH; PATNA, OCTOBER 4",
+   "text": "LAUNCHING A slewof youth-centric initiatives worth Rs 62,000 crore in poll-bound Bihar, Prime Minister Narendra Modi on Saturday blamed previous governments led by the RJD and Congress for \"ruining the educationsystem' inthestate, which he said, led to largescale migration. In an address through video conferencing from Vigyan Bhawan in New Delhi, the Prime Minister said, \"Two to two-anda-halfdecades ago, the education system in Bihar was in ashambles. Schools barely opened, appointments were not made. This isthe truth.\" He said people were forced tosend their children away from Bihar to cities in other states, marking the beginning of the migration of youth from Bihar. \"Which parent doesn't want their child to study here and CONTINUEDON PAGE2",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2362,
+      726,
+      2732
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      2290,
+      712,
+      2322
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      2818,
+      759,
+      2967
+     ],
+     [
+      318,
+      3015,
+      760,
+      4347
+     ]
+    ],
+    "layout_words": 187
+   },
+   "headline_raw": "Bareilly: Police\nsay poster not\nissue; banquet\nhall owned by\naccused razed",
+   "deck_raw": "SP TEAM STOPPED",
+   "body_raw": "ALOK SINGH, BHUPENDRA\nPANDEY & NEETIKAJHA\nNEW DELHI, LUCKNOW,\nGHAZIABAD, OCTOBER 4\n\nOVER A week after clashes\nerupted in Bareilly over the \u2018I\nLove Muhammad\u2019 row, DIG\n(Bareilly Range) Ajay Kumar\nSahni said that the posters were\nnot the issue but action had to be\ntaken after a large gathering dis-\nturbed law and order last Friday.\nSpeaking to The Indian\nExpress on Saturday, Sahni said,\n\u201cThe posters were never an issue.\nIn fact, even before last Friday\u2019s\nincident, we had informed the\ngathering\u2019s organisers about this.\nHowever, when they took the\nlaw into their own hands by pelt-\ning stones at the police, we were\ncompelled to take action.\u201d\nAuthorities also demolished\na banquet hall owned by a man\narrested in connection with the\nclashes, stating that itwasillegal.\nThe Opposition Samajwadi\nParty and BJP, meanwhile, con-\ntinued to spar over the incident\nafter a 14-member delegation\nled by Leader of Opposition Mata\nPrasad Pandey was stopped\nfrom visiting Bareilly.\nPandey, 83, the most senior\nleader in the UP Assembly, said\nhe was not allowed to leave his\nhouse by the Lucknow Police.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.66310160427807,
+   "ocr_low_conf_share": 0.0427807486631016,
+   "headline": "Bareilly: Police say poster not issue; banquet hall owned by accused razed",
+   "deck": "SP TEAM STOPPED",
+   "byline": "ALOK SINGH, BHUPENDRA; PANDEY & NEETIKAJHA; NEW DELHI, LUCKNOW,; GHAZIABAD, OCTOBER 4",
+   "text": "OVER A week after clashes erupted in Bareilly over the 'I Love Muhammad' row, DIG (Bareilly Range) Ajay Kumar Sahni said that the posters were not the issue but action had to be taken after a large gathering disturbed law and order last Friday. Speaking to The Indian Express on Saturday, Sahni said, \"The posters were never an issue. In fact, even before last Friday's incident, we had informed the gathering's organisers about this. However, when they took the law into their own hands by pelting stones at the police, we were compelled to take action.\" Authorities also demolished a banquet hall owned by a man arrested in connection with the clashes, stating that itwasillegal. The Opposition Samajwadi Party and BJP, meanwhile, continued to spar over the incident after a 14-member delegation led by Leader of Opposition Mata Prasad Pandey was stopped from visiting Bareilly. Pandey, 83, the most senior leader in the UP Assembly, said he was not allowed to leave his house by the Lucknow Police.",
+   "n_words": 168,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3773,
+      2780,
+      4139,
+      2904
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3772,
+      2928,
+      4143,
+      3574
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "%62,000-CR: LOANS\nTOSCHOLARSHIPS",
+   "deck_raw": "",
+   "body_raw": "BIHAR STUDENT\nCREDIT CARD SCHEME:\nIn renewed format, offers\ninterest-free education\nloans; scholarships\nincreased from 21,800\nto 73,600\nPM SETU SCHEME:\nWorth Rs 60,000 crore,\nfor upgrading 1,000\ngovernment ITIs\nPM-USHA SCHEME:\nNew academic and\nresearch facilities in\nfour Bihar universities\nata cost of 7160 crore",
+   "ocr_conf": 84.69565217391305,
+   "ocr_low_conf_share": 0.10869565217391304,
+   "headline": "TOSCHOLARSHIPS",
+   "deck": "",
+   "byline": "BIHAR STUDENT; CREDIT CARD SCHEME:",
+   "text": "In renewed format, offers interest-free education loans; scholarships increased from 21,800 PM SETU SCHEME: Worth Rs 60,000 crore, for upgrading 1,000 government ITIs PM-USHA SCHEME: New academic and research facilities in four Bihar universities ata cost of 7160 crore",
+   "n_words": 39,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3195,
+      1710,
+      3531
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      3610,
+      1181,
+      3679
+     ],
+     [
+      807,
+      3728,
+      1249,
+      4348
+     ],
+     [
+      1290,
+      4084,
+      1739,
+      4348
+     ]
+    ],
+    "layout_words": 132
+   },
+   "headline_raw": "Shah to Maoists: What\nis there to talk... drop\nweapons, surrrender",
+   "deck_raw": "",
+   "body_raw": "JAYPRAKASHS NAIDU\nRAIPUR, OCTOBER 4\n\nAGAINST THE backdrop of inter-\nnal strife in the Maoist ranks on\nwhether or not to surrender and\nengage in talks with the Centre,\nUnion Home Minister Amit Shah\nSaturday drew a red line that\ntakes the choice out of their\nhands. Speaking in Chhattis-\ngarh\u2019s Bastar, he ruled out talks\nand made it clear that the only\nway for Maoists to survive is to\nlay down arms.\nEmphasising that both the\nstate and central governments\nare \u201cdedicated to the develop-\nment of Bastar and other Naxal-\n\naffected areas\u201d, he said, \u201cKuch log\nvaartha ki baat karte hain. Mein\nfir se ek baar spastha kar deta\nhoon... Kis cheez ki vaartha kami\nhai? (Some people talk about\nhaving talks. I want to make it\nCONTINUED ONPAGE 2",
+   "ocr_conf": 93.34848484848484,
+   "ocr_low_conf_share": 0.022727272727272728,
+   "headline": "Shah to Maoists: What is there to talk... drop weapons, surrrender",
+   "deck": "",
+   "byline": "JAYPRAKASHS NAIDU; RAIPUR, OCTOBER 4",
+   "text": "AGAINST THE backdrop of internal strife in the Maoist ranks on whether or not to surrender and engage in talks with the Centre, Union Home Minister Amit Shah Saturday drew a red line that takes the choice out of their hands. Speaking in Chhattisgarh's Bastar, he ruled out talks and made it clear that the only way for Maoists to survive is to lay down arms. Emphasising that both the state and central governments are \"dedicated to the development of Bastar and other Naxalaffected areas\", he said, \"Kuch log vaartha ki baat karte hain. Mein fir se ek baar spastha kar deta hoon... Kis cheez ki vaartha kami hai? (Some people talk about having talks. I want to make it",
+   "n_words": 120,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      3234,
+      3141,
+      3462
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      3786,
+      3193,
+      4272
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "LANDMINE\nTo PoDIUM\nGLORY",
+   "deck_raw": "",
+   "body_raw": "SUBEDAR SOMAN RANA,\n42, (left) who lost his legina\nlandmineblast, won a silver\ninthe men\u2019s shot put F57 at\nthe World Para Athletics\nChampionships in New Dethi\non Saturday.\nPARDEEP KUMAR, also a\nsoldier and blast survivor,\nwona bronze in thediscus\nthrow F64 classification on\nFriday. Gajendra Yadav",
+   "ocr_conf": 83.02083333333333,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "LANDMINE To PoDIUM GLORY",
+   "deck": "",
+   "byline": "SUBEDAR SOMAN RANA,",
+   "text": "42, (left) who lost his legina landmineblast, won a silver inthe men's shot put F57 at the World Para Athletics Championships in New Dethi on Saturday. PARDEEP KUMAR, also a soldier and blast survivor, wona bronze in thediscus throw F64 classification on Friday. Gajendra Yadav",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3737,
+      3650,
+      4086,
+      3707
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3738,
+      3757,
+      4149,
+      3880
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "GOVT & POLITICS",
+   "deck_raw": "",
+   "body_raw": "HOLD POLLS SOON IN\nMINIMAL PHASES:\nPARTIES TO EC paces",
+   "ocr_conf": 82.2,
+   "ocr_low_conf_share": 0.2,
+   "headline": "GOVT & POLITICS",
+   "deck": "",
+   "byline": "HOLD POLLS SOON IN; MINIMAL PHASES:",
+   "text": "PARTIES TO EC paces",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      4002,
+      4175,
+      4435
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      4521,
+      3586,
+      4630
+     ],
+     [
+      3248,
+      4679,
+      3689,
+      5188
+     ],
+     [
+      3736,
+      4482,
+      4181,
+      5181
+     ],
+     [
+      3735,
+      5510,
+      4179,
+      6132
+     ]
+    ],
+    "layout_words": 238
+   },
+   "headline_raw": "Nepal Gen Z protests in\nmind, Delhi Police chief\nasks units to prepare\n\u2018contingency plan\u2019",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, OCTOBER4\n\nAGAINSTTHE backdrop of the re-\ncent Gen Z protests in Nepal,\nwhich spiralled into violence and\nforced a regime change, Delhi\nPolice Commissioner Satish\nGolchhaisleamt to have directed\nthree units \u2014 the Intelligence\nbranch, Operations unit and\nDelhi Armed Police \u2014 to draft a\n\u201ccontingency action plan\u201d to deal\nwith a similar situation if itwere\nto arise in the national capital.\nIn arecent meeting, Golchha\n\nis also learnt to have asked two\nSpecial Commissioners of Police\nto form acommittee to conduct\nan audit of their inventory of\nnon-lethal weapons and to sug-\ngest if more such weapons or\ntechnology are required.\nSenior officers said the devel-\nopment comes keepingin mind\nthe fact that \u201clarge-scale, youth-\ndriven, leaderless demonstra-\ntions \u2014 similar to the ones wit-\nnessed in Kathmandu and other\nparts of Nepal \u2014could spill over\ninto India or inspire parallel mo-\nbilisations in Delhi\u201d.\nInthe recent meeting with all\nCONTINUED ON PAGE 2\n\nblock has dropped considerably.\nBut it\u2019s at night that the fears\nheighten.\nSo every night after dinner,\n67-year-old Brij Lal, his wife Sita\nKumari, 62, and their son,\ndaughter-in-law and their chil-\ndren climb up to the two\nmachans that they have raised\noutside their bamboo hut in\nManjhla Taukii.\n\u201cOur house is withouta door,\nso we can't risk sleeping inside.\nMy wife and I sleep on one\nmachan and my son and his\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.86974789915966,
+   "ocr_low_conf_share": 0.05042016806722689,
+   "headline": "Nepal Gen Z protests in mind, Delhi Police chief asks units to prepare 'contingency plan'",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, OCTOBER4",
+   "text": "AGAINSTTHE backdrop of the recent Gen Z protests in Nepal, which spiralled into violence and forced a regime change, Delhi Police Commissioner Satish Golchhaisleamt to have directed three units - the Intelligence branch, Operations unit and Delhi Armed Police - to draft a \"contingency action plan\" to deal with a similar situation if itwere to arise in the national capital. In arecent meeting, Golchha\n\nis also learnt to have asked two Special Commissioners of Police to form acommittee to conduct an audit of their inventory of non-lethal weapons and to suggest if more such weapons or technology are required. Senior officers said the development comes keepingin mind the fact that \"large-scale, youth-driven, leaderless demonstrations - similar to the ones witnessed in Kathmandu and other parts of Nepal - could spill over into India or inspire parallel mobilisations in Delhi\". Inthe recent meeting with all\n\nblock has dropped considerably. But it's at night that the fears heighten. So every night after dinner, 67-year-old Brij Lal, his wife Sita Kumari, 62, and their son, daughter-in-law and their children climb up to the two machans that they have raised outside their bamboo hut in Manjhla Taukii. \"Our house is withouta door, so we can't risk sleeping inside. My wife and I sleep on one machan and my son and his",
+   "n_words": 217,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4423,
+      1719,
+      4631
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4715,
+      622,
+      4785
+     ],
+     [
+      318,
+      4836,
+      758,
+      5139
+     ],
+     [
+      318,
+      5151,
+      758,
+      5185
+     ],
+     [
+      1294,
+      4677,
+      1735,
+      4989
+     ],
+     [
+      1294,
+      5034,
+      1735,
+      5179
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "MP: As kids died after taking cough\nsyrup, officials probed in the dark",
+   "deck_raw": "",
+   "body_raw": "ANAND MOHAN J\nPARASIA, OCTOBER 4\n\nIN EARLY September, officials in\nMadhya Pradesh\u2019s Parasia no-\nticed something was wrong as\nseveral children aged under five\nstarted dying from unexplained\nhealth complications.\nFor twoweeks, the district ad-\nministration scrambled to under-\n\nstand what was killing their\n\nyoungest residents. Health offi-\ncials launched an urgent field in-\nvestigation, testing the usual sus-\npects: contaminated water\nsources, disease-carrying rodents,\nand mosquito populations. Each\ntest came back negative. The\nhealth department did not con-\n\nparental consent, leaving investi-\ngators to pursue the mystery.\nThe first death was reported\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.76530612244898,
+   "ocr_low_conf_share": 0.02040816326530612,
+   "headline": "MP: As kids died after taking cough syrup, officials probed in the dark",
+   "deck": "",
+   "byline": "ANAND MOHAN J; PARASIA, OCTOBER 4",
+   "text": "IN EARLY September, officials in Madhya Pradesh's Parasia noticed something was wrong as several children aged under five started dying from unexplained health complications. For twoweeks, the district administration scrambled to understand what was killing their\n\nyoungest residents. Health officials launched an urgent field investigation, testing the usual suspects: contaminated water sources, disease-carrying rodents, and mosquito populations. Each test came back negative. The health department did not conparental consent, leaving investigators to pursue the mystery. The first death was reported",
+   "n_words": 80,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      4424,
+      3191,
+      4633
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4717,
+      2146,
+      4787
+     ],
+     [
+      1783,
+      4837,
+      2224,
+      5180
+     ],
+     [
+      2411,
+      4746,
+      2670,
+      4829
+     ],
+     [
+      2301,
+      4877,
+      2681,
+      5147
+     ],
+     [
+      2760,
+      4678,
+      3201,
+      5180
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "Change of guard: Gill replaces Rohit\nas ODI captain, Shreyas his deputy",
+   "deck_raw": "",
+   "body_raw": "DEVENDRA PANDEY\nAHMEDABAD, OCTOBER 4\n\nIN A decision that marks a\nchanging-of-the-guard, the na-\ntional selection committee on\nSaturday named Shubman Gill\nas India's One-day Intemational\ncaptain, replacing Rohit Sharma,\nasit announced the squad for the\nthree-match ODI series in\nAustralia later this month.\n\nWriting\ni@ onthe wall\n\nWhile the selectors\u2019 call to\nreplace Rohit is wise \u2014 the\nnext ODI World Cup is in\n2027 and he will be 40 \u2014 it\nis also a message to him and\nKohli: door isn\u2019t shut but a\nspot will have to be earned.\n\nRohitand Virat Kohli, the two\nODI giants of Indian cricket in\nthis era, have also been named\nin the squad but the promotion\nof 26-year-old Gill, who is also\nthe Test captain, was done with\nan eye on the 2027 World Cupby\nwhen Rohit will be 40.\nThe selectors informed Rohit,\nwho captained India to two ICC\ntrophies, in advance about the\ndecision to remove him as ODI\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.95121951219512,
+   "ocr_low_conf_share": 0.042682926829268296,
+   "headline": "Change of guard: Gill replaces Rohit as ODI captain, Shreyas his deputy",
+   "deck": "",
+   "byline": "DEVENDRA PANDEY; AHMEDABAD, OCTOBER 4",
+   "text": "IN A decision that marks a changing-of-the-guard, the national selection committee on Saturday named Shubman Gill as India's One-day Intemational captain, replacing Rohit Sharma, asit announced the squad for the three-match ODI series in Australia later this month.\n\nWriting i@ onthe wall\n\nWhile the selectors' call to replace Rohit is wise - the next ODI World Cup is in 2027 and he will be 40 - it is also a message to him and Kohli: door isn't shut but a spot will have to be earned.\n\nRohitand Virat Kohli, the two ODI giants of Indian cricket in this era, have also been named in the squad but the promotion of 26-year-old Gill, who is also the Test captain, was done with an eye on the 2027 World Cupby when Rohit will be 40. The selectors informed Rohit, who captained India to two ICC trophies, in advance about the decision to remove him as ODI",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5340,
+      3930,
+      5470
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5511,
+      499,
+      5586
+     ],
+     [
+      318,
+      5705,
+      645,
+      5775
+     ],
+     [
+      316,
+      5825,
+      758,
+      6136
+     ],
+     [
+      807,
+      5507,
+      1249,
+      6136
+     ],
+     [
+      1291,
+      5508,
+      1735,
+      6130
+     ],
+     [
+      2759,
+      5509,
+      3203,
+      6138
+     ],
+     [
+      3247,
+      5509,
+      3688,
+      6131
+     ]
+    ],
+    "layout_words": 378
+   },
+   "headline_raw": "Six villages in UP\u2019s Bahraich district cry wolf \u2014 only, the fear is real",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nMANISH SAHU\nBAHRAICH, OCTOBER 4\n\nTHE NIGHTS are spent on\nmachans or in sleepless vigils, the\ndays ina nervous huddle. For the\npast three weeks, six villages in\nUttar Pradesh\u2019s Bahraich district,\nwhere a pack of wolves are\nfeared to be on the prowl, have\nbeen on the edge.\n\nSix people \u2014 four of them\nchildren \u2014 have been killed and\nover 20 injured in alleged wolf\nattacks across the villages that\nare in a 20-km-radius of\nKaiserganj tehsil of Bahraich. The\nfear is familiar. Exactly ayear ago,\nafter a spate of similar attacks\nand killings inthe neighbouring\nMahasi tehsil, the state govern-\nment had launched Operation\nBhediya and claimed to have\ncaptured six wolves.\nBut now, the wolvesare back.\nBahraich Divisional Forest\nOfficer (DFO) Ram Singh Yadav\n\nsaid a pack of four wolves has\nbeen attacking people. \u201cOf the\nfour, an adult male was shot\ndead by our team recently, while\nthe remaining three \u2014 two sub-\nadults and an adult female \u2014 are\nontherun. Efforts are underway\nto capture them,\u201d he said.\nForest officials say the recent\nrise in wolf activity could be due\nto increasing water levels in the\nGhaghra river. The floods, they\nsay, may have forced wolves and\njackals, which live in dens onthe\nriverbank, to move into human\nsettlements.\n\nThe attacks began on\nSeptember 9, when a child was\nkilled in Paragpurwa village. The\nlatest attack was on the night of\nSeptember 29, when an elderly\ncouple, Khedan and his wife\nMankiya, bothin their 60s, were\nkilled, prompting the residents\nof all six villages to \u201ctake matters\nin our hands\u201d, as Deep Narayan\nYadav, pardhan of Manjhla\nTaukli, one of the worst affected\nvillages, says.\nResidents of the six affected\nvillages have organised them-\nselves into shifts to guard the vil-\n\nlage round the clock. At several\nkey junctions, groups of villagers\ncan be seen keeping vigil, armed\nwith sticks and sharp-edged\nweapons. Villagers have also in-\nStalled lights and loudspeakers\nand occasionally set off firecrack-\ners to scare the wolves away.\nMost children have stopped\ngoing to school, and adults now\nventure into the fields only in\ngroups, armed with sticks, axes\nand the occasional rifles.\nKaiserganj Block Education\nOfficer Rakesh Kumar admitted\nthat attendance inschools inthe",
+   "ocr_conf": 90.84615384615384,
+   "ocr_low_conf_share": 0.050397877984084884,
+   "headline": "Six villages in UP's Bahraich district cry wolf - only, the fear is real",
+   "deck": "",
+   "byline": "ANCHOR; MANISH SAHU; BAHRAICH, OCTOBER 4",
+   "text": "THE NIGHTS are spent on machans or in sleepless vigils, the days ina nervous huddle. For the past three weeks, six villages in Uttar Pradesh's Bahraich district, where a pack of wolves are feared to be on the prowl, have been on the edge.\n\nSix people - four of them children - have been killed and over 20 injured in alleged wolf attacks across the villages that are in a 20-km-radius of Kaiserganj tehsil of Bahraich. The fear is familiar. Exactly ayear ago, after a spate of similar attacks and killings inthe neighbouring Mahasi tehsil, the state government had launched Operation Bhediya and claimed to have captured six wolves. But now, the wolvesare back. Bahraich Divisional Forest Officer (DFO) Ram Singh Yadav\n\nsaid a pack of four wolves has been attacking people. \"Of the four, an adult male was shot dead by our team recently, while the remaining three - two subadults and an adult female - are ontherun. Efforts are underway to capture them,\" he said. Forest officials say the recent rise in wolf activity could be due to increasing water levels in the Ghaghra river. The floods, they say, may have forced wolves and jackals, which live in dens onthe riverbank, to move into human settlements.\n\nThe attacks began on September 9, when a child was killed in Paragpurwa village. The latest attack was on the night of September 29, when an elderly couple, Khedan and his wife Mankiya, bothin their 60s, were killed, prompting the residents of all six villages to \"take matters in our hands\", as Deep Narayan Yadav, pardhan of Manjhla Taukli, one of the worst affected villages, says. Residents of the six affected villages have organised themselves into shifts to guard the village round the clock. At several key junctions, groups of villagers can be seen keeping vigil, armed with sticks and sharp-edged weapons. Villagers have also in-Stalled lights and loudspeakers and occasionally set off firecrackers to scare the wolves away. Most children have stopped going to school, and adults now venture into the fields only in groups, armed with sticks, axes and the occasional rifles. Kaiserganj Block Education Officer Rakesh Kumar admitted that attendance inschools inthe",
+   "n_words": 363,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.1,
+ "flags": []
+}

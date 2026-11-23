@@ -1,0 +1,781 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_03_front",
+ "source_file": "2025-06-03_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-03_front.png",
+ "date": "2025-06-03",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 547,
+  "mean_line_conf": 90.86306984707349,
+  "orphan_words": 70,
+  "body_words_total": 2238
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      693,
+      1722,
+      1124
+     ]
+    ],
+    "deck_boxes": [
+     [
+      813,
+      1171,
+      1585,
+      1302
+     ]
+    ],
+    "body_boxes": [
+     [
+      815,
+      1382,
+      1051,
+      1452
+     ],
+     [
+      813,
+      1503,
+      1254,
+      2446
+     ],
+     [
+      1301,
+      1332,
+      1740,
+      1369
+     ],
+     [
+      1300,
+      2174,
+      1741,
+      2328
+     ],
+     [
+      1301,
+      2333,
+      1741,
+      2439
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "Gujarat Govt plans\nOp Sindoor memorial\npark near Pakistan\nborder in Kutch",
+   "deck_raw": "Will also have area dedicated to\nPahalgam terror attack victims",
+   "body_raw": "RITU SHARMA\nBHUJ, JUNE 2\n\nTHE GUJARAT government is\nworking on a memorial park\ndedicated to Operation Sindoor\n\u2014 India\u2019s military response to\nterror emanating from Pakistan\n\u2014asamarkofrespect for the de-\nfence forces as well as the unity\nthe nation displayed, officials\ntold The Indian Express.\nThe memorial, which willbe\ncalled \u2018Sindoor Van' (forest), will\ncome up in Kutch district onthe\nIndia-Pakistan border, which\nbore the brunt of the attacks in\nGujarat from the other side. The\nmemorial is expected to be com-\npleted in abouta year and ahalf,\nofficials said, adding that initial\nwork has begun on the ground.\n\u201cIn memory of the unity ex-\nhibited by society, Army, Air\nForce, BSF and other forces dur-\ning Operation Sindoor, the\nSindoor Van \u2014 a memorial park\n\ni et al . koa pote\n\n\u2014 is being planned by the forest\ndepartment,\u201d Kutch Collector\nAnand Patel told The Indian\nExpress.\n\nThe high density forest or a\n\u2018van kavach\u2019 will come up over\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.12727272727273,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "Gujarat Govt plans Op Sindoor memorial park near Pakistan border in Kutch",
+   "deck": "Will also have area dedicated to Pahalgam terror attack victims",
+   "byline": "RITU SHARMA; BHUJ, JUNE 2",
+   "text": "THE GUJARAT government is working on a memorial park dedicated to Operation Sindoor - India's military response to terror emanating from Pakistan - asamarkofrespect for the defence forces as well as the unity the nation displayed, officials told The Indian Express. The memorial, which willbe called 'Sindoor Van' (forest), will come up in Kutch district onthe India-Pakistan border, which bore the brunt of the attacks in Gujarat from the other side. The memorial is expected to be completed in abouta year and ahalf, officials said, adding that initial work has begun on the ground. \"In memory of the unity exhibited by society, Army, Air Force, BSF and other forces during Operation Sindoor, the Sindoor Van - a memorial park\n\ni et al. koa pote\n\n- is being planned by the forest department,\" Kutch Collector Anand Patel told The Indian Express.\n\nThe high density forest or a 'van kavach' will come up over",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      368,
+      746,
+      726,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      788,
+      4162,
+      1283
+     ],
+     [
+      3256,
+      1169,
+      4110,
+      1433
+     ],
+     [
+      3252,
+      1638,
+      4159,
+      1752
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      698,
+      4123,
+      746
+     ],
+     [
+      3253,
+      1502,
+      4091,
+      1621
+     ],
+     [
+      3250,
+      1751,
+      3528,
+      1807
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      1821,
+      3656,
+      1891
+     ],
+     [
+      3249,
+      1940,
+      3692,
+      2964
+     ],
+     [
+      3251,
+      2969,
+      3691,
+      3043
+     ],
+     [
+      3907,
+      1857,
+      4171,
+      2014
+     ]
+    ],
+    "layout_words": 133
+   },
+   "headline_raw": "Tesla not keen\nto manufacture\nin India, says\nIn indla, Says\nUnion Minister\ntargets, Customs duty cuts for 5 years",
+   "deck_raw": "\u2018OTHERS SHOWN INTEREST\u2019\nGovt issues EV scheme guidelines:\nDefined domestic value addition\nAGGAM WALIA&",
+   "body_raw": "SOUMYARENDRABARIK\nNEW DELHI, JUNE 2\n\nELECTRIC VEHICLE (EV) major\nTesla is not interested in manu-\nfacturing in India but is looking\nat opening two stores, Union\nHeavy Industries Minister H D\nKumaraswamy said on Monday.\nHe, however, said that global\nEV makers like Mercedes-Benz,\nVolkswagen-Skoda, Hyundai\nand Kia have shown interest in\napplying under the ministry's\nflagship Scheme to Promote\nManufacturing of Electric\nPassenger Cars in India, notified\nin March last year.\n\u201cMercedes-Benz,\nVolkswagen-Skoda, Hyundai\nand Kia -- all these companies\nhave already shown interest.\nTesla, we are actually not expect-\ning from them. They (Tesla) are\ngoing to start two showrooms,\nthey are not interested in man-\nufacturing in India,\u201d\nKumaraswamy said at a media\nbriefing.\n\nIn February, US President\nDonald Trump had criticised\n\ny Union Heavy\nIndustries\nMinister HD\nKumaraswamy",
+   "ocr_conf": 94.32575757575758,
+   "ocr_low_conf_share": 0.007575757575757576,
+   "headline": "Tesla not keen to manufacture in India, says In indla, Says Union Minister targets, Customs duty cuts for 5 years",
+   "deck": "'OTHERS SHOWN INTEREST' Govt issues EV scheme guidelines: Defined domestic value addition AGGAM WALIA&",
+   "byline": "SOUMYARENDRABARIK; NEW DELHI, JUNE 2",
+   "text": "ELECTRIC VEHICLE (EV) major Tesla is not interested in manufacturing in India but is looking at opening two stores, Union Heavy Industries Minister H D Kumaraswamy said on Monday. He, however, said that global EV makers like Mercedes-Benz, Volkswagen-Skoda, Hyundai and Kia have shown interest in applying under the ministry's flagship Scheme to Promote Manufacturing of Electric Passenger Cars in India, notified in March last year. \"Mercedes-Benz, Volkswagen-Skoda, Hyundai and Kia -- all these companies have already shown interest. Tesla, we are actually not expecting from them. They (Tesla) are going to start two showrooms, they are not interested in manufacturing in India,\" Kumaraswamy said at a media briefing.\n\nIn February, US President Donald Trump had criticised\n\ny Union Heavy Industries Minister HD Kumaraswamy",
+   "n_words": 124,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      462,
+      823,
+      629,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 90.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      564,
+      1094,
+      676,
+      1192
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "fi There\u201d\nmust be\ndentler wa",
+   "ocr_conf": 57.166666666666664,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "fi There\" must be dentler wa",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      1446,
+      763,
+      1849
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      565,
+      1975,
+      763,
+      2122
+     ],
+     [
+      323,
+      2214,
+      629,
+      2323
+     ],
+     [
+      318,
+      2372,
+      765,
+      3547
+     ],
+     [
+      325,
+      3649,
+      738,
+      3681
+     ],
+     [
+      322,
+      3741,
+      729,
+      3906
+     ]
+    ],
+    "layout_words": 157
+   },
+   "headline_raw": "US probing\nAdani link to\nIran LPG trade:\nreport; firm\nsays \u2018baseless\u2019",
+   "deck_raw": "",
+   "body_raw": "AdaniGroup\nChairman\nGautam\nAdani\n\nGEORGE MATHEW\n& HITESHVYAS\nMUMBAI, JUNE 2\n\nPROSECUTORS IN the US are in-\nvestigating whether Indian busi-\nnessman Gautam Adani\u2019s com-\npanies imported Iranian liquefied\npetroleum gas (LPG) into India\nthrough the Adani Group's\nMundra port, despite US sanc-\ntions on Iran, The Wall Street\nJournal reported on Monday.\nThis comes at a time when\nthe Trump administration is\nrolling back onthe enforcement\nof certain white-collar crimes,\nincluding cases related toforeign\nbribery and sanctions evasion.\nTankers travelling between\nMundra in Gujarat and the\nPersian Gulf exhibited traits\ncommon to ships evading sanc-\ntions, the WSJ report said. The US\nJustice Departmentis reviewing\nthe activities of several LPG\ntankers used to ship cargoes to\nAdaniEnterprises, it said.\nIn a statement, the Adani\nGroup said the report was \u201cbase-\nless and mischievous\u201d. \u201cAdani\ncategorically denies any deliber-\nate engagement in sanctions\nCONTINUED ON PAGE 2\n\nEXPRESS NETWORK\n\nANNA VARSITY RAPE\nCONVICT HANDED\nLIFESENTENCE\nPAGE 6",
+   "ocr_conf": 91.46496815286625,
+   "ocr_low_conf_share": 0.03821656050955414,
+   "headline": "US probing Adani link to Iran LPG trade: report; firm says 'baseless'",
+   "deck": "",
+   "byline": "GEORGE MATHEW; & HITESHVYAS; MUMBAI, JUNE 2",
+   "text": "AdaniGroup Chairman Gautam Adani\n\nPROSECUTORS IN the US are investigating whether Indian businessman Gautam Adani's companies imported Iranian liquefied petroleum gas (LPG) into India through the Adani Group's Mundra port, despite US sanctions on Iran, The Wall Street Journal reported on Monday. This comes at a time when the Trump administration is rolling back onthe enforcement of certain white-collar crimes, including cases related toforeign bribery and sanctions evasion. Tankers travelling between Mundra in Gujarat and the Persian Gulf exhibited traits common to ships evading sanctions, the WSJ report said. The US Justice Departmentis reviewing the activities of several LPG tankers used to ship cargoes to AdaniEnterprises, it said. In a statement, the Adani Group said the report was \"baseless and mischievous\". \"Adani categorically denies any deliberate engagement in sanctions\n\nEXPRESS NETWORK\n\nANNA VARSITY RAPE CONVICT HANDED LIFESENTENCE",
+   "n_words": 137,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      1602,
+      3124,
+      1838
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1788,
+      2056,
+      2079,
+      2126
+     ],
+     [
+      2275,
+      1860,
+      2718,
+      2607
+     ],
+     [
+      2763,
+      1860,
+      3208,
+      2600
+     ]
+    ],
+    "layout_words": 201
+   },
+   "headline_raw": "Fist bang, apologies and a pat:\nCarlsen goes down to Gukesh",
+   "deck_raw": "",
+   "body_raw": "AMITKAMATH\nSTAVANGER, JUNE 2\n\nMonday at the same event in\nStavanger, Gukesh did exactly\nthat. The 19-year-old Indian\nnotched up his first victory over\nthe world no.1 ina classical chess\ncontest after 62 moves.\n\u201cOh my God!\u201d bellowed a\nlivid Carlsen as he looked away\nfrom the chess board and his op-\nponent. Just seconds before that\nmoment, Carlsen, one of the\ngreatest chess players in history,\nhad slammed a balled fist onthe\nchess board with such brute\nforce that a seismic tremor had\ngone through the board toppling\nover pieces. Some of the pieces\nhad remained standing. One of\nthem was Gukesh's king.\n\nCarlsen apologised toGukesh\n\u2014twice \u2014 for the emotional out-\nburst, which was uncharacteris-\nticfora chess game, and then, as\nhe power-walked his way out of\nthe playing hall after signing his\nscore sheet and banging the\nblack king erect in the middle of\nthe board, he patted the Indian\nteenager on his back.\nCarlsen\u2019s anger was under-\nstandable. He was looking likehe\nwas going to win for most of the\ngame. Then, like the Stavanger\nweather, in the blink of an eye,\neverything changed. Carlsen\nblundered during aknight move.\nA day after that defeat,\nCONTINUED ON PAGE2",
+   "ocr_conf": 90.96517412935323,
+   "ocr_low_conf_share": 0.05472636815920398,
+   "headline": "Fist bang, apologies and a pat: Carlsen goes down to Gukesh",
+   "deck": "",
+   "byline": "AMITKAMATH; STAVANGER, JUNE 2",
+   "text": "Monday at the same event in Stavanger, Gukesh did exactly that. The 19-year-old Indian notched up his first victory over the world no.1 ina classical chess contest after 62 moves. \"Oh my God!\" bellowed a livid Carlsen as he looked away from the chess board and his opponent. Just seconds before that moment, Carlsen, one of the greatest chess players in history, had slammed a balled fist onthe chess board with such brute force that a seismic tremor had gone through the board toppling over pieces. Some of the pieces had remained standing. One of them was Gukesh's king.\n\nCarlsen apologised toGukesh - twice - for the emotional outburst, which was uncharacteristicfora chess game, and then, as he power-walked his way out of the playing hall after signing his score sheet and banging the black king erect in the middle of the board, he patted the Indian teenager on his back. Carlsen's anger was understandable. He was looking likehe was going to win for most of the game. Then, like the Stavanger weather, in the blink of an eye, everything changed. Carlsen blundered during aknight move. A day after that defeat,",
+   "n_words": 191,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3900,
+      2087,
+      4154,
+      2230
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3786,
+      2297,
+      4140,
+      2719
+     ],
+     [
+      3738,
+      2810,
+      4179,
+      3036
+     ],
+     [
+      3739,
+      3138,
+      3982,
+      3170
+     ],
+     [
+      3739,
+      3243,
+      4071,
+      3413
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "Only\nshowrooms\n@ in India",
+   "deck_raw": "",
+   "body_raw": "THE TEXAS-BASED EV\nmaker, with plants across\nthe world, includingin\nChina and Germany, is set\nto launch retail opera-\ntions in India soon, and\nhas signed a leasing deal\nfora showroom in\nMumbai, with plans for\nanother showroom in\nNew Delhi in the works.\n\nTesla\u2019s plan to expand in India,\ncalling it \u201cunfair\u201d to the US.\n\u201cNow, if (Tesla CEO Elon Musk)\nbuilt the factory in India, that\u2019s\nokay, but that's unfair to us. It's\nCONTINUED ON PAGE 2\n\nTHE WORLD\n\nRUSSIA, UKRAINE\nHOLD TALKS DAY\nAFTERKYIV'S\nDRONE ATTACK",
+   "ocr_conf": 91.67415730337079,
+   "ocr_low_conf_share": 0.02247191011235955,
+   "headline": "Only showrooms @ in India",
+   "deck": "",
+   "byline": "THE TEXAS-BASED EV",
+   "text": "maker, with plants across the world, includingin China and Germany, is set to launch retail operations in India soon, and has signed a leasing deal fora showroom in Mumbai, with plans for another showroom in New Delhi in the works.\n\nTesla's plan to expand in India, calling it \"unfair\" to the US. \"Now, if (Tesla CEO Elon Musk) built the factory in India, that's okay, but that's unfair to us. It's\n\nTHE WORLD\n\nRUSSIA, UKRAINE HOLD TALKS DAY AFTERKYIV'S DRONE ATTACK",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      2174,
+      2230,
+      2606
+     ]
+    ],
+    "layout_words": 61,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "JUST A week ago, right after\nMagnus Carisen had forced the\nyoungest world champion in\nchess history, D Gukesh, to resign\ninthe opening round of Norway\nChess, the Norwegian had\nposted a tweet using areference\nfrom the HBO show The Wire:\n\u201cYou come at the king, you best\nnot miss.\u201d In the second time of\nasking, in the early hours of",
+   "ocr_conf": 93.11475409836065,
+   "ocr_low_conf_share": 0.03278688524590164,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "JUST A week ago, right after Magnus Carisen had forced the youngest world champion in chess history, D Gukesh, to resign inthe opening round of Norway Chess, the Norwegian had posted a tweet using areference from the HBO show The Wire: \"You come at the king, you best not miss.\" In the second time of asking, in the early hours of",
+   "n_words": 61,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      2514,
+      1732,
+      2823
+     ],
+     [
+      813,
+      2834,
+      1640,
+      2981
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      814,
+      3006,
+      1120,
+      3115
+     ],
+     [
+      811,
+      3164,
+      1252,
+      3943
+     ],
+     [
+      1299,
+      2967,
+      1742,
+      3943
+     ]
+    ],
+    "layout_words": 221
+   },
+   "headline_raw": "Foreign Embassy staffer\nput up \u2018Wanted\u2019 posters\nof Netanyahu: Delhi\nPolice report to MHA",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, JUNE 2\n\nTHE DELHI Police have ap-\nproached the Union Home\nMinistry after they found that a\nforeign citizen working with an\nembassy of a Western European\ncountry had allegedly put up\nposters carrying a photo of Israeli\nPrime Minister Benjamin\nNetanyahu alongside the word\n\u201cwanted\u201d in the national capital\u2019s\nChanakyapuri area, The indian\nExpress has learnt.\nAsenior police officer at the\nDelhi Police headquarters said\nthe matter came to light around\n730am on May 29 when person-\nnel from the Chankyapuri police\nstation spotted two such posters\nonelectricity poles- onenearthe\nCarmel Convent School in\n\nMalcha Marg and another near\nthe American Embassy School.\n\u201cThey informed their seniors\nand were asked to remove the\nposters,\u201d the officer said.\nPolice personnel were also\ninstructed to scanall CCTV cam-\neras in the area to identify who\nwas responsible.\n\u201cAfter scanning footage from\naround 50 CCTVcameras, police\npersonnel found that a man\nwearing a blue shirt and black\ntrousers came ona bicycle at\naround 5.30 am and put up one\nof the posters on an electricity\npole. After scanning multiple\nCCTV cameras, it has been re-\nvealed that he left from one of\nthe flats in Sardar Patel Marg,\u201d\nthe officer said.\nAteam fromthe Chankyapuri\npolice station reached his resi-\ndence and found that the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.32126696832579,
+   "ocr_low_conf_share": 0.013574660633484163,
+   "headline": "Foreign Embassy staffer put up 'Wanted' posters of Netanyahu: Delhi Police report to MHA",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, JUNE 2",
+   "text": "THE DELHI Police have approached the Union Home Ministry after they found that a foreign citizen working with an embassy of a Western European country had allegedly put up posters carrying a photo of Israeli Prime Minister Benjamin Netanyahu alongside the word \"wanted\" in the national capital's Chanakyapuri area, The indian Express has learnt. Asenior police officer at the Delhi Police headquarters said the matter came to light around 730am on May 29 when personnel from the Chankyapuri police station spotted two such posters onelectricity poles- onenearthe Carmel Convent School in\n\nMalcha Marg and another near the American Embassy School. \"They informed their seniors and were asked to remove the posters,\" the officer said. Police personnel were also instructed to scanall CCTV cameras in the area to identify who was responsible. \"After scanning footage from around 50 CCTVcameras, police personnel found that a man wearing a blue shirt and black trousers came ona bicycle at around 5.30 am and put up one of the posters on an electricity pole. After scanning multiple CCTV cameras, it has been revealed that he left from one of the flats in Sardar Patel Marg,\" the officer said. Ateam fromthe Chankyapuri police station reached his residence and found that the",
+   "n_words": 205,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3545,
+      4158,
+      3879
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      3957,
+      3550,
+      4028
+     ],
+     [
+      3248,
+      4078,
+      3690,
+      4657
+     ],
+     [
+      3249,
+      4669,
+      3690,
+      5141
+     ],
+     [
+      3738,
+      3918,
+      4180,
+      4982
+     ],
+     [
+      3738,
+      5026,
+      4178,
+      5134
+     ]
+    ],
+    "layout_words": 285
+   },
+   "headline_raw": "BMC cancels water\nrescue vehicle tender\nover Turkey firm link",
+   "deck_raw": "",
+   "body_raw": "PRATIP ACHARYA\nMUMBAI, JUNE 2\n\nTHE BRIHANMUMBAI\nMunicipal Corporation (BMC)\nhas decided toscrap a tender for\nacquiring six remote-controlled\nlife buoys or robotic water res-\ncue vehicles after it discovered\nthat the vendor that won the bid\nto supply it was ultimately\nsourcing it froma Turkey-based\nfirm. The civic body\u2019s move\ncomes amid the recent conflict\nbetween India and Pakistan\nwhere the latter used drones\nsupplied by Turkey to target\nIndia.\n\nConfirming the develop-\nment, a senior BMC official said,\n\u201cThe tender was floated last year\nand the shortlisting of bidders\ntook place between January and\nFebruary. All the bidders had\nsubmitted details of their ven-\ndors in their quotation. Since\nIndia had good ties with Turkey\nback then, we went ahead to\nshortlist the vendor. However,\nowing to the recent tensions, we\n\ndecided to take a relook at the\ntender and refloat it.\u201d\nThe official said that while\nthe supplier of the boat-like\nfloating devices was shortlisted,\nthe BMC had not issued any\nLetter of Approval (LoA) and\ntherefore ithad the legal right to\nroll the tenderback.\n\u201cWe shall be floating a new\ntender for acquiring the boats\nand we will also be exploring\nwhetheritis possible tohave the\nproducts manufactured by\nIndia-based firms to propagate\nthe Make-in-India campaign. It\nwill also be cost-effective,\u201d said\nthe official.\nIn September last year, the\nBMC had floated the tender to\nacquire six rescue boats which\nwere to be used by the Mumbai\nFire Brigade for operations in the\nsea. The cost of each boat was\npegged at Rs9.62 lakh while the\ntotal size of the tender was\npegged at Rs 64 lakh, inclusive of\n\nCivic officials said that after\nthe bidders submitted their\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.7719298245614,
+   "ocr_low_conf_share": 0.028070175438596492,
+   "headline": "BMC cancels water rescue vehicle tender over Turkey firm link",
+   "deck": "",
+   "byline": "PRATIP ACHARYA; MUMBAI, JUNE 2; THE BRIHANMUMBAI",
+   "text": "Municipal Corporation (BMC) has decided toscrap a tender for acquiring six remote-controlled life buoys or robotic water rescue vehicles after it discovered that the vendor that won the bid to supply it was ultimately sourcing it froma Turkey-based firm. The civic body's move comes amid the recent conflict between India and Pakistan where the latter used drones supplied by Turkey to target India.\n\nConfirming the development, a senior BMC official said, \"The tender was floated last year and the shortlisting of bidders took place between January and February. All the bidders had submitted details of their vendors in their quotation. Since India had good ties with Turkey back then, we went ahead to shortlist the vendor. However, owing to the recent tensions, we\n\ndecided to take a relook at the tender and refloat it.\" The official said that while the supplier of the boat-like floating devices was shortlisted, the BMC had not issued any Letter of Approval (LoA) and therefore ithad the legal right to roll the tenderback. \"We shall be floating a new tender for acquiring the boats and we will also be exploring whetheritis possible tohave the products manufactured by India-based firms to propagate the Make-in-India campaign. It will also be cost-effective,\" said the official. In September last year, the BMC had floated the tender to acquire six rescue boats which were to be used by the Mumbai Fire Brigade for operations in the sea. The cost of each boat was pegged at Rs9.62 lakh while the total size of the tender was pegged at Rs 64 lakh, inclusive of\n\nCivic officials said that after the bidders submitted their",
+   "n_words": 271,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      3681,
+      3159,
+      3749
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      3796,
+      3202,
+      3912
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "PARAGUAY PRESIDENT ON 3-DAY VISIT",
+   "deck_raw": "",
+   "body_raw": "Prime Minister Narendra Modi with Paraguay President Santiago Pefia Palacios, who is on a\nthree-day state visit to India, in New Delhion Monday. The two leaders deliberated on ways\nto combat terrorism against the backdrop of the Pahalgam terror attack. Praveen Khanna PAGE 7",
+   "ocr_conf": 93.29545454545455,
+   "ocr_low_conf_share": 0.0,
+   "headline": "PARAGUAY PRESIDENT ON 3-DAY VISIT",
+   "deck": "",
+   "byline": "",
+   "text": "Prime Minister Narendra Modi with Paraguay President Santiago Pefia Palacios, who is on a three-day state visit to India, in New Delhion Monday. The two leaders deliberated on ways to combat terrorism against the backdrop of the Pahalgam terror attack. Praveen Khanna PAGE 7",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4017,
+      1243,
+      4417
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      4509,
+      701,
+      4579
+     ],
+     [
+      318,
+      4629,
+      763,
+      5138
+     ],
+     [
+      321,
+      5267,
+      503,
+      5342
+     ],
+     [
+      321,
+      5460,
+      601,
+      5530
+     ],
+     [
+      320,
+      5578,
+      765,
+      6165
+     ],
+     [
+      810,
+      4746,
+      989,
+      4814
+     ],
+     [
+      1047,
+      4746,
+      1235,
+      4822
+     ],
+     [
+      810,
+      4906,
+      1253,
+      5132
+     ]
+    ],
+    "layout_words": 178
+   },
+   "headline_raw": "JEE topper is from Kota:\n\u2018Never missed coaching\nclasses, always kept\ntime for other activities\u2019",
+   "deck_raw": "",
+   "body_raw": "PARULKULSHRESTHA\nJAIPUR, JUNE 2\n\nJEE ADVANCED 2025 topper\nRajit Gupta, a resident of the\ncoaching hub Kota, credited his\nsuccess to his focus, not missing\nclasses, and keeping time for ex-\ntracurricular activities, among\nother aspects.\n\u201cI prepared with a focused\nmindset and learned from my\nmistake. I never missed my\ncoaching classes and used to\nstudy for eight hours after\nclasses. I kept solving previous\n\nPAGE 1\nANCHOR\n\nSANTOSH SINGH\nPATNA, JUNE 2\n\nHIS BACK against the white-\nboard, Associate Professor Rajeev\nRanjan Chaturvedi tells his 34\nstudents, pursuing their master's\ndegree from Nalanda University's\nSchool of International Relations\nand Peace Studies (IPRS), why\nIndia was well within its nghtsto\nputin abeyancetheIndus Waters\nTreaty with Pakistan after the\nApril 22 terror attack in\nPahalgam.\n\u201cIts provisions clearly describe\nthat the pact can be put in\nabeyance in case of disturbance\n\nRajit Gupta,\nAIR1\n\nSaksham\nJindal, AIR2\n\nyears\u2019 question papers and al-\nways had time for extracurricu-\nlar activities to keep my mind\nfresh,\u201d Rajit said. He said he\nwants to join IIT Bombay and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.43575418994413,
+   "ocr_low_conf_share": 0.0111731843575419,
+   "headline": "JEE topper is from Kota: 'Never missed coaching classes, always kept time for other activities'",
+   "deck": "",
+   "byline": "PARULKULSHRESTHA; JAIPUR, JUNE 2",
+   "text": "JEE ADVANCED 2025 topper Rajit Gupta, a resident of the coaching hub Kota, credited his success to his focus, not missing classes, and keeping time for extracurricular activities, among other aspects. \"I prepared with a focused mindset and learned from my mistake. I never missed my coaching classes and used to study for eight hours after classes. I kept solving previous\n\nANCHOR\n\nSANTOSH SINGH PATNA, JUNE 2\n\nHIS BACK against the white-board, Associate Professor Rajeev Ranjan Chaturvedi tells his 34 students, pursuing their master's degree from Nalanda University's School of International Relations and Peace Studies (IPRS), why India was well within its nghtsto putin abeyancetheIndus Waters Treaty with Pakistan after the April 22 terror attack in Pahalgam. \"Its provisions clearly describe that the pact can be put in abeyance in case of disturbance\n\nRajit Gupta, AIR1\n\nSaksham Jindal, AIR2\n\nyears' question papers and always had time for extracurricular activities to keep my mind fresh,\" Rajit said. He said he wants to join IIT Bombay and",
+   "n_words": 165,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1300,
+      4018,
+      3186,
+      4244
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      4312,
+      2557,
+      4423
+     ],
+     [
+      2273,
+      4472,
+      2714,
+      5140
+     ],
+     [
+      2760,
+      4273,
+      3202,
+      5133
+     ]
+    ],
+    "layout_words": 213
+   },
+   "headline_raw": "Countdown to space mission: Why seat for\nShukla on Axiom-4 is a big moment for India",
+   "deck_raw": "",
+   "body_raw": "AMITABH SINHA\n& ANJALI MARAR\nNEW DELHI, JUNE 2\n\nFOUR DECADES after Rakesh\nSharma became the first Indian\nto travel to space, Shubhanshu\nShukla, a 39-year-old Indian Air\nForce officer who is in the final\nlegof his pre-launch quarantine\nat the Kennedy Space Centre in\nFlorida, will on June 8 pilot a\nDragon spacecraft that will take\nhim, and three others, to the\nInternational Space Station (ISS),\nabout 400 km from the Earth.\nShukla, who is set to be the\nfirst Indian to step on to the ISS,\nwill spend two weeks carrying\nout various experiments and\nstudies in space.\n\nThough India or the Indian\nSpace Research Organisation\n(ISRO) has had litte role to play in\ntheplanningand execution ofthe\nmission \u2014 apart from securing a\nSeat for an Indian on the space-\ncraft \u2014 Shukla\u2019s journey couldn't\nhave come at abettertime for the\ncountry's space programme as it\nprepares for Gaganyaan, India\u2019s\nown human spaceflight.\nThe Dragon spacecraft, as\nwell as the Falcon 9 rocket that\nwill launch it into space, are built\nby Elon Musk-owned SpaceX,\none of the biggest private space\ncompanies in the world. The mis-\nsion is being operated and man-\naged by Axiom Space, a nine-\nyear-old private entity focused on\ncommercial spaceflight services.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.96244131455398,
+   "ocr_low_conf_share": 0.046948356807511735,
+   "headline": "Countdown to space mission: Why seat for Shukla on Axiom-4 is a big moment for India",
+   "deck": "",
+   "byline": "AMITABH SINHA; & ANJALI MARAR; NEW DELHI, JUNE 2",
+   "text": "FOUR DECADES after Rakesh Sharma became the first Indian to travel to space, Shubhanshu Shukla, a 39-year-old Indian Air Force officer who is in the final legof his pre-launch quarantine at the Kennedy Space Centre in Florida, will on June 8 pilot a Dragon spacecraft that will take him, and three others, to the International Space Station (ISS), about 400 km from the Earth. Shukla, who is set to be the first Indian to step on to the ISS, will spend two weeks carrying out various experiments and studies in space.\n\nThough India or the Indian Space Research Organisation (ISRO) has had litte role to play in theplanningand execution ofthe mission - apart from securing a Seat for an Indian on the spacecraft - Shukla's journey couldn't have come at abettertime for the country's space programme as it prepares for Gaganyaan, India's own human spaceflight. The Dragon spacecraft, as well as the Falcon 9 rocket that will launch it into space, are built by Elon Musk-owned SpaceX, one of the biggest private space companies in the world. The mission is being operated and managed by Axiom Space, a nine-year-old private entity focused on commercial spaceflight services.",
+   "n_words": 196,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      699,
+      5261,
+      4110,
+      5436
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      5419,
+      1252,
+      6166
+     ],
+     [
+      1295,
+      5420,
+      1738,
+      6167
+     ],
+     [
+      2759,
+      5421,
+      3201,
+      6168
+     ],
+     [
+      3247,
+      5421,
+      3696,
+      6168
+     ],
+     [
+      3737,
+      5421,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 454
+   },
+   "headline_raw": "students to over 1,200: Inside new campus of Nalanda University",
+   "deck_raw": "",
+   "body_raw": "of internal peace,\u201d he tells the\nclass. The students, including 11\ninternational ones, agree with the\nprofessor, who heads the school.\nIntroduced by the university in\n2024-25, IRPS is a huge draw for\nscholars andone ofits six schools\noffering master\u2019s courses.\nFrom just 12 students after it\nwas established in 2014 under a\nspecial Act of Parliament,\nNalanda University now has\n1,270 students, within a year of\nPrime Minister Narendra Modi\ninaugurating its new campus in\nJune 2024 in Bihar\u2019s Rajgir town.\nThe university's state-of-the-\nart 455-acre campus stands in\nthe foothills of the imposing\n\nVaibhar Giri hill, considered the\nseat of both Buddhism and\nJainism. Barely 12 km from the\nnew campus \u2014 and over 70 km\nfrom Bodh Gaya, considered the\nsite of Gautam Buddha\u2019senlight-\nenment\u2014lie the ruins of the an-\ncient Nalanda University, per-\nhaps the world\u2019s first lvy League\nuniversity.\nConceived as an interna-\ntional institute of excellence\nwhere the old and new knowl-\nedge systems coexist, the new\nNalanda University was estab-\nlished under the Nalanda\nUniversity Act, 2010, by the\nMinistry of External Affairs. Then\nPresidentA PJ Abdul Kalam was\n\nits first Visitor, while economist\nand Nobel laureate Amartya Sen\nwas its first Chancellor. Sixteen\ncountries had come together to\nsupport its establishment.\nBefore moving to its new\nzero-carbon campus, the univer-\nsity functioned out of \u201cbor-\nrowed\u201d buildings at the Rajgir\nConvention Centre and had just\ntwo international students.\nAt the new \u201ccar-free\u201d cam-\npus, a pathway flanked by\ncanna lilies and street lights\nleads one inside the university.\nWith a built area of just 8%, the\ncampus, designed byrenowned\narchitect B V Doshi\u2019s Vastu\nShilpa Consultants, attempts to\n\n\u201cmatch the architectural and\ngeographical setting the ancient\nNalanda University would have\nprovided\u201d.\nIts exposed brick buildings \u2014\nsimilar to the signature image of\nthe Nalanda ruins \u2014 and ele-\nvated staircases are surrounded\nby 15 water bodies, christened\n\u2018Kamal Sagars\u2019 and spread over\n100 acres. University officials say\nthe area's water table has gone\nup \u201csubstantially\u201d since the new\ncampus came up.\nThe ancient Nalanda\nUniversity is believed to have been\nestablished in the 5th century CE\nand faded out around the 13th\ncentury due to a combination of\n\nfactors, including the rise of\nHinduism, the decline of\nBuddhism and invasions by for-\neign invaders.\nPost-doctoral fellow Azad\nHind Gulshan Nanda, who quit\nhis job at the Bhabha Atomic\nResearch Centre in Trombay and\nthe Indian Institute of\nManagement in Kolkata to re-\nsearch Nalanda at the university,\nsays, \u201cIt is believed that the an-\ncient university was destroyed\nby fire, though its ecological\ndegradation over the years can-\nnot be ruled out.\u201d\nThe fire theory was refer-\nenced by PM Modiin hiscampus\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.43612334801762,
+   "ocr_low_conf_share": 0.030837004405286344,
+   "headline": "students to over 1,200: Inside new campus of Nalanda University",
+   "deck": "",
+   "byline": "",
+   "text": "of internal peace,\" he tells the class. The students, including 11 international ones, agree with the professor, who heads the school. Introduced by the university in 2024-25, IRPS is a huge draw for scholars andone ofits six schools offering master's courses. From just 12 students after it was established in 2014 under a special Act of Parliament, Nalanda University now has 1,270 students, within a year of Prime Minister Narendra Modi inaugurating its new campus in June 2024 in Bihar's Rajgir town. The university's state-of-theart 455-acre campus stands in the foothills of the imposing\n\nVaibhar Giri hill, considered the seat of both Buddhism and Jainism. Barely 12 km from the new campus - and over 70 km from Bodh Gaya, considered the site of Gautam Buddha'senlightenment - lie the ruins of the ancient Nalanda University, perhaps the world's first lvy League university. Conceived as an international institute of excellence where the old and new knowledge systems coexist, the new Nalanda University was established under the Nalanda University Act, 2010, by the Ministry of External Affairs. Then PresidentA PJ Abdul Kalam was\n\nits first Visitor, while economist and Nobel laureate Amartya Sen was its first Chancellor. Sixteen countries had come together to support its establishment. Before moving to its new zero-carbon campus, the university functioned out of \"borrowed\" buildings at the Rajgir Convention Centre and had just two international students. At the new \"car-free\" campus, a pathway flanked by canna lilies and street lights leads one inside the university. With a built area of just 8%, the campus, designed byrenowned architect B V Doshi's Vastu Shilpa Consultants, attempts to\n\n\"match the architectural and geographical setting the ancient Nalanda University would have provided\". Its exposed brick buildings - similar to the signature image of the Nalanda ruins - and elevated staircases are surrounded by 15 water bodies, christened 'Kamal Sagars' and spread over 100 acres. University officials say the area's water table has gone up \"substantially\" since the new campus came up. The ancient Nalanda University is believed to have been established in the 5th century CE and faded out around the 13th century due to a combination of\n\nfactors, including the rise of Hinduism, the decline of Buddhism and invasions by foreign invaders. Post-doctoral fellow Azad Hind Gulshan Nanda, who quit his job at the Bhabha Atomic Research Centre in Trombay and the Indian Institute of Management in Kolkata to research Nalanda at the university, says, \"It is believed that the ancient university was destroyed by fire, though its ecological degradation over the years cannot be ruled out.\" The fire theory was refer-enced by PM Modiin hiscampus",
+   "n_words": 436,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.0,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

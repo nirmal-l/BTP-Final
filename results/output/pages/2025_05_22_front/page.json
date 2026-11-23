@@ -1,0 +1,615 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_22_front",
+ "source_file": "2025-05-22_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-22_front.png",
+ "date": "2025-05-22",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 255,
+  "mean_line_conf": 89.38560145413658,
+  "orphan_words": 157,
+  "body_words_total": 1003
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      695,
+      4184,
+      1009
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      1109,
+      3568,
+      1257
+     ],
+     [
+      3252,
+      1306,
+      3694,
+      1617
+     ],
+     [
+      3253,
+      1623,
+      3694,
+      1971
+     ],
+     [
+      3742,
+      1623,
+      4182,
+      1967
+     ]
+    ],
+    "layout_words": 135
+   },
+   "headline_raw": "Virtually no disclosure\nat SEBI helm, tackling\nthis head on: new chief",
+   "deck_raw": "",
+   "body_raw": "GEORGE MATHEW,\nHITESHVYAS\n& SANDEEP SINGH\nMUMBAI, MAY 21\n\nTHERE WAS \u201cvirtually no public\ndisclosure\u201d for those at the helm\nof market regulator Securities\nand Exchange Board of India, not\neven meeting \u201cminimal expec-\ntations\u201d, new chief of SEBI Tuhin\nKanta Pandey told The Indian\nExpress.\n\nThis candid admission comes\nwithin three months of his tak-\ning over the charge at SEBI from\nMadhabi Puri Buch whose con-\ntroversial three-year term ended\nin February. She and her hus-\nband Dhaval Buch had faced al-\nlegations that they held invest-\nments in offshore funds, in\n\nwhich associates of Adani Group\nChairman Gautam Adani\u2019s\nbrother, Vinod Adani, had also\ninvested. The Buchs had denied\nthese allegations.\nWhile taking charge at SEBI,\nhe said, there was a \u201cnarrative\u201d\nabout conflict of interest at the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.05925925925926,
+   "ocr_low_conf_share": 0.02962962962962963,
+   "headline": "Virtually no disclosure at SEBI helm, tackling this head on: new chief",
+   "deck": "",
+   "byline": "GEORGE MATHEW,; HITESHVYAS; & SANDEEP SINGH; MUMBAI, MAY 21",
+   "text": "THERE WAS \"virtually no public disclosure\" for those at the helm of market regulator Securities and Exchange Board of India, not even meeting \"minimal expectations\", new chief of SEBI Tuhin Kanta Pandey told The Indian Express.\n\nThis candid admission comes within three months of his taking over the charge at SEBI from Madhabi Puri Buch whose controversial three-year term ended in February. She and her husband Dhaval Buch had faced allegations that they held invest-ments in offshore funds, in\n\nwhich associates of Adani Group Chairman Gautam Adani's brother, Vinod Adani, had also invested. The Buchs had denied these allegations. While taking charge at SEBI, he said, there was a \"narrative\" about conflict of interest at the",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      789,
+      3137,
+      1141
+     ]
+    ],
+    "deck_boxes": [
+     [
+      814,
+      696,
+      3020,
+      745
+     ],
+     [
+      811,
+      1175,
+      1684,
+      1306
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      1382,
+      1185,
+      1452
+     ],
+     [
+      809,
+      1502,
+      1254,
+      2043
+     ],
+     [
+      1926,
+      1201,
+      2188,
+      1271
+     ]
+    ],
+    "layout_words": 72
+   },
+   "headline_raw": "Maoist chief among 27 killed in Bastar\nencounter, takes toll to 200 this year",
+   "deck_raw": "PM HAILS OP: \u2018GOVT COMMITTED TO ELIMINATING MENACE OF MAOISM\u2019\nLandmark achievement, first time\ngen secy-ranked leader killed: Shah",
+   "body_raw": "JAYPRAKASH S NAIDU\nRAIPUR, MAY 21\n\nTWENTY-SEVEN MEMBERS of\nthe banned Communist Party of\nIndia (Maoist), including its gen-\neral secretary Nambala Keshava\nRao alias Basavaraju (70), were\nkilled in an encounter with se-\ncurity forces in Abujhmad area\nof Chhattisgarh\u2019s Narayanpur\ndistricton Wednesday morning.\nA jawan from the District\nReserve Guard (DRG) was also\nkilled in the faceoff.\nThe encounter is the latest in\nCONTINUEDON PAGE 2\n\n\u00a9 Raipur\nCHHATTISGARH. :",
+   "ocr_conf": 88.44444444444444,
+   "ocr_low_conf_share": 0.06944444444444445,
+   "headline": "Maoist chief among 27 killed in Bastar encounter, takes toll to 200 this year",
+   "deck": "PM HAILS OP: 'GOVT COMMITTED TO ELIMINATING MENACE OF MAOISM' Landmark achievement, first time gen secy-ranked leader killed: Shah",
+   "byline": "JAYPRAKASH S NAIDU; RAIPUR, MAY 21; TWENTY-SEVEN MEMBERS of",
+   "text": "the banned Communist Party of India (Maoist), including its general secretary Nambala Keshava Rao alias Basavaraju (70), were killed in an encounter with security forces in Abujhmad area of Chhattisgarh's Narayanpur districton Wednesday morning. A jawan from the District Reserve Guard (DRG) was also killed in the faceoff. The encounter is the latest in CONTINUEDON PAGE 2\n\n\u00a9 Raipur CHHATTISGARH.:",
+   "n_words": 60,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      823,
+      633,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      1172,
+      3204,
+      1470
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2854,
+      1740,
+      3205,
+      1859
+     ]
+    ],
+    "body_boxes": [
+     [
+      2275,
+      1504,
+      3206,
+      2048
+     ],
+     [
+      2766,
+      1978,
+      3204,
+      2045
+     ]
+    ],
+    "layout_words": 91
+   },
+   "headline_raw": "What Basavaraju\u2019s killing\nmeans for Maoists \u2014 and\nGovt\u2019s fight against them",
+   "deck_raw": "The 70-year-old, who\nwas among the 27\nMaoists killed by security",
+   "body_raw": "= \u2014 _ rity establishment say. For the\nNIKHILAHENRY Maoist movement in general,\n& DEEPTIMAN TIWARY and the two states of Telangana\nHYDERABAD, NEW DELHI, and Andhra Pradesh in particu-\nMAY 21 lar, Basavaraju was synonymous\n; with the Maoist party.\nTHE DEATH of The 70-year-old, who\nCommunistPartyofIndia Jw was among the 27\n(Maoist) leader |= Maoists killed by security\nBasavaraju in an en- jx e@| forces in Abujhmad,\ncounter in Abujhmad hailed from Srikakulam in\nmarks a pivotal moment Andhra Pradesh and was\nin the fight against Left Wing a student of the Regional\nExtremism, officials inthe secu- CONTINUED ON PAGE 2\n\na student of the Regional\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.3125,
+   "ocr_low_conf_share": 0.05357142857142857,
+   "headline": "What Basavaraju's killing means for Maoists - and Govt's fight against them",
+   "deck": "The 70-year-old, who was among the 27 Maoists killed by security",
+   "byline": "",
+   "text": "= - _ rity establishment say. For the NIKHILAHENRY Maoist movement in general, & DEEPTIMAN TIWARY and the two states of Telangana HYDERABAD, NEW DELHI, and Andhra Pradesh in particu-MAY 21 lar, Basavaraju was synonymous; with the Maoist party. THE DEATH of The 70-year-old, who CommunistPartyofIndia Jw was among the 27 (Maoist) leader = Maoists killed by security Basavaraju in an en- jx e@ forces in Abujhmad, counter in Abujhmad hailed from Srikakulam in marks a pivotal moment Andhra Pradesh and was in the fight against Left Wing a student of the Regional\n\na student of the Regional",
+   "n_words": 98,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1438,
+      733,
+      1753
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      1787,
+      587,
+      1826
+     ],
+     [
+      323,
+      1897,
+      694,
+      1967
+     ],
+     [
+      319,
+      2016,
+      764,
+      3112
+     ]
+    ],
+    "layout_words": 143
+   },
+   "headline_raw": "Jal Shakti\nschemes: MPs\nmeet today to\ndiscuss issues,",
+   "deck_raw": "",
+   "body_raw": "concerns\n\nHARIKISHAN SHARMA\nNEW DELHI, MAY 21\n\nJALSHAKTI Minister CR Patil has\ninvited around 60 Lok Sabha\nmembers to hold aninformal in-\nteraction Thursday on the points\nand concerns they had raised\nduring a discussion on his\nMinistry's Demand for Grants for\nfinancial year 2025-26.\nThe meeting, which will be\nheld at the Parliament House\nAnnexe building, is likely to see\nmembers discussing issues re-\nlated to different schemes of the\nMinistry including the Jal Jeevan\nMission and Namami Gange.\nThe meeting comes ata time\nwhen the Centre has decided to\nsend 100 teams of Central Nodal\nOfficers (CNO) for ground in-\nspection of Jal Jeevan Mission\nschemes across the country\namid concerns over irregulari-\nties in several states.\nA source said the Ministry\nhas written to around 60 Lok\nSabha members, inviting them\nto attend the interaction. These\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.23076923076923,
+   "ocr_low_conf_share": 0.06293706293706294,
+   "headline": "Jal Shakti schemes: MPs meet today to discuss issues,",
+   "deck": "",
+   "byline": "HARIKISHAN SHARMA; NEW DELHI, MAY 21",
+   "text": "concerns\n\nJALSHAKTI Minister CR Patil has invited around 60 Lok Sabha members to hold aninformal interaction Thursday on the points and concerns they had raised during a discussion on his Ministry's Demand for Grants for financial year 2025-26. The meeting, which will be held at the Parliament House Annexe building, is likely to see members discussing issues related to different schemes of the Ministry including the Jal Jeevan Mission and Namami Gange. The meeting comes ata time when the Centre has decided to send 100 teams of Central Nodal Officers (CNO) for ground inspection of Jal Jeevan Mission schemes across the country amid concerns over irregularities in several states. A source said the Ministry has written to around 60 Lok Sabha members, inviting them to attend the interaction. These",
+   "n_words": 129,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1831,
+      1669,
+      2197,
+      1729
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1877,
+      1289,
+      2220,
+      1434
+     ],
+     [
+      1947,
+      1528,
+      2196,
+      1575
+     ],
+     [
+      2524,
+      1815,
+      2690,
+      1859
+     ]
+    ],
+    "body_boxes": [
+     [
+      1939,
+      1578,
+      2032,
+      1608
+     ],
+     [
+      1826,
+      1758,
+      2176,
+      2002
+     ]
+    ],
+    "layout_words": 24
+   },
+   "headline_raw": "BASTAR STRONGHOLD",
+   "deck_raw": "Theencounter. 4\nsite in Abujhmad i\n| Narayanpur \u201c\u00b0 Leo d\no_o Dantewada\nleader Is\nre",
+   "body_raw": "Bijapur\n\n1,003 Maoists killed in\nthestate\u2019s Bastar region\nin more than 11 years\nNearly 200 of them\nkilled in encounters\nthis year PAGES 6,13",
+   "ocr_conf": 87.5,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "BASTAR STRONGHOLD",
+   "deck": "Theencounter. 4 site in Abujhmad i Narayanpur \"\u00b0 Leo d o_o Dantewada leader Is re",
+   "byline": "",
+   "text": "Bijapur\n\n1,003 Maoists killed in thestate's Bastar region in more than 11 years Nearly 200 of them killed in encounters this year PAGES 6,13",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      2041,
+      4180,
+      2351
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3254,
+      2414,
+      3598,
+      2483
+     ],
+     [
+      3251,
+      2532,
+      3694,
+      3121
+     ],
+     [
+      3742,
+      2375,
+      4182,
+      3115
+     ]
+    ],
+    "layout_words": 186
+   },
+   "headline_raw": "India set to sign interim\nUS trade deal by July 8,\nbefore 90-day pause ends",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTA MISHRA\nNEW DELHI, MAY 21\n\nINDIA IS likely to sign an interim\ntrade deal with the US by July 8,\nwhen the 90-day pause window\nends and reciprocal tariffs kick\nin. This, a government official\nsaid, will ensure New Delhi\naverts the 26 per cent retaliatory\ntariff imposed by the US on\nIndian goods.\nThe confidence comes fol-\nlowing Commerce and Industry\nMinister Piyush Goyal\u2019s visit last\nweek to Washington, aimed at\ngiving fresh impetus to the on-\ngoing trade talks. The Indian del-\n\negation\u2019s visit was days after the\nUnited States and China agreed\nto dramatically de-escalate trade\ntensions and sign an agreement\nto reduce tariffs on each other.\n\u201cTalks are progressing posi-\ntively. We are looking to con-\nclude an interim deal before the\nfirst tranche (of tariffs) takes ef-\nfect on July 8. It will cover goods,\nnon-tariff barriers, and select ar-\neas of services, including digital\ntrade. We are working to ensure\nthat the 26 per cent additional\nduty and possibly the 10percent\nbaseline tariff do not apply to\nIndia,\u201d the official said.\nHowever, another official\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.76344086021506,
+   "ocr_low_conf_share": 0.03225806451612903,
+   "headline": "India set to sign interim US trade deal by July 8, before 90-day pause ends",
+   "deck": "",
+   "byline": "RAVI DUTTA MISHRA; NEW DELHI, MAY 21",
+   "text": "INDIA IS likely to sign an interim trade deal with the US by July 8, when the 90-day pause window ends and reciprocal tariffs kick in. This, a government official said, will ensure New Delhi averts the 26 per cent retaliatory tariff imposed by the US on Indian goods. The confidence comes following Commerce and Industry Minister Piyush Goyal's visit last week to Washington, aimed at giving fresh impetus to the ongoing trade talks. The Indian delegation's visit was days after the United States and China agreed to dramatically de-escalate trade tensions and sign an agreement to reduce tariffs on each other. \"Talks are progressing positively. We are looking to conclude an interim deal before the first tranche (of tariffs) takes effect on July 8. It will cover goods, non-tariff barriers, and select areas of services, including digital trade. We are working to ensure that the 26 per cent additional duty and possibly the 10percent baseline tariff do not apply to India,\" the official said. However, another official",
+   "n_words": 168,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      2199,
+      1739,
+      2508
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      812,
+      2571,
+      1115,
+      2641
+     ],
+     [
+      810,
+      2689,
+      1252,
+      3112
+     ]
+    ],
+    "layout_words": 60
+   },
+   "headline_raw": "PMLA case against Sonia\n& Rahul, Congress not\naccused yet: ED to court",
+   "deck_raw": "",
+   "body_raw": "NIRBHAY THAKUR\nNEW DELHI, MAY 21\n\nTHE ENFORCEMENT Directorate\ntold aDelhi court Wednesday\nthat while the Congress party\nwas not yet an accused in the\nNational Herald case, a prima fa-\nciecase of money laundering was\nmade out against party leaders\nSonia Gandhi and Rahul Gandhi.\n\u201cI will show thata prima facie\ncase of money laundering is\nCONTINUEDON PAGE 2",
+   "ocr_conf": 93.93333333333334,
+   "ocr_low_conf_share": 0.0,
+   "headline": "PMLA case against Sonia & Rahul, Congress not accused yet: ED to court",
+   "deck": "",
+   "byline": "NIRBHAY THAKUR; NEW DELHI, MAY 21",
+   "text": "THE ENFORCEMENT Directorate told aDelhi court Wednesday that while the Congress party was not yet an accused in the National Herald case, a prima faciecase of money laundering was made out against party leaders Sonia Gandhi and Rahul Gandhi. \"I will show thata prima facie case of money laundering is CONTINUEDON PAGE 2",
+   "n_words": 53,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2199,
+      2201,
+      2291
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1788,
+      2909,
+      2224,
+      3075
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "MANSAROVAR YATRA\nON TRACK, 750\nPILGRIMS SELECTED\nPAGE 10",
+   "ocr_conf": 75.66666666666667,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "MANSAROVAR YATRA; ON TRACK, 750; PILGRIMS SELECTED",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      2198,
+      3202,
+      2509
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      2572,
+      2653,
+      2642
+     ],
+     [
+      2275,
+      2691,
+      2716,
+      3121
+     ]
+    ],
+    "layout_words": 57
+   },
+   "headline_raw": "SC grants interim bail to\nMahmudabad, orders\nan SIT probe and a gag",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, MAY 21\n\nDECLINING TO stay the investi-\ngation against him over his on-\nline posts on Operation Sindoor\nand restraining him from speak-\ning or writing on the matter, the\nSupreme Court granted interim\nbail Wednesday to Ashoka\nUniversity Professor Ali Khan\nMahmudabad who was arrested\nby Haryana Police.\nOn Tuesday, a court in",
+   "ocr_conf": 93.52631578947368,
+   "ocr_low_conf_share": 0.03508771929824561,
+   "headline": "SC grants interim bail to Mahmudabad, orders an SIT probe and a gag",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, MAY 21",
+   "text": "DECLINING TO stay the investigation against him over his online posts on Operation Sindoor and restraining him from speaking or writing on the matter, the Supreme Court granted interim bail Wednesday to Ashoka University Professor Ali Khan Mahmudabad who was arrested by Haryana Police. On Tuesday, a court in",
+   "n_words": 49,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2790,
+      2416,
+      3144,
+      2510
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2981,
+      2689,
+      3114,
+      2718
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "and a gag",
+   "deck_raw": "",
+   "body_raw": "Ali Khan",
+   "ocr_conf": 19.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "and a gag",
+   "deck": "",
+   "byline": "",
+   "text": "Ali Khan",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2849,
+      2711,
+      3203,
+      2796
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2765,
+      2849,
+      3204,
+      3084
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "oe 3) \\ \\ oul\n. INDIa\nw , \\ Mahmudabad",
+   "deck_raw": "",
+   "body_raw": "Sonipat, where Ashoka\nUniversity is located, had sent\nMahmudabad to judicial cus-\ntody until May 27.\nObserving that\nMahmudabad\u2019s remarks",
+   "ocr_conf": 90.1,
+   "ocr_low_conf_share": 0.05,
+   "headline": ". INDIa",
+   "deck": "",
+   "byline": "",
+   "text": "Sonipat, where Ashoka University is located, had sent Mahmudabad to judicial custody until May 27. Observing that Mahmudabad's remarks",
+   "n_words": 19,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      370,
+      5740,
+      4126,
+      6035
+     ]
+    ],
+    "layout_words": 152,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "An Investor Education and Awareness Initiative | SIP - Systematic Investment Plan\nVisit https//www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only\ndeal with registered Mutual Funds, details of which can be verified on the SEBI website (www sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the\nAMCs and/or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through\nthe SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the\ncomplaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https//smartodr.in/login.",
+   "ocr_conf": 92.79605263157895,
+   "ocr_low_conf_share": 0.02631578947368421,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "An Investor Education and Awareness Initiative SIP - Systematic Investment Plan Visit https//www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website (www sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and/or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through the SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https//smartodr.in/login.",
+   "n_words": 151,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 12.8,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,756 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_16_editorial",
+ "source_file": "2025-09-16_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-16_editorial.png",
+ "date": "2025-09-16",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 463,
+  "mean_line_conf": 89.63622059868241,
+  "orphan_words": 710,
+  "body_words_total": 3533
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      374,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      617,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      435,
+      918,
+      949,
+      960
+     ],
+     [
+      811,
+      771,
+      1089,
+      802
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "BECAUSE THE TRUTH\n\nFOUNDED By @",
+   "ocr_conf": 91.16666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; FOUNDED By @",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2193,
+      597,
+      3615,
+      815
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2445,
+      899,
+      3364,
+      1031
+     ]
+    ],
+    "body_boxes": [
+     [
+      2320,
+      2123,
+      2828,
+      3270
+     ],
+     [
+      2922,
+      1290,
+      3530,
+      3269
+     ]
+    ],
+    "layout_words": 459
+   },
+   "headline_raw": "Policing charity",
+   "deck_raw": "SC\u2019s interim order offers no relief from\nproblematic provisions of waqf law",
+   "body_raw": "The Court has temporarily\nstayed Section 3(r) of the Act\ntill rules to determine who is a\npractising Muslim for five\nyears are framed. This section\nof the interim order is\nproblematic as it gives the\nexecutive officials powers to\nadjudicate the religiosity of\ncitizens. Are we going to have\nmoral policing along the lines\nof Iran? A person's claim\nshould be enough to\ndetermine his or her religious\nidentity. Section 3(r) uses the\nterm \u2018professing Islam\u2019 but the\nCJI Gavai-led bench has used\nthe expression \u2018practising\nIslam\u2019. This gives state officials\na say on religious rectitude -\non the performance or\nnon-performance of\nreligious duties.\n\ntioners have themselves argued that waaf is\nunique to Islam is not a convincing reason to\njustify this exclusion. This is because the ar-\ngumentisin the context of a concept novel to\nIslam, where theowner loses control overhis\nown property.\nThe right of aproperty owner has nothing\nto do with anyreligiouslawas it is partof the\ngeneral jurisprudence, common to all legal\nsystems. An owner is free to do whatever he\nwants with his property, including destroy-\ning or alienating it the way he or she wants.\nBy denying anon-Muslim owner of proper-\nties the right to create a waqf, the Act in-\nfringes the ownership rights of non-\nMuslims. The petitioners must be\ndisappointed that the Court did not find this\nprovision problematic. Voluntary conver-\nsions are not prohibited. Religious conver-\nsion does not meana loss of ownership rights\nover property. The Court\u2019s response that he\nmay create a trust or donate his property in\nany other way \u2014 a trust, for instance \u2014 is\nnothing short of restricting his freedom. A\nwad is different from a trust. A waqf's\nfounder cannot take any benefits for himself\nor herself. Unlike trusts, a waqf is perpetual,\nirrevocable, and inalienable. The propertyin\ntrust vests rights in the trustee, but in waaf,\nit vests them in God. If an owner does not\nwant to create atrust,can the law force him?\nSince a waqf can be set up for secular\nand social purposes like the construction\nofa road, hospital or school, how cana non-\nMuslim be prohibited from this philan-\nthropy? The denial of this right appears\ncontroversial, especially because non-\nMuslims are permitted to be on the Central\nWaqf Council and Waqf Boards. It's true\nthat this right of non-Muslims was not\nspecifically mentioned in the 1954 and\n1995 Waaf Acts and was indeed included\nin the 2013 amendment. However, in judg-\nments such as Peda Venkatsubbaranydu\n(1930) and Arur Singh (1940), the High\nCourts of Madras and Lahore upheld this\nright of non-Muslims. After Independence,\nin Motishah v. Abdul Gaffar (1956), the\nNagpur High Court upheld the right of non-\nMuslims to create a waqf.",
+   "ocr_conf": 92.59694989106754,
+   "ocr_low_conf_share": 0.017429193899782137,
+   "headline": "Policing charity",
+   "deck": "SC's interim order offers no relief from problematic provisions of waqf law",
+   "byline": "",
+   "text": "The Court has temporarily stayed Section 3(r) of the Act till rules to determine who is a practising Muslim for five years are framed. This section of the interim order is problematic as it gives the executive officials powers to adjudicate the religiosity of citizens. Are we going to have moral policing along the lines of Iran? A person's claim should be enough to determine his or her religious identity. Section 3(r) uses the term 'professing Islam' but the CJI Gavai-led bench has used the expression 'practising Islam'. This gives state officials a say on religious rectitude - on the performance or non-performance of religious duties.\n\ntioners have themselves argued that waaf is unique to Islam is not a convincing reason to justify this exclusion. This is because the argumentisin the context of a concept novel to Islam, where theowner loses control overhis own property. The right of aproperty owner has nothing to do with anyreligiouslawas it is partof the general jurisprudence, common to all legal systems. An owner is free to do whatever he wants with his property, including destroying or alienating it the way he or she wants. By denying anon-Muslim owner of properties the right to create a waqf, the Act infringes the ownership rights of non-Muslims. The petitioners must be disappointed that the Court did not find this provision problematic. Voluntary conversions are not prohibited. Religious conversion does not meana loss of ownership rights over property. The Court's response that he may create a trust or donate his property in any other way - a trust, for instance - is nothing short of restricting his freedom. A wad is different from a trust. A waqf's founder cannot take any benefits for himself or herself. Unlike trusts, a waqf is perpetual, irrevocable, and inalienable. The propertyin trust vests rights in the trustee, but in waaf, it vests them in God. If an owner does not want to create atrust,can the law force him? Since a waqf can be set up for secular and social purposes like the construction ofa road, hospital or school, how cana non-Muslim be prohibited from this philanthropy? The denial of this right appears controversial, especially because non-Muslims are permitted to be on the Central Waqf Council and Waqf Boards. It's true that this right of non-Muslims was not specifically mentioned in the 1954 and 1995 Waaf Acts and was indeed included in the 2013 amendment. However, in judgments such as Peda Venkatsubbaranydu (1930) and Arur Singh (1940), the High Courts of Madras and Lahore upheld this right of non-Muslims. After Independence, in Motishah v. Abdul Gaffar (1956), the Nagpur High Court upheld the right of non-Muslims to create a waqf.",
+   "n_words": 447,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      494,
+      1086,
+      1356,
+      1177
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1233,
+      1532,
+      1816
+     ]
+    ],
+    "layout_words": 151
+   },
+   "headline_raw": "A WELCOME PAUSE",
+   "deck_raw": "",
+   "body_raw": "SCs interim ruling on waqflaw checks executive\u2019s sweeping\npowers on Muslim charitable bodies, affirms due processes\nT HE SUPREME COURTS interim order on Monday, pausing some key aspects of\nthe contentious amendments to the Waqf Act, is significant. A bench ledby Chief\nJustice of India BR Gavaiand Justice Augustine Masih has put on hold provisions\nthat gave district collectors sweeping powers over waqf properties and capped\nthe number of non-Muslims who can be appointed to the waqf boards. The SC also paused\nthe provision mandating that only those practising Islam for at least five years can create\nwagfs. The stay will continue till state governments frame rules on how to determine who\nis apractising Muslim. The interim order will be in effect till the SC hears adetailed constitu-\ntional challenge. As the SC underlined, it is meant to \u201cprotect the interests ofall parties and\nbalance equities during the pendency of the matters.\u201d",
+   "ocr_conf": 92.38157894736842,
+   "ocr_low_conf_share": 0.019736842105263157,
+   "headline": "A WELCOME PAUSE",
+   "deck": "",
+   "byline": "",
+   "text": "SCs interim ruling on waqflaw checks executive's sweeping powers on Muslim charitable bodies, affirms due processes T HE SUPREME COURTS interim order on Monday, pausing some key aspects of the contentious amendments to the Waqf Act, is significant. A bench ledby Chief Justice of India BR Gavaiand Justice Augustine Masih has put on hold provisions that gave district collectors sweeping powers over waqf properties and capped the number of non-Muslims who can be appointed to the waqf boards. The SC also paused the provision mandating that only those practising Islam for at least five years can create wagfs. The stay will continue till state governments frame rules on how to determine who is apractising Muslim. The interim order will be in effect till the SC hears adetailed constitutional challenge. As the SC underlined, it is meant to \"protect the interests ofall parties and balance equities during the pendency of the matters.\"",
+   "n_words": 151,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1624,
+      1141,
+      2050,
+      1184
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "FAIZAN MUSTAFA",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "FAIZAN MUSTAFA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1619,
+      1289,
+      2229,
+      3268
+     ]
+    ],
+    "layout_words": 365,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "WAOFIS THE most direct expression of Islamic\nphilanthropy. The Quran does not use the ex-\npression \u201cwaqf\u2019. However, some 20 verses en-\ncourage people to spend their wealth on char-\nity. The Prophet created seven waafs of date\npalm gardens. The Waqf (Amendment) Act,\n2025, that tried to regulatesuch philanthropy,\ninvited controversyand was challenged in the\nSupreme Court.\nOn Monday, the Court gave an interim or-\nderin response to the petitions. At 128 pages,\nthe order is unusually long. Interim orders\nshould ideally be brief, as the arguments on\nthe merits of the case have yet to be heard. The\nCourt examined a challenge to most provi-\nsions of the Act and stayed just a couple of\nthem. The petitioners\u2019 celebration of the small\nvictory is largely unwarranted, as thecourt has\nrejected their arguments on most provisions.\nParliamentary provisions are indeed\nstayed in the \u201crarest ofrare\u201d cases, as laws are\ngenerally assumed to pass the test ofconstitu-\ntionality. Generally, no law is stayed in its en-\ntirety because the Constitution's Article 13(2)\nclearly says that only the provisions that con-\ntravene fundamental rights are void. Ci BR\nGavai and Justice AG Masih's bench did ex-\nactly thisin the interimorder and stayed a few\nprovisions of the Act.\nThe Court has temporarily stayed Section\n3(r) of the Act till rules to determine whois a\npractising Muslim for five years are framed.\nThis section of the interim order is problem-\natic as it gives the executive officials powers\nto adjudicate the religiosity of citizens. Are we\ngoingtohave moral policing aiong theiines of\nIran? A person's claim should be enough to\ndetermine his or herreligious identity. Section\n3(r) uses the term \u201cprofessing Islam\u201d, but the\nCJl Gavai-led bench has used the expression\n\u201cpractising Islam\u201d. This gives state officials a\nsay on religious rectitude - on the perform-\nance or non-performance of religious duties.\nIn other words, aMuslim who prays just once\na week on Friday or does not keep fasts or lies\nor takes bank interest or does not pay zakat\nmay not be certified as \u201cpractising Islam\u201d.\nShould amodern, liberal, and secular state be\nallowed to classify good Muslims and bad\nMuslims? The court's justification that peti-",
+   "ocr_conf": 90.48219178082192,
+   "ocr_low_conf_share": 0.04657534246575343,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "WAOFIS THE most direct expression of Islamic philanthropy. The Quran does not use the expression \"waqf'. However, some 20 verses encourage people to spend their wealth on charity. The Prophet created seven waafs of date palm gardens. The Waqf (Amendment) Act, 2025, that tried to regulatesuch philanthropy, invited controversyand was challenged in the Supreme Court. On Monday, the Court gave an interim orderin response to the petitions. At 128 pages, the order is unusually long. Interim orders should ideally be brief, as the arguments on the merits of the case have yet to be heard. The Court examined a challenge to most provisions of the Act and stayed just a couple of them. The petitioners' celebration of the small victory is largely unwarranted, as thecourt has rejected their arguments on most provisions. Parliamentary provisions are indeed stayed in the \"rarest ofrare\" cases, as laws are generally assumed to pass the test ofconstitutionality. Generally, no law is stayed in its entirety because the Constitution's Article 13(2) clearly says that only the provisions that contravene fundamental rights are void. Ci BR Gavai and Justice AG Masih's bench did exactly thisin the interimorder and stayed a few provisions of the Act. The Court has temporarily stayed Section 3(r) of the Act till rules to determine whois a practising Muslim for five years are framed. This section of the interim order is problematic as it gives the executive officials powers to adjudicate the religiosity of citizens. Are we goingtohave moral policing aiong theiines of Iran? A person's claim should be enough to determine his or herreligious identity. Section 3(r) uses the term \"professing Islam\", but the CJl Gavai-led bench has used the expression \"practising Islam\". This gives state officials a say on religious rectitude - on the performance or non-performance of religious duties. In other words, aMuslim who prays just once a week on Friday or does not keep fasts or lies or takes bank interest or does not pay zakat may not be certified as \"practising Islam\". Should amodern, liberal, and secular state be allowed to classify good Muslims and bad Muslims? The court's justification that peti-",
+   "n_words": 354,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      1291,
+      4179,
+      2629
+     ]
+    ],
+    "layout_words": 244,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Similarly, the Court's refusal to stay theap-\nplication of alimitationlaw on the ground that\nitappliesto all properties is a huge setback to\nthe petitioners. Some Hindu endowment laws\n-suchas those inAndhra Pradesh, Telangana\nand Tamil Nadu- do have such exemptions.\nThe biggest setback to the petitioners was\non wagdf by user. The Court found the aboli-\ntion of such a waf perfectly justified on the\nground that a lot of government lands have\nbeenencroached upon. We should not forget\nthat waqf boards are not private land mafia\nbutastatutory authority under Article 12. Itis\nthe state government that notifies waqf prop-\nerties in the gazette after a survey by public\nservants and recommendations by waqf\nboards. Moreover, a waqf by user has been\nconsistently upheld by the larger benches of\nthe apex court, including in the Babri Masjid\njudgment. Not extending the regisiration time\nbeyond six months should be equally disap-\npointing for the petitioners.\nThe court\u2019s fixing of the number of non-\nMuslims in theCentral Waqf Council and waqf\nboards may give some solace to the petition-\ners, but such a change should not have been\nopposed in the interests of diversity, even\nthough Article 26 of the Constitution is cate-\ngorical that the rignt to manage religious prop-\nerties is the right of a religious denomination\norany section thereof. Even Jains, Buddhists,\nand Sikhs whoare Hindus as per Article 25 of\nthe Constitution, are not allowed to become\nmembers of someHindu EndowmentBoards.",
+   "ocr_conf": 89.49794238683127,
+   "ocr_low_conf_share": 0.04938271604938271,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Similarly, the Court's refusal to stay theapplication of alimitationlaw on the ground that itappliesto all properties is a huge setback to the petitioners. Some Hindu endowment laws -suchas those inAndhra Pradesh, Telangana and Tamil Nadu- do have such exemptions. The biggest setback to the petitioners was on wagdf by user. The Court found the abolition of such a waf perfectly justified on the ground that a lot of government lands have beenencroached upon. We should not forget that waqf boards are not private land mafia butastatutory authority under Article 12. Itis the state government that notifies waqf properties in the gazette after a survey by public servants and recommendations by waqf boards. Moreover, a waqf by user has been consistently upheld by the larger benches of the apex court, including in the Babri Masjid judgment. Not extending the regisiration time beyond six months should be equally disappointing for the petitioners. The court's fixing of the number of non-Muslims in theCentral Waqf Council and waqf boards may give some solace to the petitioners, but such a change should not have been opposed in the interests of diversity, even though Article 26 of the Constitution is categorical that the rignt to manage religious properties is the right of a religious denomination orany section thereof. Even Jains, Buddhists, and Sikhs whoare Hindus as per Article 25 of the Constitution, are not allowed to become members of someHindu EndowmentBoards.",
+   "n_words": 235,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      1822,
+      1529,
+      1957
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1965,
+      1531,
+      3011
+     ]
+    ],
+    "layout_words": 348
+   },
+   "headline_raw": "The waqf lawwas introduced in 2024 andwasreferred to aJoint Parliamentary Committee\n(JPC)that included members of the Opposition. However, in the JPC, none of theissues raised\nby the Opposition were taken on board. And, in Parliament, it ultimately came down to the",
+   "deck_raw": "",
+   "body_raw": "fact that the government had the hard numbers. The interim order addresses some of the key\nissues raised by the Opposition. On the district collector's role, for instance. Under the 2025\nlaw, a waqf property would lose its status if a district collector identified it as government\nland. This power, earlier with the Waqf Tribunal, essentially makes the government a judge\nin its own case - the district collector's decision wouid hold till acourt adjudicates on the dis-\nputed land. The SC underlined that this provision is arbitrary and not in tune with the prin-\nciple of separation of powers. \u201cThe question of determination of thetitle of a property will have\nto, inourconsidered opinion, be resolved bya judicial or quasi-judicial authority,\u201d and a\u201crev-\nenue officer Cannot be entrusted with the work of determination of the title ofa property, keep-\ninginview the prindpie of separationof powers,\u201d itsaid.On the issue of representationof non-\nMuslims in waqf boards, the Court noted that ihe fiinctions of these bodies are largely secular\nand advisory and do not directly interfere with religious activities. It capped the number of\nnon-Muslim members to four out of 22 in the Central Waaf Board and three out of 11 in state\ncouncils, It is not as if the Court agreed with all the arguments of those who had petitioned\nagainst the law. It deemed a key provision that does away with the concept of waqf-by-user\n\u2014 land used for Muslim religious or charitable purposes for a long period of time is deemed\nas waof even if it was not registered as such \u2014 as prima facie constitutional.\nThe SC \u2018s intervention is also crucial because it usually reserves interim relief in excep-\ntional cases. Laws enacted by Parliament carry a presumption of constitutionality. As the\nCourt said, interim relief is only given when \u201cprovisions are ex facie in violation of funda-\nmental rights orconstitutional principles, or are manifestly arbitrary\u201d. The government should\nread the message in this extraordinary order: It must pay scrupulous attention to due\nprocesses, especially on complex matters that pertain to religious practices of minorities.",
+   "ocr_conf": 86.73275862068965,
+   "ocr_low_conf_share": 0.09770114942528736,
+   "headline": "The waqf lawwas introduced in 2024 andwasreferred to aJoint Parliamentary Committee (JPC)that included members of the Opposition. However, in the JPC, none of theissues raised by the Opposition were taken on board. And, in Parliament, it ultimately came down to the",
+   "deck": "",
+   "byline": "",
+   "text": "fact that the government had the hard numbers. The interim order addresses some of the key issues raised by the Opposition. On the district collector's role, for instance. Under the 2025 law, a waqf property would lose its status if a district collector identified it as government land. This power, earlier with the Waqf Tribunal, essentially makes the government a judge in its own case - the district collector's decision wouid hold till acourt adjudicates on the disputed land. The SC underlined that this provision is arbitrary and not in tune with the principle of separation of powers. \"The question of determination of thetitle of a property will have to, inourconsidered opinion, be resolved bya judicial or quasi-judicial authority,\" and a\"revenue officer Cannot be entrusted with the work of determination of the title ofa property, keep-inginview the prindpie of separationof powers,\" itsaid.On the issue of representationof non-Muslims in waqf boards, the Court noted that ihe fiinctions of these bodies are largely secular and advisory and do not directly interfere with religious activities. It capped the number of non-Muslim members to four out of 22 in the Central Waaf Board and three out of 11 in state councils, It is not as if the Court agreed with all the arguments of those who had petitioned against the law. It deemed a key provision that does away with the concept of waqf-by-user - land used for Muslim religious or charitable purposes for a long period of time is deemed as waof even if it was not registered as such - as prima facie constitutional. The SC 's intervention is also crucial because it usually reserves interim relief in exceptional cases. Laws enacted by Parliament carry a presumption of constitutionality. As the Court said, interim relief is only given when \"provisions are ex facie in violation of fundamental rights orconstitutional principles, or are manifestly arbitrary\". The government should read the message in this extraordinary order: It must pay scrupulous attention to due processes, especially on complex matters that pertain to religious practices of minorities.",
+   "n_words": 341,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3572,
+      2641,
+      4177,
+      3112
+     ]
+    ],
+    "layout_words": 86,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The petitioners should, however, be hugely\nrelieved that the Court has found determina-\ntion of title by the executive officers a viola-\ntion of the separation of powers and stayed\nthis provision in Section 3(c).\nThe matteris unlikely tobe heardon merit\nany time soon, and the Waqf Act, 2025, would\nnow be implemented with a few small mod-\nifications. Whether the government brings\none law for all religious endowments is some-\nthing that remains to be seen. The Waqf Act\nwas alost opportunity to initiate UCC.",
+   "ocr_conf": 89.9186046511628,
+   "ocr_low_conf_share": 0.05813953488372093,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The petitioners should, however, be hugely relieved that the Court has found determination of title by the executive officers a violation of the separation of powers and stayed this provision in Section 3(c). The matteris unlikely tobe heardon merit any time soon, and the Waqf Act, 2025, would now be implemented with a few small modifications. Whether the government brings one law for all religious endowments is something that remains to be seen. The Waqf Act was alost opportunity to initiate UCC.",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      500,
+      3103,
+      1347,
+      3189
+     ]
+    ],
+    "deck_boxes": [
+     [
+      335,
+      3226,
+      1515,
+      3332
+     ]
+    ],
+    "body_boxes": [
+     [
+      483,
+      3364,
+      1530,
+      3491
+     ]
+    ],
+    "layout_words": 40
+   },
+   "headline_raw": "A CALL TO REASON",
+   "deck_raw": "Israel should heed message of UN General Assembly resolution\non two-state solution. It cannot have security by force alone",
+   "body_raw": "| HE IDEA OF a two-state solution to the Palestinian issue \u2014 a sovereign State of\nPalestine alongside Israel \u2014 dates back to 1937 (when the present-day State of\nIsrael didn\u2019t exist) Since then, multiple efforts to implement the policy have",
+   "ocr_conf": 85.04878048780488,
+   "ocr_low_conf_share": 0.0975609756097561,
+   "headline": "A CALL TO REASON",
+   "deck": "Israel should heed message of UN General Assembly resolution on two-state solution. It cannot have security by force alone",
+   "byline": "",
+   "text": "HE IDEA OF a two-state solution to the Palestinian issue - a sovereign State of Palestine alongside Israel - dates back to 1937 (when the present-day State of Israel didn't exist) Since then, multiple efforts to implement the policy have",
+   "n_words": 40,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3721,
+      3157,
+      4181,
+      3270
+     ]
+    ],
+    "layout_words": 13,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Thewriter is vice-chancellor of\nChanakya National Law University,\nPatna. The views are personal",
+   "ocr_conf": 95.23076923076923,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Thewriter is vice-chancellor of Chanakya National Law University, Patna. The views are personal",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2277,
+      3464,
+      3670,
+      3577
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2270,
+      3636,
+      2818,
+      3697
+     ],
+     [
+      2846,
+      3636,
+      3006,
+      3697
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4473,
+      2801,
+      5208
+     ],
+     [
+      2919,
+      3870,
+      3525,
+      5213
+     ]
+    ],
+    "layout_words": 334
+   },
+   "headline_raw": "DIFFERENT BALL GAME",
+   "deck_raw": "Asia Cup no-handshake\nnomen",
+   "body_raw": "new kind of civility: We shall play when\nneeded, we won't engage in any symbolism.\nSport is a business now, let\u2019s get done and\nmove on. It\u2019s an interesting way to play a\nsport, but its fallouts cannot be ascertained\njust yet. It\u2019s one thing to doit for agameora\ntoumament, but to sustain this kind of \u201ccivil\nanimosity\u201d would leave a trail in its wake.\nFor starters, what isthe fan at the stadium\nnow expected to do? On Sunday night, there\nwas an easy vibe in the stands \u2014 Indian and\nPakistani fans could be seen sitting together,\nbantering and chatting. Now, with India re-\nfusing to shake hands and a miffed Pakistan\ncaptain absenting himself from the presen-\ntation ceremony, lines have been redrawn,\nShould the fans now sit together or will\nthey wonder if it\u2019s best to segregate them-\nselves too? Will it create a stadium with sep-\narate islands of fandoms? Would organisers\nmove in such a direction to ensure no unto-\nward incidents happen? What message will\nit send out to young fans? Where does this\nleave former cricketers from India and\nPakistan who are friends and who share the\ncommentary box? Ravi Shastri and Wasim\nAkram once rana show called Shaz-Waz. Will\nthey now have to set boundaries to their\nfriendship? A video of Shubman Gill advising\nthe Hong Kong team players was criticised\non social media on the assumption that he\nwas helping Pakistan players. It raises the\npoint about smaller cricketing nations inthis\nvery tournament, be it UAE or Oman, who",
+   "ocr_conf": 92.58982035928143,
+   "ocr_low_conf_share": 0.02694610778443114,
+   "headline": "DIFFERENT BALL GAME",
+   "deck": "Asia Cup no-handshake nomen",
+   "byline": "",
+   "text": "new kind of civility: We shall play when needed, we won't engage in any symbolism. Sport is a business now, let's get done and move on. It's an interesting way to play a sport, but its fallouts cannot be ascertained just yet. It's one thing to doit for agameora toumament, but to sustain this kind of \"civil animosity\" would leave a trail in its wake. For starters, what isthe fan at the stadium now expected to do? On Sunday night, there was an easy vibe in the stands - Indian and Pakistani fans could be seen sitting together, bantering and chatting. Now, with India refusing to shake hands and a miffed Pakistan captain absenting himself from the presentation ceremony, lines have been redrawn, Should the fans now sit together or will they wonder if it's best to segregate themselves too? Will it create a stadium with separate islands of fandoms? Would organisers move in such a direction to ensure no untoward incidents happen? What message will it send out to young fans? Where does this leave former cricketers from India and Pakistan who are friends and who share the commentary box? Ravi Shastri and Wasim Akram once rana show called Shaz-Waz. Will they now have to set boundaries to their friendship? A video of Shubman Gill advising the Hong Kong team players was criticised on social media on the assumption that he was helping Pakistan players. It raises the point about smaller cricketing nations inthis very tournament, be it UAE or Oman, who",
+   "n_words": 253,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      3497,
+      1528,
+      3632
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3639,
+      1530,
+      4775
+     ]
+    ],
+    "layout_words": 338
+   },
+   "headline_raw": "A. failed, the most notablebeing the Oslo Accords of the early 1990s. Israel\u2019soccu-\npation ofGaza and the West Bankafter the 1967 war, and its subsequent settlement expan-\nsionin the latter, gradually eroded the possibility of sucha solution. Today, Israel effectively",
+   "deck_raw": "",
+   "body_raw": "controls all territory from the Jordan River to the Mediterranean. But Israel's brutal war in\nGaza, launched in response to Hamas's October? terrorist attack, has revived the global de-\nbateon thetwo-state framework. Atits 80th session, the UN General Assembly on September\n12 overwhelmingly endorsed a declaration \u2014 stemming from a July UN conference hosted\nby Saudi Arabia and France \u2014 calling for \u201ctangible, timebound, and irreversible steps\u201d towards\na two-state solution. The resolution, which also demanded an end to the war and the estab-\nlishment ofa Palestinian Authority government in Gaza, passed with 142 votes in favour, 10\nagainst, and 12 abstentions, Among the notable votes in support was that of India.\nSignificantly, India\u2019s vote in support comes after three abstentions at the UN: In October\n2023 (calling for a humanitarian truce), September 2024 (demanding Israel end its un-\nlawful presence in the occupied Palestinian territories), and June 2025 (calling for a cease-\nfire in Gaza). New Delhi's decision is welcome, especially at a time when Israel seems to\nbe losing global support, including that of its traditional supporters, and there is growing\nopposition to the war within Israel as well.\nGeneral Assembly resolutions are not binding. But at amoment when, inthe words of\nthe UN, Israel is \u201csystematically\u201d and \u201cpermanently extinguishing the Palestinian pres-\nence\u201d in parts of Gaza, such votes keep the flame ofa two-state solution alive. The creation\nofa State of Palestine willbe extraordinarily difficuit, not least because the US, Israel's clos-\nestally, refuses to supportit. Washington opposed the September 12 resolution, dismiss-\ning it as \u201canother misguided and ill-timed publicity stunt\u201d and a \u201cgift to Hamas\u201d. Yet, the\nresolution has also called for a Hamas-free Gaza. Israel cannot achieve security through force\nalone. Prime Minister Benjamin Netanyahu, who has repeatedly and unapologetically re-\njected a two-state solution, would do well to heed the world\u2019s renewed call fora political\ncompromise, end the bloodshed of Gazans and save the hostages, and work towards a fu-\nture in which both Israelis and Palestinians can live in peace.",
+   "ocr_conf": 89.50887573964496,
+   "ocr_low_conf_share": 0.04437869822485207,
+   "headline": "A. failed, the most notablebeing the Oslo Accords of the early 1990s. Israel'soccupation ofGaza and the West Bankafter the 1967 war, and its subsequent settlement expansionin the latter, gradually eroded the possibility of sucha solution. Today, Israel effectively",
+   "deck": "",
+   "byline": "",
+   "text": "controls all territory from the Jordan River to the Mediterranean. But Israel's brutal war in Gaza, launched in response to Hamas's October? terrorist attack, has revived the global debateon thetwo-state framework. Atits 80th session, the UN General Assembly on September 12 overwhelmingly endorsed a declaration - stemming from a July UN conference hosted by Saudi Arabia and France - calling for \"tangible, timebound, and irreversible steps\" towards a two-state solution. The resolution, which also demanded an end to the war and the establishment ofa Palestinian Authority government in Gaza, passed with 142 votes in favour, 10 against, and 12 abstentions, Among the notable votes in support was that of India. Significantly, India's vote in support comes after three abstentions at the UN: In October 2023 (calling for a humanitarian truce), September 2024 (demanding Israel end its unlawful presence in the occupied Palestinian territories), and June 2025 (calling for a ceasefire in Gaza). New Delhi's decision is welcome, especially at a time when Israel seems to be losing global support, including that of its traditional supporters, and there is growing opposition to the war within Israel as well. General Assembly resolutions are not binding. But at amoment when, inthe words of the UN, Israel is \"systematically\" and \"permanently extinguishing the Palestinian presence\" in parts of Gaza, such votes keep the flame ofa two-state solution alive. The creation ofa State of Palestine willbe extraordinarily difficuit, not least because the US, Israel's closestally, refuses to supportit. Washington opposed the September 12 resolution, dismissing it as \"another misguided and ill-timed publicity stunt\" and a \"gift to Hamas\". Yet, the resolution has also called for a Hamas-free Gaza. Israel cannot achieve security through force alone. Prime Minister Benjamin Netanyahu, who has repeatedly and unapologetically rejected a two-state solution, would do well to heed the world's renewed call fora political compromise, end the bloodshed of Gazans and save the hostages, and work towards a future in which both Israelis and Palestinians can live in peace.",
+   "n_words": 329,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3187,
+      3636,
+      4121,
+      3697
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      3871,
+      4176,
+      5134
+     ],
+     [
+      3750,
+      5180,
+      4173,
+      5214
+     ],
+     [
+      3571,
+      5497,
+      4174,
+      5610
+     ],
+     [
+      3570,
+      5658,
+      4012,
+      5701
+     ],
+     [
+      3569,
+      5735,
+      4174,
+      6167
+     ]
+    ],
+    "layout_words": 327
+   },
+   "headline_raw": "India is redrawing lines of sportsmanship",
+   "deck_raw": "",
+   "body_raw": "have a mix of Indian and Pakistani expats.\nForget the internal dynamics of those teams,\nwill India selectively shake hands when they\nplay against them or is it just reserved forthe\ncricketing entity representing Pakistan?\nIndia\u2019s no-handshake stance has a recent\nprecedent. During the 2023 World Fencing\nChampionship, Ukraine\u2019s Olga Kharlan re-\nfused to shake hands with a Russian opponent\nin protest over the war, offering instead to tap\nblades. The Russian declined and protested,\nleading to Kharlan\u2019s disqualification. But the\nInternational OlympicCommittee later recog-\nnised the right of the athletes to not shake\nhands, and allowed Kharian to participate in\ntheParis Olympics in 2024. Shewon gold. One\ncaveat is that Ukraine and Russia continue to\nbe locked in war. But it\u2019s an easy caveat for\nmany to shrug over.\nIt would be interesting to see how the\nPakistan cricket team responds in the next\ngame, Will they go the India way or will pas-\nsions charge up? What's India\u2019s response go-\ning to be if there is sledging? Will they not\nengage or is that kind of interaction allowed?\nIn the end, it\u2019s a free world. Not shaking\nhands is a choice the Indian team has exer-\ncised. Whether it becomes the new normal\nremains to be seen, dependingon how both\nteams and fans adjust to the stance. One\nthing is clear, though: \u201cDon\u2019t politicise\nSports\u201d is an empty slogan now.\n\nsriram.veera@expressindiacom\n\nEgyptian news agency Mena reported. The\npress in Egypt has in the past reported other\nunconfirmed rebellions by Libyan soldiers.\n\nINDIA AND NASA\n\nINDIAIS PLANNING to launch an additional\nsatellite in 1987, as the demand for satellites\ninthe country has outstripped earlier expec-\ntations. Indian space authorities have ap-\nproached the National Aeronautics and\nSpace Administration (NASA) to find out\nwhether the American space agency could\naccommodate it for launching in any of the\nspace shuttle flights scheduled for 1987.\nNASA will be launching India's INSAT-1C, in\none of its shuttle flights next year.",
+   "ocr_conf": 91.80428134556576,
+   "ocr_low_conf_share": 0.039755351681957186,
+   "headline": "India is redrawing lines of sportsmanship",
+   "deck": "",
+   "byline": "",
+   "text": "have a mix of Indian and Pakistani expats. Forget the internal dynamics of those teams, will India selectively shake hands when they play against them or is it just reserved forthe cricketing entity representing Pakistan? India's no-handshake stance has a recent precedent. During the 2023 World Fencing Championship, Ukraine's Olga Kharlan refused to shake hands with a Russian opponent in protest over the war, offering instead to tap blades. The Russian declined and protested, leading to Kharlan's disqualification. But the International OlympicCommittee later recognised the right of the athletes to not shake hands, and allowed Kharian to participate in theParis Olympics in 2024. Shewon gold. One caveat is that Ukraine and Russia continue to be locked in war. But it's an easy caveat for many to shrug over. It would be interesting to see how the Pakistan cricket team responds in the next game, Will they go the India way or will passions charge up? What's India's response going to be if there is sledging? Will they not engage or is that kind of interaction allowed? In the end, it's a free world. Not shaking hands is a choice the Indian team has exercised. Whether it becomes the new normal remains to be seen, dependingon how both teams and fans adjust to the stance. One thing is clear, though: \"Don't politicise Sports\" is an empty slogan now.\n\nsriram.veera@expressindiacom\n\nEgyptian news agency Mena reported. The press in Egypt has in the past reported other unconfirmed rebellions by Libyan soldiers.\n\nINDIA AND NASA\n\nINDIAIS PLANNING to launch an additional satellite in 1987, as the demand for satellites inthe country has outstripped earlier expectations. Indian space authorities have approached the National Aeronautics and Space Administration (NASA) to find out whether the American space agency could accommodate it for launching in any of the space shuttle flights scheduled for 1987. NASA will be launching India's INSAT-1C, in one of its shuttle flights next year.",
+   "n_words": 320,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1620,
+      3733,
+      1991,
+      3830
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1621,
+      3869,
+      2227,
+      4577
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "SRIRAM VEERA",
+   "deck_raw": "",
+   "body_raw": "WHEN SURYAKUMAR YADAV and his men\ndecided not to shake hands with the Pakistan\nteam at the Asia Cup, the last shaky distinc-\ntion between sports and politics ended. It\nused to be said that sports shouldn't be\nmixed with politics, that players only want\ntoget on with the game \u2014 \u201cyeh sabsiyasat ka\nkhel hai\u2019. But in a game between nations that\nis kicked off with national anthems, the de-\nnial of the connection was hanging bya thin\nthread. When Yadav said that \u201cthe govern-\nment, BCCI, we are all aligned\u201d, that thread\nsnapped. Cricket, politics, and the politick-\ning in the sport have all aligned now.\nWith that alignment, the idea of the\n\u201csportsmanship spirit\u201d, too, has been stubbed\nout in the desert air of Dubai. There are no\neasy sides to take on this. Critics of the Indian",
+   "ocr_conf": 90.97872340425532,
+   "ocr_low_conf_share": 0.05673758865248227,
+   "headline": "SRIRAM VEERA",
+   "deck": "",
+   "byline": "",
+   "text": "WHEN SURYAKUMAR YADAV and his men decided not to shake hands with the Pakistan team at the Asia Cup, the last shaky distinction between sports and politics ended. It used to be said that sports shouldn't be mixed with politics, that players only want toget on with the game - \"yeh sabsiyasat ka khel hai'. But in a game between nations that is kicked off with national anthems, the denial of the connection was hanging bya thin thread. When Yadav said that \"the government, BCCI, we are all aligned\", that thread snapped. Cricket, politics, and the politicking in the sport have all aligned now. With that alignment, the idea of the \"sportsmanship spirit\", too, has been stubbed out in the desert air of Dubai. There are no easy sides to take on this. Critics of the Indian",
+   "n_words": 137,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1622,
+      4578,
+      2222,
+      4637
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      4623,
+      2224,
+      5213
+     ]
+    ],
+    "layout_words": 111
+   },
+   "headline_raw": "team\u2019s action can say that the no-handshake\nincidentic an act at weammnicing canc in the",
+   "deck_raw": "",
+   "body_raw": "incidentis an act of weaponising sport in the\npolitical tussle between the two countries.\nTheother side will, as they have already done,\nsay that no goodwill can exist when the\nbloodshed in Pahalgam hasn\u2019tdried yet.\nHandshakes at sporting events hint at ci-\nvility, a recognition that after the heat of the\ngame, one can call a ceasefire on bitter rivalry.\nBetween two warring nations, handshakes\noffer the possibility of peace and people-to-\npeople reach. But, what is the scope of peace\nwhen two nations are at loggerheads with\neach other? Does it not reduce the hand-\nshake to mere pretence, anact of hypocrisy?\nIndia, it seems, is trying to normalise a",
+   "ocr_conf": 90.37837837837837,
+   "ocr_low_conf_share": 0.04504504504504504,
+   "headline": "team's action can say that the no-handshake incidentic an act at weammnicing canc in the",
+   "deck": "",
+   "byline": "",
+   "text": "incidentis an act of weaponising sport in the political tussle between the two countries. Theother side will, as they have already done, say that no goodwill can exist when the bloodshed in Pahalgam hasn'tdried yet. Handshakes at sporting events hint at civility, a recognition that after the heat of the game, one can call a ceasefire on bitter rivalry. Between two warring nations, handshakes offer the possibility of peace and people-topeople reach. But, what is the scope of peace when two nations are at loggerheads with each other? Does it not reduce the handshake to mere pretence, anact of hypocrisy? India, it seems, is trying to normalise a",
+   "n_words": 108,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      386,
+      4852,
+      1465,
+      4936
+     ]
+    ],
+    "deck_boxes": [
+     [
+      341,
+      4976,
+      1511,
+      5081
+     ]
+    ],
+    "body_boxes": [
+     [
+      323,
+      5119,
+      1529,
+      6165
+     ]
+    ],
+    "layout_words": 324
+   },
+   "headline_raw": "IN A RICH MAN\u2019S WORLD",
+   "deck_raw": "Monopoly turns 90. In the board game's enduring popularity, a\nrealisation: Money as a form of keeping score is fun",
+   "body_raw": "ONG BEFORE WHATSAPP groups, social-media algorithms and the general at-\nmosphere of polarisation in the digital age, the most analogue of pastimes has\nled to roaring arguments and even lasting rifts within families and among\nfriends. Monopoly, the board game in which players compete to become real\nestate barons and push their fellows into bankruptcy, turned 90 earlier this week. The\nRoyal Mint in the UK, to celebrate the occasion, has issued a commemorative 50 pence\ncoin which, somewhat fittingly, will cost anywhere from 15 to 1,500 pounds. The game\nof Monopoly, now forgotten, was meant to be a parable on the dangers of monopolies.\nIn 1903, Lizzie Magie, an anti-monopolist and feminist, devised The Landlord's Game\nto advancethe principles of Georgism. The latter was a single tax movement that proposed\nthat people should own what they produce and rent derived from land, natural resources,\nand commons, which should be collectively owned by society. From the cautionary tale\nthat was The Landlord's Game emerged Monopoly. It was meant, in essence, to highlight\nthe dangers of the concentration of public resources in one or a few hands. But, as with\nthe economy itself, the game evolved its own logic.\nAny regular player of Monopoly will attest tothe fact that the game is not fair.In fact, the\ntules are so skeletal that they allow side deals and collusion, Then there's always that one\nplayer who skims alittle of the top from the bank when no one's looking. Clearly, without\nmeaning to, aboard game began to mimic the economies it wanted to criticise. And for all\nthe acrimony, Monopoly (and its various unlicensed knock-offs)continues to be popular. Few\nnow look at the game as a critique of capitalism. In that, perhaps, there's a truth. For all its\nfaults,accumulation - and money asa form of keeping score - is fun. For those who find that\nproblematic, it might be time to figure outa different game, just as engaging.",
+   "ocr_conf": 91.12962962962963,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "IN A RICH MAN'S WORLD",
+   "deck": "Monopoly turns 90. In the board game's enduring popularity, a realisation: Money as a form of keeping score is fun",
+   "byline": "",
+   "text": "ONG BEFORE WHATSAPP groups, social-media algorithms and the general atmosphere of polarisation in the digital age, the most analogue of pastimes has led to roaring arguments and even lasting rifts within families and among friends. Monopoly, the board game in which players compete to become real estate barons and push their fellows into bankruptcy, turned 90 earlier this week. The Royal Mint in the UK, to celebrate the occasion, has issued a commemorative 50 pence coin which, somewhat fittingly, will cost anywhere from 15 to 1,500 pounds. The game of Monopoly, now forgotten, was meant to be a parable on the dangers of monopolies. In 1903, Lizzie Magie, an anti-monopolist and feminist, devised The Landlord's Game to advancethe principles of Georgism. The latter was a single tax movement that proposed that people should own what they produce and rent derived from land, natural resources, and commons, which should be collectively owned by society. From the cautionary tale that was The Landlord's Game emerged Monopoly. It was meant, in essence, to highlight the dangers of the concentration of public resources in one or a few hands. But, as with the economy itself, the game evolved its own logic. Any regular player of Monopoly will attest tothe fact that the game is not fair.In fact, the tules are so skeletal that they allow side deals and collusion, Then there's always that one player who skims alittle of the top from the bank when no one's looking. Clearly, without meaning to, aboard game began to mimic the economies it wanted to criticise. And for all the acrimony, Monopoly (and its various unlicensed knock-offs)continues to be popular. Few now look at the game as a critique of capitalism. In that, perhaps, there's a truth. For all its faults,accumulation - and money asa form of keeping score - is fun. For those who find that problematic, it might be time to figure outa different game, just as engaging.",
+   "n_words": 323,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      2269,
+      5363,
+      3633,
+      5452
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2271,
+      5484,
+      2674,
+      5527
+     ],
+     [
+      2271,
+      5574,
+      2874,
+      5967
+     ],
+     [
+      2920,
+      5496,
+      3524,
+      5840
+     ]
+    ],
+    "layout_words": 125
+   },
+   "headline_raw": "SEPTEMBER 16, 1985, FORTY YEARS AGO",
+   "deck_raw": "",
+   "body_raw": "ENLF-PM MEET\n\nLEADERS OF THE four-group Eelam National\nLiberation Front (ENLF) are leaving for New\nDelhi to meet the Prime Minister, Rajiv\nGandhi, an ENLF spokesman told PTI. The\nENLF received a message from the Prime\nMinister's office asking the militant leaders\nto come to Delhi for talks. According to ENLF\nsources, the Front leaders are likely to meet\nGandhi after the prime minister returns from\nelectioneering in Punjab.\n\npressured to form an independent council\nafter they resigned followinga dispute with\nWest Indian members on their attitude to\nthe Handsworth riots. The Indian commu-\nnity in the riot-spread Handsworth area felt\nthat the Asian leadersshould take the initia-\ntive in this regard and defuse racism as the\nAsian community was being singled out\nfor attacks.",
+   "ocr_conf": 92.008,
+   "ocr_low_conf_share": 0.032,
+   "headline": "SEPTEMBER 16, 1985, FORTY YEARS AGO",
+   "deck": "",
+   "byline": "ENLF-PM MEET",
+   "text": "LEADERS OF THE four-group Eelam National Liberation Front (ENLF) are leaving for New Delhi to meet the Prime Minister, Rajiv Gandhi, an ENLF spokesman told PTI. The ENLF received a message from the Prime Minister's office asking the militant leaders to come to Delhi for talks. According to ENLF sources, the Front leaders are likely to meet Gandhi after the prime minister returns from electioneering in Punjab.\n\npressured to form an independent council after they resigned followinga dispute with West Indian members on their attitude to the Handsworth riots. The Indian community in the riot-spread Handsworth area felt that the Asian leadersshould take the initiative in this regard and defuse racism as the Asian community was being singled out for attacks.",
+   "n_words": 121,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      2922,
+      5895,
+      3356,
+      5939
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2921,
+      5972,
+      3523,
+      6166
+     ]
+    ],
+    "layout_words": 31
+   },
+   "headline_raw": "GADDAFI SHOT AT",
+   "deck_raw": "",
+   "body_raw": "LIBYAN LEADER Muammar Gaddafi nar-\nrowly escaped an assassination attempt last\nweek when Libyan army officersopened fire\non him, missing the head of state but seri-\nously wounding two bodyguards, the",
+   "ocr_conf": 88.90322580645162,
+   "ocr_low_conf_share": 0.06451612903225806,
+   "headline": "GADDAFI SHOT AT",
+   "deck": "",
+   "byline": "",
+   "text": "LIBYAN LEADER Muammar Gaddafi narrowly escaped an assassination attempt last week when Libyan army officersopened fire on him, missing the head of state but seriously wounding two bodyguards, the",
+   "n_words": 29,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      6014,
+      2720,
+      6058
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2269,
+      6090,
+      2873,
+      6166
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "ASIAN SOLIDARITY",
+   "deck_raw": "",
+   "body_raw": "THE 10 ASIAN members of the Birmingham\ncommunity relations council were being",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "ASIAN SOLIDARITY",
+   "deck": "",
+   "byline": "",
+   "text": "THE 10 ASIAN members of the Birmingham community relations council were being",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 23.3,
+ "flags": [
+  "3 kept article(s) without a headline"
+ ]
+}

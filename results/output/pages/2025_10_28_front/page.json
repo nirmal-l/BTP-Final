@@ -1,0 +1,629 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_28_front",
+ "source_file": "2025-10-28_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-28_front.png",
+ "date": "2025-10-28",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 209,
+  "mean_line_conf": 87.06652590349819,
+  "orphan_words": 193,
+  "body_words_total": 839
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      790,
+      1737,
+      1345
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      695,
+      1566,
+      744
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      1342,
+      722,
+      1613
+     ],
+     [
+      319,
+      2333,
+      764,
+      2954
+     ]
+    ],
+    "layout_words": 94
+   },
+   "headline_raw": "12 states & UTs, 51 cr\nvoters: After Bihar, SIR\nnext round from Nov 4",
+   "deck_raw": "ASSEMBLY POLLS IN 4 OF 12 NEXT YEAR",
+   "body_raw": "Assam excluded\nfor now; EC asks\nvoters to submit\nforms by Dec 4\n\nTHEELECTION Commission (EC)\non Monday announced the\nSpecial Intensive Revision (SIR)\nofelectoral rolls in 12 states and\nUnion Territories, where all of\nthe registered 51 crore electors\nwould have to submit enumer-\nation forms by December 4 to re-\nmain on the draft roll.\nAll those who cannot be\ntraced back to the last intensive\nrevision of rolls in 2002-2005\nwould be required tosubmit doc-\numents to establish their eligibil-\nity to remain on the final list.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.43617021276596,
+   "ocr_low_conf_share": 0.0425531914893617,
+   "headline": "12 states & UTs, 51 cr voters: After Bihar, SIR next round from Nov 4",
+   "deck": "ASSEMBLY POLLS IN 4 OF 12 NEXT YEAR",
+   "byline": "",
+   "text": "Assam excluded for now; EC asks voters to submit forms by Dec 4\n\nTHEELECTION Commission (EC) on Monday announced the Special Intensive Revision (SIR) ofelectoral rolls in 12 states and Union Territories, where all of the registered 51 crore electors would have to submit enumeration forms by December 4 to remain on the draft roll. All those who cannot be traced back to the last intensive revision of rolls in 2002-2005 would be required tosubmit documents to establish their eligibility to remain on the final list.",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2806,
+      748,
+      3164,
+      782
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2855,
+      825,
+      3083,
+      1001
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY\nhow \u00a30 stretch\nOne Day international\nAtCention {0 Day Two,\ngit MINISTER",
+   "ocr_conf": 66.0,
+   "ocr_low_conf_share": 0.35714285714285715,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY how \u00a30 stretch One Day international AtCention {0 Day Two, git MINISTER",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1420,
+      3177,
+      1477
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2766,
+      1501,
+      3159,
+      1557
+     ],
+     [
+      2759,
+      1572,
+      3170,
+      1667
+     ],
+     [
+      2764,
+      1667,
+      3344,
+      1717
+     ]
+    ],
+    "body_boxes": [
+     [
+      2764,
+      1729,
+      3204,
+      1853
+     ],
+     [
+      2763,
+      1975,
+      3198,
+      2263
+     ],
+     [
+      2762,
+      2334,
+      3198,
+      2483
+     ],
+     [
+      2762,
+      2532,
+      3205,
+      3114
+     ]
+    ],
+    "layout_words": 96
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "MONTHA LANDFALL\nTODAY; ANDHRA, TN\n& ODISHA ON ALERT\nCHILDRENBELOW \u00a9",
+   "body_raw": "14 CAN'T WORK IN\nSHOPS, ORDERS GOVT\nPAGES 3,6\n\nPrashant Kishor\nenrolled as voter\nin two states \u2014\nBengal and Bihar\n\nATRIMITRA, RAVIK\nBHATTACHARYA\n& SANTOSH SINGH\nKOLKATA, PATNA, OCTOBER 27\n\nPRASHANT KISHOR, poll strate-\ngist-turned-politician whose Jan\nSuraaj Party is contesting the\nBihar Assembly polls, has his\nname enrolled in the voter lists\nof two states \u2014 West Bengal\nand Bihar.\nInBengal, his address is listed\nas 121 Kalighat Road, which\nhouses the Trinamool Congress\noffice in Bhabanipur, Chief\nMinister Mamata Banerjee\u2019s\nAssembly constituency. Kishor\nhad worked with the TMC as a\nCONTINUEDON PAGE 2",
+   "ocr_conf": 94.29166666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "MONTHA LANDFALL TODAY; ANDHRA, TN & ODISHA ON ALERT CHILDRENBELOW \u00a9",
+   "byline": "14 CAN'T WORK IN; SHOPS, ORDERS GOVT; PAGES 3,6",
+   "text": "Prashant Kishor enrolled as voter in two states - Bengal and Bihar\n\nATRIMITRA, RAVIK BHATTACHARYA & SANTOSH SINGH KOLKATA, PATNA, OCTOBER 27\n\nPRASHANT KISHOR, poll strategist-turned-politician whose Jan Suraaj Party is contesting the Bihar Assembly polls, has his name enrolled in the voter lists of two states - West Bengal and Bihar. InBengal, his address is listed as 121 Kalighat Road, which houses the Trinamool Congress office in Bhabanipur, Chief Minister Mamata Banerjee's Assembly constituency. Kishor had worked with the TMC as a CONTINUEDON PAGE 2",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      882,
+      1558,
+      1655,
+      1775
+     ]
+    ],
+    "deck_boxes": [
+     [
+      974,
+      1383,
+      1577,
+      1433
+     ],
+     [
+      881,
+      1686,
+      1665,
+      1775
+     ]
+    ],
+    "body_boxes": [
+     [
+      884,
+      1480,
+      1608,
+      1573
+     ],
+     [
+      1326,
+      1480,
+      1436,
+      1514
+     ],
+     [
+      857,
+      1804,
+      1691,
+      1899
+     ]
+    ],
+    "layout_words": 35
+   },
+   "headline_raw": "\u2014 Oe . \u2014\nKerala 5icrore Hi\nVOTERS TO BE i\nPuducherry COVERED 4 Chhattisgarh\nUttar Pradesh Lakshadweep\nGoa | Andamanand Nicobar",
+   "deck_raw": "9 STATES, 3 UNION TERRITORIES\nUttarPradesh SEE Lakshadweep\nGoa | Andamanand Nicobar",
+   "body_raw": "West Bengal _ Gujarat\nTamil Nadu re Rajasthan\n\nGujarat\n\nWest Bengal, TN, Kerala and Puducherry Assembly pollsdue in2026;\nUP, Gujarat, Goa in 2027; Rajasthan, MP and Chhattisgarh in 2028;\nAndaman and Nicobar, Lakshadweep do not have Assemblies",
+   "ocr_conf": 82.67567567567568,
+   "ocr_low_conf_share": 0.1891891891891892,
+   "headline": "Kerala 5icrore Hi Puducherry COVERED 4 Chhattisgarh Uttar Pradesh Lakshadweep Goa Andamanand Nicobar",
+   "deck": "9 STATES, 3 UNION TERRITORIES UttarPradesh SEE Lakshadweep Goa Andamanand Nicobar",
+   "byline": "",
+   "text": "West Bengal _ Gujarat Tamil Nadu re Rajasthan\n\nGujarat\n\nWest Bengal, TN, Kerala and Puducherry Assembly pollsdue in2026; UP, Gujarat, Goa in 2027; Rajasthan, MP and Chhattisgarh in 2028; Andaman and Nicobar, Lakshadweep do not have Assemblies",
+   "n_words": 37,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1789,
+      1621,
+      2371,
+      1705
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      1737,
+      2637,
+      1854
+     ]
+    ],
+    "layout_words": 32
+   },
+   "headline_raw": "CJI, SUCCESSOR",
+   "deck_raw": "",
+   "body_raw": "Chief Justice of India B R Gavai has recommended to the\nCentre the name of Justice Surya Kant as the next CJI.\nCJI Gavai is set to retire on November 23.PT! REPORT,PA",
+   "ocr_conf": 85.59375,
+   "ocr_low_conf_share": 0.15625,
+   "headline": "CJI, SUCCESSOR",
+   "deck": "",
+   "byline": "",
+   "text": "Chief Justice of India B R Gavai has recommended to the Centre the name of Justice Surya Kant as the next CJI. CJI Gavai is set to retire on November 23.PT! REPORT,PA",
+   "n_words": 32,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2481,
+      1823,
+      2715,
+      1852
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "REPORT, PAGE 5",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "REPORT, PAGE 5",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      1823,
+      4171,
+      2145
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      1760,
+      3930,
+      1792
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      2217,
+      3605,
+      2287
+     ],
+     [
+      3249,
+      2335,
+      3695,
+      3121
+     ],
+     [
+      3740,
+      2969,
+      4181,
+      3115
+     ]
+    ],
+    "layout_words": 122
+   },
+   "headline_raw": "Energy trade principles\nare applied selectively:\nJaishankar swipe at US",
+   "deck_raw": "MEETS RUBIOIN KUALA LUMPUR",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER 27\n\nHOURS AFTER he met US\nSecretary of State Marco Rubio in\nKuala Lumpur Monday, External\nAffairs MinisterS Jaishankar took\naswipe at the Trump administra-\ntion, saying energy trade is be-\ncoming \u201cincreasingly con-\nstricted\u201d, \u201cprinciples are applied\nselectively and whatis preached\nis not necessarily practised\u201d.\nHis remarks at the East Asia\nSummit stem from the US impo-\nsition of a 25 per cent tariff\npenalty on India over its pur-\nchase of Russian oil in addition\nto the 25 percent tariff on goods.\nThe US has not imposed penalty\ntariffs on Europe and China\nwhich have also been buying en-\nergy from Russia.\n\n\u201cEnergy trade is increasingly\nconstricted, with resulting mar-\nket distortions. Principles are\nCONTINUEDON PAGE2",
+   "ocr_conf": 89.82926829268293,
+   "ocr_low_conf_share": 0.04878048780487805,
+   "headline": "Energy trade principles are applied selectively: Jaishankar swipe at US",
+   "deck": "MEETS RUBIOIN KUALA LUMPUR",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER 27",
+   "text": "HOURS AFTER he met US Secretary of State Marco Rubio in Kuala Lumpur Monday, External Affairs MinisterS Jaishankar took aswipe at the Trump administration, saying energy trade is becoming \"increasingly constricted\", \"principles are applied selectively and whatis preached is not necessarily practised\". His remarks at the East Asia Summit stem from the US imposition of a 25 per cent tariff penalty on India over its purchase of Russian oil in addition to the 25 percent tariff on goods. The US has not imposed penalty tariffs on Europe and China which have also been buying energy from Russia.\n\n\"Energy trade is increasingly constricted, with resulting market distortions. Principles are CONTINUEDON PAGE2",
+   "n_words": 110,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      856,
+      1943,
+      1196,
+      2003
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      894,
+      2016,
+      1216,
+      2085
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "__DECEMBER9",
+   "deck_raw": "",
+   "body_raw": "Poll panel to publish\ndraft electoral list",
+   "ocr_conf": 95.28571428571429,
+   "ocr_low_conf_share": 0.0,
+   "headline": "__DECEMBER9",
+   "deck": "",
+   "byline": "",
+   "text": "Poll panel to publish draft electoral list",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1362,
+      1943,
+      1690,
+      2004
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1348,
+      2017,
+      1646,
+      2092
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "FEB7,2026 \u2014",
+   "deck_raw": "",
+   "body_raw": "Final electoral rolls\nto be published",
+   "ocr_conf": 92.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Final electoral rolls to be published",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      1973,
+      2639,
+      2295
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2491,
+      2226,
+      2646
+     ],
+     [
+      2274,
+      2887,
+      2716,
+      3113
+     ]
+    ],
+    "layout_words": 50
+   },
+   "headline_raw": "\u2018Jobs, jobs and jobs...\nBihar needs this... PK\njust a media creation\u2019",
+   "deck_raw": "",
+   "body_raw": "\u201cJOBS, JOBSand jobs.\u201d That ishow\nRJD leader Tejashwi Yadav de-\nscribes his priorities, in an inter-\nview with The Indian Express days\n\nBihar face in the alliance.\nTejashwi's stress on employ-\nment, in tum, is an acknowledg-\nmentby him of the needtoputa\ndistance between the RJD under\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.45098039215686,
+   "ocr_low_conf_share": 0.0392156862745098,
+   "headline": "'Jobs, jobs and jobs... Bihar needs this... PK just a media creation'",
+   "deck": "",
+   "byline": "",
+   "text": "\"JOBS, JOBSand jobs.\" That ishow RJD leader Tejashwi Yadav describes his priorities, in an interview with The Indian Express days\n\nBihar face in the alliance. Tejashwi's stress on employment, in tum, is an acknowledgmentby him of the needtoputa distance between the RJD under",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2196,
+      1735,
+      2496
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1970,
+      2647,
+      2226,
+      2700
+     ],
+     [
+      1800,
+      2804,
+      2226,
+      2890
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      2530,
+      1738,
+      3119
+     ],
+     [
+      808,
+      2571,
+      1162,
+      2680
+     ],
+     [
+      806,
+      2728,
+      1251,
+      2955
+     ],
+     [
+      1297,
+      3007,
+      1738,
+      3113
+     ],
+     [
+      1786,
+      2887,
+      2227,
+      3120
+     ]
+    ],
+    "layout_words": 153
+   },
+   "headline_raw": "Bihar effect: Processes\ntweaked to flag inclusion,\npapers only in 2nd stage",
+   "deck_raw": "after the Mahagat-\nhhandhan sannnis_\nDECISION | The announce-\nment was an\nBIHAR meen ING",
+   "body_raw": "= > Consider the key ones:\nDAMININATH The first major shiftcomes\n& RITIKACHOPRA rightat the starting line, the enu-\nNEW DELHI, OCTOBER 27 meration phase, whose purpose\n\u2014 and tone are now entirely differ-\nFROMAsSofteningoftoneoncit- \u2014_ ent.1In Bihar, this phase had trig-\nizenshiptoseveralproce- ,. gered anxiety among ex-\nduralchanges,thesecond [= isting electors registered\nphase of the Special [E after 2003, the year the\nIntensive Revision(SIR)in 05 @| state's rolls were last re-\n12 states and Union vised intensively, as they\nTerritories marks many pointsof were asked to furnish docu-\ndeparture from the exercise the ments proving theirage and cit-\nElection Commission had noti- _izenship to stay on the electoral\nfied for Bihar on June 24. CONTINUED ONPAGE 2\n\nDAMININATH\n& RITIKACHOPRA\nNEW DELHI, OCTOBER 27\n\nFROMA softening of tone on cit-\nizenshiptoseveral proce- ,,,\ndural changes,thesecond [=\nphase of the Special [E\nIntensive Revision(SIR)in &35\n12 states and Union \u2018\u2014\n\nments proving their age and cit-\nizenship to stay on the electoral\nCONTINUED ON PAGE 2\n\na acknowledgment\nof how crucial the 35-year-old is\nto the Mahagathbandhan\u2019s\nchances, ata time when his father\nand RJD chief Lalu Prasad is ailing\nand there is hardly any other pan-",
+   "ocr_conf": 84.77157360406092,
+   "ocr_low_conf_share": 0.1319796954314721,
+   "headline": "Bihar effect: Processes tweaked to flag inclusion, papers only in 2nd stage",
+   "deck": "after the Mahagathhandhan sannnis_ DECISION The announcement was an BIHAR meen ING",
+   "byline": "DAMININATH; & RITIKACHOPRA; NEW DELHI, OCTOBER 27",
+   "text": "= > Consider the key ones: DAMININATH The first major shiftcomes & RITIKACHOPRA rightat the starting line, the enu-NEW DELHI, OCTOBER 27 meration phase, whose purpose - and tone are now entirely differ-FROMAsSofteningoftoneoncit- - _ ent.1In Bihar, this phase had trigizenshiptoseveralproce-,. gered anxiety among exduralchanges,thesecond [= isting electors registered phase of the Special [E after 2003, the year the Intensive Revision(SIR)in 05 @ state's rolls were last re- 12 states and Union vised intensively, as they Territories marks many pointsof were asked to furnish docudeparture from the exercise the ments proving theirage and cit-Election Commission had noti- _izenship to stay on the electoral fied for Bihar on June 24. CONTINUED ONPAGE 2\n\nFROMA softening of tone on citizenshiptoseveral proce-,,, dural changes,thesecond [= phase of the Special [E Intensive Revision(SIR)in &35 12 states and Union ' -\n\nments proving their age and citizenship to stay on the electoral\n\na acknowledgment of how crucial the 35-year-old is to the Mahagathbandhan's chances, ata time when his father and RJD chief Lalu Prasad is ailing and there is hardly any other pan-",
+   "n_words": 178,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      3009,
+      765,
+      3076
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      3079,
+      676,
+      3111
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "BENGAL, TAMIL NADU",
+   "deck_raw": "",
+   "body_raw": "PUSH BACK Pace 6",
+   "ocr_conf": 89.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BENGAL, TAMIL NADU",
+   "deck": "",
+   "byline": "",
+   "text": "PUSH BACK Pace 6",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      402,
+      5664,
+      3345,
+      6127
+     ]
+    ],
+    "layout_words": 173,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "An Investor Education and Awareness Initiative | SIP - Systematic Investment Plan\nVisit https/Awww.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement\nto invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website\n(www sebi.gov.in/intermediaries.htmil). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and/or Investor Relations Officers.\nAdditionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint\nthrough the SCORES portal on https//scores.sebi.gov.in/, SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its\nstatus. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any\ncomplaint on the Smart ODR on https://smartodr.in/login. To learn more about SIP, visit: hdfcfund.com/sip\nMutual Fund investments are subject to market risks, read all scheme related documents carefully.",
+   "ocr_conf": 93.09826589595376,
+   "ocr_low_conf_share": 0.023121387283236993,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "An Investor Education and Awareness Initiative SIP - Systematic Investment Plan Visit https/Awww.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEBI website (www sebi.gov.in/intermediaries.htmil). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and/or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs. If they are not satisfied with the resolutions given by AMCs, they may raise complaint through the SCORES portal on https//scores.sebi.gov.in/, SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login. To learn more about SIP, visit: hdfcfund.com/sip Mutual Fund investments are subject to market risks, read all scheme related documents carefully.",
+   "n_words": 172,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 11.5,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

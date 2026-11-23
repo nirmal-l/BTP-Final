@@ -1,0 +1,686 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_04_front",
+ "source_file": "2025-11-04_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-04_front.png",
+ "date": "2025-11-04",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 481,
+  "mean_line_conf": 88.92135438648597,
+  "orphan_words": 3,
+  "body_words_total": 1978
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 93.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      786,
+      3199,
+      1387
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      3139,
+      751
+     ],
+     [
+      812,
+      1171,
+      1723,
+      1297
+     ],
+     [
+      322,
+      1447,
+      565,
+      1504
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      1382,
+      1173,
+      1452
+     ],
+     [
+      809,
+      1502,
+      1254,
+      1965
+     ],
+     [
+      2924,
+      1241,
+      3163,
+      1362
+     ],
+     [
+      1299,
+      1343,
+      1742,
+      1972
+     ],
+     [
+      2807,
+      1424,
+      3161,
+      1934
+     ],
+     [
+      2035,
+      1612,
+      2667,
+      1695
+     ],
+     [
+      1831,
+      1664,
+      2111,
+      1694
+     ],
+     [
+      1787,
+      1779,
+      2227,
+      1972
+     ],
+     [
+      2274,
+      1779,
+      2715,
+      1966
+     ],
+     [
+      1300,
+      2122,
+      3061,
+      2161
+     ]
+    ],
+    "layout_words": 292
+   },
+   "headline_raw": "a || ||\nSigns of pullback: Sharp drop in Russia\n| a a\noil exports to India after US sanctions\n= November | (35) Vi Il @ will shrink",
+   "deck_raw": "WEEKLY DISPATCH DOWN TO ALMOST HALF; U.S. SANCTIONS KICK IN FROM NOV 21\nRefiners expected to source more\nfrom LatAm, Middle East, West Africa\nTHE WORLD",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, NOVEMBER3\n\nRUSSIAN OIL dispatches to India\nhave dropped sharply after the\nUS announced sanctions on\nMoscow's oil giants Rosneft and\nLukoil on October 22, according\nto provisional tanker data. These\nare still early days and industry\nexperts believe it would be a\nmonth or soto get aclear picture.\nBut refiners seem wary of\nWashington's latest sanctions,\nwhich are set to take effect from\n\nWhy Russia\noil exports\n}@ will shrink\n\nNovember 21.\nIn the week to October 27,\ncrude oil exports to India from\nRussia averaged 1.19 million bar-\ntels per day (bpd), significantly\ndown from 1.95 million bpd in\nthe previous two weeks, as per\nprovisional vessel tracking data\nfrom global commodity dataand\nanalytics provider Kpler.\nAs expected, the crash in ex-\nports is driven by lower dis-\npatches from Rosneft and Lukoil,\nwhich account for over half of\nRussia\u2019s oil production and ex-\nports, and used to make up over\n\nRUSSIAN OIL comprises\nabout 35% of India\u2019s total\noil imports as on date.\nThe lower dispatches in\nthe week ending October\n27 probably signal ata-\npering off of purchases\nby oil PSUs and Reliance\namid stringent US action\non exporters, fear of\nsecondary sanctions, and\nno substantial savings in\nprices for Indian refiners.\n\nt__________ Week to \u2014\u2014______\nind bpd Source: Preliminary data from Kpler\n\nFigures in thousand bpd\n\ntwo-thirds of India\u2019s Russian oil\nimports. Exports to India from\nRosneft\u2014Russia\u2019s largest oil com-\npany\u2014plunged to 0.81 million\nbpd in the week to October 27\n\nfrom 1.41 million bpdin the pre-\nvious week. For Lukoil, no dis-\npatches to India were recorded\nin the week to October 27, as\nCONTINUED ON PAGE 2\n\nFOURTH ROAD ACCIDENT IN STATE IN LAST 20 DAYS; 15 KILLED IN JODHPUR ON NOV 2",
+   "ocr_conf": 93.0136518771331,
+   "ocr_low_conf_share": 0.017064846416382253,
+   "headline": "a Signs of pullback: Sharp drop in Russia a a oil exports to India after US sanctions = November (35) Vi Il @ will shrink",
+   "deck": "WEEKLY DISPATCH DOWN TO ALMOST HALF; U.S. SANCTIONS KICK IN FROM NOV 21 Refiners expected to source more from LatAm, Middle East, West Africa THE WORLD",
+   "byline": "SUKALP SHARMA; NEW DELHI, NOVEMBER3",
+   "text": "RUSSIAN OIL dispatches to India have dropped sharply after the US announced sanctions on Moscow's oil giants Rosneft and Lukoil on October 22, according to provisional tanker data. These are still early days and industry experts believe it would be a month or soto get aclear picture. But refiners seem wary of Washington's latest sanctions, which are set to take effect from\n\nWhy Russia oil exports }@ will shrink\n\nNovember 21. In the week to October 27, crude oil exports to India from Russia averaged 1.19 million bartels per day (bpd), significantly down from 1.95 million bpd in the previous two weeks, as per provisional vessel tracking data from global commodity dataand analytics provider Kpler. As expected, the crash in exports is driven by lower dispatches from Rosneft and Lukoil, which account for over half of Russia's oil production and exports, and used to make up over\n\nRUSSIAN OIL comprises about 35% of India's total oil imports as on date. The lower dispatches in the week ending October 27 probably signal atapering off of purchases by oil PSUs and Reliance amid stringent US action on exporters, fear of secondary sanctions, and no substantial savings in prices for Indian refiners.\n\nt__________ Week to - - ______ ind bpd Source: Preliminary data from Kpler\n\nFigures in thousand bpd\n\ntwo-thirds of India's Russian oil imports. Exports to India from Rosneft - Russia's largest oil company - plunged to 0.81 million bpd in the week to October 27\n\nfrom 1.41 million bpdin the previous week. For Lukoil, no dispatches to India were recorded in the week to October 27, as\n\nFOURTH ROAD ACCIDENT IN STATE IN LAST 20 DAYS; 15 KILLED IN JODHPUR ON NOV 2",
+   "n_words": 282,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      1751,
+      4176,
+      2218
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3353,
+      2301,
+      4072,
+      2342
+     ],
+     [
+      3295,
+      2390,
+      3732,
+      2486
+     ],
+     [
+      3548,
+      2453,
+      3806,
+      2490
+     ],
+     [
+      3296,
+      2537,
+      3478,
+      2579
+     ],
+     [
+      3296,
+      2637,
+      3478,
+      2671
+     ],
+     [
+      3292,
+      2727,
+      3578,
+      2854
+     ],
+     [
+      3247,
+      2916,
+      3689,
+      3081
+     ],
+     [
+      3249,
+      3127,
+      3691,
+      3794
+     ]
+    ],
+    "layout_words": 110
+   },
+   "headline_raw": "In West Champaran\nbastion, BJP rides on\ngoodwill for Nitish\ngovt, dip in migration",
+   "deck_raw": "",
+   "body_raw": "HOW DISTRICT'S 9 SEATS VOTED IN 2020\n\n@BJP mJD(U) mm CPI(ML)L\nValmikiNagar . Ramn\n\na =~: Ramnagar:\n\nBagaha: ~\n\nNarkatiagan:\n\nLauriya: 49.4\nNautan: 46.9\nWinner's vote sharein &\n\nLIZ MATHEW\nBETTIAH (WEST\nCHAMPARAN), NOVEMBER 3\n\nFAMOUS FOR Mahatma\nGandhi's first satyagraha,\nChamparan became notoriousin\nthe 1980s and 1990s due toa\nspate of violent incidents like da-\ncoity and abduction, with many\ncriminal gangs holding sway in\nthe region until 2005.\nAlong with unemployment,\nlaw and order concerns also trig-\nger migration, with Bihar stand-\ning at number two position in\nthe country after Uttar Pradesh\nintermsofthe number of its mi-\ngrants in other states.\nIn West Champaran district,\nthe out-migration situation",
+   "ocr_conf": 85.07207207207207,
+   "ocr_low_conf_share": 0.10810810810810811,
+   "headline": "In West Champaran bastion, BJP rides on goodwill for Nitish govt, dip in migration",
+   "deck": "",
+   "byline": "HOW DISTRICT'S 9 SEATS VOTED IN 2020",
+   "text": "@BJP mJD(U) mm CPI(ML)L ValmikiNagar. Ramn\n\na =~: Ramnagar:\n\nBagaha: ~\n\nNarkatiagan:\n\nLauriya: 49.4 Nautan: 46.9 Winner's vote sharein &\n\nLIZ MATHEW BETTIAH (WEST CHAMPARAN), NOVEMBER 3\n\nFAMOUS FOR Mahatma Gandhi's first satyagraha, Champaran became notoriousin the 1980s and 1990s due toa spate of violent incidents like dacoity and abduction, with many criminal gangs holding sway in the region until 2005. Along with unemployment, law and order concerns also trigger migration, with Bihar standing at number two position in the country after Uttar Pradesh intermsofthe number of its migrants in other states. In West Champaran district, the out-migration situation",
+   "n_words": 99,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2116,
+      1246,
+      2722
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      2807,
+      684,
+      2877
+     ],
+     [
+      322,
+      2927,
+      764,
+      3317
+     ],
+     [
+      318,
+      3323,
+      763,
+      3824
+     ],
+     [
+      1050,
+      2884,
+      1240,
+      3001
+     ],
+     [
+      805,
+      3085,
+      1250,
+      3825
+     ]
+    ],
+    "layout_words": 213
+   },
+   "headline_raw": "Delhi court discharges\nex-Secy in coal block\nallocation case, cites\nlack of evidence\nCourt also discharges ex-Joint Secy,\nthe firm involved, its director and MD",
+   "deck_raw": "",
+   "body_raw": "NIRBHAY THAKUR\nNEW DELHI, NOVEMBER3\n\nCITING THE lack of \u201ceven an iota\u201d\nof evidence, a Delhi court Friday\ndischarged two former Union\nCoal Ministry officials, including\nex-secretary H C Gupta, in acase\nfiled by the CBI against alleged\nirregularities in the allocation of\nthe Fatehpur East coal block in\nChhattisgarh to a private com-\npany. Se\n\nThe court also discharged ex-\njoint secretary K S Kropha, the\ncompany involved R K M\nPowergen Pvt Ltd and its\nDirector and Managing Director\nin the case.\n\u201cThere is not even an iota of\nmaterial available on record to\nsuggest that the act of accused\npublic servants (Kropha and\nGupta)was without public inter-\nest,\u201d said Special Judge Dheeraj\nMor of Rouse Avenue Courtinan\n\nFormer Coal\nSecretary\nHCGupta\n\norder dated October 31.\nReferring to charges against\nthe officials under the\nPrevention of Corruption Act, the\njudge ruled that \u201cirregularitiesin\nabsence of any established...dis-\nhonest intention cannot be given\nthe tone ofcriminality\u201d.\nThis is the fourth recent case\nrelated to the alleged coal block\nallocation scam where the two\nformer officials, represented in\ncourt by advocates Rahul Tyagi\nand Mathew M Philip, have been\ngranted relief by two Special\nJudges in Rouse Avenue. In two\ncases, they were acquitted in\nDecember 2024 and June 2025,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.65420560747664,
+   "ocr_low_conf_share": 0.04672897196261682,
+   "headline": "Delhi court discharges ex-Secy in coal block allocation case, cites lack of evidence Court also discharges ex-Joint Secy, the firm involved, its director and MD",
+   "deck": "",
+   "byline": "NIRBHAY THAKUR; NEW DELHI, NOVEMBER3",
+   "text": "CITING THE lack of \"even an iota\" of evidence, a Delhi court Friday discharged two former Union Coal Ministry officials, including ex-secretary H C Gupta, in acase filed by the CBI against alleged irregularities in the allocation of the Fatehpur East coal block in Chhattisgarh to a private company. Se\n\nThe court also discharged exjoint secretary K S Kropha, the company involved R K M Powergen Pvt Ltd and its Director and Managing Director in the case. \"There is not even an iota of material available on record to suggest that the act of accused public servants (Kropha and Gupta)was without public interest,\" said Special Judge Dheeraj Mor of Rouse Avenue Courtinan\n\nFormer Coal Secretary HCGupta\n\norder dated October 31. Referring to charges against the officials under the Prevention of Corruption Act, the judge ruled that \"irregularitiesin absence of any established...dishonest intention cannot be given the tone ofcriminality\". This is the fourth recent case related to the alleged coal block allocation scam where the two former officials, represented in court by advocates Rahul Tyagi and Mathew M Philip, have been granted relief by two Special Judges in Rouse Avenue. In two cases, they were acquitted in December 2024 and June 2025,",
+   "n_words": 201,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3818,
+      2632,
+      4060,
+      2704
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3818,
+      2714,
+      4131,
+      2789
+     ],
+     [
+      3796,
+      2967,
+      3989,
+      3002
+     ],
+     [
+      3860,
+      3114,
+      4138,
+      3191
+     ],
+     [
+      3778,
+      3374,
+      4115,
+      3579
+     ],
+     [
+      3737,
+      3642,
+      4179,
+      3788
+     ]
+    ],
+    "layout_words": 56
+   },
+   "headline_raw": ">\u2014 Sikta: 28.85%",
+   "deck_raw": "",
+   "body_raw": "\u2014 Chanpatia: 47.69%\n\u2014 Bettiah: 52.83%\n\nDECISION\n\nBIHAR\n\n@Tejashwi trying to\nhide Lalu \u2018sins\u2019, says PM\n@ Modi has nothingto\nsay on what he did for\nBihar: Kharge P4,6\n\nseems to have improved in re-\ncent years. As per the 2011\nCensus, it was listed as one of the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.90566037735849,
+   "ocr_low_conf_share": 0.09433962264150944,
+   "headline": "",
+   "deck": "",
+   "byline": "DECISION",
+   "text": "BIHAR\n\n@Tejashwi trying to hide Lalu 'sins', says PM @ Modi has nothingto say on what he did for Bihar: Kharge P4,6\n\nseems to have improved in recent years. As per the 2011 Census, it was listed as one of the",
+   "n_words": 41,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      3384,
+      3180,
+      3655
+     ],
+     [
+      1298,
+      3641,
+      1675,
+      3707
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      3721,
+      1604,
+      3749
+     ],
+     [
+      1294,
+      3798,
+      1740,
+      4149
+     ],
+     [
+      1785,
+      3641,
+      2227,
+      4142
+     ],
+     [
+      2272,
+      3641,
+      2715,
+      4147
+     ],
+     [
+      2762,
+      3641,
+      3203,
+      4143
+     ]
+    ],
+    "layout_words": 240
+   },
+   "headline_raw": "13 killed in Jaipur as speeding dumper truck\nhits 17 vehicles; driver taken into custody\nPARULKULSHRESTHA",
+   "deck_raw": "",
+   "body_raw": "JAIPUR, NOVEMBER 3\n\nA SPEEDING dumper hit 17 ve-\nhicles in arow in Jaipur Monday\nafternoon, killing 13 people and\ninjuring as many, police said.\nThe wounded \u2014 including\nthe truck driver \u2014 have beenad-\nmitted to the trauma centre of\nJaipur\u2019s Sawai Man Singh (SMS)\nHospital. DCP Bjarang Singh\n\nShekhawat told The Indian\nExpress that the truck, heading\ntowards the highway from Road\nNo. 4atLoha Mandi in Harmada,\nhit several vehicles and some\npedestrians on the sidewalk\naround 1 pm.\nThe reportedly empty\ndumper is believed to have\ncaused damage over a 300-me-\ntre stretch. This is the fourth road\naccident in a month, taking the\ntotal number of deaths in such\n\nmishaps to58.\n\u201cPeople apprehended the\ndumper driver at the scene. In a\npreliminary investigation, itwas\nfound that the driver, Kalyan\nMeena from Jaipur\u2019s Virat Nagar,\nwas intoxicated. He\u2019s in custody\nbut is currently undergoing\ntreatment,\u201d DCPShekhawat said.\nSoon after the accident,\nchaos broke out atSMS Hospital\nas families searched for their\nloved ones. In one corner, rela-\n\ntives of Suresh Meena sobbed on\nhearing the news of his death.\nMeena worked at a local sweet\nshop, and the news devastated\nhis family.\nFour people are on ventilator\nsupport, B L Yadav, the nodal of-\nficer at the SMS trauma centre,\nsaid. \u201cTwo of the 13 died while\nthey were being treated. The re-\nmaining bodies have been sent\nto the mortuary and are\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.05,
+   "ocr_low_conf_share": 0.016666666666666666,
+   "headline": "13 killed in Jaipur as speeding dumper truck hits 17 vehicles; driver taken into custody PARULKULSHRESTHA",
+   "deck": "",
+   "byline": "JAIPUR, NOVEMBER 3",
+   "text": "A SPEEDING dumper hit 17 vehicles in arow in Jaipur Monday afternoon, killing 13 people and injuring as many, police said. The wounded - including the truck driver - have beenadmitted to the trauma centre of Jaipur's Sawai Man Singh (SMS) Hospital. DCP Bjarang Singh\n\nShekhawat told The Indian Express that the truck, heading towards the highway from Road No. 4atLoha Mandi in Harmada, hit several vehicles and some pedestrians on the sidewalk around 1 pm. The reportedly empty dumper is believed to have caused damage over a 300-metre stretch. This is the fourth road accident in a month, taking the total number of deaths in such\n\nmishaps to58. \"People apprehended the dumper driver at the scene. In a preliminary investigation, itwas found that the driver, Kalyan Meena from Jaipur's Virat Nagar, was intoxicated. He's in custody but is currently undergoing treatment,\" DCPShekhawat said. Soon after the accident, chaos broke out atSMS Hospital as families searched for their loved ones. In one corner, relatives of Suresh Meena sobbed on hearing the news of his death. Meena worked at a local sweet shop, and the news devastated his family. Four people are on ventilator support, B L Yadav, the nodal officer at the SMS trauma centre, said. \"Two of the 13 died while they were being treated. The remaining bodies have been sent to the mortuary and are",
+   "n_words": 227,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3862,
+      4170,
+      4171
+     ],
+     [
+      3250,
+      4182,
+      4001,
+      4327
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      4354,
+      3555,
+      4424
+     ],
+     [
+      3245,
+      4473,
+      3697,
+      5137
+     ],
+     [
+      3736,
+      4314,
+      4181,
+      5134
+     ]
+    ],
+    "layout_words": 210
+   },
+   "headline_raw": "Too much like old times\nfor many as Lalu turns\nout for candidate jailed\non extortion charge",
+   "deck_raw": "",
+   "body_raw": "HIMANSHU HARSH\nPATNA, NOVEMBER 3\n\nANKIT YADAV holds his phone\nagainst the window of a white\nvan, and clicks, Inside sits aneld-\nerly man dressed in white, a\ngreen scarf around his neck. One\nside bears the image of his son\nand Mahagathbandhan chief\nministerial face Tejashwi Yadav:\nthe other the lantern\u2019 symbol of\nthe party he founded, Rashtriya\nJanata Dal (RJD).\nLalu Prasad, 77, is in the au-\ntumn of his political career,\nweakened by age and illness.\nHowever, even in his absence, the\nRJD founder is very much apres-\nence in these elections, in astate\n\nwhere the social upheaval he\nwrought changed its politics for-\never. The main line of attack of\nthe NDA, as it seeks to retain\npower, is Lalu\u2019s reign \u2014 astheCM,\nand the de-facto CM when wife\nRabri Devi stepped in for him \u2014\nand its alleged \u201cjungle raj\u201d.\nSeeking to put distance be-\ntween himself and his father\u2019s\ngovernment, Tejashwi-led RJD\nhas used Lalu and his image\nsparingly in the elections,\nMonday marked Lalu\u2019s first and\nonly roadshow for the first phase\nof the Assembly polis, on\nNovember 6. The RJD chief cam-\npaigned for party candidate\nRitlal Yadav, the sitting MLA from\nDanapur, a seat in Patna district\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.41428571428571,
+   "ocr_low_conf_share": 0.05714285714285714,
+   "headline": "Too much like old times for many as Lalu turns out for candidate jailed on extortion charge",
+   "deck": "",
+   "byline": "HIMANSHU HARSH; PATNA, NOVEMBER 3",
+   "text": "ANKIT YADAV holds his phone against the window of a white van, and clicks, Inside sits anelderly man dressed in white, a green scarf around his neck. One side bears the image of his son and Mahagathbandhan chief ministerial face Tejashwi Yadav: the other the lantern' symbol of the party he founded, Rashtriya Janata Dal (RJD). Lalu Prasad, 77, is in the autumn of his political career, weakened by age and illness. However, even in his absence, the RJD founder is very much apresence in these elections, in astate\n\nwhere the social upheaval he wrought changed its politics forever. The main line of attack of the NDA, as it seeks to retain power, is Lalu's reign - astheCM, and the de-facto CM when wife Rabri Devi stepped in for him - and its alleged \"jungle raj\". Seeking to put distance between himself and his father's government, Tejashwi-led RJD has used Lalu and his image sparingly in the elections, Monday marked Lalu's first and only roadshow for the first phase of the Assembly polis, on November 6. The RJD chief campaigned for party candidate Ritlal Yadav, the sitting MLA from Danapur, a seat in Patna district",
+   "n_words": 195,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3898,
+      1247,
+      4201
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4310,
+      745,
+      4382
+     ],
+     [
+      319,
+      4431,
+      761,
+      5131
+     ],
+     [
+      1049,
+      4390,
+      1239,
+      4505
+     ],
+     [
+      807,
+      4588,
+      1252,
+      5132
+     ]
+    ],
+    "layout_words": 171
+   },
+   "headline_raw": "Clips linked to Manipur\nex-CM tampered with,\nforensic lab tells SC",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, NOVEMBER 3\n\nA REPORT by the National\nForensic Sciences Laboratory\n(NFSL) in Ahmedabad has con-\ncluded that audio clips submit-\nted by a Kuki outfit to the\nSupreme Court to allege com-\nplicity of former Manipur CM N\nBiren Singh in the ethnic vio-\nlence that gripped the state were\ntampered with and \u201cnot scien-\ntifically fit\u201d for voice comparison.\nThe lab's report was submit-\nted tothe Supreme Court where\nabench of Justices Sanjay Kumar\nand Alok Aradhe directed that a\ncopy be furnished to the peti-\ntioner. The court will hear the\nmatter next on December 9.\n\nEx-Manipur\nCM N Biren\nSingh\n\nReading from the report\ndated October 10, 2025, Justice\nKumar said: \u2018...Four exhibits\nshowed signs of modification\nand tampering. Therefore, they\nconclude that the clips are al-\ntered and do not constitute the\noriginal source recording and are\nnot scientifically fit for forensic\nvoice comparison.\u201d\nThe judge said that \u201cconse-\nquently, no opinion on similar-\nity and dissimilarity of the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.37790697674419,
+   "ocr_low_conf_share": 0.01744186046511628,
+   "headline": "Clips linked to Manipur ex-CM tampered with, forensic lab tells SC",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, NOVEMBER 3",
+   "text": "A REPORT by the National Forensic Sciences Laboratory (NFSL) in Ahmedabad has concluded that audio clips submitted by a Kuki outfit to the Supreme Court to allege complicity of former Manipur CM N Biren Singh in the ethnic violence that gripped the state were tampered with and \"not scientifically fit\" for voice comparison. The lab's report was submitted tothe Supreme Court where abench of Justices Sanjay Kumar and Alok Aradhe directed that a copy be furnished to the petitioner. The court will hear the matter next on December 9.\n\nEx-Manipur CM N Biren Singh\n\nReading from the report dated October 10, 2025, Justice Kumar said: '...Four exhibits showed signs of modification and tampering. Therefore, they conclude that the clips are altered and do not constitute the original source recording and are not scientifically fit for forensic voice comparison.\" The judge said that \"consequently, no opinion on similarity and dissimilarity of the",
+   "n_words": 151,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      4215,
+      2696,
+      4443
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      4510,
+      1659,
+      4580
+     ],
+     [
+      1293,
+      4629,
+      1737,
+      5132
+     ]
+    ],
+    "layout_words": 61
+   },
+   "headline_raw": "As quake hits Afghanistan, India\nreaches out to Taliban govt",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, NOVEMBER 3\n\nHOURS AFTER a 6.3 magnitude\nearthquake shook northern\nAfghanistan before dawn\nMonday, killing at least 20 peo-\nple and injuring over 500, India\nreached out to the Taliban\nregime and sent relief material\nincluding food and medicines.\nExternal Affairs Minister S\nJaishankar called upTaliban-led\nAfghanistan's Foreign Minister\nAmir Khan Muttaqi and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.40983606557377,
+   "ocr_low_conf_share": 0.01639344262295082,
+   "headline": "As quake hits Afghanistan, India reaches out to Taliban govt",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, NOVEMBER 3",
+   "text": "HOURS AFTER a 6.3 magnitude earthquake shook northern Afghanistan before dawn Monday, killing at least 20 people and injuring over 500, India reached out to the Taliban regime and sent relief material including food and medicines. External Affairs Minister S Jaishankar called upTaliban-led Afghanistan's Foreign Minister Amir Khan Muttaqi and",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2760,
+      4221,
+      3175,
+      4278
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2760,
+      4883,
+      3146,
+      5099
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "COLLEGE STUDENT\nABDUCTED, RAPED\nNEAR AIRPORT IN\nTN\u2019S COIMBATORE\nPAGES 3,5",
+   "ocr_conf": 89.9090909090909,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "COLLEGE STUDENT; ABDUCTED, RAPED; NEAR AIRPORT IN; TN'S COIMBATORE; PAGES 3,5",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5263,
+      4174,
+      5368
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5421,
+      499,
+      5494
+     ],
+     [
+      319,
+      5617,
+      713,
+      5687
+     ],
+     [
+      318,
+      5736,
+      760,
+      6166
+     ],
+     [
+      803,
+      5419,
+      1248,
+      6166
+     ],
+     [
+      1295,
+      5420,
+      1736,
+      5685
+     ],
+     [
+      1295,
+      5697,
+      1741,
+      6163
+     ],
+     [
+      2759,
+      5421,
+      3200,
+      6168
+     ],
+     [
+      3248,
+      5421,
+      3689,
+      6168
+     ],
+     [
+      3730,
+      5422,
+      4178,
+      6162
+     ]
+    ],
+    "layout_words": 581
+   },
+   "headline_raw": "The \u2018chhori\u2019 from Rohtak who dared to dream \u2014 and make a comeback",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nNITINSHARMA\nCHANDIGARH, NOVEMBER 3\n\n\u201cCHHORINE dikha diya ki Shafali\ncomeback kama jaanti hai!\u201d\nThe father of Shafali Verma,\nthe player of the Women's\nWorld Cup final, sums up her un-\nforgettable night in an earthy\ntone. It\u2019s quite a comebackstory,\nindeed. Not selected for the tour-\nnament, she played domestic\ncricket in front of untenanted\nstands, piled on runs, bowled\n\nmore often than before, and kept\ntraining at the nets. And hoped\nfor redemption.\nWhen it came \u2014 due to anin-\njury to opener Pratika Rawal \u2014\nShafali stamped her presence in\na historic final against South\nAfrica with both bat(76-ball 87)\nand ball (two game-turning\nwickets). Both these perform-\nances were her best returns in\nOne-Day Internationals, helping\nscript a 52-run victory at Navi\nMumbai's D Y Patil Stadium as\nIndia became world champions\nfor the first time.\nOne person who isn't sur-\nprised by the 21-year-old\u2019s fierce\nresolve is her father, Sanjeev. Last\n\nyear, Sanjeev was admitted at a\nhospital after a heart attack\nwhen Shafali learnt that she had\nbeen dropped from the Indian\nteam. She didn't tell him for a\nweek, as she feared for his\nhealth.\n\n\u201cIt was a tough time for our\nfamily but she would not share\nwith me that she had been\ndropped from the team,\u201d says\nSanjeev, speaking to The Indian\nExpress from their home in\nHaryana's Rohtak a day after the\nWorld Cup triumph \u201cCricket has\nbeen a passion for me as well as\nher, and I don\u2019t know how she\nhid the news from me.\u201d\nOnce he learnt about it,\n\nSanjeev did what he had always\ndone \u2014 took Shafali to the nets.\n\u201cWhen the doctors gave the go-\nahead, | made her practise ina\nsession 10 days after my heart at-\ntack, just to show her that all was\nfine. So that she does not have to\nworry about me and be stressed\nabout my health,\u201d he says.\nBut the World Cup call from\nthe selectors never came. And so\nfather and daughter went hard\nat work. She had even begun to\nbowi more in recent times, a fact\nthat would play a big role in the\nWorld Cup final when she\nsnared two vital wickets at a\ntime when it seemed South\nAfrica were on the ascendency\n\nin the chase.\n\u201cWhen Shafali came in (to\nthe squad), we saw that she was\nbowling a lotofovers in domes-\ntic cricket,\u201d skipper Harma-\nnpreet Kaur would say. \u201cSo, Sir\n(coach Amol Muzumdar) and I\nspoke to her about it, and she\nsaid, \u2018Sir, I'm ready for 10 overs\u2019.\u201d\nThe memory of that confi-\ndence prompted Harmanpreet\nto throw the ball toShafaliinthe\nheat of the final. And the rest is\n\u201cherstory\u201d.\nThe father asserts that the\nconfidence to bowl under pres-\nsure or bat a bit differently \u2014\nmore solid as compared to the\nall-out attack of the past \u2014\n\nstemmed from Shafali's strong\ntemperament.\n\u201cIt came from Shafali only.\nJitney bhi ups-and-lows dekhein\nhain Shafali ne, usne yahi seekha\nhai ki comeback usko hi karna\npadhega. (Through all her highs\nand lows, she has leamt that only\nshe can make a comeback),\u201d he\nsays. Sanjeev helped by remind-\ning her of all her past achieve-\nments. \u201cI would talk about her\nwinning the U-19 World Cup,\ntaking the team to the 2020 T20\nWorld Cup final and scoring the\nfastest women\u2019s Test double\nhundred. I told her bas apne\nmain, aur Bhagwan main vishwas\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.3573883161512,
+   "ocr_low_conf_share": 0.020618556701030927,
+   "headline": "The 'chhori' from Rohtak who dared to dream - and make a comeback",
+   "deck": "",
+   "byline": "ANCHOR; NITINSHARMA; CHANDIGARH, NOVEMBER 3",
+   "text": "\"CHHORINE dikha diya ki Shafali comeback kama jaanti hai!\" The father of Shafali Verma, the player of the Women's World Cup final, sums up her unforgettable night in an earthy tone. It's quite a comebackstory, indeed. Not selected for the tournament, she played domestic cricket in front of untenanted stands, piled on runs, bowled\n\nmore often than before, and kept training at the nets. And hoped for redemption. When it came - due to aninjury to opener Pratika Rawal - Shafali stamped her presence in a historic final against South Africa with both bat(76-ball 87) and ball (two game-turning wickets). Both these perform-ances were her best returns in One-Day Internationals, helping script a 52-run victory at Navi Mumbai's D Y Patil Stadium as India became world champions for the first time. One person who isn't surprised by the 21-year-old's fierce resolve is her father, Sanjeev. Last\n\nyear, Sanjeev was admitted at a hospital after a heart attack when Shafali learnt that she had been dropped from the Indian team. She didn't tell him for a week, as she feared for his health.\n\n\"It was a tough time for our family but she would not share with me that she had been dropped from the team,\" says Sanjeev, speaking to The Indian Express from their home in Haryana's Rohtak a day after the World Cup triumph \"Cricket has been a passion for me as well as her, and I don't know how she hid the news from me.\" Once he learnt about it,\n\nSanjeev did what he had always done - took Shafali to the nets. \"When the doctors gave the goahead, made her practise ina session 10 days after my heart attack, just to show her that all was fine. So that she does not have to worry about me and be stressed about my health,\" he says. But the World Cup call from the selectors never came. And so father and daughter went hard at work. She had even begun to bowi more in recent times, a fact that would play a big role in the World Cup final when she snared two vital wickets at a time when it seemed South Africa were on the ascendency\n\nin the chase. \"When Shafali came in (to the squad), we saw that she was bowling a lotofovers in domestic cricket,\" skipper Harmanpreet Kaur would say. \"So, Sir (coach Amol Muzumdar) and I spoke to her about it, and she said, 'Sir, I'm ready for 10 overs'.\" The memory of that confidence prompted Harmanpreet to throw the ball toShafaliinthe heat of the final. And the rest is \"herstory\". The father asserts that the confidence to bowl under pressure or bat a bit differently - more solid as compared to the all-out attack of the past -\n\nstemmed from Shafali's strong temperament. \"It came from Shafali only. Jitney bhi ups-and-lows dekhein hain Shafali ne, usne yahi seekha hai ki comeback usko hi karna padhega. (Through all her highs and lows, she has leamt that only she can make a comeback),\" he says. Sanjeev helped by reminding her of all her past achieve-ments. \"I would talk about her winning the U-19 World Cup, taking the team to the 2020 T20 World Cup final and scoring the fastest women's Test double hundred. I told her bas apne main, aur Bhagwan main vishwas",
+   "n_words": 557,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.2,
+ "flags": []
+}

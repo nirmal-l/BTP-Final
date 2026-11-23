@@ -1,0 +1,769 @@
+20:17:56 Found 13 page files in ../RAW_Images
+20:17:56 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+20:18:00   preprocessed: skew -0.05 deg, 0 photos, 20/2 rules (3s)
+20:18:10   segmented: body H=34 px, 22 candidate articles (14s)
+20:18:20   9 articles kept / 22 candidates, 24s. Flags: ['60% of body text had no headline above it', "page type is 'other' (not front/editorial)", '6 kept article(s) without a headline']
+20:18:20 [2/13] Jaipur-January-01--2025-page-1.pdf
+20:18:24   preprocessed: skew -0.05 deg, 8 photos, 53/10 rules (3s)
+20:18:32   segmented: body H=34 px, 14 candidate articles (12s)
+20:18:41   8 articles kept / 14 candidates, 21s. Flags: none
+20:18:41 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+20:18:44   preprocessed: skew -0.05 deg, 1 photos, 29/5 rules (3s)
+20:18:55   segmented: body H=34 px, 28 candidate articles (14s)
+20:19:06   10 articles kept / 28 candidates, 24s. Flags: ['53% of body text had no headline above it', '6 kept article(s) without a headline']
+20:19:06 [4/13] Jaipur-January-02--2025-page-1.pdf
+20:19:09   preprocessed: skew -0.05 deg, 5 photos, 43/6 rules (3s)
+20:19:18   segmented: body H=34 px, 28 candidate articles (12s)
+20:19:27   11 articles kept / 28 candidates, 21s. Flags: ['39% of body text had no headline above it', '5 kept article(s) without a headline']
+20:19:27 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+20:19:30   preprocessed: skew -0.05 deg, 2 photos, 37/4 rules (3s)
+20:19:41   segmented: body H=34 px, 26 candidate articles (14s)
+20:19:51   12 articles kept / 26 candidates, 24s. Flags: ['55% of body text had no headline above it', '7 kept article(s) without a headline']
+20:19:51 [6/13] Jaipur-January-03--2025-page-1.pdf
+20:19:54   preprocessed: skew -0.05 deg, 8 photos, 47/2 rules (3s)
+20:20:02   segmented: body H=34 px, 18 candidate articles (11s)
+20:20:10   12 articles kept / 18 candidates, 19s. Flags: ['1 kept article(s) without a headline']
+20:20:10 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+20:20:13   preprocessed: skew -0.05 deg, 1 photos, 30/6 rules (3s)
+20:20:24   segmented: body H=34 px, 33 candidate articles (14s)
+20:20:34   12 articles kept / 33 candidates, 24s. Flags: ['54% of body text had no headline above it', '7 kept article(s) without a headline']
+20:20:34 [8/13] Jaipur-January-04--2025-page-1.pdf
+20:20:37   preprocessed: skew -0.05 deg, 5 photos, 30/3 rules (3s)
+20:20:40   segmented: body H=34 px, 12 candidate articles (6s)
+20:20:44   6 articles kept / 12 candidates, 10s. Flags: none
+20:20:44 [9/13] Jaipur-January-05--2025-page-1.pdf
+20:20:47   preprocessed: skew -0.05 deg, 7 photos, 26/5 rules (3s)
+20:20:57   segmented: body H=34 px, 19 candidate articles (12s)
+20:21:07   17 articles kept / 19 candidates, 22s. Flags: ["page type is 'other' (not front/editorial)", '6 kept article(s) without a headline']
+20:21:07 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+20:21:10   preprocessed: skew -0.05 deg, 1 photos, 32/9 rules (3s)
+20:21:20   segmented: body H=34 px, 29 candidate articles (13s)
+20:21:30   10 articles kept / 29 candidates, 23s. Flags: ['57% of body text had no headline above it', '6 kept article(s) without a headline']
+20:21:30 [11/13] Jaipur-January-06--2025-page-1.pdf
+20:21:33   preprocessed: skew -0.05 deg, 10 photos, 74/13 rules (4s)
+20:21:42   segmented: body H=34 px, 21 candidate articles (12s)
+20:21:51   10 articles kept / 21 candidates, 22s. Flags: none
+20:21:51 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+20:21:54   preprocessed: skew -0.05 deg, 0 photos, 38/6 rules (3s)
+20:22:05   segmented: body H=34 px, 28 candidate articles (14s)
+20:22:16   12 articles kept / 28 candidates, 24s. Flags: ['56% of body text had no headline above it', "page type is 'other' (not front/editorial)", '6 kept article(s) without a headline']
+20:22:16 [13/13] Jaipur-January-07--2025-page-1.pdf
+20:22:19   preprocessed: skew -0.05 deg, 4 photos, 44/8 rules (3s)
+20:22:26   segmented: body H=34 px, 30 candidate articles (11s)
+20:22:35   14 articles kept / 30 candidates, 20s. Flags: ['3 kept article(s) without a headline']
+20:22:35 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                                                                       flags
+Jaipur_January_01_2025_page_1_1     other              9          22           94.5 60% of body text had no headline above it; page type is 'other' (not front/editorial); 6 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          14           93.2                                                                                                                            
+Jaipur_January_02_2025_page_1_1 editorial             10          28           93.4                                             53% of body text had no headline above it; 6 kept article(s) without a headline
+  Jaipur_January_02_2025_page_1     front             11          28           93.4                                             39% of body text had no headline above it; 5 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial             12          26           92.7                                             55% of body text had no headline above it; 7 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             12          18           93.1                                                                                        1 kept article(s) without a headline
+Jaipur_January_04_2025_page_1_1 editorial             12          33           94.0                                             54% of body text had no headline above it; 7 kept article(s) without a headline
+  Jaipur_January_04_2025_page_1     front              6          12           92.7                                                                                                                            
+  Jaipur_January_05_2025_page_1     other             17          19           92.6                                            page type is 'other' (not front/editorial); 6 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial             10          29           94.0                                             57% of body text had no headline above it; 6 kept article(s) without a headline
+  Jaipur_January_06_2025_page_1     front             10          21           92.3                                                                                                                            
+Jaipur_January_07_2025_page_1_1     other             12          28           93.0 56% of body text had no headline above it; page type is 'other' (not front/editorial); 6 kept article(s) without a headline
+  Jaipur_January_07_2025_page_1     front             14          30           91.2                                                                                        3 kept article(s) without a headline
+20:24:01 Found 13 page files in ../RAW_Images
+20:24:01 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+20:24:04   preprocessed: skew -0.05 deg, 0 photos, 20/2 rules (4s)
+20:24:15   segmented: body H=34 px, 12 candidate articles (14s)
+20:24:25   9 articles kept / 12 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:24:25 [2/13] Jaipur-January-01--2025-page-1.pdf
+20:24:29   preprocessed: skew -0.05 deg, 8 photos, 53/10 rules (4s)
+20:24:37   segmented: body H=34 px, 14 candidate articles (12s)
+20:24:46   9 articles kept / 14 candidates, 21s. Flags: ['1 kept article(s) without a headline']
+20:24:46 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+20:24:49   preprocessed: skew -0.05 deg, 1 photos, 29/5 rules (3s)
+20:24:59   segmented: body H=34 px, 14 candidate articles (14s)
+20:25:09   8 articles kept / 14 candidates, 23s. Flags: none
+20:25:09 [4/13] Jaipur-January-02--2025-page-1.pdf
+20:25:12   preprocessed: skew -0.05 deg, 5 photos, 43/6 rules (3s)
+20:25:21   segmented: body H=34 px, 18 candidate articles (12s)
+20:25:30   9 articles kept / 18 candidates, 20s. Flags: ['1 kept article(s) without a headline']
+20:25:30 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+20:25:33   preprocessed: skew -0.05 deg, 2 photos, 37/4 rules (3s)
+20:25:43   segmented: body H=34 px, 15 candidate articles (14s)
+20:25:53   9 articles kept / 15 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:25:53 [6/13] Jaipur-January-03--2025-page-1.pdf
+20:25:57   preprocessed: skew -0.05 deg, 8 photos, 47/2 rules (3s)
+20:26:04   segmented: body H=34 px, 16 candidate articles (11s)
+20:26:13   11 articles kept / 16 candidates, 20s. Flags: none
+20:26:13 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+20:26:16   preprocessed: skew -0.05 deg, 1 photos, 30/6 rules (3s)
+20:26:27   segmented: body H=34 px, 13 candidate articles (14s)
+20:26:37   10 articles kept / 13 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:26:37 [8/13] Jaipur-January-04--2025-page-1.pdf
+20:26:40   preprocessed: skew -0.05 deg, 5 photos, 30/3 rules (3s)
+20:26:43   segmented: body H=34 px, 10 candidate articles (6s)
+20:26:47   6 articles kept / 10 candidates, 10s. Flags: none
+20:26:47 [9/13] Jaipur-January-05--2025-page-1.pdf
+20:26:50   preprocessed: skew -0.05 deg, 7 photos, 26/5 rules (3s)
+20:26:59   segmented: body H=34 px, 16 candidate articles (12s)
+20:27:09   14 articles kept / 16 candidates, 22s. Flags: ["page type is 'other' (not front/editorial)", '3 kept article(s) without a headline']
+20:27:09 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+20:27:12   preprocessed: skew -0.05 deg, 1 photos, 32/9 rules (3s)
+20:27:22   segmented: body H=34 px, 12 candidate articles (13s)
+20:27:32   8 articles kept / 12 candidates, 22s. Flags: none
+20:27:32 [11/13] Jaipur-January-06--2025-page-1.pdf
+20:27:35   preprocessed: skew -0.05 deg, 10 photos, 74/13 rules (3s)
+20:27:43   segmented: body H=34 px, 21 candidate articles (11s)
+20:27:53   10 articles kept / 21 candidates, 21s. Flags: ['1 kept article(s) without a headline']
+20:27:53 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+20:27:57   preprocessed: skew -0.05 deg, 0 photos, 38/6 rules (4s)
+20:28:07   segmented: body H=34 px, 16 candidate articles (14s)
+20:28:18   11 articles kept / 16 candidates, 24s. Flags: ["page type is 'other' (not front/editorial)"]
+20:28:18 [13/13] Jaipur-January-07--2025-page-1.pdf
+20:28:21   preprocessed: skew -0.05 deg, 4 photos, 44/8 rules (3s)
+20:28:29   segmented: body H=34 px, 22 candidate articles (11s)
+20:28:38   12 articles kept / 22 candidates, 20s. Flags: none
+20:28:38 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              9          12           93.5                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              9          14           93.2                                             1 kept article(s) without a headline
+Jaipur_January_02_2025_page_1_1 editorial              8          14           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          18           93.2                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              9          15           92.6                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             11          16           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial             10          13           94.1                                             1 kept article(s) without a headline
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             14          16           92.3 page type is 'other' (not front/editorial); 3 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              8          12           94.0                                                                                 
+  Jaipur_January_06_2025_page_1     front             10          21           92.3                                             1 kept article(s) without a headline
+Jaipur_January_07_2025_page_1_1     other             11          16           93.1                                       page type is 'other' (not front/editorial)
+  Jaipur_January_07_2025_page_1     front             12          22           91.1                                                                                 
+20:29:17 Found 13 page files in ../RAW_Images
+20:29:17 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+20:29:20   preprocessed: skew -0.05 deg, 0 photos, 20/2 rules (3s)
+20:29:31   segmented: body H=34 px, 10 candidate articles (14s)
+20:29:41   7 articles kept / 10 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:29:41 [2/13] Jaipur-January-01--2025-page-1.pdf
+20:29:44   preprocessed: skew -0.05 deg, 8 photos, 53/10 rules (3s)
+20:29:52   segmented: body H=34 px, 19 candidate articles (11s)
+20:30:01   13 articles kept / 19 candidates, 20s. Flags: ['5 kept article(s) without a headline']
+20:30:01 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+20:30:04   preprocessed: skew -0.05 deg, 1 photos, 29/5 rules (3s)
+20:30:15   segmented: body H=34 px, 13 candidate articles (14s)
+20:30:24   7 articles kept / 13 candidates, 24s. Flags: none
+20:30:24 [4/13] Jaipur-January-02--2025-page-1.pdf
+20:30:28   preprocessed: skew -0.05 deg, 5 photos, 43/6 rules (3s)
+20:30:36   segmented: body H=34 px, 18 candidate articles (12s)
+20:30:45   9 articles kept / 18 candidates, 20s. Flags: ['1 kept article(s) without a headline']
+20:30:45 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+20:30:48   preprocessed: skew -0.05 deg, 2 photos, 37/4 rules (3s)
+20:30:58   segmented: body H=34 px, 15 candidate articles (14s)
+20:31:09   9 articles kept / 15 candidates, 24s. Flags: ['2 kept article(s) without a headline']
+20:31:09 [6/13] Jaipur-January-03--2025-page-1.pdf
+20:31:12   preprocessed: skew -0.05 deg, 8 photos, 47/2 rules (3s)
+20:31:19   segmented: body H=34 px, 15 candidate articles (11s)
+20:31:28   10 articles kept / 15 candidates, 19s. Flags: none
+20:31:28 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+20:31:31   preprocessed: skew -0.05 deg, 1 photos, 30/6 rules (3s)
+20:31:41   segmented: body H=34 px, 12 candidate articles (14s)
+20:31:51   9 articles kept / 12 candidates, 23s. Flags: ['2 kept article(s) without a headline']
+20:31:51 [8/13] Jaipur-January-04--2025-page-1.pdf
+20:31:54   preprocessed: skew -0.05 deg, 5 photos, 30/3 rules (3s)
+20:31:58   segmented: body H=34 px, 10 candidate articles (6s)
+20:32:01   6 articles kept / 10 candidates, 10s. Flags: none
+20:32:01 [9/13] Jaipur-January-05--2025-page-1.pdf
+20:32:05   preprocessed: skew -0.05 deg, 7 photos, 26/5 rules (3s)
+20:32:14   segmented: body H=34 px, 16 candidate articles (12s)
+20:32:24   14 articles kept / 16 candidates, 22s. Flags: ["page type is 'other' (not front/editorial)", '3 kept article(s) without a headline']
+20:32:24 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+20:32:27   preprocessed: skew -0.05 deg, 1 photos, 32/9 rules (3s)
+20:32:37   segmented: body H=34 px, 11 candidate articles (13s)
+20:32:46   8 articles kept / 11 candidates, 22s. Flags: ['1 kept article(s) without a headline']
+20:32:46 [11/13] Jaipur-January-06--2025-page-1.pdf
+20:32:49   preprocessed: skew -0.05 deg, 10 photos, 74/13 rules (3s)
+20:32:57   segmented: body H=34 px, 21 candidate articles (11s)
+20:33:07   10 articles kept / 21 candidates, 21s. Flags: ['1 kept article(s) without a headline']
+20:33:07 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+20:33:10   preprocessed: skew -0.05 deg, 0 photos, 38/6 rules (3s)
+20:33:21   segmented: body H=34 px, 15 candidate articles (14s)
+20:33:31   10 articles kept / 15 candidates, 24s. Flags: ['2 kept article(s) without a headline']
+20:33:31 [13/13] Jaipur-January-07--2025-page-1.pdf
+20:33:34   preprocessed: skew -0.05 deg, 4 photos, 44/8 rules (3s)
+20:33:42   segmented: body H=34 px, 27 candidate articles (11s)
+20:33:51   14 articles kept / 27 candidates, 20s. Flags: ['3 kept article(s) without a headline']
+20:33:51 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              7          10           93.2                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front             13          19           93.5                                             5 kept article(s) without a headline
+Jaipur_January_02_2025_page_1_1 editorial              7          13           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          18           93.2                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              9          15           92.6                                             2 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             10          15           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              9          12           94.0                                             2 kept article(s) without a headline
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             14          16           92.3 page type is 'other' (not front/editorial); 3 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              8          11           94.1                                             1 kept article(s) without a headline
+  Jaipur_January_06_2025_page_1     front             10          21           92.3                                             1 kept article(s) without a headline
+Jaipur_January_07_2025_page_1_1 editorial             10          15           93.1                                             2 kept article(s) without a headline
+  Jaipur_January_07_2025_page_1     front             14          27           90.9                                             3 kept article(s) without a headline
+20:34:11 Found 13 page files in ../RAW_Images
+20:34:11 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+20:34:14   preprocessed: skew -0.05 deg, 0 photos, 20/2 rules (3s)
+20:34:25   segmented: body H=34 px, 10 candidate articles (14s)
+20:34:35   7 articles kept / 10 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:34:35 [2/13] Jaipur-January-01--2025-page-1.pdf
+20:34:39   preprocessed: skew -0.05 deg, 8 photos, 53/10 rules (4s)
+20:34:48   segmented: body H=34 px, 14 candidate articles (13s)
+20:34:57   9 articles kept / 14 candidates, 22s. Flags: ['1 kept article(s) without a headline']
+20:34:57 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+20:35:00   preprocessed: skew -0.05 deg, 1 photos, 29/5 rules (3s)
+20:35:11   segmented: body H=34 px, 13 candidate articles (14s)
+20:35:21   7 articles kept / 13 candidates, 24s. Flags: none
+20:35:21 [4/13] Jaipur-January-02--2025-page-1.pdf
+20:35:24   preprocessed: skew -0.05 deg, 5 photos, 43/6 rules (3s)
+20:35:33   segmented: body H=34 px, 18 candidate articles (12s)
+20:35:42   9 articles kept / 18 candidates, 21s. Flags: ['1 kept article(s) without a headline']
+20:35:42 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+20:35:45   preprocessed: skew -0.05 deg, 2 photos, 37/4 rules (3s)
+20:35:56   segmented: body H=34 px, 15 candidate articles (14s)
+20:36:06   9 articles kept / 15 candidates, 23s. Flags: ['1 kept article(s) without a headline']
+20:36:06 [6/13] Jaipur-January-03--2025-page-1.pdf
+20:36:09   preprocessed: skew -0.05 deg, 8 photos, 47/2 rules (3s)
+20:36:16   segmented: body H=34 px, 16 candidate articles (11s)
+20:36:25   11 articles kept / 16 candidates, 19s. Flags: none
+20:36:25 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+20:36:28   preprocessed: skew -0.05 deg, 1 photos, 30/6 rules (3s)
+20:36:38   segmented: body H=34 px, 12 candidate articles (14s)
+20:36:48   9 articles kept / 12 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:36:48 [8/13] Jaipur-January-04--2025-page-1.pdf
+20:36:52   preprocessed: skew -0.05 deg, 5 photos, 30/3 rules (3s)
+20:36:55   segmented: body H=34 px, 10 candidate articles (7s)
+20:36:58   6 articles kept / 10 candidates, 10s. Flags: none
+20:36:58 [9/13] Jaipur-January-05--2025-page-1.pdf
+20:37:02   preprocessed: skew -0.05 deg, 7 photos, 26/5 rules (4s)
+20:37:12   segmented: body H=34 px, 16 candidate articles (13s)
+20:37:21   14 articles kept / 16 candidates, 23s. Flags: ["page type is 'other' (not front/editorial)", '3 kept article(s) without a headline']
+20:37:21 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+20:37:25   preprocessed: skew -0.05 deg, 1 photos, 32/9 rules (3s)
+20:37:34   segmented: body H=34 px, 11 candidate articles (13s)
+20:37:44   7 articles kept / 11 candidates, 22s. Flags: none
+20:37:44 [11/13] Jaipur-January-06--2025-page-1.pdf
+20:37:48   preprocessed: skew -0.05 deg, 10 photos, 74/13 rules (4s)
+20:37:57   segmented: body H=34 px, 21 candidate articles (13s)
+20:38:07   10 articles kept / 21 candidates, 23s. Flags: ['1 kept article(s) without a headline']
+20:38:07 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+20:38:10   preprocessed: skew -0.05 deg, 0 photos, 38/6 rules (4s)
+20:38:22   segmented: body H=34 px, 15 candidate articles (15s)
+20:38:31   10 articles kept / 15 candidates, 25s. Flags: none
+20:38:31 [13/13] Jaipur-January-07--2025-page-1.pdf
+20:38:35   preprocessed: skew -0.05 deg, 4 photos, 44/8 rules (3s)
+20:38:42   segmented: body H=34 px, 22 candidate articles (11s)
+20:38:52   12 articles kept / 22 candidates, 20s. Flags: none
+20:38:52 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              7          10           93.2                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              9          14           93.2                                             1 kept article(s) without a headline
+Jaipur_January_02_2025_page_1_1 editorial              7          13           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          18           93.2                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              9          15           92.6                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             11          16           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              9          12           94.1                                             1 kept article(s) without a headline
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             14          16           92.3 page type is 'other' (not front/editorial); 3 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              7          11           94.0                                                                                 
+  Jaipur_January_06_2025_page_1     front             10          21           92.3                                             1 kept article(s) without a headline
+Jaipur_January_07_2025_page_1_1 editorial             10          15           93.1                                                                                 
+  Jaipur_January_07_2025_page_1     front             12          22           91.1                                                                                 
+20:40:03 Found 13 page files in ../RAW_Images
+20:40:03 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+20:40:08   preprocessed: skew -0.05 deg, 0 photos, 20/2 rules (5s)
+20:40:19   segmented: body H=34 px, 11 candidate articles (16s)
+20:40:30   8 articles kept / 11 candidates, 27s. Flags: ['1 kept article(s) without a headline']
+20:40:30 [2/13] Jaipur-January-01--2025-page-1.pdf
+20:40:34   preprocessed: skew -0.05 deg, 8 photos, 53/10 rules (4s)
+20:40:43   segmented: body H=34 px, 14 candidate articles (13s)
+20:40:52   9 articles kept / 14 candidates, 22s. Flags: ['2 kept article(s) without a headline']
+20:40:52 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+20:40:55   preprocessed: skew -0.05 deg, 1 photos, 29/5 rules (3s)
+20:41:06   segmented: body H=34 px, 13 candidate articles (14s)
+20:41:16   7 articles kept / 13 candidates, 24s. Flags: none
+20:41:16 [4/13] Jaipur-January-02--2025-page-1.pdf
+20:41:19   preprocessed: skew -0.05 deg, 5 photos, 43/6 rules (3s)
+20:41:27   segmented: body H=34 px, 17 candidate articles (12s)
+20:41:36   9 articles kept / 17 candidates, 20s. Flags: ['1 kept article(s) without a headline']
+20:41:36 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+20:41:40   preprocessed: skew -0.05 deg, 2 photos, 37/4 rules (4s)
+20:41:50   segmented: body H=34 px, 14 candidate articles (14s)
+20:42:02   8 articles kept / 14 candidates, 25s. Flags: ['1 kept article(s) without a headline']
+20:42:02 [6/13] Jaipur-January-03--2025-page-1.pdf
+20:42:06   preprocessed: skew -0.05 deg, 8 photos, 47/2 rules (4s)
+20:42:13   segmented: body H=34 px, 16 candidate articles (11s)
+20:42:22   11 articles kept / 16 candidates, 20s. Flags: none
+20:42:22 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+20:42:26   preprocessed: skew -0.05 deg, 1 photos, 30/6 rules (4s)
+20:42:37   segmented: body H=34 px, 12 candidate articles (15s)
+20:42:47   9 articles kept / 12 candidates, 25s. Flags: ['1 kept article(s) without a headline']
+20:42:47 [8/13] Jaipur-January-04--2025-page-1.pdf
+20:42:51   preprocessed: skew -0.05 deg, 5 photos, 30/3 rules (4s)
+20:42:54   segmented: body H=34 px, 10 candidate articles (7s)
+20:42:58   6 articles kept / 10 candidates, 10s. Flags: none
+20:42:58 [9/13] Jaipur-January-05--2025-page-1.pdf
+20:43:02   preprocessed: skew -0.05 deg, 7 photos, 26/5 rules (4s)
+20:43:11   segmented: body H=34 px, 16 candidate articles (14s)
+20:43:22   14 articles kept / 16 candidates, 24s. Flags: ["page type is 'other' (not front/editorial)", '3 kept article(s) without a headline']
+20:43:22 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+20:43:25   preprocessed: skew -0.05 deg, 1 photos, 32/9 rules (3s)
+20:43:35   segmented: body H=34 px, 11 candidate articles (14s)
+20:43:45   7 articles kept / 11 candidates, 23s. Flags: none
+20:43:45 [11/13] Jaipur-January-06--2025-page-1.pdf
+20:43:48   preprocessed: skew -0.05 deg, 10 photos, 74/13 rules (3s)
+20:43:56   segmented: body H=34 px, 18 candidate articles (11s)
+20:44:06   9 articles kept / 18 candidates, 21s. Flags: none
+20:44:06 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+20:44:09   preprocessed: skew -0.05 deg, 0 photos, 38/6 rules (3s)
+20:44:20   segmented: body H=34 px, 15 candidate articles (14s)
+20:44:30   10 articles kept / 15 candidates, 24s. Flags: ['2 kept article(s) without a headline']
+20:44:30 [13/13] Jaipur-January-07--2025-page-1.pdf
+20:44:33   preprocessed: skew -0.05 deg, 4 photos, 44/8 rules (3s)
+20:44:41   segmented: body H=34 px, 21 candidate articles (11s)
+20:44:52   12 articles kept / 21 candidates, 22s. Flags: none
+20:44:52 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              8          11           93.3                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              9          14           93.2                                             2 kept article(s) without a headline
+Jaipur_January_02_2025_page_1_1 editorial              7          13           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          17           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              8          14           92.6                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             11          16           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              9          12           94.1                                             1 kept article(s) without a headline
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             14          16           92.3 page type is 'other' (not front/editorial); 3 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              7          11           94.0                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          18           92.3                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial             10          15           93.1                                             2 kept article(s) without a headline
+  Jaipur_January_07_2025_page_1     front             12          21           91.1                                                                                 
+20:45:50 Found 13 page files in ../RAW_Images
+20:45:50 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+20:45:54   preprocessed: skew -0.05 deg, 0 photos, 20/2 rules (4s)
+20:46:05   segmented: body H=34 px, 9 candidate articles (14s)
+20:46:14   7 articles kept / 9 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:46:14 [2/13] Jaipur-January-01--2025-page-1.pdf
+20:46:19   preprocessed: skew -0.05 deg, 8 photos, 53/10 rules (5s)
+20:46:27   segmented: body H=34 px, 12 candidate articles (13s)
+20:46:36   8 articles kept / 12 candidates, 22s. Flags: none
+20:46:36 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+20:46:39   preprocessed: skew -0.05 deg, 1 photos, 29/5 rules (3s)
+20:46:49   segmented: body H=34 px, 12 candidate articles (13s)
+20:46:59   7 articles kept / 12 candidates, 23s. Flags: none
+20:46:59 [4/13] Jaipur-January-02--2025-page-1.pdf
+20:47:03   preprocessed: skew -0.05 deg, 5 photos, 43/6 rules (4s)
+20:47:12   segmented: body H=34 px, 16 candidate articles (13s)
+20:47:21   9 articles kept / 16 candidates, 22s. Flags: ['1 kept article(s) without a headline']
+20:47:21 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+20:47:25   preprocessed: skew -0.05 deg, 2 photos, 37/4 rules (4s)
+20:47:35   segmented: body H=34 px, 12 candidate articles (14s)
+20:47:45   8 articles kept / 12 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:47:45 [6/13] Jaipur-January-03--2025-page-1.pdf
+20:47:49   preprocessed: skew -0.05 deg, 8 photos, 47/2 rules (4s)
+20:47:57   segmented: body H=34 px, 16 candidate articles (12s)
+20:48:06   11 articles kept / 16 candidates, 20s. Flags: none
+20:48:06 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+20:48:09   preprocessed: skew -0.05 deg, 1 photos, 30/6 rules (4s)
+20:48:20   segmented: body H=34 px, 10 candidate articles (14s)
+20:48:30   8 articles kept / 10 candidates, 24s. Flags: none
+20:48:30 [8/13] Jaipur-January-04--2025-page-1.pdf
+20:48:33   preprocessed: skew -0.05 deg, 5 photos, 30/3 rules (3s)
+20:48:36   segmented: body H=34 px, 10 candidate articles (6s)
+20:48:40   6 articles kept / 10 candidates, 10s. Flags: none
+20:48:40 [9/13] Jaipur-January-05--2025-page-1.pdf
+20:48:43   preprocessed: skew -0.05 deg, 7 photos, 26/5 rules (3s)
+20:48:52   segmented: body H=34 px, 14 candidate articles (12s)
+20:49:02   12 articles kept / 14 candidates, 22s. Flags: ["page type is 'other' (not front/editorial)", '1 kept article(s) without a headline']
+20:49:02 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+20:49:05   preprocessed: skew -0.05 deg, 1 photos, 32/9 rules (3s)
+20:49:15   segmented: body H=34 px, 9 candidate articles (13s)
+20:49:24   7 articles kept / 9 candidates, 22s. Flags: none
+20:49:24 [11/13] Jaipur-January-06--2025-page-1.pdf
+20:49:28   preprocessed: skew -0.05 deg, 10 photos, 74/13 rules (3s)
+20:49:36   segmented: body H=34 px, 17 candidate articles (12s)
+20:49:47   9 articles kept / 17 candidates, 22s. Flags: none
+20:49:47 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+20:49:50   preprocessed: skew -0.05 deg, 0 photos, 38/6 rules (4s)
+20:50:01   segmented: body H=34 px, 11 candidate articles (15s)
+20:50:11   8 articles kept / 11 candidates, 25s. Flags: none
+20:50:11 [13/13] Jaipur-January-07--2025-page-1.pdf
+20:50:15   preprocessed: skew -0.05 deg, 4 photos, 44/8 rules (3s)
+20:50:22   segmented: body H=34 px, 19 candidate articles (11s)
+20:50:32   12 articles kept / 19 candidates, 20s. Flags: none
+20:50:32 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              7           9           93.2                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          12           93.2                                                                                 
+Jaipur_January_02_2025_page_1_1 editorial              7          12           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          16           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              8          12           92.8                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             11          16           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              8          10           94.1                                                                                 
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             12          14           92.8 page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              7           9           94.0                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          17           92.6                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial              8          11           93.4                                                                                 
+  Jaipur_January_07_2025_page_1     front             12          19           91.1                                                                                 
+20:51:14 Found 13 page files in ../RAW_Images
+20:51:14 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+20:51:18   preprocessed: skew -0.05 deg, 0 photos, 20/2 rules (4s)
+20:51:29   segmented: body H=34 px, 8 candidate articles (15s)
+20:51:39   6 articles kept / 8 candidates, 25s. Flags: ['1 kept article(s) without a headline']
+20:51:39 [2/13] Jaipur-January-01--2025-page-1.pdf
+20:51:42   preprocessed: skew -0.05 deg, 8 photos, 53/10 rules (4s)
+20:51:51   segmented: body H=34 px, 11 candidate articles (12s)
+20:52:00   8 articles kept / 11 candidates, 21s. Flags: none
+20:52:00 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+20:52:04   preprocessed: skew -0.05 deg, 1 photos, 29/5 rules (4s)
+20:52:15   segmented: body H=34 px, 12 candidate articles (15s)
+20:52:25   7 articles kept / 12 candidates, 24s. Flags: none
+20:52:25 [4/13] Jaipur-January-02--2025-page-1.pdf
+20:52:28   preprocessed: skew -0.05 deg, 5 photos, 43/6 rules (4s)
+20:52:37   segmented: body H=34 px, 16 candidate articles (12s)
+20:52:45   9 articles kept / 16 candidates, 20s. Flags: ['1 kept article(s) without a headline']
+20:52:45 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+20:52:49   preprocessed: skew -0.05 deg, 2 photos, 37/4 rules (4s)
+20:52:59   segmented: body H=34 px, 9 candidate articles (14s)
+20:53:09   7 articles kept / 9 candidates, 24s. Flags: ['1 kept article(s) without a headline']
+20:53:09 [6/13] Jaipur-January-03--2025-page-1.pdf
+20:53:13   preprocessed: skew -0.05 deg, 8 photos, 47/2 rules (4s)
+20:53:21   segmented: body H=34 px, 15 candidate articles (11s)
+20:53:29   10 articles kept / 15 candidates, 20s. Flags: none
+20:53:29 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+20:53:33   preprocessed: skew -0.05 deg, 1 photos, 30/6 rules (4s)
+20:53:43   segmented: body H=34 px, 7 candidate articles (14s)
+20:53:53   6 articles kept / 7 candidates, 24s. Flags: none
+20:53:53 [8/13] Jaipur-January-04--2025-page-1.pdf
+20:53:56   preprocessed: skew -0.05 deg, 5 photos, 30/3 rules (3s)
+20:53:59   segmented: body H=34 px, 10 candidate articles (6s)
+20:54:03   6 articles kept / 10 candidates, 10s. Flags: none
+20:54:03 [9/13] Jaipur-January-05--2025-page-1.pdf
+20:54:07   preprocessed: skew -0.05 deg, 7 photos, 26/5 rules (4s)
+20:54:16   segmented: body H=34 px, 14 candidate articles (13s)
+20:54:26   12 articles kept / 14 candidates, 23s. Flags: ["page type is 'other' (not front/editorial)", '1 kept article(s) without a headline']
+20:54:26 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+20:54:30   preprocessed: skew -0.05 deg, 1 photos, 32/9 rules (4s)
+20:54:40   segmented: body H=34 px, 6 candidate articles (13s)
+20:54:49   5 articles kept / 6 candidates, 22s. Flags: none
+20:54:49 [11/13] Jaipur-January-06--2025-page-1.pdf
+20:54:52   preprocessed: skew -0.05 deg, 10 photos, 74/13 rules (3s)
+20:55:00   segmented: body H=34 px, 17 candidate articles (11s)
+20:55:11   9 articles kept / 17 candidates, 22s. Flags: none
+20:55:11 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+20:55:16   preprocessed: skew -0.05 deg, 0 photos, 38/6 rules (5s)
+20:55:27   segmented: body H=34 px, 12 candidate articles (16s)
+20:55:38   9 articles kept / 12 candidates, 27s. Flags: none
+20:55:38 [13/13] Jaipur-January-07--2025-page-1.pdf
+20:55:41   preprocessed: skew -0.05 deg, 4 photos, 44/8 rules (3s)
+20:55:49   segmented: body H=34 px, 17 candidate articles (11s)
+20:55:59   11 articles kept / 17 candidates, 21s. Flags: none
+20:55:59 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              6           8           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          11           93.2                                                                                 
+Jaipur_January_02_2025_page_1_1 editorial              7          12           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          16           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              7           9           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             10          15           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              6           7           94.0                                                                                 
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             12          14           92.8 page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              5           6           93.9                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          17           92.6                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial              9          12           93.1                                                                                 
+  Jaipur_January_07_2025_page_1     front             11          17           90.9                                                                                 
+20:58:06 Found 13 page files in ../RAW_Images
+20:58:06 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [2/13] Jaipur-January-01--2025-page-1.pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [4/13] Jaipur-January-02--2025-page-1.pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [6/13] Jaipur-January-03--2025-page-1.pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [8/13] Jaipur-January-04--2025-page-1.pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [9/13] Jaipur-January-05--2025-page-1.pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [11/13] Jaipur-January-06--2025-page-1.pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 [13/13] Jaipur-January-07--2025-page-1.pdf
+20:58:06   cached - skipping (use --force to redo)
+20:58:06 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              6           8           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          11           93.2                                                                                 
+Jaipur_January_02_2025_page_1_1 editorial              7          12           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          16           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              7           9           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             10          15           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              6           7           94.0                                                                                 
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             12          14           92.8 page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              5           6           93.9                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          17           92.6                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial              9          12           93.1                                                                                 
+  Jaipur_January_07_2025_page_1     front             11          17           90.9                                                                                 
+20:58:06 Sentiment: scoring 105 articles (0 cached)
+20:59:16 Topic modelling on 105 articles (method=auto)
+20:59:36 Use pytorch device_name: mps
+20:59:36 Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+21:00:10 Found 13 page files in ../RAW_Images
+21:00:10 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [2/13] Jaipur-January-01--2025-page-1.pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [4/13] Jaipur-January-02--2025-page-1.pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [6/13] Jaipur-January-03--2025-page-1.pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [8/13] Jaipur-January-04--2025-page-1.pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [9/13] Jaipur-January-05--2025-page-1.pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [11/13] Jaipur-January-06--2025-page-1.pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 [13/13] Jaipur-January-07--2025-page-1.pdf
+21:00:10   cached - skipping (use --force to redo)
+21:00:10 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              6           8           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          11           93.2                                                                                 
+Jaipur_January_02_2025_page_1_1 editorial              7          12           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          16           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              7           9           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             10          15           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              6           7           94.0                                                                                 
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             12          14           92.8 page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              5           6           93.9                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          17           92.6                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial              9          12           93.1                                                                                 
+  Jaipur_January_07_2025_page_1     front             11          17           90.9                                                                                 
+21:00:10 Topic modelling on 105 articles (method=auto)
+21:00:13 Use pytorch device_name: mps
+21:00:13 Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+21:00:22 Label sample written
+21:00:22 Done: 105 articles. Transformer/VADER label agreement 30%, Spearman 0.53
+21:00:56 Found 13 page files in ../RAW_Images
+21:00:56 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [2/13] Jaipur-January-01--2025-page-1.pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [4/13] Jaipur-January-02--2025-page-1.pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [6/13] Jaipur-January-03--2025-page-1.pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [8/13] Jaipur-January-04--2025-page-1.pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [9/13] Jaipur-January-05--2025-page-1.pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [11/13] Jaipur-January-06--2025-page-1.pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 [13/13] Jaipur-January-07--2025-page-1.pdf
+21:00:56   cached - skipping (use --force to redo)
+21:00:56 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              6           8           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          11           93.2                                                                                 
+Jaipur_January_02_2025_page_1_1 editorial              7          12           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          16           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              7           9           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             10          15           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              6           7           94.0                                                                                 
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             12          14           92.8 page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              5           6           93.9                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          17           92.6                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial              9          12           93.1                                                                                 
+  Jaipur_January_07_2025_page_1     front             11          17           90.9                                                                                 
+21:00:56 Topic modelling on 105 articles (method=auto)
+21:00:58 Use pytorch device_name: mps
+21:00:58 Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+21:01:08 Label sample already exists - left untouched
+21:01:08 Done: 105 articles. Transformer/VADER label agreement 30%, Spearman 0.53
+21:01:20 Found 13 page files in ../RAW_Images
+21:01:20 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [2/13] Jaipur-January-01--2025-page-1.pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [4/13] Jaipur-January-02--2025-page-1.pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [6/13] Jaipur-January-03--2025-page-1.pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [8/13] Jaipur-January-04--2025-page-1.pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [9/13] Jaipur-January-05--2025-page-1.pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [11/13] Jaipur-January-06--2025-page-1.pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 [13/13] Jaipur-January-07--2025-page-1.pdf
+21:01:20   cached - skipping (use --force to redo)
+21:01:20 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              6           8           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          11           93.2                                                                                 
+Jaipur_January_02_2025_page_1_1 editorial              7          12           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          16           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              7           9           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             10          15           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              6           7           94.0                                                                                 
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             12          14           92.8 page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              5           6           93.9                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          17           92.6                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial              9          12           93.1                                                                                 
+  Jaipur_January_07_2025_page_1     front             11          17           90.9                                                                                 
+21:01:20 Topic modelling on 105 articles (method=auto)
+21:01:22 Use pytorch device_name: mps
+21:01:22 Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+21:01:31 Label sample already exists - left untouched
+21:01:31 Done: 105 articles. Transformer/VADER label agreement 30%, Spearman 0.53
+02:55:25 Found 13 page files in ../RAW_Images
+02:55:25 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [2/13] Jaipur-January-01--2025-page-1.pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [4/13] Jaipur-January-02--2025-page-1.pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [6/13] Jaipur-January-03--2025-page-1.pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [8/13] Jaipur-January-04--2025-page-1.pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [9/13] Jaipur-January-05--2025-page-1.pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [11/13] Jaipur-January-06--2025-page-1.pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 [13/13] Jaipur-January-07--2025-page-1.pdf
+02:55:25   cached - skipping (use --force to redo)
+02:55:25 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              6           8           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          11           93.2                                                                                 
+Jaipur_January_02_2025_page_1_1 editorial              7          12           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          16           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              7           9           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             10          15           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              6           7           94.0                                                                                 
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             12          14           92.8 page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              5           6           93.9                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          17           92.6                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial              9          12           93.1                                                                                 
+  Jaipur_January_07_2025_page_1     front             11          17           90.9                                                                                 
+02:55:25 LLM sentiment (hf_api, Qwen/Qwen2.5-7B-Instruct): 105 to score, 0 cached
+02:55:25 LLM sentiment skipped: No Hugging Face token found (set HF_TOKEN or create results/.env)
+02:55:25 LLM sentiment available for 0/105 articles
+02:55:25 Topic modelling on 105 articles (method=auto)
+02:55:28 Use pytorch device_name: mps
+02:55:28 Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+02:55:40 Method agreement (no labels needed):
+   method_a method_b   n  label_agreement  cohen_kappa  spearman_scores
+transformer    vader 105            0.295        0.101            0.533
+02:55:40 Label sample already exists - left untouched
+02:55:40 Done: 105 articles. Transformer/VADER label agreement 30%, Spearman 0.53
+03:20:36 Found 13 page files in ../RAW_Images
+03:20:36 [1/13] Jaipur-January-01--2025-page-1 (1).pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [2/13] Jaipur-January-01--2025-page-1.pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [3/13] Jaipur-January-02--2025-page-1 (1).pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [4/13] Jaipur-January-02--2025-page-1.pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [5/13] Jaipur-January-03--2025-page-1 (1).pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [6/13] Jaipur-January-03--2025-page-1.pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [7/13] Jaipur-January-04--2025-page-1 (1).pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [8/13] Jaipur-January-04--2025-page-1.pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [9/13] Jaipur-January-05--2025-page-1.pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [10/13] Jaipur-January-06--2025-page-1 (1).pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [11/13] Jaipur-January-06--2025-page-1.pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [12/13] Jaipur-January-07--2025-page-1 (1).pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 [13/13] Jaipur-January-07--2025-page-1.pdf
+03:20:36   cached - skipping (use --force to redo)
+03:20:36 
+                        page_id page_type  articles_kept  candidates  mean_ocr_conf                                                                            flags
+Jaipur_January_01_2025_page_1_1 editorial              6           8           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_01_2025_page_1     front              8          11           93.2                                                                                 
+Jaipur_January_02_2025_page_1_1 editorial              7          12           93.4                                                                                 
+  Jaipur_January_02_2025_page_1     front              9          16           93.3                                             1 kept article(s) without a headline
+Jaipur_January_03_2025_page_1_1 editorial              7           9           92.9                                             1 kept article(s) without a headline
+  Jaipur_January_03_2025_page_1     front             10          15           93.1                                                                                 
+Jaipur_January_04_2025_page_1_1 editorial              6           7           94.0                                                                                 
+  Jaipur_January_04_2025_page_1     front              6          10           92.1                                                                                 
+  Jaipur_January_05_2025_page_1     other             12          14           92.8 page type is 'other' (not front/editorial); 1 kept article(s) without a headline
+Jaipur_January_06_2025_page_1_1 editorial              5           6           93.9                                                                                 
+  Jaipur_January_06_2025_page_1     front              9          17           92.6                                                                                 
+Jaipur_January_07_2025_page_1_1 editorial              9          12           93.1                                                                                 
+  Jaipur_January_07_2025_page_1     front             11          17           90.9                                                                                 
+03:20:36 LLM sentiment (hf_api, Qwen/Qwen2.5-7B-Instruct): 105 to score, 0 cached
+03:20:37 Hugging Face free credits used up (HTTP 402) - stopped after 0 articles; re-run later to continue (finished ones are cached).
+03:20:37 LLM sentiment available for 0/105 articles
+03:20:37 Topic modelling on 105 articles (method=auto)
+03:20:40 Use pytorch device_name: mps
+03:20:40 Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+03:20:51 Method agreement (no labels needed):
+   method_a method_b   n  label_agreement  cohen_kappa  spearman_scores
+transformer    vader 105            0.295        0.101            0.533
+03:20:51 Label sample already exists - left untouched
+03:20:51 Done: 105 articles. Transformer/VADER label agreement 30%, Spearman 0.53

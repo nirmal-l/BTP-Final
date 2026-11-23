@@ -1,0 +1,115 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_20_front",
+ "source_file": "2025-06-20_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-20_front.png",
+ "date": "2025-06-20",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 81.0,
+  "masthead_y": 624,
+  "n_lines": 21,
+  "mean_line_conf": 86.67178898099952,
+  "orphan_words": 0,
+  "body_words_total": 45
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      1230,
+      794,
+      3274,
+      1218
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      628,
+      2756,
+      3873,
+      3034
+     ]
+    ],
+    "layout_words": 32
+   },
+   "headline_raw": "\u201cA Landmark Yoga Gathering\u201d\nCelebrating The\n11\u00b0 International Day Of Yoga",
+   "deck_raw": "",
+   "body_raw": "The Government of Andhra Pradesh is set to organize a monumental yoga event,\nbringing together over 2 crore people across the state\nin a collective celebration of health, unity, and spiritual enlightenment",
+   "ocr_conf": 95.40625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "\"A Landmark Yoga Gathering\" Celebrating The 11\u00b0 International Day Of Yoga",
+   "deck": "",
+   "byline": "",
+   "text": "The Government of Andhra Pradesh is set to organize a monumental yoga event, bringing together over 2 crore people across the state in a collective celebration of health, unity, and spiritual enlightenment",
+   "n_words": 32,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1201,
+      3325,
+      3298,
+      3502
+     ],
+     [
+      936,
+      4209,
+      1505,
+      4459
+     ],
+     [
+      1753,
+      4480,
+      2744,
+      4633
+     ]
+    ],
+    "deck_boxes": [
+     [
+      906,
+      3781,
+      3592,
+      3913
+     ]
+    ],
+    "body_boxes": [
+     [
+      1520,
+      3561,
+      2979,
+      3638
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "Shri Narendra Modi\nRK Beach,\nVisakhapatnam\nC YOGA DAY ACTIVITIES >",
+   "deck_raw": "-\u2014 Join an IDY-2025 Event near you \u2014\u2014~",
+   "body_raw": "Hon\u2019ble Prime Minister of India",
+   "ocr_conf": 94.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Shri Narendra Modi RK Beach, Visakhapatnam C YOGA DAY ACTIVITIES >",
+   "deck": "- - Join an IDY-2025 Event near you - - ~",
+   "byline": "",
+   "text": "Hon'ble Prime Minister of India",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 5.4,
+ "flags": [
+  "only 0 article(s) kept"
+ ]
+}

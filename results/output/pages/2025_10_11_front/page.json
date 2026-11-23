@@ -1,0 +1,701 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_11_front",
+ "source_file": "2025-10-11_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-11_front.png",
+ "date": "2025-10-11",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 326,
+  "mean_line_conf": 88.26459917177144,
+  "orphan_words": 3,
+  "body_words_total": 1209
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      693,
+      4167,
+      1172
+     ],
+     [
+      3255,
+      1222,
+      4144,
+      1353
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      1424,
+      3632,
+      1495
+     ],
+     [
+      3252,
+      1544,
+      3697,
+      2203
+     ]
+    ],
+    "layout_words": 87
+   },
+   "headline_raw": "Govt plans uniform\npay, cap on tenure\nand number for\noutside consultants\nMoF proposal: No more than 3 years\nin adepartment, total 5 years in govt",
+   "deck_raw": "",
+   "body_raw": "AMRITA NAYAK DUTTA\nNEW DELHI, OCTOBER 10\n\nTHE GOVERNMENT is working on\nanewpolicy that seeks to cap the\nnumber and tenure of consultants\nengaged by ministries and depart-\nments, and also standardise their\nremuneration and approval\nprocess, The Indian Express has\nlearnt. The Ministry of Finance is\nlikely to steer the formulation of\nthe policy, though other ministries\nmay alsobe roped in, government\nOfficials said.\nThe proposal, which was dis-\ncussed recently among depart-\nments and ministries, is likely to\nlimit the engagement of Young\nCONTINUEDON PAGE2",
+   "ocr_conf": 92.54022988505747,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Govt plans uniform pay, cap on tenure and number for outside consultants MoF proposal: No more than 3 years in adepartment, total 5 years in govt",
+   "deck": "",
+   "byline": "AMRITA NAYAK DUTTA; NEW DELHI, OCTOBER 10",
+   "text": "THE GOVERNMENT is working on anewpolicy that seeks to cap the number and tenure of consultants engaged by ministries and departments, and also standardise their remuneration and approval process, The Indian Express has learnt. The Ministry of Finance is likely to steer the formulation of the policy, though other ministries may alsobe roped in, government Officials said. The proposal, which was discussed recently among departments and ministries, is likely to limit the engagement of Young CONTINUEDON PAGE2",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      788,
+      3178,
+      1133
+     ],
+     [
+      811,
+      1171,
+      1230,
+      1514
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      696,
+      3051,
+      754
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      1581,
+      1162,
+      1651
+     ],
+     [
+      806,
+      1699,
+      1254,
+      2129
+     ],
+     [
+      1300,
+      1818,
+      2167,
+      1894
+     ],
+     [
+      1299,
+      1977,
+      1740,
+      2130
+     ],
+     [
+      1787,
+      1978,
+      2228,
+      2123
+     ],
+     [
+      1839,
+      3444,
+      2226,
+      3473
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "India resets ties with Taliban-ruled Kabul,\nto upgrade \u2018technical mission\u2019 to embassy\nKabul to send\ndiplomats; won't\nlet Afghan soil be\nused to threaten\nothers: Muttaqi",
+   "deck_raw": "JAISHANKAR HOLDS TALKS WITH TALIBAN FOREIGN MINISTER MUTTAQI",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER 10\n\nAS A first step towards normal-\nising diplomatic ties with the\nTaliban since the group seized\npower in Afghanistan after the\nwithdrawal of the US-led forces\nin 2021, India on Friday said it\nwould upgrade its \u201ctechnical\nmission\u201d in Kabul tothe status of\nan embassy.\nExternal Affairs Minister S\nJaishankar made the announce-\n\nExternal Affairs Minister S Jaishankar with Afghanistan's\nForeign Minister Amir Khan Muttaqi in New Delhi. AM\n\nment during his first meeting\nwith Taliban-ruled Afghanistan\u2019s\nForeign Minister Amir Khan\nMuttaqi, who arrived in New\n\nDelhi on Thursday \u2014 the first visit\nby a Taliban foreign minister.\nMuttaqi, on his part, said Kabul\nCONTINUED ON PAGE 2\n\nRELATED REPORT, PAGE 12",
+   "ocr_conf": 89.50847457627118,
+   "ocr_low_conf_share": 0.05084745762711865,
+   "headline": "India resets ties with Taliban-ruled Kabul, to upgrade 'technical mission' to embassy Kabul to send diplomats; won't let Afghan soil be used to threaten others: Muttaqi",
+   "deck": "JAISHANKAR HOLDS TALKS WITH TALIBAN FOREIGN MINISTER MUTTAQI",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER 10",
+   "text": "AS A first step towards normal-ising diplomatic ties with the Taliban since the group seized power in Afghanistan after the withdrawal of the US-led forces in 2021, India on Friday said it would upgrade its \"technical mission\" in Kabul tothe status of an embassy. External Affairs Minister S Jaishankar made the announce-\n\nExternal Affairs Minister S Jaishankar with Afghanistan's Foreign Minister Amir Khan Muttaqi in New Delhi. AM\n\nment during his first meeting with Taliban-ruled Afghanistan's Foreign Minister Amir Khan Muttaqi, who arrived in New\n\nDelhi on Thursday - the first visit by a Taliban foreign minister. Muttaqi, on his part, said Kabul\n\nRELATED REPORT, PAGE 12",
+   "n_words": 107,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      1170,
+      3150,
+      1362
+     ],
+     [
+      2277,
+      1374,
+      3201,
+      1519
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      1543,
+      2627,
+      1613
+     ],
+     [
+      2275,
+      1661,
+      2717,
+      2131
+     ],
+     [
+      2762,
+      1504,
+      3208,
+      2124
+     ]
+    ],
+    "layout_words": 147
+   },
+   "headline_raw": "Two Afghanistan flags,\nno women journalists \u2014\nand the Bamiyan Buddhas",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER 10\n\nMINUTES BEFORE Taliban-led\nAfghanistan's Foreign Minister\nAmir Khan Muttaqi walked into\nthe Afghan embassy in Delhi, an\nangry young Afghan stomped\nout with a flag pole. \u201cI will not let\nthem hoist the Taliban flag as\nlong as] am around,\u201d he said.\n\u201cLet the Indian government\nofficially recognise the Taliban\ngovernment, then they can hoist\nthe Taliban flag,\u201d said the youth,\n\nwho has worked at the Afghan\nembassy here for several years.\nHe requested anonymity for fear\nof retribution back home.\nAmid the face-off with the\nvisiting Taliban members, the\nAfghansstationed in Delhi stood\ntheir ground, not allowing them\nto hoist the flag of the Islamic\nEmirate of Afghanistan (the\nTaliban call it Emirate, instead of\nRepublic). This was the last\npocket of resistance against the\nTaliban, who will now be al-\nlowed by the Indian government\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.8843537414966,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Two Afghanistan flags, no women journalists - and the Bamiyan Buddhas",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER 10",
+   "text": "MINUTES BEFORE Taliban-led Afghanistan's Foreign Minister Amir Khan Muttaqi walked into the Afghan embassy in Delhi, an angry young Afghan stomped out with a flag pole. \"I will not let them hoist the Taliban flag as long as] am around,\" he said. \"Let the Indian government officially recognise the Taliban government, then they can hoist the Taliban flag,\" said the youth,\n\nwho has worked at the Afghan embassy here for several years. He requested anonymity for fear of retribution back home. Amid the face-off with the visiting Taliban members, the Afghansstationed in Delhi stood their ground, not allowing them to hoist the flag of the Islamic Emirate of Afghanistan (the Taliban call it Emirate, instead of Republic). This was the last pocket of resistance against the Taliban, who will now be allowed by the Indian government",
+   "n_words": 136,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      1370,
+      722,
+      1404
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      366,
+      1518,
+      729,
+      1618
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      2160,
+      759,
+      2285
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "[ new! 1",
+   "deck_raw": "",
+   "body_raw": "NOBEL PANEL PLACES\nPOLITICS OVER PEACE:\nWHITEHOUSE pace12",
+   "ocr_conf": 76.0,
+   "ocr_low_conf_share": 0.125,
+   "headline": "",
+   "deck": "",
+   "byline": "NOBEL PANEL PLACES; POLITICS OVER PEACE:",
+   "text": "WHITEHOUSE pace12",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3773,
+      1431,
+      4148,
+      1496
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3774,
+      1515,
+      4089,
+      1635
+     ],
+     [
+      3775,
+      1666,
+      4138,
+      1744
+     ],
+     [
+      3774,
+      1775,
+      4138,
+      2166
+     ]
+    ],
+    "layout_words": 50
+   },
+   "headline_raw": "PROPOSED PAY CAP",
+   "deck_raw": "",
+   "body_raw": "70,000 for Young\nProfessionals with\nover 5 yrs experience\n\n1.8 lakh for those with\n16-20 yrs experience\n\u00a51.9 lakh for those with\n21\u201425 yrs experience\nand PG or tech degree\n50 cr or 2% of project\ncost for consultants\nhired through agencies",
+   "ocr_conf": 82.26,
+   "ocr_low_conf_share": 0.16,
+   "headline": "PROPOSED PAY CAP",
+   "deck": "",
+   "byline": "",
+   "text": "70,000 for Young Professionals with over 5 yrs experience\n\n1.8 lakh for those with 16-20 yrs experience \u00a51.9 lakh for those with 21 - 25 yrs experience and PG or tech degree cost for consultants hired through agencies",
+   "n_words": 38,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      2281,
+      2626,
+      2337
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2274,
+      2953,
+      2712,
+      3077
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "GOVT & POLITICS",
+   "deck_raw": "",
+   "body_raw": "RAJASTHAN TO BRING\nNEW COOPERATIVE\nACT PAGE 6",
+   "ocr_conf": 93.875,
+   "ocr_low_conf_share": 0.0,
+   "headline": "GOVT & POLITICS",
+   "deck": "",
+   "byline": "RAJASTHAN TO BRING; NEW COOPERATIVE; ACT PAGE 6",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      2278,
+      4092,
+      2546
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2764,
+      2573,
+      3190,
+      2643
+     ],
+     [
+      2762,
+      2691,
+      3205,
+      3121
+     ],
+     [
+      3252,
+      2967,
+      3684,
+      3122
+     ],
+     [
+      3739,
+      2532,
+      4182,
+      3115
+     ]
+    ],
+    "layout_words": 146
+   },
+   "headline_raw": "Increase in Muslim population\ndue to infiltration, says Shah",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, OCTOBER 10\n\nUNION HOME Minister Amit\nShah said on Friday that the in-\ncrease in the country's Muslim\npopulation was not due to the\nfertility rate but large-scale\ninfiltration.\nShah made these remarks\nwhile delivering the \u2018Narendra\nMohan Memorial Lecture\u2019 on\n\u2018Infiltration, \u00a9 Demographic\nChange, and Democracy\u2019 organ-\n\nUnion Home Minister Amit\nShah delivers the Narendra\nMohan Memorial Lecture in\nNew Delhi, Friday. pri\n\nised by Dainik Jagran.\nReferring to Pakistan,\nBangladesh and Afghanistan, the\nHome Minister said that \u201cthe de-\ncline in the Hindu population in\nthese countries was not due to\nconversion; many of them have\nsought refuge in India\u201d.\n\u201cOn the other hand, the in-\ncrease in the Muslim population\nin Indiais not due to the fertility\nrate but rather due to the large-\nscale infiltration of Muslim indi-\nviduals into the country,\u201d an\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.51369863013699,
+   "ocr_low_conf_share": 0.0547945205479452,
+   "headline": "Increase in Muslim population due to infiltration, says Shah",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, OCTOBER 10",
+   "text": "UNION HOME Minister Amit Shah said on Friday that the increase in the country's Muslim population was not due to the fertility rate but large-scale infiltration. Shah made these remarks while delivering the 'Narendra Mohan Memorial Lecture' on 'Infiltration, \u00a9 Demographic Change, and Democracy' organ-\n\nUnion Home Minister Amit Shah delivers the Narendra Mohan Memorial Lecture in New Delhi, Friday. pri\n\nised by Dainik Jagran. Referring to Pakistan, Bangladesh and Afghanistan, the Home Minister said that \"the decline in the Hindu population in these countries was not due to conversion; many of them have sought refuge in India\". \"On the other hand, the increase in the Muslim population in Indiais not due to the fertility rate but rather due to the large-scale infiltration of Muslim individuals into the country,\" an",
+   "n_words": 130,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2397,
+      761,
+      2687
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      563,
+      2805,
+      737,
+      3001
+     ],
+     [
+      321,
+      3084,
+      672,
+      3154
+     ],
+     [
+      317,
+      3203,
+      763,
+      4299
+     ]
+    ],
+    "layout_words": 149
+   },
+   "headline_raw": "In Singapore,\npolice probing\nZubeen death as\n\u2018coroner\u2019s case\u2019",
+   "deck_raw": "",
+   "body_raw": "Singer died\nduring an\nouting in\nSingapore\non Sept 19\n\nSUKRITA BARUAH\nGUWAHATI, OCTOBER 10\n\nA\u201cCORONER\u2019S CASE\u201d into the\ndeath of Zubeen Gargis being un-\ndertaken in Singapore, where the\nsuperstar died duringa yacht out-\ning on September 19, The Indian\nExpress has learnt. Acoroner\u2019s in-\nquiry typically follows when a\ndeath is suspected to be caused\nby \u201cunlawful act or omission\u201d,\nwhere the cause is unknown, or\nwhere the circumstances sur-\nrounding it are suspicious.\nGarg, 52, was in the country\nas a cultural brand ambassador\nfor the North East India Festival,\nSingapore, scheduled for\nSeptember 20-21. On September\n19, he went ona yacht outing re-\nportedly with some members of\nthe Assam Association Singapore,\nand lost consciousness while\nswimming.\nHe was declared dead when\nhe was taken to Singapore\nGeneral Hospital, and the death\ncertificate issued by Singapore\nauthorities states that the cause\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.02684563758389,
+   "ocr_low_conf_share": 0.04697986577181208,
+   "headline": "In Singapore, police probing Zubeen death as 'coroner's case'",
+   "deck": "",
+   "byline": "SUKRITA BARUAH; GUWAHATI, OCTOBER 10",
+   "text": "Singer died during an outing in Singapore on Sept 19\n\nA\"CORONER'S CASE\" into the death of Zubeen Gargis being undertaken in Singapore, where the superstar died duringa yacht outing on September 19, The Indian Express has learnt. Acoroner's inquiry typically follows when a death is suspected to be caused by \"unlawful act or omission\", where the cause is unknown, or where the circumstances surrounding it are suspicious. Garg, 52, was in the country as a cultural brand ambassador for the North East India Festival, Singapore, scheduled for September 20-21. On September 19, he went ona yacht outing reportedly with some members of the Assam Association Singapore, and lost consciousness while swimming. He was declared dead when he was taken to Singapore General Hospital, and the death certificate issued by Singapore authorities states that the cause",
+   "n_words": 135,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      3284,
+      1817,
+      3352
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      3400,
+      2206,
+      3476
+     ]
+    ],
+    "layout_words": 24
+   },
+   "headline_raw": "GAZA TRUCE TAKES EFFECT",
+   "deck_raw": "",
+   "body_raw": "Displaced Palestinians on their way to their homes in northern Gaza after a ceasefire between\nIsrael and Hamas went into effect on Friday. Reuters RELATED REPORT, PAGE 1.",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "GAZA TRUCE TAKES EFFECT",
+   "deck": "",
+   "byline": "",
+   "text": "Displaced Palestinians on their way to their homes in northern Gaza after a ceasefire between Israel and Hamas went into effect on Friday. Reuters RELATED REPORT, PAGE 1.",
+   "n_words": 28,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3583,
+      2184,
+      3801
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      3876,
+      1121,
+      3946
+     ],
+     [
+      807,
+      3996,
+      1249,
+      4299
+     ],
+     [
+      1297,
+      3837,
+      1738,
+      4303
+     ],
+     [
+      1297,
+      4589,
+      1739,
+      5091
+     ],
+     [
+      1784,
+      3838,
+      2226,
+      4300
+     ]
+    ],
+    "layout_words": 229
+   },
+   "headline_raw": "SP Group wants Tata Sons listed,\nunderlines transparency, legacy",
+   "deck_raw": "",
+   "body_raw": "GEORGE MATHEW\nMUMBAI, OCTOBER 10\n\nTHE SHAPOOR]I Pallonji (SP)\nGroup, which isa key stakeholder\nin Tata Sons, has demanded the\npublic listing of the Tata Group's\ninfluential holding company \u2014a\nmove that comes amidst an on-\ngoing dispute between two fac-\ntions within Tata Trusts.\n\nIna statement Friday, the SP\nGroup said listing Tata Sons was\nnot merely afinancial reform but\na \u201cmoral\u201d obligation. It described\nsuch amove asa step that would\nrevive founder Jamsetji Tata\u2019s vi-\nsion of transparency and restore\nfaith among stakeholders, em-\nployees, investors and the public.\n\u201cThe SP Group has consis-\ntently advocated the listing of Tata\nSons,\u201d it said in the statement.\n\nMinister and Secretaries helm-\ning ministries and departments\nin the Central Government.\nThree days later, on October 9,\nCabinet Secretary Dr TV Soman-\nathan wrote to the Secretaries, ask-\ning them to \u201cinitiate action\u201d on\nthese points, itis leamt\nAccording to sources,\nSomanathan told the top officials\nto promote an \u201cecosystem\u201d for\nthe indigenous development of\nCONTINUED ON PAGE 2\n\n\u201cThe public listing of Tata\nSons is not merely a financial step\n\u2014 it is a moral and social imper-\native. A transparent and publicly\naccountable Tata Sons would\npave the way fora robust and eq-\nuitable dividend policy, thereby\nensuring sustained inflowstothe\nTrusts,\u201d the SP Group said.\n\u201cOur stance is guided\nby a simple yet profound\nCONTINUED ONPAGE 2",
+   "ocr_conf": 90.22368421052632,
+   "ocr_low_conf_share": 0.02631578947368421,
+   "headline": "SP Group wants Tata Sons listed, underlines transparency, legacy",
+   "deck": "",
+   "byline": "GEORGE MATHEW; MUMBAI, OCTOBER 10",
+   "text": "THE SHAPOOR]I Pallonji (SP) Group, which isa key stakeholder in Tata Sons, has demanded the public listing of the Tata Group's influential holding company - a move that comes amidst an ongoing dispute between two factions within Tata Trusts.\n\nIna statement Friday, the SP Group said listing Tata Sons was not merely afinancial reform but a \"moral\" obligation. It described such amove asa step that would revive founder Jamsetji Tata's vision of transparency and restore faith among stakeholders, employees, investors and the public. \"The SP Group has consistently advocated the listing of Tata Sons,\" it said in the statement.\n\nMinister and Secretaries helming ministries and departments in the Central Government. Three days later, on October 9, Cabinet Secretary Dr TV Somanathan wrote to the Secretaries, asking them to \"initiate action\" on these points, itis leamt According to sources, Somanathan told the top officials to promote an \"ecosystem\" for the indigenous development of\n\n\"The public listing of Tata Sons is not merely a financial step - it is a moral and social imperative. A transparent and publicly accountable Tata Sons would pave the way fora robust and equitable dividend policy, thereby ensuring sustained inflowstothe Trusts,\" the SP Group said. \"Our stance is guided by a simple yet profound",
+   "n_words": 207,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4376,
+      1728,
+      4610
+     ],
+     [
+      320,
+      4590,
+      690,
+      4655
+     ],
+     [
+      806,
+      4592,
+      1246,
+      4852
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4669,
+      670,
+      4697
+     ],
+     [
+      319,
+      4748,
+      760,
+      5097
+     ],
+     [
+      808,
+      4786,
+      1195,
+      4820
+     ],
+     [
+      807,
+      4905,
+      1248,
+      5090
+     ]
+    ],
+    "layout_words": 73
+   },
+   "headline_raw": "After PM meet, message to Secys: Push\nhomegrown social media platforms\nz : nh Ce ee lee | Minister and Secretaries helm-\nHARIKISHAN SHARMA\nPaes |\nGPM 2 CabSecyTV\n\u00b0 PAY Somanathan\n<a-<; | wroteto top\n~ 7, ey. officialson\nP .. October9\nass ore",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, OCTOBER 10\n\nPROMOTING \u201cINDIGENOUS de-\nvelopment\u2019 of digital and social\nmedia platforms was one of the\nkey \u201caction\u201d points that emerged\nfrom an interaction between\nPrime Minister Narendra Modi\nand the Government's top bu-\nreaucrats earlier this week, The\nIndian Express has learnt.\n\noe, Ce October9\n\nSources told this newspaper\nthat the directive was among \u201c28\npoints\u201d that resulted from the\nmeeting held in Delhi on\nOctober 6 between the Prime",
+   "ocr_conf": 90.84931506849315,
+   "ocr_low_conf_share": 0.0684931506849315,
+   "headline": "After PM meet, message to Secys: Push homegrown social media platforms z: nh Ce ee lee Minister and Secretaries helm-HARIKISHAN SHARMA Paes GPM 2 CabSecyTV \u00b0 PAY Somanathan <a-<; wroteto top ~ 7, ey. officialson P.. October9 ass ore",
+   "deck": "",
+   "byline": "NEW DELHI, OCTOBER 10",
+   "text": "PROMOTING \"INDIGENOUS development' of digital and social media platforms was one of the key \"action\" points that emerged from an interaction between Prime Minister Narendra Modi and the Government's top bureaucrats earlier this week, The Indian Express has learnt.\n\noe, Ce October9\n\nSources told this newspaper that the directive was among \"28 points\" that resulted from the meeting held in Delhi on October 6 between the Prime",
+   "n_words": 67,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4378,
+      2200,
+      4434
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4728,
+      2217,
+      4898
+     ],
+     [
+      1786,
+      4933,
+      2200,
+      5061
+     ]
+    ],
+    "layout_words": 22
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "\u2018THEIR GOVT\u2019 VS \u2018OUR\nGOVT\u2019: SPARKS FLY\nIN TOP COURT OVER\nJ&K STATEHOOD\n\nPANEL FOR GREEN\nNOD TO SAWALKOTE\nPROJECT paces 3,5",
+   "ocr_conf": 90.45454545454545,
+   "ocr_low_conf_share": 0.045454545454545456,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "'THEIR GOVT' VS 'OUR; GOVT': SPARKS FLY; IN TOP COURT OVER; J&K STATEHOOD; PANEL FOR GREEN; NOD TO SAWALKOTE",
+   "text": "PROJECT paces 3,5",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      5224,
+      2160,
+      5462
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5545,
+      501,
+      5577
+     ],
+     [
+      318,
+      5696,
+      663,
+      5843
+     ],
+     [
+      318,
+      5895,
+      760,
+      6166
+     ],
+     [
+      1782,
+      5500,
+      2226,
+      6160
+     ]
+    ],
+    "layout_words": 132
+   },
+   "headline_raw": "\u2018Stood for downtrodden\u2019: Haryana IPS\nofficer\u2019s family, friends demand justice",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nNIKHILAHENRY\n& RAAKHI JAGGA\nHYDERABAD, LUDHIANA,\nOCTOBER 10\n\nAT HIS Chandigarh house, next\nto a garlanded photograph of 52-\nyear-old YPuran Kumar, a2001-\nbatch IPS officer from the\nHaryanacadre, was another por-\ntrait \u2014 that of Dr BR Ambedkar.\nThis is how his family and\n\nfriends wanted to bid farewell to\nPuran, whobelonged to the Mala\ncommunity, a Scheduled Caste,\n\u201csince his Dalit identity was the\nessence of his existence for the\npast many decades\u201d.\nPuran was found dead witha\ngunshot woundathis Chandigarh\nresidence on Tuesday. A batch-\nmate who was present at his\nhouse on Friday said, \u201cI cannot be-\nlieve that he is gone. What has\nhappened is unfortunate.\u201d\nWhen the news of Puran\u2019s\ndeath broke, his wife, Amneet P\nKumar, a 2001 -batch IAS officer,\nCONTINUEDON PAGE 2",
+   "ocr_conf": 87.63636363636364,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "'Stood for downtrodden': Haryana IPS officer's family, friends demand justice",
+   "deck": "",
+   "byline": "ANCHOR; NIKHILAHENRY; & RAAKHI JAGGA; HYDERABAD, LUDHIANA,; OCTOBER 10",
+   "text": "AT HIS Chandigarh house, next to a garlanded photograph of 52- year-old YPuran Kumar, a2001- batch IPS officer from the Haryanacadre, was another portrait - that of Dr BR Ambedkar. This is how his family and\n\nfriends wanted to bid farewell to Puran, whobelonged to the Mala community, a Scheduled Caste, \"since his Dalit identity was the essence of his existence for the past many decades\". Puran was found dead witha gunshot woundathis Chandigarh residence on Tuesday. A batch-mate who was present at his house on Friday said, \"I cannot believe that he is gone. What has happened is unfortunate.\" When the news of Puran's death broke, his wife, Amneet P Kumar, a 2001 -batch IAS officer, CONTINUEDON PAGE 2",
+   "n_words": 120,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 15.2,
+ "flags": []
+}

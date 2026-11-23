@@ -1,0 +1,732 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_15_front",
+ "source_file": "2025-11-15_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-15_front.png",
+ "date": "2025-11-15",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 14,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 280,
+  "mean_line_conf": 87.17169957085399,
+  "orphan_words": 53,
+  "body_words_total": 939
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4180,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1225,
+      941,
+      2058,
+      1057
+     ],
+     [
+      1222,
+      1026,
+      1956,
+      1220
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1361,
+      1260,
+      1632,
+      1306
+     ],
+     [
+      2047,
+      1374,
+      2741,
+      1426
+     ]
+    ],
+    "body_boxes": [
+     [
+      1777,
+      1158,
+      2056,
+      1193
+     ],
+     [
+      1362,
+      1381,
+      2015,
+      1417
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "|e PARTY WISE SEAISIN 2025 |\nB: Rip nil | iDroarn, WARAre, BIAA CIN Inf\na BJP = =JDU LIP) HAMis) RLM = RJD\nBSeo-8 4 925\nmug 89 885 Big\u00bb\n, 415 442 418 ai 44 ~v50",
+   "deck_raw": "Vote Share (in %)\n-RLM1.0% | RID:23.0% AIMIM:1.9% ! -CPIMLjL2.8%",
+   "body_raw": "a4 v50 vi\n\nBIP:201%~~' - JDU:19.3%\u2014!- LIP(Ry): 5.0% ~~!",
+   "ocr_conf": 41.0,
+   "ocr_low_conf_share": 0.6666666666666666,
+   "headline": "e PARTY WISE SEAISIN 2025 B: Rip nil iDroarn, WARAre, BIAA CIN Inf a BJP = =JDU LIP) HAMis) RLM = RJD, 415 442 418 ai 44 ~v50",
+   "deck": "Vote Share (in %) -RLM1.0% RID:23.0% AIMIM:1.9%! -CPIMLjL2.8%",
+   "byline": "BIP:201%~~' - JDU:19.3% - !- LIP(Ry): 5.0% ~~!",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      339,
+      1025,
+      382,
+      1056
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ND",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "ND",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2116,
+      1048,
+      2340,
+      1076
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "AIMIM = CPIwtyL",
+   "ocr_conf": 40.666666666666664,
+   "ocr_low_conf_share": 0.6666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "AIMIM = CPIwtyL",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2388,
+      1048,
+      2716,
+      1076
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "CPlim) BSP lip",
+   "ocr_conf": 59.0,
+   "ocr_low_conf_share": 0.6666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "CPlim) BSP lip",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2257,
+      1278,
+      2605,
+      1319
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "INC: 8.7% \u2014> CP lim) 0.6% ~;",
+   "ocr_conf": 40.857142857142854,
+   "ocr_low_conf_share": 0.5714285714285714,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "INC: 8.7% - > CP lim) 0.6% ~;",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      2010,
+      1232,
+      2347
+     ],
+     [
+      323,
+      2354,
+      1247,
+      2517
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      324,
+      2499,
+      623,
+      2627
+     ],
+     [
+      325,
+      2663,
+      769,
+      2896
+     ]
+    ],
+    "layout_words": 39
+   },
+   "headline_raw": "Bihar Opp shrinks to\nlowest in 15 yrs; PM\nSays massive victory\nclears way for Bengal",
+   "deck_raw": "",
+   "body_raw": "Santosh Singh\n& Himanshu Harsh\nPa tna, November14\n\nINA historicand decisive man-\ndate paving the way for Nitish\nKumar\u2019s tenth term as Chief\nMinister, Bihar returned the\nruling NDA to power in a land-\nslide Friday in the Assembly",
+   "ocr_conf": 93.17948717948718,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Bihar Opp shrinks to lowest in 15 yrs; PM Says massive victory clears way for Bengal",
+   "deck": "",
+   "byline": "",
+   "text": "Santosh Singh & Himanshu Harsh Pa tna, November14\n\nINA historicand decisive mandate paving the way for Nitish Kumar's tenth term as Chief Minister, Bihar returned the ruling NDA to power in a landslide Friday in the Assembly",
+   "n_words": 37,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2014,
+      4177,
+      2326
+     ],
+     [
+      3250,
+      2379,
+      4157,
+      2582
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2622,
+      3608,
+      2696
+     ],
+     [
+      3738,
+      2626,
+      4181,
+      3015
+     ],
+     [
+      3249,
+      2744,
+      4181,
+      3136
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "Why Rs 10,000, mahila\nvote don\u2019t tell the full\nstory of this victory\nVoters\u2019 refrain: Tejashwi for caste and\nfamily, PK for \u2018bhashan\u2019, and \u2018kaam\u2019\nwas associated only with Nitish",
+   "deck_raw": "",
+   "body_raw": "Vandita Mishra\nNew Delhi, November 14\n\nthe bureaucrat), the wayward\npolicyof prohibition, or most of\nall, the missing \u201cfactory\u201d re-\nsponsible for the unstanched\n\u201cpalayan\u201d or migration from\nthe state, voters said\nj they wanted better and\n\" more\u2014fromnine-time\nChief Minister Nitish\nKumar, not from his\n\nTHE STRONG \u201cbadlav\u201d or sponsible for the unstanched\nchange vote that madeitself \u201cpalayan\u201d or migration from\nseen and heard on the the state, voters said\nBihar ground in this they wanted better and\nelection campaign was more\u2014fromnine-time\naddressed overwhel- Chief Minister Nitish\nmingly to the 20-year- Kumar, not from his\nold incumbent. Be it on challengers.\ncorruption or price rise, unem- To understand the why of\nployment or afsarshahi (rule of \u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 89.44628099173553,
+   "ocr_low_conf_share": 0.05785123966942149,
+   "headline": "Why Rs 10,000, mahila vote don't tell the full story of this victory Voters' refrain: Tejashwi for caste and family, PK for 'bhashan', and 'kaam' was associated only with Nitish",
+   "deck": "",
+   "byline": "",
+   "text": "Vandita Mishra New Delhi, November 14\n\nthe bureaucrat), the wayward policyof prohibition, or most of all, the missing \"factory\" responsible for the unstanched \"palayan\" or migration from the state, voters said j they wanted better and \" more - fromnine-time Chief Minister Nitish Kumar, not from his\n\nTHE STRONG \"badlav\" or sponsible for the unstanched change vote that madeitself \"palayan\" or migration from seen and heard on the the state, voters said Bihar ground in this they wanted better and election campaign was more - fromnine-time addressed overwhel- Chief Minister Nitish mingly to the 20-year- Kumar, not from his old incumbent. Be it on challengers. corruption or price rise, unem- To understand the why of",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      856,
+      2501,
+      1216,
+      2586
+     ],
+     [
+      823,
+      2689,
+      1118,
+      2771
+     ]
+    ],
+    "deck_boxes": [
+     [
+      325,
+      2897,
+      765,
+      2950
+     ]
+    ],
+    "body_boxes": [
+     [
+      324,
+      2981,
+      768,
+      3764
+     ],
+     [
+      325,
+      3777,
+      764,
+      3891
+     ],
+     [
+      931,
+      2597,
+      1134,
+      2633
+     ],
+     [
+      823,
+      2693,
+      1193,
+      2726
+     ],
+     [
+      1022,
+      3291,
+      1187,
+      3322
+     ]
+    ],
+    "layout_words": 117
+   },
+   "headline_raw": "Business as Usual\nMove than SIR, per!\nmadam after deli",
+   "deck_raw": "elections, decimating the Op-\nmncitinn hdahononarhhandndhan",
+   "body_raw": "and strengthening the hands of\nthe BJP at the Centre ahead of\nelectoral battles in some key\nStates going to polls next year.\nWith the NDA crossing the\n200-mark ina House of 243, the\nmandate appeared to besimilar\nto the one in 2010 when the\nJD(U)-BJP alliance was swept\nback to power with 206 seats\nand Nitish became Chief Min-\nister for a third term.\nForthe Mahagathbandhan,\ncomprising the RJD, Congress\nand three Left parties, this was\nactushing defeat, shrinkingthe\nOpposition space inthe House\nconsiderably. Until late night,\nits tally was hovering around\n35 seats.\n\nHailing the \u201cprachand jeet\u201d\n(massive victory) of the NDA\nand invoking \u201cChhathi Maiya\u201d,\n\nBy EPUNNY\n\nMore than SIR, pevhabs it Was\n\nDECISION",
+   "ocr_conf": 90.35042735042735,
+   "ocr_low_conf_share": 0.02564102564102564,
+   "headline": "Business as Usual Move than SIR, per! madam after deli",
+   "deck": "elections, decimating the Opmncitinn hdahononarhhandndhan",
+   "byline": "",
+   "text": "and strengthening the hands of the BJP at the Centre ahead of electoral battles in some key States going to polls next year. With the NDA crossing the 200-mark ina House of 243, the mandate appeared to besimilar to the one in 2010 when the JD(U)-BJP alliance was swept back to power with 206 seats and Nitish became Chief Minister for a third term. Forthe Mahagathbandhan, comprising the RJD, Congress and three Left parties, this was actushing defeat, shrinkingthe Opposition space inthe House considerably. Until late night, its tally was hovering around 35 seats.\n\nHailing the \"prachand jeet\" (massive victory) of the NDA and invoking \"Chhathi Maiya\",\n\nBy EPUNNY\n\nMore than SIR, pevhabs it Was\n\nDECISION",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3199,
+      2179,
+      3412
+     ],
+     [
+      1297,
+      3418,
+      2143,
+      3589
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      3575,
+      1660,
+      3649
+     ],
+     [
+      1298,
+      3699,
+      1738,
+      4211
+     ],
+     [
+      1785,
+      4097,
+      2224,
+      4204
+     ]
+    ],
+    "layout_words": 82
+   },
+   "headline_raw": "Why Chirag and his\nparty stand out amid\nNDA sweep in Bihar",
+   "deck_raw": "",
+   "body_raw": "Deeptiman Tiwary\nNew Delhi, November 14\n\nTHE BIHAR Assembly polls\nhave turned out to be a wave\nelection \u2014 the kind that sweeps\nup not just the frontliners but\nalso the smallest boats in its\ncurrent. From Jitan Ram\nManjhi\u2019s Hindustani Awam\nMorcha (Secular) to Upendra\nKushwaha\u2019s Rashtriya Lok\nMorcha (RLM), arangeofNDA\nallies are riding the momen-\ntum. But, perhaps no oneis rid-\ning it as spectacularly \u2014 or as\n\nconsequentially \u2014 as Chirag\nPaswan and his Lok Janshakti\n\u00bbCONTINUED ONPAGE 2",
+   "ocr_conf": 90.26829268292683,
+   "ocr_low_conf_share": 0.04878048780487805,
+   "headline": "Why Chirag and his party stand out amid NDA sweep in Bihar",
+   "deck": "",
+   "byline": "",
+   "text": "Deeptiman Tiwary New Delhi, November 14\n\nTHE BIHAR Assembly polls have turned out to be a wave election - the kind that sweeps up not just the frontliners but also the smallest boats in its current. From Jitan Ram Manjhi's Hindustani Awam Morcha (Secular) to Upendra Kushwaha's Rashtriya Lok Morcha (RLM), arangeofNDA allies are riding the momentum. But, perhaps no oneis riding it as spectacularly - or as\n\nconsequentially - as Chirag Paswan and his Lok Janshakti \u00bbCONTINUED ONPAGE 2",
+   "n_words": 80,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      848,
+      3513,
+      1215,
+      3543
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "REPORTS, PAGES 4, 6,7",
+   "ocr_conf": 95.75,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "REPORTS, PAGES 4, 6,7",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      812,
+      3618,
+      1252,
+      3885
+     ]
+    ],
+    "layout_words": 31,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Prime Minister Narendra Modi,\naddressing BJP workers at the\nparty headquarters in New\nDelhi, said Bihar had voted for\ndevelopment and progress and\nhad destroyed the \u201ccommunal\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 95.53333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Prime Minister Narendra Modi, addressing BJP workers at the party headquarters in New Delhi, said Bihar had voted for development and progress and had destroyed the \"communal \u00bbCONTINUEDON PAGE 2",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      3964,
+      1243,
+      4288
+     ]
+    ],
+    "deck_boxes": [
+     [
+      317,
+      4410,
+      509,
+      4462
+     ]
+    ],
+    "body_boxes": [
+     [
+      317,
+      4331,
+      732,
+      4406
+     ],
+     [
+      313,
+      4494,
+      760,
+      5164
+     ],
+     [
+      804,
+      4836,
+      1246,
+      5158
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "Behind collapse: RJD\n\u2018weak narrative\u2019, Opp\nfailure to expand base",
+   "deck_raw": "November 14",
+   "body_raw": "Santosh Singh & Manoj CG\nPatna, New Delhi,\n\nFive years after falling just 12\nseats short ofa simple majority\nin Bihar, the Opposition Maha-\ngathbandhan was at the re-\nceiving end of an NDA sweep,\nwith its two biggest consti-\ntuents, the RJD and the Con-\ngress, collapsing spectacularly.\nWhile the RJD, the single-lar-\ngest party, was on course to\nend up with only 25 seats,\ndown from 75 in 2020, the\nCongress was struggling to\nreach double digits.\nThe RJD and its leader Te-\njashwi Yadav did not dotoo well\nbecause of multiple factors:\n\nWeak \u2018laabharthi\u2019\nnarrative\nIn the run-up to the polls,\nTejashwi Yadav raised ques-\ntions about Chief Minister Nit-\nish Kumar\u2019s health, saying the\nNDA government was in an\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 93.48412698412699,
+   "ocr_low_conf_share": 0.015873015873015872,
+   "headline": "Behind collapse: RJD 'weak narrative', Opp failure to expand base",
+   "deck": "November 14",
+   "byline": "",
+   "text": "Santosh Singh & Manoj CG Patna, New Delhi,\n\nFive years after falling just 12 seats short ofa simple majority in Bihar, the Opposition Mahagathbandhan was at the receiving end of an NDA sweep, with its two biggest constituents, the RJD and the Congress, collapsing spectacularly. While the RJD, the single-largest party, was on course to end up with only 25 seats, down from 75 in 2020, the Congress was struggling to reach double digits. The RJD and its leader Tejashwi Yadav did not dotoo well because of multiple factors:\n\nWeak 'laabharthi' narrative In the run-up to the polls, Tejashwi Yadav raised questions about Chief Minister Nitish Kumar's health, saying the NDA government was in an",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      4273,
+      2207,
+      4584
+     ],
+     [
+      1296,
+      4642,
+      1735,
+      4832
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      4890,
+      1654,
+      4963
+     ],
+     [
+      1296,
+      5013,
+      1737,
+      5165
+     ],
+     [
+      1783,
+      4614,
+      2224,
+      5159
+     ]
+    ],
+    "layout_words": 91
+   },
+   "headline_raw": "Glimmer of 2024 gone,\nafter 4th loss, disquiet\nin Opp on what next\nRespect mandate,\nsays Kharge; polls\nunfair: Rahul",
+   "deck_raw": "",
+   "body_raw": "ManojC G\nNew Delhi, November 14\n\nITS VOTE chori campaign may\nhave found little resonance in\nthe campaign but the Congress\nFriday, down to sixseatsin Bihar\n\nfrom 19 \u2014 its ally RJD with 25\nseats at its lowest in 15 years \u2014\ninvoked it again, thistime to ex-\nplain the NDA landslide.\nHowever, reflecting the dis-\nquiet within, different leaders\nsent out divergent messages.\nAICC communications\nhead Jairam Ramesh said the\nresults show \u201cvote chorion agi-\ngantic scale\u201d but Congress\npresident Mallikarjun Kharge\nsteered clear of making any\nsCONTINUED ON PAGE2",
+   "ocr_conf": 89.49450549450549,
+   "ocr_low_conf_share": 0.04395604395604396,
+   "headline": "Glimmer of 2024 gone, after 4th loss, disquiet in Opp on what next Respect mandate, says Kharge; polls unfair: Rahul",
+   "deck": "",
+   "byline": "",
+   "text": "ManojC G New Delhi, November 14\n\nITS VOTE chori campaign may have found little resonance in the campaign but the Congress Friday, down to sixseatsin Bihar\n\nfrom 19 - its ally RJD with 25 seats at its lowest in 15 years - invoked it again, thistime to explain the NDA landslide. However, reflecting the disquiet within, different leaders sent out divergent messages. AICC communications head Jairam Ramesh said the results show \"vote chorion agigantic scale\" but Congress president Mallikarjun Kharge steered clear of making any sCONTINUED ON PAGE2",
+   "n_words": 88,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      353,
+      5276,
+      728,
+      5438
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5489,
+      732,
+      5840
+     ],
+     [
+      318,
+      5888,
+      737,
+      6201
+     ]
+    ],
+    "layout_words": 62
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@ PRIME MINISTER Narendra\nModi will visit the under-con-\nstruction bullet train station in\nSurat , Gujarat, to review the\nprogress of the Mumbai-\nAhmedabad High-Speed\nRail Corridor, one of India\u2019s\nmost ambitious infrastructure\nprojects.\n\n@ JHARKHAND TURNS 25:\nChief Minister Hemant\nSoren and Governor\nSantosh Gangwar will lead\ncelebrations in the state,\nwhich will include \u2018Jatra\u2019\nprocessions, cultural\nprogrammes and exhibitions.",
+   "ocr_conf": 83.04838709677419,
+   "ocr_low_conf_share": 0.14516129032258066,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "@ JHARKHAND TURNS 25:",
+   "text": "@ PRIME MINISTER Narendra Modi will visit the under-construction bullet train station in Surat, Gujarat, to review the progress of the Mumbai-Ahmedabad High-Speed Rail Corridor, one of India's most ambitious infrastructure projects.\n\nChief Minister Hemant Soren and Governor Santosh Gangwar will lead celebrations in the state, which will include 'Jatra' processions, cultural programmes and exhibitions.",
+   "n_words": 55,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      5341,
+      2185,
+      5542
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      5278,
+      1907,
+      5310
+     ]
+    ],
+    "body_boxes": [
+     [
+      806,
+      5565,
+      1114,
+      5643
+     ],
+     [
+      807,
+      5570,
+      1736,
+      6195
+     ],
+     [
+      807,
+      5690,
+      1248,
+      5994
+     ],
+     [
+      1296,
+      6048,
+      1736,
+      6202
+     ],
+     [
+      1783,
+      5570,
+      2223,
+      5796
+     ],
+     [
+      1783,
+      5809,
+      2224,
+      6196
+     ]
+    ],
+    "layout_words": 195
+   },
+   "headline_raw": "Cong\u2019s Bhaya wins Anta, defeats\nBJP\u2019s Suman; rebel Meena third",
+   "deck_raw": "@ WHAT IT MEANS FOR KEY PLAYERS \u2014 GEHLOT TO RAJE AND CM",
+   "body_raw": "Hamza Khan\nJaipur, November 14\n\nHamza Khan with 53,800 votes.\nJaipur, November 14 Bhaya gained from being a\nlocal heavyweight with a long\nTHE CONGRESS\u2019S Pramod __ political career, which included\nJain Bhaya won the Anta as- being an MLA three times, in-\nsembly seat in Rajasthan's cluding as a cabinet minister,\nBaran district, fighting offa and from beingcloseto former\nchallenge from the BJP\u2019s Mor- chief minister Ashok Gehlot.\npal Suman and a BJP perhaps\nthreat from party PAGE1 could not overcome\nrebelNareshMeena. ) ANChOrL ( _ factionalismorMor-\nBhaya won with pal Suman\u2019slowpro-\n69,571 votes anda margin of _ file \u2014 despite campaigning by\n15,612 votes over BJP\u2019s Suman, CM Bhajan Lal Sharma and\nwho received 53,959 votes. former CM Vasundhara Raje\u2014\nRebel Meenastoodaclosethird in ahigh-profile contest. With\n\nTHE CONGRESS\u2019S Pramod\nJain Bhaya won the Anta as-\nsembly seat in Rajasthan\u2019s\nBaran district, fighting offa\nchallenge from the BJP\u2019s Mor-\npal Suman and a\nthreat from party PA\nrebelNareshMeena. ) alle\n\nfile \u2014 despite campaigning by\nCM Bhajan Lal Sharma and\nformer CM Vasundhara Raje \u2014\nin ahigh-profile contest. With\n\nMeena and Bhaya occupying\nthe headlines, Suman\u2019s cam-\npaign could not outpace the\nmomentum for Bhaya, partly\ndue to division within local\nleaders.\n\nNaresh Meena was third-\ntime unlucky, having rebelled\nfrom the Congress for three\nconsecutive years\u2014 and losing\neach time. He gained from sa-\ntraps, Lok Sabha MP Hanuman\nBeniwal and former minister\nRajendra Gudha, as well as the\nmoral support by Aam Aadmi\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 87.23293172690764,
+   "ocr_low_conf_share": 0.08433734939759036,
+   "headline": "Cong's Bhaya wins Anta, defeats BJP's Suman; rebel Meena third",
+   "deck": "@ WHAT IT MEANS FOR KEY PLAYERS - GEHLOT TO RAJE AND CM",
+   "byline": "",
+   "text": "Hamza Khan Jaipur, November 14\n\nHamza Khan with 53,800 votes. Jaipur, November 14 Bhaya gained from being a local heavyweight with a long THE CONGRESS'S Pramod __ political career, which included Jain Bhaya won the Anta as- being an MLA three times, insembly seat in Rajasthan's cluding as a cabinet minister, Baran district, fighting offa and from beingcloseto former challenge from the BJP's Mor- chief minister Ashok Gehlot. pal Suman and a BJP perhaps threat from party PAGE1 could not overcome rebelNareshMeena. ) ANChOrL ( _ factionalismorMor-Bhaya won with pal Suman'slowpro- 69,571 votes anda margin of _ file - despite campaigning by 15,612 votes over BJP's Suman, CM Bhajan Lal Sharma and who received 53,959 votes. former CM Vasundhara Raje - Rebel Meenastoodaclosethird in ahigh-profile contest. With\n\nTHE CONGRESS'S Pramod Jain Bhaya won the Anta assembly seat in Rajasthan's Baran district, fighting offa challenge from the BJP's Morpal Suman and a threat from party PA rebelNareshMeena. ) alle\n\nfile - despite campaigning by CM Bhajan Lal Sharma and former CM Vasundhara Raje - in ahigh-profile contest. With\n\nMeena and Bhaya occupying the headlines, Suman's campaign could not outpace the momentum for Bhaya, partly due to division within local leaders.\n\nNaresh Meena was third-time unlucky, having rebelled from the Congress for three consecutive years - and losing each time. He gained from satraps, Lok Sabha MP Hanuman Beniwal and former minister Rajendra Gudha, as well as the moral support by Aam Aadmi",
+   "n_words": 241,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 13.5,
+ "flags": []
+}

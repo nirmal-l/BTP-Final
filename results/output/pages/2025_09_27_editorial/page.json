@@ -1,0 +1,600 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_27_editorial",
+ "source_file": "2025-09-27_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-27_editorial.png",
+ "date": "2025-09-27",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 507,
+  "n_lines": 461,
+  "mean_line_conf": 91.23020978886424,
+  "orphan_words": 909,
+  "body_words_total": 3460
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      372,
+      604,
+      1473,
+      713
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      818,
+      1234,
+      875
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      769,
+      1089,
+      800
+     ],
+     [
+      435,
+      917,
+      1416,
+      960
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 91.88888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2064,
+      597,
+      3741,
+      823
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2252,
+      885,
+      3559,
+      1004
+     ]
+    ],
+    "body_boxes": [
+     [
+      2317,
+      2218,
+      2821,
+      3316
+     ],
+     [
+      2924,
+      1251,
+      3530,
+      2827
+     ],
+     [
+      2924,
+      2836,
+      3528,
+      3305
+     ]
+    ],
+    "layout_words": 418
+   },
+   "headline_raw": "India needs a plan",
+   "deck_raw": "China has said it will not seek \u2018Special and Differential\nTreatment\u2019 at WTO. What does this mean for Delhi?",
+   "body_raw": "If India faces coerced\ngraduation from developing\nstatus, the implications are\ndire. Phased AMS reductions\ncould slash subsidies by 20-\n30 per cent over a decade, per\nAoA timelines, leading toa\n10-15 per cent drop in rural\nincomes and heightened food\nprice volatility. Malnutrition,\naffecting 35 per cent of\nchildren under five, might\nworsen, undermining the\nNational Food Security Act.\nRecent WTO disputes, like\nthe 2023 sugar subsidy panel,\nunderscore the vulnerability;\nIndia averted penalties via\nSDT, but future plurilaterals\n\u2014 such as on e-commerce\nor fisheries \u2014 may\ndemand reciprocity.\n\nreported Aggregate Measurement of Support\n(AMS), often exceeding the 10 per cent\nthreshold \u2014 drawing fire from theUS and the\nCairns Group for alleged market distortion.\nDeveloped nations, doling out $850 bil-\nlion in global farm subsidies in 2023 (per\nOECDestimates), hypocritically target India's\nprogrammes while protecting their own\nthrough Green Box loopholes for research\nand environmental aid.\nIf India faces coerced graduation from de-\nveloping status, the implications are dire.\nPhased AMS reductions could slash subsi-\ndies by 20-30 per cent over a decade, per AoA\ntimelines, leading toa 10-15 percentdropin\nrural incomes and heightened food price\nvolatility. Malnutrition, affecting 35 per cent\nof children under five, might worsen, under-\nmining the National Food Security Act.\nRecent WTO disputes, like the 2023 sugar\nsubsidy panel, underscore these points; India\naverted penalties via SDT, but future pluri-\nlaterals may demand reciprocity.\nIndia's services dominance \u2014 55 percent\nof GDP \u2014 offers leverage. Domestically, re-\nforms like DBT (covering 90 per cent of fer-\ntiliser subsidies) can also help. Specifically,\nthe following can help India balance its pri-\norities and ensure a pragmatic pivot.\nOne, agriculture. India should strive to\nlead the G33 coalition toextend the 2013 Bali\nMinisterial\u2019s interim \u201cpeace clause\u201d on pub-\nlic stockhoiding beyond 2023, shielding MSP\nand PDS from WTO disputes until 2030. This\ncan betied todemands for developed nations\nto eliminate export subsidies, as pledged in\n2005 at Hong Kong. It can look to transition\ninput subsidies (for example, fertilisers viadi-\nrect benefit transfers) to Green Box measures\nlikeresearch, extension services, and climate-\n\nresilient crops. This aligns with WTOrules,as\nGreen Box subsidies are exempt from caps,\nand supports India\u2019s 2040 net-zero goals. It\ncan also advocate for updating AoA reference\nprices to reflect current market realities, re-\nducing reported AMS breaches. A 2024\nICRIERstudy suggests this could halve India\u2019s\nNotified subsidy distortions,\nTwo, e-commerce. India should join\nplurilateral e-commerce talks, offering com-\nmitments on consumer protection and\ncross-border data flows (with carve-outs for",
+   "ocr_conf": 92.88995215311004,
+   "ocr_low_conf_share": 0.019138755980861243,
+   "headline": "India needs a plan",
+   "deck": "China has said it will not seek 'Special and Differential Treatment' at WTO. What does this mean for Delhi?",
+   "byline": "",
+   "text": "If India faces coerced graduation from developing status, the implications are dire. Phased AMS reductions could slash subsidies by 20- 30 per cent over a decade, per AoA timelines, leading toa 10-15 per cent drop in rural incomes and heightened food price volatility. Malnutrition, affecting 35 per cent of children under five, might worsen, undermining the National Food Security Act. Recent WTO disputes, like the 2023 sugar subsidy panel, underscore the vulnerability; India averted penalties via SDT, but future plurilaterals - such as on e-commerce or fisheries - may demand reciprocity.\n\nreported Aggregate Measurement of Support (AMS), often exceeding the 10 per cent threshold - drawing fire from theUS and the Cairns Group for alleged market distortion. Developed nations, doling out $850 billion in global farm subsidies in 2023 (per OECDestimates), hypocritically target India's programmes while protecting their own through Green Box loopholes for research and environmental aid. If India faces coerced graduation from developing status, the implications are dire. Phased AMS reductions could slash subsidies by 20-30 per cent over a decade, per AoA timelines, leading toa 10-15 percentdropin rural incomes and heightened food price volatility. Malnutrition, affecting 35 per cent of children under five, might worsen, undermining the National Food Security Act. Recent WTO disputes, like the 2023 sugar subsidy panel, underscore these points; India averted penalties via SDT, but future plurilaterals may demand reciprocity. India's services dominance - 55 percent of GDP - offers leverage. Domestically, reforms like DBT (covering 90 per cent of fertiliser subsidies) can also help. Specifically, the following can help India balance its priorities and ensure a pragmatic pivot. One, agriculture. India should strive to lead the G33 coalition toextend the 2013 Bali Ministerial's interim \"peace clause\" on public stockhoiding beyond 2023, shielding MSP and PDS from WTO disputes until 2030. This can betied todemands for developed nations to eliminate export subsidies, as pledged in 2005 at Hong Kong. It can look to transition input subsidies (for example, fertilisers viadirect benefit transfers) to Green Box measures likeresearch, extension services, and climateresilient crops. This aligns with WTOrules,as Green Box subsidies are exempt from caps, and supports India's 2040 net-zero goals. It can also advocate for updating AoA reference prices to reflect current market realities, reducing reported AMS breaches. A 2024 ICRIERstudy suggests this could halve India's Notified subsidy distortions, Two, e-commerce. India should join plurilateral e-commerce talks, offering commitments on consumer protection and cross-border data flows (with carve-outs for",
+   "n_words": 405,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      605,
+      1088,
+      1249,
+      1190
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1231,
+      1531,
+      3005
+     ]
+    ],
+    "layout_words": 537
+   },
+   "headline_raw": "CUT IT OUT",
+   "deck_raw": "",
+   "body_raw": "One-man show at CBFC, demand for arbitrary cuts threaten\nIndian cinema just as it is growing in global reach and resonance\nBODY MEANT to function as a collegial institution has been reduced toa\n\u201cone-man show\u201d, with no official appointments since 2017, no meetings\nsince 2019, long delays in certification and demands for arbitrary cuts. As\nreported in this newspaper, all is not well at the Central Board of Film\nCertification (CBFC). What should have been a panel of voices and perspectives appears\nto have become a personal fiefdom, with the result that the CBFC may no longer have the\nautonomy and diversity of views required for credible functioning. Instead, authority\nseems to have been centralised in lyricist Prasoon Joshi, whowas appointed chairperson\nof the 12-person body in August 2017, with many within the CBFC questioning the \u201csu-\nper-censorship raj\u201d run by a handful of functionaries selected by the chairperson.\nExacerbating the situation is the question mark hanging over the legal status of the\npresent board \u2014 its tenure was to have ended in 2020 \u2014 and repeated instances of over-\nreach into censorship. Homebound, India\u2019s official selection for the Academy Awards this\nyear and which won a People\u2019s Choice Award at the Toronto International Film Festival\nearlier this month, was reportedly \u201cdestroyed in parts\u201d by the CBFC, which asked for sev-\neral caste references to be cut out. Films in India have long had to contend with a scissor-\nhappy CBFC \u2014 whichis tasked with certifying films for release \u2014 but what makes the cur-\nrent state of affairs worse is the limited scope for redressal. Until 2021, filmmakers could\nappeal to the Film Certification Appellate Tribunal (FCAT) in case they disagreed with the\ncertificate issued by the CBFC or it was denied altogether. This was how, for example, the\n2016 film Lipstick Under My Burkha, which had been denied certification by the CBFC over\nbeing \u201clady-oriented\u201d, finally made it to the theatres with an \u2018A\u2019 certificate. Since the abo-\nlition of FCAT in 2021, however, filmmakers without the resources to approacha high court\n\u2014 now the only forum for redressal \u2014 have had little choice, as the case of several recent\nfilms like Dhadak 2, The Bengal Files and Janaki V. Vs. State of Kerala shows. They can either\ncomply with the CBFC\u2019s demand for arbitrary cuts, or indefinitely delay the release of films\n\u2014 as has happened to Honey Trehan\u2019s film on the life of activist Jaswant Singh Khalra.\nInstitutions matter because they embody processes larger than individuals, They are\nmeant to outlast chairs, governments, and fashions. The diminishing of the CBFC and the\ncapriciousness with which it functions harm Indian cinema at atime when its cultural res-\nonance and global reach have never been greater. From internationaifestivais tostreaming\nplatforms, Indian films are acrucial element of the country\u2019s soft power, as seen when India\nwas chosen as the Country of Honour at the Marche du Cinema at the 2022 Cannes film\nfestival. When a film\u2019s artistic vision is scrubbed and sanitised, it has a chilling effect. And if\nfilmmakers find themseives second-guessing their scripts, trimming theircreative choices,\nor shelving bold ideas for fear of an arbitrary cut or ban, the loss is not merely theirs.",
+   "ocr_conf": 92.59962756052141,
+   "ocr_low_conf_share": 0.01675977653631285,
+   "headline": "CUT IT OUT",
+   "deck": "",
+   "byline": "",
+   "text": "One-man show at CBFC, demand for arbitrary cuts threaten Indian cinema just as it is growing in global reach and resonance BODY MEANT to function as a collegial institution has been reduced toa \"one-man show\", with no official appointments since 2017, no meetings since 2019, long delays in certification and demands for arbitrary cuts. As reported in this newspaper, all is not well at the Central Board of Film Certification (CBFC). What should have been a panel of voices and perspectives appears to have become a personal fiefdom, with the result that the CBFC may no longer have the autonomy and diversity of views required for credible functioning. Instead, authority seems to have been centralised in lyricist Prasoon Joshi, whowas appointed chairperson of the 12-person body in August 2017, with many within the CBFC questioning the \"super-censorship raj\" run by a handful of functionaries selected by the chairperson. Exacerbating the situation is the question mark hanging over the legal status of the present board - its tenure was to have ended in 2020 - and repeated instances of overreach into censorship. Homebound, India's official selection for the Academy Awards this year and which won a People's Choice Award at the Toronto International Film Festival earlier this month, was reportedly \"destroyed in parts\" by the CBFC, which asked for several caste references to be cut out. Films in India have long had to contend with a scissor-happy CBFC - whichis tasked with certifying films for release - but what makes the current state of affairs worse is the limited scope for redressal. Until 2021, filmmakers could appeal to the Film Certification Appellate Tribunal (FCAT) in case they disagreed with the certificate issued by the CBFC or it was denied altogether. This was how, for example, the 2016 film Lipstick Under My Burkha, which had been denied certification by the CBFC over being \"lady-oriented\", finally made it to the theatres with an 'A' certificate. Since the abolition of FCAT in 2021, however, filmmakers without the resources to approacha high court - now the only forum for redressal - have had little choice, as the case of several recent films like Dhadak 2, The Bengal Files and Janaki V. Vs. State of Kerala shows. They can either comply with the CBFC's demand for arbitrary cuts, or indefinitely delay the release of films - as has happened to Honey Trehan's film on the life of activist Jaswant Singh Khalra. Institutions matter because they embody processes larger than individuals, They are meant to outlast chairs, governments, and fashions. The diminishing of the CBFC and the capriciousness with which it functions harm Indian cinema at atime when its cultural resonance and global reach have never been greater. From internationaifestivais tostreaming platforms, Indian films are acrucial element of the country's soft power, as seen when India was chosen as the Country of Honour at the Marche du Cinema at the 2022 Cannes film festival. When a film's artistic vision is scrubbed and sanitised, it has a chilling effect. And if filmmakers find themseives second-guessing their scripts, trimming theircreative choices, or shelving bold ideas for fear of an arbitrary cut or ban, the loss is not merely theirs.",
+   "n_words": 530,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      1088,
+      1884,
+      1123
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1626,
+      1145,
+      2202,
+      1184
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SACHCHIDANAND SHUKLA",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "SACHCHIDANAND SHUKLA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1619,
+      1250,
+      2229,
+      3304
+     ]
+    ],
+    "layout_words": 332,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "In amove that has implications for the corri-\ndors of global trade, China has announced\nduring a UN General Assembly event that it\nwill no longer seek Special and Differential\nTreatment(SDT) in future WTO negotiations.\nThis concession, while preserving China\u2019s\nself-declared developing country status and\nall existing perks such as lenient subsidy caps\nand phased implementation of agreements,\nis a tactical retreat amid escalating US tariff\npressures and long-standing US objections\nto the practice. While the WTO laudeditasa\nbreakthrough for reform, sceptics see it as\nsymbolic window-dressing, allowing China\nto deflect criticism without dismantling its\nagricultural and industrial advantages.\nFor India, this development is a harbin-\nger of intensified scrutiny. President Donald\nTrump has just announced a fresh salvo of\n100 per cent tariffs on branded and patented\npharmaceutical products and also an-\nnounced broader tanffs on furniture, kitchen\ncabinets, and trucks. As one of the largest\neconomies in the world, there already are de-\nmands for India to shed its developing na-\ntion armour. India\u2019s trajectory toward be-\ncoming an even larger economy will only\namplify this pressure.\nYet, this ascent clashes with India\u2019s reliance\nonSDT, acomerstone since its 1995 WTO ac-\ncession. Rooted in the GATT legacy, SDT grants\nflexibilities like higher tariffs and extended\ncompliance periods, essential for shielding\nvulnerable populations in a nation where per\ncapita income ranks 136th globally.\nAt the heart ofthe debate lies agriculture,\nemploying around half of India\u2019s workforce\nand underpinning the food security of 1.4 bil-\nlion people. Under the WTO's Agreement on\nAgriculture (AoA), subsidies are boxed: The\ntrade-distorting Amber Box is capped at 10\nper cent of production value for developing\ncountries, versus 5 per cent for developed\nones. India leverages Article 6.2 exemptions\nfor input subsidies to low-income farmers,\nchannelling over$40 billion annually through\nmechanisms like Minimum Support Prices\n(MSP) for staples such as rice and wheat.\nThese support the Public Distribution System\n(PDS), distributing subsidised grains to 800\nmillion beneficiaries. However, the 1986-88\nreference prices, critics argue, inflate India's",
+   "ocr_conf": 92.18072289156626,
+   "ocr_low_conf_share": 0.030120481927710843,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "In amove that has implications for the corridors of global trade, China has announced during a UN General Assembly event that it will no longer seek Special and Differential Treatment(SDT) in future WTO negotiations. This concession, while preserving China's self-declared developing country status and all existing perks such as lenient subsidy caps and phased implementation of agreements, is a tactical retreat amid escalating US tariff pressures and long-standing US objections to the practice. While the WTO laudeditasa breakthrough for reform, sceptics see it as symbolic window-dressing, allowing China to deflect criticism without dismantling its agricultural and industrial advantages. For India, this development is a harbinger of intensified scrutiny. President Donald Trump has just announced a fresh salvo of 100 per cent tariffs on branded and patented pharmaceutical products and also announced broader tanffs on furniture, kitchen cabinets, and trucks. As one of the largest economies in the world, there already are demands for India to shed its developing nation armour. India's trajectory toward becoming an even larger economy will only amplify this pressure. Yet, this ascent clashes with India's reliance onSDT, acomerstone since its 1995 WTO accession. Rooted in the GATT legacy, SDT grants flexibilities like higher tariffs and extended compliance periods, essential for shielding vulnerable populations in a nation where per capita income ranks 136th globally. At the heart ofthe debate lies agriculture, employing around half of India's workforce and underpinning the food security of 1.4 billion people. Under the WTO's Agreement on Agriculture (AoA), subsidies are boxed: The trade-distorting Amber Box is capped at 10 per cent of production value for developing countries, versus 5 per cent for developed ones. India leverages Article 6.2 exemptions for input subsidies to low-income farmers, channelling over$40 billion annually through mechanisms like Minimum Support Prices (MSP) for staples such as rice and wheat. These support the Public Distribution System (PDS), distributing subsidised grains to 800 million beneficiaries. However, the 1986-88 reference prices, critics argue, inflate India's",
+   "n_words": 324,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      1252,
+      4181,
+      3187
+     ]
+    ],
+    "layout_words": 290,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "national security) in exchange for tariff-free\naccess to developed markets It should build\ndomestic capacity, expand the Open\nNetwork for Digital Commerce (ONDC) to\nempower MSMEsin global e-commerce, and\nreduce reliance on SDT tariff protections.\nIndia must also negotiate data localisation\nflexibilities, It should propose tiered data reg-\nulations in WTO talks, allowing developing\nnations longer transition periods to comply\nwith global standards, preserving India\u2019s\nPersonal Data Protection Act.\nThree: Indiashould phase out non-essen-\ntial SDTin sectors that are non-core and grad-\nually reduce tariff protections over a decade,\nto gain market access across geographies or\nin areas where Indian exports face duties. It\nmustalso secure SDT exemptions for vulner-\nable segments It should use Green Box funds\nto enhance processing and cold storage,\nboosting export competitiveness in select\nsectors without breaching WTO caps.\nFour, intellectual property. India must\nmaintain compulsory licensing and patent\nopposition provisions underTRIPSArticle 31,\nciting public health needs for 1.4 billion peo-\nple, as affirmed in the 2001 Doha Declaration.\nItshould offer phased alignment with stricter\nIP rules in non-critical sectors to secure con-\ncessionsin other areas of strength. Alongside\nthis, itshould increase Green Bax-style fund-\ning for biotech innovation, reducing depend-\nence on generic exports while preserving ac-\ncess for low-income populations.\nLastly, India should also propose a tiered\nSDT framework based on per capita GDP or\nsectoral competitiveness, allowing India to\nretain agricultural protections,\nUnlike China's state-driven economy,\nIndia\u2019s democratic constraints limit rapid\nSDT abandonment. By prioritising food se-\ncurity, leveraging e-commerce strengths, and\ntrading non-core SDT, India can move for-\nward while protecting vulnerable sectors.\nProactive steps and advocacy will position\nIndiaas a middle power, shapinga WTO that\nbalances growth with equity. Moreover,\nisn\u2019t it better to change before you are\ncompelled to?",
+   "ocr_conf": 91.32068965517242,
+   "ocr_low_conf_share": 0.04827586206896552,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "national security) in exchange for tariff-free access to developed markets It should build domestic capacity, expand the Open Network for Digital Commerce (ONDC) to empower MSMEsin global e-commerce, and reduce reliance on SDT tariff protections. India must also negotiate data localisation flexibilities, It should propose tiered data regulations in WTO talks, allowing developing nations longer transition periods to comply with global standards, preserving India's Personal Data Protection Act. Three: Indiashould phase out non-essential SDTin sectors that are non-core and gradually reduce tariff protections over a decade, to gain market access across geographies or in areas where Indian exports face duties. It mustalso secure SDT exemptions for vulnerable segments It should use Green Box funds to enhance processing and cold storage, boosting export competitiveness in select sectors without breaching WTO caps. Four, intellectual property. India must maintain compulsory licensing and patent opposition provisions underTRIPSArticle 31, citing public health needs for 1.4 billion people, as affirmed in the 2001 Doha Declaration. Itshould offer phased alignment with stricter IP rules in non-critical sectors to secure concessionsin other areas of strength. Alongside this, itshould increase Green Bax-style funding for biotech innovation, reducing dependence on generic exports while preserving access for low-income populations. Lastly, India should also propose a tiered SDT framework based on per capita GDP or sectoral competitiveness, allowing India to retain agricultural protections, Unlike China's state-driven economy, India's democratic constraints limit rapid SDT abandonment. By prioritising food security, leveraging e-commerce strengths, and trading non-core SDT, India can move forward while protecting vulnerable sectors. Proactive steps and advocacy will position Indiaas a middle power, shapinga WTO that balances growth with equity. Moreover, isn't it better to change before you are compelled to?",
+   "n_words": 279,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      611,
+      3094,
+      1236,
+      3177
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3222,
+      1529,
+      4892
+     ]
+    ],
+    "layout_words": 441
+   },
+   "headline_raw": "LOSING SIGHT",
+   "deck_raw": "",
+   "body_raw": "Predicament of Delhi's Institute for the Blind indicates how\ndisability rights falter in the face of institutional neglect\nHE IMMINENT CLOSURE of Delhi's Institute for the Blind, one of the country's\noldest blind schools, founded in Lahore in 1939 and relocated to Delhi after\nPartition, tellsa larger story of institutional neglect and hiireaucratic abdication.\nFor over seven decades, the school has provided education, accommodation,\nand community to visually impaired children from economically precarious families from\nstates such as Bihar, Uttar Pradesh, and Uttarakhand. Now, the institution, withits 115 stu-\ndents, faces the threat of closure in the absence ofa government-issued certificate of recog-\nnition, denied due to missing land documents dating back to Partition. While the Directorate\nof Education has claimed the school failed to act on official notices, the administration al-\nleges a lack of meaningful engagement from authorities, including the National Human\nRights Commission (NHRC), which had previously raised alarms over infrastructural de-\nficiencies and safety lapses, including POCSO-related incidents.\nWhat is unfolding in Delhi is not an isolated failure, but a broader pattern of indiffer-\nence towards therights and needs of persons with disabilities. The NFHS-5 pegs the percent-\nage of people with some form of disability, induding partial or complete blindness, at 4.5\nper cent for the period between 2019 and 2021, Despite a slew of progressive legislation\nand fund allocation \u2014 the 2025 Union Budget allocated Rs 1,275 crore for disability welfare\n\u2014implementation on the ground remains uneven and performative. The Rights of Persons\nwith Disabilities Act, 2016 promisesinclusion, accessibility, and equal opportunity. In prac-\ntice, however, resources remain erratically distributed \u2014 data show that in 2023-24, 93 per\ncent of thebudget allocation remained unused \u2014 and countless schools for the visually im-\npaired operate without formal recognition. The Scheme for Implementation of the PwD\nAct(SIPDA), which funds accessibility projects, has seen its allocation progressively slashed,\ndespite a 2024 Supreme Court judgment mandating improved access in public spaces.\nThese shortcomings converge in the local and immediate crisis faced by institutions\nsuchas the Institute for the Blind. The Delhi institution\u2019s crisis demands urgent attention\n\u2014 the closure order should be stayed, provisional recognition granted, and land issues\nresolved without upending tie students lives. But the response must extend beyond re-\nactive fixes. Disability should be treated as acore governance priority, requiring sustained\ninvestment, transparent oversight, enforceable obligations, and institutional accounta-\nbility. Schools for the visually impaired \u2014 including this institution \u2014 should be period-\nically audited for legal compliance, infrastructure, and safety. Inclusion is a constitutional\nguarantee. Allowing systemic inertia to undermine that promise amounts to an aban-\ndonment of some of the state\u2019s most vulnerable citizens.",
+   "ocr_conf": 90.65079365079364,
+   "ocr_low_conf_share": 0.04081632653061224,
+   "headline": "LOSING SIGHT",
+   "deck": "",
+   "byline": "",
+   "text": "Predicament of Delhi's Institute for the Blind indicates how disability rights falter in the face of institutional neglect HE IMMINENT CLOSURE of Delhi's Institute for the Blind, one of the country's oldest blind schools, founded in Lahore in 1939 and relocated to Delhi after Partition, tellsa larger story of institutional neglect and hiireaucratic abdication. For over seven decades, the school has provided education, accommodation, and community to visually impaired children from economically precarious families from states such as Bihar, Uttar Pradesh, and Uttarakhand. Now, the institution, withits 115 students, faces the threat of closure in the absence ofa government-issued certificate of recognition, denied due to missing land documents dating back to Partition. While the Directorate of Education has claimed the school failed to act on official notices, the administration alleges a lack of meaningful engagement from authorities, including the National Human Rights Commission (NHRC), which had previously raised alarms over infrastructural deficiencies and safety lapses, including POCSO-related incidents. What is unfolding in Delhi is not an isolated failure, but a broader pattern of indifference towards therights and needs of persons with disabilities. The NFHS-5 pegs the percentage of people with some form of disability, induding partial or complete blindness, at 4.5 per cent for the period between 2019 and 2021, Despite a slew of progressive legislation and fund allocation - the 2025 Union Budget allocated Rs 1,275 crore for disability welfare - implementation on the ground remains uneven and performative. The Rights of Persons with Disabilities Act, 2016 promisesinclusion, accessibility, and equal opportunity. In practice, however, resources remain erratically distributed - data show that in 2023-24, 93 per cent of thebudget allocation remained unused - and countless schools for the visually impaired operate without formal recognition. The Scheme for Implementation of the PwD Act(SIPDA), which funds accessibility projects, has seen its allocation progressively slashed, despite a 2024 Supreme Court judgment mandating improved access in public spaces. These shortcomings converge in the local and immediate crisis faced by institutions suchas the Institute for the Blind. The Delhi institution's crisis demands urgent attention - the closure order should be stayed, provisional recognition granted, and land issues resolved without upending tie students lives. But the response must extend beyond reactive fixes. Disability should be treated as acore governance priority, requiring sustained investment, transparent oversight, enforceable obligations, and institutional accountability. Schools for the visually impaired - including this institution - should be periodically audited for legal compliance, infrastructure, and safety. Inclusion is a constitutional guarantee. Allowing systemic inertia to undermine that promise amounts to an abandonment of some of the state's most vulnerable citizens.",
+   "n_words": 430,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3629,
+      3231,
+      4179,
+      3306
+     ]
+    ],
+    "layout_words": 10,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is Group Chief Economist, L&T.\nViews are personal",
+   "ocr_conf": 94.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is Group Chief Economist, L&T. Views are personal",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2277,
+      3497,
+      4068,
+      3606
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2277,
+      3670,
+      4031,
+      3731
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4609,
+      2816,
+      5242
+     ],
+     [
+      2921,
+      3904,
+      3527,
+      5246
+     ],
+     [
+      3572,
+      3905,
+      4181,
+      5128
+     ],
+     [
+      3785,
+      5172,
+      4178,
+      5246
+     ],
+     [
+      3575,
+      5528,
+      4177,
+      5644
+     ]
+    ],
+    "layout_words": 586
+   },
+   "headline_raw": "My BROTHER AND His MIG-21",
+   "deck_raw": "With aircraft taking its final bow, memories of his death come flooding back",
+   "body_raw": "Two officers came home with\nthe news. We lost him in a\nMiG~-21 crash near Jodhpur\non November 16, 1989. With\nthe MiG-21 fleet of aircraft\nbeing phased out on\nSeptember 26, the wounds\nhave been reopened, as we\nlose Rajan once again. The\nhurt is not only ours but of\nmany families who, like us,\nlost their young sons\nand brothers.\n\nliver my son Srinjoy, I remember watching\nTop Gun atleast adozen times with himona\nrented VCR.\nAnd thus began our family\u2019s tryst with\nthe MiG-21.\nWe were so proud when Rajan was com-\nmissioned as an officer; the entire family\ntrudged to the Air Force Academy in Begumpet,\nHyderabad, for his passing-out parade. Hewas\nproud and possessive about his aircraft, of his\nuniform, his wings and of the Indian Air Force.\nSince | couldn'tattend his passing-out parade,\nhe flew in directly from Hyderabad to Calcutta,\nas it was then called, to surprise me. When he\nrang the doorbell, my mother-in-law gotscared\nthatcops had come tothe house. In those days,\nAir Force officers wore khaki uniforms. The\napartment complex where we lived in Calcutta\nwassoon filled with a buzz \u2014 children, theeld-\nerly, the young, all trooped into oursmail apart-\nmenttosee Flying Officer Rajan Krishnan. And\nall of us basked in reflected glory.\nHis first posting was in Tezpur in Assam,\nfrom where he would often visit me in\nCalcutta. Though ostensibly his visits were to\nbuy trophies and plaques for retiring officers\nfrom the Cooke and Kelvey showroom, in\nhindsight, I realised the reason for his fre-\nquent visits was a few young women in our\nbuilding. He fit the image of the quintessen-\ntial Air Force officer \u2014 suave, handsome,\ncharming, sporting a Ray-Ban. Tom Cruise\npaled in comparison to his charm.\nOn his 25th birthday, he threw a party in\n\nour house in Safdarjung Enclave. We were\nnew to the flamboyant ways of young Air\nForce officers who could party just as hard as\nthey worked. Since it was getting late and the\nfood was getting cold(long before the age of\nmicrowave ovens), my mother announced,\n\u201cArre jaldi se tum log \u2018up my bottom\u2019 karo aur\nkhana khane ke liye aao.\u201d Even today, 36 years\nafter his 25th birthday celebrations, in our\ncircle of family and friends, when we want\nsomeone to finish their drink quickly and\nmove to the dinner table, this is what is said.\nOn October 8, 1989, during the 57th Air\nForce Day Parade, we lost Wing Commander\nRamesh Bakshi when his Mirage 2000 fighter\njet crashed at Palam Air Force Station in front\nof our eyes. Rajan, too, was part of this Air\nForce Day Parade and was shattered to have\nlost his senior. We were all scared and panic-\nstricken. That day, he sat us down and told us\nabout the high possibility of this happening\nto him and the processes that Ma and Pa\nshould be aware of in case it happened.\nFive weeks later, two officers came home\nwiththe news, We lost him ina MiG-21 crash\nnearJodhpur on November 16, 1989. With the\nMiG-21 fleet of aircraft being phased out on\nSeptember 26, the wounds have been re-\nopened, as we lose Rajan once again. The hurt\nisnot only ours but of many families who, like\nus, lost their young sons and brothers.\n\nThe writer is former principal,\nVasant Valley School\n\nthe Akali Dal to power. \u201cA tremendous re-\nsponsibility has been placed on us at a very\nsensitive phase, We will work tirelessly.\u201d",
+   "ocr_conf": 91.81569965870307,
+   "ocr_low_conf_share": 0.034129692832764506,
+   "headline": "My BROTHER AND His MIG-21",
+   "deck": "With aircraft taking its final bow, memories of his death come flooding back",
+   "byline": "",
+   "text": "Two officers came home with the news. We lost him in a MiG~-21 crash near Jodhpur on November 16, 1989. With the MiG-21 fleet of aircraft being phased out on September 26, the wounds have been reopened, as we lose Rajan once again. The hurt is not only ours but of many families who, like us, lost their young sons and brothers.\n\nliver my son Srinjoy, I remember watching Top Gun atleast adozen times with himona rented VCR. And thus began our family's tryst with the MiG-21. We were so proud when Rajan was commissioned as an officer; the entire family trudged to the Air Force Academy in Begumpet, Hyderabad, for his passing-out parade. Hewas proud and possessive about his aircraft, of his uniform, his wings and of the Indian Air Force. Since couldn'tattend his passing-out parade, he flew in directly from Hyderabad to Calcutta, as it was then called, to surprise me. When he rang the doorbell, my mother-in-law gotscared thatcops had come tothe house. In those days, Air Force officers wore khaki uniforms. The apartment complex where we lived in Calcutta wassoon filled with a buzz - children, theelderly, the young, all trooped into oursmail apart-menttosee Flying Officer Rajan Krishnan. And all of us basked in reflected glory. His first posting was in Tezpur in Assam, from where he would often visit me in Calcutta. Though ostensibly his visits were to buy trophies and plaques for retiring officers from the Cooke and Kelvey showroom, in hindsight, I realised the reason for his frequent visits was a few young women in our building. He fit the image of the quintessential Air Force officer - suave, handsome, charming, sporting a Ray-Ban. Tom Cruise paled in comparison to his charm. On his 25th birthday, he threw a party in\n\nour house in Safdarjung Enclave. We were new to the flamboyant ways of young Air Force officers who could party just as hard as they worked. Since it was getting late and the food was getting cold(long before the age of microwave ovens), my mother announced, \"Arre jaldi se tum log 'up my bottom' karo aur khana khane ke liye aao.\" Even today, 36 years after his 25th birthday celebrations, in our circle of family and friends, when we want someone to finish their drink quickly and move to the dinner table, this is what is said. On October 8, 1989, during the 57th Air Force Day Parade, we lost Wing Commander Ramesh Bakshi when his Mirage 2000 fighter jet crashed at Palam Air Force Station in front of our eyes. Rajan, too, was part of this Air Force Day Parade and was shattered to have lost his senior. We were all scared and panic-stricken. That day, he sat us down and told us about the high possibility of this happening to him and the processes that Ma and Pa should be aware of in case it happened. Five weeks later, two officers came home withthe news, We lost him ina MiG-21 crash nearJodhpur on November 16, 1989. With the MiG-21 fleet of aircraft being phased out on September 26, the wounds have been reopened, as we lose Rajan once again. The hurt isnot only ours but of many families who, like us, lost their young sons and brothers.\n\nThe writer is former principal, Vasant Valley School\n\nthe Akali Dal to power. \"A tremendous responsibility has been placed on us at a very sensitive phase, We will work tirelessly.\"",
+   "n_words": 577,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      3800,
+      2071,
+      3843
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "REKHA KRISHNAN",
+   "ocr_conf": 94.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "REKHA KRISHNAN",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      3903,
+      2226,
+      5244
+     ]
+    ],
+    "layout_words": 270,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "OUR BROTHER RAJAN was ahero in our fam-\nily. He was six feet tall, handsome, hada way\nwith people, especially women; he could\nmake friends with anyone from a toddler to\na senior citizen and was always up to some\nmischief. He was a rebel, generous, quick-\ntempered, a charmer, anda nuisance at times.\nConfidence was his middle name. Like\nmany boys, he always came out of an exami-\nnation claiming to have \u201cmaxed\u201d the paper,\nonly to be disappointed when the results\ncame out a few weeks later to realise that he\nhad just managed to scrape through. He\nclaimed he could jump a bar that was placed\nat3 metresand complete a 100 m race in less\nthan 10 seconds (Usain Bolt was only three\nyears old when we lost Rajan). When he fin-\nished school, he applied only to IT and BITS\nPilani.St. Stephen's College and Hindu College\nwere his safe choices. When none of these col-\nleges thought that he was good enough to be\nadmitted, his educational path had tobe recal-\nibrated. With much difficulty, he got admis-\nsion into Sri Venkateswara College.\nCollege bored him. Itis then that he dis-\ncovered the NCC Air Wing and spent most of\nhis time at Safdarjung Airport flying gliders.\nFroma student pilot licence to a private pilot\nlicence, he soon began enjoying the thrill of\nflying. It was then that he started talking\nabout joining the Indian Air Force through\nthe NCC route. We thought this was also one\nof his pipe dreams. The summer of his last\nyear in college, when I was also home to de-",
+   "ocr_conf": 90.56666666666666,
+   "ocr_low_conf_share": 0.040740740740740744,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "OUR BROTHER RAJAN was ahero in our family. He was six feet tall, handsome, hada way with people, especially women; he could make friends with anyone from a toddler to a senior citizen and was always up to some mischief. He was a rebel, generous, quick-tempered, a charmer, anda nuisance at times. Confidence was his middle name. Like many boys, he always came out of an examination claiming to have \"maxed\" the paper, only to be disappointed when the results came out a few weeks later to realise that he had just managed to scrape through. He claimed he could jump a bar that was placed at3 metresand complete a 100 m race in less than 10 seconds (Usain Bolt was only three years old when we lost Rajan). When he finished school, he applied only to IT and BITS Pilani.St. Stephen's College and Hindu College were his safe choices. When none of these colleges thought that he was good enough to be admitted, his educational path had tobe recalibrated. With much difficulty, he got admission into Sri Venkateswara College. College bored him. Itis then that he discovered the NCC Air Wing and spent most of his time at Safdarjung Airport flying gliders. Froma student pilot licence to a private pilot licence, he soon began enjoying the thrill of flying. It was then that he started talking about joining the Indian Air Force through the NCC route. We thought this was also one of his pipe dreams. The summer of his last year in college, when I was also home to de-",
+   "n_words": 262,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      336,
+      4990,
+      1510,
+      5075
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1789,
+      5449,
+      2162,
+      5504
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      5118,
+      1528,
+      6153
+     ],
+     [
+      1769,
+      5532,
+      2148,
+      5611
+     ]
+    ],
+    "layout_words": 281
+   },
+   "headline_raw": "AN INCLUSIVE PATRIOTISM",
+   "deck_raw": "INDIAN EXPRESS bad",
+   "body_raw": "Ata concert in Malaysia, Diljit Dosanjh reminds audience of the\npower of culture to bring people together\nURINGASELL-OUT concertin Kuala Lumpur, when Punjabi pop star Diljit\nDosanjh saw the tricolour waving in the audience, he stopped to speak,\n1) with characteristic candour, on nationalism. \u201cIam with my country but\nas for these matches (India-Pakistan Asia Cup matches) that have hap-\npened now, there is a massive difference in these and my film. Our film was shot before\n(the Pahalgam attack)... They exerted much force to show me against the nation,\u201d he said.\nDosanjh was contrasting the matches with the brouhaha over his film Sardaar fi 3, co-\nstarring Pakistani actor Hania Aamir, which was not released in India. But the point he was\nmaking about nationalism was hard to miss: Culture becomes a soft target whenit comes\nto cross-border ties.\nFrom standing up for farmers during the unrest against the farm laws in 2020-21 to\nshowcasing his roots at the Met Gala this year to weaving the complexities of belonging\nand identity into his music, Dosanjh has never shied away from speaking his mind. Ata\nconcert in Manchester last year, for instance, he gifted a pair of shoes to a Pakistani fanand\nsaid, \u201cBorders are made by politicians... our music is common.\u201d\nIn aworld where geopolitics often sours relationships between neighbouring nations,\nit is culture and sport that have the power to sow seeds of empathy. These connections,\nthough fragile, are invaluable and must be nurtured, especially during times of animos-\nity. The largeness of spirit required to celebrate shared stories is nota betrayal of patriot-\nism. Ifanything, it is adeeper, more inclusive version of it.\n\nNal cat far ahsolute majority\nater ker Basmala, Speiroe. Hnatae\nPack beading ahead of tn ab\nthack for weary Cong stalwart",
+   "ocr_conf": 90.37037037037037,
+   "ocr_low_conf_share": 0.050505050505050504,
+   "headline": "AN INCLUSIVE PATRIOTISM",
+   "deck": "INDIAN EXPRESS bad",
+   "byline": "",
+   "text": "Ata concert in Malaysia, Diljit Dosanjh reminds audience of the power of culture to bring people together URINGASELL-OUT concertin Kuala Lumpur, when Punjabi pop star Diljit Dosanjh saw the tricolour waving in the audience, he stopped to speak, 1) with characteristic candour, on nationalism. \"Iam with my country but as for these matches (India-Pakistan Asia Cup matches) that have happened now, there is a massive difference in these and my film. Our film was shot before (the Pahalgam attack)... They exerted much force to show me against the nation,\" he said. Dosanjh was contrasting the matches with the brouhaha over his film Sardaar fi 3, costarring Pakistani actor Hania Aamir, which was not released in India. But the point he was making about nationalism was hard to miss: Culture becomes a soft target whenit comes to cross-border ties. From standing up for farmers during the unrest against the farm laws in 2020-21 to showcasing his roots at the Met Gala this year to weaving the complexities of belonging and identity into his music, Dosanjh has never shied away from speaking his mind. Ata concert in Manchester last year, for instance, he gifted a pair of shoes to a Pakistani fanand said, \"Borders are made by politicians... our music is common.\" In aworld where geopolitics often sours relationships between neighbouring nations, it is culture and sport that have the power to sow seeds of empathy. These connections, though fragile, are invaluable and must be nurtured, especially during times of animosity. The largeness of spirit required to celebrate shared stories is nota betrayal of patriotism. Ifanything, it is adeeper, more inclusive version of it.\n\nNal cat far ahsolute majority ater ker Basmala, Speiroe. Hnatae Pack beading ahead of tn ab thack for weary Cong stalwart",
+   "n_words": 293,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      5395,
+      3633,
+      5468
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2270,
+      5527,
+      2640,
+      5571
+     ],
+     [
+      3574,
+      5691,
+      3884,
+      5735
+     ],
+     [
+      2921,
+      5848,
+      3393,
+      5892
+     ]
+    ],
+    "body_boxes": [
+     [
+      2270,
+      5608,
+      2875,
+      5913
+     ],
+     [
+      2272,
+      5968,
+      2680,
+      6011
+     ],
+     [
+      2269,
+      6043,
+      2874,
+      6156
+     ],
+     [
+      2921,
+      5528,
+      3525,
+      5794
+     ],
+     [
+      2920,
+      5926,
+      3525,
+      6157
+     ],
+     [
+      3569,
+      5767,
+      4179,
+      6158
+     ]
+    ],
+    "layout_words": 235
+   },
+   "headline_raw": "SEPTEMBER 2/, 1985, FORTY YEARS AGO",
+   "deck_raw": "AKALI VICTORY\nKoTA CLASH\nBARNALA ON POLLS",
+   "body_raw": "BACKED BY A popular wave, the Akali Dal\n(L)was firmly set for a massive victory in the\nPunjab elections after capturing 47 of the 72\nVidhan Sabha seats, the which results for\nwhich have been declared, and establishing\nalead over its rivals in other constituencies,\nThe Congress-I captured 17 seats and the BjP\nsecured two.\n\nCONG REACTION\n\nTHE CONGRESS (1)hasattributed the success\nof the Akali Dal to the latter having a better\nprogramme and better candidates. Asked\n\nabout the secret of the Akali Dal\u2019s superior\nperformance, the newly appointed AICC-I\ngeneral secretary, Jitendra Prasad, who has\nbeen made the party's official spokesman,\ntold newsmen in New Delhi that what was\nimportant was that the extremists and the\nanti-national elements had been defeated.\n\nCOMMENTING ON THE election results,\nSurjit Singh Barnala, acting president of the\nAkali Dal (L), thanked the people of Punjab\nfor \u201cthrowing off the yoke of a dark period\u201d.\nBarnala said Punjabis had paid homage to\nthe late Harchand Singh Longowal by voting\n\nMORETHAN Adozen people are reported to\nhave died in the Jawar police station area in\nJhalawar district on Thursday in a clash be-\ntween two communities belonging to two\nvillages. According to reports, the clash took\nplace over adispute about the harvesting of\ncrops. The deputy inspector-general of po-\nlice, Kota range, Shantanu Kumar, and the\ncollector, Umrao Salodia, along with a strong\npolice force, have rushed to the villages.",
+   "ocr_conf": 92.29361702127659,
+   "ocr_low_conf_share": 0.01702127659574468,
+   "headline": "SEPTEMBER 2/, 1985, FORTY YEARS AGO",
+   "deck": "AKALI VICTORY KoTA CLASH BARNALA ON POLLS",
+   "byline": "CONG REACTION",
+   "text": "BACKED BY A popular wave, the Akali Dal (L)was firmly set for a massive victory in the Punjab elections after capturing 47 of the 72 Vidhan Sabha seats, the which results for which have been declared, and establishing alead over its rivals in other constituencies, The Congress-I captured 17 seats and the BjP secured two.\n\nTHE CONGRESS (1)hasattributed the success of the Akali Dal to the latter having a better programme and better candidates. Asked\n\nabout the secret of the Akali Dal's superior performance, the newly appointed AICC-I general secretary, Jitendra Prasad, who has been made the party's official spokesman, told newsmen in New Delhi that what was important was that the extremists and the anti-national elements had been defeated.\n\nCOMMENTING ON THE election results, Surjit Singh Barnala, acting president of the Akali Dal (L), thanked the people of Punjab for \"throwing off the yoke of a dark period\". Barnala said Punjabis had paid homage to the late Harchand Singh Longowal by voting\n\nMORETHAN Adozen people are reported to have died in the Jawar police station area in Jhalawar district on Thursday in a clash between two communities belonging to two villages. According to reports, the clash took place over adispute about the harvesting of crops. The deputy inspector-general of police, Kota range, Shantanu Kumar, and the collector, Umrao Salodia, along with a strong police force, have rushed to the villages.",
+   "n_words": 231,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 24.1,
+ "flags": [
+  "26% of body text had no headline above it",
+  "3 kept article(s) without a headline"
+ ]
+}

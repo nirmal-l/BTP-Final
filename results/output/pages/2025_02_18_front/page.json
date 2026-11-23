@@ -1,0 +1,780 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_18_front",
+ "source_file": "2025-02-18_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-18_front.png",
+ "date": "2025-02-18",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 495,
+  "mean_line_conf": 88.87620426711337,
+  "orphan_words": 0,
+  "body_words_total": 1969
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      770,
+      3124,
+      1063
+     ]
+    ],
+    "deck_boxes": [
+     [
+      325,
+      695,
+      2258,
+      733
+     ],
+     [
+      322,
+      1092,
+      1237,
+      1283
+     ]
+    ],
+    "body_boxes": [
+     [
+      324,
+      1383,
+      687,
+      1492
+     ],
+     [
+      322,
+      1541,
+      762,
+      1852
+     ],
+     [
+      343,
+      1973,
+      731,
+      2469
+     ],
+     [
+      809,
+      1342,
+      1251,
+      1845
+     ]
+    ],
+    "layout_words": 131
+   },
+   "headline_raw": "\u2018RPF trying to clear overbridge when platform for\nKumbh Special changed... this led to a stampede\u2019",
+   "deck_raw": "RAILWAY PROTECTION FORCE INQUIRY REPORT ON NEW DELHI RAILWAY STATION STAMPEDE\nAt 8.45 pm, announcement that train\nto Prayagraj from PF No. 12, then\nanother announcement said PF No. 16",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, FEBRUARY 17\n\nWHATSET OFF the stampedeat\nNew Delhi Railway Station on\nSaturday night killing 18 people\nwas an announcement about a\nchange in the departure plat-\nformof aKumbhspecialtrain to\nPrayagraj, according to an in-\nquiry report prepared by an in-\n\nRISE AGAINST\nCANCER\nAn advertorial appears\nin today\u2019s edition of\nThe Indian Express.\nThese pages contain\ncontent paid for by the\nadvertisers. These\npages should be read\nas an advertisement.\n\nspector-rank officer of the\nRailway Protection Force.\n\u201c,..at around 8.45 pm, anan-\nnouncement was made that\nKumbh Special going to\nPrayagraj will depart from\nPlatform Number 12, but after\nsome time, another announce-\nment was made that the Kumbh\nSpecial will leave from Platform\nNumber 16, due to which a\nstampede situation arose among\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.40601503759399,
+   "ocr_low_conf_share": 0.03759398496240601,
+   "headline": "'RPF trying to clear overbridge when platform for Kumbh Special changed... this led to a stampede'",
+   "deck": "RAILWAY PROTECTION FORCE INQUIRY REPORT ON NEW DELHI RAILWAY STATION STAMPEDE At 8.45 pm, announcement that train to Prayagraj from PF No. 12, then another announcement said PF No. 16",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, FEBRUARY 17",
+   "text": "WHATSET OFF the stampedeat New Delhi Railway Station on Saturday night killing 18 people was an announcement about a change in the departure plat-formof aKumbhspecialtrain to Prayagraj, according to an inquiry report prepared by an in-\n\nRISE AGAINST CANCER An advertorial appears in today's edition of The Indian Express. These pages contain content paid for by the advertisers. These pages should be read as an advertisement.\n\nspector-rank officer of the Railway Protection Force. \",..at around 8.45 pm, anan-nouncement was made that Kumbh Special going to Prayagraj will depart from Platform Number 12, but after some time, another announcement was made that the Kumbh Special will leave from Platform Number 16, due to which a stampede situation arose among",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      1089,
+      3093,
+      1284
+     ],
+     [
+      2275,
+      1293,
+      3155,
+      1437
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      1464,
+      2645,
+      1533
+     ],
+     [
+      2271,
+      1582,
+      2716,
+      1854
+     ]
+    ],
+    "layout_words": 40
+   },
+   "headline_raw": "Vaishnaw: 60 stations\nto get holding areas to\nregulate passenger rush",
+   "deck_raw": "",
+   "body_raw": "DHEERAJ MISHRA\nNEW DELHI, FEBRUARY 17\n\nTWO DAYS after 18 people died\nin a stampede at New Delhi\nRailway Station, Railway\nMinister AshwiniVaishnaw said\nMonday that a separate holding\narea willbe developed at 60 busy\nstations across the country to",
+   "ocr_conf": 92.7,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Vaishnaw: 60 stations to get holding areas to regulate passenger rush",
+   "deck": "",
+   "byline": "DHEERAJ MISHRA; NEW DELHI, FEBRUARY 17",
+   "text": "TWO DAYS after 18 people died in a stampede at New Delhi Railway Station, Railway Minister AshwiniVaishnaw said Monday that a separate holding area willbe developed at 60 busy stations across the country to",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      1449,
+      4175,
+      1784
+     ],
+     [
+      3251,
+      1887,
+      4035,
+      1994
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3252,
+      1826,
+      4071,
+      1881
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      2137,
+      3692,
+      2801
+     ],
+     [
+      3739,
+      1980,
+      4181,
+      2205
+     ],
+     [
+      3738,
+      2217,
+      4181,
+      2798
+     ]
+    ],
+    "layout_words": 188
+   },
+   "headline_raw": "As Qatar Amir starts\nVisit, trade, energy\n& tech ties on table\nthe Amir at airport; meeting today\n\u201c , arov and rarhnalnm",
+   "deck_raw": "In special gesture, PM Modi receives",
+   "body_raw": "AS THE Amir of Qatar, Sheikh\nTamim Bin Hamad Al-Thani, be-\ngan his two-day state visit to\nIndia on Monday, Prime Minister\nNarendra Modi, in a special ges-\nture, went to the airport to re-\nceive him.\n\u201cWent to the airport to wel-\ncome my brother, Amir of Qatar\nHH. Sheikh Tamim Bin Hamad\nAl Thani. Wishing him a fruitful\nstay in India and looking forward\ntoour meeting tomorrow,\u201d Modi\nsaid onX.\nModi and the Amir are ex-\npected to discuss India-Qatar ties\nrelated to trade, investment, en-\n\nergy and technology at their\nmeeting on Tuesday. The Amir,\nwho is on his second state visit\nto India after March 2015, will\nalso meet President Droupadi\nMurmu.\n\nHis visit comes at a time\nwhen negotiations are under-\nway to end the conflict in Gaza.\nQatar has played akeyrolein fa-\ncilitating the negotiations, lead-\ning toexchangeof hostagesand\nprisoners. Doha has been the\nseat of Hamas' representatives,\nand the Qatarroyalty plays an in-\nfluential role in the region's\npowerdynamics.\nOne of the issues pending be-\ntween India and Qatar is the re-\nturn of a former Indian Navy\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.28571428571429,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "As Qatar Amir starts Visit, trade, energy & tech ties on table the Amir at airport; meeting today \", arov and rarhnalnm",
+   "deck": "In special gesture, PM Modi receives",
+   "byline": "",
+   "text": "AS THE Amir of Qatar, Sheikh Tamim Bin Hamad Al-Thani, began his two-day state visit to India on Monday, Prime Minister Narendra Modi, in a special gesture, went to the airport to receive him. \"Went to the airport to welcome my brother, Amir of Qatar HH. Sheikh Tamim Bin Hamad Al Thani. Wishing him a fruitful stay in India and looking forward toour meeting tomorrow,\" Modi said onX. Modi and the Amir are expected to discuss India-Qatar ties related to trade, investment, energy and technology at their meeting on Tuesday. The Amir, who is on his second state visit to India after March 2015, will also meet President Droupadi Murmu.\n\nHis visit comes at a time when negotiations are underway to end the conflict in Gaza. Qatar has played akeyrolein facilitating the negotiations, leading toexchangeof hostagesand prisoners. Doha has been the seat of Hamas' representatives, and the Qatarroyalty plays an influential role in the region's powerdynamics. One of the issues pending between India and Qatar is the return of a former Indian Navy",
+   "n_words": 173,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2789,
+      1513,
+      3157,
+      1661
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2809,
+      1498,
+      3129,
+      1543
+     ]
+    ],
+    "body_boxes": [
+     [
+      2783,
+      1581,
+      3133,
+      1621
+     ],
+     [
+      2765,
+      1740,
+      3203,
+      1847
+     ]
+    ],
+    "layout_words": 15
+   },
+   "headline_raw": "~ Raliway\n\u2019 end . Minister\n\\ on Ashwini\nmh Vaishnaw",
+   "deck_raw": "<a Railway",
+   "body_raw": "\\ on aq Ashwini\n\nregulate the rush of passengers.\nHe said other measures\nCONTINUED ON PAGE2",
+   "ocr_conf": 76.6875,
+   "ocr_low_conf_share": 0.1875,
+   "headline": "~ Raliway ' end. Minister \\ on Ashwini mh Vaishnaw",
+   "deck": "<a Railway",
+   "byline": "",
+   "text": "regulate the rush of passengers. He said other measures",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1923,
+      3192,
+      2326
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2764,
+      2412,
+      3188,
+      2484
+     ],
+     [
+      2757,
+      2534,
+      3204,
+      4112
+     ]
+    ],
+    "layout_words": 188
+   },
+   "headline_raw": "Why shouldn\u2019t\ncontempt be\ninitiated: SC on\ndemolition of\nUP mosque",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, FEBRUARY 17\n\nTHE SUPREME Courton Monday\nissued notice to authorities in\nUttar Pradesh on a plea seeking\ncontempt of court proceedings\nagainst them for demolishing a\nportion of a mosque in\nKushinagar.\nA bench of Justices BR Gavai\nand AG Masih issued notice to\nthe authorities, asking why con-\ntempt proceedings should not\nbe initiated against them, after\nthe petition alleged that the\ndemolition violated the apex\ncourt's November 13, 2024 rul-\ning that laid down pan-india\nguidelines for demolitions.\nThe guidelines barred dem-\nolition of properties without\nprior show cause notice and 15\ndays\u2019 time to the aggrieved party\ntorespond.\nOn Monday, the bench also\nrestrained the authorities from\ncarrying out any further demo-\nlition at the Madni mosque in\nKushinagar until further orders.\nIt gave them two weeks to re-\nspond to the notice.\nThe petition, filed through\nadvocate Abdul Qadir Abbasi,\nsaid theauthonities demolished\nthe outer and front areas of the\nmosque on February 9.\nAppearing for the petitioners,\nSenior Advocate Huzefa Ahmadi\ncontended that no prior notice\nwas issued, which amounts to\n\u201cegregious\u201d contempt of the\ncourt'sNovember 13 judgment.",
+   "ocr_conf": 92.11702127659575,
+   "ocr_low_conf_share": 0.026595744680851064,
+   "headline": "Why shouldn't contempt be initiated: SC on demolition of UP mosque",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, FEBRUARY 17",
+   "text": "THE SUPREME Courton Monday issued notice to authorities in Uttar Pradesh on a plea seeking contempt of court proceedings against them for demolishing a portion of a mosque in Kushinagar. A bench of Justices BR Gavai and AG Masih issued notice to the authorities, asking why contempt proceedings should not be initiated against them, after the petition alleged that the demolition violated the apex court's November 13, 2024 ruling that laid down pan-india guidelines for demolitions. The guidelines barred demolition of properties without prior show cause notice and 15 days' time to the aggrieved party torespond. On Monday, the bench also restrained the authorities from carrying out any further demolition at the Madni mosque in Kushinagar until further orders. It gave them two weeks to respond to the notice. The petition, filed through advocate Abdul Qadir Abbasi, said theauthonities demolished the outer and front areas of the mosque on February 9. Appearing for the petitioners, Senior Advocate Huzefa Ahmadi contended that no prior notice was issued, which amounts to \"egregious\" contempt of the court'sNovember 13 judgment.",
+   "n_words": 176,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      2000,
+      2648,
+      2373
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      1922,
+      2039,
+      1972
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      2399,
+      1238,
+      2741
+     ],
+     [
+      807,
+      3084,
+      1208,
+      3161
+     ],
+     [
+      806,
+      3362,
+      1252,
+      4261
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "EC Gyanesh Kumar new poll\npanel chief; LoP files dissent",
+   "deck_raw": "HARYANA CHIEF SECY JOSHIIS NEW EC",
+   "body_raw": "Rahul asked Govt\nto wait until SC\ndecides on plea\nseeking inclusion\nof Cjlin panel\n\nCEC designate Gyanesh\nKumar; (right) Vivek joshi\n\nTHE PRESIDENT on Monday ap-\npointed Election Commissioner\nGyanesh Kumar as the next Chief\nElection Commissioner and\nHaryana Chief Secretary Dr\nVivek Joshi as Election\nCommissioner. This came hours\nafter the meeting of the Prime\nMinister-headed high level com-\nmittee where Leader of the\nOpposition in Lok Sabha Rahul\nGandhi asked the Government\nto defer the appointment until\nthe Supreme Court decides on\nthe petitions challenging the\nnew appointment process.\nKumar will take over as CEC\nWednesday as currentCEC Rajiv\nKumar is set to retireon Tuesday.\nKumar joined the ECi in\nMarch last year, having retired\nfrom the IAS in January. At the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.44961240310077,
+   "ocr_low_conf_share": 0.06201550387596899,
+   "headline": "EC Gyanesh Kumar new poll panel chief; LoP files dissent",
+   "deck": "HARYANA CHIEF SECY JOSHIIS NEW EC",
+   "byline": "",
+   "text": "Rahul asked Govt to wait until SC decides on plea seeking inclusion of Cjlin panel\n\nCEC designate Gyanesh Kumar; (right) Vivek joshi\n\nTHE PRESIDENT on Monday appointed Election Commissioner Gyanesh Kumar as the next Chief Election Commissioner and Haryana Chief Secretary Dr Vivek Joshi as Election Commissioner. This came hours after the meeting of the Prime Minister-headed high level committee where Leader of the Opposition in Lok Sabha Rahul Gandhi asked the Government to defer the appointment until the Supreme Court decides on the petitions challenging the new appointment process. Kumar will take over as CEC Wednesday as currentCEC Rajiv Kumar is set to retireon Tuesday. Kumar joined the ECi in March last year, having retired from the IAS in January. At the",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      2695,
+      756,
+      3097
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      2636,
+      729,
+      2668
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      3718,
+      764,
+      5211
+     ]
+    ],
+    "layout_words": 170
+   },
+   "headline_raw": "Assam invokes\nUAPA against\nPak expert who\nworked with\nGogoi\u2019s wife",
+   "deck_raw": "SIT TO PROBE CASE",
+   "body_raw": "ASSAM POLICE on Monday reg-\nistered an FIRinvoking thestrin-\ngent Unlawful Activities\n(Prevention) Act against promi-\nnent Pakistaniclimate policyex-\npert Ali Tauqeer Sheikh, with\nwhom Congress leader Gaurav\nGogoi's wife Elizabeth Gogoi\nworked in the past.\nThiscomesaday after Assam\nChief Minister Himanta Biswa\nSarma announced that his\nCabinet directed the state\u2019s po-\nlicechief to file acase in connec-\ntion with Sheikh\u2019's alleged \u201cex-\nplicit involvement\u201d in \u201cIndia\u2019s\nintemal affairs\u201d.\nOver the past week, Sarma\nand a section of the BJP have\nraised questions over Elizabeth's\nforeign citizenship and accused\nher of having ties with the ISL\nTheCID registered the FiRon\nMonday morning under the\nUAPA as well as BNS sections\npertaining to abetment from\noutside India for an offence in\nIndia; acts endangering the sov-\nereignty, unity and integrity of\nIndia; criminal conspiracy; and\nimputations and assertions prej-\nudicial to national integration.\nThe FIR named Sheikh and\n\u201cunknown others\u2019 as accused. A\nfour-member SIT, led by CID\nSpecial DGP M P Gupta, has been\nconstituted toinvestigate the ase.\nCONTINUEDONPAGE2",
+   "ocr_conf": 91.66272189349112,
+   "ocr_low_conf_share": 0.01775147928994083,
+   "headline": "Assam invokes UAPA against Pak expert who worked with Gogoi's wife",
+   "deck": "SIT TO PROBE CASE",
+   "byline": "",
+   "text": "ASSAM POLICE on Monday registered an FIRinvoking thestringent Unlawful Activities (Prevention) Act against prominent Pakistaniclimate policyexpert Ali Tauqeer Sheikh, with whom Congress leader Gaurav Gogoi's wife Elizabeth Gogoi worked in the past. Thiscomesaday after Assam Chief Minister Himanta Biswa Sarma announced that his Cabinet directed the state's policechief to file acase in connection with Sheikh''s alleged \"explicit involvement\" in \"India's intemal affairs\". Over the past week, Sarma and a section of the BJP have raised questions over Elizabeth's foreign citizenship and accused her of having ties with the ISL TheCID registered the FiRon Monday morning under the UAPA as well as BNS sections pertaining to abetment from outside India for an offence in India; acts endangering the sovereignty, unity and integrity of India; criminal conspiracy; and imputations and assertions prejudicial to national integration. The FIR named Sheikh and \"unknown others' as accused. A four-member SIT, led by CID Special DGP M P Gupta, has been constituted toinvestigate the ase. CONTINUEDONPAGE2",
+   "n_words": 160,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      2942,
+      4166,
+      3266
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3250,
+      2874,
+      3983,
+      2913
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      3324,
+      3616,
+      3393
+     ],
+     [
+      3247,
+      3442,
+      3691,
+      3866
+     ],
+     [
+      3248,
+      3878,
+      3690,
+      4349
+     ],
+     [
+      3899,
+      3376,
+      4133,
+      3470
+     ],
+     [
+      3785,
+      3522,
+      4140,
+      4145
+     ],
+     [
+      3737,
+      4236,
+      4177,
+      4342
+     ]
+    ],
+    "layout_words": 202
+   },
+   "headline_raw": "Delhi hopes for some\ntariff easing as it works\non US trade agreement",
+   "deck_raw": "25% TARIFF ON STEEL, ALUMINIUM",
+   "body_raw": "RAVIDUTTAMISHRA\nNEWDELHI, FEBRUARY 17\n\nAS INDIA and the US prepare to\nwork on the contours of a bilat-\neraltrade agreement (BTA), New\nDelhi hopes to secure conces-\nsions onthesweeping tariffs an-\nnounced by US President Donald\nTrump, such as the 25 per cent\ntariffon all steel and aluminium,\nas well as reciprocal tariffs that\ncould impact India's exports to\nthe US.\n\n\u201cAll tariff announcements\ncoming from the US will be ad-\ndressed in the trade forum,\nwhere both countries have\nagreed to sign a trade deal and\nincrease trade to$500 billion(by\n2030). Negotiators from both\ncounties will discuss aroadmap\non howto move forward, includ-\ning (ontariffs) being announced\nin the US,\u201d a government official\nsaid in response to India's strat-\n\nShift from\n}@ Trump1.0\n\nHOPES FOR a concession\nduring the current round\nof trade deal negotiations\nmarks a shift from the\npast, when India had\nchosen to retaliate\nagainst the US on steel\nand aluminium tanffs\nimposed during Trump's\nfirst term. Thistime, the\nWhite House has said\nthat exemptions tocer-\ntain countries were ex-\nploited by China and so\nconcessions have broadly\nbeen ruled out now.\n\negy to tackle the25 percent tar-\niffs on aluminium and steel.\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.07035175879398,
+   "ocr_low_conf_share": 0.035175879396984924,
+   "headline": "Delhi hopes for some tariff easing as it works on US trade agreement",
+   "deck": "25% TARIFF ON STEEL, ALUMINIUM",
+   "byline": "RAVIDUTTAMISHRA; NEWDELHI, FEBRUARY 17",
+   "text": "AS INDIA and the US prepare to work on the contours of a bilateraltrade agreement (BTA), New Delhi hopes to secure concessions onthesweeping tariffs announced by US President Donald Trump, such as the 25 per cent tariffon all steel and aluminium, as well as reciprocal tariffs that could impact India's exports to the US.\n\n\"All tariff announcements coming from the US will be addressed in the trade forum, where both countries have agreed to sign a trade deal and increase trade to$500 billion(by 2030). Negotiators from both counties will discuss aroadmap on howto move forward, including (ontariffs) being announced in the US,\" a government official said in response to India's strat-\n\nShift from\n\nHOPES FOR a concession during the current round of trade deal negotiations marks a shift from the past, when India had chosen to retaliate against the US on steel and aluminium tanffs imposed during Trump's first term. Thistime, the White House has said that exemptions tocertain countries were exploited by China and so concessions have broadly been ruled out now.\n\negy to tackle the25 percent tariffs on aluminium and steel. CONTINUEDON PAGE2",
+   "n_words": 185,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1334,
+      3621,
+      1699,
+      3686
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1432,
+      3701,
+      1598,
+      3730
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "BUSINESS AS USUAL",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 90.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BUSINESS AS USUAL",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      3584,
+      2689,
+      3892
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1782,
+      4034,
+      2225,
+      4262
+     ],
+     [
+      2272,
+      3877,
+      2716,
+      4262
+     ]
+    ],
+    "layout_words": 69
+   },
+   "headline_raw": "Hearing poll cases during\nelections may fuel distrust,\ncourts should avoid: CEC",
+   "deck_raw": "",
+   "body_raw": "ON HIS last full day in office on\nMonday, outgoing Chief Election\nCommissioner Rajiv Kumar said\ncourt proceedings in \u201clong-\npending\" cases related to polls\nshould be scheduled \u201cwith due\n\nconsideration to the election pe-\nriod\" so as to ensure a \u201csmooth\"\nelectoral process.\nKumar, who will demitoffice\non Tuesday, expressed concern\nover the \u201clivereporting\u201d of hear-\nings during \u201ccritical\u201d periods of\nelections.\n\u2018The live reporting ofhearing\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.87323943661971,
+   "ocr_low_conf_share": 0.08450704225352113,
+   "headline": "Hearing poll cases during elections may fuel distrust, courts should avoid: CEC",
+   "deck": "",
+   "byline": "",
+   "text": "ON HIS last full day in office on Monday, outgoing Chief Election Commissioner Rajiv Kumar said court proceedings in \"long-pending\" cases related to polls should be scheduled \"with due\n\nconsideration to the election period\" so as to ensure a \"smooth\" electoral process. Kumar, who will demitoffice on Tuesday, expressed concern over the \"livereporting\" of hear-ings during \"critical\" periods of elections. 'The live reporting ofhearing",
+   "n_words": 64,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      4164,
+      3201,
+      4234
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2807,
+      4113,
+      3201,
+      4173
+     ],
+     [
+      2274,
+      4422,
+      2717,
+      4475
+     ]
+    ],
+    "body_boxes": [
+     [
+      2273,
+      5005,
+      2688,
+      5175
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "turein qu\u00e9ston was constructed\non private land owned bythe pe-",
+   "deck_raw": "\u201cItissubmitted that the struc-\nPin die watcCons ried\nEXPRESS NETWORK >",
+   "body_raw": "LOW-INTENSITY\nEARTHQUAKES JOLT\nDELHI AND SIWAN\nPAGE 4",
+   "ocr_conf": 94.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "turein qu\u00e9ston was constructed on private land owned bythe pe-",
+   "deck": "\"Itissubmitted that the struc-Pin die watcCons ried EXPRESS NETWORK >",
+   "byline": "LOW-INTENSITY; EARTHQUAKES JOLT; DELHI AND SIWAN",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      4411,
+      2183,
+      4640
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      805,
+      4787,
+      1248,
+      5211
+     ]
+    ],
+    "layout_words": 51
+   },
+   "headline_raw": "Nepal PM steps in as Odisha varsity\nasks students to leave after protests",
+   "deck_raw": "",
+   "body_raw": "AFTER A day of protests at the\nKalinga Institute of Industrial\nTechnology University in Odisha\nthat eventually prompted the\nNepal Embassy t intervene, po-\nlice in Bhubaneswar Monday ar-\nrested a third-year student in\nconnection with the suicide of a\n20-year-old batchmate.\nPolice identified the victim as\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.7843137254902,
+   "ocr_low_conf_share": 0.11764705882352941,
+   "headline": "Nepal PM steps in as Odisha varsity asks students to leave after protests",
+   "deck": "",
+   "byline": "",
+   "text": "AFTER A day of protests at the Kalinga Institute of Industrial Technology University in Odisha that eventually prompted the Nepal Embassy t intervene, police in Bhubaneswar Monday arrested a third-year student in connection with the suicide of a 20-year-old batchmate. Police identified the victim as",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2760,
+      4413,
+      4170,
+      4618
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2763,
+      4632,
+      4158,
+      4688
+     ]
+    ],
+    "body_boxes": [
+     [
+      2760,
+      4868,
+      3200,
+      5221
+     ],
+     [
+      3246,
+      4711,
+      3690,
+      4982
+     ],
+     [
+      3736,
+      4711,
+      4179,
+      5214
+     ]
+    ],
+    "layout_words": 150
+   },
+   "headline_raw": "SC flags number of pleas on Places of\nWorship Act: Will become impossible",
+   "deck_raw": "Bench refuses to hear fresh writ pleas, adjourns matter to April",
+   "body_raw": "EXPRESSING DISMAY over the\nnumber of petitions being filed\nonthe Places of Worship(Special\nProvisions) Act, 1991, the\nSupreme Court on Monday re-\nfused to entertain fresh writ pe-\ntitions in the matter.\nThe court, however, allowed\nthose who have filed wait peti-\n\ntions on which notices have not\nbeen issued so far to file inter-\nvention applications mstead. The\ncourt adjoumed the hearing to\nApril, whena three-judge bench\nwill take up the petitions.\n\u201cWe are constrained to pass\n\n\u201cFresh applications, except those\nwit petitions which are being\ndisposed of in terms of this or-\nder, will be allowed only if new\ngrounds are raised,\u201d it said.\nAt the outset, the CJl ex-\npressed dismayover the number\nof petitions being filed in the mat-\nter. \u201cSomewhere we will have to\nstop it,\u201d the Ql said. \u201cPeople keep\non filing fresh petitions alleging\nthat they have raised new\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.18,
+   "ocr_low_conf_share": 0.08666666666666667,
+   "headline": "SC flags number of pleas on Places of Worship Act: Will become impossible",
+   "deck": "Bench refuses to hear fresh writ pleas, adjourns matter to April",
+   "byline": "",
+   "text": "EXPRESSING DISMAY over the number of petitions being filed onthe Places of Worship(Special Provisions) Act, 1991, the Supreme Court on Monday refused to entertain fresh writ petitions in the matter. The court, however, allowed those who have filed wait petitions on which notices have not been issued so far to file intervention applications mstead. The court adjoumed the hearing to April, whena three-judge bench will take up the petitions. \"We are constrained to pass\n\n\"Fresh applications, except those wit petitions which are being disposed of in terms of this order, will be allowed only if new grounds are raised,\" it said. At the outset, the CJl expressed dismayover the number of petitions being filed in the matter. \"Somewhere we will have to stop it,\" the Ql said. \"People keep on filing fresh petitions alleging that they have raised new",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      5033,
+      3688,
+      5104
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3248,
+      4983,
+      3689,
+      5038
+     ]
+    ],
+    "body_boxes": [
+     [
+      3244,
+      5104,
+      3691,
+      5221
+     ]
+    ],
+    "layout_words": 15
+   },
+   "headline_raw": "humber of writ petitions raising\nnew and additional grounds etc,\u201d",
+   "deck_raw": "this order as there area large\niiraecr af wit reetitanc caicing",
+   "body_raw": "the two-Judge bench of Chief\nJustice of India Sanjiv Khanna\nand Justice Sanjay Kumar said.",
+   "ocr_conf": 92.73333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "humber of writ petitions raising new and additional grounds etc,\"",
+   "deck": "this order as there area large iiraecr af wit reetitanc caicing",
+   "byline": "",
+   "text": "the two-Judge bench of Chief Justice of India Sanjiv Khanna and Justice Sanjay Kumar said.",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5346,
+      4130,
+      5478
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5544,
+      499,
+      5576
+     ],
+     [
+      318,
+      5816,
+      758,
+      6166
+     ],
+     [
+      802,
+      5498,
+      1250,
+      6162
+     ],
+     [
+      1294,
+      5499,
+      1744,
+      6167
+     ],
+     [
+      1790,
+      5567,
+      3195,
+      6169
+     ],
+     [
+      3245,
+      5501,
+      3691,
+      6169
+     ],
+     [
+      3732,
+      5501,
+      4180,
+      6169
+     ]
+    ],
+    "layout_words": 513
+   },
+   "headline_raw": "Some poetic justice as J&K court convicts faith healer of child abuse",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nNINE YEARSaftera minor broke\nhis silence before his father and\nnarrated the details of sexual\nabuse by a faith healer, aJammu\nand Kashmir courthas convicted\nthe accused under Section 377\nof the Ranbir Penal Code(RPC).\nThe 123-page judgment ends\nwith apoem \u2014 Whispers of Faith,\n\nEchoes of Fear \u2014 that Chief\nJudicial Magistrate Mir Wajahat\npenned on the victims\u2019 ordeal\nand the character of the accused.\nThe first case came tw light in\nMarch 2016, when the 14-year\nold boy refused to visit the ac-\ncused despite his family insisting\nonit. It wasonly when the family\ntried to persuade him that he\nopened up.Onceacase wasfiled,\nseveral other children came for-\nward to narrate the sexual abuse\nby the accused. By then, many\nvictims had grown up and were\nin their late eensorearly 20s.\nThe accused, now 54, would\n\nreportedly promise hisdisciples\ngood fortunes, relief from finan-\ncial problems, or a cure for med-\nical ailments He would tell them\nto bring their children so they\ncould talk to the djinns (super-\nnatural powers) at his home on\nthe outskirts of Sopore. He\nwould reportedly silence his vic-\ntims by telling them that if they\nspoke t anyone, they would be\nchased by djinns and their fami-\nlies would be destroyed.\nAtleast 12 families have ap-\nproached the court, though au-\nthorities stimmate ine nwinber of\nvictims would be higher.\n\ntp Oe Eee ee eee ee \u2019 eee eee eee eee eee eee ~\n' Ashepherdswom to guide the night. The scent of faith laced with despair. \u2014 | :\n|; With whispered prayers and sacred hands, Apromise spuninwebs unseen, |\n|| He sowed the faith in shifting sands. Anightmare veiled in what had been. . |\n|| Achild approached with eyes so wide, Years will pass, the wounds remain,\n|, Seekingsolace, safe inside. ' The echoes whisper through the pain.\n| But shadows stretched behind the giow, ' For what wastom can'tjust repair,\nWhere whispered words tumed cold as snow. Asoul once bound floats in the air.\n| \u201cFear the finn, but trustinme, | But truth will rise, the stars will cail, |\n| Thold the key, Iset you free.\u201d No shadow stands where justice falls. :\n| Yet chains were forged in holy guise, And though tlie scars may never fade,\n\u2019 Where trust was lost in silent cries. The dawn will break\u2014unafraid\u201d. i\"\nThe poem, Whispers of Faith, Echoes of Fear, penned by Chief Judicial Magistrate Mir Wajahat\n\nConvicting the accused of\nchild abuse, Baramulla CJM\nWajahat said on Monday: \u201cIn\nlightofthecompelling reliable.\nevidence presented bythe pros-\necution, this court holds thatthe\naccused is guilty of committing\nunnatural offences punishable\nunder Section 377 RPC, affecting\nthe body, mind and soul of (two\nprosecution witnesses).\u201d\n\u201cThe prosecution has estab-\nlished all ingredients of the of-\nfence beyond reasonable doubt..\nThe defence has failed to create\nany substantial doubt that would\nmenit an acquittal,\u201d the order\n\nread. \u201cThe accused is convicted\nunder Section 377 RPC for com-\nmitting unnaturaloffences...The\nestablished legal principles gov-\neming sexual offences leave no\nroom for doubt regarding the ac-\ncused's guilt,\u201d the court said.\nIt said that while the other\nprotected minor victims \u201ccoura-\ngeously recounted harrowing\naccounts oftheir suffering\u201d, this\njudgment \u201crefrains from exten-\nsive elaboration or deliberation,\nsolely to uphold the sanctity of\nthe impending investigation,\nwhich must proceed after the\nregistration of separate FIRs.\u201d",
+   "ocr_conf": 85.64831261101243,
+   "ocr_low_conf_share": 0.10301953818827708,
+   "headline": "Some poetic justice as J&K court convicts faith healer of child abuse",
+   "deck": "",
+   "byline": "ANCHOR",
+   "text": "NINE YEARSaftera minor broke his silence before his father and narrated the details of sexual abuse by a faith healer, aJammu and Kashmir courthas convicted the accused under Section 377 of the Ranbir Penal Code(RPC). The 123-page judgment ends with apoem - Whispers of Faith,\n\nEchoes of Fear - that Chief Judicial Magistrate Mir Wajahat penned on the victims' ordeal and the character of the accused. The first case came tw light in March 2016, when the 14-year old boy refused to visit the accused despite his family insisting onit. It wasonly when the family tried to persuade him that he opened up.Onceacase wasfiled, several other children came forward to narrate the sexual abuse by the accused. By then, many victims had grown up and were in their late eensorearly 20s. The accused, now 54, would\n\nreportedly promise hisdisciples good fortunes, relief from financial problems, or a cure for medical ailments He would tell them to bring their children so they could talk to the djinns (supernatural powers) at his home on the outskirts of Sopore. He would reportedly silence his victims by telling them that if they spoke t anyone, they would be chased by djinns and their families would be destroyed. Atleast 12 families have approached the court, though authorities stimmate ine nwinber of victims would be higher.\n\ntp Oe Eee ee eee ee ' eee eee eee eee eee eee ~ ' Ashepherdswom to guide the night. The scent of faith laced with despair. -:; With whispered prayers and sacred hands, Apromise spuninwebs unseen, He sowed the faith in shifting sands. Anightmare veiled in what had been.. Achild approached with eyes so wide, Years will pass, the wounds remain,, Seekingsolace, safe inside. ' The echoes whisper through the pain. But shadows stretched behind the giow, ' For what wastom can'tjust repair, Where whispered words tumed cold as snow. Asoul once bound floats in the air. \"Fear the finn, but trustinme, But truth will rise, the stars will cail, Thold the key, Iset you free.\" No shadow stands where justice falls.: Yet chains were forged in holy guise, And though tlie scars may never fade, ' Where trust was lost in silent cries. The dawn will break - unafraid\". i\" The poem, Whispers of Faith, Echoes of Fear, penned by Chief Judicial Magistrate Mir Wajahat\n\nConvicting the accused of child abuse, Baramulla CJM Wajahat said on Monday: \"In lightofthecompelling reliable. evidence presented bythe prosecution, this court holds thatthe accused is guilty of committing unnatural offences punishable under Section 377 RPC, affecting the body, mind and soul of (two prosecution witnesses).\" \"The prosecution has established all ingredients of the offence beyond reasonable doubt.. The defence has failed to create any substantial doubt that would menit an acquittal,\" the order\n\nread. \"The accused is convicted under Section 377 RPC for committing unnaturaloffences...The established legal principles goveming sexual offences leave no room for doubt regarding the accused's guilt,\" the court said. It said that while the other protected minor victims \"courageously recounted harrowing accounts oftheir suffering\", this judgment \"refrains from extensive elaboration or deliberation, solely to uphold the sanctity of the impending investigation, which must proceed after the registration of separate FIRs.\"",
+   "n_words": 531,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.9,
+ "flags": []
+}

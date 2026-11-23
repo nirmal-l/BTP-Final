@@ -1,0 +1,590 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_03_front",
+ "source_file": "2025-11-03_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-03_front.png",
+ "date": "2025-11-03",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 39.0,
+  "masthead_y": 623,
+  "n_lines": 238,
+  "mean_line_conf": 82.31930444152229,
+  "orphan_words": 15,
+  "body_words_total": 972
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      381,
+      696,
+      3614,
+      743
+     ]
+    ],
+    "layout_words": 15,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "INDIAN WOMEN BEAT SOUTH AFRICA BY 52 RUNS TO WIN FIRSTODIWORLDCUP __ BIHARMINORITY BASTION SEEMANCHAL",
+   "ocr_conf": 84.73333333333333,
+   "ocr_low_conf_share": 0.13333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "INDIAN WOMEN BEAT SOUTH AFRICA BY 52 RUNS TO WIN FIRSTODIWORLDCUP __ BIHARMINORITY BASTION SEEMANCHAL",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      764,
+      4178,
+      994
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2763,
+      1019,
+      4168,
+      1080
+     ],
+     [
+      2765,
+      1188,
+      3090,
+      1256
+     ],
+     [
+      3305,
+      1188,
+      3513,
+      1256
+     ],
+     [
+      2763,
+      1289,
+      3205,
+      1401
+     ],
+     [
+      3293,
+      1289,
+      3652,
+      1401
+     ]
+    ],
+    "body_boxes": [
+     [
+      2765,
+      1228,
+      2952,
+      1262
+     ],
+     [
+      2764,
+      1384,
+      3206,
+      1775
+     ],
+     [
+      3308,
+      1146,
+      3503,
+      1183
+     ],
+     [
+      3432,
+      1384,
+      3652,
+      1421
+     ],
+     [
+      3293,
+      1581,
+      3657,
+      1734
+     ],
+     [
+      3739,
+      1109,
+      4180,
+      1183
+     ],
+     [
+      3740,
+      1228,
+      4179,
+      1294
+     ],
+     [
+      3738,
+      1384,
+      4183,
+      1775
+     ]
+    ],
+    "layout_words": 150
+   },
+   "headline_raw": "Over ghuspaithiya and SIR noise,\nvoices for stakes in the big picture",
+   "deck_raw": "The refrain: need to link politics, aspirations to mainstream\nPURNEA, KISHANGANJ,\nNOVEMBER 2\n2025\nTHE BORDER is never too far\naway in Seemanchal, with\nRansladesh through West\nBIHAR\nry rrenon ?T4\n- ag",
+   "body_raw": "NOVEMBER 2\n\nBangladesh through West\nBengal and with Nepal. You see it\nin the Bengali on signboards, and\nhear it in the frequent use of the\nterm \u201ckhela( game)\u201d in conver-\nsations with voters who speak\nthe \u201cSurjapuri\u201d dialect, a blend\nof Bengali, Hindi and Urdu. This\nregion is also home to large\nMuslim populations \u2014 rising\n\nDECISION\n\n. a 2\n\n@ RJD put gun to Cong\nhead for CM face: PM;\nOp Sindoor stopped due\nto US pressure: Rahul P6\n\nfrom Purnea\u2019s 39 per cent to\nabout 68 per centin Kishanganj.\n\nPurnea, Kishanganj, Araria and\nKatihar have been seen to hold\n\nM-Y formula \u2014 until they didn\u2019t.\nIn the 2020 assembly elections,\nAsaduddin Owaisi\u2019s AIMIM\u2019s\nsurprise victories in five seatsall\ncame inthis region, contributing\nto the BJP-led NDA's upper hand\nin Seemanchal and in Bihar. Of\nthe region\u2019s 24 seats in the out-\ngoing House, other than Owaisi's\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.01960784313725,
+   "ocr_low_conf_share": 0.05228758169934641,
+   "headline": "Over ghuspaithiya and SIR noise, voices for stakes in the big picture",
+   "deck": "The refrain: need to link politics, aspirations to mainstream PURNEA, KISHANGANJ, NOVEMBER 2 THE BORDER is never too far away in Seemanchal, with Ransladesh through West BIHAR ry rrenon?T4 - ag",
+   "byline": "NOVEMBER 2",
+   "text": "Bangladesh through West Bengal and with Nepal. You see it in the Bengali on signboards, and hear it in the frequent use of the term \"khela( game)\" in conversations with voters who speak the \"Surjapuri\" dialect, a blend of Bengali, Hindi and Urdu. This region is also home to large Muslim populations - rising\n\nDECISION\n\n@ RJD put gun to Cong head for CM face: PM; Op Sindoor stopped due to US pressure: Rahul P6\n\nfrom Purnea's 39 per cent to about 68 per centin Kishanganj.\n\nPurnea, Kishanganj, Araria and Katihar have been seen to hold\n\nM-Y formula - until they didn't. In the 2020 assembly elections, Asaduddin Owaisi's AIMIM's surprise victories in five seatsall came inthis region, contributing to the BJP-led NDA's upper hand in Seemanchal and in Bihar. Of the region's 24 seats in the outgoing House, other than Owaisi's",
+   "n_words": 142,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      1842,
+      4123,
+      2236
+     ],
+     [
+      2762,
+      2442,
+      3203,
+      2527
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2761,
+      2245,
+      3689,
+      2389
+     ],
+     [
+      2762,
+      2395,
+      3202,
+      2449
+     ]
+    ],
+    "body_boxes": [
+     [
+      2760,
+      2487,
+      3203,
+      3114
+     ],
+     [
+      3283,
+      2487,
+      3657,
+      3082
+     ],
+     [
+      3737,
+      2487,
+      4182,
+      3115
+     ]
+    ],
+    "layout_words": 211
+   },
+   "headline_raw": "US and China take great Punjab Police\n\u00b0 stop newspape\nleap of faith, agree tO ane for check\nopen military channels Opp says AAP\nDelhi, other capitals trackengagement targeting medi\nOEE IE OER EE IEE IE EES EIEN ONSEN EG NEE\nBeijing within days of the meet-\ning between President Donald",
+   "deck_raw": "BE oO 4 =| an\nSHUBHAJIT ROY =\nNEW DELHI, NOVEMBER 2 z= Theregion,\nIN A significant outreach to",
+   "body_raw": "ing between President Donald\nTrump and President Xi Jinping,\nUS Secretary of War Pete\nHegseth said Sunday that he met\nChina\u2019s Minister of National\nDefense Admiral Dong Jun and\nboth agreed to strengthen com-\nmunication, maintain stability in\nbilateral ties and \u201cset up mili-\ntary-to-military channels to de-\nconflict and de-escalate any\nproblems that arise\u201d.\nHegseth said he met Dong in\nMalaysia and they spoke again\nSaturday. He said Trump's historic\nCONTINUED ON PAGE 2\n\nFOR YEARS, China\u2019s daims\nand disputes have kept the\nIndo-Pacific on the edge \u2014\nfrom Taiwan Strait to\nSouth China Sea and the\nLadakh frontier \u2014 and the\nUS has been the moving\nforce behind efforts\nto counter it. The US\ndecision to engage with\nChina at military level\nwill be closely watched\ngiven the concerns and\nquestions in the capitals\nof theregion.\n\nrupted Sunday with agents saying\nthe police stopped their vehicles\nand detained drivers in a\u201cmassive\nchecking operation\u201d.The vehicles\nand drivers were later released,\nthe delivery agents said.\nWhile the police claimed the\naction followed an \u201cintelligence\ninput\u201d about the smuggling of\n\u201cdrugs and ammunition\u201d, the\nstate's Opposition accused the\nAAP government of trying to\n\u201cmuzzle the voice of the media\u201d\nwith the Tarn Taran Assembly\nbypoll slated on November 11.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.2122641509434,
+   "ocr_low_conf_share": 0.009433962264150943,
+   "headline": "US and China take great Punjab Police \u00b0 stop newspape leap of faith, agree tO ane for check open military channels Opp says AAP Delhi, other capitals trackengagement targeting medi OEE IE OER EE IEE IE EES EIEN ONSEN EG NEE Beijing within days of the meeting between President Donald",
+   "deck": "SHUBHAJIT ROY = NEW DELHI, NOVEMBER 2 z= Theregion, IN A significant outreach to",
+   "byline": "",
+   "text": "ing between President Donald Trump and President Xi Jinping, US Secretary of War Pete Hegseth said Sunday that he met China's Minister of National Defense Admiral Dong Jun and both agreed to strengthen communication, maintain stability in bilateral ties and \"set up military-to-military channels to deconflict and de-escalate any problems that arise\". Hegseth said he met Dong in Malaysia and they spoke again Saturday. He said Trump's historic\n\nFOR YEARS, China's daims and disputes have kept the Indo-Pacific on the edge - from Taiwan Strait to South China Sea and the Ladakh frontier - and the US has been the moving force behind efforts to counter it. The US decision to engage with China at military level will be closely watched given the concerns and questions in the capitals of theregion.\n\nrupted Sunday with agents saying the police stopped their vehicles and detained drivers in a\"massive checking operation\".The vehicles and drivers were later released, the delivery agents said. While the police claimed the action followed an \"intelligence input\" about the smuggling of \"drugs and ammunition\", the state's Opposition accused the AAP government of trying to \"muzzle the voice of the media\" with the Tarn Taran Assembly bypoll slated on November 11.",
+   "n_words": 201,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2442,
+      2210,
+      2527
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1351,
+      2571,
+      1684,
+      2623
+     ],
+     [
+      1343,
+      2677,
+      1669,
+      2732
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      2571,
+      2225,
+      3119
+     ],
+     [
+      810,
+      3085,
+      1249,
+      3119
+     ],
+     [
+      355,
+      3526,
+      2188,
+      3929
+     ],
+     [
+      349,
+      5098,
+      2134,
+      5162
+     ],
+     [
+      519,
+      5183,
+      1265,
+      5332
+     ],
+     [
+      1292,
+      5183,
+      2060,
+      5332
+     ]
+    ],
+    "layout_words": 331
+   },
+   "headline_raw": "Indian players celebrate the fall of awicket during the Women\u2019s World Cup final against South Africa in Navi Mumbai. Reuters",
+   "deck_raw": "FULL COVERAGE\n\\ \u201c . \u2014 t\n| Her grit, Her game. Het glory",
+   "body_raw": "= 7 Now, under a sky heavy with South Africa\u2019s resistance and\nMIHIR VASAVDA tension, the 21-year-old, who FULLCOVERAGE \u2014gwung the momentum back in\nMUMBAI, NOVEMBER 2 scored a blistering 87 earlier in eee India\u2019s favour. A couple of hours\nthe day, faced a far more daunt- Her grit, Hiern. Her BY, | later, the Indian players held aloft\nMORE OUT of desperationthan _ ing test. South Africa\u2019s Laura Vo Se the trophy, after a 52-run win,\nby design, Harmanpreet Kaur Wolvaardt and Sune Luus were - ; ; vo and every doubt dissolved into\nhurled theballin thedirectionof \u2014 strangling India\u2019s chances. With | confetti.\nShafali Verma. Until last week, the match slipping out of their aan e ete It was only fitting as\nShafali wasin Surat, with the \u2014 grasp, Harmanpreet turned to = ee \u00e9 Nass a Harmanpreet took the catch that\nHaryanateam, before beingSOS- \u2014 Shafali \u2014 the last, unlikely hope ae Doe : sealed the history-making result\nedinto the national sidebecause _ to turn the tide. She did that, ' eee EE withall-rounder Deepti Sharma\nof aninjurytoPratikaRawal,one and more. woe ee |S finishing witha five-wicket haul\nof the stars of India\u2019s World Cup In two consecutive overs, she PAGES 14-15 on the back of a half-century\ncampaign. picked two wickets that broke = _ CONTINUED ON PAGE 2\n\nHMDA provides an Opportunity to Own Encumbrance Free Prime Land Parcels\nZoned Under Multi-Use at Kokapet (Neopolis-Golden Mile) & Moosapet.\nThe Government of Telangana is desirous of calling bids for sale of certain Government land parcels strategically located\nin Hyderabad\u2019s most-sought after location at Kokapet (Neopolis, Golden Mile) Kokapet(vg), Gandipet (Mdl), Rangareddy\n(dist), & at Moosapet (near moosapet Y-junction) (vg), Kukatpally (mdl), Medchal-Malkajgiri (dist) on \u201cAs is where is\nBasis\u201d through e-Auction HMDA on behalf of the Government Telangana, invites bids for sale of the following land\nparcels through e-Auction.\n\n* The land extent referenced above is provisional and indicative only, The exact land extent shail be determined by a joint survey to be\ncarried out with the successful bidder.\n\nCONTACT DETAILS. \u00ab *\nSite visit: 1) Sri Appa Rao, SE/EE, HMDA\n; M: 9849909840\n\n( Date of Notification : 03-11-2025\nRegistration fee : Rs: 1,180/- (including GST)\n(non-refundable)",
+   "ocr_conf": 81.6622340425532,
+   "ocr_low_conf_share": 0.1702127659574468,
+   "headline": "Indian players celebrate the fall of awicket during the Women's World Cup final against South Africa in Navi Mumbai. Reuters",
+   "deck": "FULL COVERAGE Her grit, Her game. Het glory",
+   "byline": "",
+   "text": "= 7 Now, under a sky heavy with South Africa's resistance and MIHIR VASAVDA tension, the 21-year-old, who FULLCOVERAGE - gwung the momentum back in MUMBAI, NOVEMBER 2 scored a blistering 87 earlier in eee India's favour. A couple of hours the day, faced a far more daunt- Her grit, Hiern. Her BY, later, the Indian players held aloft MORE OUT of desperationthan _ ing test. South Africa's Laura Vo Se the trophy, after a 52-run win, by design, Harmanpreet Kaur Wolvaardt and Sune Luus were -;; vo and every doubt dissolved into hurled theballin thedirectionof - strangling India's chances. With confetti. Shafali Verma. Until last week, the match slipping out of their aan e ete It was only fitting as Shafali wasin Surat, with the - grasp, Harmanpreet turned to = ee \u00e9 Nass a Harmanpreet took the catch that Haryanateam, before beingSOS- - Shafali - the last, unlikely hope ae Doe: sealed the history-making result edinto the national sidebecause _ to turn the tide. She did that, ' eee EE withall-rounder Deepti Sharma of aninjurytoPratikaRawal,one and more. woe ee S finishing witha five-wicket haul of the stars of India's World Cup In two consecutive overs, she PAGES 14-15 on the back of a half-century\n\nHMDA provides an Opportunity to Own Encumbrance Free Prime Land Parcels Zoned Under Multi-Use at Kokapet (Neopolis-Golden Mile) & Moosapet. The Government of Telangana is desirous of calling bids for sale of certain Government land parcels strategically located in Hyderabad's most-sought after location at Kokapet (Neopolis, Golden Mile) Kokapet(vg), Gandipet (Mdl), Rangareddy (dist), & at Moosapet (near moosapet Y-junction) (vg), Kukatpally (mdl), Medchal-Malkajgiri (dist) on \"As is where is Basis\" through e-Auction HMDA on behalf of the Government Telangana, invites bids for sale of the following land parcels through e-Auction.\n\n* The land extent referenced above is provisional and indicative only, The exact land extent shail be determined by a joint survey to be carried out with the successful bidder.\n\nCONTACT DETAILS. \u00ab * Site visit: 1) Sri Appa Rao, SE/EE, HMDA\n\n( Date of Notification: 03-11-2025 Registration fee: Rs: 1,180/- (including GST) (non-refundable)",
+   "n_words": 350,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2481,
+      3715,
+      3969,
+      3809
+     ],
+     [
+      2672,
+      3908,
+      3866,
+      4311
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2819,
+      4274,
+      4156,
+      4320
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "physical share transfer deadline?\n\u201cSoo news!\nSEBI is giving investors a",
+   "deck_raw": "",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "physical share transfer deadline? \"Soo news! SEBI is giving investors a",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      400,
+      4291,
+      615,
+      4462
+     ]
+    ],
+    "deck_boxes": [
+     [
+      400,
+      4364,
+      569,
+      4422
+     ],
+     [
+      399,
+      4557,
+      614,
+      4714
+     ],
+     [
+      397,
+      4855,
+      627,
+      5072
+     ]
+    ],
+    "body_boxes": [
+     [
+      399,
+      4770,
+      606,
+      4848
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "Kokapet (Vg),\nGandipet (md),\nRangareddy\n(dist)",
+   "deck_raw": "Rangareddy\nf{Aict\u2019\nKokapet(vg),\nGandipet (Md)),\nRangareddy\n(dist)\nKukatpally(mdi),\nMedchal-\nMalkajgiri(dist)\n(near moosapet\nY-junction)",
+   "body_raw": "HMDA land @\nMoosapet (vg),",
+   "ocr_conf": 91.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Kokapet (Vg), Gandipet (md), Rangareddy (dist)",
+   "deck": "Rangareddy f{Aict' Kokapet(vg), Gandipet (Md)), Rangareddy (dist) Kukatpally(mdi), Medchal-Malkajgiri(dist) (near moosapet Y-junction)",
+   "byline": "",
+   "text": "HMDA land @ Moosapet (vg),",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      368,
+      5318,
+      1045,
+      5423
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      519,
+      5433,
+      1043,
+      5593
+     ]
+    ],
+    "layout_words": 16
+   },
+   "headline_raw": "P| WE. JOSIIUIOSYU\n. 2) Sri Ravinder, DyEE, HMDA\nhmda s M: 9133059867",
+   "deck_raw": "",
+   "body_raw": "Queries : 1) Call centre @ HMDA\nM: 7416835522\n2) Sri Amarender, SA, HMDA\nM: 7601063358",
+   "ocr_conf": 92.9375,
+   "ocr_low_conf_share": 0.0,
+   "headline": "P WE. JOSIIUIOSYU. 2) Sri Ravinder, DyEE, HMDA",
+   "deck": "",
+   "byline": "",
+   "text": "Queries: 1) Call centre @ HMDA 2) Sri Amarender, SA, HMDA",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1329,
+      5318,
+      2161,
+      5423
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1327,
+      5433,
+      2161,
+      5593
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "VUaNTICTCIUualio)\nBid Document Fee _ : Rs: 10.00 ljakhs+GST\n(Non-refundable) to be payable to",
+   "deck_raw": "",
+   "body_raw": "HMDA to participate in the auction\nfor Further details : Log on to www.hmda.gov.in,\nwww.mstcecommerce.com,\nfor e-~Brochure and other terms",
+   "ocr_conf": 86.8,
+   "ocr_low_conf_share": 0.1,
+   "headline": "VUaNTICTCIUualio) Bid Document Fee _: Rs: 10.00 ljakhs+GST (Non-refundable) to be payable to",
+   "deck": "",
+   "byline": "",
+   "text": "HMDA to participate in the auction for Further details: Log on to www.hmda.gov.in, www.mstcecommerce.com, for e-~Brochure and other terms",
+   "n_words": 19,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      376,
+      5798,
+      1122,
+      5940
+     ],
+     [
+      350,
+      6044,
+      1839,
+      6130
+     ]
+    ],
+    "deck_boxes": [
+     [
+      369,
+      5611,
+      1154,
+      5750
+     ],
+     [
+      367,
+      5907,
+      712,
+      6049
+     ]
+    ],
+    "body_boxes": [
+     [
+      483,
+      5844,
+      897,
+      5886
+     ],
+     [
+      697,
+      6025,
+      901,
+      6066
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "1. Sri Rohan Ravi, Associate Director,\nTransaction advisor M: 89783 69987 ke\nrohan.ravi@cusnwake.com\nai CUSHMAN & Ori Deahh: D Rdnrnanar BA QOOELAA O\nM: 98851 53300 EGGwaes ee SE SerE wi HEE |\n\\ samson.arthur@cushwake.com 7, HMDA",
+   "deck_raw": "ett 1) Sri Siddarth Varadhi, Manager, MSTC\nBre STC for 4 8801074754 hydopnt @mstcindia.in\n. 7g @-Auction ae\nBY participation 2) Sri Sai Dinesh Kumar, SA, MSTC\nro\nCUSHMAN &\nule WAKEFIELD 2. St\nCushman & Wakefield pr\n(india) Pvt.Ltd 3.\nha",
+   "body_raw": "Ue Ot FUGPRICIE Dice, \u00a9\ntian advisor M: 89783 69981\n\nVil VGHOUrl Pu Ulu\nM: 98851 53300",
+   "ocr_conf": 57.05882352941177,
+   "ocr_low_conf_share": 0.5294117647058824,
+   "headline": "1. Sri Rohan Ravi, Associate Director, Transaction advisor M: 89783 69987 ke rohan.ravi@cusnwake.com ai CUSHMAN & Ori Deahh: D Rdnrnanar BA QOOELAA O M: 98851 53300 EGGwaes ee SE SerE wi HEE \\ samson.arthur@cushwake.com 7, HMDA",
+   "deck": "ett 1) Sri Siddarth Varadhi, Manager, MSTC Bre STC for 4 8801074754 hydopnt @mstcindia.in BY participation 2) Sri Sai Dinesh Kumar, SA, MSTC ro CUSHMAN & ule WAKEFIELD 2. St Cushman & Wakefield pr (india) Pvt.Ltd 3. ha",
+   "byline": "",
+   "text": "Ue Ot FUGPRICIE Dice, \u00a9 tian advisor M: 89783 69981\n\nVil VGHOUrl Pu Ulu",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1321,
+      5798,
+      2104,
+      5940
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1293,
+      5611,
+      1847,
+      5664
+     ],
+     [
+      1349,
+      5844,
+      1476,
+      5970
+     ],
+     [
+      1504,
+      5998,
+      2049,
+      6049
+     ]
+    ],
+    "body_boxes": [
+     [
+      1323,
+      5686,
+      2126,
+      5824
+     ],
+     [
+      1616,
+      6025,
+      1638,
+      6066
+     ]
+    ],
+    "layout_words": 24
+   },
+   "headline_raw": "shalt be paid within (7) days from date of issue of lette\nof offer\n2) Balance sale value including EMD shall be paid within",
+   "deck_raw": "NS & conditions\nof offer\n) Balance ;\n(60) days\nMetropolitan Commissioner",
+   "body_raw": "1) First Installment 25% of sale value (excluding EMD)\nshalt be paid within (7) days from date of issue of letter\n\npi",
+   "ocr_conf": 88.86363636363636,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "shalt be paid within (7) days from date of issue of lette of offer 2) Balance sale value including EMD shall be paid within",
+   "deck": "NS & conditions of offer ) Balance; Metropolitan Commissioner",
+   "byline": "",
+   "text": "1) First Installment 25% of sale value (excluding EMD) shalt be paid within (7) days from date of issue of letter\n\npi",
+   "n_words": 22,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 13.4,
+ "flags": []
+}

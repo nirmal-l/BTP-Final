@@ -1,0 +1,706 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_19_editorial",
+ "source_file": "2025-11-19_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-19_editorial.png",
+ "date": "2025-11-19",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 488,
+  "mean_line_conf": 89.7633204540223,
+  "orphan_words": 5,
+  "body_words_total": 1990
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3581,
+      858,
+      4178,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 91.6,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      357,
+      936,
+      788,
+      1096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1150,
+      736,
+      1382
+     ],
+     [
+      323,
+      1426,
+      752,
+      1620
+     ]
+    ],
+    "layout_words": 43
+   },
+   "headline_raw": "Happening \u00a9\ntoday",
+   "deck_raw": "",
+   "body_raw": "@UKRAINIAN PRESIDENT\nVolodymyr Zelenskyy will\nmeet US special envoy Steve\nWitkoff in Turkey in an attempt\ntojump-start negotiations\nonending Russia's invasion.\n\n@CHAIRMAN OF the Economic\nAdvisory Council tothe Prime\nMinister will speak on Day 1 of\nDelhi School of Economics\u2019\nPublic Policy Conference.",
+   "ocr_conf": 91.55813953488372,
+   "ocr_low_conf_share": 0.023255813953488372,
+   "headline": "Happening \u00a9 today",
+   "deck": "",
+   "byline": "@UKRAINIAN PRESIDENT",
+   "text": "Volodymyr Zelenskyy will meet US special envoy Steve Witkoff in Turkey in an attempt tojump-start negotiations onending Russia's invasion.\n\n@CHAIRMAN OF the Economic Advisory Council tothe Prime Minister will speak on Day 1 of Delhi School of Economics' Public Policy Conference.",
+   "n_words": 41,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      1009,
+      2650,
+      1315
+     ],
+     [
+      809,
+      1414,
+      1728,
+      1618
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      937,
+      2473,
+      981
+     ],
+     [
+      327,
+      1831,
+      750,
+      1874
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      1917,
+      759,
+      2051
+     ],
+     [
+      365,
+      2130,
+      717,
+      2225
+     ],
+     [
+      807,
+      1663,
+      1112,
+      1854
+     ],
+     [
+      804,
+      1906,
+      1250,
+      2853
+     ],
+     [
+      1788,
+      1946,
+      3057,
+      1982
+     ]
+    ],
+    "layout_words": 145
+   },
+   "headline_raw": "Most wanted Maoist com!\nHidma killed in Andhra fc\nHad fled Chhattisgarh; was shot dead\nalong with his wife and four others\nafter security forces encircled them",
+   "deck_raw": "RESPONSIBLE FOR SPATE OF DEADLY ATTACKS ON SECURITY FORCES\nFOR THE RECORD",
+   "body_raw": "THE6TH RAMNATH\nGOENKA LECTURE:\nEXCERPTS PAGE6\n\nBusiness as Usual\nByEPUNNY\n\nSreenivas Janyala,\nJayprakash S Naidu\n& Nikhila Henry\nHyderabad, Raipur,\nNovember 18\n\nMADVI HIDMA (51), the most\nwanted leader left within the\nNaxal ranks and the man re-\nsponsible for some of the blood-\niest attacks on security forces,\nwas killed in an encounter in\nAndhra Pradesh on Tuesday\nmorning.\nAmit Bardar, Superintend-\nent of Police, Alluri Sitarama\nRaju district, told The Indian Ex-\npressthat Hidma alias Santosh,\nhis wife and four others were\nfleeing from Chhattisgarh when\nthey were surrounded by secur-\nity forces inthe Maredumilli for-\nest between 6am and? am.\n\u201cFor the past few weeks, in-\nputs from the Andhra Pradesh\nSpecial Intelligence Bureau\nhave specifically indicated the\nmovement of Maoists near the\nAndhra Pradesh-Chhattisgarh-\nOdisha border and, based on\n\nAndhra Pradesh Intelligence Chief Mahesh Chandra Ladda briefs media about the operation.",
+   "ocr_conf": 92.93793103448276,
+   "ocr_low_conf_share": 0.006896551724137931,
+   "headline": "Most wanted Maoist com! Hidma killed in Andhra fc Had fled Chhattisgarh; was shot dead along with his wife and four others after security forces encircled them",
+   "deck": "RESPONSIBLE FOR SPATE OF DEADLY ATTACKS ON SECURITY FORCES FOR THE RECORD",
+   "byline": "THE6TH RAMNATH; GOENKA LECTURE:; EXCERPTS PAGE6",
+   "text": "Business as Usual ByEPUNNY\n\nSreenivas Janyala, Jayprakash S Naidu & Nikhila Henry Hyderabad, Raipur, November 18\n\nMADVI HIDMA (51), the most wanted leader left within the Naxal ranks and the man responsible for some of the bloodiest attacks on security forces, was killed in an encounter in Andhra Pradesh on Tuesday morning. Amit Bardar, Superintendent of Police, Alluri Sitarama Raju district, told The Indian Expressthat Hidma alias Santosh, his wife and four others were fleeing from Chhattisgarh when they were surrounded by security forces inthe Maredumilli forest between 6am and? am. \"For the past few weeks, inputs from the Andhra Pradesh Special Intelligence Bureau have specifically indicated the movement of Maoists near the Andhra Pradesh-Chhattisgarh-Odisha border and, based on\n\nAndhra Pradesh Intelligence Chief Mahesh Chandra Ladda briefs media about the operation.",
+   "n_words": 131,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2023,
+      3198,
+      2221
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2762,
+      2300,
+      3183,
+      2343
+     ]
+    ],
+    "body_boxes": [
+     [
+      1785,
+      2260,
+      2166,
+      2458
+     ],
+     [
+      1785,
+      2505,
+      2227,
+      2857
+     ],
+     [
+      2273,
+      2265,
+      2715,
+      2858
+     ],
+     [
+      2761,
+      2392,
+      3199,
+      2531
+     ],
+     [
+      2761,
+      2626,
+      3201,
+      2695
+     ],
+     [
+      2758,
+      2728,
+      3203,
+      2851
+     ]
+    ],
+    "layout_words": 147
+   },
+   "headline_raw": "Ruthless tactician, biggest influence\non cadre: Killing a big blow to Maoists",
+   "deck_raw": "THE BIG PICTURE",
+   "body_raw": "Jayprakash S Naidu,\nDeeptiman Tiwary\n& Srinivas Janyala\nRaipur, New Delhi,\nHyderabad, November 18\n\nFOR NEARLY three decades,\nthe name MadviHidma\nhad travelled through\nthe forests of Bastar.On |\nTuesday, that shadowy |\nfigure, the Maoists\u2019\nmost feared battlefield\ncommander and their\nonly tribal leader to rise from a\n\nchild recruit to the organisa-\ntion\u2019s top decision-making\nbodies, was killed in an en-\ncounter with the Andhra Pra-\ndesh police.\nHis death, officials say, may\nbe the single biggest blow to the\nCPI (Maoist) in the last\n1 20 years, not merely be-\n. cause he was a ruthless\ntactician responsible for\nthe bloodiest attacks on\nsecurity forces, but be-\ncause he was the last in-\nfluential figure left in a move-\n\nHUNT FOR HIDMA:\n\u2018HE WAS OUR\nNEMESIS ONCE\u2019 p7\n\nment struggling with age, ex-\nhaustion, and irrelevance.\n\nMaking of the myth\nHidma\u2019s story begins in\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 90.63333333333334,
+   "ocr_low_conf_share": 0.03333333333333333,
+   "headline": "Ruthless tactician, biggest influence on cadre: Killing a big blow to Maoists",
+   "deck": "THE BIG PICTURE",
+   "byline": "",
+   "text": "Jayprakash S Naidu, Deeptiman Tiwary & Srinivas Janyala Raipur, New Delhi, Hyderabad, November 18\n\nFOR NEARLY three decades, the name MadviHidma had travelled through the forests of Bastar.On Tuesday, that shadowy figure, the Maoists' most feared battlefield commander and their only tribal leader to rise from a\n\nchild recruit to the organisation's top decision-making bodies, was killed in an encounter with the Andhra Pradesh police. His death, officials say, may be the single biggest blow to the CPI (Maoist) in the last 1 20 years, not merely be-. cause he was a ruthless tactician responsible for the bloodiest attacks on security forces, but because he was the last influential figure left in a move-\n\nHUNT FOR HIDMA: 'HE WAS OUR NEMESIS ONCE' p7\n\nment struggling with age, exhaustion, and irrelevance.\n\nMaking of the myth Hidma's story begins in",
+   "n_words": 138,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      2085,
+      4167,
+      2583
+     ],
+     [
+      3249,
+      2655,
+      3670,
+      2912
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      2013,
+      3835,
+      2057
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      2981,
+      3612,
+      3054
+     ],
+     [
+      3249,
+      3102,
+      3693,
+      3965
+     ],
+     [
+      3249,
+      3980,
+      3690,
+      4132
+     ],
+     [
+      3736,
+      2627,
+      4179,
+      4125
+     ],
+     [
+      3737,
+      4498,
+      4181,
+      5121
+     ]
+    ],
+    "layout_words": 389
+   },
+   "headline_raw": "Leaders of Hasina\nparty slam death\npenalty, say \u2018India\nmust help our fight\u2019\nSay want to go\nback, fight polls\nbut level-playing\nfield needed",
+   "deck_raw": "AWAMI LEAGUE IN EXILE",
+   "body_raw": "Ritu Sarin\nNew Delhi, November 18\n\nADAY after former Bangladesh\nprime minister Sheikh Hasina\nwas awarded the death penalty\nby an International Crimes\nTribunal, and Dhaka asked\nDelhi tosend her back, leaders\nof her Awami League party who\nare in undisclosed locations\nsaid they can only return if\nthere is \u201cpolitical inclusion\u201d\nand that they expect India to\ncontinue giving her shelter, as\nwell as \u201chonour\u201d and\n\u201csecurity\u201d.\nTheIndian Express spoke to\nseveral Awami League leaders\nand former MPs \u2014 about\nhundred of them are living in\nexile, with an equal number\nalong with thousands of party\ncadres behind bars in Bangla-\ndesh.\n\nFour-time MP Nahim Raz-\nzaq, who talks about the at-\ntempt to \u201cfinish off\u201d Awami\nLeague with a ban, criminal\n\ncases against its leaders, target-\ning of their families, and a\nfreeze on their bank accounts,\nsays the verdict against Hasina\nhas in fact \u201csuddenly moti-\nvated\u201d them. The former PM\nwas sentenced to death for\n\u201ccrimes against humanity\u201d,\nalong with former home min-\nister Asaduzzaman Khan\nKamal on similar charges.\n\u201cWe know going back to\nBangladesh is a challenge, but\nif the ban on the party is lifted\nand we are granted bail in the\ncases against us, the cadre and\nthe leadership are raring to go,\u201d\nsaid Razzaq.\nAll Awami League leaders\nsaid it was a matter of time be-\nfore the interim government\nheaded by Prof Muhammad\nYunus crumbles. Former Tex-\ntiles and Jute minister Jahangir\nKabir Nanok said no election\nheld with Yunus at the helm\nwould be credible. \u201cHe has to\nresign. The senior leaders ofthe\nAwami League are clear about\nthe fact that we will not partici-\npate in polls under him,\u201d said\nNanok, amember ofthe Presid-\nium ofthe Awami League Cen-\ntral Committee.\nOn what leaders like him ex-\npect from India, Nanok, 71, said\nthat as \u201cour friend and\n\u00bbCONTINUED ONPAGE 2\n\nhe goes against the presump-\ntion that he will die ina specific\nsituation\u201d.\nWhile the Delhi Police said\nitis verifying the video clip, in-\nvestigators probing the terror\nmodule that Umar was part of\nsaid the clip had been extracted\nfrom his mobile phone.\nHighly placed sources told\nThe Indian Express that Umar\nhad handed over the phone to\nhis younger brother, who was\npicked up by the Jammu and\nKashmir Police from his\n\u00bbCONTINUEDON PAGE2",
+   "ocr_conf": 91.9948586118252,
+   "ocr_low_conf_share": 0.030848329048843187,
+   "headline": "Leaders of Hasina party slam death penalty, say 'India must help our fight' Say want to go back, fight polls but level-playing field needed",
+   "deck": "AWAMI LEAGUE IN EXILE",
+   "byline": "",
+   "text": "Ritu Sarin New Delhi, November 18\n\nADAY after former Bangladesh prime minister Sheikh Hasina was awarded the death penalty by an International Crimes Tribunal, and Dhaka asked Delhi tosend her back, leaders of her Awami League party who are in undisclosed locations said they can only return if there is \"political inclusion\" and that they expect India to continue giving her shelter, as well as \"honour\" and \"security\". TheIndian Express spoke to several Awami League leaders and former MPs - about hundred of them are living in exile, with an equal number along with thousands of party cadres behind bars in Bangladesh.\n\nFour-time MP Nahim Razzaq, who talks about the attempt to \"finish off\" Awami League with a ban, criminal\n\ncases against its leaders, targeting of their families, and a freeze on their bank accounts, says the verdict against Hasina has in fact \"suddenly motivated\" them. The former PM was sentenced to death for \"crimes against humanity\", along with former home minister Asaduzzaman Khan Kamal on similar charges. \"We know going back to Bangladesh is a challenge, but if the ban on the party is lifted and we are granted bail in the cases against us, the cadre and the leadership are raring to go,\" said Razzaq. All Awami League leaders said it was a matter of time before the interim government headed by Prof Muhammad Yunus crumbles. Former Textiles and Jute minister Jahangir Kabir Nanok said no election held with Yunus at the helm would be credible. \"He has to resign. The senior leaders ofthe Awami League are clear about the fact that we will not participate in polls under him,\" said Nanok, amember ofthe Presidium ofthe Awami League Central Committee. On what leaders like him expect from India, Nanok, 71, said that as \"our friend and \u00bbCONTINUED ONPAGE 2\n\nhe goes against the presumption that he will die ina specific situation\". While the Delhi Police said itis verifying the video clip, investigators probing the terror module that Umar was part of said the clip had been extracted from his mobile phone. Highly placed sources told The Indian Express that Umar had handed over the phone to his younger brother, who was picked up by the Jammu and Kashmir Police from his \u00bbCONTINUEDON PAGE2",
+   "n_words": 375,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1380,
+      2466,
+      1735,
+      2587
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      2625,
+      1740,
+      2850
+     ]
+    ],
+    "layout_words": 26
+   },
+   "headline_raw": "N70\nMaredumilli |\n\u00bb) Andhra Pradesh |",
+   "deck_raw": "",
+   "body_raw": "those inputs, we operated and\ngot this success,\u201d said a\ntop officer.\nHidma was a Central Com-\nmittee member and leader of\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 93.08,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Maredumilli \u00bb) Andhra Pradesh",
+   "deck": "",
+   "byline": "",
+   "text": "those inputs, we operated and got this success,\" said a top officer. Hidma was a Central Committee member and leader of",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2959,
+      1235,
+      3284
+     ],
+     [
+      320,
+      3376,
+      743,
+      3578
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3613,
+      681,
+      3689
+     ],
+     [
+      317,
+      3737,
+      760,
+      4522
+     ],
+     [
+      807,
+      3340,
+      1247,
+      3406
+     ],
+     [
+      805,
+      3419,
+      1249,
+      4522
+     ],
+     [
+      804,
+      4708,
+      1216,
+      5081
+     ]
+    ],
+    "layout_words": 267
+   },
+   "headline_raw": "SC recalls own order\nbarring retrospective\ngreen nod for projects\n2-1 verdict; step\nin retrogression:\nDissenting judge",
+   "deck_raw": "",
+   "body_raw": "AnanthakrishnanG\nNew Delhi, November 18\n\nCITING PUBLIC interest and\nlegal flaws, the Supreme Court,\nin a 2-1 decision Tuesday, re-\ncalled its May 16 ruling that had\nstruck down a Central govern-\nment notification allowing\ngrant of environmental clear-\nance (EC) for projects ex post\nfacto \u2014 in short, clearance for\nprojects after commencement.\nWhile Chief Justice of India\nBR Gavai and Justice K Vinod\nChandran backed the recall,\nJustice Ujjal Bhuyan dissented\nsaying the majority decision\n\u201coverlooks the very fundamen-\ntals of environmental jurispru-\ndence\u201d and \u201cis astep in retro-\ngression\u201d.\nThe matter will now be\n\nplaced before the CJI forfurther\naction.\n\nTuesday\u2019sdecision came on\na petition filed by the Confed-\neration of Real Estate Devel-\nopers of India (CREDAI) and\napplications by the Steel Auth-\nority of India (SAIL) and State\nof Karnataka, seeking review of\nthe May 16 verdict in Vana-\nshakti vs Union of India, de-\nlivered bya bench of JusticesA\nS Oka and Justices Bhuyan \u2014\nJustice Oka has since retired.\nThe May 16 ruling also struck\ndown a 2021 Office Memoran-\ndum issued in pursuance of the\n2017 notification.\nDuring the hearing, it was\npointed out tothe court that 24\nprojects already initiated, invol-\nving expenditure to thetuneof\nRs 8,293 crore, were awaiting\nECatthe Central level, while at\nthestate level, 29 projects worth\nRs 11,168 crore remained pend-\ning. These included construc-\ntion of hospitals/medical col-\nleges/airports including the\nsCONTINUED ON PAGE2\n\nSAUDI CROWN\nPRINCEIN US.\nTO MEET TRUMP\nThe Saudi de facto ruler is\nseeking to rehabilitate his\nglobal image after the 2018\nkilling of journalist Jamal\nKhashoggi PAGE 14",
+   "ocr_conf": 85.92883895131087,
+   "ocr_low_conf_share": 0.09737827715355805,
+   "headline": "SC recalls own order barring retrospective green nod for projects 2-1 verdict; step in retrogression: Dissenting judge",
+   "deck": "",
+   "byline": "",
+   "text": "AnanthakrishnanG New Delhi, November 18\n\nCITING PUBLIC interest and legal flaws, the Supreme Court, in a 2-1 decision Tuesday, recalled its May 16 ruling that had struck down a Central government notification allowing grant of environmental clearance (EC) for projects ex post facto - in short, clearance for projects after commencement. While Chief Justice of India BR Gavai and Justice K Vinod Chandran backed the recall, Justice Ujjal Bhuyan dissented saying the majority decision \"overlooks the very fundamentals of environmental jurisprudence\" and \"is astep in retrogression\". The matter will now be\n\nplaced before the CJI forfurther action.\n\nTuesday'sdecision came on a petition filed by the Confederation of Real Estate Developers of India (CREDAI) and applications by the Steel Authority of India (SAIL) and State of Karnataka, seeking review of the May 16 verdict in Vanashakti vs Union of India, delivered bya bench of JusticesA S Oka and Justices Bhuyan - Justice Oka has since retired. The May 16 ruling also struck down a 2021 Office Memorandum issued in pursuance of the 2017 notification. During the hearing, it was pointed out tothe court that 24 projects already initiated, involving expenditure to thetuneof Rs 8,293 crore, were awaiting ECatthe Central level, while at thestate level, 29 projects worth Rs 11,168 crore remained pending. These included construction of hospitals/medical colleges/airports including the sCONTINUED ON PAGE2\n\nSAUDI CROWN PRINCEIN US. TO MEET TRUMP The Saudi de facto ruler is seeking to rehabilitate his global image after the 2018 killing of journalist Jamal Khashoggi PAGE 14",
+   "n_words": 251,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2961,
+      3202,
+      3147
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      3220,
+      3184,
+      3330
+     ],
+     [
+      2760,
+      3418,
+      3160,
+      3733
+     ],
+     [
+      2760,
+      3779,
+      3142,
+      3971
+     ],
+     [
+      2761,
+      4058,
+      3039,
+      4124
+     ],
+     [
+      2760,
+      4493,
+      3082,
+      4642
+     ],
+     [
+      2757,
+      4696,
+      3204,
+      5120
+     ]
+    ],
+    "layout_words": 135
+   },
+   "headline_raw": "Ahead of\nswearing-in",
+   "deck_raw": "",
+   "body_raw": "Bihar Chief Minister Nitish\nKumar with son Nishant Kumar\nat his residence in Patna. pti\n\nTHE JD(U) LEADER on\nTuesday took stock of prepara-\ntions for the oath-taking cer-\nemony of the new NDA govern-\nment in the state. The eventis\nscheduled to take place at\nPatna\u2019s historic Gandhi\nMaidan on Thursday.\n\nTHE NDA PARTNERS WERE\nbusy resolving a deadlock\nover the Assembly Speaker's\npost ahead of the swearing-in\nceremony.\n\nRELATEDREPORTS,\nPAGE 4\n\nAlok Singh\n& Bashaarat Masood\nNew Delhi, Srinagar,\nNovember 18\n\nIN Avideoclipthat hassurfaced\non social media, Umar Nabi, the\ndoctor who drove the car that\nexploded near the Red Fort on\nNovember 10, is heard talking\nabout \u201cmartyrdom operations\u201d\nand \u201csuicide bombing\u201d.\nIn the 1-minute-20-second\nclip, Umar, sitting on a chair in\naroom, is heard saying \u201cone of\nthe most misunderstood con-",
+   "ocr_conf": 88.08148148148148,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "Ahead of swearing-in",
+   "deck": "",
+   "byline": "THE JD(U) LEADER on",
+   "text": "Bihar Chief Minister Nitish Kumar with son Nishant Kumar at his residence in Patna. pti\n\nTuesday took stock of preparations for the oath-taking ceremony of the new NDA government in the state. The eventis scheduled to take place at Patna's historic Gandhi Maidan on Thursday.\n\nTHE NDA PARTNERS WERE busy resolving a deadlock over the Assembly Speaker's post ahead of the swearing-in ceremony.\n\nRELATEDREPORTS,\n\nAlok Singh & Bashaarat Masood New Delhi, Srinagar, November 18\n\nIN Avideoclipthat hassurfaced on social media, Umar Nabi, the doctor who drove the car that exploded near the Red Fort on November 10, is heard talking about \"martyrdom operations\" and \"suicide bombing\". In the 1-minute-20-second clip, Umar, sitting on a chair in aroom, is heard saying \"one of the most misunderstood con-",
+   "n_words": 126,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      4244,
+      2707,
+      4449
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      4491,
+      1614,
+      4569
+     ],
+     [
+      1296,
+      4614,
+      1738,
+      5126
+     ],
+     [
+      1783,
+      4496,
+      2227,
+      5119
+     ],
+     [
+      2271,
+      4496,
+      2712,
+      5048
+     ]
+    ],
+    "layout_words": 209
+   },
+   "headline_raw": "HowRsSS pressure made BJP govt\nin MP roll back land pooling scheme",
+   "deck_raw": "",
+   "body_raw": "Anand Mohan J\nBhopal, November 18\n\nWHAT BEGAN as the Madhya\nPradesh government\u2019s mar-\nquee urban renewal project for\nthe Simhastha festival in 2028\n\u2014 the Kumbh Mela held in Uj-\njain every 12 years \u2014 had ended\nin an abrupt retreat for Chief\nMinister Mohan Yadav, mark-\ningthefirst major concession of\nhis tenure.\nUnder pressure from RSS-af-\nfiliated farmers\u2019 outfit Bharatiya\nKisan Sangh (BKS) and backed\n\nbythe Sangh leadershin, the RIP\ngovernment late on Monday\nrolled back its ambitious land\npooling scheme, a project the\nCM once described as the \u201ccor-\nnerstone of the transformation\nof Ujjain\u201d, his home turf. The\ndecision, following weeks of\nbackchannel talks with Sangh\naffiliates, was taken following\nthe BJP central leadership\u2019s in-\ntervention. It came hours after\nthe farmer outfits began prepar-\ning to hit the streets in protest.\nSources inthe RSS, the BKS,\nand the local administration\n\nsaid the CM did not anticipate\nthe opposition to intensify, hav-\ningbeen assured by confidants\ninthe local administration that\nland acquisition would proceed\nsmoothly. Officials with prior\nexperience in land acquisition\ninitially downplayed discon-\ntent among farmers as a routine\naffair, it is learnt. \u201cThey told\nhim protests were normal. By\nthe time ground feedback\nreached Bhopal, the situation\nhad hardened,\u201d said a govern-",
+   "ocr_conf": 90.8468899521531,
+   "ocr_low_conf_share": 0.04784688995215311,
+   "headline": "HowRsSS pressure made BJP govt in MP roll back land pooling scheme",
+   "deck": "",
+   "byline": "",
+   "text": "Anand Mohan J Bhopal, November 18\n\nWHAT BEGAN as the Madhya Pradesh government's marquee urban renewal project for the Simhastha festival in 2028 - the Kumbh Mela held in Ujjain every 12 years - had ended in an abrupt retreat for Chief Minister Mohan Yadav, mark-ingthefirst major concession of his tenure. Under pressure from RSS-affiliated farmers' outfit Bharatiya Kisan Sangh (BKS) and backed\n\nbythe Sangh leadershin, the RIP government late on Monday rolled back its ambitious land pooling scheme, a project the CM once described as the \"cornerstone of the transformation of Ujjain\", his home turf. The decision, following weeks of backchannel talks with Sangh affiliates, was taken following the BJP central leadership's intervention. It came hours after the farmer outfits began preparing to hit the streets in protest. Sources inthe RSS, the BKS, and the local administration\n\nsaid the CM did not anticipate the opposition to intensify, havingbeen assured by confidants inthe local administration that land acquisition would proceed smoothly. Officials with prior experience in land acquisition initially downplayed discontent among farmers as a routine affair, it is learnt. \"They told him protests were normal. By the time ground feedback reached Bhopal, the situation had hardened,\" said a govern-",
+   "n_words": 200,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      4244,
+      4160,
+      4574
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4934,
+      3690,
+      5127
+     ]
+    ],
+    "layout_words": 28
+   },
+   "headline_raw": "On Umar phone, a video in which\nhe speaks of suicide bombing\nBashasrat Masood 4 | | | tion that he will die in aspect",
+   "deck_raw": "",
+   "body_raw": "cepts is the concept of suicide\nbombing... It is a martyrdom\noperation. When a person as-\nsumes that he is certain to die\nata particular place and time,",
+   "ocr_conf": 94.75,
+   "ocr_low_conf_share": 0.0,
+   "headline": "On Umar phone, a video in which he speaks of suicide bombing Bashasrat Masood 4 tion that he will die in aspect",
+   "deck": "",
+   "byline": "",
+   "text": "cepts is the concept of suicide bombing... It is a martyrdom operation. When a person assumes that he is certain to die ata particular place and time,",
+   "n_words": 27,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      5303,
+      4077,
+      5422
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5240,
+      2299,
+      5273
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5446,
+      680,
+      5521
+     ],
+     [
+      315,
+      5450,
+      1247,
+      6001
+     ],
+     [
+      318,
+      5569,
+      760,
+      5795
+     ],
+     [
+      318,
+      6008,
+      1053,
+      6201
+     ],
+     [
+      1291,
+      5450,
+      1736,
+      6202
+     ],
+     [
+      1779,
+      6088,
+      2226,
+      6203
+     ],
+     [
+      2270,
+      6088,
+      2711,
+      6200
+     ],
+     [
+      2758,
+      5456,
+      3202,
+      6239
+     ],
+     [
+      3247,
+      5451,
+      3688,
+      5797
+     ],
+     [
+      3247,
+      5810,
+      3687,
+      6204
+     ],
+     [
+      3734,
+      5452,
+      4180,
+      6197
+     ]
+    ],
+    "layout_words": 529
+   },
+   "headline_raw": "CBFC exemption pending, Peter Brook\u2019s The Mahabharata out of IFFIGoa",
+   "deck_raw": "e@ FILMMAKER\u2019S SON SAYS WAS TO SHOWCASE DIGITALLY RESTORED VERSION OF THE ACCLAIMED FILM AT FESTIVAL",
+   "body_raw": "DivyaA\nNew Delhi, November 18\n\nDivyaA issues pertaining to \u201cCBFC\nNew Delhi, November 18 exemption\u201d, Brook tells TheIn-\n; dian Express over the phone\n\u201cIT\u2019SASifsomeoneinvitedme _ from Paris.\nfor dinner and made other A CBFC exemption is an\nplans,\u201d says Simon Brook. exemption from standard cer-\nDays from now, Brook was _ tification granted to films for\nto present a digitally restored screeningin India by the Cen-\nversion of his father Peter tral Board of Film Certification\nBrook\u2019sacclaimed film TheMa- (CBFC), which functions under\nhabharata attheInternational the Information and Broadcast-\nFilm Festival of India ing Ministry.\n(IFFT) in Goa. How- PAGE1 Sources said it is\never, the screening of anchor usually a quick for-\n\n\u201cIT\u2019S AS ifsomeone invited me\nfor dinner and made other\nplans,\u201d says Simon Brook.\nDays from now, Brook was\nto present a digitally restored\nversion of his father Peter\n\nthe film, whichwas ~*~ \u201c \u2014 mality.\ncited by the NDA government After weeks \u00ab\nwhile rewarding Peter Brook forth on the issu\nwithaPadmaShriin2021,now him \u201cfeeling con\nstands cancelledowingtosome thewayforward\u201d,,\n\nwas finally informed over the\nweekend that since the film\nhad not got CBFC exemption\nyet, and IFFI was to begin in\ndays, the screening would not\nbe happening this time.\nSources say the film was\nscreened foran internal review\ncommittee twice before it was\nselected for the Restored Clas-\nsics Section of IFFI. On October\n30, IFFI posted on its X handle\nabout showing the film on No-\nvember 24, saying: \u201cDiscover\nhow the 8K restoration of Peter\nBrook\u2019s The Mahabharata\n(1989) redefines cinematic pres-\nervation and connects ancient\nepics to the modern world.\u201d\n\nEmails sent to the offices of\nCBFC Chairman Prasoon Joshi\nand CBFC CEO Rajendra Singh\n\nregarding CBFC exemption, as\nwellas to the Indian High Com-\nmissioner in London, did not\n\nget aresponse.\nBrook, who is also a film-\nmaker, says that it was in July\nthis year, after the classic \u2014\ndigitally restored in 8K \u2014 was\nshowcased and had its pre-\nmiere at the Indian Film Festi-\nval in London, that he was con-\ntacted about a _ possible\nscreening at IFFI. The film fes-\ntival is the annual flagship\nevent of the I&B Ministry.\nIn August, Brook got an offi-\ncial invite over email from the\nfestival organisers, saying they\nwanted to screen The Mahab-\nharata as the opening film in\nthe Restored Classicssection. It\ncoincided with the birth cen-\nJaipur\n\ntenary of Peter Brook, who\npassed away in 2022, and would\nhave been a tribute to him.\nBrook says he was also in-\nvitedto hold amasterclass dur-\ning IFFI onthe process of resto-\nration, and for other\nappearances at the nine-day\nfestival.\n\nBrook says he was more\nthan happy to bring the film to\nGoa, with The Mahabharata\nlast screened in India around\ntwo decades ago.\nAn international produc-\ntion released in 1989 and invol-\nving actors from 16 national-\nities \u2014 including artist Mallika\nSarabhai as Draupadi, and ac-\n\ntorsGeorgesCorraface, Vittorio\nMezzogiorno and Bruce Myers\nin key roles \u2014 The Mahabha-\nrata had got rave reviews in\nIndiaand abroad, for depicting\nthe universal themes of the In-\ndian epic.\nThe Mahabharata first\nbegan as aplay, co-written and\ndirected by Peter Brook, and\nstaged between 1985 and 1989\nas a nine-hour production. In\n1989, anearly six-hour abridged\nadaptation was made as a\ntelevision miniseries, and later\nedited into a nearly three-hour\ncut for theatrical release.\nSimon Brook says he first\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 88.41289198606272,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "CBFC exemption pending, Peter Brook's The Mahabharata out of IFFIGoa",
+   "deck": "e@ FILMMAKER'S SON SAYS WAS TO SHOWCASE DIGITALLY RESTORED VERSION OF THE ACCLAIMED FILM AT FESTIVAL",
+   "byline": "",
+   "text": "DivyaA New Delhi, November 18\n\nDivyaA issues pertaining to \"CBFC New Delhi, November 18 exemption\", Brook tells TheIn-; dian Express over the phone \"IT'SASifsomeoneinvitedme _ from Paris. for dinner and made other A CBFC exemption is an plans,\" says Simon Brook. exemption from standard cer-Days from now, Brook was _ tification granted to films for to present a digitally restored screeningin India by the Cenversion of his father Peter tral Board of Film Certification Brook'sacclaimed film TheMa- (CBFC), which functions under habharata attheInternational the Information and Broadcast-Film Festival of India ing Ministry. (IFFT) in Goa. How- PAGE1 Sources said it is ever, the screening of anchor usually a quick for-\n\n\"IT'S AS ifsomeone invited me for dinner and made other plans,\" says Simon Brook. Days from now, Brook was to present a digitally restored version of his father Peter\n\nthe film, whichwas ~*~ \" - mality. cited by the NDA government After weeks \u00ab while rewarding Peter Brook forth on the issu withaPadmaShriin2021,now him \"feeling con stands cancelledowingtosome thewayforward\",,\n\nwas finally informed over the weekend that since the film had not got CBFC exemption yet, and IFFI was to begin in days, the screening would not be happening this time. Sources say the film was screened foran internal review committee twice before it was selected for the Restored Classics Section of IFFI. On October 30, IFFI posted on its X handle about showing the film on November 24, saying: \"Discover how the 8K restoration of Peter Brook's The Mahabharata (1989) redefines cinematic preservation and connects ancient epics to the modern world.\"\n\nEmails sent to the offices of CBFC Chairman Prasoon Joshi and CBFC CEO Rajendra Singh\n\nregarding CBFC exemption, as wellas to the Indian High Commissioner in London, did not\n\nget aresponse. Brook, who is also a film-maker, says that it was in July this year, after the classic - digitally restored in 8K - was showcased and had its premiere at the Indian Film Festival in London, that he was contacted about a _ possible screening at IFFI. The film festival is the annual flagship event of the I&B Ministry. In August, Brook got an official invite over email from the festival organisers, saying they wanted to screen The Mahabharata as the opening film in the Restored Classicssection. It coincided with the birth cen-Jaipur\n\ntenary of Peter Brook, who passed away in 2022, and would have been a tribute to him. Brook says he was also invitedto hold amasterclass during IFFI onthe process of restoration, and for other appearances at the nine-day festival.\n\nBrook says he was more than happy to bring the film to Goa, with The Mahabharata last screened in India around two decades ago. An international production released in 1989 and involving actors from 16 national-ities - including artist Mallika Sarabhai as Draupadi, and actorsGeorgesCorraface, Vittorio Mezzogiorno and Bruce Myers in key roles - The Mahabharata had got rave reviews in Indiaand abroad, for depicting the universal themes of the Indian epic. The Mahabharata first began as aplay, co-written and directed by Peter Brook, and staged between 1985 and 1989 as a nine-hour production. In 1989, anearly six-hour abridged adaptation was made as a television miniseries, and later edited into a nearly three-hour cut for theatrical release. Simon Brook says he first \u00bbCONTINUEDON PAGE 2",
+   "n_words": 549,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      954,
+      5914,
+      1247,
+      6001
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      802,
+      6047,
+      1247,
+      6202
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "Sources said it is\nusually a quick for-",
+   "deck_raw": "",
+   "body_raw": "After weeks of back and\nforth on the issue, which left\nhim \u201cfeeling confused about\ntheway forward\u201d, Brook says he",
+   "ocr_conf": 95.25,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Sources said it is usually a quick for-",
+   "deck": "",
+   "byline": "",
+   "text": "After weeks of back and forth on the issue, which left him \"feeling confused about theway forward\", Brook says he",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 19.0,
+ "flags": []
+}

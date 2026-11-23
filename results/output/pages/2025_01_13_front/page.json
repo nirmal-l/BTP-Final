@@ -1,0 +1,744 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_13_front",
+ "source_file": "2025-01-13_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-13_front.png",
+ "date": "2025-01-13",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 491,
+  "mean_line_conf": 87.39539286522485,
+  "orphan_words": 5,
+  "body_words_total": 1905
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Business AS USUAL",
+   "ocr_conf": 63.0,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Business AS USUAL",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      787,
+      4165,
+      1481
+     ],
+     [
+      3252,
+      1555,
+      3994,
+      1662
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      698,
+      4068,
+      747
+     ],
+     [
+      3252,
+      1491,
+      4100,
+      1550
+     ],
+     [
+      2762,
+      1924,
+      3176,
+      1981
+     ]
+    ],
+    "body_boxes": [
+     [
+      2765,
+      2523,
+      2993,
+      2554
+     ],
+     [
+      2761,
+      2576,
+      3143,
+      2724
+     ],
+     [
+      3251,
+      2494,
+      3678,
+      2563
+     ],
+     [
+      3249,
+      2613,
+      3693,
+      3084
+     ],
+     [
+      3738,
+      2456,
+      4180,
+      3076
+     ]
+    ],
+    "layout_words": 150
+   },
+   "headline_raw": "PM: Step out of\ncomfort zone,\ntime for India\u2019s\nquantum jump\n$10-tn economy by end of next",
+   "deck_raw": "VIKSIT BHARAT DIALOGUE\nSays country oncourse to becomea\nEXPRESS NETWORK",
+   "body_raw": "EXPLAINED\n\nCULTURE\nKUMBHORIGIN,\nHISTORY, APPEAL\n\nEXPRESS NEWS SERVICE\nNEW DELHI, JANUARY 12\n\nURGING THE youth & step out-\nside their \u201ccomfort zone\" while\nunderlining that this is the time\nfor a \u201cquantum jump\u201d to havea\ndeveloped nation by 2047,Prime\nMinister Narendra Modi said\nSunday that India is rapidly mov-\ning towards a $5-trillion econ-\nomy and will surpass the $10-\ntrillion mark by the end of the\nnext decade.\nAddressing a gatheringat the\n\nViksit Bharat Young Leaders\nDialogue in New Delhi on\nNational Youth Day, Prime\nMinister Modi said the country\nalso hopes to host the Olympics\nin the next decade and is working\ntowards it with full dedication.\n\u201cIndia is rapidly moving to-\nwards becoming a $5-five trillion\neconomy, which will greatly ex-\npand development and facilities,\u201d\nhe said. He projected that by the\nendof the next decade, India will\nsurpass the $10- trillion mark.\nHe said Indiahasmaderapid\nCONTINUEDON PAGE2",
+   "ocr_conf": 86.69536423841059,
+   "ocr_low_conf_share": 0.07947019867549669,
+   "headline": "PM: Step out of comfort zone, time for India's quantum jump $10-tn economy by end of next",
+   "deck": "VIKSIT BHARAT DIALOGUE Says country oncourse to becomea EXPRESS NETWORK",
+   "byline": "EXPLAINED; CULTURE; KUMBHORIGIN,; HISTORY, APPEAL",
+   "text": "EXPRESS NEWS SERVICE NEW DELHI, JANUARY 12\n\nURGING THE youth & step outside their \"comfort zone\" while underlining that this is the time for a \"quantum jump\" to havea developed nation by 2047,Prime Minister Narendra Modi said Sunday that India is rapidly moving towards a $5-trillion economy and will surpass the $10- trillion mark by the end of the next decade. Addressing a gatheringat the\n\nViksit Bharat Young Leaders Dialogue in New Delhi on National Youth Day, Prime Minister Modi said the country also hopes to host the Olympics in the next decade and is working towards it with full dedication. \"India is rapidly moving towards becoming a $5-five trillion economy, which will greatly expand development and facilities,\" he said. He projected that by the endof the next decade, India will surpass the $10- trillion mark. He said Indiahasmaderapid CONTINUEDON PAGE2",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      391,
+      880,
+      642,
+      935
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1472,
+      566,
+      1503
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "You'd have (0 deat\nark thai",
+   "deck_raw": "",
+   "body_raw": "THE WORLD",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "You'd have (0 deat ark thai",
+   "deck": "",
+   "byline": "THE WORLD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 88.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      752,
+      1832,
+      2639,
+      2067
+     ],
+     [
+      810,
+      2044,
+      2661,
+      2186
+     ],
+     [
+      808,
+      2298,
+      1250,
+      2371
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      2183,
+      1146,
+      2309
+     ]
+    ],
+    "body_boxes": [
+     [
+      804,
+      2372,
+      1250,
+      2685
+     ],
+     [
+      809,
+      2729,
+      1249,
+      2803
+     ],
+     [
+      1297,
+      2175,
+      1740,
+      2803
+     ],
+     [
+      1786,
+      2180,
+      2229,
+      2796
+     ],
+     [
+      2273,
+      2175,
+      2715,
+      2797
+     ]
+    ],
+    "layout_words": 289
+   },
+   "headline_raw": "s DAVOS Baler i Pidyadgi a) ONSUNGay, day DEIOre Che StdIt OF TNE VidNd RUIMDN. vishal srivastav\nMaha Kumbh starts today: Online frauds\ni oc i > ey cc, cy ; cc 7\na worry, IIT-K steps in for cyber security\nWITH THE DIGITAL landscape",
+   "deck_raw": "MAULSHREE SETH\nLUCKNOW, JANUARY 12",
+   "body_raw": "changing considerably in the 12\nyears since Maha Kumbhwas last\nheld, the Uttar Pradesh govern-\nment is anticipating a bigger\nthreat this time fromimisintoiia-\ntion on social media and online\nfrauds, and has roped in experts\nfrom IIT Kanpur to address these\n\nMaha Kumbh, which begins\nMonday and will go on for one-\n\nand-a-half months, is expected\nto attract over 40 crore people to\nPrayagraj.\nWith the event expected to\nsee such massive participation,\nliT Kanpur is already assisting\nthe Uttar Pradesh government\nwith the use of technology for\ntraffic management and crowd\ncontrol. The institution has also\nestablished acontrol room with\na mechanism to immediately\nalert the Kumbh Mela authori-\nties and police about any social\nmedia posts that pose a poten-\ntial threat to security or crowd\n\nmanagement.\nMoreover, as the govemment\nhas declared this year's Maha\nKumbh the \u201cdigital Kumbh\" \u2014at\nleast nine different mobile appli-\ncations have been launched to\nassist visitors and records re-\ngarding the deployment of po-\nlice personnel have been digi-\ntised \u2014 it has also sought the\nhelp of the IIT to scan all these\ndigital portals for any possible\nthreat of hacking ThellT has also\nbeen asked to screen all the sen-\nsorsand scanners installed at the\nKumbh sites.\n\nThere is also the fear of pil-\ngrims falling pray t scammers\nwho provide fake links forserv-\nices related to these apps, and\nthe IIT experts have been asked\ntohelp prevent this, too.\nIfT Kanpurdirector Manindra\nAgrawal told The Indian Express,\n\u201cAt any such large event, if ru-\nmours start floating, it will have\nconsequences. Considering the\nbigger role that social media\nplaystoday incomparison to the\npast, we have assisted in setting\nup mechanisms to track any\nCONTINUEDON PAGE 2",
+   "ocr_conf": 91.66089965397924,
+   "ocr_low_conf_share": 0.03460207612456748,
+   "headline": "s DAVOS Baler i Pidyadgi a) ONSUNGay, day DEIOre Che StdIt OF TNE VidNd RUIMDN. vishal srivastav Maha Kumbh starts today: Online frauds a worry, IIT-K steps in for cyber security WITH THE DIGITAL landscape",
+   "deck": "MAULSHREE SETH LUCKNOW, JANUARY 12",
+   "byline": "",
+   "text": "changing considerably in the 12 years since Maha Kumbhwas last held, the Uttar Pradesh government is anticipating a bigger threat this time fromimisintoiiation on social media and online frauds, and has roped in experts from IIT Kanpur to address these\n\nMaha Kumbh, which begins Monday and will go on for oneand-a-half months, is expected to attract over 40 crore people to Prayagraj. With the event expected to see such massive participation, liT Kanpur is already assisting the Uttar Pradesh government with the use of technology for traffic management and crowd control. The institution has also established acontrol room with a mechanism to immediately alert the Kumbh Mela authorities and police about any social media posts that pose a potential threat to security or crowd\n\nmanagement. Moreover, as the govemment has declared this year's Maha Kumbh the \"digital Kumbh\" - at least nine different mobile applications have been launched to assist visitors and records regarding the deployment of police personnel have been digitised - it has also sought the help of the IIT to scan all these digital portals for any possible threat of hacking ThellT has also been asked to screen all the sensorsand scanners installed at the Kumbh sites.\n\nThere is also the fear of pilgrims falling pray t scammers who provide fake links forservices related to these apps, and the IIT experts have been asked tohelp prevent this, too. IfT Kanpurdirector Manindra Agrawal told The Indian Express, \"At any such large event, if rumours start floating, it will have consequences. Considering the bigger role that social media playstoday incomparison to the past, we have assisted in setting up mechanisms to track any CONTINUEDON PAGE 2",
+   "n_words": 277,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2120,
+      758,
+      2439
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2531,
+      685,
+      2600
+     ],
+     [
+      317,
+      2650,
+      764,
+      3982
+     ],
+     [
+      322,
+      4064,
+      678,
+      4139
+     ],
+     [
+      635,
+      4274,
+      712,
+      4309
+     ]
+    ],
+    "layout_words": 170
+   },
+   "headline_raw": "BJP announces\nNDA boycott\nof Assembly\nbypoll in Erode",
+   "deck_raw": "",
+   "body_raw": "ARUNJANARDHANAN\nCHENNAI, JANUARY 12\n\nTHE BJP-LEDNDA has joined the\nAIADMK and the DMDK in an-\nnouncing a boycott of the\nFebruary 5 Erode East Assembly\nbypoll in Tamil Nadu.\nState BJP president K\nAnnamalai announced the\nNDA's decision late on Saturday\nnight, referring tothebypollas a\n\u201cby-election for a by-election\u201d.\nThis was a reference to allega-\ntions of malpractice during the\n2022 bypoll held in the con-\nStituency.\n\u201cThe coming 2026 Assembly\npolls are meant to remove the\nDMK from power. The NDA is\nmoving towards that target and\ndoes not want to allow theDMK\nto confine people likecattle once\nagain,\u201d Annamalaisaid, recalling\nthat there were accusations at\nthe time about the M K Stalin-led\nparty \u201cconfining\u2019 people at des-\nignated places.\n\u201cAll the leaders of NDA who\ndesire people's welfare, after de-\ntailed consultation, have decided\nto boycott the Erode Eastbypoll.\nOur targetis to remove the DMK\nin the 2026 elections and give\nthe NDA's good governance to\npeople,\u201d Annamalai said, adding\nCONTINUEDON PAGE2\n\nRELATED REPORT\nPAGE 6\n\nXCHANG",
+   "ocr_conf": 87.64497041420118,
+   "ocr_low_conf_share": 0.05325443786982249,
+   "headline": "BJP announces NDA boycott of Assembly bypoll in Erode",
+   "deck": "",
+   "byline": "ARUNJANARDHANAN; CHENNAI, JANUARY 12",
+   "text": "THE BJP-LEDNDA has joined the AIADMK and the DMDK in announcing a boycott of the February 5 Erode East Assembly bypoll in Tamil Nadu. State BJP president K Annamalai announced the NDA's decision late on Saturday night, referring tothebypollas a \"by-election for a by-election\". This was a reference to allegations of malpractice during the 2022 bypoll held in the con-Stituency. \"The coming 2026 Assembly polls are meant to remove the DMK from power. The NDA is moving towards that target and does not want to allow theDMK to confine people likecattle once again,\" Annamalaisaid, recalling that there were accusations at the time about the M K Stalin-led party \"confining' people at designated places. \"All the leaders of NDA who desire people's welfare, after detailed consultation, have decided to boycott the Erode Eastbypoll. Our targetis to remove the DMK in the 2026 elections and give the NDA's good governance to people,\" Annamalai said, adding CONTINUEDON PAGE2\n\nRELATED REPORT\n\nXCHANG",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      2948,
+      1728,
+      3427
+     ],
+     [
+      809,
+      3606,
+      1677,
+      4003
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      3469,
+      1691,
+      3593
+     ]
+    ],
+    "body_boxes": [
+     [
+      855,
+      3804,
+      1690,
+      3846
+     ],
+     [
+      853,
+      3998,
+      1690,
+      4306
+     ],
+     [
+      806,
+      4391,
+      1737,
+      5130
+     ],
+     [
+      805,
+      4549,
+      1248,
+      5137
+     ]
+    ],
+    "layout_words": 202
+   },
+   "headline_raw": "Lifts to computers:\n4 of 10 Govt tenders\ncan\u2019t comply with\nMake in India rules\ncreate supply response, says official\nTENDERS FLOATED OVER LAST 3 YEARS\nScrutinised by DPIT [5590 ee | 2174245.\nFound non-compliant] [Ell | <e3.9n1cr",
+   "deck_raw": "Depts say sometimes it makes more\neconomic sense; mandate doesn't",
+   "body_raw": "\n\nTop violate enn io. of tender |\nProvisions of the 2017 order not incorporated 982\nAsking for specific brands 450\nRest Rive tu novel equienRt 152\nAsking for specific foreign certification 50\nSource: DPHT records \u2018As of November 2024\n\n= 7 \u2014 3,500high-value tenders, which\nAGGAM WALIA accounts for Rs 64,000 crore,\nNEW DELHI, JANUARY 12 floated by Govemment depart-\n\u2014\u2014 \u2014\u2014\u2014__ ments were flagged as \u201cnon-\nENFORCING the 2017 Make-In- \u2014 compliant\u201d with these rules by\nIndia order in government pro- \u2014_ the Department for Promotion\ncurementiseasiersaid thandone. of Industry and Intemal Trade\nRules framed under the (DPIIT), the nodal agency forthe\nPublic Procurement (Preference \u2018Make in India\u2018 push, according\nto Make in India) Order prohibit to records reviewed by The\ntenders that restrictordiscrimi- Indian Express.\nnate against domestic suppliers From lifts to CCTV cameras,\neither by specifying foreign medical supplies to desktop\nbrands or setting eligibilitycon- | computers, records show, de-\nditions around tumover or pro- \u2014_ partments were tuming to for-\nduction capability that may put \u2014_ eign brands arguing that these\ndomesticfirmsatadisadvantage made better economic \u2014 and\nHowever, over the lastthree quality \u2014 sense than their\nyears, an estimated 40% of over CONTINUEDON PAGE 2\n\nENFORCING the 2017 Make-In-\nIndia order in government pro-\ncurementis easiersaid than done.\nRules framed under the\nPublic Procurement (Preference\nto Make in India) Order prohibit\ntenders that restrict ordiscrimi-\nnate against domestic suppliers\neither by specifying foreign\nbrands or setting eligibility con-\nditions around tumover or pro-\nduction capability that may put\ndomesticfirms ata disadvantage.\nHowever, over the last three\nyears, an estimated 40% of over",
+   "ocr_conf": 83.45488721804512,
+   "ocr_low_conf_share": 0.15789473684210525,
+   "headline": "Lifts to computers: 4 of 10 Govt tenders can't comply with Make in India rules create supply response, says official TENDERS FLOATED OVER LAST 3 YEARS Scrutinised by DPIT [5590 ee 2174245. Found non-compliant] [Ell <e3.9n1cr",
+   "deck": "Depts say sometimes it makes more economic sense; mandate doesn't",
+   "byline": "",
+   "text": "Top violate enn io. of tender Provisions of the 2017 order not incorporated 982 Asking for specific brands 450 Rest Rive tu novel equienRt 152 Asking for specific foreign certification 50 Source: DPHT records 'As of November 2024\n\n= 7 - 3,500high-value tenders, which AGGAM WALIA accounts for Rs 64,000 crore, NEW DELHI, JANUARY 12 floated by Govemment depart- - - - - - __ ments were flagged as \"non-ENFORCING the 2017 Make-In- - compliant\" with these rules by India order in government pro- - _ the Department for Promotion curementiseasiersaid thandone. of Industry and Intemal Trade Rules framed under the (DPIIT), the nodal agency forthe Public Procurement (Preference 'Make in India' push, according to Make in India) Order prohibit to records reviewed by The tenders that restrictordiscrimi- Indian Express. nate against domestic suppliers From lifts to CCTV cameras, either by specifying foreign medical supplies to desktop brands or setting eligibilitycon- computers, records show, deditions around tumover or pro- - _ partments were tuming to forduction capability that may put - _ eign brands arguing that these domesticfirmsatadisadvantage made better economic - and However, over the lastthree quality - sense than their years, an estimated 40% of over CONTINUEDON PAGE 2\n\nENFORCING the 2017 Make-In-India order in government procurementis easiersaid than done. Rules framed under the Public Procurement (Preference to Make in India) Order prohibit tenders that restrict ordiscriminate against domestic suppliers either by specifying foreign brands or setting eligibility conditions around tumover or production capability that may put domesticfirms ata disadvantage. However, over the last three years, an estimated 40% of over",
+   "n_words": 263,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      2871,
+      3207,
+      3089
+     ],
+     [
+      1788,
+      3112,
+      3189,
+      3480
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1785,
+      3364,
+      2132,
+      3414
+     ]
+    ],
+    "body_boxes": [
+     [
+      1785,
+      3322,
+      2110,
+      3350
+     ],
+     [
+      1785,
+      3441,
+      2227,
+      4151
+     ],
+     [
+      2354,
+      3502,
+      2631,
+      3531
+     ],
+     [
+      2272,
+      3602,
+      2714,
+      4152
+     ]
+    ],
+    "layout_words": 161
+   },
+   "headline_raw": "After record high in 2023, footfall\nin mohalla clinics fell 28% last year\nStakeholders say drug shortage the primary reason; data\nshows clinics are far more popular among Delhi\u2019s women\nANKITAUI \u201c YouR RIGHT enrTaTinue\nANKITAUPADHYAY\nNEWDELHILJANUARY 12 TO KNOW CONSULTATIONS\nAFTERUNPRECEDENTEDfoofal ANEXPRESSRT1 | ieekh",
+   "deck_raw": "NEW DELHI, JANUARY 12",
+   "body_raw": "ANKITAUPADHYAY\n\nAFTERUNPRECEDENTED footfall\nin 2023 \u2014 1.94 crore visits by the\ncitizens of Delhi \u2014 the capital's\nmohalla clinics saw a 28% dip in\n2024 to 1,39 crore appointments,\nan application filed under the\nRight to Information Act and of-\nficial documents sourced by The\nIndian Express have revealed.\nThe decline, health depart-\nment officials, doctors and ex-\nperts say, is primarily due toa\ndrug shortage that the mohalla\nClinics faced last year\nMohalla clinics, the centre-\npiece of the Aam Aadmi Party\ngovernment's healthinfrastruc-\nture, were first setupin October\n\nAPPLICATION\n\n2015. Since then, the clinics,\nwhich are meant to be the first\npoint of contact for patients with\nbasic illnesses, have caught the\nattention of many from across\nthe world, including former\nSecretary-General of the United\nNations, Kofi Annan, who wrote\na letter to Chief Minister Arvind\nKejriwal praising the project.\nThe capital has 546 mohalla\nclinics spread across 70 assembly\nconstituencies, A senior official\nfrom the state health department",
+   "ocr_conf": 89.57142857142857,
+   "ocr_low_conf_share": 0.062111801242236024,
+   "headline": "After record high in 2023, footfall in mohalla clinics fell 28% last year Stakeholders say drug shortage the primary reason; data shows clinics are far more popular among Delhi's women ANKITAUI \" YouR RIGHT enrTaTinue ANKITAUPADHYAY NEWDELHILJANUARY 12 TO KNOW CONSULTATIONS AFTERUNPRECEDENTEDfoofal ANEXPRESSRT1 ieekh",
+   "deck": "NEW DELHI, JANUARY 12",
+   "byline": "ANKITAUPADHYAY",
+   "text": "AFTERUNPRECEDENTED footfall in 2023 - 1.94 crore visits by the citizens of Delhi - the capital's mohalla clinics saw a 28% dip in 2024 to 1,39 crore appointments, an application filed under the Right to Information Act and official documents sourced by The Indian Express have revealed. The decline, health department officials, doctors and experts say, is primarily due toa drug shortage that the mohalla Clinics faced last year Mohalla clinics, the centrepiece of the Aam Aadmi Party government's healthinfrastructure, were first setupin October\n\nAPPLICATION\n\n2015. Since then, the clinics, which are meant to be the first point of contact for patients with basic illnesses, have caught the attention of many from across the world, including former Secretary-General of the United Nations, Kofi Annan, who wrote a letter to Chief Minister Arvind Kejriwal praising the project. The capital has 546 mohalla clinics spread across 70 assembly constituencies, A senior official from the state health department",
+   "n_words": 155,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      3226,
+      4169,
+      3695
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2802,
+      3865,
+      3085,
+      3915
+     ]
+    ],
+    "body_boxes": [
+     [
+      2761,
+      3996,
+      3201,
+      4144
+     ],
+     [
+      3247,
+      4550,
+      3597,
+      4619
+     ],
+     [
+      3247,
+      4672,
+      3690,
+      5140
+     ],
+     [
+      3736,
+      4511,
+      4181,
+      5132
+     ]
+    ],
+    "layout_words": 162
+   },
+   "headline_raw": "In docking trial bid,\nISRO brings satellites\nto 3-metre distance,\nputs out images",
+   "deck_raw": "from Deli govt offidals",
+   "body_raw": "said more than 60 per centofdoc-\ntors there are women, which pro-\nvides a sense of comfort that\nCONTINUEDON PAGE2\n\nANONNA DUTT\nNEW DELHI, JANUARY 12\n\nMOVING TO attempt docking in\nspace, the Indian Space Research\nOrganisation (ISRO) broughttwo\nSpaDexX satellites as close as 3\nmetres to each other Sunday\nmorning. After completing the\nmanoeuvre, the space agency\nmoved the satellites away from\neach other.\n\u201cA trial attempt to reach up\nto 15 m and further to 3 m is\ndone. Moving back spacecrafts\n\nto safe distance,\u201d ISRO said in a\nstatement. \u201cThe satellites willbe\nbrought back to the positions\nand the docking attempted only\nafter analysing the data\u201d\nThe satellites had been left at\na distance of 230 metres from\neachother Saturdaynight. Earty\nSunday morning, ISRO brought\nthe satellites closer \u2014 first toa\ndistance of 105 metresbetween\nthem. They were captured as\ntiny specks by the on-board\nvideocamera. The satellites were\nthen brought to 15 metres of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.75925925925925,
+   "ocr_low_conf_share": 0.04938271604938271,
+   "headline": "In docking trial bid, ISRO brings satellites to 3-metre distance, puts out images",
+   "deck": "from Deli govt offidals",
+   "byline": "ANONNA DUTT; NEW DELHI, JANUARY 12",
+   "text": "said more than 60 per centofdoctors there are women, which provides a sense of comfort that CONTINUEDON PAGE2\n\nMOVING TO attempt docking in space, the Indian Space Research Organisation (ISRO) broughttwo SpaDexX satellites as close as 3 metres to each other Sunday morning. After completing the manoeuvre, the space agency moved the satellites away from each other. \"A trial attempt to reach up done. Moving back spacecrafts\n\nto safe distance,\" ISRO said in a statement. \"The satellites willbe brought back to the positions and the docking attempted only after analysing the data\" The satellites had been left at a distance of 230 metres from eachother Saturdaynight. Earty Sunday morning, ISRO brought the satellites closer - first toa distance of 105 metresbetween them. They were captured as tiny specks by the on-board videocamera. The satellites were then brought to 15 metres of",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1782,
+      4226,
+      3192,
+      4326
+     ],
+     [
+      1784,
+      4335,
+      3133,
+      4486
+     ],
+     [
+      2281,
+      4473,
+      2582,
+      4555
+     ],
+     [
+      1785,
+      4476,
+      2061,
+      4537
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2281,
+      4553,
+      2581,
+      4604
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      4631,
+      2229,
+      4823
+     ],
+     [
+      1784,
+      4828,
+      2231,
+      5138
+     ],
+     [
+      2307,
+      4632,
+      2672,
+      5099
+     ],
+     [
+      2760,
+      4471,
+      3202,
+      4935
+     ]
+    ],
+    "layout_words": 147
+   },
+   "headline_raw": "Jaishankar to be at Trump inaugural,\nwill meet incoming team members\nec Looking at\nSHUBHAJITROY",
+   "deck_raw": "= [L. . continuity",
+   "body_raw": "EXTERNAL AFFAIRS Minister\nSJaishankar willrepresent India\nat the January 20 inaugurationof\nUS President-elect Donald\nTrump.\n\nAnnouncing the visit, the\nMinistry of Extemal Affairs on\nSunday said, \u201cOn the invitation\nof the Trump-Vance inaugural\ncommittee, External Affairs\nMinister DrSJaishankarwillrep-\nresent the Govemment of India\nat the swearing-in ceremony of\n\nINDIAAND the UShavein-\nvested in astrong bilateral\nrelationship inthe last two\ndecades, and support has\nbeen largely bipartisan.\nDelhi'smovesare part of\nsecuring the continuity of\nbipartisan consensus with\nTrump 2.0. Jaishankar has\nrepeatedly said India isnot\nwomied about Trump, the\nway others are.\n\nPresident-elect Donald J Trump\nas the 47th President of the\nUnited States of America.\u201d\nDuring the visit, the MEA\nsaid, \u201cThe External Affairs\nMinister will also have meetings\nwith representatives of the in-\ncoming administration, as also\nsome other dignitaries visiting\nthe US on that occasion.\u201d\nJaishankarvisited theUS in the\nlast week of December and met",
+   "ocr_conf": 89.97278911564626,
+   "ocr_low_conf_share": 0.047619047619047616,
+   "headline": "Jaishankar to be at Trump inaugural, will meet incoming team members ec Looking at SHUBHAJITROY",
+   "deck": "= [L.. continuity",
+   "byline": "",
+   "text": "EXTERNAL AFFAIRS Minister SJaishankar willrepresent India at the January 20 inaugurationof US President-elect Donald Trump.\n\nAnnouncing the visit, the Ministry of Extemal Affairs on Sunday said, \"On the invitation of the Trump-Vance inaugural committee, External Affairs Minister DrSJaishankarwillrepresent the Govemment of India at the swearing-in ceremony of\n\nINDIAAND the UShaveinvested in astrong bilateral relationship inthe last two decades, and support has been largely bipartisan. Delhi'smovesare part of securing the continuity of bipartisan consensus with Trump 2.0. Jaishankar has repeatedly said India isnot womied about Trump, the way others are.\n\nPresident-elect Donald J Trump as the 47th President of the United States of America.\" During the visit, the MEA said, \"The External Affairs Minister will also have meetings with representatives of the incoming administration, as also some other dignitaries visiting the US on that occasion.\" Jaishankarvisited theUS in the last week of December and met",
+   "n_words": 144,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2805,
+      5004,
+      3199,
+      5065
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2762,
+      4942,
+      3203,
+      4995
+     ]
+    ],
+    "body_boxes": [
+     [
+      2762,
+      5065,
+      3200,
+      5132
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "eR ee eee aterts\nThe new administration has",
+   "deck_raw": "Mike Waltz,NSA-designatein the\ntreet whee Tet tevets arrinmicte han",
+   "body_raw": "maintained that strengthening\nCONTINUEDON PAGE2",
+   "ocr_conf": 92.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eR ee eee aterts The new administration has",
+   "deck": "Mike Waltz,NSA-designatein the treet whee Tet tevets arrinmicte han",
+   "byline": "",
+   "text": "maintained that strengthening CONTINUEDON PAGE2",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5258,
+      3996,
+      5435
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5577,
+      763,
+      6009
+     ],
+     [
+      804,
+      5420,
+      1250,
+      6167
+     ],
+     [
+      1294,
+      5420,
+      1736,
+      6167
+     ],
+     [
+      2756,
+      5421,
+      3202,
+      6168
+     ],
+     [
+      3245,
+      5422,
+      3691,
+      6169
+     ],
+     [
+      3731,
+      5422,
+      4181,
+      6162
+     ]
+    ],
+    "layout_words": 544
+   },
+   "headline_raw": "A legal luminary who raised voice against corruption in judiciary",
+   "deck_raw": "",
+   "body_raw": "SENIOR ADVOCATE and one of\nIndia\u2019s leading lawyers Iqbal M\nChagla, who passed away\nSunday in Mumbai at the age of\n85, was known as much for his\nlegal acumen as for his tenure as\nPresident of Bombay Bar\nAssociation, where he advocated\nagainst corruption in the judici-\naryin the 1990s, with resolutions\npassed against six sitting judges,\n\nmous cases he took up included\nNestle's fight against the ban on\nMaggi noodles; the split of\nAmarchand Mangaldas, one of\nIndia\u2019s biggest law firms, thedis-\npute between the Birla and\nWadia families over realestate\nin Worli; and, the battle between\nCoca Cola and Pepsi over their\nadvertisements.\nHe also advised Cyrus Mistry,\nwho was married to his daugh-\nter Rohiqa Chagla, in the high-\nprofile legal battle against the\nTata Group \u2014 Mistry died in\n2022 in a car accident.\nBom in 1939, Chagla wasthe\nson of MC Chagla, the first per-\nmanent Indian Chief Justice of\n\nthe Bombay High Court from\n1948-58 who went on to be-\ncome India's Ambassador to the\nUS and later UK, and a minister\nin Jawaharlal Nehru's Cabinet\nwhere he held the education and\nlater external affairs portfolios\nInitially keen on joumalism,\nIqbal Chagla wanted a career in\nwniting but studied lawand was\nalso called to the Bar at Gray's\nInn, the professional association\nfor barristers and judges in\nLondon. Having completed his\nMasters in History and Law from\nCambridge University, Chagla re-\ntumed after his mother passed\naway to practice in the Bombay\nHigh Court.\n\nAt the age of 39, he was des-\nignated asa senior advocate,and\nwas offered judgeship at least\nthrice. It is believed that he was\none of the first candidates who\nwasconsidered for appointment\ndirectly from the Bar as a judge\nof the Supreme Court. But\nChagla refused \u2014 even though\nhe would eventually have been\nelevated to the position of the\nChief Justice of India. His son\nRiyaz Chagla is now a sitting\njudge of the Bombay High Court.\nIqbal Chagla led the Bombay\nBar Association,one of the oldest\nin the country of practicing\nlawyers, for terms from 1990 to\n1999. \u201cHe personally became a\n\npetitioner in matters before the\nSupreme Court where the judges\nof various high courts were be-\ning transferred indiscriminately.\nIn every major matter, I believe\nthat he took correct and coura-\ngeous decisions, never afraid of\nthe powers that be or govem-\nments, That has been the true\ntradition and standard of the Bac\nIqbal set that standard,\u201d said\nRafique Dada, a former President\nof the Bar Association who had\nserved as vice-president during\na partofChagla\u2019s tenure.\nIt wasduring Chagla'stenure\nas Bar President that the then\nBombay High Court Chief Justice\nAM Bhattacharjee was forced to\n\nresignon allegationsof financial\nmisconduct.\nSenior advocate Yusuf\nMucchala, who began his prac-\ntice atthe same time asChaglain\n1962, recalled the role played by\nthe Association under Chagla in\nthe riots cases \u201cWhen the Justice\nSrikrishna Commission was set\nup after the 1992-93 Bombay ri-\nots, he had taken the lead as pres-\nident of the Association, having\nfelt that it should help the com-\nmission find the truth. The\nAssociation had filed affidavitson\nbehalf of some of the victims.\nThis stemmed from his personal\nbelief to maintain the values of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.55677655677655,
+   "ocr_low_conf_share": 0.06593406593406594,
+   "headline": "A legal luminary who raised voice against corruption in judiciary",
+   "deck": "",
+   "byline": "",
+   "text": "SENIOR ADVOCATE and one of India's leading lawyers Iqbal M Chagla, who passed away Sunday in Mumbai at the age of 85, was known as much for his legal acumen as for his tenure as President of Bombay Bar Association, where he advocated against corruption in the judiciaryin the 1990s, with resolutions passed against six sitting judges,\n\nmous cases he took up included Nestle's fight against the ban on Maggi noodles; the split of Amarchand Mangaldas, one of India's biggest law firms, thedispute between the Birla and Wadia families over realestate in Worli; and, the battle between Coca Cola and Pepsi over their advertisements. He also advised Cyrus Mistry, who was married to his daughter Rohiqa Chagla, in the high-profile legal battle against the Tata Group - Mistry died in 2022 in a car accident. Bom in 1939, Chagla wasthe son of MC Chagla, the first permanent Indian Chief Justice of\n\nthe Bombay High Court from 1948-58 who went on to become India's Ambassador to the US and later UK, and a minister in Jawaharlal Nehru's Cabinet where he held the education and later external affairs portfolios Initially keen on joumalism, Iqbal Chagla wanted a career in wniting but studied lawand was also called to the Bar at Gray's Inn, the professional association for barristers and judges in London. Having completed his Masters in History and Law from Cambridge University, Chagla retumed after his mother passed away to practice in the Bombay High Court.\n\nAt the age of 39, he was designated asa senior advocate,and was offered judgeship at least thrice. It is believed that he was one of the first candidates who wasconsidered for appointment directly from the Bar as a judge of the Supreme Court. But Chagla refused - even though he would eventually have been elevated to the position of the Chief Justice of India. His son Riyaz Chagla is now a sitting judge of the Bombay High Court. Iqbal Chagla led the Bombay Bar Association,one of the oldest in the country of practicing lawyers, for terms from 1990 to 1999. \"He personally became a\n\npetitioner in matters before the Supreme Court where the judges of various high courts were being transferred indiscriminately. In every major matter, I believe that he took correct and courageous decisions, never afraid of the powers that be or govemments, That has been the true tradition and standard of the Bac Iqbal set that standard,\" said Rafique Dada, a former President of the Bar Association who had served as vice-president during a partofChagla's tenure. It wasduring Chagla'stenure as Bar President that the then Bombay High Court Chief Justice AM Bhattacharjee was forced to\n\nresignon allegationsof financial misconduct. Senior advocate Yusuf Mucchala, who began his practice atthe same time asChaglain 1962, recalled the role played by the Association under Chagla in the riots cases \"When the Justice Srikrishna Commission was set up after the 1992-93 Bombay riots, he had taken the lead as president of the Association, having felt that it should help the commission find the truth. The Association had filed affidavitson behalf of some of the victims. This stemmed from his personal belief to maintain the values of",
+   "n_words": 527,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5995,
+      735,
+      6053
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      6053,
+      758,
+      6162
+     ]
+    ],
+    "layout_words": 17
+   },
+   "headline_raw": "| sechetintebeediis = hhieteaiiadeientanedeteteaid = Deaient <a\neven leading to resignations",
+   "deck_raw": "",
+   "body_raw": "Chagla was one of the most\nsought-after lawyers for corpo-\nrate houses, too. Some of the fa-",
+   "ocr_conf": 85.76470588235294,
+   "ocr_low_conf_share": 0.11764705882352941,
+   "headline": "sechetintebeediis = hhieteaiiadeientanedeteteaid = Deaient <a even leading to resignations",
+   "deck": "",
+   "byline": "",
+   "text": "Chagla was one of the most sought-after lawyers for corporate houses, too. Some of the fa-",
+   "n_words": 16,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 19.8,
+ "flags": []
+}

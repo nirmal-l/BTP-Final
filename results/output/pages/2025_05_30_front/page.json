@@ -1,0 +1,791 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_30_front",
+ "source_file": "2025-05-30_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-30_front.png",
+ "date": "2025-05-30",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 551,
+  "mean_line_conf": 91.13482881053208,
+  "orphan_words": 16,
+  "body_words_total": 2280
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2768,
+      788,
+      4135,
+      1330
+     ],
+     [
+      2765,
+      1372,
+      3194,
+      1714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2767,
+      697,
+      3912,
+      746
+     ]
+    ],
+    "body_boxes": [
+     [
+      2763,
+      1773,
+      3203,
+      1891
+     ],
+     [
+      2759,
+      1939,
+      3203,
+      3035
+     ]
+    ],
+    "layout_words": 149
+   },
+   "headline_raw": "Projects promised but\nnot delivered on time:\nIAF chief wake-up call\nSays can\u2019t recall\nsingle project\nmeeting timeline:\n\u2018Be ready now to\nbe future-ready\u2019",
+   "deck_raw": "URGES PRIVATE SECTOR TO STEP UP",
+   "body_raw": "AMRITANAYAK DUTTA\nNEW DELHI, MAY 29\n\nIN A wake-up call to the nation\nand thedefence industry overde-\nlay in critical projects especially\ndelivery of fighter aircraft, Indian\nAir Force chief Air Chief Marshal\nAP Singh said Thursday he could\nnot recall a single instance of a\nproject being completed within\nthe stipulated timeline.\nAddressing the Cll Annual\nBusiness Summit which was\nattended, among others, by\nDefence Minister Rajnath Singh\nand Defence Secretary RK Singh,\nAir Chief Marshal Singh said\ntimelines (promised for military\nprojects) are a \u201cbigissue\u201d. He un-\nderlined that \u201cwe have to be\nready now to be future-ready\u201d.\n\u201cNotasingle project, that] can\nthink of, has been completed on\ntime,\u201d he said. \u201cSo, this is some-\nthing which we have to look at.\nWhy should we promise some-\nthing whichcannot be achieved?\nWhile signing the contractitself,\nsometimes we are sure that itis\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.0952380952381,
+   "ocr_low_conf_share": 0.04081632653061224,
+   "headline": "Projects promised but not delivered on time: IAF chief wake-up call Says can't recall single project meeting timeline: 'Be ready now to be future-ready'",
+   "deck": "URGES PRIVATE SECTOR TO STEP UP",
+   "byline": "AMRITANAYAK DUTTA; NEW DELHI, MAY 29",
+   "text": "IN A wake-up call to the nation and thedefence industry overdelay in critical projects especially delivery of fighter aircraft, Indian Air Force chief Air Chief Marshal AP Singh said Thursday he could not recall a single instance of a project being completed within the stipulated timeline. Addressing the Cll Annual Business Summit which was attended, among others, by Defence Minister Rajnath Singh and Defence Secretary RK Singh, Air Chief Marshal Singh said timelines (promised for military projects) are a \"bigissue\". He underlined that \"we have to be ready now to be future-ready\". \"Notasingle project, that] can think of, has been completed on time,\" he said. \"So, this is something which we have to look at. Why should we promise something whichcannot be achieved? While signing the contractitself, sometimes we are sure that itis",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      625,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      411,
+      1208,
+      687,
+      1308
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "That his citizenship cose\nisn Supreme Courtisa\nFootnote You Con (Anore?",
+   "ocr_conf": 69.54545454545455,
+   "ocr_low_conf_share": 0.45454545454545453,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "That his citizenship cose isn Supreme Courtisa Footnote You Con (Anore?",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1448,
+      755,
+      1932
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1968,
+      761,
+      2085
+     ],
+     [
+      320,
+      2134,
+      764,
+      3903
+     ]
+    ],
+    "layout_words": 230
+   },
+   "headline_raw": "For women\u2019s\nscheme, Delhi\ngovt looks at\ndefining family,\nannual income\ncap of %2.5 lakh",
+   "deck_raw": "",
+   "body_raw": "GAYATHRI MANI\nNEW DELHI, MAY 29\n\nDEFINING A family as husband,\nwife and children; capping an-\nnual family income at Rs 2.5\nlakh; limiting the scheme to\nwomen aged between 21 and60\nyears, and to one beneficiary per\nfamily - these are among the el-\nigibility criteria being considered\nfor the Delhi government's\nMahila Samriddhi Yojana, The\nIndian Express has learnt.\nAhead of the Delhi elections,\nthe BJP had promised a monthly\nfinancial assistance of Rs 2,500\nfor poor women. In March, its\ngovernment set up a high-level\ncommittee headed by Chief\nMinister Rekha Gupta to frame\nthe norms, and earmarked\nRs 5,100 crore for the scheme.\nThe committee is learnt to\nhave held its first meeting last\nweek, days before the govern-\nment completes 100 days in\npower. Besides Gupta, Law\nMinister Kapil Mishra, Education\nMinister Ashish Sood - both\nmembers of the committee -\nand senior officials from the\nWoman and Child Development\nwere among those present at the\nmeeting.\n\u201cA detailed discussion was\nheld on what the eligibility cri-\nteria should be... While it has\nbeen decided that Rs 2,500 will\nbe given to one woman per fam-\nily, there are families with more\nthan one eligible woman... For\ninstance, in joint families, elderly\nparents live with their children\nand grandchildren... So the gov-\nernment hasdecided todefinea\nfamily first,\u201d said sources,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.45614035087719,
+   "ocr_low_conf_share": 0.03070175438596491,
+   "headline": "For women's scheme, Delhi govt looks at defining family, annual income cap of %2.5 lakh",
+   "deck": "",
+   "byline": "GAYATHRI MANI; NEW DELHI, MAY 29",
+   "text": "DEFINING A family as husband, wife and children; capping annual family income at Rs 2.5 lakh; limiting the scheme to women aged between 21 and60 years, and to one beneficiary per family - these are among the eligibility criteria being considered for the Delhi government's Mahila Samriddhi Yojana, The Indian Express has learnt. Ahead of the Delhi elections, the BJP had promised a monthly financial assistance of Rs 2,500 for poor women. In March, its government set up a high-level committee headed by Chief Minister Rekha Gupta to frame the norms, and earmarked Rs 5,100 crore for the scheme. The committee is learnt to have held its first meeting last week, days before the government completes 100 days in power. Besides Gupta, Law Minister Kapil Mishra, Education Minister Ashish Sood - both members of the committee - and senior officials from the Woman and Child Development were among those present at the meeting. \"A detailed discussion was held on what the eligibility criteria should be... While it has been decided that Rs 2,500 will be given to one woman per family, there are families with more than one eligible woman... For instance, in joint families, elderly parents live with their children and grandchildren... So the government hasdecided todefinea family first,\" said sources,",
+   "n_words": 212,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      1859,
+      2019,
+      1927
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      1975,
+      2684,
+      2052
+     ]
+    ],
+    "layout_words": 36
+   },
+   "headline_raw": "First NDA WOMEN GRADUATES",
+   "deck_raw": "",
+   "body_raw": "The first batch of 17 female cadets graduated from the National Defence Academy in Pune on Thursday and were conferred\ndegrees at a convocation ceremony. The Passing Out Parade will be held on Friday. Aru! Horizon",
+   "ocr_conf": 89.55555555555556,
+   "ocr_low_conf_share": 0.05555555555555555,
+   "headline": "First NDA WOMEN GRADUATES",
+   "deck": "",
+   "byline": "",
+   "text": "The first batch of 17 female cadets graduated from the National Defence Academy in Pune on Thursday and were conferred degrees at a convocation ceremony. The Passing Out Parade will be held on Friday. Aru! Horizon",
+   "n_words": 36,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2038,
+      4087,
+      2174
+     ],
+     [
+      3251,
+      2192,
+      4171,
+      2402
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2492,
+      3630,
+      2562
+     ],
+     [
+      3250,
+      2613,
+      3691,
+      3043
+     ],
+     [
+      3737,
+      2458,
+      4182,
+      3036
+     ]
+    ],
+    "layout_words": 127
+   },
+   "headline_raw": "Could have done a lot\nmore, showed restraint:\nRajnath on Op Sindoor",
+   "deck_raw": "",
+   "body_raw": "AMRITA NAYAK DUTTA\nNEW DELHI, MAY 29\n\nDEFENCE MINISTER Rajnath\nSingh said Thursday that India\ncould have done \u201calot more\u201d be-\nyond destroying terrorist hide-\noutsand Pakistani military bases\nin Operation Sindoor, but pre-\nsented a great example of \u201ccoor-\ndination of power and restraint\u201d.\nHe said the use of indigenous\nsystems during Operation\nSindoor proves that India has the\n\npower to penetrate any armour\nof theenemy.\nAddressing the inaugural\nplenary of the Confederation of\nIndian Industry (CII) Annual\nBusiness Summit, Singh also said\nthat Pakistan-occupied Kashmir\nis a part of India and people who\ngot separated geographically\nand politically will, sooner or\nlater, voluntarily return to India.\n\u201cEven after separation, the con-\nfidence and faith of the elder\nbrother towards his younger\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.015748031496062992,
+   "headline": "Could have done a lot more, showed restraint: Rajnath on Op Sindoor",
+   "deck": "",
+   "byline": "AMRITA NAYAK DUTTA; NEW DELHI, MAY 29",
+   "text": "DEFENCE MINISTER Rajnath Singh said Thursday that India could have done \"alot more\" beyond destroying terrorist hide-outsand Pakistani military bases in Operation Sindoor, but presented a great example of \"coordination of power and restraint\". He said the use of indigenous systems during Operation Sindoor proves that India has the\n\npower to penetrate any armour of theenemy. Addressing the inaugural plenary of the Confederation of Indian Industry (CII) Annual Business Summit, Singh also said that Pakistan-occupied Kashmir is a part of India and people who got separated geographically and politically will, sooner or later, voluntarily return to India. \"Even after separation, the confidence and faith of the elder brother towards his younger",
+   "n_words": 111,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      2236,
+      1691,
+      2698
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2807,
+      1154,
+      2877
+     ],
+     [
+      805,
+      2927,
+      1250,
+      3911
+     ]
+    ],
+    "layout_words": 132
+   },
+   "headline_raw": "As US court blocks\nmost Trump tariffs,\nbreather for India\nahead of trade talks",
+   "deck_raw": "",
+   "body_raw": "RAVIDUTTA MISHRA\nNEW DELHI, MAY 29\n\nWITH NEGOTIATORS from the\nUS set to arrive in New Delhi for\ntrade talks on June 5-6, officials\nin the MinistryofCommerce and\nIndustry said they are \u201cstudying\nthe implications\u201d of the US Court\nof International Trade\u2019s\nWednesday ruling that US\nPresident Donald Trump did not\nhave the authority to impose\nsweeping tariffs under the emer-\ngency economic powers law he\nhad cited.\nOn April 2, Trump had an-\nnounced asteep 26 per centrecip-\nrocal tariff on India, despite New\nDelhi agreeing to commence ne-\ngotiations with Washington ona\ntradedeal. The tariffs were paused\nuntil July 8, and the government\nis keen to wrap up an interim\ntrade deal before that.\nOfficials are cognisant that\nthe ruling, being viewed globally\nas amajor loss of leverage the US",
+   "ocr_conf": 93.99242424242425,
+   "ocr_low_conf_share": 0.007575757575757576,
+   "headline": "As US court blocks most Trump tariffs, breather for India ahead of trade talks",
+   "deck": "",
+   "byline": "RAVIDUTTA MISHRA; NEW DELHI, MAY 29",
+   "text": "WITH NEGOTIATORS from the US set to arrive in New Delhi for trade talks on June 5-6, officials in the MinistryofCommerce and Industry said they are \"studying the implications\" of the US Court of International Trade's Wednesday ruling that US President Donald Trump did not have the authority to impose sweeping tariffs under the emergency economic powers law he had cited. On April 2, Trump had announced asteep 26 per centreciprocal tariff on India, despite New Delhi agreeing to commence negotiations with Washington ona tradedeal. The tariffs were paused until July 8, and the government is keen to wrap up an interim trade deal before that. Officials are cognisant that the ruling, being viewed globally as amajor loss of leverage the US",
+   "n_words": 122,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2158,
+      2723,
+      2610
+     ],
+     [
+      1785,
+      2636,
+      2654,
+      2768
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      2812,
+      2518,
+      2869
+     ]
+    ],
+    "body_boxes": [
+     [
+      1785,
+      2847,
+      2110,
+      2917
+     ],
+     [
+      1781,
+      2968,
+      2227,
+      3911
+     ],
+     [
+      2272,
+      3442,
+      2718,
+      3872
+     ]
+    ],
+    "layout_words": 185
+   },
+   "headline_raw": "Trump crypto firm\nquiet on Shehbaz talks,\nCEO of partner talks of\nPak image makeover\nWLFI names Trump as \u2018chief crypto\nadvocate\u2019, sons, grandson as envoys",
+   "deck_raw": "THE WORLD",
+   "body_raw": "JAY MAZOOMDAAR\nNEW DELHI, MAY 29\n\nEVEN AS World Liberty Financial\nInc (WLFI), a cryptocurrency\ncompany majority-owned by US\nPresident Donald Trump and his\nfamily, sits on a request from a\nSenate sub-committee to share\nits communications with\nPakistan Prime Minister Shehbaz\nSharif that led to a deal signedon\nApril 26, CEO of Pakistan Crypto\nCouncil Bilal bin Saqib Thursday\ndiew parallels between Pakistan\nandBitcoin as \u201cvictims of bad PR.\u201d\n\u201cBoth Pakistan and Bitcoin\nhave suffered from bad PR. We\nare looked at as being dangerous,\nrisky and unstable. But once we\nlookbeyond these headlines, we\ncan see a lot of potential,\nresources and talent. So Pakistan\nis looking for allies,\u201d he said at\nthe annual gathering of the\nglobal cryptocurrency commu-\nnity in Las Vegas.\n\nPart of the Forbes \u201830 under\n30 list of social entrepreneursin\n2020, Bilal Bin Saqib was ap-\npointed the first CEO of the\nPakistan Crypto Council (PCC) by\nPrime Minister Sharif on March\n26. Last week, he held a \u201chigh-\nlevel meeting\u201d with Chief of\nArmy Staff Asim Munir to out-\nline the future of Pakistan's dig-\nital economy.",
+   "ocr_conf": 91.99459459459459,
+   "ocr_low_conf_share": 0.010810810810810811,
+   "headline": "Trump crypto firm quiet on Shehbaz talks, CEO of partner talks of Pak image makeover WLFI names Trump as 'chief crypto advocate', sons, grandson as envoys",
+   "deck": "THE WORLD",
+   "byline": "JAY MAZOOMDAAR; NEW DELHI, MAY 29",
+   "text": "EVEN AS World Liberty Financial Inc (WLFI), a cryptocurrency company majority-owned by US President Donald Trump and his family, sits on a request from a Senate sub-committee to share its communications with Pakistan Prime Minister Shehbaz Sharif that led to a deal signedon April 26, CEO of Pakistan Crypto Council Bilal bin Saqib Thursday diew parallels between Pakistan andBitcoin as \"victims of bad PR.\" \"Both Pakistan and Bitcoin have suffered from bad PR. We are looked at as being dangerous, risky and unstable. But once we lookbeyond these headlines, we can see a lot of potential, resources and talent. So Pakistan is looking for allies,\" he said at the annual gathering of the global cryptocurrency community in Las Vegas.\n\nPart of the Forbes '30 under 30 list of social entrepreneursin 2020, Bilal Bin Saqib was appointed the first CEO of the Pakistan Crypto Council (PCC) by Prime Minister Sharif on March 26. Last week, he held a \"high-level meeting\" with Chief of Army Staff Asim Munir to outline the future of Pakistan's digital economy.",
+   "n_words": 174,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      3188,
+      3182,
+      3599
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      3681,
+      3187,
+      3751
+     ],
+     [
+      2758,
+      3799,
+      3204,
+      5133
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "HC quashes\nKarnataka\nmove to drop\ncases of 2022\nHubballi riots",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nBENGALURU, MAY 29\n\nTHE KARNATAKA High Court on\nThursday struck down the state\ngovemment\u2019s decision to with-\ndraw 43 criminal cases, includ-\ning those related to the 2022\nriots in Hubballi.\nA division bench of Chief\nJustice N V Anjaria and Justice\nKV Aravind passed the order in\nresponse toa public interest lit-\nigation (PIL) filed by advocate\nGirish Bhardwaj.\n\u2018The Government Order\ndated 15.10.24 is hereby set\naside. It is declared that the or-\nder shall stand non est (non-ex-\nistentor invalid) from inception.\nConsequences in law shall fol-\nlow,\u201d Chief Justice Anjaria said.\nThe detailed order is awaited.\nThe Government Order\nwithdrawing the cases against\nthe Hubballi riots accused, pro-\nKannada activists, and farmer\nleaders, among others, had set\noffa political controversy when\nit was passed last October. The\nBJP had staged protests and ac-\ncused the state\u2019s ruling Congress\nof \u201cminority appeasement\u201d. The\nCongress had defended the\nmove, saying the government\nwas following \u201cdue process\u201d.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.75151515151515,
+   "ocr_low_conf_share": 0.0,
+   "headline": "HC quashes Karnataka move to drop cases of 2022 Hubballi riots",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; BENGALURU, MAY 29",
+   "text": "THE KARNATAKA High Court on Thursday struck down the state govemment's decision to withdraw 43 criminal cases, including those related to the 2022 riots in Hubballi. A division bench of Chief Justice N V Anjaria and Justice KV Aravind passed the order in response toa public interest litigation (PIL) filed by advocate Girish Bhardwaj. 'The Government Order dated 15.10.24 is hereby set aside. It is declared that the order shall stand non est (non-existentor invalid) from inception. Consequences in law shall follow,\" Chief Justice Anjaria said. The detailed order is awaited. The Government Order withdrawing the cases against the Hubballi riots accused, pro-Kannada activists, and farmer leaders, among others, had set offa political controversy when it was passed last October. The BJP had staged protests and accused the state's ruling Congress of \"minority appeasement\". The Congress had defended the move, saying the government was following \"due process\".",
+   "n_words": 147,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3188,
+      4133,
+      3665
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      3760,
+      3505,
+      3830
+     ],
+     [
+      3247,
+      3878,
+      3690,
+      5141
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "\u2018Nirmam Sarkar\u2019:\nPM targets Mamata\ngovt over Bengal\nviolence, jobs scam",
+   "deck_raw": "",
+   "body_raw": "ATRIMITRA\nKOLKATA, MAY 29\n\nWITH LESS than a year to go for\nthe West Bengal Assembly elec-\ntions, Prime Minister Narendra\nModi Thursday accused the\nMamata Banerjee-led adminis-\ntration of fostering violence, cor-\nruption and lawlessness, and\nsaid people were yearning to get\nrid of the \u201cnirmam sarkar\u201d (ruth-\nless government).\n\u201cLook at what happened in\nMurshidabad and Malda, clear\nexamples of the government's\ncruelty. In the name of appease-\nment, lawlessness was allowed\nto flourish. Just imagine the hor-\nror: members of the ruling party\nmarkout homesand set themon\nfire, while the police stand by\nand do nothing,\u201d Modi said at a\npublic meeting in North Bengal's\nAlipurduar after laying the foun-\ndation of a piped gas project.\n\u201cToday, West Bengal is grap-\npling with a series of crises.\nPeople don\u2019t want \u2018nirmam\nsarkar\u2019. They want change and\ngood governance. That is why\nthe whole of Bengal is saying\nthat they don\u2019t want cruelty and\ncorruption anymore,\u201d he said,\ncoining the slogan, \u201cBanglar",
+   "ocr_conf": 91.4329268292683,
+   "ocr_low_conf_share": 0.036585365853658534,
+   "headline": "'Nirmam Sarkar': PM targets Mamata govt over Bengal violence, jobs scam",
+   "deck": "",
+   "byline": "ATRIMITRA; KOLKATA, MAY 29",
+   "text": "WITH LESS than a year to go for the West Bengal Assembly elections, Prime Minister Narendra Modi Thursday accused the Mamata Banerjee-led administration of fostering violence, corruption and lawlessness, and said people were yearning to get rid of the \"nirmam sarkar\" (ruthless government). \"Look at what happened in Murshidabad and Malda, clear examples of the government's cruelty. In the name of appeasement, lawlessness was allowed to flourish. Just imagine the horror: members of the ruling party markout homesand set themon fire, while the police stand by and do nothing,\" Modi said at a public meeting in North Bengal's Alipurduar after laying the foundation of a piped gas project. \"Today, West Bengal is grappling with a series of crises. People don't want 'nirmam sarkar'. They want change and good governance. That is why the whole of Bengal is saying that they don't want cruelty and corruption anymore,\" he said, coining the slogan, \"Banglar",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      3346,
+      1529,
+      3403
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3452,
+      1704,
+      3589
+     ],
+     [
+      1296,
+      3719,
+      1738,
+      3904
+     ]
+    ],
+    "layout_words": 32
+   },
+   "headline_raw": "EXPLAINED",
+   "deck_raw": "",
+   "body_raw": "WHY MANY TRUMP\nTARIFFS WERE\nSTRUCK DOWN\n\nhad in pushing through trade\ndeals, does offer a temporary\nbreather for India and more flex-\nibility in handling US demands\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.78125,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPLAINED",
+   "deck": "",
+   "byline": "WHY MANY TRUMP; TARIFFS WERE; STRUCK DOWN",
+   "text": "had in pushing through trade deals, does offer a temporary breather for India and more flexibility in handling US demands",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3674,
+      3563,
+      4117,
+      3671
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3735,
+      4273,
+      4163,
+      4348
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "jobs scam",
+   "deck_raw": "",
+   "body_raw": "PM Narendra Modiin\nAlipurduar on Thursday. ANI",
+   "ocr_conf": 90.85714285714286,
+   "ocr_low_conf_share": 0.0,
+   "headline": "jobs scam",
+   "deck": "",
+   "byline": "",
+   "text": "PM Narendra Modiin Alipurduar on Thursday. ANI",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      3977,
+      2710,
+      4188
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      4272,
+      1620,
+      4342
+     ],
+     [
+      1294,
+      4392,
+      1737,
+      5139
+     ],
+     [
+      1945,
+      4327,
+      2189,
+      4414
+     ],
+     [
+      1831,
+      4471,
+      2183,
+      4855
+     ],
+     [
+      1783,
+      4946,
+      2225,
+      5140
+     ],
+     [
+      2271,
+      4234,
+      2713,
+      5133
+     ]
+    ],
+    "layout_words": 282
+   },
+   "headline_raw": "Rising obesity, hypertension among\nstudents, more in pvt schools: Study",
+   "deck_raw": "",
+   "body_raw": "ANKITA UPADHYAY\nNEW DELHI, MAY 29\n\nRED-FLAGGING the rising rates\nof obesity and hypertension\namong school-going children, a\nnew study by the All India\nInstitute of Medical Sciences({Al-\nIMS) has found that the preva-\nlence of obesity was as high as\n24.02 per centin private schools\nin Delhi, more than five times the\nnumber for public schools.\nAccording to the study, which\nlooked at 3,888 students of Delhi\nschools aged 6-19 years, anaver-\nage of 13.4 per cent students\nwere found to be generally obese\nwhile 9.2 per cent had belly fat-\nrelated (central) obesity. This is a\nsharp rise from the findings of a\nsimilar study in 2006, which had\n\nRaising\n|@\u00ae awareness\n\nEARLIER THIS month, the\nCBSE directed affiliated\nschools to set up \u201csugar\nboards\u201d to raise aware-\nness among students by\ndisplaying information\nonthe risks of excessive\nsugar consumption, and\nencourage healthier\nchoices.\n\npegged the prevalence of obesity\nat 5 per cent.\nThe new study has found\nthat the prevalence of obesity\nwas much higher in private\n\nschools, which reported 24.02\nper cent general obesity and\n16.77 per cent central obesity, as\ncompared to 4.48 per cent gen-\neral obesity and 1.83 per cent\ncentral obesity in public schools.\nBoth private and public\nschools, however, reported sim-\nilar figures for hypertension at 7.4\npercent. Butit found that private\nschool students were twice as\nlikely to have high blood sugar\nand three times as likely to have\nmetabolic syndrome, as com-\nparedto their other counterparts.\nSpeaking to The Indian\nExpress, Dr M Kalaivanii, assistant\nprofessor of Biostatistics at Al-\nIMS-Delhi and the principal in-\nvestigator of the study, explained\nthat metabolic syndrome is\nidentified based on five\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.64664310954063,
+   "ocr_low_conf_share": 0.04240282685512368,
+   "headline": "Rising obesity, hypertension among students, more in pvt schools: Study",
+   "deck": "",
+   "byline": "ANKITA UPADHYAY; NEW DELHI, MAY 29",
+   "text": "RED-FLAGGING the rising rates of obesity and hypertension among school-going children, a new study by the All India Institute of Medical Sciences({Al-IMS) has found that the prevalence of obesity was as high as 24.02 per centin private schools in Delhi, more than five times the number for public schools. According to the study, which looked at 3,888 students of Delhi schools aged 6-19 years, anaverage of 13.4 per cent students were found to be generally obese while 9.2 per cent had belly fatrelated (central) obesity. This is a sharp rise from the findings of a similar study in 2006, which had\n\nRaising @\u00ae awareness\n\nEARLIER THIS month, the CBSE directed affiliated schools to set up \"sugar boards\" to raise awareness among students by displaying information onthe risks of excessive sugar consumption, and encourage healthier choices.\n\npegged the prevalence of obesity at 5 per cent. The new study has found that the prevalence of obesity was much higher in private\n\nschools, which reported 24.02 per cent general obesity and 16.77 per cent central obesity, as compared to 4.48 per cent general obesity and 1.83 per cent central obesity in public schools. Both private and public schools, however, reported similar figures for hypertension at 7.4 percent. Butit found that private school students were twice as likely to have high blood sugar and three times as likely to have metabolic syndrome, as comparedto their other counterparts. Speaking to The Indian Express, Dr M Kalaivanii, assistant professor of Biostatistics at Al-IMS-Delhi and the principal investigator of the study, explained that metabolic syndrome is identified based on five",
+   "n_words": 263,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4059,
+      1244,
+      4362
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      3981,
+      1228,
+      4014
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      4470,
+      628,
+      4579
+     ],
+     [
+      319,
+      4628,
+      762,
+      5138
+     ],
+     [
+      804,
+      4431,
+      1248,
+      5132
+     ]
+    ],
+    "layout_words": 162
+   },
+   "headline_raw": "Pak officers posed as\njournalists, got key info\nfrom CRPF ASI: Probe",
+   "deck_raw": "POSTED OUT OF PAHALGAM BEFORE ATTACK",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, MAY 29\n\nUNION HOME Minister Amit\nShah\u2019s visit to Jammu and\nKashmir hours after the\nPahalgam terror attack, 50\ntourist spots closing down,\nmovement and strength of CRPF\ntroops,and suspected location of\nterrorists \u2014 these are some of\nthe key inputs allegedly shared\nby an assistant sub-inspector of\nthe Central Reserve Police Force\n(CRPF) over the last two years\nwith Pakistan intelligence offi-\n\ncers, who posed as TV journal-\nists and gave him Rs 3,500 per\nmonth, and an additional Rs\n12,000 for crucial information,\nThe Indian Express has learnt.\nEarlier this week, the National\nInvestigation Agency said it had\narrested CRPF ASI Moti Ram Jat\nfrom Delhi and was questioning\nhim. The Central agency alleged\nhe shared classified information\nwith Pakistani agents and was\ntaking funds from them. He was\nposted with a CRPF battalion in\nJ&K\u2019s Pahalgam and was trans-\nferred to Delhi five days before\nthe April 22 terror attack on the\nCONTINUEDON PAGE2",
+   "ocr_conf": 93.37654320987654,
+   "ocr_low_conf_share": 0.012345679012345678,
+   "headline": "Pak officers posed as journalists, got key info from CRPF ASI: Probe",
+   "deck": "POSTED OUT OF PAHALGAM BEFORE ATTACK",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, MAY 29",
+   "text": "UNION HOME Minister Amit Shah's visit to Jammu and Kashmir hours after the Pahalgam terror attack, 50 tourist spots closing down, movement and strength of CRPF troops,and suspected location of terrorists - these are some of the key inputs allegedly shared by an assistant sub-inspector of the Central Reserve Police Force (CRPF) over the last two years with Pakistan intelligence officers, who posed as TV journal-ists and gave him Rs 3,500 per month, and an additional Rs 12,000 for crucial information, The Indian Express has learnt. Earlier this week, the National Investigation Agency said it had arrested CRPF ASI Moti Ram Jat from Delhi and was questioning him. The Central agency alleged he shared classified information with Pakistani agents and was taking funds from them. He was posted with a CRPF battalion in J&K's Pahalgam and was transferred to Delhi five days before the April 22 terror attack on the CONTINUEDON PAGE2",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      3736,
+      4383,
+      3873,
+      4440
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3736,
+      4475,
+      4121,
+      4518
+     ]
+    ],
+    "body_boxes": [
+     [
+      3735,
+      5026,
+      4176,
+      5134
+     ]
+    ],
+    "layout_words": 15
+   },
+   "headline_raw": "INSIDE",
+   "deck_raw": "<<",
+   "body_raw": "matir chitkar, chai naaar nirmam\nsarkar (the soil of Bengal cries\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.86666666666666,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "matir chitkar, chai naaar nirmam sarkar (the soil of Bengal cries",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      5266,
+      4129,
+      5394
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5421,
+      499,
+      5494
+     ],
+     [
+      318,
+      5617,
+      728,
+      5691
+     ],
+     [
+      318,
+      5736,
+      760,
+      6166
+     ],
+     [
+      806,
+      5419,
+      1248,
+      6166
+     ],
+     [
+      1293,
+      5420,
+      1736,
+      6167
+     ],
+     [
+      2760,
+      5421,
+      3201,
+      6168
+     ],
+     [
+      3247,
+      5421,
+      3692,
+      6168
+     ],
+     [
+      3735,
+      5421,
+      4179,
+      6129
+     ]
+    ],
+    "layout_words": 560
+   },
+   "headline_raw": "Curiosity, conspiracy theories as container washes up on Kerala beach",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nANIL SASI\nPARAVUR (KOLLAM), MAY 29\n\nALONE, battered shipping con-\ntainer that has washed uponthe\nbeach in Paravur, a small fishing\nhamlet between Thiruvana-\nnthapuram and Kollam, is the\ntalk of the town. The reddish-\nbrown container, like many\nmore that have beached all along\nKerala's coast following the re-\ncent sinking of a Liberia-regis-\ntered ship, has piqued curiosity\n\nand, for now, taken a daily staple\noff the plates of most households\nin these parts - fish.\nOn Sunday, May 25, MSCElsa\n3, an 184-metre-long container\nship, sank while it was sailing\nfrom Vizhinjam port to Cochin\nport, triggering alarm in coastal\nhamlets all the way from\nAlappuzha in mid-north Kerala\ntoKollam further south. The ship\nwas carrying an estimated 640\ncontainers, including 13 with\n\u201chazardous cargo\u201d, of which 12\nare said to have contained cal-\ncium carbide. A solid compound,\ncalcium carbide is not flamma-\nble by itself, but it reacts vigor-\nously with water and moisture\n\nto produce highly flammable\nacetylene gas, posing a signifi-\ncant fire hazard. The ship also\nhad 84 metric tonnes of diesel\nand 367 metric tonnesof furnace\noil, the Coast Guard said Sunday.\nAround Paravur beach, men\nin khaki have been deployed to\nguard the container, lest some\nintrepid local falls prey to curios-\nity and tries to prise it open. A\nconstable has been deputed to\ncleartraffic as people slow down\nvehicles on the narrow beach\nroad to check out the container.\nTaking advantage of the sudden\nrush of onlookers, an ice cream\nvendor has strategically shifted\ncloser to this spot on the beach,\n\nadding to the problems of the\nconstable who struggles to clear\nthe occasional \u201cblock\u201d - the term\nused for a traffic jam.\nThere are a bunch of people\non the beach shooting reels and\nshorts with the container in the\nbackdrop, as are children in uni-\nform, who have taken a detour\non their way home from school\nto witness the local spectacle. In\nthis sleepy Kerala town, where\nthe high point of the year are the\nfireworks at a local temple, the\ncoming of the container is an\nassured selfie moment.\nValsala Srikumar, though, has\naharried look. \u201cIhave barely sold\nanything. The same as Monday,\u201d\n\nshe says, standing metres away\nfrom the ice cream vendor, ped-\ndling a full stock of fishona yard\nstool by the beach road.\nMetres away, the container\nbobs gently as the waves crash\ninto it. All around the container\nand further south along the\ncoast, the water is white and\nfoamy - one reason why people\nare keeping off fish.\nToday, Valsala's husband has\nventured out \u201cto the cleaner\nparts\u201d seeking a catch, but it's\npointless now. \u201cWhatis the use if\nno one is buying,\u201d she says.\nFishing boats are moored\nalong the beach, with little activ-\nity at the far end where the fish-\n\nerfolk stay.\nA kilometre away, at\nOottupurayil restaurantin Paravur\nKombolam, a market witha clus-\nter of shops, waiter Anees says\nclients are shunning seafood. \u201cThis\nis justa phase,\u201d he hopes.\nBack on the beach, there are\nspeculative guesses on the con-\ntents of the container. The locals,\nhelped by WhatsApp forwards\nand their vestigial knowledge of\nthe periodic table, rattle off\nnames of the multiple chemical\ncompounds the containers os-\ntensibly contained - all the way\nfrom arsenic to zinc, lead and\nmercury.",
+   "ocr_conf": 93.01785714285714,
+   "ocr_low_conf_share": 0.017857142857142856,
+   "headline": "Curiosity, conspiracy theories as container washes up on Kerala beach",
+   "deck": "",
+   "byline": "ANCHOR; ANIL SASI; PARAVUR (KOLLAM), MAY 29",
+   "text": "ALONE, battered shipping container that has washed uponthe beach in Paravur, a small fishing hamlet between Thiruvananthapuram and Kollam, is the talk of the town. The reddish-brown container, like many more that have beached all along Kerala's coast following the recent sinking of a Liberia-registered ship, has piqued curiosity\n\nand, for now, taken a daily staple off the plates of most households in these parts - fish. On Sunday, May 25, MSCElsa 3, an 184-metre-long container ship, sank while it was sailing from Vizhinjam port to Cochin port, triggering alarm in coastal hamlets all the way from Alappuzha in mid-north Kerala toKollam further south. The ship was carrying an estimated 640 containers, including 13 with \"hazardous cargo\", of which 12 are said to have contained calcium carbide. A solid compound, calcium carbide is not flammable by itself, but it reacts vigorously with water and moisture\n\nto produce highly flammable acetylene gas, posing a significant fire hazard. The ship also had 84 metric tonnes of diesel and 367 metric tonnesof furnace oil, the Coast Guard said Sunday. Around Paravur beach, men in khaki have been deployed to guard the container, lest some intrepid local falls prey to curiosity and tries to prise it open. A constable has been deputed to cleartraffic as people slow down vehicles on the narrow beach road to check out the container. Taking advantage of the sudden rush of onlookers, an ice cream vendor has strategically shifted closer to this spot on the beach,\n\nadding to the problems of the constable who struggles to clear the occasional \"block\" - the term used for a traffic jam. There are a bunch of people on the beach shooting reels and shorts with the container in the backdrop, as are children in uniform, who have taken a detour on their way home from school to witness the local spectacle. In this sleepy Kerala town, where the high point of the year are the fireworks at a local temple, the coming of the container is an assured selfie moment. Valsala Srikumar, though, has aharried look. \"Ihave barely sold anything. The same as Monday,\"\n\nshe says, standing metres away from the ice cream vendor, peddling a full stock of fishona yard stool by the beach road. Metres away, the container bobs gently as the waves crash into it. All around the container and further south along the coast, the water is white and foamy - one reason why people are keeping off fish. Today, Valsala's husband has ventured out \"to the cleaner parts\" seeking a catch, but it's pointless now. \"Whatis the use if no one is buying,\" she says. Fishing boats are moored along the beach, with little activity at the far end where the fisherfolk stay. A kilometre away, at Oottupurayil restaurantin Paravur Kombolam, a market witha cluster of shops, waiter Anees says clients are shunning seafood. \"This is justa phase,\" he hopes. Back on the beach, there are speculative guesses on the contents of the container. The locals, helped by WhatsApp forwards and their vestigial knowledge of the periodic table, rattle off names of the multiple chemical compounds the containers ostensibly contained - all the way from arsenic to zinc, lead and mercury.",
+   "n_words": 534,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.5,
+ "flags": []
+}

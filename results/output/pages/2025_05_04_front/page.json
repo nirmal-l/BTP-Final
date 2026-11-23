@@ -1,0 +1,703 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_04_front",
+ "source_file": "2025-05-04_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-04_front.png",
+ "date": "2025-05-04",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 16,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1318,
+  "n_lines": 324,
+  "mean_line_conf": 89.66446165716998,
+  "orphan_words": 127,
+  "body_words_total": 1136
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1376,
+      1221,
+      1657
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      1710,
+      1223,
+      1767
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      1749,
+      738,
+      1858
+     ],
+     [
+      319,
+      1909,
+      763,
+      2774
+     ],
+     [
+      809,
+      1810,
+      1250,
+      1979
+     ],
+     [
+      809,
+      2067,
+      1250,
+      2298
+     ],
+     [
+      808,
+      2305,
+      1250,
+      2767
+     ]
+    ],
+    "layout_words": 223
+   },
+   "headline_raw": "Second set of measures\nkicks in as Pakistan tests\n450-km ballistic missile",
+   "deck_raw": "EXPRESS NETWORK",
+   "body_raw": "P VAIDYANATHAN IVER &\nSHUBHAJIT ROY\nNEW DELHI, MAY 3\n\nJUST OVER 10 days after the\nPahalgam terror attack that\nkilled 26 people, India has ratch-\neted up its diplomatic offensive\nwith a second set of measures\nagainst Pakistan: curbing water\nflow through the Baglihar dam;\nstopping the import of products;\nbanning docking of Pakistan-\nowned ships and suspending the\nexchange of all mail and parcels.\nThis, even as it flagged its\ncondemnation over the test-fir-\ning Saturday of a surface-to-sur-\nface ballistic missile by Pakistan.\nThe testing wasn't lost on\nIndia. Turning the heat on\nIslamabad, the government put\ninto effect a crucial next step as\npart of putting the Indus Water\nTreaty in abeyance,\nThe gates of the sluice spill-\n\nLOCAL WHOSE SHOP\nWAS SHUT ON DAY OF\nATTACK UNDER NIA\nSCANNER paceE3\n\nways on the Baglihar dam have\nbeen lowered to restrict water\nflow to Pakistan\u2019s Punjab as a\n\u201cshort-term punitive action,\u201d a\nsenior official told The Indian\nExpress.\n\nThe Baglihar dam, over\nChenab river, is designed as a\nrun-of-the-river plant for hydro\npower generation. Chenab is one\nofthe westem rivers in the Indus\nWater system and the treaty al-\nlows for harnessing its waters for\npower generation.\n\u201cBy doing this, even if the\nchoke is for a short while, we\ndemonstrate that we will take\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.75225225225225,
+   "ocr_low_conf_share": 0.02252252252252252,
+   "headline": "Second set of measures kicks in as Pakistan tests 450-km ballistic missile",
+   "deck": "EXPRESS NETWORK",
+   "byline": "P VAIDYANATHAN IVER &; SHUBHAJIT ROY; NEW DELHI, MAY 3",
+   "text": "JUST OVER 10 days after the Pahalgam terror attack that killed 26 people, India has ratch-eted up its diplomatic offensive with a second set of measures against Pakistan: curbing water flow through the Baglihar dam; stopping the import of products; banning docking of Pakistan-owned ships and suspending the exchange of all mail and parcels. This, even as it flagged its condemnation over the test-firing Saturday of a surface-to-surface ballistic missile by Pakistan. The testing wasn't lost on India. Turning the heat on Islamabad, the government put into effect a crucial next step as part of putting the Indus Water Treaty in abeyance, The gates of the sluice spill-\n\nLOCAL WHOSE SHOP WAS SHUT ON DAY OF ATTACK UNDER NIA SCANNER paceE3\n\nways on the Baglihar dam have been lowered to restrict water flow to Pakistan's Punjab as a \"short-term punitive action,\" a senior official told The Indian Express.\n\nThe Baglihar dam, over Chenab river, is designed as a run-of-the-river plant for hydro power generation. Chenab is one ofthe westem rivers in the Indus Water system and the treaty allows for harnessing its waters for power generation. \"By doing this, even if the choke is for a short while, we demonstrate that we will take CONTINUEDON PAGE 2",
+   "n_words": 207,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3247,
+      1356,
+      3600,
+      1426
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "AANCHAL MAGAZINE\nNEW DELHI, MAY 3",
+   "ocr_conf": 94.83333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "AANCHAL MAGAZINE; NEW DELHI, MAY 3",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3967,
+      1394,
+      4174,
+      1544
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Subramanian\nwas not\navailable for\ncomment",
+   "ocr_conf": 64.0,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Subramanian was not available for comment",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      1476,
+      3690,
+      1708
+     ]
+    ],
+    "layout_words": 28,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SIX MONTHS before the end of\nhis three-year term as the\nInternational Monetary Fund's\nExecutive Director, Krishna-\nmurthy V Subramanian hasbeen\ncalled back to India by the gov-",
+   "ocr_conf": 91.39285714285714,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "SIX MONTHS before the end of his three-year term as the International Monetary Fund's Executive Director, Krishna-murthy V Subramanian hasbeen called back to India by the gov-",
+   "n_words": 27,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3247,
+      1717,
+      3687,
+      2064
+     ]
+    ],
+    "layout_words": 36,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "emment.\nAn order, dated April 30, said\nthat the Appointments Comm-\nittee of the Cabinet had ap-\nproved the \"termination\" of his\nservices as IMF's Executive\nDirector (India), \u201cwith immedi-\nate effect.\u201d\nThe government is looking",
+   "ocr_conf": 89.69444444444444,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "emment. An order, dated April 30, said that the Appointments Committee of the Cabinet had approved the \"termination\" of his services as IMF's Executive Director (India), \"with immediate effect.\" The government is looking",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3736,
+      1634,
+      4175,
+      1740
+     ]
+    ],
+    "layout_words": 13,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "for his replacement to be nomi-\nnated to the IMF Board, sources\nsaid.",
+   "ocr_conf": 95.23076923076923,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "for his replacement to be nominated to the IMF Board, sources said.",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3734,
+      1752,
+      4175,
+      2057
+     ]
+    ],
+    "layout_words": 38,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The reasons for his exit have\nnot been officially announced.\nSources said concems were\nflagged over an \u201calleged impro-\npriety\u2019 relating to the promotion\nof his latest book India @ 100.\nAdditionally, sources said, there\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.7948717948718,
+   "ocr_low_conf_share": 0.02564102564102564,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The reasons for his exit have not been officially announced. Sources said concems were flagged over an \"alleged impropriety' relating to the promotion of his latest book India @ 100. Additionally, sources said, there",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3246,
+      2131,
+      4155,
+      2429
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3246,
+      2503,
+      3484,
+      2573
+     ],
+     [
+      3246,
+      2623,
+      3688,
+      2776
+     ],
+     [
+      3247,
+      2820,
+      3687,
+      3092
+     ],
+     [
+      3733,
+      2465,
+      4174,
+      2888
+     ],
+     [
+      3734,
+      2971,
+      4180,
+      3049
+     ]
+    ],
+    "layout_words": 121
+   },
+   "headline_raw": "Murshidabad violence:\nGov flags \u2018twin spectre of\nradicalisation, militancy\u2019",
+   "deck_raw": "",
+   "body_raw": "ATRIMITRA\nKOLKATA, MAY 3\n\nWEST BENGAL Governor C V\nAnanda Bose has submitted to\nUnion Home Minister Amit Shah\nhis report on the communal vio-\n\nflagging the state police's \u201cfail-\nures\u201d and proposing a commis-\nsion of inquiry into the incident.\nIn the report, the Governor\nalso said that radicalisation and\nmilitancy pose a serious chal-\nlenge for West Bengal, especially\n\nin Murshidabad and Malda dis-\ntricts, which share borders with\nBangladesh.\nThe violence in Murshi-\ndabad, which took place in the\nwake of the new Wagdf law,\nclaimed three lives on April 11.\nWhile a man was killedin police\nfiring, another man and his son\ndied in mob violence.\nCONTINUED ON PAGE 2\n\n\u2018RIOT TOURISM\u2019: ADHIR\nON MAMATA VISIT P4",
+   "ocr_conf": 92.59504132231405,
+   "ocr_low_conf_share": 0.024793388429752067,
+   "headline": "Murshidabad violence: Gov flags 'twin spectre of radicalisation, militancy'",
+   "deck": "",
+   "byline": "ATRIMITRA; KOLKATA, MAY 3",
+   "text": "WEST BENGAL Governor C V Ananda Bose has submitted to Union Home Minister Amit Shah his report on the communal vioflagging the state police's \"fail-ures\" and proposing a commission of inquiry into the incident. In the report, the Governor also said that radicalisation and militancy pose a serious challenge for West Bengal, especially\n\nin Murshidabad and Malda districts, which share borders with Bangladesh. The violence in Murshidabad, which took place in the wake of the new Wagdf law, claimed three lives on April 11. While a man was killedin police firing, another man and his son died in mob violence.\n\n'RIOT TOURISM': ADHIR ON MAMATA VISIT P4",
+   "n_words": 107,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      2245,
+      3155,
+      2514
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1296,
+      2542,
+      2204,
+      2662
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      2740,
+      1681,
+      2810
+     ],
+     [
+      1295,
+      2859,
+      1737,
+      3090
+     ],
+     [
+      1784,
+      2699,
+      2224,
+      3083
+     ]
+    ],
+    "layout_words": 82
+   },
+   "headline_raw": "Days before Pahalgam massacre, there was\nintel alert of attack on tourists: Top official",
+   "deck_raw": "Among 4 terrorists, 2 from south Kashmit\nmay have \u2018herded\u2019 tourists to site: Official",
+   "body_raw": "PVAIDYANATHANIYER\nNEW DELHI, MAY 3\n\nTHE SECURITY establishment\nand the government are leamt\nto have got advance intelligence\ninputs about a possible attack\ntargeting tourists staying in ho-\ntels in and around Srinagar days\n\nbefore the Pahalgam massacre\nin which terrorists killed 25\ntourists and a local, officials\naware of developments said.\nIn fact, the officials said, given\nthe threat of an attack, there was\nheightened security presence in\nthe foothills of the Zabarwan\nrange overlooking the Dal lake\nCONTINUEDON PAGE 2",
+   "ocr_conf": 93.08536585365853,
+   "ocr_low_conf_share": 0.024390243902439025,
+   "headline": "Days before Pahalgam massacre, there was intel alert of attack on tourists: Top official",
+   "deck": "Among 4 terrorists, 2 from south Kashmit may have 'herded' tourists to site: Official",
+   "byline": "PVAIDYANATHANIYER; NEW DELHI, MAY 3",
+   "text": "THE SECURITY establishment and the government are leamt to have got advance intelligence inputs about a possible attack targeting tourists staying in hotels in and around Srinagar days\n\nbefore the Pahalgam massacre in which terrorists killed 25 tourists and a local, officials aware of developments said. In fact, the officials said, given the threat of an attack, there was heightened security presence in the foothills of the Zabarwan range overlooking the Dal lake CONTINUEDON PAGE 2",
+   "n_words": 76,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2840,
+      1208,
+      3187
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      3253,
+      666,
+      3323
+     ],
+     [
+      320,
+      3371,
+      762,
+      4118
+     ],
+     [
+      969,
+      3306,
+      1169,
+      3389
+     ],
+     [
+      854,
+      3451,
+      1182,
+      3873
+     ],
+     [
+      808,
+      3964,
+      1249,
+      4112
+     ]
+    ],
+    "layout_words": 160
+   },
+   "headline_raw": "Govt bans backdoor\nimports, shuts doors\non Pak-origin goods",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTA MISHRA\nNEW DELHI, MAY 3\n\nTO PLUG LOOPHOLES and elim-\ninate any possibility of Pakistani\ngoods entering its territory, the\ngovernment has imposed anim-\nmediate ban on the import or\ntransit of all goods originating in,\nor exported from, Pakistan, aMay\n2 notification of the Commerce\nand Industry Ministry said.\nThis follows the termination\nof direct trade, marked by the\nclosure of the Integrated Check\nPost (ICP) at AttarionApril24in\nthe wake of the Pahalgam terror\nattack. That move was expected\nto halt cross-border trade worth\nRs 3,886 crore between India\nand Pakistan. However, imports\nof Pakistani goods via third coun-\n\nPunitive\n|@ action\n\nTHE BAN on all imports\nand transits of goods\noriginating from or\nexported by Pakistan\nfollows a series of puni-\ntive measures taken by\nIndia to hurt Pakistan\neconomically and\ndiplomatically in the\nwake of the Pahalgam\nattack.\n\ntries were still possible.\n\u201cDirect or indirect import or\ntransit of all goods originatingin\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.03125,
+   "ocr_low_conf_share": 0.03125,
+   "headline": "Govt bans backdoor imports, shuts doors on Pak-origin goods",
+   "deck": "",
+   "byline": "RAVI DUTTA MISHRA; NEW DELHI, MAY 3",
+   "text": "TO PLUG LOOPHOLES and eliminate any possibility of Pakistani goods entering its territory, the government has imposed animmediate ban on the import or transit of all goods originating in, or exported from, Pakistan, aMay 2 notification of the Commerce and Industry Ministry said. This follows the termination of direct trade, marked by the closure of the Integrated Check Post (ICP) at AttarionApril24in the wake of the Pahalgam terror attack. That move was expected to halt cross-border trade worth Rs 3,886 crore between India and Pakistan. However, imports of Pakistani goods via third coun-\n\nPunitive @ action\n\nTHE BAN on all imports and transits of goods originating from or exported by Pakistan follows a series of punitive measures taken by India to hurt Pakistan economically and diplomatically in the wake of the Pahalgam attack.\n\ntries were still possible. \"Direct or indirect import or transit of all goods originatingin CONTINUEDON PAGE 2",
+   "n_words": 150,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      3157,
+      2167,
+      3471
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      3571,
+      1725,
+      3680
+     ],
+     [
+      1295,
+      3729,
+      1738,
+      4119
+     ],
+     [
+      1783,
+      3530,
+      2228,
+      4112
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "Govt bars Pak ships\nfrom its ports, curbs\non Indian vessels too",
+   "deck_raw": "",
+   "body_raw": "SIDDHANT KONDUSKAR&\nSUKALP SHARMA\nMUMBAI, NEW DELHI, MAY 3\n\nAMID GROWING tensions with\nPakistan in the wake of the\nPahalgam terror attack, Indiaon\nSaturday banned the entry of\nPakistani ships at Indian ports,\nwhile also barring Indian ships\nfrom going to Pakistani ports.\nAccording to an order issued\nby India\u2019s maritime authority,\nDirectorate General of Shipping\n\n(DGS), the restrictions were put\ninplace \u201cwith immediate effect\u201d\nand \u201ctill further order\u201d to ensure\nsafety of \u201cIndian assets, cargo\nand connected infrastructure, in\npublic interest and for interest of\nIndian shipping\u201d.\n\u201cIn exercise of power con-\nferred by section 411 of the\nMerchant Shipping Act, 1958,\nread with objectives as en-\nshrined under Preamble of the\nsaid Act, keeping in view the\npresent situation, the following\nCONTINUEDON PAGE 2",
+   "ocr_conf": 95.02380952380952,
+   "ocr_low_conf_share": 0.007936507936507936,
+   "headline": "Govt bars Pak ships from its ports, curbs on Indian vessels too",
+   "deck": "",
+   "byline": "SIDDHANT KONDUSKAR&; SUKALP SHARMA; MUMBAI, NEW DELHI, MAY 3",
+   "text": "AMID GROWING tensions with Pakistan in the wake of the Pahalgam terror attack, Indiaon Saturday banned the entry of Pakistani ships at Indian ports, while also barring Indian ships from going to Pakistani ports. According to an order issued by India's maritime authority, Directorate General of Shipping\n\n(DGS), the restrictions were put inplace \"with immediate effect\" and \"till further order\" to ensure safety of \"Indian assets, cargo and connected infrastructure, in public interest and for interest of Indian shipping\". \"In exercise of power conferred by section 411 of the Merchant Shipping Act, 1958, read with objectives as enshrined under Preamble of the said Act, keeping in view the present situation, the following CONTINUEDON PAGE 2",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2351,
+      3438,
+      4097,
+      3517
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2803,
+      4677,
+      2873,
+      4711
+     ],
+     [
+      2893,
+      5220,
+      3210,
+      5298
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "IAS 2025 Husa a vee tH (AIR- 20) a arr watts aa !!",
+   "deck_raw": "",
+   "body_raw": "AIR\n\nRAS Foundation\nClassroom Student",
+   "ocr_conf": 95.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "IAS 2025 Husa a vee tH (AIR- 20) a arr watts aa!!",
+   "deck": "",
+   "byline": "AIR",
+   "text": "RAS Foundation Classroom Student",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3647,
+      4172,
+      4001,
+      4254
+     ],
+     [
+      3647,
+      4296,
+      4118,
+      4427
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3767,
+      5221,
+      4084,
+      5299
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "Rank in\nRajasthan",
+   "deck_raw": "",
+   "body_raw": "IAS Foundation\nClassroom Student",
+   "ocr_conf": 87.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Rank in Rajasthan",
+   "deck": "",
+   "byline": "",
+   "text": "IAS Foundation Classroom Student",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1782,
+      4228,
+      2182,
+      4385
+     ],
+     [
+      1785,
+      4436,
+      2181,
+      4687
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1782,
+      4396,
+      2182,
+      4437
+     ]
+    ],
+    "body_boxes": [
+     [
+      1770,
+      4713,
+      2192,
+      4920
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "eye |\nThe Mirror\nSees Her\nNow",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "Transitioning from a deeply\nunsettled man to a woman\nat peace with herself,\nAnaya Bangar shares her\nremarkable journey",
+   "ocr_conf": 86.73684210526316,
+   "ocr_low_conf_share": 0.10526315789473684,
+   "headline": "eye The Mirror Sees Her Now",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "Transitioning from a deeply unsettled man to a woman at peace with herself, Anaya Bangar shares her remarkable journey",
+   "n_words": 19,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5161,
+      2110,
+      5387
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5467,
+      599,
+      5577
+     ],
+     [
+      315,
+      5625,
+      761,
+      6133
+     ],
+     [
+      1781,
+      5430,
+      2226,
+      6130
+     ]
+    ],
+    "layout_words": 163
+   },
+   "headline_raw": "From Census of nearly a century ago,\na roadmap \u2014 and a note of caution",
+   "deck_raw": "",
+   "body_raw": "UMAVISHNU\n& VIKAS PATHAK\nNEW DELHI, MAY 3\n\nTHE GOVERNMENT'S surprise\nannouncement ofa caste census\nas part of the upcoming popula-\ntion enumeration exercise may\nhave dented the Opposition\u2019s\ncampaign but the experience of\nJohn Henry Hutton, an anthro-\npologist-civil servant from\nnearly a century ago, frames the\nchallenge on the road ahead.\nThose were the heady days of\nMahatma Gandhi's civil disobe-\ndience movement. Hutton, a\n\nence as an anthropologist.\nOn the complexities of count-\ning caste, his census report, laced\nwith insight and wit refers to for-\nmer census chief Sir Herbert\nRisley, whose formulation of the\ncaste system asa racial hierarchy\nin the 1901 Census laid the basis\nfor subsequent surveys and poli-\ncies on caste.\n\u201cAll subsequent census offi-\ncers in India must have cursed\nthe day when it occurred to Sir\nHerbert Risley... to attempt to\ndraw upalist of castes according\nto their rank in society. He failed,\nbut the results of his attempt are\nCONTINUEDON PAGE 2",
+   "ocr_conf": 91.12269938650307,
+   "ocr_low_conf_share": 0.03680981595092025,
+   "headline": "From Census of nearly a century ago, a roadmap - and a note of caution",
+   "deck": "",
+   "byline": "UMAVISHNU; & VIKAS PATHAK; NEW DELHI, MAY 3",
+   "text": "THE GOVERNMENT'S surprise announcement ofa caste census as part of the upcoming population enumeration exercise may have dented the Opposition's campaign but the experience of John Henry Hutton, an anthropologist-civil servant from nearly a century ago, frames the challenge on the road ahead. Those were the heady days of Mahatma Gandhi's civil disobedience movement. Hutton, a\n\nence as an anthropologist. On the complexities of counting caste, his census report, laced with insight and wit refers to former census chief Sir Herbert Risley, whose formulation of the caste system asa racial hierarchy in the 1901 Census laid the basis for subsequent surveys and policies on caste. \"All subsequent census officers in India must have cursed the day when it occurred to Sir Herbert Risley... to attempt to draw upalist of castes according to their rank in society. He failed, but the results of his attempt are CONTINUEDON PAGE 2",
+   "n_words": 148,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      768,
+      5295,
+      1169,
+      5411
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      5428,
+      1247,
+      5852
+     ],
+     [
+      807,
+      5864,
+      1247,
+      6136
+     ]
+    ],
+    "layout_words": 86
+   },
+   "headline_raw": "p \u2014 and",
+   "deck_raw": "",
+   "body_raw": "Yorkshire-born, Oxford-trained\nofficer who as Census\nCommissioner of India con-\nducted the 1931 Census, the last\nto tabulate data on caste, writes\nwitha hint of annoyance that the\nexercise \u201chad the misfortune to\ncoincide with a wave of non-co-\noperation, and the march of Mr.\nGandhi and his contrabandis-\ntas...\u201d.\n\nHutton, who joined the\nIndian Civil Service in 1909 and\nserved for the greater part of his\ncareer in the Naga hills writing\ntwo voluminous monographs\non Naga ethnography, brought\nto his census office his experi-",
+   "ocr_conf": 92.94186046511628,
+   "ocr_low_conf_share": 0.03488372093023256,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Yorkshire-born, Oxford-trained officer who as Census Commissioner of India conducted the 1931 Census, the last to tabulate data on caste, writes witha hint of annoyance that the exercise \"had the misfortune to coincide with a wave of non-cooperation, and the march of Mr. Gandhi and his contrabandistas...\".\n\nHutton, who joined the Indian Civil Service in 1909 and served for the greater part of his career in the Naga hills writing two voluminous monographs on Naga ethnography, brought to his census office his experi-",
+   "n_words": 83,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 13.5,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

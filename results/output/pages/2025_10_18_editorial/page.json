@@ -1,0 +1,836 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_18_editorial",
+ "source_file": "2025-10-18_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-18_editorial.png",
+ "date": "2025-10-18",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 462,
+  "mean_line_conf": 89.38524624051819,
+  "orphan_words": 1330,
+  "body_words_total": 3528
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      375,
+      604,
+      1475,
+      713
+     ]
+    ],
+    "deck_boxes": [
+     [
+      617,
+      819,
+      1235,
+      875
+     ]
+    ],
+    "body_boxes": [
+     [
+      763,
+      771,
+      1091,
+      802
+     ],
+     [
+      437,
+      918,
+      1418,
+      960
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "\u201c FOUNDED BY @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 82.7,
+   "ocr_low_conf_share": 0.1,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2027,
+      591,
+      3777,
+      829
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2271,
+      902,
+      3538,
+      1034
+     ]
+    ],
+    "body_boxes": [
+     [
+      2322,
+      2348,
+      2827,
+      3194
+     ],
+     [
+      2322,
+      3208,
+      2695,
+      3380
+     ],
+     [
+      2923,
+      1211,
+      3532,
+      3384
+     ]
+    ],
+    "layout_words": 458
+   },
+   "headline_raw": "The gift of Athena",
+   "deck_raw": "Work of Nobel Laureate Joel Mokyr shines a light on\npath India must take to become a knowledge power",
+   "body_raw": "For Mokyr, knowledge is not\nsimply a tap that can be\nturned on by getting the\nincentives right \u2014 as if\nincreasing demand or\npayments will automatically\ngenerate a response.\nKnowledge is not just\nanother input where greater\ndemand produces higher\nsupply. In another book, The\nLever of Riches, he put it\ndramatically: Necessity is\nnot the mother of invention;\none must also account for\nthe capacity to respond to\nnecessity. Knowledge\n\neconomies are more\ndifficult creations \u2014\nmore mysterious and\nmore wondrous.\n\nof ideas. But it is also a conjunctural account\nthat links two forms of knowledge:\nPropositional knowledge, which concerns\nregularities in nature, and prescriptive knowl-\nedge, which is about techniques \u2014 how to\nmake things work. The friend who recom-\nmended TheGiftsofAthena thought its central\nargument especially relevant to the Indian\ncontext. Many societies have been good at dis-\ncovery. But for Mokyr, the Industrial\nRevolution cannot be explained by factors like\nthe comparative price of energy or heroicin-\ndividual inventions. It was sustained by the\ninteraction between propositional and pre-\nscriptive knowledge \u2014 between discovery and\ninvention. The subtext for India was clear:\nScience and engineering need to beintegrated\ninto aproductive feedback loop. This has been\na structural weakness of the Indian knowl-\nedge system. The 20th century, Mokyr sug-\ngested, saw the deepest institiitionalisation of\nthe relationship between these two knowl-\nedge forms. But it remains controversial what\nactually enables such institutionalisation.\nMokyr\u2019s histories are somewhat sceptical\nofthe state. Not only isthe state bad at picking\nwinners, it often prevents even known win-\nners from realising their potential \u2014 as in\nChina\u2019s past. Historically, and sometimes\nagainst the grain of his own narrative, Mokyr\ntends to downplay the role of the state incre-\nating the preconditions for sustained innova-\ntion. Yet contemporary Chinanowoffersa liv-\ning refutation of his thesis on the state, evenas\nit vindicates his account of the feedback loops\nbetween different forms of knowledge.\nThe fascination of Mokyr\u2019s work lies in\nits claim about a shift in elite cultures, The\nexplosion of interest in scientific knowledge\namong Europeanelites in the early modern\nperiod was astounding. It isimportant to re-\nmember that this scientific temperament\ndoes not exist primarily at the individual\nlevel \u2014 many great scientists believed all\nsorts of weird things \u2014 but is embedded in\nthe epistemic cultures of institutions. Mokyr\ndoes not reduce science to sociology, as so-\nciologists of science often do; science has its\nown autonomy as a mode of human experi-\nence and as acausal force. What he conveys\nis how an elite culture forms around science:\nInstitutions, networks of diffusion, and most\nremarkably, social conditions that spot tal-\nent and allow it to flourish. His account of\nthe political dynamics of this shift inA",
+   "ocr_conf": 91.34497816593887,
+   "ocr_low_conf_share": 0.05021834061135371,
+   "headline": "The gift of Athena",
+   "deck": "Work of Nobel Laureate Joel Mokyr shines a light on path India must take to become a knowledge power",
+   "byline": "",
+   "text": "For Mokyr, knowledge is not simply a tap that can be turned on by getting the incentives right - as if increasing demand or payments will automatically generate a response. Knowledge is not just another input where greater demand produces higher supply. In another book, The Lever of Riches, he put it dramatically: Necessity is not the mother of invention; one must also account for the capacity to respond to necessity. Knowledge\n\neconomies are more difficult creations - more mysterious and more wondrous.\n\nof ideas. But it is also a conjunctural account that links two forms of knowledge: Propositional knowledge, which concerns regularities in nature, and prescriptive knowledge, which is about techniques - how to make things work. The friend who recommended TheGiftsofAthena thought its central argument especially relevant to the Indian context. Many societies have been good at discovery. But for Mokyr, the Industrial Revolution cannot be explained by factors like the comparative price of energy or heroicindividual inventions. It was sustained by the interaction between propositional and prescriptive knowledge - between discovery and invention. The subtext for India was clear: Science and engineering need to beintegrated into aproductive feedback loop. This has been a structural weakness of the Indian knowledge system. The 20th century, Mokyr suggested, saw the deepest institiitionalisation of the relationship between these two knowledge forms. But it remains controversial what actually enables such institutionalisation. Mokyr's histories are somewhat sceptical ofthe state. Not only isthe state bad at picking winners, it often prevents even known winners from realising their potential - as in China's past. Historically, and sometimes against the grain of his own narrative, Mokyr tends to downplay the role of the state increating the preconditions for sustained innovation. Yet contemporary Chinanowoffersa living refutation of his thesis on the state, evenas it vindicates his account of the feedback loops between different forms of knowledge. The fascination of Mokyr's work lies in its claim about a shift in elite cultures, The explosion of interest in scientific knowledge among Europeanelites in the early modern period was astounding. It isimportant to remember that this scientific temperament does not exist primarily at the individual level - many great scientists believed all sorts of weird things - but is embedded in the epistemic cultures of institutions. Mokyr does not reduce science to sociology, as sociologists of science often do; science has its own autonomy as a mode of human experience and as acausal force. What he conveys is how an elite culture forms around science: Institutions, networks of diffusion, and most remarkably, social conditions that spot talent and allow it to flourish. His account of the political dynamics of this shift inA",
+   "n_words": 442,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      503,
+      1096,
+      1357,
+      1197
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1233,
+      1534,
+      2639
+     ],
+     [
+      321,
+      2696,
+      1530,
+      3097
+     ]
+    ],
+    "layout_words": 516
+   },
+   "headline_raw": "STATE OF DELAY",
+   "deck_raw": "",
+   "body_raw": "InJ&K, one year after election, statehood is needed to bridge\nthe glaring gaps in representation and accountability\nN SEVERAL OCCASIONS since the abrogation of Article 370 in August 2019,\nsenior members of the central government and ruling party have spokenof\n() the forward steps taken in the erstwhile state of Jammuand Kashmir. Broadly,\nthe claims of aturnaround rest on three pillars \u2014 development projects and\neconomic growth, improved security and integration. Yet, an anomalyhas persisted. Theonly\nstate to be bifurcated into Union Territories was administered by an appointee of theCentre.\nLast year, the people of J&K turned out in large numbers to vote in the assembly elections,\nand yet the elected government continues to be hemmed in. The Omar Abdullah govern-\nment has conspicuously avoided confrontation with the Centre, by and large setting aside\nits political differences with the BJP to work within the constraints, But now, ayearafter the\nelections, itis time that the promise of retuuming fill statehood to J&K\u2014 madein Parliament\nand before the Supreme Court \u2014 is fulfilled.\nAs Chief Minister Abdullah pointed out in an interview with this newspaper, \u201ca Union\nTerritory with an Assembly is by far the most inefficient model of governance\u201d. It is a prin-\nciple of democracy that a mandate must be accompanied by the power to implement it.\nThe Abdullah ministry has attempted to keepsome of its poll pledges. Itrecently announced\ntheretur ofthe Darbar Move \u2014 the goverment moves from Srinagar in summer to Jammu\nin winter \u2014 a 150-year-old tradition scrapped by the Lieutenant Governorin 2021.The Move,\nsince its inception, was a signal to various parts of theerstwhile state \u2014 Jammu, Kashmirand\nLadakh \u2014 that the government is willing to go to the people and that it seeks to represent\nall interests. Beyond such gestures, however, the Abdullah government has been cramped\nby, and in effect, dependent on, the L-G\u2019s approval and whim. While thestategovernment's\ncordial relationship with the Centre has had some benefits \u2014 like receiving Rs 5,000 crore\nover the budgetary allocation \u2014 it has come ata political cost. Both from within the ruling\nalliance in J&K and the Opposition, the government faces criticism for not demanding the\nreturn of special status and for allegedly failing to stand up to the L-G. In this fraught con-\ntext, even political gestures such as the CM's visit to acemetery on Martyrs\u2019 Day have be-\ncome political flashpoints.\n\nhas been completed, as has a peaceful, free and fair election. Invoking national security in\ngeneral, and the Pahalgam terrorattackin particular, todelay statehood does agrave disserv-\nice tothe people of J&K. In the aftermath of the horrifickilling of tourists by Pakistan-backed\nterrorists, CM Abdullah, the state assembly and the people of the Valley stood with the rest\nof the country, in shared grief. The powers-that-be at the Centre must recognise that rep-\nresentative and accountable government is not a privilege, conditionally conferred. It is at\nthe core of the constitutional and federal architecture. The recent protests in Ladakh offer a\nsobering lesson on the perils of prolonging a democratic deficit. In J&K, the representation\ngap must be bridged without delay.",
+   "ocr_conf": 91.1798839458414,
+   "ocr_low_conf_share": 0.04448742746615087,
+   "headline": "STATE OF DELAY",
+   "deck": "",
+   "byline": "",
+   "text": "InJ&K, one year after election, statehood is needed to bridge the glaring gaps in representation and accountability N SEVERAL OCCASIONS since the abrogation of Article 370 in August 2019, senior members of the central government and ruling party have spokenof () the forward steps taken in the erstwhile state of Jammuand Kashmir. Broadly, the claims of aturnaround rest on three pillars - development projects and economic growth, improved security and integration. Yet, an anomalyhas persisted. Theonly state to be bifurcated into Union Territories was administered by an appointee of theCentre. Last year, the people of J&K turned out in large numbers to vote in the assembly elections, and yet the elected government continues to be hemmed in. The Omar Abdullah government has conspicuously avoided confrontation with the Centre, by and large setting aside its political differences with the BJP to work within the constraints, But now, ayearafter the elections, itis time that the promise of retuuming fill statehood to J&K - madein Parliament and before the Supreme Court - is fulfilled. As Chief Minister Abdullah pointed out in an interview with this newspaper, \"a Union Territory with an Assembly is by far the most inefficient model of governance\". It is a principle of democracy that a mandate must be accompanied by the power to implement it. The Abdullah ministry has attempted to keepsome of its poll pledges. Itrecently announced theretur ofthe Darbar Move - the goverment moves from Srinagar in summer to Jammu in winter - a 150-year-old tradition scrapped by the Lieutenant Governorin 2021.The Move, since its inception, was a signal to various parts of theerstwhile state - Jammu, Kashmirand Ladakh - that the government is willing to go to the people and that it seeks to represent all interests. Beyond such gestures, however, the Abdullah government has been cramped by, and in effect, dependent on, the L-G's approval and whim. While thestategovernment's cordial relationship with the Centre has had some benefits - like receiving Rs 5,000 crore over the budgetary allocation - it has come ata political cost. Both from within the ruling alliance in J&K and the Opposition, the government faces criticism for not demanding the return of special status and for allegedly failing to stand up to the L-G. In this fraught context, even political gestures such as the CM's visit to acemetery on Martyrs' Day have become political flashpoints.\n\nhas been completed, as has a peaceful, free and fair election. Invoking national security in general, and the Pahalgam terrorattackin particular, todelay statehood does agrave disservice tothe people of J&K. In the aftermath of the horrifickilling of tourists by Pakistan-backed terrorists, CM Abdullah, the state assembly and the people of the Valley stood with the rest of the country, in shared grief. The powers-that-be at the Centre must recognise that representative and accountable government is not a privilege, conditionally conferred. It is at the core of the constitutional and federal architecture. The recent protests in Ladakh offer a sobering lesson on the perils of prolonging a democratic deficit. In J&K, the representation gap must be bridged without delay.",
+   "n_words": 512,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1626,
+      1100,
+      2202,
+      1143
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PRATAP BHANU MEHTA",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "PRATAP BHANU MEHTA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1621,
+      1211,
+      2228,
+      3383
+     ]
+    ],
+    "layout_words": 380,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "WHEN I WAS appointed to the National\nKnowledge Commission in 2005,a colleague\nrecommended that I read 2025 Nobel\nLaureate Joel Mokyr's book, The Gifts of Athena,\nto gain a broad understanding of how knowl-\nedge economies are produced. Mokyr is\nknown as the non-economist\u2019s economist \u2014\nnot just because he uses economic theory in\nelegant and accessible prose rather than im-\npenetrable math, but also because he resistsa\ndeeper economic reductionism that might be\nsummed up as: \u201cIt\u2019s the incentives, stupid.\u201d\nNothing has corrupted our thinking aboutde-\nvelopment more than the language of incen-\ntives(which, of course, matter) colonising our\nways of thinking about the social world.\nFor Mokyr, knowledge is not simply a tap\nthat can beturnedon by getting the incentives\nright \u2014 as ifincreasing demand or payments\nwill automatically generate a response.\nKnowledge is not just another input where\ngreater demand produces higher supply. In\nanother book, The Lever of Riches, he put it dra-\nmatically: Necessity is not the mother of in-\nvention; one must also account for the capac-\nity to respond to necessity. Knowledge\neconomies are more difficult creations \u2014 more\nmysterious and more wondrous.\nAnother striking feature of Mokyr\u2019s work\nis his Weberian sensibility about historical\ncausation. Social reality is causal but not law-\nlike. Although his books have overarching ar-\nguments, they are attentive to complexity and\nto the conjunctures that make an argument\nwork. In this sense, his work is much richer,\nand his histories more rewarding, than those\nofotherhistorically-minded economists who\nhave won the Nobel Prize, such as Douglas\nNorth or Daron Acemoglu and James A\nRobinson. Their emphasis on institutions is\nsalutary, but their account of institutional\ncausality is ultimately too abstract and rests\nonamore simplistic and tendentious reading\nof history. Mokyr offers a genuinely historical\nand sociological critique of economics\u2019 dom-\ninant modes of thinking. He uses parsimony\nwhen appropriate, not as an end in itself. His\nhistory, like all serious history, will be contro-\nversial in parts, but never simple-minded. In\nThe Lever of Riches, he is attentive to the condi-\ntions under which his explanations may not\nhold. One of the remarkable things about his\nhistories is how much they make you think.\nMokyr\u2019s account is Weberian in another\nway: It makes space for the explanatory power",
+   "ocr_conf": 91.26578947368421,
+   "ocr_low_conf_share": 0.039473684210526314,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "WHEN I WAS appointed to the National Knowledge Commission in 2005,a colleague recommended that I read 2025 Nobel Laureate Joel Mokyr's book, The Gifts of Athena, to gain a broad understanding of how knowledge economies are produced. Mokyr is known as the non-economist's economist - not just because he uses economic theory in elegant and accessible prose rather than impenetrable math, but also because he resistsa deeper economic reductionism that might be summed up as: \"It's the incentives, stupid.\" Nothing has corrupted our thinking aboutdevelopment more than the language of incentives(which, of course, matter) colonising our ways of thinking about the social world. For Mokyr, knowledge is not simply a tap that can beturnedon by getting the incentives right - as ifincreasing demand or payments will automatically generate a response. Knowledge is not just another input where greater demand produces higher supply. In another book, The Lever of Riches, he put it dramatically: Necessity is not the mother of invention; one must also account for the capacity to respond to necessity. Knowledge economies are more difficult creations - more mysterious and more wondrous. Another striking feature of Mokyr's work is his Weberian sensibility about historical causation. Social reality is causal but not lawlike. Although his books have overarching arguments, they are attentive to complexity and to the conjunctures that make an argument work. In this sense, his work is much richer, and his histories more rewarding, than those ofotherhistorically-minded economists who have won the Nobel Prize, such as Douglas North or Daron Acemoglu and James A Robinson. Their emphasis on institutions is salutary, but their account of institutional causality is ultimately too abstract and rests onamore simplistic and tendentious reading of history. Mokyr offers a genuinely historical and sociological critique of economics' dominant modes of thinking. He uses parsimony when appropriate, not as an end in itself. His history, like all serious history, will be controversial in parts, but never simple-minded. In The Lever of Riches, he is attentive to the conditions under which his explanations may not hold. One of the remarkable things about his histories is how much they make you think. Mokyr's account is Weberian in another way: It makes space for the explanatory power",
+   "n_words": 368,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      1212,
+      4183,
+      3259
+     ]
+    ],
+    "layout_words": 342,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Culture of Growth: The Origins of the Modern\nEconomy is interesting, ifa little tendentious.\nItrests on the claim that a paradoxical com-\nbination produced Europe's intellectual dy-\nnamism: Political fragmentation combined\nwith a trans-European republic of letters.\nStates competed for talent, but within acul-\nture that allowed ideas to circulate freely\nacross borders.\nBut why was European fragmentation\ndifferent from that elsewhere? Consider\npost-imperial fragmentation in other re-\ngions, including India. New intellectual his-\ntories of India make one wonder if some-\nthing else is at work. One of the remarkable\nfeatures of Indian intellectual historyis how\nsuccessfully it created a trans-political and\nopen republic of letters. Not only were reli-\ngious and literary texts widely disseminated,\nbuta small town like Navadipa could become\nthe epicentre of Navya-Nyaya logic in the\n17th century \u2014 surpassing even Benares.\nNyaya manuscripts became pan-Indiancur-\nrency, despite political fragmentation. So\nIndia, too, had political pluralism and exten-\nsive elite circulation. Comparative literacy\nrates in 17th to 19th-century England and\nIndia are contested, at least if Dharampalisto\nbe believed. The sad truth is that Indian eco-\nnomic, intellectual, and cultural history still\nhas too many large gaps for the Indian case to\nbe fully diagnosed. The few references to\nIndia hiswork are comparatively flat, largely\nowing to the paucity of sources,\nMokyr forces us to confront a profound\ntruth: Knowledge does not grow on its own. It\nis cultivated by cultures and institutions and\nlegitimised by ideas. If India is serious about\nbecoming a knowledge power, it must con-\nfront the structural disconnects in its own\nknowledge systems \u2014 the weak bridges be-\ntween scienceand engineering, discovery and\napplication, the factory and lab. Itmust leam\ntoreward and match talent The real challenge\nisnot just investment or incentives, which we\nare throwing around freely. We will get easily\ndazzled by an odd win, ISRO or anew Al cen-\ntre. The real challenge is building a sustained\nculture of innovation. Athena, orintheIndian\ncontext Saraswati, are not just goddesses to\nbe worshipped: They have to become palpa-\nble social forces.",
+   "ocr_conf": 91.56140350877193,
+   "ocr_low_conf_share": 0.02631578947368421,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Culture of Growth: The Origins of the Modern Economy is interesting, ifa little tendentious. Itrests on the claim that a paradoxical combination produced Europe's intellectual dynamism: Political fragmentation combined with a trans-European republic of letters. States competed for talent, but within aculture that allowed ideas to circulate freely across borders. But why was European fragmentation different from that elsewhere? Consider post-imperial fragmentation in other regions, including India. New intellectual histories of India make one wonder if something else is at work. One of the remarkable features of Indian intellectual historyis how successfully it created a trans-political and open republic of letters. Not only were religious and literary texts widely disseminated, buta small town like Navadipa could become the epicentre of Navya-Nyaya logic in the 17th century - surpassing even Benares. Nyaya manuscripts became pan-Indiancurrency, despite political fragmentation. So India, too, had political pluralism and extensive elite circulation. Comparative literacy rates in 17th to 19th-century England and India are contested, at least if Dharampalisto be believed. The sad truth is that Indian economic, intellectual, and cultural history still has too many large gaps for the Indian case to be fully diagnosed. The few references to India hiswork are comparatively flat, largely owing to the paucity of sources, Mokyr forces us to confront a profound truth: Knowledge does not grow on its own. It is cultivated by cultures and institutions and legitimised by ideas. If India is serious about becoming a knowledge power, it must confront the structural disconnects in its own knowledge systems - the weak bridges between scienceand engineering, discovery and application, the factory and lab. Itmust leam toreward and match talent The real challenge isnot just investment or incentives, which we are throwing around freely. We will get easily dazzled by an odd win, ISRO or anew Al centre. The real challenge is building a sustained culture of innovation. Athena, orintheIndian context Saraswati, are not just goddesses to be worshipped: They have to become palpable social forces.",
+   "n_words": 328,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      676,
+      3171,
+      1169,
+      3255
+     ]
+    ],
+    "deck_boxes": [
+     [
+      382,
+      3298,
+      1468,
+      3405
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      3441,
+      1532,
+      4668
+     ],
+     [
+      320,
+      4725,
+      1527,
+      4805
+     ]
+    ],
+    "layout_words": 393
+   },
+   "headline_raw": "AI IN PLAY",
+   "deck_raw": "Google\u2019s $15 billion investment for hub in Andhra Pradesh\nis a big boost to India\u2019s plans in this sector",
+   "body_raw": "HE LAST FEW years have seen a dramatic surge in Al investments, driven by\nglobal tech majors such as Microsoft, Alphabet, Meta, Nvidia and OpenAl. As\ndeveloping Al models and then making them available for use at a global level\nrequires huge capital, thescaleofthe investments being made has reached im-\npressive proportions. In 2024, global corporate investmentin Al touched $252.3 billion as\nperthe Al index report from Stanford University. As per McKinsey, the data centres needed\nto handle Al processing are expected to require $5.2 trillion in capex by 2030, the bulk of\nwhich is likely to be directed towards technology developers to produce chips and com-\nputing hardware. While some have expressed concerns over this Al boom \u2014 the IMF has,\nfor instance, warned that \u201cthe risk is also that lofty profit expectations will ultimately be\nunmet\u201d \u2014 others are more optimistic with tech majors stepping up their investments.\nEarlier this week, Google announced thatit willinvest $15 billion overthenext five years\n(2026-2030) to set up an Al data centre in Andhra Pradesh. Situated in Visakhapatnam, it\nwill be Google\u2019s largest outside the US, and will include a \u201cpurpose-built data centre cam-\npus capable of gigawatt-scale compute capacity\u201d. Earlier this year, duringits second quar-\nter earnings season, the company had raised its capex forecast for the year to $85 billion to\nmeet the growing demand as adoption rates for both firms and companies surge. This is a\nbig boost to India\u2019s plans to be a major player in this space. India\u2019s data centre industry had\ncrossed the 1 GW mark in 2024 as per a report by JLL. Estimated to account for 52 percent\nof the country\u2019s capacity, Mumhaileads the market, followed by Chennai and Delhi.\nThe world over, governments are announcing ambitious plans and pledging huge re-\nsourcesin theAl space. The Indian government has also taken several steps to help build the\nlarger ecosystem in the country. Ten semiconductor manufacturing projects, including\nhigh-volume fabs and OSATs (outsourced semiconductor assembly and test), have been\napproved. Alongside, 23 chip-design projects have been sanctioned by the government and\n12 startups have been chosen to build indigenous large language models and small lan-\nguage models, Thus, across the spectrum, from the physical infrastructure (data centres)\n\ning progress, These efforts need to be supplemented by asimilar focus on boosting research\nand development and skilling the labour force.",
+   "ocr_conf": 92.59033078880407,
+   "ocr_low_conf_share": 0.02544529262086514,
+   "headline": "AI IN PLAY",
+   "deck": "Google's $15 billion investment for hub in Andhra Pradesh is a big boost to India's plans in this sector",
+   "byline": "",
+   "text": "HE LAST FEW years have seen a dramatic surge in Al investments, driven by global tech majors such as Microsoft, Alphabet, Meta, Nvidia and OpenAl. As developing Al models and then making them available for use at a global level requires huge capital, thescaleofthe investments being made has reached impressive proportions. In 2024, global corporate investmentin Al touched $252.3 billion as perthe Al index report from Stanford University. As per McKinsey, the data centres needed to handle Al processing are expected to require $5.2 trillion in capex by 2030, the bulk of which is likely to be directed towards technology developers to produce chips and computing hardware. While some have expressed concerns over this Al boom - the IMF has, for instance, warned that \"the risk is also that lofty profit expectations will ultimately be unmet\" - others are more optimistic with tech majors stepping up their investments. Earlier this week, Google announced thatit willinvest $15 billion overthenext five years (2026-2030) to set up an Al data centre in Andhra Pradesh. Situated in Visakhapatnam, it will be Google's largest outside the US, and will include a \"purpose-built data centre campus capable of gigawatt-scale compute capacity\". Earlier this year, duringits second quarter earnings season, the company had raised its capex forecast for the year to $85 billion to meet the growing demand as adoption rates for both firms and companies surge. This is a big boost to India's plans to be a major player in this space. India's data centre industry had crossed the 1 GW mark in 2024 as per a report by JLL. Estimated to account for 52 percent of the country's capacity, Mumhaileads the market, followed by Chennai and Delhi. The world over, governments are announcing ambitious plans and pledging huge resourcesin theAl space. The Indian government has also taken several steps to help build the larger ecosystem in the country. Ten semiconductor manufacturing projects, including high-volume fabs and OSATs (outsourced semiconductor assembly and test), have been approved. Alongside, 23 chip-design projects have been sanctioned by the government and 12 startups have been chosen to build indigenous large language models and small language models, Thus, across the spectrum, from the physical infrastructure (data centres)\n\ning progress, These efforts need to be supplemented by asimilar focus on boosting research and development and skilling the labour force.",
+   "n_words": 387,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3773,
+      3310,
+      4182,
+      3384
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is contributing editor,\nThe Indian Express",
+   "ocr_conf": 95.75,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is contributing editor, The Indian Express",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2225,
+      3574,
+      3307,
+      3680
+     ],
+     [
+      2227,
+      3748,
+      3690,
+      3810
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2319,
+      4797,
+      2827,
+      5291
+     ],
+     [
+      2923,
+      3983,
+      3529,
+      5285
+     ]
+    ],
+    "layout_words": 285
+   },
+   "headline_raw": "WHEN A [REE DIES\nSometimes grief does not recognise boundaries between species",
+   "deck_raw": "",
+   "body_raw": "One doesn\u2019t know how to\nconsole someone who's lost a\nplant. To import the words\none uses for the loss of a\nhuman would feel like\nparody, perhaps even\nsarcasm. There are no rituals\n\u2014no abstention or\nwithdrawal, no time cycles\nof purification.\n\ntoo, must have its own genres,\nOne doesn\u2019t know how to console some-\nonewho\u2019s lost a plant. To import the words one\nuses for the loss ofa human would feel like par-\nody, perhaps even sarcasm. There are noritu-\nals \u2014 noabstention or withdrawal, no timecy-\ncles of purification. There is no officially\nsanctioned leave, no paperwork. This affection\nand attachmentfora different species is meant\nto exist on the margins, like trees are in archi-\ntectural design, pushed near boundary walls\nasif in aninstructive analogy about where our\nemotions for other species are meant to be.\nMore than a millennium ago, Deola Bai\u2019s\nname might have been a peripheral charac-\nter in the Jataka Tales, But here she was \u2014 her\nage and her action \u2014 part of the news cycle.\nWhat had this 85-year-old woman done?\nNothing criminal. But she had been captured\non camera crying inconsolably. The peepal\nsapling that she had planted about 20 years\nago and cared for \u201clike her own child\u201d \u2014as\nsomeone in Sara Gondi, her village in\nChhattisgarh\u2019s Khairagarh district said \u2014had\nbeen cut \u201cfor profit\u201d.\nIhaven\u2019t been able to understand why a\nsight like that should generate such extremi-\nties of responses, between being moved and\nbeing bemused. | would imaginethat most of\nus have felt like this at various points in our\nlives. Whetherit was the calamitous felling of\nthousands of trees forthe Siliguri SAARC high-\nway in my hometown or something more",
+   "ocr_conf": 90.00701754385965,
+   "ocr_low_conf_share": 0.0456140350877193,
+   "headline": "WHEN A [REE DIES Sometimes grief does not recognise boundaries between species",
+   "deck": "",
+   "byline": "",
+   "text": "One doesn't know how to console someone who's lost a plant. To import the words one uses for the loss of a human would feel like parody, perhaps even sarcasm. There are no rituals withdrawal, no time cycles of purification.\n\ntoo, must have its own genres, One doesn't know how to console some-onewho's lost a plant. To import the words one uses for the loss ofa human would feel like parody, perhaps even sarcasm. There are norituals - noabstention or withdrawal, no timecycles of purification. There is no officially sanctioned leave, no paperwork. This affection and attachmentfora different species is meant to exist on the margins, like trees are in architectural design, pushed near boundary walls asif in aninstructive analogy about where our emotions for other species are meant to be. More than a millennium ago, Deola Bai's name might have been a peripheral character in the Jataka Tales, But here she was - her age and her action - part of the news cycle. What had this 85-year-old woman done? Nothing criminal. But she had been captured on camera crying inconsolably. The peepal sapling that she had planted about 20 years ago and cared for \"like her own child\" - as someone in Sara Gondi, her village in Chhattisgarh's Khairagarh district said - had been cut \"for profit\". Ihaven't been able to understand why a sight like that should generate such extremities of responses, between being moved and being bemused. would imaginethat most of us have felt like this at various points in our lives. Whetherit was the calamitous felling of thousands of trees forthe Siliguri SAARC highway in my hometown or something more",
+   "n_words": 275,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1805,
+      3879,
+      1954,
+      3921
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "IA Roy",
+   "ocr_conf": 93.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "IA Roy",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      3982,
+      2228,
+      5284
+     ]
+    ],
+    "layout_words": 245,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "HOW DO WE console the dead? For those\nwho have outlived the departed, there are\ncodes \u2014 rituals. A holding of hand, a touch on\nthe shoulder, the grace of an embrace, flow-\ners in one culture, a stock of provisions in an-\nother and prayers. But howdowe console the\ndead, the one just gone? The sudden disap-\npearance of life, of breath and sap, from what\nwasalivejust alittle while ago, feels like an ir-\nreversible theft. Nothing one does, nolegisla-\ntion, no inquiry, can undo this stealing. Ina\nLouise Gliick poem, the speaker, a bereaved\nchild, writes this tothe dead father: \u201cFrom time\ntotime, [nun my hand over your face/ lightly, like\nadustcloth\u201d. A dustcloth \u2014 how easily dust set-\ntleson those whocannot move, furniture and\nthe dead. Dustcloth \u2014 how delicate death is.\n\u201cAgainst your cheek, my hand is warm/ and full\nof tendemess.\u201d This is how the poem ends,\nrecording the difference in temperature be-\ntween life and death, a generically mam-\nmalian interpretation.\nHow do we console the killed, those\nforced out of life? Death, untimely, an acci-\ndent, unnatural, turns the familiar foreign.\nThe language for consoling the foreignis un-\nknown to us. What happens when the mur-\ndered is of adifferent species? Our emotional\nconditioning allows us rituals of remem-\nbrance, memorialising and consolation for\nthose of our own species. Similar feelings for\nother species seem like an indulgence, an un-\nnecessary eighth note. It is as if consolation,",
+   "ocr_conf": 91.39183673469388,
+   "ocr_low_conf_share": 0.036734693877551024,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "HOW DO WE console the dead? For those who have outlived the departed, there are codes - rituals. A holding of hand, a touch on the shoulder, the grace of an embrace, flowers in one culture, a stock of provisions in another and prayers. But howdowe console the dead, the one just gone? The sudden disappearance of life, of breath and sap, from what wasalivejust alittle while ago, feels like an irreversible theft. Nothing one does, nolegislation, no inquiry, can undo this stealing. Ina Louise Gliick poem, the speaker, a bereaved child, writes this tothe dead father: \"From time totime, [nun my hand over your face/ lightly, like adustcloth\". A dustcloth - how easily dust settleson those whocannot move, furniture and the dead. Dustcloth - how delicate death is. \"Against your cheek, my hand is warm/ and full of tendemess.\" This is how the poem ends, recording the difference in temperature between life and death, a generically mammalian interpretation. How do we console the killed, those forced out of life? Death, untimely, an accident, unnatural, turns the familiar foreign. The language for consoling the foreignis unknown to us. What happens when the murdered is of adifferent species? Our emotional conditioning allows us rituals of remembrance, memorialising and consolation for those of our own species. Similar feelings for other species seem like an indulgence, an unnecessary eighth note. It is as if consolation,",
+   "n_words": 232,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3572,
+      3983,
+      4181,
+      5167
+     ]
+    ],
+    "layout_words": 228,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "personal, like returning home to find a plant\nthat will never respond to air, water and light\nagain, I have found myself breaking down into\ntears. Inevitably, there\u2019s been someone inthe\nvicinity who's spouted proof of being a hu-\nman being: \u201cIt\u2019s onlya tree...\u201d\nDeola Bai \u201chugging\u201d the tree stump and\ncrying is bound to remind us of the Chipko\nmovement and, by extension, of what has\nbeen characterised as an ecofeminist move.\nBut there\u2019s someone else] have found myself\ngoing back to \u2014 Jagadish Chandra Bose and\nhis tendency to write about plants with feel-\ning, an unexpected thing for a scientist. In an\nessay about an injured plant, he writes: \u201cThe\nslight reduction in sunlight was not notice-\nable from inside the room, but the tree sensed\nit and expressed its melancholy with asmall\nresponse\u201d. Notice the word \u201cmelancholy\u201d he\nuses for the tree. Is it because we've been con-\nditioned to believe that plants don\u2019thaveemo-\ntions that itbecomes hard for many to under-\nstand how we can have feelings for them?\n\u201cIt is by causing injury that we can meas-\nure theliving index,\u201d Bose writes about plants\nin his experiments. If we were to import this\nto the injuries caused by the death of plants\nonour psyche, I suppose DeolaBai\u2019s \u201cliving in-\ndex\u201d would be higher than what it would be\nfor many of us.",
+   "ocr_conf": 91.46929824561404,
+   "ocr_low_conf_share": 0.03508771929824561,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "personal, like returning home to find a plant that will never respond to air, water and light again, I have found myself breaking down into tears. Inevitably, there's been someone inthe vicinity who's spouted proof of being a human being: \"It's onlya tree...\" Deola Bai \"hugging\" the tree stump and crying is bound to remind us of the Chipko movement and, by extension, of what has been characterised as an ecofeminist move. But there's someone else] have found myself going back to - Jagadish Chandra Bose and his tendency to write about plants with feeling, an unexpected thing for a scientist. In an essay about an injured plant, he writes: \"The slight reduction in sunlight was not noticeable from inside the room, but the tree sensed it and expressed its melancholy with asmall response\". Notice the word \"melancholy\" he uses for the tree. Is it because we've been conditioned to believe that plants don'thaveemotions that itbecomes hard for many to understand how we can have feelings for them? \"It is by causing injury that we can measure theliving index,\" Bose writes about plants in his experiments. If we were to import this to the injuries caused by the death of plants onour psyche, I suppose DeolaBai's \"living index\" would be higher than what it would be for many of us.",
+   "n_words": 220,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      409,
+      4875,
+      1441,
+      4959
+     ]
+    ],
+    "deck_boxes": [
+     [
+      360,
+      5009,
+      1491,
+      5115
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5160,
+      1530,
+      6159
+     ]
+    ],
+    "layout_words": 301
+   },
+   "headline_raw": "FAME AND THE SHERPA",
+   "deck_raw": "Death of last survivor of 1953 Everest expedition is moment\nto pay tribute, reflect on perks and perils of recognition",
+   "body_raw": "AS IT EDMUND Hillary and Tenzing Norgay who conquered Mount\nEverest in 1953, or Tenzing Norgay and Edmund Hillary? Although the\ntwomen weren't particularly fussed about the question of whoreached\nthe summit first \u2014 they were a team \u2014 speculation abounded until\nTenzing put it to rest in his autobiography two years later: \u201cHillary stepped on top first.\u201d It\nwas, perhaps, a prelude to the inequity in recognition: Two men climbed to the top of the\nworld; one was knighted, the other was referred to as a \u201chelper\u201d or \u201cporter\u201d. Time would,\narguably, redress the balance, with TIME iiagazine ranking both among the 100most influ-\nential people of the 20th century in 1999.\nThe years brought recognition to Kanchha Sherpa, too \u2014 the last surviving member of\nthat famous expedition, he died aged 92 on October 16. He was one of three Sherpas who\nreached the final camp with Hillary and Tenzing. Upon hearingon the radiothattheduohad\nreached thesummit, \u201cWe danced, hugged, andkissed.It was a moment of pure joy,\u201d Kanchha\nwould later recall, He continued with his own mountaineering career until 1973.\nThe decades after 1953 alsosaw the home ofthe Sherpas becomea magnet for tourism.\nOften sought out by the media in his later years, Kanchha could see both sides of the coin:\nHe recognised how tourism benefited the local economy, but worried about its impact on\nthe environment. \u201cIf we stop the tourists to save the mountains, we don't have anything to\ndo,\u201d he told ClimateWire in 2011. Melting ice, he believed, was the result of more and more\npeopletrampling on sacred ground, angering the gods, Kanchha\u2019s deathis a moment to pay\ntribute to the spirit of adventure and human fortitude, but perhaps also a time to reflect on\nhow fame and recognition affect people, communities and the physical environment.",
+   "ocr_conf": 89.78333333333333,
+   "ocr_low_conf_share": 0.05,
+   "headline": "FAME AND THE SHERPA",
+   "deck": "Death of last survivor of 1953 Everest expedition is moment to pay tribute, reflect on perks and perils of recognition",
+   "byline": "",
+   "text": "AS IT EDMUND Hillary and Tenzing Norgay who conquered Mount Everest in 1953, or Tenzing Norgay and Edmund Hillary? Although the twomen weren't particularly fussed about the question of whoreached the summit first - they were a team - speculation abounded until Tenzing put it to rest in his autobiography two years later: \"Hillary stepped on top first.\" It was, perhaps, a prelude to the inequity in recognition: Two men climbed to the top of the world; one was knighted, the other was referred to as a \"helper\" or \"porter\". Time would, arguably, redress the balance, with TIME iiagazine ranking both among the 100most influential people of the 20th century in 1999. The years brought recognition to Kanchha Sherpa, too - the last surviving member of that famous expedition, he died aged 92 on October 16. He was one of three Sherpas who reached the final camp with Hillary and Tenzing. Upon hearingon the radiothattheduohad reached thesummit, \"We danced, hugged, andkissed.It was a moment of pure joy,\" Kanchha would later recall, He continued with his own mountaineering career until 1973. The decades after 1953 alsosaw the home ofthe Sherpas becomea magnet for tourism. Often sought out by the media in his later years, Kanchha could see both sides of the coin: He recognised how tourism benefited the local economy, but worried about its impact on the environment. \"If we stop the tourists to save the mountains, we don't have anything to do,\" he told ClimateWire in 2011. Melting ice, he believed, was the result of more and more peopletrampling on sacred ground, angering the gods, Kanchha's deathis a moment to pay tribute to the spirit of adventure and human fortitude, but perhaps also a time to reflect on how fame and recognition affect people, communities and the physical environment.",
+   "n_words": 299,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3609,
+      5212,
+      4178,
+      5286
+     ]
+    ],
+    "layout_words": 15,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Roy, a poet and writer, is associate profes-\nsor at Ashoka University. Views are personal",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Roy, a poet and writer, is associate professor at Ashoka University. Views are personal",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2271,
+      5432,
+      2904,
+      5518
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2272,
+      5544,
+      2875,
+      5920
+     ],
+     [
+      2272,
+      5966,
+      2752,
+      6009
+     ],
+     [
+      2271,
+      6043,
+      2874,
+      6156
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "OCTOBER 18, 1985,",
+   "deck_raw": "",
+   "body_raw": "ZIA IS PRESIDENT\nGEN ZIAULHAQ of Pakistan was confirmed as\nPakistan's President for five years. The assem-\nblyagreedito validate his tenure of the last eight\nyears on the unwritten promise thathe will lift\nmartial law by December 31 next year.\nSpeakingafter the vote, Haq said. \u201cNobody has\nwon. Nobody has lost, only Pakistan and na-\ntional interest have triumphed.\u201d\n\nANDHRA PRESS BILL\n\nTHE TELUGU DESAM government has fi-\nnalised a draft bill to amend the Indian Penal\nCode (IPC) and the Criminal Procedure Code",
+   "ocr_conf": 89.58333333333333,
+   "ocr_low_conf_share": 0.05952380952380952,
+   "headline": "",
+   "deck": "",
+   "byline": "ZIA IS PRESIDENT; ANDHRA PRESS BILL",
+   "text": "GEN ZIAULHAQ of Pakistan was confirmed as Pakistan's President for five years. The assemblyagreedito validate his tenure of the last eight years on the unwritten promise thathe will lift martial law by December 31 next year. Speakingafter the vote, Haq said. \"Nobody has won. Nobody has lost, only Pakistan and national interest have triumphed.\"\n\nTHE TELUGU DESAM government has finalised a draft bill to amend the Indian Penal Code (IPC) and the Criminal Procedure Code",
+   "n_words": 75,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2923,
+      5433,
+      3567,
+      5494
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2923,
+      5569,
+      3527,
+      5879
+     ],
+     [
+      2923,
+      5927,
+      3298,
+      5970
+     ],
+     [
+      2922,
+      6004,
+      3526,
+      6157
+     ]
+    ],
+    "layout_words": 88
+   },
+   "headline_raw": "FORTY YEARS AGO",
+   "deck_raw": "",
+   "body_raw": "(CrPC), 1973, Central Act 2 of 1974 in their ap-\nplication tothe state of Andhra Pradesh on the\nostensible plea of curbing defamatory and\nscurrilous writings in newspapers and period-\nicals. The new bill provides fora sentence with\nimprisonment of up to seven years and a fine\nandisareplicaof the infamous Bihar press bill,\nwhich was withdrawn after protests,\n\nPM\u2019s PROPOSAL\n\nTHE COMMONWEALTH SUMMIT accepted a\nproposal by Prime Minister Rajiv Gandhi toset\nup a committee to suggest ways to ensure a\nbetter world order. Gandhi made the sugges-",
+   "ocr_conf": 87.5340909090909,
+   "ocr_low_conf_share": 0.06818181818181818,
+   "headline": "FORTY YEARS AGO",
+   "deck": "",
+   "byline": "PM's PROPOSAL",
+   "text": "(CrPC), 1973, Central Act 2 of 1974 in their application tothe state of Andhra Pradesh on the ostensible plea of curbing defamatory and scurrilous writings in newspapers and period-icals. The new bill provides fora sentence with imprisonment of up to seven years and a fine andisareplicaof the infamous Bihar press bill, which was withdrawn after protests,\n\nTHE COMMONWEALTH SUMMIT accepted a proposal by Prime Minister Rajiv Gandhi toset up a committee to suggest ways to ensure a better world order. Gandhi made the sugges-",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1687,
+      5558,
+      2161,
+      5588
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Bo a cunfcemi an",
+   "ocr_conf": 21.25,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1794,
+      5485,
+      2161,
+      5519
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "INNIAN EXPRESG | 2\u00b0",
+   "ocr_conf": 40.25,
+   "ocr_low_conf_share": 0.75,
+   "headline": "",
+   "deck": "",
+   "byline": "INNIAN EXPRESG   2\u00b0",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1683,
+      5567,
+      2133,
+      5605
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Cwealthi panel for\u2019 gr 2\u00b0 hues Zin cyntirmed\nbetter world order Ca RA",
+   "ocr_conf": 48.69230769230769,
+   "ocr_low_conf_share": 0.6923076923076923,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Cwealthi panel for' gr 2\u00b0 hues Zin cyntirmed better world order Ca RA",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 20,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3575,
+      5570,
+      4176,
+      5683
+     ]
+    ],
+    "layout_words": 17,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "tion during a discussion on the international\nsituation. An ad hoc committee was formed to\nstudy the protocol.",
+   "ocr_conf": 85.66666666666667,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "tion during a discussion on the international situation. An ad hoc committee was formed to study the protocol.",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 21,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1746,
+      5695,
+      1858,
+      5728
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Mow over tute wt Pla",
+   "ocr_conf": 51.6,
+   "ocr_low_conf_share": 0.8,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Mow over tute wt Pla",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 22,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3577,
+      5731,
+      4010,
+      5774
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SFI SwWEEPs POLLS",
+   "ocr_conf": 84.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "SFI SwWEEPs POLLS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 23,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      5806,
+      4177,
+      6157
+     ]
+    ],
+    "layout_words": 70,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE STUDENTS FEDERATION of India (SFI).\nstudent wing of the Communist Party of India\n(Marxist), has won all the four posts of office-\nbearers of the JNU Students Union (JNUSU)\nelections. T K Arun of the SFI was declared\nelected president. He polled 601 votes against\nthe 346 polled by his nearest rival, SN Malakar\nofthe All India Students Federation (AISF), stu-\ndent wing of the Communist Party of India.",
+   "ocr_conf": 92.25714285714285,
+   "ocr_low_conf_share": 0.02857142857142857,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "THE STUDENTS FEDERATION of India (SFI). student wing of the Communist Party of India (Marxist), has won all the four posts of office-bearers of the JNU Students Union (JNUSU) elections. T K Arun of the SFI was declared elected president. He polled 601 votes against the 346 polled by his nearest rival, SN Malakar ofthe All India Students Federation (AISF), student wing of the Communist Party of India.",
+   "n_words": 68,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 23.4,
+ "flags": [
+  "38% of body text had no headline above it",
+  "6 kept article(s) without a headline"
+ ]
+}

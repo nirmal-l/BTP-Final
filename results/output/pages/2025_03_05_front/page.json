@@ -1,0 +1,795 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_05_front",
+ "source_file": "2025-03-05_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-05_front.png",
+ "date": "2025-03-05",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 473,
+  "mean_line_conf": 85.45117389450495,
+  "orphan_words": 0,
+  "body_words_total": 1719
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      738,
+      686,
+      781
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      1448,
+      755,
+      3107
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "THE WINNERS",
+   "deck_raw": "",
+   "body_raw": "@ EDUCATION\nSachin Rana, Deputy\nCommissioner, East Kameng,\nArunachal Pradesh\n@ HEALTHCARE\nPushpendra Kumar Meena,\nDistrict Collector & Magistrate,\nDurg Chhattigarh\n@ SWACHHATA\nSwapneel Paul, District\nCommissioner, Tinsukia, Assam\nm@ SOCIALWELFARE\nJasmeet Singh Sandhu,\nDistrict Magis trate, Salimbar,\nRajasthan\n@ AGRICULTURE\nK M Sarayu, DistrictCollector&\nMagistrate, Krishnagini, Tamil Nadu\n@ SKILL DEVELOPMENT\nRohit Anand, Deputy\nCammissioner Kakchine Maninur\n@ START-UP & MSME\nDr Ravi Mittal, District Collector\n& Magistrate Jashpur, Chattisgarh\n@ WATER\nNaman Priyesh Lakra, Deputy\nCommissioner, Gridih, Jharkhand\n@ GENDER& INCLUSION\nSuryawanshi MayurVikas,\nCollector & District Magistrate,\nKendrapara, Odisha\n@ LAW& ORDER\nT Prabhushan kar, District\nCollector, Karur, Tamil Nadu\n@ DISASTER MANAGEMENT\nDattatraya Bhausaheb\nShinde, District Collector,\nBalasore, Odisha\n@ JURYSPECIAL",
+   "ocr_conf": 80.20175438596492,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "THE WINNERS",
+   "deck": "",
+   "byline": "@ EDUCATION",
+   "text": "Sachin Rana, Deputy Commissioner, East Kameng, Arunachal Pradesh @ HEALTHCARE Pushpendra Kumar Meena, District Collector & Magistrate, Durg Chhattigarh @ SWACHHATA Swapneel Paul, District Commissioner, Tinsukia, Assam m@ SOCIALWELFARE Jasmeet Singh Sandhu, District Magis trate, Salimbar, Rajasthan @ AGRICULTURE K M Sarayu, DistrictCollector& Magistrate, Krishnagini, Tamil Nadu @ SKILL DEVELOPMENT Rohit Anand, Deputy Cammissioner Kakchine Maninur @ START-UP & MSME Dr Ravi Mittal, District Collector & Magistrate Jashpur, Chattisgarh @ WATER Naman Priyesh Lakra, Deputy Commissioner, Gridih, Jharkhand @ GENDER& INCLUSION Suryawanshi MayurVikas, Collector & District Magistrate, Kendrapara, Odisha @ LAW& ORDER T Prabhushan kar, District Collector, Karur, Tamil Nadu @ DISASTER MANAGEMENT Dattatraya Bhausaheb Shinde, District Collector, Balasore, Odisha @ JURYSPECIAL",
+   "n_words": 112,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      774,
+      4179,
+      1112
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      697,
+      4027,
+      730
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      2215,
+      3605,
+      2243
+     ],
+     [
+      3736,
+      1940,
+      4184,
+      2569
+     ]
+    ],
+    "layout_words": 81
+   },
+   "headline_raw": "Chase General Kohli\nconquers Australia,\nleads march to final",
+   "deck_raw": "ICC CHAMPIONS TROPHY SEMLE-FINAL",
+   "body_raw": "VENKATAKRISHNA B\n\nIndia in the final, Dubai gets to\nhost the titlecontest.\nThe chief protagonist of\nIndia's semi-final win was Virat\nKohli, who composed a famil-\niarly scientific 84 in chase, and\nen route completed 8,000 runs\nwhen hunting down targets\nalone. But it was alsoa triumph\nof collectivism, witha resource-\nful ensemble cast performing\ntheir roles to perfection,so much\nso that their contributions were\nas significant as Kohli\u2019s in the\nlarger context of the game.\nKohli's mastery of the ODI",
+   "ocr_conf": 89.88888888888889,
+   "ocr_low_conf_share": 0.04938271604938271,
+   "headline": "Chase General Kohli conquers Australia, leads march to final",
+   "deck": "ICC CHAMPIONS TROPHY SEMLE-FINAL",
+   "byline": "VENKATAKRISHNA B",
+   "text": "India in the final, Dubai gets to host the titlecontest. The chief protagonist of India's semi-final win was Virat Kohli, who composed a familiarly scientific 84 in chase, and en route completed 8,000 runs when hunting down targets alone. But it was alsoa triumph of collectivism, witha resourceful ensemble cast performing their roles to perfection,so much so that their contributions were as significant as Kohli's in the larger context of the game. Kohli's mastery of the ODI",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      816,
+      2018,
+      3176,
+      2406
+     ],
+     [
+      812,
+      2442,
+      1725,
+      2572
+     ],
+     [
+      1821,
+      2484,
+      2188,
+      2565
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      2691,
+      1119,
+      2741
+     ],
+     [
+      318,
+      3116,
+      674,
+      3170
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      3214,
+      679,
+      3498
+     ],
+     [
+      812,
+      2649,
+      944,
+      2677
+     ],
+     [
+      809,
+      2768,
+      1254,
+      3754
+     ],
+     [
+      1296,
+      2986,
+      1733,
+      3257
+     ],
+     [
+      1297,
+      3562,
+      1738,
+      3628
+     ],
+     [
+      1296,
+      3641,
+      1738,
+      3747
+     ]
+    ],
+    "layout_words": 188
+   },
+   "headline_raw": "Governance is ability to develop trust\nbetween govt and society: Vaishnaw\nIntegrity should not only be practised\nbut seen to be practised: JitendraSingh\nNxtGen\u2019",
+   "deck_raw": "NEW DELHI, MARCH4\nFouzia Taranum, District\nfDakartine VMainhiwam Varnam",
+   "body_raw": "@ E-GOVERNANCE\nKengoo Zurin gla, District\nMagistrate Ukhrul, Manipur\n@ ENERGY\nKarn Satyarthi, District\nColector, Gumla, Jharkhand\n@ SUSTAINABILITY\n\nDIVYAA\n\nUNDERUNING THAT the imper-\native of governance is to build\ntrust between the govemment\nand society, Ashwini Vaishnaw,\nUnion Minister of Railways,\nInformation & Broadcasting,\nElectronics and Information\nTechnology, said Tuesday that\npeople need to believe that the\n\u201csystem willwork for us, support\nus and give usjustice\u201d.\nSpeaking at the third edition\nof The Indian Express Excellence\nin Governance Awards in New\nDelhi where he wasChief Guest,\nVaishnaw said the District\nMagistrate is in fact an institu-\ntion because \u201cthere is so much\ntrustand expectation from peo-\nple from that one particular per-\nson whoacquires that position\u201d.\n\u201cIt really means a lot and\nonce you get into that category\nwhere people start calling you an\ninstitution, the sense of respon-\n\nIf you know you can face\nthe man or womanin the\nmirror, and say yes, what\nI'mdoingis right, then\nthat's the right choice for\nbeing agood officer.\n\nsibility also increases a lot,\u201d he\nsaid.\n\n\u201cGovernance is the ability to\ndevelop the trust between the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.59042553191489,
+   "ocr_low_conf_share": 0.026595744680851064,
+   "headline": "Governance is ability to develop trust between govt and society: Vaishnaw Integrity should not only be practised but seen to be practised: JitendraSingh NxtGen'",
+   "deck": "NEW DELHI, MARCH4 Fouzia Taranum, District fDakartine VMainhiwam Varnam",
+   "byline": "@ E-GOVERNANCE; DIVYAA",
+   "text": "Kengoo Zurin gla, District Magistrate Ukhrul, Manipur @ ENERGY Karn Satyarthi, District Colector, Gumla, Jharkhand @ SUSTAINABILITY\n\nUNDERUNING THAT the imperative of governance is to build trust between the govemment and society, Ashwini Vaishnaw, Union Minister of Railways, Information & Broadcasting, Electronics and Information Technology, said Tuesday that people need to believe that the \"system willwork for us, support us and give usjustice\". Speaking at the third edition of The Indian Express Excellence in Governance Awards in New Delhi where he wasChief Guest, Vaishnaw said the District Magistrate is in fact an institution because \"there is so much trustand expectation from people from that one particular person whoacquires that position\". \"It really means a lot and once you get into that category where people start calling you an institution, the sense of respon-\n\nIf you know you can face the man or womanin the mirror, and say yes, what I'mdoingis right, then that's the right choice for being agood officer.\n\nsibility also increases a lot,\" he said.\n\n\"Governance is the ability to develop the trust between the",
+   "n_words": 177,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      2303,
+      3693,
+      2374
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      2253,
+      3483,
+      2311
+     ],
+     [
+      3740,
+      2595,
+      4178,
+      2652
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      2374,
+      3695,
+      2884
+     ],
+     [
+      3738,
+      2653,
+      4183,
+      2877
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "WITH A thumping K L Rahul six",
+   "deck_raw": "DUBAI, MARCH 4\nRee Se eee oe ee oe eG VV\nhe now virtually bats onautopi-",
+   "body_raw": "over long-on, India leapt over\ntheirbiggest hurdle in the 50-over\nKCCtoumaments \u2014 Australia. The\nmargin of victory \u2014 by four wick-\netsand 11 ballsto spare to fix the\nsummit clash on Sunday-- does-\nn't capture the clinical out-\nmuscling and outwitting of the\nWorld Champions. The victory\nwasalso the last stroke of embar-\nrassment for Pakistan. First the\nhost nation crashed out nhumit\niating fashion, and now, with\n\nlot mode, without any undue\nstress. He detailed the essence of\nhis knock that consumed 98 balls\nand was studded with five fours:\n\u201cMy timing, my composure at\nCONTINUEDON PAGE 2",
+   "ocr_conf": 89.92929292929293,
+   "ocr_low_conf_share": 0.020202020202020204,
+   "headline": "WITH A thumping K L Rahul six",
+   "deck": "DUBAI, MARCH 4 he now virtually bats onautopi-",
+   "byline": "",
+   "text": "over long-on, India leapt over theirbiggest hurdle in the 50-over KCCtoumaments - Australia. The margin of victory - by four wick-etsand 11 ballsto spare to fix the summit clash on Sunday-- doesn't capture the clinical outmuscling and outwitting of the World Champions. The victory wasalso the last stroke of embarrassment for Pakistan. First the host nation crashed out nhumit iating fashion, and now, with\n\nlot mode, without any undue stress. He detailed the essence of his knock that consumed 98 balls and was studded with five fours: \"My timing, my composure at CONTINUEDON PAGE 2",
+   "n_words": 95,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      2438,
+      3114,
+      2655
+     ],
+     [
+      2274,
+      2668,
+      3163,
+      2824
+     ],
+     [
+      1884,
+      3147,
+      2126,
+      3229
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1788,
+      3399,
+      2170,
+      3432
+     ],
+     [
+      2272,
+      2966,
+      2718,
+      3508
+     ],
+     [
+      2761,
+      3116,
+      3164,
+      3331
+     ],
+     [
+      2761,
+      3374,
+      3200,
+      3483
+     ],
+     [
+      3110,
+      3634,
+      3171,
+      3675
+     ],
+     [
+      3062,
+      3686,
+      3144,
+      3719
+     ]
+    ],
+    "layout_words": 88
+   },
+   "headline_raw": "Prize work: Rural sol\npower to innovation\nlabs & 56-hr rescue op\n\u00a9 NSE",
+   "deck_raw": "",
+   "body_raw": "RELATED REPORTS\n\nIMPARTING SKILLS t 6,000 dis-\nplaced persons in Manipur;\nplanting 54,000 bamboo trees\nover 80 acres of wasteland in\nAssam: providing over40villages\nwith solar energy in Jharkhand;\nand, steering a 56-hour rescue\noperation aftera devastating train\ntragedy in Odisha.\nThese are among the land-\nmark endeavours undertaken by\nDistrict Magistrates across the\ncountry that were acknowledged\nCONTINUED ONPAGE 2\n\nThere is ahuge\ndemocratisation of civil\nservices. It is no longer\nconfined to an elite\nsection.\n\nJITENDRA SINGH, MoS\n(INDE PENDENT) FOR PERSONNEL.\nPUBLIC GRIEVANCESANDPENSIONS\n\na\"\n\npwe",
+   "ocr_conf": 89.625,
+   "ocr_low_conf_share": 0.045454545454545456,
+   "headline": "Prize work: Rural sol power to innovation labs & 56-hr rescue op \u00a9 NSE",
+   "deck": "",
+   "byline": "RELATED REPORTS",
+   "text": "IMPARTING SKILLS t 6,000 displaced persons in Manipur; planting 54,000 bamboo trees over 80 acres of wasteland in Assam: providing over40villages with solar energy in Jharkhand; and, steering a 56-hour rescue operation aftera devastating train tragedy in Odisha. These are among the landmark endeavours undertaken by District Magistrates across the country that were acknowledged\n\nThere is ahuge democratisation of civil services. It is no longer confined to an elite section.\n\nJITENDRA SINGH, MoS (INDE PENDENT) FOR PERSONNEL. PUBLIC GRIEVANCESANDPENSIONS\n\na\"\n\npwe",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      2954,
+      4154,
+      3313
+     ],
+     [
+      3251,
+      3352,
+      4146,
+      3486
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3565,
+      3550,
+      3858,
+      3593
+     ],
+     [
+      3714,
+      3928,
+      4062,
+      3986
+     ]
+    ],
+    "body_boxes": [
+     [
+      3292,
+      3653,
+      3780,
+      3986
+     ],
+     [
+      3291,
+      3982,
+      3715,
+      4256
+     ],
+     [
+      3247,
+      4432,
+      3678,
+      4540
+     ],
+     [
+      3247,
+      4590,
+      3693,
+      5140
+     ],
+     [
+      3714,
+      3653,
+      4125,
+      3940
+     ],
+     [
+      3545,
+      3982,
+      4128,
+      4311
+     ],
+     [
+      3736,
+      4394,
+      4179,
+      5132
+     ]
+    ],
+    "layout_words": 263
+   },
+   "headline_raw": "Days after spat with\nZelenskyy, Trump\npauses Ukraine aid\nRegret clash, ready to work under US\nleadership for peace, says Zelenskyy",
+   "deck_raw": "AID TO UKRAINE\n, Be ee ee ee epee a\n: like 45 overhauled T-72",
+   "body_raw": "OVERALL \u2018mE\n@ Europe allocated 132 ; une\nbillioneurosoffinancial, \u2018mill\nmilitary&humanitarian = WO\naid since January 2022; the | Fr\nUS gave 14 billioneuros = BU\n> ine\nMILITARY tke\n\n@ US deliveredjallocated \u2014.\nover 64 billion euros in :\nweapons, ammunition :\nand other military :\nassistance. Of that, just :\nunder #4 billioneuros was _\nforheavy weapons :\n\nANDREA SHALAL\n& MAX HUNDER\nWASHINGTON, KYIV, MARCH 4\n\nINTHE mostdramatic stepyetin\nhis pivot towardscloser ties with\nRussia, US President Donald\nTrump has paused military aid\nto Kyiv, days after the explosive\nconfrontation with Ukrainian\nPresident VolodymyrZelenskyy\nat the White House last week.\nIna statement on Tuesday,\nZelenskyy said he regretted the\nOval Office clash and wanted to\n\u201cmake things right\u201d. He said he\nsupported peace negotiations\nand was ready to signa deal giv-\n\n: Europe donated just\n: under62 billion euros in\n: military allocations, of\n: which 19 billion euros was\n| for heavy weapons\n: MUS military allocations\n: indiudecritical weaponry\n\nlocated \u00a7= =. and 31 M1A2 Abramstanks,\nros in : 352 Bradley vehicles, 201\nnition : Howitzers, 39 HIMARS\ny . rocket launchers, 17 air\nit, just \u00bb defence systems such as\neuroswas \u00b0 NASAMS, Patriotand HAWK\nns : batteries.\nKiel Institute for dhe World Economy data: Reuters\n\ning the US access to Ukrainian\nminerals. \u201cMy team and | stand\nready to work under President\nTrump'sstrong leadership to get\na peace that lasts,\u201d Zelenskyy\nsaid in his statement on X\nEarlier, Zelenskyy's Prime\nMinister, Denys Shmyhal, said\nUkraine's forcescould hold their\nown on the battlefield against\nRussian troops, but that Kyiv\nwould do everything possible so\nthat cooperation with the US\nwouldcontinue.\nAnnouncing Trump's deci-\nsion, a US official said on\nMonday: \u201cPresident Trump has\nbeen clear that he is focused on\nCONTINUEDON PAGE2",
+   "ocr_conf": 80.64093959731544,
+   "ocr_low_conf_share": 0.1476510067114094,
+   "headline": "Days after spat with Zelenskyy, Trump pauses Ukraine aid Regret clash, ready to work under US leadership for peace, says Zelenskyy",
+   "deck": "AID TO UKRAINE: like 45 overhauled T-72",
+   "byline": "OVERALL 'mE",
+   "text": "@ Europe allocated 132; une billioneurosoffinancial, 'mill military&humanitarian = WO aid since January 2022; the Fr US gave 14 billioneuros = BU > ine MILITARY tke\n\nover 64 billion euros in: weapons, ammunition: and other military: assistance. Of that, just: under #4 billioneuros was _ forheavy weapons:\n\nANDREA SHALAL & MAX HUNDER WASHINGTON, KYIV, MARCH 4\n\nINTHE mostdramatic stepyetin his pivot towardscloser ties with Russia, US President Donald Trump has paused military aid to Kyiv, days after the explosive confrontation with Ukrainian President VolodymyrZelenskyy at the White House last week. Ina statement on Tuesday, Zelenskyy said he regretted the Oval Office clash and wanted to \"make things right\". He said he supported peace negotiations and was ready to signa deal giv-\n\n: Europe donated just: under62 billion euros in: military allocations, of: which 19 billion euros was for heavy weapons: MUS military allocations: indiudecritical weaponry\n\nlocated \u00a7= =. and 31 M1A2 Abramstanks, ros in: 352 Bradley vehicles, 201 nition: Howitzers, 39 HIMARS y. rocket launchers, 17 air it, just \u00bb defence systems such as euroswas \u00b0 NASAMS, Patriotand HAWK ns: batteries. Kiel Institute for dhe World Economy data: Reuters\n\ning the US access to Ukrainian minerals. \"My team and stand ready to work under President Trump'sstrong leadership to get a peace that lasts,\" Zelenskyy said in his statement on X Earlier, Zelenskyy's Prime Minister, Denys Shmyhal, said Ukraine's forcescould hold their own on the battlefield against Russian troops, but that Kyiv would do everything possible so that cooperation with the US wouldcontinue. Announcing Trump's decision, a US official said on Monday: \"President Trump has been clear that he is focused on CONTINUEDON PAGE2",
+   "n_words": 273,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3507,
+      738,
+      3564
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      3605,
+      741,
+      3754
+     ],
+     [
+      363,
+      3950,
+      720,
+      3985
+     ],
+     [
+      459,
+      4029,
+      625,
+      4058
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "Aditya Vikram Yadav, District\nLDfame\u00absicoinesr Caincnonry decom",
+   "deck_raw": "",
+   "body_raw": "@ IMPLEMENTA TIONOF\nCENTRAL SCHEMES\nShrikant Balas aheb Suse,\nDistrict Magistrate, Kargil, Ladakh\n\nBusINEss AS USUAL\n\nBy UNNY",
+   "ocr_conf": 78.33333333333333,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "Aditya Vikram Yadav, District LDfame\u00absicoinesr Caincnonry decom",
+   "deck": "",
+   "byline": "@ IMPLEMENTA TIONOF; CENTRAL SCHEMES",
+   "text": "Shrikant Balas aheb Suse, District Magistrate, Kargil, Ladakh\n\nBusINEss AS USUAL\n\nBy UNNY",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      3897,
+      1795,
+      4317
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      4390,
+      1116,
+      4459
+     ],
+     [
+      810,
+      4509,
+      1250,
+      4674
+     ],
+     [
+      1295,
+      4668,
+      1721,
+      4784
+     ],
+     [
+      1301,
+      4915,
+      1728,
+      4952
+     ]
+    ],
+    "layout_words": 38
+   },
+   "headline_raw": "Three months after\naide namedin murder \u2014\u00ab\nof sarpanch, Dhananjay .\nMunde steps down '",
+   "deck_raw": "",
+   "body_raw": "ALOK DESHPANDE\nMUMBAI MARCH4\n\nNCP MINISTER Dhananjay\nMunde resigned Tuesday after\nleaked photos showingallegedly\nthe atrocities and torture in-\n, a en ., a ns i ee a\n\nNCP\u2019s Dhananjay Munde;\nSantosh Deshmukh (right)\nwas killed on Dec 9 last year\n\n5 ere | RESIGNATION P7",
+   "ocr_conf": 73.45652173913044,
+   "ocr_low_conf_share": 0.2608695652173913,
+   "headline": "Three months after aide namedin murder - \u00ab of sarpanch, Dhananjay. Munde steps down '",
+   "deck": "",
+   "byline": "ALOK DESHPANDE; MUMBAI MARCH4",
+   "text": "NCP MINISTER Dhananjay Munde resigned Tuesday after leaked photos showingallegedly the atrocities and torture in-\n\nNCP's Dhananjay Munde; Santosh Deshmukh (right) was killed on Dec 9 last year\n\n5 ere RESIGNATION P7",
+   "n_words": 32,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      3898,
+      3094,
+      3997
+     ],
+     [
+      1787,
+      4010,
+      3189,
+      4165
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      4194,
+      2089,
+      4263
+     ],
+     [
+      1784,
+      4313,
+      2227,
+      5138
+     ],
+     [
+      2271,
+      4907,
+      2713,
+      5139
+     ],
+     [
+      2761,
+      4907,
+      3202,
+      5132
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "PM: World needs reliable partner,\nour industry can\u2019t remain spectators",
+   "deck_raw": "",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, MARCH4\n\nAT A time when the world is\nlooking for areliable partner for\nhigh-quality products witha de-\npendable supply chain, the\nIndian industry must find a role\nforitselfand carve out opportu-\nnities and not remain amere\n\u201cspectator\u2019, Prime Minister\nNarendra Modi said Tuesday.\nAddressing a post-Budget webi-\nnar, Modi assured the industry\nof the government's support,\nsaying that itstands \u201cshoulder to\nshoulder\u201d at a time when the\nworld views India as a key\ngrowth centre.\n\u201cToday, the world needs are-\nliable partner from where high-\nquality products come out and\nthe supply is reliable. Our country\niscapable of doing this. Allofyou\n\narecapable. Thisis ahugeoppor-\ntunity for us I want our industry\nNot t& see these expectations as\na spectator, we cannot remain\nspectators. You have & find your\nrole in this; you have to move\n\nahead and carve out opportuni-\nties for yourself,\u201d the Prime\nMinister said.\n\u201cft ismucheasier today than\nit was earlier. Today, the country\nCONTINUED ON PAGE2",
+   "ocr_conf": 83.45121951219512,
+   "ocr_low_conf_share": 0.1402439024390244,
+   "headline": "PM: World needs reliable partner, our industry can't remain spectators",
+   "deck": "",
+   "byline": "SUKALP SHARMA; NEW DELHI, MARCH4",
+   "text": "AT A time when the world is looking for areliable partner for high-quality products witha dependable supply chain, the Indian industry must find a role foritselfand carve out opportunities and not remain amere \"spectator', Prime Minister Narendra Modi said Tuesday. Addressing a post-Budget webinar, Modi assured the industry of the government's support, saying that itstands \"shoulder to shoulder\" at a time when the world views India as a key growth centre. \"Today, the world needs areliable partner from where high-quality products come out and the supply is reliable. Our country iscapable of doing this. Allofyou\n\narecapable. Thisis ahugeopportunity for us I want our industry Not t& see these expectations as a spectator, we cannot remain spectators. You have & find your role in this; you have to move\n\nahead and carve out opportunities for yourself,\" the Prime Minister said. \"ft ismucheasier today than it was earlier. Today, the country",
+   "n_words": 149,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      4649,
+      572,
+      4725
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4770,
+      762,
+      4893
+     ],
+     [
+      320,
+      4928,
+      702,
+      5058
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "RAJASTHAN",
+   "deck_raw": "",
+   "body_raw": "ALWAR, DEEG ON TOP\nIN COW SMUGGLING\nFIRs ACROSS STATE\n\nURDU NAME FOR\nSCHOOL FUNCTION\nLEADS TO INQUIRY",
+   "ocr_conf": 94.05555555555556,
+   "ocr_low_conf_share": 0.0,
+   "headline": "RAJASTHAN",
+   "deck": "",
+   "byline": "ALWAR, DEEG ON TOP; IN COW SMUGGLING; FIRs ACROSS STATE; URDU NAME FOR; SCHOOL FUNCTION; LEADS TO INQUIRY",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      4688,
+      1248,
+      4747
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      4748,
+      1253,
+      5137
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "RC eee\nhis murder proved the tipping",
+   "deck_raw": "",
+   "body_raw": "point. Chief Minister Devendra\nFadnavis drove down to hold a\nlate-night meeting Mondaywith\nDeputy Chief Minister and NCP\npresident Ajit Pawar, where the\ndecision was taken in the pres-\nence of Munde.\nMonday also marked the\nStartof the first Budget Session of\nthe new Mahayuti government,",
+   "ocr_conf": 93.91304347826087,
+   "ocr_low_conf_share": 0.0,
+   "headline": "RC eee his murder proved the tipping",
+   "deck": "",
+   "byline": "",
+   "text": "point. Chief Minister Devendra Fadnavis drove down to hold a late-night meeting Mondaywith Deputy Chief Minister and NCP president Ajit Pawar, where the decision was taken in the presence of Munde. Monday also marked the Startof the first Budget Session of the new Mahayuti government,",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1305,
+      4856,
+      1650,
+      4952
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      5024,
+      1737,
+      5130
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "EE BEHIND THE\nIL... | RESIGNATIO",
+   "deck_raw": "",
+   "body_raw": "elected in November last year.\nMunde's close association with\nCONTINUED ON PAGE 2",
+   "ocr_conf": 95.3076923076923,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EE BEHIND THE IL... RESIGNATIO",
+   "deck": "",
+   "byline": "",
+   "text": "elected in November last year. Munde's close association with",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5281,
+      4154,
+      5395
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5420,
+      499,
+      5495
+     ],
+     [
+      807,
+      5420,
+      1249,
+      6167
+     ],
+     [
+      1294,
+      5421,
+      1739,
+      6167
+     ],
+     [
+      2759,
+      5421,
+      3202,
+      6168
+     ],
+     [
+      3245,
+      5423,
+      3689,
+      6169
+     ],
+     [
+      3735,
+      5423,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 487
+   },
+   "headline_raw": "When a goalkeeper waiting in the wings met a war veteran \u2014 and found his hero",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nKarkera, who was then going\nthrough one of the most chal-\nlenging phases of hiscareer, mo-\ntivated to fight for a permanent\nspot in India's hockey team,\nwhich he finallyeamed last year\nafter spending almost eight\nyears onthe fringes.\nFor Cardozo, whose leg had\nto be amputated on the battle-\nfield during the 1971 India-\nPakistan war, meeting Karkera\nwas a chance toreconnect with\nasporthe had grown up playing.\n\u201cUntiltwo years ago, we did-\nn't know each other at all,\u201d\nCardozo tells The Indian Express.\n\u201cNow, we have adopted him as\nour protege.\u201d\n\nSays Karkera, \u201cWhen I\nreached out to him, my mental\nspace was like, \u2018I would like to\nhave that spark again\u2019. Of course,\nI was training and this and that\nbut you tend to be a bit dis-\ntracted... what will happen in\nthe future and such.\u201d\nKarkera\u2019s concems about his\nfuture were not unfounded.\nDespite being a constant in the\ncore group of the national\nhockey team for a better part of\nthe last decade, the goalkeeper\nwas third in the pecking order\nbehind the modern-day great P\nR Sreeieshand Krishan Pathak.\nWith only twospots reserved\nfor goalkeepers in a squad of 18\n\nforinternational competitions \u2014\nand just one in the 16-member\nOlympics team \u2014 Karkera was in-\nvariably left out for big assign-\nments. The only time he got un-\ninterrupted chances to play for\nthe national fam wasin2017-18,\nwhen Sreejesh, the first-choice\nkeeper, wasout with an injury.\nKarkera \u2014 spotted by\nMerzban Patel, the legendary\ncoach from Mumbai, and later\nmentored by former India cus-\ntodian Dipika Murthy \u2014 pa-\ntiently waited for his turn, aware\nthat it was routine for goalkeep-\ners to go through this grind. His\nchance finally came after\nSreejesh retired at the end ofthe\n\nParis Olympics.\ninthelast five months, he has\nplayed 17 matches, nearly as\nmany as he did in the five years\nbefore that(19),and has featured\nin every game of the recently\nconcluded India leg of the FiH\nPro League. \u201cIt shows yourchar-\nacter... what youare gping todo\nwhen things are not going your\nway.\u201d Karkera says of the long\nwaiting period. \u201cThese are test-\ning times. You need patience and\nresilience.\u201d\nDuring this phase, as he dis-\ncovered the world of books,\nKarkera immersed himself in the\nextraordinary tales of South\nAfrica's 1995 rugby World Cup\n\ntriumph. Butitwas in Cardozo's\nlife story, Cartoos Saab: A\nSoldier's Story of Resilience in\nAdversity, that he found the in-\nSpiration he needed.\nMaj Gen Cardozo fought\nthree wars: 1962, 1965 and, most\nnotably, the India-Pakistan war\nof 1971 thatled to the creation of\nBangladesh. In the final days of\nthe war, during the Battle of\nSylhet, Cardozo is known to have\nstepped on a landmine, follow-\ning which his leg had to be am-\nputated. He went on to become\nthe first war-disabled officer to\nbe approved forcommand ofan\ninfantry Battalion.\nCONTINUED ON PAGE2",
+   "ocr_conf": 89.80532786885246,
+   "ocr_low_conf_share": 0.05327868852459016,
+   "headline": "When a goalkeeper waiting in the wings met a war veteran - and found his hero",
+   "deck": "",
+   "byline": "ANCHOR",
+   "text": "Karkera, who was then going through one of the most chal-lenging phases of hiscareer, motivated to fight for a permanent spot in India's hockey team, which he finallyeamed last year after spending almost eight years onthe fringes. For Cardozo, whose leg had to be amputated on the battlefield during the 1971 India-Pakistan war, meeting Karkera was a chance toreconnect with asporthe had grown up playing. \"Untiltwo years ago, we didn't know each other at all,\" Cardozo tells The Indian Express. \"Now, we have adopted him as our protege.\"\n\nSays Karkera, \"When I reached out to him, my mental space was like, 'I would like to have that spark again'. Of course, I was training and this and that but you tend to be a bit distracted... what will happen in the future and such.\" Karkera's concems about his future were not unfounded. Despite being a constant in the core group of the national hockey team for a better part of the last decade, the goalkeeper was third in the pecking order behind the modern-day great P R Sreeieshand Krishan Pathak. With only twospots reserved for goalkeepers in a squad of 18\n\nforinternational competitions - and just one in the 16-member Olympics team - Karkera was invariably left out for big assign-ments. The only time he got uninterrupted chances to play for the national fam wasin2017-18, when Sreejesh, the first-choice keeper, wasout with an injury. Karkera - spotted by Merzban Patel, the legendary coach from Mumbai, and later mentored by former India custodian Dipika Murthy - patiently waited for his turn, aware that it was routine for goalkeepers to go through this grind. His chance finally came after Sreejesh retired at the end ofthe\n\nParis Olympics. inthelast five months, he has played 17 matches, nearly as many as he did in the five years before that(19),and has featured in every game of the recently concluded India leg of the FiH Pro League. \"It shows yourcharacter... what youare gping todo when things are not going your way.\" Karkera says of the long waiting period. \"These are testing times. You need patience and resilience.\" During this phase, as he discovered the world of books, Karkera immersed himself in the extraordinary tales of South Africa's 1995 rugby World Cup\n\ntriumph. Butitwas in Cardozo's life story, Cartoos Saab: A Soldier's Story of Resilience in Adversity, that he found the in-Spiration he needed. Maj Gen Cardozo fought three wars: 1962, 1965 and, most notably, the India-Pakistan war of 1971 thatled to the creation of Bangladesh. In the final days of the war, during the Battle of Sylhet, Cardozo is known to have stepped on a landmine, following which his leg had to be amputated. He went on to become the first war-disabled officer to be approved forcommand ofan infantry Battalion.",
+   "n_words": 464,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      314,
+      5652,
+      761,
+      5777
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      5616,
+      589,
+      5644
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5773,
+      760,
+      6166
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "MUMBAI. MARCH4\nTWO YEARS agp, nationalhockey",
+   "deck_raw": "MIHIRVASAVDA",
+   "body_raw": "goalkeenerSuraiKarkera, anavid\nreader, chanced upon the mem-\noir of India's 1971 war hero,(Retd)\nMajor General lan Cardozo. Even\nbefore Karkera had turned the fi-\nnal page of the book, he had\ntracked down the war veteran.\nThe series of conversations\nsince then between the 29-year-\nold and the 87-year-old kept",
+   "ocr_conf": 87.44,
+   "ocr_low_conf_share": 0.08,
+   "headline": "MUMBAI. MARCH4 TWO YEARS agp, nationalhockey",
+   "deck": "MIHIRVASAVDA",
+   "byline": "",
+   "text": "goalkeenerSuraiKarkera, anavid reader, chanced upon the memoir of India's 1971 war hero,(Retd) Major General lan Cardozo. Even before Karkera had turned the final page of the book, he had tracked down the war veteran. The series of conversations since then between the 29-yearold and the 87-year-old kept",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 18.7,
+ "flags": []
+}

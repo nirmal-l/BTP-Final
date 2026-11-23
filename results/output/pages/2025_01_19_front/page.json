@@ -1,0 +1,505 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_19_front",
+ "source_file": "2025-01-19_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-19_front.png",
+ "date": "2025-01-19",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 0,
+  "n_lines": 234,
+  "mean_line_conf": 86.81375152625152,
+  "orphan_words": 0,
+  "body_words_total": 810
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3861,
+      75,
+      4071,
+      188
+     ],
+     [
+      3767,
+      290,
+      4159,
+      537
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3770,
+      220,
+      4164,
+      275
+     ]
+    ],
+    "body_boxes": [
+     [
+      3803,
+      561,
+      4120,
+      672
+     ],
+     [
+      3745,
+      1528,
+      3876,
+      1560
+     ],
+     [
+      3742,
+      1606,
+      4119,
+      1776
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "eve\n\u2018The journey of\nan outsider is\nvery different\nfrom an insider\u2019",
+   "deck_raw": "\u2014_\u2014_\u2014_\u2014 PF\nTHE SUNDAY EXPRESS MAGAZI ME",
+   "body_raw": "KARTIK AARYAN\non his journey from\nGwalior to Mumbai\n\nINSIDE\n\nFOURTH CASE: JEE\nASPIRANT FOUND\nHANGING IN KOTA\nPAGE 3",
+   "ocr_conf": 77.9,
+   "ocr_low_conf_share": 0.2,
+   "headline": "eve 'The journey of an outsider is very different from an insider'",
+   "deck": "THE SUNDAY EXPRESS MAGAZI ME",
+   "byline": "KARTIK AARYAN",
+   "text": "on his journey from Gwalior to Mumbai\n\nFOURTH CASE: JEE ASPIRANT FOUND HANGING IN KOTA",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2279,
+      1496,
+      3552,
+      1588
+     ],
+     [
+      2278,
+      1605,
+      3645,
+      1773
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3741,
+      1796,
+      4180,
+      1890
+     ]
+    ],
+    "body_boxes": [
+     [
+      2273,
+      1909,
+      2718,
+      2175
+     ],
+     [
+      3012,
+      1775,
+      3161,
+      1810
+     ],
+     [
+      3249,
+      1752,
+      3697,
+      2176
+     ],
+     [
+      3742,
+      1969,
+      4085,
+      2139
+     ]
+    ],
+    "layout_words": 93
+   },
+   "headline_raw": "Centre invites farmers for talks,\nDallewal likely to take medical aid",
+   "deck_raw": "BALYAN GETS BACK \u2014\nY-CATEGORY COVER",
+   "body_raw": "MOVING TO end the impasse\nover the farmers\u2019 protest, the\nCentre Saturday invited farmers\nfor talks next month to discuss\ntheir demands. Their leader\nJagjit Singh Dallewal, who has\nbeen ona fast unto death since\n\nm_4\n\nNovember 26 last year, is likely\nto accept medical aid.\nThe breakthrough came after\nadelegation of officials fromthe\nUnion Agriculture Ministry, led\nby Joint Secretary Priya Ranjan,\nmet Dallewal and held a meet-\ning with the representatives of\nhis Samyukta Kisan Morcha\n(Non-political) and the Kisan\nCONTINUED ON PAGE 2\n\nGAZA CEASEFIRE\nDEAL TAKES\nEFFECT TODAY\nPAGE 10",
+   "ocr_conf": 88.46808510638297,
+   "ocr_low_conf_share": 0.0851063829787234,
+   "headline": "Centre invites farmers for talks, Dallewal likely to take medical aid",
+   "deck": "BALYAN GETS BACK - Y-CATEGORY COVER",
+   "byline": "",
+   "text": "MOVING TO end the impasse over the farmers' protest, the Centre Saturday invited farmers for talks next month to discuss their demands. Their leader Jagjit Singh Dallewal, who has been ona fast unto death since\n\nNovember 26 last year, is likely to accept medical aid. The breakthrough came after adelegation of officials fromthe Union Agriculture Ministry, led by Joint Secretary Priya Ranjan, met Dallewal and held a meeting with the representatives of his Samyukta Kisan Morcha (Non-political) and the Kisan\n\nGAZA CEASEFIRE DEAL TAKES EFFECT TODAY",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2278,
+      2247,
+      4115,
+      2517
+     ],
+     [
+      2276,
+      2505,
+      2641,
+      2573
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      2741,
+      2717,
+      3084
+     ],
+     [
+      3737,
+      2568,
+      4182,
+      3053
+     ]
+    ],
+    "layout_words": 94
+   },
+   "headline_raw": "Saif case: Another \u2018suspect\u2019 held, this time\nin Chhattisgarh, but question mark on role\nVIJAY KUMAR YADAV,",
+   "deck_raw": "",
+   "body_raw": "A31-YEAR-OLD man was de-\ntained from a train in Durg,\nChhattisgarh, inconnection with\nthe attack on actor Saif AliKhan\ninside his Bandrahome, though\ntopinvestigators maintained the\nman remains a suspect and not\nan accused.\nAsenior IPS officer from the\n\ntats + cementite sh femmes ile ud ey\n\u201cThe suspect detained in Durg\ndoes not appear tobe the accused,\nbut we have sent a team (to\nChhattisgarh) to verify, Mumbai\npolice continue & puteffortsinto\ntheir hunt forthe culprit.\u201d\nRPF officials in Chhattisgarh\nsaid the man was on board the\nJnaneswan Express, which runs\nfrom Mumbai's Lokmanya Tilak\nterminus to Kolkata's Shalimar\nrailway station.",
+   "ocr_conf": 85.45098039215686,
+   "ocr_low_conf_share": 0.11764705882352941,
+   "headline": "Saif case: Another 'suspect' held, this time in Chhattisgarh, but question mark on role VIJAY KUMAR YADAV,",
+   "deck": "",
+   "byline": "",
+   "text": "A31-YEAR-OLD man was detained from a train in Durg, Chhattisgarh, inconnection with the attack on actor Saif AliKhan inside his Bandrahome, though topinvestigators maintained the man remains a suspect and not an accused. Asenior IPS officer from the\n\ntats + cementite sh femmes ile ud ey \"The suspect detained in Durg does not appear tobe the accused, but we have sent a team (to Chhattisgarh) to verify, Mumbai police continue & puteffortsinto their hunt forthe culprit.\" RPF officials in Chhattisgarh said the man was on board the Jnaneswan Express, which runs from Mumbai's Lokmanya Tilak terminus to Kolkata's Shalimar railway station.",
+   "n_words": 101,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      3039,
+      1233,
+      3142
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      3153,
+      1197,
+      3212
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      3293,
+      647,
+      3362
+     ],
+     [
+      317,
+      3411,
+      763,
+      3880
+     ],
+     [
+      321,
+      3926,
+      760,
+      4001
+     ],
+     [
+      319,
+      4559,
+      632,
+      4667
+     ],
+     [
+      806,
+      3254,
+      1252,
+      3994
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "lam grateful to the court, only know",
+   "deck_raw": "what I have lost, says victim\u2019s father",
+   "body_raw": "TANUSREE BOSE\nKOLKATA, JANUARY 18\n\nFIVE MONTHS after the rape and\nmurder of a young doctor at the\nstate-run RG Kar Hospital in\nKolkata shook the city and\nsparked protests across the coun-\ntry, a Kolkata court Saturday de-\nclared prime accused Sanjoy Roy\nguilty of the offence.\nThe quantum of sentence\nwill be pronounced Monday by\nAdditional District and Sessions\nJudge Anirban Das of the Sealdah\n\nThe body of the on-duty doc-\ntor, who had been raped and\n\nGEORGE MATHEW\n& HITESH VYAS\nMUMBAI, JANUARY 18\n\nkilled, was found on the hospital\npremises on August 9,\nPrime accused Roy, who was\narrested aday after the incident,\nhad been booked under\nBharatiya Nyaya Sanhita sections\n64 (rape), 66 (punishment for\ncausing death or resulting in a\npersistent vegetative state) and\n103 (punishment for murder}\nPronouncing the verdict in\nopen court, judge Das told Roy\nthat the accusation against him\nwas that on August 9 \u201cyou en-\ntered RG Kar and you attacked\nthe doctor and she died and\n(you) also sexually assaulted\nher\". He said BNS sections 64,66\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.53846153846153,
+   "ocr_low_conf_share": 0.0989010989010989,
+   "headline": "lam grateful to the court, only know",
+   "deck": "what I have lost, says victim's father",
+   "byline": "TANUSREE BOSE; KOLKATA, JANUARY 18",
+   "text": "FIVE MONTHS after the rape and murder of a young doctor at the state-run RG Kar Hospital in Kolkata shook the city and sparked protests across the country, a Kolkata court Saturday declared prime accused Sanjoy Roy guilty of the offence. The quantum of sentence will be pronounced Monday by Additional District and Sessions Judge Anirban Das of the Sealdah\n\nThe body of the on-duty doctor, who had been raped and\n\nGEORGE MATHEW & HITESH VYAS MUMBAI, JANUARY 18\n\nkilled, was found on the hospital premises on August 9, Prime accused Roy, who was arrested aday after the incident, had been booked under Bharatiya Nyaya Sanhita sections 64 (rape), 66 (punishment for causing death or resulting in a persistent vegetative state) and 103 (punishment for murder} Pronouncing the verdict in open court, judge Das told Roy that the accusation against him was that on August 9 \"you entered RG Kar and you attacked the doctor and she died and (you) also sexually assaulted her\". He said BNS sections 64,66",
+   "n_words": 169,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1300,
+      3079,
+      2222,
+      3427
+     ],
+     [
+      1300,
+      3416,
+      1694,
+      3479
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3570,
+      1741,
+      4002
+     ],
+     [
+      1786,
+      3413,
+      2228,
+      3598
+     ],
+     [
+      1785,
+      3610,
+      2228,
+      3995
+     ]
+    ],
+    "layout_words": 137
+   },
+   "headline_raw": "Ihave three daughters,\ncan understand the pain,\nsays convict\u2019s mother\nRAVIK BHATTACHARYA",
+   "deck_raw": "",
+   "body_raw": "SITTING NEAR the door to her\nhome in Sambhunath Pandit\nLane, some 6 km from the\nSealdah court, Malati Roy had\nbeen waiting for the verdict in\nthe RG Kar Hospital rape-mur-\nder case in which her son Sanjoy\nRoy was the accused.\nTold that he had been found\nguilty by the court, Malati said,\n\u201cIhave three daughters, | under-\n\nstand their (the victim's parents)\npain. ... Let him get any punish-\nment he deserves. Even ifthe\ncourt sayshang him, I will accept\nit.\u201d\n\nRoy's sister Sabita, who lives\ndown the lane, said, \u201cWhat my\nbrother has done is something un-\nthinkable and horrific. My heart\nbreaks saying this but he should\ngetthe wtimate punishment fhe\nhas done it. The victim was a\nwoman like me, anda doctor.\u201d\nRoy's mother and sister did\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.8905109489051,
+   "ocr_low_conf_share": 0.06569343065693431,
+   "headline": "Ihave three daughters, can understand the pain, says convict's mother RAVIK BHATTACHARYA",
+   "deck": "",
+   "byline": "",
+   "text": "SITTING NEAR the door to her home in Sambhunath Pandit Lane, some 6 km from the Sealdah court, Malati Roy had been waiting for the verdict in the RG Kar Hospital rape-murder case in which her son Sanjoy Roy was the accused. Told that he had been found guilty by the court, Malati said, \"Ihave three daughters, understand their (the victim's parents) pain.... Let him get any punishment he deserves. Even ifthe court sayshang him, I will accept it.\"\n\nRoy's sister Sabita, who lives down the lane, said, \"What my brother has done is something unthinkable and horrific. My heart breaks saying this but he should getthe wtimate punishment fhe has done it. The victim was a woman like me, anda doctor.\" Roy's mother and sister did",
+   "n_words": 127,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      4143,
+      2171,
+      4623
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1627,
+      4613,
+      1740,
+      4673
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4716,
+      764,
+      4980
+     ],
+     [
+      366,
+      4993,
+      760,
+      5027
+     ],
+     [
+      1339,
+      4699,
+      1738,
+      4740
+     ],
+     [
+      1350,
+      4759,
+      1720,
+      4787
+     ],
+     [
+      1351,
+      4804,
+      1737,
+      4985
+     ],
+     [
+      1914,
+      4617,
+      2182,
+      4647
+     ]
+    ],
+    "layout_words": 60
+   },
+   "headline_raw": "In calibrated move, RBI loosens grip,\nlets rupee depreciate against US dollar\nSince Dec 10, rupee has depreciated 2.12% against US dollar to touch 86.62",
+   "deck_raw": "(in $ bn)",
+   "body_raw": "INWHATappears to be a shift in\nStrategy, the Reserve Bank of\nIndia (RBI) has seemingly re-\nlaxed its control over the rupee,\nallowing it to depreciate against\nthe US dollar over the past\nmonth\n\nThe apparent change in\n\nI DATE CURESERVES |\n\nJan 10,'25 : 625.87\n\nNov29,'24; 658.09\nNov1,24 682.13\nSep 27,'24 | 704.88\n(all-time peak)\n\n(Rupee againse US $)",
+   "ocr_conf": 83.28333333333333,
+   "ocr_low_conf_share": 0.13333333333333333,
+   "headline": "In calibrated move, RBI loosens grip, lets rupee depreciate against US dollar Since Dec 10, rupee has depreciated 2.12% against US dollar to touch 86.62",
+   "deck": "",
+   "byline": "",
+   "text": "INWHATappears to be a shift in Strategy, the Reserve Bank of India (RBI) has seemingly relaxed its control over the rupee, allowing it to depreciate against the US dollar over the past month\n\nThe apparent change in\n\nI DATE CURESERVES\n\n(all-time peak)\n\n(Rupee againse US $)",
+   "n_words": 46,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      4516,
+      1249,
+      4568
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      4560,
+      1251,
+      5020
+     ]
+    ],
+    "layout_words": 56
+   },
+   "headline_raw": "stance marks a departure from\nethane DDIi'en wmenawvinmce Anfanrnar",
+   "deck_raw": "",
+   "body_raw": "the RBI's previous defence\nmechanisms, which were more\nrigid. In fact, it had tightly man-\naged the rupee\u2019s movement to\nprevent sharp depreciation since\nSeptember 2024 till about a\nmonth ago.\nThe rupee, which was mov-\ning inthe range of84-85 for quite\nsome time, logged its steepest\nsingle-day fall in nearly two\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.21428571428571,
+   "ocr_low_conf_share": 0.017857142857142856,
+   "headline": "stance marks a departure from ethane DDIi'en wmenawvinmce Anfanrnar",
+   "deck": "",
+   "byline": "",
+   "text": "the RBI's previous defence mechanisms, which were more rigid. In fact, it had tightly managed the rupee's movement to prevent sharp depreciation since September 2024 till about a month ago. The rupee, which was moving inthe range of84-85 for quite some time, logged its steepest single-day fall in nearly two",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5187,
+      2195,
+      5431
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5470,
+      499,
+      5545
+     ],
+     [
+      319,
+      5664,
+      547,
+      5692
+     ],
+     [
+      1784,
+      5469,
+      2229,
+      6090
+     ]
+    ],
+    "layout_words": 76
+   },
+   "headline_raw": "Kho Kho Kho: A 22-year-old\u2019s journey\nfrom collecting scrap to stacking medals",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nSHIVANINAIK\n\ncontemporary kho kho star\nGrowing upin Velapurvillage\nin Maharashtra's Solapur district,\nhis father, two brothers and sis-\nter would set offeach dayto deal\nin bhangaar or kabaad (scrap).\nRamji, meanwhile, spent his time\nsecuring discarded packaging\nmaterials and tattered clothes.\nAsthedull brown mountains\nof bhangnar around him grew, so\ndid his love for kho kho \u2014 a sport\nhe fellin love with after he was\nadmitted to the hamlet's only\nEnglish-medium municipal\nschool.",
+   "ocr_conf": 85.28947368421052,
+   "ocr_low_conf_share": 0.06578947368421052,
+   "headline": "Kho Kho Kho: A 22-year-old's journey from collecting scrap to stacking medals",
+   "deck": "",
+   "byline": "ANCHOR; SHIVANINAIK",
+   "text": "contemporary kho kho star Growing upin Velapurvillage in Maharashtra's Solapur district, his father, two brothers and sister would set offeach dayto deal in bhangaar or kabaad (scrap). Ramji, meanwhile, spent his time securing discarded packaging materials and tattered clothes. Asthedull brown mountains of bhangnar around him grew, so did his love for kho kho - a sport he fellin love with after he was admitted to the hamlet's only English-medium municipal school.",
+   "n_words": 72,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5702,
+      631,
+      5760
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5786,
+      760,
+      6135
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "MUMBAI, JANUARY 18",
+   "deck_raw": "",
+   "body_raw": "FOR AS long as he can remem-\nber, like all other members of his\nfamily, Ramji Kashyap spent a\nhuge chunk of his day stacking\ncorrugated cardboard sheets.\nInstead of the soundless\ndrudgery, the 22-year-old is now\nstacking up medals and giant\nwinners\u2019 cheques asIndia's best",
+   "ocr_conf": 91.21739130434783,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "MUMBAI, JANUARY 18",
+   "deck": "",
+   "byline": "",
+   "text": "FOR AS long as he can remember, like all other members of his family, Ramji Kashyap spent a huge chunk of his day stacking corrugated cardboard sheets. Instead of the soundless drudgery, the 22-year-old is now stacking up medals and giant winners' cheques asIndia's best",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 11.5,
+ "flags": []
+}

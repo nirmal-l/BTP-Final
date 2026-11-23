@@ -1,0 +1,583 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_11_editorial",
+ "source_file": "2025-02-11_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-11_editorial.png",
+ "date": "2025-02-11",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 458,
+  "mean_line_conf": 87.95583328839012,
+  "orphan_words": 893,
+  "body_words_total": 3334
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      372,
+      604,
+      1473,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      819,
+      1234,
+      876
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      770,
+      1088,
+      801
+     ],
+     [
+      433,
+      918,
+      1417,
+      959
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 93.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2295,
+      593,
+      3513,
+      772
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2294,
+      882,
+      3552,
+      1000
+     ]
+    ],
+    "body_boxes": [
+     [
+      2320,
+      2013,
+      2823,
+      3310
+     ],
+     [
+      2923,
+      1251,
+      3531,
+      3301
+     ]
+    ],
+    "layout_words": 478
+   },
+   "headline_raw": "Sabka shahar",
+   "deck_raw": "AAP lost the city plot. BJP inherits building blocks of what\ncould become a newlayer in the political vocabulary",
+   "body_raw": "When the AAP burst on the\npolitical scene in 2012,\nfought its first election in\n2013, almost in tandem with\nthe rise of the Modi-BJP at\nthe Centre, it was a party\nborn of a national \u2018anti-\ncorruption\u2019 movement. But\nit was also a party of, by and\nfor the city \u2014 the Anna\nHazare movement had\nbecome a critical selfie\nmonrnt for Delhi. The AAP,\ntoo, tweaked the political\nimagination and script. It\ngave the issue of corruption,\nalways-already present in\npublic conversation, a new\ncurrency. It opposed the BJP\nwhile playing the Hindutva\ncard on terms set by the BJP.\nBut more importantly,\nbetween the \u2018desh\u2019 and\nindividual \u2018labharthi\u2019, it\nbrought in the mindscape\nof the city.\n\ntion,always-already present in public conver-\nsation, a new currency. It opposed the BJP\nwhile playing the Hindutvacard ontermsset\nby the BJP But more importantly, between the\n\u00e9eshand individual labharthi it brought inthe\nmindscape of the city.\nOfcourse, this was not alwaysanactofin-\ntentional politics. Far too often, in fact, it\nseemed that the AAP sawin Delhionlyastep-\nping stone toitsnational-level ambitions. But\nbecause of the circumstancesof its birth, and\nalmost despite its own blind spots and over-\nreach, Kejriwal's party introduced a missing\nmiddle tier in politics.\nAgain, it wasn't asif the city wasn't apart\nofthe political imagination earlier But it was\nonly waveringly so. The city has generally got\nshort shrift in national and especially north\nIndian politics dominated by the larger num-\nbersofrural voters and what has been gener-\nally seen as their more fundamental needs.\nUrban issues have long been eclipsed, or\nbobbed into the court of patchily empowered\nlocal urban bodies.\nThe new partybomin Delhi talked ofthe\ncity, and in it, focused on the government\nschool and mohalla clinic. In a burgeoning\ncity of migrants, to ease arduous struggles\nfor acquiring a foothold, it gave electricity\nand water subsidies \u2014this was aclassof vot-\ners whose concemis were so far marginalised\ninthe prevalent ways of seeing urban spaces\nas populated only by middle and upper\nclasses. Ina city on the move, it provided\nwomen bus rides for free.\nThe AAP made the city \u2014 and parts of it\nthat live most precariously \u2014visibk in the po-\nlitical discourse. And because the city was\nDelhi, less the place you were born in, and\nmore the place to which you were going, the\ntask of politics was not just to help fashion a\nhome for the citizen, but also a safe house for\nher aspirations and dreams.\nThe AAP's challenge, therefore, lay in ad-\ndressing the real city, w&hits bgt, sadak,paani,\nkadhra-sewage and padhai problems. And t\ncreate the infrastructure for freedom and\nanonymity and upward mobility in the imag-\nined city. Over two terms, it managed more\nor less, and lessand less increasingly.\nIn the last two elections, the people\nvoted the AAP for Delhi, even as at the",
+   "ocr_conf": 89.18200836820084,
+   "ocr_low_conf_share": 0.07112970711297072,
+   "headline": "Sabka shahar",
+   "deck": "AAP lost the city plot. BJP inherits building blocks of what could become a newlayer in the political vocabulary",
+   "byline": "",
+   "text": "When the AAP burst on the political scene in 2012, fought its first election in 2013, almost in tandem with the rise of the Modi-BJP at the Centre, it was a party born of a national 'anti-corruption' movement. But it was also a party of, by and for the city - the Anna Hazare movement had become a critical selfie monrnt for Delhi. The AAP, too, tweaked the political imagination and script. It gave the issue of corruption, always-already present in public conversation, a new currency. It opposed the BJP while playing the Hindutva card on terms set by the BJP. But more importantly, between the 'desh' and individual 'labharthi', it brought in the mindscape of the city.\n\ntion,always-already present in public conversation, a new currency. It opposed the BJP while playing the Hindutvacard ontermsset by the BJP But more importantly, between the \u00e9eshand individual labharthi it brought inthe mindscape of the city. Ofcourse, this was not alwaysanactofintentional politics. Far too often, in fact, it seemed that the AAP sawin Delhionlyastepping stone toitsnational-level ambitions. But because of the circumstancesof its birth, and almost despite its own blind spots and overreach, Kejriwal's party introduced a missing middle tier in politics. Again, it wasn't asif the city wasn't apart ofthe political imagination earlier But it was only waveringly so. The city has generally got short shrift in national and especially north Indian politics dominated by the larger numbersofrural voters and what has been generally seen as their more fundamental needs. Urban issues have long been eclipsed, or bobbed into the court of patchily empowered local urban bodies. The new partybomin Delhi talked ofthe city, and in it, focused on the government school and mohalla clinic. In a burgeoning city of migrants, to ease arduous struggles for acquiring a foothold, it gave electricity and water subsidies - this was aclassof voters whose concemis were so far marginalised inthe prevalent ways of seeing urban spaces as populated only by middle and upper classes. Ina city on the move, it provided women bus rides for free. The AAP made the city - and parts of it that live most precariously - visibk in the political discourse. And because the city was Delhi, less the place you were born in, and more the place to which you were going, the task of politics was not just to help fashion a home for the citizen, but also a safe house for her aspirations and dreams. The AAP's challenge, therefore, lay in addressing the real city, w&hits bgt, sadak,paani, kadhra-sewage and padhai problems. And t create the infrastructure for freedom and anonymity and upward mobility in the imagined city. Over two terms, it managed more or less, and lessand less increasingly. In the last two elections, the people voted the AAP for Delhi, even as at the",
+   "n_words": 469,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      474,
+      1095,
+      1389,
+      1197
+     ]
+    ],
+    "deck_boxes": [
+     [
+      333,
+      1238,
+      1525,
+      1333
+     ]
+    ],
+    "body_boxes": [
+     [
+      325,
+      1375,
+      1535,
+      1870
+     ],
+     [
+      322,
+      1924,
+      1537,
+      3014
+     ]
+    ],
+    "layout_words": 435
+   },
+   "headline_raw": "(SOOD RIDDANCE",
+   "deck_raw": "Biren Singh\u2019s resignation was long overdue. Whoever replaces\nhim has theirtask cut out: Restore lost trust",
+   "body_raw": "BIREN SINGH'S RESIGNATIONas the Chief Ministerof Manipur,21 monthsaf-\nter the ongoing Meitei- Kuki ethnic conflict erupted in May 2023, is belated.\nTheneedie has finally moved in Manipur \u2014Governor Ajay KumarBhallahas\naccepted his resignation and asked him m continuein office until \u201caltemative\narrangements\u2019 are made, an outcome starkly different from June 2023, when Singh's res-\nignation letter was tom up by supporters outside his rescence. While Singh's removalhad\nlong been akeydemand of the Kuki-Zo-Hmar groups, the Centre let him continue in the hot\nseat. By all accounts, he could not stave off the pressure from some of his own party's MLAs\neventually. His decision toquitcomes only five days after the Supreme Courtordered acen-\ntral forensic lab i analyse audio tapes, purportedly connecting the dots between Singh and\nthe ethnic violence that convulsed his state. Singh may have seen the writing on the wall,\n\npose President's Rule amid the uncertainty. It must know, however, that it has no me to lose\nin firming up a plan for Manipur, the state cannot be adrift.\nAt least 250 have died and 60,000 displaced, who continue to languish in more than\n350 relief camps, because of the ethnic violence that Singh's government failed to bring\nto anend. He abdicated his responsibility to resolve the conflict, and failed to present\nhimself as afairandimpartial chief minister committed to the welfare of all Manipuris.\nNow he leaves behind a state that has been re-militarised after years of attempting to\nmove away from insurgency. Ina recentstatement, the Ministryof Home Affairs acknowl\nedged that the deteriorating situation in Maiiipur has contributed to arisein insurgency\nacross the Northeast. Inthiscontext, Singh's departureisanecessary step for anewstart,\nservingasanimplicit admission of the state government's failure despite the presenceof\nthousands ofcentral security forces.\nThe crucial question now is who will take charge and how they will address the on-\ngoingconflict. The BJP leadership must carefully select a successor capable of bringingall\nSides back to the negotiating table. Regardlessof who takes over, however, there are sig-\nnificant structural challenges. The immediate priority must be demilitarisation, includ-\ning the swiftdisarmamentofinsurgent groups to prevent further violence Thousandsof\nlooted arms and ammunition, still unaccounted for, must be recovered. The larger goal,\nmoreover, is & restore the lost trust between the Meiteis and Kukis. Ethnic conflict can-\nnotberesolved through force The fault lines that existed before May 2023 have, over the\npast 21 months, deepened to theextent that neither Meiteis nor Kukis can venture out-\nside their respective zones of dominance. True normalcy will not be achieved merely\nwhen the violence subsides, but when members of both communities can retum home\nand live without fearor prejudice.",
+   "ocr_conf": 87.74712643678161,
+   "ocr_low_conf_share": 0.07816091954022988,
+   "headline": "(SOOD RIDDANCE",
+   "deck": "Biren Singh's resignation was long overdue. Whoever replaces him has theirtask cut out: Restore lost trust",
+   "byline": "",
+   "text": "BIREN SINGH'S RESIGNATIONas the Chief Ministerof Manipur,21 monthsafter the ongoing Meitei- Kuki ethnic conflict erupted in May 2023, is belated. Theneedie has finally moved in Manipur - Governor Ajay KumarBhallahas accepted his resignation and asked him m continuein office until \"altemative arrangements' are made, an outcome starkly different from June 2023, when Singh's resignation letter was tom up by supporters outside his rescence. While Singh's removalhad long been akeydemand of the Kuki-Zo-Hmar groups, the Centre let him continue in the hot seat. By all accounts, he could not stave off the pressure from some of his own party's MLAs eventually. His decision toquitcomes only five days after the Supreme Courtordered acentral forensic lab i analyse audio tapes, purportedly connecting the dots between Singh and the ethnic violence that convulsed his state. Singh may have seen the writing on the wall,\n\npose President's Rule amid the uncertainty. It must know, however, that it has no me to lose in firming up a plan for Manipur, the state cannot be adrift. At least 250 have died and 60,000 displaced, who continue to languish in more than 350 relief camps, because of the ethnic violence that Singh's government failed to bring to anend. He abdicated his responsibility to resolve the conflict, and failed to present himself as afairandimpartial chief minister committed to the welfare of all Manipuris. Now he leaves behind a state that has been re-militarised after years of attempting to move away from insurgency. Ina recentstatement, the Ministryof Home Affairs acknowl edged that the deteriorating situation in Maiiipur has contributed to arisein insurgency across the Northeast. Inthiscontext, Singh's departureisanecessary step for anewstart, servingasanimplicit admission of the state government's failure despite the presenceof thousands ofcentral security forces. The crucial question now is who will take charge and how they will address the ongoingconflict. The BJP leadership must carefully select a successor capable of bringingall Sides back to the negotiating table. Regardlessof who takes over, however, there are significant structural challenges. The immediate priority must be demilitarisation, including the swiftdisarmamentofinsurgent groups to prevent further violence Thousandsof looted arms and ammunition, still unaccounted for, must be recovered. The larger goal, moreover, is & restore the lost trust between the Meiteis and Kukis. Ethnic conflict cannotberesolved through force The fault lines that existed before May 2023 have, over the past 21 months, deepened to theextent that neither Meiteis nor Kukis can venture outside their respective zones of dominance. True normalcy will not be achieved merely when the violence subsides, but when members of both communities can retum home and live without fearor prejudice.",
+   "n_words": 428,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1624,
+      1136,
+      2061,
+      1179
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "VANDITA MISHRA",
+   "ocr_conf": 93.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "VANDITA MISHRA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      1250,
+      2232,
+      3305
+     ]
+    ],
+    "layout_words": 331,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE NARENDRA MODI-LED BJP and the\nArvind Kejrwal-led AAP \u2014 Delhi's victor and\nvanquished \u2014 rose tonational prominence at\nabout the same time. The Delhi 2025 verdict\nrepresentsanewtumin thestoryof two par-\nties, and two politics\nAfter 2014, the Modi-BJP rearranged the\npolitical vocabulary by, broadly, dividing the\npolitical party's appeal to voters into two\ncategories: One, the public provisioning of\nprivate goods alongside cash transfers and\nsubsidies that reach into households to\ntouch individual labharthis (beneficiaries).\nTwo, the projection of larger wholes thatof-\nfer belongingness, be it desh (nation) and\ndesh-in-videsh (India inthe world), or Hindu\nsamaj (religious identity). And a kind of re-\nligious nationalism that combines the two\nnarratives and sets up an Other or Others\n(Muslim and left-liberal/ \u201curban Naxal\u201d) to\ndefine itself in opposition to.\nThe space that stretches between the ben-\neficiary household and the larger imagined\ncommunity could be occupied, inno particu-\nlarorder, by issues of mehengui or price rise,\ncorruption, farmers\u2019 concems, unemploy-\nmentor berozari\nitis not thatths didn'thappen earlier. But\nthere was a difference after the BJP reset the\npolitical field. Earlier, too, parties targeted in-\ndividual voters through actual and proposed\nschemes but the BJP\u2019s remakingofthecitizen\ninto the \u201clabharthi\" carried the ring of a cer-\nemonial renaming with political conse-\nquences Similarly, parties had invoked larger\nwholes in the past \u2014 of class, caste, regional\nidentity\u2014butthe BJP\u2019s religious nationalism\nsucceeded in making them look smaller and\npaler. It did so by tapping into dormant or\nlong-simmeringemotions and impulses that\nhad not been fully confronted or addressed\nby mainstream politics.\nWhen the AAP burst onto the political\nscene in 2012, foughtits firstelection in 2013,\nalmost in tandem with the rise of the Modi-\nBJP at the Centre, it was a party bom of a na-\ntional \u201canti-comuption\u201dmovement Butit was\nalso a party of, by and for thecity \u2014theAnna\nHazare movement hadhecome a critical slfie\nmoment for Delhi.\nThe AAP, too, tweaked the political imag-\nination and script. It gave the issue of corrup-",
+   "ocr_conf": 85.53776435045317,
+   "ocr_low_conf_share": 0.08157099697885196,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "THE NARENDRA MODI-LED BJP and the Arvind Kejrwal-led AAP - Delhi's victor and vanquished - rose tonational prominence at about the same time. The Delhi 2025 verdict representsanewtumin thestoryof two parties, and two politics After 2014, the Modi-BJP rearranged the political vocabulary by, broadly, dividing the political party's appeal to voters into two categories: One, the public provisioning of private goods alongside cash transfers and subsidies that reach into households to touch individual labharthis (beneficiaries). Two, the projection of larger wholes thatoffer belongingness, be it desh (nation) and desh-in-videsh (India inthe world), or Hindu samaj (religious identity). And a kind of religious nationalism that combines the two narratives and sets up an Other or Others (Muslim and left-liberal/ \"urban Naxal\") to define itself in opposition to. The space that stretches between the beneficiary household and the larger imagined community could be occupied, inno particularorder, by issues of mehengui or price rise, corruption, farmers' concems, unemploy-mentor berozari itis not thatths didn'thappen earlier. But there was a difference after the BJP reset the political field. Earlier, too, parties targeted individual voters through actual and proposed schemes but the BJP's remakingofthecitizen into the \"labharthi\" carried the ring of a ceremonial renaming with political consequences Similarly, parties had invoked larger wholes in the past - of class, caste, regional identity - butthe BJP's religious nationalism succeeded in making them look smaller and paler. It did so by tapping into dormant or long-simmeringemotions and impulses that had not been fully confronted or addressed by mainstream politics. When the AAP burst onto the political scene in 2012, foughtits firstelection in 2013, almost in tandem with the rise of the Modi-BJP at the Centre, it was a party bom of a national \"anti-comuption\"movement Butit was also a party of, by and for thecity - theAnna Hazare movement hadhecome a critical slfie moment for Delhi. The AAP, too, tweaked the political imagination and script. It gave the issue of corrup-",
+   "n_words": 322,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      1252,
+      4181,
+      3228
+     ]
+    ],
+    "layout_words": 354,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Centre they supported the BJP. Eleven years\nlater, as the Delhi scoreboard shows, a large\nenough section of the people feels that the\nAAP let them down in its custodianship of\nthe city. At the same time, however, the\n2025 election campaign affirmed that the\nmiddie tierin the political imagination, the\nspace the AAP was a creation of and which\nit helped shape, is here to stay.\nlewasaudible in the insistent voier refraii\nabout the need for more hospitable and effi-\ncient, less dishevelled and cramping, public\nSpaces \u2014 voters spoke of the necessity of\nsmoother roads, better sewage systems,\ncleaner airand neighbourhoods. Itwas heard\nin the what-next queries about the mohalla\nclinic and renovated government school. It\nwas there in the exasperated if rhetorical\nquestion asked by young and old in the unau-\nthorised colony and middle class enclave:\nDidn't Kejriwal promise to make Delhi like\nLondonand Paris?\nThese concems made themseWes heard\nover and above the signs of boredom and de-\nSire forchange, the markers of growing Hindu\nconsolidation, and agitation over what some\ncall subsidies and others label as\u201c freebies\u201d.\nit will nowbethe BJP\u2019s challenge to tailor\nits politics to the city. Theeasy bit will be the\ncash transfer and subsidy \u2014 the Modi-BjP has\nrehearsed that part nationally and in other\nStates, for instance with the Ladki Bahin Yojana\nthat was declared the match-winner in\nMaharashtra most recently.\nBut going ahead, it will need to remem-\nber that the city is more than the sum of its\nindividual parts \u2014 and in comparison to the\nnation, more urgent and concrete. The city\nrequires, to begin with and most of all, a re-\nspect for apublcness that isinclusive and en-\ncompassing. Where caste and religion may\nmatter butare also made less bounded \u2014 by\nthe need to move ahead, the imperative not\ntostand still.\nThe AAP faied tolive up to its opportunity.\nThe BJP would do well to recognise that the\nAAP has givenits successor notjust Delhi's hot\nseat but also the building biocks of whatcoui\nbecome \u2014 if it is open to the possibility \u2014a\nnew layerin its political vocabulary.",
+   "ocr_conf": 87.46045197740114,
+   "ocr_low_conf_share": 0.07627118644067797,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Centre they supported the BJP. Eleven years later, as the Delhi scoreboard shows, a large enough section of the people feels that the AAP let them down in its custodianship of the city. At the same time, however, the 2025 election campaign affirmed that the middie tierin the political imagination, the space the AAP was a creation of and which it helped shape, is here to stay. lewasaudible in the insistent voier refraii about the need for more hospitable and efficient, less dishevelled and cramping, public Spaces - voters spoke of the necessity of smoother roads, better sewage systems, cleaner airand neighbourhoods. Itwas heard in the what-next queries about the mohalla clinic and renovated government school. It was there in the exasperated if rhetorical question asked by young and old in the unau-thorised colony and middle class enclave: Didn't Kejriwal promise to make Delhi like Londonand Paris? These concems made themseWes heard over and above the signs of boredom and de-Sire forchange, the markers of growing Hindu consolidation, and agitation over what some call subsidies and others label as\" freebies\". it will nowbethe BJP's challenge to tailor its politics to the city. Theeasy bit will be the cash transfer and subsidy - the Modi-BjP has rehearsed that part nationally and in other States, for instance with the Ladki Bahin Yojana that was declared the match-winner in Maharashtra most recently. But going ahead, it will need to remember that the city is more than the sum of its individual parts - and in comparison to the nation, more urgent and concrete. The city requires, to begin with and most of all, a respect for apublcness that isinclusive and encompassing. Where caste and religion may matter butare also made less bounded - by the need to move ahead, the imperative not tostand still. The AAP faied tolive up to its opportunity. The BJP would do well to recognise that the AAP has givenits successor notjust Delhi's hot seat but also the building biocks of whatcoui become - if it is open to the possibility - a new layerin its political vocabulary.",
+   "n_words": 349,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      401,
+      3124,
+      1444,
+      3210
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3252,
+      1528,
+      4288
+     ],
+     [
+      319,
+      4345,
+      1529,
+      4792
+     ]
+    ],
+    "layout_words": 423
+   },
+   "headline_raw": "\u2018TURNING ON THE HEAT",
+   "deck_raw": "",
+   "body_raw": "Chhattisgarh is stepping up the fight against Maoists. It must\nnot lower its guard, ensure that civilians are not in harm's way\nINCE DECEMBER 2023, when it assumed office in Chhattisgarh, the Vishnu Deo\nSai govemment has mounted a concerted offensive to neutralise Maoist insur-\ngents. According to the state government's records, nearly 280 militants have\nbeen killed by security forces, more than 1,000 Maoists have been arrested and\n925 insurgents have surrendered. In the latest crackdown on Sunday, the security forces\ntargeted a Maoist stronghold inside the indravati National Park in Bijapurdistrict. Thirty-one\ninsurgents were reportedly killed in the operations, which made use of police camps in the\nvicinity of the forest. In the past year, the security forces have used these base camps as\nlaunchpads for attacks on Maoist strongholds. These have ended the security vacuum in\npartsof Bastarand restricted the movementofinsurgents in their erstwhile strongholds, in-\ncluding their headquarters in Abujhmarh and South Bastar.\nTherecent operations have been enabled by greater Coordination between the security\nforces from the state and the Centre, including the BSF, CRPF, and ITBP. The fact also is that\nin the last 15 years orso, left wing extremism has been running out of steam. From being\n\u201cthe greatest intemal secuiniy threat toournation\u201d \u2014 asthe then Prime Minster Manmonan\nSingh described it in 2009 \u2014 Maoism is today restricted to afew pockets in Chhattisgarh and\nadjoining areas of Maharashtra The number of Maoist-affected districts has come down\nfrom more than 220 in the early 2000s to less than 40, with violence largely being reported\nfrom about 20 districts. The Maoist movement isno longer muchofa force inits erstwhile\nstrongholds in Telangana, Andhra Pradesh, Jharkhand, and Bihar. South Chhattisgarh's ge-\n\nportand communication facilities \u2014 and the economicdeprivation of the peopledid allow\nthe insurgents to gain some foothold. However here too, their constant recourse toviolence\nand failure to recognise the strength of democratic institutions worked against the insur-\ngents. In the last five years, the cadre base of the Maoists has shrunk sharply.\nChhattisgarh has been alate entrant in anti-Maoist operations. In the first decade of\nthiscentury, the state wasted precious time on civilian militias like the Salwa Judum be-\nfore course correcting to train its police force and reaching out to people with welfare\nmeasures. The state govemment must not lower its guard. But even as it tums on the\nheat against insurgents, it must take care to ensure that civilians are not in harm's way.\nFailure to take such precautions could mean playing into the hands of the Maoists.",
+   "ocr_conf": 86.99764150943396,
+   "ocr_low_conf_share": 0.08490566037735849,
+   "headline": "'TURNING ON THE HEAT",
+   "deck": "",
+   "byline": "",
+   "text": "Chhattisgarh is stepping up the fight against Maoists. It must not lower its guard, ensure that civilians are not in harm's way INCE DECEMBER 2023, when it assumed office in Chhattisgarh, the Vishnu Deo Sai govemment has mounted a concerted offensive to neutralise Maoist insurgents. According to the state government's records, nearly 280 militants have been killed by security forces, more than 1,000 Maoists have been arrested and 925 insurgents have surrendered. In the latest crackdown on Sunday, the security forces targeted a Maoist stronghold inside the indravati National Park in Bijapurdistrict. Thirty-one insurgents were reportedly killed in the operations, which made use of police camps in the vicinity of the forest. In the past year, the security forces have used these base camps as launchpads for attacks on Maoist strongholds. These have ended the security vacuum in partsof Bastarand restricted the movementofinsurgents in their erstwhile strongholds, including their headquarters in Abujhmarh and South Bastar. Therecent operations have been enabled by greater Coordination between the security forces from the state and the Centre, including the BSF, CRPF, and ITBP. The fact also is that in the last 15 years orso, left wing extremism has been running out of steam. From being \"the greatest intemal secuiniy threat toournation\" - asthe then Prime Minster Manmonan Singh described it in 2009 - Maoism is today restricted to afew pockets in Chhattisgarh and adjoining areas of Maharashtra The number of Maoist-affected districts has come down from more than 220 in the early 2000s to less than 40, with violence largely being reported from about 20 districts. The Maoist movement isno longer muchofa force inits erstwhile strongholds in Telangana, Andhra Pradesh, Jharkhand, and Bihar. South Chhattisgarh's geportand communication facilities - and the economicdeprivation of the peopledid allow the insurgents to gain some foothold. However here too, their constant recourse toviolence and failure to recognise the strength of democratic institutions worked against the insurgents. In the last five years, the cadre base of the Maoists has shrunk sharply. Chhattisgarh has been alate entrant in anti-Maoist operations. In the first decade of thiscentury, the state wasted precious time on civilian militias like the Salwa Judum before course correcting to train its police force and reaching out to people with welfare measures. The state govemment must not lower its guard. But even as it tums on the heat against insurgents, it must take care to ensure that civilians are not in harm's way. Failure to take such precautions could mean playing into the hands of the Maoists.",
+   "n_words": 419,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3725,
+      3271,
+      4175,
+      3306
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "vandita.mishra@expressindiacom",
+   "ocr_conf": 65.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "vandita.mishra@expressindiacom",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      3500,
+      4033,
+      3626
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2275,
+      3672,
+      4157,
+      3733
+     ]
+    ],
+    "body_boxes": [
+     [
+      2321,
+      4410,
+      2825,
+      5061
+     ],
+     [
+      2319,
+      5062,
+      2833,
+      5257
+     ],
+     [
+      2924,
+      3904,
+      3532,
+      4374
+     ],
+     [
+      2920,
+      4421,
+      3528,
+      5246
+     ],
+     [
+      3572,
+      3904,
+      4181,
+      4213
+     ],
+     [
+      3573,
+      4222,
+      4181,
+      5129
+     ],
+     [
+      3753,
+      5172,
+      4180,
+      5247
+     ],
+     [
+      3572,
+      5530,
+      4176,
+      5604
+     ],
+     [
+      3572,
+      5651,
+      4180,
+      6158
+     ]
+    ],
+    "layout_words": 562
+   },
+   "headline_raw": "NoT A DEAL, A RELATIONSHIP",
+   "deck_raw": "India-EFTA trade agreement opens the door to long-term, multifaceted cooperation",
+   "body_raw": "What makes the\nEFTA- India partnership\nunique is its long-term focus.\nThis is not merely a\ntransactional arrangement to\nimprove market access, but\nthe basis for along-term\nrelationship grounded in\ntrust, shared values anda\nvision for mutual growth.\nThe EFTA desk embodies\nthis commitment by\nfostering connections that\n\nbenefit economies and\nsocieties of all parties, not\njust economically but socially\nand environmentally as well.\n\ntion; it represents acommitment t an ambi-\ntious, win-win partnership that challenges\nboth sides to think bigger, aim higher and go\nbeyond businessas usual.\nEven before the TEPA has formally entered\ninto force, its impact is visible. Its signing was\nnot merely the conclusion of a negotiating\nprocess; it is the beginning of a new era of\npartnership. Businesses on both sides are\npreparing & capitalise on the agreement's\nbenefits, including reduced tariffs,steamlined\ncustoms procedures, enhanced intellectual\n\ntainable trade practices. EFTA businesses are\nalso preparing to grasp fully themediumand\nlong-term investmentopportunitiesin India,\nrecalling the shared goals in the TEPAof in-\nvesting USD 100 billion and creating 1 milton\njobs in India over thenext 15 t& 20 years.\nThe momentum has become evident\nthis week, with more than 100 EFTA busi-\nnesses visiting India to explore the oppor-\ntunities it offers. Such proactive interest is\nthe result of deliberate efforts by the EFTA\nStates to raise awareness of the TEPA\u2019s po-\ntentialand benefits. Events and outreachac-\ntivities have laid the groundwork for in-\ncreased collaboration.\nThe EFTA desk will be pivotal in turning\nthese opportunities into results. From facili-\ntating partnerships to guiding regulatory\nframeworks, the EFTA desk willserve asacrit-\nical resource for businesses navigating the\ncomplexities of anew market.\n\nThe TEPA allows both EFTAandIndia & go\nbeyond the traditional rationale of trade\nagreements.ForEFTA, thismeanssharingcut-\nting-edge technologies, innovation and ex-\npertise with India's vibranteconomy. For India,\nit means creating progressive and sustainable\nconditions weicome large-scak investment\nand collaboration from iceland, Liechtenstein,\n\nNorway and Switzerland.\nWhat makes the EFTA-India partnership\nunique is its long-term focus. This is not\nmerely a transactional arrangement to im-\nprove marketaccess, but the basis for a long-\nterm relationship grounded in trust, shared\nvalues and a vision for mutual growth. The\nEFTA desk embodies this commitment by fos-\ntering connections that benefit economies\nand societies of all parties, not just economi-\ncally but socially and environmentailyas well\nAs we celebrate the opening of the EFTA\ndesk, we are reminded that this isjust the be-\nginning of a promising process. Just as Swiss\nprecision technology played a crucial role in\nIndia's moon mission, Norwegian and\nIcelandic expertise in renewable energy can\nsupport India's green transition. Building a\ntransformative win-win partnership will re-\nQuire sustained joint efforts. EFTA iscommit-\nted to working alongside India t unlock new\nOpportunities, drive innovation and contribute\ntothe sustainable prosperity of our societies.\n\nThe wniter is secretary-general\nEuropean Free Trade Association\n\ning separatist Tamil guerillasin the north and\neast of the country.\n\nGOLD SMUGGLING\nMOHD ALI ABDI, second secretary inthe\nSomali embassy here, will shortly be sent\nback as he was apprehended at the Central\nWarehousing Corporation (Gurgaon Road)\nfor trying t smuggle 2,000 tolas of gold, val-\nued at more than Rs 50 lakh, in his house-\nhold articles. Abdi, who arrived last year on\nhis first posting, in his canfecdonal statement\nsaid he was \u201cduped\u201d by the proprietor of\nCapital Refrigeration, Vijay Kumar Gujral,\ninto smuggling gold from Hong Kong.",
+   "ocr_conf": 90.644128113879,
+   "ocr_low_conf_share": 0.046263345195729534,
+   "headline": "NoT A DEAL, A RELATIONSHIP",
+   "deck": "India-EFTA trade agreement opens the door to long-term, multifaceted cooperation",
+   "byline": "",
+   "text": "What makes the EFTA- India partnership unique is its long-term focus. This is not merely a transactional arrangement to improve market access, but the basis for along-term relationship grounded in trust, shared values anda vision for mutual growth. The EFTA desk embodies this commitment by fostering connections that\n\nbenefit economies and societies of all parties, not just economically but socially and environmentally as well.\n\ntion; it represents acommitment t an ambitious, win-win partnership that challenges both sides to think bigger, aim higher and go beyond businessas usual. Even before the TEPA has formally entered into force, its impact is visible. Its signing was not merely the conclusion of a negotiating process; it is the beginning of a new era of partnership. Businesses on both sides are preparing & capitalise on the agreement's benefits, including reduced tariffs,steamlined customs procedures, enhanced intellectual\n\ntainable trade practices. EFTA businesses are also preparing to grasp fully themediumand long-term investmentopportunitiesin India, recalling the shared goals in the TEPAof investing USD 100 billion and creating 1 milton jobs in India over thenext 15 t& 20 years. The momentum has become evident this week, with more than 100 EFTA businesses visiting India to explore the opportunities it offers. Such proactive interest is the result of deliberate efforts by the EFTA States to raise awareness of the TEPA's potentialand benefits. Events and outreachactivities have laid the groundwork for increased collaboration. The EFTA desk will be pivotal in turning these opportunities into results. From facilitating partnerships to guiding regulatory frameworks, the EFTA desk willserve asacritical resource for businesses navigating the complexities of anew market.\n\nThe TEPA allows both EFTAandIndia & go beyond the traditional rationale of trade agreements.ForEFTA, thismeanssharingcutting-edge technologies, innovation and expertise with India's vibranteconomy. For India, it means creating progressive and sustainable conditions weicome large-scak investment and collaboration from iceland, Liechtenstein,\n\nNorway and Switzerland. What makes the EFTA-India partnership unique is its long-term focus. This is not merely a transactional arrangement to improve marketaccess, but the basis for a long-term relationship grounded in trust, shared values and a vision for mutual growth. The EFTA desk embodies this commitment by fostering connections that benefit economies and societies of all parties, not just economically but socially and environmentailyas well As we celebrate the opening of the EFTA desk, we are reminded that this isjust the beginning of a promising process. Just as Swiss precision technology played a crucial role in India's moon mission, Norwegian and Icelandic expertise in renewable energy can support India's green transition. Building a transformative win-win partnership will re-Quire sustained joint efforts. EFTA iscommitted to working alongside India t unlock new Opportunities, drive innovation and contribute tothe sustainable prosperity of our societies.\n\nThe wniter is secretary-general European Free Trade Association\n\ning separatist Tamil guerillasin the north and east of the country.\n\nGOLD SMUGGLING MOHD ALI ABDI, second secretary inthe Somali embassy here, will shortly be sent back as he was apprehended at the Central Warehousing Corporation (Gurgaon Road) for trying t smuggle 2,000 tolas of gold, valued at more than Rs 50 lakh, in his household articles. Abdi, who arrived last year on his first posting, in his canfecdonal statement said he was \"duped\" by the proprietor of Capital Refrigeration, Vijay Kumar Gujral, into smuggling gold from Hong Kong.",
+   "n_words": 542,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1618,
+      3902,
+      2227,
+      5245
+     ]
+    ],
+    "layout_words": 200,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ON AUGUST 23, 2023, India made history\nwhen it became the first country to land a\nspacecraft near the moon's south pole. The\nmission not only marked India's emergence\nasa space power but also highlightedits grow-\ning capacity for innovation. twas also a testa-\nment to how global trade, collaboration and\nadvanced technologies boost ambitious\nachievements, propelling nations to new\nheights. The same principle applies beyond\nspace exploration, extending to economic\npartnerships that hamess expertise, invest-\nment and innovation.\nThe economic ties between the four\nEuropean Free Trade Association (EFTA)\nstates (Iceland, Liechtenstein, Norway and\nSwitzerland) and India hold immense po-\ntential. The EFTA countries may have small\nmarkets, but they are world leaders in ad-\nvanced technologies and major foreign in-\nvestors. EFTA industries excel in areas such\nas precision engineering renewable energy,\npharmaceuticals and financial services \u2014\nsectors that align with India's growth ambi-\ntions and innovation-driven economy. These\nstrengths position EFTA asa valuable part-\nner in supporting India's technological ad-\nyancement, sustainahility efforts and invest-\nment landscape.\nThe recently signed EFTA-India Trade and\nEconomic Partnership Agreement (TEPA)\nopens the door tolong-term cooperation. The\nlaunch of the EFTA desk in Indiaon February\n1Omarksa step beyond typical trade facilita-",
+   "ocr_conf": 89.165,
+   "ocr_low_conf_share": 0.05,
+   "headline": "",
+   "deck": "",
+   "byline": "ON AUGUST 23, 2023, India made history",
+   "text": "when it became the first country to land a spacecraft near the moon's south pole. The mission not only marked India's emergence asa space power but also highlightedits growing capacity for innovation. twas also a testament to how global trade, collaboration and advanced technologies boost ambitious achievements, propelling nations to new heights. The same principle applies beyond space exploration, extending to economic partnerships that hamess expertise, investment and innovation. The economic ties between the four European Free Trade Association (EFTA) states (Iceland, Liechtenstein, Norway and Switzerland) and India hold immense potential. The EFTA countries may have small markets, but they are world leaders in advanced technologies and major foreign investors. EFTA industries excel in areas such as precision engineering renewable energy, pharmaceuticals and financial services - sectors that align with India's growth ambitions and innovation-driven economy. These strengths position EFTA asa valuable partner in supporting India's technological adyancement, sustainahility efforts and investment landscape. The recently signed EFTA-India Trade and Economic Partnership Agreement (TEPA) opens the door tolong-term cooperation. The launch of the EFTA desk in Indiaon February 1Omarksa step beyond typical trade facilita-",
+   "n_words": 183,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      469,
+      4898,
+      1380,
+      4982
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      5027,
+      1532,
+      6145
+     ]
+    ],
+    "layout_words": 327
+   },
+   "headline_raw": "NOT FOR BEGINNERS",
+   "deck_raw": "",
+   "body_raw": "Even a decade of performing in India couldn't prepare Ed\nSheeran for what happened when he tried busking in Bengaluru\nNDIAIS NOT for beginners. So goes a viral meme featuring a selection of images: A\nman getting his beard shaved ona bike parked by the side ofa road; another riding\na cow down a busy street, a notice at a petrol pump that reads \u201cyou can't get petrol\nin plastic bottles here\u201d. Even beyond the stereotypes, the uninitiated should antici-\npate sights and experiences that happen, as the 1998 song featuring Govinda put it, \u201conly\nin India\u201d. On Sunday, another image \u2014 of international pop star Ed Sheeran being inter-\nrupted by abeatcop while busking on Church Street in Bengaluru \u2014 joined the ranks.\nBut Sheeran, who began his career busking inthe UK and has sincedone surprise per-\nformances across the world, is no stranger to India. He marked his concert debut here in\n2015 and has retumed several times. He has collaborated with many Indian artists, even\nSinging in Hindi, Telugu and Punjabi. Yet, the country managed to take him by surprise\nwhen, despite permission to perform \u2014 ashe claimed ina statement later \u2014his street con-\ncertwas unceremoniously ended when acop pulled the plug onit. This ishardly aone-off\nexperience for intemational artists. In2015, comedian Jerry Seinfeid's first-ever perform-\nance in India was cancelled over parking isaiesin Mumbai. Another comic, Trevor Noah, was\nlate to hisown showin Bengaluru after getting stuck ina traffic jam and had to call offtwo\nshows over technical issues. In India, the biggest of stars should be prepared for humbling\nexperiences, whether at the handsof a cop orjust plain uncontrollable circumstances,\nThe lesson, for Sheeran and others, isthat in India, even adecade is not long enough.\nSheeran, it turns out, is still afumbling beginner. But finally, like he saidin hisstatement,\n\u201cit's all good\u201d \u2014 after all, it can be constructive to have an everyman moment. In India,\nthere is no dearth of them.",
+   "ocr_conf": 88.07339449541284,
+   "ocr_low_conf_share": 0.07951070336391437,
+   "headline": "NOT FOR BEGINNERS",
+   "deck": "",
+   "byline": "",
+   "text": "Even a decade of performing in India couldn't prepare Ed Sheeran for what happened when he tried busking in Bengaluru NDIAIS NOT for beginners. So goes a viral meme featuring a selection of images: A man getting his beard shaved ona bike parked by the side ofa road; another riding a cow down a busy street, a notice at a petrol pump that reads \"you can't get petrol in plastic bottles here\". Even beyond the stereotypes, the uninitiated should anticipate sights and experiences that happen, as the 1998 song featuring Govinda put it, \"only in India\". On Sunday, another image - of international pop star Ed Sheeran being interrupted by abeatcop while busking on Church Street in Bengaluru - joined the ranks. But Sheeran, who began his career busking inthe UK and has sincedone surprise performances across the world, is no stranger to India. He marked his concert debut here in 2015 and has retumed several times. He has collaborated with many Indian artists, even Singing in Hindi, Telugu and Punjabi. Yet, the country managed to take him by surprise when, despite permission to perform - ashe claimed ina statement later - his street concertwas unceremoniously ended when acop pulled the plug onit. This ishardly aone-off experience for intemational artists. In2015, comedian Jerry Seinfeid's first-ever performance in India was cancelled over parking isaiesin Mumbai. Another comic, Trevor Noah, was late to hisown showin Bengaluru after getting stuck ina traffic jam and had to call offtwo shows over technical issues. In India, the biggest of stars should be prepared for humbling experiences, whether at the handsof a cop orjust plain uncontrollable circumstances, The lesson, for Sheeran and others, isthat in India, even adecade is not long enough. Sheeran, it turns out, is still afumbling beginner. But finally, like he saidin hisstatement, \"it's all good\" - after all, it can be constructive to have an everyman moment. In India, there is no dearth of them.",
+   "n_words": 323,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1681,
+      5436,
+      2151,
+      5470
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "I -. daumaaes Penner -wa |",
+   "ocr_conf": 33.166666666666664,
+   "ocr_low_conf_share": 0.6666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "I -. daumaaes Penner -wa",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2271,
+      5397,
+      3584,
+      5485
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      5520,
+      2581,
+      5565
+     ],
+     [
+      2923,
+      5847,
+      3260,
+      5891
+     ],
+     [
+      2273,
+      6004,
+      2869,
+      6048
+     ]
+    ],
+    "body_boxes": [
+     [
+      2272,
+      5607,
+      2878,
+      5960
+     ],
+     [
+      2272,
+      6083,
+      2875,
+      6157
+     ],
+     [
+      2920,
+      5528,
+      3527,
+      5800
+     ],
+     [
+      2922,
+      5925,
+      3528,
+      6158
+     ]
+    ],
+    "layout_words": 149
+   },
+   "headline_raw": "FEBRUARY 11, 1985, FoRTy YEARS AGO",
+   "deck_raw": "STATE POLLS\nARMS FLIGHT\nREBELS EXPELLED IN MP",
+   "body_raw": "THE PRIME MINISTER, Rajiv Gandhi,\nlaunched his party's poll campaign with so-\ngansofa cleaner public life and afairdeal for\nwomen and youth. He said there should be\namicable relations between the Centre and\nstates forbalanced development. States like\nBengal, Kamataka and Andhra Pradesh with\nnon-Congress(!) governments were econom-\nically \u201cmoving in reverse gear\u201d, he said.\n\nTHREE FORMER MINISTERS, eight sitting\nMLAs and a former MP were among 112\n\nCongress (I) rebels expelled from the party's\nprimary membership for contesting against\nparty nominees for the coming Assembly\nelections in Madhya Pradesh. According to a\nPCC I)release, Congress rebels are contesting\nagainst party nomineesin 90of the state's 320\nAssembly seats.\n\nTHE ZAIRE CARGO aircraftcanyingarms from\nPortugal to Sn Lanka, which was forced to land\natTrivand num airport because ofa fuelshort-\nage, was allowed toleave. A defence ministry\nofficial told Reuters that the plane carried\nmainly ammunition for secur ity forces fignit-",
+   "ocr_conf": 87.54362416107382,
+   "ocr_low_conf_share": 0.0738255033557047,
+   "headline": "FEBRUARY 11, 1985, FoRTy YEARS AGO",
+   "deck": "STATE POLLS ARMS FLIGHT REBELS EXPELLED IN MP",
+   "byline": "",
+   "text": "THE PRIME MINISTER, Rajiv Gandhi, launched his party's poll campaign with sogansofa cleaner public life and afairdeal for women and youth. He said there should be amicable relations between the Centre and states forbalanced development. States like Bengal, Kamataka and Andhra Pradesh with non-Congress(!) governments were economically \"moving in reverse gear\", he said.\n\nTHREE FORMER MINISTERS, eight sitting MLAs and a former MP were among 112\n\nCongress (I) rebels expelled from the party's primary membership for contesting against party nominees for the coming Assembly elections in Madhya Pradesh. According to a PCC I)release, Congress rebels are contesting against party nomineesin 90of the state's 320 Assembly seats.\n\nTHE ZAIRE CARGO aircraftcanyingarms from Portugal to Sn Lanka, which was forced to land atTrivand num airport because ofa fuelshortage, was allowed toleave. A defence ministry official told Reuters that the plane carried mainly ammunition for secur ity forces fignit-",
+   "n_words": 146,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 22.3,
+ "flags": [
+  "27% of body text had no headline above it",
+  "3 kept article(s) without a headline"
+ ]
+}

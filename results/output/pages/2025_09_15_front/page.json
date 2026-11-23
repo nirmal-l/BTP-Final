@@ -1,0 +1,529 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_15_front",
+ "source_file": "2025-09-15_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-15_front.png",
+ "date": "2025-09-15",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1291,
+  "n_lines": 416,
+  "mean_line_conf": 90.48561347278452,
+  "orphan_words": 0,
+  "body_words_total": 1666
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1446,
+      4174,
+      1828
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2767,
+      1371,
+      3682,
+      1410
+     ]
+    ],
+    "body_boxes": [
+     [
+      2764,
+      1888,
+      3144,
+      2216
+     ],
+     [
+      2765,
+      2295,
+      3157,
+      2365
+     ],
+     [
+      2764,
+      2414,
+      3205,
+      3114
+     ],
+     [
+      3252,
+      2573,
+      3693,
+      3114
+     ],
+     [
+      3902,
+      2677,
+      4155,
+      2757
+     ],
+     [
+      3776,
+      2810,
+      4153,
+      3076
+     ]
+    ],
+    "layout_words": 202
+   },
+   "headline_raw": "PM makes twin pitch ahead of\nAssembly elections in Assam:\nDevelopment, anti-infiltration",
+   "deck_raw": "UNVEILS PROJECTS WORTH \u20ac18,530 CRORE",
+   "body_raw": "Targets Cong:\n\u2018It wants India\u2019s\nfuture to be\ndecided by\ninfiltrators\u2019\n\nSUKRITA BARUAH\nGUWAHATI, SEPTEMBER 14\n\nINAUGURATING AND laying the\nfoundation for a slew of projects\nworth Rs 18,530 crore in Assam\non Sunday, Prime Minister\nNarendra Modi focused on two\nissues \u2014 development and \u201cin-\nfiltration\u201d \u2014 in his address to the\npeople of the state, which goes\nto the polls next year.\nThe Prime Minister arrived in\nAssam on Saturday after visiting\nManipur and had participated in\nthe birth centenary celebrations\nof legendary singer, composer\nand filmmaker Bhupen Hazarika.\nAt Mangaldoi in Assam's\nDarrang district on Sunday, he\nlaid the foundation stones of var-\n\nious projects, including the\nDarrang Medical College and\nHospital, the Guwahati Ring\nRoad Project, and the\nKuruwa-Narengi Bridge over the\nBrahmaputra.\nSpeaking at the event, he\nechoed a statement he had made\nthe previous day in strife-torn\nManipur \u2014 the 21st century is\nNortheast India\u2019s time for growth\nand development. He also said\nthat the BJP government is\nCONTINUEDON PAGE2\n\nEmphasis on\n|@ connectivity\n\nAMAJOR part of BJP\u2019s devel-\nopment plank that the PM\nflagged wasconnectivity in\nNortheast. He promised fo-\ncus on \u201croad, rail, air, 5G in-\ntemet, broadband\u201d to make\nlife and business smoother.",
+   "ocr_conf": 92.39108910891089,
+   "ocr_low_conf_share": 0.0297029702970297,
+   "headline": "PM makes twin pitch ahead of Assembly elections in Assam: Development, anti-infiltration",
+   "deck": "UNVEILS PROJECTS WORTH \u20ac18,530 CRORE",
+   "byline": "SUKRITA BARUAH; GUWAHATI, SEPTEMBER 14",
+   "text": "Targets Cong: 'It wants India's future to be decided by infiltrators'\n\nINAUGURATING AND laying the foundation for a slew of projects worth Rs 18,530 crore in Assam on Sunday, Prime Minister Narendra Modi focused on two issues - development and \"infiltration\" - in his address to the people of the state, which goes to the polls next year. The Prime Minister arrived in Assam on Saturday after visiting Manipur and had participated in the birth centenary celebrations of legendary singer, composer and filmmaker Bhupen Hazarika. At Mangaldoi in Assam's Darrang district on Sunday, he laid the foundation stones of various projects, including the Darrang Medical College and Hospital, the Guwahati Ring Road Project, and the Kuruwa-Narengi Bridge over the Brahmaputra. Speaking at the event, he echoed a statement he had made the previous day in strife-torn Manipur - the 21st century is Northeast India's time for growth and development. He also said that the BJP government is CONTINUEDON PAGE2\n\nEmphasis on @ connectivity\n\nAMAJOR part of BJP's development plank that the PM flagged wasconnectivity in Northeast. He promised focus on \"road, rail, air, 5G intemet, broadband\" to make life and business smoother.",
+   "n_words": 192,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      415,
+      1800,
+      678,
+      1849
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      368,
+      1902,
+      716,
+      2241
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "CXCHANGE",
+   "deck_raw": "",
+   "body_raw": "\u2018Nitish should\ncontinue to be CM\nbut should consider\nhis party\u2019s leadership\nissue\u2019\nUPENDRAKUSHWAHA\nRASHTRIYALOK MORCHA LEADER\nPAGE 13",
+   "ocr_conf": 85.0,
+   "ocr_low_conf_share": 0.10526315789473684,
+   "headline": "CXCHANGE",
+   "deck": "",
+   "byline": "",
+   "text": "'Nitish should but should consider his party's leadership issue' UPENDRAKUSHWAHA RASHTRIYALOK MORCHA LEADER",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2358,
+      762,
+      2766
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      562,
+      2805,
+      755,
+      3033
+     ],
+     [
+      322,
+      3124,
+      747,
+      3193
+     ],
+     [
+      318,
+      3242,
+      762,
+      4379
+     ],
+     [
+      322,
+      4482,
+      551,
+      4514
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "Senior Finance\nMinistry official\nkilled, wife\ninjured as BAW\nhits his bike",
+   "deck_raw": "",
+   "body_raw": "Navjot Singh\nwas Deputy\nSecretary in\nDepartment\nof Economic\nAffairs\n\nEXPRESS NEWS SERVICE\nNEW DELHI, SEPTEMBER 14\n\nA SENIOR Finance Ministry offi-\ncial was killed and his wife in-\njured when a BMW hit theirmo-\ntorcycle inthe Delhi Cantonment\narea on Sunday, police said.\nThe victim has been identi-\nfied as Navjot Singh, 57, whowas\nposted as Deputy Secretary in\nthe Department of Economic\nAffairs under the Finance\nMinistry. His wife is reported to\nhave suffered serious injuries.\nThe BMW was being driven\nby a woman, identified as\nGaganpreet, who was accompa-\nnied by her husband and two\nyoung children, police said. An\nFIR has been registered, but po-\nlice did not disclose the sections.\nAccording to a police officer,\nSingh and his wife had gone to\nthe Bangla Sahib Gurudwara in\nthe morning and then stopped\nfor lunch at Karnataka Bhavan.\nThecouple left Karnataka Bhavan\nat about 1:15 pm and were head-\ning to their home in Hari Nagar\nwhen the accident occurred.\nCONTINUED ON PAGE2\n\nEXPLAINED",
+   "ocr_conf": 94.36309523809524,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Senior Finance Ministry official killed, wife injured as BAW hits his bike",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, SEPTEMBER 14",
+   "text": "Navjot Singh was Deputy Secretary in Department of Economic Affairs\n\nA SENIOR Finance Ministry official was killed and his wife injured when a BMW hit theirmotorcycle inthe Delhi Cantonment area on Sunday, police said. The victim has been identified as Navjot Singh, 57, whowas posted as Deputy Secretary in the Department of Economic Affairs under the Finance Ministry. His wife is reported to have suffered serious injuries. The BMW was being driven by a woman, identified as Gaganpreet, who was accompanied by her husband and two young children, police said. An FIR has been registered, but police did not disclose the sections. According to a police officer, Singh and his wife had gone to the Bangla Sahib Gurudwara in the morning and then stopped for lunch at Karnataka Bhavan. Thecouple left Karnataka Bhavan at about 1:15 pm and were heading to their home in Hari Nagar when the accident occurred.\n\nEXPLAINED",
+   "n_words": 151,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2765,
+      3187,
+      4165,
+      3397
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2764,
+      3482,
+      3111,
+      3552
+     ],
+     [
+      2763,
+      3600,
+      3204,
+      4143
+     ],
+     [
+      3740,
+      4247,
+      3983,
+      4279
+     ],
+     [
+      3739,
+      4887,
+      4148,
+      5059
+     ]
+    ],
+    "layout_words": 80
+   },
+   "headline_raw": "\u2018Delhi much closer now\u2019: Aizawl on\nRailways\u2019 map, some hopes & fears",
+   "deck_raw": "",
+   "body_raw": "DHEERAJ MISHRA\nAIZAWL, SEPTEMBER 14\n\nSAIRANG IN Mizoram, a lavishly\ngreen mountainous town with\nmeandering streams, has always\nbeen quiet \u2014 until Saturday,\nwhen a crimson red train\nchugged through.\nThe Sairang-Anand Vihar\nRajdhani Express was the first to\nrunin the state as Prime Minister\nNarendra Modi inaugurated the\nambitious 51.38-km Bairabi-\nSairang rail line, linking the state\ncapital Aizawl to the Indian\nCONTINUED ONPAGE 12\n\nTHE WORLD\n\nU.S. AND CHINA HAIL\nNEPAL TRANSITION\nAS KEY PARTIES\nPROTEST PAGE 10",
+   "ocr_conf": 92.975,
+   "ocr_low_conf_share": 0.025,
+   "headline": "'Delhi much closer now': Aizawl on Railways' map, some hopes & fears",
+   "deck": "",
+   "byline": "DHEERAJ MISHRA; AIZAWL, SEPTEMBER 14",
+   "text": "SAIRANG IN Mizoram, a lavishly green mountainous town with meandering streams, has always been quiet - until Saturday, when a crimson red train chugged through. The Sairang-Anand Vihar Rajdhani Express was the first to runin the state as Prime Minister Narendra Modi inaugurated the ambitious 51.38-km Bairabi-Sairang rail line, linking the state capital Aizawl to the Indian\n\nTHE WORLD\n\nU.S. AND CHINA HAIL NEPAL TRANSITION AS KEY PARTIES PROTEST PAGE 10",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      3388,
+      2714,
+      3448
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1785,
+      3481,
+      1922,
+      3538
+     ],
+     [
+      1016,
+      3595,
+      1251,
+      3699
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      3797,
+      1131,
+      3867
+     ],
+     [
+      809,
+      3915,
+      1250,
+      4149
+     ],
+     [
+      1297,
+      3481,
+      1739,
+      4142
+     ],
+     [
+      1786,
+      3581,
+      2208,
+      3750
+     ],
+     [
+      1787,
+      3838,
+      2227,
+      4142
+     ],
+     [
+      2318,
+      3532,
+      2676,
+      3566
+     ],
+     [
+      2411,
+      3607,
+      2579,
+      3635
+     ]
+    ],
+    "layout_words": 180
+   },
+   "headline_raw": "Express solidarity... dedicate win to Armed Forces: Captain Suryakumar Yadav",
+   "deck_raw": "INSIDE\nEXPRESS\nATASIACUP",
+   "body_raw": "SANDIP G\nDUBAI, SEPTEMBER 14\n\nTHE MATCH ended as it began \u2014\nwith no handshake. India cap-\ntain Suryakumar Yadav slog-\nswept spinner Sufiyan Mugeem\nto complete an utterly one-\nsided, seven-wicket victory over\n\nPakistan in Dubai atthe Asia Cup\non Sunday. He remained uncon-\nquered on 47 off 37 balls, before\nwalking away, without shaking\nhands, with Pakistan's players or\ntheir captain. The match had be-\ngun thus, with both Yadav and\nhis Pakistan counterpart Salman\nAgha taking no initiativeto shake\nhands or even greet each other\nat the toss.\nAnd, driving the point home,\nYadav later brought up the\nPahalgam terror attack and ded-\nicated the victory to the Armed\nForces, \u201cWe stand with the fam-\nilies of the victims of the\n\nOPP SLAMS GOVT,\nSAYS MATCH INSULT\nTO PAHALGAM\nVICTIMS Pace 3\n\nPahalgam attack. We express our\nsolidarity and we want to dedi-\ncate today\u2019s win to the Armed\nForces,\u201d he said, speaking to the\nbroadcaster after the win.\nThis was the first India-\nPakistan cricket match since the\nCONTINUED ON PAGE 2\n\nBUSINESS AS USUAL\n\nBYyUNNY",
+   "ocr_conf": 90.91111111111111,
+   "ocr_low_conf_share": 0.03888888888888889,
+   "headline": "Express solidarity... dedicate win to Armed Forces: Captain Suryakumar Yadav",
+   "deck": "EXPRESS ATASIACUP",
+   "byline": "SANDIP G; DUBAI, SEPTEMBER 14",
+   "text": "THE MATCH ended as it began - with no handshake. India captain Suryakumar Yadav slog-swept spinner Sufiyan Mugeem to complete an utterly onesided, seven-wicket victory over\n\nPakistan in Dubai atthe Asia Cup on Sunday. He remained unconquered on 47 off 37 balls, before walking away, without shaking hands, with Pakistan's players or their captain. The match had begun thus, with both Yadav and his Pakistan counterpart Salman Agha taking no initiativeto shake hands or even greet each other at the toss. And, driving the point home, Yadav later brought up the Pahalgam terror attack and dedicated the victory to the Armed Forces, \"We stand with the families of the victims of the\n\nOPP SLAMS GOVT, SAYS MATCH INSULT TO PAHALGAM VICTIMS Pace 3\n\nPahalgam attack. We express our solidarity and we want to dedicate today's win to the Armed Forces,\" he said, speaking to the broadcaster after the win. This was the first India-Pakistan cricket match since the\n\nBUSINESS AS USUAL\n\nBYyUNNY",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      4216,
+      2216,
+      4434
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      4510,
+      1201,
+      4579
+     ],
+     [
+      808,
+      4628,
+      1250,
+      5097
+     ],
+     [
+      1296,
+      4471,
+      1738,
+      5098
+     ],
+     [
+      1786,
+      4471,
+      2226,
+      5091
+     ]
+    ],
+    "layout_words": 229
+   },
+   "headline_raw": "Constraints in new Finance office,\nBudget press to go modern, lighter",
+   "deck_raw": "",
+   "body_raw": "DAMININATH\nNEW DELHi, SEPTEMBER 14\n\nAS THE Finance Ministry gets\nready to soon leave North Block\nand occupy its new offices in the\nCommon Central Secretariat\n(CCS)-1 building, the Budget\npress, the secure facility where\nthe annual Union Budget is\nprinted, is set to get a makeover\nwith modern and lighter ma-\nchinery to fit within the space\nand structural constraints of the\nnew complex, according to offi-\n\ncial documents and sources.\nThe Finance Ministry has\nbeen allotted space on the\nground, fourth, fifth and sixth\nfloors of the CCS-1 building,\nwhich is a part of a three-build-\ning complex constructed under\nthe Central Vista redevelopment\nplan, according to officials of the\nUnion Housing and Urban Affairs\nMinistry. While the Finance\nMinistry offices will be located\non the fourth, fifth and sixth\nfloors, the Budget press is likely\nto be on the ground floor.\nIn preparation for the move,\n\nthe Finance Ministry floated a\ntender on September 2 for digi-\ntal production printers with an\nestimated cost of Rs 10 crore. In\na file noting attached with the\ntender document, a Finance\nMinistry official said that due to\nrelocation of the Budget press,\nthere was aneed to upgrade the\nprinting infrastructure to \u201cmeet\nthe time-bound and confidential\nrequirements\u201d of printing\nBudget documents.\nThe official noted that a deci-\nsion was taken to go for a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.47161572052401,
+   "ocr_low_conf_share": 0.034934497816593885,
+   "headline": "Constraints in new Finance office, Budget press to go modern, lighter",
+   "deck": "",
+   "byline": "DAMININATH; NEW DELHi, SEPTEMBER 14",
+   "text": "AS THE Finance Ministry gets ready to soon leave North Block and occupy its new offices in the Common Central Secretariat (CCS)-1 building, the Budget press, the secure facility where the annual Union Budget is printed, is set to get a makeover with modern and lighter machinery to fit within the space and structural constraints of the new complex, according to official documents and sources. The Finance Ministry has been allotted space on the ground, fourth, fifth and sixth floors of the CCS-1 building, which is a part of a three-building complex constructed under the Central Vista redevelopment plan, according to officials of the Union Housing and Urban Affairs Ministry. While the Finance Ministry offices will be located on the fourth, fifth and sixth floors, the Budget press is likely to be on the ground floor. In preparation for the move,\n\nthe Finance Ministry floated a tender on September 2 for digital production printers with an estimated cost of Rs 10 crore. In a file noting attached with the tender document, a Finance Ministry official said that due to relocation of the Budget press, there was aneed to upgrade the printing infrastructure to \"meet the time-bound and confidential requirements\" of printing Budget documents. The official noted that a decision was taken to go for a",
+   "n_words": 215,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      4295,
+      3654,
+      4393
+     ],
+     [
+      2274,
+      4409,
+      3675,
+      4562
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      4220,
+      3528,
+      4254
+     ]
+    ],
+    "body_boxes": [
+     [
+      2275,
+      4590,
+      2669,
+      4699
+     ],
+     [
+      2273,
+      4749,
+      2715,
+      5099
+     ],
+     [
+      2763,
+      4551,
+      3204,
+      5099
+     ],
+     [
+      3251,
+      4551,
+      3691,
+      5092
+     ]
+    ],
+    "layout_words": 186
+   },
+   "headline_raw": "For SOP, Shah asks police research\ndept to study past protests, funding",
+   "deck_raw": "AIM TO \u2018PREVENT MASS AGITATIONS BY VESTED INTERESTS\u2019",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, SEPTEMBER 14\n\nAS A step towards preventing\n\u201cmass agitations by vested inter-\nests\u201d in the future, Union Home\nMinister Amit Shah is learnt to\nhave asked the Bureau of Police\nResearch & Development\n(BPR&D) to prepare a standard\noperating procedure (SOP) after\nstudying all post-Independence\n\nprotests, especially those after\n1974, to analyse the reasons, \u201cfi-\nnancial aspects\u201d, final outcomes\nand \u201cbehind-the-scene players\u201d\nof those protests,\nShah is learnt to have issued\nthese directions at the two-day\n\u2018National Security Strategies\nConference-2025\u2019 organised by\nthe Intelligence Bureau in New\nDelhi in the last week of July.\n\u201cThe BPR&D has been specif-\nically asked to analyse reasons,\npatterns and outcomes of those\n\nprotests, including behind-the-\nscene players,\u201d a senior govern-\nment official said. \u201cIt has been di-\nrected that an SOP should be\nformulated based on the out-\ncome of the study to prevent\nmass agitations by vested inter-\nests in the future,\u201d the official said\nFollowing Shah's directions,\nthe BPR&D, under the Union\nMinistry of Home Affairs (MHA),\nis in the process of setting up a\nteam which will coordinate with\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.59677419354838,
+   "ocr_low_conf_share": 0.026881720430107527,
+   "headline": "For SOP, Shah asks police research dept to study past protests, funding",
+   "deck": "AIM TO 'PREVENT MASS AGITATIONS BY VESTED INTERESTS'",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, SEPTEMBER 14",
+   "text": "AS A step towards preventing \"mass agitations by vested inter-ests\" in the future, Union Home Minister Amit Shah is learnt to have asked the Bureau of Police Research & Development (BPR&D) to prepare a standard operating procedure (SOP) after studying all post-Independence\n\nprotests, especially those after 1974, to analyse the reasons, \"financial aspects\", final outcomes and \"behind-the-scene players\" of those protests, Shah is learnt to have issued these directions at the two-day 'National Security Strategies Conference-2025' organised by the Intelligence Bureau in New Delhi in the last week of July. \"The BPR&D has been specifically asked to analyse reasons, patterns and outcomes of those\n\nprotests, including behind-thescene players,\" a senior government official said. \"It has been directed that an SOP should be formulated based on the outcome of the study to prevent mass agitations by vested inter-ests in the future,\" the official said Following Shah's directions, the BPR&D, under the Union Ministry of Home Affairs (MHA), is in the process of setting up a team which will coordinate with CONTINUEDON PAGE2",
+   "n_words": 171,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5228,
+      4172,
+      5394
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5383,
+      499,
+      5457
+     ],
+     [
+      320,
+      5578,
+      681,
+      5648
+     ],
+     [
+      318,
+      5696,
+      760,
+      6166
+     ],
+     [
+      805,
+      5380,
+      1251,
+      6166
+     ],
+     [
+      1291,
+      5380,
+      1737,
+      6167
+     ],
+     [
+      1784,
+      6052,
+      2707,
+      6167
+     ],
+     [
+      2761,
+      5382,
+      3203,
+      6168
+     ],
+     [
+      3249,
+      5382,
+      3694,
+      6004
+     ],
+     [
+      3246,
+      6016,
+      3690,
+      6161
+     ],
+     [
+      3738,
+      5382,
+      4179,
+      6129
+     ]
+    ],
+    "layout_words": 577
+   },
+   "headline_raw": "Two world boxing golds, two Haryana districts celebrate their daughters",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nNITINSHARMA\nBHIWANI, SEPTEMBER 14\n\nA STAR-STUDDED WhatsApp\ngroup of Bhiwani's boxing stal-\nwarts has been buzzing since\nearly Sunday moming withcon-\ngratulatory messages for three-\ntime national champion\nParminder Lamboriya, whose\nniece, Jaismine Lamboriya, up-\nheld the region\u2019s proud boxing\nlegacy by winning the gold\nmedal in the 57-kg weight cate-\ngory at the 2025 World Boxing\n\nChampionships in Liverpool,\nEngland, earlyon Sunday morn-\ning (India time).\nAmong the first to senda text\napplauding the tall 24-year-old,\nwho stunned Paris Olympic sil-\nver medalist Julia Szeremeta of\nPoland with acommanding 4-1\nverdict, was Bhiwani\u2019s most fa-\nmous son \u2014 the 2008 Beijing\nGames bronze medalist Vijender\nSingh. Olympians Akhil Kumar\n(2006 Commonwealth Games\nchampion) and Jai Bhagwan also\nwelcomed the latest entrant to\nBhiwani's Hall of Fame with\nhappy emojis.\nNot too far from Bhiwani, an-\nother Haryana district was\nreadying for festivities. Minakshi\n\nHooda, another lanky 24-year-\nold from Rurkee Kiloi village in\nRohtak district, climbed to the\ntop of the podiumat Liverpool in\nthe 48-kg category, out-punch-\ning Paris Olympics bronze\nmedallist Nazym Kyzaibay from\nKazakhstan, later in the day.\nFor Minakshi, whose father\nferries passengersin his second-\nhand auto-rickshaw in Rohtak to\nmake ends meet, it was a fairy-\ntale ending. \u201cMeri chhori duniya\njeetegi (My daughter will con-\nquer the world),\u201d her father,\nSrikrishan, said after her win in\nthe quarter-finals earlier. And\nMinakshi, a constable with the\nIndo Tibetan Border Police\n(ITBP), did exactly that,\n\nJaismine Lamboriya from Bhiwani district won gold in the\n57-kg category; (right) Minakshi Hooda from Rohtak district\nwon gold in the 48-kg category in Liverpool. World Boxing\n\nBack in Bhiwani, Parminder\nwas happy that Jaismine achieved\nwhat he couldn't. He is excited\nthat his famous friends reached\nout to him. \u201cVijender and others\nare like family. When Jaismine\nwon the titlein the World Boxing\nChampionships, they were all cel-\nebrating as if it was their own\nmedal. With this medal, my niece\nhas once again stamped\nBhiwani\u2019s name on world box-\ning,\u201d he told The Indian Express.\nJaismine\u2019s mother, Joginder\nKaur, overwhelmed by the\ncrowd that descended at her\nplace, said she\u2019s been busy all\nmorning. Every guest has been\ntaking pains to explain to her\nwhat Jaismine has achieved.\n\n\u201cPeople tell me that she isone of\nthe strongest in the ring andisa\nworld champion in her weight\ncategory. But] tell them, for me,\nshe will always remain Chinu...\nit\u2019s what everyone calls her at\nhome. She has beena lucky child\nfor me. She was born after I lost\nan infant son; after her birth, I\nlost two daughters because of\nsome ailments,\u201d she recalled.\n\u201cApart from her medals, the\nproudest day for us was when\nshe joined the Indian Army\u2019s\nCorps of Military Police,\u201d\nshe said.\n\nLike her mother said,\nJaismine was lucky to be bom in\nHaryana's boxing hub and to\nhave an uncle who was a re-\n\nputed pugilist. It was in the late\n1990s that Parminder, along\nwith Vijender, joined the\nBhiwani Boxing Club, which\nwould later become a nursery\nfor world-class pugilists. With\nthe success of boxers from the\nregion, the sport caught the\nfancy of youths \u2014 first boys, and\nthen girls, who, by 2002, could\nbe seen sparring in the ring.\nIt was around this time that\nareputed woman boxer, Meena\nKumari, shifted base to Bhiwani\nto train with the area\u2019s illustrious\ncoach, Jagdish Singh of the\nBhiwani Boxing Club, who had\nspotted the early spark in\nVijender.",
+   "ocr_conf": 92.59792027729637,
+   "ocr_low_conf_share": 0.024263431542461005,
+   "headline": "Two world boxing golds, two Haryana districts celebrate their daughters",
+   "deck": "",
+   "byline": "ANCHOR; NITINSHARMA; BHIWANI, SEPTEMBER 14",
+   "text": "A STAR-STUDDED WhatsApp group of Bhiwani's boxing stalwarts has been buzzing since early Sunday moming withcongratulatory messages for three-time national champion Parminder Lamboriya, whose niece, Jaismine Lamboriya, upheld the region's proud boxing legacy by winning the gold medal in the 57-kg weight category at the 2025 World Boxing\n\nChampionships in Liverpool, England, earlyon Sunday morning (India time). Among the first to senda text applauding the tall 24-year-old, who stunned Paris Olympic silver medalist Julia Szeremeta of Poland with acommanding 4-1 verdict, was Bhiwani's most famous son - the 2008 Beijing Games bronze medalist Vijender Singh. Olympians Akhil Kumar (2006 Commonwealth Games champion) and Jai Bhagwan also welcomed the latest entrant to Bhiwani's Hall of Fame with happy emojis. Not too far from Bhiwani, another Haryana district was readying for festivities. Minakshi\n\nHooda, another lanky 24-yearold from Rurkee Kiloi village in Rohtak district, climbed to the top of the podiumat Liverpool in the 48-kg category, out-punching Paris Olympics bronze medallist Nazym Kyzaibay from Kazakhstan, later in the day. For Minakshi, whose father ferries passengersin his secondhand auto-rickshaw in Rohtak to make ends meet, it was a fairy-tale ending. \"Meri chhori duniya jeetegi (My daughter will conquer the world),\" her father, Srikrishan, said after her win in the quarter-finals earlier. And Minakshi, a constable with the Indo Tibetan Border Police (ITBP), did exactly that,\n\nJaismine Lamboriya from Bhiwani district won gold in the 57-kg category; (right) Minakshi Hooda from Rohtak district won gold in the 48-kg category in Liverpool. World Boxing\n\nBack in Bhiwani, Parminder was happy that Jaismine achieved what he couldn't. He is excited that his famous friends reached out to him. \"Vijender and others are like family. When Jaismine won the titlein the World Boxing Championships, they were all celebrating as if it was their own medal. With this medal, my niece has once again stamped Bhiwani's name on world boxing,\" he told The Indian Express. Jaismine's mother, Joginder Kaur, overwhelmed by the crowd that descended at her place, said she's been busy all morning. Every guest has been taking pains to explain to her what Jaismine has achieved.\n\n\"People tell me that she isone of the strongest in the ring andisa world champion in her weight category. But] tell them, for me, she will always remain Chinu... it's what everyone calls her at home. She has beena lucky child for me. She was born after I lost an infant son; after her birth, I lost two daughters because of some ailments,\" she recalled. \"Apart from her medals, the proudest day for us was when she joined the Indian Army's Corps of Military Police,\" she said.\n\nLike her mother said, Jaismine was lucky to be bom in Haryana's boxing hub and to have an uncle who was a reputed pugilist. It was in the late 1990s that Parminder, along with Vijender, joined the Bhiwani Boxing Club, which would later become a nursery for world-class pugilists. With the success of boxers from the region, the sport caught the fancy of youths - first boys, and then girls, who, by 2002, could be seen sparring in the ring. It was around this time that areputed woman boxer, Meena Kumari, shifted base to Bhiwani to train with the area's illustrious coach, Jagdish Singh of the Bhiwani Boxing Club, who had spotted the early spark in Vijender.",
+   "n_words": 554,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 15.7,
+ "flags": []
+}

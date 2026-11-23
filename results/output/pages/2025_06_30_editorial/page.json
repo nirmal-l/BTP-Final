@@ -1,0 +1,648 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_30_editorial",
+ "source_file": "2025-06-30_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-30_editorial.png",
+ "date": "2025-06-30",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 423,
+  "mean_line_conf": 90.936498043509,
+  "orphan_words": 566,
+  "body_words_total": 3156
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      919,
+      1416,
+      962
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 93.22222222222223,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2031,
+      594,
+      3775,
+      816
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2239,
+      883,
+      3583,
+      1015
+     ],
+     [
+      1624,
+      1139,
+      2059,
+      1183
+     ]
+    ],
+    "body_boxes": [
+     [
+      1619,
+      1291,
+      2227,
+      2269
+     ],
+     [
+      2320,
+      2128,
+      2828,
+      3063
+     ],
+     [
+      2922,
+      1292,
+      3534,
+      3070
+     ]
+    ],
+    "layout_words": 577
+   },
+   "headline_raw": "The Pachgaon way",
+   "deck_raw": "Ecological renewal of Western Ghats needs decentralised\nand community-led action\nMADHAV GADGIL",
+   "body_raw": "THE NATIONAL MISSION for a Green India\nbases its estimates and proposals for action\non the information provided by the Forest\nSurvey of India (FSI), and its execution by the\nForest Department (FD). Regrettably, FSI data\nis quite outdated, available on a crude scale\nand deliberately distorted. At the same time,\nthe FD, an anti-science, anti-nature, anti-peo-\nple agency, will never end up greening the\nWestern Ghats. What we need instead is a\ndifferent science-based, nature-centric and\npeople-oriented approach.\nIcame to understand the way the FD\nmanages its affairs as a result of M Y\nGhorpade, then Kamataka\u2019s finance minis-\nter, being gheraoed by basket weavers in\n1975. The weavers were complaining about\nthe excessive cutting of bamboo by the pa-\nper industry in the state, which was ad-\nversely affecting their livelinoods. Ghorpade\ndecided that an objective evaluation was re-\nquired and asked me to undertake the task.\nThis took me to the West Coast Paper Mills\n(WCPM) at Dandeli, in the district of Uttara\nKannada in Karnataka.\n\nlicas official statistics.\nIn 1972, Satish Dhawan became the chair-\nman of the Indian Space Research\nOrganisation (ISRO). InJuly that year, satellite\nimagery of Earth became available with the\nlaunch of the Landsat programme. Dhawan\nimmediately set up the National Remote\nSensing Centre (NRSC) in Hyderabad to un-\ndertake and facilitate remote-sensing activ-\nities in the country. One of the early projects\nof NRSC was to interpret the 1972-75\nLandsat imagery to assess the forest cover of\nthe country. The results of the NRSC study\nwere startlingly at variance with FD\u2019s official\ninformation. While the FD claimed that 23\nper cent of the country was under forest\ncover, remote-sensing imagery showed that\nthe forest cover was much less, only about\n15 per cent. The government forthwith or-\ndered NRSC to stopits assessment and set up\nthe FSI as the exclusive agency to doso. The\nFSI provides data at highly aggregated levels,\nsuchasatthat of districts, and after a delay of\ntwo or three years. There is absolutely no jus-\ntification for data continuing to be sodelayed\nand aggregated in the day and age of Google\nEarth and other satellite data that are freely\navailable to all members of the publicin real\ntime and at scales as fine as 10 hectares.\nThere are other instances, too. Earlier, in\n1963, the Grasim rayon factory began pro-\nducing pulp and fibre in Mavoor, on the\nbanks of the Chaliyar river in Kerala's\nKozhikode district. The management neg-\nlected to adopt any pollution-control meas-\nures citing profitability concerns and reck-\nlessly released poisonous effluents into the\nriver, adversely impacting its fish and clam\npopulation and human health. Itturned out\nthat the effluent had high levels of poison-\nous mercury, lead, nickel, cobalt, iron,\nchromium zinc and copper. The factory was\nsupplied bamboo at a throwaway price of Re\n1 per tonne when its market price was Rs\n1,400 per tonne. It led to the destruction of",
+   "ocr_conf": 93.7304347826087,
+   "ocr_low_conf_share": 0.008695652173913044,
+   "headline": "The Pachgaon way",
+   "deck": "Ecological renewal of Western Ghats needs decentralised and community-led action MADHAV GADGIL",
+   "byline": "",
+   "text": "THE NATIONAL MISSION for a Green India bases its estimates and proposals for action on the information provided by the Forest Survey of India (FSI), and its execution by the Forest Department (FD). Regrettably, FSI data is quite outdated, available on a crude scale and deliberately distorted. At the same time, the FD, an anti-science, anti-nature, anti-people agency, will never end up greening the Western Ghats. What we need instead is a different science-based, nature-centric and people-oriented approach. Icame to understand the way the FD manages its affairs as a result of M Y Ghorpade, then Kamataka's finance minister, being gheraoed by basket weavers in 1975. The weavers were complaining about the excessive cutting of bamboo by the paper industry in the state, which was adversely affecting their livelinoods. Ghorpade decided that an objective evaluation was required and asked me to undertake the task. This took me to the West Coast Paper Mills (WCPM) at Dandeli, in the district of Uttara Kannada in Karnataka.\n\nlicas official statistics. In 1972, Satish Dhawan became the chairman of the Indian Space Research Organisation (ISRO). InJuly that year, satellite imagery of Earth became available with the launch of the Landsat programme. Dhawan immediately set up the National Remote Sensing Centre (NRSC) in Hyderabad to undertake and facilitate remote-sensing activities in the country. One of the early projects of NRSC was to interpret the 1972-75 Landsat imagery to assess the forest cover of the country. The results of the NRSC study were startlingly at variance with FD's official information. While the FD claimed that 23 per cent of the country was under forest cover, remote-sensing imagery showed that the forest cover was much less, only about 15 per cent. The government forthwith ordered NRSC to stopits assessment and set up the FSI as the exclusive agency to doso. The FSI provides data at highly aggregated levels, suchasatthat of districts, and after a delay of two or three years. There is absolutely no justification for data continuing to be sodelayed and aggregated in the day and age of Google Earth and other satellite data that are freely available to all members of the publicin real time and at scales as fine as 10 hectares. There are other instances, too. Earlier, in 1963, the Grasim rayon factory began producing pulp and fibre in Mavoor, on the banks of the Chaliyar river in Kerala's Kozhikode district. The management neglected to adopt any pollution-control measures citing profitability concerns and recklessly released poisonous effluents into the river, adversely impacting its fish and clam population and human health. Itturned out that the effluent had high levels of poisonous mercury, lead, nickel, cobalt, iron, chromium zinc and copper. The factory was supplied bamboo at a throwaway price of Re 1 per tonne when its market price was Rs 1,400 per tonne. It led to the destruction of",
+   "n_words": 475,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      497,
+      1097,
+      1358,
+      1199
+     ]
+    ],
+    "deck_boxes": [
+     [
+      367,
+      1244,
+      1485,
+      1350
+     ]
+    ],
+    "body_boxes": [
+     [
+      317,
+      1399,
+      1530,
+      3271
+     ]
+    ],
+    "layout_words": 552
+   },
+   "headline_raw": "SCO REMINDER",
+   "deck_raw": "India can't rely on multilateral forums to fight battle against\nterror. It needs to rethink its regional policy, to east and west",
+   "body_raw": "NDIA\u2019S REFUSAL LAST week to sign the Shanghai Cooperation Organisation (SCO)\njoint statement has brought to the fore the big gap between the forum's declared\nI commitment to combatting terrorism and its traditional blind eye to Pakistan-spon-\nsored violent extremism in India. While the outrage in Delhi is understandable, itis\natimely reminder that india can't rely on multilateral forums to fight its battles against ter-\nrorism. The2025SCO Defence Ministers\u2019 meeting in Qingdao, Chinaomitted any reference\nto the April 22 terror attack in Pahalgam from the proposed joint statement. The Indian\nDefence Minister, Rajnath Singh, insisted that the joint statement explicitly mention the\nPahalgam attack as an illustration ofthe ongoing threat of terrorism in the region. However,\nPakistan apparently blocked the proposal. Compounding India\u2019s frustration was the indu-\nsion in the joint statement of references to militant activities in Balochistan. By including\nBalochistan in the statement whileomitting the Pahalgam attack, the SCO ministerial meet-\ning skewed the outcome in favour of Pakistan's narrative.\nAn episode of this kind is quite common in multilateral gatherings, where each coun-\ntry hasa veto over the wording ofthe finaldeciarations, But the SCO outcome is atimely re-\nminder to Delhi not to romanticise the forum as an instrument to promote a multipolar\nworld. The forum is dominated by China and Beijing is unlikely to do anything other than\nprotect the interests of its all-weather ally, Pakistan. Nor can India expect Russia to restore\nthe balancein favour of India.As it gets drawn intoa deeperstrategic dependence on China,\nMoscow has no incentive to stand up for Delhi against Beijing. As China rises to be a great\npower, its protective cover over Pakistan has only become stronger. The recent trilateral\nmeeting that Beijing convened with Pakistaniand Bangladeshi officialsin Kunming isa sign\nofthings to come. Beijing has the resources and political will to expand its South Asian pro-\ntectorate to include Bangladesh.\nTo cope with the new dynamic, Delhi should discard two illusions that have gripped its\nregional policy. One, that it can diplomatically isolate Islamabad in regional and global fo-\nrums, Second is the notion that it can unilaterally set the terms of engagement with\nBangladesh. Tobe sure, Pakistan has become far weaker than India on several counts, espe-\ncially in the economic domain. Yet Islamabad retains significant capacity to trip up India as\nits recent outreach to the US and its deepening partnership with China have shown. Since\nthe change of government in Dhaka last August, Bangladesh has shown that it can cause\nacute discomfort to Delhi by aligning with forces hostile to India. If Delhi is locked in con-\nflicts with its two large South Asian neighbours, Bejjing will take advantage. Delhi can't sim-\nply demand that all its friends and parmers automatically back India in its disputes with\nIslamabad and Dhaka. Theanswer to this regional challenge is twofold. Forone, Delhi must\nstop deluding itseif that it has the luxury ofignoring the current regimes in Islamabad and\nDhaka. To the west, it needs to revive channels of communication with Islamabad and\nRawalpindi; tothe east, it needs to stop talking downto Dhaka. India\u2019s tricky situation with\nPakistan and Bangladesh isalso being turned into a dangerous strategic trap by the politics\nof religious polarisation within. If Delhi does not reverse course, it may be setting itself up\nfor failures in the neighbourhood.",
+   "ocr_conf": 91.12839059674502,
+   "ocr_low_conf_share": 0.0433996383363472,
+   "headline": "SCO REMINDER",
+   "deck": "India can't rely on multilateral forums to fight battle against terror. It needs to rethink its regional policy, to east and west",
+   "byline": "",
+   "text": "NDIA'S REFUSAL LAST week to sign the Shanghai Cooperation Organisation (SCO) joint statement has brought to the fore the big gap between the forum's declared I commitment to combatting terrorism and its traditional blind eye to Pakistan-sponsored violent extremism in India. While the outrage in Delhi is understandable, itis atimely reminder that india can't rely on multilateral forums to fight its battles against terrorism. The2025SCO Defence Ministers' meeting in Qingdao, Chinaomitted any reference to the April 22 terror attack in Pahalgam from the proposed joint statement. The Indian Defence Minister, Rajnath Singh, insisted that the joint statement explicitly mention the Pahalgam attack as an illustration ofthe ongoing threat of terrorism in the region. However, Pakistan apparently blocked the proposal. Compounding India's frustration was the indusion in the joint statement of references to militant activities in Balochistan. By including Balochistan in the statement whileomitting the Pahalgam attack, the SCO ministerial meeting skewed the outcome in favour of Pakistan's narrative. An episode of this kind is quite common in multilateral gatherings, where each country hasa veto over the wording ofthe finaldeciarations, But the SCO outcome is atimely reminder to Delhi not to romanticise the forum as an instrument to promote a multipolar world. The forum is dominated by China and Beijing is unlikely to do anything other than protect the interests of its all-weather ally, Pakistan. Nor can India expect Russia to restore the balancein favour of India.As it gets drawn intoa deeperstrategic dependence on China, Moscow has no incentive to stand up for Delhi against Beijing. As China rises to be a great power, its protective cover over Pakistan has only become stronger. The recent trilateral meeting that Beijing convened with Pakistaniand Bangladeshi officialsin Kunming isa sign ofthings to come. Beijing has the resources and political will to expand its South Asian protectorate to include Bangladesh. To cope with the new dynamic, Delhi should discard two illusions that have gripped its regional policy. One, that it can diplomatically isolate Islamabad in regional and global forums, Second is the notion that it can unilaterally set the terms of engagement with Bangladesh. Tobe sure, Pakistan has become far weaker than India on several counts, especially in the economic domain. Yet Islamabad retains significant capacity to trip up India as its recent outreach to the US and its deepening partnership with China have shown. Since the change of government in Dhaka last August, Bangladesh has shown that it can cause acute discomfort to Delhi by aligning with forces hostile to India. If Delhi is locked in conflicts with its two large South Asian neighbours, Bejjing will take advantage. Delhi can't simply demand that all its friends and parmers automatically back India in its disputes with Islamabad and Dhaka. Theanswer to this regional challenge is twofold. Forone, Delhi must stop deluding itseif that it has the luxury ofignoring the current regimes in Islamabad and Dhaka. To the west, it needs to revive channels of communication with Islamabad and Rawalpindi; tothe east, it needs to stop talking downto Dhaka. India's tricky situation with Pakistan and Bangladesh isalso being turned into a dangerous strategic trap by the politics of religious polarisation within. If Delhi does not reverse course, it may be setting itself up for failures in the neighbourhood.",
+   "n_words": 542,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      1293,
+      4181,
+      2993
+     ]
+    ],
+    "layout_words": 301,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "10,000 hectares of bamboo forests in\nWayanad. As stocks of bamboo became de-\npleted, Grasim came to dependon eucalyp-\ntus,and the government promoted eucalyp-\ntus and Australian acacia plantations,\naccompanied by large-scale use of pesticides\nin the forest areas. Together, it led to the de-\nstruction of natural resources and human\nsuffering with the active knowledge and col-\nlusion of the FD.\nWhat, then, should we do? Pachgaon in\nMaharashtra\u2019s Chandrapur district shows the\nway. Pachgaon was assigned Community\nForest Rights (CFR) under the Forest Rights\nAct of 2006 over 1,000 ha of land. It is exer-\ncising this right to good effect. Through bam-\nboo sales, Pachgaon earnsa good income. So\nits people have stopped setting fire to tendu\nleaves to stimulate fresh growth. This is de-\nspite the fact that tendu leaves, too, were a\ngood source of income. Additionally, they\nhave voluntarily set aside 30 hectares asa sa-\ncred grove. With this, the forest is register-\ning healthy growth and sequestering large\nquantities of carbon. This has also meant se-\ncurity of livelihoods and greater self-respect\nfor the people. Earlier, many villagers used\nto migrate all the way to Gujarat to earnaliv-\ning. Now, very few people leave the village.\nThis is clearly the way forward for effec-\ntively greening the Westem Ghats. The en-\ntire region is crying out for an honest imple-\nmentation of the Forest Rights Act and\nassignment of Community Forest Rights to\na substantial proportion of the population\nthat has been living inside forests or ontheir\nfringes for over three generations. At the\nsame time, we should take forward the\nprocess of democratic decentralisation and\ninvolve people in the decision-making\nprocess. This is what the Western Ghats\nEcology Expert panel advocated and I wish\nto reassert that this, indeed, is the way ahead.",
+   "ocr_conf": 94.3687707641196,
+   "ocr_low_conf_share": 0.0033222591362126247,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "10,000 hectares of bamboo forests in Wayanad. As stocks of bamboo became depleted, Grasim came to dependon eucalyptus,and the government promoted eucalyptus and Australian acacia plantations, accompanied by large-scale use of pesticides in the forest areas. Together, it led to the destruction of natural resources and human suffering with the active knowledge and collusion of the FD. What, then, should we do? Pachgaon in Maharashtra's Chandrapur district shows the way. Pachgaon was assigned Community Forest Rights (CFR) under the Forest Rights Act of 2006 over 1,000 ha of land. It is exercising this right to good effect. Through bamboo sales, Pachgaon earnsa good income. So its people have stopped setting fire to tendu leaves to stimulate fresh growth. This is despite the fact that tendu leaves, too, were a good source of income. Additionally, they have voluntarily set aside 30 hectares asa sacred grove. With this, the forest is registering healthy growth and sequestering large quantities of carbon. This has also meant security of livelihoods and greater self-respect for the people. Earlier, many villagers used to migrate all the way to Gujarat to earnaliving. Now, very few people leave the village. This is clearly the way forward for effectively greening the Westem Ghats. The entire region is crying out for an honest implementation of the Forest Rights Act and assignment of Community Forest Rights to a substantial proportion of the population that has been living inside forests or ontheir fringes for over three generations. At the same time, we should take forward the process of democratic decentralisation and involve people in the decision-making process. This is what the Western Ghats Ecology Expert panel advocated and I wish to reassert that this, indeed, is the way ahead.",
+   "n_words": 286,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1671,
+      2277,
+      2227,
+      2351
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1623,
+      2362,
+      2226,
+      2475
+     ],
+     [
+      1619,
+      2476,
+      2226,
+      3070
+     ]
+    ],
+    "layout_words": 124
+   },
+   "headline_raw": "My mandate was to investigate whether\nnboo resources had indeed been depleted",
+   "deck_raw": "",
+   "body_raw": "and assess afresh the resource position, based\non the data available from the FD's \u201cPre-\nInvestment Survey of Forest Resources\u201d\n\n(PISFR), WCPM, and our own fresh fieldwork.\nThese field studies reveaied the PISFR figures to\nbe overestimates by afactorof 10.This inflated\nfigure forbamboo had provided ajustification\nfor setting up one more paper mill. We were\nable toreassess the bamboo stocks in the field\nbecause detailed information, disaggregated\nto the level of forest compartments (a geo-\ngraphically defined and permanently demar-\ncated unit of forest land, used for management,\nplanning and record-keeping purposes), was\nmadeavailable tous. This would not have been\npossible ifwe had access only to highly aggre-\ngated data such asat a district ordivision level,\nwhichis all that is available to the general pub-",
+   "ocr_conf": 87.712,
+   "ocr_low_conf_share": 0.072,
+   "headline": "My mandate was to investigate whether nboo resources had indeed been depleted",
+   "deck": "",
+   "byline": "",
+   "text": "and assess afresh the resource position, based on the data available from the FD's \"Pre-Investment Survey of Forest Resources\"\n\n(PISFR), WCPM, and our own fresh fieldwork. These field studies reveaied the PISFR figures to be overestimates by afactorof 10.This inflated figure forbamboo had provided ajustification for setting up one more paper mill. We were able toreassess the bamboo stocks in the field because detailed information, disaggregated to the level of forest compartments (a geographically defined and permanently demarcated unit of forest land, used for management, planning and record-keeping purposes), was madeavailable tous. This would not have been possible ifwe had access only to highly aggregated data such asat a district ordivision level, whichis all that is available to the general pub-",
+   "n_words": 121,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3851,
+      3037,
+      4181,
+      3071
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is an ecologist",
+   "ocr_conf": 66.4,
+   "ocr_low_conf_share": 0.4,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is an ecologist",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      528,
+      3336,
+      1320,
+      3419
+     ]
+    ],
+    "deck_boxes": [
+     [
+      358,
+      3476,
+      1496,
+      3581
+     ],
+     [
+      1622,
+      3565,
+      2094,
+      3609
+     ]
+    ],
+    "body_boxes": [
+     [
+      315,
+      3617,
+      1528,
+      4248
+     ],
+     [
+      315,
+      4302,
+      1527,
+      5030
+     ],
+     [
+      1620,
+      3670,
+      2227,
+      5213
+     ],
+     [
+      1886,
+      5655,
+      1986,
+      5690
+     ]
+    ],
+    "layout_words": 666
+   },
+   "headline_raw": "HOLDING STEADY",
+   "deck_raw": "India is expected to maintain growth momentum in midst of\nweak global prospects. Risks stem from external factors\nMALAVIKA PRASAD",
+   "body_raw": "N RECENT ASSESSMENTS of the world economy, agencies such as the World Bank\nand the International Monetary Fund have lowered their expectations of global\ngrowth this year, with trade policy shocks and geopolitical tensions affecting eco-\nnomicmomentum. The IMF has, forinstance, projected world growth at just 2.8 per\ncent in 2025, down 50 basis points from its assessment in January. The World Bank has\npegged growth to slow down even further to 2.3 percent this year, with most economies\nexpected to witnessa deceleration compared to last year. In the midst of this marked dete-\nrioration, the Indian economy is broadly expected to maintain its growth momentum.\nThe RBI had pegged growth for the year at 6.5 per cent, in line with the pace last year. In\nthe recent State of the Economy report, economists at the RBI note that the high-frequency\nindicators for May point towards economic activity being \u201cresilient\u201d. There are several points\nto note. For one, the agricultural sector appears to continue to fare well. According to the\nreport, conditions have been \u201clargely favourable\u201d for good sowing in the ongoing kharif sea-\nson. This bodes well for ruraldemand. The finance ministry\u2019s monthly review also says that\n\ntive monsoon outlook\u201d. Alongside, capacity utilisation in the maniifacturing sector remains\n\u201caboveits long-period average\u201d, and other high-frequency indicators stich as E-way bills, toll\ncollections and digital payments also point towards \u201cstrong growth\u201d.\nBut the performance of some othernon-agri indicators suggests that, overall, it\u2019sa mixed\ntrend. Theindex of industrial production rose by just 2.7 per cent in April, and the eight core\nsectors \u2014 coal, steel and cement, among others \u2014 grew by only 0.8 per cent during April-\nMay. According to a note from ICRA, eight key indicators saw adeceleration in the same pe-\nriod. These include electricity generation, two-wheeler production, port cargo trafficand do-\nmestic airline passenger traffic. The RBI report notes that there are signs of moderation in\nurban demand. The finance ministry's report also acknowledges \u201csigns of softening in ar-\neas like construction inputs and vehicle sales\u201d. Exports are another area of concern.\nMerchandise exports are up only 3 per centin the year so far. Excluding petroleum, growth\nis better. But an uncertain trade environment and weak global demand hang heavy. As per\nthe IMF, world trade is expected to grow at just 1.7 percent this year, down 1.5 percentage\npoints from its earlier assessment. The finance ministry's report also says the \u201cextemal chal-\nlenges could potentially impact India\u2019s growth trajectory\u201d. This will call for deft handling.\n\n\u201cTHEFIRST GREAT quality of an advocate was\n\u2018to reckon everything subordinate to the in-\nterests of his client...\u2019\u201d, the Supreme Court\nsaid in the late 1970s, citing an 86-year-old\nLord Brougham, a Whig parliamentarian\nwho later became Lord High Chancellor of\nGreat Britain. The Indian courts have consis-\ntently maintained their emphatic hoiding of\nthat day: That lawyers are in a \u201chighly fidu-\nciary\u201d, \u201cvery delicate\u201d, and \u201cexacting\u201d rela-\ntionship of \u201cconfidential character\u201d with\ntheir clients.\nYet today, this would appear far from\nreality. Within a week, we read that two\nsenior counsels were served with summons\nby the Directorate of Enforcement (ED).\nBoth summons concern legal advice given\nto M/s Care Health Insurance regarding\nemployee stock ownership plans issued\nto Rashmi Saluja, the former chair of\nReligare Enterprises. Bar associations reg-\nistered their protest, and the summons\nwere subsequently withdrawn.\nNotably, one of the particular concernsis\nthat the summons were issued by the ED,\nwhich enforces the Prevention of Money\nLaundering Act, 2002. PMLA proceedings re-\nquire the existence of a \u201cpredicate\u201d offence,\nsuch as extortion, cheating, etc. Only then\ncan the proceeds of sucha crime be brought\nwithin its reach. In July 2022, the SC in Vijay\nMadanlal Choudhary vs Union of India fa-\nmously recognised this rule. However, it also\nfound the ED's powers of arrest, search and\nseizure, and the PMLA\u2019s inversion of the typ-\nical due-process principle \u201cinnocent until\nproven guilty\u201d, to be constitutional.\nCentral to the Court\u2019s reasoning was the\nidea that the PMLA is aregulatory and nota\n\nayaa a ight",
+   "ocr_conf": 91.45925925925926,
+   "ocr_low_conf_share": 0.035555555555555556,
+   "headline": "HOLDING STEADY",
+   "deck": "India is expected to maintain growth momentum in midst of weak global prospects. Risks stem from external factors MALAVIKA PRASAD",
+   "byline": "",
+   "text": "N RECENT ASSESSMENTS of the world economy, agencies such as the World Bank and the International Monetary Fund have lowered their expectations of global growth this year, with trade policy shocks and geopolitical tensions affecting economicmomentum. The IMF has, forinstance, projected world growth at just 2.8 per cent in 2025, down 50 basis points from its assessment in January. The World Bank has pegged growth to slow down even further to 2.3 percent this year, with most economies expected to witnessa deceleration compared to last year. In the midst of this marked deterioration, the Indian economy is broadly expected to maintain its growth momentum. The RBI had pegged growth for the year at 6.5 per cent, in line with the pace last year. In the recent State of the Economy report, economists at the RBI note that the high-frequency indicators for May point towards economic activity being \"resilient\". There are several points to note. For one, the agricultural sector appears to continue to fare well. According to the report, conditions have been \"largely favourable\" for good sowing in the ongoing kharif season. This bodes well for ruraldemand. The finance ministry's monthly review also says that\n\ntive monsoon outlook\". Alongside, capacity utilisation in the maniifacturing sector remains \"aboveits long-period average\", and other high-frequency indicators stich as E-way bills, toll collections and digital payments also point towards \"strong growth\". But the performance of some othernon-agri indicators suggests that, overall, it'sa mixed trend. Theindex of industrial production rose by just 2.7 per cent in April, and the eight core sectors - coal, steel and cement, among others - grew by only 0.8 per cent during April-May. According to a note from ICRA, eight key indicators saw adeceleration in the same period. These include electricity generation, two-wheeler production, port cargo trafficand domestic airline passenger traffic. The RBI report notes that there are signs of moderation in urban demand. The finance ministry's report also acknowledges \"signs of softening in areas like construction inputs and vehicle sales\". Exports are another area of concern. Merchandise exports are up only 3 per centin the year so far. Excluding petroleum, growth is better. But an uncertain trade environment and weak global demand hang heavy. As per the IMF, world trade is expected to grow at just 1.7 percent this year, down 1.5 percentage points from its earlier assessment. The finance ministry's report also says the \"extemal chal-lenges could potentially impact India's growth trajectory\". This will call for deft handling.\n\n\"THEFIRST GREAT quality of an advocate was 'to reckon everything subordinate to the interests of his client...'\", the Supreme Court said in the late 1970s, citing an 86-year-old Lord Brougham, a Whig parliamentarian who later became Lord High Chancellor of Great Britain. The Indian courts have consistently maintained their emphatic hoiding of that day: That lawyers are in a \"highly fiduciary\", \"very delicate\", and \"exacting\" relationship of \"confidential character\" with their clients. Yet today, this would appear far from reality. Within a week, we read that two senior counsels were served with summons by the Directorate of Enforcement (ED). Both summons concern legal advice given to M/s Care Health Insurance regarding employee stock ownership plans issued to Rashmi Saluja, the former chair of Religare Enterprises. Bar associations registered their protest, and the summons were subsequently withdrawn. Notably, one of the particular concernsis that the summons were issued by the ED, which enforces the Prevention of Money Laundering Act, 2002. PMLA proceedings require the existence of a \"predicate\" offence, such as extortion, cheating, etc. Only then can the proceeds of sucha crime be brought within its reach. In July 2022, the SC in Vijay Madanlal Choudhary vs Union of India famously recognised this rule. However, it also found the ED's powers of arrest, search and seizure, and the PMLA's inversion of the typical due-process principle \"innocent until proven guilty\", to be constitutional. Central to the Court's reasoning was the idea that the PMLA is aregulatory and nota\n\nayaa a ight",
+   "n_words": 659,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      3263,
+      3527,
+      3369
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      3436,
+      3628,
+      3484
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4623,
+      2819,
+      5206
+     ],
+     [
+      2921,
+      3672,
+      3527,
+      5214
+     ]
+    ],
+    "layout_words": 306
+   },
+   "headline_raw": "AN ILLEGAL SUMMONS",
+   "deck_raw": "ED summons to senior advocates was acase of overreach",
+   "body_raw": "penal law, that the ED's powers to issue sum-\nmons are towards an \u201cinquiry\u201d and not an\n\u201cinvestigation\u201d. Thus, the ED is not compa-\nrable to the police forces entrusted with the\nresponsibility to investigate crimes.\nThe ambit of the PMLA has been widened\nthrough notifications issued in May 2023,\nwhich now classify professionals \u2014 such as\nchartered accountants and company secre-\ntaries, carrying out certain types of financial\ntransactions on behalf of their clients \u2014 as\nreporting entities.\nHowever, lawyers have remained outside\nsuch expansive powers for areason.\nSimply put, it is illegal to compel a\nlawyer to disclose legal advice given to their\nclient. This proposition finds its foundation\nin Section 132, on \u201cprofessional communi-\ncation\u201d, of the Bharatiya Sakshya\nAdhiniyam, 2023, but it goes back at least\nas far as 1872, when the Indian Evidence Act\ncame into force.\nThe specific elements of legal advice that\nare privileged are communication, and the\ncontents and the condition of documents\nexchanged. The only way such privilege can\nbe overridden is if the client expressly\npermits it.\nThere are two exceptions to this rule.\nFirst, any communication that furthers \u201cany\nillegal purpose\u201d. Second, observations that\n\u201cany crime or fraud has been committed\nsince the commencement of his service\u201d.\nThis is to say that the lawyer must either aid\nor abet an illegal undertaking or be some-\nhow complicit in an undertaking she dis-\ncovers to be criminal or fraudulent in the\ncourse of her engagement with the client.\nAn investigating authority that aims to",
+   "ocr_conf": 94.31372549019608,
+   "ocr_low_conf_share": 0.00980392156862745,
+   "headline": "AN ILLEGAL SUMMONS",
+   "deck": "ED summons to senior advocates was acase of overreach",
+   "byline": "",
+   "text": "penal law, that the ED's powers to issue summons are towards an \"inquiry\" and not an \"investigation\". Thus, the ED is not comparable to the police forces entrusted with the responsibility to investigate crimes. The ambit of the PMLA has been widened through notifications issued in May 2023, which now classify professionals - such as chartered accountants and company secre-taries, carrying out certain types of financial transactions on behalf of their clients - as reporting entities. However, lawyers have remained outside such expansive powers for areason. Simply put, it is illegal to compel a lawyer to disclose legal advice given to their client. This proposition finds its foundation in Section 132, on \"professional communication\", of the Bharatiya Sakshya Adhiniyam, 2023, but it goes back at least as far as 1872, when the Indian Evidence Act came into force. The specific elements of legal advice that are privileged are communication, and the contents and the condition of documents exchanged. The only way such privilege can be overridden is if the client expressly permits it. There are two exceptions to this rule. First, any communication that furthers \"any illegal purpose\". Second, observations that \"any crime or fraud has been committed since the commencement of his service\". This is to say that the lawyer must either aid or abet an illegal undertaking or be somehow complicit in an undertaking she discovers to be criminal or fraudulent in the course of her engagement with the client. An investigating authority that aims to",
+   "n_words": 248,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      3672,
+      4179,
+      4056
+     ]
+    ],
+    "layout_words": 64,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "compel disclosure of privileged informa-\ntion by a lawyer needs to at the very least\nshow demonstrably one of these circum-\nstances. The mere prospect of there being\npotential illegalitythat might later emerge,\nunbeknownst to the lawyer, certainly does\nnot fall within this limited exception.\nThis is not some kind of special privilege\nthat lawyers enjoy to doas they like. It is far\nfromit.",
+   "ocr_conf": 94.90625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "compel disclosure of privileged information by a lawyer needs to at the very least show demonstrably one of these circumstances. The mere prospect of there being potential illegalitythat might later emerge, unbeknownst to the lawyer, certainly does not fall within this limited exception. This is not some kind of special privilege that lawyers enjoy to doas they like. It is far fromit.",
+   "n_words": 62,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      4068,
+      4181,
+      5055
+     ]
+    ],
+    "layout_words": 178,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The privilege is that of the client, or of\nevery individual who may need legal assis-\ntance. The idea is to secure an independent\nand fair judicial process during their day in\ncourt. The only way such a judicial process\nmay be guaranteed is if lawyers may put\nforth the best defence in law, which is only\npossible if they can elicit the full truth from\ntheir clients. Lawyers know all too well that\nviolations of attomey-client privilege canin-\nvite unhappy consequences, not least a find-\ning of professional misconduct.\nThis ties up the question before us.\nAccording to the SC precedent, the ED lacks\npolice powers, and thus it cannotdowhatin-\nvestigating authorities typically may. Can any\nlaw then support the ED\u2019sclaim to overriding\nattorney-client privilege on the mere\nprospect of there being some potential ille-\ngality \u2014 yet tobe demonstrated by aninves-\ntigating authority \u2014 in the affairs of the\nclient? And ifitindeed can, shouldn't every-\none implicated in an ED proceeding be at the\nvery least assured the protection of ordinary\ndue process and criminal justice?",
+   "ocr_conf": 93.14044943820225,
+   "ocr_low_conf_share": 0.016853932584269662,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The privilege is that of the client, or of every individual who may need legal assistance. The idea is to secure an independent and fair judicial process during their day in court. The only way such a judicial process may be guaranteed is if lawyers may put forth the best defence in law, which is only possible if they can elicit the full truth from their clients. Lawyers know all too well that violations of attomey-client privilege caninvite unhappy consequences, not least a finding of professional misconduct. This ties up the question before us. According to the SC precedent, the ED lacks police powers, and thus it cannotdowhatinvestigating authorities typically may. Can any law then support the ED'sclaim to overriding attorney-client privilege on the mere prospect of there being some potential illegality - yet tobe demonstrated by aninvestigating authority - in the affairs of the client? And ifitindeed can, shouldn't everyone implicated in an ED proceeding be at the very least assured the protection of ordinary due process and criminal justice?",
+   "n_words": 171,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4256,
+      1258,
+      4320
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4305,
+      1287,
+      4340
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "\u201crural demand has strengthened further, supported by a healthy rabi\ntive moancnnn niutingnk\u2019 Alonnecde canantyvitilicatinn in te manitoci",
+   "deck_raw": "",
+   "body_raw": "tive monsoon outlook\u201d. Alongside, capacity utilisation in the maniifacturi",
+   "ocr_conf": 85.55555555555556,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "\"rural demand has strengthened further, supported by a healthy rabi tive moancnnn niutingnk' Alonnecde canantyvitilicatinn in te manitoci",
+   "deck": "",
+   "byline": "",
+   "text": "tive monsoon outlook\". Alongside, capacity utilisation in the maniifacturi",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5137,
+      751,
+      5191
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      604,
+      5305,
+      881,
+      5390
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "FREEZE FRAME",
+   "deck_raw": "",
+   "body_raw": "/ when America plays\ntricky bridge, Chinese",
+   "ocr_conf": 76.71428571428571,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "FREEZE FRAME",
+   "deck": "",
+   "byline": "",
+   "text": "/ when America plays tricky bridge, Chinese",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      5101,
+      4178,
+      5214
+     ]
+    ],
+    "layout_words": 18,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is a lawyer and constitutional law\nresearcher working on federalism. Hariom\nTiwari supported her in research",
+   "ocr_conf": 77.55555555555556,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is a lawyer and constitutional law researcher working on federalism. Hariom Tiwari supported her in research",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2086,
+      5361,
+      3243,
+      5444
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2085,
+      5481,
+      2520,
+      5540
+     ]
+    ],
+    "body_boxes": [
+     [
+      2088,
+      5481,
+      4176,
+      5768
+     ],
+     [
+      2088,
+      5812,
+      4176,
+      5848
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "JUNE 30, 1985, FoRTY YEARS AGO",
+   "deck_raw": "ARMY IN BARODA",
+   "body_raw": "ARM suspected to have beenengineeredbytheunder- governor's speech at Amritsar was apparently\nYIN BARODA ground Nationalist SocialistCounclofNagaland misunderstood. What he said was that all ex-\nTHREE PERSONS WERE killed and 55 injured, andtook placesimultaneously.Thehostilesused ceptthose charged with \u201cwaging of war against\nseven of them seriously, asviolenceeruptedsud- _ locally made explosives. Serakhong lital steel the state\u201d, murder, arson and dacoity would\ndenly in Baroda. The Army has been deployed to _ bridge (200 feet) and Thong Analbi Bridge (100 _ be released.\nassist the police in patrolling trouble-tom areas _ feet), damaged in the explosions, are situated\nunder thecity. They have intensified their vigil.No \u2014 within 5 km ofeach other. AtTr INDTA CRACH\n\nyouths throwing water-filled balloonsinthe Ay allo RETEACR SOME INDICATIONS THAT there may have been",
+   "ocr_conf": 79.504,
+   "ocr_low_conf_share": 0.2,
+   "headline": "JUNE 30, 1985, FoRTY YEARS AGO",
+   "deck": "ARMY IN BARODA",
+   "byline": "",
+   "text": "ARM suspected to have beenengineeredbytheunder- governor's speech at Amritsar was apparently YIN BARODA ground Nationalist SocialistCounclofNagaland misunderstood. What he said was that all ex-THREE PERSONS WERE killed and 55 injured, andtook placesimultaneously.Thehostilesused ceptthose charged with \"waging of war against seven of them seriously, asviolenceeruptedsud- _ locally made explosives. Serakhong lital steel the state\", murder, arson and dacoity would denly in Baroda. The Army has been deployed to _ bridge (200 feet) and Thong Analbi Bridge (100 _ be released. assist the police in patrolling trouble-tom areas _ feet), damaged in the explosions, are situated under thecity. They have intensified their vigil.No - within 5 km ofeach other. AtTr INDTA CRACH\n\nyouths throwing water-filled balloonsinthe Ay allo RETEACR SOME INDICATIONS THAT there may have been",
+   "n_words": 124,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2089,
+      5734,
+      2753,
+      5890
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2088,
+      5893,
+      4179,
+      6023
+     ]
+    ],
+    "body_boxes": [
+     [
+      2087,
+      5967,
+      2752,
+      6166
+     ],
+     [
+      2799,
+      6011,
+      3464,
+      6166
+     ],
+     [
+      3512,
+      6012,
+      4175,
+      6166
+     ]
+    ],
+    "layout_words": 91
+   },
+   "headline_raw": "under thecity. They have intensified their vigil. No\narrests have been made so far. It started when\nyouths throwing water-filled balloons in the\ncourse of Devshayani Ekadashi festivities turned",
+   "deck_raw": "violent, according to reports. WITH THE AKALIS reacting cautiously to Punjab itcrashed into the Atlantic have emerged during\nGovernor Arjun Singh\u2019s announcement that __ the investigation but it is yet to be determined if\nthose not accused of serious crimes would be __ it could have been caused by a bomb, informed\nNAGA REBEL ATTACK cat froo tha cratra qnvarnmant mala annthor cia. eniurracecsad Canine anffiriale finm Indisumhra ar",
+   "body_raw": "NAGA REBEL ATTACK\nTWO ROAD BRIDGES were blown up by sus-\npected Naga hostiles, cutting off Ukhrul from the\nrest of Manipur. Police said the explosions were\n\nset free, the state government made another sig-\nnificant gesture clarifying that \u201csedition\u201d would\nbe no bar against the release of persons arrested\non this charge. Raj Bhavan sources said the\n\nsources said, Senior officials from India who are\ninvestigating the crash are yet to reach a definite\nconclusion about the cause, although they said\nthey have had \u201cuseful\u201d clues so far.",
+   "ocr_conf": 92.48314606741573,
+   "ocr_low_conf_share": 0.02247191011235955,
+   "headline": "under thecity. They have intensified their vigil. No arrests have been made so far. It started when youths throwing water-filled balloons in the course of Devshayani Ekadashi festivities turned",
+   "deck": "violent, according to reports. WITH THE AKALIS reacting cautiously to Punjab itcrashed into the Atlantic have emerged during Governor Arjun Singh's announcement that __ the investigation but it is yet to be determined if those not accused of serious crimes would be __ it could have been caused by a bomb, informed NAGA REBEL ATTACK cat froo tha cratra qnvarnmant mala annthor cia. eniurracecsad Canine anffiriale finm Indisumhra ar",
+   "byline": "NAGA REBEL ATTACK",
+   "text": "TWO ROAD BRIDGES were blown up by suspected Naga hostiles, cutting off Ukhrul from the rest of Manipur. Police said the explosions were\n\nset free, the state government made another significant gesture clarifying that \"sedition\" would be no bar against the release of persons arrested on this charge. Raj Bhavan sources said the\n\nsources said, Senior officials from India who are investigating the crash are yet to reach a definite conclusion about the cause, although they said they have had \"useful\" clues so far.",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 22.4,
+ "flags": [
+  "3 kept article(s) without a headline"
+ ]
+}

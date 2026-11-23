@@ -1,0 +1,585 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_11_front",
+ "source_file": "2025-02-11_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-11_front.png",
+ "date": "2025-02-11",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 3,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 228,
+  "mean_line_conf": 88.06283764967976,
+  "orphan_words": 19,
+  "body_words_total": 798
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      747,
+      723,
+      782
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      785,
+      3192,
+      1178
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      2663,
+      754
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1170,
+      1220,
+      1432
+     ],
+     [
+      810,
+      1502,
+      1180,
+      1571
+     ],
+     [
+      807,
+      1621,
+      1251,
+      2360
+     ]
+    ],
+    "layout_words": 110
+   },
+   "headline_raw": "Trump threatens 25%o tariffs on steel,\naluminium, raises dumping concerns",
+   "deck_raw": "PM BEGINS TWO-NATION TOUR OF FRANCE, UNITEDSTATES",
+   "body_raw": "Indian firms fear\npricing pressure,\nfocus on Modi\nvisit to US\n\nRAVIDUTTAMISHRA\nNEW DELHI, FEBRUARY 10\n\nAS US PRESIDENT Donald Trump\nissued a fresh threat ofimposing\na 25 per cent tariff on steel and\naluminium, Indian companies\nfeared a downward pressure in\ndomestic steel prices due to the\nrisk of losing out on the largest\nsteel consumer market.\nOn top of this, there are con-\ncems over dumping with steel\nimports already on the rise dueto\ntrade diversion and protectionist\nmeasures that began when\nTrump imposed 25 percent im-\nport duty on steel products and\n10per cent oncertain aluminium\nproducts during hisfirstterm.\nFearing a further surge, the\nCONTINUED ONPAGE 2",
+   "ocr_conf": 88.31818181818181,
+   "ocr_low_conf_share": 0.06363636363636363,
+   "headline": "Trump threatens 25%o tariffs on steel, aluminium, raises dumping concerns",
+   "deck": "PM BEGINS TWO-NATION TOUR OF FRANCE, UNITEDSTATES",
+   "byline": "RAVIDUTTAMISHRA; NEW DELHI, FEBRUARY 10",
+   "text": "Indian firms fear pricing pressure, focus on Modi visit to US\n\nAS US PRESIDENT Donald Trump issued a fresh threat ofimposing a 25 per cent tariff on steel and aluminium, Indian companies feared a downward pressure in domestic steel prices due to the risk of losing out on the largest steel consumer market. On top of this, there are concems over dumping with steel imports already on the rise dueto trade diversion and protectionist measures that began when Trump imposed 25 percent import duty on steel products and 10per cent oncertain aluminium products during hisfirstterm. Fearing a further surge, the",
+   "n_words": 100,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      774,
+      4179,
+      1146
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      698,
+      4011,
+      730
+     ]
+    ],
+    "body_boxes": [
+     [
+      3255,
+      1226,
+      3622,
+      1295
+     ],
+     [
+      3742,
+      1741,
+      4181,
+      2086
+     ]
+    ],
+    "layout_words": 47
+   },
+   "headline_raw": "J&K rules on power\nstructure vis-a-vis\nL-G likely soon",
+   "deck_raw": "OMAR ABDULLAH MEETS AMIT SHAH",
+   "body_raw": "DEEPTIMAN TIWARY\nNEW DELHI, FEBRUARY 10\n\nsee the light of day very soon.\u201d\nThese rules will clarify the\nrole, responsibilities and powers\nof the Chief Minister, Cabinet\nministers and Administrative\nSecretaries in J&K vis-a-vis the\nL-G. Essential for ensuring the\nsmooth functioning of the\nCONTINUED ON PAGE2",
+   "ocr_conf": 89.46808510638297,
+   "ocr_low_conf_share": 0.0425531914893617,
+   "headline": "J&K rules on power structure vis-a-vis L-G likely soon",
+   "deck": "OMAR ABDULLAH MEETS AMIT SHAH",
+   "byline": "DEEPTIMAN TIWARY; NEW DELHI, FEBRUARY 10",
+   "text": "see the light of day very soon.\" These rules will clarify the role, responsibilities and powers of the Chief Minister, Cabinet ministers and Administrative Secretaries in J&K vis-a-vis the L-G. Essential for ensuring the smooth functioning of the",
+   "n_words": 38,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 88.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      381,
+      1194,
+      689,
+      1292
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Dethi \u00a30 Jovernmnent after\n77 681s. Maripur had (0\nwart FOF Just 21 morths.",
+   "ocr_conf": 45.142857142857146,
+   "ocr_low_conf_share": 0.5714285714285714,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Dethi \u00a30 Jovernmnent after 77 681s. Maripur had (0 wart FOF Just 21 morths.",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1170,
+      3194,
+      1416
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2764,
+      1503,
+      3135,
+      1572
+     ],
+     [
+      2762,
+      1622,
+      3205,
+      2361
+     ]
+    ],
+    "layout_words": 93
+   },
+   "headline_raw": "PM visit: Paris\nAI meet, US\ntrade, tech ties",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, FEBRUARY 10\n\nASHE began histwo-nation trip\nto France and the United States,\nPrime Minister Narendra Modi\nreached Paris on Monday to co-\nchair the Al ActionSummitwith\nFrench President Emmanuel\nMacron.\nAfter the Al Summit on\nTuesday, followed by India-\nFrance bilateral talks, Modi will\ntravel to the US \u2014 he willbe in\nWashington DCon February 12-\n13. In his departure statement,\nModi said he looked forward to\nmeeting his \u201cfriend\u201d President\nDonald Trump, and the visit\nwould be an opportunity to\ndeepen India-US ties including\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.73118279569893,
+   "ocr_low_conf_share": 0.010752688172043012,
+   "headline": "PM visit: Paris AI meet, US trade, tech ties",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, FEBRUARY 10",
+   "text": "ASHE began histwo-nation trip to France and the United States, Prime Minister Narendra Modi reached Paris on Monday to cochair the Al ActionSummitwith French President Emmanuel Macron. After the Al Summit on Tuesday, followed by India-France bilateral talks, Modi will travel to the US - he willbe in Washington DCon February 12- 13. In his departure statement, Modi said he looked forward to meeting his \"friend\" President Donald Trump, and the visit would be an opportunity to deepen India-US ties including",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1317,
+      3695,
+      1372
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      1387,
+      3698,
+      2093
+     ]
+    ],
+    "layout_words": 82
+   },
+   "headline_raw": "THE RULES of Business for the",
+   "deck_raw": "",
+   "body_raw": "govemment in the Union\nTerritory ofJammuand Kashmir\nhave been finalised and could be\nnotified by the Centre soon.\nJ&K Chief Minister Omar\nAbdullah had a meeting with\nUnion Home Minister AmitShah\non Monday where, sources said,\ntheissue wasdiscussed. As pera\nsource in the J&K government,\n\u201cThe Rulesof Businesshavebeen\nalmost finalised and will soon\nreach the Home Minister's table\nthrough =the _Lieutenant-\nGovemor. This got delayed due\nto some finetuning required at\nourend. But that work has been\ncompleted and the rules should",
+   "ocr_conf": 91.6829268292683,
+   "ocr_low_conf_share": 0.024390243902439025,
+   "headline": "THE RULES of Business for the",
+   "deck": "",
+   "byline": "",
+   "text": "govemment in the Union Territory ofJammuand Kashmir have been finalised and could be notified by the Centre soon. J&K Chief Minister Omar Abdullah had a meeting with Union Home Minister AmitShah on Monday where, sources said, theissue wasdiscussed. As pera source in the J&K government, \"The Rulesof Businesshavebeen almost finalised and will soon reach the Home Minister's table through =the _Lieutenant-Govemor. This got delayed due to some finetuning required at ourend. But that work has been completed and the rules should",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      1414,
+      706,
+      1532
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1550,
+      747,
+      1720
+     ],
+     [
+      317,
+      1755,
+      733,
+      1967
+     ],
+     [
+      324,
+      2107,
+      456,
+      2139
+     ],
+     [
+      321,
+      2188,
+      760,
+      2404
+     ]
+    ],
+    "layout_words": 39
+   },
+   "headline_raw": "VERDICT { \"2025",
+   "deck_raw": "",
+   "body_raw": "DISSATISFIED WITH\nAAP GOVT, NOT MANY\nBELIEVEDIT WAS\nALLL-G\u2019S \u2018FAULT\u2019\n\nMENBEHIND BJP\nSURGE; FREE BUS\nRIDE GAVE EDGE TO\nAAP AMONG WOMEN\nPAGE 6\n\nINSIDE\n\nDAYS AFTER HIS\nSNOOPING CHARGE,\nBJP ISSUES NOTICE\nTO KIRODI LAL MEENA\nPAGE 3",
+   "ocr_conf": 87.82051282051282,
+   "ocr_low_conf_share": 0.05128205128205128,
+   "headline": "",
+   "deck": "",
+   "byline": "DISSATISFIED WITH; AAP GOVT, NOT MANY; BELIEVEDIT WAS; ALLL-G'S 'FAULT'; MENBEHIND BJP; SURGE; FREE BUS; RIDE GAVE EDGE TO; AAP AMONG WOMEN",
+   "text": "DAYS AFTER HIS SNOOPING CHARGE, BJP ISSUES NOTICE TO KIRODI LAL MEENA",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      1881,
+      2689,
+      1969
+     ],
+     [
+      1298,
+      1975,
+      2650,
+      2110
+     ],
+     [
+      1297,
+      2098,
+      1461,
+      2176
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1782,
+      2093,
+      2226,
+      2150
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      2254,
+      1742,
+      2360
+     ],
+     [
+      1436,
+      2590,
+      1657,
+      2674
+     ],
+     [
+      1344,
+      2729,
+      1697,
+      3082
+     ],
+     [
+      1787,
+      2136,
+      2229,
+      2368
+     ],
+     [
+      2273,
+      2097,
+      2715,
+      2361
+     ]
+    ],
+    "layout_words": 108
+   },
+   "headline_raw": "India\u2019s priority list: Easing rules on small\nmodular reactors, AI hardware exports\nANIL SASI",
+   "deck_raw": "America beginning February 12",
+   "body_raw": "ONINDIA'S PRIORITY list during\nPrime Minister Narendra Modi's\nvisit to the United States of\n\nPending\nie insc\n\nINA 2022 ruling, theSC\nhad decided w examine\nwaysin which trial\ncourts can impose death\nsentence. The case, pend-\ning before alarger bench\nof the SC, aimsto plug\ngaps in awarding the\ncapital punishment.\n\nare Chica exceptions for progress\nin public-private partnerships for\nsmalimodular reactors(SMR) for\nnuclearenergy and getting easier\naccess to Al hardware exports.\nAt the bilateral meeting be-\n\ntween Modi and US President\nDonald Trump, New Delhi is\nkeen that Washington DC allows\nan exemption & one of its most\nrestrictive legislative provisions\n~ the \u2018810\u00b0 authorisation that\nCONTINUEDONPAGE2",
+   "ocr_conf": 88.58333333333333,
+   "ocr_low_conf_share": 0.07407407407407407,
+   "headline": "India's priority list: Easing rules on small modular reactors, AI hardware exports ANIL SASI",
+   "deck": "America beginning February 12",
+   "byline": "",
+   "text": "ONINDIA'S PRIORITY list during Prime Minister Narendra Modi's visit to the United States of\n\nPending ie insc\n\nINA 2022 ruling, theSC had decided w examine waysin which trial courts can impose death sentence. The case, pending before alarger bench of the SC, aimsto plug gaps in awarding the capital punishment.\n\nare Chica exceptions for progress in public-private partnerships for smalimodular reactors(SMR) for nuclearenergy and getting easier access to Al hardware exports. At the bilateral meeting between Modi and US President Donald Trump, New Delhi is keen that Washington DC allows an exemption & one of its most restrictive legislative provisions ~ the '810\u00b0 authorisation that CONTINUEDONPAGE2",
+   "n_words": 106,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2158,
+      4172,
+      2428
+     ],
+     [
+      3251,
+      2495,
+      3938,
+      2766
+     ],
+     [
+      3252,
+      2572,
+      3593,
+      2712
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3254,
+      2651,
+      4182,
+      2687
+     ],
+     [
+      3252,
+      2770,
+      4182,
+      3123
+     ],
+     [
+      3738,
+      2850,
+      4181,
+      3083
+     ]
+    ],
+    "layout_words": 75
+   },
+   "headline_raw": "Keen to avoid Central Rule\nin Manipur, BJP pushes for\nconsensus on CM name\nSUKRITABARUAH fi Sd\n& LIZ MATHEW Pe 4\nGUWAHATI, NEW DELHI, | TH\nFEBRUARY 10 . ~y\nA DAY after N Biren Singh re- \u2014 \\~\n& LIZ MATHEW\nGUWAHATI. NEW DELHI,\nFEBRUARY 10",
+   "deck_raw": "",
+   "body_raw": "FEBRUARY 10 \u20184 gl ManipurcM\n\nsigned as Manipur Chief\nMinister, the BJP\u2019s Northeastco- \u2014_ leadershipwastrying to reach a\nordinator, SambitPatra,ledase- consensus on the next CM and\nries of marathon meetingsin announcethe name at the earli-\nImphalonMonday.He metwith \u2014 est. Evenas the discussions con-\nsenior party MLAs, including tinue, Biren Singh continues to\nthose whohad dissentedagainst be inchargeofthestatein an in-\nBiren Singh. terimcapacity.\nBJP sources said the party CONTINUEDON PAGE2\n\nconsensus on the next CM and\nannouncethe name at the earli-\nest. Evenas the discussions con-\ntinue, Biren Singh continues to\nbe inchargeofthestate in an in-\nterim capacity.",
+   "ocr_conf": 85.8659793814433,
+   "ocr_low_conf_share": 0.1134020618556701,
+   "headline": "Keen to avoid Central Rule in Manipur, BJP pushes for consensus on CM name SUKRITABARUAH fi Sd & LIZ MATHEW Pe 4 GUWAHATI, NEW DELHI, TH A DAY after N Biren Singh re- - \\~ & LIZ MATHEW GUWAHATI. NEW DELHI, FEBRUARY 10",
+   "deck": "",
+   "byline": "FEBRUARY 10 '4 gl ManipurcM",
+   "text": "signed as Manipur Chief Minister, the BJP's Northeastco- - _ leadershipwastrying to reach a ordinator, SambitPatra,ledase- consensus on the next CM and ries of marathon meetingsin announcethe name at the earli-ImphalonMonday.He metwith - est. Evenas the discussions consenior party MLAs, including tinue, Biren Singh continues to those whohad dissentedagainst be inchargeofthestatein an in-Biren Singh. terimcapacity. BJP sources said the party CONTINUEDON PAGE2\n\nconsensus on the next CM and announcethe name at the earliest. Evenas the discussions continue, Biren Singh continues to be inchargeofthestate in an interim capacity.",
+   "n_words": 87,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2519,
+      1231,
+      2743
+     ],
+     [
+      321,
+      2727,
+      727,
+      2808
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2886,
+      761,
+      3120
+     ],
+     [
+      807,
+      2729,
+      1253,
+      3113
+     ]
+    ],
+    "layout_words": 76
+   },
+   "headline_raw": "For second year, no death\npenalty passes SC test\nAJOY SINHA KARPURAM",
+   "deck_raw": "",
+   "body_raw": "REFLECTINGA divergenceinde-\ncision-making on death penalty\nat different levels in the judici-\nary, the Supreme Court\u2014 forthe\nsecond consecutive year \u2014 did\nnot confirm a single death sen-\n\ntence in 2024 while trial courts\nawarded 139 such verdicts, ac-\ncording to a report by Project\n39A, a criminal justice pro-\ngramme at the National Law\nUniversity Delhi.\nThe SC heard six appeals in\n2024 \u2014 it commuted five death\nsentences to life imprisonment\nCONTINUED ONPAGE 2",
+   "ocr_conf": 93.10526315789474,
+   "ocr_low_conf_share": 0.0,
+   "headline": "For second year, no death penalty passes SC test AJOY SINHA KARPURAM",
+   "deck": "",
+   "byline": "",
+   "text": "REFLECTINGA divergenceindecision-making on death penalty at different levels in the judiciary, the Supreme Court - forthe second consecutive year - did not confirm a single death sentence in 2024 while trial courts awarded 139 such verdicts, according to a report by Project 39A, a criminal justice programme at the National Law University Delhi. The SC heard six appeals in 2024 - it commuted five death sentences to life imprisonment",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2517,
+      3193,
+      2741
+     ],
+     [
+      1788,
+      2728,
+      2056,
+      2810
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2808,
+      2155,
+      2916
+     ],
+     [
+      1786,
+      2966,
+      2227,
+      3122
+     ],
+     [
+      2272,
+      2730,
+      2718,
+      3122
+     ],
+     [
+      2762,
+      2730,
+      3204,
+      3115
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "Ayushman Bharat, women aid, Yamuna\nriverfront top BJP\u2019s agenda in Capital\nMALLICAJOSHI,",
+   "deck_raw": "",
+   "body_raw": "JATINANAND&\nGAYATHRI MANI\nNEW DELHI. FEBRUARY 10\n\nADOPTING THE Ayushman\nBharat Scheme, getting the ball\nrolling to give women Rs 2,500\nfinancial aid per month and an\n\nannouncement on the beautifi-\ncation of the Yamuna riverfront\nand floodplains figure at thetop\nof the BJP\u2019s agenda in Delhi, ac-\ncording to sources.\nWith the party defeating the\nAAP in the Assembly elections,\nwork to implement the firsttwo\nis already underwayas the plans\nare ready, and will only need a\n\nfew tweaks, officials said. The\nthird \u2014 the Yamuna beautifica-\ntion project \u2014 is likely to be an\nannouncement that willbe high\nin \u201cvisual value\u201d, The Indian\nExpress has keamt.\nOver the past year,\nLieutenant-Govermor V K Saxena\nas well as the bureaucracy had\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.92857142857143,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "Ayushman Bharat, women aid, Yamuna riverfront top BJP's agenda in Capital MALLICAJOSHI,",
+   "deck": "",
+   "byline": "JATINANAND&; GAYATHRI MANI; NEW DELHI. FEBRUARY 10",
+   "text": "ADOPTING THE Ayushman Bharat Scheme, getting the ball rolling to give women Rs 2,500 financial aid per month and an\n\nannouncement on the beautification of the Yamuna riverfront and floodplains figure at thetop of the BJP's agenda in Delhi, according to sources. With the party defeating the AAP in the Assembly elections, work to implement the firsttwo is already underwayas the plans are ready, and will only need a\n\nfew tweaks, officials said. The third - the Yamuna beautification project - is likely to be an announcement that willbe high in \"visual value\", The Indian Express has keamt. Over the past year, Lieutenant-Govermor V K Saxena as well as the bureaucracy had",
+   "n_words": 112,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 11.4,
+ "flags": []
+}

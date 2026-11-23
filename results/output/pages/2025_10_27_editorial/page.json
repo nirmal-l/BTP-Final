@@ -1,0 +1,552 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_27_editorial",
+ "source_file": "2025-10-27_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-27_editorial.png",
+ "date": "2025-10-27",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 436,
+  "mean_line_conf": 90.45236343002802,
+  "orphan_words": 693,
+  "body_words_total": 3082
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      372,
+      604,
+      1473,
+      713
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      819,
+      1234,
+      875
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      1416,
+      960
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 94.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2084,
+      594,
+      3735,
+      816
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2295,
+      884,
+      3521,
+      1016
+     ]
+    ],
+    "body_boxes": [
+     [
+      2320,
+      2275,
+      2829,
+      3271
+     ],
+     [
+      2924,
+      1251,
+      3531,
+      3259
+     ]
+    ],
+    "layout_words": 436
+   },
+   "headline_raw": "Crude power play",
+   "deck_raw": "Amid US sanctions on Russian oil, key question for\nIndia is how far it will go in resisting pressure",
+   "body_raw": "The sanctions on Russian oil\nhighlight a broader trend: The\nfragmentation of the oil\nmarket. The West still sets\nmany of the rules, from price\ncaps to sanctions lists. Still,\ncountries like India, China,\nand others are pushing back.\nRussia is pushing to decouple\nits energy trade from Western\nfinancial systems and has\nalready been exploring\nalternative payment\nmethods. If the sanctions\ncontinue to tighten, India will\nlikely expand its use of rupee-\nrouble and yuan-rouble\ntransactions, further\nchallenging the dominance of\nthe US dollar in global trade.\n\nNovember 21, when the grace period expires,\nthe announcement has already shaken the\nglobal oil market. US oil prices spiked by\nroughly 5 per cent as markets anticipated the\nloss of millions ofbarrels perday in Russian oil\nexports. In India, the world\u2019s largest buyer of\nseabome Russian crude, the response was\nswift: Refiners, particularly those linked to\nRosneft and Lukoil, have begun scrambling to\nreassess their oil procurement strategies. In\nfact, even in 2019, when the Trump adminis-\ntration imposed sanctions on Iran, cutting off\nIndia\u2019s access to Iranian crude, the state-owned\nIndian Oil Corporation swiftly pivoted by sign-\ning long-term contracts to import US oil and\nsecuring additional cargoes fromthe Gulf and\nWest Africa to keeprefinery operations stable.\nThat episode of managing stiditen supply dis-\nruptions has since made Indian refiners far\nmore agile in adjusting sourcing strategies\nwhen geopolitics collide with energy security.\nFor India, these sanctions are a substantial\ngeopolitical challenge too. Russian crude has\nbeen a crucial component of India\u2019s energy\nsupply, offering attractive discounts compared\nto Middle Eastern crude. Indian refiners have\nbenefitedimmensely from these pricereduc-\ntions, using Russian oil to produce gasoline,\ndiesel, and other refined products. But with\nthese sanctions in place, Indian refiners now\nface a difficult choice: Comply with US sanc-\ntions and risk supply shortages, or continue\nbuying Russian oil and risk secondary sanc-\ntions from the US. Supply chains and pricing\nwill undoubtedly feel the strain. If Asian refin-\ners, including those in India, scale back Russian\noil imports, Russia will need to find new out-\nlets for its oil, likely at even steeper discounts,\nor store it in floating reserves.\nAmid thesedevelopments, India\u2019s broader\ntrade agendacontinues to evolve on thediplo-\nmatic front On October 24, India and the US\nbegan drafting the bilateral trade agreement\n(BTA) following a \u201cbroad convergence\u201d among\nnegotiators during recent talks in Washington.\nIndia\u2019s Commerce Minister emphasised that\nNew Delhiseeksa fair and equitable deal, un-\nderscoring its preference for long-term, mu-\ntually beneficial agreements over hasty deci-\nsions. A US delegation is expected to visit India\ntocontinue these discussions and finalise the",
+   "ocr_conf": 91.53899082568807,
+   "ocr_low_conf_share": 0.04357798165137615,
+   "headline": "Crude power play",
+   "deck": "Amid US sanctions on Russian oil, key question for India is how far it will go in resisting pressure",
+   "byline": "November 21, when the grace period expires,",
+   "text": "The sanctions on Russian oil highlight a broader trend: The fragmentation of the oil market. The West still sets many of the rules, from price caps to sanctions lists. Still, countries like India, China, and others are pushing back. Russia is pushing to decouple its energy trade from Western financial systems and has already been exploring alternative payment methods. If the sanctions continue to tighten, India will likely expand its use of rupee-rouble and yuan-rouble transactions, further challenging the dominance of the US dollar in global trade.\n\nthe announcement has already shaken the global oil market. US oil prices spiked by roughly 5 per cent as markets anticipated the loss of millions ofbarrels perday in Russian oil exports. In India, the world's largest buyer of seabome Russian crude, the response was swift: Refiners, particularly those linked to Rosneft and Lukoil, have begun scrambling to reassess their oil procurement strategies. In fact, even in 2019, when the Trump administration imposed sanctions on Iran, cutting off India's access to Iranian crude, the state-owned Indian Oil Corporation swiftly pivoted by signing long-term contracts to import US oil and securing additional cargoes fromthe Gulf and West Africa to keeprefinery operations stable. That episode of managing stiditen supply disruptions has since made Indian refiners far more agile in adjusting sourcing strategies when geopolitics collide with energy security. For India, these sanctions are a substantial geopolitical challenge too. Russian crude has been a crucial component of India's energy supply, offering attractive discounts compared to Middle Eastern crude. Indian refiners have benefitedimmensely from these pricereductions, using Russian oil to produce gasoline, diesel, and other refined products. But with these sanctions in place, Indian refiners now face a difficult choice: Comply with US sanctions and risk supply shortages, or continue buying Russian oil and risk secondary sanctions from the US. Supply chains and pricing will undoubtedly feel the strain. If Asian refiners, including those in India, scale back Russian oil imports, Russia will need to find new outlets for its oil, likely at even steeper discounts, or store it in floating reserves. Amid thesedevelopments, India's broader trade agendacontinues to evolve on thediplomatic front On October 24, India and the US began drafting the bilateral trade agreement (BTA) following a \"broad convergence\" among negotiators during recent talks in Washington. India's Commerce Minister emphasised that New Delhiseeksa fair and equitable deal, underscoring its preference for long-term, mutually beneficial agreements over hasty decisions. A US delegation is expected to visit India tocontinue these discussions and finalise the",
+   "n_words": 416,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      378,
+      1092,
+      1482,
+      1194
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1233,
+      1531,
+      2962
+     ]
+    ],
+    "layout_words": 496
+   },
+   "headline_raw": "(SUARDRAILS FOR AI",
+   "deck_raw": "",
+   "body_raw": "Draft rules on disclosure are in the right direction. Platforms\nhave aresponsibility, regulation needs to be in sync with rights\nI-GENERATED CONTENT has proliferated rapidly in the last few years.\nAccess to free or nominally-priced Al models has made it possible for any-\nA one inany part of the world to create content (video clips, images and au-\ndio)and upload iton the net. Indeed, Al fuels the fastest growing YouTube\nchannels. The surge, which will only grow in sophistication, throws upa bewildering ar-\nray of challenges. Al-generated deepfakes are used to deceive, spread misinformation,\nand facilitate financial fraud. Governments are now taking steps to address these con-\ncers. These are moves in the right direction. The viewer should be enabled to differen-\ntiate between the real and the artificial.\nLast week, the Union government proposed draft rules that call for mandatory labelling\nof Al-generated content on social media platforms in order to check the \u201cgrowing misuse\nof synthetically generated information, including deepfakes.\u201d For visual content, the iden-\ntifier or label should cover \u201cat least 10 per cent of total surface area\u201d, while foraudio content,\nit should cover the \u201cinitial 10 per cent of its duration\u201d. Social media platforms will be re-\nquired to ask users if the content is \u201csynthetically generated information\u201d. However, they\nwill also have to\u201cdeploy reasonable and proportionate technical measures\u201d to verify them-\nselves, and thus take a more proactive approach in addressing these issues. This effectively\nputs the onus on these platforms, as it should. Big Tech must be held accountable. Large\nplatforms suchas YouTube and X are, after all, backed by companies with significant Al in-\nvestments \u2014 Gemini is an Al model from Google, while Grok is designed by xAl. Big Tech\nmust, therefore, be part of the solutions to this ever-changing problem. At the same time,\ninensuring that only senior government officials can issue takedown orders \u2014 \u201cintimation\nto intermediaries for removal of unlawful information can only be issued by a senior offi-\ncer not below the rank of Joint Secretary\u201d \u2014the governmentis right toraise the bar fortake-\ndowns. However, an avenue for redressal has to be factored in the process.\nAl now is inextricably embedded in platforms and the sheer volume of content on\nsocial media warrant greater urgency in addressing the problem of Al misuse. Al can be\nused to spread information, educate, and entertain. But, itcanalso be atool for misinfor-\nmation and polarising pursuits. Deepfakes that clone voices can be misused to defraud\npeople. A distinction, therefore, has to be made in the nature of content and the motives\nfor using Al Al models themselves need to be trained on models more inclusive and rep-\nresentative \u2014 the challenges will only go up with the inevitable increase in their sophis-\ntication levels. Policy has always played catch-up with technology so regulation will have\ntobe sharper, smarterand speedier. Rules on disclosure are a good first step but in the long,\ntwisting road ahead, the next steps are crucial.",
+   "ocr_conf": 91.59557344064386,
+   "ocr_low_conf_share": 0.03219315895372234,
+   "headline": "(SUARDRAILS FOR AI",
+   "deck": "",
+   "byline": "",
+   "text": "Draft rules on disclosure are in the right direction. Platforms have aresponsibility, regulation needs to be in sync with rights I-GENERATED CONTENT has proliferated rapidly in the last few years. Access to free or nominally-priced Al models has made it possible for any-A one inany part of the world to create content (video clips, images and audio)and upload iton the net. Indeed, Al fuels the fastest growing YouTube channels. The surge, which will only grow in sophistication, throws upa bewildering array of challenges. Al-generated deepfakes are used to deceive, spread misinformation, and facilitate financial fraud. Governments are now taking steps to address these concers. These are moves in the right direction. The viewer should be enabled to differentiate between the real and the artificial. Last week, the Union government proposed draft rules that call for mandatory labelling of Al-generated content on social media platforms in order to check the \"growing misuse of synthetically generated information, including deepfakes.\" For visual content, the identifier or label should cover \"at least 10 per cent of total surface area\", while foraudio content, it should cover the \"initial 10 per cent of its duration\". Social media platforms will be required to ask users if the content is \"synthetically generated information\". However, they will also have to\"deploy reasonable and proportionate technical measures\" to verify themselves, and thus take a more proactive approach in addressing these issues. This effectively puts the onus on these platforms, as it should. Big Tech must be held accountable. Large platforms suchas YouTube and X are, after all, backed by companies with significant Al investments - Gemini is an Al model from Google, while Grok is designed by xAl. Big Tech must, therefore, be part of the solutions to this ever-changing problem. At the same time, inensuring that only senior government officials can issue takedown orders - \"intimation to intermediaries for removal of unlawful information can only be issued by a senior officer not below the rank of Joint Secretary\" - the governmentis right toraise the bar fortakedowns. However, an avenue for redressal has to be factored in the process. Al now is inextricably embedded in platforms and the sheer volume of content on social media warrant greater urgency in addressing the problem of Al misuse. Al can be used to spread information, educate, and entertain. But, itcanalso be atool for misinformation and polarising pursuits. Deepfakes that clone voices can be misused to defraud people. A distinction, therefore, has to be made in the nature of content and the motives for using Al Al models themselves need to be trained on models more inclusive and representative - the challenges will only go up with the inevitable increase in their sophistication levels. Policy has always played catch-up with technology so regulation will have tobe sharper, smarterand speedier. Rules on disclosure are a good first step but in the long, twisting road ahead, the next steps are crucial.",
+   "n_words": 484,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1629,
+      1139,
+      2138,
+      1182
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SOUMYA BHOWMICK",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "SOUMYA BHOWMICK",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1619,
+      1250,
+      2230,
+      3258
+     ]
+    ],
+    "layout_words": 351,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "DONALD TRUMPAND Viadimir Putin have al-\nways had a unique relationship \u2014 a tango of\npraises and sanctions, as if each side were\nwaiting for the next twist in the ongoing\ngeopolitical rollercoaster. Just when it seemed\nthey might make peace, the Trump adminis-\ntration pulled out the sanctions card again,\nthis time slapping Russia\u2019s oil giants, Rosneft\nand Lukoil, with measures that would make\neven their notoriously unpredictable relation-\nship seem surprising. While Washington\nwants to tighten the screws on Moscow's en-\nergy sector, for countries like India and China,\nthe falloutis about to get more complicated.\nRosneft and Lukoil are central to Russia's\nenergy strategy, with their combined output\naccounting fornearly halfof the country\u2019s to-\ntal oil production and a significant portion of\nglobal supply. These sanctions represent a\nsharp escalation of US policy towards Russia,\nwhich, over the past few years, has fluctuated\nbetween attempts at diplomacy and direct\neconomic punishment. For India, however,\nthe sanctions carry immediateand far-reach-\ning consequences, not just for energy supply\nbutalso for how the country navigates its po-\nsition between global powers.\nRosneft and Lukoilare far from minor play-\ners in the global energy arena. Last year,\nRosneft produced approximately 3.7 million\nbarrels per day of crude, about 3.3 per cent of\nglobal supply. Rosneft has extensive ties to\nIndia, including owning a 49 per cent stake in\nNayara Energy, which operates a4,00,000 bpd\nrefinery in Gujarat. The refinery processes\nmostly Russian crude and, under existing EU\nsanctions, has already seen reduced output.\nLukoil, Russia\u2019s second-largest oil producer,\nadded another 1.6 million barrels per day to\nglobal supply last year. The sanctions not only\nimpact Russian oil but also put the future of\nIndia\u2019s refineries, which rely heavily on these\nsupplies, atrisk.US officials have even wamed\nthat they could target any entity \u2014 bank or\nbuyer \u2014 that continues to deal with Rosneft\nor Lukoil, effectively threatening secondary\nsanctions on Indian and Chinese refiners.\nThe sanctions freeze all US assets of these\ncompanies and prohibit American firms and\nfinancial institutions fromdoing business with\nthem. While the full effects won't be felt until",
+   "ocr_conf": 92.94871794871794,
+   "ocr_low_conf_share": 0.02564102564102564,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "DONALD TRUMPAND Viadimir Putin have always had a unique relationship - a tango of praises and sanctions, as if each side were waiting for the next twist in the ongoing geopolitical rollercoaster. Just when it seemed they might make peace, the Trump administration pulled out the sanctions card again, this time slapping Russia's oil giants, Rosneft and Lukoil, with measures that would make even their notoriously unpredictable relationship seem surprising. While Washington wants to tighten the screws on Moscow's energy sector, for countries like India and China, the falloutis about to get more complicated. Rosneft and Lukoil are central to Russia's energy strategy, with their combined output accounting fornearly halfof the country's total oil production and a significant portion of global supply. These sanctions represent a sharp escalation of US policy towards Russia, which, over the past few years, has fluctuated between attempts at diplomacy and direct economic punishment. For India, however, the sanctions carry immediateand far-reaching consequences, not just for energy supply butalso for how the country navigates its position between global powers. Rosneft and Lukoilare far from minor players in the global energy arena. Last year, Rosneft produced approximately 3.7 million barrels per day of crude, about 3.3 per cent of global supply. Rosneft has extensive ties to India, including owning a 49 per cent stake in Nayara Energy, which operates a4,00,000 bpd refinery in Gujarat. The refinery processes mostly Russian crude and, under existing EU sanctions, has already seen reduced output. Lukoil, Russia's second-largest oil producer, added another 1.6 million barrels per day to global supply last year. The sanctions not only impact Russian oil but also put the future of India's refineries, which rely heavily on these supplies, atrisk.US officials have even wamed that they could target any entity - bank or buyer - that continues to deal with Rosneft or Lukoil, effectively threatening secondary sanctions on Indian and Chinese refiners. The sanctions freeze all US assets of these companies and prohibit American firms and financial institutions fromdoing business with them. While the full effects won't be felt until",
+   "n_words": 343,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      1251,
+      4183,
+      3067
+     ]
+    ],
+    "layout_words": 316,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "terms of the contract. This trade deal could\nopen new avenues for energy cooperation,\nparticularly in natural gasand renewable en-\nergy, potentially offsetting relianceon Russian\noil. However, as these talks progress, India\u2019s\nchallenge remains balancing its strategic in-\nterests with Russia while advancing its eco-\nnomic and energy security goals with the US\nand other global partners.\nThe sanctions on Russian oil also highlight\na broader trend in global energy politics: The\nfragmentation ofthe oil market. The Weststill\nsets manyof the rules, from pricecaps tosanc-\ntions lists. Sill, countries like India, China, and\nothers are pushing back by developing alter-\nnative financial systems and creating new\npayment channels. As the US doubles down\nonsanctions, Russia is pushing to decouple its\nenergy trade from Westem financial systems\nand has already been exploring alternative\npayment methods, including local currencies\nsuchas the Indian rupee and the Chinese yuan.\nIndia, as one of the largest consumers of\nRussian oil, has been slowly moving towards\nthese alternative payment systems. If the US\nsanctions continue totighten, India will likely\nexpand its use of rupee-rouble and yuan-rou-\nbletransactions, further challengingihedom-\ninance of the US dollar in global trade.\nThis shift in financial systems could reduce\nthe West's influence over global energy mar-\nkets and contribute to the rise of amultipolar\nenergy order, where the USdollar is nolonger\nthe only game in town. The key question for\nIndia is how far it will go in resisting US pres-\nsure to secure affordable energy forits rapidly\ngrowing economy. Will it continue to import\nRussian oil, even as US sanctions mount, or\nwill it gradually comply, risking higher energy\ncosts and economic difficulties at home?\nFinally, the geoeconomic consequences of this\ndecision will be far-reaching, not just for India\nbut for the future of giobal energy trade. How\nIndia balances these competing interests will\nshape its future energy strategy and its rolein\nthe broader geopolitical landscape.",
+   "ocr_conf": 90.08544303797468,
+   "ocr_low_conf_share": 0.060126582278481014,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "terms of the contract. This trade deal could open new avenues for energy cooperation, particularly in natural gasand renewable energy, potentially offsetting relianceon Russian oil. However, as these talks progress, India's challenge remains balancing its strategic interests with Russia while advancing its economic and energy security goals with the US and other global partners. The sanctions on Russian oil also highlight a broader trend in global energy politics: The fragmentation ofthe oil market. The Weststill sets manyof the rules, from pricecaps tosanctions lists. Sill, countries like India, China, and others are pushing back by developing alternative financial systems and creating new payment channels. As the US doubles down onsanctions, Russia is pushing to decouple its energy trade from Westem financial systems and has already been exploring alternative payment methods, including local currencies suchas the Indian rupee and the Chinese yuan. India, as one of the largest consumers of Russian oil, has been slowly moving towards these alternative payment systems. If the US sanctions continue totighten, India will likely expand its use of rupee-rouble and yuan-roubletransactions, further challengingihedominance of the US dollar in global trade. This shift in financial systems could reduce the West's influence over global energy markets and contribute to the rise of amultipolar energy order, where the USdollar is nolonger the only game in town. The key question for India is how far it will go in resisting US pressure to secure affordable energy forits rapidly growing economy. Will it continue to import Russian oil, even as US sanctions mount, or will it gradually comply, risking higher energy costs and economic difficulties at home? Finally, the geoeconomic consequences of this decision will be far-reaching, not just for India but for the future of giobal energy trade. How India balances these competing interests will shape its future energy strategy and its rolein the broader geopolitical landscape.",
+   "n_words": 307,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      341,
+      3047,
+      1506,
+      3132
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3178,
+      1531,
+      4716
+     ]
+    ],
+    "layout_words": 438
+   },
+   "headline_raw": "A VAGUE UNLAWFUL ZONE",
+   "deck_raw": "",
+   "body_raw": "Allahabad HC decision criminalising use of \u2018unsaid words\u2019\ngoes against free speech jurisprudence\n( ) AN APERSON be charged for trying to create discord between religious com-\nmunities with \u201cunsaid words\u201d? Ina deeply troubling decision, the Allahabad\nHigh Court recently said that a WhatsApp text can indeed give a \u201csubtle\nmessage\u201d to stoke interfaith strife, even without explicitly mentioning reli-\ngion. It refused to quash an FIR and directed the accused, Afaq Ahmad, to face trial. The\ndecision could havea chilling effect on free speech.\nAhmad had moved the HC after the Uttar Pradesh police had registered a case against\nhim under the Bharatiya Nyaya Sanhita\u2019s Section 352 \u2014 it criminalises intentional insults\nthat provoke a breach of public peace. The police had sought toincriminate Ahmad on the\nbasis of a WhatsApp text to two people. On October 23, this newspaper reported that in\nthe message, Ahmad had alleged his brother had been \u201cframed ina false case by putting\npolitical pressure on the police\u201d. He had lamented that \u201cacall has been made for a total boy-\ncott of my family\u2019s livelihood\u201d. The message contained repeated assertions of his faith in\nthe judiciary. Ahmad\u2019s lawyers also argued that their client only intended to convey re-\nsentment about his brother's arrest. The HC, however, said that the Whatsapp text, \u201cdefi-\nnitely conveys an underlying and subtle message that his brother has been targeted ina\nfalse case, because of his belonging toa particular religious community.\u201d Itwenton tosay,\n\u201ceven if one were to think that no religious feelings of a class of citizens or community\nhave been outraged... itis certainly a message, which, by its unsaid words, is likely to cre-\nate or promote feelings of enmity, hatred and ill-will between religious communities...\nmembers ofa particular community, in the first instance, could think that they are being\ntargeted by members of another religious community by abusing the process of law\u201d.\nCriminal laws, especially those that deal with the fundamental Right to Freedom of\nSpeech and Expression, require a clinical interpretation. In looking for unsaid words and\nsubtle messaging, the HC seems to have gone against the Supreme Court\u2019s landmark 2015\nruling in Shreya Singhal vUnion of India. The apex court had said that \u201capenal lawis void for\nvagueness ifit fails todefine the criminal offence with sufficient definiteness\u201d\u2019. It had under-\nlined that \u201cordinary people should be able to understand what conduct is prohibited and\nwhat is permitted\u201d. The Allahabad HC verdict, in contrast, frames a vague unlawful zone\nthat people must steer clear of. It goes against Shreya Singhal's strictures against the \u201carbi-\ntrary and discriminatory enforcement of the law\u2019. The HC mustcourse correct.",
+   "ocr_conf": 92.57272727272728,
+   "ocr_low_conf_share": 0.025,
+   "headline": "A VAGUE UNLAWFUL ZONE",
+   "deck": "",
+   "byline": "",
+   "text": "Allahabad HC decision criminalising use of 'unsaid words' goes against free speech jurisprudence ( ) AN APERSON be charged for trying to create discord between religious communities with \"unsaid words\"? Ina deeply troubling decision, the Allahabad High Court recently said that a WhatsApp text can indeed give a \"subtle message\" to stoke interfaith strife, even without explicitly mentioning religion. It refused to quash an FIR and directed the accused, Afaq Ahmad, to face trial. The decision could havea chilling effect on free speech. Ahmad had moved the HC after the Uttar Pradesh police had registered a case against him under the Bharatiya Nyaya Sanhita's Section 352 - it criminalises intentional insults that provoke a breach of public peace. The police had sought toincriminate Ahmad on the basis of a WhatsApp text to two people. On October 23, this newspaper reported that in the message, Ahmad had alleged his brother had been \"framed ina false case by putting political pressure on the police\". He had lamented that \"acall has been made for a total boycott of my family's livelihood\". The message contained repeated assertions of his faith in the judiciary. Ahmad's lawyers also argued that their client only intended to convey resentment about his brother's arrest. The HC, however, said that the Whatsapp text, \"definitely conveys an underlying and subtle message that his brother has been targeted ina false case, because of his belonging toa particular religious community.\" Itwenton tosay, \"even if one were to think that no religious feelings of a class of citizens or community have been outraged... itis certainly a message, which, by its unsaid words, is likely to create or promote feelings of enmity, hatred and ill-will between religious communities... members ofa particular community, in the first instance, could think that they are being targeted by members of another religious community by abusing the process of law\". Criminal laws, especially those that deal with the fundamental Right to Freedom of Speech and Expression, require a clinical interpretation. In looking for unsaid words and subtle messaging, the HC seems to have gone against the Supreme Court's landmark 2015 ruling in Shreya Singhal vUnion of India. The apex court had said that \"apenal lawis void for vagueness ifit fails todefine the criminal offence with sufficient definiteness\"'. It had under-lined that \"ordinary people should be able to understand what conduct is prohibited and what is permitted\". The Allahabad HC verdict, in contrast, frames a vague unlawful zone that people must steer clear of. It goes against Shreya Singhal's strictures against the \"arbitrary and discriminatory enforcement of the law'. The HC mustcourse correct.",
+   "n_words": 432,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3579,
+      3113,
+      4179,
+      3259
+     ]
+    ],
+    "layout_words": 24,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is a fellow and lead, World\nEconomies and Sustainability at the Centre for\nNew Economic Diplomacy (CNED) at the\nObserver Research Foundation",
+   "ocr_conf": 90.25,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is a fellow and lead, World Economies and Sustainability at the Centre for New Economic Diplomacy (CNED) at the Observer Research Foundation",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      3458,
+      4069,
+      3573
+     ],
+     [
+      2274,
+      3630,
+      4141,
+      3692
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1622,
+      3760,
+      2189,
+      3804
+     ]
+    ],
+    "body_boxes": [
+     [
+      1619,
+      3864,
+      2225,
+      5247
+     ],
+     [
+      2317,
+      4553,
+      2815,
+      5249
+     ],
+     [
+      2921,
+      3865,
+      3529,
+      5241
+     ],
+     [
+      3572,
+      3865,
+      4179,
+      5168
+     ],
+     [
+      3650,
+      5213,
+      4176,
+      5248
+     ],
+     [
+      3571,
+      5528,
+      4176,
+      5762
+     ]
+    ],
+    "layout_words": 770
+   },
+   "headline_raw": "\u2018TRUST VERSUS FAKE REALITY\nProposed Al regulation is needed. It will be a test of India\u2019s digital policy maturity",
+   "deck_raw": "MANISH MAHESHWARI",
+   "body_raw": "INDIA HAS REACHED a turning pointinits dig-\nital evolution. The Ministry of Electronics and\nInformation Technology (MeitY) has proposed\ndraft amendments to the IT Rules, 2021, toreg-\nulate synthetic content, including Al-gener-\nated videos, images, and voices. The draft, open\nfor public consultation until November 6, aims\nto make the creators and platforms behind\nsuchcontent accountable and transparent.\nIf adopted, India would become oneof the\nfirst democracies to formally address the dan-\ngers of Al-driven misinformation. In a year\nwhen deepfakes have infiltrated politics, en-\ntertainment, and social discourse, the timing\ncould not be more urgent.\nAt stake is something deeper than data or\nprivacy; it is the integrity of truth itself.\nThedraft amendinenis propose tie follow-\ning. One, todefine \u201csynthetically generatedin-\nformation\u201d as content created oraltered by al-\ngorithms to resemble authentic media. Two,\nthey require piatfoims that create or host such\ncontent to labelitclearly, for example, dedicat-\ning at least 10 per cent of visual space or the\nfirst 10 per cent of audio to disclaimers. Three,\nthey mandate automated detection systems\nand userdeclarations for synthetic media up-\nloads. Four, they preserve safe-harbour protec-\ntion for intermediaries that remove harmful\nsyntheticcontent, penalisingthose that don't.\nThe government's goal is tocurb thespread\nof impersonation, fake news, and deepfake-\nbased fraud without stifling innovation. But\ntranslating thatinto effective enforcement will\nbe India\u2019s toughest governance challenge.\n\nEvery technological revolution tests soci-\nety\u2019simmune system. The intemet tested pri-\nVacy; Social media tested civility; Alis now test-\ning reality itself. Deepfake tools can empower\ncreators, educators, and entrepreneurs.A small\nbusiness can use Al to make multilingual ads;\na filmmaker can restore lost footage. But the\nsame technology can also destroy reputations,\nmanipulate elections, or incite violence.\nThe paradax is: We need Al for growth, but\nwe need governance for trust. MeitY\u2019s draft\ntules are a recognition that truth has become\nan infrastructure problem, not justamoral one.\nThe question is how to build that infrastruc-\nture without choking creativity.\nIndia must resist the temptation to legis-\nlate faster than it can enforce. The draft\u2019s pro-\nposed \u201c10 per cent visual disclaimer\u201d is sym-\nbolically strong but technically weak. A more\ndurable approach would rest on three pillars.\nFirst, verification infrastructure: Build adigital\nprovenance framework, akin to Aadhaar, for\nauthenticity, where each piece of content car-\nries an invisible but verifiable signature.\nSecond, tieredaccountability: Differentiate be-\ntween platforms that host, generate, or mon-\netise synthetic media. Responsibility should\nrise withinfluence. Third, Alliteracy: Equip cit-\nizens to detect manipulation. Technology alone\ncan\u2019tdefend democracy; informed citizenscan.\nSuch a system would make India not just\ncompliant, but competitive. A model for bal-\nancing innovation with integrity.\nGlobally, regulators are grappling with the\nsamedilemma. The EU's Al Act mandates wa-\n\ntermarking of synthetic content. The US relies\non voluntary corporate commitments. China\nrequires government pre-approval for \u201cdeep\nsynthesis\u201d media. India's challenge is unique.\nIts digital populationis vast, multilingual, and\nheavily reliant on social media for news. The\nrisk of viral misinformation is higher. That's\nwhy India must pioneer a third way, Neither\nlaissez-faire Silicon Valley nor state-controlled\nBeijing. A model that empowers creators, ed-\nucates users, and enforces accountability.\nDemocracy runs on trust. A manipulated\nvideo of acandidate,acloned voice ofajournal-\nist, or a forged government order can under-\nmine public confidence faster than any fact-\ncheck can repair it.\nThe solution isn\u2019t censorship; it\u2019s clarity.\nRegulateauthenticity, not opinion. |fIndiacan\ninstitutionalise transparency in Al-generated\nmedia, it won't just protect its elections, Itwill\nexporta model of digital responsibility for the\nworld. The months that follow will decide\nwhether India builds aframework of trust ora\nbureaucracy of fear. The government must\nconsultwidely, with startuns, academics, tech-\nnologists, and civil society groups. India has a\nonce-in-a-generation opportunity to lead the\nworld in ethical Al governance. Thenation that\nbuilt Aadhaar to verify identity can now build\nthe rails for verifying truth. Because the chal-\nlenge of our age isn\u2019t fake news; it\u2019s fake real-\nity. And the solution isn\u2019t fear. It\u2019s trust. Trust\nwill be the ultimate moat in the age of Al.\n\nThe writer is former head of Twitter india\n\nThe committee headed by Justice A S Bains,\na retired judge of the Punjab and Haryana\nHigh Court, was set upon October 1 to review\nCases registered against persons convicted for\nfacing prosecution in criminal cases regis-\nteredon orafter August 1, 1981.",
+   "ocr_conf": 90.13394018205462,
+   "ocr_low_conf_share": 0.0494148244473342,
+   "headline": "'TRUST VERSUS FAKE REALITY Proposed Al regulation is needed. It will be a test of India's digital policy maturity",
+   "deck": "MANISH MAHESHWARI",
+   "byline": "",
+   "text": "INDIA HAS REACHED a turning pointinits digital evolution. The Ministry of Electronics and Information Technology (MeitY) has proposed draft amendments to the IT Rules, 2021, toregulate synthetic content, including Al-generated videos, images, and voices. The draft, open for public consultation until November 6, aims to make the creators and platforms behind suchcontent accountable and transparent. If adopted, India would become oneof the first democracies to formally address the dangers of Al-driven misinformation. In a year when deepfakes have infiltrated politics, entertainment, and social discourse, the timing could not be more urgent. At stake is something deeper than data or privacy; it is the integrity of truth itself. Thedraft amendinenis propose tie following. One, todefine \"synthetically generatedinformation\" as content created oraltered by algorithms to resemble authentic media. Two, they require piatfoims that create or host such content to labelitclearly, for example, dedicating at least 10 per cent of visual space or the first 10 per cent of audio to disclaimers. Three, they mandate automated detection systems and userdeclarations for synthetic media uploads. Four, they preserve safe-harbour protection for intermediaries that remove harmful syntheticcontent, penalisingthose that don't. The government's goal is tocurb thespread of impersonation, fake news, and deepfake-based fraud without stifling innovation. But translating thatinto effective enforcement will be India's toughest governance challenge.\n\nEvery technological revolution tests society'simmune system. The intemet tested pri-Vacy; Social media tested civility; Alis now testing reality itself. Deepfake tools can empower creators, educators, and entrepreneurs.A small business can use Al to make multilingual ads; a filmmaker can restore lost footage. But the same technology can also destroy reputations, manipulate elections, or incite violence. The paradax is: We need Al for growth, but we need governance for trust. MeitY's draft tules are a recognition that truth has become an infrastructure problem, not justamoral one. The question is how to build that infrastructure without choking creativity. India must resist the temptation to legislate faster than it can enforce. The draft's proposed \"10 per cent visual disclaimer\" is symbolically strong but technically weak. A more durable approach would rest on three pillars. First, verification infrastructure: Build adigital provenance framework, akin to Aadhaar, for authenticity, where each piece of content carries an invisible but verifiable signature. Second, tieredaccountability: Differentiate between platforms that host, generate, or monetise synthetic media. Responsibility should rise withinfluence. Third, Alliteracy: Equip citizens to detect manipulation. Technology alone can'tdefend democracy; informed citizenscan. Such a system would make India not just compliant, but competitive. A model for balancing innovation with integrity. Globally, regulators are grappling with the samedilemma. The EU's Al Act mandates watermarking of synthetic content. The US relies on voluntary corporate commitments. China requires government pre-approval for \"deep synthesis\" media. India's challenge is unique. Its digital populationis vast, multilingual, and heavily reliant on social media for news. The risk of viral misinformation is higher. That's why India must pioneer a third way, Neither laissez-faire Silicon Valley nor state-controlled Beijing. A model that empowers creators, educates users, and enforces accountability. Democracy runs on trust. A manipulated video of acandidate,acloned voice ofajournalist, or a forged government order can undermine public confidence faster than any fact-check can repair it. The solution isn't censorship; it's clarity. Regulateauthenticity, not opinion. fIndiacan institutionalise transparency in Al-generated media, it won't just protect its elections, Itwill exporta model of digital responsibility for the world. The months that follow will decide whether India builds aframework of trust ora bureaucracy of fear. The government must consultwidely, with startuns, academics, tech-nologists, and civil society groups. India has a once-in-a-generation opportunity to lead the world in ethical Al governance. Thenation that built Aadhaar to verify identity can now build the rails for verifying truth. Because the challenge of our age isn't fake news; it's fake reality. And the solution isn't fear. It's trust. Trust will be the ultimate moat in the age of Al.\n\nThe writer is former head of Twitter india\n\nThe committee headed by Justice A S Bains, a retired judge of the Punjab and Haryana High Court, was set upon October 1 to review Cases registered against persons convicted for facing prosecution in criminal cases registeredon orafter August 1, 1981.",
+   "n_words": 685,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      5395,
+      2901,
+      5485
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2271,
+      5527,
+      2858,
+      5571
+     ],
+     [
+      2919,
+      5848,
+      3414,
+      5892
+     ]
+    ],
+    "body_boxes": [
+     [
+      2266,
+      5608,
+      2874,
+      5959
+     ],
+     [
+      2920,
+      5926,
+      3524,
+      6150
+     ]
+    ],
+    "layout_words": 95
+   },
+   "headline_raw": "OCTOBER 27, 1985,",
+   "deck_raw": "PM MEETS GORBACHEV\n309 CASES DROPPED",
+   "body_raw": "THE PRIME MINISTER, Rajiv Gandhi, arrived\nin Moscow ona brief, unscheduled visit tothe\nSoviet Union and held wide-ranging talks with\nthe Communist Party chief, Mikhail\nGorbachev, at the Kremlin. Gandhi, on a trip\nback from the Netherlands, and his wife, Sonia,\nwere greetedat theairport by the Soviet Prime\nMinister, Nikolai Ryzhkov, and the First\nDeputy Foreign Minister.\n\nTHE PUNJAB GOVERNMENT ordered with-\ndrawal of cases against 309 personsarrested\ninconnection with trouble in the state onthe\nrecommendations of the Bains committee.\nOf these, 37 are Hindus some of whom are\nassociated with the Hindu Suraksha Samiti.",
+   "ocr_conf": 93.84210526315789,
+   "ocr_low_conf_share": 0.010526315789473684,
+   "headline": "",
+   "deck": "PM MEETS GORBACHEV 309 CASES DROPPED",
+   "byline": "",
+   "text": "THE PRIME MINISTER, Rajiv Gandhi, arrived in Moscow ona brief, unscheduled visit tothe Soviet Union and held wide-ranging talks with the Communist Party chief, Mikhail Gorbachev, at the Kremlin. Gandhi, on a trip back from the Netherlands, and his wife, Sonia, were greetedat theairport by the Soviet Prime Minister, Nikolai Ryzhkov, and the First Deputy Foreign Minister.\n\nTHE PUNJAB GOVERNMENT ordered withdrawal of cases against 309 personsarrested inconnection with trouble in the state onthe recommendations of the Bains committee. Of these, 37 are Hindus some of whom are associated with the Hindu Suraksha Samiti.",
+   "n_words": 94,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2920,
+      5376,
+      3561,
+      5457
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2922,
+      5528,
+      3527,
+      5801
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "Forty YEARS AGO",
+   "deck_raw": "",
+   "body_raw": "ture in some areas. The council also adopted\nan action plan for co-ordinating the efforts of\nthe states to fight anti-national elements in\nthe region. Chief ministers of five states,\nPunjab, Himachal Pradesh, Haryana,\nRajasthan and Jammu and Kashmir, decided\nto pool their efforts against terrorism.",
+   "ocr_conf": 95.17391304347827,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Forty YEARS AGO",
+   "deck": "",
+   "byline": "",
+   "text": "ture in some areas. The council also adopted an action plan for co-ordinating the efforts of the states to fight anti-national elements in the region. Chief ministers of five states, Punjab, Himachal Pradesh, Haryana, Rajasthan and Jammu and Kashmir, decided to pool their efforts against terrorism.",
+   "n_words": 46,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3571,
+      5809,
+      4056,
+      5853
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3571,
+      5886,
+      4176,
+      6150
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "UP POWER FAILURE",
+   "deck_raw": "",
+   "body_raw": "The entire power system collapsed in Uttar\nPradesh following a disturbance in the 400\nkv line between Singrauli and Obra. The\ntripping had its impact even in Delhi. Power\nis gradually being restored all over the state\nthough large areas continue to be plunged\nin darkness.",
+   "ocr_conf": 88.8695652173913,
+   "ocr_low_conf_share": 0.08695652173913043,
+   "headline": "UP POWER FAILURE",
+   "deck": "",
+   "byline": "",
+   "text": "The entire power system collapsed in Uttar Pradesh following a disturbance in the 400 kv line between Singrauli and Obra. The tripping had its impact even in Delhi. Power is gradually being restored all over the state though large areas continue to be plunged in darkness.",
+   "n_words": 46,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1735,
+      5922,
+      2059,
+      6024
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      6007,
+      2873,
+      6051
+     ]
+    ],
+    "body_boxes": [
+     [
+      2267,
+      6082,
+      2874,
+      6156
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "~ while a\navailing -\u2014\ndrive cab prectiom bom @ loan of,\nRs.60 lah!",
+   "deck_raw": "STATES AGAINST TERROR",
+   "body_raw": "THE NORTH ZONAL council decided to curb\ntax evasion by introducinga uniformtax struc-",
+   "ocr_conf": 94.38461538461539,
+   "ocr_low_conf_share": 0.0,
+   "headline": "~ while a availing - - drive cab prectiom bom @ loan of, Rs.60 lah!",
+   "deck": "STATES AGAINST TERROR",
+   "byline": "",
+   "text": "THE NORTH ZONAL council decided to curb tax evasion by introducinga uniformtax struc-",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 21.3,
+ "flags": [
+  "3 kept article(s) without a headline"
+ ]
+}

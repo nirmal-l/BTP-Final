@@ -1,0 +1,750 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_31_front",
+ "source_file": "2025-10-31_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-31_front.png",
+ "date": "2025-10-31",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 491,
+  "mean_line_conf": 90.48148289937335,
+  "orphan_words": 128,
+  "body_words_total": 2041
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      457,
+      697,
+      1715,
+      860
+     ]
+    ],
+    "layout_words": 30,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "a IT WAS AN AMAZING MEETING... HE IS A GREAT LEADER...\n_ OUTSTANDING GROUP OF DECISIONS WERE MADE... ON SCALE\nOF O-10... THE MEETING WAS AT 12\u2019\nDONALD TRUMP, US. PRESIDENT",
+   "ocr_conf": 87.70967741935483,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "a IT WAS AN AMAZING MEETING... HE IS A GREAT LEADER... _ OUTSTANDING GROUP OF DECISIONS WERE MADE... ON SCALE OF O-10... THE MEETING WAS AT 12' DONALD TRUMP, US. PRESIDENT",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1809,
+      698,
+      2931,
+      863
+     ]
+    ],
+    "layout_words": 19,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\u2018CHINA\u2019S DEVELOPMENT AND REJUVENATION ARE NOT\nINCOMPATIBLE WITH PRESIDENT TRUMP\u2019S GOAL OF MAKING\nAMERICA GREAT AGAIN\nXIJINPING, CHINA PRESIDENT",
+   "ocr_conf": 93.05263157894737,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "'CHINA'S DEVELOPMENT AND REJUVENATION ARE NOT; INCOMPATIBLE WITH PRESIDENT TRUMP'S GOAL OF MAKING; AMERICA GREAT AGAIN; XIJINPING, CHINA PRESIDENT",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      942,
+      3180,
+      1368
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      1411,
+      1234,
+      1541
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      1620,
+      679,
+      1690
+     ],
+     [
+      319,
+      1738,
+      761,
+      2327
+     ],
+     [
+      320,
+      2333,
+      761,
+      2881
+     ],
+     [
+      851,
+      1629,
+      1209,
+      1663
+     ],
+     [
+      928,
+      1803,
+      1141,
+      1869
+     ]
+    ],
+    "layout_words": 154
+   },
+   "headline_raw": "Trump, Xi agree on ceasefire in trade war:\nChina eases curbs on rare earth exports",
+   "deck_raw": "China tariffs cut from 57% to 47%; India\ntargets US deal with 15-20% final tariffs",
+   "body_raw": "RAVI DUTTAMISHRA\nNEW DELHI, OCTOBER 30\n\nTHE MOSTanticipated and con-\nsequential meeting for world\ntrade this year between US\nPresident Donald Trump and his\nChinese counterpart Xi Jinping\nin South Korea on Thursday\nended in a truce \u2014 aseemingly\nfragile one as the leaders of the\ntwo largest economies decided\nthat the agreement will be up for\nrenegotiations each year unlike\nstandard World Trade\nOrganization-compliant trade\ndeals which ring long-term cer-\ntainty.\n\nWhile the US decided to pull\nback from the sharp tariff rheto-\nric, lowering duty on Chinato 47\nper cent from 57 per cent in the\nbackdrop of the 100 percent tar-\niff hike threats starting\nNovember 1, China agreed tore-\nsume purchases of US agricul-\ntural products, including soy-\nbeans, and extended a one-year\npause on sweeping curbson rare\nearth elements that had left\ncompanies globally worried.\n\u201cI was extremely honored by\n\nBUSINESS AS USUAL\n\nWORK IN PROGRESS.\nOna common get",
+   "ocr_conf": 90.75324675324676,
+   "ocr_low_conf_share": 0.045454545454545456,
+   "headline": "Trump, Xi agree on ceasefire in trade war: China eases curbs on rare earth exports",
+   "deck": "China tariffs cut from 57% to 47%; India targets US deal with 15-20% final tariffs",
+   "byline": "RAVI DUTTAMISHRA; NEW DELHI, OCTOBER 30",
+   "text": "THE MOSTanticipated and consequential meeting for world trade this year between US President Donald Trump and his Chinese counterpart Xi Jinping in South Korea on Thursday ended in a truce - aseemingly fragile one as the leaders of the two largest economies decided that the agreement will be up for renegotiations each year unlike standard World Trade Organization-compliant trade deals which ring long-term certainty.\n\nWhile the US decided to pull back from the sharp tariff rhetoric, lowering duty on Chinato 47 per cent from 57 per cent in the backdrop of the 100 percent tariff hike threats starting November 1, China agreed tore-sume purchases of US agricultural products, including soybeans, and extended a one-year pause on sweeping curbson rare earth elements that had left companies globally worried. \"I was extremely honored by\n\nBUSINESS AS USUAL\n\nWORK IN PROGRESS. Ona common get",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      1486,
+      4139,
+      1948
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2057,
+      3643,
+      2127
+     ],
+     [
+      3250,
+      2176,
+      3695,
+      3114
+     ],
+     [
+      3250,
+      3126,
+      3694,
+      3320
+     ],
+     [
+      3738,
+      2019,
+      4180,
+      2203
+     ],
+     [
+      3737,
+      2217,
+      4182,
+      3003
+     ],
+     [
+      3738,
+      3009,
+      4179,
+      3272
+     ]
+    ],
+    "layout_words": 309
+   },
+   "headline_raw": "As Jemimah leads\nrecord ODI chase,\nIndia stun Australia\nto storm into final",
+   "deck_raw": "",
+   "body_raw": "MIHIR VASAVDA\nNAVI MUMBAI, OCTOBER 30\n\nNEARLY AN hour had passed\nsince the winning runs were\nscored to record India\u2019s greatest\nODI World Cup victory against\nAustralia, regardless of gender.\nBut Jemimah Rodrigues\u2019s name\nstill echoed inside the cavernous\nDY Patil Stadium as a few thou-\nsand fans stayed back, singing\nsongs and chanting hername.\nMinutes ago, Rodrigues was\nburied under her teammates,\nwho rushed onto the field after\nshe led India toa five-wicket win\nover Australia and formed a\nmountain over her. When the\nbatter emerged fromit, she was\nsoaked in tears. \u201cI've cried almost\nevery day throughout this tour,\u201d\nsaid Rodrigues. \u201cI was not doing\nwell mentally, going through a\nlot of anxiety, then being\ndropped was another challenge\nforme.\u201d\n\nOn a night like this, who\nneeds analysis? That can wait. In\nafever-dream of anevening, the\nIndian women\u2019s team took a\nsledgehammer to decades of\n\nhistory; rather, the glorious\nswing of Rodrigues\u2019s bat. \"Today\nwas not about my 50 or 100,\u201d she\nsaid. \u201cIt was about making India\nwin.\u201d\n\nFor the 193 minutes that she\nwas in the middle of a tense\nWorld Cup semi-final against\nAustralia, the Mumbai batter --\ndropped from the playing 11\nonce in the tournament and\nshuffled in the batting order --\ndid what Team India could not\nfor the last month: make the\nsupporters believe.\nWhen she came in the sec-\nond over, India were staring at a\nmountain of runs. They were\nchasing a total -- 339 \u2014 no team\nhad ever chased inthe history of\nwomen\u2019s one-day internation-\nals. And there was little evidence\nto suggest that India would\nchange the course of history\ntonight.\n\nNot just because they lost\nShafali Verma, the last-minute\naddition tothe squad, and the in-\nspirational Smriti Mandhana in-\nside the first 10 overs. But also\nbecause India barely got going in\nthis tournament.",
+   "ocr_conf": 92.79935275080906,
+   "ocr_low_conf_share": 0.02912621359223301,
+   "headline": "As Jemimah leads record ODI chase, India stun Australia to storm into final",
+   "deck": "",
+   "byline": "MIHIR VASAVDA; NAVI MUMBAI, OCTOBER 30",
+   "text": "NEARLY AN hour had passed since the winning runs were scored to record India's greatest ODI World Cup victory against Australia, regardless of gender. But Jemimah Rodrigues's name still echoed inside the cavernous DY Patil Stadium as a few thousand fans stayed back, singing songs and chanting hername. Minutes ago, Rodrigues was buried under her teammates, who rushed onto the field after she led India toa five-wicket win over Australia and formed a mountain over her. When the batter emerged fromit, she was soaked in tears. \"I've cried almost every day throughout this tour,\" said Rodrigues. \"I was not doing well mentally, going through a lot of anxiety, then being dropped was another challenge forme.\"\n\nOn a night like this, who needs analysis? That can wait. In afever-dream of anevening, the Indian women's team took a sledgehammer to decades of\n\nhistory; rather, the glorious swing of Rodrigues's bat. \"Today was not about my 50 or 100,\" she said. \"It was about making India win.\"\n\nFor the 193 minutes that she was in the middle of a tense World Cup semi-final against Australia, the Mumbai batter -- dropped from the playing 11 once in the tournament and shuffled in the batting order -- did what Team India could not for the last month: make the supporters believe. When she came in the second over, India were staring at a mountain of runs. They were chasing a total -- 339 - no team had ever chased inthe history of women's one-day internationals. And there was little evidence to suggest that India would change the course of history tonight.\n\nNot just because they lost Shafali Verma, the last-minute addition tothe squad, and the inspirational Smriti Mandhana inside the first 10 overs. But also because India barely got going in this tournament.",
+   "n_words": 298,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2280,
+      1236,
+      2337
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      2387,
+      1217,
+      2680
+     ],
+     [
+      810,
+      2768,
+      1249,
+      2874
+     ]
+    ],
+    "layout_words": 38
+   },
+   "headline_raw": "THE EDITORIAL PAGE",
+   "deck_raw": "",
+   "body_raw": "THAW, ATLAST\nDe-escalation of China-US\ntrade war reduces some\nuncertainty in world\neconomy. Much hinges on\nhow Trump's tariffs play out\nPAGES\n\nthe fact that President Xi author-\nized China to begin the purchase\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.52631578947368,
+   "ocr_low_conf_share": 0.0,
+   "headline": "THE EDITORIAL PAGE",
+   "deck": "",
+   "byline": "THAW, ATLAST",
+   "text": "De-escalation of China-US trade war reduces some uncertainty in world economy. Much hinges on how Trump's tariffs play out PAGES\n\nthe fact that President Xi authorized China to begin the purchase",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2949,
+      1723,
+      3160
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3242,
+      615,
+      3313
+     ],
+     [
+      318,
+      3362,
+      760,
+      3752
+     ],
+     [
+      375,
+      3937,
+      570,
+      3972
+     ],
+     [
+      359,
+      4080,
+      706,
+      4420
+     ],
+     [
+      320,
+      4560,
+      549,
+      4592
+     ],
+     [
+      809,
+      3203,
+      1251,
+      3753
+     ],
+     [
+      809,
+      4311,
+      1233,
+      4383
+     ],
+     [
+      806,
+      4431,
+      1249,
+      5138
+     ],
+     [
+      1296,
+      3203,
+      1740,
+      3746
+     ]
+    ],
+    "layout_words": 306
+   },
+   "headline_raw": "Indian firms bag first set of licences\nfor import of Chinese RE magnets",
+   "deck_raw": "",
+   "body_raw": "ANILSASI\nTOKYO, OCTOBER 30\n\nAS MANY as four Indiancompa-\nnies, including DE Diamond,\nHitachi and Continental India,\nare learnt to have bagged condi-\ntional permits to import Chinese\nrare earth magnets in whatis the\nfirst set of clearances since\nBeijing imposed tight controls on\nthe export of these magnets ear-\nlier in April. These controls are\n\nDECISION\n\nBIHAR\n@Inelection season,\nModi-Rahul war of\nwords over Chhath Puja\n@ RJD\u2019s biggest test in\nSiwan: The shadow of\nShahabuddin\nPAGES 4,6\n\nEXPLAINED\n\nsaid to be on pause for a year as\npart of a trade deal reached at a\nsummit between US President\nDonald Trump and Chinese\nPresident Xi Jinping in South\nKorea Thursday.\nThe clearances have beense-\ncured by the Indian arms of\nsome of these companies that\nsupply equipment to the coun-\ntry\u2019s automotive sector and are\nlearnt to be subject to export\ncontrols and myriad other con-\nditions. The permissions arecon-\n\nEXPRESS NEWS SERVICE\nNEW DELHI, OCTOBER 30\n\nMONTHS AFTER questioning\nTahawwur Rana, extradited from\nthe US nearly 16 years after his\narrest for his alleged role in the\n26/11 Mumbai terror attacks, the\nNational Investigation Agency\n(NIA) has approached the US\ngovernment through the Mutual\nLegal Assistance Treaty (MLAT)\nfor additional case details.\nAsenior NIA officer said in-\nvestigators had uncovered new\nevidence following Rana\u2019sinter-\nrogation.\n\u201cAfter questioning Rana, we\nhave found fresh evidence and\napproached the US through the\nMinistry of External Affairs. Aset\n\nditional and not for all applica-\ntions, industry sources indicated.\nNew restrictions on rare\nearth magnet and related mate-\nrials from China that kicked in\nfrom April 4 have impacted au-\ntomakers across the world, in-\ncluding vehicle manufacturers\nin India. EV makers here are par-\nticularly affected, and have been\nstaring at a potential shortage of\ncritical components, which\nraises concerns of price hikes\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.19281045751634,
+   "ocr_low_conf_share": 0.029411764705882353,
+   "headline": "Indian firms bag first set of licences for import of Chinese RE magnets",
+   "deck": "",
+   "byline": "ANILSASI; TOKYO, OCTOBER 30",
+   "text": "AS MANY as four Indiancompanies, including DE Diamond, Hitachi and Continental India, are learnt to have bagged conditional permits to import Chinese rare earth magnets in whatis the first set of clearances since Beijing imposed tight controls on the export of these magnets earlier in April. These controls are\n\nDECISION\n\nBIHAR @Inelection season, Modi-Rahul war of words over Chhath Puja @ RJD's biggest test in Siwan: The shadow of Shahabuddin PAGES 4,6\n\nEXPLAINED\n\nsaid to be on pause for a year as part of a trade deal reached at a summit between US President Donald Trump and Chinese President Xi Jinping in South Korea Thursday. The clearances have beensecured by the Indian arms of some of these companies that supply equipment to the country's automotive sector and are learnt to be subject to export controls and myriad other conditions. The permissions arecon-\n\nEXPRESS NEWS SERVICE NEW DELHI, OCTOBER 30\n\nMONTHS AFTER questioning Tahawwur Rana, extradited from the US nearly 16 years after his arrest for his alleged role in the 26/11 Mumbai terror attacks, the National Investigation Agency (NIA) has approached the US government through the Mutual Legal Assistance Treaty (MLAT) for additional case details. Asenior NIA officer said investigators had uncovered new evidence following Rana'sinter-rogation. \"After questioning Rana, we have found fresh evidence and approached the US through the Ministry of External Affairs. Aset\n\nditional and not for all applications, industry sources indicated. New restrictions on rare earth magnet and related mate-rials from China that kicked in from April 4 have impacted automakers across the world, including vehicle manufacturers in India. EV makers here are particularly affected, and have been staring at a potential shortage of critical components, which raises concerns of price hikes",
+   "n_words": 285,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2949,
+      3117,
+      3160
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      3243,
+      2142,
+      3315
+     ],
+     [
+      1784,
+      3363,
+      2225,
+      3754
+     ],
+     [
+      2272,
+      3204,
+      2714,
+      3747
+     ],
+     [
+      2762,
+      3205,
+      3203,
+      3748
+     ]
+    ],
+    "layout_words": 196
+   },
+   "headline_raw": "Message beyond optics: G2 world,\nChina rising, frames Delhi challen;",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER 30\n\nUS PRESIDENT Donald Trump's\nmuch-anticipated meeting with\nChinese President XiJinping, the\nfirst between the leaders since\nTrump returned to office for a\nsecond term, was widely\nwatched for what they agreed\nupon \u2014 and what they did not.\nAfter the two leaders met in\nthe South Korean city of Busan\n\nThursday, Trump said yo\nChina had agreedtokeep [=\nexportsofrareearthmin- [=\nerals - usedinarangeof [3%\nkey global industries \u2014 \u2018\u2014\nflowing to the world as part ofa\none-year agreement. \u201cAll of the\nrare earth has been settled,\u201d\nTrump told reporters on Air\nForce One. \u201cAnd that's for the\nworld, worldwide, you could say\nthis was a worldwide situation,\nnot just a US situation.\u201d\n\u201cThere is no roadblock at all\n\n\"] on rare earth. That will\n: hopefully disappear\nfrom our vocabulary for\nme@| alittle while\u201d he said.\nFurther, he said, the\ntariffs imposed on China as pun-\nishment for its role in the move-\nment of the deadly opioid fen-\ntanyl tothe US would be reduced\nfrom 20% to 10%. That brings\ndown the total US tariff rate on\nChina from 57% to.47%.\nDescribing the meeting as\nCONTINUED ONPAGE 2",
+   "ocr_conf": 88.55897435897435,
+   "ocr_low_conf_share": 0.08717948717948718,
+   "headline": "Message beyond optics: G2 world, China rising, frames Delhi challen;",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER 30",
+   "text": "US PRESIDENT Donald Trump's much-anticipated meeting with Chinese President XiJinping, the first between the leaders since Trump returned to office for a second term, was widely watched for what they agreed upon - and what they did not. After the two leaders met in the South Korean city of Busan\n\nThursday, Trump said yo China had agreedtokeep [= exportsofrareearthmin- [= erals - usedinarangeof [3% key global industries - ' - flowing to the world as part ofa one-year agreement. \"All of the rare earth has been settled,\" Trump told reporters on Air Force One. \"And that's for the world, worldwide, you could say this was a worldwide situation, not just a US situation.\" \"There is no roadblock at all\n\n\"] on rare earth. That will: hopefully disappear from our vocabulary for me@ alittle while\" he said. Further, he said, the tariffs imposed on China as punishment for its role in the movement of the deadly opioid fentanyl tothe US would be reduced from 20% to 10%. That brings down the total US tariff rate on China from 57% to.47%. Describing the meeting as",
+   "n_words": 183,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3385,
+      4118,
+      3838
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      3917,
+      3627,
+      3987
+     ],
+     [
+      3248,
+      4038,
+      3690,
+      4461
+     ],
+     [
+      3248,
+      4472,
+      3689,
+      5141
+     ],
+     [
+      3978,
+      3956,
+      4175,
+      4112
+     ],
+     [
+      3736,
+      4196,
+      4181,
+      5134
+     ]
+    ],
+    "layout_words": 265
+   },
+   "headline_raw": "\u2018Regime change\u2019 plot\nbehind 2020 riots,\nDelhi Police tells SC,\nopposes bail pleas",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, OCTOBER 30\n\nTHE DELHI Police on Thursday\ntold the Supreme Court that the\ncommunal riots that rocked the\nCapital in2020 were a \u201ccriminal\nconspiracy hatched for achiev-\ning the final \u2018regime change\u2019\ngoal\u201d and stoutly opposed grant-\ning of bail to the accused, includ-\ning Umar Khalid and Sharjeel\nImam, incases registered against\nthem.\n\nIn an affidavit filed in the\nSupreme Court, the Delhi Police\nsaid evidence indicated that the\n\u201cinstant conspiracy\u201d was pre-\nmeditated to coincide with US\nPresident Donald Trump's offi-\ncial visit to India to attract inter-\nnational media attention and\nportray the Citizenship\nAmendment Act (CAA) as a\n\u201cpogrom\u201d against the Muslim\ncommunity.\nAccording to the police, the\npetitioners were solely respon-\nsible for the delay in the trial in\nthe case. \u201cThe petitioners,\nthrough their mala fide machi-\n\nUmar Khalid\namong\nthose who\nsought bail\n\nnations, have made every at-\ntempt available to them in the\nbook to delay, derail and obfus-\ncate the investigation and trial in\nthe matter. The bail in the pres-\nent case, specifically in view of\nthe extreme severe gravity of the\noffence, cannot be granted only\nonthe ground of delay for which\nthe petitioner(s) themselves are\nresponsible,\u201d the affidavit said.\nThe police said there exists\n\u201cocular and irrefutable docu-\nmentary as well as technical ev-\nidence against the petitioners,\nshowing their intrinsic, deep-\nrooted and fervent complicity in\nengineering nationwide riots on\ncommunal lines\u201d.\nThe affidavit said \u201cthe conspir-\nacy hatched, nurtured and exe-\ncuted by\u201d them \u201cwas to strike at\nthe very heart of the sovereignty\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.13207547169812,
+   "ocr_low_conf_share": 0.03018867924528302,
+   "headline": "'Regime change' plot behind 2020 riots, Delhi Police tells SC, opposes bail pleas",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, OCTOBER 30",
+   "text": "THE DELHI Police on Thursday told the Supreme Court that the communal riots that rocked the Capital in2020 were a \"criminal conspiracy hatched for achieving the final 'regime change' goal\" and stoutly opposed granting of bail to the accused, including Umar Khalid and Sharjeel Imam, incases registered against them.\n\nIn an affidavit filed in the Supreme Court, the Delhi Police said evidence indicated that the \"instant conspiracy\" was premeditated to coincide with US President Donald Trump's official visit to India to attract international media attention and portray the Citizenship Amendment Act (CAA) as a \"pogrom\" against the Muslim community. According to the police, the petitioners were solely responsible for the delay in the trial in the case. \"The petitioners, through their mala fide machi-\n\nUmar Khalid among those who sought bail\n\nnations, have made every attempt available to them in the book to delay, derail and obfuscate the investigation and trial in the matter. The bail in the present case, specifically in view of the extreme severe gravity of the offence, cannot be granted only onthe ground of delay for which the petitioner(s) themselves are responsible,\" the affidavit said. The police said there exists \"ocular and irrefutable documentary as well as technical evidence against the petitioners, showing their intrinsic, deep-rooted and fervent complicity in engineering nationwide riots on communal lines\". The affidavit said \"the conspiracy hatched, nurtured and executed by\" them \"was to strike at the very heart of the sovereignty",
+   "n_words": 241,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1272,
+      3925,
+      1682,
+      3980
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1386,
+      4351,
+      1647,
+      4380
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "more Case",
+   "deck_raw": "",
+   "body_raw": "\u2018wx i, Ranais",
+   "ocr_conf": 41.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "more Case",
+   "deck": "",
+   "byline": "",
+   "text": "'wx i, Ranais",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      3899,
+      3191,
+      4111
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4194,
+      2210,
+      4342
+     ],
+     [
+      1783,
+      4393,
+      2227,
+      5136
+     ],
+     [
+      2515,
+      5063,
+      2595,
+      5092
+     ],
+     [
+      2761,
+      4828,
+      3202,
+      5133
+     ]
+    ],
+    "layout_words": 145
+   },
+   "headline_raw": "17 children among 18 held hostage\nin Mumbai, freed; accused killed",
+   "deck_raw": "",
+   "body_raw": "MANISH KUMAR PATHAK,\nMOHAMED THAVER &\nVALLABH OZARKAR\nMUMBAI, OCTOBER 30\n\nPOLICE IN Mumbai shot dead a\n50-year-old man and freed 18\npeople, 17 of them children,\nwhom he had allegedly taken\nhostage at a studio in Powai\nThursday aftemoon.\nThe incident took place at Ra\nStudio in Powai\u2019s Mahavir\nClassik building. Police said the\nchildren, aged between 10 and\n12 years, had come to the studio\nfrom different parts of\nMaharashtra for an audition\nwhen a man, later identified as\nRohit Arya, allegedly locked\nthem inside and threatened to\nharm them and himself.\nSince last year, Arya, who\nhailed from Pune, had been\n\ndone\n\nseeking payment of dues, claim-\ning that the government had not\npaid his firm for work done for\nthe Swachhta Monitor Project\nunder the Chief Minister\u2019s \u2018My\nSchool, Beautiful School\u2019 cam-\npaign. He had even held protests\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.35616438356165,
+   "ocr_low_conf_share": 0.0136986301369863,
+   "headline": "17 children among 18 held hostage in Mumbai, freed; accused killed",
+   "deck": "",
+   "byline": "MANISH KUMAR PATHAK,; MOHAMED THAVER &; VALLABH OZARKAR; MUMBAI, OCTOBER 30",
+   "text": "POLICE IN Mumbai shot dead a 50-year-old man and freed 18 people, 17 of them children, whom he had allegedly taken hostage at a studio in Powai Thursday aftemoon. The incident took place at Ra Studio in Powai's Mahavir Classik building. Police said the children, aged between 10 and 12 years, had come to the studio from different parts of Maharashtra for an audition when a man, later identified as Rohit Arya, allegedly locked them inside and threatened to harm them and himself. Since last year, Arya, who hailed from Pune, had been\n\ndone\n\nseeking payment of dues, claiming that the government had not paid his firm for work done for the Swachhta Monitor Project under the Chief Minister's 'My School, Beautiful School' campaign. He had even held protests",
+   "n_words": 129,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1333,
+      4430,
+      1682,
+      4505
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      4589,
+      1736,
+      5132
+     ]
+    ],
+    "layout_words": 67
+   },
+   "headline_raw": "Gay lodged in\nae TiharJail",
+   "deck_raw": "",
+   "body_raw": "of questions has been sent via\nMLAT,\u201d the officer said.\nThe officer, however, did not\nelaborate about the questions.\nAccording to sources, the central\nagency suspects Rana may have\nbeeninvolved in other terror-re-\nlated conspiracies in India be-\nyond the Mumbai attacks. Rana,\ncurrently lodged in Tihar Jail un-\nder judicial custody, was ques-\ntioned extensively after his ex-\ntradition on April 10.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.07462686567165,
+   "ocr_low_conf_share": 0.05970149253731343,
+   "headline": "Gay lodged in ae TiharJail",
+   "deck": "",
+   "byline": "",
+   "text": "of questions has been sent via MLAT,\" the officer said. The officer, however, did not elaborate about the questions. According to sources, the central agency suspects Rana may have beeninvolved in other terror-related conspiracies in India beyond the Mumbai attacks. Rana, currently lodged in Tihar Jail under judicial custody, was questioned extensively after his extradition on April 10.",
+   "n_words": 58,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      4805,
+      760,
+      4893
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4919,
+      735,
+      5093
+     ],
+     [
+      317,
+      5267,
+      499,
+      5342
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "~ _ x. q",
+   "deck_raw": "",
+   "body_raw": "POLITICS\nTHE LONG SHADOW\nOF JUNGLE RAJ\nPAGE7\n\nPAGE 1\nANCHOR",
+   "ocr_conf": 83.63636363636364,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "",
+   "deck": "",
+   "byline": "POLITICS; THE LONG SHADOW; OF JUNGLE RAJ; ANCHOR",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      567,
+      5263,
+      4147,
+      5386
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      803,
+      5460,
+      1249,
+      5891
+     ],
+     [
+      807,
+      5935,
+      1247,
+      6159
+     ],
+     [
+      1295,
+      5419,
+      1386,
+      5447
+     ],
+     [
+      1294,
+      5461,
+      1735,
+      5724
+     ],
+     [
+      1293,
+      5736,
+      1735,
+      6166
+     ],
+     [
+      2759,
+      5856,
+      3193,
+      6128
+     ],
+     [
+      3248,
+      5421,
+      3689,
+      6168
+     ],
+     [
+      3735,
+      5422,
+      4177,
+      6162
+     ]
+    ],
+    "layout_words": 394
+   },
+   "headline_raw": "From classroom with no furniture to top Bench: CJI-designate\u2019s journey",
+   "deck_raw": "",
+   "body_raw": "On Thursday, a notification\nregarding the appointment of\nJustice Surya Kant as the 53rd\nChief Justice of India (CJI) was is-\nsued by the Law Ministry's\nDepartment of Justice. Justice\nKant, who will assume charge on\nNovember 24, succeeds Justice B\nRGavai, who will demit office on\nNovember 23. Justice Kant will\nremain in office till February 9,\n\nFrom a cousin to former\nclassmates \u2014 all of whom still\nfondly call Justice Kant \u2018Surya\u2019 \u2014\nexchanged congratulatory mes-\nsages and memories inside an\nunfurnished room in Rishi\u2019s\n\nhouse.\n\nCousin Ramdiya, 40, a farmer\nwho joined the group after park-\ning his bullock cart outside\nRishi's house, says, \u201cI may bea\nsmall farmer, but that has never\naffected Surya\u2019s affection for\nme.\u201d\n\nTwo of Justice Kant\u2019s class-\nmates \u2014 Satbir Sharma, a former\nserviceman who was with him\nfrom Classes 1 to 10, and Phool\nKumar, a farmer who was with\nhim in Classes 9 and 10\u2014saidhe\nwas \u201cquite intelligent\u201d inschool.\n\u201cOur school fee was just 10\npaise back then. Since the school\ndid not have benches, we would\nsit on empty sacks on the floor,\u201d\n\nQ-designate Justice Surya\nKant; his brother Rishi Kant,\naretired government school\nteacher, and sister-in-law\nRajbala Devi, a homemaker,\nat their house in Petwar\nvillage. Sukhbir Siwach\n\nrecalls Satbir.\nPhooladds, \u201cIhad failed Class\n9 twice when Surya joined the\nclass. Even after all his achieve-\nments today, he still remembers\nour names.\u201d\nJustice Kant, the youngest\namong five siblings \u2014 one sister\nand four brothers \u2014 was bom to\nShashi Devi, a homemaker, and\nMadangopal Shastri, a govern-\nment school teacher, in Haryana's\nHisar, nearly 50 km from his vil-\nlage, on February 10, 1962.\nHis oldest sibling, sister\nKamla Devi, 74, studied till Class\n8 before getting married. Among\nhis brothers, Rishi, the oldest, isa\nretired government school\n\nteacher; Shiv Kant, 68, a retired\ntuberculosis and chest specialist\nwho runs a private hospital in\nHaryana\u2019s Bhiwani; and Dev\nKant, 66, a retired group instruc-\ntor from an Industrial Training\nInstitute (ITI) in Haryana.\nHaving completed his grad-\nuation from Hisar\u2019s Government\nPost Graduate College in 1981\nand pursued his law degree from\nRohtak\u2019s Maharshi Dayanand\nUniversity in 1984, Justice Kant\nbecame the first law graduate in\nhis family.\nInstead of pursuing a\nMaster's degree in law, like his\nfather wanted him to, he started\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.48600508905852,
+   "ocr_low_conf_share": 0.03307888040712468,
+   "headline": "From classroom with no furniture to top Bench: CJI-designate's journey",
+   "deck": "",
+   "byline": "",
+   "text": "On Thursday, a notification regarding the appointment of Justice Surya Kant as the 53rd Chief Justice of India (CJI) was issued by the Law Ministry's Department of Justice. Justice Kant, who will assume charge on November 24, succeeds Justice B RGavai, who will demit office on November 23. Justice Kant will remain in office till February 9,\n\nFrom a cousin to former classmates - all of whom still fondly call Justice Kant 'Surya' - exchanged congratulatory messages and memories inside an unfurnished room in Rishi's\n\nhouse.\n\nCousin Ramdiya, 40, a farmer who joined the group after parking his bullock cart outside Rishi's house, says, \"I may bea small farmer, but that has never affected Surya's affection for me.\"\n\nTwo of Justice Kant's classmates - Satbir Sharma, a former serviceman who was with him from Classes 1 to 10, and Phool Kumar, a farmer who was with him in Classes 9 and 10 - saidhe was \"quite intelligent\" inschool. \"Our school fee was just 10 paise back then. Since the school did not have benches, we would sit on empty sacks on the floor,\"\n\nQ-designate Justice Surya Kant; his brother Rishi Kant, aretired government school teacher, and sister-in-law Rajbala Devi, a homemaker, at their house in Petwar village. Sukhbir Siwach\n\nrecalls Satbir. Phooladds, \"Ihad failed Class 9 twice when Surya joined the class. Even after all his achieve-ments today, he still remembers our names.\" Justice Kant, the youngest among five siblings - one sister and four brothers - was bom to Shashi Devi, a homemaker, and Madangopal Shastri, a government school teacher, in Haryana's Hisar, nearly 50 km from his village, on February 10, 1962. His oldest sibling, sister Kamla Devi, 74, studied till Class 8 before getting married. Among his brothers, Rishi, the oldest, isa retired government school\n\nteacher; Shiv Kant, 68, a retired tuberculosis and chest specialist who runs a private hospital in Haryana's Bhiwani; and Dev Kant, 66, a retired group instructor from an Industrial Training Institute (ITI) in Haryana. Having completed his graduation from Hisar's Government Post Graduate College in 1981 and pursued his law degree from Rohtak's Maharshi Dayanand University in 1984, Justice Kant became the first law graduate in his family. Instead of pursuing a Master's degree in law, like his father wanted him to, he started",
+   "n_words": 382,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5460,
+      677,
+      5533
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SUKHBIR SIWACH\nPETWAR (HISAR), OCT 30",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "SUKHBIR SIWACH; PETWAR (HISAR), OCT 30",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5578,
+      758,
+      6166
+     ]
+    ],
+    "layout_words": 73,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SITTING INSIDE his modest\nhouse in Haryana\u2019s Petwar vil-\nlage, Rishi Kant, 70, recounted a\ndeclaration by his youngest sib-\nling decades ago.\n\u201cBathed in sweat, as we\nthreshed the wheat harvested\nfrom our family\u2019s six-acre field,\nSurya (his youngest brother)de-\nclared, \u2018I will change my life\u2019. He\nhad just completed his matricu-\nlation,\u201d recalls Rishi, flanked by\nlocals in his house, located 136\nkm from New Delhi.\nAnd change his life \u2018Surya\u2019",
+   "ocr_conf": 93.95890410958904,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "SITTING INSIDE his modest house in Haryana's Petwar village, Rishi Kant, 70, recounted a declaration by his youngest sibling decades ago. \"Bathed in sweat, as we threshed the wheat harvested from our family's six-acre field, Surya (his youngest brother)declared, 'I will change my life'. He had just completed his matriculation,\" recalls Rishi, flanked by locals in his house, located 136 km from New Delhi. And change his life 'Surya'",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.4,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,697 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_07_editorial",
+ "source_file": "2025-11-07_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-07_editorial.png",
+ "date": "2025-11-07",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 844,
+  "n_lines": 497,
+  "mean_line_conf": 89.4623257908316,
+  "orphan_words": 4,
+  "body_words_total": 2054
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3585,
+      858,
+      4182,
+      888
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTALREGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTALREGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      357,
+      936,
+      730,
+      1098
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1150,
+      761,
+      1582
+     ],
+     [
+      322,
+      1628,
+      752,
+      1974
+     ],
+     [
+      321,
+      2024,
+      761,
+      2412
+     ],
+     [
+      363,
+      2525,
+      717,
+      2621
+     ],
+     [
+      559,
+      2672,
+      747,
+      2713
+     ],
+     [
+      577,
+      2713,
+      753,
+      2849
+     ]
+    ],
+    "layout_words": 142
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@THE CENTRE WILLLAUNCH\nAYEAR-LONG nationwide com-\nmemoration of Vande Mataram\non Friday, marking 150 years of\nthe national song composed by\nBankim Chandra Chatterjee.\nThe event at Delhi's Indira Gan-\ndhi Indoor Stadium will see\nPrime Minister Narendra Modi\nrelease acommemorative\nstamp and coin.\n\n@ THE SUPREME COURT ON\nFRIDAY will hear the case\nrelated to the management of\nstray dog population. Abench\nheaded by Justice Vikram Nath\nis likely to pass some directions\nafter states filed status reports\ndetailing their efforts in the last\nthree months.\n\n@ PM NARENDRA MODI begins\natwo-day visit to his constit-\nuency of Varanasi on Friday. He\nis scheduled to flag off four new\nVande Bharat Express trains on\nSaturday, which will operateon\nthe Varanasi-Khajuraho, Luck-\nnow-Saharanpur, Firozpur-Delhi\nand Ernakulam-Bengaluru\nroutes.\n\nBusiness as Usual\nByEPUNNY\n\nTNU: University\n\nFiles 600 court\nC8505 Bp canst\nstudents s\n{eachers.",
+   "ocr_conf": 85.94366197183099,
+   "ocr_low_conf_share": 0.08450704225352113,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "@THE CENTRE WILLLAUNCH; @ THE SUPREME COURT ON",
+   "text": "AYEAR-LONG nationwide commemoration of Vande Mataram on Friday, marking 150 years of the national song composed by Bankim Chandra Chatterjee. The event at Delhi's Indira Gandhi Indoor Stadium will see Prime Minister Narendra Modi release acommemorative stamp and coin.\n\nFRIDAY will hear the case related to the management of stray dog population. Abench headed by Justice Vikram Nath is likely to pass some directions after states filed status reports detailing their efforts in the last three months.\n\n@ PM NARENDRA MODI begins atwo-day visit to his constituency of Varanasi on Friday. He is scheduled to flag off four new Vande Bharat Express trains on Saturday, which will operateon the Varanasi-Khajuraho, Lucknow-Saharanpur, Firozpur-Delhi and Ernakulam-Bengaluru routes.\n\nBusiness as Usual ByEPUNNY\n\nTNU: University\n\nFiles 600 court C8505 Bp canst students s {eachers.",
+   "n_words": 130,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2853,
+      1100,
+      4092,
+      1654
+     ],
+     [
+      3248,
+      1697,
+      3591,
+      1825
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2994,
+      1019,
+      3952,
+      1063
+     ]
+    ],
+    "body_boxes": [
+     [
+      2762,
+      1706,
+      3108,
+      1820
+     ],
+     [
+      2763,
+      1855,
+      3690,
+      2533
+     ],
+     [
+      2763,
+      1869,
+      3205,
+      2214
+     ],
+     [
+      3740,
+      1712,
+      4181,
+      1778
+     ],
+     [
+      3739,
+      1790,
+      4182,
+      2892
+     ]
+    ],
+    "layout_words": 265
+   },
+   "headline_raw": "Red flags in Govt: Can\nGenAI models track\nprompts of officials,\nleverage citizens\u2019 data?\n[EJ EXPLAINED",
+   "deck_raw": "CONCERNS GROW AS MARKET EXPANDS",
+   "body_raw": "Soumyarendra Barik\n& Anil Sasi\nNew Delhi, November 6\n\nWHAT HAPPENS whenagov- Theconcern:\nernment officer uploads an in-\nternal note toan Al chatbot for Inference, data\na quick summary? Whenapo- Generative AI platforms can\nlice department asksan Al as- draw deeper inferences\nsistant to optimise CCTVs about users from their\nacrossacity?Orwhenapolicy- prompts because every\nmaker uses aconversational input reveals intent, tone,\nmodel to draft an inter-minis- preferences, and context in\nterial brief? Canthe Alsystem _ real time. Besides, some AI\nanalyse such prompts atscale, companies have signed dis-\nidentify the user, infer their tribution deals with tele-\nrole, draw patterns across com operators and their\nqueriesand predictstrategicin- free subscription is usually\ntent? linked to phone numbers.\nThese questions are being.\ndebated in sec- \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014S\u2014~SF\u2014\n\nWHAT HAPPENS when a gov-\nernment officer uploads an in-\nternal note to an AI chatbot for\na quick summary? When a po-\nlice department asks an AI as-\nsistant to optimise CCTVs\nacross a city? Or when a policy-\nmaker uses a conversational\nmodel to draft an inter-minis-\n\nlationships, and search pat-\nterns.\n\nTwo broad areas are under\ndiscussion. First, whether\nqueries made by top function-\naries \u2014 senior bureaucrats, pol-\nicy advisers, scientists, corpor-\nate leaders and influential\nacademics \u2014 could be mapped\ntoidentify priorities, timelines,\norweaknesses.\nSecond, whether anony-\nmised mass usage data from\nmillions of Indian users could\nhelp global firms.\nOne issue being discussed,\nsources said, is whether to \u201cpro-\ntect\u201d official systems from for-\neign AI services.\n\u201cWe don\u2019t know what the\nlevel of trackingis on these ser-\nvices, and whether they are\nable to identify thesignificance\nof auser\u2019s prompts to make in-\nferences from it. For now, the\nforeign LLMsare most popular,\nand therecan be more safety in\nrunning them directly on a\ncomputer rather than on a\n\u00bbCONTINUED ONPAGE 2",
+   "ocr_conf": 87.72185430463576,
+   "ocr_low_conf_share": 0.07947019867549669,
+   "headline": "Red flags in Govt: Can GenAI models track prompts of officials, leverage citizens' data? [EJ EXPLAINED",
+   "deck": "CONCERNS GROW AS MARKET EXPANDS",
+   "byline": "",
+   "text": "Soumyarendra Barik & Anil Sasi New Delhi, November 6\n\nWHAT HAPPENS whenagov- Theconcern: ernment officer uploads an internal note toan Al chatbot for Inference, data a quick summary? Whenapo- Generative AI platforms can lice department asksan Al as- draw deeper inferences sistant to optimise CCTVs about users from their acrossacity?Orwhenapolicy- prompts because every maker uses aconversational input reveals intent, tone, model to draft an inter-minis- preferences, and context in terial brief? Canthe Alsystem _ real time. Besides, some AI analyse such prompts atscale, companies have signed disidentify the user, infer their tribution deals with tele-role, draw patterns across com operators and their queriesand predictstrategicin- free subscription is usually tent? linked to phone numbers. These questions are being.\n\nWHAT HAPPENS when a government officer uploads an internal note to an AI chatbot for a quick summary? When a police department asks an AI assistant to optimise CCTVs across a city? Or when a policy-maker uses a conversational model to draft an inter-minislationships, and search patterns.\n\nTwo broad areas are under discussion. First, whether queries made by top function-aries - senior bureaucrats, policy advisers, scientists, corporate leaders and influential academics - could be mapped toidentify priorities, timelines, orweaknesses. Second, whether anonymised mass usage data from millions of Indian users could help global firms. One issue being discussed, sources said, is whether to \"protect\" official systems from foreign AI services. \"We don't know what the level of trackingis on these services, and whether they are able to identify thesignificance of auser's prompts to make inferences from it. For now, the foreign LLMsare most popular, and therecan be more safety in running them directly on a computer rather than on a \u00bbCONTINUED ONPAGE 2",
+   "n_words": 280,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2448,
+      2570,
+      2509
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1689,
+      2571,
+      2703,
+      2681
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      2584,
+      1391,
+      2735
+     ],
+     [
+      1486,
+      2590,
+      1715,
+      2681
+     ],
+     [
+      2572,
+      2697,
+      2617,
+      2729
+     ]
+    ],
+    "layout_words": 31
+   },
+   "headline_raw": "Women waitto cast their votes in the first phase of the Bihar Assembly elections, outside a polling booth in Patna on Thursday. ani",
+   "deck_raw": "e BP: 32 ID(U):23 LIPRV):1 RID: 42 Left: 11 inc:8 vie-4\n~ (17.24%) (175%) (6.67%) (23.81%) (6.57%) (769%) (2.04%)\nid | L_| vy | Ui | |",
+   "body_raw": "64.66% OF 3.75 CRORE electors cast their\nvotes in the 121 constituencies which went to\npolls inthe first phase of the Bihar Assembly\nelections on Friday.\n\nHow these\nseats voted\n\na |",
+   "ocr_conf": 88.59375,
+   "ocr_low_conf_share": 0.03125,
+   "headline": "Women waitto cast their votes in the first phase of the Bihar Assembly elections, outside a polling booth in Patna on Thursday. ani",
+   "deck": "e BP: 32 ID(U):23 LIPRV):1 RID: 42 Left: 11 inc:8 vie-4 ~ (17.24%) (175%) (6.67%) (23.81%) (6.57%) (769%) (2.04%)",
+   "byline": "",
+   "text": "64.66% OF 3.75 CRORE electors cast their votes in the 121 constituencies which went to polls inthe first phase of the Bihar Assembly elections on Friday.\n\nHow these seats voted\n\na",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2583,
+      3520,
+      2671
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2762,
+      2530,
+      3692,
+      2621
+     ],
+     [
+      3154,
+      2530,
+      3314,
+      2578
+     ]
+    ],
+    "body_boxes": [
+     [
+      2759,
+      2665,
+      3692,
+      2894
+     ],
+     [
+      3249,
+      2705,
+      3692,
+      2898
+     ],
+     [
+      2999,
+      2933,
+      3942,
+      2965
+     ]
+    ],
+    "layout_words": 59
+   },
+   "headline_raw": "government, The ol wer com\nIndian Express has | exclusive | tions.\nTanemte awewtyA nwa Qian.",
+   "deck_raw": "tions of the Union EXPRESS | _ vices with tele-\ngovernment, The eyvcluctve | com subscrip-\nEXPRESS",
+   "body_raw": "learnt,amidgrow- \u2014 Senior offi-\ning concern about the rapid _cials say the core issue is not\nproliferation of generative AI only dataprivacybutinference\n(GenAJ) platforms in India,es- _ risk: whetherthesesystems can\npecially those run by foreign _ derive sensitive insights indi-\nfirms,often bundled asfreeser- _ rectly from users\u2019 behaviour, re-\n\ncials say the core issue is not\nonly data privacy butinference\nrisk: whether these systems can\nderive sensitive insights indi-\nrectly from users\u2019 behaviour, re-\n\nFULL REPORT ON WWW.INDIANEXPRESS.COM",
+   "ocr_conf": 81.56410256410257,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "government, The ol wer com Indian Express has exclusive tions. Tanemte awewtyA nwa Qian.",
+   "deck": "tions of the Union EXPRESS _ vices with tele-government, The eyvcluctve com subscrip-EXPRESS",
+   "byline": "",
+   "text": "learnt,amidgrow- - Senior offiing concern about the rapid _cials say the core issue is not proliferation of generative AI only dataprivacybutinference (GenAJ) platforms in India,es- _ risk: whetherthesesystems can pecially those run by foreign _ derive sensitive insights indifirms,often bundled asfreeser- _ rectly from users' behaviour, recials say the core issue is not only data privacy butinference risk: whether these systems can derive sensitive insights indirectly from users' behaviour, re-",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      2734,
+      2590,
+      2968
+     ],
+     [
+      810,
+      2978,
+      2586,
+      3083
+     ]
+    ],
+    "deck_boxes": [
+     [
+      324,
+      3207,
+      601,
+      3250
+     ],
+     [
+      1024,
+      3576,
+      1121,
+      3619
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      3576,
+      761,
+      3939
+     ],
+     [
+      807,
+      3137,
+      1160,
+      3328
+     ],
+     [
+      808,
+      3142,
+      1739,
+      3654
+     ],
+     [
+      805,
+      3380,
+      1124,
+      3711
+     ],
+     [
+      808,
+      3699,
+      1738,
+      3972
+     ],
+     [
+      1784,
+      3142,
+      2229,
+      3966
+     ],
+     [
+      2272,
+      3188,
+      2693,
+      3586
+     ],
+     [
+      2273,
+      3599,
+      2709,
+      3923
+     ]
+    ],
+    "layout_words": 328
+   },
+   "headline_raw": "Cycles in 2006 to das-hazarithis\ntime: Nitish banks on the mahila",
+   "deck_raw": "EXPLAINED\nNitish",
+   "body_raw": "HAS BIHAR\u2019S\nGROWTH CAUGHT\nUP WITH THE\nREST OF INDIA?\nBihar\u2019s overall base of\neconomic activity is small,\nand its growth rates can\nthus flatterto deceive P10\n\nSantosh Singh\n& Deeptiman Tiwary\nBettiah, Munger,\nDarbhanga, Gopaiganj,\nNovember 6\n\nSantosh Singh scheme they have dubbed\n& Deeptiman Tiwary \u201cdas-hazari (for the Rs 10,000\nBettiah, Munger, it entails)\u201d.\nDarbhanga, Gopalganj, The schemeis one of several\nNovember 6 that Nitish Kumar has intro-\na duced in his two decades\nTHE SPEED with in power for the bene-\nwhich the Mukhya- fit of women. In2006,\nmantri Mahila Rojgar months after taking\nYojana (MMRY), an- over as CM, hestarted\nnounced by Chief the popular bicycle\nMinister Nitish scheme that was a\nKumarjust beforethe DECISION runaway success and\n\nTHE SPEED with\nwhich the Mukhya-\nmantri Mahila Rojgar\nYojana (MMRY), an-\nnounced by Chief\nMinister Nitish\nKumarjust before the\nannouncementofthe\nBihar nolle hae are\n\nBihar polls, has ac- \u201c\"\u201c\u201c\u201c\u201c' loyal base of women\nquired a moniker is B | H AR supporters. The focus\njust one sign of its on women voters is\npopularity. The other important, given that\nis the voices on the ground, theytendtoturnouttoexercise\nwith women beneficiaries lin- _ their franchise morethan men.\ning up behind the MMRY In 2020, 59.69% of women\n\nvoters cast their vote, while\nonly 54.45% of men did. The\ngap was higher in 2015, with\nwomen voters recording a\n60.48% turnout while 53.32% of\nmen did. While Phase 1 on\nThursday saw a record 64.65%\nturnout as of 8.30 pm, the\ngender-wise break-up was not\navailable immediately.\nWorking in Patna, Vibha\nDevi tooka two-day leaveto go\nto her village in Nalanda to fill\na form for the Rojgar Yojana,\nwith Rs 10,000 deposited into\nher account soon after. Of\ncourse, she would vote for the\nJD(U), she says. \u201cJekar khay-\nbay, okre na gaybay? Na debay\nvote te kodhi fut jaytay (Won't!\n\u00bbCONTINUED ON PAGE 2\n\ne Bihar\u2019s Mukhyamantri\nMahila Rojgar Yojana\nONE WOMAN from each family,\nbetween ages of 18 and 60 years\nand a permanent resident of\nBihar, eligible\nINITIAL %10,000 to be trans-\nferred into beneficiary's bank\naccount, to start a self-employ-\n\nment venture.\nBY EARLY October, this had been\ndone for over 1.21 cr women, next\ndisbursal scheduled for Nov 7.\nBASED ON performance, the\nbeneficiary to get additional\nassistance up to % 2 lakh, 6\nmonths later.",
+   "ocr_conf": 88.5765306122449,
+   "ocr_low_conf_share": 0.0663265306122449,
+   "headline": "Cycles in 2006 to das-hazarithis time: Nitish banks on the mahila",
+   "deck": "EXPLAINED Nitish",
+   "byline": "HAS BIHAR'S; GROWTH CAUGHT; UP WITH THE; REST OF INDIA?",
+   "text": "Bihar's overall base of economic activity is small, and its growth rates can thus flatterto deceive P10\n\nSantosh Singh & Deeptiman Tiwary Bettiah, Munger, Darbhanga, Gopaiganj, November 6\n\nSantosh Singh scheme they have dubbed & Deeptiman Tiwary \"das-hazari (for the Rs 10,000 Bettiah, Munger, it entails)\". Darbhanga, Gopalganj, The schemeis one of several November 6 that Nitish Kumar has introa duced in his two decades THE SPEED with in power for the bene-which the Mukhya- fit of women. In2006, mantri Mahila Rojgar months after taking Yojana (MMRY), an- over as CM, hestarted nounced by Chief the popular bicycle Minister Nitish scheme that was a Kumarjust beforethe DECISION runaway success and\n\nTHE SPEED with which the Mukhyamantri Mahila Rojgar Yojana (MMRY), announced by Chief Minister Nitish Kumarjust before the announcementofthe Bihar nolle hae are\n\nBihar polls, has ac- \"\"\"\"\"\"' loyal base of women quired a moniker is B H AR supporters. The focus just one sign of its on women voters is popularity. The other important, given that is the voices on the ground, theytendtoturnouttoexercise with women beneficiaries lin- _ their franchise morethan men. ing up behind the MMRY In 2020, 59.69% of women\n\nvoters cast their vote, while only 54.45% of men did. The gap was higher in 2015, with women voters recording a 60.48% turnout while 53.32% of men did. While Phase 1 on Thursday saw a record 64.65% turnout as of 8.30 pm, the gender-wise break-up was not available immediately. Working in Patna, Vibha Devi tooka two-day leaveto go to her village in Nalanda to fill a form for the Rojgar Yojana, with Rs 10,000 deposited into her account soon after. Of course, she would vote for the JD(U), she says. \"Jekar khaybay, okre na gaybay? Na debay vote te kodhi fut jaytay (Won't!\n\ne Bihar's Mukhyamantri Mahila Rojgar Yojana ONE WOMAN from each family, between ages of 18 and 60 years and a permanent resident of Bihar, eligible INITIAL %10,000 to be transferred into beneficiary's bank account, to start a self-employment venture. BY EARLY October, this had been done for over 1.21 cr women, next disbursal scheduled for Nov 7. BASED ON performance, the beneficiary to get additional months later.",
+   "n_words": 363,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      3081,
+      4171,
+      3302
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2760,
+      3338,
+      3176,
+      3453
+     ],
+     [
+      2761,
+      3503,
+      3204,
+      3974
+     ],
+     [
+      3251,
+      3342,
+      3692,
+      3968
+     ],
+     [
+      3735,
+      3343,
+      4180,
+      3968
+     ]
+    ],
+    "layout_words": 209
+   },
+   "headline_raw": "FIR filed, CM orders probe into\nland deal linked to Ajit Pawar son",
+   "deck_raw": "",
+   "body_raw": "Alok Deshpande\n& Manoj More\nMumbai, Pune, November 6\n\nMAHARASHTRA CHIEF Min-\nister Devendra Fadnavis on\nThursday formed an inquiry\ncommittee to probe allegations\nof irregularities in a Pune land\ndeal, involving a company\nlinkedtoDeputy ChiefMinister\nAjit Pawar\u2019s son Parth Pawar,\nsaying \u201cserious issues are\ncoming forward at the primary\nlevel\u201d regarding the transaction.\nAjit Pawar, who heads rul-\n\ningally NCP, denied anyrolein\nthe deal. \u201cI had heard some-\nthing (about the deal) around\nthree-four months ago. I had\nclearly said at that time that I\nwill not tolerate any wrong-\ndoing. I don't know what hap-\npened after that,\u201d hesaid.Parth\nPawar denied any wrongdoing\non his part.\nRespondingtoaquery from\nThe Indian Express, Fadnavis\nsaid Additional ChiefSecretary\n(Revenue) Vikas Kharge \u201cwill\nconduct the inquiry\u201d. Pune Dis-\ntrict Collector Jitendra Dudi\n\nsaid the sale deed would be\ncancelled, and that the Tehsil-\ndar and Sub-Registrar in charge\nhave been suspended.\nThe deal pertains to 40\nacres in Mundhwaareaof Pune\ncity, near the upmarket Kore-\ngaon Park area. TheOpposition\nhas alleged that the land, re-\nportedly worth Rs 1,800 crore,\nwas allegedly sold to Amedea\nEnterprises LLP, where Parth is\napartner along with an individ-\nual identified as Digvijay Patil,\nfor Rs 300 crore with a stamp\n\u00bb CONTINUED ON PAGE 2",
+   "ocr_conf": 90.15238095238095,
+   "ocr_low_conf_share": 0.047619047619047616,
+   "headline": "FIR filed, CM orders probe into land deal linked to Ajit Pawar son",
+   "deck": "",
+   "byline": "",
+   "text": "Alok Deshpande & Manoj More Mumbai, Pune, November 6\n\nMAHARASHTRA CHIEF Minister Devendra Fadnavis on Thursday formed an inquiry committee to probe allegations of irregularities in a Pune land deal, involving a company linkedtoDeputy ChiefMinister Ajit Pawar's son Parth Pawar, saying \"serious issues are coming forward at the primary level\" regarding the transaction. Ajit Pawar, who heads rulingally NCP, denied anyrolein the deal. \"I had heard something (about the deal) around three-four months ago. I had clearly said at that time that I will not tolerate any wrongdoing. I don't know what happened after that,\" hesaid.Parth Pawar denied any wrongdoing on his part. Respondingtoaquery from The Indian Express, Fadnavis said Additional ChiefSecretary (Revenue) Vikas Kharge \"will conduct the inquiry\". Pune District Collector Jitendra Dudi\n\nsaid the sale deed would be cancelled, and that the Tehsildar and Sub-Registrar in charge have been suspended. The deal pertains to 40 acres in Mundhwaareaof Pune city, near the upmarket Kore-gaon Park area. TheOpposition has alleged that the land, reportedly worth Rs 1,800 crore, was allegedly sold to Amedea Enterprises LLP, where Parth is apartner along with an individual identified as Digvijay Patil, for Rs 300 crore with a stamp",
+   "n_words": 195,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1425,
+      3651,
+      1738,
+      3711
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1181,
+      3723,
+      1366,
+      3778
+     ]
+    ],
+    "body_boxes": [
+     [
+      1293,
+      3738,
+      1738,
+      3969
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "EE EE EEE EEE EE\nhelped him build a\nlnval haca af waman",
+   "deck_raw": "BIHAR",
+   "body_raw": "AIK supporters. The focus\non women voters is\nimportant, given that\ntheytend toturn out to exercise\ntheir franchise more than men.\nIn 2020, 59.69% of women",
+   "ocr_conf": 89.8076923076923,
+   "ocr_low_conf_share": 0.038461538461538464,
+   "headline": "EE EE EEE EEE EE helped him build a lnval haca af waman",
+   "deck": "BIHAR",
+   "byline": "",
+   "text": "AIK supporters. The focus on women voters is important, given that theytend toturn out to exercise their franchise more than men. In 2020, 59.69% of women",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      4078,
+      1725,
+      4290
+     ],
+     [
+      320,
+      4360,
+      1724,
+      4492
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4530,
+      663,
+      4604
+     ],
+     [
+      319,
+      4654,
+      760,
+      5046
+     ],
+     [
+      804,
+      4535,
+      1251,
+      5044
+     ],
+     [
+      1294,
+      4535,
+      1760,
+      5040
+     ]
+    ],
+    "layout_words": 180
+   },
+   "headline_raw": "Not just PMLA, UAPA, give reason\nfor arrest in all offences, says SC\n\u2018At least two hours before production in court for remand;\nflows from constitutional safeguard for personal liberty\u2019",
+   "deck_raw": "",
+   "body_raw": "Ananthakrishnan G\nNew Delhi, November6\n\nIN AN important judgment\nwith a bearing on personal lib-\nerty, the Supreme Court ruled\nThursday that the requirement\nof furnishing grounds of arrest\ntoaperson placed under arrest\nwill apply even to offences\nunder the Indian Penal Code\nand Bharatiya Nyaya Sanhita\n(BNS) and not just offences\n\nunder special statutes like the\nPrevention of Money Launder-\ning Act, 2002 and Unlawful Ac-\ntivities (Prevention) Act, 1967.\nThe bench of Chief Justice\nof India BR Gavai and Justice A\nG Masih said, \u201cThe constitu-\ntional mandate of informing\nthe arrestee the grounds of ar-\nrestis mandatory inall offences\nunder all statutes including of-\nfences under IPC 1860 (now\nBNS 2023).\u201d\n\n\u201cThe requirement ofinform-\ning the arrested person the\ngrounds of arrest, in the light of\nand under Article 22 (1) (Protec-\ntion against arrest and deten-\ntion in certain cases) of the Con-\nstitution of India, is not a mere\nformality but a mandatory\nbinding constitutional safe-\nguard which has been included\nin Part III of the Constitution\nunderthe head of Fundamental\n\u00bbCONTINUED ON PAGE2 |",
+   "ocr_conf": 91.85,
+   "ocr_low_conf_share": 0.011111111111111112,
+   "headline": "Not just PMLA, UAPA, give reason for arrest in all offences, says SC 'At least two hours before production in court for remand; flows from constitutional safeguard for personal liberty'",
+   "deck": "",
+   "byline": "",
+   "text": "Ananthakrishnan G New Delhi, November6\n\nIN AN important judgment with a bearing on personal liberty, the Supreme Court ruled Thursday that the requirement of furnishing grounds of arrest toaperson placed under arrest will apply even to offences under the Indian Penal Code and Bharatiya Nyaya Sanhita (BNS) and not just offences\n\nunder special statutes like the Prevention of Money Laundering Act, 2002 and Unlawful Activities (Prevention) Act, 1967. The bench of Chief Justice of India BR Gavai and Justice A G Masih said, \"The constitutional mandate of informing the arrestee the grounds of arrestis mandatory inall offences under all statutes including offences under IPC 1860 (now\n\n\"The requirement ofinforming the arrested person the grounds of arrest, in the light of and under Article 22 (1) (Protection against arrest and detention in certain cases) of the Constitution of India, is not a mere formality but a mandatory binding constitutional safeguard which has been included in Part III of the Constitution underthe head of Fundamental",
+   "n_words": 163,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      4402,
+      4163,
+      4534
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2760,
+      4571,
+      3176,
+      4722
+     ],
+     [
+      2757,
+      4777,
+      3204,
+      5042
+     ],
+     [
+      3248,
+      4576,
+      3691,
+      5049
+     ],
+     [
+      3737,
+      4576,
+      4180,
+      5042
+     ]
+    ],
+    "layout_words": 163
+   },
+   "headline_raw": "The Indian Express tracked down 17 in Ambala village, at\nleast 12 with valid ID say they voted in 2024 Haryana polls",
+   "deck_raw": "",
+   "body_raw": "Sukhbir Siwach &\nAbhimanyu Hazarika\nDhakola (Ambala), Sonipat,\nNovember 6\n\nCLAIMING THAT the 2024 As-\nsembly elections in Haryana\nhad been \u201cstolen\u201d, Leader of\nOpposition Rahul Gandhi\nshowed Wednesday a photo-\ngraph of a woman which fea-\ntured 223 times onthe voter list\n\nin two booths during the polls.\n\u201cThe EC needs to tell us how\nmanytimes she voted,\u201d hesaid.\nThe EC may not have re-\nsponded to Gandhi, but sitting\nat her residence in Dhakola vil-\nlage in Ambala district,75-year-\nold Charanjeet Kaur has an\nanswer: Voted just once.\nThe Indian Express visited\nthe village that suddenly finds\nitselfin the spotlight after Gan-\n\ndhi\u2019s press conference, and\nfound that Charanjeet\u2019s photo-\ngraph does appear alongside\nthenames of at least 255 voters\nin booth numbers 63 and 65 in\nDhakola village, which has a\ntotal of 2,117 registered voters.\nBut for many of the 255, this\nisn\u2019t breaking news.\nThe Indian Express tracked\n17 such individuals and found\n\u00bbCONTINUED ONPAGE 2",
+   "ocr_conf": 90.45341614906832,
+   "ocr_low_conf_share": 0.031055900621118012,
+   "headline": "The Indian Express tracked down 17 in Ambala village, at least 12 with valid ID say they voted in 2024 Haryana polls",
+   "deck": "",
+   "byline": "",
+   "text": "Sukhbir Siwach & Abhimanyu Hazarika Dhakola (Ambala), Sonipat, November 6\n\nCLAIMING THAT the 2024 Assembly elections in Haryana had been \"stolen\", Leader of Opposition Rahul Gandhi showed Wednesday a photograph of a woman which featured 223 times onthe voter list\n\nin two booths during the polls. \"The EC needs to tell us how manytimes she voted,\" hesaid. The EC may not have responded to Gandhi, but sitting at her residence in Dhakola village in Ambala district,75-yearold Charanjeet Kaur has an answer: Voted just once. The Indian Express visited the village that suddenly finds itselfin the spotlight after Gandhi's press conference, and found that Charanjeet's photograph does appear alongside thenames of at least 255 voters in booth numbers 63 and 65 in Dhakola village, which has a total of 2,117 registered voters. But for many of the 255, this isn't breaking news. The Indian Express tracked 17 such individuals and found \u00bbCONTINUED ONPAGE 2",
+   "n_words": 153,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5226,
+      4094,
+      5384
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5164,
+      2387,
+      5200
+     ]
+    ],
+    "body_boxes": [
+     [
+      317,
+      5366,
+      709,
+      5443
+     ],
+     [
+      806,
+      5370,
+      1248,
+      5843
+     ],
+     [
+      318,
+      5491,
+      760,
+      5925
+     ],
+     [
+      315,
+      5927,
+      1248,
+      6201
+     ],
+     [
+      1295,
+      5371,
+      1737,
+      6202
+     ],
+     [
+      1919,
+      5558,
+      2123,
+      5591
+     ],
+     [
+      2759,
+      5372,
+      3202,
+      6239
+     ],
+     [
+      3249,
+      5373,
+      3690,
+      6204
+     ],
+     [
+      3736,
+      5373,
+      4181,
+      6197
+     ]
+    ],
+    "layout_words": 577
+   },
+   "headline_raw": "At Chess World Cup, beyond the board, Grandmasters\u2019 favourite move: A walk",
+   "deck_raw": "@ PLAYERS END UP DISCOVERING NEW CITIES, DISCUSSING TOPICS FROM SOCIOLOGY TO PHILOSOPHY, MUSIC TO CHESS",
+   "body_raw": "Amit Kamath\nArpora (Goa), November 6\n\nhours of being seated at one\nplace, walking has spawned its\nown folklore in chess. Some\nGrandmasters talk about five-\ntime world champion Viswana-\nthan Anand once ending up in\nanother village while he went\nfor a walk. It\u2019s a fable that\nmakes even Anand chuckle\nwhile dismissing it. He did add\nthough that whenever he\n-a > Played the Tata\n\nAS THE sun sets on the Goan\nvillage of Arpora and another\nday at the FIDE World Cup\nends, the road to Resort Rio, the\nvenue where most of the\nplayers are also staying, gets\nbusy. Not with vehicles, but\nGrandmasters. They set off in\nlittle groups, many\nwearing shortsand PA\ntracksuitsthatarea an\n\nfarcry fromtheir ~ ~\u201c \u2014 Wijk aan Zee, heal-\nusual attire of custom-fitted | wayswalkedontherestdaysto\nsuits. the neighbouring town of Be-\nWhere are they headed? _ verwijk.\nWell, wherever their feet take \u201cBeverwijk is about 6 km\nthem. from Wijk. An hourto getthere,\nFor asport that demands an hour back. Then, you also\n\nwalk inside the town itself.\nThere are many towns where I\nwalk a lot, extremely long\nwalks. Usually, I walk to relax,\u201d\nAnandtells The Indian Express.\n\u201cIn any city that has a river-\nbank, I'd go for a walk along\nthat, like in Paris. In many Ger-\nman cities and towns, I would\ntake extremely long walks and\njust let my mind wander. Hope-\nfully, you don\u2019t get lost.\u201d\nAmong the other topnames\nhere and the only player to win\nthe World Cup twice, Levon\nAronian, too, is known to take\nlong walks.\n\u201cThree to four hours is nor-\nmal for me. Especially after\ngames. At tournaments, I\nusually walk with close friends\n\n\n\nlike (Russian Grandmasters)\nBoris Gelfand and Vladimir\nKramnik. We'd discuss every-\nthing: sociology, philosophy,\nmusic, arts. Or just chess. Just\ntalking, understanding things\nand changing opinions. Some\nof my best memories are about\ndiscovering cities with my\nfriends while walking. They\ndon't have any purpose, these\nwalks. Just to see how the\npeople in that city live. When\nyou're a chess player, you're so\nfocused on your work that you\ndon't get to observe things, ob-\nserve humans in their natural\nlives,\u201d says the 43-year-old\nArmenian Grandmaster.\nOne such long walk in Goa\nin 2002 during the World Jun-\nJaipur\n\nior Championship, Aronian\nsays, changed his life. He\nspotted atemple and walked in.\nThere, he met a stranger and,\nafter a short conversation, de-\ncided to turn vegetarian, adeci-\nsion he\u2019s stood by since then.\nHowever, when world\nchampion D Gukesh plays in\nIndia these days, walks are\nrarer because he\u2019s constantly\napproached for selfies and\nautographs. But his father Raji-\nnikanth says he walks\u201cplenty\u201d\nwhen abroad fortournaments.\n\u201cI haven\u2019t metachess player\nwho doesn\u2019t like going for a\nwalk,\u201d says Tania Sachdev, the\nGrandmaster who has transi-\ntioned into commentary. \u201cIt\u2019s a\nhealing way to get your mind\n\noffthings. [loved to walk before\ngames when I used to play. IfI\nam going out forlunch, I would\npicka place that would require\nat least 20 minutes of walking.\nIfthere was alonger route tothe\nplaying venue from my hotel, I\nwould take that. Walks have\nserved every chess player in dif-\nferent ways.\u201d\nSometimes walks are also\nabout having a brainwave.\nKoneru Humpy says she\nreached the Women\u2019s World\nChampionship in 2011 because\nof an idea that popped up dur-\ning onesuch walk.\n\u201cDuring the 2011 Doha\nWomen\u2019s Grand Prix, the day\nbefore the final round match\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 90.33390410958904,
+   "ocr_low_conf_share": 0.053082191780821915,
+   "headline": "At Chess World Cup, beyond the board, Grandmasters' favourite move: A walk",
+   "deck": "@ PLAYERS END UP DISCOVERING NEW CITIES, DISCUSSING TOPICS FROM SOCIOLOGY TO PHILOSOPHY, MUSIC TO CHESS",
+   "byline": "",
+   "text": "Amit Kamath Arpora (Goa), November 6\n\nhours of being seated at one place, walking has spawned its own folklore in chess. Some Grandmasters talk about five-time world champion Viswanathan Anand once ending up in another village while he went for a walk. It's a fable that makes even Anand chuckle while dismissing it. He did add though that whenever he -a > Played the Tata\n\nAS THE sun sets on the Goan village of Arpora and another day at the FIDE World Cup ends, the road to Resort Rio, the venue where most of the players are also staying, gets busy. Not with vehicles, but Grandmasters. They set off in little groups, many wearing shortsand PA tracksuitsthatarea an\n\nfarcry fromtheir ~ ~\" - Wijk aan Zee, heal-usual attire of custom-fitted wayswalkedontherestdaysto suits. the neighbouring town of Be-Where are they headed? _ verwijk. Well, wherever their feet take \"Beverwijk is about 6 km them. from Wijk. An hourto getthere, For asport that demands an hour back. Then, you also\n\nwalk inside the town itself. There are many towns where I walk a lot, extremely long walks. Usually, I walk to relax,\" Anandtells The Indian Express. \"In any city that has a riverbank, I'd go for a walk along that, like in Paris. In many German cities and towns, I would take extremely long walks and just let my mind wander. Hopefully, you don't get lost.\" Among the other topnames here and the only player to win the World Cup twice, Levon Aronian, too, is known to take long walks. \"Three to four hours is normal for me. Especially after games. At tournaments, I usually walk with close friends\n\nlike (Russian Grandmasters) Boris Gelfand and Vladimir Kramnik. We'd discuss everything: sociology, philosophy, music, arts. Or just chess. Just talking, understanding things and changing opinions. Some of my best memories are about discovering cities with my friends while walking. They don't have any purpose, these walks. Just to see how the people in that city live. When you're a chess player, you're so focused on your work that you don't get to observe things, observe humans in their natural lives,\" says the 43-year-old Armenian Grandmaster. One such long walk in Goa in 2002 during the World Jun-Jaipur\n\nior Championship, Aronian says, changed his life. He spotted atemple and walked in. There, he met a stranger and, after a short conversation, decided to turn vegetarian, adecision he's stood by since then. However, when world champion D Gukesh plays in India these days, walks are rarer because he's constantly approached for selfies and autographs. But his father Rajinikanth says he walks\"plenty\" when abroad fortournaments. \"I haven't metachess player who doesn't like going for a walk,\" says Tania Sachdev, the Grandmaster who has transitioned into commentary. \"It's a healing way to get your mind\n\noffthings. [loved to walk before games when I used to play. IfI am going out forlunch, I would picka place that would require at least 20 minutes of walking. Ifthere was alonger route tothe playing venue from my hotel, I would take that. Walks have served every chess player in different ways.\" Sometimes walks are also about having a brainwave. Koneru Humpy says she reached the Women's World Championship in 2011 because of an idea that popped up during onesuch walk. \"During the 2011 Doha Women's Grand Prix, the day before the final round match",
+   "n_words": 563,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.0,
+ "flags": []
+}

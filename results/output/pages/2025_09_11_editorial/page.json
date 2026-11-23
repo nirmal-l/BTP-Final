@@ -1,0 +1,639 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_11_editorial",
+ "source_file": "2025-09-11_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-11_editorial.png",
+ "date": "2025-09-11",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 0,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 458,
+  "mean_line_conf": 90.63015716739774,
+  "orphan_words": 632,
+  "body_words_total": 3366
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1472,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1234,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      1416,
+      960
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED BY @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 92.77777777777777,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED BY @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1928,
+      596,
+      3869,
+      767
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2241,
+      857,
+      3563,
+      988
+     ]
+    ],
+    "body_boxes": [
+     [
+      2320,
+      2357,
+      2816,
+      3353
+     ],
+     [
+      2923,
+      1330,
+      3533,
+      3347
+     ]
+    ],
+    "layout_words": 417
+   },
+   "headline_raw": "The return of Chindia",
+   "deck_raw": "Modi-Xi meeting hints at a new chapter after years of\nsilence. But old mistrust and new asymmetries persist",
+   "body_raw": "arts to the famed Shaolin Temple in China.\nFast forward to the mid-20th century,\nand the spirit of cooperation was rekindled\nas both nations emerged from colonial\nshadows into sovereign statehood. India\nwas among the first non-communist coun-\ntries to recognise the People's Republic of\nChina, and the 1940s and 1950s saw vibrant\nexchanges in science, education, and diplo-\nmacy, with both countries participating in\nlandmark events like the Asian Relations\nConference (1947) and the Bandung\nConference (1955), in which Jawaharlal\nNehru's India took it upon itself to intro-\nduce Communist China to the world.\nDespite later tensions, this era was marked\nby mutual respect and the optimism of\n\u201cHindi-Chini bhai-bhai\u201d, laying the ground-\nwork for a relationship that, even today,\nseeks to balance ancient affinities with\nmodem aspirations.\nAt the heart of the Modi-Xi dialogue\nwas a reaffirmation of a principle that ide-\nally ought to be self-evident but has long\nbeen elusive: That India and China can be\ndevelopment partners, not just rivals. The\nassertion that \u201cdifferences should not turn\ninto disputes\u201d is more than diplomatic boil-\nerplate \u2014 it represents aconscious effort to\nde-escalate the dominant rhetoric since\n2020, when it was all \u201cHindi-Chini bye-\nbye\u201d. In an era of global volatility, where\ntrade wars flare and alliances shift with\nalarming speed, such clarity is welcome.\nOf course, the spectre of American tar-\niffs looms large over this rapprochement.\nPresident Donald Trump's stinging levies\u2014\n30 per cent on Chinese goods, with threats\nof escalation to 145 per cent, and a punish-\ning 50 per cent on Indian exports \u2014 have\njolted New Delhi into reconsidering its\nstrategic calculus. India, once courted as a\nprized partner, now finds itself labelled a\n\u201claundromat for the Kremlin\u201d by\nWashington's trade hawks. The economic\nfallout is real: Exporters face closure, jobs\nhave been lost and more hang in the bal-\nance, and the promise of preferential treat-\nment lies in tatters,\nInthis context, China\u2019s overtures \u2014 wel-\ncoming Indian commodities, fast-tracking",
+   "ocr_conf": 94.2158273381295,
+   "ocr_low_conf_share": 0.004796163069544364,
+   "headline": "The return of Chindia",
+   "deck": "Modi-Xi meeting hints at a new chapter after years of silence. But old mistrust and new asymmetries persist",
+   "byline": "",
+   "text": "arts to the famed Shaolin Temple in China. Fast forward to the mid-20th century, and the spirit of cooperation was rekindled as both nations emerged from colonial shadows into sovereign statehood. India was among the first non-communist countries to recognise the People's Republic of China, and the 1940s and 1950s saw vibrant exchanges in science, education, and diplomacy, with both countries participating in landmark events like the Asian Relations Conference (1947) and the Bandung Conference (1955), in which Jawaharlal Nehru's India took it upon itself to introduce Communist China to the world. Despite later tensions, this era was marked by mutual respect and the optimism of \"Hindi-Chini bhai-bhai\", laying the groundwork for a relationship that, even today, seeks to balance ancient affinities with modem aspirations. At the heart of the Modi-Xi dialogue was a reaffirmation of a principle that ideally ought to be self-evident but has long been elusive: That India and China can be development partners, not just rivals. The assertion that \"differences should not turn into disputes\" is more than diplomatic boil-erplate - it represents aconscious effort to de-escalate the dominant rhetoric since 2020, when it was all \"Hindi-Chini byebye\". In an era of global volatility, where trade wars flare and alliances shift with alarming speed, such clarity is welcome. Of course, the spectre of American tariffs looms large over this rapprochement. President Donald Trump's stinging levies - 30 per cent on Chinese goods, with threats of escalation to 145 per cent, and a punishing 50 per cent on Indian exports - have jolted New Delhi into reconsidering its strategic calculus. India, once courted as a prized partner, now finds itself labelled a \"laundromat for the Kremlin\" by Washington's trade hawks. The economic fallout is real: Exporters face closure, jobs have been lost and more hang in the balance, and the promise of preferential treatment lies in tatters, Inthis context, China's overtures - welcoming Indian commodities, fast-tracking",
+   "n_words": 319,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      542,
+      1088,
+      1305,
+      1192
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1625,
+      1182,
+      2141,
+      1226
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      1231,
+      1530,
+      2868
+     ],
+     [
+      1626,
+      1329,
+      2229,
+      2235
+     ],
+     [
+      1622,
+      2279,
+      2230,
+      3342
+     ],
+     [
+      1620,
+      3839,
+      1993,
+      3882
+     ],
+     [
+      1618,
+      3984,
+      2223,
+      5205
+     ]
+    ],
+    "layout_words": 1007
+   },
+   "headline_raw": "THE NEW V-P",
+   "deck_raw": "BY SHASHI THAROOR",
+   "body_raw": "To clear his predecessor\u2019s shadow, Radhakrishnan should let\nhimself be guided by the Constitution \u2014 and nothing but\nT HE ELECTION OF the 15th Vice President of India, the second highest consti-\ntutional post in the country, took place under a lingering shadow.\nChandrapuram Ponnusaitiy Radhakrishnan comes to the office even as spec-\nulation is yet to die down about the unusual and unceremonious exit of his\npredecessor Jagdeep Dhankhar. Midway in aterm scheduled to end in 2027, almost mid-\nsentence on the opening day of the Monsoon Session of Parliament, Dhankhar resigned,\nciting health reasons that were widely seen to be unpersuasive, The unmistakable impres-\nsion was that his exit had todo with losing the trust of the government that had appointed\nhim. Even after being seen to conspicuously play by the ruling establishment's script in\ntaking on the Opposition in Rajya Sabha, and the judiciary outside it, Dhankhar apparently\nwas not deemed to be loyal or amenable enough eventually. V-P Radhakrishnan takes\nover ina difficult moment, therefore, when questions still swirl about the space for ma-\nnoeuvre, and more importantly, the limits of his high constitutional office in a time of\nsharpening political polarisation and a take-no-prisoners political executive.\nRadhakrishnan traces his political lineage to the RSS, and has hada long and varied ex-\nperience in public life subsequently \u2014 as the BJP\u2019s Tamil Nadu chief, as a two-term Lok\nSabha MP from Coimbatore, as governor of Jharkhand and Maharashtra most recently. In\nall these roles, he has earned a reputation of being the affable consensus-builder, and for\nan ability to make friends across the political divides fluently. As Vice President,\nRadhakrishnan will need to carry with him these qualities, and particularly the learn-\nings from his tenure in the Raj Bhawan, also an office circumscribed by the demands and\nconstraints of constitutional propriety. In the wake of Dhankhar's abrupt exit, it may seem\nthatthe V-P's main challenge will be to calibrate his relationship with the government in\nturbulent times, keepit on even keel while not looking over his shoulder constantly. But\nRadhakrishnan cannot lose sight of his primary responsibility: As chairperson of Rajya\nSabha, the burden of fair and impartial conduct of the proceedings of the House, in which\nthe Opposition is given a voice and a hearing, willbe on him.\nTo be sure, it will be a tightrope walk. The new V-P must navigate the demands of his\noffice under a third-term government wielding astern loyalty test, ina time when the lines\nbetween government and opposition have hardened, and the spaces for independent\nand mediating institutions are shrinking. He must keep his equanimity and, more im-\nportantly, let the constitutional mandate \u2014and only the constitutional mandate \u2014 guide\nhim through thick and thin. Welcome, Vice President Radhakrishnan, and best wishes.\n\nIN THE EVER-SHIFTING theatre of interna-\ntional diplomacy, moments of quiet recal-\nibration often speak louder than grand pro-\nnouncements. Prime Minister Narendra\nModi\u2019s recent visit to Beijing \u2014 his first in\nseven years \u2014 and his meeting with\nPresident Xi Jinping on the margins of the\nShanghai Cooperation Organisation (SCO)\nsummit, may not have yielded dramatic\nbreakthroughs, but it marked something\nfar more valuable: A deliberate pivot from\nconfrontation to conversation.\nFive years ago, the tragic loss of 20\nIndian lives in the Galwan Valley cast a long\nshadow over Sino-Indian relations. The\nborder, unresolved and volatile, became a\nmetaphor for the broader diplomatic\nfreeze. Trade slowed, flights ceased, and the\nspirit of \u201cChindia\u201d \u2014that hopeful portman-\nteau coined in headier times to capture the\npromise of Asian synergy \u2014 was shelved in\nsurrender to strategic suspicion. But today,\nthe machinery of engagement is whirring\n\nThesymbolism is unmistakable. Indian\npilgrims have returned to Hindu and\nBuddhist sites in Tibet. Direct flights are re-\nsuming. Visa restrictions are easing.\nPatrolling has resumed on our disputed\nfrontier. Both nations are orchestrating a\nflurry of high-level exchanges to formalise\nthe thaw. These gestures, though modest,\nare not without meaning. They signal a\nshared intent to move beyond the recrim-\ninations of the past and to reimagine a re-\nlationship that has too often been defined\nby its fault lines.\nIndia and China share a rich tapestry of\nhistorical engagement that stretches back\nover two millennia, the era of the Golden\nRoad and the Silk Road, which served as con-\nduits not only for trade in silk, spices, and\nprecious stones, but also for profound cul-\ntural and religious exchange. Buddhism,\nborn in India, found fertile ground in China\nthrough the travels of monks and scholars,\nwhile ancient Indian texts like the\nArthashastra referenced Chinese goods, at-\ntesting to early awareness and interaction.\nChinese students studied at Nalanda, and an\nIndian monk, Bodhidharma, took martial\n\nRAKESH SINHA\n\nIN 2014, ON a muggy August afternoon in\nKathmandu, we found ourselves in a road-\nside cafe, staring at pints of Carlsberg on\nthe table. We had been shooed away from\nthe street below where security men were\ntaking no chances to let Narendra Modi\u2019s\ncavalcade pass, the first Indian Prime\nMinister to visit Nepal in 17 years.\nAs we waited, wondering what should\nbe the highlight of the day\u2019s dispatch,\nSankarshan Thakur, who had once been a\ncolleague at The Indian Express, asked if Ihad\nread Barbara Kingsolver. Only one, The\nPoisonwood Bible, | said. Demon Copperhead\nwasstill eight years away. For a few minutes,\nwe let our thoughts drift to the Price family\nin faraway Congo, forgetting what we were\nhere for. We need to write, he said. He asked\nme to look up Kingsolver\u2019s 2008 speech at\nDuke University. did, months later. | made\na note of thanking him, but never did.\nThere are writers and then there are\nwriters. Sankarshan was in the latter cate-\ngory. And with his passing today, a certain\nelegance is gone.\nMemory is only alittle about memoris-\ning, he would say. Writing in The Telegraph,\nthe newspaper he was to edit later,\nSankarshan recalled his mother\u2019s memory\nof his father Janardan Thakur, the author\nand journalist, who had passed away in",
+   "ocr_conf": 93.19742063492063,
+   "ocr_low_conf_share": 0.018849206349206348,
+   "headline": "THE NEW V-P",
+   "deck": "BY SHASHI THAROOR",
+   "byline": "",
+   "text": "To clear his predecessor's shadow, Radhakrishnan should let himself be guided by the Constitution - and nothing but T HE ELECTION OF the 15th Vice President of India, the second highest constitutional post in the country, took place under a lingering shadow. Chandrapuram Ponnusaitiy Radhakrishnan comes to the office even as speculation is yet to die down about the unusual and unceremonious exit of his predecessor Jagdeep Dhankhar. Midway in aterm scheduled to end in 2027, almost midsentence on the opening day of the Monsoon Session of Parliament, Dhankhar resigned, citing health reasons that were widely seen to be unpersuasive, The unmistakable impression was that his exit had todo with losing the trust of the government that had appointed him. Even after being seen to conspicuously play by the ruling establishment's script in taking on the Opposition in Rajya Sabha, and the judiciary outside it, Dhankhar apparently was not deemed to be loyal or amenable enough eventually. V-P Radhakrishnan takes over ina difficult moment, therefore, when questions still swirl about the space for manoeuvre, and more importantly, the limits of his high constitutional office in a time of sharpening political polarisation and a take-no-prisoners political executive. Radhakrishnan traces his political lineage to the RSS, and has hada long and varied experience in public life subsequently - as the BJP's Tamil Nadu chief, as a two-term Lok Sabha MP from Coimbatore, as governor of Jharkhand and Maharashtra most recently. In all these roles, he has earned a reputation of being the affable consensus-builder, and for an ability to make friends across the political divides fluently. As Vice President, Radhakrishnan will need to carry with him these qualities, and particularly the learn-ings from his tenure in the Raj Bhawan, also an office circumscribed by the demands and constraints of constitutional propriety. In the wake of Dhankhar's abrupt exit, it may seem thatthe V-P's main challenge will be to calibrate his relationship with the government in turbulent times, keepit on even keel while not looking over his shoulder constantly. But Radhakrishnan cannot lose sight of his primary responsibility: As chairperson of Rajya Sabha, the burden of fair and impartial conduct of the proceedings of the House, in which the Opposition is given a voice and a hearing, willbe on him. To be sure, it will be a tightrope walk. The new V-P must navigate the demands of his office under a third-term government wielding astern loyalty test, ina time when the lines between government and opposition have hardened, and the spaces for independent and mediating institutions are shrinking. He must keep his equanimity and, more importantly, let the constitutional mandate - and only the constitutional mandate - guide him through thick and thin. Welcome, Vice President Radhakrishnan, and best wishes.\n\nIN THE EVER-SHIFTING theatre of international diplomacy, moments of quiet recalibration often speak louder than grand pronouncements. Prime Minister Narendra Modi's recent visit to Beijing - his first in seven years - and his meeting with President Xi Jinping on the margins of the Shanghai Cooperation Organisation (SCO) summit, may not have yielded dramatic breakthroughs, but it marked something far more valuable: A deliberate pivot from confrontation to conversation. Five years ago, the tragic loss of 20 Indian lives in the Galwan Valley cast a long shadow over Sino-Indian relations. The border, unresolved and volatile, became a metaphor for the broader diplomatic freeze. Trade slowed, flights ceased, and the spirit of \"Chindia\" - that hopeful portmanteau coined in headier times to capture the promise of Asian synergy - was shelved in surrender to strategic suspicion. But today, the machinery of engagement is whirring\n\nThesymbolism is unmistakable. Indian pilgrims have returned to Hindu and Buddhist sites in Tibet. Direct flights are resuming. Visa restrictions are easing. Patrolling has resumed on our disputed frontier. Both nations are orchestrating a flurry of high-level exchanges to formalise the thaw. These gestures, though modest, are not without meaning. They signal a shared intent to move beyond the recriminations of the past and to reimagine a relationship that has too often been defined by its fault lines. India and China share a rich tapestry of historical engagement that stretches back over two millennia, the era of the Golden Road and the Silk Road, which served as conduits not only for trade in silk, spices, and precious stones, but also for profound cultural and religious exchange. Buddhism, born in India, found fertile ground in China through the travels of monks and scholars, while ancient Indian texts like the Arthashastra referenced Chinese goods, attesting to early awareness and interaction. Chinese students studied at Nalanda, and an Indian monk, Bodhidharma, took martial\n\nRAKESH SINHA\n\nIN 2014, ON a muggy August afternoon in Kathmandu, we found ourselves in a roadside cafe, staring at pints of Carlsberg on the table. We had been shooed away from the street below where security men were taking no chances to let Narendra Modi's cavalcade pass, the first Indian Prime Minister to visit Nepal in 17 years. As we waited, wondering what should be the highlight of the day's dispatch, Sankarshan Thakur, who had once been a colleague at The Indian Express, asked if Ihad read Barbara Kingsolver. Only one, The Poisonwood Bible, said. Demon Copperhead wasstill eight years away. For a few minutes, we let our thoughts drift to the Price family in faraway Congo, forgetting what we were here for. We need to write, he said. He asked me to look up Kingsolver's 2008 speech at Duke University. did, months later. made a note of thanking him, but never did. There are writers and then there are writers. Sankarshan was in the latter category. And with his passing today, a certain elegance is gone. Memory is only alittle about memorising, he would say. Writing in The Telegraph, the newspaper he was to edit later, Sankarshan recalled his mother's memory of his father Janardan Thakur, the author and journalist, who had passed away in",
+   "n_words": 987,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      1330,
+      4182,
+      3227
+     ]
+    ],
+    "layout_words": 301,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "investments, and publicly rebuking\nAmerican \u201cbullying\u201d\u2014 are not merely op-\nportunistic. They reflect a recognition that\nAsia\u2019stwo largest economies must find com-\nmon cause in a multipolar world. Strategic\nautonomy, a theme both leaders under-\nscored, is not just a slogan; it isa necessity.\nYet, we must temper optimism with re-\nalism. The border remains a tinderbox,\nwith no progress on de-escalation to the\nStatus quo ante of April 2020, even while\nboth sides promise progress toward a per-\nmanent border agreement. Our massive\ntrade deficit with China persists and is\ncompounded by huge non-tariff barriers\nimposed on Indian companies. The struc-\ntural asymmetries in the relationship \u2014\nmilitary, economic, and political \u2014 cannot\nbe wished away.\nJust recently the exodus of over 300\nChinese engineers from Foxconn\u2019's pivotal\niPhone 17 manufacturing facilities in Tamil\nNadu and Karnataka revealed how\npainfully Beijing could squeeze our ambi-\ntions. China has leveraged its dominance\nin rare-earth production and processing by\nrestricting exports of rare earths and rare-\nearth magnets, which are crucial for elec-\ntric vehicles and electronics, to India. It has\nalso imposed trade restrictions on the ex-\nport of high-end capital equipment, includ-\ning for electronics assembly and other sec-\ntors, heavy-duty tunnel boring machines\nand solar equipment, severely impacting\nIndia. The real test lies not in the symbolism\nof summits but in the substance of sus-\ntained cooperation.\nStill, there is reason to hope. The re-\nsumption of dialogue, the restoration of\npeople-to-people ties, and the shared com-\nmitment to multilateralism suggest that\nIndia and China are willing to engage \u2014 not\nas antagonists, but as interlocutors. Ina\nworld increasingly defined by zero-sum\nthinking, that alone is a victory.\nThe spirit of \u201cChindia\u201d, it seems, is stir-\nring once more. Slowly and cautiously, but\nunmistakeably. Let us hope it endures.",
+   "ocr_conf": 92.63455149501661,
+   "ocr_low_conf_share": 0.023255813953488372,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "investments, and publicly rebuking American \"bullying\" - are not merely opportunistic. They reflect a recognition that Asia'stwo largest economies must find common cause in a multipolar world. Strategic autonomy, a theme both leaders under-scored, is not just a slogan; it isa necessity. Yet, we must temper optimism with realism. The border remains a tinderbox, with no progress on de-escalation to the Status quo ante of April 2020, even while both sides promise progress toward a permanent border agreement. Our massive trade deficit with China persists and is compounded by huge non-tariff barriers imposed on Indian companies. The structural asymmetries in the relationship - military, economic, and political - cannot be wished away. Just recently the exodus of over 300 Chinese engineers from Foxconn''s pivotal iPhone 17 manufacturing facilities in Tamil Nadu and Karnataka revealed how painfully Beijing could squeeze our ambitions. China has leveraged its dominance in rare-earth production and processing by restricting exports of rare earths and rare-earth magnets, which are crucial for electric vehicles and electronics, to India. It has also imposed trade restrictions on the export of high-end capital equipment, including for electronics assembly and other sectors, heavy-duty tunnel boring machines and solar equipment, severely impacting India. The real test lies not in the symbolism of summits but in the substance of sustained cooperation. Still, there is reason to hope. The resumption of dialogue, the restoration of people-to-people ties, and the shared commitment to multilateralism suggest that India and China are willing to engage - not as antagonists, but as interlocutors. Ina world increasingly defined by zero-sum thinking, that alone is a victory. The spirit of \"Chindia\", it seems, is stirring once more. Slowly and cautiously, but unmistakeably. Let us hope it endures.",
+   "n_words": 286,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      521,
+      3030,
+      1327,
+      3114
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      3157,
+      1528,
+      4696
+     ]
+    ],
+    "layout_words": 442
+   },
+   "headline_raw": "STRIKING AT WILL",
+   "deck_raw": "",
+   "body_raw": "Israel's attack on Qatar underlines that Netanyahu government\nhas little regard for international opinion or domestic dissent\nSRAEL'S STRIKES INSIDE Qatar, which have drawn global criticism, deal a hammer\nblowtoany realistic prospect of ending the war in Gazasoon. The operation in Doha\nI targeted Hamas's negotiating team, which had convened to discuss the latest US\nceasefire proposal, President Donald Trump's \u201clast warning\u201d. Hamas has confirmed\nsix deaths, butit has also said that the group\u2019s leadership has survived. The attack is a sign\nthat Israeli Prime Minister Benjamin Netanyahu is doubling down on eliminating Hamas\ncompletely, instead of focusing on anegotiated settlement that can ensure the return ofthe\nremaining Israeli hostages. Immediately after the strike, The Hostages and Missing Families\nForum in Israel said they are worried about the price the hostages may have to pay.\nTrump has voiced his unhappiness and insisted that Netanyahu has acted unilaterally.\nQatar, after all, is no ordinary country: A tiny but wealthy Gulf state, it is a key US ally and\nhosts the largest American military base in the Middle East. The Qatari government con-\ndemned the attack as a \u201cclear breach of the rules and principles of international law.\u201d\nNetanyahu, however, has defended it as a targeted move on Hamas's political leadership, in\nretaliation forthe recent Jerusalem shooting that killed six people and an assault onan Israeli\narmy camp in Gaza that left four soldiers dead. Article 2(4) of the UN Charter explicitly pro-\nhibits the use of force against the \u201cterritorial integrity or political independence\u201d of another\nstate. And without UNSC authorisation, Israel's actions appear to constitute a violation of\nsovereignty and an act of aggression under international law. But over the past two years,\nIsrael has shown little regard fortherules, executing strikes against multiple nations like Iran,\nLebanon, Syria, Yemen, and Iraq that almost certainly violate international law, at will\nThe latest attack comes against the backdrop of three simultaneous developments.\nFirst, the planned offensive of the IDF to seize what it claims is Hamas's last remaining\nstronghold in Gaza, where thousands continue to endure hunger. Second, the mounting\nprotests inside Israel demanding an end to the war and a deal to immediately secure the\nrelease of the remaining hostages. Third, the opening of the UN General Assembly this\nweek, where major Western nations, like the UK, France, Australia, Belgium, and Canada,\nare expected to follow through on their pledge to recognise the State of Palestine. If Israel's\nstrike on Qatar signals anything, itis that the Netanyahu government has little regard for\neither international opinion or domestic dissent. Its overriding objective appears tobe the\ncontinuation of the war and its expansion to new fronts.",
+   "ocr_conf": 92.39729119638827,
+   "ocr_low_conf_share": 0.029345372460496615,
+   "headline": "STRIKING AT WILL",
+   "deck": "",
+   "byline": "",
+   "text": "Israel's attack on Qatar underlines that Netanyahu government has little regard for international opinion or domestic dissent SRAEL'S STRIKES INSIDE Qatar, which have drawn global criticism, deal a hammer blowtoany realistic prospect of ending the war in Gazasoon. The operation in Doha I targeted Hamas's negotiating team, which had convened to discuss the latest US ceasefire proposal, President Donald Trump's \"last warning\". Hamas has confirmed six deaths, butit has also said that the group's leadership has survived. The attack is a sign that Israeli Prime Minister Benjamin Netanyahu is doubling down on eliminating Hamas completely, instead of focusing on anegotiated settlement that can ensure the return ofthe remaining Israeli hostages. Immediately after the strike, The Hostages and Missing Families Forum in Israel said they are worried about the price the hostages may have to pay. Trump has voiced his unhappiness and insisted that Netanyahu has acted unilaterally. Qatar, after all, is no ordinary country: A tiny but wealthy Gulf state, it is a key US ally and hosts the largest American military base in the Middle East. The Qatari government condemned the attack as a \"clear breach of the rules and principles of international law.\" Netanyahu, however, has defended it as a targeted move on Hamas's political leadership, in retaliation forthe recent Jerusalem shooting that killed six people and an assault onan Israeli army camp in Gaza that left four soldiers dead. Article 2(4) of the UN Charter explicitly prohibits the use of force against the \"territorial integrity or political independence\" of another state. And without UNSC authorisation, Israel's actions appear to constitute a violation of sovereignty and an act of aggression under international law. But over the past two years, Israel has shown little regard fortherules, executing strikes against multiple nations like Iran, Lebanon, Syria, Yemen, and Iraq that almost certainly violate international law, at will The latest attack comes against the backdrop of three simultaneous developments. First, the planned offensive of the IDF to seize what it claims is Hamas's last remaining stronghold in Gaza, where thousands continue to endure hunger. Second, the mounting protests inside Israel demanding an end to the war and a deal to immediately secure the release of the remaining hostages. Third, the opening of the UN General Assembly this week, where major Western nations, like the UK, France, Australia, Belgium, and Canada, are expected to follow through on their pledge to recognise the State of Palestine. If Israel's strike on Qatar signals anything, itis that the Netanyahu government has little regard for either international opinion or domestic dissent. Its overriding objective appears tobe the continuation of the war and its expansion to new fronts.",
+   "n_words": 441,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3629,
+      3271,
+      4178,
+      3347
+     ]
+    ],
+    "layout_words": 10,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer chairs the Parliamentary\nStanding Committee on External Affairs",
+   "ocr_conf": 95.9,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer chairs the Parliamentary Standing Committee on External Affairs",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      3532,
+      3582,
+      3633
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      3709,
+      3830,
+      3770
+     ]
+    ],
+    "body_boxes": [
+     [
+      2316,
+      4518,
+      2823,
+      5201
+     ],
+     [
+      2920,
+      3985,
+      3526,
+      5206
+     ]
+    ],
+    "layout_words": 293
+   },
+   "headline_raw": "\u2018THE ELEGANT OBSERVER",
+   "deck_raw": "Sankarshan Thakur's journalism stood out for its depthand empathy",
+   "body_raw": "1999. He wrote that he would often see his\nmother looking at him \u201calmost as if she\nwere looking at someone else and | just\nhappened to be in the way.\u201d He said she\ntold him, \u201cIt isn\u2019t you, it\u2019s your father.\u201d\nWe met again in Kathmandu in 2015\nwhen a devastating quake destroyed large\nparts of the city and country. He said he had\nbeen writing. The Brothers Bihari, wherehe\nhad put together his earlier works on Lalu\nPrasad and Nitish Kumar, was due for re-\nlease ahead of the Bihar Assembly elections\nthat year. That conversation ended quickly.\nWe got back to reporting the dead and the\nmisery and the sorrow of the living. | re-\nmember his line about the banks of the\nBagmati running out of ground to\nstack pyres.\nBe it Kashmir or Bihar, in the turmoil\nand politics that he captured so well to tell\nan India story, his reportage stood out. For\nthe richness of details, the portrayal of\ncharacters, the ominous warnings of what\ncould follow. Knowing him, however fleet-\ning our meetings, this was one Bihar elec-\ntion he would have loved to write on. That\nwas not to be.\nBeing with him was also fun. | recall one\nepisode from that 2014 trip to Kathmandu\nwhen Modi travelled to Nepal. Waiting for\nword on the outcome of the meetings, we",
+   "ocr_conf": 94.74402730375427,
+   "ocr_low_conf_share": 0.006825938566552901,
+   "headline": "'THE ELEGANT OBSERVER",
+   "deck": "Sankarshan Thakur's journalism stood out for its depthand empathy",
+   "byline": "",
+   "text": "1999. He wrote that he would often see his mother looking at him \"almost as if she were looking at someone else and just happened to be in the way.\" He said she told him, \"It isn't you, it's your father.\" We met again in Kathmandu in 2015 when a devastating quake destroyed large parts of the city and country. He said he had been writing. The Brothers Bihari, wherehe had put together his earlier works on Lalu Prasad and Nitish Kumar, was due for release ahead of the Bihar Assembly elections that year. That conversation ended quickly. We got back to reporting the dead and the misery and the sorrow of the living. remember his line about the banks of the Bagmati running out of ground to stack pyres. Be it Kashmir or Bihar, in the turmoil and politics that he captured so well to tell an India story, his reportage stood out. For the richness of details, the portrayal of characters, the ominous warnings of what could follow. Knowing him, however fleeting our meetings, this was one Bihar election he would have loved to write on. That was not to be. Being with him was also fun. recall one episode from that 2014 trip to Kathmandu when Modi travelled to Nepal. Waiting for word on the outcome of the meetings, we",
+   "n_words": 223,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      3985,
+      4175,
+      5128
+     ]
+    ],
+    "layout_words": 218,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "stopped an official to inquire what had\ntranspired. He told us to wait for the for-\nmal statement. But before he walked away,\nhe said India would be extending an LOC\nto Nepal.\nAyoung reporter for an Indian TV chan-\nnel, who seemed to be new to the profes-\nsion and not prepared for the assignment\nshe had been thrown into, turned to\nSankarshan and asked him why India\nwould want to extend the LoC to Nepal.\nWith a straight face, he told her something\non these lines: \u201cTerrible, isn\u2019t it? Pakistan\nwould beso upset, and China so angry.\u201d She\nnodded in agreement. Alarmed that she\nmay air it, 1 told him, \u201cStop it. She may put\nitout.\u201d Sankarshan then broke it to her gen-\ntly: This LOC is a Line of Credit to Nepal, not\nthe Line of Control with Pakistan.\nThat episode stayed with us, and he\nwould bring it up each time we met.\nEveryone whose lives he touched will\nmiss him, remember him for the warmth he\nexuded, his gentle gaze, the firmness with\nwhich he would call a spade a spade, and the\nrichness of the conversations he would have\neven with people he didn\u2019t exactly know.\nAnd I, for one, will also remember him for\nintroducing me to the world of Kingsolver.",
+   "ocr_conf": 92.62385321100918,
+   "ocr_low_conf_share": 0.027522935779816515,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "stopped an official to inquire what had transpired. He told us to wait for the formal statement. But before he walked away, he said India would be extending an LOC to Nepal. Ayoung reporter for an Indian TV channel, who seemed to be new to the profession and not prepared for the assignment she had been thrown into, turned to Sankarshan and asked him why India would want to extend the LoC to Nepal. With a straight face, he told her something on these lines: \"Terrible, isn't it? Pakistan would beso upset, and China so angry.\" She nodded in agreement. Alarmed that she may air it, 1 told him, \"Stop it. She may put itout.\" Sankarshan then broke it to her gently: This LOC is a Line of Credit to Nepal, not the Line of Control with Pakistan. That episode stayed with us, and he would bring it up each time we met. Everyone whose lives he touched will miss him, remember him for the warmth he exuded, his gentle gaze, the firmness with which he would call a spade a spade, and the richness of the conversations he would have even with people he didn't exactly know. And I, for one, will also remember him for introducing me to the world of Kingsolver.",
+   "n_words": 214,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      601,
+      4853,
+      1248,
+      4936
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4981,
+      1530,
+      6153
+     ]
+    ],
+    "layout_words": 353
+   },
+   "headline_raw": "INDIA VS REST",
+   "deck_raw": "",
+   "body_raw": "They may be favourites to win, but at this Asia Cup,\nSuryakumar Yadav and his team will also be on test\nCOUPLEOF months after India won the 1983 World Cup, some Asian coun-\ntries came together to form the Asian Cricket Conference (Conference would\nA later change to Council). It was decided that the first international cricket\ntournament to be played outside the purview of the International Cricket\nCouncil would be the Asia Cup in 1984. It\u2019s apt that this event returns to the UAE, for itwas\nin Sharjah that the first edition was played. Perhaps for the first time, India stands as an\noverwhelming favourite to win this year.\nIn the initial years of the tournament, it was thought that the main contest would be\nbetween Pakistan and India. But in its first 12 years, Sri Lanka and India won the trophy\nfive times apiece, with Pakistan winning just twice. After the early years of the tournament,\nthings changed and these days, the gap between India and the rest seems like a deep\nchasm Thatisn\u2019t surprising considering India has numerous state-level T20 leagues feed-\ning talent into the IPL, the Big Daddy of T20 in world cricket.\nThough it looks strong on paper, this Indian team is relatively young and new. It\u2019s the\nfirst big T20 tournament without the likes of Rohit Sharma and Virat Kohli or Ravindra\nJadeja. It\u2019s the first big event for captain Suryakumar Yadav, and though he hasbeen lead-\ning successfully for a while now, his hold on the team will be tested with the inclusion of\nShubman Gill, the Test captain, into the squad. India don\u2019t have an OD! captain as yet as\nthey haven\u2019t played.a game after Rohit Sharmalifted the ChampionsTrophy and consid-\nering Suryakumar doesn't always find a place in the ODIs, it'sexpected that Gill might be\ngiven that role. That leaves Suryakumar holding the reins in T20 for now, and a triumph\nin Asia Cup will enable him to lead India in the T20 world cup early next year. Of course,\nif they don\u2019t win here, it might well set the cat amongst the pigeons.",
+   "ocr_conf": 92.67796610169492,
+   "ocr_low_conf_share": 0.022598870056497175,
+   "headline": "INDIA VS REST",
+   "deck": "",
+   "byline": "",
+   "text": "They may be favourites to win, but at this Asia Cup, Suryakumar Yadav and his team will also be on test COUPLEOF months after India won the 1983 World Cup, some Asian countries came together to form the Asian Cricket Conference (Conference would A later change to Council). It was decided that the first international cricket tournament to be played outside the purview of the International Cricket Council would be the Asia Cup in 1984. It's apt that this event returns to the UAE, for itwas in Sharjah that the first edition was played. Perhaps for the first time, India stands as an overwhelming favourite to win this year. In the initial years of the tournament, it was thought that the main contest would be between Pakistan and India. But in its first 12 years, Sri Lanka and India won the trophy five times apiece, with Pakistan winning just twice. After the early years of the tournament, things changed and these days, the gap between India and the rest seems like a deep chasm Thatisn't surprising considering India has numerous state-level T20 leagues feeding talent into the IPL, the Big Daddy of T20 in world cricket. Though it looks strong on paper, this Indian team is relatively young and new. It's the first big T20 tournament without the likes of Rohit Sharma and Virat Kohli or Ravindra Jadeja. It's the first big event for captain Suryakumar Yadav, and though he hasbeen leading successfully for a while now, his hold on the team will be tested with the inclusion of Shubman Gill, the Test captain, into the squad. India don't have an OD! captain as yet as they haven't played.a game after Rohit Sharmalifted the ChampionsTrophy and considering Suryakumar doesn't always find a place in the ODIs, it'sexpected that Gill might be given that role. That leaves Suryakumar holding the reins in T20 for now, and a triumph in Asia Cup will enable him to lead India in the T20 world cup early next year. Of course, if they don't win here, it might well set the cat amongst the pigeons.",
+   "n_words": 350,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3729,
+      5172,
+      4173,
+      5207
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "rakesh.sinha@expressindia.com",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "rakesh.sinha@expressindia.com",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1695,
+      5421,
+      2164,
+      5484
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1685,
+      5493,
+      1950,
+      5523
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "8) INDIAN EXPRESS se",
+   "deck_raw": "",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "8) INDIAN EXPRESS se",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      5355,
+      3621,
+      5440
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2265,
+      5488,
+      2856,
+      5541
+     ]
+    ],
+    "body_boxes": [
+     [
+      2268,
+      5569,
+      2872,
+      5952
+     ],
+     [
+      2268,
+      6007,
+      2799,
+      6050
+     ],
+     [
+      2267,
+      6083,
+      2874,
+      6156
+     ],
+     [
+      2920,
+      5488,
+      3523,
+      5879
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "SEPTEMBER II, 1985, FORTY YEARS AGO",
+   "deck_raw": "J\u00ae&K House IGNoRES HC",
+   "body_raw": "THE JAMMU AND Kashmir Assembly, by a\nmajority vote, decided to ignore the directions\nof the state High Court to allow three\nOpposition members to participatein the pro-\nceedings ofthe House. There were heated ex-\nchanges and two walkouts by National\nConference (Farooq) members, according to\nwhom the action of suspension of the three\nmembers contravened the rules of procedure\nof the House.\n\nNO ILLEGALS IN ASSAM\n\nTHE BANGLADESH FOREIGN Minister,\nHumayun Rashed Choudhury, once again de-\n\nnied the presence of\u201cany illegal Bangladeshis\nin Assam\u201d. He said Indira Gandhi had an-\nnounced in Parliament in 1972 that all\nrefugees who had gone to India returned to\nBangladesh. \u201cSo, quoting the Indian Prime\nMinister we can say that there are no\nBangiadesiinationais in India,\u201d hesaid.He also\nadded, \u201cThere is no evidence that illegal im-\nmigrants from Assam are being pushed into\nBangladesh.\u201d",
+   "ocr_conf": 91.54609929078015,
+   "ocr_low_conf_share": 0.06382978723404255,
+   "headline": "SEPTEMBER II, 1985, FORTY YEARS AGO",
+   "deck": "J\u00ae&K House IGNoRES HC",
+   "byline": "NO ILLEGALS IN ASSAM",
+   "text": "THE JAMMU AND Kashmir Assembly, by a majority vote, decided to ignore the directions of the state High Court to allow three Opposition members to participatein the proceedings ofthe House. There were heated exchanges and two walkouts by National Conference (Farooq) members, according to whom the action of suspension of the three members contravened the rules of procedure of the House.\n\nTHE BANGLADESH FOREIGN Minister, Humayun Rashed Choudhury, once again denied the presence of\"any illegal Bangladeshis in Assam\". He said Indira Gandhi had announced in Parliament in 1972 that all refugees who had gone to India returned to Bangladesh. \"So, quoting the Indian Prime Minister we can say that there are no Bangiadesiinationais in India,\" hesaid.He also added, \"There is no evidence that illegal immigrants from Assam are being pushed into Bangladesh.\"",
+   "n_words": 132,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      5489,
+      4173,
+      5683
+     ]
+    ],
+    "layout_words": 36,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "visit by the British Home Secretary, Douglas\nHurd. A fourth person was also killed in the ri-\nots which resulted in the destruction of about\n50 shops and residences, almost all of them\nbelonging to Asians.",
+   "ocr_conf": 94.63888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "visit by the British Home Secretary, Douglas Hurd. A fourth person was also killed in the riots which resulted in the destruction of about 50 shops and residences, almost all of them belonging to Asians.",
+   "n_words": 35,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      5731,
+      4016,
+      5774
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "HERMES FOR INDIA",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "HERMES FOR INDIA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3569,
+      5806,
+      4173,
+      6157
+     ]
+    ],
+    "layout_words": 63,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BRITAIN FLAGSHIP IN the Falklands war with\nArgentina, the aircraft carrier HMS Hermes,\nmay begiven tothe Indian Navy asa bonus for\na multi-million-pound arms deal. Senior of-\nficers from the Indian Navy are due in\nPortsmouth to attend the Royal Navy exhibi-\ntion. They will be looking at British defence\nhardware, including Sea Harrier vertical-take-\noff jets for India's aircraft carrier, the Vikrant.",
+   "ocr_conf": 86.63492063492063,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "BRITAIN FLAGSHIP IN the Falklands war with Argentina, the aircraft carrier HMS Hermes, may begiven tothe Indian Navy asa bonus for a multi-million-pound arms deal. Senior officers from the Indian Navy are due in Portsmouth to attend the Royal Navy exhibition. They will be looking at British defence hardware, including Sea Harrier vertical-takeoff jets for India's aircraft carrier, the Vikrant.",
+   "n_words": 60,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2920,
+      5927,
+      3450,
+      5971
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2918,
+      6004,
+      3522,
+      6157
+     ]
+    ],
+    "layout_words": 26
+   },
+   "headline_raw": "INDIANS KILLED IN UK",
+   "deck_raw": "",
+   "body_raw": "AT LEAST THREE persons, believed to be\nIndians, were bumt to death during arson and\nlooting in Birmingham's Handsworth area\nwhere renewed violence erupted during a",
+   "ocr_conf": 91.65384615384616,
+   "ocr_low_conf_share": 0.038461538461538464,
+   "headline": "INDIANS KILLED IN UK",
+   "deck": "",
+   "byline": "",
+   "text": "AT LEAST THREE persons, believed to be Indians, were bumt to death during arson and looting in Birmingham's Handsworth area where renewed violence erupted during a",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 22.4,
+ "flags": [
+  "3 kept article(s) without a headline"
+ ]
+}

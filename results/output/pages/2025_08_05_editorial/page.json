@@ -1,0 +1,520 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_05_editorial",
+ "source_file": "2025-08-05_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-05_editorial.png",
+ "date": "2025-08-05",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 454,
+  "mean_line_conf": 91.12604413362543,
+  "orphan_words": 0,
+  "body_words_total": 3457
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      435,
+      918,
+      949,
+      960
+     ],
+     [
+      811,
+      771,
+      1089,
+      802
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "BECAUSE THE TRUTH\n\nFOUNDED By @",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; FOUNDED By @",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1856,
+      598,
+      3104,
+      840
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2310,
+      880,
+      3497,
+      1012
+     ]
+    ],
+    "body_boxes": [
+     [
+      2317,
+      2447,
+      2818,
+      3394
+     ],
+     [
+      2923,
+      1290,
+      3532,
+      3390
+     ]
+    ],
+    "layout_words": 450
+   },
+   "headline_raw": "Against imp",
+   "deck_raw": "Giving in to emerging US state, in name of reform,\nrealism, capitalist reset, is affront to India\u2019s dignity",
+   "body_raw": "If this is a reset, it is towards\na more coercive domestic\npolitical system, accelerating\noligarchy, increasing\ndiscretion, throwing\ncapitalism into amore\nspeculative tailspin, and\noutright coercion of others.\nOur pro-America lobby is\nloudly proclaiming that this\nmodel is working. Let us put\nit as modestly as we can, the\njury is out on that one,\nthough pro-Trumpists in\nIndia are declaring\npremature victory on his\nbehalf. But in any case, it is\nnot clear what the rest of\nthe world gains.\n\nface: Climate change. It wants a fossil fuel\neconomy on steroids.\nimagine, further, that this power con-\nstantly seeks to interfere in plausibly defen-\nsible regulations in all countries. It does not\nwant toleave them alone, but insists that the\nregulation of technology, content modera-\ntion, should be according to its values.\nImagine, further, that this power was inter-\nested inextractive mercantilism for whichit\nwill not hesitate to use its military might.\nImagine, further, that this power no longer\nthinks that advantages accrue toit because of\nthe credibility of its monetary system. It\nseeks toretain the privileged status of its cur-\nrency, not by making its institutions attrac-\ntive, but by trying to coerce others through\ntariffs. It now maintains its exorbitant privi-\nlege by more threats.\nToadd to this volatile mix, it encourages\nwhat is, from a developmental point of view,\nthe mostuseless and insidious form of spec-\nulation: Cryptocurrency. It also creates a sys-\ntem where the rulers directly benefit from\nthe system. It further undermines the cred-\nibility of the global system by basically say-\ning that anyone who gives bad news about\nthe economy will be penalised.\nBut its ambition goes further. It is con-\nstantly meddling in other countries\u2019 affairsin\nthe most damaging way possible. It claims to\neschew democracy promotion, but does\nsomething worse: Meddle in the rule-of-law\nprocesses of other countries. It imposes stiff\npenalties on one country simply because that\ncountry was following the rule of law and de-\nfending its democracy against those who plot-\nted a coup. It wrecks every international in-\nstitution that could provide global public\ngoods. But worse, it sanctions international\nofficials who were simply doing their job and\npenalises them. Every country has the right\nto regulate immigration, and even close its\nborders, But this power decides that it has to\nsend a message through the sheercruelty and\narbitrariness of the process. Itsown model of\ncapitalism is not a reset toa new model It is,\nrather, theculmination of the most oligarchic\nand deals-based tendencies of theold model.\nImagine, further, that this system, and\nnot just the leader who represents it, gets\nused toa new symbolic and material tribu-\ntary system: World leaders showing up,",
+   "ocr_conf": 92.52888888888889,
+   "ocr_low_conf_share": 0.024444444444444446,
+   "headline": "Against imp",
+   "deck": "Giving in to emerging US state, in name of reform, realism, capitalist reset, is affront to India's dignity",
+   "byline": "",
+   "text": "If this is a reset, it is towards a more coercive domestic political system, accelerating oligarchy, increasing discretion, throwing capitalism into amore speculative tailspin, and outright coercion of others. Our pro-America lobby is loudly proclaiming that this model is working. Let us put it as modestly as we can, the jury is out on that one, though pro-Trumpists in India are declaring premature victory on his behalf. But in any case, it is not clear what the rest of the world gains.\n\nface: Climate change. It wants a fossil fuel economy on steroids. imagine, further, that this power constantly seeks to interfere in plausibly defensible regulations in all countries. It does not want toleave them alone, but insists that the regulation of technology, content moderation, should be according to its values. Imagine, further, that this power was interested inextractive mercantilism for whichit will not hesitate to use its military might. Imagine, further, that this power no longer thinks that advantages accrue toit because of the credibility of its monetary system. It seeks toretain the privileged status of its currency, not by making its institutions attractive, but by trying to coerce others through tariffs. It now maintains its exorbitant privilege by more threats. Toadd to this volatile mix, it encourages what is, from a developmental point of view, the mostuseless and insidious form of speculation: Cryptocurrency. It also creates a system where the rulers directly benefit from the system. It further undermines the credibility of the global system by basically saying that anyone who gives bad news about the economy will be penalised. But its ambition goes further. It is constantly meddling in other countries' affairsin the most damaging way possible. It claims to eschew democracy promotion, but does something worse: Meddle in the rule-of-law processes of other countries. It imposes stiff penalties on one country simply because that country was following the rule of law and defending its democracy against those who plotted a coup. It wrecks every international institution that could provide global public goods. But worse, it sanctions international officials who were simply doing their job and penalises them. Every country has the right to regulate immigration, and even close its borders, But this power decides that it has to send a message through the sheercruelty and arbitrariness of the process. Itsown model of capitalism is not a reset toa new model It is, rather, theculmination of the most oligarchic and deals-based tendencies of theold model. Imagine, further, that this system, and not just the leader who represents it, gets used toa new symbolic and material tributary system: World leaders showing up,",
+   "n_words": 434,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3119,
+      593,
+      3944,
+      790
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      1291,
+      4183,
+      3263
+     ],
+     [
+      3753,
+      3314,
+      4178,
+      3390
+     ],
+     [
+      3571,
+      3989,
+      4181,
+      4817
+     ],
+     [
+      3577,
+      4863,
+      4178,
+      5087
+     ],
+     [
+      3575,
+      5378,
+      4068,
+      5413
+     ],
+     [
+      3574,
+      5461,
+      4170,
+      5504
+     ],
+     [
+      3573,
+      5536,
+      4178,
+      6160
+     ]
+    ],
+    "layout_words": 669
+   },
+   "headline_raw": "erjalism",
+   "deck_raw": "",
+   "body_raw": "grovelling for deals, willing to be humiliated.\nImagine, further, that this power is unwilling\nto stop one of the most horrendous moral\ncatastrophes of the 21st century, which is\nbeing carried out with its support. Not only\nis it unwilling to stop it, it is penalising, across\nthe world, people who might be moved and\noutraged by this catastrophe. All countries\nwant to get ahead. But imagine, further, that\nthis country wants to retain supremacy, by\nforce of arms if necessary. Imagine, further,\nthat this country treats its longstanding al-\nlies like pieces of dirt. It drips with contempt\nfor them. This is not a power with whom\neven an alliance is possible. It will accept\nonly vassals, Now whatwould suchacountry\nbe called? There is no other word for\nit: Imperialism.\nIt's mind-boggling that we have to hesi-\ntate to use this word. It is also a mistake to\nthink this is just about managing the ego of\none leader. There is no pushback in the sys-\ntem to this imperial project. Great powers\nare always imperialist. Weaker powers al-\nways have to adjust. That is a debate for an-\nother occasion. But Trumpis imperialism on\nsteroids. The reset of capitalism is not in\nfavour of mitigating environmental risk,\nmore social protection or even coherent\nindustrial policy.\nIf this is a reset, it is towards a more co-\nercive domestic political system, accelerat-\ning oligarchy, increasing discretion, throw-\ning capitalism into a more speculative\ntailspin, and outright coercion of others, Our\npro-America lobby is loudly proclaiming\nthat this model is working. Let us put it as\nmodestly as we can, the jury is out on that\none, though pro-Trumpists in India are de-\nclaring premature victory on his behalf. But\nin any case, it is not clear what the rest of\nthe world gains.\nIndia and America should, at their best,\nstand for shared political values \u2014 zones of\nliberty, constitutionalism and open society.\nBut capitulating to this emerging American\nimperial state, under the euphemisms of re-\nform, realism, or capitalist reset, isan affront\nto both India\u2019s dignity and its interests, And\nit will be terrible for the future of the world.\n\nThe writer is contributing editor,\nThe Indian Express\n\nfind profound meaning here. When we begin\nto see the divine in everyone we meet, each\nact of kindness becomes sacred, each mo-\nment becomes significant, and life itself\ntransforms into spiritual practice.\nTagore\u2019s gentle invitation is to embrace\nlife as a divine celebration \u2014 to feel sacred-\nness in ordinary moments, such as sunlight\nfiltering through leaves, shared laughter, or\nquiet acts of compassion. Shankaracharya\nadds the depth of insight, teaching us to dis-\nsolve barriers that create loneliness and sep-\narateness. Together, they gently guide us to-\nwards a deeper understanding of our true\nselves, leading to lasting peace.\nIn their combined wisdom, we rediscover\nour heart's true home \u2014 an endless stream\nof joy and serenity. Their voices blend into a\nharmonious melody, affirming that within\nusand all around us flows infinite bliss, con-\nnecting each soul eternally withthe cosmos.\n\nSamajdar is a clinical pharmacologist and\ndiabetes and allergy-asthma therapeutics\nspecialist in Kolkata. Joshi isa Mumbai-based\nendocrinologist and former chair,\nInternational Diabetes Federation\nSoutheast Asia\n\nhe would cooperate with the Centre.\n\nBENAZIR BHUTTO'S PLAN\n\nTHE POLITICAL ATMOSPHERE, from which\nBenazir Bhutto was expected to gain on her\nreturn to Pakistan with the body of her\nbrother, Shahnawaz Bhutto, may now grad-\nually fade out if she further postpones her\ndeparture from Paris. Left to herself, the act-\ning chairperson of the Pakistan People\u2019s Party\nis ready to fly as early as possible to Karachi\nwith the body of her brother to be buried\nalong the grave of his father, the executed\nprime minister, Zulfikar Ali Bhutto.\nShahnawaz Bhutto was found dead in his flat\nin Cannes, France. Foul play was suspected.\nSo, the police carried out three autopsies and\nmay order the fourth, if they are not able to\nfind out the exact cause of his death.",
+   "ocr_conf": 94.04477611940298,
+   "ocr_low_conf_share": 0.008955223880597015,
+   "headline": "erjalism",
+   "deck": "",
+   "byline": "",
+   "text": "grovelling for deals, willing to be humiliated. Imagine, further, that this power is unwilling to stop one of the most horrendous moral catastrophes of the 21st century, which is being carried out with its support. Not only is it unwilling to stop it, it is penalising, across the world, people who might be moved and outraged by this catastrophe. All countries want to get ahead. But imagine, further, that this country wants to retain supremacy, by force of arms if necessary. Imagine, further, that this country treats its longstanding allies like pieces of dirt. It drips with contempt for them. This is not a power with whom even an alliance is possible. It will accept only vassals, Now whatwould suchacountry be called? There is no other word for it: Imperialism. It's mind-boggling that we have to hesitate to use this word. It is also a mistake to think this is just about managing the ego of one leader. There is no pushback in the system to this imperial project. Great powers are always imperialist. Weaker powers always have to adjust. That is a debate for another occasion. But Trumpis imperialism on steroids. The reset of capitalism is not in favour of mitigating environmental risk, more social protection or even coherent industrial policy. If this is a reset, it is towards a more coercive domestic political system, accelerating oligarchy, increasing discretion, throwing capitalism into a more speculative tailspin, and outright coercion of others, Our pro-America lobby is loudly proclaiming that this model is working. Let us put it as modestly as we can, the jury is out on that one, though pro-Trumpists in India are declaring premature victory on his behalf. But in any case, it is not clear what the rest of the world gains. India and America should, at their best, stand for shared political values - zones of liberty, constitutionalism and open society. But capitulating to this emerging American imperial state, under the euphemisms of reform, realism, or capitalist reset, isan affront to both India's dignity and its interests, And it will be terrible for the future of the world.\n\nThe writer is contributing editor, The Indian Express\n\nfind profound meaning here. When we begin to see the divine in everyone we meet, each act of kindness becomes sacred, each moment becomes significant, and life itself transforms into spiritual practice. Tagore's gentle invitation is to embrace life as a divine celebration - to feel sacredness in ordinary moments, such as sunlight filtering through leaves, shared laughter, or quiet acts of compassion. Shankaracharya adds the depth of insight, teaching us to dissolve barriers that create loneliness and separateness. Together, they gently guide us towards a deeper understanding of our true selves, leading to lasting peace. In their combined wisdom, we rediscover our heart's true home - an endless stream of joy and serenity. Their voices blend into a harmonious melody, affirming that within usand all around us flows infinite bliss, connecting each soul eternally withthe cosmos.\n\nSamajdar is a clinical pharmacologist and diabetes and allergy-asthma therapeutics specialist in Kolkata. Joshi isa Mumbai-based endocrinologist and former chair, International Diabetes Federation Southeast Asia\n\nhe would cooperate with the Centre.\n\nBENAZIR BHUTTO'S PLAN\n\nTHE POLITICAL ATMOSPHERE, from which Benazir Bhutto was expected to gain on her return to Pakistan with the body of her brother, Shahnawaz Bhutto, may now gradually fade out if she further postpones her departure from Paris. Left to herself, the acting chairperson of the Pakistan People's Party is ready to fly as early as possible to Karachi with the body of her brother to be buried along the grave of his father, the executed prime minister, Zulfikar Ali Bhutto. Shahnawaz Bhutto was found dead in his flat in Cannes, France. Foul play was suspected. So, the police carried out three autopsies and may order the fourth, if they are not able to find out the exact cause of his death.",
+   "n_words": 652,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      440,
+      1097,
+      1412,
+      1198
+     ]
+    ],
+    "deck_boxes": [
+     [
+      337,
+      1244,
+      1515,
+      1350
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      1399,
+      1529,
+      2628
+     ],
+     [
+      320,
+      2685,
+      1527,
+      2903
+     ]
+    ],
+    "layout_words": 440
+   },
+   "headline_raw": "EYE ON THE GOAL",
+   "deck_raw": "In wake of Trump\u2019s latest moves, Delhi must push ahead with\nthe trade deal while focusing on the domestic reform agenda",
+   "body_raw": "AYS AFTER US President Donald Trump announced a 25 per cent tariff on\nIndianimports, and an unspecified penalty for defence and energy imports\nLD from Russia, the Indian government has initiated an exercise to thrash out\nconcessions across sectors that can be put forth in trade talks between the\ntwo countries. As reported in this paper, key ministries have been directed to examine\nwhat can be offered to make the deal more attractive to Trump, with the US said to be\npushing for greater market access than what has been on the table so far, bringing down\ntariff walls and doing away with non-tariff barriers. Another round of talks is slated to be\nheld in the last week of August.\nThere will be red lines, of course. The government, for instance, is reluctant to give con-\ncessions on some agri items, even as it must negotiate to increase market access to the world\u2019s\nlargesteconomy \u2014 in 2024-25, India exported goods worth roughly $87 billion tothe US, led\nbyelectronics (17.6 per cent ofexports), pharma (118 per cent) and gems and jewellery(11.5\nper cent) The imposition of higher tariff\u00a7 on the country as compared to those levied on its\ncompetitors such as Vietnam and Indonesia will impact export competitiveness and haveim-\nplications for the broader economic momentum. Assessments by various agencies have pro-\nvided some sense of the possible impact on the Indian economy \u2014 ICRA, for instance, has\nlowered its GDP growth forecast for the year to 6 per cent from 6.2 per cent earlier, while\nCareEdge Ratings has estimated the direct export loss tobe around 0.3 to0.4per cent of GDP.\nSome of the options before the government reportedly involve increasing purchases of de-\nfence equipment and oil, and greater nuclear engagement, among others. Indian refiners\nhave already cut down on oil imports from Russia to 1.6 million barrels per day inJuly,down\n24 per cent fromthe monthbefore. This decline has been offset by higher impoiis from coun-\ntries such as Saudi Arabia, the UAE, the US and Nigeria. Concessions to the US could also be\ngranted in areas of public procurement \u2014 in line with the India-UK trade agreement.\nDelhi's sober response, in the face of Trump's broadside \u2014 the US President has called\nIndiaa \u201cdead economy\u201d \u2014 reflects pragmatism when faced with pressure tactics designed\n\nunderpinned the global trading system, a business-as-usual approach is unlikely to work.\nIndia should continue to sidestep the loose rhetoric, while moving ahead with negotiations\ntoconclude a deal that delivers benefits to both sides. Alongside, it should press forward the\ndomestic reform agenda to boost competitiveness, improve ease of doing business, and in-\ncrease the attractiveness of the country as an investment destination.",
+   "ocr_conf": 91.34151785714286,
+   "ocr_low_conf_share": 0.033482142857142856,
+   "headline": "EYE ON THE GOAL",
+   "deck": "In wake of Trump's latest moves, Delhi must push ahead with the trade deal while focusing on the domestic reform agenda",
+   "byline": "",
+   "text": "AYS AFTER US President Donald Trump announced a 25 per cent tariff on Indianimports, and an unspecified penalty for defence and energy imports LD from Russia, the Indian government has initiated an exercise to thrash out concessions across sectors that can be put forth in trade talks between the two countries. As reported in this paper, key ministries have been directed to examine what can be offered to make the deal more attractive to Trump, with the US said to be pushing for greater market access than what has been on the table so far, bringing down tariff walls and doing away with non-tariff barriers. Another round of talks is slated to be held in the last week of August. There will be red lines, of course. The government, for instance, is reluctant to give concessions on some agri items, even as it must negotiate to increase market access to the world's largesteconomy - in 2024-25, India exported goods worth roughly $87 billion tothe US, led byelectronics (17.6 per cent ofexports), pharma (118 per cent) and gems and jewellery(11.5 per cent) The imposition of higher tariff\u00a7 on the country as compared to those levied on its competitors such as Vietnam and Indonesia will impact export competitiveness and haveimplications for the broader economic momentum. Assessments by various agencies have provided some sense of the possible impact on the Indian economy - ICRA, for instance, has lowered its GDP growth forecast for the year to 6 per cent from 6.2 per cent earlier, while CareEdge Ratings has estimated the direct export loss tobe around 0.3 to0.4per cent of GDP. Some of the options before the government reportedly involve increasing purchases of defence equipment and oil, and greater nuclear engagement, among others. Indian refiners have already cut down on oil imports from Russia to 1.6 million barrels per day inJuly,down 24 per cent fromthe monthbefore. This decline has been offset by higher impoiis from countries such as Saudi Arabia, the UAE, the US and Nigeria. Concessions to the US could also be granted in areas of public procurement - in line with the India-UK trade agreement. Delhi's sober response, in the face of Trump's broadside - the US President has called Indiaa \"dead economy\" - reflects pragmatism when faced with pressure tactics designed\n\nunderpinned the global trading system, a business-as-usual approach is unlikely to work. India should continue to sidestep the loose rhetoric, while moving ahead with negotiations toconclude a deal that delivers benefits to both sides. Alongside, it should press forward the domestic reform agenda to boost competitiveness, improve ease of doing business, and increase the attractiveness of the country as an investment destination.",
+   "n_words": 442,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1623,
+      1113,
+      2202,
+      1190
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      1289,
+      2227,
+      3388
+     ],
+     [
+      1982,
+      3663,
+      2087,
+      3703
+     ],
+     [
+      2001,
+      3750,
+      2069,
+      3783
+     ]
+    ],
+    "layout_words": 385
+   },
+   "headline_raw": "PRATAP BHANU MEHTA",
+   "deck_raw": "",
+   "body_raw": "IT WILL BE a huge mistake for India to treat\nthe trade negotiations with US President\nDonald Trump just asa trade negotiation. The\n\u201cconcede to America lobby\u201d in India, which\nis surprisingly ideologically strong in elite cir-\ncles, is spectacularly misreading the mo-\nment. They start with obvious truisms. India\nand America can be extraordinarily produc-\ntive partners. India needs vigorous domes-\ntic economic reform. And we have to realise\nthat there is a capitalist reset underway and\nwe will need to adapt. Just look at the fact\nthat many countries are rushing for a deal.\nWe do not want to be left out.\nBut these truisms disguisethe most spec-\ntacular fact about the moment: It is a pro-\nfoundly imperial moment. Trump is not sim-\nply resetting capitalism into anew form. Ifthe\nobjective of the reset of capitalism was pro-\ntectionism for thesake of industrial policy, re-\nembedding capitalism in new social relations\nfavourable tolabour, regulating immigiation,\ncountries like Indiacould deal with it, and even\nought to make intelligent concessions to en-\nable it. But the reset that Trump is demand-\ningis very different. It would be foolish torush\nheadlong into enabling it without resistance.\nConsider this thought experiment.\nSuppose a powerful country wants to both\nimpose tariffs and achieve bilateral balance\nof trade. Suppose, further, that there was no\nreciprocity in the tariffs, The powerful coun-\ntry rather implausibly complained that it has\nbeen exploited by the rest of the world. It\nnow wants to reverse that trend. How? By\nimposing asymmetric tariffs. This power is\nasking everyone to lower their tariffs to zero,\nwhile itself continuing to impose tariffs, al-\nmost as if this were a 19th-century imperial\ntariff regime. Further, this power getsyouto\nbuy particular goods it wants to sell, not as\npart of a give and take, but basically under\nthreat. This government reserves the rights\nto its own industrial policy, unhealthily sub-\nsidised agriculture, but wants you to upend\nyour entire agriculture policy. Suppose, fur-\nther, that this power now does not believe\nin the rules of the game, but keeps coming\nup with discretionary favours and exemp-\ntions at will. Suppose, further, that this\npower has no interest in, and is the single\nbiggest obstacle to, dealing with one of the\nprofoundest transitions humanity has to\n\n\n\nSS",
+   "ocr_conf": 90.2578125,
+   "ocr_low_conf_share": 0.049479166666666664,
+   "headline": "PRATAP BHANU MEHTA",
+   "deck": "",
+   "byline": "",
+   "text": "IT WILL BE a huge mistake for India to treat the trade negotiations with US President Donald Trump just asa trade negotiation. The \"concede to America lobby\" in India, which is surprisingly ideologically strong in elite circles, is spectacularly misreading the moment. They start with obvious truisms. India and America can be extraordinarily productive partners. India needs vigorous domestic economic reform. And we have to realise that there is a capitalist reset underway and we will need to adapt. Just look at the fact that many countries are rushing for a deal. We do not want to be left out. But these truisms disguisethe most spectacular fact about the moment: It is a profoundly imperial moment. Trump is not simply resetting capitalism into anew form. Ifthe objective of the reset of capitalism was protectionism for thesake of industrial policy, reembedding capitalism in new social relations favourable tolabour, regulating immigiation, countries like Indiacould deal with it, and even ought to make intelligent concessions to enable it. But the reset that Trump is demand-ingis very different. It would be foolish torush headlong into enabling it without resistance. Consider this thought experiment. Suppose a powerful country wants to both impose tariffs and achieve bilateral balance of trade. Suppose, further, that there was no reciprocity in the tariffs, The powerful country rather implausibly complained that it has been exploited by the rest of the world. It now wants to reverse that trend. How? By imposing asymmetric tariffs. This power is asking everyone to lower their tariffs to zero, while itself continuing to impose tariffs, almost as if this were a 19th-century imperial tariff regime. Further, this power getsyouto buy particular goods it wants to sell, not as part of a give and take, but basically under threat. This government reserves the rights to its own industrial policy, unhealthily subsidised agriculture, but wants you to upend your entire agriculture policy. Suppose, further, that this power now does not believe in the rules of the game, but keeps coming up with discretionary favours and exemptions at will. Suppose, further, that this power has no interest in, and is the single biggest obstacle to, dealing with one of the profoundest transitions humanity has to\n\nSS",
+   "n_words": 368,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      450,
+      2938,
+      1400,
+      3081
+     ]
+    ],
+    "deck_boxes": [
+     [
+      467,
+      3118,
+      1382,
+      3225
+     ]
+    ],
+    "body_boxes": [
+     [
+      314,
+      3261,
+      1530,
+      4674
+     ]
+    ],
+    "layout_words": 423
+   },
+   "headline_raw": "Guru SHIBU SOREN",
+   "deck_raw": "He revived the Jharkhand statehood movement\nand gave a new life to Adivasi politics",
+   "body_raw": "NA WINTER day in 1957, a 15-year-old boy in Gola block in undivided\nHazaribagh district in Jharkhand was waiting for his father, who never re-\n() tumed. School teacher Sobaran Manjhiwas killed bymoneylenders, and young\nShivcharan's life changed forever. The teenager pledged toendtheexploitation\nby moneylenders and to fight for his people, the Adivasis. In the coming decades, the young\nman who cametobe known as ShibuSoren and later affectionately called Gurujibecamethe\nfulcrum of Adivasi politics. Shibu Soren, 81, who died on Monday, leaves behind a legacy of\ninspiring political vision and indefatigable grit mixed with some persistent controversies.\nAfterhis father\u2019s death, Soren led aband of youth in Santhal Pargana and initiated amove-\nment called Dhan Kati. The groupencouraged Adivasis to harvest crops fromlands that were\nillegally grabbed by moneylenders when they failed to pay off the debt. Soon, this move-\nment became an organised struggle for the recognition of Adivasi rights over jal, jungle, za-\nmeen. In 1972, Soren, along with A KRoy. a Marxistleader, and Binod Bihari Mahato, founded\nthe Jharkhand Mukti Morcha (JMM) and revived the movement for statehood. To bring the\nindustrial workers, sadans, the non-tribal natives of Jharkhand, and Adivasis together was\nnotaneasy task. Soren realised that thedream of aseparate Jharkhand would not be fulfilled\nwithout the participation of non-tribal communities, He sought to change the definition of\nDiku \u2014 for him, the term no longer only meant \u201coutsiders\u201d, but referred to those who ex-\nploited Jharkhand\u2019s resources. His dream of a separate state materialised only in 2000.\nPolitical instability, allegations of corruption and violence didn't let any of the CMs com-\nplete their tentie intie new state until 2014, when the BJP made Raghubar Das the firstnon-\nAdivasi chief minister, Soren\u2019s own political life was also shadowed by controversies. In 2004,\nwithin two months of becoming Union minister of coal and mines, he had to resign due to\nan airest warrant for his alleged role in the Chirudih massacre of 1975, in which 10 people were\nkilled. In 2008, a fast-track court acquitted him, citing lack of evidence. He faced allegations\noftaking bribes to save the minority government of PV Narasimha Raoin 1993. The SC in 1998\ntuled that legislators enjoy impunity from criminal prosecution in bribery cases related to their\nvotes and speeches in Parliament \u2014 the judgment was overruled in 2024. However, contro-\nversies could not take away from Soren\u2019s achievements. After Marang Gomke Jaipal Singh\nMunda, Dishom Guru Shibu Soren was the leader who successfully reimagined Adivasi pol-\nitics beyond the limits of identity, sub-nationalism and language.",
+   "ocr_conf": 86.47877358490567,
+   "ocr_low_conf_share": 0.10377358490566038,
+   "headline": "Guru SHIBU SOREN",
+   "deck": "He revived the Jharkhand statehood movement and gave a new life to Adivasi politics",
+   "byline": "",
+   "text": "NA WINTER day in 1957, a 15-year-old boy in Gola block in undivided Hazaribagh district in Jharkhand was waiting for his father, who never re- () tumed. School teacher Sobaran Manjhiwas killed bymoneylenders, and young Shivcharan's life changed forever. The teenager pledged toendtheexploitation by moneylenders and to fight for his people, the Adivasis. In the coming decades, the young man who cametobe known as ShibuSoren and later affectionately called Gurujibecamethe fulcrum of Adivasi politics. Shibu Soren, 81, who died on Monday, leaves behind a legacy of inspiring political vision and indefatigable grit mixed with some persistent controversies. Afterhis father's death, Soren led aband of youth in Santhal Pargana and initiated amove-ment called Dhan Kati. The groupencouraged Adivasis to harvest crops fromlands that were illegally grabbed by moneylenders when they failed to pay off the debt. Soon, this movement became an organised struggle for the recognition of Adivasi rights over jal, jungle, zameen. In 1972, Soren, along with A KRoy. a Marxistleader, and Binod Bihari Mahato, founded the Jharkhand Mukti Morcha (JMM) and revived the movement for statehood. To bring the industrial workers, sadans, the non-tribal natives of Jharkhand, and Adivasis together was notaneasy task. Soren realised that thedream of aseparate Jharkhand would not be fulfilled without the participation of non-tribal communities, He sought to change the definition of Diku - for him, the term no longer only meant \"outsiders\", but referred to those who exploited Jharkhand's resources. His dream of a separate state materialised only in 2000. Political instability, allegations of corruption and violence didn't let any of the CMs complete their tentie intie new state until 2014, when the BJP made Raghubar Das the firstnon-Adivasi chief minister, Soren's own political life was also shadowed by controversies. In 2004, within two months of becoming Union minister of coal and mines, he had to resign due to an airest warrant for his alleged role in the Chirudih massacre of 1975, in which 10 people were killed. In 2008, a fast-track court acquitted him, citing lack of evidence. He faced allegations oftaking bribes to save the minority government of PV Narasimha Raoin 1993. The SC in 1998 tuled that legislators enjoy impunity from criminal prosecution in bribery cases related to their votes and speeches in Parliament - the judgment was overruled in 2024. However, controversies could not take away from Soren's achievements. After Marang Gomke Jaipal Singh Munda, Dishom Guru Shibu Soren was the leader who successfully reimagined Adivasi politics beyond the limits of identity, sub-nationalism and language.",
+   "n_words": 416,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      3578,
+      3497,
+      3688
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      3754,
+      3681,
+      3815
+     ],
+     [
+      1624,
+      3884,
+      2932,
+      3938
+     ],
+     [
+      2319,
+      3994,
+      2829,
+      4050
+     ]
+    ],
+    "body_boxes": [
+     [
+      1620,
+      3988,
+      2227,
+      5086
+     ],
+     [
+      1687,
+      5304,
+      1740,
+      5340
+     ],
+     [
+      1687,
+      5374,
+      1806,
+      5441
+     ],
+     [
+      2318,
+      4553,
+      2816,
+      5086
+     ],
+     [
+      2922,
+      3988,
+      3527,
+      5094
+     ]
+    ],
+    "layout_words": 421
+   },
+   "headline_raw": "HEART\u2019S TRUE HOME",
+   "deck_raw": "Tagore\u2019s poetry, Adi Shankaracharya\u2019s teachings connect us all\nSHAMBO SAMRAT SAMAJDAR AND SHASHANK R JOSHI\nIN GoopD FAITH",
+   "body_raw": "IMAGINE STANDING QUIETLY by a river at\nsunset. The sky glows softly, painted in\nshades of amber and violet. As twilight\ndeepens, two gentle voices seem to speak\nfrom within the heart: One belongs to the\npoet Rabindranath Tagore and the other to\nthe sage Adi Shankaracharya. Although sep-\narated by centuries, their voices blend\nseamlessly, guiding us to one profound\ntruth: The universe is a unified ocean of\nendless joy and consciousness,\nTagore\u2019s poetic spirit saw life as a dance\nof etemal bliss, shimmering within every\nleaf, every drop of rain, every rising sun. He\ninvited us not just toobserve this divine har-\nmony but to feel it intimately, within our-\nselves. Tagore believed our everyday exis-\ntence is bathed in sacredness, connecting us\nwith something infinite and joyous.\nShankaracharya echoed this with clar-\nity, gently reminding us that beneath the\nlayers of daily life \u2014 our desires, sorrows,\nvirtues, and vices \u2014 exists a realm un-\ntouched by change. It\u2019s a place of pure\nawareness, blissful and boundless. For\nShankaracharya, we are not limited individ-\nuals struggling through life; rather, we are\ninfinite consciousness itself.\n\n\n\nFresti stags\ndelay Punjab\n\nAt first glance, these two great minds\nseem distinct: Tagore spoke poetically, from\nthe heart, while Shankaracharya illuminated\ntruth through reason and insight. Yet, to-\ngether they show us two paths to the same\ndestination \u2014 the realisation of our unity\nwith the universe.\nImagine yourself as a wave upon a vast\nocean. The wave rises, travels, and eventually\nreturns to the water. While each wave ap-\npears separate, its essence is forever merged\nwith the ocean. Tagore and Shankaracharya\nteach us to recognise ourselves as waves in\nthe ocean of life \u2014 never truly separate, al-\nways part of the greater whole.\nBoth masters also transcend religious rit-\nuals and boundaries, inviting us into a spiri-\ntuality rooted deeply in silence. Tagore de-\nscribed profound devotion as asilent bowing\nof the heart \u2014 acommunion beyond words,\nrituals, and temples. Shankaracharya simi-\nlarly taught that spiritual awakening is sim-\nple: It means recognising our inherent free-\ndom and bliss, not searching for them\noutside ourselves,\nTheir teachings become especially pow-\nerful inour busy modern lives. Doctors, heal-\ners, teachers, caregivers \u2014 indeed, all of us \u2014",
+   "ocr_conf": 93.61904761904762,
+   "ocr_low_conf_share": 0.011904761904761904,
+   "headline": "HEART'S TRUE HOME",
+   "deck": "Tagore's poetry, Adi Shankaracharya's teachings connect us all SHAMBO SAMRAT SAMAJDAR AND SHASHANK R JOSHI IN GoopD FAITH",
+   "byline": "",
+   "text": "IMAGINE STANDING QUIETLY by a river at sunset. The sky glows softly, painted in shades of amber and violet. As twilight deepens, two gentle voices seem to speak from within the heart: One belongs to the poet Rabindranath Tagore and the other to the sage Adi Shankaracharya. Although separated by centuries, their voices blend seamlessly, guiding us to one profound truth: The universe is a unified ocean of endless joy and consciousness, Tagore's poetic spirit saw life as a dance of etemal bliss, shimmering within every leaf, every drop of rain, every rising sun. He invited us not just toobserve this divine harmony but to feel it intimately, within ourselves. Tagore believed our everyday existence is bathed in sacredness, connecting us with something infinite and joyous. Shankaracharya echoed this with clarity, gently reminding us that beneath the layers of daily life - our desires, sorrows, virtues, and vices - exists a realm untouched by change. It's a place of pure awareness, blissful and boundless. For Shankaracharya, we are not limited individuals struggling through life; rather, we are infinite consciousness itself.\n\nFresti stags delay Punjab\n\nAt first glance, these two great minds seem distinct: Tagore spoke poetically, from the heart, while Shankaracharya illuminated truth through reason and insight. Yet, together they show us two paths to the same destination - the realisation of our unity with the universe. Imagine yourself as a wave upon a vast ocean. The wave rises, travels, and eventually returns to the water. While each wave appears separate, its essence is forever merged with the ocean. Tagore and Shankaracharya teach us to recognise ourselves as waves in the ocean of life - never truly separate, always part of the greater whole. Both masters also transcend religious rituals and boundaries, inviting us into a spirituality rooted deeply in silence. Tagore described profound devotion as asilent bowing of the heart - acommunion beyond words, rituals, and temples. Shankaracharya similarly taught that spiritual awakening is simple: It means recognising our inherent freedom and bliss, not searching for them outside ourselves, Their teachings become especially powerful inour busy modern lives. Doctors, healers, teachers, caregivers - indeed, all of us -",
+   "n_words": 359,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      463,
+      4746,
+      1379,
+      4844
+     ]
+    ],
+    "deck_boxes": [
+     [
+      611,
+      4882,
+      1233,
+      4978
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      5027,
+      1526,
+      6165
+     ]
+    ],
+    "layout_words": 349
+   },
+   "headline_raw": "POTAYTO, TOMAHTO",
+   "deck_raw": "AMiocene-epoch romance gave\nthe world its beloved tuber",
+   "body_raw": "RENCH FRIES AND tomato ketchup may be a match made in fast food heaven,\nbut the meet-cute that changed the world occurred nine million years ago in\n) the freezing cold of the Andean slopes, A recent study published in Cell has\ntraced the origin of the beloved potato to another pantry essential, the tomato,\nandiits fling witha wild potato species known as the Etuberosum. The research conducted\nby a team at the Agricultural Genomics Institute at Shenzhen, China, solves a mystery\nthat has long gripped the world of botany: How is it that the potato plant, which bears a\nstrong outward resemblance to its wilder relative, is genetically closer to the tomato?\nThe discovery is exciting for at least two reasons. One, it shows that genomes can help\nsolve the mystery of how much of today\u2019s floraevolved \u2014a significant breakthroughcon-\nsidering the rarity of plant fossils (soft vegetative matter doesn\u2019t preserve as well as, for\nexample, the hard shells of marine invertebrates like snails). Two, it shows how looking\nto a plant\u2019s past may help preserve its future; the potato, it turns out, could only evolve\nbecause a key gene in the tomato unlocked the tuber-producing gene in the Etuberosum,\nwith the resulting hybrid growing a new starchy organ that resembles the modern spud.\nGivenits importance to food security \u2014 potatoes only rank behind rice, wheat and maize\nin global production volume \u2014 there are already attempts to use tomato genes to create\neven hardier varieties of the tuber.\nDespite its wholesomeness and endless flexibility, adding heft, texture and flavour to\ncuisines everywhere since the Spanish shipped it to Europe in the 16th century, the po-\ntato has all too often been reduced to playing a supporting role in meals, In a world ob-\nsessed with limiting carbs, ithas been vilified and villainised, held responsible for balloon-\ning weights and expanding girths. Could the discovery of the Miocene-epoch romance,\na random encounter that led to the birth of a food that can feed billions of the Earth's\nhungry, help rehabilitate its image? The world says potayto, genetics says tomahto.",
+   "ocr_conf": 92.94,
+   "ocr_low_conf_share": 0.017142857142857144,
+   "headline": "POTAYTO, TOMAHTO",
+   "deck": "AMiocene-epoch romance gave the world its beloved tuber",
+   "byline": "",
+   "text": "RENCH FRIES AND tomato ketchup may be a match made in fast food heaven, but the meet-cute that changed the world occurred nine million years ago in ) the freezing cold of the Andean slopes, A recent study published in Cell has traced the origin of the beloved potato to another pantry essential, the tomato, andiits fling witha wild potato species known as the Etuberosum. The research conducted by a team at the Agricultural Genomics Institute at Shenzhen, China, solves a mystery that has long gripped the world of botany: How is it that the potato plant, which bears a strong outward resemblance to its wilder relative, is genetically closer to the tomato? The discovery is exciting for at least two reasons. One, it shows that genomes can help solve the mystery of how much of today's floraevolved - a significant breakthroughconsidering the rarity of plant fossils (soft vegetative matter doesn't preserve as well as, for example, the hard shells of marine invertebrates like snails). Two, it shows how looking to a plant's past may help preserve its future; the potato, it turns out, could only evolve because a key gene in the tomato unlocked the tuber-producing gene in the Etuberosum, with the resulting hybrid growing a new starchy organ that resembles the modern spud. Givenits importance to food security - potatoes only rank behind rice, wheat and maize in global production volume - there are already attempts to use tomato genes to create even hardier varieties of the tuber. Despite its wholesomeness and endless flexibility, adding heft, texture and flavour to cuisines everywhere since the Spanish shipped it to Europe in the 16th century, the potato has all too often been reduced to playing a supporting role in meals, In a world obsessed with limiting carbs, ithas been vilified and villainised, held responsible for ballooning weights and expanding girths. Could the discovery of the Miocene-epoch romance, a random encounter that led to the birth of a food that can feed billions of the Earth's hungry, help rehabilitate its image? The world says potayto, genetics says tomahto.",
+   "n_words": 347,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      5222,
+      3488,
+      5331
+     ],
+     [
+      2271,
+      5326,
+      2615,
+      5405
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2921,
+      5696,
+      3318,
+      5740
+     ],
+     [
+      2270,
+      5934,
+      2776,
+      5978
+     ]
+    ],
+    "body_boxes": [
+     [
+      2270,
+      5417,
+      2877,
+      5879
+     ],
+     [
+      2270,
+      6011,
+      2875,
+      6166
+     ],
+     [
+      2922,
+      5378,
+      3529,
+      5649
+     ],
+     [
+      2920,
+      5774,
+      3525,
+      6166
+     ]
+    ],
+    "layout_words": 228
+   },
+   "headline_raw": "AUGUST 5, 1985, ForTY YEARS AGO\nPUNJAB POLLS",
+   "deck_raw": "KASHMIR TALKS\nBHOPAL GAS VICTIMS",
+   "body_raw": "WHILETHE CENTRE is assessing whether to\nhold elections in Punjab before October 5\nwhen the fourth six-month term of\nPresident\u2019s Rule expires, new factors are\nemerging which may promptitto postpone\nelections by a few months by extending\nGovernor's Rule through a constitutional\namendment. According toinformed sources,\nHarchand Singh Longowal favours the elec-\ntions to be only after four or five months. It is\nnot yet known if he has conveyed his views\ntothe Centre.\n\nA NATIONAL DELEGATION of the PUCL and\nthe PUDR, which visited the gas-affected ar-\neas of Bhopal, said that the state government\nhad \u201cgrossly underestimated\u201d the number\n\nof gas victims. The members of the delega-\ntion, including Justice V M Tarkunde, George\nFernandes and Rajni Kothari, said the under-\nestimation of deaths as well as the extent of\nthe suffering of gas victims will only serve\nthe interests of Union Carbide, which was re-\nsponsible for the disaster.\n\nTO END THE present instability in Kashmir,\nthe Prime Minister, Rajiv Gandhi, is to havea\nfinal round of talks with Kashmir leaders.\nGandhi, who has summoned the PCC (1) chief,\nMulfti Sayed, to Delhi to meet him, is also ex-\npected to call the former chief minister, Farooq\nAbdullah, and discuss with him the pros and\ncons of a Kashmir \u201csolution\u201d. NC(F) leaders\nexpect a \u201cgood\u201d gesture from Gandhi, partic-\nularly after Abdullahhas publicly declared that",
+   "ocr_conf": 91.40789473684211,
+   "ocr_low_conf_share": 0.03508771929824561,
+   "headline": "AUGUST 5, 1985, ForTY YEARS AGO PUNJAB POLLS",
+   "deck": "KASHMIR TALKS BHOPAL GAS VICTIMS",
+   "byline": "",
+   "text": "WHILETHE CENTRE is assessing whether to hold elections in Punjab before October 5 when the fourth six-month term of President's Rule expires, new factors are emerging which may promptitto postpone elections by a few months by extending Governor's Rule through a constitutional amendment. According toinformed sources, Harchand Singh Longowal favours the elections to be only after four or five months. It is not yet known if he has conveyed his views tothe Centre.\n\nA NATIONAL DELEGATION of the PUCL and the PUDR, which visited the gas-affected areas of Bhopal, said that the state government had \"grossly underestimated\" the number\n\nof gas victims. The members of the delegation, including Justice V M Tarkunde, George Fernandes and Rajni Kothari, said the underestimation of deaths as well as the extent of the suffering of gas victims will only serve the interests of Union Carbide, which was responsible for the disaster.\n\nTO END THE present instability in Kashmir, the Prime Minister, Rajiv Gandhi, is to havea final round of talks with Kashmir leaders. Gandhi, who has summoned the PCC (1) chief, Mulfti Sayed, to Delhi to meet him, is also expected to call the former chief minister, Farooq Abdullah, and discuss with him the pros and cons of a Kashmir \"solution\". NC(F) leaders expect a \"good\" gesture from Gandhi, particularly after Abdullahhas publicly declared that",
+   "n_words": 221,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 22.9,
+ "flags": []
+}

@@ -1,0 +1,549 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_12_editorial",
+ "source_file": "2025-05-12_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-12_editorial.png",
+ "date": "2025-05-12",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 4,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 442,
+  "mean_line_conf": 89.95570136537516,
+  "orphan_words": 397,
+  "body_words_total": 3178
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      375,
+      605,
+      1475,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      618,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      763,
+      771,
+      1091,
+      802
+     ],
+     [
+      437,
+      918,
+      1418,
+      960
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "@ FOUNDED By &\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 81.8,
+   "ocr_low_conf_share": 0.2,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2248,
+      596,
+      3553,
+      822
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2318,
+      886,
+      3535,
+      1017
+     ]
+    ],
+    "body_boxes": [
+     [
+      2322,
+      2090,
+      2826,
+      3237
+     ],
+     [
+      2923,
+      1251,
+      3533,
+      3230
+     ]
+    ],
+    "layout_words": 460
+   },
+   "headline_raw": "A fragile calm",
+   "deck_raw": "In the end, with Pakistan weak or strong, there is no\navoiding the political process in the Subcontinent",
+   "body_raw": "India and Pakistan have\ndemonstrated that both\nhave limited room for\nimposing costs on each\nother, without risking major\ncatastrophe. This is perhaps,\nin the end, what keeps the\nfragile peace on the\nSubcontinent. This is not a\ncomment on India\u2019s military\ncapabilities; it is just the\nstructural logic of the nature\nof war between most\nadversaries in modern\ntimes. India can show its\nsuperior might but it cannot\ndominate its adversaries\nenough to achieve its\nobjectives. Even powers like\nRussia and America have\nnot been able to achieve that\nkind of dominance against\nso many weaker adversaries.\n\nlitical objective always has limits. What was\nthe political objective? To impose prohibitive\ncosts on Pakistan? But that proved difficult.\nSome in India had this fantasy of weakening\nPakistan to the point ofbreaking it up. Buteven\nif we indulge this fantasy for a moment, what\nis the political objective in this breaking up?\nCan we, or anyone, manage the disorder that\nmight follow? It is also a plain misreading of\nour situation.\nThe nature of terrorism is that both the\nstrong and weak can deployit in full measure;\nthe weak even more so. This is the dilemma\nwe have been wrestling with. We can take\nsome consolation from the factthatitwillnow\nbeunderstood thatany act of terror by Pakistan\nis an actof war. Butthisis a formal consolation.\nThe dispute has always been on Pakistan tak-\ning responsibility for terror, not whether ter-\nroris an actof war. So, in theend, with Pakistan\nweak or strong, there isno avoiding a political\nprocessin the Subcontinent. But the dilemma\nis that this war does not compel negotiations,\nNor isitlikely to build evena modicumoftrust\nthat can allow apolitical negotiation. The glar-\ning political vacuum that enables this sore will\nremain. This is not India\u2019s fault. But this is\nground reality.\nThe question is: Where does India stand\ndiplomatically? In the short run, India has\ntumed the clock back. An armed conflict with\nno decisive victory and no clear political end\nsimply reinstates the India-Pakistan hyphen-\nation. Inthe end, the world has little patience\nwith who is right and who is wrong in the\nSubcontinent, if the war carries nuclear risk.\nSecond, India\u2019s strategic autonomy has been\nconsiderably reduced.\nThe unwritten text of this war is that South\nAsia is now once again the frontier of what-\never new \u201ccold war\u201d might emerge: The\nChina-Pakistan axis is solid, and the Chinese\nonce again missed an opportunity to imagi-\nnatively engage India. In a context where the\nSino-Russian axis is strong, and Europeis chaf-\ning at Indiashuffling its featon Ukraine, India\nis now more dependent on the US \u2014 some-\nthing that has been evident in the Narendra\nModigovernment\u2019s courting of Trump. So, the\ntwo things India has always endeavoured to",
+   "ocr_conf": 90.76304347826087,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "A fragile calm",
+   "deck": "In the end, with Pakistan weak or strong, there is no avoiding the political process in the Subcontinent",
+   "byline": "",
+   "text": "India and Pakistan have demonstrated that both have limited room for imposing costs on each other, without risking major catastrophe. This is perhaps, in the end, what keeps the fragile peace on the Subcontinent. This is not a comment on India's military capabilities; it is just the structural logic of the nature of war between most adversaries in modern times. India can show its superior might but it cannot dominate its adversaries enough to achieve its objectives. Even powers like Russia and America have not been able to achieve that kind of dominance against so many weaker adversaries.\n\nlitical objective always has limits. What was the political objective? To impose prohibitive costs on Pakistan? But that proved difficult. Some in India had this fantasy of weakening Pakistan to the point ofbreaking it up. Buteven if we indulge this fantasy for a moment, what is the political objective in this breaking up? Can we, or anyone, manage the disorder that might follow? It is also a plain misreading of our situation. The nature of terrorism is that both the strong and weak can deployit in full measure; the weak even more so. This is the dilemma we have been wrestling with. We can take some consolation from the factthatitwillnow beunderstood thatany act of terror by Pakistan is an actof war. Butthisis a formal consolation. The dispute has always been on Pakistan taking responsibility for terror, not whether terroris an actof war. So, in theend, with Pakistan weak or strong, there isno avoiding a political processin the Subcontinent. But the dilemma is that this war does not compel negotiations, Nor isitlikely to build evena modicumoftrust that can allow apolitical negotiation. The glaring political vacuum that enables this sore will remain. This is not India's fault. But this is ground reality. The question is: Where does India stand diplomatically? In the short run, India has tumed the clock back. An armed conflict with no decisive victory and no clear political end simply reinstates the India-Pakistan hyphenation. Inthe end, the world has little patience with who is right and who is wrong in the Subcontinent, if the war carries nuclear risk. Second, India's strategic autonomy has been considerably reduced. The unwritten text of this war is that South Asia is now once again the frontier of whatever new \"cold war\" might emerge: The China-Pakistan axis is solid, and the Chinese once again missed an opportunity to imaginatively engage India. In a context where the Sino-Russian axis is strong, and Europeis chafing at Indiashuffling its featon Ukraine, India is now more dependent on the US - something that has been evident in the Narendra Modigovernment's courting of Trump. So, the two things India has always endeavoured to",
+   "n_words": 452,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      433,
+      1110,
+      1418,
+      1195
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1231,
+      1531,
+      3331
+     ]
+    ],
+    "layout_words": 615
+   },
+   "headline_raw": "AFTER THE CEASEFIRE",
+   "deck_raw": "",
+   "body_raw": "With its message delivered to Rawalpindi on terror, having\nunderlined its superiority, Delhi must consolidate deterrence\n\\ X 4 HEN THE CESSATION of firing was announced by both India and\nPakistan Saturday evening, there couldn\u2019t have been a more ringing\nendorsement of Delhi's message on terror coming from across the\nborder: India will hit terrorists and terror infrastructure wherever\nthey are; Pakistan's alibis, indefensible all, have run out. The \u201cnew normal\u201d of deterrence\n\u2014 which began with the surgical strikes after the Uri attack and was shored up with the\nBalakot strike after Pulwama 2019 \u2014 hasnow been re-etched clearly and firmly. Through\nOperation Sindoor, India has responded to, and countered, every act of escalation by\nPakistan. The destruction of Pakistan's major military assets, including debilitating strikes\nat over a dozen military bases, from Lahore to Sargodha, Chakwal to Jacobabad, has\ndemonstrated India\u2019s ability to strike with precision, and deep. The larger message is that\nRawalpindi's strategy of hiding behind proxies that perpetrate terrorism on Indian soil will\nno longer work. India has broadened the tools atits disposal by holding the Indus Waters\nTreaty in abeyance, while laying down that every act of terrorism will now be consid-\nered \u201can act of war\u201d and receive a proportionate response by the military.\nGoing ahead, there will be challenges, To begin with, the political leadership must lose no\ntime in communicating how and why the needle has moved towards raising the costs for\nPakistan's policyof supporting terror and securing the nation. The gains must also be protected\nfrom, among others, arm-chair warriors on both sides of the political-ideological spectrum\ninthe country, who loudly complain abouta ceasefire that is \u201cpremature\u201d, or onethatisseen\nto be brokered extemally. The government cannot afford to be derailed by the apocalypse-\nchasers or naysayers from addressing the important tasks that still lie ahead. Itis important\nto begin a review of India\u2019s broader defence capabilities. In the aftermath of the Kargil con-\nflict, the Kargil Review Committee(KRC) was formed, and its recommendations \u2014 including\nbolstering intelligence gathering and shoring up inter-services coordination \u2014 took the con-\nversation on military reform forward. That was nearly 26 years ago. Since 2014, India has\nseenat least five military crises \u2014 with Pakistan in 2016, 2019 and now, and on theborderwith\nChina in 2017 and 2020. Itis time for another stock-taking exercise. Sound intelligence is the\nfirst defence against terror,and the gaps must be filled. Pakistan has a line to China\u2019s modern\narsenal, and India must invest more, to maintain and increase its advantage.\nEver since the events of April 22, the unity across classes, communities and political par-\nties in India has been hearteningly on show. The adversary tried to deepen faultlines\u2014 and\nfailed spectacularly. The political Opposition stood behind the government, and was seen to\ndo so too. This unity is India\u2019s strength, and it must be maintained by the political class and\nsociety. India\u2019s priorities are to grow its economy, increase Make In Indiaand takeits rightful\nplace at the global high table. In days and months to come, Delhi must find new ways of en-\ngaging with its neighbour to prevent it from derailing this journey. Armed conflict between\nIndia and Pakistan can give an illusion of equivalence and provide space for third parties to\nstep in. At the same time, there is no need to be thin-skinned on social media posts by US\nPresident Donald Trump on the road ahead. Delhi's friends, be they in Washington DC or\nMoscow, Berlin or Riyadh, surely know that India has a stated position on the conditions for\nengagementwith Pakistan. And that these havebeen indelibly refreshed and redefined \u2014 post\nthe harrowing national tragedy in Pahalgam and after Operation Sindoor.",
+   "ocr_conf": 89.29335494327391,
+   "ocr_low_conf_share": 0.06320907617504051,
+   "headline": "AFTER THE CEASEFIRE",
+   "deck": "",
+   "byline": "",
+   "text": "With its message delivered to Rawalpindi on terror, having underlined its superiority, Delhi must consolidate deterrence \\ X 4 HEN THE CESSATION of firing was announced by both India and Pakistan Saturday evening, there couldn't have been a more ringing endorsement of Delhi's message on terror coming from across the border: India will hit terrorists and terror infrastructure wherever they are; Pakistan's alibis, indefensible all, have run out. The \"new normal\" of deterrence - which began with the surgical strikes after the Uri attack and was shored up with the Balakot strike after Pulwama 2019 - hasnow been re-etched clearly and firmly. Through Operation Sindoor, India has responded to, and countered, every act of escalation by Pakistan. The destruction of Pakistan's major military assets, including debilitating strikes at over a dozen military bases, from Lahore to Sargodha, Chakwal to Jacobabad, has demonstrated India's ability to strike with precision, and deep. The larger message is that Rawalpindi's strategy of hiding behind proxies that perpetrate terrorism on Indian soil will no longer work. India has broadened the tools atits disposal by holding the Indus Waters Treaty in abeyance, while laying down that every act of terrorism will now be considered \"an act of war\" and receive a proportionate response by the military. Going ahead, there will be challenges, To begin with, the political leadership must lose no time in communicating how and why the needle has moved towards raising the costs for Pakistan's policyof supporting terror and securing the nation. The gains must also be protected from, among others, arm-chair warriors on both sides of the political-ideological spectrum inthe country, who loudly complain abouta ceasefire that is \"premature\", or onethatisseen to be brokered extemally. The government cannot afford to be derailed by the apocalypse-chasers or naysayers from addressing the important tasks that still lie ahead. Itis important to begin a review of India's broader defence capabilities. In the aftermath of the Kargil conflict, the Kargil Review Committee(KRC) was formed, and its recommendations - including bolstering intelligence gathering and shoring up inter-services coordination - took the conversation on military reform forward. That was nearly 26 years ago. Since 2014, India has seenat least five military crises - with Pakistan in 2016, 2019 and now, and on theborderwith China in 2017 and 2020. Itis time for another stock-taking exercise. Sound intelligence is the first defence against terror,and the gaps must be filled. Pakistan has a line to China's modern arsenal, and India must invest more, to maintain and increase its advantage. Ever since the events of April 22, the unity across classes, communities and political parties in India has been hearteningly on show. The adversary tried to deepen faultlines - and failed spectacularly. The political Opposition stood behind the government, and was seen to do so too. This unity is India's strength, and it must be maintained by the political class and society. India's priorities are to grow its economy, increase Make In Indiaand takeits rightful place at the global high table. In days and months to come, Delhi must find new ways of engaging with its neighbour to prevent it from derailing this journey. Armed conflict between India and Pakistan can give an illusion of equivalence and provide space for third parties to step in. At the same time, there is no need to be thin-skinned on social media posts by US President Donald Trump on the road ahead. Delhi's friends, be they in Washington DC or Moscow, Berlin or Riyadh, surely know that India has a stated position on the conditions for engagementwith Pakistan. And that these havebeen indelibly refreshed and redefined - post the harrowing national tragedy in Pahalgam and after Operation Sindoor.",
+   "n_words": 612,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1626,
+      1111,
+      2202,
+      1184
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      1250,
+      2231,
+      3229
+     ],
+     [
+      1625,
+      3725,
+      2519,
+      3768
+     ],
+     [
+      1618,
+      3828,
+      2229,
+      5252
+     ]
+    ],
+    "layout_words": 605
+   },
+   "headline_raw": "a\nPRATAP BHANU MEHTA",
+   "deck_raw": "",
+   "body_raw": "THE TEMPORARY CEASEFIRE between India\nand Pakistan announced by US President\nDonald Trump is to be welcomed. It may yet\nprove fragile. But peace ought seldom to be\nsneered at; and it ought not tobe held hostage\ntopride. The current round of conflict, precip-\nitated by anact of terrorism at Pahalgam, put\nIndia and Pakistan on adangerous logic of es-\ncalation. Inmodem war, seldom does any side\nprevail decisively, no matter how much arm-\nchair theorists fantasise about escalation dom-\ninance. Imagine that, even if accidentally, if\nthere had beenanepisode of high civilian ca-\nsualties on either side, how difficult it would\nhave been toclaw back. Just imagine, further,\nan escalation in the use of missiles, with air\ndefences panicking over what kind of war-\nheadsa missile might be carrying. In such sce-\nnarios, all bets would have been off.\nIndia was within its rights to take prudent\nretaliatory action. But we should also dispas-\nsionately analyse where Operation Sindoor\nhas got us. That would be the only genuine\ntribute to those who risk their lives for the na-\ntion. The truthis, that sofar, the operation did\nnot get us very far. It has not degraded\nPakistan\u2019s military infrastructure enough to\nensure that Pakistan will not pose a threat in\nthe future. If we crossed aRubicon by striking\nmilitary facilities in their heartland, so has\nPakistan demonstrated the potential of drone\nwarfare. 1n fact, this war is more interesting as\na probing ground for new technologies and\ndisinformation systems in warfare, a frontline\nexperiment between weapons systems of dif-\nferent arms suppliers. India and Pakistan have\ndemonstrated that both have limited room\nfor imposing costson eachother, without risk-\ning major catastrophe. This is perhaps, in the\nend, what keeps the fragile peace on the\nSubcontinent. This is nota comment on India\u2019s\nmilitary capabilities; it is just the structural\nlogic of the nature of war between most ad-\nversaries in modem times, Indiacan show its\nsuperior might but it cannot dominate its ad-\nversaries enough to achieve its objectives.\nEven powers like Russiaand Americahave not\nbeen able to achieve that kind of dominance\nagainst so many weaker adversaries,\nMore importantly, war without a clear po-\n\nGUEFRAN BEIG AND SHAILESH NAYAK\n\nTHE CENTRE\u2019S MAKE in India initiative has\nboosted the morale of the country\u2019s youth.\nFrom space technologies and the Moon\nMission to Covid-19 vaccines and Vande Bharat\ntrains, the country has proved its mettle.\nHowever, when itcomes toimproving air qual-\nityand mitigating the health impacts of pollu-\ntion, we lag behind. Every year, reports rank\nmultiple indian citiesamong the world\u2019s most\npolluted. These rankings are often producedby\nforeign entities under foreign-funded projects.\nAir pollution remains one of India's most press-\ning challenges, yet we have not fully grasped\nits complexities. Some experts cite a lack of\nfunds, yet pollution control boards frequently\nreturn unspent funds.\nIndustry collaborations with Indian R&D\ninstitutions are now being actively promoted\n\u2014 something that was missing in the past. A\nkey example is the Anusandhan National\nResearch Foundation, which signals the gov-\nemment\u2019s commitment to strengthening re-\nsearch and innovation with industrial contri-\nbution. Yet, the air quality crisis persists.\nWeoftencomeactoss headlines about am-\nbitious air quality projects where asmalicoun-\ntryattracts international funding, ties up with\nwell-known and well-funded Indian institu-\ntions and initiates studies on India\u2019s air pollu-\ntion. This raises two related questions: Why\nare developed countries, with no direct stake\nin India\u2019s air quality, so keen on studying it?\nTwo, why are Indian institutes not leading such\nresearch? Theseconcems become even more\npressing in the era of climate justice, and un-\nequal climate sanctions. Recent reports of the",
+   "ocr_conf": 89.88595041322314,
+   "ocr_low_conf_share": 0.05950413223140496,
+   "headline": "a PRATAP BHANU MEHTA",
+   "deck": "",
+   "byline": "GUEFRAN BEIG AND SHAILESH NAYAK",
+   "text": "THE TEMPORARY CEASEFIRE between India and Pakistan announced by US President Donald Trump is to be welcomed. It may yet prove fragile. But peace ought seldom to be sneered at; and it ought not tobe held hostage topride. The current round of conflict, precipitated by anact of terrorism at Pahalgam, put India and Pakistan on adangerous logic of escalation. Inmodem war, seldom does any side prevail decisively, no matter how much armchair theorists fantasise about escalation dominance. Imagine that, even if accidentally, if there had beenanepisode of high civilian casualties on either side, how difficult it would have been toclaw back. Just imagine, further, an escalation in the use of missiles, with air defences panicking over what kind of warheadsa missile might be carrying. In such scenarios, all bets would have been off. India was within its rights to take prudent retaliatory action. But we should also dispassionately analyse where Operation Sindoor has got us. That would be the only genuine tribute to those who risk their lives for the nation. The truthis, that sofar, the operation did not get us very far. It has not degraded Pakistan's military infrastructure enough to ensure that Pakistan will not pose a threat in the future. If we crossed aRubicon by striking military facilities in their heartland, so has Pakistan demonstrated the potential of drone warfare. 1n fact, this war is more interesting as a probing ground for new technologies and disinformation systems in warfare, a frontline experiment between weapons systems of different arms suppliers. India and Pakistan have demonstrated that both have limited room for imposing costson eachother, without risking major catastrophe. This is perhaps, in the end, what keeps the fragile peace on the Subcontinent. This is nota comment on India's military capabilities; it is just the structural logic of the nature of war between most adversaries in modem times, Indiacan show its superior might but it cannot dominate its adversaries enough to achieve its objectives. Even powers like Russiaand Americahave not been able to achieve that kind of dominance against so many weaker adversaries, More importantly, war without a clear po-\n\nTHE CENTRE'S MAKE in India initiative has boosted the morale of the country's youth. From space technologies and the Moon Mission to Covid-19 vaccines and Vande Bharat trains, the country has proved its mettle. However, when itcomes toimproving air qualityand mitigating the health impacts of pollution, we lag behind. Every year, reports rank multiple indian citiesamong the world's most polluted. These rankings are often producedby foreign entities under foreign-funded projects. Air pollution remains one of India's most pressing challenges, yet we have not fully grasped its complexities. Some experts cite a lack of funds, yet pollution control boards frequently return unspent funds. Industry collaborations with Indian R&D institutions are now being actively promoted - something that was missing in the past. A key example is the Anusandhan National Research Foundation, which signals the govemment's commitment to strengthening research and innovation with industrial contribution. Yet, the air quality crisis persists. Weoftencomeactoss headlines about ambitious air quality projects where asmalicountryattracts international funding, ties up with well-known and well-funded Indian institutions and initiates studies on India's air pollution. This raises two related questions: Why are developed countries, with no direct stake in India's air quality, so keen on studying it? Two, why are Indian institutes not leading such research? Theseconcems become even more pressing in the era of climate justice, and unequal climate sanctions. Recent reports of the",
+   "n_words": 576,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3578,
+      1251,
+      4181,
+      1684
+     ]
+    ],
+    "layout_words": 78,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "avoid \u2014 making the Subcontinenta frontline\nstate, and asserting its strategic autonomy \u2014\nare now compromised. India is not in charge\nof its region. And it will be increasingly more\ndependent on the West. Conflict in the\nSuboontinent will be the wedge used to put\nIndiain its place. We are more vulnerablenow\nthana decade ago.\nPakistan alsoought todraw the right con-\nclusion. The first, that India stopped the war\nin part because it has more tolose; its growth",
+   "ocr_conf": 90.6025641025641,
+   "ocr_low_conf_share": 0.01282051282051282,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "avoid - making the Subcontinenta frontline state, and asserting its strategic autonomy - are now compromised. India is not in charge of its region. And it will be increasingly more dependent on the West. Conflict in the Suboontinent will be the wedge used to put Indiain its place. We are more vulnerablenow thana decade ago. Pakistan alsoought todraw the right conclusion. The first, that India stopped the war in part because it has more tolose; its growth",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      1728,
+      4182,
+      3112
+     ]
+    ],
+    "layout_words": 239,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "only grow. But it will be foolish for Pakistan to\nthink that the present stalemate is necessar-\nily a guide to the future. Ifthe only thing keep-\ning Pakistan together is anti-Indiasentiment,\nand the use of terror as an instrument, it will\nconstanily shortchange its own people. India\u2019s\nbiggest strength in this crisis was a demon-\nstration that Pakistan cannot exploit commu-\nnal divisions within India. But our politically\ndominant ecosystem is doing its best still to\nassault India\u2019s greatest strength.\nDisinformation and ideology are no substitute\nfor solid economic anditechnological power. In\nthis area, we have been consistently overesti-\nmating our relevance to the world.\nBut this ceasefire will be worth it, if hav-\ning satiated domestic political narratives, both\nsides can free themselves of the embers of\n1947 that arestill singeing us. The immediate\nonusison Pakistan to demonstrate acommit-\nment to the pacification of terrorism. Thereis\nalso nodearth ofsensible proposals foran ho-\nnourable agreement between India and\nPakistan. But India and Pakistan are not acon-\nventional intemational-relations problem.\nIt is an inner conflict of a civilisation with\nlayers of psychological sediment that have de-\nformed our collective future. There are few\ncredible political forces on either side that can\nhelpus overcome our inner demons. From this\nfragile ceasefire, will a new light emerge or\nwill our darkest inner demons overcome us\nagain? This may be the only question that\nmatters. The omens, especially in Pakistan, do\nnotlook good.",
+   "ocr_conf": 89.30833333333334,
+   "ocr_low_conf_share": 0.058333333333333334,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "only grow. But it will be foolish for Pakistan to think that the present stalemate is necessarily a guide to the future. Ifthe only thing keeping Pakistan together is anti-Indiasentiment, and the use of terror as an instrument, it will constanily shortchange its own people. India's biggest strength in this crisis was a demonstration that Pakistan cannot exploit communal divisions within India. But our politically dominant ecosystem is doing its best still to assault India's greatest strength. Disinformation and ideology are no substitute for solid economic anditechnological power. In this area, we have been consistently overestimating our relevance to the world. But this ceasefire will be worth it, if having satiated domestic political narratives, both sides can free themselves of the embers of 1947 that arestill singeing us. The immediate onusison Pakistan to demonstrate acommitment to the pacification of terrorism. Thereis also nodearth ofsensible proposals foran honourable agreement between India and Pakistan. But India and Pakistan are not aconventional intemational-relations problem. It is an inner conflict of a civilisation with layers of psychological sediment that have deformed our collective future. There are few credible political forces on either side that can helpus overcome our inner demons. From this fragile ceasefire, will a new light emerge or will our darkest inner demons overcome us again? This may be the only question that matters. The omens, especially in Pakistan, do notlook good.",
+   "n_words": 230,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3749,
+      3157,
+      4178,
+      3231
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is contributing editor,\nThe Indian Express",
+   "ocr_conf": 95.75,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is contributing editor, The Indian Express",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      551,
+      3437,
+      1301,
+      3520
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3564,
+      1529,
+      4877
+     ]
+    ],
+    "layout_words": 352
+   },
+   "headline_raw": "PLUGGING A GAP",
+   "deck_raw": "",
+   "body_raw": "ITI upscaling project is a beginning towards addressing human\ncapital needs of industry\nT RADITIONAL WORKSHOPS ARE today giving way to manufacturing units that\ndemand digital fluency, competency in data analysis, Al and robotics-related\nskills and the ability to work with climate-friendly engineering technologies.\nHowever, for at least a decade, surveys and reports have been flagging the skill\ndeficits of the indian workforce. Only a small fraction of graduates from the Industrial Training\nInstitutes (ITI) get placed in the cutting-edge economy. The deficit also means that a large\nsection of the youth lacks avenues and support systems to realise its potential. The govern-\nment\u2019s move to overhaul Ms was, therefore, long overdue. Last week, the Union Cabinet ap-\nproved the National Scheme for Industrial Training Institute Upgradation and sanctioned\nthesetting up of five National Skilling Training Institutes( NSTI). TheRs60,000-crore scheme\naims to forge links between the technical education ecosystem and industry.\nEstablished shortly after Independence, ITIs were intended to serve as vocational train-\ning centres forthe emerging industrial sector. Today, India has close to 15,000 such institutes.\nNearly 80 per centofthem came up after2006-2007 when the National Council for Vocational\nTraining relaxedrules, leading toamushrooming of private ITIs. However, abetted by a faulty\nmonitoring system, many flouted even the most basic norms. Audits conducted by the\nDirectorate General of Training revealed that accreditation was granted to ITIs even while\nthey were under construction or lacked basic safety measures. The government's movetore-\nstrict the new programme to 1,000 ITs could streamline the system.\nTwenty lakh youth will be skilled in the revamped ITIs over fiveyears. Byconservativees-\ntimates, this would cater to about a fifth of the human capital needs of industry. The M up-\nscaling project should, therefore, be seen as a beginning, Several experts have argued that\nthe task of schooling professionals for the smart economy is too enormous to be left togov-\nernment alone. A tenth of the new programme's costs will be bome by the private sector,\nwhich has heen accordeda more active mole indesigning courses and training faculty. The gov-\nermment must nudge industry towards enhancing its engagement with skill development.",
+   "ocr_conf": 89.48441926345609,
+   "ocr_low_conf_share": 0.056657223796033995,
+   "headline": "PLUGGING A GAP",
+   "deck": "",
+   "byline": "",
+   "text": "ITI upscaling project is a beginning towards addressing human capital needs of industry T RADITIONAL WORKSHOPS ARE today giving way to manufacturing units that demand digital fluency, competency in data analysis, Al and robotics-related skills and the ability to work with climate-friendly engineering technologies. However, for at least a decade, surveys and reports have been flagging the skill deficits of the indian workforce. Only a small fraction of graduates from the Industrial Training Institutes (ITI) get placed in the cutting-edge economy. The deficit also means that a large section of the youth lacks avenues and support systems to realise its potential. The government's move to overhaul Ms was, therefore, long overdue. Last week, the Union Cabinet approved the National Scheme for Industrial Training Institute Upgradation and sanctioned thesetting up of five National Skilling Training Institutes( NSTI). TheRs60,000-crore scheme aims to forge links between the technical education ecosystem and industry. Established shortly after Independence, ITIs were intended to serve as vocational training centres forthe emerging industrial sector. Today, India has close to 15,000 such institutes. Nearly 80 per centofthem came up after2006-2007 when the National Council for Vocational Training relaxedrules, leading toamushrooming of private ITIs. However, abetted by a faulty monitoring system, many flouted even the most basic norms. Audits conducted by the Directorate General of Training revealed that accreditation was granted to ITIs even while they were under construction or lacked basic safety measures. The government's movetorestrict the new programme to 1,000 ITs could streamline the system. Twenty lakh youth will be skilled in the revamped ITIs over fiveyears. Byconservativeestimates, this would cater to about a fifth of the human capital needs of industry. The M upscaling project should, therefore, be seen as a beginning, Several experts have argued that the task of schooling professionals for the smart economy is too enormous to be left togovernment alone. A tenth of the new programme's costs will be bome by the private sector, which has heen accordeda more active mole indesigning courses and training faculty. The govermment must nudge industry towards enhancing its engagement with skill development.",
+   "n_words": 345,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      3420,
+      3745,
+      3560
+     ],
+     [
+      2278,
+      3594,
+      4021,
+      3656
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2921,
+      3829,
+      3530,
+      5253
+     ],
+     [
+      3572,
+      3830,
+      4179,
+      4096
+     ],
+     [
+      3571,
+      4109,
+      4181,
+      5087
+     ],
+     [
+      3594,
+      5140,
+      4179,
+      5254
+     ],
+     [
+      3574,
+      5536,
+      4176,
+      5690
+     ]
+    ],
+    "layout_words": 476
+   },
+   "headline_raw": "THE AIR QUALITY PUZZLE\nThere is a piece missing. It must be informed by principles of atmanirbharta",
+   "deck_raw": "",
+   "body_raw": "shutdown ofclimate research at key US agen-\ncies under the Trump administration have\nraised worldwide alarm \u2014 they expose a crit-\nical vulnerability due to the over-dependence\non data generated by global agencies for cli-\nmate and weather forecasting. Many of our\nown weather, climate and air quality predic-\ntion systems rely on these data sets. The dis-\nruption is awake-up call. Why not launch po-\nlar-orbiting satellites and gather global datato\nfulfil our model requirements?\nIndiahas anotable history of air quality ad-\nvancements. We pioneered the National\nAmbient Air Quality Monitoring Programme in\n1984 . Delhi's rapid transition toa CNG-based\npubiic transport fleet was anotherlandmark.A\nsignificant scientific milestone came in 2010,\nwhen India developed its first indigenous air\nquality forecasting system, SAFAR (System of\nAir Quality and Weather Forecasting and\nResearch), despite resistance from foreign\nagencies. Despite its success, however, SAFAR\nremained limited to just four cities,\nSome Indian states are now taking com-\nmendable steps such as the rapid EV transi-\ntion. India also has world-class agencies like\nthe Earth System Science Organisation (ESSO)\nand India Meteorological Department(iMD).\nAstronger collaboration between ESSO-IMD\nand the Central Pollution Control Board(CPCB)\ncould set a global benchmark in air quality\nmanagement and forecasting.\nThis begs aquestion: Despite initiatives like\nMake in India, unspent funds, an abundance\nof talent, a young workforce, and opennessto\nindustry sponsorship, why are we still strug-\n\ngling to achieve true \u201catmanirbharta\u201d? Areour\nresources disproportionately funnelledintoa\nselect few institutions? Is therea gap in expert-\nise? A majority of international collaborations\nor foreign funding is centred around elite in-\nstitutions. Alarmingly, even some govern-\nment-funded research institutions seem tobe\n\naligning with this foreign-dependent model.\nThe core challenge lies in the absenceof an\nintegrated air quality resource framework. A\nunified platform is needed to foster a science-\nbased information system and a knowledge\nhub. This would empower decision-makers\nandthe private sector to take informed action.\nUnderthe auspices of the office of the Principal\nScientific Advisor, the National Institute of\nAdvanced Studies has undertaken a study ex-\nploring a new approach of airshed manage-\nment, combined with finely gridded source\nemissions. This initiative aims to accelerate pol-\nlution control strategies, which couldalso con-\ntribute to the net-zero goal. This led toenvisag-\ning the concept of a resource framework,\nNARFI, designed to act as a catalyst for inter-\norganisational collaboration, interdisciplinary\nresearch and evidence-based decision-mak-\ning. Nowis the time to rethink air quality strate-\ngies by scientifically integrating broader air-\nshed factors rather than adopting city-centric\napproaches. We need to prioritise health-cen-\ntric measures and food security. That would\nmean real atmanirbharta.\n\nBeigis Chair Professor, NIAS and Founder\nDirector, SAFAR. Nayak is Director, NIAS and\nFormer Secretary Ministry of Earth Sciences\n\nPartial to near total bandh was observed in\nPunjab in protest against the gunning down\nof Balbir Singh, the Punjab Lok Dal president\nand former MP by terrorists.",
+   "ocr_conf": 89.47478991596638,
+   "ocr_low_conf_share": 0.04831932773109244,
+   "headline": "THE AIR QUALITY PUZZLE There is a piece missing. It must be informed by principles of atmanirbharta",
+   "deck": "",
+   "byline": "",
+   "text": "shutdown ofclimate research at key US agencies under the Trump administration have raised worldwide alarm - they expose a critical vulnerability due to the over-dependence on data generated by global agencies for climate and weather forecasting. Many of our own weather, climate and air quality prediction systems rely on these data sets. The disruption is awake-up call. Why not launch polar-orbiting satellites and gather global datato fulfil our model requirements? Indiahas anotable history of air quality advancements. We pioneered the National Ambient Air Quality Monitoring Programme in 1984. Delhi's rapid transition toa CNG-based pubiic transport fleet was anotherlandmark.A significant scientific milestone came in 2010, when India developed its first indigenous air quality forecasting system, SAFAR (System of Air Quality and Weather Forecasting and Research), despite resistance from foreign agencies. Despite its success, however, SAFAR remained limited to just four cities, Some Indian states are now taking commendable steps such as the rapid EV transition. India also has world-class agencies like the Earth System Science Organisation (ESSO) and India Meteorological Department(iMD). Astronger collaboration between ESSO-IMD and the Central Pollution Control Board(CPCB) could set a global benchmark in air quality management and forecasting. This begs aquestion: Despite initiatives like Make in India, unspent funds, an abundance of talent, a young workforce, and opennessto industry sponsorship, why are we still struggling to achieve true \"atmanirbharta\"? Areour resources disproportionately funnelledintoa select few institutions? Is therea gap in expertise? A majority of international collaborations or foreign funding is centred around elite institutions. Alarmingly, even some government-funded research institutions seem tobe\n\naligning with this foreign-dependent model. The core challenge lies in the absenceof an integrated air quality resource framework. A unified platform is needed to foster a science-based information system and a knowledge hub. This would empower decision-makers andthe private sector to take informed action. Underthe auspices of the office of the Principal Scientific Advisor, the National Institute of Advanced Studies has undertaken a study exploring a new approach of airshed management, combined with finely gridded source emissions. This initiative aims to accelerate pollution control strategies, which couldalso contribute to the net-zero goal. This led toenvisaging the concept of a resource framework, NARFI, designed to act as a catalyst for inter-organisational collaboration, interdisciplinary research and evidence-based decision-making. Nowis the time to rethink air quality strategies by scientifically integrating broader airshed factors rather than adopting city-centric approaches. We need to prioritise health-centric measures and food security. That would mean real atmanirbharta.\n\nBeigis Chair Professor, NIAS and Founder Director, SAFAR. Nayak is Director, NIAS and Former Secretary Ministry of Earth Sciences\n\nPartial to near total bandh was observed in Punjab in protest against the gunning down of Balbir Singh, the Punjab Lok Dal president and former MP by terrorists.",
+   "n_words": 451,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2320,
+      4261,
+      2829,
+      5257
+     ]
+    ],
+    "layout_words": 72,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Despite initiatives like Make\nin India, unspent funds, an\nabundance of talent, a young\nworkforce, and openness to\nindustry sponsorship, why\nare we still struggling to\nachieve true \u2018atmanirbharta\u2019?\nAre our resources\ndisproportionately funnelled\ninto a select few\ninstitutions? Is there a gapin\nexpertise? A majority of\ninternational collaborations\nor foreign funding is centred\naround elite institutions.\nAlarmingly, even some\ngovernment-funded research\ninstitutions seem to be\naligning with this foreign-\ndependent model.",
+   "ocr_conf": 92.88888888888889,
+   "ocr_low_conf_share": 0.027777777777777776,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Despite initiatives like Make in India, unspent funds, an abundance of talent, a young workforce, and openness to industry sponsorship, why are we still struggling to achieve true 'atmanirbharta'? Are our resources disproportionately funnelled into a select few institutions? Is there a gapin expertise? A majority of international collaborations or foreign funding is centred around elite institutions. Alarmingly, even some government-funded research institutions seem to be aligning with this foreign-dependent model.",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      5402,
+      3406,
+      5491
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2272,
+      5535,
+      2846,
+      5578
+     ],
+     [
+      2269,
+      5614,
+      2875,
+      5883
+     ],
+     [
+      2272,
+      5934,
+      2768,
+      5977
+     ],
+     [
+      2273,
+      6011,
+      2874,
+      6162
+     ],
+     [
+      2924,
+      5535,
+      3526,
+      5769
+     ]
+    ],
+    "layout_words": 124
+   },
+   "headline_raw": "May 12, 1985, Forty YEARS AGO",
+   "deck_raw": "",
+   "body_raw": "FRESH BLASTS CLAIM 11\n\nFIVE MOREBLASTS killed 11 inthe capital. As\nmany of the victims injured in the last blast\ndied in Delhi, Haryana and Uttar Pradesh, the\nnumber of deaths caused by the explosive\ntraps rose to 77. The capital was hit the hard-\nest with 40 dead and 45 injured; many of the\nwounded, maimed and in critical condition.\n\nLONGOWAL RESIGNS\n\nIN ASURPRISE move, two senior Akali lead-\ners, Harchand Singh Longowal, Akali Dal\npresident, and Parkash Singh Badal, former\nchief minister, withdrew from the decision\n\nmaking hierarchy of the party, retaining only\nits primary membership. In another signifi-\ncant move, G STohra stepped down as pres-\nident of the Shiromani Guru Prabandhak\nCommittee, but the committee's executive\ntured down his resignation.",
+   "ocr_conf": 91.80645161290323,
+   "ocr_low_conf_share": 0.03225806451612903,
+   "headline": "May 12, 1985, Forty YEARS AGO",
+   "deck": "",
+   "byline": "FRESH BLASTS CLAIM 11",
+   "text": "FIVE MOREBLASTS killed 11 inthe capital. As many of the victims injured in the last blast died in Delhi, Haryana and Uttar Pradesh, the number of deaths caused by the explosive traps rose to 77. The capital was hit the hardest with 40 dead and 45 injured; many of the wounded, maimed and in critical condition.\n\nLONGOWAL RESIGNS\n\nIN ASURPRISE move, two senior Akali leaders, Harchand Singh Longowal, Akali Dal president, and Parkash Singh Badal, former chief minister, withdrew from the decision\n\nmaking hierarchy of the party, retaining only its primary membership. In another significant move, G STohra stepped down as president of the Shiromani Guru Prabandhak Committee, but the committee's executive tured down his resignation.",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3575,
+      5738,
+      4077,
+      5782
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3573,
+      5814,
+      4180,
+      6167
+     ]
+    ],
+    "layout_words": 60
+   },
+   "headline_raw": "CHAVAN\u2019S WARNING",
+   "deck_raw": "",
+   "body_raw": "HOME MINISTERS BChavan has wamed that\nif extremist forces are not contained and\nsenseless killing ofinnocent persons stopped\nforthwith, the consequences will be grim. The\ngovernment will not hesitate to take the\nsternest measures to restore peace and main-\ntain law and order, he added. In anation-wide\nbroadcast, Chavan said the government was\ndetermined to deal with the situation firmly.",
+   "ocr_conf": 92.98333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "CHAVAN'S WARNING",
+   "deck": "",
+   "byline": "",
+   "text": "HOME MINISTERS BChavan has wamed that if extremist forces are not contained and senseless killing ofinnocent persons stopped forthwith, the consequences will be grim. The government will not hesitate to take the sternest measures to restore peace and maintain law and order, he added. In anation-wide broadcast, Chavan said the government was determined to deal with the situation firmly.",
+   "n_words": 59,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2924,
+      5816,
+      3508,
+      5867
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2922,
+      5894,
+      3525,
+      6160
+     ]
+    ],
+    "layout_words": 50
+   },
+   "headline_raw": "CRACKDOWN IN PUNJAB",
+   "deck_raw": "",
+   "body_raw": "THE PUNJAB GOVERNMENT hasissued fresh\nshoot orders against those indulging violence\nand arson in the state to the district heads.\nAbout 600 persons were apprehended dur-\ning night-long raids in the two states and the\nunion territory of Chandigarh followinga se-\nries of blasts in some of the northern states.",
+   "ocr_conf": 94.38,
+   "ocr_low_conf_share": 0.0,
+   "headline": "CRACKDOWN IN PUNJAB",
+   "deck": "",
+   "byline": "",
+   "text": "THE PUNJAB GOVERNMENT hasissued fresh shoot orders against those indulging violence and arson in the state to the district heads. About 600 persons were apprehended during night-long raids in the two states and the union territory of Chandigarh followinga series of blasts in some of the northern states.",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 21.6,
+ "flags": [
+  "3 kept article(s) without a headline"
+ ]
+}

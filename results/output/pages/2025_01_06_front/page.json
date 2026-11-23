@@ -1,0 +1,864 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_06_front",
+ "source_file": "2025-01-06_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-06_front.png",
+ "date": "2025-01-06",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 525,
+  "mean_line_conf": 86.83751773358915,
+  "orphan_words": 24,
+  "body_words_total": 1996
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3254,
+      694,
+      4174,
+      1219
+     ],
+     [
+      3255,
+      1268,
+      4143,
+      1459
+     ],
+     [
+      3294,
+      1536,
+      3577,
+      1605
+     ],
+     [
+      3616,
+      1536,
+      3912,
+      1605
+     ],
+     [
+      3295,
+      1724,
+      3552,
+      1789
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3483,
+      1640,
+      3817,
+      1712
+     ],
+     [
+      3826,
+      1640,
+      4043,
+      1712
+     ],
+     [
+      3298,
+      2087,
+      3410,
+      2121
+     ],
+     [
+      3290,
+      2498,
+      3958,
+      2651
+     ]
+    ],
+    "layout_words": 33
+   },
+   "headline_raw": "6 years after quota\nfor women at IITs,\nmore hostels and\na shift in attitudes\nIn 2018, IITs implemented a 20%\nsupernumerary scheme; IIT-Kanpur\nsees 133% rise in number of women\nWOMEN INIITs:\nGRADUAL SHIFT\nDelhi 217",
+   "deck_raw": "",
+   "body_raw": "YEAR TOTAL\nSTUDENTS\n\n\u201cFEMALE STUD\n(UG +PC\\IN%\n\nKanpur\n\n* Only 1s\u00a2 Semester numbers given in PG\n** Information available unal 11.112024,\n\u00b0\u00b0\" The siaiting year for which the institute shared detads\nData obtained through RT!",
+   "ocr_conf": 75.82857142857142,
+   "ocr_low_conf_share": 0.17142857142857143,
+   "headline": "6 years after quota for women at IITs, more hostels and a shift in attitudes In 2018, IITs implemented a 20% supernumerary scheme; IIT-Kanpur sees 133% rise in number of women WOMEN INIITs: GRADUAL SHIFT Delhi 217",
+   "deck": "",
+   "byline": "YEAR TOTAL; STUDENTS; \"FEMALE STUD; (UG +PC\\IN%",
+   "text": "Kanpur\n\n* Only 1s\u00a2 Semester numbers given in PG ** Information available unal 11.112024, \u00b0\u00b0\" The siaiting year for which the institute shared detads Data obtained through RT!",
+   "n_words": 28,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      747,
+      723,
+      782
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      783,
+      3080,
+      1184
+     ],
+     [
+      811,
+      1176,
+      1219,
+      1434
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      699,
+      2328,
+      749
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1541,
+      1144,
+      1610
+     ],
+     [
+      808,
+      1659,
+      1255,
+      2328
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "PM vows BJP will continue welfare\nschemes if voted to power in Delhi.\nThey are lying\nthat we will stop\nschemes: Modi\nhits out at AAP",
+   "deck_raw": "PARIVARTAN RALLY AHEAD OF DELHI ELECTIONS",
+   "body_raw": "GAYATHRI MANI\nNEW DELHI. JANUARY 5\n\nWITHUHIS focus firmly on the up-\ncoming Assembly elections,\nPrime Minister Narendra Modi\non Sunday said all ongoing wel-\nfare schemes in Delhi will con-\nnue ifthe BJP formsthe govem-\nment in the Capital.\nAddressing aParivartan Rally\nat the Japanese Park in Rohini,\nModi attacked AAP, again calling\nitthe\u201cAAP-da (disaster) govem-\nment\u201d - aterm he first used on\nJanuary 3, when he opened the\nBJP\u2019s poll campaignin Delhi with\nafterce attackon thenuling party.\n\u201cYe AAP-da wale Dili chunav\nmein apni haar samne dekh kar",
+   "ocr_conf": 86.96666666666667,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "PM vows BJP will continue welfare schemes if voted to power in Delhi. They are lying that we will stop schemes: Modi hits out at AAP",
+   "deck": "PARIVARTAN RALLY AHEAD OF DELHI ELECTIONS",
+   "byline": "GAYATHRI MANI; NEW DELHI. JANUARY 5",
+   "text": "WITHUHIS focus firmly on the upcoming Assembly elections, Prime Minister Narendra Modi on Sunday said all ongoing welfare schemes in Delhi will connue ifthe BJP formsthe govemment in the Capital. Addressing aParivartan Rally at the Japanese Park in Rohini, Modi attacked AAP, again calling itthe\"AAP-da (disaster) govemment\" - aterm he first used on January 3, when he opened the BJP's poll campaignin Delhi with afterce attackon thenuling party. \"Ye AAP-da wale Dili chunav mein apni haar samne dekh kar",
+   "n_words": 79,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      628,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 90.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2277,
+      1167,
+      3180,
+      1502
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2275,
+      1624,
+      2610,
+      1674
+     ],
+     [
+      1440,
+      1765,
+      2088,
+      1809
+     ]
+    ],
+    "body_boxes": [
+     [
+      1346,
+      1844,
+      1709,
+      1917
+     ],
+     [
+      1293,
+      2096,
+      1740,
+      2328
+     ],
+     [
+      1761,
+      1893,
+      2182,
+      2004
+     ],
+     [
+      1787,
+      2097,
+      2229,
+      2321
+     ],
+     [
+      2279,
+      1582,
+      2702,
+      1610
+     ],
+     [
+      2276,
+      1701,
+      2721,
+      2325
+     ],
+     [
+      2763,
+      2137,
+      3205,
+      2322
+     ],
+     [
+      2821,
+      2503,
+      3150,
+      2535
+     ]
+    ],
+    "layout_words": 192
+   },
+   "headline_raw": "Projects launched by\nPM are joint ventures\nwith state: Kejriwal",
+   "deck_raw": "NEW DELHI, JANUARY 5\nINFRASTRUCTURE PUSH FOR DELHI",
+   "body_raw": "13-KM RAPID RAlLcorridor\nbetween New Ashok Nagar\n\nbhaukia gaye hain, jhoot fehlarahe\nhain. Ye Dill waton ko dara rahe\nhain ki BJP aayegi yeh band ho\njayegn, wohbandhojayega. Lekin\nmain Difiiwalon ko vishwasdilane\naaya hoon, BJP sarkar mein Ditli\n\n: JANAKPURI WEST toKrishna\nPark Extension corridor of\n1 Phasetv ito sraingue son\n\nmein janhit ki kot yomna band toh\nnahi hogi, lekin usme jo baimano\nka theka hain na, unko bahar\nnikala jayegn (These people are\npanicking and are spreading lies\nCONTINUED ON PAGE 2\n\nEXPRESS NEWS SERVICE\n\nAS PRIME Minister Narendra\nModi inaugurated key infra-\nstructure projects in Delhi on\nSunday, Aam Aadmi Party chief\nand former Chief Minister\nArvind Kejriwal called them a\n\u201cjoint venture\" with the Centre\nand said it was proof that the\ngovernment in the city worked\nonly for its citizens.\nAt a press conference after\nthe PM inaugurated a 13-km\nstretch of the Delhi-Meerut\nRegional Rapid Transit System\n(RRTS) corridor and a section of\nthe Delhi Metro's Phase IV,\n\nKejriwal said, \u201cI want to congrat-\nulate the peopleof Delhi. The PM\nand DelhiCM Atishi inaugurated\nthese today. It's a joint venture\nCONTINUED ONPAGE 2\n\nIDEA EXCHANGE",
+   "ocr_conf": 85.76041666666667,
+   "ocr_low_conf_share": 0.09895833333333333,
+   "headline": "Projects launched by PM are joint ventures with state: Kejriwal",
+   "deck": "NEW DELHI, JANUARY 5 INFRASTRUCTURE PUSH FOR DELHI",
+   "byline": "",
+   "text": "13-KM RAPID RAlLcorridor between New Ashok Nagar\n\nbhaukia gaye hain, jhoot fehlarahe hain. Ye Dill waton ko dara rahe hain ki BJP aayegi yeh band ho jayegn, wohbandhojayega. Lekin main Difiiwalon ko vishwasdilane aaya hoon, BJP sarkar mein Ditli\n\n: JANAKPURI WEST toKrishna Park Extension corridor of 1 Phasetv ito sraingue son\n\nmein janhit ki kot yomna band toh nahi hogi, lekin usme jo baimano ka theka hain na, unko bahar nikala jayegn (These people are panicking and are spreading lies\n\nEXPRESS NEWS SERVICE\n\nAS PRIME Minister Narendra Modi inaugurated key infrastructure projects in Delhi on Sunday, Aam Aadmi Party chief and former Chief Minister Arvind Kejriwal called them a \"joint venture\" with the Centre and said it was proof that the government in the city worked only for its citizens. At a press conference after the PM inaugurated a 13-km stretch of the Delhi-Meerut Regional Rapid Transit System (RRTS) corridor and a section of the Delhi Metro's Phase IV,\n\nKejriwal said, \"I want to congratulate the peopleof Delhi. The PM and DelhiCM Atishi inaugurated these today. It's a joint venture\n\nIDEA EXCHANGE",
+   "n_words": 183,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1472,
+      566,
+      1503
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE WORLD",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "THE WORLD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1941,
+      654,
+      2156
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SOUTH KOREA'S\nPRESIDENTIAL\nSECURITY CHIEF\nDEFIES BIDTO\nARREST YOON",
+   "ocr_conf": 87.33333333333333,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "",
+   "deck": "",
+   "byline": "SOUTH KOREA'S; PRESIDENTIAL; SECURITY CHIEF; DEFIES BIDTO; ARREST YOON",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2191,
+      738,
+      2362
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ITALY\u2019S MELONI\nMEETS WITH TRUMP\nATHIS FLORIDA\nRESIDENCE",
+   "ocr_conf": 94.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "ITALY'S MELONI; MEETS WITH TRUMP; ATHIS FLORIDA; RESIDENCE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      2474,
+      2704,
+      2707
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      2768,
+      1725,
+      2837
+     ],
+     [
+      1292,
+      2887,
+      1742,
+      3994
+     ]
+    ],
+    "layout_words": 134
+   },
+   "headline_raw": "3 killed as Coast Guard chopper\ncrashes at Porbandar airport",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nAHMEDABAD, JANUARY 5\n\nACOAST Guard cho pper crashed\nat Porbandar airport in Gujarat\non Sunday as it was landing af-\nter a routine training sortie,\nkilling two pilots and adiver who\nwere on board.\nThe Coast Guard said ina\nstatement that a Board of inquiry\nis looking into the crash that\nkilled Commandant (Junior\nGrade) Saurabh, Deputy\nCommandant S K Yadav and\nPradhan Navik Manoj.\nIt said the mishap happened\nat around 12.15 pm when the\nAdvanced Light Helicopter (ALH)\nwas ona routine training sortie.\n\u201cImmediately post incident,\nthe crew were recovered and\nshifted to Government Hospital,\nPorbandar, where theywerede-\nclared broughtdead. The reasons\nleading to the incident are being\ninvestigated by a Board of\nInquiry,\u201d the statement said.\n\u201cThe Mortal remains of the\ncrew viz Commandant (JG)\nSaurabh, T\u2122, Deputy",
+   "ocr_conf": 88.61194029850746,
+   "ocr_low_conf_share": 0.05223880597014925,
+   "headline": "3 killed as Coast Guard chopper crashes at Porbandar airport",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; AHMEDABAD, JANUARY 5",
+   "text": "ACOAST Guard cho pper crashed at Porbandar airport in Gujarat on Sunday as it was landing after a routine training sortie, killing two pilots and adiver who were on board. The Coast Guard said ina statement that a Board of inquiry is looking into the crash that killed Commandant (Junior Grade) Saurabh, Deputy Commandant S K Yadav and Pradhan Navik Manoj. It said the mishap happened at around 12.15 pm when the Advanced Light Helicopter (ALH) was ona routine training sortie. \"Immediately post incident, the crew were recovered and shifted to Government Hospital, Porbandar, where theyweredeclared broughtdead. The reasons leading to the incident are being investigated by a Board of Inquiry,\" the statement said. \"The Mortal remains of the crew viz Commandant (JG) Saurabh, T\u2122, Deputy",
+   "n_words": 126,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2879,
+      3680,
+      2944
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      2762,
+      3769,
+      2883
+     ],
+     [
+      2761,
+      3271,
+      3177,
+      3328
+     ]
+    ],
+    "body_boxes": [
+     [
+      2761,
+      3380,
+      3201,
+      3592
+     ],
+     [
+      3247,
+      2967,
+      3696,
+      3280
+     ],
+     [
+      3252,
+      3324,
+      3696,
+      3438
+     ]
+    ],
+    "layout_words": 69
+   },
+   "headline_raw": "KANPUR, MUMBAI JANUARY 5",
+   "deck_raw": "VIDHEESHAKUNTAMALLA =\n&PALLAVISMART rs\nNEWDELHI.ROORKEE, |\nEXPRESS NETWORK",
+   "body_raw": "\u2018CHADAR\u2019 OFFEREDAT\nAJMER SHARIF\nDARGAH ON BEHALF\nOFRAJNATH SINGH\nPAGE 3\n\nFROM MORE hostels and wash-\nrooms for female students to\ntheir own sportsteams \u2014 asilent\nrevolution hasbeen taking shape\nat the Indian Institutes of\nTechnology (IITs over the last six\nyears, ever since a sipemumer-\nary quota of 20% wasset aside for\n\nThe quota, under which ex-\ntra seats were created instead of\nreserving them in the existing",
+   "ocr_conf": 76.8695652173913,
+   "ocr_low_conf_share": 0.2028985507246377,
+   "headline": "KANPUR, MUMBAI JANUARY 5",
+   "deck": "VIDHEESHAKUNTAMALLA = &PALLAVISMART rs NEWDELHI.ROORKEE, EXPRESS NETWORK",
+   "byline": "'CHADAR' OFFEREDAT; AJMER SHARIF; DARGAH ON BEHALF; OFRAJNATH SINGH",
+   "text": "FROM MORE hostels and wash-rooms for female students to their own sportsteams - asilent revolution hasbeen taking shape at the Indian Institutes of Technology (IITs over the last six years, ever since a sipemumerary quota of 20% wasset aside for\n\nThe quota, under which extra seats were created instead of reserving them in the existing",
+   "n_words": 55,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3785,
+      2879,
+      4096,
+      2944
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3749,
+      2762,
+      4155,
+      2848
+     ]
+    ],
+    "body_boxes": [
+     [
+      3786,
+      2929,
+      4132,
+      3313
+     ],
+     [
+      3740,
+      3403,
+      4180,
+      3510
+     ]
+    ],
+    "layout_words": 49
+   },
+   "headline_raw": "The rising presenceof\nwramen ar lfTs icin line",
+   "deck_raw": "= Catching up in\n=f. higher education",
+   "body_raw": "women at IITs is in line\nwith the broader pattem\nofan increasein their\nenrolment inhighered-\nucation \u2014 according \u00a9\nthe All India Survey on\nHigher Education for\n2021-2022, women\nmake up around 48% of\nthe total enrolment.\n\nof acommittee led by then IIT-\nMandi Director Timothy\nCONTINUED ON PAGE2",
+   "ocr_conf": 84.9795918367347,
+   "ocr_low_conf_share": 0.08163265306122448,
+   "headline": "The rising presenceof wramen ar lfTs icin line",
+   "deck": "=f. higher education",
+   "byline": "",
+   "text": "women at IITs is in line with the broader pattem ofan increasein their enrolment inhighereducation - according \u00a9 the All India Survey on Higher Education for make up around 48% of the total enrolment.\n\nof acommittee led by then IIT-Mandi Director Timothy",
+   "n_words": 42,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      316,
+      3040,
+      1199,
+      3116
+     ],
+     [
+      321,
+      3151,
+      1200,
+      3506
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3560,
+      720,
+      3629
+     ],
+     [
+      320,
+      3679,
+      765,
+      4307
+     ],
+     [
+      810,
+      3519,
+      1250,
+      3592
+     ]
+    ],
+    "layout_words": 87
+   },
+   "headline_raw": "One of the tigers that died at the Gorewada Resaue Centre\nBird flu kills 3 tigers,\n1 leopard at rescue\ncentre, zoos on alert",
+   "deck_raw": "",
+   "body_raw": "SIDDHANT KONDUSKAR\nMUMBAI. JANUARY 5\n\nTHREE TIGERS and a leopard at\naNagpur rescue centre have suc-\ncumbed to avian influenza,\nprompting the Union govern-\nment t sound an alert for 200s\nacross the country.\nThis is a rare instance of the\nhighlycontagious H5N1 virusaf-\nfecting rescued wildlife in India\nIn an advisory, the Central\nDepartment of Animal\nHusbandry and Dairying di-\nrected 200s to comply with the\naction plan on prevention, con-\ntro! and containment.\n\u201cttisa highlycontagious viral\n\ndisease with zoonotic ramifica-\ntions. Itis, therefore, advised that",
+   "ocr_conf": 91.26436781609195,
+   "ocr_low_conf_share": 0.022988505747126436,
+   "headline": "One of the tigers that died at the Gorewada Resaue Centre Bird flu kills 3 tigers, 1 leopard at rescue centre, zoos on alert",
+   "deck": "",
+   "byline": "SIDDHANT KONDUSKAR; MUMBAI. JANUARY 5",
+   "text": "THREE TIGERS and a leopard at aNagpur rescue centre have succumbed to avian influenza, prompting the Union government t sound an alert for 200s across the country. This is a rare instance of the highlycontagious H5N1 virusaffecting rescued wildlife in India In an advisory, the Central Department of Animal Husbandry and Dairying directed 200s to comply with the action plan on prevention, contro! and containment. \"ttisa highlycontagious viral\n\ndisease with zoonotic ramifications. Itis, therefore, advised that",
+   "n_words": 76,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      3597,
+      1254,
+      3649
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      3680,
+      1251,
+      4300
+     ]
+    ],
+    "layout_words": 68
+   },
+   "headline_raw": "all zoos remain alert and vigilant\nfre eta. iu Vinnla tainn ta artnet Lanhia",
+   "deck_raw": "",
+   "body_raw": "animals housed in zoos and inci-\ndence, ifany, in nearby areas,\u201d\nstated the January 3 advisory is-\nsued by the department, which\ncomesunder the Union Ministry\nof Fisheries, Animal Husbandry\nand Dairying.\nThe animals in question had\nbeen relocated to the Gorewada\nRescue Centre in Nagpur from\nChandrapur in December fol-\nlowing incidents of conflict with\nhumans.\nWithin a weekof ther arrival,\nhowever, they began showing\nCONTINUED ON PAGE 2",
+   "ocr_conf": 83.87142857142857,
+   "ocr_low_conf_share": 0.17142857142857143,
+   "headline": "all zoos remain alert and vigilant fre eta. iu Vinnla tainn ta artnet Lanhia",
+   "deck": "",
+   "byline": "",
+   "text": "animals housed in zoos and incidence, ifany, in nearby areas,\" stated the January 3 advisory issued by the department, which comesunder the Union Ministry of Fisheries, Animal Husbandry and Dairying. The animals in question had been relocated to the Gorewada Rescue Centre in Nagpur from Chandrapur in December following incidents of conflict with humans. Within a weekof ther arrival, however, they began showing",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      3584,
+      4170,
+      3920
+     ],
+     [
+      3251,
+      3932,
+      4042,
+      4087
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      3439,
+      3690,
+      3496
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      4117,
+      3585,
+      4186
+     ],
+     [
+      3249,
+      4235,
+      3692,
+      5139
+     ],
+     [
+      3739,
+      4078,
+      4181,
+      5132
+     ]
+    ],
+    "layout_words": 239
+   },
+   "headline_raw": "As 52 villages allege\nviolations of forest\nrights, Tribal Ministry\ntells MP govt to act",
+   "deck_raw": "pool, was implemented in 2018\nhaced an the recommen aan",
+   "body_raw": "NIKHIL GHANEKAR\nNEW DELHI JANUARYS5\n\nTAKING COGNISANCE of peti-\ntions and complaints from 52\nvillages, the Union Tribal Affairs\nMinistry has directed the\nMadhya Pradesh govemmentto\nact on alleged breaches of forest\nrights and attempts at forcible\neviction in and around the state's\nnewest tiger reserve.\nThe Centre wrote to the\nMadhya Pradesh Tribal Welfare\nDepartment on December 23 af-\nter receiving representations\nfrom the gram sabhasin Damoh,\nNarsinghpur and Sagar districts,\nitis eamt.\nThe residents alleged that af-\nter the Veerangana Durgavati\nTiger Reserve was notified in\nSeptember 2023, forest rights\nclaims were denied and they\nwere pushed to relocate outside\nthe reserve forcefully, in viola-\n\ntion of the Forest Rights Act\n(FRA), 2006, and the Wildlife\nProtection Act (WLPA), 2006.\nResidents have also been re-\nstricted from accessing forest re-\nsources, forest produce and\nfarms, ithas been alleged. A state\nofficial denied the allegations.\nThe Union Ministry stated in\nits letter to the Madhya Pradesh\ngovernment: \u201cIt may be noted\nthat alienation of the communi-\nties from exercising their rights\nas stipulated under FRA, 2006, is\naviolation of the Act. Therefore,\nas state governments are FRA\nimplementing authority, itis ad-\nvised that matters may be exam-\nined and resolved in consulta-\ntion with state forest\ndepartments, the concemed dis-\ntrict collectors and DFOs.\u201d It di-\nrected the state to examine and\nresolve the matter in consulta-\ntion with state forest depart-\nmentsand district collectors.\nCONTINUEDON PAGE 2",
+   "ocr_conf": 89.43514644351464,
+   "ocr_low_conf_share": 0.058577405857740586,
+   "headline": "As 52 villages allege violations of forest rights, Tribal Ministry tells MP govt to act",
+   "deck": "pool, was implemented in 2018 haced an the recommen aan",
+   "byline": "NIKHIL GHANEKAR; NEW DELHI JANUARYS5",
+   "text": "TAKING COGNISANCE of petitions and complaints from 52 villages, the Union Tribal Affairs Ministry has directed the Madhya Pradesh govemmentto act on alleged breaches of forest rights and attempts at forcible eviction in and around the state's newest tiger reserve. The Centre wrote to the Madhya Pradesh Tribal Welfare Department on December 23 after receiving representations from the gram sabhasin Damoh, Narsinghpur and Sagar districts, itis eamt. The residents alleged that after the Veerangana Durgavati Tiger Reserve was notified in September 2023, forest rights claims were denied and they were pushed to relocate outside the reserve forcefully, in violation of the Forest Rights Act (FRA), 2006, and the Wildlife Protection Act (WLPA), 2006. Residents have also been restricted from accessing forest resources, forest produce and farms, ithas been alleged. A state official denied the allegations. The Union Ministry stated in its letter to the Madhya Pradesh government: \"It may be noted that alienation of the communities from exercising their rights as stipulated under FRA, 2006, is aviolation of the Act. Therefore, as state governments are FRA implementing authority, itis advised that matters may be exam-ined and resolved in consultation with state forest departments, the concemed district collectors and DFOs.\" It directed the state to examine and resolve the matter in consultation with state forest depart-mentsand district collectors. CONTINUEDON PAGE 2",
+   "n_words": 220,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      4376,
+      3201,
+      4520
+     ],
+     [
+      320,
+      4507,
+      568,
+      4588
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4669,
+      761,
+      5133
+     ],
+     [
+      805,
+      4509,
+      1253,
+      5137
+     ],
+     [
+      1782,
+      4509,
+      2227,
+      5134
+     ],
+     [
+      2271,
+      4510,
+      2719,
+      5139
+     ],
+     [
+      2760,
+      4510,
+      3206,
+      5132
+     ]
+    ],
+    "layout_words": 363
+   },
+   "headline_raw": "Pak accused find familiarity in court: Sindhi prosecution, defence\nSADAF MODAK",
+   "deck_raw": "",
+   "body_raw": "T'S 12.30 PM, andincourtnum-\nber 42 of Mumbai's City Cwil and\nSessions Court, there's a low\nmurmur of voices as the judge\npronounces his ruling. The inter-\nactions are hushed, but listen\nClosely, and you'll find acommon\nlink between speakers \u2014 they're\nall speaking Sindhi.\nOnJanuary 1, eight Pakistani\nmen \u2014 Alibaksha Sindhi, 48,\nMaksud Akhtar Masim, 54,\n\nMohammad Baksh Sindhi, 55,\nMohammad Ahmad Inayat, 37,\nMohammad Yunus Sindhi, 44,\nMohammad Yusuf Abdulla\nGagawani, 58, Mohammad\nGulhasan Baloch, 40, and\nGulhasan Siddhig Sindhi, 50 \u2014\nwere sentenced to 20 yearsin jail\nfor carrying 232 kg of heroin on\na fishing boat off the Gujarat\ncoast in 2015.\nThe trial presented a situa-\ntion rarely seen since thedaysof\nIndia\u2019s Partition ~ the coming\ntogether of eight Sindhis, not\nonly the convicts but their Indian\n\ndefence lawyer and the prosecu-\ntion attomey.\nThe Sindhi community is an\nethnolinguistic group native to\nthe Sindh region of Pakistan. The\nthird-largestethnic groupin that\ncountry, many of its members\nwho followed Hinduism were\ndisplaced and migrated to India\nin 1947, Many who lived around\nKarachi disembarked on\nBombay docks and settled in and\naround Mumbai.\nSindhi speakers are alinguis-\ntic minority in India. According\nto the 2011 Census, India had a\n\ntotal of 27,72,364 Sindhi speak-\ners. Gujarat, Maharashtra and\nRajasthan have the highest\nSindhi population.\nIn the court that day, six of\nthe eight convicts and the\nlawyers \u2014 both defence attomey\nAnil G Lalla and prosecutor\nSumesh Panjwani \u2014 all inter-\nacted in Sindhi: alanguage they\nstill speak at home.\nAccording to Anil G Lalla, the\ndefence lawyer who represents\nseven of the eight convicts, he\njoined the case pro-bonolawyer\nin 2020 when one accused ap-\n\nproached him \u2014 perhaps after he\noverheard him speaking Sindhi.\nThe eighth was represented by\nanother lawyer\n\u201cMy father Gopal, who is 91\nnow, speaks in the same dialect\nas some of these men. He re-\nmembers having a home in\nKarachi,\u201d he says.\nGopal, also a former lawyer,\nwas 13 when he migrated to\nIndia with his mother and older\nbrother in 1947. Having lost his\nfather when he was a baby, the\nfamily settled in Ajmer,\nCONTINUED ONPAGE 2",
+   "ocr_conf": 89.90633608815428,
+   "ocr_low_conf_share": 0.05785123966942149,
+   "headline": "Pak accused find familiarity in court: Sindhi prosecution, defence SADAF MODAK",
+   "deck": "",
+   "byline": "",
+   "text": "T'S 12.30 PM, andincourtnumber 42 of Mumbai's City Cwil and Sessions Court, there's a low murmur of voices as the judge pronounces his ruling. The inter-actions are hushed, but listen Closely, and you'll find acommon link between speakers - they're all speaking Sindhi. OnJanuary 1, eight Pakistani men - Alibaksha Sindhi, 48, Maksud Akhtar Masim, 54,\n\nMohammad Baksh Sindhi, 55, Mohammad Ahmad Inayat, 37, Mohammad Yunus Sindhi, 44, Mohammad Yusuf Abdulla Gagawani, 58, Mohammad Gulhasan Baloch, 40, and Gulhasan Siddhig Sindhi, 50 - were sentenced to 20 yearsin jail for carrying 232 kg of heroin on a fishing boat off the Gujarat coast in 2015. The trial presented a situation rarely seen since thedaysof India's Partition ~ the coming together of eight Sindhis, not only the convicts but their Indian\n\ndefence lawyer and the prosecution attomey. The Sindhi community is an ethnolinguistic group native to the Sindh region of Pakistan. The third-largestethnic groupin that country, many of its members who followed Hinduism were displaced and migrated to India in 1947, Many who lived around Karachi disembarked on Bombay docks and settled in and around Mumbai. Sindhi speakers are alinguistic minority in India. According to the 2011 Census, India had a\n\ntotal of 27,72,364 Sindhi speakers. Gujarat, Maharashtra and Rajasthan have the highest Sindhi population. In the court that day, six of the eight convicts and the lawyers - both defence attomey Anil G Lalla and prosecutor Sumesh Panjwani - all inter-acted in Sindhi: alanguage they still speak at home. According to Anil G Lalla, the defence lawyer who represents seven of the eight convicts, he joined the case pro-bonolawyer in 2020 when one accused approached him - perhaps after he overheard him speaking Sindhi. The eighth was represented by another lawyer \"My father Gopal, who is 91 now, speaks in the same dialect as some of these men. He remembers having a home in Karachi,\" he says. Gopal, also a former lawyer, was 13 when he migrated to India with his mother and older brother in 1947. Having lost his father when he was a baby, the family settled in Ajmer,",
+   "n_words": 351,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5277,
+      4170,
+      5402
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5420,
+      499,
+      5495
+     ],
+     [
+      318,
+      5616,
+      717,
+      5644
+     ],
+     [
+      807,
+      5420,
+      1249,
+      6167
+     ],
+     [
+      1291,
+      5420,
+      1739,
+      6167
+     ],
+     [
+      2270,
+      5421,
+      2715,
+      6168
+     ],
+     [
+      2756,
+      5421,
+      3204,
+      6161
+     ],
+     [
+      3249,
+      5422,
+      3691,
+      6165
+     ],
+     [
+      3738,
+      5423,
+      4181,
+      6162
+     ]
+    ],
+    "layout_words": 546
+   },
+   "headline_raw": "Mukesh Chandrakar said: Kuch hoga to nahin na? Months later, he was gone",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nASHUTOSH BHARDWAJ\n\ndaily risks against which | was\nlargely insulated.\nBut Mukesh Chandrakar al-\nways remained an explorer,\nwhereas I, the unlucky one, had\nto abandon the jungle. If the\nfoundation ofjournalismis field\nreporting, the daily grindinthe\nsun and the soil thatleaves your\nbody grimy and the soul\ntanned, Mukesh Chandrakar\nepitomised it.\nHis own life experiences\ngreatly contributed to hisunder-\nstanding of the police-Maoist\nconflict and the Adivasi life in\nDandakaranya. He was bornin\nBasaguda village of Bijapur dur-\ning the early years of the Naxal\n\ninsurgency. He lost his father\nearly and was later uprooted\nfrom his village in the Satwa\nJudum violence. His mother, an\nanganwadi worker, shifted to the\nBasaguda refugee camp before\nthe family was forced to move to\nanother refugee camp in\nAvapalli. A decade later, he lost\nhis mother to cancer.\nHe was, thus, naturally pre-\ndisposed to be a remarkable\nchronicler, an outstanding inter-\nlocutor of the tragic zone that\nBastar is. He worked for several\nRaipur-based media houses for\nnearlya decade with little salary\nand multiple editorial diktats be-\nfore he began considering the\n\nYouTube model of journalism.\nInApril2021, he and some fel-\nlow journalists, including an-\nother extraordinary reporter\nnamed Ganesh Mishra, secured\nthe release of acommando of the\nCRPF's CoBRA unit from Maoist\ncaptivity. As the abduction made\nheadlines, the country's elite\nparamilitary forces remained\nhelpless before a bunch of young\njournalists emerged from the\njungle in jubilation. Till date,\nMukesh's X handle has the\npinned tweet of a few bikers ar-\nfiving in celebration, with him\nleading from the front and the re-\nleased commManidor ding pillion.\nAyear later, when! published\n\nMukesh's profile in Outlook\nmagazine, I quoted him on his\ndecision to change his mode of\njoumalism: \u201cGanesh Mishraand\n| played a major role in securing\nhis (the commando's) release.\nNational channels were taking\nmy bytes. But unfortunately, at\nmy own channel, my editor-an-\nchor hogged the space.\u201d\nI go back to our chat history\namid an engulfing sadness to\nfind the conversations we hadin\n2021, the messages and phone\ncalls to discuss the title and for-\nmat of the newchannel.\nThe channel, Bastar\nJunction, soon became a credi-\nble voice of Bastar. He was\n\namong the first to report on the\nMay 2021 Silger incident in\nwhich three Adivasis were\nkilledin firingbysecurity forces.\nThe video genre lent him\nmaximum joy anda sense of ful-\nfilment. He no longer had to\nsend endless story pitches to\nnegligent editors nor was there\nany fear of his byline getting\nwhitewashed.\nReporting from a conflict\nzone is always fraught withrisks;\nin Bastar, another tragic compo-\nnent gets added to it. The zone\ndoesn't have any representative\nin the national or international\nmediaor academia Kashmir, for\ninstance, has its interlocutors\n\nwith several reputed media\nhouses and academic institu-\ntions. In absolute contrast, Bastar\ndoesn'thaveavoiceevenin state\ncapital Raipur. There is no oneto\nwrite their stories except afew\nactivists or joumalists, who ear-\nlier worked in the area, invested\ntheir emotional and intellectual\nenergies into the jungle, butnow\nlve witha guiltofhaving toaban-\ndon what theyonce believed was\ntheironly homeland.\n[last met Mukesha few years\nago in Byapur. We spent amom-\ning together and clicked each\nother's photographs. My phone\nstillhas photographs from that\nCONTINUEDON PAGE 2",
+   "ocr_conf": 88.5915750915751,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "Mukesh Chandrakar said: Kuch hoga to nahin na? Months later, he was gone",
+   "deck": "",
+   "byline": "ANCHOR; ASHUTOSH BHARDWAJ",
+   "text": "daily risks against which was largely insulated. But Mukesh Chandrakar always remained an explorer, whereas I, the unlucky one, had to abandon the jungle. If the foundation ofjournalismis field reporting, the daily grindinthe sun and the soil thatleaves your body grimy and the soul tanned, Mukesh Chandrakar epitomised it. His own life experiences greatly contributed to hisunderstanding of the police-Maoist conflict and the Adivasi life in Dandakaranya. He was bornin Basaguda village of Bijapur during the early years of the Naxal\n\ninsurgency. He lost his father early and was later uprooted from his village in the Satwa Judum violence. His mother, an anganwadi worker, shifted to the Basaguda refugee camp before the family was forced to move to another refugee camp in Avapalli. A decade later, he lost his mother to cancer. He was, thus, naturally predisposed to be a remarkable chronicler, an outstanding interlocutor of the tragic zone that Bastar is. He worked for several Raipur-based media houses for nearlya decade with little salary and multiple editorial diktats before he began considering the\n\nYouTube model of journalism. InApril2021, he and some fellow journalists, including another extraordinary reporter named Ganesh Mishra, secured the release of acommando of the CRPF's CoBRA unit from Maoist captivity. As the abduction made headlines, the country's elite paramilitary forces remained helpless before a bunch of young journalists emerged from the jungle in jubilation. Till date, Mukesh's X handle has the pinned tweet of a few bikers arfiving in celebration, with him leading from the front and the released commManidor ding pillion. Ayear later, when! published\n\nMukesh's profile in Outlook magazine, I quoted him on his decision to change his mode of joumalism: \"Ganesh Mishraand played a major role in securing his (the commando's) release. National channels were taking my bytes. But unfortunately, at my own channel, my editor-anchor hogged the space.\" I go back to our chat history amid an engulfing sadness to find the conversations we hadin 2021, the messages and phone calls to discuss the title and format of the newchannel. The channel, Bastar Junction, soon became a credible voice of Bastar. He was\n\namong the first to report on the May 2021 Silger incident in which three Adivasis were killedin firingbysecurity forces. The video genre lent him maximum joy anda sense of fulfilment. He no longer had to send endless story pitches to negligent editors nor was there any fear of his byline getting whitewashed. Reporting from a conflict zone is always fraught withrisks; in Bastar, another tragic component gets added to it. The zone doesn't have any representative in the national or international mediaor academia Kashmir, for instance, has its interlocutors\n\nwith several reputed media houses and academic institutions. In absolute contrast, Bastar doesn'thaveavoiceevenin state capital Raipur. There is no oneto write their stories except afew activists or joumalists, who earlier worked in the area, invested their emotional and intellectual energies into the jungle, butnow lve witha guiltofhaving toabandon what theyonce believed was theironly homeland. [last met Mukesha few years ago in Byapur. We spent amoming together and clicked each other's photographs. My phone stillhas photographs from that CONTINUEDON PAGE 2",
+   "n_words": 520,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5658,
+      655,
+      5709
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      315,
+      5738,
+      760,
+      6166
+     ]
+    ],
+    "layout_words": 58
+   },
+   "headline_raw": "NEW DELHI, JANUARY S",
+   "deck_raw": "",
+   "body_raw": "HE CALLED me dada: called him\nbhai. Co-travellers, we leamtour\nfirst \u2014 and the mostenduring \u2014\njoumalism lessonsin the jungles\nof Bastar. [then worked with The\nindian Express, the newspaper\nthat had given me a crucial as-\nsignment to travel, report and\nwrite from Central India.1 had a\nluxurious cushion of \u2018national\nmedia\u2019; he was exposed to the",
+   "ocr_conf": 86.27586206896552,
+   "ocr_low_conf_share": 0.10344827586206896,
+   "headline": "NEW DELHI, JANUARY S",
+   "deck": "",
+   "byline": "",
+   "text": "HE CALLED me dada: called him bhai. Co-travellers, we leamtour first - and the mostenduring - joumalism lessonsin the jungles of Bastar. [then worked with The indian Express, the newspaper that had given me a crucial assignment to travel, report and write from Central India.1 had a luxurious cushion of 'national media'; he was exposed to the",
+   "n_words": 57,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.3,
+ "flags": []
+}

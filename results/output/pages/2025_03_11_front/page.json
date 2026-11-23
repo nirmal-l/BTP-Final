@@ -1,0 +1,454 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_11_front",
+ "source_file": "2025-03-11_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-11_front.png",
+ "date": "2025-03-11",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 201,
+  "mean_line_conf": 88.15440653873492,
+  "orphan_words": 0,
+  "body_words_total": 665
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      693,
+      1235,
+      992
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1065,
+      694,
+      1134
+     ],
+     [
+      319,
+      1185,
+      764,
+      1695
+     ]
+    ],
+    "layout_words": 64
+   },
+   "headline_raw": "ED searches premises of\nBaghel, son; bid to shift\nfocus from House: Cong",
+   "deck_raw": "",
+   "body_raw": "JAYPRAKASH S NAIDU\nRAIPUR, MARCH 10\n\nTHE ENFORCEMENT Directorate\n(ED) on Monday conducted\nsearches at 14 locations in\nChhattisgarh's Durg district, in-\nCluding the residence of former\nchief minister Bhupesh Baghel\nand his son Chaitanya, inconnec-\ntion with an alleged liquor scam.\nTheCongress alleged that the\nED action was a \u201cconspiracy to\nchange the headlines\u201d ona day\nwhen Parliament's Budget\nSession reconvened, saying the",
+   "ocr_conf": 87.734375,
+   "ocr_low_conf_share": 0.109375,
+   "headline": "ED searches premises of Baghel, son; bid to shift focus from House: Cong",
+   "deck": "",
+   "byline": "JAYPRAKASH S NAIDU; RAIPUR, MARCH 10",
+   "text": "THE ENFORCEMENT Directorate (ED) on Monday conducted searches at 14 locations in Chhattisgarh's Durg district, in-Cluding the residence of former chief minister Bhupesh Baghel and his son Chaitanya, inconnection with an alleged liquor scam. TheCongress alleged that the ED action was a \"conspiracy to change the headlines\" ona day when Parliament's Budget Session reconvened, saying the",
+   "n_words": 56,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1301,
+      773,
+      3180,
+      1095
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1302,
+      696,
+      3229,
+      749
+     ]
+    ],
+    "body_boxes": [
+     [
+      1299,
+      1134,
+      1738,
+      1476
+     ],
+     [
+      1298,
+      1495,
+      1738,
+      1650
+     ],
+     [
+      1297,
+      1699,
+      1739,
+      2013
+     ],
+     [
+      1787,
+      1896,
+      2227,
+      2014
+     ],
+     [
+      1830,
+      2211,
+      2187,
+      2245
+     ],
+     [
+      2274,
+      1897,
+      2715,
+      2007
+     ],
+     [
+      2759,
+      1147,
+      3208,
+      1847
+     ],
+     [
+      2765,
+      1932,
+      3079,
+      2006
+     ]
+    ],
+    "layout_words": 178
+   },
+   "headline_raw": "Fireworks as Pradhan attacks TN\ngovt, Stalin says watch your words",
+   "deck_raw": "NATIONAL EDUCATION POLICY ROW DISRUPTS PROCEEDINGS |",
+   "body_raw": "DMK MPs protest\nin House; Minister\nwithdraws a word\nin his remarks,\nSpeaker expunges\n\nLIZMATHEW\n& LALMANIVERMA\nNEW DELHI, MARCH 10\n\nTHE ONGOING war of words be-\ntween the ruling BJP and DMK\nled to disruptions in the Lok\nSabha Monday, with Union\nEducation MinisterDharmendra\nPradhan forced to withdraw a\nword in his remarks following\nprotests by Tamil Nadu MPs.\n\nDuring the face-off in\nQuestion Hour, Pradhan accused\nthe DMK government in Tamil\n\nBUSINESS AS USUAL\n\nNadu of being \u201cdishonest\u201d and\nplaying \u201cpolitics\u201d with the future\nof the state's students. While\n\ncriticising the DMK govern-\nment's opposition to the\nNational Education Policy (NEP),\nhe also accused it of doing a\u201cU-\nturn\u201d over PM-SHRI schools,\nbringing DMK MPs to their feet.\nSoon after the exchange in\nParliament, Tamil Nadu Chief\nMinister Stalin put out a post on\nsocial media accusing Pradhan\nof \u201carrogance\u201d. \u201cUnion\nEducation Minister Dharmendra\nPradhan, who speaks with arro-\ngance asif hewerea king, needs\nto watch his words!\u201d Stalin\nwrote. \"You are withholding\nTamil Nadu\u2019s rightful funds and\nCONTINUED ON PAGE 2\n\nIN PARLIAMENT\nPAGES",
+   "ocr_conf": 91.77401129943503,
+   "ocr_low_conf_share": 0.022598870056497175,
+   "headline": "Fireworks as Pradhan attacks TN govt, Stalin says watch your words",
+   "deck": "NATIONAL EDUCATION POLICY ROW DISRUPTS PROCEEDINGS",
+   "byline": "LIZMATHEW; & LALMANIVERMA; NEW DELHI, MARCH 10",
+   "text": "DMK MPs protest in House; Minister withdraws a word in his remarks, Speaker expunges\n\nTHE ONGOING war of words between the ruling BJP and DMK led to disruptions in the Lok Sabha Monday, with Union Education MinisterDharmendra Pradhan forced to withdraw a word in his remarks following protests by Tamil Nadu MPs.\n\nDuring the face-off in Question Hour, Pradhan accused the DMK government in Tamil\n\nBUSINESS AS USUAL\n\nNadu of being \"dishonest\" and playing \"politics\" with the future of the state's students. While\n\ncriticising the DMK government's opposition to the National Education Policy (NEP), he also accused it of doing a\"Uturn\" over PM-SHRI schools, bringing DMK MPs to their feet. Soon after the exchange in Parliament, Tamil Nadu Chief Minister Stalin put out a post on social media accusing Pradhan of \"arrogance\". \"Union Education Minister Dharmendra Pradhan, who speaks with arrogance asif hewerea king, needs to watch his words!\" Stalin wrote. \"You are withholding Tamil Nadu's rightful funds and\n\nIN PARLIAMENT PAGES",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      1198,
+      1250,
+      1293
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      1340,
+      1249,
+      1419
+     ],
+     [
+      808,
+      1503,
+      1250,
+      1687
+     ],
+     [
+      809,
+      1790,
+      1053,
+      1822
+     ],
+     [
+      808,
+      1876,
+      1223,
+      2047
+     ]
+    ],
+    "layout_words": 39
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Ex-Chhattisgarh CM Bhupesh\nBaghel on Monday. ANI\n\ngovemment sought to\u201cdivertat-\ntention\u201d from pressing issues.\nIn apost onX, Baghel's office\nalleged a\u201cconspiracyto stopthe\nCONTINUED ON PAGE 2\n\nTHE WORLD\n\nCARNEY TO BE NEXT\nCANADAPM; FACES\nTRUMP, TARIFFS&\nPOLLS pace 12",
+   "ocr_conf": 81.84615384615384,
+   "ocr_low_conf_share": 0.15384615384615385,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Ex-Chhattisgarh CM Bhupesh Baghel on Monday. ANI\n\ngovemment sought to\"divertattention\" from pressing issues. In apost onX, Baghel's office alleged a\"conspiracyto stopthe\n\nTHE WORLD\n\nCARNEY TO BE NEXT CANADAPM; FACES TRUMP, TARIFFS& POLLS pace 12",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3241,
+      1578,
+      3731,
+      1650
+     ],
+     [
+      3251,
+      1722,
+      4153,
+      2176
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2255,
+      3573,
+      2324
+     ],
+     [
+      3248,
+      2374,
+      3697,
+      3123
+     ],
+     [
+      3738,
+      2692,
+      4183,
+      3116
+     ]
+    ],
+    "layout_words": 137
+   },
+   "headline_raw": "|= Champions\nPresence of water-ice\nlikely outside Moon\u2019s\npolar regions as well:\nChandrayaan-3 data",
+   "deck_raw": "",
+   "body_raw": "AMITABH SINHA\nNEW DELHI, MARCH 10\n\nWATER-ICE ON the Moon could\nbe more prevalent than under-\nstood earlier. A new analysis of\ndata from one of the instruments\naboard Chandrayaan-3 suggests\nthat there was a good probability\nthat water-ice was present in lo-\ncations outside of the polar re-\ngions of the Moon.\nUsing data from Chandra\u2019s\nSurface Thermophysical\nExperiment (ChaSTE), scientists\nat the Ahmedabad-based\nPhysical Research Laboratory\nhave shown that surface and\nsub-surface temperaturesin the\nhigher latitudes of the Moon's\nsurface varied greatly witheven\nvery small changes in altitudes\n\nover a short distance. Inclined ar-\neas in these latitudes that were\nnot directlyfacing theSuncould\nhave environments very similar\nto the polar regions, and could\nhost water-ice below the surface.\nThe findings have been pub-\nlished in the Communications\nEarthand Environment joumal,a\nNature publication.\nCONTINUED ONPAGE 2",
+   "ocr_conf": 87.87591240875912,
+   "ocr_low_conf_share": 0.072992700729927,
+   "headline": "= Champions Presence of water-ice likely outside Moon's polar regions as well: Chandrayaan-3 data",
+   "deck": "",
+   "byline": "AMITABH SINHA; NEW DELHI, MARCH 10",
+   "text": "WATER-ICE ON the Moon could be more prevalent than understood earlier. A new analysis of data from one of the instruments aboard Chandrayaan-3 suggests that there was a good probability that water-ice was present in locations outside of the polar regions of the Moon. Using data from Chandra's Surface Thermophysical Experiment (ChaSTE), scientists at the Ahmedabad-based Physical Research Laboratory have shown that surface and sub-surface temperaturesin the higher latitudes of the Moon's surface varied greatly witheven very small changes in altitudes\n\nover a short distance. Inclined areas in these latitudes that were not directlyfacing theSuncould have environments very similar to the polar regions, and could host water-ice below the surface. The findings have been published in the Communications Earthand Environment joumal,a Nature publication.",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1764,
+      752,
+      2134
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      2213,
+      639,
+      2282
+     ],
+     [
+      315,
+      2332,
+      766,
+      3113
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "Cancelling Lalit\nModi passport,\nhe\u2019s out to avoid\nextradition, says\nPM of Vanuatu",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJITROY\nNEW DELHI, MARCH10\n\nPRIME MINISTER Jotham Napat\nof Vanuatu, a country of islands\nin the southern Pacific Ocean,\nMondaydirected cancellationof\nits passport issued to Lalit Modi,\nsaying the former Indian Premier\nLeague chairman was\u201cattempt-\ning to avoid extradition\u201d.\nPrime Minister Napat, ina\nmedia release issued by hs office,\nsaid, \u201cI have instructed the\nCitizenship Commission to can-\ncel the Vanuatu passport issued\nto Lalit Modi following recent rev-\nelations in international media.\u201d\n\u201cWhile all standard back-\nground checks, including\nInterpol screenings, conducted\nduring his application showed\nCONTINUEDONPAGE2",
+   "ocr_conf": 89.68181818181819,
+   "ocr_low_conf_share": 0.06818181818181818,
+   "headline": "Cancelling Lalit Modi passport, he's out to avoid extradition, says PM of Vanuatu",
+   "deck": "",
+   "byline": "SHUBHAJITROY; NEW DELHI, MARCH10",
+   "text": "PRIME MINISTER Jotham Napat of Vanuatu, a country of islands in the southern Pacific Ocean, Mondaydirected cancellationof its passport issued to Lalit Modi, saying the former Indian Premier League chairman was\"attempting to avoid extradition\". Prime Minister Napat, ina media release issued by hs office, said, \"I have instructed the Citizenship Commission to cancel the Vanuatu passport issued to Lalit Modi following recent revelations in international media.\" \"While all standard background checks, including Interpol screenings, conducted during his application showed CONTINUEDONPAGE2",
+   "n_words": 80,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      2156,
+      1722,
+      2455
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2531,
+      1121,
+      2600
+     ],
+     [
+      808,
+      2650,
+      1250,
+      3113
+     ]
+    ],
+    "layout_words": 63
+   },
+   "headline_raw": "A paan masala problem:\nWhat it takes to keep UP\nHouse premises spotless",
+   "deck_raw": "",
+   "body_raw": "MAULSHREE SETH\nLUCKNOW, MARCH 10\n\nUTTAR PRADESH Assembly\nSpeaker Satish Mahana is hold-\ning a floor test, for both the\nGovemmentand the Opposition.\nA fine has been announced,\nthe securitycontrotroom alerted\nand extra CCTV cameras are be-\ning contemplated to ensure that\nMLAs and the staff put money\nwhere their mouth filled with\npaan masala or gutkha is. And\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.07936507936508,
+   "ocr_low_conf_share": 0.06349206349206349,
+   "headline": "A paan masala problem: What it takes to keep UP House premises spotless",
+   "deck": "",
+   "byline": "MAULSHREE SETH; LUCKNOW, MARCH 10",
+   "text": "UTTAR PRADESH Assembly Speaker Satish Mahana is holding a floor test, for both the Govemmentand the Opposition. A fine has been announced, the securitycontrotroom alerted and extra CCTV cameras are being contemplated to ensure that MLAs and the staff put money where their mouth filled with paan masala or gutkha is. And",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      2157,
+      3127,
+      2438
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      2532,
+      2614,
+      2601
+     ],
+     [
+      2270,
+      2651,
+      2717,
+      3122
+     ],
+     [
+      2761,
+      3009,
+      3204,
+      3115
+     ]
+    ],
+    "layout_words": 73
+   },
+   "headline_raw": "Maya and Murphy, last\nhope to find Telangana\ntunnel workers\u2019 bodies",
+   "deck_raw": "",
+   "body_raw": "NIKHILAHENRY\nHYDERABAD. MARCH 10\n\nON MARCH6, Mayaand Murphy,\ntwo Belgian Malinois dogs that\nbelong to Kerala Police'scadaver\ndog squad, briskty alighted from\nan Indian Air Force chopper and\nwent straight to the Srisailam Left\nBank Canal(SLBC) tunnel near\nDomalapenta of Telangana's\nNagarkumool district. Here, they\nwere handed the grim task of\nfinding the bodies of eight men\nwho were trapped in the\n\nTelangana tunnel collapse that\noccurred on February 22.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.77027027027027,
+   "ocr_low_conf_share": 0.06756756756756757,
+   "headline": "Maya and Murphy, last hope to find Telangana tunnel workers' bodies",
+   "deck": "",
+   "byline": "NIKHILAHENRY; HYDERABAD. MARCH 10",
+   "text": "ON MARCH6, Mayaand Murphy, two Belgian Malinois dogs that belong to Kerala Police'scadaver dog squad, briskty alighted from an Indian Air Force chopper and went straight to the Srisailam Left Bank Canal(SLBC) tunnel near Domalapenta of Telangana's Nagarkumool district. Here, they were handed the grim task of finding the bodies of eight men who were trapped in the\n\nTelangana tunnel collapse that occurred on February 22.",
+   "n_words": 66,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1915,
+      2266,
+      2089,
+      2315
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1850,
+      2343,
+      1983,
+      2373
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "\u2018By UNNY",
+   "deck_raw": "",
+   "body_raw": "Rete! You ro |",
+   "ocr_conf": 49.75,
+   "ocr_low_conf_share": 0.25,
+   "headline": "'By UNNY",
+   "deck": "",
+   "byline": "",
+   "text": "Rete! You ro",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1789,
+      2850,
+      2223,
+      2903
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      2952,
+      2223,
+      3077
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "BADAL vs MAJITHIA:\nSIMMERING FEUDOUT\nINTHEOPEN paces",
+   "ocr_conf": 86.0,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "BADAL vs MAJITHIA:; SIMMERING FEUDOUT",
+   "text": "INTHEOPEN paces",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 10.4,
+ "flags": []
+}

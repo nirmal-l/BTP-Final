@@ -1,0 +1,884 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_16_front",
+ "source_file": "2025-04-16_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-16_front.png",
+ "date": "2025-04-16",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 515,
+  "mean_line_conf": 89.49814093673317,
+  "orphan_words": 11,
+  "body_words_total": 2132
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      816,
+      769,
+      3016,
+      1053
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      2609,
+      735
+     ],
+     [
+      814,
+      1092,
+      1716,
+      1224
+     ],
+     [
+      1788,
+      1092,
+      1924,
+      1149
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1265,
+      1741,
+      1932
+     ],
+     [
+      811,
+      1303,
+      1194,
+      1413
+     ],
+     [
+      811,
+      1463,
+      1253,
+      1694
+     ],
+     [
+      1788,
+      1723,
+      2122,
+      1892
+     ]
+    ],
+    "layout_words": 145
+   },
+   "headline_raw": "Govt fears trade war may trigger import\nsurge of US farm, Chinese factory goods",
+   "deck_raw": "TO SUPPORT STAKEHOLDERS, DGFT LAUNCHES GLOBAL TARIFF AND TRADE HELPDESK\nIdentified some countries for intense\nmonitoring, says Commerce Secy\nINSIDE",
+   "body_raw": "\u00a9 3 \u201cA recent assessment high-\nRAVIDUTTA MISHRA lighted the risk of merchandise\n& AANCHAL MAGAZINE dumping into India due torecip-\nNEW DELHI, APRIL 15 rocal tariffs amid global trade\n; \u2014 _ tensions. Rising US costs may\nAMID ESCALATING global trade \u2014 promptexporters from countries\ntensions, the Commerce and like China, Vietnam, and\nIndustry Ministry is assessing Indonesia \u2014 all facing US trade\nthe risks of significant trade di- deficits \u2014 to divert goods toIndia,\nversion from other countries to _ potentially triggering import\nIndia and is particularlycon- \u2014 surges. Additionally, Chinese re-\ncerned about the likely surgein _ taliatorytariffsonUS goods could\nimportsofUSfarmproduceand _ further increase the inflow of US\nfactory goods from China, agricultural products intoIndia,\u201d\nVietnam and Indonesia into the _ the official said.\ncountry, a government official Unlike other countries, China\nsaid on Tuesday. CONTINUED ON PAGE 2\n\nRAVIDUTTA MISHRA\n& AANCHAL MAGAZINE\nNEW DELHI, APRIL 15\n\nAMID ESCALATING global trade\ntensions, the Commerce and\nIndustry Ministry is assessing\nthe risks of significant trade di-\nversion from other countries to\nIndia and is particularly con-\n\nINDIA, EU WEIGH\nEARLY HARVEST\nTRADE PACT\nPAGES 11, 12",
+   "ocr_conf": 83.92592592592592,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "Govt fears trade war may trigger import surge of US farm, Chinese factory goods",
+   "deck": "TO SUPPORT STAKEHOLDERS, DGFT LAUNCHES GLOBAL TARIFF AND TRADE HELPDESK Identified some countries for intense monitoring, says Commerce Secy",
+   "byline": "RAVIDUTTA MISHRA; & AANCHAL MAGAZINE; NEW DELHI, APRIL 15",
+   "text": "\u00a9 3 \"A recent assessment high-RAVIDUTTA MISHRA lighted the risk of merchandise & AANCHAL MAGAZINE dumping into India due torecip-NEW DELHI, APRIL 15 rocal tariffs amid global trade; - _ tensions. Rising US costs may AMID ESCALATING global trade - promptexporters from countries tensions, the Commerce and like China, Vietnam, and Industry Ministry is assessing Indonesia - all facing US trade the risks of significant trade di- deficits - to divert goods toIndia, version from other countries to _ potentially triggering import India and is particularlycon- - surges. Additionally, Chinese recerned about the likely surgein _ taliatorytariffsonUS goods could importsofUSfarmproduceand _ further increase the inflow of US factory goods from China, agricultural products intoIndia,\" Vietnam and Indonesia into the _ the official said. country, a government official Unlike other countries, China\n\nAMID ESCALATING global trade tensions, the Commerce and Industry Ministry is assessing the risks of significant trade diversion from other countries to India and is particularly con-\n\nINDIA, EU WEIGH EARLY HARVEST TRADE PACT",
+   "n_words": 165,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      788,
+      4163,
+      1481
+     ],
+     [
+      3254,
+      1529,
+      4170,
+      1661
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3257,
+      698,
+      3934,
+      746
+     ],
+     [
+      3473,
+      1727,
+      3961,
+      1770
+     ],
+     [
+      3438,
+      1916,
+      3852,
+      1970
+     ]
+    ],
+    "body_boxes": [
+     [
+      3441,
+      2100,
+      3713,
+      2141
+     ],
+     [
+      3302,
+      2268,
+      4111,
+      2535
+     ],
+     [
+      3302,
+      2543,
+      3822,
+      2572
+     ],
+     [
+      3252,
+      2691,
+      3612,
+      2837
+     ],
+     [
+      3902,
+      2755,
+      4139,
+      2837
+     ],
+     [
+      3251,
+      2888,
+      3693,
+      3474
+     ],
+     [
+      3788,
+      2889,
+      4141,
+      3193
+     ]
+    ],
+    "layout_words": 143
+   },
+   "headline_raw": "Above normal\nrain likely, says\nIMD; may spur\nconsumption\nConditions favourable, 105% of normal\nrainfall this monsoon, says forecast",
+   "deck_raw": "MONSOON FORECAST\nFORECAST TRACK RECORD\nT10\n\u2014 \u2014 Normal Range A",
+   "body_raw": "i -- Peery\n\na won\n84% 88\n80% \u201coy i} i} 1 ' i i} i} I i] 1\n+m \u00a9 RO AOHN -E =\n= = = = id = AQ OQ ray] NOW\nRRACReRSaegeg\n<90%: Deficient 90-96%: Below normal; 96-104%: Normal;\n\n104-110%: Above normal; >110%: Excess\n\nANJALIMARAR\n& AMITABH SINHA\nBENGALURU, NEW DELHI,\nAPRIL 15\n\nWhy it lifts\n|@ sentiments\n\nTHE INDIA Meteorological\nDepartment (IMD) has forecast\n105 per cent of the long-period\naverage or normal rainfall in the\nupcoming June-September\nmonsoon season. If the forecast\nholds good, this will be the sec-\nond consecutive year of \u2018above\nnormal\u2019 rainfall.\nInits first long-range forecast\nfor the season, IMD said all the\nmaindriversof Indian monsoon,\nincluding El] Nino Southern\nOscillation (ENSO) in the equa-\ntorial Pacific Ocean, Indian\n\nGOOD MONSOON rains\nare likely to sustain lower\nretail inflation, particu-\nlarly food inflation. This\nalong with lower crude\noil prices is likely to aid\nconsumption which has\nremained lacklustre for",
+   "ocr_conf": 80.0625,
+   "ocr_low_conf_share": 0.1875,
+   "headline": "Above normal rain likely, says IMD; may spur consumption Conditions favourable, 105% of normal rainfall this monsoon, says forecast",
+   "deck": "MONSOON FORECAST FORECAST TRACK RECORD - - Normal Range A",
+   "byline": "",
+   "text": "i -- Peery\n\na won RRACReRSaegeg <90%: Deficient 90-96%: Below normal; 96-104%: Normal;\n\n104-110%: Above normal; >110%: Excess\n\nANJALIMARAR & AMITABH SINHA BENGALURU, NEW DELHI, APRIL 15\n\nWhy it lifts @ sentiments\n\nTHE INDIA Meteorological Department (IMD) has forecast 105 per cent of the long-period average or normal rainfall in the upcoming June-September monsoon season. If the forecast holds good, this will be the second consecutive year of 'above normal' rainfall. Inits first long-range forecast for the season, IMD said all the maindriversof Indian monsoon, including El] Nino Southern Oscillation (ENSO) in the equatorial Pacific Ocean, Indian\n\nGOOD MONSOON rains are likely to sustain lower retail inflation, particularly food inflation. This along with lower crude oil prices is likely to aid consumption which has remained lacklustre for",
+   "n_words": 127,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      823,
+      633,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      1090,
+      3172,
+      1440
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      1464,
+      2683,
+      1573
+     ],
+     [
+      2276,
+      1622,
+      2717,
+      1927
+     ],
+     [
+      2762,
+      1423,
+      3207,
+      1927
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "Talks with the US to be\nbased on \u2018true picture\u2019\nof bilateral trade: Govt",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTA MISHRA &\nSOUMYARENDRABARIK\nNEW DELHI, APRIL15\n\nCOMMERCE SECRETARY Sunil\nBarthwal said Tuesday that the\nBilateral Trade Agreement(BTA)\ntalks with the US are focused on\nthe exchange of \u201cright facts\u201d and\nthe \u201ctrue picture\u201d of trade be-\ntween the two countries. This\ncomes as US President Donald\n\nTrump has consistently sought to\npressurise trade partners, accus-\ning them of \u201cripping the US off\u201d\non goods trade, but overlooking\nthe advantages that Americaen-\njoys in the services sector.\n\u201cWhen we engage with the\nUS team, all the facts are on the\ntable, and the negotiations are\nbased on the right facts and the\ndata we exchange with them.\nThat is completely rooted in the\nCONTINUED ONPAGE 11",
+   "ocr_conf": 93.03418803418803,
+   "ocr_low_conf_share": 0.017094017094017096,
+   "headline": "Talks with the US to be based on 'true picture' of bilateral trade: Govt",
+   "deck": "",
+   "byline": "RAVI DUTTA MISHRA &; SOUMYARENDRABARIK; NEW DELHI, APRIL15",
+   "text": "COMMERCE SECRETARY Sunil Barthwal said Tuesday that the Bilateral Trade Agreement(BTA) talks with the US are focused on the exchange of \"right facts\" and the \"true picture\" of trade between the two countries. This comes as US President Donald\n\nTrump has consistently sought to pressurise trade partners, accusing them of \"ripping the US off\" on goods trade, but overlooking the advantages that Americaenjoys in the services sector. \"When we engage with the US team, all the facts are on the table, and the negotiations are based on the right facts and the data we exchange with them. That is completely rooted in the",
+   "n_words": 103,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1444,
+      750,
+      1870
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1937,
+      702,
+      2007
+     ],
+     [
+      317,
+      2055,
+      766,
+      4419
+     ]
+    ],
+    "layout_words": 334
+   },
+   "headline_raw": "\u2018Be careful\u2019:\nSC objects to\nAllahabad HC\nremarks in\nrape case",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNAN G\nNEW DELHI, APRIL 15\n\nCRITICISING THE Allahabad High\nCourt\u2019s recent remarks that a\nrape complainant had \u201cherself\ninvited trouble\u201d, the Supreme\nCourt on Tuesday said judges\nhave to be \u201ccareful\u201d while deal-\ning with such cases.\nWhile granting bail to an ac-\ncused ina rape case on March 11,\nJustice Sanjay Kumar Singh of\nthe Allahabad HC had said the\ncourt was \u201cof the view thateven\nif the allegation of the victim is\naccepted astrue, then itcanalso\nbe concluded that she herself in-\nvited trouble and was also re-\nsponsible for the same.\u201d\nOn Tuesday, the Supreme\nCourt bench of Justices B R Gavai\nand AG Masih had assembled to\nhear another case in which it had\ntaken suo motu cognizance of a\nseparate order of the Allahabad\nHC dated March 17, in which the\nHC had observed that grabbing a\ngirl\u2019s breasts and breaking the\ndrawstrings of her pyjama were\n\u201cnot sufficient\u2019 to hold thecharges\nof rape or attempt to rape.\n\u201cThere is another order now\nby another judge. Yes, bail canbe\ngranted. But what is this discus-\nsion that \u2018she herself invited\ntrouble etc\u2019. One has to be careful\nwhen saying such things, espe-\ncially on this side (judicial),\u201d\nJustice Gavai said on Tuesday.\n\u201cComplete justice should not\nonly be done but also seen to be\ndone. How a common person\nperceives such orders will also\nhave to be seen,\u201d said Solicitor\nGeneral Tushar Mehta, who is\nassisting the court in the matter.\nThe March 11 order refers to\nan incident dating back to\nSeptember 21 last year.\nAccording to police sources, the\ncomplainant, a postgraduate stu-\ndentin Noida, had gone to attend\na music performance in South\nDelhi with her friends. She met\nthe accused \u2014 who was known\nto one of her friends \u2014 there. In\nher complaint, she told police\nthat the accused told her he\nwould drop her back to Noida\nbut took her to an apartment in\nGurgaon, where he allegedly\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.55089820359281,
+   "ocr_low_conf_share": 0.0658682634730539,
+   "headline": "'Be careful': SC objects to Allahabad HC remarks in rape case",
+   "deck": "",
+   "byline": "ANANTHAKRISHNAN G; NEW DELHI, APRIL 15",
+   "text": "CRITICISING THE Allahabad High Court's recent remarks that a rape complainant had \"herself invited trouble\", the Supreme Court on Tuesday said judges have to be \"careful\" while dealing with such cases. While granting bail to an accused ina rape case on March 11, Justice Sanjay Kumar Singh of the Allahabad HC had said the court was \"of the view thateven if the allegation of the victim is accepted astrue, then itcanalso be concluded that she herself invited trouble and was also responsible for the same.\" On Tuesday, the Supreme Court bench of Justices B R Gavai and AG Masih had assembled to hear another case in which it had taken suo motu cognizance of a separate order of the Allahabad HC dated March 17, in which the HC had observed that grabbing a girl's breasts and breaking the drawstrings of her pyjama were \"not sufficient' to hold thecharges of rape or attempt to rape. \"There is another order now by another judge. Yes, bail canbe granted. But what is this discussion that 'she herself invited trouble etc'. One has to be careful when saying such things, especially on this side (judicial),\" Justice Gavai said on Tuesday. \"Complete justice should not only be done but also seen to be done. How a common person perceives such orders will also have to be seen,\" said Solicitor General Tushar Mehta, who is assisting the court in the matter. The March 11 order refers to an incident dating back to September 21 last year. According to police sources, the complainant, a postgraduate studentin Noida, had gone to attend a music performance in South Delhi with her friends. She met the accused - who was known to one of her friends - there. In her complaint, she told police that the accused told her he would drop her back to Noida but took her to an apartment in Gurgaon, where he allegedly",
+   "n_words": 317,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      2079,
+      1711,
+      2560
+     ]
+    ],
+    "deck_boxes": [
+     [
+      813,
+      2003,
+      1403,
+      2036
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      2650,
+      1145,
+      2798
+     ],
+     [
+      809,
+      2847,
+      1252,
+      3707
+     ],
+     [
+      1294,
+      3520,
+      1739,
+      3707
+     ]
+    ],
+    "layout_words": 143
+   },
+   "headline_raw": "ED names Sonia &\nRahul in National\nHerald chargesheet;\nCong says vendetta",
+   "deck_raw": "MONEY LAUNDERING PROBE",
+   "body_raw": "MAHENDER SINGH\nMANRAL\n& NIRBHAY THAKUR\nNEW DELHI, APRIL 15\n\nTHE ENFORCEMENT Directorate\n(ED) has filed a chargesheet\nagainst seven persons, including\nCongress leaders Sonia Gandhi\nand Rahul Gandhi, inconnection\nwith its money laundering probe\nin the National Herald case.\nCalling it \u201cpolitics of vendetta\nand intimidation\u201d, the Congress\nsaid it would hold protests out-\nside ED offices on Wednesday.\nWhile the chargesheet was\nfiled in a special PMLA court on\nApril 9, Special Judge Vishal\nGogne on Tuesday examined it\non the point of cognizance and\nposted the matter for April 25.\nLast week, the ED had served\nnotices to take possession of im-\nmovable assets worth Rs 661\ncrore \u2014 in Delhi, Mumbai and\nLucknow \u2014 that it had attached\n\nas part of the money laundering\nprobe against Associated\nJournals Limited (AJL), which\npublishes the National Herald\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.2867132867133,
+   "ocr_low_conf_share": 0.04195804195804196,
+   "headline": "ED names Sonia & Rahul in National Herald chargesheet; Cong says vendetta",
+   "deck": "MONEY LAUNDERING PROBE",
+   "byline": "MAHENDER SINGH; MANRAL; & NIRBHAY THAKUR; NEW DELHI, APRIL 15",
+   "text": "THE ENFORCEMENT Directorate (ED) has filed a chargesheet against seven persons, including Congress leaders Sonia Gandhi and Rahul Gandhi, inconnection with its money laundering probe in the National Herald case. Calling it \"politics of vendetta and intimidation\", the Congress said it would hold protests outside ED offices on Wednesday. While the chargesheet was filed in a special PMLA court on April 9, Special Judge Vishal Gogne on Tuesday examined it on the point of cognizance and posted the matter for April 25. Last week, the ED had served notices to take possession of immovable assets worth Rs 661 crore - in Delhi, Mumbai and Lucknow - that it had attached\n\nas part of the money laundering probe against Associated Journals Limited (AJL), which publishes the National Herald",
+   "n_words": 127,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      3146,
+      3194,
+      3245
+     ],
+     [
+      1786,
+      3264,
+      3087,
+      3418
+     ],
+     [
+      2274,
+      3402,
+      2690,
+      3483
+     ],
+     [
+      2276,
+      3479,
+      2714,
+      3560
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1787,
+      3479,
+      2168,
+      3538
+     ],
+     [
+      2274,
+      3557,
+      2686,
+      3653
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      3560,
+      2229,
+      4064
+     ],
+     [
+      2274,
+      3669,
+      2698,
+      3841
+     ],
+     [
+      2274,
+      3917,
+      2715,
+      4064
+     ],
+     [
+      2763,
+      3404,
+      3206,
+      3826
+     ],
+     [
+      2760,
+      3838,
+      3205,
+      4064
+     ]
+    ],
+    "layout_words": 180
+   },
+   "headline_raw": "Before violence in Murshidabad,\nwarning signs on social media\nEXPRESS NETWORK\nDAY AFTER VIOLENCE,",
+   "deck_raw": "SHAMSHERGUNJ, APRIL 15\nBHANGAR LIMPS\nBACK TO NORMALCY",
+   "body_raw": "RUMOURS ON WhatsApp gro-\nups, fake social media accounts\nand mass mobilisation came to-\ngether to form the perfect storm\nin West Bengal\u2019s Murshidabad,\nwhich was rocked by communal\nviolence last weekin the wake of\nthe new Waqflaw.\nFollowing the violence, which\nclaimed three lives, police have\nblocked 1,093 social media ac-\ncounts and arrested 221 people.\nSenior officials from the state\n\nYOGI: MAMATA GAVE\nRIOTERS FREE HAND,\nLATHI IS THE ONLY\nSOLUTION pace 7\n\npolice and the district adminis-\ntration, as well as residents The\nIndian Express spoke to, said that\nseveral outfits had called rallies\n\nto protest against the new law.\nThe first sign of trouble was on\nApril8, when protesters clashed\nwith police in Umarpur on\nNational Highway 12 and\ntorched two police jeeps.\n\u201cWhen the first incident of\nviolence was recorded, police\nused tear gas and baton charge\nto contro] the situation,\u201d an offi-\ncer said.\n\nBut April 11 was different.\nThat day, NH-12 became a war\nzone of sorts, with mobs buming\nbuses, private vehicles, police\njeeps and kiosks in Sajurmore\nCONTINUED ON PAGE 11",
+   "ocr_conf": 93.37222222222222,
+   "ocr_low_conf_share": 0.011111111111111112,
+   "headline": "Before violence in Murshidabad, warning signs on social media EXPRESS NETWORK DAY AFTER VIOLENCE,",
+   "deck": "SHAMSHERGUNJ, APRIL 15 BHANGAR LIMPS BACK TO NORMALCY",
+   "byline": "YOGI: MAMATA GAVE; RIOTERS FREE HAND,; LATHI IS THE ONLY",
+   "text": "RUMOURS ON WhatsApp groups, fake social media accounts and mass mobilisation came together to form the perfect storm in West Bengal's Murshidabad, which was rocked by communal violence last weekin the wake of the new Waqflaw. Following the violence, which claimed three lives, police have blocked 1,093 social media accounts and arrested 221 people. Senior officials from the state\n\nSOLUTION pace 7\n\npolice and the district administration, as well as residents The Indian Express spoke to, said that several outfits had called rallies\n\nto protest against the new law. The first sign of trouble was on April8, when protesters clashed with police in Umarpur on National Highway 12 and torched two police jeeps. \"When the first incident of violence was recorded, police used tear gas and baton charge to contro] the situation,\" an officer said.\n\nBut April 11 was different. That day, NH-12 became a war zone of sorts, with mobs buming buses, private vehicles, police jeeps and kiosks in Sajurmore",
+   "n_words": 161,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3789,
+      3206,
+      4179,
+      3268
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3741,
+      3326,
+      4181,
+      3432
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "several quarters. |",
+   "deck_raw": "",
+   "body_raw": "Ocean Dipole (JOD), and snow-\ncover around the North Pole,\nwere favourable.",
+   "ocr_conf": 88.08333333333333,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "several quarters.",
+   "deck": "",
+   "byline": "",
+   "text": "Ocean Dipole (JOD), and snow-cover around the North Pole, were favourable.",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3742,
+      3736,
+      4130,
+      3861
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "INTERNAL MATTER:\nINDIA REJECTS\nPAK CRITICISM",
+   "ocr_conf": 95.83333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "INTERNAL MATTER:; INDIA REJECTS; PAK CRITICISM",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      3780,
+      1733,
+      4103
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      4193,
+      1119,
+      4302
+     ],
+     [
+      808,
+      4353,
+      1250,
+      5132
+     ],
+     [
+      1296,
+      4819,
+      1617,
+      4901
+     ],
+     [
+      1296,
+      4984,
+      1738,
+      5132
+     ]
+    ],
+    "layout_words": 133
+   },
+   "headline_raw": "Haryana land deal: ED\nquestions Vadra for\n6 hours, calls him again",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, APRIL 15\n\nTHE ENFORCEMENT Directorate\n(ED)Tuesday questioned Robert\nVadra, businessman and hus-\nband of Congress MP Priyanka\nGandhi, for around six hours in\nconnection with a money laun-\ndering case linked toa land deal\nin Shikohpur, Haryana. The\nagency asked him to join the\nprobe again at 11 am Wednesday.\nVadra, 56, was earlier sum-\nmoned by the agency on April 8\nbut he did not appear, following\nwhich a second summons was\nserved Tuesday. \u201cRecently, we got\nsome new facts during ourinves-\ntigation and wanted to confront\nhim with these facts. After he ap-\npeared before the ED, the agency\nrecordedhis statement under the\n\nTHE CASE FILE\nEXPLAINED, PAGE 13\n\nPrevention of Money Laundering\nAct (PMLA),\u201d a source said.\nHours after receiving a notice\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.28358208955224,
+   "ocr_low_conf_share": 0.04477611940298507,
+   "headline": "Haryana land deal: ED questions Vadra for 6 hours, calls him again",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, APRIL 15",
+   "text": "THE ENFORCEMENT Directorate (ED)Tuesday questioned Robert Vadra, businessman and husband of Congress MP Priyanka Gandhi, for around six hours in connection with a money laundering case linked toa land deal in Shikohpur, Haryana. The agency asked him to join the probe again at 11 am Wednesday. Vadra, 56, was earlier summoned by the agency on April 8 but he did not appear, following which a second summons was served Tuesday. \"Recently, we got some new facts during ourinvestigation and wanted to confront him with these facts. After he appeared before the ED, the agency recordedhis statement under the\n\nTHE CASE FILE EXPLAINED, PAGE 13\n\nPrevention of Money Laundering Act (PMLA),\" a source said. Hours after receiving a notice",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3738,
+      3873,
+      4015,
+      3923
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3742,
+      3923,
+      4176,
+      3973
+     ]
+    ],
+    "body_boxes": [
+     [
+      3742,
+      3986,
+      4076,
+      4018
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "OF WAQF ACT",
+   "deck_raw": "HEMANT IS NEW JMM",
+   "body_raw": "PRESIDENT Pace7",
+   "ocr_conf": 71.0,
+   "ocr_low_conf_share": 0.5,
+   "headline": "OF WAQF ACT",
+   "deck": "HEMANT IS NEW JMM",
+   "byline": "",
+   "text": "PRESIDENT Pace7",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      4137,
+      2655,
+      4447
+     ],
+     [
+      1785,
+      4458,
+      2629,
+      4605
+     ],
+     [
+      1785,
+      4593,
+      2178,
+      4668
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      4670,
+      2064,
+      4698
+     ],
+     [
+      1785,
+      4749,
+      2226,
+      5140
+     ],
+     [
+      2273,
+      4590,
+      2715,
+      5133
+     ]
+    ],
+    "layout_words": 127
+   },
+   "headline_raw": "Woman says sexually\nassaulted by Medanta\nHospital staff while on\nventilator, FIR lodged\nABHIMANYU HAZARIKA",
+   "deck_raw": "",
+   "body_raw": "GURGAON, APRIL 15\n\nAWOMAN employed witha pri-\nvate airline has alleged that she\nwas Sexually assaulted by a hos-\npital staff member at the\nMedanta Hospital in Gurgaon\nwhile she was ona ventilator\nthere earlier this month.\nPolice have registered an FIR\nbased on the woman's com-\nplaint, which was filed Monday.\n\nIn astatement, the hospital\nsaid it was cooperating with the\ninvestigation, and all relevant\nmaterial, including CCTV footage,\nhad been handed over to the po-\nlice, It said \u201cno allegations have\nbeen substantiated at this stage\u201d.\nAccording to the FIR, regis-\ntered at the Sadar Police Station\nin the presence of a lawyer, the\nwoman had come to Gurgaon\nfor training and was staying at a\nhotel. She fell ill after almost\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.1640625,
+   "ocr_low_conf_share": 0.0234375,
+   "headline": "Woman says sexually assaulted by Medanta Hospital staff while on ventilator, FIR lodged ABHIMANYU HAZARIKA",
+   "deck": "",
+   "byline": "GURGAON, APRIL 15",
+   "text": "AWOMAN employed witha private airline has alleged that she was Sexually assaulted by a hospital staff member at the Medanta Hospital in Gurgaon while she was ona ventilator there earlier this month. Police have registered an FIR based on the woman's complaint, which was filed Monday.\n\nIn astatement, the hospital said it was cooperating with the investigation, and all relevant material, including CCTV footage, had been handed over to the police, It said \"no allegations have been substantiated at this stage\". According to the FIR, registered at the Sadar Police Station in the presence of a lawyer, the woman had come to Gurgaon for training and was staying at a hotel. She fell ill after almost",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      4137,
+      4177,
+      4488
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2762,
+      4481,
+      3141,
+      4539
+     ]
+    ],
+    "body_boxes": [
+     [
+      2764,
+      4553,
+      3056,
+      4581
+     ],
+     [
+      2759,
+      4630,
+      3203,
+      5133
+     ],
+     [
+      3250,
+      4472,
+      3695,
+      5141
+     ],
+     [
+      3740,
+      4473,
+      4180,
+      4618
+     ],
+     [
+      3739,
+      4631,
+      4180,
+      5134
+     ]
+    ],
+    "layout_words": 239
+   },
+   "headline_raw": "Urdu isn\u2019t alien, born in this land,\nsays SC, clears its use in signboard\nLanguage isn\u2019t religion, belongs to a people: SC in Akola case",
+   "deck_raw": "ANANTHAKRISHNANG",
+   "body_raw": "NEW DELHI, APRIL 15\n\nUPHOLDING THE use of Urduon\nthe signboard of a municipal\ncouncil building in Maharashtra,\nthe Supreme Court on Tuesday\nsaid language is culture and\nmust not become a cause for di-\nviding people, and Urdu \u201cis the\nfinest specimen of Ganga-\nJamuni_ tehzeeb, or the\nHindustani tehzeeb\u201d.\nThe bench of Justices\nSudhanshu Dhulia and K Vinod\nChandran refused to interfere\n\nwith the Bombay High Court's\nfinding that the use of Urduis not\nprohibited under the\nMaharashtra Local Authorities\n(Official Languages) Act, 2022, or\nin any provision of law.\nA former councillor had filed\na petition challenging the use of\nUrdu on the signboard of the\nPatur MunicipalCouncil building\nin Akola district of Maharashtra.\n\u201cOur misconceptions, per-\nhaps even our prejudices against\na language, have to be coura-\ngeously and truthfully tested\nagainst the reality, which is this\ngreat diversity of our nation: our\n\nstrength can never be our weak-\nness, Let us make friends with\nUrdu and every language,\u201d the\nSC said.\n\nThe court said it is a\u201cmiscon-\nception that Urdu is alien to In-\ndia\u201d, adding that \u201cit is alanguage\nwhich was bom in this land\u201d.\nWriting for the bench, Justice\nDhulia elaborated on the bench's\nviews on Urdu and languages in\ngeneral. \u201cLanguage is not reli-\ngion. Language does not even\nrepresent religion. Language be-\nlongs to a community, to a re-\ngion, to people; and not to a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.07949790794979,
+   "ocr_low_conf_share": 0.03765690376569038,
+   "headline": "Urdu isn't alien, born in this land, says SC, clears its use in signboard Language isn't religion, belongs to a people: SC in Akola case",
+   "deck": "ANANTHAKRISHNANG",
+   "byline": "NEW DELHI, APRIL 15",
+   "text": "UPHOLDING THE use of Urduon the signboard of a municipal council building in Maharashtra, the Supreme Court on Tuesday said language is culture and must not become a cause for dividing people, and Urdu \"is the finest specimen of Ganga-Jamuni_ tehzeeb, or the Hindustani tehzeeb\". The bench of Justices Sudhanshu Dhulia and K Vinod Chandran refused to interfere\n\nwith the Bombay High Court's finding that the use of Urduis not prohibited under the Maharashtra Local Authorities (Official Languages) Act, 2022, or in any provision of law. A former councillor had filed a petition challenging the use of Urdu on the signboard of the Patur MunicipalCouncil building in Akola district of Maharashtra. \"Our misconceptions, perhaps even our prejudices against a language, have to be courageously and truthfully tested against the reality, which is this great diversity of our nation: our\n\nstrength can never be our weakness, Let us make friends with Urdu and every language,\" the SC said.\n\nThe court said it is a\"misconception that Urdu is alien to India\", adding that \"it is alanguage which was bom in this land\". Writing for the bench, Justice Dhulia elaborated on the bench's views on Urdu and languages in general. \"Language is not religion. Language does not even represent religion. Language belongs to a community, to a region, to people; and not to a",
+   "n_words": 221,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4498,
+      564,
+      4555
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4603,
+      670,
+      4773
+     ],
+     [
+      322,
+      4840,
+      553,
+      4872
+     ],
+     [
+      319,
+      4913,
+      703,
+      5095
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "THE WORLD",
+   "deck_raw": "",
+   "body_raw": "HARVARD DEFIES\nTRUMP, HIT WITH\n$2.2 BN GRANT\nFREEZE pace 12\n\nEXPLAINED\n\nSTRATEGY & DIPLOMACY\nTRUMP\u2019S\nSLEDGEHAMMER\nPAGE13",
+   "ocr_conf": 93.11111111111111,
+   "ocr_low_conf_share": 0.0,
+   "headline": "THE WORLD",
+   "deck": "",
+   "byline": "HARVARD DEFIES; TRUMP, HIT WITH; $2.2 BN GRANT; EXPLAINED",
+   "text": "FREEZE pace 12\n\nSTRATEGY & DIPLOMACY TRUMP'S SLEDGEHAMMER",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5265,
+      4148,
+      5395
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5421,
+      501,
+      5494
+     ],
+     [
+      320,
+      5617,
+      614,
+      5687
+     ],
+     [
+      318,
+      5736,
+      763,
+      6159
+     ],
+     [
+      808,
+      5419,
+      1249,
+      6166
+     ],
+     [
+      1296,
+      5420,
+      1738,
+      6167
+     ],
+     [
+      3249,
+      5421,
+      3694,
+      6165
+     ],
+     [
+      3738,
+      5422,
+      4179,
+      6162
+     ]
+    ],
+    "layout_words": 476
+   },
+   "headline_raw": "Dharmender, Sunny & a spin: Bobby aka Digvesh Rathi, IPLs latest star",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nNIHAL KOSHIE\nNEW DELHI, APRIL 15\n\nDHARMENDER, AN assistant at\na shop selling building materi-\nals, named his first two sons \u2014\nwhat else, Sunny and Bobby.\nLater, he hada third one. Pleased,\nhe called him Happy. Earlier this\nmonth, in his modest house, in\none of the many buildings stand-\ning cheek by jowl in a bylane of\nSaboli in Northeast Delhi,\nDharmender\u2019s life turned into a\n\nfeel-good sports movie.\nBobby, who the world knows\nas Digvesh Rathi, has been this\nIPL season\u2019s breakout spinner.\nPicked by Lucknow SuperGiants\nfor Rs 30 lakh, the 25-year-old\nmystery spinner got the Player\nof the Match award for his fig-\nures of 1/21 in a high-scoring\ngame against Mumbai Indians,\ninjust his fourth game of his de-\nbut IPL season. That night, when\nBobby was being interviewed,\nDharmender shed tears, older\nbrother Sunny had alump in his\nthroat and mother Manju was in\nthe puja room.\nThe family has been with\nDigvesh through his many strug-\n\ngles and made sacrifices too.\nBrother Sunny, a former left-arm\nspinner, was equally good at\ncricket. But Dharmender could-\nn't afford two cricketers in the\nfamily, so Sunny dropped out.\nSunny now works as a police\nconstable at the Mandoli Prison\nComplex.\nIt\u2019s Sunday, Sunny\u2019s weekly\noff and he is happy to talk about\nhis brother's skills and struggles.\n\u201cHe\u2019s here because of his sheer\nhard work. Digvesh had no god-\nfather, we had nomoney orinfiu-\nence. We were advised to move\nout of Delhi. Par bhag kyun jaye\n(But why would we run away)?,\u201d\nSunny tells The Indian Express.\n\nDharmender says he always\nbelieved his son would make it.\n\u201cEven when he suffered set-\nbacks, he was passionate about\nthe game,\u201d he says while giving a\nquick tour of the small trophy\ncabinet in the living room.\nDigvesh\u2019s mother Manju says\nshe is happy to leave everything\nto God. \u201cI didn\u2019t watch when he\nplayed his first game... When he\nCalls, lonly tell Digvesh not to get\ncarried away by success. And I\ncheck if he has slept and eaten\nwell,\u201d she says.\nSunny narrates the story of\nhow Digvesh, the batsman with\na Virender Sehwag-like cover\ndrive when he was 13, took to\n\nbowling. Those days, he says, the\nbrothers trained on their own at\nthe Poorvi Delhi Khel Parisar in\nEast Delhi's Tahirpur, where bat-\nting slots were limited and in de-\nmand. \u201cWhen it was Digvesh\u2019s\nturn to bat, most of the good\nbowlers were disinterested in\nbowling because he wasn't a\nknown name. When he played\ngood strokes against them, their\nego was hurt too. Players\nbrought their own cricket balls,\nsothey didn't want to waste it on\nhim. I would bowl to him for\nhours but facing only one bowler\nlimits a batsman,\u201d Sunny says.\nInspired by West Indies\nCONTINUED ON PAGE 11",
+   "ocr_conf": 91.85924369747899,
+   "ocr_low_conf_share": 0.029411764705882353,
+   "headline": "Dharmender, Sunny & a spin: Bobby aka Digvesh Rathi, IPLs latest star",
+   "deck": "",
+   "byline": "ANCHOR; NIHAL KOSHIE; NEW DELHI, APRIL 15",
+   "text": "DHARMENDER, AN assistant at a shop selling building materials, named his first two sons - what else, Sunny and Bobby. Later, he hada third one. Pleased, he called him Happy. Earlier this month, in his modest house, in one of the many buildings standing cheek by jowl in a bylane of Saboli in Northeast Delhi, Dharmender's life turned into a\n\nfeel-good sports movie. Bobby, who the world knows as Digvesh Rathi, has been this IPL season's breakout spinner. Picked by Lucknow SuperGiants for Rs 30 lakh, the 25-year-old mystery spinner got the Player of the Match award for his figures of 1/21 in a high-scoring game against Mumbai Indians, injust his fourth game of his debut IPL season. That night, when Bobby was being interviewed, Dharmender shed tears, older brother Sunny had alump in his throat and mother Manju was in the puja room. The family has been with Digvesh through his many struggles and made sacrifices too. Brother Sunny, a former left-arm spinner, was equally good at cricket. But Dharmender couldn't afford two cricketers in the family, so Sunny dropped out. Sunny now works as a police constable at the Mandoli Prison Complex. It's Sunday, Sunny's weekly off and he is happy to talk about his brother's skills and struggles. \"He's here because of his sheer hard work. Digvesh had no godfather, we had nomoney orinfiuence. We were advised to move out of Delhi. Par bhag kyun jaye (But why would we run away)?,\" Sunny tells The Indian Express.\n\nDharmender says he always believed his son would make it. \"Even when he suffered setbacks, he was passionate about the game,\" he says while giving a quick tour of the small trophy cabinet in the living room. Digvesh's mother Manju says she is happy to leave everything to God. \"I didn't watch when he played his first game... When he Calls, lonly tell Digvesh not to get carried away by success. And I check if he has slept and eaten well,\" she says. Sunny narrates the story of how Digvesh, the batsman with a Virender Sehwag-like cover drive when he was 13, took to\n\nbowling. Those days, he says, the brothers trained on their own at the Poorvi Delhi Khel Parisar in East Delhi's Tahirpur, where batting slots were limited and in demand. \"When it was Digvesh's turn to bat, most of the good bowlers were disinterested in bowling because he wasn't a known name. When he played good strokes against them, their ego was hurt too. Players brought their own cricket balls, sothey didn't want to waste it on him. I would bowl to him for hours but facing only one bowler limits a batsman,\" Sunny says. Inspired by West Indies",
+   "n_words": 452,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.7,
+ "flags": []
+}

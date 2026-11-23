@@ -1,0 +1,704 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_01_front",
+ "source_file": "2025-05-01_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-01_front.png",
+ "date": "2025-05-01",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 528,
+  "mean_line_conf": 91.15462609255223,
+  "orphan_words": 0,
+  "body_words_total": 2124
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      803,
+      537,
+      883
+     ]
+    ],
+    "deck_boxes": [
+     [
+      324,
+      730,
+      736,
+      762
+     ]
+    ],
+    "body_boxes": [
+     [
+      364,
+      1458,
+      722,
+      1492
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "fs. ML",
+   "deck_raw": "EXPRESS NETWORK",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 94.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "fs. ML",
+   "deck": "EXPRESS NETWORK",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3738,
+      1330,
+      4177,
+      1650
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3739,
+      1680,
+      4155,
+      1719
+     ],
+     [
+      3738,
+      1821,
+      3990,
+      1888
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "\u2018Divisive\u2019 to\n\u2018social justice\u2019:\nBehind ruling\nparty\u2019s move to",
+   "deck_raw": "",
+   "body_raw": "reverse course\n\nVIKAS PATHAK\n& LIZMATHEW",
+   "ocr_conf": 86.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "'Divisive' to 'social justice': Behind ruling party's move to",
+   "deck": "",
+   "byline": "VIKAS PATHAK; & LIZMATHEW",
+   "text": "reverse course",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3739,
+      1945,
+      4180,
+      2019
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3738,
+      1903,
+      4040,
+      1951
+     ]
+    ],
+    "body_boxes": [
+     [
+      3737,
+      2019,
+      4187,
+      3115
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "ON July 20, 2021, responding toa",
+   "deck_raw": "NEW DELHI, APRIL3O",
+   "body_raw": "Parliament question, Minister of\nState (Home Affairs), Nityanand\nRai said, \u201cThe Government of\nIndia decided it as a matter of\npolicy not to enumerate caste-\nwise population other than SCs\nand STs in Census\u201d.\nIn public though, the BJP and\nits leaders often parried ques-\ntions and were non-committal\non the need for\n2 a caste census.\n= They, however,\n= regularly tar-\nFr e| geted the\nCongress, ac-\ncusing it of us-\ning caste to divide the society.\nThe BJP\u2019s ideological parent,\nthe Rashtriya Swayamsevak\nSangh (RSS), however, had a\nmore nuanced view. In\nSeptember last year, it cautioned\nagainst using caste census as a\npolitical tool, but noted that the\ngovernment needs numbers for\nall welfare activities, particularly\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.91935483870968,
+   "ocr_low_conf_share": 0.056451612903225805,
+   "headline": "ON July 20, 2021, responding toa",
+   "deck": "NEW DELHI, APRIL3O",
+   "byline": "",
+   "text": "Parliament question, Minister of State (Home Affairs), Nityanand Rai said, \"The Government of India decided it as a matter of policy not to enumerate caste-wise population other than SCs and STs in Census\". In public though, the BJP and its leaders often parried questions and were non-committal on the need for 2 a caste census. = They, however, = regularly tar-Fr e geted the Congress, accusing it of using caste to divide the society. The BJP's ideological parent, the Rashtriya Swayamsevak Sangh (RSS), however, had a more nuanced view. In September last year, it cautioned against using caste census as a political tool, but noted that the government needs numbers for all welfare activities, particularly",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2117,
+      2212,
+      2384
+     ],
+     [
+      1296,
+      2370,
+      1652,
+      2443
+     ],
+     [
+      1299,
+      2444,
+      1733,
+      2529
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      2411,
+      1218,
+      2557
+     ],
+     [
+      808,
+      2611,
+      1249,
+      3080
+     ],
+     [
+      1296,
+      2690,
+      1738,
+      3080
+     ],
+     [
+      1786,
+      2373,
+      2227,
+      3074
+     ]
+    ],
+    "layout_words": 196
+   },
+   "headline_raw": "DGMOs get on hotline, Army\nwarns Pak over ceasefire breach\nTHE IDEAS PAGE |\nHIT HARD, HIT SMART",
+   "deck_raw": "",
+   "body_raw": "BASHAARAT MASOOD\n& AMRITANAYAK DUTTA\nSRINAGAR,NEW DELHI,\nAPRIL 30\n\nAMID MOUNTING tension and\nexchange of fire at multiple\nplaces along the Line of Control\nafter the Pahalgam terror attack,\nnominated officers from the\nDirectorate General of Military\nOperations (DGMO) of India and\nPakistan spoke over the hotline\nTuesday.\nSources in the Defence estab-\nlishment said although it was a\nweekly call, the Indian side\n\nstrongly objected to the multi-\nple ceasefire violations by\nPakistan along the LoC and\nwarned the Pakistan Army\nagainst unprovoked firing.\nIndian and Pakistani troops\nexchanged fire for the sixth day\nWednesday. As the LoC hots up,\nworried residents of border ar-\neas have begun renovating and\n\ncleaning bunkers \u2014 their refuge\nduring shelling.\nThe ceasefire, effected in\n2003 and again in 2021, appears\nto be very fragile now given the\nrepeated exchange of fire ever\nsince the Pahalgam terror attack.\nThe Army accused Pakistani\ntroops of violating the ceasefire.\n\u201cUnprovoked small arms firing\nby Pakistan Army was also re-\nported from their (Pakistan)\nposts across the Line of Control\nin Baramulla and Kupwara dis-\ntricts as well as across the\nInternational Border in Pargwal\nsector,\u201d the Defence spokesman\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.98984771573605,
+   "ocr_low_conf_share": 0.01015228426395939,
+   "headline": "DGMOs get on hotline, Army warns Pak over ceasefire breach THE IDEAS PAGE HIT HARD, HIT SMART",
+   "deck": "",
+   "byline": "BASHAARAT MASOOD; & AMRITANAYAK DUTTA; SRINAGAR,NEW DELHI,; APRIL 30",
+   "text": "AMID MOUNTING tension and exchange of fire at multiple places along the Line of Control after the Pahalgam terror attack, nominated officers from the Directorate General of Military Operations (DGMO) of India and Pakistan spoke over the hotline Tuesday. Sources in the Defence establishment said although it was a weekly call, the Indian side\n\nstrongly objected to the multiple ceasefire violations by Pakistan along the LoC and warned the Pakistan Army against unprovoked firing. Indian and Pakistani troops exchanged fire for the sixth day Wednesday. As the LoC hots up, worried residents of border areas have begun renovating and\n\ncleaning bunkers - their refuge during shelling. The ceasefire, effected in 2003 and again in 2021, appears to be very fragile now given the repeated exchange of fire ever since the Pahalgam terror attack. The Army accused Pakistani troops of violating the ceasefire. \"Unprovoked small arms firing by Pakistan Army was also reported from their (Pakistan) posts across the Line of Control in Baramulla and Kupwara districts as well as across the International Border in Pargwal sector,\" the Defence spokesman",
+   "n_words": 179,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      2121,
+      2711,
+      2530
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2270,
+      2564,
+      2713,
+      2681
+     ],
+     [
+      2270,
+      2730,
+      2714,
+      4143
+     ]
+    ],
+    "layout_words": 186
+   },
+   "headline_raw": "Deportation\nreprieve for\nPoonch cop,\n8 siblings, HC\nnotice to Govt",
+   "deck_raw": "",
+   "body_raw": "ARUN SHARMA\nJAMMU, APRIL 30\n\nON TUESDAY, the Jammu and\nKashmir High Court gave respite\nto apolice constable and his eight\nsiblings, all residents of Salwah\nin Poonch, against a deportation\nnotice sent to them in the wake\nof the Pahalgam attack. However,\nby then, the nine had been trans-\nported to the Attari border in\nPunjab by the authorities.\nThe notice by the Poonch\nDeputy Commissioner, dated\nApril 26, had been received by\nJ&K Police Constable Iftkhar Ali,\n45; his elder brothers Zulfqar Ali,\n49, Mohammad Shafiq, 60,\nMohammad Shakoor, 52; and\nhis sisters Shazia Tabsam, 42,\nKouser Parveen, 47, Naseem\nAkhter, 50, Akseer Akhtar, 54,\nand Nashroon Akhter, 56, on\nSunday. This was as per the\nCentre's instruction that all res-\nidents of Pakistan not holding\nlong-term, official or diplomatic\nvisas leave the country.\nOn Monday, the police took\nall the nine into custody and, the\nsame night, drove them to Attari\nin Punjab for deportation the\nnext moming.\nOn Tuesday, issuing a notice\nto the Union of India and the\nUnion Territory administration\nof J&K, among _ others,\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.65760869565217,
+   "ocr_low_conf_share": 0.016304347826086956,
+   "headline": "Deportation reprieve for Poonch cop, 8 siblings, HC notice to Govt",
+   "deck": "",
+   "byline": "ARUN SHARMA; JAMMU, APRIL 30",
+   "text": "ON TUESDAY, the Jammu and Kashmir High Court gave respite to apolice constable and his eight siblings, all residents of Salwah in Poonch, against a deportation notice sent to them in the wake of the Pahalgam attack. However, by then, the nine had been transported to the Attari border in Punjab by the authorities. The notice by the Poonch Deputy Commissioner, dated April 26, had been received by J&K Police Constable Iftkhar Ali, 45; his elder brothers Zulfqar Ali, 49, Mohammad Shafiq, 60, Mohammad Shakoor, 52; and his sisters Shazia Tabsam, 42, Kouser Parveen, 47, Naseem Akhter, 50, Akseer Akhtar, 54, and Nashroon Akhter, 56, on Sunday. This was as per the Centre's instruction that all residents of Pakistan not holding long-term, official or diplomatic visas leave the country. On Monday, the police took all the nine into custody and, the same night, drove them to Attari in Punjab for deportation the next moming. On Tuesday, issuing a notice to the Union of India and the Union Territory administration of J&K, among _ others, CONTINUEDON PAGE 2",
+   "n_words": 177,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      2181,
+      741,
+      2580
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      324,
+      2649,
+      625,
+      2719
+     ],
+     [
+      321,
+      2767,
+      761,
+      4141
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "Install popular\ngovt: 21 NDA\nMLAs from\nManipur write\nto Modi, Shah",
+   "deck_raw": "",
+   "body_raw": "SUKRITABARUAH\nGUWAHATI, APRIL 30\n\nA GROUP of 21 Manipur MLAs\nfrom NDA parties submitted let-\ntersto Prime Minister Narendra\nModi and Union Home Minister\nAmit Shah Tuesday, asking for a\npopular government to be in-\nstalled in the state after over two\nmonths of President\u2019s Rule.\nThe 21 MLAs include those\nfrom the BJP, National People\u2019s\nParty (NPP) and Naga People\u2019s\nFront (NPF), and belong to the\nMeitei, Naga and Pangal com-\nmunities. The signatories of the\nletter do not include former\nChief Minister N Biren Singh or\nany of the MLAs considered\nclose to him. The letter said: \u201cItis\ngoing to be almost three months\nsince President\u2019s Rule was im-\nposed but no visible action to\nbring peace and normalcy in the\nstate is seen so far.\u201d\nIt ated apprehensions on re-\ncurrence of violence inthe state.\n\u201cMany civil society organisa-\ntions have come out openly\nagainst the imposition of the\nPresident's Rule. They havebeen\ndemanding installation of a pop-\nular government in the state.\nTheseorganisations have started\norganising public rallies, street\ncomer meetings instigating the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.72375690607734,
+   "ocr_low_conf_share": 0.016574585635359115,
+   "headline": "Install popular govt: 21 NDA MLAs from Manipur write to Modi, Shah",
+   "deck": "",
+   "byline": "SUKRITABARUAH; GUWAHATI, APRIL 30",
+   "text": "A GROUP of 21 Manipur MLAs from NDA parties submitted lettersto Prime Minister Narendra Modi and Union Home Minister Amit Shah Tuesday, asking for a popular government to be installed in the state after over two months of President's Rule. The 21 MLAs include those from the BJP, National People's Party (NPP) and Naga People's Front (NPF), and belong to the Meitei, Naga and Pangal communities. The signatories of the letter do not include former Chief Minister N Biren Singh or any of the MLAs considered close to him. The letter said: \"Itis going to be almost three months since President's Rule was imposed but no visible action to bring peace and normalcy in the state is seen so far.\" It ated apprehensions on recurrence of violence inthe state. \"Many civil society organisations have come out openly against the imposition of the President's Rule. They havebeen demanding installation of a popular government in the state. Theseorganisations have started organising public rallies, street comer meetings instigating the",
+   "n_words": 166,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2760,
+      2163,
+      3689,
+      2294
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2374,
+      3063,
+      2444
+     ],
+     [
+      2760,
+      2492,
+      3202,
+      3121
+     ],
+     [
+      3247,
+      2335,
+      3691,
+      3114
+     ]
+    ],
+    "layout_words": 156
+   },
+   "headline_raw": "Vaishnaw: Opp used it as political tool,\nenumeration will be transparent",
+   "deck_raw": "",
+   "body_raw": "DIVYAA\nNEW DELHI, APRIL 30\n\nTHE CENTRE Wednesday an-\nnounced that the forthcoming\npopulation Census will include\nacaste census with Union Home\nMinister Amit Shah describing\nthe move as a \u201chistoricdecision\u201d\nbya government \u201ccommitted to\nsocial justice\u201d.\nThe decision, which also ad-\ndresses a key demand of the\nCongress-led Opposition, was\ntaken at ameeting of the Cabinet\nCommittee on Political Affairs\n(CCPA) headed by Prime\nMinister Narendra Modi.\nSpeaking to reporters after\n\nthe meeting, Union Information\n& Broadcasting Minister Ashwini\nVaishnaw said the caste census\n\u201cwill strengthen the social and\neconomic structure of our soci-\nety while the nation continues\nto progress\u201d,\nLater, Union Minister for\nSocial Justice and\nEmpowerment Virendra Kumar\nsaid the decision marks a \u201cdeci-\nsive step towards realising the\ndreams of Babasaheb Dr\nBhimrao Ambedkar\u2019.\nNon-BJP-ruled Telangana\nand Karnataka had already con-\nducted separate caste surveys af-\nter their demand for such acen-\nsus was rejected by the Centre.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.8343949044586,
+   "ocr_low_conf_share": 0.03821656050955414,
+   "headline": "Vaishnaw: Opp used it as political tool, enumeration will be transparent",
+   "deck": "",
+   "byline": "DIVYAA; NEW DELHI, APRIL 30",
+   "text": "THE CENTRE Wednesday announced that the forthcoming population Census will include acaste census with Union Home Minister Amit Shah describing the move as a \"historicdecision\" bya government \"committed to social justice\". The decision, which also addresses a key demand of the Congress-led Opposition, was taken at ameeting of the Cabinet Committee on Political Affairs (CCPA) headed by Prime Minister Narendra Modi. Speaking to reporters after\n\nthe meeting, Union Information & Broadcasting Minister Ashwini Vaishnaw said the caste census \"will strengthen the social and economic structure of our society while the nation continues to progress\", Later, Union Minister for Social Justice and Empowerment Virendra Kumar said the decision marks a \"decisive step towards realising the dreams of Babasaheb Dr Bhimrao Ambedkar'. Non-BJP-ruled Telangana and Karnataka had already conducted separate caste surveys after their demand for such acensus was rejected by the Centre.",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      3221,
+      2218,
+      3493
+     ],
+     [
+      1295,
+      3479,
+      1711,
+      3560
+     ],
+     [
+      1295,
+      3552,
+      1695,
+      3626
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      3149,
+      2088,
+      3182
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      3520,
+      1108,
+      3589
+     ],
+     [
+      807,
+      3640,
+      1249,
+      4148
+     ],
+     [
+      1295,
+      3625,
+      1732,
+      3750
+     ],
+     [
+      1295,
+      3766,
+      1685,
+      3958
+     ],
+     [
+      1296,
+      4036,
+      1737,
+      4149
+     ],
+     [
+      1785,
+      3481,
+      2227,
+      4142
+     ]
+    ],
+    "layout_words": 190
+   },
+   "headline_raw": "Delhi responds to Islamabad move,\ncloses airspace to all Pak aircraft\nEXPRESS NETWORK\nAS TENSIONS SOAR,",
+   "deck_raw": "PART OF MEASURES IN WAKE OF PAHALGAM TERROR ATTACK",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, APRIL 30\n\nINDIA HAS closed its airspace for\nPakistani aircraft, days after a\nsimilar move by the neighbour-\ning country in the wake of the\nPahalgam terror attack.\nThe Notice to Airmen (NO-\nTAM) communicating this deci-\nsion, issued on Wednesday\nevening, states that India\u2019s air-\nspace will not be available for\nPakistan-registered aircraft and\nplanes operated, owned, or\nleased by Pakistani airlines and\n\nU.S. REACHES OUT TO\nINDIA, PAK: DON\u2019T\nESCALATE SITUATION\n\nTAKEN TO ATTARI\nFOR DEPORTATION,\n80-YEAR-OLD MAN\nDIES IN BUS Pace 5,6\n\noperators, including military\nflights. The ban will be in place\ntill the early morning of May 24,\n\nas per the current NOTAM.\nOn April 24, Pakistan had\nclosed its airspace for Indian air-\ncraft and airlines after New\nDelhi\u2019s strong diplomatic moves\nin response to the terror attack.\nPakistan's move is slated to affect\nover 800 West-bound interna-\ntional flights a week operated by\nIndian airlines from Northern\nIndian airports. These flightsnow\nface longer flight times, increased\nfuel burn, and a few other com-\nplexities related to crew and\nflight scheduling, an analysis of\nairlines\u2019 schedule data shows.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.18324607329843,
+   "ocr_low_conf_share": 0.041884816753926704,
+   "headline": "Delhi responds to Islamabad move, closes airspace to all Pak aircraft EXPRESS NETWORK AS TENSIONS SOAR,",
+   "deck": "PART OF MEASURES IN WAKE OF PAHALGAM TERROR ATTACK",
+   "byline": "SUKALP SHARMA; NEW DELHI, APRIL 30",
+   "text": "INDIA HAS closed its airspace for Pakistani aircraft, days after a similar move by the neighbouring country in the wake of the Pahalgam terror attack. The Notice to Airmen (NO-TAM) communicating this decision, issued on Wednesday evening, states that India's airspace will not be available for Pakistan-registered aircraft and planes operated, owned, or leased by Pakistani airlines and\n\nU.S. REACHES OUT TO INDIA, PAK: DON'T ESCALATE SITUATION\n\nTAKEN TO ATTARI FOR DEPORTATION, 80-YEAR-OLD MAN DIES IN BUS Pace 5,6\n\noperators, including military flights. The ban will be in place till the early morning of May 24,\n\nas per the current NOTAM. On April 24, Pakistan had closed its airspace for Indian aircraft and airlines after New Delhi's strong diplomatic moves in response to the terror attack. Pakistan's move is slated to affect over 800 West-bound international flights a week operated by Indian airlines from Northern Indian airports. These flightsnow face longer flight times, increased fuel burn, and a few other complexities related to crew and flight scheduling, an analysis of airlines' schedule data shows.",
+   "n_words": 174,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3195,
+      4157,
+      3297
+     ],
+     [
+      2759,
+      3308,
+      4121,
+      3466
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      3482,
+      3062,
+      3552
+     ],
+     [
+      2759,
+      3601,
+      3201,
+      4072
+     ],
+     [
+      3248,
+      3876,
+      3671,
+      4033
+     ],
+     [
+      3734,
+      3444,
+      4178,
+      4065
+     ]
+    ],
+    "layout_words": 155
+   },
+   "headline_raw": "Rahul: Shows we can pressure BJP,\nwill work on lifting 50% quota cap\nae a \u2014\u2014\u2014\u2014 \u2122* avgendato reach out tothe Of",
+   "deck_raw": "",
+   "body_raw": "MANOJCG\nNEW DELHI, APRIL 30\n\nTHE BJP government's surprise\nannouncement to include caste\nenumeration in the overdue\nCensus exercise is both good\nnews and bad news for the main\nopposition Congress and partic-\nularly Rahul Gandhi, who has led\nthe demand for it for the past\ntwo years.\nThe demand for a caste cen-\nsus hasalsobeen the centerpiece\nof the Congress's social justice\n\nLeader of Opposition Rahul\nGandhi addresses a press\nconference in New Delhion\nWednesday. Tashi Tobgyal\n\nagenda to reach out to the OBCs,\nwho have moved away from the\nparty in the post-Mandal period\nand embraced the BJPsince 2014\nunder Narendra Modi.\nThe apprehension within\nCongress ranks is that, inone\nstroke, Modi may have taken\naway one of its crucial planks. In\nfact, while announcing its deci-\nsion Wednesday to hold a caste\ncensus, the government\nslammed opposition parties for\nusing it asa \u201cpolitical tool\u201d. Union\nMinister Ashwini Vaishnaw said\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.29677419354839,
+   "ocr_low_conf_share": 0.025806451612903226,
+   "headline": "Rahul: Shows we can pressure BJP, will work on lifting 50% quota cap ae a - - - - \u2122* avgendato reach out tothe Of",
+   "deck": "",
+   "byline": "MANOJCG; NEW DELHI, APRIL 30",
+   "text": "THE BJP government's surprise announcement to include caste enumeration in the overdue Census exercise is both good news and bad news for the main opposition Congress and particularly Rahul Gandhi, who has led the demand for it for the past two years. The demand for a caste census hasalsobeen the centerpiece of the Congress's social justice\n\nLeader of Opposition Rahul Gandhi addresses a press conference in New Delhion Wednesday. Tashi Tobgyal\n\nagenda to reach out to the OBCs, who have moved away from the party in the post-Mandal period and embraced the BJPsince 2014 under Narendra Modi. The apprehension within Congress ranks is that, inone stroke, Modi may have taken away one of its crucial planks. In fact, while announcing its decision Wednesday to hold a caste census, the government slammed opposition parties for using it asa \"political tool\". Union Minister Ashwini Vaishnaw said",
+   "n_words": 144,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4218,
+      1685,
+      4429
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4509,
+      628,
+      4619
+     ],
+     [
+      317,
+      4667,
+      760,
+      5131
+     ],
+     [
+      1048,
+      4548,
+      1201,
+      4702
+     ],
+     [
+      807,
+      4787,
+      1247,
+      5138
+     ],
+     [
+      1294,
+      4471,
+      1739,
+      5132
+     ]
+    ],
+    "layout_words": 190
+   },
+   "headline_raw": "Gangsters\u2019 call, GPS device unde!\nSUV: Z-cover for Delhi BJP chief",
+   "deck_raw": "",
+   "body_raw": "MAHENDERSINGH\nMANRAL\nNEW DELHI, APRIL30\n\nAN INTERCEPTED call between\ntwo alleged associates of wanted\ngangster Kapil Sangwan alias\nNandu, who is believed to be in\nthe UK, led police to a \u201cportable\nGPS device\u201d attached to an SUV\nof Delhi BJP chief Virendra\nSachdeva who was swiftly\nplaced under \u2018Z\u2019 category secu-\nrity cover last weekend, The\nIndian Express has learnt.\n\u201cThe recovered GPS device\n\nVirendra\nSachdeva,\nDelhi BJP\npresident\n\nhas been sent for forensic exam-\nination anda probeison.A Delhi\nPolice Special Cell team has also\nbeen deployed along with secu-\nrity personnel providing Z\u2019 cate-\ngory cover (to Sachdeva),\u201d\nsources said.\nAccording to sources, the se-\nquence of events that led to the\n\nGPS device started on Saturday\nafternoon when Sachdeva ap-\nproached Delhi Police\nCommissioner Sanjay Arora and\n\u201cshared details of a call and some\nmessages from unknown num-\nbers threatening him\u201d.\nThe Special Cell was alerted\nwithin hours after initial inves-\ntigations traced the numbers\nand pattern of threats allegedly\nto Nandu, sources said.\n\u201cSimultaneously, the west-\nernrangeofthe Crime Branch in-\ntercepted a call by two associates\nof Nandu, who were talking of\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.74074074074075,
+   "ocr_low_conf_share": 0.021164021164021163,
+   "headline": "Gangsters' call, GPS device unde! SUV: Z-cover for Delhi BJP chief",
+   "deck": "",
+   "byline": "MAHENDERSINGH; MANRAL; NEW DELHI, APRIL30",
+   "text": "AN INTERCEPTED call between two alleged associates of wanted gangster Kapil Sangwan alias Nandu, who is believed to be in the UK, led police to a \"portable GPS device\" attached to an SUV of Delhi BJP chief Virendra Sachdeva who was swiftly placed under 'Z' category security cover last weekend, The Indian Express has learnt. \"The recovered GPS device\n\nVirendra Sachdeva, Delhi BJP president\n\nhas been sent for forensic examination anda probeison.A Delhi Police Special Cell team has also been deployed along with security personnel providing Z' category cover (to Sachdeva),\" sources said. According to sources, the sequence of events that led to the\n\nGPS device started on Saturday afternoon when Sachdeva approached Delhi Police Commissioner Sanjay Arora and \"shared details of a call and some messages from unknown numbers threatening him\". The Special Cell was alerted within hours after initial investigations traced the numbers and pattern of threats allegedly to Nandu, sources said. \"Simultaneously, the west-ernrangeofthe Crime Branch intercepted a call by two associates of Nandu, who were talking of",
+   "n_words": 171,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2758,
+      4217,
+      4151,
+      4436
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2758,
+      4511,
+      3136,
+      4617
+     ],
+     [
+      2758,
+      4669,
+      3200,
+      5133
+     ],
+     [
+      3731,
+      4473,
+      4177,
+      5134
+     ]
+    ],
+    "layout_words": 151
+   },
+   "headline_raw": "Talks going great, think will have\na deal: Trump on India trade pact",
+   "deck_raw": "",
+   "body_raw": "YOSHITA SINGH\nNEW YORK, WASHINGTON,\nAPRIL 30\n\nUS PRESIDENT Donald Trump\nTuesday said that negotiations\nwith India over a bilateral trade\ndeal are \u201ccoming along great\u201d\nand he thinks Washington will\n\u201chave a deal\u201d with New Delhi.\nTrump made the remarks\nwhile speaking to reporters be-\nfore departing the White House\nfor arally in Michigan marking\nthe first 100 days of his second\nadministration.\n\n\u201cIndiaiscoming along great. I\nthink we'll havea deal with India,\u201d\nhe said. \u201cThe Prime Minister\n(Narendra Modi) as you know\nwas here three weeks ago, and\nthey want to make a deal. We'll\nsee what happens.\u201d\nPrime Minister Modi visited\nthe White Housein late February.\nEarlier in the day, Treasury\nSecretary Scott Bessent told re-\nporters in the White House that\nthe US is \u201cvery close\u201d to a trade\ndeal with India. He said\nAmerica\u2019s Asian trading partners\nand allies \u201chave been the most\nCONTINUED ON PAGE2",
+   "ocr_conf": 92.49006622516556,
+   "ocr_low_conf_share": 0.013245033112582781,
+   "headline": "Talks going great, think will have a deal: Trump on India trade pact",
+   "deck": "",
+   "byline": "YOSHITA SINGH; NEW YORK, WASHINGTON,; APRIL 30",
+   "text": "US PRESIDENT Donald Trump Tuesday said that negotiations with India over a bilateral trade deal are \"coming along great\" and he thinks Washington will \"have a deal\" with New Delhi. Trump made the remarks while speaking to reporters before departing the White House for arally in Michigan marking the first 100 days of his second administration.\n\n\"Indiaiscoming along great. I think we'll havea deal with India,\" he said. \"The Prime Minister (Narendra Modi) as you know was here three weeks ago, and they want to make a deal. We'll see what happens.\" Prime Minister Modi visited the White Housein late February. Earlier in the day, Treasury Secretary Scott Bessent told reporters in the White House that the US is \"very close\" to a trade deal with India. He said America's Asian trading partners and allies \"have been the most",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1831,
+      4907,
+      2641,
+      4973
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1830,
+      5023,
+      2598,
+      5099
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "BLAZE AT DILLI HAAT",
+   "deck_raw": "",
+   "body_raw": "Thirty shops were gutted ina fire that broke out at\nDilli Haat in New Delhi, Wednesday. Praveen Khanna",
+   "ocr_conf": 87.38888888888889,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "BLAZE AT DILLI HAAT",
+   "deck": "",
+   "byline": "",
+   "text": "Thirty shops were gutted ina fire that broke out at Dilli Haat in New Delhi, Wednesday. Praveen Khanna",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5265,
+      4150,
+      5400
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5421,
+      499,
+      5494
+     ],
+     [
+      318,
+      5617,
+      643,
+      5687
+     ],
+     [
+      317,
+      5735,
+      758,
+      6166
+     ],
+     [
+      807,
+      5419,
+      1247,
+      6159
+     ],
+     [
+      1293,
+      5420,
+      1738,
+      6167
+     ],
+     [
+      2757,
+      5421,
+      3200,
+      6168
+     ],
+     [
+      3244,
+      5421,
+      3689,
+      6168
+     ],
+     [
+      3734,
+      5422,
+      4179,
+      6162
+     ]
+    ],
+    "layout_words": 554
+   },
+   "headline_raw": "In search of an erstwhile king\u2019s property, teams from Bihar camp in UP",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nMANISH SAHU\nGORAKHPUR, APRIL 30\n\nONTHE first floor of a residential\nbuilding in the posh Shiv Vihar\nColony of Gorakhpur, Uttar\nPradesh, a group of officials are\nbusy sifting through piles of doc-\numents, frequently consulting\none another and checking for\nregular updates.\nFor around two months now,\nthe 11 Bihar revenue officials\nhave been working out of this\n\ntemporary office of the Bihar\nCourt of Wards withan unusual\npurpose \u2014 to identify, measure,\nand meticulously record details\nof tracts of land in Uttar Pradesh\nthat, according to Bihar govern-\nment records, belong to the\nBettiah Raj, a 17th Century za-\nmindari estate with origins in\nthe state\u2019s Champaran region.\n\u201cWe have been consulting\nland records from the 18th and\n19th Century in the Bettiah Raj\nrevenue record room (a reposi-\ntory of historical land records re-\nlated to the erstwhile zamindari\nestate in Bihar\u2019s West\nChamparan),\u201d says one of the of-\nficials. \u201cWe then match the his-\n\ntorical records tocurrent revenue\nrecords in the state. We have so\nfar identified 175.53 acres of\nBettiah Raj land in Uttar Pradesh\nbut officials are still reviewing\ndocuments and updating thelist.\u201d\nThetedious exercise comesin\nthewake of the Vesting of Bettiah\nRaj Properties Act, 2024, that the\nBihar government passed late last\nyear. The law allows the Bihar\ngovernment tonot only take con-\ntrolof over 15,000acres of Bettiah\nRaj land in Bihar but also parcels\nin eight UP districts: Gorakhpur,\nMaharajganj, Kushinagar,\nAyodhya, Basti, Varanasi,\nPrayagraj, and Mirzapur.\nEarlier inApril, the Bihar gov-\n\nermment held meetings with dis-\ntrict administration of the eight\ndistricts to enlist their help. \u201cThey\nwere asked to check their land\nrecords forany properties belong-\ning to the Bettiah Raj,\u201d says Badri\nPrasad Gupta, a revenue officer\nfrom Bihar's Board of Revenue\nand one of the officials oversee-\ning the exercise, adding that they\nhave yet to receive inputs.\nPrayagraj\u2019s Chief Revenue\nOfficer Kunwar Pankaj confirmed\nthat a team from Bihar was cur-\nrently in the city. \u201cAll eight tehsils\nin Prayagraj have been asked to\nverify if any property exists un-\nder this name. They have been\ngiven time until May 4,\u201d he says.\n\nGorakhpur\u2019s Chief Revenue\nOfficer Amit Rathore too con-\nfirmed this, saying that further\naction would be taken according\nto instructions from higher au-\nthorities. He said he had noinfor-\nmation about the findings of the\nBihar revenue team in\nGorakhpur. Officials at UP\u2019s Board\nof Revenue refused tocomment.\nSpread across six districts in\nBihar and eight in UP, Bettiah Raj\nis one of the oldest and largest za-\nmindaris in Champaran region.\nThe zamindars of Bettiah were\namong those wio were given the\ntitle of \u2018raja\u2019 by the Mughals.\nAfter the last king of Bettiah\nRaj, Harendra Kishore Singh,\n\ndied heirless in 1893, the estate\npassed on to his first wife\nMaharani Sheo Ratna Kunwar,\nwho died in 1896. The property\nthen went to his second wife,\nMaharani Janki Kunwar.\nIn 1897, the British adminis-\ntration declared Maharani Janki\n\u201cincompetent to manage the\nproperty\u201d and placedit under the\nestate of the Court of Wards, a le-\ngal body created under Court of\nWards Act that empowered them\nto take over and manage the es-\ntates ofminors. Those deemed in-\ncapable, or otherwise disqualified\nfrom handling their property.\nMaharani Janki died in 1954.\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.66245487364621,
+   "ocr_low_conf_share": 0.030685920577617327,
+   "headline": "In search of an erstwhile king's property, teams from Bihar camp in UP",
+   "deck": "",
+   "byline": "ANCHOR; MANISH SAHU; GORAKHPUR, APRIL 30",
+   "text": "ONTHE first floor of a residential building in the posh Shiv Vihar Colony of Gorakhpur, Uttar Pradesh, a group of officials are busy sifting through piles of documents, frequently consulting one another and checking for regular updates. For around two months now, the 11 Bihar revenue officials have been working out of this\n\ntemporary office of the Bihar Court of Wards withan unusual purpose - to identify, measure, and meticulously record details of tracts of land in Uttar Pradesh that, according to Bihar government records, belong to the Bettiah Raj, a 17th Century zamindari estate with origins in the state's Champaran region. \"We have been consulting land records from the 18th and 19th Century in the Bettiah Raj revenue record room (a repository of historical land records related to the erstwhile zamindari estate in Bihar's West Champaran),\" says one of the officials. \"We then match the historical records tocurrent revenue records in the state. We have so far identified 175.53 acres of Bettiah Raj land in Uttar Pradesh but officials are still reviewing documents and updating thelist.\" Thetedious exercise comesin thewake of the Vesting of Bettiah Raj Properties Act, 2024, that the Bihar government passed late last year. The law allows the Bihar government tonot only take controlof over 15,000acres of Bettiah Raj land in Bihar but also parcels in eight UP districts: Gorakhpur, Maharajganj, Kushinagar, Ayodhya, Basti, Varanasi, Prayagraj, and Mirzapur. Earlier inApril, the Bihar govermment held meetings with district administration of the eight districts to enlist their help. \"They were asked to check their land records forany properties belonging to the Bettiah Raj,\" says Badri Prasad Gupta, a revenue officer from Bihar's Board of Revenue and one of the officials overseeing the exercise, adding that they have yet to receive inputs. Prayagraj's Chief Revenue Officer Kunwar Pankaj confirmed that a team from Bihar was currently in the city. \"All eight tehsils in Prayagraj have been asked to verify if any property exists under this name. They have been given time until May 4,\" he says.\n\nGorakhpur's Chief Revenue Officer Amit Rathore too confirmed this, saying that further action would be taken according to instructions from higher authorities. He said he had noinformation about the findings of the Bihar revenue team in Gorakhpur. Officials at UP's Board of Revenue refused tocomment. Spread across six districts in Bihar and eight in UP, Bettiah Raj is one of the oldest and largest zamindaris in Champaran region. The zamindars of Bettiah were among those wio were given the title of 'raja' by the Mughals. After the last king of Bettiah Raj, Harendra Kishore Singh,\n\ndied heirless in 1893, the estate passed on to his first wife Maharani Sheo Ratna Kunwar, who died in 1896. The property then went to his second wife, Maharani Janki Kunwar. In 1897, the British administration declared Maharani Janki \"incompetent to manage the property\" and placedit under the estate of the Court of Wards, a legal body created under Court of Wards Act that empowered them to take over and manage the estates ofminors. Those deemed incapable, or otherwise disqualified from handling their property. Maharani Janki died in 1954.",
+   "n_words": 521,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.4,
+ "flags": []
+}

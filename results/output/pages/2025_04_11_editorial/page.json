@@ -1,0 +1,755 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_11_editorial",
+ "source_file": "2025-04-11_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-11_editorial.png",
+ "date": "2025-04-11",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 0,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 468,
+  "mean_line_conf": 89.01806041570222,
+  "orphan_words": 430,
+  "body_words_total": 3383
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      383,
+      605,
+      1481,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      627,
+      820,
+      1243,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      820,
+      771,
+      1096,
+      802
+     ],
+     [
+      444,
+      919,
+      959,
+      960
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1970,
+      597,
+      3829,
+      823
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      885,
+      3537,
+      1017
+     ],
+     [
+      2930,
+      1247,
+      3532,
+      1305
+     ]
+    ],
+    "body_boxes": [
+     [
+      2325,
+      2607,
+      2830,
+      3353
+     ],
+     [
+      2927,
+      1291,
+      3535,
+      1961
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "Justice for the judge",
+   "deck_raw": "Judges are also entitled to presumption of innocence.\nJustice must be done in outcome \u2014 and process\ntation ofthe requirement fora preliminary in-\nniinaor anno citing led tnrheincertinn af",
+   "body_raw": "Unlike politicians,\nbureaucrats or private\npersons, judges cannot\nrespond publicly to\nallegations. Judicial\npropriety demands dignified\nsilence. This puts them at an\ninherent disadvantage when\nfaced with media scrutiny or\npublic criticism. Trial by\nmedia transforms the\npresumption of innocence\ninto a presumption of guilt,\na trend that is especially\ndangerous in the digital age.\n\nQuiry or a prior sanction led totheinsertion of\nSection 6A in the Delhi Special Police\nEstablishment Act, requiring prior approval\nbefore initiating investigations against senior\npublic officials. The provision, after being\nstruck down, found its way into the PC Act by\nan amendment in 2018 in light of growing\nconcerns about harassmentof honest officials,\nThe intent was to provide procedural safe-\nguards for decisionstaken by a public servant\ninthe discharge of official functions,\nSection 19 of the same Act requires sanc-\ntion before a court takes cognisance. The\nLokayukta Act mandates a preliminaryinquiry\nbefore proceeding against high-level officials.\nTheLokayuktais headed by aretired SC judge,\nand at least half the members are required to",
+   "ocr_conf": 90.76785714285714,
+   "ocr_low_conf_share": 0.041666666666666664,
+   "headline": "Justice for the judge",
+   "deck": "Judges are also entitled to presumption of innocence. Justice must be done in outcome - and process tation ofthe requirement fora preliminary inniinaor anno citing led tnrheincertinn af",
+   "byline": "",
+   "text": "Unlike politicians, bureaucrats or private persons, judges cannot respond publicly to allegations. Judicial propriety demands dignified silence. This puts them at an inherent disadvantage when faced with media scrutiny or public criticism. Trial by media transforms the presumption of innocence into a presumption of guilt, a trend that is especially dangerous in the digital age.\n\nQuiry or a prior sanction led totheinsertion of Section 6A in the Delhi Special Police Establishment Act, requiring prior approval before initiating investigations against senior public officials. The provision, after being struck down, found its way into the PC Act by an amendment in 2018 in light of growing concerns about harassmentof honest officials, The intent was to provide procedural safeguards for decisionstaken by a public servant inthe discharge of official functions, Section 19 of the same Act requires sanction before a court takes cognisance. The Lokayukta Act mandates a preliminaryinquiry before proceeding against high-level officials. TheLokayuktais headed by aretired SC judge, and at least half the members are required to",
+   "n_words": 166,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      431,
+      1091,
+      1438,
+      1192
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      326,
+      1231,
+      1537,
+      2872
+     ]
+    ],
+    "layout_words": 481
+   },
+   "headline_raw": "PAUSE AND EFFECT",
+   "deck_raw": "",
+   "body_raw": "As Trump announces reprieve for most nations, while escalating\ntariff war with China, rules of the game are still uncertain\nUST A WEEK after \u201cLiberation Day\u201d \u2014 when US President Donald Trump an-\nnounced the most sweeping tariff hikes in recent history \u2014 he has announced\na 90-day pause for most nations. Trump has, however, stepped up his attack\non China, raising tariffs to. a staggering 125 per cent. Markets initially welcomed\nthe announcement, rallyingin the hope that there is space for negotiation. The S&P 500\nsurged more than 8 per cent after the news, even though the 10 per cent base tariff re-\nmains in effect. On Thursday, markets gave up gains in early trading. The uncertainty\nis here to stay.\nTrump has said that the decision to pull back was because some were getting \u201ca lit-\ntle bit yippy, a little bit afraid\u201d. But the immediate trigger for the reversal may be the\nthreat from the bond market vigilantes. On April 9, the 10-year US treasury yield\ntouched 4.51 per cent, up more than 50 basis points in a matter of a few days. The\npush back has been similar to what was seen in the UK under former prime minister\nLiz Truss \u2014 the market then had been spooked by the government's tax proposals.\nSome may find comfort in the 90-day pause, believing that negotiations can be under-\ntaken to avoid further action. But there are concerns. First, what will happen over the\ncoming 90 days? Will Trump actively cut deals with all the countries that are willing\ntodoso? Will he press for sweeping tariff reductions or will he also try to extract sec-\ntor-specific and other concessions? Second, the tariff war with China is still on. A trade\nwar between the world's largest consumer and largest producer is likely to have far-\nreaching ramifications. It's difficult to predict how this will play out. So far, China has\nrefused to buckle It has vowed to \u201cfight to the end\u201d, and has, in fact, retaliated in kind,\nannouncing a tariff of 84 per cent on US imports. The question is whether the two\ncountries can figure out a way to de-escalate.\nThe mannerin which the US administration's trade policy is unfolding is only rais-\ning the level of uncertainty in global markets. It will also raise a legitimate question\nin the minds of world leaders, businesses and households: What if the US adminis-\ntration changes its mind again? The global economy cannot function in a situation\nwhere the rules of the game are arbitrarily changed every day. The continuing flip-\nflop on tariffs will only add to the unpredictability, holding back both investment and\nconsumption decisions of businesses and households. This will impact global trade and\ngrowth. The Indian administration's response to this stunning reversal should not be\none of complacency. It must press ahead with the bilateral trade deal.",
+   "ocr_conf": 93.63070539419087,
+   "ocr_low_conf_share": 0.016597510373443983,
+   "headline": "PAUSE AND EFFECT",
+   "deck": "",
+   "byline": "",
+   "text": "As Trump announces reprieve for most nations, while escalating tariff war with China, rules of the game are still uncertain UST A WEEK after \"Liberation Day\" - when US President Donald Trump announced the most sweeping tariff hikes in recent history - he has announced a 90-day pause for most nations. Trump has, however, stepped up his attack on China, raising tariffs to. a staggering 125 per cent. Markets initially welcomed the announcement, rallyingin the hope that there is space for negotiation. The S&P 500 surged more than 8 per cent after the news, even though the 10 per cent base tariff remains in effect. On Thursday, markets gave up gains in early trading. The uncertainty is here to stay. Trump has said that the decision to pull back was because some were getting \"a little bit yippy, a little bit afraid\". But the immediate trigger for the reversal may be the threat from the bond market vigilantes. On April 9, the 10-year US treasury yield touched 4.51 per cent, up more than 50 basis points in a matter of a few days. The push back has been similar to what was seen in the UK under former prime minister Liz Truss - the market then had been spooked by the government's tax proposals. Some may find comfort in the 90-day pause, believing that negotiations can be under-taken to avoid further action. But there are concerns. First, what will happen over the coming 90 days? Will Trump actively cut deals with all the countries that are willing todoso? Will he press for sweeping tariff reductions or will he also try to extract sector-specific and other concessions? Second, the tariff war with China is still on. A trade war between the world's largest consumer and largest producer is likely to have farreaching ramifications. It's difficult to predict how this will play out. So far, China has refused to buckle It has vowed to \"fight to the end\", and has, in fact, retaliated in kind, announcing a tariff of 84 per cent on US imports. The question is whether the two countries can figure out a way to de-escalate. The mannerin which the US administration's trade policy is unfolding is only raising the level of uncertainty in global markets. It will also raise a legitimate question in the minds of world leaders, businesses and households: What if the US administration changes its mind again? The global economy cannot function in a situation where the rules of the game are arbitrarily changed every day. The continuing flip-flop on tariffs will only add to the unpredictability, holding back both investment and consumption decisions of businesses and households. This will impact global trade and growth. The Indian administration's response to this stunning reversal should not be one of complacency. It must press ahead with the bilateral trade deal.",
+   "n_words": 473,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1630,
+      1250,
+      2235,
+      1757
+     ]
+    ],
+    "layout_words": 98,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PUBLIC CONFIDENCE IN the Indian judiciary\nappears to be on increasingly fragile ground.\nAccording to the latest C-Voter-India Today\nsurvey, only about 30 per cent of those sur-\nveyed said they fully trust the judiciary, while\n12 per cent trust it only somewhat.\nAlarmingly, nearly 48 per cent reported hav-\ning no trust in it at all. These findings reflect a\ngrowing crisis of institutional confidence.\nJustice Abhay S Oka recently echoed this\nconcer during a lecture on \u201cAccess to Justice\u201d.\nHeremarked: \u201cWe kept patting our backs that\ncitizens trust the courts, but we have to ask if",
+   "ocr_conf": 91.26530612244898,
+   "ocr_low_conf_share": 0.04081632653061224,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "PUBLIC CONFIDENCE IN the Indian judiciary appears to be on increasingly fragile ground. According to the latest C-Voter-India Today survey, only about 30 per cent of those surveyed said they fully trust the judiciary, while 12 per cent trust it only somewhat. Alarmingly, nearly 48 per cent reported having no trust in it at all. These findings reflect a growing crisis of institutional confidence. Justice Abhay S Oka recently echoed this concer during a lecture on \"Access to Justice\". Heremarked: \"We kept patting our backs that citizens trust the courts, but we have to ask if",
+   "n_words": 96,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      1251,
+      4183,
+      3270
+     ]
+    ],
+    "layout_words": 326,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "undermining the judiciary\u2019s independence.\nHence, institutional mechanisms \u2014 not pub-\nlic commentary \u2014 must address complaints.\nThe discovery of cashis often equated with\nwrongdoing. But this assumption is flawed.\nIndia remains a largely cash-based economy\ndespite a digitisation push. Many people, even\nin high offices, may legitimately possess cash.\nIt isimportant to distinguish between im-\npropriety andcorruption. Impropriety may in-\nvolve lapses in judgment or failure to meet ex-\npected standards, but it does not necessarily\nimply corrupt intent. Corruption, by contrast,\ninvolves misuse of public power for private\ngain anddemands concrete proof. Prosecution\nmust firstprove beyond reasonable doubt that\nthe assets are disproportionate to known\nsources of income.\nCourts have held that mere possession of\ncash isnot corruption if the individual offers a\nreasonable explanation \u2014suchas income from\nagriculture, inheritance, sale of immovable\nproperty, jewellery, etc. While such circum-\nstances may raise questions of impropriety,\nthey donotipso facto amount to corruption un-\nless supported by clear evidence. Courts have\nacknowledged these distinctions and haveac-\nquitted individuals when legitimate explana-\ntions were provided.\nConstitutional judges\u2019 cases must be ap-\nproached similarly. No conclusion should be\ndrawn without a full inquiry into the expla-\nnations as per law. The judiciary's credibility\ndepends not just on independence, but also\non fairness \u2014 both in holding judges account-\nable and in defending their rights. Judges can-\nnot speak in their own defence; the legal sys-\ntem must speak for them. Until the in-house\ninquiry reaches a conclusion, it is essential to\nwithhold judgment. Irresponsible commen-\ntary risks not just individual reputations, but\ninstitutional trust.\nThe Restatement of Values of Judicial Life\nreminds us that public confidence in the ju-\ndiciary is sustained when judges are judged\nthrough process \u2014 not perception.\nJudges, like other citizens, are entitled to\nthe presumption of innocence. Media trial is\nnot a substitute for constitutional process. It\nis time we reaffirm our commitment to jus-\ntice \u2014not just in outcome, but also in method.",
+   "ocr_conf": 89.69938650306749,
+   "ocr_low_conf_share": 0.049079754601226995,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "undermining the judiciary's independence. Hence, institutional mechanisms - not public commentary - must address complaints. The discovery of cashis often equated with wrongdoing. But this assumption is flawed. India remains a largely cash-based economy despite a digitisation push. Many people, even in high offices, may legitimately possess cash. It isimportant to distinguish between impropriety andcorruption. Impropriety may involve lapses in judgment or failure to meet expected standards, but it does not necessarily imply corrupt intent. Corruption, by contrast, involves misuse of public power for private gain anddemands concrete proof. Prosecution must firstprove beyond reasonable doubt that the assets are disproportionate to known sources of income. Courts have held that mere possession of cash isnot corruption if the individual offers a reasonable explanation - suchas income from agriculture, inheritance, sale of immovable property, jewellery, etc. While such circumstances may raise questions of impropriety, they donotipso facto amount to corruption unless supported by clear evidence. Courts have acknowledged these distinctions and haveacquitted individuals when legitimate explanations were provided. Constitutional judges' cases must be approached similarly. No conclusion should be drawn without a full inquiry into the explanations as per law. The judiciary's credibility depends not just on independence, but also on fairness - both in holding judges accountable and in defending their rights. Judges cannot speak in their own defence; the legal system must speak for them. Until the in-house inquiry reaches a conclusion, it is essential to withhold judgment. Irresponsible commentary risks not just individual reputations, but institutional trust. The Restatement of Values of Judicial Life reminds us that public confidence in the judiciary is sustained when judges are judged through process - not perception. Judges, like other citizens, are entitled to the presumption of innocence. Media trial is not a substitute for constitutional process. It is time we reaffirm our commitment to justice - not just in outcome, but also in method.",
+   "n_words": 312,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1627,
+      1762,
+      2232,
+      1939
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1630,
+      1925,
+      2232,
+      2013
+     ],
+     [
+      1627,
+      2120,
+      2231,
+      2241
+     ]
+    ],
+    "body_boxes": [
+     [
+      1631,
+      2004,
+      2233,
+      2119
+     ],
+     [
+      1970,
+      2163,
+      2231,
+      2198
+     ],
+     [
+      1627,
+      2242,
+      2232,
+      3070
+     ]
+    ],
+    "layout_words": 157
+   },
+   "headline_raw": "citizens are saying that. I havebeen to villages\netc. The statement that common man has full\nfaith in judiciary may not beentirely correct.\u201d\nRecent allegations concerning Justice\nVachunant Varma have cps nitvtircccn tims",
+   "deck_raw": "Yashwant Varma have sparked public scrutiny\nand provoked sharp commentary. While ac-\naruintrakhilmeric ines] at ie arnislks imnnemnt i\nrespected. The judiciary, asan institution, must\nbe protected from premature judgements that\nrisk eroding public trust. For sitting high court",
+   "body_raw": "countability is vital, it is equally important to\nensure that the constitutional safeguardsand\nlegal principles that govern suchinquiriesare\n\nure judgements that\n\njudges, the in-house inquiry procedure re-\nquires the QI to initiate a fact-finding probeby\nathree-member committee comprising two\nchiefjustices of high courts and one high court\njudge. ensuring that complaints aredealt with\nsystematically and confidentially.\nIt is equally important that such allega-\ntions are not handed directly to the police for\ninvestigation, particularly at the initial stage.\nThe police form part of the executive and\nhanding over judicial complaints to them\nwithout preliminary institutional scrutiny\nwould compromise the constitutional prind-\nple of separation of powers. This is critical as\nthe government is the largest litigant, account-\ning for nearly 50 percent ofall pending cases.\nMaintaining judicial independence requires\nthat internal mechanisms be respected before\ninvolving investigative wings of the executive.\nUntil such an inquiry concludes, any pre-\nsumption of guilt undermines the presump-",
+   "ocr_conf": 86.41558441558442,
+   "ocr_low_conf_share": 0.09740259740259741,
+   "headline": "citizens are saying that. I havebeen to villages etc. The statement that common man has full faith in judiciary may not beentirely correct.\" Recent allegations concerning Justice Vachunant Varma have cps nitvtircccn tims",
+   "deck": "Yashwant Varma have sparked public scrutiny and provoked sharp commentary. While acaruintrakhilmeric ines] at ie arnislks imnnemnt i respected. The judiciary, asan institution, must be protected from premature judgements that risk eroding public trust. For sitting high court",
+   "byline": "",
+   "text": "countability is vital, it is equally important to ensure that the constitutional safeguardsand legal principles that govern suchinquiriesare\n\nure judgements that\n\njudges, the in-house inquiry procedure requires the QI to initiate a fact-finding probeby athree-member committee comprising two chiefjustices of high courts and one high court judge. ensuring that complaints aredealt with systematically and confidentially. It is equally important that such allegations are not handed directly to the police for investigation, particularly at the initial stage. The police form part of the executive and handing over judicial complaints to them without preliminary institutional scrutiny would compromise the constitutional prindple of separation of powers. This is critical as the government is the largest litigant, accounting for nearly 50 percent ofall pending cases. Maintaining judicial independence requires that internal mechanisms be respected before involving investigative wings of the executive. Until such an inquiry concludes, any presumption of guilt undermines the presump-",
+   "n_words": 149,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2929,
+      1961,
+      3530,
+      2018
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2929,
+      2005,
+      3531,
+      2173
+     ]
+    ],
+    "layout_words": 22
+   },
+   "headline_raw": "be judicial members, ensuring judicial over-\neiaht far nrecaning inchipitinnal indenann",
+   "deck_raw": "",
+   "body_raw": "sight for preserving institutional independ-\nence while maintaining robust scrutiny.\nWhen Parliament contemplates impeach-\ning ajudge, the Judges (Inquiry) Act, 1968 must\nha fallauma lt ecantamal stac .nralinaunsrniin",
+   "ocr_conf": 68.78571428571429,
+   "ocr_low_conf_share": 0.35714285714285715,
+   "headline": "be judicial members, ensuring judicial overeiaht far nrecaning inchipitinnal indenann",
+   "deck": "",
+   "byline": "",
+   "text": "sight for preserving institutional independence while maintaining robust scrutiny. When Parliament contemplates impeaching ajudge, the Judges (Inquiry) Act, 1968 must ha fallauma lt ecantamal stac.nralinaunsrniin",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2928,
+      2186,
+      3530,
+      2243
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2925,
+      2243,
+      3530,
+      2430
+     ],
+     [
+      2924,
+      2442,
+      3530,
+      3348
+     ]
+    ],
+    "layout_words": 182
+   },
+   "headline_raw": "Me PVE, aL ERIE Sot alehtiad a eo ame my ar\nvestigation by a committee comprising an SC",
+   "deck_raw": "",
+   "body_raw": "judge, achief justice of a high court, and adis-\ntinguished jurist. The requirement of impar-\ntial fact-finding before action is consistent\nacross all levels of the judiciary.\nThe Constitution Bench in Lalitha Kumar's\n\ncase has provided for preliminary inquiriesin\nrelation to public servants in corruption cases\nas well as private persons in matrimonial and\ncommercial disputes and doctors in medical\nnegligence cases. Recently, the SC has man-\ndated a preliminary inquiry to protect jour-\nnalists and others in freedom of speech cases.\nSuch safeguards exist not to protect the guilty,\nbut to ensure procedural fairness. The judici-\nary deserves no less.\nUnlike politicians, bureaucrats or private\npersons, judges cannot respond publicly to al-\nlegations. Judicial propriety demands digni-\nfied silence. This puts them at an inherentdis-\nadvantage when faced with media scrutiny\nor public criticism. Trial by media transforms\nthe presumption of innocence into a pre-\nsumption of guilt, a trend that is especially\ndangerous in the digital age.\nAkey tenet of judicial ethics, asoutlinedin\nthe Restatementof Valuesof Judicial Life, is that\njudges must remain impartial and avoid con-\ntroversies. Publicdiscourse on allegations risks",
+   "ocr_conf": 91.32608695652173,
+   "ocr_low_conf_share": 0.02717391304347826,
+   "headline": "Me PVE, aL ERIE Sot alehtiad a eo ame my ar vestigation by a committee comprising an SC",
+   "deck": "",
+   "byline": "",
+   "text": "judge, achief justice of a high court, and adistinguished jurist. The requirement of impartial fact-finding before action is consistent across all levels of the judiciary. The Constitution Bench in Lalitha Kumar's\n\ncase has provided for preliminary inquiriesin relation to public servants in corruption cases as well as private persons in matrimonial and commercial disputes and doctors in medical negligence cases. Recently, the SC has mandated a preliminary inquiry to protect journalists and others in freedom of speech cases. Such safeguards exist not to protect the guilty, but to ensure procedural fairness. The judiciary deserves no less. Unlike politicians, bureaucrats or private persons, judges cannot respond publicly to allegations. Judicial propriety demands dignified silence. This puts them at an inherentdisadvantage when faced with media scrutiny or public criticism. Trial by media transforms the presumption of innocence into a presumption of guilt, a trend that is especially dangerous in the digital age. Akey tenet of judicial ethics, asoutlinedin the Restatementof Valuesof Judicial Life, is that judges must remain impartial and avoid controversies. Publicdiscourse on allegations risks",
+   "n_words": 174,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      343,
+      2983,
+      1519,
+      3069
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1630,
+      3073,
+      2231,
+      3131
+     ]
+    ],
+    "body_boxes": [
+     [
+      329,
+      3114,
+      1538,
+      4838
+     ],
+     [
+      1630,
+      3115,
+      2231,
+      3347
+     ],
+     [
+      1629,
+      3847,
+      1961,
+      3890
+     ],
+     [
+      1626,
+      3948,
+      2232,
+      5212
+     ],
+     [
+      1697,
+      5464,
+      2168,
+      5552
+     ]
+    ],
+    "layout_words": 717
+   },
+   "headline_raw": "A STEP TOWARDS CLOSURE",
+   "deck_raw": "tion of innocence \u2014 a foundational principle\nnfiuetice Media and nisic dicoiccinnc mice",
+   "body_raw": "Tahawwur Rana'\u2019s extradition could be key for connecting the\ndots, uncovering conspiracy behind the 26/11 terror attacks\nAHAWWUR RANA\u2018S EXTRADITION to India is a major breakthrough in\nthe government's efforts to bring perpetrators of the 26/11 terror attacks\nto justice. A Canadian national of Pakistani origin, Rana is accused of be-\ning a key cog in the terror machinery that masterminded the killing of\n166 people on November 26, 2008, in Mumbai. He was arrested in the US about a year\nafter the incident, along with David Coleman Headley, an American citizen, also of\nPakistani origin. The investigation has unravelled key strands in the global terror net-\nwork. At the same time, Indian intelligence agencies have gathered evidence for Rana's\nrole in 26/11 and Delhi has explored legal and diplomatic channels for the former\nPakistani army doctor's extradition, with the process gathering momentum after\n2020, when the NIA made a formal request. On February 13, addressing a joint press\nconference with Prime Minister Narendra Modi during the latter's visit to the US,\nPresident DonaldTrump announced that Rana would be handed over to Indian author-\nities. Rana exhausted all his legal options in the US on April 4 after the country's\nSupreme Court denied his application seeking a stay on his deportation. His extradi-\ntion is amajor victory for the Indian government's legal team that contested his dou-\nble jeopardy argument in the US courts, By all accounts, India's cordial relations with\nthe US stood the country in good stead in navigating legal complexities and fast-track-\ning the extradition.\nSo far, India has been able to prosecute Ajmal Kasab, one of the 10 heavily armed\nterrorists who laid siege to India's financial capital for more than 60 horrifying hours.\nFor the relatives of those who lost their lives in one of the worst transnational terror\nattacks in recent history, closure has seemed elusive with Islamabad consistently\ndenying assistance to New Delhi in prosecuting Hafiz Saeed, Zakiur Rehman Lakhvi\nand other Lashkar-e-Taiba (LeT) operatives based in the country. Now, Rana's interro-\ngation could help the probe agencies expose the role of the Pakistani state and non-\nstate actors behind the heinous attacks. The probe could strengthen India's case against\nPakistan-sponsored terrorism on the global stage, including at forums like the UN\nSecurity Council.\nThe Indo-US joint statement after PM Modi's visit to the US notes, \u201cthe two coun-\ntries are committed to strengthening cooperation against terrorist threats from groups,\nincluding al Qaeda, ISIS, Jaish-e Mohammad, and LeT to prevent heinous acts like the\nMumbai attacks\u201d. Efforts to secure the world against terror are the best tribute to\nthose who lost their lives on November 26, 2008. Rana's extradition is an important\nstep towards this goal.\n\nof justice. Media and public discussions must\nrespect this process.\nThis necessity mirrors established protec-\ntions for public servants. Section 17A of the\nPrevention of Corruption Act bars investiga-\ntion without prior sanction. Judicial interpre-\n\nMEGHNA BAL\n\nAN INTERESTING REPORT emerged from the\nEU on April 3 regarding the European\nCommission's plans to slash the EU General\nData Protection Regulation(GDPR)\u2014its most\nfamous privacy regulation. Broadly, privacy\nlaws like the GDPR govern how companies\ndoing business in a given region where the\nlaw isenacted (in thiscase Europe) handlethe\npersonal dataof its citizens. Given that India is\non the verge of implementing its own privacy\nlaw, the Digital Personal Data Protection Act\n2023 (DDPA) it should pay attention.\nThe EU is considering revising the GDPR\nbecause it creates a cumbersome, costly com-\npliance regime. For instance, a study by the\nGerman Chamber of Commerce and Industry\nfound that around 75 percentof German busi-\nnesses still had to put in high to extreme ef-\nforts tocomply with the law, years afteritsim-\nplementation. A 2022 paper by Oxford\nUniversity economists found that the GDPR\nshrank the profits of European businesses by\n8.1 per cent\nIndia, for its part, had reservations about\nthe GDPR model. Though the initial draft of\nour privacy law closely mirrored the GDPR,\nreports suggest that efforts were made toen-\nsure that the former was not as compliance-\nheavy as the latter. Forinstance,in 2022, then\nminister of state Rajeev Chandrasekhar sug-\ngested that the GDPR was not innovation-\nfriendly, and alittle too \u201cabsolutist\u201d.\n\n= \u00abcot may order probe \u201cF% -\nwera g uieto Fhats today =k\n5 . - us\n\"MB lke bbc sreth Rest ater",
+   "ocr_conf": 91.3956043956044,
+   "ocr_low_conf_share": 0.04120879120879121,
+   "headline": "A STEP TOWARDS CLOSURE",
+   "deck": "tion of innocence - a foundational principle nfiuetice Media and nisic dicoiccinnc mice",
+   "byline": "",
+   "text": "Tahawwur Rana''s extradition could be key for connecting the dots, uncovering conspiracy behind the 26/11 terror attacks AHAWWUR RANA'S EXTRADITION to India is a major breakthrough in the government's efforts to bring perpetrators of the 26/11 terror attacks to justice. A Canadian national of Pakistani origin, Rana is accused of being a key cog in the terror machinery that masterminded the killing of 166 people on November 26, 2008, in Mumbai. He was arrested in the US about a year after the incident, along with David Coleman Headley, an American citizen, also of Pakistani origin. The investigation has unravelled key strands in the global terror network. At the same time, Indian intelligence agencies have gathered evidence for Rana's role in 26/11 and Delhi has explored legal and diplomatic channels for the former Pakistani army doctor's extradition, with the process gathering momentum after 2020, when the NIA made a formal request. On February 13, addressing a joint press conference with Prime Minister Narendra Modi during the latter's visit to the US, President DonaldTrump announced that Rana would be handed over to Indian authorities. Rana exhausted all his legal options in the US on April 4 after the country's Supreme Court denied his application seeking a stay on his deportation. His extradition is amajor victory for the Indian government's legal team that contested his double jeopardy argument in the US courts, By all accounts, India's cordial relations with the US stood the country in good stead in navigating legal complexities and fast-tracking the extradition. So far, India has been able to prosecute Ajmal Kasab, one of the 10 heavily armed terrorists who laid siege to India's financial capital for more than 60 horrifying hours. For the relatives of those who lost their lives in one of the worst transnational terror attacks in recent history, closure has seemed elusive with Islamabad consistently denying assistance to New Delhi in prosecuting Hafiz Saeed, Zakiur Rehman Lakhvi and other Lashkar-e-Taiba (LeT) operatives based in the country. Now, Rana's interrogation could help the probe agencies expose the role of the Pakistani state and nonstate actors behind the heinous attacks. The probe could strengthen India's case against Pakistan-sponsored terrorism on the global stage, including at forums like the UN Security Council. The Indo-US joint statement after PM Modi's visit to the US notes, \"the two countries are committed to strengthening cooperation against terrorist threats from groups, including al Qaeda, ISIS, Jaish-e Mohammad, and LeT to prevent heinous acts like the Mumbai attacks\". Efforts to secure the world against terror are the best tribute to those who lost their lives on November 26, 2008. Rana's extradition is an important step towards this goal.\n\nof justice. Media and public discussions must respect this process. This necessity mirrors established protections for public servants. Section 17A of the Prevention of Corruption Act bars investigation without prior sanction. Judicial interpre-\n\nMEGHNA BAL\n\nAN INTERESTING REPORT emerged from the EU on April 3 regarding the European Commission's plans to slash the EU General Data Protection Regulation(GDPR) - its most famous privacy regulation. Broadly, privacy laws like the GDPR govern how companies doing business in a given region where the law isenacted (in thiscase Europe) handlethe personal dataof its citizens. Given that India is on the verge of implementing its own privacy law, the Digital Personal Data Protection Act 2023 (DDPA) it should pay attention. The EU is considering revising the GDPR because it creates a cumbersome, costly compliance regime. For instance, a study by the German Chamber of Commerce and Industry found that around 75 percentof German businesses still had to put in high to extreme efforts tocomply with the law, years afteritsimplementation. A 2022 paper by Oxford University economists found that the GDPR shrank the profits of European businesses by 8.1 per cent India, for its part, had reservations about the GDPR model. Though the initial draft of our privacy law closely mirrored the GDPR, reports suggest that efforts were made toensure that the former was not as compliance-heavy as the latter. Forinstance,in 2022, then minister of state Rajeev Chandrasekhar suggested that the GDPR was not innovation-friendly, and alittle too \"absolutist\".\n\n= \u00abcot may order probe \"F% - wera g uieto Fhats today =k \"MB lke bbc sreth Rest ater",
+   "n_words": 707,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3787,
+      3314,
+      4178,
+      3342
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is a senior advocate",
+   "ocr_conf": 88.33333333333333,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is a senior advocate",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2284,
+      3544,
+      3936,
+      3652
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2289,
+      3717,
+      2773,
+      3778
+     ]
+    ],
+    "body_boxes": [
+     [
+      2324,
+      4223,
+      2829,
+      5119
+     ],
+     [
+      2324,
+      5133,
+      2667,
+      5220
+     ],
+     [
+      2927,
+      3949,
+      3529,
+      4143
+     ],
+     [
+      3574,
+      3949,
+      4178,
+      5055
+     ],
+     [
+      3712,
+      5099,
+      4178,
+      5214
+     ],
+     [
+      3576,
+      5496,
+      4177,
+      5571
+     ],
+     [
+      3576,
+      5618,
+      3913,
+      5661
+     ],
+     [
+      3573,
+      5695,
+      4178,
+      6167
+     ]
+    ],
+    "layout_words": 429
+   },
+   "headline_raw": "DATA WRAPPED IN RED TAPE",
+   "deck_raw": "EU\u2019s attempt to slash",
+   "body_raw": "Most data privacy laws,\nincluding the GDPR,\nrecognise legitimate interest\nas a legal ground to avoid\nunnecessarily\ninconveniencing businesses\nand consumers, and to\nensure the integrity of online\nsystems. As the DPDPA\ndoes not recognise legitimate\ninterest as a legal basis for\ndata processing, every timea\nbusiness wants to notify a\ncustomer about a new offer\nor update their security\nsettings, it will have to seek\ntheir consent. Consumers\nare likely to face a deluge of\n\nconsent notices as a\nconsequence.\n\nUnfortunately, though the DPDPA differs\nfromthe GDPR, it is mostly in ways that make\nitmore stringent, less clear, and harder toim-\nplement. For instance, the DPDPA omits legit-\nimate interest as a legal basis for processing\n\nsible to fulfil digital transactions or services\nthat involve third parties, Let us considera hy-\npothetical situation where A wants to send a\ngift to B. A provides B\u2019s name, address, and\nphone number to BHL (a logistics company)\nfor the delivery. Now, BHL will not be able to\ncomplete the delivery because it does not have\nB\u2019s consent to process her data. BHL will not\neven be able to contact B to ask for her con-\nsent, because that would also involve process-\ning B\u2019s personal information \u2014 and BHLcan-\nnot do this without her consent. Theomission\nof contractual necessity will bring any busi-\nness dealing with the personal data of third\nparties to a virtual standstill. Aside from lo-\ngistics companies, and those that rely on these\nentities to send or import shipments, BPOs\nmay also be implicated.\nIt seems that India needs to take aleafout\nofthe EU's bookand streamlinethe DPDPAto\nbetterserve consumer and business interests,\nAsa starting point, India must amend the\nDPDPA to include contractual necessity and\nlegitimate interest as legal bases for process-\ning data without consent. Without such\ncourse correction, the country risks imple-\nmenting one of the world\u2019s most burdensome\nand impractical privacy regimes.\n\nThe writer is director of Esya Centre,\natech policy-focused think tank.\nViews are personal\n\ntained his portfolio, along with the finance\nand planning minister, Mahbub ul-Haq.\n\nBus TRAGEDY\n\nIN ONE OF the worst ever road accidents, 27\npassengers were killed and 34 seriously in-\njured when a tourist bus side-slipped and\nplummeted into the Chenab nallah near\nRamban, on the Jammu-Srinagar national\nhighway. Reports reaching here said 23 per-\nsons died on the spot and four others suc-\ncumbed to their injuries soon after reaching\nthe Ramban hospital. According to a police\nspokesman, the authorities pressed intoserv-\nice Air Force helicopters to evacuate the seri-\nously injured passengers of the ill-fated bus.",
+   "ocr_conf": 92.55581395348837,
+   "ocr_low_conf_share": 0.009302325581395349,
+   "headline": "DATA WRAPPED IN RED TAPE",
+   "deck": "EU's attempt to slash",
+   "byline": "",
+   "text": "Most data privacy laws, including the GDPR, recognise legitimate interest as a legal ground to avoid unnecessarily inconveniencing businesses and consumers, and to ensure the integrity of online systems. As the DPDPA does not recognise legitimate interest as a legal basis for data processing, every timea business wants to notify a customer about a new offer or update their security settings, it will have to seek their consent. Consumers are likely to face a deluge of\n\nconsent notices as a consequence.\n\nUnfortunately, though the DPDPA differs fromthe GDPR, it is mostly in ways that make itmore stringent, less clear, and harder toimplement. For instance, the DPDPA omits legitimate interest as a legal basis for processing\n\nsible to fulfil digital transactions or services that involve third parties, Let us considera hypothetical situation where A wants to send a gift to B. A provides B's name, address, and phone number to BHL (a logistics company) for the delivery. Now, BHL will not be able to complete the delivery because it does not have B's consent to process her data. BHL will not even be able to contact B to ask for her consent, because that would also involve processing B's personal information - and BHLcannot do this without her consent. Theomission of contractual necessity will bring any business dealing with the personal data of third parties to a virtual standstill. Aside from logistics companies, and those that rely on these entities to send or import shipments, BPOs may also be implicated. It seems that India needs to take aleafout ofthe EU's bookand streamlinethe DPDPAto betterserve consumer and business interests, Asa starting point, India must amend the DPDPA to include contractual necessity and legitimate interest as legal bases for processing data without consent. Without such course correction, the country risks implementing one of the world's most burdensome and impractical privacy regimes.\n\nThe writer is director of Esya Centre, atech policy-focused think tank. Views are personal\n\ntained his portfolio, along with the finance and planning minister, Mahbub ul-Haq.\n\nBus TRAGEDY\n\nIN ONE OF the worst ever road accidents, 27 passengers were killed and 34 seriously injured when a tourist bus side-slipped and plummeted into the Chenab nallah near Ramban, on the Jammu-Srinagar national highway. Reports reaching here said 23 persons died on the spot and four others succumbed to their injuries soon after reaching the Ramban hospital. According to a police spokesman, the authorities pressed intoservice Air Force helicopters to evacuate the seriously injured passengers of the ill-fated bus.",
+   "n_words": 415,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2927,
+      4144,
+      3529,
+      4201
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2926,
+      4187,
+      3529,
+      4855
+     ]
+    ],
+    "layout_words": 116
+   },
+   "headline_raw": "data without user consent. Legitimate interest\nalicnare data tn he iced faz peacansah'eniimnces",
+   "deck_raw": "",
+   "body_raw": "allows datato be used for reasonable purposes\nsuch as fraud prevention, system security, or\neven marketing, without troubling users for\nconsent each time. Inthe EU, even journalists\nrely on legitimate interest to access records\nfor investigative reporting on financial crimes,\nMost data privacy laws, including the\nGDPR, recognise legitimate interestas a legal\nground to avoidunnecessarily inconvenienc-\ning businesses and consumers, and to ensure\nthe integrity of onlinesystems, As the DPDPA\ndoes not recognise legitimate interest asa le-\ngalbasis for data processing, every timea busi-\nness wants to notify a customer about anew\noffer or update their security settings, it will\nhave to seek their consent. Consumers are\nlikely to face a deluge of consent notices asa",
+   "ocr_conf": 90.32758620689656,
+   "ocr_low_conf_share": 0.06896551724137931,
+   "headline": "data without user consent. Legitimate interest alicnare data tn he iced faz peacansah'eniimnces",
+   "deck": "",
+   "byline": "",
+   "text": "allows datato be used for reasonable purposes such as fraud prevention, system security, or even marketing, without troubling users for consent each time. Inthe EU, even journalists rely on legitimate interest to access records for investigative reporting on financial crimes, Most data privacy laws, including the GDPR, recognise legitimate interestas a legal ground to avoidunnecessarily inconveniencing businesses and consumers, and to ensure the integrity of onlinesystems, As the DPDPA does not recognise legitimate interest asa legalbasis for data processing, every timea business wants to notify a customer about anew offer or update their security settings, it will have to seek their consent. Consumers are likely to face a deluge of consent notices asa",
+   "n_words": 113,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2926,
+      4859,
+      3528,
+      4911
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2926,
+      4922,
+      3528,
+      4981
+     ]
+    ],
+    "body_boxes": [
+     [
+      2925,
+      4980,
+      3528,
+      5214
+     ]
+    ],
+    "layout_words": 40
+   },
+   "headline_raw": "consequence. This may result in a situation\nrashara r7rancumare miucvhitiranfhaunnerinciaqn",
+   "deck_raw": "RS RE PEE SE SRY UU UE Bac VN is WU let\noffon them, and stop opting in. In tum, such",
+   "body_raw": "consumer refusal to consent, not out of pri-\nvacy concerns but largely out of annoyance,\nmay lead to compromised security settings.\nThe DPDPAalso does not includecontrac-\ntual necessity as a legal basis for processing\ndata without user consent, making itimpos-",
+   "ocr_conf": 94.625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "consequence. This may result in a situation rashara r7rancumare miucvhitiranfhaunnerinciaqn",
+   "deck": "RS RE PEE SE SRY UU UE Bac VN is WU let offon them, and stop opting in. In tum, such",
+   "byline": "",
+   "text": "consumer refusal to consent, not out of privacy concerns but largely out of annoyance, may lead to compromised security settings. The DPDPAalso does not includecontractual necessity as a legal basis for processing data without user consent, making itimpos-",
+   "n_words": 38,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      489,
+      4952,
+      1373,
+      5037
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      324,
+      5081,
+      1533,
+      6165
+     ]
+    ],
+    "layout_words": 343
+   },
+   "headline_raw": "ALL ABOUT BUTTER",
+   "deck_raw": "",
+   "body_raw": "A Thai eatery is offering fat discounts to thin customers.\nThere may be more to it than \u2018fat-shaming\u2019\nT HETHINNER THE customer, the fatter the discount: This appears to be the busi-\nness strategy adopted by a cafe in Thailand, which is making customers slide\nthrough the gaps between strategically placed bars to geta \u201cskinny discount\u201d.\nAs per a recent viral video, the width of each gap determines the size of the\ndiscounta customer may score, with 20 per cent for the narrowest and zero for the widest.\nIn thus reminding blissfully blinkered customers of how much their waistlines may\nhave expanded, is the restaurant \u201cfat-shaming them\u201d, as a section of the internet alleges?\nOris it, in a benevolent gesture, reminding them to take care of themselves, as some oth-\ners have argued? Whatever the motive of the Chiang Mai eatery, the fact is that nobody\neats out for their health, and few like to be reminded of this. This is the secret compact,\nbeyond the guarantee of a good time and a delicious meal, that keeps the restaurant in-\ndustry running in a time of extreme health \u2014 or, rather, fat \u2014 consciousness.\nBut the Thai cafe is not the first to pander to the near-universal obsession with wellness\nwitha view to fattening its own profile andbottomline. For a while now, restaurants around\nthe world, in deference to the near-universal obsession with \u201cwellness\u201d, have been print-\ning in their menus the calorie count of every item: About 403 kcalin a plate of pasta, 365\nkcal in a serving of fries and 250 kcal in one bowl of ice cream. As a tactic, it is the equiva-\nlent of having one\u2019s cake (430 kcal per slice if it's eggless, 355 if not) and eating it too.\nCustomers are comforted by this acknowledgment of their anxieties, and the eateries get\nto wash off \u2014 at least to some extent \u2014 the taint of the late Anthony Bourdain\u2019s infamous\nquip about butter being the first and last thing in \u201cjust about every pan in a restaurant\u201d.",
+   "ocr_conf": 91.6046511627907,
+   "ocr_low_conf_share": 0.01744186046511628,
+   "headline": "ALL ABOUT BUTTER",
+   "deck": "",
+   "byline": "",
+   "text": "A Thai eatery is offering fat discounts to thin customers. There may be more to it than 'fat-shaming' T HETHINNER THE customer, the fatter the discount: This appears to be the business strategy adopted by a cafe in Thailand, which is making customers slide through the gaps between strategically placed bars to geta \"skinny discount\". As per a recent viral video, the width of each gap determines the size of the discounta customer may score, with 20 per cent for the narrowest and zero for the widest. In thus reminding blissfully blinkered customers of how much their waistlines may have expanded, is the restaurant \"fat-shaming them\", as a section of the internet alleges? Oris it, in a benevolent gesture, reminding them to take care of themselves, as some others have argued? Whatever the motive of the Chiang Mai eatery, the fact is that nobody eats out for their health, and few like to be reminded of this. This is the secret compact, beyond the guarantee of a good time and a delicious meal, that keeps the restaurant industry running in a time of extreme health - or, rather, fat - consciousness. But the Thai cafe is not the first to pander to the near-universal obsession with wellness witha view to fattening its own profile andbottomline. For a while now, restaurants around the world, in deference to the near-universal obsession with \"wellness\", have been printing in their menus the calorie count of every item: About 403 kcalin a plate of pasta, 365 kcal in a serving of fries and 250 kcal in one bowl of ice cream. As a tactic, it is the equivalent of having one's cake (430 kcal per slice if it's eggless, 355 if not) and eating it too. Customers are comforted by this acknowledgment of their anxieties, and the eateries get to wash off - at least to some extent - the taint of the late Anthony Bourdain's infamous quip about butter being the first and last thing in \"just about every pan in a restaurant\".",
+   "n_words": 339,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      5362,
+      3441,
+      5452
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2277,
+      5486,
+      2771,
+      5536
+     ],
+     [
+      1689,
+      5717,
+      1971,
+      5769
+     ]
+    ],
+    "body_boxes": [
+     [
+      1693,
+      5875,
+      1801,
+      5909
+     ],
+     [
+      1869,
+      5771,
+      2099,
+      5806
+     ],
+     [
+      2271,
+      5575,
+      2879,
+      5928
+     ],
+     [
+      2922,
+      5496,
+      3528,
+      5729
+     ],
+     [
+      2924,
+      5777,
+      3527,
+      6166
+     ]
+    ],
+    "layout_words": 152
+   },
+   "headline_raw": "APRIL 11, 1985, FoRTy YEARS AGO",
+   "deck_raw": "INQUIRY INTO RIOTS\n, oad",
+   "body_raw": "Vieiiae catteet oen\nnar fo Fab ate\n\npS . \u00a2 ae\n(tent past 6a ; 7\nPanjeh that\u201d\n\nTHE GOVERNMENT MAY announce a judicial\ninquiry into the nots following indira Gandhi's\nassassination and alsorelease some top Akali\nleaders, in a bid to avert the Akali threat to\nlaunch the next phase of their agitation on\nBaisakhi Day. The government might an-\nnounce some further initiative which could\nprovide the Akali leadership an opportunity\nto postpone their plan.\n\nagitation was withdrawn, two crude detona-\ntorsexploded near the telephoneexchange at\nJesar in Bhavnagar district. No casualty or\ndamage, however, was reported. Three stu-\ndents have been arrested. Rioters uprooted\ntelephone poles and burnt furniture,\n\nPAKISTANI CABINET\nTHE NEW PRIME minister of Pakistan,\nMohammed Khan Junejo, announced a 13-\nmember civilian cabinet, retaining four min-\nisters of the outgoing military regime. The\nnew cabinet isa mixture oftechnical experts\nand politicians, with some having no previ-\nous government experience. The outgoing\nforeign minister, Sahabzada Yaqub Khan, re-",
+   "ocr_conf": 84.29447852760737,
+   "ocr_low_conf_share": 0.12883435582822086,
+   "headline": "APRIL 11, 1985, FoRTy YEARS AGO",
+   "deck": "INQUIRY INTO RIOTS, oad",
+   "byline": "",
+   "text": "Vieiiae catteet oen nar fo Fab ate\n\n(tent past 6a; 7 Panjeh that\"\n\nTHE GOVERNMENT MAY announce a judicial inquiry into the nots following indira Gandhi's assassination and alsorelease some top Akali leaders, in a bid to avert the Akali threat to launch the next phase of their agitation on Baisakhi Day. The government might announce some further initiative which could provide the Akali leadership an opportunity to postpone their plan.\n\nagitation was withdrawn, two crude detonatorsexploded near the telephoneexchange at Jesar in Bhavnagar district. No casualty or damage, however, was reported. Three students have been arrested. Rioters uprooted telephone poles and burnt furniture,\n\nPAKISTANI CABINET THE NEW PRIME minister of Pakistan, Mohammed Khan Junejo, announced a 13- member civilian cabinet, retaining four ministers of the outgoing military regime. The new cabinet isa mixture oftechnical experts and politicians, with some having no previous government experience. The outgoing foreign minister, Sahabzada Yaqub Khan, re-",
+   "n_words": 153,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      5975,
+      2812,
+      6019
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2277,
+      6051,
+      2878,
+      6166
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "RESERVATION UNREST",
+   "deck_raw": "",
+   "body_raw": "EVEN AS THE Gujarat government took a\ntough stand, saying it would not review its\nreservation policy unless theanti-reservation",
+   "ocr_conf": 93.78947368421052,
+   "ocr_low_conf_share": 0.0,
+   "headline": "RESERVATION UNREST",
+   "deck": "",
+   "byline": "",
+   "text": "EVEN AS THE Gujarat government took a tough stand, saying it would not review its reservation policy unless theanti-reservation",
+   "n_words": 19,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 24.2,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

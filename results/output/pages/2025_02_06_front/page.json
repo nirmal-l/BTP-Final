@@ -1,0 +1,591 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_06_front",
+ "source_file": "2025-02-06_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-06_front.png",
+ "date": "2025-02-06",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 343,
+  "mean_line_conf": 87.42590623180887,
+  "orphan_words": 4,
+  "body_words_total": 1018
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BusINEss AS USUAL",
+   "ocr_conf": 76.66666666666667,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "BusINEss AS USUAL",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2782,
+      788,
+      4171,
+      1021
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2801,
+      698,
+      4149,
+      747
+     ],
+     [
+      2797,
+      1071,
+      4154,
+      1131
+     ]
+    ],
+    "body_boxes": [
+     [
+      2762,
+      1344,
+      3207,
+      2679
+     ]
+    ],
+    "layout_words": 165
+   },
+   "headline_raw": "Delhi Decides",
+   "deck_raw": "RESULTS TO BE DECLARED ON FEBRUARY 8\n60.44% total turnout, North East Delhi highest at 66.25%",
+   "body_raw": "THE 70 Assembly constituencies\nof Delhi, where the AAP is seek-\ning a third consecutive term\nwhile the BJP is hoping fora\ncomeback after 27 years, sawa\ntotal turnout of 60.44 per cent,\naccording _to Election\nCommission data available at\nmidnight Wednesday. Polling\nStarted at 7 am and continued till\nafter 6pm insome areas.\nThe Capital had recorded a\ntumout of 62.59 per cent in the\n2020Assembly polls, and 58.69\nper cent in the 2024 Lok Sabha\nelections.\nOn Wednesday, the highest\nturnout was recorded in North\nEast district, which saw 66.25\npercent polling, while South\nEast districtrecorded the lowest\ntumout at 56.31 percent.\nAccording to the EC's district-\nwise data at midnight, the\nturnout was 59.09 per cent in\nCentral Delhi, 62.40 per cent in\nEast, 57.13 percent in New Delhi,\n59.55 percent in North, 60.70\npercentin North West, 63.94 per\ncentin Shahdara, 58.16 percent\nin South, 61.09 percent in South\nWest,and 60.76 per centin West.\nAmong constituencies, North\nEast Delhi's Mustafabad had the",
+   "ocr_conf": 89.37575757575758,
+   "ocr_low_conf_share": 0.06060606060606061,
+   "headline": "Delhi Decides",
+   "deck": "RESULTS TO BE DECLARED ON FEBRUARY 8 60.44% total turnout, North East Delhi highest at 66.25%",
+   "byline": "",
+   "text": "THE 70 Assembly constituencies of Delhi, where the AAP is seeking a third consecutive term while the BJP is hoping fora comeback after 27 years, sawa total turnout of 60.44 per cent, according _to Election Commission data available at midnight Wednesday. Polling Started at 7 am and continued till after 6pm insome areas. The Capital had recorded a tumout of 62.59 per cent in the 2020Assembly polls, and 58.69 per cent in the 2024 Lok Sabha elections. On Wednesday, the highest turnout was recorded in North East district, which saw 66.25 percent polling, while South East districtrecorded the lowest tumout at 56.31 percent. According to the EC's district-wise data at midnight, the turnout was 59.09 per cent in Central Delhi, 62.40 per cent in East, 57.13 percent in New Delhi, 59.55 percent in North, 60.70 percentin North West, 63.94 per centin Shahdara, 58.16 percent in South, 61.09 percent in South West,and 60.76 per centin West. Among constituencies, North East Delhi's Mustafabad had the",
+   "n_words": 163,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      515,
+      979,
+      648,
+      1017
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "DEPARTURES}",
+   "ocr_conf": 29.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "DEPARTURES}",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1447,
+      747,
+      1766
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2410,
+      719,
+      2560
+     ],
+     [
+      322,
+      2610,
+      763,
+      2684
+     ]
+    ],
+    "layout_words": 16
+   },
+   "headline_raw": "Trump says\nUS should take\nover Gaza,\nallies say no",
+   "deck_raw": "",
+   "body_raw": "AAMER MADHANI,\nTIAGOLDENBERG\n& ZEKE MILLER\nWASHINGTON, FEBRUARY 5\n\nUS PRESIDENT Donald Trump\nsuggested that displaced",
+   "ocr_conf": 90.1875,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Trump says US should take over Gaza, allies say no",
+   "deck": "",
+   "byline": "AAMER MADHANI,; TIAGOLDENBERG; & ZEKE MILLER; WASHINGTON, FEBRUARY 5",
+   "text": "US PRESIDENT Donald Trump suggested that displaced",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      1406,
+      2693,
+      1637
+     ],
+     [
+      812,
+      1649,
+      2699,
+      1998
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      1806,
+      1734,
+      1936
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      2016,
+      1239,
+      2125
+     ],
+     [
+      806,
+      2175,
+      1254,
+      2446
+     ],
+     [
+      1300,
+      1978,
+      1742,
+      2281
+     ],
+     [
+      1302,
+      2363,
+      1685,
+      2438
+     ],
+     [
+      1783,
+      2175,
+      2231,
+      2446
+     ],
+     [
+      2276,
+      2018,
+      2719,
+      2440
+     ]
+    ],
+    "layout_words": 153
+   },
+   "headline_raw": "US plane brings back 104 deported Indians,\nmost from Gujarat, Punjab and Haryana\n33 each from Gujarat and Haryana, 30 Working on law for safe\nfrom Punjab; 25 women, 12 minors . .\n| so migration: MEA to panel",
+   "deck_raw": "33 each from Gujarat and Haryana, 30\nfrom Punjab; 25 women, 12 minors",
+   "body_raw": "KAMALDEEP SINGHBRAR\n& ADITIRAJA\nAMRITSAR, VADODARA, FEB 5\n\nAUNTTED States military C-17\naircraft carrying 104 deported\nIndian nationals from Haryana,\nGujarat, Punjab, Uttar Pradesh\nand Maharashtra landed at\nAmritsar airport Wednesday af-\nternoon. The flight, which de-\n\nparted from San Antonio, Texas,\nTuesday aftemoon, also had 11\ncrew members and 45 US offi-\ncials on board.\nOfficials told The Indian\nExpress that the highest number\nof deportees \u2014 33 each \u2014 are\nCONTINUED ON PAGE 2\n\nRELATED REPORTS\nPAGE 7\n\nAT Atime when the first batch of\nillegal Indian immigrants were\ndeported from the US under the\nTrump 2.0 administration, the\nIndian govemmentis \u201cseriously\nconsidering\u201d enacting anew law,\ntentatively titled \u2018Overseas\n\nMobility (Facilitation and\nWelfare) Bill, 2024\u2019, to establish\nan enabling framework which\nwill promote \u201csafe, orderty and\nregular migration for overseas\nemployment\u201d.\nThis has emerged from a re-\nport presented in Lok Sabha by\nthe Parliamentary Standing\nCommittee on Extemal Affairs,\nCONTINUED ON PAGE2",
+   "ocr_conf": 84.80645161290323,
+   "ocr_low_conf_share": 0.1032258064516129,
+   "headline": "US plane brings back 104 deported Indians, most from Gujarat, Punjab and Haryana 33 each from Gujarat and Haryana, 30 Working on law for safe from Punjab; 25 women, 12 minors.. so migration: MEA to panel",
+   "deck": "33 each from Gujarat and Haryana, 30 from Punjab; 25 women, 12 minors",
+   "byline": "KAMALDEEP SINGHBRAR; & ADITIRAJA; AMRITSAR, VADODARA, FEB 5",
+   "text": "AUNTTED States military C-17 aircraft carrying 104 deported Indian nationals from Haryana, Gujarat, Punjab, Uttar Pradesh and Maharashtra landed at Amritsar airport Wednesday afternoon. The flight, which departed from San Antonio, Texas, Tuesday aftemoon, also had 11 crew members and 45 US officials on board. Officials told The Indian Express that the highest number of deportees - 33 each - are\n\nRELATED REPORTS\n\nAT Atime when the first batch of illegal Indian immigrants were deported from the US under the Trump 2.0 administration, the Indian govemmentis \"seriously considering\" enacting anew law, tentatively titled 'Overseas\n\nMobility (Facilitation and Welfare) Bill, 2024', to establish an enabling framework which will promote \"safe, orderty and regular migration for overseas employment\". This has emerged from a report presented in Lok Sabha by the Parliamentary Standing Committee on Extemal Affairs,",
+   "n_words": 134,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3294,
+      2088,
+      3558,
+      2159
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3291,
+      2598,
+      3605,
+      2681
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "DECISION",
+   "deck_raw": "",
+   "body_raw": "@ What Delhi voted\nfor: Better roads,",
+   "ocr_conf": 94.42857142857143,
+   "ocr_low_conf_share": 0.0,
+   "headline": "DECISION",
+   "deck": "",
+   "byline": "",
+   "text": "@ What Delhi voted for: Better roads,",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3740,
+      2082,
+      4168,
+      2424
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3743,
+      2574,
+      4182,
+      2687
+     ],
+     [
+      3738,
+      2682,
+      4183,
+      3116
+     ]
+    ],
+    "layout_words": 52
+   },
+   "headline_raw": "Most exit polls\ngive BJP edge,\nAAP says\nnever right",
+   "deck_raw": "",
+   "body_raw": "MOST EXIT pollson Wednesday\npredicted a sweep for the BjPin\nthe Delhi Asse mbly elections,\n\nee I I OE OE A\nwhile three projected AAP's re-\nturn to power, and another two\nshowed a close contest.\nInterestingly, many of the polls\nshowed that the Congress may\nopen its account, after drawing\nablank inthe 2020 elections.\nThe exit polls are projections\nmade byelection surveyagencies\nbased on interviews of voters.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.04166666666667,
+   "ocr_low_conf_share": 0.09722222222222222,
+   "headline": "Most exit polls give BJP edge, AAP says never right",
+   "deck": "",
+   "byline": "",
+   "text": "MOST EXIT pollson Wednesday predicted a sweep for the BjPin the Delhi Asse mbly elections,\n\nwhile three projected AAP's return to power, and another two showed a close contest. Interestingly, many of the polls showed that the Congress may open its account, after drawing ablank inthe 2020 elections. The exit polls are projections made byelection surveyagencies based on interviews of voters.",
+   "n_words": 61,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      2516,
+      2153,
+      2749
+     ],
+     [
+      1788,
+      2704,
+      2178,
+      2940
+     ],
+     [
+      810,
+      3244,
+      1630,
+      3311
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      3359,
+      1738,
+      3436
+     ],
+     [
+      1785,
+      3641,
+      2230,
+      4230
+     ],
+     [
+      1784,
+      4274,
+      2229,
+      5091
+     ]
+    ],
+    "layout_words": 183
+   },
+   "headline_raw": "\u2018Congress is\nonly reason\nwhy Modi\nwhy Modi\nhas not been\ndefeated yet\u2019\nPM AT MAHA KUMBH",
+   "deck_raw": "",
+   "body_raw": "Prime Minister Narendra Modioffers prayers atthe Sangam\nduring the Maha Kumbhin Prayagraj Wednesday. ANI PAGE 6\n\nIN LOK Sabha on Tuesday,\nSamajwadi Party (SP) chief\nAkhilesh Yadav demanded\n\u201cstrict punitive action\u201d against\nthose responsible forthe January\n29 Maha Kumbh stampede.\nIn an interview, the party's\nRajya Sabha MP Ram Gopal\nYadav, Akhilesh's uncle, tells The\nIndian Express why he thinks the\nYogi Adityanath government in\nUttar Pradesh is concealing the\ndeath toll figures, and talks about\nthe state of the INDIA bloc,\namong other issues. Excerpts:\n\nWhat makesthe Opposition\nthink that thetoll of the\nKumbh stampede is higher\nand that the UP government is\nconcealing the actual figure?\nNobody believes the govern-\nment The peopte whowinssed\nthe stampede also think itisa lie\nThe government has not yet re-\nleased any figures. Thousands of\npeople have approached the lost-\nand-found counter and some\npeople connected to my family\nsay around 15,000 people are\nrunning from pillarto post tofind\ntheirnearand dearones,\nWith the figures that(Leader\nof the Opposition in the Rajya\nSabha) Mallikarjun Kharge Saab\nprovided in the House, it is\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.8360655737705,
+   "ocr_low_conf_share": 0.03278688524590164,
+   "headline": "'Congress is only reason why Modi why Modi has not been defeated yet' PM AT MAHA KUMBH",
+   "deck": "",
+   "byline": "",
+   "text": "Prime Minister Narendra Modioffers prayers atthe Sangam during the Maha Kumbhin Prayagraj Wednesday. ANI PAGE 6\n\nIN LOK Sabha on Tuesday, Samajwadi Party (SP) chief Akhilesh Yadav demanded \"strict punitive action\" against those responsible forthe January 29 Maha Kumbh stampede. In an interview, the party's Rajya Sabha MP Ram Gopal Yadav, Akhilesh's uncle, tells The Indian Express why he thinks the Yogi Adityanath government in Uttar Pradesh is concealing the death toll figures, and talks about the state of the INDIA bloc, among other issues. Excerpts:\n\nWhat makesthe Opposition think that thetoll of the Kumbh stampede is higher and that the UP government is concealing the actual figure? Nobody believes the government The peopte whowinssed the stampede also think itisa lie The government has not yet released any figures. Thousands of people have approached the lostand-found counter and some people connected to my family say around 15,000 people are running from pillarto post tofind theirnearand dearones, With the figures that(Leader of the Opposition in the Rajya Sabha) Mallikarjun Kharge Saab provided in the House, it is",
+   "n_words": 176,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3291,
+      2682,
+      3646,
+      2749
+     ],
+     [
+      3291,
+      2704,
+      3611,
+      3002
+     ],
+     [
+      3291,
+      2863,
+      3651,
+      2940
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3277,
+      3045,
+      3699,
+      3080
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "clean water, a remedy\nfar nnthitian\nciean Walter, a remec\nfor pollution\n@ AAP & BJP face off\nover claims of fake\nvoting, distribution:\nmoney near booths\nover Claims of fake\nvoting, distribution of",
+   "deck_raw": "",
+   "body_raw": "www.indianexpress.com |",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "clean water, a remedy far nnthitian ciean Walter, a remec for pollution @ AAP & BJP face off over claims of fake voting, distribution: money near booths over Claims of fake voting, distribution of",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3606,
+      1633,
+      4046
+     ]
+    ],
+    "deck_boxes": [
+     [
+      323,
+      3371,
+      708,
+      3425
+     ],
+     [
+      322,
+      3547,
+      1738,
+      3582
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      3994,
+      762,
+      4386
+     ],
+     [
+      971,
+      3877,
+      1221,
+      4022
+     ],
+     [
+      856,
+      4076,
+      1201,
+      4340
+     ],
+     [
+      1294,
+      3837,
+      1740,
+      4379
+     ]
+    ],
+    "layout_words": 137
+   },
+   "headline_raw": "bo \u2018\u00a2 bd\nWide gap between \u2018street maths\n\u2018\u00e9 >\nand \u2018school maths\u2019, shows study\n- 7 Jo ates Esther Duflo and J\nABHINAYAHARIGOVIND = Academics Banerjee that exposes.\nNEW DELHI, FEBRUARY 5 4 . i i ia\u2019\n| = a vsreaFlife aisconnectinindia smat\nCHILD VENDORS can mentally [iS @ skills The team set out to i\npalriulara ramnloy rarrvarranc ~~ \u2014--JVSX__ oateiusmhaether ase ess Atk",
+   "deck_raw": "RELATED REPORTS\nNOBEL LAUREATES ESTHER DUFLO, ABHIJIT BANERJEE IN RESEARCH TEAM",
+   "body_raw": "CHILD VENDORS can mentally\ncalculate complex market trans-\nactions in seconds but struggie\nwith simpler abstract maths\ntaught in schools, while their\nschool-going peers excel at aca-\ndemic maths but fail at basic\nreal-world calculations, reveals\na new study by a team of re-\nsearchersincluding Nobel laure-\n\nAcademics\nvsrea-life\n@ skills\n\nTHE STUDY points to the\nlong road ahead, includ-\ning finding ways for the\nschool cumiculum, teach-\ning and assessment to\nconnect with real-life\nskills.\n\nates Esther Duflo and Abhijit\nBanerjee that exposes a stark\ndisconnect in India's mathemat-\nics education.\nThe team set out to investi-\ngaie whether mathematics skills\nacquired by children in real-\nworld settings transfer to the\nclassroom and vice versa. For\nthis, the researchers worked\nwith 1,436 child vendors in Delhi\nand Kolkata markets and 471\nschoolchildren, and found that\nCONTINUEDONPAGE2",
+   "ocr_conf": 90.53284671532846,
+   "ocr_low_conf_share": 0.0364963503649635,
+   "headline": "Wide gap between 'street maths and 'school maths', shows study - 7 Jo ates Esther Duflo and J ABHINAYAHARIGOVIND = Academics Banerjee that exposes. NEW DELHI, FEBRUARY 5 4. i i ia' = a vsreaFlife aisconnectinindia smat CHILD VENDORS can mentally [iS @ skills The team set out to i palriulara ramnloy rarrvarranc ~~ - --JVSX__ oateiusmhaether ase ess Atk",
+   "deck": "RELATED REPORTS NOBEL LAUREATES ESTHER DUFLO, ABHIJIT BANERJEE IN RESEARCH TEAM",
+   "byline": "",
+   "text": "CHILD VENDORS can mentally calculate complex market transactions in seconds but struggie with simpler abstract maths taught in schools, while their school-going peers excel at academic maths but fail at basic real-world calculations, reveals a new study by a team of researchersincluding Nobel laure-\n\nAcademics vsrea-life @ skills\n\nTHE STUDY points to the long road ahead, including finding ways for the school cumiculum, teaching and assessment to connect with real-life skills.\n\nates Esther Duflo and Abhijit Banerjee that exposes a stark disconnect in India's mathematics education. The team set out to investigaie whether mathematics skills acquired by children in real-world settings transfer to the classroom and vice versa. For this, the researchers worked with 1,436 child vendors in Delhi and Kolkata markets and 471 schoolchildren, and found that CONTINUEDONPAGE2",
+   "n_words": 129,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      4464,
+      1717,
+      4722
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      4866,
+      761,
+      5098
+     ],
+     [
+      808,
+      4709,
+      1250,
+      5093
+     ],
+     [
+      1295,
+      4709,
+      1738,
+      5091
+     ]
+    ],
+    "layout_words": 125
+   },
+   "headline_raw": "8,000 candidates join PM internship\nscheme in 4 months since its launch",
+   "deck_raw": "",
+   "body_raw": "JUST ABOUT 8,000 candidates\nhave taken up offers in the pilot\nproject of the Prime Minister's\nIntemship Scheme till the mid-\ndie of January, sources involved\nin the process said. The pilot\n\nphase was launched in October,\nwhile the scheme itself was an-\nnounced in the Union Budget for\n2024-25 last July.\nOf the 1.27 lakh internship\nopportunities listed by 280com-\nPaniesin the first phase, partner\ncompanies made 82.077 intem-\nshipoffers t0 60,866 candidates.\nOf these, 28,141 candidates ac-\n\ncepted offers to join the intem-\nship as on January 29,2025, ac-\ncording & a Lok Sabha reply by\nthe Ministry of Corporate Affairs\non February 3.\nSources told The Indian Exp-\nress that onlyabout 8,000 candi-\ndates have joined theintemship\nprogrammein the first phase.\nCONTINUEDONPAGE2",
+   "ocr_conf": 90.408,
+   "ocr_low_conf_share": 0.04,
+   "headline": "8,000 candidates join PM internship scheme in 4 months since its launch",
+   "deck": "",
+   "byline": "",
+   "text": "JUST ABOUT 8,000 candidates have taken up offers in the pilot project of the Prime Minister's Intemship Scheme till the middie of January, sources involved in the process said. The pilot\n\nphase was launched in October, while the scheme itself was announced in the Union Budget for Of the 1.27 lakh internship opportunities listed by 280com-Paniesin the first phase, partner companies made 82.077 intemshipoffers t0 60,866 candidates. Of these, 28,141 candidates accepted offers to join the intemship as on January 29,2025, according & a Lok Sabha reply by the Ministry of Corporate Affairs on February 3. Sources told The Indian Express that onlyabout 8,000 candidates have joined theintemship programmein the first phase. CONTINUEDONPAGE2",
+   "n_words": 113,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      5236,
+      2213,
+      5473
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      5544,
+      502,
+      5576
+     ],
+     [
+      321,
+      5856,
+      765,
+      6166
+     ],
+     [
+      1784,
+      5499,
+      2231,
+      6160
+     ]
+    ],
+    "layout_words": 123
+   },
+   "headline_raw": "How Dalit couple argued own case, won\ndamages for intellectual property loss",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nWITH THEIR laptop allegedly\nstolen and decades of research\ndata destroyed duringan alleged\neviction attempt by their house\nowner's son in Nagpur in 2018,\nDalit scholars Dr Kshipra\nKamlesh Uke and Dr Shiv\nShankar Das say the only option\n\nthey had was to \u201cfight it out\u201d.\nIt wasa fightthat would end\nup in the courts, which sat in\njudgment on a fundamental\nquestion of law: does \u2018damage to\nproperty\u2019 in the Scheduled\nCastes and Scheduled Tribes\n(Preventionof Atrocities) Act in-\nclude intellectual property (IP)?\nOn January 24, a Supreme\nCourt bench of Justices B V\nNagarathna and S C Sharma\nruled in their favour, upholdinga\nBombay High Court order of\n2023 that expanded the defini-\ntion of \u2018damage to property\u2019 in\nCONTINUED ONPAGE 2",
+   "ocr_conf": 87.944,
+   "ocr_low_conf_share": 0.088,
+   "headline": "How Dalit couple argued own case, won damages for intellectual property loss",
+   "deck": "",
+   "byline": "ANCHOR",
+   "text": "WITH THEIR laptop allegedly stolen and decades of research data destroyed duringan alleged eviction attempt by their house owner's son in Nagpur in 2018, Dalit scholars Dr Kshipra Kamlesh Uke and Dr Shiv Shankar Das say the only option\n\nthey had was to \"fight it out\". It wasa fightthat would end up in the courts, which sat in judgment on a fundamental question of law: does 'damage to property' in the Scheduled Castes and Scheduled Tribes (Preventionof Atrocities) Act include intellectual property (IP)? On January 24, a Supreme Court bench of Justices B V Nagarathna and S C Sharma ruled in their favour, upholdinga Bombay High Court order of 2023 that expanded the definition of 'damage to property' in",
+   "n_words": 119,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 14.6,
+ "flags": []
+}

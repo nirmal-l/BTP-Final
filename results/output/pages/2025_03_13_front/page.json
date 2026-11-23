@@ -1,0 +1,702 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_13_front",
+ "source_file": "2025-03-13_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-13_front.png",
+ "date": "2025-03-13",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 363,
+  "mean_line_conf": 86.58764396918428,
+  "orphan_words": 9,
+  "body_words_total": 1336
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BuSINEss AS USUAL",
+   "ocr_conf": 78.0,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "BuSINEss AS USUAL",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      771,
+      2584,
+      890
+     ],
+     [
+      815,
+      903,
+      2657,
+      1088
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      1105,
+      1091,
+      1215
+     ],
+     [
+      807,
+      1263,
+      1256,
+      1620
+     ],
+     [
+      1297,
+      1737,
+      2218,
+      1853
+     ],
+     [
+      2273,
+      1068,
+      2722,
+      1886
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "Pakistan train siege ends: 2] hostages\ndead, all 33 attackers killed, says Army",
+   "deck_raw": "",
+   "body_raw": "SALEEM AHMED\n& ASIF SHAHZAD\nQUETTA, MARCH 12\n\nPAKISTANI SECURITY forces\nstormed a train on Wednesday\nthat had been hijacked by sepa-\nratist militants, killing all 33 at-\ntackers and ending a day-long\nstandoff involving hundreds of\nhostages, the military said.\nSenaratis Baloch militantcon\nTuesday ttew upthe raiway track\n\nAsecurity personstands guard near a train carryingempty\ncoffins at a railway station in Quetta Wednesday. The coffins\nare being sent to Bolan, where a train was hijacked. Reuters\n\nchimed tohave camedout the at-\ntack and warned that the\nhostages\u2019 lives would be at risk if\nthe govemment did notnegntiate.\nThe Pakistan military\nspokesperson, Lt Gen Ahmed\nSharif Chaudhry, said 21 hostages\nand all 33 insurgents had been\nkilled. He said 440 people had\nbeen on board. \u201cToday we freed\nalargenumberof people, includ-\ning women and children... The fi-\nnal operation was carried out\nwith great care,\u201d Chaudhry said,\nadding that no civilians were\nkilled in the operation. He said\nthe security forces had cleared\nthe train \u201cbogie to bogie\u201d.\nAn AP report said security\nforces had rescued 346 hostages.\nCONTINUED ON PAGE2",
+   "ocr_conf": 84.56906077348066,
+   "ocr_low_conf_share": 0.13259668508287292,
+   "headline": "Pakistan train siege ends: 2] hostages dead, all 33 attackers killed, says Army",
+   "deck": "",
+   "byline": "SALEEM AHMED; & ASIF SHAHZAD; QUETTA, MARCH 12",
+   "text": "PAKISTANI SECURITY forces stormed a train on Wednesday that had been hijacked by separatist militants, killing all 33 attackers and ending a day-long standoff involving hundreds of hostages, the military said. Senaratis Baloch militantcon Tuesday ttew upthe raiway track\n\nAsecurity personstands guard near a train carryingempty coffins at a railway station in Quetta Wednesday. The coffins are being sent to Bolan, where a train was hijacked. Reuters\n\nchimed tohave camedout the attack and warned that the hostages' lives would be at risk if the govemment did notnegntiate. The Pakistan military spokesperson, Lt Gen Ahmed Sharif Chaudhry, said 21 hostages and all 33 insurgents had been killed. He said 440 people had been on board. \"Today we freed alargenumberof people, including women and children... The final operation was carried out with great care,\" Chaudhry said, adding that no civilians were killed in the operation. He said the security forces had cleared the train \"bogie to bogie\". An AP report said security forces had rescued 346 hostages.",
+   "n_words": 165,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2767,
+      792,
+      4090,
+      1299
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2767,
+      701,
+      3955,
+      750
+     ]
+    ],
+    "body_boxes": [
+     [
+      2765,
+      1372,
+      3192,
+      1703
+     ],
+     [
+      2763,
+      1779,
+      3082,
+      1848
+     ],
+     [
+      2762,
+      1898,
+      3207,
+      2922
+     ],
+     [
+      3252,
+      2453,
+      3691,
+      2648
+     ],
+     [
+      3249,
+      2731,
+      3696,
+      3115
+     ],
+     [
+      3786,
+      2692,
+      4143,
+      3084
+     ]
+    ],
+    "layout_words": 238
+   },
+   "headline_raw": "India, Mauritius sign\neight pacts as PMs\ndecide to elevate ties",
+   "deck_raw": "ENHANCED STRATEGIC PARTNERSHIP",
+   "body_raw": "India to build\nnew Mauritius\nParliament\nbuilding, train\n500 civil servants\n\nSHUBHAJITROY\nNEW DELHI, MARCH 12\n\nPRIME MINISTER Narendra Modi\nand Mauritius Prime Minister\nNavin Chandra Ramgoolam de-\ncided Wednesday to elevate the\nstatus of the India-Mauritius\npartnership to an \u201cEnhanced\nStrategic Partnership\u201d.\nThe Indian government an-\nnounced new infrastructure proj-\nects \u2014 small in scale and meant\nfor the local communities \u2014\nworth 500 million Mauritian ru-\npees (about Rs 100 crore), It will\nalso build the new Parliament\nbuilding in Mauritius. The two\ncountries agreed to settle their\nmutual trade in local currency.\nAfter the bilateral meeting in\nPort Louis, Prime Minister Modi\nsaid, \u201cToday, Prime Minister\nNavin Chandra Ramgoolam and\nI decided to give the India-Mau-\nrittus partnership the status of\n\u2018Enhanced Strategic Parmership\u2019.\u201d\n\u201cInthe second phase of com-\nmunity development projects,\n\nPM Narendra Modi with\nMauritius President\nDharambeer Gokhool (left)\nand PM Navinchandra\nRamgoolam in Port Louis. pn\n\n\u201cWe decided that India will\ncooperate in building the new\nParliament building = in\nMauritius. This will be a gift to\nMauritius from the Mother of\nDemocracy.\u201d Modi _ said.\nHe also outlined the vision\nfor Global South \u2014 MAHASAGAR\nor \u201cMutual and Holistic\nCONTINUED ON PAGE 2\n\nCHINA'S ASSERTION and\nits expanding footprint in\nthe Indian Ocean has\nbeen closely tracked by\nDelhi. For thisvery rea-\nson, it has been firming\nup alliances, especially\nthose related to maritime\nsecurity, with island na-\ntions inthe region.",
+   "ocr_conf": 89.3109243697479,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "India, Mauritius sign eight pacts as PMs decide to elevate ties",
+   "deck": "ENHANCED STRATEGIC PARTNERSHIP",
+   "byline": "SHUBHAJITROY; NEW DELHI, MARCH 12",
+   "text": "India to build new Mauritius Parliament building, train 500 civil servants\n\nPRIME MINISTER Narendra Modi and Mauritius Prime Minister Navin Chandra Ramgoolam decided Wednesday to elevate the status of the India-Mauritius partnership to an \"Enhanced Strategic Partnership\". The Indian government announced new infrastructure projects - small in scale and meant for the local communities - worth 500 million Mauritian rupees (about Rs 100 crore), It will also build the new Parliament building in Mauritius. The two countries agreed to settle their mutual trade in local currency. After the bilateral meeting in Port Louis, Prime Minister Modi said, \"Today, Prime Minister Navin Chandra Ramgoolam and I decided to give the India-Maurittus partnership the status of 'Enhanced Strategic Parmership'.\" \"Inthe second phase of community development projects,\n\nPM Narendra Modi with Mauritius President Dharambeer Gokhool (left) and PM Navinchandra Ramgoolam in Port Louis. pn\n\n\"We decided that India will cooperate in building the new Parliament building = in Mauritius. This will be a gift to Mauritius from the Mother of Democracy.\" Modi _ said. He also outlined the vision for Global South - MAHASAGAR or \"Mutual and Holistic\n\nCHINA'S ASSERTION and its expanding footprint in the Indian Ocean has been closely tracked by Delhi. For thisvery reason, it has been firming up alliances, especially those related to maritime security, with island nations inthe region.",
+   "n_words": 221,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      628,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 90.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      369,
+      1491,
+      708,
+      1566
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The IndianEXPRESS\nwishesits readers",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The IndianEXPRESS wishesits readers",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      418,
+      1579,
+      664,
+      1626
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      388,
+      1852,
+      696,
+      2046
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "A Happy Holi",
+   "deck_raw": "",
+   "body_raw": "W\u00e9 are dosad today &\ntomorrow. Therewill be\nno edition of the paper\non Friday & Saturday,\nMarch 14-15, 2025",
+   "ocr_conf": 83.1,
+   "ocr_low_conf_share": 0.05,
+   "headline": "A Happy Holi",
+   "deck": "",
+   "byline": "",
+   "text": "W\u00e9 are dosad today & tomorrow. Therewill be no edition of the paper on Friday & Saturday,",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      996,
+      1564,
+      1251,
+      1620
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      812,
+      1621,
+      1253,
+      1892
+     ]
+    ],
+    "layout_words": 32
+   },
+   "headline_raw": "nnn ee ee\nee) eee: Seer een Pa\n(UPUR Ld BYVdy Liat K\n\u2018., oe",
+   "deck_raw": "",
+   "body_raw": "and hurled rockets at the Jaffar\nExpress when it wason its wayto\nPeshawar in Khyber\nPakhtunkhwa province from\nBalochistan's capital of Quetta, a\nsecurity source said. The Baloch\nLiberation Army (BLA) had",
+   "ocr_conf": 90.75,
+   "ocr_low_conf_share": 0.0625,
+   "headline": "nnn ee ee ee) eee: Seer een Pa (UPUR Ld BYVdy Liat K",
+   "deck": "",
+   "byline": "",
+   "text": "and hurled rockets at the Jaffar Express when it wason its wayto Peshawar in Khyber Pakhtunkhwa province from Balochistan's capital of Quetta, a security source said. The Baloch Liberation Army (BLA) had",
+   "n_words": 32,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      1959,
+      1728,
+      2251
+     ],
+     [
+      812,
+      2178,
+      1267,
+      2251
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2332,
+      1115,
+      2482
+     ],
+     [
+      810,
+      2532,
+      1252,
+      3121
+     ],
+     [
+      1297,
+      2847,
+      1739,
+      3114
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "India needs to grow 8%\nfor progress, core sector\nmust invest: SBI chief\nmust invest:",
+   "deck_raw": "",
+   "body_raw": "HITESH VYAS,\nGEORGE MATHEW\n& SANDEEP SINGH\nMUMBAI, MARCH 12\n\nINDIA DEFINITELY needs to grow\nat 8 percent to progress, and this\nneeds consumptionand private\ncapital expenditure, said Challa\nSree nivasulu Setty, Chairman,\nState Bank of India, the largest\nbank in the country with ade-\nposit baseofRs52.29 lakhcrore.\n\u201cIndia definitely requires a\ngrowth rate of 8 per cent to\nprogress, but this (current)\ngrowth rate (of around 6 per\ncent) is not to be really worried\nabout... We must realise thatthe\nslowdown which weare talking\n\nabout could be a blip. The long-\nterm story of India is intact,\u201d\nSetty told The Indian Express in\nan interview.\nAccording to him, while pri-\nvate capital expenditure is\nCONTINUED ONPAGE 2",
+   "ocr_conf": 91.3135593220339,
+   "ocr_low_conf_share": 0.01694915254237288,
+   "headline": "India needs to grow 8% for progress, core sector must invest: SBI chief must invest:",
+   "deck": "",
+   "byline": "HITESH VYAS,; GEORGE MATHEW; & SANDEEP SINGH; MUMBAI, MARCH 12",
+   "text": "INDIA DEFINITELY needs to grow at 8 percent to progress, and this needs consumptionand private capital expenditure, said Challa Sree nivasulu Setty, Chairman, State Bank of India, the largest bank in the country with adeposit baseofRs52.29 lakhcrore. \"India definitely requires a growth rate of 8 per cent to progress, but this (current) growth rate (of around 6 per cent) is not to be really worried about... We must realise thatthe slowdown which weare talking\n\nabout could be a blip. The long-term story of India is intact,\" Setty told The Indian Express in an interview. According to him, while private capital expenditure is",
+   "n_words": 102,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      1960,
+      2647,
+      2309
+     ],
+     [
+      1788,
+      2296,
+      2227,
+      2533
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1782,
+      2533,
+      2230,
+      3122
+     ],
+     [
+      2273,
+      2294,
+      2717,
+      3115
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "Telangana arrests two\nwomen journalists for\nvideo critical of CM\nRAHUL V PISHARODY\n& NIKHILAHENRY\nHYDERABAD, MARCH 12\nHYDERABAD POLICE arrested",
+   "deck_raw": "",
+   "body_raw": "two YouTube journalists on\nWednesday over a video critical\nof Telangana Chief MinisterA\nRevanth Reddy. The two women\nwere arrested based on a com-\nplaint filed by aCongress worker.\nAccording to police, Revathi\nPogadadanda (44), managing di-\nrector of YouTube channel Pulse\nDigital News Network, andTanvi\nYadav alias Bandi Sandhya (25),\nan employee of the channel,\nwere arrested in connection with\na \u201cderogatory\u201d video shot at the\nheadquarters of the opposition\n\nBharat Rashtra Samithi (BRS).\nThe two, who police say were\ninvolved in \u201csocial media trolling\u201d\nand implicated in two previous\ncases, have been remanded inju-\ndicial custody for 14 days.\nThe complainant, a state sec-\nretary of the Congress Social\nMedia Cell, had alleged that a\nvideo was being circulated on X,\nwhere a representative from\nPulse News could be seen inter-\nViewing an individual, provoking\nderogatory and abusive state-\nments against the Chief Minister.\nHe alleged this indicated a\ndeliberate attempt by the chan-\nnelto defame and spread false\npropaganda, adding that such\nposts could incite divisions\nCONTINUED ON PAGE2",
+   "ocr_conf": 88.62790697674419,
+   "ocr_low_conf_share": 0.08139534883720931,
+   "headline": "Telangana arrests two women journalists for video critical of CM RAHUL V PISHARODY & NIKHILAHENRY HYDERABAD, MARCH 12 HYDERABAD POLICE arrested",
+   "deck": "",
+   "byline": "",
+   "text": "two YouTube journalists on Wednesday over a video critical of Telangana Chief MinisterA Revanth Reddy. The two women were arrested based on a complaint filed by aCongress worker. According to police, Revathi Pogadadanda (44), managing director of YouTube channel Pulse Digital News Network, andTanvi Yadav alias Bandi Sandhya (25), an employee of the channel, were arrested in connection with a \"derogatory\" video shot at the headquarters of the opposition\n\nBharat Rashtra Samithi (BRS). The two, who police say were involved in \"social media trolling\" and implicated in two previous cases, have been remanded injudicial custody for 14 days. The complainant, a state secretary of the Congress Social Media Cell, had alleged that a video was being circulated on X, where a representative from Pulse News could be seen inter-Viewing an individual, provoking derogatory and abusive state-ments against the Chief Minister. He alleged this indicated a deliberate attempt by the channelto defame and spread false propaganda, adding that such posts could incite divisions",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2157,
+      762,
+      2477
+     ],
+     [
+      321,
+      2488,
+      679,
+      2624
+     ],
+     [
+      322,
+      2609,
+      760,
+      2690
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2767,
+      764,
+      3238
+     ]
+    ],
+    "layout_words": 56
+   },
+   "headline_raw": "ISM Dhanbad,\nAIITs, 2 IIMs\namong 9 Indian\ninstitutes in QS\nglobal top 50\nEXPRESS NEWS SERVICE",
+   "deck_raw": "",
+   "body_raw": "THE INDIAN School of Mines in\nDhanbad, whichis an IIT, has se-\ncured the highest ranking foran\nIndian institution in the QS\nWorld University Rankings by\nSubject 2025, standing at rank\n20 globally in \u2018Engineering\n-Mineral and Mining\u2019 subject,up\nfrom rank 41 last year.\nGlobal higher education ana-\nlysts Quacquarelli Symonds(QS)\nreleased the rankings by subject",
+   "ocr_conf": 87.96428571428571,
+   "ocr_low_conf_share": 0.08928571428571429,
+   "headline": "ISM Dhanbad, AIITs, 2 IIMs among 9 Indian institutes in QS global top 50 EXPRESS NEWS SERVICE",
+   "deck": "",
+   "byline": "",
+   "text": "THE INDIAN School of Mines in Dhanbad, whichis an IIT, has secured the highest ranking foran Indian institution in the QS World University Rankings by Subject 2025, standing at rank 20 globally in 'Engineering -Mineral and Mining' subject,up from rank 41 last year. Global higher education analysts Quacquarelli Symonds(QS) released the rankings by subject",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      2985,
+      3205,
+      3048
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2764,
+      2924,
+      3203,
+      2982
+     ]
+    ],
+    "body_boxes": [
+     [
+      2764,
+      2967,
+      3177,
+      3001
+     ],
+     [
+      2764,
+      3049,
+      3203,
+      3122
+     ]
+    ],
+    "layout_words": 16
+   },
+   "headline_raw": "WIG PU PDEES WDC Sidi EU.\nFive hundred civil servants from",
+   "deck_raw": "new projectsworth500 million\nYr errata eerste erate",
+   "body_raw": "| Pn eee Tl Py Pree\nMatifitian rupees willbe star UN\n\nMauritius will be trained in India\nin the next five years,\u201d hesaid.",
+   "ocr_conf": 69.43478260869566,
+   "ocr_low_conf_share": 0.30434782608695654,
+   "headline": "WIG PU PDEES WDC Sidi EU. Five hundred civil servants from",
+   "deck": "new projectsworth500 million Yr errata eerste erate",
+   "byline": "",
+   "text": "Pn eee Tl Py Pree Matifitian rupees willbe star UN\n\nMauritius will be trained in India in the next five years,\" hesaid.",
+   "n_words": 22,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      3185,
+      2125,
+      3396
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      3479,
+      1125,
+      3590
+     ],
+     [
+      809,
+      3640,
+      1251,
+      4182
+     ],
+     [
+      1297,
+      4076,
+      1738,
+      4182
+     ],
+     [
+      1785,
+      4077,
+      2227,
+      4183
+     ]
+    ],
+    "layout_words": 106
+   },
+   "headline_raw": "UP, Maharashtra top list of those\nfreed from cyber crime centres",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI. MARCH 12\n\nAS THE government brought\nhome 549 Indian nationals who\nhad been deceived with fake job\noffers and forced into cyber-\ncrime activities in Southeast\nAsia, a probe has revealed that\n65 of them are from Uttar\nPradesh, 61 from Maharashtra,\n57 from Gujarat and 48 from\nPunjab, Ail of them have been\nquestioned by multiple agencies,\nincluding the CBL\nThe Indians were flown\nhome in two batches \u2014 266 on\n\nMonday and 283 on Tuesday \u2014\nin military aircraft. Manyof them\nhad been trafficked to scam cen-\n\ntres operating in Myanmar,\nThailand, Cambodia, and Laos.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.018867924528301886,
+   "headline": "UP, Maharashtra top list of those freed from cyber crime centres",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI. MARCH 12",
+   "text": "AS THE government brought home 549 Indian nationals who had been deceived with fake job offers and forced into cybercrime activities in Southeast Asia, a probe has revealed that 65 of them are from Uttar Pradesh, 61 from Maharashtra, 57 from Gujarat and 48 from Punjab, Ail of them have been questioned by multiple agencies, including the CBL The Indians were flown home in two batches - 266 on\n\nMonday and 283 on Tuesday - in military aircraft. Manyof them had been trafficked to scam centres operating in Myanmar, Thailand, Cambodia, and Laos.",
+   "n_words": 93,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      3301,
+      762,
+      3361
+     ]
+    ],
+    "deck_boxes": [
+     [
+      318,
+      3239,
+      760,
+      3297
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      3361,
+      762,
+      4150
+     ]
+    ],
+    "layout_words": 95
+   },
+   "headline_raw": "Uf # SUE HDL BOTS rea tured\ninthe rankings, 10 more than",
+   "deck_raw": "for 2025 on Wednesday. A total\nat7O lntian incntiiionc featims",
+   "body_raw": "last year.\nNine Indian institutions fea-\ntured in the top 50 across sub-\njects. In addition to the Indian\nSchool of Mines Dhanbad, these\nincluded the IITs in Dethi,\nBombay, Madras, andKharagpur,\nthe IIMs in Ahmedabad and\nBangalore, and the Jawaharlal\nNehru University(JNU). Theonly\nprivate Indianin stitution that fea-\ntured in the top 50 across subjects\nwas Saveetha Institute of Medical\nand Technical Sciences, which\nwasranked 26 in Dentistry.\nWhile it remains among the\ntop 50, IIT Madras has seen a\ndrop in its ranking, from 16 last\nyear to 31 thisyear in Petroleum\nEngineering.",
+   "ocr_conf": 88.03157894736842,
+   "ocr_low_conf_share": 0.06315789473684211,
+   "headline": "Uf # SUE HDL BOTS rea tured inthe rankings, 10 more than",
+   "deck": "for 2025 on Wednesday. A total at7O lntian incntiiionc featims",
+   "byline": "",
+   "text": "last year. Nine Indian institutions featured in the top 50 across subjects. In addition to the Indian School of Mines Dhanbad, these included the IITs in Dethi, Bombay, Madras, andKharagpur, the IIMs in Ahmedabad and Bangalore, and the Jawaharlal Nehru University(JNU). Theonly private Indianin stitution that featured in the top 50 across subjects was Saveetha Institute of Medical and Technical Sciences, which wasranked 26 in Dentistry. While it remains among the top 50, IIT Madras has seen a drop in its ranking, from 16 last year to 31 thisyear in Petroleum Engineering.",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4254,
+      2207,
+      4520
+     ],
+     [
+      321,
+      4507,
+      764,
+      4704
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4708,
+      761,
+      5137
+     ],
+     [
+      1784,
+      4509,
+      2226,
+      5131
+     ],
+     [
+      1781,
+      5539,
+      2257,
+      6160
+     ]
+    ],
+    "layout_words": 223
+   },
+   "headline_raw": "16 steps to end discrimination: In a Bengal\nvillage, 5 Dalits enter temple for the first time\nRAVIK BHATTACHARYA\nKOLKATA, MARCH 12\nIT'S 10 am, and the village of",
+   "deck_raw": "",
+   "body_raw": "Gidhagram in West Bengal's\nPurba Bardhaman district \u2014\nabout 150 km from Kolkata \u2014\nhas turned into a fortress. The\nvillage is preparing for a historic,\nnever-be fore-seen event: in a\nfew minutes, a group of Dalits\nfrom the village will enter the vil-\nlage\u2019s Gidheshwar temple \u2014 an\nevent that they hope marks the\nbeginning of the end of centuries\n\nof discrimination.\n\u2018The 16 steps we climbed to\nenter the temple and offer Puja\nended generations of discrimi-\nnation,\u201d said 50-year-old\nMamata Das after the event.\nMamata was among the first\nfive people of the Dalit Das sub-\ncaste group to enter the temple\nWednesday. Sheand the others\n\u2014 Santanu Das, 45, Lakkhi Das,\n30, Puja Das, 27, and Sasthi Das,\n45 \u2014 areamong the village\u2019s 550\nDalit inhabitants who have, un-\ntil recently, never been allowed\nCONTINUED ON PAGE 2\n\nends. Sometimes, they read \u2014\nfrom newspaper reports, books.\nAll of whichis precious data, the\nkind that Swecha, a Hy derabad-\nbased non-profit, hopes will\nsome day add up to a Telugu\nLarge Language Model (LLM).\nAs Indiaattemptsto build its\nown LLM, Swecha's experience\nwith documenting the language\n\u2014 in this case, Telugu \u2014 offers a\nwindow into what an Indian\nmodel will need to factor in.\nIndian languages rich in de-\ntail, are known to have numerous |\nCONTINUEDONPAGE 2 \u00a9",
+   "ocr_conf": 87.125,
+   "ocr_low_conf_share": 0.09375,
+   "headline": "16 steps to end discrimination: In a Bengal village, 5 Dalits enter temple for the first time RAVIK BHATTACHARYA KOLKATA, MARCH 12 IT'S 10 am, and the village of",
+   "deck": "",
+   "byline": "",
+   "text": "Gidhagram in West Bengal's Purba Bardhaman district - about 150 km from Kolkata - has turned into a fortress. The village is preparing for a historic, never-be fore-seen event: in a few minutes, a group of Dalits from the village will enter the village's Gidheshwar temple - an event that they hope marks the beginning of the end of centuries\n\nof discrimination. 'The 16 steps we climbed to enter the temple and offer Puja ended generations of discrimination,\" said 50-year-old Mamata Das after the event. Mamata was among the first five people of the Dalit Das subcaste group to enter the temple Wednesday. Sheand the others - Santanu Das, 45, Lakkhi Das, 30, Puja Das, 27, and Sasthi Das, 45 - areamong the village's 550 Dalit inhabitants who have, until recently, never been allowed\n\nends. Sometimes, they read - from newspaper reports, books. All of whichis precious data, the kind that Swecha, a Hy derabadbased non-profit, hopes will some day add up to a Telugu Large Language Model (LLM). As Indiaattemptsto build its own LLM, Swecha's experience with documenting the language - in this case, Telugu - offers a window into what an Indian model will need to factor in. Indian languages rich in detail, are known to have numerous CONTINUEDONPAGE 2 \u00a9",
+   "n_words": 213,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5293,
+      2214,
+      5558
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5541,
+      502,
+      5615
+     ],
+     [
+      318,
+      5737,
+      657,
+      5806
+     ],
+     [
+      318,
+      5856,
+      761,
+      6167
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "One dialect, one fable at a time: A Telugu\nmodel opens a window for India AI dream",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nVIDHATRIRAO\nHYDERABAD, MARCH 12\n\n\u201cHOW WOULD you describe a\ncloud whenit's about to rain?\u201d\nFor close to a year now, an\narmyof volunteers in Telangana\nhas been getting people to talk.\nAnd so, theytalk \u2014 family stories,\nthehumdnum of their daily lives,\nthe day's weather, fables, leg-",
+   "ocr_conf": 78.36734693877551,
+   "ocr_low_conf_share": 0.1836734693877551,
+   "headline": "One dialect, one fable at a time: A Telugu model opens a window for India AI dream",
+   "deck": "",
+   "byline": "ANCHOR; VIDHATRIRAO; HYDERABAD, MARCH 12",
+   "text": "\"HOW WOULD you describe a cloud whenit's about to rain?\" For close to a year now, an armyof volunteers in Telangana has been getting people to talk. And so, theytalk - family stories, thehumdnum of their daily lives, the day's weather, fables, leg-",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 15.3,
+ "flags": []
+}

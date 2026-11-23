@@ -1,0 +1,921 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_22_front",
+ "source_file": "2025-04-22_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-22_front.png",
+ "date": "2025-04-22",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 505,
+  "mean_line_conf": 90.53043334408629,
+  "orphan_words": 188,
+  "body_words_total": 2116
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      786,
+      2318,
+      1143
+     ],
+     [
+      811,
+      1186,
+      1230,
+      1598
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      696,
+      2309,
+      745
+     ]
+    ],
+    "body_boxes": [
+     [
+      812,
+      1699,
+      1102,
+      1769
+     ],
+     [
+      810,
+      1819,
+      1254,
+      3033
+     ]
+    ],
+    "layout_words": 151
+   },
+   "headline_raw": "Significant progress in tr\nsay India and US after Ph\nBoth sides pledge\nto build on\nModi-Trump\nmeeting in US;\nVance to speak\nin Jaipur today",
+   "deck_raw": "\u2018NEW AND MODERN TRADE PACT THAT FOCUSES",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 21\n\nINTHE first high-level visit from\nthe White House since the inau-\nguration of President Donald\nTrump in January, US Vice-\nPresident J D Vance met Prime\nMinister Narendra Modi on\nMonday and both sides \u201cwel-\ncomed the significant progress\u201d\nin negotiations towards a India-\nUS bilateral trade pact, framing\nit as a \u201cnew and modern trade\nagreement.\u201d\nVance, on a four-day visit,\nmet Modi amid the backdrop of\nthe sweeping tariff regime an-\nnounced by Trump \u2014 which has\nbeen paused for 90 days \u2014\nagainst most countries, includ-\ning India.\n\u201c(Both sides) welcomed the\nsignificant progress in the nego-\ntiations for a mutually beneficial\nIndia-U.S, Bilateral Trade\nAgreement focused on the wel-\nfare of the people of the two\ncountries,\u201d the Prime Minister's\nOffice said in a statement.\nEchoing this was the White\nHouse readout that \u201cwelcomed\nsignificant progress in the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.36842105263158,
+   "ocr_low_conf_share": 0.006578947368421052,
+   "headline": "Significant progress in tr say India and US after Ph Both sides pledge to build on Modi-Trump meeting in US; Vance to speak in Jaipur today",
+   "deck": "'NEW AND MODERN TRADE PACT THAT FOCUSES",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 21",
+   "text": "INTHE first high-level visit from the White House since the inauguration of President Donald Trump in January, US Vice-President J D Vance met Prime Minister Narendra Modi on Monday and both sides \"welcomed the significant progress\" in negotiations towards a India-US bilateral trade pact, framing it as a \"new and modern trade agreement.\" Vance, on a four-day visit, met Modi amid the backdrop of the sweeping tariff regime announced by Trump - which has been paused for 90 days - against most countries, including India. \"(Both sides) welcomed the significant progress in the negotiations for a mutually beneficial India-U.S, Bilateral Trade Agreement focused on the welfare of the people of the two countries,\" the Prime Minister's Office said in a statement. Echoing this was the White House readout that \"welcomed significant progress in the",
+   "n_words": 134,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      823,
+      633,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1446,
+      759,
+      1836
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1937,
+      716,
+      2007
+     ],
+     [
+      322,
+      2055,
+      766,
+      2564
+     ],
+     [
+      321,
+      2571,
+      766,
+      3468
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "\u2018Stripped,\nforced to eat\nchilli paste\u2019:\nPalwal SHO\nheld for torture",
+   "deck_raw": "",
+   "body_raw": "ABHIMANYU HAZARIKA\nGURGAON, APRIL 21\n\nHARYANA POLICE has arrested a\nsuspended Station House Officer\n(SHO) for allegedly assaulting\nand torturing a man accused of\nfraud in custody at the Palwal\ncity police station in December\nlast year.\nInspector Radhey Shyam al-\nlegedly beat Mohammed Abid,\n31, from Kota in Rajasthan, forced\nhim to consume chilli paste, and\nalso injected it into his private\nparts,\n\nAbid, who worked as a\nmasseur, and his friend allegedly\ngot into an argument with one\nRambir over payment of\nRs 12,000 for availing his services.\nAfter Rambir filed a com-\nplaint, the SHO allegedly called\nAbid into a room, asked him to\nremove his trouser, beat him\nwith a pipe after tying him up,\nand asked him tohave halfa kilo\nof ground chillies in water that\nwere later put in his private\nparts, according to thecomplaint\nfiled by Abid. The complaint is\npart of the FIR against the\nInspector.\nDespite protests by another\npoliceman, the SHO continued\nwith the torture and also al-\nlegedly called Abid ajihadi. Abid\nreported the torture after\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.88950276243094,
+   "ocr_low_conf_share": 0.011049723756906077,
+   "headline": "'Stripped, forced to eat chilli paste': Palwal SHO held for torture",
+   "deck": "",
+   "byline": "ABHIMANYU HAZARIKA; GURGAON, APRIL 21",
+   "text": "HARYANA POLICE has arrested a suspended Station House Officer (SHO) for allegedly assaulting and torturing a man accused of fraud in custody at the Palwal city police station in December last year. Inspector Radhey Shyam allegedly beat Mohammed Abid, 31, from Kota in Rajasthan, forced him to consume chilli paste, and also injected it into his private parts,\n\nAbid, who worked as a masseur, and his friend allegedly got into an argument with one Rambir over payment of Rs 12,000 for availing his services. After Rambir filed a complaint, the SHO allegedly called Abid into a room, asked him to remove his trouser, beat him with a pipe after tying him up, and asked him tohave halfa kilo of ground chillies in water that were later put in his private parts, according to thecomplaint filed by Abid. The complaint is part of the FIR against the Inspector. Despite protests by another policeman, the SHO continued with the torture and also allegedly called Abid ajihadi. Abid reported the torture after",
+   "n_words": 169,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2338,
+      3692,
+      2640
+     ]
+    ],
+    "layout_words": 35,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POPE FRANCIS, the first Latin\nAmerican leader of the Roman\nCatholic Church, has died, the\nVatican said Monday, ending an\noften turbulent reign marked by\ndivision and tension as hesought\ntooverhaul the hidebound insti-\ntution.",
+   "ocr_conf": 91.6,
+   "ocr_low_conf_share": 0.05714285714285714,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "POPE FRANCIS, the first Latin American leader of the Roman Catholic Church, has died, the Vatican said Monday, ending an often turbulent reign marked by division and tension as hesought tooverhaul the hidebound institution.",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      2531,
+      2192,
+      2700
+     ],
+     [
+      1296,
+      2726,
+      2151,
+      2860
+     ],
+     [
+      1298,
+      2850,
+      1552,
+      2914
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1299,
+      2930,
+      1589,
+      2958
+     ],
+     [
+      1297,
+      3007,
+      1739,
+      3397
+     ],
+     [
+      1785,
+      2848,
+      2227,
+      3390
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "V-P Vance more than V-P:\nVoice of the new idea of\nAmerica, shaping change\nCRAJAMOHAN",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, APRIL 21\n\nUS VICE President] D Vance, who\nbegan his India visit Monday, is-\nn't just US Vice President.\nAt 40, he\u2019s the authentic voice\nof the new American right\nemerging as the leader of the\n\u2018Make America Great Again\u2019 mo-\nvement that propelled Donald\nTrump back to power andisdriv-\ning social and political changes\n\nin the West unseen in a century.\nThat's why, even as Vice Pre-\nsidents rarely make a long-term\nimpact on American politics,\no Vance could be\nFY the bold outlier.\n= His ideas may\nSe @ | touchoffsharpdi-\n_ vides but there\u2019s\nno ignoring the\nweight of his views and its im-\npact on America and, increas-\ningly, the world. As a powerful\nCONTINUED ON PAGE2",
+   "ocr_conf": 87.78048780487805,
+   "ocr_low_conf_share": 0.0975609756097561,
+   "headline": "V-P Vance more than V-P: Voice of the new idea of America, shaping change CRAJAMOHAN",
+   "deck": "",
+   "byline": "NEW DELHI, APRIL 21",
+   "text": "US VICE President] D Vance, who began his India visit Monday, isn't just US Vice President. At 40, he's the authentic voice of the new American right emerging as the leader of the 'Make America Great Again' movement that propelled Donald Trump back to power andisdriving social and political changes\n\nin the West unseen in a century. That's why, even as Vice Presidents rarely make a long-term impact on American politics, o Vance could be FY the bold outlier. = His ideas may Se @ touchoffsharpdi- _ vides but there's no ignoring the weight of his views and its impact on America and, increasingly, the world. As a powerful",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      2535,
+      3172,
+      2718
+     ],
+     [
+      2275,
+      2727,
+      3069,
+      2861
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2274,
+      2887,
+      2619,
+      2959
+     ],
+     [
+      2272,
+      3007,
+      2714,
+      3391
+     ],
+     [
+      2763,
+      2848,
+      3203,
+      3114
+     ],
+     [
+      2761,
+      3126,
+      3205,
+      3391
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "Govt imposes 12 per cent\nsafeguard duty on import\nof some steel products",
+   "deck_raw": "",
+   "body_raw": "RAVIDUTTAMISHRA\nNEW DELHI, APRIL 21\n\nAMID FEARS of dumping into\nIndia following steep US duties\non Chinese goods, the Centre has\nimposeda 12 per cent safeguard\nduty on import of non-alloy and\nalloy steel flat products, accord-\ning to a Ministry of Finance no-\ntification on Monday.\n\u201cThe safeguard dutyimposed\nunder this notification shall be\n\neffective for a period of 200 days\n(unless revoked, superseded or\namended earlier) from the date\nof publication... in the Official\nGazette and shall be payable in\nIndian currency,\u201d the notification\nsaid.\n\nThis follows an investigation\nby the Directorate General of\nTrade Remedies (DGTR), under\nthe Ministry of Commerce and\nIndustry, which, in its findings\nlast month, said there was a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.48333333333333,
+   "ocr_low_conf_share": 0.016666666666666666,
+   "headline": "Govt imposes 12 per cent safeguard duty on import of some steel products",
+   "deck": "",
+   "byline": "RAVIDUTTAMISHRA; NEW DELHI, APRIL 21",
+   "text": "AMID FEARS of dumping into India following steep US duties on Chinese goods, the Centre has imposeda 12 per cent safeguard duty on import of non-alloy and alloy steel flat products, according to a Ministry of Finance notification on Monday. \"The safeguard dutyimposed under this notification shall be\n\neffective for a period of 200 days (unless revoked, superseded or amended earlier) from the date of publication... in the Official Gazette and shall be payable in Indian currency,\" the notification said.\n\nThis follows an investigation by the Directorate General of Trade Remedies (DGTR), under the Ministry of Commerce and Industry, which, in its findings last month, said there was a",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2652,
+      3691,
+      3279
+     ]
+    ],
+    "layout_words": 83,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "He was 88, and had suffered\na serious bout of double pneu-\nmonia this year, but his death\ncame as a shock after he had\nbeen driven around St. Peter's\nSquare in an open-air popemo-\nbile to greet cheering crowds on\nEaster Sunday.\n\u201cDear brothers and sisters, it\nis with profound sadness I must\nannounce the death of our Holy\nFather Francis,\u201d Cardinal Kevin\nFarrell announced on the\nVatican\u2019s TV channel. \u201cAt 7:35\n(0535 GMT) this morning the\nBishop of Rome, Francis, returned",
+   "ocr_conf": 92.62650602409639,
+   "ocr_low_conf_share": 0.03614457831325301,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "He was 88, and had suffered a serious bout of double pneumonia this year, but his death came as a shock after he had been driven around St. Peter's Square in an open-air popemobile to greet cheering crowds on Easter Sunday. \"Dear brothers and sisters, it is with profound sadness I must announce the death of our Holy Father Francis,\" Cardinal Kevin Farrell announced on the Vatican's TV channel. \"At 7:35 (0535 GMT) this morning the Bishop of Rome, Francis, returned",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      2731,
+      4179,
+      3115
+     ]
+    ],
+    "layout_words": 53,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "to the house of the Father.\u201d\nFarrell will preside over arite\nat8 pm(1800 GMT) on Monday\nwhen the pope\u2019s body will be\nplaced into a casket. A\nspokesman said his body might\nbe moved to St. Peter's Basilica as\nearly as Wednesday morning to\nallow the faithful to pay their\nCONTINUED ON PAGE2",
+   "ocr_conf": 92.01886792452831,
+   "ocr_low_conf_share": 0.018867924528301886,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "to the house of the Father.\" Farrell will preside over arite at8 pm(1800 GMT) on Monday when the pope's body will be placed into a casket. A spokesman said his body might be moved to St. Peter's Basilica as early as Wednesday morning to allow the faithful to pay their",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      3220,
+      1123,
+      3389
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "VANCE, FAMILY\nTO VISITAMBER\nFORT TODAY\nPAGE 3",
+   "ocr_conf": 84.75,
+   "ocr_low_conf_share": 0.25,
+   "headline": "",
+   "deck": "",
+   "byline": "VANCE, FAMILY; TO VISITAMBER; FORT TODAY",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3738,
+      3198,
+      4124,
+      3275
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "RELATED REPORTS\nWORLD, EXPLAINED",
+   "ocr_conf": 95.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "RELATED REPORTS; WORLD, EXPLAINED",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      3542,
+      1245,
+      3972
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4074,
+      748,
+      4144
+     ],
+     [
+      316,
+      4194,
+      764,
+      5131
+     ]
+    ],
+    "layout_words": 131
+   },
+   "headline_raw": "In 2 hearings, next CJI\nremarks: Being alleged\nwe are intruding\ninto Govt\u2019s domain",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, APRIL 21\n\nWHILE HEARING two separate\npetitions which sought the\nSupreme Court's directions to\nthe Centre on Monday, Justice B\nR Gavai referred to the recent at-\ntacks on the judiciary, saying, \u201cas\nit is, we are alleged of intruding\non Parliamentary and Executive\nfunctions\u201d.\nThe SC has faced criticism\nover two of its recent orders \u2014\non red-flagging aspects of the\nWaaf lawand suggesting it could\nstay them, and settinga timeline\nfor the President to clear Bills.\nLast week, Vice President\nJagdeep Dhankhar had said the\nSCcannot direct the President or\nact as a \u201csuper Parliament\u201d. BJP\nMP Nishikant Dubey had said\nParliament should be closed if\nthe SC makes the law. Another\nBJP MP Dinesh Sharma, had said\n\u201cno one can direct LokSabha and",
+   "ocr_conf": 88.0,
+   "ocr_low_conf_share": 0.0916030534351145,
+   "headline": "In 2 hearings, next CJI remarks: Being alleged we are intruding into Govt's domain",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, APRIL 21",
+   "text": "WHILE HEARING two separate petitions which sought the Supreme Court's directions to the Centre on Monday, Justice B R Gavai referred to the recent attacks on the judiciary, saying, \"as it is, we are alleged of intruding on Parliamentary and Executive functions\". The SC has faced criticism over two of its recent orders - on red-flagging aspects of the Waaf lawand suggesting it could stay them, and settinga timeline for the President to clear Bills. Last week, Vice President Jagdeep Dhankhar had said the SCcannot direct the President or act as a \"super Parliament\". BJP MP Nishikant Dubey had said Parliament should be closed if the SC makes the law. Another BJP MP Dinesh Sharma, had said \"no one can direct LokSabha and",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      3543,
+      2668,
+      3753
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1814,
+      3798,
+      2195,
+      3991
+     ]
+    ],
+    "body_boxes": [
+     [
+      1294,
+      3790,
+      1737,
+      3907
+     ],
+     [
+      1296,
+      3956,
+      1738,
+      4307
+     ],
+     [
+      1867,
+      4013,
+      2144,
+      4041
+     ],
+     [
+      1784,
+      4115,
+      2226,
+      4307
+     ],
+     [
+      2271,
+      3799,
+      2717,
+      4300
+     ]
+    ],
+    "layout_words": 131
+   },
+   "headline_raw": "130 censorship orders issued via\nHome\u2019s Sahyog portal in 5 months",
+   "deck_raw": "YOuR RIGHT\nTO KNOW\nAN EXPRESS RTI",
+   "body_raw": "SOUMYARENDRABARIK\nNEW DELHI, APRIL 21\n\nUNDER THE Home Ministry's\nIndian CyberCnme Coordination\nCentre (14C)-led Sahyog portal,\nthe government has issued 130\ncontent notices to online plat-\nforms like Google, YouTube,\nAmazon, Apple, and Microsoft,\namong others, between October\n2024 and April 8, 2025, as per\n\nAPPLICATION\n\ndata received by The Indian\nExpress through a Right to\nInformation (RTI) application.\nThese notices effectively act\nas content blocking orders and\n\nare sent under Section 73 \\b)\nof the Information Technology\nAct, 2000. These fall outside\nSection6%A) of the Information\nTechnology Act, that has been\ncommonly used to issue online\ncensorship orders.\nThe number received\nthrough the RTI do not reflect the\nnotices sent to Elon Musk-\nowned X under Section 79(3)(b)\nof the IT Act. Social media\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.86046511627907,
+   "ocr_low_conf_share": 0.046511627906976744,
+   "headline": "130 censorship orders issued via Home's Sahyog portal in 5 months",
+   "deck": "YOuR RIGHT TO KNOW AN EXPRESS RTI",
+   "byline": "SOUMYARENDRABARIK; NEW DELHI, APRIL 21",
+   "text": "UNDER THE Home Ministry's Indian CyberCnme Coordination Centre (14C)-led Sahyog portal, the government has issued 130 content notices to online plat-forms like Google, YouTube, Amazon, Apple, and Microsoft, among others, between October 2024 and April 8, 2025, as per\n\nAPPLICATION\n\ndata received by The Indian Express through a Right to Information (RTI) application. These notices effectively act as content blocking orders and\n\nare sent under Section 73 \\b) of the Information Technology Act, 2000. These fall outside Section6%A) of the Information Technology Act, that has been commonly used to issue online censorship orders. The number received through the RTI do not reflect the notices sent to Elon Musk-owned X under Section 79(3)(b) of the IT Act. Social media",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3547,
+      3186,
+      3970
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      4472,
+      3048,
+      4542
+     ],
+     [
+      2758,
+      4590,
+      3203,
+      5133
+     ],
+     [
+      2760,
+      5421,
+      3200,
+      6161
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "8 Maoists\nkilled in first\nbig encounter\nin Jharkhand\nin two years",
+   "deck_raw": "",
+   "body_raw": "SHUBHAMTIGGA\nRANCHI, APRIL 21\n\nIN THE first major Maoist en-\ncounter in two years in\nJharkhand, eight alleged mem-\nbers of the banned CPI (Maoist),\nincluding a member of its\nCentral Committee who carried\na bounty of Rs 1 crore on his\nhead, were killed in a gunfight\nwith security forces in Bokaro\ndistrict on Monday morning.\nTheencounter came after the\nsecurity forces set out on an op-\neration in the Lugu Pahad area\nCONTINUED ON PAGE 2\n\nhousework and go out to train\ninstead,\u201d she says.\nThe family of five sisters, par-\nents, and abrother tilled asmall\npatch of land and owned two\nbuffaloes. While Mahendra\nturned to milk delivery and\nworked without a pause,\nKalavati tended to the crops. And\nPooja played.\nThe shoes with the golden\nstars, however, would wear out\nsoon, and Pooja knew she had to\nsecure a spot at the Lucknow\nsports hostel so the parents\nwouldn't have to spend on her\ndiet and equipment. Five years\nago, she found herself at the SAI\nhostel in Lucknow.",
+   "ocr_conf": 92.88439306358381,
+   "ocr_low_conf_share": 0.017341040462427744,
+   "headline": "8 Maoists killed in first big encounter in Jharkhand in two years",
+   "deck": "",
+   "byline": "SHUBHAMTIGGA; RANCHI, APRIL 21",
+   "text": "IN THE first major Maoist encounter in two years in Jharkhand, eight alleged members of the banned CPI (Maoist), including a member of its Central Committee who carried a bounty of Rs 1 crore on his head, were killed in a gunfight with security forces in Bokaro district on Monday morning. Theencounter came after the security forces set out on an operation in the Lugu Pahad area\n\nhousework and go out to train instead,\" she says. The family of five sisters, parents, and abrother tilled asmall patch of land and owned two buffaloes. While Mahendra turned to milk delivery and worked without a pause, Kalavati tended to the crops. And Pooja played. The shoes with the golden stars, however, would wear out soon, and Pooja knew she had to secure a spot at the Lucknow sports hostel so the parents wouldn't have to spend on her diet and equipment. Five years ago, she found herself at the SAI hostel in Lucknow.",
+   "n_words": 161,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      4139,
+      4088,
+      4331
+     ],
+     [
+      3250,
+      4347,
+      4164,
+      4484
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      4512,
+      3674,
+      4582
+     ],
+     [
+      3248,
+      4630,
+      3689,
+      5141
+     ],
+     [
+      3247,
+      5421,
+      3689,
+      6168
+     ],
+     [
+      3735,
+      4473,
+      4177,
+      5134
+     ],
+     [
+      3743,
+      5422,
+      3957,
+      5453
+     ]
+    ],
+    "layout_words": 272
+   },
+   "headline_raw": "Beacon of compassion,\nsays PM Modi as Govt\ndeclares 3-day mourning",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, APRIL 21\n\nTHE GOVERNMENT announced\na three-day state mourning as\nPrime Minister Narendra Modi\nled the nation in paying tribute\nto Pope Francis, 88, who died at\nthe Vatican Monday.\n\u201cDeeply pained by the pass-\ning of His Holiness Pope Francis.\nIn this hourof grief and remem-\nbrance, my heartfelt condo-\nlences to the global Catholic\ncommunity. Pope Francis will al-\nways be remembered as a bea-\n\nPooja says she always follows\nher mother\u2019s advice of not being\ndeterred by failures. \u201cMy father\nis proud | persisted because I had\nfailed my first trials,\u201d she says.\nThe early failures came with\ntheir share of sceptics. At one\npoint, the pessimism around her\ngot so dire that Pooja would in-\nvite the doubters home and\nforcibly make them watch re-\nruns of \u2018Chak de India!\u2019. \u201cI first\nshowed it to my parents and it\nused to make them very happy\nimagining I would be like that\nsomeday. But it was more im-\nportant that those who repeated\nthat I wouldn't be able to make\na life out of hockey watched it\n\ncon of compassion, humility and\nspiritual courage by millions\nacross the world. From a young\nage, he devoted himself towards\nrealising the ideals of Lord Christ\nHe diligently served the poor\nand downtrodden. For those\nwho were suffering, heigniteda\nspirit of hope,\u201d the Prime\nMinister said in a post on X.\n\u201cI fondly recall my meetings\nwith him and was greatly in-\nspired by hiscommitmentto in-\nclusive and all-round develop-\nment. His affection for the\npeople of India will always be\nCONTINUED ON PAGE2\n\ntoo,\u201d she recalls.",
+   "ocr_conf": 93.73161764705883,
+   "ocr_low_conf_share": 0.011029411764705883,
+   "headline": "Beacon of compassion, says PM Modi as Govt declares 3-day mourning",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, APRIL 21",
+   "text": "THE GOVERNMENT announced a three-day state mourning as Prime Minister Narendra Modi led the nation in paying tribute to Pope Francis, 88, who died at the Vatican Monday. \"Deeply pained by the passing of His Holiness Pope Francis. In this hourof grief and remembrance, my heartfelt condolences to the global Catholic community. Pope Francis will always be remembered as a bea-\n\nPooja says she always follows her mother's advice of not being deterred by failures. \"My father is proud persisted because I had failed my first trials,\" she says. The early failures came with their share of sceptics. At one point, the pessimism around her got so dire that Pooja would invite the doubters home and forcibly make them watch reruns of 'Chak de India!'. \"I first showed it to my parents and it used to make them very happy imagining I would be like that someday. But it was more important that those who repeated that I wouldn't be able to make a life out of hockey watched it\n\ncon of compassion, humility and spiritual courage by millions across the world. From a young age, he devoted himself towards realising the ideals of Lord Christ He diligently served the poor and downtrodden. For those who were suffering, heigniteda spirit of hope,\" the Prime Minister said in a post on X. \"I fondly recall my meetings with him and was greatly inspired by hiscommitmentto inclusive and all-round development. His affection for the people of India will always be\n\ntoo,\" she recalls.",
+   "n_words": 251,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      4202,
+      1234,
+      4299
+     ]
+    ],
+    "deck_boxes": [
+     [
+      838,
+      4069,
+      1194,
+      4207
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      4352,
+      1249,
+      4498
+     ],
+     [
+      808,
+      4510,
+      1252,
+      5132
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "XS over as Cjl\nra next month",
+   "deck_raw": "Justice\n. Qe | nuveract\" -",
+   "body_raw": "Rajya Sabha... no one can chal-\nlenge the President\u201d. The BJPhad\ndistanced itself from its MPs\u2019 re-\nmarks.\n\nInthe first matter on Monday,\nabench of Justice Gavai, who is\ndue tobethe Chief Justice of India\nnext month, and Justice A G\nMasih was hearing a plea related\nto violence in West Bengal.\nAppearing for a petitioner\nwhose plea filed in the wake of\nthe 2021 post-poll violence in\nWest Bengal is still pending,\nAdvocate Vishnu Shankar Jain\nsought permission to bring on\nrecord some new facts regarding\nthe situation in Murshidabad,\nwhich witnessed violence\nCONTINUED ONPAGE 2",
+   "ocr_conf": 92.64948453608247,
+   "ocr_low_conf_share": 0.030927835051546393,
+   "headline": "XS over as Cjl ra next month",
+   "deck": "Justice",
+   "byline": "",
+   "text": "Rajya Sabha... no one can challenge the President\". The BJPhad distanced itself from its MPs' remarks.\n\nInthe first matter on Monday, abench of Justice Gavai, who is due tobethe Chief Justice of India next month, and Justice A G Masih was hearing a plea related to violence in West Bengal. Appearing for a petitioner whose plea filed in the wake of the 2021 post-poll violence in West Bengal is still pending, Advocate Vishnu Shankar Jain sought permission to bring on record some new facts regarding the situation in Murshidabad, which witnessed violence",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      4373,
+      2707,
+      4583
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      4668,
+      1606,
+      4779
+     ],
+     [
+      1297,
+      4827,
+      1736,
+      5139
+     ],
+     [
+      2271,
+      4629,
+      2716,
+      5133
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "Delhi Police to check on govt school\ndropouts, for \u2018counselling, career\u2019",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, APRIL 21\n\nDELHI POLICE will soon knock\non your doors if anyone at home\nhas dropped out of a govern-\nment-run school in the city.\nThe Delhi government has\ndirected the Education Depart-\nment to prepare a standard op-\nerating procedure (SOP) to en-\n\nable automatic sharing of data\non school dropouts with Delhi\nPolice every six months.\nOnce the data is shared, a\nsenior officer said, police will\nscrutinise it and find out why a\nstudent has dropped out of\nschool. After that the local police\nwill meet the dropout.\n\u201cAfter dropping out, many\nmust have started working,\nsome must have left the city, but\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.50434782608696,
+   "ocr_low_conf_share": 0.017391304347826087,
+   "headline": "Delhi Police to check on govt school dropouts, for 'counselling, career'",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, APRIL 21",
+   "text": "DELHI POLICE will soon knock on your doors if anyone at home has dropped out of a government-run school in the city. The Delhi government has directed the Education Department to prepare a standard operating procedure (SOP) to enable automatic sharing of data on school dropouts with Delhi Police every six months. Once the data is shared, a senior officer said, police will scrutinise it and find out why a student has dropped out of school. After that the local police will meet the dropout. \"After dropping out, many must have started working, some must have left the city, but",
+   "n_words": 100,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      564,
+      5265,
+      1740,
+      5432
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      5419,
+      1251,
+      6166
+     ],
+     [
+      1295,
+      5419,
+      1738,
+      6167
+     ]
+    ],
+    "layout_words": 219
+   },
+   "headline_raw": "Village to India team:",
+   "deck_raw": "",
+   "body_raw": "milkman who also tended to the\nfields \u2014 bought her first pair of\nplaying shoes, from the local\nshoe shop. \u201cThe shop owner had\nayoung family.So my father told\nhim he would deliver milk until\nthe shopkeeper had recovered\nthe cost of the shoes. It took a\nmonthand half but I had my first\nshoes. They had two golden\nstars,\u201d recalls Pooja of her jour-\nney towards being the \u201conly\nwoman from Benaras to ever\nplay for India\u201d.\nPlaying cricket with the boys\nhelped her in theearly days. \u201cOne\nday I spotted hockey at school\nand was trained by a coach. But\nthose early days of playing cricket\n\nhelped because I always believed\nI was equal to theboys,\u201d she says.\n\u201cGrowing up, I was the only girl\nplaying hockey. After hearing of\nmy India selection, now even the\nvillagers are happy. Maybe more\ngirls will play.\u201d\nThe national call-up was a\nsource of huge pride for mother\nKalavati and Pooja\u2019s four sisters,\nall married and stay-at-home\nwives, \u201cMy mother was the one\nwho wouldn't let me give up.\nBut my four sisters are all sup-\nportive and keep telling me they\nwant me to do what they never\nevendreamt of. They kept push-\ning me even after I failed the tri-\nals. They would tell me to skip",
+   "ocr_conf": 91.53211009174312,
+   "ocr_low_conf_share": 0.045871559633027525,
+   "headline": "Village to India team:",
+   "deck": "",
+   "byline": "",
+   "text": "milkman who also tended to the fields - bought her first pair of playing shoes, from the local shoe shop. \"The shop owner had ayoung family.So my father told him he would deliver milk until the shopkeeper had recovered the cost of the shoes. It took a monthand half but I had my first shoes. They had two golden stars,\" recalls Pooja of her journey towards being the \"only woman from Benaras to ever play for India\". Playing cricket with the boys helped her in theearly days. \"One day I spotted hockey at school and was trained by a coach. But those early days of playing cricket\n\nhelped because I always believed I was equal to theboys,\" she says. \"Growing up, I was the only girl playing hockey. After hearing of my India selection, now even the villagers are happy. Maybe more girls will play.\" The national call-up was a source of huge pride for mother Kalavati and Pooja's four sisters, all married and stay-at-home wives, \"My mother was the one who wouldn't let me give up. But my four sisters are all supportive and keep telling me they want me to do what they never evendreamt of. They kept pushing me even after I failed the trials. They would tell me to skip",
+   "n_words": 214,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [
+     [
+      1778,
+      5263,
+      4159,
+      5453
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      6052,
+      2608,
+      6128
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "Hockey dream sparked by shoes with stars",
+   "deck_raw": "",
+   "body_raw": "Pooja Yadav, 20, made it to the national side last week;\n(right) a young Pooja with her parents",
+   "ocr_conf": 93.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Hockey dream sparked by shoes with stars",
+   "deck": "",
+   "byline": "",
+   "text": "Pooja Yadav, 20, made it to the national side last week; (right) a young Pooja with her parents",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 20,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5310,
+      503,
+      5371
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5267,
+      460,
+      5299
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      5460,
+      572,
+      5530
+     ],
+     [
+      318,
+      5578,
+      760,
+      6159
+     ]
+    ],
+    "layout_words": 77
+   },
+   "headline_raw": "ANCHOR",
+   "deck_raw": "PAGE 1",
+   "body_raw": "SHIVANI NAIK\nMUMBAI, APRIL 21\n\nVILLAGERS OF Gangapurin Uttar\nPradesh\u2019s Varanasi district never\nquite questioned Mahendra\nYadav when he encouraged the\nyoungest of his five daughters,\nPooja, to pursue hockey. But\nneighbours and relatives would\noften toss a throwaway line:\n\u201cHockey mein kuchh nahi hoga\niska (She won't get anywhere in\nhockey).\u201d Mahendra would nod\nand say nothing,\nAs Pooja, 20, made it to the\nIndian hockey team last week,\nshe recalls how her father \u2014 a",
+   "ocr_conf": 94.2987012987013,
+   "ocr_low_conf_share": 0.0,
+   "headline": "ANCHOR",
+   "deck": "",
+   "byline": "SHIVANI NAIK; MUMBAI, APRIL 21",
+   "text": "VILLAGERS OF Gangapurin Uttar Pradesh's Varanasi district never quite questioned Mahendra Yadav when he encouraged the youngest of his five daughters, Pooja, to pursue hockey. But neighbours and relatives would often toss a throwaway line: \"Hockey mein kuchh nahi hoga iska (She won't get anywhere in hockey).\" Mahendra would nod and say nothing, As Pooja, 20, made it to the Indian hockey team last week, she recalls how her father - a",
+   "n_words": 72,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 21,
+   "layout": {
+    "headline_boxes": [
+     [
+      3747,
+      5429,
+      4176,
+      5490
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3735,
+      5502,
+      4176,
+      6162
+     ]
+    ],
+    "layout_words": 95
+   },
+   "headline_raw": "too,\u201d she recalls.\nAll those reruns of Chak de",
+   "deck_raw": "",
+   "body_raw": "didn't go waste as Pooja was\npicked for the nationals campin\nBengaluru last month.\nWhile she looks up to her\nseniors Navneet Kaur and Neha\nGoyal, it is Sushila Chanu who\nhastaken Pooja under her wings\nat the national camp. \u201cI went in\nwith a huge fear of making mis-\ntakes. But Sushila didi has been\nteaching me not to be afraid and\nalways focus onthe next match.\nShe keeps stressing that when I\nreceive the ball] should look up,\nscan the field for exact position-\ning and not make wrong passes.\nCONTINUED ON PAGE2",
+   "ocr_conf": 94.06315789473685,
+   "ocr_low_conf_share": 0.010526315789473684,
+   "headline": "too,\" she recalls. All those reruns of Chak de",
+   "deck": "",
+   "byline": "",
+   "text": "didn't go waste as Pooja was picked for the nationals campin Bengaluru last month. While she looks up to her seniors Navneet Kaur and Neha Goyal, it is Sushila Chanu who hastaken Pooja under her wings at the national camp. \"I went in with a huge fear of making mistakes. But Sushila didi has been teaching me not to be afraid and always focus onthe next match. She keeps stressing that when I receive the ball] should look up, scan the field for exact positioning and not make wrong passes.",
+   "n_words": 90,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.7,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

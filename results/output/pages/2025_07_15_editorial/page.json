@@ -1,0 +1,629 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_15_editorial",
+ "source_file": "2025-07-15_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-15_editorial.png",
+ "date": "2025-07-15",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 2,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 452,
+  "mean_line_conf": 90.91498172922519,
+  "orphan_words": 603,
+  "body_words_total": 3439
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      435,
+      918,
+      949,
+      960
+     ],
+     [
+      811,
+      771,
+      1089,
+      802
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "BECAUSE THE TRUTH\n\nFOUNDED By @",
+   "ocr_conf": 91.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; FOUNDED By @",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2294,
+      595,
+      3511,
+      816
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2197,
+      884,
+      3608,
+      1016
+     ]
+    ],
+    "body_boxes": [
+     [
+      2317,
+      2101,
+      2825,
+      3197
+     ],
+     [
+      2921,
+      1251,
+      3530,
+      3191
+     ]
+    ],
+    "layout_words": 404
+   },
+   "headline_raw": "T'wo unequal",
+   "deck_raw": "World Bank gets it wrong. India cannot have world\u2019s lowest\nconsumption inequality and highest income inequality",
+   "body_raw": "The government has\nendorsed these wrong\n\u2018findings\u2019 through a PIB\nrelease; the BJP also\nwrongfully stated that India\nwas the fourth most equal\nsociety \u2014 it only differed in\nstating that we ranked\nfourth in terms of social\nequality (whatever that\nindex might be). The\nendorsers completely\nignored the important, and\ncorrect, result that India was\nmost equal only in terms of\nconsumption inequality.\nCritics were quick to\npounce, and correctly so, on\nthe errors of interpretation.\nWhich led to them\ncompounding the error. And\nthe debate goes on.\n\nmakes the same mistake as others. She\nchooses touse athird source of data on distri-\nbution \u2014 not consumption, not income, but\nsynthetic estimates of income distribution as\npublished by the private-sector World\nInequality Database (WID). WID constructs\nestimates by its own assumptions \u2014 anew\nliterature has developed in leading American\neconomic journals about the unrealistic and\nquestionable nature of WID's synthetic esti-\nmates for the US.\nInequality has always been discussed in\nterms of either the distribution of consump-\ntion or ofincome. Everyone recognises \u2014 from\nsurvey organisations to policy makers to aca-\ndemicians \u2014 that the measurement of distri-\nbutions is flawed, imperfect, imprecise. All\nrecognise that household surveys arethe best\ninstrument for gauging inequality in asociety.\nTowards this end, the World Bank has\nlaboured to construct the popular and re-\nspected Poverty Inequality Platform (PIP),\nwhich provides data for all the official con-\nsumption and income surveys in the world.\nPiPreports dataon 167 countries, 2,258 distri-\nbutions for years 1963 to2024. These dataare\nthe only\u201cofficial\u201d source of comparable income\nand consumption distributions. \u201cOfficial\u201d be-\ncause governments provide unit-level datato\nthe World Bank for analysis by its army of re-\nsearchers and analysts. There is only one ex-\nception to this rigid, and correct, World Bank\nrequirement: China only provides summary\nventile(5 percentile) distributions to the World\nBank for analysis and stibsequent publication,\nPerhaps BRICS can \u201cinfluence\u201d China to com-\nply withthe open-data requirements ofinter-\nnational organisations!\nThe PIP data does not contain any infor-\nmation on income distribution for India or\nSouth Africa \u2014 for good reason, because no\nofficial income survey exists for either of\nthese countries.\nAccording to PIP, the most unequal (con-\nsumption) country in the world, at least for\nthe last 25 years, is South Africa with a Gini\nof 63.0. The most equal is India witha Gini of\n25.5 in 2022.\nNotwithstanding its own findings, and the",
+   "ocr_conf": 91.64851485148515,
+   "ocr_low_conf_share": 0.04207920792079208,
+   "headline": "T'wo unequal",
+   "deck": "World Bank gets it wrong. India cannot have world's lowest consumption inequality and highest income inequality",
+   "byline": "",
+   "text": "The government has endorsed these wrong 'findings' through a PIB release; the BJP also wrongfully stated that India was the fourth most equal society - it only differed in stating that we ranked fourth in terms of social equality (whatever that index might be). The endorsers completely ignored the important, and correct, result that India was most equal only in terms of consumption inequality. Critics were quick to pounce, and correctly so, on the errors of interpretation. Which led to them compounding the error. And the debate goes on.\n\nmakes the same mistake as others. She chooses touse athird source of data on distribution - not consumption, not income, but synthetic estimates of income distribution as published by the private-sector World Inequality Database (WID). WID constructs estimates by its own assumptions - anew literature has developed in leading American economic journals about the unrealistic and questionable nature of WID's synthetic estimates for the US. Inequality has always been discussed in terms of either the distribution of consumption or ofincome. Everyone recognises - from survey organisations to policy makers to academicians - that the measurement of distributions is flawed, imperfect, imprecise. All recognise that household surveys arethe best instrument for gauging inequality in asociety. Towards this end, the World Bank has laboured to construct the popular and respected Poverty Inequality Platform (PIP), which provides data for all the official consumption and income surveys in the world. PiPreports dataon 167 countries, 2,258 distributions for years 1963 to2024. These dataare the only\"official\" source of comparable income and consumption distributions. \"Official\" because governments provide unit-level datato the World Bank for analysis by its army of researchers and analysts. There is only one exception to this rigid, and correct, World Bank requirement: China only provides summary ventile(5 percentile) distributions to the World Bank for analysis and stibsequent publication, Perhaps BRICS can \"influence\" China to comply withthe open-data requirements ofinternational organisations! The PIP data does not contain any information on income distribution for India or South Africa - for good reason, because no official income survey exists for either of these countries. According to PIP, the most unequal (consumption) country in the world, at least for the last 25 years, is South Africa with a Gini of 63.0. The most equal is India witha Gini of Notwithstanding its own findings, and the",
+   "n_words": 386,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      413,
+      1090,
+      1440,
+      1192
+     ]
+    ],
+    "deck_boxes": [
+     [
+      369,
+      1231,
+      1485,
+      1339
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      1375,
+      1530,
+      1640
+     ],
+     [
+      317,
+      1742,
+      1530,
+      2283
+     ],
+     [
+      319,
+      2340,
+      1529,
+      3063
+     ]
+    ],
+    "layout_words": 489
+   },
+   "headline_raw": "SHINE MORE LIGHT",
+   "deck_raw": "DGCA asking for inspection of fuel switch locking systems is\nwelcome; preliminary report raises important questions",
+   "body_raw": "HE PRELIMINARY REPORT of the Air Accidents Investigation Board (AAIB) on\nthe June 12 crash of Air India Flight 171, which killed 241 people on board and\n19 on the ground in Ahmedabad, is only a first step in the search for answers.\nWhile the AAIB met the 30-day guideline in accordance with the Intemational\nCivil Aviation Organisation's rules, the 15-page report was released at the very last minute\nby the Ministry of Civil Aviation, inthe early hours of Saturday. It says that the Boeing 787-\n\npit voice recorder (CVR), one of the pilots is recorded asking the other why he cut off the\nfuel, towhich thelatter says that he did not. Theswitches were returned totheRun position,\nthe report says, triggering automatic engine relight, butit was too late.\nWhile the full and final report will be out in a year\u2019s time, what the AAIB report says \u2014\nand whatit doesn't say \u2014 has raised concerns. For instance, why does it include only asin-\ngle paraphrased exchange between the pilots regarding fuel cut-off, and not the full CVR\naudio and transcript? Notably, it does not say that either pilot moved the fiiel control switches\nduring take-off; it merely notes that the switches \u201ctransitioned from Run to Cutoff posi-\ntion\u201d. Curiously, there has been no press briefingon the report during which questions could\nbe addressed. Not surprisingly, the Airline Pilots\u2019 Association of Indiahascriticised the am-\nbiguity, calling ita premature insinuation of pilot error. The report mentions a2018 Special\nAirworthiness information Bulletin (SAIB) issued by the US Federal Aviation Administration\n\nthe locking feature disengaged \u2014 the 787 version has similarswitches. Asthe SAIB was just\nanadvisory, Air India did not carry out any inspections. In awelcome move, the DGCA has\nnow asked airlines to inspect fuel switch locking systems in Boeing 787 and 737 aircraft.\nThe report\u2019s concluding section says that it does not recommend any action on Boeing or\nGeneral Electric. Meanwhile, in what appears to amount toa clean chit for both companies,\nthe FAA has declared that the preliminary report \u201cfound no urgent safety concerns\u201d relat-\ning to either the engines or the aircraft systems of the 787-8. In this context, the case of the\nBoeing 737 MAX injectsa necessary note of caution Following the crashes of Lion Air Flight\n610 in October 2018 and Ethiopian Airlines Flight 302 in March 2019 \u2014 both linked to sim-\nilar technical faults \u2014 the FAA had initially affirmed the aircraft's airworthiness, only to\nground the entire 737 MAX fleet between March 2019 and December 2020.\nIt would be unwise to draw definitive conclusions from the preliminary report, which\nacknowledges in the foreword that the findings are provisional and subject to revision.\nUntil the final report is out, all the agencies involved must take every possible measure\ntoensure a fair, transparent, and fact-based inquiry. That is the very least that is owed to\nthe dead and their families \u2014 and the safety of passengers every day.",
+   "ocr_conf": 90.66191446028513,
+   "ocr_low_conf_share": 0.04684317718940937,
+   "headline": "SHINE MORE LIGHT",
+   "deck": "DGCA asking for inspection of fuel switch locking systems is welcome; preliminary report raises important questions",
+   "byline": "",
+   "text": "HE PRELIMINARY REPORT of the Air Accidents Investigation Board (AAIB) on the June 12 crash of Air India Flight 171, which killed 241 people on board and 19 on the ground in Ahmedabad, is only a first step in the search for answers. While the AAIB met the 30-day guideline in accordance with the Intemational Civil Aviation Organisation's rules, the 15-page report was released at the very last minute by the Ministry of Civil Aviation, inthe early hours of Saturday. It says that the Boeing 787-\n\npit voice recorder (CVR), one of the pilots is recorded asking the other why he cut off the fuel, towhich thelatter says that he did not. Theswitches were returned totheRun position, the report says, triggering automatic engine relight, butit was too late. While the full and final report will be out in a year's time, what the AAIB report says - and whatit doesn't say - has raised concerns. For instance, why does it include only asingle paraphrased exchange between the pilots regarding fuel cut-off, and not the full CVR audio and transcript? Notably, it does not say that either pilot moved the fiiel control switches during take-off; it merely notes that the switches \"transitioned from Run to Cutoff position\". Curiously, there has been no press briefingon the report during which questions could be addressed. Not surprisingly, the Airline Pilots' Association of Indiahascriticised the ambiguity, calling ita premature insinuation of pilot error. The report mentions a2018 Special Airworthiness information Bulletin (SAIB) issued by the US Federal Aviation Administration\n\nthe locking feature disengaged - the 787 version has similarswitches. Asthe SAIB was just anadvisory, Air India did not carry out any inspections. In awelcome move, the DGCA has now asked airlines to inspect fuel switch locking systems in Boeing 787 and 737 aircraft. The report's concluding section says that it does not recommend any action on Boeing or General Electric. Meanwhile, in what appears to amount toa clean chit for both companies, the FAA has declared that the preliminary report \"found no urgent safety concerns\" relating to either the engines or the aircraft systems of the 787-8. In this context, the case of the Boeing 737 MAX injectsa necessary note of caution Following the crashes of Lion Air Flight 610 in October 2018 and Ethiopian Airlines Flight 302 in March 2019 - both linked to similar technical faults - the FAA had initially affirmed the aircraft's airworthiness, only to ground the entire 737 MAX fleet between March 2019 and December 2020. It would be unwise to draw definitive conclusions from the preliminary report, which acknowledges in the foreword that the findings are provisional and subject to revision. Until the final report is out, all the agencies involved must take every possible measure toensure a fair, transparent, and fact-based inquiry. That is the very least that is owed to the dead and their families - and the safety of passengers every day.",
+   "n_words": 486,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1623,
+      1139,
+      2046,
+      1206
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      1289,
+      2227,
+      3190
+     ]
+    ],
+    "layout_words": 326
+   },
+   "headline_raw": "SURJIT S BHALLA",
+   "deck_raw": "",
+   "body_raw": "sumption inequality in India, as measured by\nthe Gini index, was the lowest (most equal)in\nthe world in 2022-23. However, the debateon\nthis is messy and bordering on sordid. Whatis\ninteresting is thatail the important participants\ninthe discussion/debate (Governmentof India,\nWorld Bank, and Indian media) have got it\nwrong in one way or another. This is not idle\narmchair criticism, as ]}document below.\nIt all started with an essay published on\nthe ORF website which says that, \u201ccontrary\nto popular narratives, India is not merely the\nworld\u2019s fourth-largest economy; itis also the\nworld\u2019s fourth most equal society\u201d.\nUnfortunately, this is false on both counts.\nIndia will not be the fourth-largest economy\nat least until March 2027; and India today is\nthe most equal society \u2014 not fourth most\nequal \u2014 but only in terms of consumption. Its\nrank in terms of anincome Gini is not known\nsince India, to date, has not conducted an of-\nficial income distribution survey.\nThe government has endorsed these\nwrong \u201cfindings\u201d through a PIB release; the\nBJP also wrongfully stated that India was the\nfourth most equal society \u2014 it only differed\nin stating that we ranked fourth in terms of\nsocial equality (whatever that index might\nbe). The endorsers completely ignored the\nimportant, and correct, result that India was\nmost equal only intermsof consumption in-\nequality. Critics were quick to pounce, and\ncorrectly so, on the errors of interpretation.\nWhich led to them compounding the error.\nAnd the debate goes on.\nFor example, Surbhi Kesar of SOAS has\nrightly claimed that the conclusion that India\nis amongst the most equal countries (as pub-\nlished in the GOI PIB report) was incorrect,\nsince it compared apples with oranges or\nmixed consumption distributions with income\ndistributions. \u201cA fair comparison wouldeither\nbe to compare India\u2019s income inequality with\nother countries\u2019 income Ginis, or compare\nIndia\u2019s consumption inequality with other\ncountries\u2019 consumption Ginis.\u201d\nThis makes perfect sense. Unfortunately,\nafter outlining the right procedure, Kesar",
+   "ocr_conf": 92.50920245398773,
+   "ocr_low_conf_share": 0.03374233128834356,
+   "headline": "SURJIT S BHALLA",
+   "deck": "",
+   "byline": "",
+   "text": "sumption inequality in India, as measured by the Gini index, was the lowest (most equal)in the world in 2022-23. However, the debateon this is messy and bordering on sordid. Whatis interesting is thatail the important participants inthe discussion/debate (Governmentof India, World Bank, and Indian media) have got it wrong in one way or another. This is not idle armchair criticism, as ]}document below. It all started with an essay published on the ORF website which says that, \"contrary to popular narratives, India is not merely the world's fourth-largest economy; itis also the world's fourth most equal society\". Unfortunately, this is false on both counts. India will not be the fourth-largest economy at least until March 2027; and India today is the most equal society - not fourth most equal - but only in terms of consumption. Its rank in terms of anincome Gini is not known since India, to date, has not conducted an official income distribution survey. The government has endorsed these wrong \"findings\" through a PIB release; the BJP also wrongfully stated that India was the fourth most equal society - it only differed in stating that we ranked fourth in terms of social equality (whatever that index might be). The endorsers completely ignored the important, and correct, result that India was most equal only intermsof consumption inequality. Critics were quick to pounce, and correctly so, on the errors of interpretation. Which led to them compounding the error. And the debate goes on. For example, Surbhi Kesar of SOAS has rightly claimed that the conclusion that India is amongst the most equal countries (as published in the GOI PIB report) was incorrect, since it compared apples with oranges or mixed consumption distributions with income distributions. \"A fair comparison wouldeither be to compare India's income inequality with other countries' income Ginis, or compare India's consumption inequality with other countries' consumption Ginis.\" This makes perfect sense. Unfortunately, after outlining the right procedure, Kesar",
+   "n_words": 323,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3573,
+      1251,
+      4182,
+      3032
+     ]
+    ],
+    "layout_words": 313,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "lack of any official data, the World Bank felt\ncompelled to gratuitously note in its April2025\nPovertyand Equity Brief for India: \u201cIndia\u2019s con-\nsumption-based Gini index improved from\n28.8 in 2011-12 to25.5 in 2022-23, though in-\nequality may be underestimated due to data\nlimitations. In contrast, the World Inequality\nDatabase shows income inequality rising from\na Gini of 52 in 2004 to 62 in 2023.\u201d The briefs\nreport summary data for 130developing coun-\ntries, but only for India does the World Bank\nquote WID synthetic results on income distri-\nbution. To add insult to statistical injury, the\nWorld Bank believes that official surveys have\ndata limitations (yes they do), but WID syn-\ntheticdistributions have no data limitations! In\nIndia, we call this kind of inference the advent\nof Kalyug, the \u201cage of darkness\u201d.\nThe World Bank has beena pioneer inthe\ncollection and verification of consumption\nand income distribution data since its cre-\nation. The PIP database is testimony to its in-\ntellectual honesty and expertise. However,\nthe World Bank states that India has the low-\nest consumption inequality in the world; in\nthe same breath (or paragraph) it states (via\nitsendorsement ofthe WID synthetic results)\nthat India has the highest income inequality.\nSuch a paradoxical result has heretofore not\nbeen documented by any organisationin the\nworld, let aloneby a well-known and intema-\ntionally renowned NGO. One of these esti-\nmates is clearly in huge error,\nThememory banks of the World Bank will\nreveal that its own research (some 25 years\nago) had documented that income Ginis were,\non average, six Gini points higher than con-\nsumption Ginis. Would the World Bank care\ntoexplainhowit finds credible anincomeWID\nGini of 62 along with a consumption Gini of\n26? What do these \u201cfacts\u201d say aboutthe World\nBank's credibility? About WID's credibility?\nThe whole world is watching, and awaiting, a\nMmeaningiul response from sister organisations\non this important credibility question.",
+   "ocr_conf": 89.96518987341773,
+   "ocr_low_conf_share": 0.04113924050632911,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "lack of any official data, the World Bank felt compelled to gratuitously note in its April2025 Povertyand Equity Brief for India: \"India's consumption-based Gini index improved from 28.8 in 2011-12 to25.5 in 2022-23, though inequality may be underestimated due to data limitations. In contrast, the World Inequality Database shows income inequality rising from a Gini of 52 in 2004 to 62 in 2023.\" The briefs report summary data for 130developing countries, but only for India does the World Bank quote WID synthetic results on income distribution. To add insult to statistical injury, the World Bank believes that official surveys have data limitations (yes they do), but WID syntheticdistributions have no data limitations! In India, we call this kind of inference the advent of Kalyug, the \"age of darkness\". The World Bank has beena pioneer inthe collection and verification of consumption and income distribution data since its creation. The PIP database is testimony to its intellectual honesty and expertise. However, the World Bank states that India has the lowest consumption inequality in the world; in the same breath (or paragraph) it states (via itsendorsement ofthe WID synthetic results) that India has the highest income inequality. Such a paradoxical result has heretofore not been documented by any organisationin the world, let aloneby a well-known and intemationally renowned NGO. One of these estimates is clearly in huge error, Thememory banks of the World Bank will reveal that its own research (some 25 years ago) had documented that income Ginis were, on average, six Gini points higher than consumption Ginis. Would the World Bank care toexplainhowit finds credible anincomeWID Gini of 62 along with a consumption Gini of 26? What do these \"facts\" say aboutthe World Bank's credibility? About WID's credibility? The whole world is watching, and awaiting, a Mmeaningiul response from sister organisations on this important credibility question.",
+   "n_words": 305,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      427,
+      3137,
+      1418,
+      3222
+     ]
+    ],
+    "deck_boxes": [
+     [
+      502,
+      3265,
+      1240,
+      3373
+     ]
+    ],
+    "body_boxes": [
+     [
+      317,
+      3415,
+      1529,
+      4736
+     ]
+    ],
+    "layout_words": 406
+   },
+   "headline_raw": "A PROMISING DECLINE",
+   "deck_raw": "Food inflation eases further. A good mor\nseason will help sustain this trend",
+   "body_raw": "RICE PRESSURES IN the Indian economy have receded further. On Monday,\n) data released by the National Statistics Office showed that retail inflation, as\nmeasured by the consumer price index, had edged lower to 2.1 per cent in\nJune, down from 2.82 per cent the month before. This is the fifth straight\nmonth that inflation has stayed lower than the RBI's targetof4 percent. Taking thisdata\ninto account, inflation has now averaged 2.7 per cent in the quarter, lower than the cen-\ntral bank\u2019s expectation of 2.9 per cent.\nMuchof the decline can be traced to the moderation in food prices, with the food and\nbeverages segment witnessing a deflation of 0.2 per cent. Steep declines were also ob-\nserved in vegetables and pulses. The outlook for food prices is also promising. During the\nsouthwest monsoon season, cumulative all-India rainfall has been 9.5 per cent above the\nlong-period average as on July 14. The deficit in the first half of June has been covered. So\nfar, the area sown under all kharif crops has been higher than last year. This will sustain\nthe current disinflationary trend in food prices. Alongside, concerns over a surge in oil\nprices have receded, with oil prices moderating from levels seen during the Israel-Iran\nconflict. Brent crude oil is currently trading at around $68,down from $75 in June. According\nto analysts, core CPI, which excludes volatile food and fuel components, has edged up-\nwards in June, But this rise was not broad-based. Price pressures remain muted in some\nnon-food categories such as clothing and footwear, household goods and services, hous-\ning, recreation and amusement. However, in the personal care and effects and miscella-\nneous segments, inflation was high.\nThe latest data only affirms the decision of the Monetary Policy Committee to front-\nload the interest rate cuts in its last meeting in June by lowering the policy rate by 50 ba-\nsis points to 5.5 per cent. But alongside, in this meeting, the committee had said that af-\nter reducing interest rates by 100 basis points since February 2025, \u201cpolicy is left with\nvery limited space to support growth\u201d. The current trends in prices, however, raise the pos-\nsibility of the RBI lowering its inflation projections for the year from 3.7 per cent currently.\nThe committee is likely toopt for a pause when it meets nextin August. Further policy ac-\ntion will depend on whether growth and inflation move in line with expectations.",
+   "ocr_conf": 93.5995085995086,
+   "ocr_low_conf_share": 0.014742014742014743,
+   "headline": "A PROMISING DECLINE",
+   "deck": "Food inflation eases further. A good mor season will help sustain this trend",
+   "byline": "",
+   "text": "RICE PRESSURES IN the Indian economy have receded further. On Monday, ) data released by the National Statistics Office showed that retail inflation, as measured by the consumer price index, had edged lower to 2.1 per cent in June, down from 2.82 per cent the month before. This is the fifth straight month that inflation has stayed lower than the RBI's targetof4 percent. Taking thisdata into account, inflation has now averaged 2.7 per cent in the quarter, lower than the central bank's expectation of 2.9 per cent. Muchof the decline can be traced to the moderation in food prices, with the food and beverages segment witnessing a deflation of 0.2 per cent. Steep declines were also observed in vegetables and pulses. The outlook for food prices is also promising. During the southwest monsoon season, cumulative all-India rainfall has been 9.5 per cent above the long-period average as on July 14. The deficit in the first half of June has been covered. So far, the area sown under all kharif crops has been higher than last year. This will sustain the current disinflationary trend in food prices. Alongside, concerns over a surge in oil prices have receded, with oil prices moderating from levels seen during the Israel-Iran conflict. Brent crude oil is currently trading at around $68,down from $75 in June. According to analysts, core CPI, which excludes volatile food and fuel components, has edged upwards in June, But this rise was not broad-based. Price pressures remain muted in some non-food categories such as clothing and footwear, household goods and services, housing, recreation and amusement. However, in the personal care and effects and miscellaneous segments, inflation was high. The latest data only affirms the decision of the Monetary Policy Committee to front-load the interest rate cuts in its last meeting in June by lowering the policy rate by 50 basis points to 5.5 per cent. But alongside, in this meeting, the committee had said that after reducing interest rates by 100 basis points since February 2025, \"policy is left with very limited space to support growth\". The current trends in prices, however, raise the possibility of the RBI lowering its inflation projections for the year from 3.7 per cent currently. The committee is likely toopt for a pause when it meets nextin August. Further policy action will depend on whether growth and inflation move in line with expectations.",
+   "n_words": 397,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3616,
+      3078,
+      4179,
+      3191
+     ]
+    ],
+    "layout_words": 18,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writeris chairperson, Technical Expert\nGroup for the first official Household Income\nSurvey for India Views are personal",
+   "ocr_conf": 94.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writeris chairperson, Technical Expert Group for the first official Household Income Survey for India Views are personal",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      3381,
+      3551,
+      3481
+     ],
+     [
+      1618,
+      3681,
+      2152,
+      3758
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2279,
+      3556,
+      3704,
+      3616
+     ]
+    ],
+    "body_boxes": [
+     [
+      1621,
+      3789,
+      2227,
+      3856
+     ],
+     [
+      1616,
+      3869,
+      2224,
+      5252
+     ],
+     [
+      2314,
+      4713,
+      2824,
+      5258
+     ],
+     [
+      2922,
+      3790,
+      3527,
+      5253
+     ]
+    ],
+    "layout_words": 556
+   },
+   "headline_raw": "ANOTHER KIND OF LOVE\nVANI TRIPATHI TIKOO",
+   "deck_raw": "\u2018Aap Jaisa Koi\u2019 doesn\u2019t wage war on patriarchy. It asks it to listen",
+   "body_raw": "IN INDIAN CINEMA, patriarchy rarely an-\nnounces itself with aclenched fist. It arrives.as\n\nhabit. As inheritance, and politeness. It lingers\nin the pauses of male entitlement \u2014 in who\ngets to interrupt, who is expected to adjust,\nwhowalks ahead on the street, andwho apol-\nogises first in love. Netflix's new film, Aap jaisa\nKoi, directed by Vivek Soni, doesn\u2019t wage war\non patriarchy. It does something rarer \u2014 ask-\ning it to sit down quietly and listen.\nThe film explores what equal love might\nlook like \u2014 not as ideology, but as everyday\npractice. In doing so, it touches one of Indian\ncinema's enduring blind spots: The inability\nto portray intimacy without hierarchy.\nPatriarchy in Indian cinema has often\nbeen dramatised as violence \u2014 a father op-\nposing a marriage, a man slapping his wife,\nor an overt villain controlling the heroine's\nchoices. But its most persistent form is subtle,\nwoven intoaffection, justified by culture,and\ndisguised as care,\nAap Jaisa Koi understands this deeply. Its\nmale protagonist, Shrirenu Tripathi (played\nwith affecting restraint by R Madhavan), is\nnota patriarch in the classical sense. He is soft-\nspoken, educated, even kind. But his kindness\ncomes with conditions, His affection arrives\nwith hesitation. His silence, as the film shows,\nis not always humility \u2014sometimes it\u2019s avoid-\nance, sometimes entitlement.\nIn one of the mosttelling scenes, Shrirenu\ndelays expressing his feelings for Madhu Bose\n(Fatima Sana Shaikh), even as she meets him\nhalfway emotionally. When she finally says,\n\u201cDon't make your hesitation my burden,\u2019 it's\nnot aline crafted for applause. It\u2019s a quiet re-\n\nsistance \u2014 the kind women are forced to of-\nfer in relationships built on unequal emo-\ntional labour.\nWhat distinguishes Aap Jaisa Koi is its\ncommitment to subtlety \u2014 not as aesthetic,\nbut as politics. The film resists loud femi-\nnism or confrontational drama. Instead, it\noffers something more intimate: A portrait\nof negotiation. Between two people.\nBetween tradition and selfhood. Between\ncare and control.\nShaikh\u2019s Madhu is nota cinematic \u201cstrong\nwoman\u201d. She is not angry, argumentative, or\nradical in the traditional sense. Her strength\nlies in her refusal to bend quietly. She asks\nquestions. She sets boundaries. She is warm,\nbut unyielding when needed. And crucially,\nshe does not \u201cfix\u201d the man \u2014 she waits for him\nto meet heron equal ground, or not at all.\nThatitselfis.a disruption of cinematic con-\nvention. Indian heroines have long been ex-\npected toabsorb \u2014 the anger, the indifference,\nthe delay, the distance.\nMadhavan\u2019s portrayal of Shrirenu is par-\nticularly moving because it shows a man\nstruggling not with love, but with unlearn-\ning. He is not cruel; he is conditioned. Raised\nin afamily where men withdraw rather than\nspeak, where decisions are made on their be-\nhalf by well-meaning elders, his emotional\nlanguage is half-formed. His journey is not\nabout transformation, but about recognising\nthat passivity can bea form of control, too.\nIn one key moment, when Madhu offers\nhim affection and clarity, he withdraws, call-\ning himself \u201cnot ready\u2019. But the film does not\napplaud this honesty. Instead, it holds him ac-",
+   "ocr_conf": 91.84946236559139,
+   "ocr_low_conf_share": 0.026881720430107527,
+   "headline": "ANOTHER KIND OF LOVE VANI TRIPATHI TIKOO",
+   "deck": "'Aap Jaisa Koi' doesn't wage war on patriarchy. It asks it to listen",
+   "byline": "",
+   "text": "IN INDIAN CINEMA, patriarchy rarely announces itself with aclenched fist. It arrives.as\n\nhabit. As inheritance, and politeness. It lingers in the pauses of male entitlement - in who gets to interrupt, who is expected to adjust, whowalks ahead on the street, andwho apologises first in love. Netflix's new film, Aap jaisa Koi, directed by Vivek Soni, doesn't wage war on patriarchy. It does something rarer - asking it to sit down quietly and listen. The film explores what equal love might look like - not as ideology, but as everyday practice. In doing so, it touches one of Indian cinema's enduring blind spots: The inability to portray intimacy without hierarchy. Patriarchy in Indian cinema has often been dramatised as violence - a father opposing a marriage, a man slapping his wife, or an overt villain controlling the heroine's choices. But its most persistent form is subtle, woven intoaffection, justified by culture,and disguised as care, Aap Jaisa Koi understands this deeply. Its male protagonist, Shrirenu Tripathi (played with affecting restraint by R Madhavan), is nota patriarch in the classical sense. He is soft-spoken, educated, even kind. But his kindness comes with conditions, His affection arrives with hesitation. His silence, as the film shows, is not always humility - sometimes it's avoidance, sometimes entitlement. In one of the mosttelling scenes, Shrirenu delays expressing his feelings for Madhu Bose (Fatima Sana Shaikh), even as she meets him halfway emotionally. When she finally says, \"Don't make your hesitation my burden,' it's not aline crafted for applause. It's a quiet resistance - the kind women are forced to offer in relationships built on unequal emotional labour. What distinguishes Aap Jaisa Koi is its commitment to subtlety - not as aesthetic, but as politics. The film resists loud feminism or confrontational drama. Instead, it offers something more intimate: A portrait of negotiation. Between two people. Between tradition and selfhood. Between care and control. Shaikh's Madhu is nota cinematic \"strong woman\". She is not angry, argumentative, or radical in the traditional sense. Her strength lies in her refusal to bend quietly. She asks questions. She sets boundaries. She is warm, but unyielding when needed. And crucially, she does not \"fix\" the man - she waits for him to meet heron equal ground, or not at all. Thatitselfis.a disruption of cinematic convention. Indian heroines have long been expected toabsorb - the anger, the indifference, the delay, the distance. Madhavan's portrayal of Shrirenu is particularly moving because it shows a man struggling not with love, but with unlearning. He is not cruel; he is conditioned. Raised in afamily where men withdraw rather than speak, where decisions are made on their behalf by well-meaning elders, his emotional language is half-formed. His journey is not about transformation, but about recognising that passivity can bea form of control, too. In one key moment, when Madhu offers him affection and clarity, he withdraws, calling himself \"not ready'. But the film does not applaud this honesty. Instead, it holds him ac-",
+   "n_words": 497,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3569,
+      3790,
+      4179,
+      5134
+     ]
+    ],
+    "layout_words": 228,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "countable, Readiness, it suggests, is not a\nvirtue when it leaves someone else waiting\nin uncertainty.\nThe film\u2019s point here is profound:\nEmotional withholding, when unacknowl-\nedged, becomes its own form of power.\nDirector Vivek Soni and cinematographer\nDebojeet Ray craft this story with warmth\nand quietness. There is no spectacle. A raised\neyebrow, a pause, a half-finished sentence be-\ncome tools of power and protest.\nOne such moment comes when Madhu,\nreturning froma frustrating family visit, con-\nfronts Shrirenu not with anger but with clar-\nity. She says what women are often expected\ntoleave unsaid: That love without equality is\nnot romantic \u2014 it is exhausting.\nAnd the film listens.\nWeare living in atime when mainstream\nIndian cinemais haltingly turning its gaze in-\nward. Aap jaisa Koi is part of that shift. It does-\nn'tdeliver a lecture on gender. It models a con-\nversation \u2014 one where silenceis interrogated,\nnot celebrated; where love is offered, but not\nat the cost of self.\nIn doing so, it asks: What does atruly\nequal relationship look like in a culture still\nlearning to name its biases? And what hap-\npens when we stop applauding the bare min-\nimum from men, and start expecting more?\nThe film doesn't offer easy resolutions. But\nit offers something better: The possibility that\nif we can acknowledge our conditioning, we\ncan changeit. Gently. Daily. Together.",
+   "ocr_conf": 90.21929824561404,
+   "ocr_low_conf_share": 0.039473684210526314,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "countable, Readiness, it suggests, is not a virtue when it leaves someone else waiting in uncertainty. The film's point here is profound: Emotional withholding, when unacknowledged, becomes its own form of power. Director Vivek Soni and cinematographer Debojeet Ray craft this story with warmth and quietness. There is no spectacle. A raised eyebrow, a pause, a half-finished sentence become tools of power and protest. One such moment comes when Madhu, returning froma frustrating family visit, confronts Shrirenu not with anger but with clarity. She says what women are often expected toleave unsaid: That love without equality is not romantic - it is exhausting. And the film listens. Weare living in atime when mainstream Indian cinemais haltingly turning its gaze inward. Aap jaisa Koi is part of that shift. It doesn'tdeliver a lecture on gender. It models a conversation - one where silenceis interrogated, not celebrated; where love is offered, but not at the cost of self. In doing so, it asks: What does atruly equal relationship look like in a culture still learning to name its biases? And what happens when we stop applauding the bare minimum from men, and start expecting more? The film doesn't offer easy resolutions. But it offers something better: The possibility that if we can acknowledge our conditioning, we can changeit. Gently. Daily. Together.",
+   "n_words": 219,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      535,
+      4805,
+      1315,
+      4889
+     ]
+    ],
+    "deck_boxes": [
+     [
+      516,
+      4933,
+      1330,
+      5038
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      5072,
+      1528,
+      6162
+     ]
+    ],
+    "layout_words": 339
+   },
+   "headline_raw": "(GUTS AND GRACE",
+   "deck_raw": "At this year\u2019s Wimbledon, dignity in victory\nand defeat told a deeper story",
+   "body_raw": "TIS EASY, in elite sports, to become impatient with vulnerability. To go searching\nfor dominance and drama, and overlook the quiet work of resilience and grace.\nOver the last two weeks at Wimbledon, however, it wasn't just the on-court ex-\nploits that left a mark. It was the dignity with which both victory and defeat were\ncarried that told a deeper story \u2014 of the cost of sustaining greatness; of titans coming un-\ndone by age; of promise stumbling on the brink of arrival; of rivalries softening into mu-\ntual respect. From 38-year-old Novak Djokovic pushing his unwilling body to its limits to\nwomen\u2019s singles runner-up Amanda Anisimova fighting loss and personal setbacks \u2014\nthe death of her father and a mental-health breakdown \u2014 to reach her first Grand Slam\nfinal, only to be demolished 6-0, 6-0, this year\u2019s tournament threw up moments that\nwere authentic, aching and utterly human.\nJannik Sinner\u2019s maiden Wimbledon crown was equally moving, not only for the pre-\ncision of his play or his athletic supremacy \u2014 though his backhand, especially, sang \u2014 but\nfor what it revealed about growth. Weeks earlier, at Roland Garros, the Italian had re-\ntumed from a three-month doping ban and lost the final \u2014 from three championship\npoints \u2014 tothe very opponent he now outplayed. Carlos Alcaraz came into the Wimbledon\nfinal on a career-best 24-match winning streak, but Sinner brought something harder to\nmeasure: The quiet fire of redemption. Only after the euphoria of his achievement had\nsettled in would he climb into his box, fold into his family\u2019s arms, and weep.\nSport, at its most moving, isn't just about mastery, it is about faith. After records have\nbeen broken and personal milestones achieved, it is about what it costs to keep coming\nback, year after year, not always as the favourite, not always whole, but because of the\nstubborn hope that circumstances change, one dream ata time. At this year's Wimbledon,\nit was this very spirit \u2014 decent, dignified, defiant \u2014 that found room to breathe.",
+   "ocr_conf": 91.84955752212389,
+   "ocr_low_conf_share": 0.038348082595870206,
+   "headline": "(GUTS AND GRACE",
+   "deck": "At this year's Wimbledon, dignity in victory and defeat told a deeper story",
+   "byline": "",
+   "text": "TIS EASY, in elite sports, to become impatient with vulnerability. To go searching for dominance and drama, and overlook the quiet work of resilience and grace. Over the last two weeks at Wimbledon, however, it wasn't just the on-court exploits that left a mark. It was the dignity with which both victory and defeat were carried that told a deeper story - of the cost of sustaining greatness; of titans coming undone by age; of promise stumbling on the brink of arrival; of rivalries softening into mutual respect. From 38-year-old Novak Djokovic pushing his unwilling body to its limits to women's singles runner-up Amanda Anisimova fighting loss and personal setbacks - the death of her father and a mental-health breakdown - to reach her first Grand Slam final, only to be demolished 6-0, 6-0, this year's tournament threw up moments that were authentic, aching and utterly human. Jannik Sinner's maiden Wimbledon crown was equally moving, not only for the precision of his play or his athletic supremacy - though his backhand, especially, sang - but for what it revealed about growth. Weeks earlier, at Roland Garros, the Italian had retumed from a three-month doping ban and lost the final - from three championship points - tothe very opponent he now outplayed. Carlos Alcaraz came into the Wimbledon final on a career-best 24-match winning streak, but Sinner brought something harder to measure: The quiet fire of redemption. Only after the euphoria of his achievement had settled in would he climb into his box, fold into his family's arms, and weep. Sport, at its most moving, isn't just about mastery, it is about faith. After records have been broken and personal milestones achieved, it is about what it costs to keep coming back, year after year, not always as the favourite, not always whole, but because of the stubborn hope that circumstances change, one dream ata time. At this year's Wimbledon, it was this very spirit - decent, dignified, defiant - that found room to breathe.",
+   "n_words": 334,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3620,
+      5180,
+      4174,
+      5254
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is an actor, educator, filmmaker,\nand public policy advocate.",
+   "ocr_conf": 95.45454545454545,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is an actor, educator, filmmaker, and public policy advocate.",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2221,
+      5402,
+      3393,
+      5491
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2266,
+      5514,
+      2876,
+      5921
+     ],
+     [
+      2268,
+      5975,
+      2722,
+      6018
+     ],
+     [
+      2269,
+      6051,
+      2875,
+      6166
+     ],
+     [
+      2921,
+      5535,
+      3524,
+      5729
+     ]
+    ],
+    "layout_words": 132
+   },
+   "headline_raw": "| Jury 15, 1985, Forty YEARS AGO",
+   "deck_raw": "",
+   "body_raw": "BLACK Box ANALYSES\nJUSTICE D NKRIPAL, whois heading the court\nof inquiry into the Kanishka crash, is expected\nto arrive in Bombay to decide the place and\ndate for the much-awaited analyses of the\nblack boxes. In all probability, the read-out of\nthe cockpit voice recorder (CVR) will take\nplace at the Bhabha Atomic Research Centre\n(BARC), where similar analyses of the two air\ncrashes in 1976 and 1978 were carried out.\n\nPAK FoR N-TREATY\n\nPAKISTAN IS WILLING to signa bilateral agree-\nment with India renouncing nuclear Weapons,\naccording to a senior Pakistani official. Zain\n\nNoorani, Minister of State for Foreign Affairs,\ntold the upper house of Parliament that\nIslamabad is ready \u201cto join with India bilater-\nally, or with other non-nuclear states on are-\ngionalor aglohalhasis in asolemn treaty to re-",
+   "ocr_conf": 92.59848484848484,
+   "ocr_low_conf_share": 0.015151515151515152,
+   "headline": "Jury 15, 1985, Forty YEARS AGO",
+   "deck": "",
+   "byline": "BLACK Box ANALYSES; PAK FoR N-TREATY",
+   "text": "JUSTICE D NKRIPAL, whois heading the court of inquiry into the Kanishka crash, is expected to arrive in Bombay to decide the place and date for the much-awaited analyses of the black boxes. In all probability, the read-out of the cockpit voice recorder (CVR) will take place at the Bhabha Atomic Research Centre (BARC), where similar analyses of the two air crashes in 1976 and 1978 were carried out.\n\nPAKISTAN IS WILLING to signa bilateral agreement with India renouncing nuclear Weapons, according to a senior Pakistani official. Zain\n\nNoorani, Minister of State for Foreign Affairs, told the upper house of Parliament that Islamabad is ready \"to join with India bilaterally, or with other non-nuclear states on aregionalor aglohalhasis in asolemn treaty to re-",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3572,
+      5536,
+      4176,
+      5723
+     ]
+    ],
+    "layout_words": 33,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Programme in this context and said changes\nhad tobemade in the schemes under this pro-\ngramme tohelp weakersections. Gandhisaid\nmuch had been done forthetribals in Madhya\nPradesh \u201cbuta lot remained to be done\u201d.",
+   "ocr_conf": 90.33333333333333,
+   "ocr_low_conf_share": 0.030303030303030304,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Programme in this context and said changes had tobemade in the schemes under this programme tohelp weakersections. Gandhisaid much had been done forthetribals in Madhya Pradesh \"buta lot remained to be done\".",
+   "n_words": 32,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2921,
+      5816,
+      3440,
+      5860
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2921,
+      5894,
+      3524,
+      6166
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "TWEAKS TO SCHEMES",
+   "deck_raw": "",
+   "body_raw": "PRIME MINISTER RAJIV Gandhi said the 20-\npoint programme, put in place by Indira\nGandhiduring the Emergency, would be suit-\nably modified to meet the developmental\nneeds of the poorer sections of people in the\nvillages. He singled out the implementation\nof the integrated Rural Development",
+   "ocr_conf": 94.65217391304348,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TWEAKS TO SCHEMES",
+   "deck": "",
+   "byline": "",
+   "text": "PRIME MINISTER RAJIV Gandhi said the 20- point programme, put in place by Indira Gandhiduring the Emergency, would be suitably modified to meet the developmental needs of the poorer sections of people in the villages. He singled out the implementation of the integrated Rural Development",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      3571,
+      5777,
+      3890,
+      5821
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3571,
+      5853,
+      4179,
+      6167
+     ]
+    ],
+    "layout_words": 53
+   },
+   "headline_raw": "ASSAM TALKS",
+   "deck_raw": "",
+   "body_raw": "THE FATE of the Saikia ministry could be-\ncome the deciding factor for the solution of\nthe foreigners problem in Assam. One minor\nhurdle was crossed in the present round\nwhen Union Home Secretary R D Pradhan\ncleared the element of uncertainty over the\nresumption of talks. They will begin within\n10 days.",
+   "ocr_conf": 92.79245283018868,
+   "ocr_low_conf_share": 0.03773584905660377,
+   "headline": "ASSAM TALKS",
+   "deck": "",
+   "byline": "",
+   "text": "THE FATE of the Saikia ministry could become the deciding factor for the solution of the foreigners problem in Assam. One minor hurdle was crossed in the present round when Union Home Secretary R D Pradhan cleared the element of uncertainty over the resumption of talks. They will begin within 10 days.",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 22.9,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

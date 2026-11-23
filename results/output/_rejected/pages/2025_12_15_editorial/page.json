@@ -1,0 +1,2114 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_15_editorial",
+ "source_file": "2025-12-15_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-15_editorial.png",
+ "date": "2025-12-15",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 33.0,
+  "masthead_y": 224,
+  "n_lines": 544,
+  "mean_line_conf": 77.84810464451162,
+  "orphan_words": 682,
+  "body_words_total": 2187
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1300,
+      325,
+      1767,
+      362
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "e OVER THE HEDGE",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "e OVER THE HEDGE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2830,
+      336,
+      3204,
+      363
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BY MICHAEL FRY & TLEWIS",
+   "ocr_conf": 91.4,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BY MICHAEL FRY & TLEWIS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3893,
+      337,
+      4183,
+      364
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BY GEORGIA NICOLS",
+   "ocr_conf": 92.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BY GEORGIA NICOLS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1716,
+      399,
+      2206,
+      457
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1941,
+      497,
+      1983,
+      528
+     ],
+     [
+      2040,
+      498,
+      2173,
+      558
+     ],
+     [
+      1784,
+      1158,
+      2163,
+      1228
+     ],
+     [
+      1799,
+      1278,
+      2021,
+      1430
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\n\nI KNOW!\nBUT NOT\n\nWAIT A MINUTE, CALVIN.\nT DONT.\n\nYou WAVE To |\nTALK WW SLOW\nMOTION Too.\nLIKE THISSS.",
+   "ocr_conf": 74.80952380952381,
+   "ocr_low_conf_share": 0.09523809523809523,
+   "headline": "",
+   "deck": "",
+   "byline": "I KNOW!; BUT NOT",
+   "text": "WAIT A MINUTE, CALVIN. T DONT.\n\nYou WAVE To TALK WW SLOW MOTION Too. LIKE THISSS.",
+   "n_words": 16,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2302,
+      398,
+      2623,
+      489
+     ],
+     [
+      2351,
+      567,
+      3119,
+      658
+     ],
+     [
+      2266,
+      665,
+      2675,
+      760
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2261,
+      481,
+      2665,
+      569
+     ],
+     [
+      2394,
+      638,
+      2701,
+      668
+     ]
+    ],
+    "body_boxes": [
+     [
+      2746,
+      1158,
+      2980,
+      1350
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "YEAH OUR TWENTY =\nSOMETHING BRAINS\nSCNT OMLY CROMER 1\n, - AFTER\n4\u00b0 NOTHING CAN\n\u2018 _ * : KILL US!\nae\naa wa",
+   "deck_raw": "AREN'T FULLY FORMED! WE\nCAN'T EVALUATE RISK!\n4* NOTHING CAN",
+   "body_raw": "HOBRES! SHE\nSTUMBLED INTO\nTHE PERIMETER\nOF WISDOM!\nRINE |",
+   "ocr_conf": 78.8,
+   "ocr_low_conf_share": 0.2,
+   "headline": "YEAH OUR TWENTY = SOMETHING BRAINS SCNT OMLY CROMER 1, - AFTER 4\u00b0 NOTHING CAN ' _ *: KILL US! ae aa wa",
+   "deck": "AREN'T FULLY FORMED! WE CAN'T EVALUATE RISK! 4* NOTHING CAN",
+   "byline": "HOBRES! SHE; STUMBLED INTO; THE PERIMETER; OF WISDOM!; RINE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3417,
+      453,
+      4165,
+      608
+     ]
+    ],
+    "layout_words": 31,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ARIES (MAR 21- APR 20): Today your ambition could\ncreate conflict with authority figures. Don\u2019t be surprised if\nyour emotional experiences are more intense today. Easy\ndoesit. Tonight: Check your finances.",
+   "ocr_conf": 94.51612903225806,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ARIES (MAR 21- APR 20): Today your ambition could create conflict with authority figures. Don't be surprised if your emotional experiences are more intense today. Easy doesit. Tonight: Check your finances.",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2572,
+      564,
+      3141,
+      595
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ALLIVE | a. AFTER",
+   "ocr_conf": 54.25,
+   "ocr_low_conf_share": 0.25,
+   "headline": "",
+   "deck": "",
+   "byline": "ALLIVE   a. AFTER",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3416,
+      652,
+      4172,
+      846
+     ]
+    ],
+    "layout_words": 40,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "TAURUS (APR 21 -MAY 21): Today you have tobe accom-\nmodating and compromise a bit with someone else, es-\npecially a spouse, partner or close friend. Meanwhile, in\nthe next six weeks, your desire to travel willbe strong.\nTonight: Listen.",
+   "ocr_conf": 93.125,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "TAURUS (APR 21 -MAY 21): Today you have tobe accommodating and compromise a bit with someone else, especially a spouse, partner or close friend. Meanwhile, in the next six weeks, your desire to travel willbe strong. Tonight: Listen.",
+   "n_words": 38,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3417,
+      892,
+      4161,
+      1045
+     ]
+    ],
+    "layout_words": 37,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "GEMINI (MAY 22 - JUNE 21): Youhave to put your needs\nsecond tothe demands of someone else today. You're not\nbeing a martyr. In the next six weeks, inheritances and\nshared property might be confrontational. Tonight: Work.",
+   "ocr_conf": 91.1891891891892,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "GEMINI (MAY 22 - JUNE 21): Youhave to put your needs second tothe demands of someone else today. You're not being a martyr. In the next six weeks, inheritances and shared property might be confrontational. Tonight: Work.",
+   "n_words": 37,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1300,
+      1058,
+      1767,
+      1140
+     ],
+     [
+      1324,
+      1155,
+      1724,
+      1239
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1327,
+      1238,
+      1716,
+      1268
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "e CALVIN & HOBBES\nIVE GOT THE CALVINBALL J\nEVERNBODY ELSE HAS To",
+   "deck_raw": "",
+   "body_raw": "GO IN SLOW MOTION NOW!",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "e CALVIN & HOBBES IVE GOT THE CALVINBALL J EVERNBODY ELSE HAS To",
+   "deck": "",
+   "byline": "GO IN SLOW MOTION NOW!",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2408,
+      1132,
+      2709,
+      1201
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2265,
+      1199,
+      2704,
+      1350
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "GAAAAME. MAAAKES.",
+   "deck_raw": "",
+   "body_raw": "NOOOO SENNNSE! ITSSSS ,\nAASSS IFFFF YOURRRRE\nMAAAKINNNGGS WIT\nUUUUP AAAS YOUN GOOO.",
+   "ocr_conf": 62.15384615384615,
+   "ocr_low_conf_share": 0.46153846153846156,
+   "headline": "GAAAAME. MAAAKES.",
+   "deck": "",
+   "byline": "NOOOO SENNNSE! ITSSSS ,; AASSS IFFFF YOURRRRE; MAAAKINNNGGS WIT; UUUUP AAAS YOUN GOOO.",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3417,
+      1090,
+      4171,
+      1285
+     ]
+    ],
+    "layout_words": 43,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "CANCER (JUNE 22- JULY 23): It's Monday, and today isa\nmixed bag. The Moon makes you feel protective, nurturing\nand affectionate to others. However, Mars is now opposite\nyour sign for six weeks, which could create tension with\nothers. Patience, grasshopper. Tonight: Play.",
+   "ocr_conf": 92.20930232558139,
+   "ocr_low_conf_share": 0.046511627906976744,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "CANCER (JUNE 22- JULY 23): It's Monday, and today isa mixed bag. The Moon makes you feel protective, nurturing and affectionate to others. However, Mars is now opposite your sign for six weeks, which could create tension with others. Patience, grasshopper. Tonight: Play.",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3416,
+      1328,
+      4182,
+      1483
+     ]
+    ],
+    "layout_words": 37,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "LEO (JULY 24 - AUG 23): You have mixed messages today.\nInone way, you want to relax at home. You might want to\nplay hooky and have some fun. It's time to get to work.\nTonight: Cocoon.",
+   "ocr_conf": 90.21621621621621,
+   "ocr_low_conf_share": 0.05405405405405406,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "LEO (JULY 24 - AUG 23): You have mixed messages today. Inone way, you want to relax at home. You might want to play hooky and have some fun. It's time to get to work. Tonight: Cocoon.",
+   "n_words": 37,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      315,
+      1401,
+      1227,
+      2225
+     ]
+    ],
+    "layout_words": 181,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ACROSS DOWN\n1 Mackerel bait (5) 2 Forgave and cut the fellow in (8)\n8 The sailor\u2019s fears 3 His opinion is sure to be of\nare disguised (8) some value (8)\n9 Snappy mongrel (5) 4 Quietly settled in Indian city or\n10 Disturbance that may have old Greek shrine (6)\nPaulupset (8) \u00a7 With a frequency of ten put\n11 Disturb with sound together (5)\narguments (5) 6Sort ofboat you need\n12 Cheek by jowl (3) money for (5)\n16 Girlcarries onin 7 Note the record is amusing (5)\nJuliet\u2019s place (6) 12 Youngman may drop out\n17Gives some people your from illness (3)\naddress? (6) 13 He produced poems\n18 Change colour and pass away without writing (3)\nas reported (3) 14 Duck andorange? (8)\n23 Asnake has anewtail puton(5) 18Appropriatetoa\n24 Poet writes new sonnetabout Mediterranean land? (8)\nNew York(8) 19 The old-fashioned sign for\n25 Vision ofthe armed old-fashioned farmers (6)\nrevolutionary (5) 20 Begin street painting (5)\n26Continuedtobeleftbehind(8) 21Theotherside from\n27Can turn into American the Yemen (5)\nfighting formations (5) 22 Cyril\u2019s odd ode (5)",
+   "ocr_conf": 82.48066298342542,
+   "ocr_low_conf_share": 0.11602209944751381,
+   "headline": "",
+   "deck": "",
+   "byline": "ACROSS DOWN",
+   "text": "1 Mackerel bait (5) 2 Forgave and cut the fellow in (8) 8 The sailor's fears 3 His opinion is sure to be of are disguised (8) some value (8) 9 Snappy mongrel (5) 4 Quietly settled in Indian city or 10 Disturbance that may have old Greek shrine (6) Paulupset (8) \u00a7 With a frequency of ten put 11 Disturb with sound together (5) arguments (5) 6Sort ofboat you need 12 Cheek by jowl (3) money for (5) 16 Girlcarries onin 7 Note the record is amusing (5) Juliet's place (6) 12 Youngman may drop out 17Gives some people your from illness (3) address? (6) 13 He produced poems 18 Change colour and pass away without writing (3) as reported (3) 14 Duck andorange? (8) 23 Asnake has anewtail puton(5) 18Appropriatetoa 24 Poet writes new sonnetabout Mediterranean land? (8) New York(8) 19 The old-fashioned sign for 25 Vision ofthe armed old-fashioned farmers (6) revolutionary (5) 20 Begin street painting (5) 26Continuedtobeleftbehind(8) 21Theotherside from 27Can turn into American the Yemen (5) fighting formations (5) 22 Cyril's odd ode (5)",
+   "n_words": 179,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3416,
+      1527,
+      4169,
+      1722
+     ]
+    ],
+    "layout_words": 39,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "VIRGO (AUG 24 - SEP 23): You want to talk tosomeone\ntoday; you have something to say. Meanwhile, you will find\nthe courage tobe yourself for the next six weeks. Seek ro-\nmance, sports and amusing diversions!\nTonight: Conversations.",
+   "ocr_conf": 89.58974358974359,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "VIRGO (AUG 24 - SEP 23): You want to talk tosomeone today; you have something to say. Meanwhile, you will find the courage tobe yourself for the next six weeks. Seek romance, sports and amusing diversions! Tonight: Conversations.",
+   "n_words": 38,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3275,
+      1767,
+      4177,
+      1962
+     ]
+    ],
+    "layout_words": 51,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "eza LIBRA (SEP 24 - OCT 23): For the next six weeks you'll\noe @ work hard to get things done, but tension with family might\narise. Harmonyis important to you, but sois family. Let go\nof some of your expectations in order to promote a pleas-\nant atmosphere. Tonight: Maintain your belongings.",
+   "ocr_conf": 83.98113207547169,
+   "ocr_low_conf_share": 0.1320754716981132,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "eza LIBRA (SEP 24 - OCT 23): For the next six weeks you'll oe @ work hard to get things done, but tension with family might arise. Harmonyis important to you, but sois family. Let go of some of your expectations in order to promote a pleasant atmosphere. Tonight: Maintain your belongings.",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1299,
+      1797,
+      3205,
+      1835
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "e MARVIN BYTOM ARMSTRONG",
+   "ocr_conf": 47.0,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "",
+   "byline": "e MARVIN BYTOM ARMSTRONG",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      3285,
+      2005,
+      4142,
+      2085
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3415,
+      2245,
+      4152,
+      2401
+     ],
+     [
+      3323,
+      2444,
+      4156,
+      2599
+     ],
+     [
+      3415,
+      2643,
+      4160,
+      2872
+     ],
+     [
+      3415,
+      2922,
+      4181,
+      3197
+     ]
+    ],
+    "layout_words": 177
+   },
+   "headline_raw": "- SCORPIO (OCT 24 - NOV 23): Today things will tend to\niif ) goyour way. Meanwhile, today Mars moves into your",
+   "deck_raw": "",
+   "body_raw": "SAGITTARIUS (NOV 24 - DEC 22): Today, however, you\nwant to be low-key and enjoy some privacy. Mars has just\nmovedinto your Money House, making you identify more\nwith your possessions. Tonight: Enjoy privacy.\n\nCAPRICORN (DEC 23 - JAN 20): The next six weeks will\n\u00a5. bea time of great activity! You will work hard to further\na your owninterests and assert yourself among others. You\nwill defend your best interests! Tonight: Be friendly.\n\nAQUARIUS (JAN 21- FEB 19): People notice you\ntoday. Some will know personal details about your private\nlife. This continues to be a popular, friendly time for you;\nhowever, there might be someone out there who\ndoes not have your best interests at heart. Tonight:\nYou're admired.\n\nPISCES (FEB 20 - MAR 20): It\u2019s Monday, and you want to\nget out to dodge, or atleast explore your own\nneighbourhood. Meanwhile, the next six weeks are the\nperfect time to formulate goals and start to pursue them.\n(The best in twoyears) Enjoy physical activity and\ncompetitive sports. Look for win-win solutions. Tonight:\nBroaden your horizons.",
+   "ocr_conf": 87.48314606741573,
+   "ocr_low_conf_share": 0.08426966292134831,
+   "headline": "- SCORPIO (OCT 24 - NOV 23): Today things will tend to iif ) goyour way. Meanwhile, today Mars moves into your",
+   "deck": "",
+   "byline": "",
+   "text": "SAGITTARIUS (NOV 24 - DEC 22): Today, however, you want to be low-key and enjoy some privacy. Mars has just movedinto your Money House, making you identify more with your possessions. Tonight: Enjoy privacy.\n\nCAPRICORN (DEC 23 - JAN 20): The next six weeks will \u00a5. bea time of great activity! You will work hard to further a your owninterests and assert yourself among others. You will defend your best interests! Tonight: Be friendly.\n\nAQUARIUS (JAN 21- FEB 19): People notice you today. Some will know personal details about your private life. This continues to be a popular, friendly time for you; however, there might be someone out there who does not have your best interests at heart. Tonight: You're admired.\n\nPISCES (FEB 20 - MAR 20): It's Monday, and you want to get out to dodge, or atleast explore your own neighbourhood. Meanwhile, the next six weeks are the perfect time to formulate goals and start to pursue them. (The best in twoyears) Enjoy physical activity and competitive sports. Look for win-win solutions. Tonight: Broaden your horizons.",
+   "n_words": 178,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3416,
+      2042,
+      4149,
+      2200
+     ]
+    ],
+    "layout_words": 30,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "go your way. Meanwhile, today Mars moves into your\nHouse of Communications for six weeks, increasing your\ndaily pace and making you identify with your ideas. To-\nnight: You're in charge.",
+   "ocr_conf": 94.3225806451613,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "go your way. Meanwhile, today Mars moves into your House of Communications for six weeks, increasing your daily pace and making you identify with your ideas. Tonight: You're in charge.",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 20,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2277,
+      1246,
+      2458
+     ]
+    ],
+    "layout_words": 64,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SOLUTIONS CROSSWORD 5858 ACROSS: 1 Respecting, 6 Comb, 10 Sorts, 11\nOppressor, 12 Twilight, 13 Risks, 15 Hearses, 17 Curable, 19 Pelican, 21 Deposit,\n22 Realm, 24 Ginrummy, 27 Cigarette, 28 Enter, 29 Sett, 30 Tennis club\nDOWN: 1Rest, 2 Screwball, 3 Easel, 4 Troughs, 5 Nepotic, 7 Oasis, 8 Birds\u2019\nnests, 9 Teardrop, 14 Shipwrecks, 16 Sycamore, 18 Base metal, 20 Nightie, 21",
+   "ocr_conf": 90.46875,
+   "ocr_low_conf_share": 0.046875,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "SOLUTIONS CROSSWORD 5858 ACROSS: 1 Respecting, 6 Comb, 10 Sorts, 11 Oppressor, 12 Twilight, 13 Risks, 15 Hearses, 17 Curable, 19 Pelican, 21 Deposit, 22 Realm, 24 Ginrummy, 27 Cigarette, 28 Enter, 29 Sett, 30 Tennis club DOWN: 1Rest, 2 Screwball, 3 Easel, 4 Troughs, 5 Nepotic, 7 Oasis, 8 Birds' nests, 9 Teardrop, 14 Shipwrecks, 16 Sycamore, 18 Base metal, 20 Nightie, 21",
+   "n_words": 64,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 21,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      2582,
+      1241,
+      2767
+     ]
+    ],
+    "layout_words": 58,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Given below are four jumbled words. Solvethe jumbles to make proper\nwords and move them tothe respective squares below. Select the letters in\nthe shaded squares and jumble them to get the answer for the given quip.\n__ has ever been considered the state in which a man most\neasily becomes acquainted with himself. - Samuel Johnson (9)",
+   "ocr_conf": 88.87931034482759,
+   "ocr_low_conf_share": 0.034482758620689655,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Given below are four jumbled words. Solvethe jumbles to make proper words and move them tothe respective squares below. Select the letters in the shaded squares and jumble them to get the answer for the given quip. __ has ever been considered the state in which a man most easily becomes acquainted with himself. - Samuel Johnson (9)",
+   "n_words": 58,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 22,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2843,
+      1157,
+      3044
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      2803,
+      898,
+      2829
+     ],
+     [
+      320,
+      2933,
+      917,
+      2976
+     ]
+    ],
+    "body_boxes": [
+     [
+      330,
+      3079,
+      1248,
+      3190
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "Oe] COBCBO\nT | OO\u00ae COCCeCce",
+   "deck_raw": "ETAER EINDT\nHTXIS ERSUVY",
+   "body_raw": "uosuyor yanules - yeswY YIM payulenboe sawozag Ajises\nSOW UBW EYSIYM Ul 2Je}s 34} Paapisuod uaeq Jane sey ANSJOAPY :Y3 MSNY\nABAINS \u2018ONPU] \u201cYIXIS \u201c19989 :SNOILNIOS",
+   "ocr_conf": 29.73076923076923,
+   "ocr_low_conf_share": 0.7307692307692307,
+   "headline": "Oe] COBCBO T OO\u00ae COCCeCce",
+   "deck": "ETAER EINDT HTXIS ERSUVY",
+   "byline": "",
+   "text": "uosuyor yanules - yeswY YIM payulenboe sawozag Ajises SOW UBW EYSIYM Ul 2Je}s 34} Paapisuod uaeq Jane sey ANSJOAPY:Y3 MSNY ABAINS 'ONPU] \"YIXIS \"19989:SNOILNIOS",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 23,
+   "layout": {
+    "headline_boxes": [
+     [
+      446,
+      3280,
+      1251,
+      3351
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      331,
+      3345,
+      1278,
+      3495
+     ],
+     [
+      335,
+      3508,
+      1275,
+      3977
+     ]
+    ],
+    "layout_words": 215
+   },
+   "headline_raw": "SMALL FINANCE BANK (A Scheduled Commercial Bank)",
+   "deck_raw": "",
+   "body_raw": "Registered Office: The Fairway, Ground & First Floor, Survey No.10/1, :\n11/2 & 12/2B, Off Domlur, Koramangla Inner Ring Road,\nNext to EGL Business Park, Challaghatta, Bangalore-560071. ; -\n| PUBLIC NOTICE FOR AUCTION OF GOLD ORNAMENTS &\n\nThe below mentioned borrowers have failed to repay the loan and redeem the gold\nomaments within the stipulated time in spite of several reminders. The Gold \u00a9\nJewelleryfornaments pledged under the said loan accounts by the below listed -\nborrowers will be sold in public/ Online/ private auction at our Branch premises on -\n22.12.2025 at 10.30 AM. Those willing to participate are requested to contact the\nbranch. The Bank reserves the right to accept or reject any bid without assigning any \u2014\nreason whatsoever. Please note if the auction does not get completed on the same -\nday, the same will follow the subsequent days on the same terms and conditions. if .\nthe customer is deceased all the conditions pertaining to auction will be applicable\nto nomineefegal heir. The Borrower are hereby notified to pay the upto date interest\nand ancillary expenses before the date of auction, failing which the pledged gold\nomaments will be sold and balance dues if any will be recovered with interest and ~\ncost For any queries and terms and conditions contact branch. For details of branch -\naddress visit wwwJjanabank.com. :",
+   "ocr_conf": 90.48898678414096,
+   "ocr_low_conf_share": 0.05726872246696035,
+   "headline": "SMALL FINANCE BANK (A Scheduled Commercial Bank)",
+   "deck": "",
+   "byline": "",
+   "text": "Registered Office: The Fairway, Ground & First Floor, Survey No.10/1,: 11/2 & 12/2B, Off Domlur, Koramangla Inner Ring Road, Next to EGL Business Park, Challaghatta, Bangalore-560071.; - PUBLIC NOTICE FOR AUCTION OF GOLD ORNAMENTS &\n\nThe below mentioned borrowers have failed to repay the loan and redeem the gold omaments within the stipulated time in spite of several reminders. The Gold \u00a9 Jewelleryfornaments pledged under the said loan accounts by the below listed - borrowers will be sold in public/ Online/ private auction at our Branch premises on - 22.12.2025 at 10.30 AM. Those willing to participate are requested to contact the branch. The Bank reserves the right to accept or reject any bid without assigning any - reason whatsoever. Please note if the auction does not get completed on the same - day, the same will follow the subsequent days on the same terms and conditions. if. the customer is deceased all the conditions pertaining to auction will be applicable to nomineefegal heir. The Borrower are hereby notified to pay the upto date interest and ancillary expenses before the date of auction, failing which the pledged gold omaments will be sold and balance dues if any will be recovered with interest and ~ cost For any queries and terms and conditions contact branch. For details of branch - address visit wwwJjanabank.com.:",
+   "n_words": 222,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 24,
+   "layout": {
+    "headline_boxes": [
+     [
+      1340,
+      3289,
+      1636,
+      3374
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1547,
+      3376,
+      1647,
+      3414
+     ],
+     [
+      1555,
+      3427,
+      1647,
+      3458
+     ],
+     [
+      1549,
+      3456,
+      1815,
+      3495
+     ],
+     [
+      1555,
+      3508,
+      1691,
+      3544
+     ],
+     [
+      1555,
+      3558,
+      1792,
+      3592
+     ],
+     [
+      1555,
+      3603,
+      1725,
+      3636
+     ],
+     [
+      1547,
+      3646,
+      1673,
+      3680
+     ]
+    ],
+    "layout_words": 16
+   },
+   "headline_raw": "45918730017158 Minaks!\n45918730017174 | Pushpa",
+   "deck_raw": "",
+   "body_raw": "' Sayar R\n\nSayar R\n\n\u201cBharti Ramesh Kumar\n\nNarpat Ram\n\nSwaroopa Ram Ram\n\nMahendra Rao\n\nPrakash P",
+   "ocr_conf": 85.17647058823529,
+   "ocr_low_conf_share": 0.11764705882352941,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "' Sayar R\n\nSayar R\n\n\"Bharti Ramesh Kumar\n\nNarpat Ram\n\nSwaroopa Ram Ram\n\nMahendra Rao\n\nPrakash P",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 25,
+   "layout": {
+    "headline_boxes": [
+     [
+      2113,
+      3289,
+      2625,
+      3374
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2126,
+      4398,
+      2188,
+      4439
+     ]
+    ],
+    "layout_words": 1
+   },
+   "headline_raw": "*| SALUTE",
+   "deck_raw": "",
+   "body_raw": "1.79",
+   "ocr_conf": 41.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "* SALUTE",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 26,
+   "layout": {
+    "headline_boxes": [
+     [
+      2650,
+      3289,
+      3086,
+      3374
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2472,
+      3376,
+      2988,
+      3414
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "THE SOLDIER",
+   "deck_raw": "",
+   "body_raw": "CENTRAL RESERVE POLICE FORCE",
+   "ocr_conf": 95.25,
+   "ocr_low_conf_share": 0.0,
+   "headline": "THE SOLDIER",
+   "deck": "",
+   "byline": "CENTRAL RESERVE POLICE FORCE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 27,
+   "layout": {
+    "headline_boxes": [
+     [
+      3534,
+      3301,
+      4078,
+      3401
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3240,
+      3441,
+      4152,
+      4680
+     ]
+    ],
+    "layout_words": 242
+   },
+   "headline_raw": "da (G ) Union Bank",
+   "deck_raw": "",
+   "body_raw": "| _\nNOTICE-2 (FINALY\n| in line with RBI guidelines, Bank is in the process of carrying\nout periodic updation of KYC of existing customers and also in\nprocess of reviving relationship with the customers who are\nmaintaining Saving Bank and/or Current Deposit account but\nnot operating their accounts since long time.\nIn the above process, Bank has observed that many accounts,\nhaving zero balance are turned inoperative (Dormant) on or\nbefore 30.09.2022. In order to prevent misuse of such\nDormant accounts, Bank has decided to close all such\naccounts which were not operated since last 5 years and are in\nDormant status since last 3 years.\nWe bring to the notice of all such customers that Bank is keen\nto continue its relationship with customers who would like to\nrevive their Zero Balance Dormant accounts to active status\nand hence hereby advise all such customers to contact the\nconcerned/ nearest branch for updating their KYC and\nresumption of operations immediately within 30 days from the\ndate of this notice.\nThe following accounts shall be exempted from the above\nclosure process:\nPMJDY (BSBDA/BSBDS) Scheme, A/c's frozen by Court\nOrder /1.T. Dept or any other statutory authority, DEA Fund\nAccounts, Account linked to locker, Accounts with lien for any\namount.\nPlease note that Bank may proceed with closure of all such\nZero Balance accounts which are not activated by submitting\nthe KYC documents within 30 days from the date of this notice.\nDate : 15.12.2025",
+   "ocr_conf": 93.3360655737705,
+   "ocr_low_conf_share": 0.02459016393442623,
+   "headline": "da (G ) Union Bank",
+   "deck": "",
+   "byline": "NOTICE-2 (FINALY",
+   "text": "in line with RBI guidelines, Bank is in the process of carrying out periodic updation of KYC of existing customers and also in process of reviving relationship with the customers who are maintaining Saving Bank and/or Current Deposit account but not operating their accounts since long time. In the above process, Bank has observed that many accounts, having zero balance are turned inoperative (Dormant) on or before 30.09.2022. In order to prevent misuse of such Dormant accounts, Bank has decided to close all such accounts which were not operated since last 5 years and are in Dormant status since last 3 years. We bring to the notice of all such customers that Bank is keen to continue its relationship with customers who would like to revive their Zero Balance Dormant accounts to active status and hence hereby advise all such customers to contact the concerned/ nearest branch for updating their KYC and resumption of operations immediately within 30 days from the date of this notice. The following accounts shall be exempted from the above closure process: PMJDY (BSBDA/BSBDS) Scheme, A/c's frozen by Court Order /1.T. Dept or any other statutory authority, DEA Fund Accounts, Account linked to locker, Accounts with lien for any amount. Please note that Bank may proceed with closure of all such Zero Balance accounts which are not activated by submitting the KYC documents within 30 days from the date of this notice.",
+   "n_words": 236,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 28,
+   "layout": {
+    "headline_boxes": [
+     [
+      1555,
+      3677,
+      1738,
+      3770
+     ],
+     [
+      1272,
+      3873,
+      1837,
+      4012
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1272,
+      3806,
+      2034,
+      3881
+     ],
+     [
+      1285,
+      4011,
+      1764,
+      4096
+     ]
+    ],
+    "body_boxes": [
+     [
+      1436,
+      4109,
+      2026,
+      4214
+     ]
+    ],
+    "layout_words": 22
+   },
+   "headline_raw": "Puja Dinesh\nKamla Hanan Ji\nee\n_ 40 | 4676873013320 | Nitesh Choudhary\n- 44 | 4676873001 3432 | Prem Chand Choudhary\n- 42 | 46768730013445 | Girdhari Girdhari",
+   "deck_raw": "Plot No.87-B/4, Bachharal Ji Ka Bhagh, Sardarpura,\nChopasani Road, Jodhpur-342001, India.\n43 | 46768730013458 | Jhuta Ram Meena\n44 | 4676873013738 | Mal Yadav",
+   "body_raw": "Jana Small Finance Bank Ltd., Ground Floor,\nShop No.5 & 6, \"Shree Balaji Plaza\", Baba Market,\n_Bagru Dak Bell, Bagru, Rajashtan-303007, India.",
+   "ocr_conf": 91.63636363636364,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Puja Dinesh Kamla Hanan Ji ee _ 40 4676873013320 Nitesh Choudhary - 44 4676873001 3432 Prem Chand Choudhary - 42 46768730013445 Girdhari Girdhari",
+   "deck": "Plot No.87-B/4, Bachharal Ji Ka Bhagh, Sardarpura, Chopasani Road, Jodhpur-342001, India. 43 46768730013458 Jhuta Ram Meena",
+   "byline": "",
+   "text": "Jana Small Finance Bank Ltd., Ground Floor, Shop No.5 & 6, \"Shree Balaji Plaza\", Baba Market, _Bagru Dak Bell, Bagru, Rajashtan-303007, India.",
+   "n_words": 22,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 29,
+   "layout": {
+    "headline_boxes": [
+     [
+      2316,
+      3677,
+      3129,
+      3820
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2297,
+      3806,
+      3161,
+      3842
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "Utd asas Preerererertaetery\nInspector Head Naik Constable\n; Constable/ ihari .\nBabu Singh Driver Awadh Bihari S H Manjapy\n20 Bn Jodha Ram 20 Bn 20 Bn\n0-08-1948 Tol |... 20 Bn m. | latin +10\u00a2e4 Tm. 1/1] 04-17-1962 \u00b0",
+   "deck_raw": "",
+   "body_raw": "10-08-1948 To | | 18.48.1939 To | | 01-10-1954 To || 04-12-1962 To",
+   "ocr_conf": 87.15384615384616,
+   "ocr_low_conf_share": 0.07692307692307693,
+   "headline": "Utd asas Preerererertaetery Inspector Head Naik Constable; Constable/ ihari. Babu Singh Driver Awadh Bihari S H Manjapy 0-08-1948 Tol... 20 Bn m. latin +10\u00a2e4 Tm. 1/1] 04-17-1962 \u00b0",
+   "deck": "",
+   "byline": "",
+   "text": "10-08-1948 To 18.48.1939 To 01-10-1954 To 04-12-1962 To",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 30,
+   "layout": {
+    "headline_boxes": [
+     [
+      2484,
+      3873,
+      3177,
+      4150
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2448,
+      4179,
+      3177,
+      4422
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "ee EE i\nVeer Balidani |2\u00a2 and all Ranks of CRPF solemnly\nremember the five valiant troopers\nConstable of 20 Bn who made the supreme\nMahender Singh |sacrifice on 15 December 1991 in\n20 Bn Manipur during a fierce encounter\n03-05-1968 To |with insurgents. CRPF salutes the\n15-12-1991 bravehearts and pledges never to\n__.Net their sacrifice go in vain.",
+   "deck_raw": "",
+   "body_raw": "i Veer Balidani |G and all Ranks of CRPF solemnly\nConstable remember Constable Pushkar Singh\nPushkar Singh |of 49 Bn who made the supreme\n49 Bn sacrifice on 15 December 1982 in\n07-06-1943 To |Kamprup, Assam when his party\n15-12-1982 was ambushed. CRPF salutes the\nhraveheart and nledges never to let",
+   "ocr_conf": 85.27450980392157,
+   "ocr_low_conf_share": 0.11764705882352941,
+   "headline": "Veer Balidani 2\u00a2 and all Ranks of CRPF solemnly remember the five valiant troopers Constable of 20 Bn who made the supreme Mahender Singh sacrifice on 15 December 1991 in 20 Bn Manipur during a fierce encounter 03-05-1968 To with insurgents. CRPF salutes the 15-12-1991 bravehearts and pledges never to __.Net their sacrifice go in vain.",
+   "deck": "",
+   "byline": "",
+   "text": "i Veer Balidani G and all Ranks of CRPF solemnly Constable remember Constable Pushkar Singh Pushkar Singh of 49 Bn who made the supreme 49 Bn sacrifice on 15 December 1982 in 07-06-1943 To Kamprup, Assam when his party 15-12-1982 was ambushed. CRPF salutes the hraveheart and nledges never to let",
+   "n_words": 51,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 31,
+   "layout": {
+    "headline_boxes": [
+     [
+      338,
+      3985,
+      576,
+      4066
+     ]
+    ],
+    "deck_boxes": [
+     [
+      355,
+      4128,
+      753,
+      4170
+     ],
+     [
+      362,
+      4172,
+      793,
+      4217
+     ],
+     [
+      362,
+      4338,
+      813,
+      4383
+     ],
+     [
+      334,
+      4461,
+      773,
+      4505
+     ],
+     [
+      334,
+      4547,
+      697,
+      4589
+     ],
+     [
+      333,
+      4591,
+      749,
+      4633
+     ],
+     [
+      347,
+      4635,
+      852,
+      4680
+     ]
+    ],
+    "body_boxes": [
+     [
+      413,
+      4226,
+      1168,
+      4288
+     ],
+     [
+      447,
+      4393,
+      1134,
+      4457
+     ],
+     [
+      329,
+      4504,
+      1214,
+      4545
+     ],
+     [
+      349,
+      4679,
+      1214,
+      4720
+     ],
+     [
+      414,
+      4723,
+      1169,
+      4798
+     ],
+     [
+      347,
+      4802,
+      1206,
+      4842
+     ]
+    ],
+    "layout_words": 64
+   },
+   "headline_raw": "Sr.| Loan Account\nNo. No.",
+   "deck_raw": "\u00b02| 4678873001 6228| Suraj Dagar\n3] 4678873016241 | Rajkumar Saini\n5| 45898730012028| Bhuwanesh Soni\n~ 6| 46758730020653| Prem Sharma\n| 46758730020703| Teeja T\n_ 9] 46758730020755| Raju Gurjar\n10| 46758730020771 | Vinod Kumar Meena",
+   "body_raw": "Jana Small Finance Bank Ltd., Ground Floor, \"Rawat Complex\u201d,\n; Near Ravan Gate Circle-Chome, Chome-303702, India.\n\nJana Small Finance Bank Ltd., Ground Floor, Jayanti Mall,\n__ Near Ashok Circle, Raghu Marg, Atwar-301004, India. ;\n\n__7| 46758730020682| Sunita Devi_ | 496\n\n11| 4675730020821 | Rajesh Kasana | 487\n\nJana Small Finance Bank Ltd., Ground Floor,No.17, 20,\nBachari, Krishna Takies Road, Bank Gali, Kotputli-303108, India.\n\n12] 4592873021134] Shalu Kumari | 2s",
+   "ocr_conf": 81.47826086956522,
+   "ocr_low_conf_share": 0.17391304347826086,
+   "headline": "Sr. Loan Account No. No.",
+   "deck": "\u00b02 4678873001 6228 Suraj Dagar ~ 6 46758730020653 Prem Sharma _ 9] 46758730020755 Raju Gurjar 10 46758730020771 Vinod Kumar Meena",
+   "byline": "",
+   "text": "Jana Small Finance Bank Ltd., Ground Floor, \"Rawat Complex\",; Near Ravan Gate Circle-Chome, Chome-303702, India.\n\nJana Small Finance Bank Ltd., Ground Floor, Jayanti Mall, __ Near Ashok Circle, Raghu Marg, Atwar-301004, India.;\n\n__7 46758730020682 Sunita Devi_ 496\n\n11 4675730020821 Rajesh Kasana 487\n\nJana Small Finance Bank Ltd., Ground Floor,No.17, 20, Bachari, Krishna Takies Road, Bank Gali, Kotputli-303108, India.\n\n12] 4592873021134] Shalu Kumari 2s",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 32,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      362,
+      4090,
+      1214,
+      4125
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "1| 46788730015991| Omprakash Kuldeep | 24.5",
+   "ocr_conf": 80.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "1 46788730015991 Omprakash Kuldeep 24.5",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 33,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      361,
+      4296,
+      1249,
+      4335
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "4| 45898730012015| Ajit Singh | 276",
+   "ocr_conf": 63.333333333333336,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "4 45898730012015 Ajit Singh 276",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 34,
+   "layout": {
+    "headline_boxes": [
+     [
+      1546,
+      4292,
+      1795,
+      4422
+     ],
+     [
+      1550,
+      4480,
+      2018,
+      4563
+     ],
+     [
+      1364,
+      4732,
+      2097,
+      4880
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1546,
+      4213,
+      1820,
+      4256
+     ],
+     [
+      1546,
+      4255,
+      1820,
+      4302
+     ],
+     [
+      1555,
+      4526,
+      2067,
+      4606
+     ],
+     [
+      1554,
+      4598,
+      1796,
+      4649
+     ],
+     [
+      1554,
+      4649,
+      1846,
+      4738
+     ],
+     [
+      1407,
+      4792,
+      2054,
+      4835
+     ]
+    ],
+    "body_boxes": [
+     [
+      1546,
+      4398,
+      1721,
+      4475
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "eee eerie\n| Saroj Dharpal\n|Banshi Ram Banjara\n\u2018Ajit Devanda\nGannu Kanwar Girdhari Singh\n|Shivraj Choudhary\n0288740000858 | Rajendara Kumar Lamba |\nJana Small Finance Bank Ltd., No.101 & 102, 1st Floor,\nGuman Tower-ll, A Block, Vaishati Nagar, Jaipur-302021, India.\nnaney2nnn TER, | Cannita MA | .",
+   "deck_raw": "|Kuldeep Chahat Bharti\n| Kuldeep Chahat Bharti\n|\nShivraj Choudhary |\nRavi Kumar |\nDurga Singh Jadoun\nMahendra Singh Rathore\nRajendara Kumar Lamba\nJana Small Finance Bank Ltd., No.101 & 102, 1st Floor,\nman Tawaer.!] A Rinek Vaichalli Nanar lainiur.2f9N94 Ine",
+   "body_raw": "\u2018Ajit Devanda\nSunita Tanwar",
+   "ocr_conf": 75.0,
+   "ocr_low_conf_share": 0.25,
+   "headline": "eee eerie Saroj Dharpal Banshi Ram Banjara 'Ajit Devanda Gannu Kanwar Girdhari Singh Shivraj Choudhary 0288740000858 Rajendara Kumar Lamba Jana Small Finance Bank Ltd., No.101 & 102, 1st Floor, Guman Tower-ll, A Block, Vaishati Nagar, Jaipur-302021, India. naney2nnn TER, Cannita MA.",
+   "deck": "Kuldeep Chahat Bharti Kuldeep Chahat Bharti Shivraj Choudhary Ravi Kumar Durga Singh Jadoun Mahendra Singh Rathore Rajendara Kumar Lamba Jana Small Finance Bank Ltd., No.101 & 102, 1st Floor, man Tawaer.!] A Rinek Vaichalli Nanar lainiur.2f9N94 Ine",
+   "byline": "",
+   "text": "'Ajit Devanda Sunita Tanwar",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 35,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2281,
+      4441,
+      2570,
+      4475
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "his sacrifice go in vain.",
+   "ocr_conf": 96.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "his sacrifice go in vain.",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 36,
+   "layout": {
+    "headline_boxes": [
+     [
+      2506,
+      4480,
+      3175,
+      4563
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2943,
+      4552,
+      3175,
+      4606
+     ],
+     [
+      3304,
+      4827,
+      4105,
+      4882
+     ]
+    ],
+    "body_boxes": [
+     [
+      2501,
+      4552,
+      3176,
+      4799
+     ],
+     [
+      3347,
+      4896,
+      4062,
+      4931
+     ],
+     [
+      3961,
+      5237,
+      4085,
+      5264
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "3G and all Ranks of CRPF solemnly remember\n\"anetahle Raldev Singh af 390 Rn who made the",
+   "deck_raw": "in who made the\nPT fae Fees\nanu eee Wet on) Usso23K MANAPFURAM NOME CINANCE PY\u00a5ILID\nCIM : U6S923KL2010PLC039179\nRegd Otfice: IV/470A (OLD) W/638A (NEW) Manappuram House Valapad Thrissur, Kerala 680567\n\u2018Corn Office: Mananniram Mame Einanre limited Third Elanr init Ain 2011s 216 A Wine",
+   "body_raw": "Zonstable Baldev Singh of 20 Bn who made the\nsupreme sacrifice on 15 December 1971 in Jammu &\n(ashmir during the\nndo-Pak conflict, after displaying exemplary courage\nwhile defending his post on the western front. CRPF\n\n\u201cKanakia Wall Street\u2019, Andheri-Kurla Road, Andheri East, Mumbai-400093, Maharashtra.\nPhone No.: 022-66211000, Website: ww mananpuramhaomefin.com\n\nDate of Cemnang ||\nMotice send 4,",
+   "ocr_conf": 84.82758620689656,
+   "ocr_low_conf_share": 0.10344827586206896,
+   "headline": "3G and all Ranks of CRPF solemnly remember \"anetahle Raldev Singh af 390 Rn who made the",
+   "deck": "in who made the PT fae Fees anu eee Wet on) Usso23K MANAPFURAM NOME CINANCE PY\u00a5ILID Regd Otfice: IV/470A (OLD) W/638A (NEW) Manappuram House Valapad Thrissur, Kerala 680567 'Corn Office: Mananniram Mame Einanre limited Third Elanr init Ain 2011s 216 A Wine",
+   "byline": "",
+   "text": "Zonstable Baldev Singh of 20 Bn who made the supreme sacrifice on 15 December 1971 in Jammu & (ashmir during the ndo-Pak conflict, after displaying exemplary courage while defending his post on the western front. CRPF\n\n\"Kanakia Wall Street', Andheri-Kurla Road, Andheri East, Mumbai-400093, Maharashtra. Phone No.: 022-66211000, Website: ww mananpuramhaomefin.com\n\nDate of Cemnang Motice send 4,",
+   "n_words": 57,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 37,
+   "layout": {
+    "headline_boxes": [
+     [
+      2323,
+      4732,
+      2718,
+      4880
+     ],
+     [
+      2281,
+      4899,
+      3184,
+      5260
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2305,
+      4792,
+      3175,
+      4902
+     ]
+    ],
+    "body_boxes": [
+     [
+      2271,
+      5797,
+      3182,
+      6185
+     ]
+    ],
+    "layout_words": 75
+   },
+   "headline_raw": "5 --- \u00bbwhile defending h\nConstable\ntaldev Singh |salutes the bravel\n20 Bn . . .\nPuniab sacrifice go in vain\nel\nS| Veer Balidani. [OG and all Ranks of CRPF solemnly\nConstable remember Constable Binod Rai of\nBinod Rai /171 Bn who made the supreme\n171 Bn sacrifice on 15 December 2006 in\n\u2018as 05-07-1985 To West Bengal duri fi\n\u2018 \u201c 15-12-2006 les eng uring a fierce\n\u201c= \u00a5 encounter with Maoists. CRPF salutes\nthe braveheart and pledges never to let his sacrifice go in vain.",
+   "deck_raw": "NMONstadDle\nBaldev Singh |salutes the braveheart and pledges never to let his\n20 Bn . . .\nPunjab sacrifice go in vain.",
+   "body_raw": "Tamil Nadu Civil Supplies Corporation invites online electronic tender for\n\u201cPURCHASE OF 60,000 MTs. of S Grade Type of sugars for the month of April\n2026, May 2026 and June 2026 (Season 2024-25 & 2025-2026)\u201d.\nComplete e-Tender document can be viewed and downloaded from\nhttne-/Antenders sav ininicneniann\nThe bidders have to participate online bidding only with Digital Signature\nCertificate (DSC) of Class-ll or Class-lll.\nLast Date andtime for Online Submission: 21.01.2026 upto 12.00 PM\nDIPR/6624/TENDER/2025 MANAGING DIRECTOR.",
+   "ocr_conf": 91.01298701298701,
+   "ocr_low_conf_share": 0.05194805194805195,
+   "headline": "5 --- \u00bbwhile defending h Constable taldev Singh salutes the bravel Puniab sacrifice go in vain el S Veer Balidani. [OG and all Ranks of CRPF solemnly Constable remember Constable Binod Rai of Binod Rai /171 Bn who made the supreme 171 Bn sacrifice on 15 December 2006 in 'as 05-07-1985 To West Bengal duri fi ' \" 15-12-2006 les eng uring a fierce \"= \u00a5 encounter with Maoists. CRPF salutes the braveheart and pledges never to let his sacrifice go in vain.",
+   "deck": "NMONstadDle Baldev Singh salutes the braveheart and pledges never to let his Punjab sacrifice go in vain.",
+   "byline": "",
+   "text": "Tamil Nadu Civil Supplies Corporation invites online electronic tender for \"PURCHASE OF 60,000 MTs. of S Grade Type of sugars for the month of April 2026, May 2026 and June 2026 (Season 2024-25 & 2025-2026)\". Complete e-Tender document can be viewed and downloaded from httne-/Antenders sav ininicneniann The bidders have to participate online bidding only with Digital Signature Certificate (DSC) of Class-ll or Class-lll. Last Date andtime for Online Submission: 21.01.2026 upto 12.00 PM DIPR/6624/TENDER/2025 MANAGING DIRECTOR.",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 38,
+   "layout": {
+    "headline_boxes": [
+     [
+      347,
+      4844,
+      691,
+      4886
+     ]
+    ],
+    "deck_boxes": [
+     [
+      329,
+      4888,
+      719,
+      4930
+     ],
+     [
+      347,
+      4976,
+      718,
+      5018
+     ],
+     [
+      352,
+      5020,
+      1230,
+      5095
+     ],
+     [
+      347,
+      5185,
+      822,
+      5231
+     ]
+    ],
+    "body_boxes": [
+     [
+      347,
+      5100,
+      1214,
+      5139
+     ],
+     [
+      333,
+      5142,
+      1216,
+      5183
+     ],
+     [
+      345,
+      5230,
+      1210,
+      5271
+     ],
+     [
+      345,
+      5273,
+      1213,
+      5314
+     ],
+     [
+      453,
+      5327,
+      1127,
+      5427
+     ],
+     [
+      345,
+      5431,
+      1233,
+      5471
+     ]
+    ],
+    "layout_words": 53
+   },
+   "headline_raw": "13| 45928730021170| Mamta",
+   "deck_raw": "44 45928730021285| Azhar Ali\n16| 45928730021387| Mahak M\nJana Small Finance Bank Ltd., Ground Floor, Plot No.389, a\u201d\nShopping Centre Scheme, Nr. Ghore Wala Baba Circle, Kota-324007, India.\n19| 45878730012840] Abhishek Sharma",
+   "body_raw": "17| 4587873001 2649| Soma Soma 7 5A2\n\n_18| 4587873012751] Jagdish 10.91\n\n20 | 45878740001048| Vinod Kumar _ | 991\n\n21| 45878740001051| Pushpa Devi | 9857\n\nJana Small Finance Bank Ltd., Ground & 1st Floors,\nPlot No.18 & 19, Partti Peda Road, Purani Industrial Area,\nRani Bazar, Bikaner, Rajasthan-334001, India.\n\n22| 46798730020609| Tulachhi Ram | 24",
+   "ocr_conf": 78.07272727272728,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "",
+   "deck": "Jana Small Finance Bank Ltd., Ground Floor, Plot No.389, a\" Shopping Centre Scheme, Nr. Ghore Wala Baba Circle, Kota-324007, India.",
+   "byline": "",
+   "text": "17 4587873001 2649 Soma Soma 7 5A2\n\n20 45878740001048 Vinod Kumar _ 991\n\n21 45878740001051 Pushpa Devi 9857\n\nJana Small Finance Bank Ltd., Ground & 1st Floors, Plot No.18 & 19, Partti Peda Road, Purani Industrial Area, Rani Bazar, Bikaner, Rajasthan-334001, India.\n\n22 46798730020609 Tulachhi Ram 24",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 39,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      347,
+      4932,
+      1214,
+      4973
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "15| 4592873021374] Mohanlal | 478",
+   "ocr_conf": 57.4,
+   "ocr_low_conf_share": 0.4,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 40,
+   "layout": {
+    "headline_boxes": [
+     [
+      1271,
+      4899,
+      2007,
+      5029
+     ],
+     [
+      1552,
+      5105,
+      1761,
+      5260
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1273,
+      4855,
+      1668,
+      4902
+     ],
+     [
+      1575,
+      4983,
+      2037,
+      5029
+     ],
+     [
+      1554,
+      5024,
+      1660,
+      5068
+     ],
+     [
+      1554,
+      5063,
+      1752,
+      5114
+     ]
+    ],
+    "body_boxes": [
+     [
+      1554,
+      5255,
+      1733,
+      5287
+     ],
+     [
+      1554,
+      5300,
+      1720,
+      5333
+     ],
+     [
+      1554,
+      5341,
+      1712,
+      5378
+     ],
+     [
+      1552,
+      5390,
+      1684,
+      5424
+     ],
+     [
+      1383,
+      5435,
+      2076,
+      5463
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "\u201c59 | 3008730008030 | Mahendra Gametl -\nJana Small Finance Bank Ltd., No.5, 2nd Floor,\n; Bapu Bazar, Near Delhi Gate, Udaipur-313004, Indi\nVarun Srivastava\nHemlata Nayak\nPoonam Sikarwar\nBeatihia hi nam",
+   "deck_raw": "58 | 3040873007981 | Sangita M\nNear Delhi Gate, Udaipur-313001, India.\nBabu Lot\nHemlata Hemlata",
+   "body_raw": "Pratibha Nigam\n\nNitesh Kumari\n\nRukasar Amir\n\nAnit Kumar\n\nJana Small Finance Bank Ltd., Plot No.101, 102, 112 & 113,",
+   "ocr_conf": 92.42105263157895,
+   "ocr_low_conf_share": 0.0,
+   "headline": "\"59 3008730008030 Mahendra Gametl - Jana Small Finance Bank Ltd., No.5, 2nd Floor,; Bapu Bazar, Near Delhi Gate, Udaipur-313004, Indi Varun Srivastava Hemlata Nayak Poonam Sikarwar Beatihia hi nam",
+   "deck": "Near Delhi Gate, Udaipur-313001, India. Babu Lot Hemlata Hemlata",
+   "byline": "",
+   "text": "Pratibha Nigam\n\nNitesh Kumari\n\nRukasar Amir\n\nAnit Kumar\n\nJana Small Finance Bank Ltd., Plot No.101, 102, 112 & 113,",
+   "n_words": 19,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 41,
+   "layout": {
+    "headline_boxes": [
+     [
+      3303,
+      5233,
+      3450,
+      5292
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3285,
+      5243,
+      3457,
+      5370
+     ]
+    ],
+    "body_boxes": [
+     [
+      3285,
+      5311,
+      3396,
+      5346
+     ],
+     [
+      3285,
+      5442,
+      3454,
+      5477
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "Name of Borrower and\nCo-borrower / Loan\naccount number; Braach",
+   "deck_raw": "Name of Borrower and\nCo-borrower / Loan\n\u2018aocount number\u2019 Branch\nSushila Devi,\nRamehandra\nKumhar,\n\u2018aun na nennaoett",
+   "body_raw": "2usnila bev,\nRamehandra\nPpeanaibe\n\nRavi Kumar Meena,\n(/MHL01050027861/",
+   "ocr_conf": 57.125,
+   "ocr_low_conf_share": 0.5,
+   "headline": "Name of Borrower and Co-borrower / Loan account number; Braach",
+   "deck": "Name of Borrower and Co-borrower / Loan 'aocount number' Branch Sushila Devi, Ramehandra Kumhar, 'aun na nennaoett",
+   "byline": "",
+   "text": "2usnila bev, Ramehandra Ppeanaibe\n\nRavi Kumar Meena,",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 42,
+   "layout": {
+    "headline_boxes": [
+     [
+      3650,
+      5233,
+      3839,
+      5292
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3479,
+      5243,
+      3944,
+      5370
+     ]
+    ],
+    "body_boxes": [
+     [
+      3478,
+      5442,
+      3936,
+      5477
+     ],
+     [
+      3479,
+      5755,
+      3935,
+      5792
+     ],
+     [
+      3478,
+      5864,
+      3935,
+      6014
+     ],
+     [
+      3469,
+      5883,
+      3936,
+      5972
+     ]
+    ],
+    "layout_words": 64
+   },
+   "headline_raw": "n Of Secured Asset ia Respect\nh Interest Has Been Created",
+   "deck_raw": "| Deserion Ot Sonared Asset a Respect\na Interest Has Been Created f\nPattaNo21,KhasraNo. 1880, Dewan Shahpura Jaipur:\n303103. School,laipur.PO Shahpura, Jaipur Rajasthan, |\nPin:303103. Admeasuring246.55Sq. Yd. East-Rasta, |\nJAlnc? finon I ang af hdiddlo Cen Carcth | and ag hae Dal:",
+   "body_raw": "Village Negal Sohan Grampanchayt, Khaneti Panchayat\nSamiti Raini Alwar Area 113.33 Sq.yds Alwar, Rajasthan,\n\nVi\u00e9.fG OQ. \u00a5O., At Gram 1Bas bis Ratakhurd,\nPanchayat Samiti Kishangarh-Bas, Dist. Alwar Raj\nolerar Daincthan Bin: 204104 Cact.Qand lAfact Unica\n\nPlot No. 41, Baba Hazrat Ali Colony, Ward No. 03,\nChaksu, Jaipus, Area 93.75 Sq. Yards (Hereinafter\nReferred To As \u201cThe Said Property\"). Ward No. 3.\nChakshu, Distt. Jaipur 303901, Baba Hazrat Colony\nChaksu Jaipur Rajasthan Pin 303901 PO. Chaksu.\nEast-Plot No. 34, West-Piot No. 40, South-Road 30\nFeet, North-Plot No. 34",
+   "ocr_conf": 83.71311475409836,
+   "ocr_low_conf_share": 0.10655737704918032,
+   "headline": "n Of Secured Asset ia Respect h Interest Has Been Created",
+   "deck": "Deserion Ot Sonared Asset a Respect a Interest Has Been Created f PattaNo21,KhasraNo. 1880, Dewan Shahpura Jaipur: 303103. School,laipur.PO Shahpura, Jaipur Rajasthan, Pin:303103. Admeasuring246.55Sq. Yd. East-Rasta, JAlnc? finon I ang af hdiddlo Cen Carcth and ag hae Dal:",
+   "byline": "",
+   "text": "Village Negal Sohan Grampanchayt, Khaneti Panchayat Samiti Raini Alwar Area 113.33 Sq.yds Alwar, Rajasthan,\n\nVi\u00e9.fG OQ. \u00a5O., At Gram 1Bas bis Ratakhurd, Panchayat Samiti Kishangarh-Bas, Dist. Alwar Raj olerar Daincthan Bin: 204104 Cact.Qand lAfact Unica\n\nPlot No. 41, Baba Hazrat Ali Colony, Ward No. 03, Chaksu, Jaipus, Area 93.75 Sq. Yards (Hereinafter Referred To As \"The Said Property\"). Ward No. 3. Chakshu, Distt. Jaipur 303901, Baba Hazrat Colony Chaksu Jaipur Rajasthan Pin 303901 PO. Chaksu. East-Plot No. 34, West-Piot No. 40, South-Road 30 Feet, North-Plot No. 34",
+   "n_words": 87,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 43,
+   "layout": {
+    "headline_boxes": [
+     [
+      3945,
+      5243,
+      4081,
+      5301
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3943,
+      5311,
+      4094,
+      5346
+     ],
+     [
+      3956,
+      5442,
+      4068,
+      5477
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "Oate of Oernang ||\nNotice sent A!\nOutstanding Amount\noe eae",
+   "deck_raw": "",
+   "body_raw": "i10-09-2020 & 1\n| Rs.219406/- |\n\nRs.274459/-",
+   "ocr_conf": 65.0,
+   "ocr_low_conf_share": 0.42857142857142855,
+   "headline": "Oate of Oernang Notice sent A! Outstanding Amount oe eae",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 44,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      4101,
+      5237,
+      4163,
+      5264
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 45,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3478,
+      5311,
+      3934,
+      5346
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "FatlaNoct, Khasrao. 1660, Dewan onahpura Jaipur\n303103. School,laipur.PO Shahpura, Jaipur Rajasthan,\nme FARA AD Bd mae eee a Pane Bene",
+   "ocr_conf": 32.0,
+   "ocr_low_conf_share": 0.8,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "FatlaNoct, Khasrao. 1660, Dewan onahpura Jaipur 303103. School,laipur.PO Shahpura, Jaipur Rajasthan, me FARA AD Bd mae eee a Pane Bene",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 46,
+   "layout": {
+    "headline_boxes": [
+     [
+      431,
+      5510,
+      1148,
+      5559
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      429,
+      5561,
+      1151,
+      5591
+     ],
+     [
+      345,
+      5597,
+      1199,
+      5637
+     ],
+     [
+      332,
+      5639,
+      1213,
+      5680
+     ],
+     [
+      332,
+      5695,
+      1247,
+      5763
+     ],
+     [
+      332,
+      5763,
+      1205,
+      5802
+     ]
+    ],
+    "layout_words": 42
+   },
+   "headline_raw": "BOE OE EE eee I\nJana Small Finance Bank Ltd., Ground Floor, Didwana Road,",
+   "deck_raw": "",
+   "body_raw": "Near Karni Petrol Pump, Kuchaman, Rajasthan-341508, India.\n\n24| 45888730006023| Maya Devi ; | 41\n\n_25| 45888740000455| Vijay Kumar Garan | 437\n\nJana Small Finance Bank Ltd., Ground Floor,\n__Jopal Plaza Ajmer Road, Opp. Bioscope Theatre, Bhilwara-311001, India.\n\n26] 30798730017872| RatnaRam | 27",
+   "ocr_conf": 78.92857142857143,
+   "ocr_low_conf_share": 0.11904761904761904,
+   "headline": "BOE OE EE eee I Jana Small Finance Bank Ltd., Ground Floor, Didwana Road,",
+   "deck": "",
+   "byline": "",
+   "text": "Near Karni Petrol Pump, Kuchaman, Rajasthan-341508, India.\n\n24 45888730006023 Maya Devi; 41\n\n_25 45888740000455 Vijay Kumar Garan 437\n\nJana Small Finance Bank Ltd., Ground Floor, __Jopal Plaza Ajmer Road, Opp. Bioscope Theatre, Bhilwara-311001, India.",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 47,
+   "layout": {
+    "headline_boxes": [
+     [
+      1328,
+      5466,
+      2125,
+      5514
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1545,
+      5515,
+      1731,
+      5546
+     ],
+     [
+      1552,
+      5559,
+      1701,
+      5594
+     ],
+     [
+      1552,
+      5604,
+      1701,
+      5640
+     ],
+     [
+      1553,
+      5650,
+      1741,
+      5683
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "Brij Anukampa Tower, K-13, Ashok Marg C-Scheme, Jaipur-302001.",
+   "deck_raw": "",
+   "body_raw": "(Anju Jadoun _\n\n| Anju Jadoun\n\nAnju Jadoun\n\nGanesh Ganesh",
+   "ocr_conf": 67.1,
+   "ocr_low_conf_share": 0.3,
+   "headline": "Brij Anukampa Tower, K-13, Ashok Marg C-Scheme, Jaipur-302001.",
+   "deck": "",
+   "byline": "",
+   "text": "(Anju Jadoun _\n\nAnju Jadoun\n\nAnju Jadoun\n\nGanesh Ganesh",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 48,
+   "layout": {
+    "headline_boxes": [
+     [
+      1556,
+      5682,
+      1717,
+      5774
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1552,
+      5775,
+      2066,
+      5820
+     ]
+    ],
+    "body_boxes": [
+     [
+      1353,
+      5832,
+      2105,
+      5898
+     ],
+     [
+      1782,
+      5920,
+      2106,
+      5948
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "Suresh Verma\nV Anandi Lal",
+   "deck_raw": "Vimiesh . |",
+   "body_raw": "Jana Small Finance Bank Ltd., Plot No.119/483, Madhyam Marg,\nWard No.27, Sector-6, Mansarovar-302020, Jaipur, Rajasthan.\n\nSd/- Authorised Officer",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Suresh Verma V Anandi Lal",
+   "deck": "Vimiesh.",
+   "byline": "",
+   "text": "Jana Small Finance Bank Ltd., Plot No.119/483, Madhyam Marg, Ward No.27, Sector-6, Mansarovar-302020, Jaipur, Rajasthan.\n\nSd/- Authorised Officer",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 49,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      426,
+      5860,
+      1248,
+      5958
+     ]
+    ],
+    "layout_words": 21,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Jana Small Finance Bank Ltd., Ground Floor,\nP.N.183, 184, 185, Maan Ji Ka Hatha,\nBehind Santhosh Guest House, Paota, Jodhpur-342001, India.",
+   "ocr_conf": 94.23809523809524,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Jana Small Finance Bank Ltd., Ground Floor, P.N.183, 184, 185, Maan Ji Ka Hatha, Behind Santhosh Guest House, Paota, Jodhpur-342001, India.",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 31.7,
+ "flags": [
+  "31% of body text had no headline above it",
+  "4 kept article(s) without a headline"
+ ]
+}

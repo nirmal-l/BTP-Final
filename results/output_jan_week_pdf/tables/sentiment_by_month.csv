@@ -1,0 +1,2 @@
+month,n_articles,mean_score,ci95_low,ci95_high,share_positive,share_neutral,share_negative,mean_headline_score,mean_vader,mean_llm_score,share_llm_positive,share_llm_negative,label_agreement_with_vader
+2025-01,105,-0.077,-0.121,-0.032,0.038,0.895,0.067,0.032,0.054,,0.0,0.0,0.295

@@ -1,0 +1,706 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_23_front",
+ "source_file": "2025-04-23_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-23_front.png",
+ "date": "2025-04-23",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 377,
+  "mean_line_conf": 90.49328860794377,
+  "orphan_words": 129,
+  "body_words_total": 1484
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      345,
+      850,
+      1290,
+      1047
+     ],
+     [
+      324,
+      1128,
+      1242,
+      1473
+     ]
+    ],
+    "deck_boxes": [
+     [
+      912,
+      1571,
+      1150,
+      1614
+     ],
+     [
+      974,
+      1789,
+      1187,
+      1843
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      1580,
+      757,
+      1729
+     ],
+     [
+      319,
+      1777,
+      764,
+      2207
+     ],
+     [
+      321,
+      2215,
+      763,
+      2557
+     ],
+     [
+      998,
+      1780,
+      1197,
+      1812
+     ],
+     [
+      840,
+      2040,
+      1199,
+      2153
+     ],
+     [
+      812,
+      2215,
+      1252,
+      2557
+     ]
+    ],
+    "layout_words": 163
+   },
+   "headline_raw": "Terrorists |\n26 killed; Modi cuts\nshort Saudi trip, Shah\nat attack site today",
+   "deck_raw": "ATTACK SITE\ny_Fanalgams 1, .\nBaisaran Valley *",
+   "body_raw": "BASHAARAT MASOOD\n& MAHENDER SINGH\nMANRAL\nSRINAGAR, NEW DELHI, APR 22\n\nINTHE deadliest terror attack on\ncivilians in the countrysince the\nMumbai 26/11 attacks, at least\n25 tourists and a Valley resident\nwere shot dead Tuesday at a\nmeadow near Pahalgam in\nJammu and Kashmir.\nSources indicated that the\ntoll could climb since several\nothers had sustained serious in-\njuries.\n\nPrime Minister Narendra\nModi, who had reached Jeddah\nearlier in the day on atwo-day\nvisit to Saudi Arabia, cut short his\ntrip and decided to return home.\nHe is expected back early\nWednesday.\nModi promised that \u201cthose\nbehind this heinous act will be\n\nPahalgam\u2019s\n\nThe site was packed with\ntourists when terrorists\nopened fire\n\nbrought to justice... they will not\nbe spared\u201d, He was briefed on\nthe incident by Union Home\nMinister Amit Shah who later\nreached Srinagar to review the\nsituation. Shah will go to the in-\ncident site Wednesday morning.\nThe attack took place in the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.12962962962963,
+   "ocr_low_conf_share": 0.006172839506172839,
+   "headline": "Terrorists 26 killed; Modi cuts short Saudi trip, Shah at attack site today",
+   "deck": "ATTACK SITE y_Fanalgams 1,. Baisaran Valley *",
+   "byline": "BASHAARAT MASOOD; & MAHENDER SINGH; MANRAL; SRINAGAR, NEW DELHI, APR 22",
+   "text": "INTHE deadliest terror attack on civilians in the countrysince the Mumbai 26/11 attacks, at least 25 tourists and a Valley resident were shot dead Tuesday at a meadow near Pahalgam in Jammu and Kashmir. Sources indicated that the toll could climb since several others had sustained serious injuries.\n\nPrime Minister Narendra Modi, who had reached Jeddah earlier in the day on atwo-day visit to Saudi Arabia, cut short his trip and decided to return home. He is expected back early Wednesday. Modi promised that \"those behind this heinous act will be\n\nPahalgam's\n\nThe site was packed with tourists when terrorists opened fire\n\nbrought to justice... they will not be spared\", He was briefed on the incident by Union Home Minister Amit Shah who later reached Srinagar to review the situation. Shah will go to the incident site Wednesday morning. The attack took place in the",
+   "n_words": 145,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      2632,
+      2097,
+      2858
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      3675,
+      722,
+      3708
+     ],
+     [
+      457,
+      3752,
+      630,
+      3780
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "Terrorists were in camouflage outfits,\ncarried M4 carbine, AK-47s: Initial probe",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL\n\nBy UNNY",
+   "ocr_conf": 94.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Terrorists were in camouflage outfits, carried M4 carbine, AK-47s: Initial probe",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      2630,
+      3194,
+      3085
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2271,
+      3871,
+      2710,
+      3986
+     ],
+     [
+      2273,
+      4037,
+      2716,
+      4664
+     ],
+     [
+      2761,
+      3878,
+      3203,
+      4657
+     ]
+    ],
+    "layout_words": 196
+   },
+   "headline_raw": "\u2018They (terrorists) were\nthere for 20 minutes,\nundeterred, moving\naround, opening fire\u2019",
+   "deck_raw": "",
+   "body_raw": "BASHAARAT MASOOD\nSRINAGAR, APRIL 22\n\nTUESDAY STARTED as a typical\nmorning at Baisaran, a pictur-\nesque meadow ringed by dense\nforests, in south Kashmir\u2019s\nPahalgam. Between 1,000 and\n1,500 tourists were in the area,\nslightly less than usual.\nAs the day passed, more\ntourists poured in. And then, all\nofa sudden, so did the terrorists.\nVinay Bai, a resident of\nGujarat, was just entering the\nmeadow when the gunshots\nfirst rang out around 2 pm. \u201cIwas\non a pony, about to enter\nBaisaran, when there were gun-\n\nshots. People started to run for\ntheir lives,\u201d an officer quoted him\nas saying. \u201cAs I tried toescape, a\nbullet hit mein the elbow. Idon\u2019t\nknow where it came from.\u201d\nPolice officers who spoke to\nthe survivors say they gave de-\ntailed accounts of how the attack\nunfolded. \u201cThree to four men in\n\u2018uniform\u2019 descended from the\ndense forests. They asked for our\nnames. We thought they were\npolicemen,\u201d an officer quoted a\nwoman survivor as saying.\n\u201cSuddenly, they opened fire on\nthe menand left the womenun-\nharmed. They shot some of the\nmen from point-blank range.\u201d\nThose who tried to flee were\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.1340206185567,
+   "ocr_low_conf_share": 0.04639175257731959,
+   "headline": "'They (terrorists) were there for 20 minutes, undeterred, moving around, opening fire'",
+   "deck": "",
+   "byline": "BASHAARAT MASOOD; SRINAGAR, APRIL 22",
+   "text": "TUESDAY STARTED as a typical morning at Baisaran, a picturesque meadow ringed by dense forests, in south Kashmir's Pahalgam. Between 1,000 and 1,500 tourists were in the area, slightly less than usual. As the day passed, more tourists poured in. And then, all ofa sudden, so did the terrorists. Vinay Bai, a resident of Gujarat, was just entering the meadow when the gunshots first rang out around 2 pm. \"Iwas on a pony, about to enter Baisaran, when there were gunshots. People started to run for their lives,\" an officer quoted him as saying. \"As I tried toescape, a bullet hit mein the elbow. Idon't know where it came from.\" Police officers who spoke to the survivors say they gave detailed accounts of how the attack unfolded. \"Three to four men in 'uniform' descended from the dense forests. They asked for our names. We thought they were policemen,\" an officer quoted a woman survivor as saying. \"Suddenly, they opened fire on the menand left the womenunharmed. They shot some of the men from point-blank range.\" Those who tried to flee were",
+   "n_words": 181,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      2883,
+      2093,
+      3015
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1299,
+      3085,
+      1608,
+      3194
+     ],
+     [
+      1297,
+      3243,
+      1739,
+      3548
+     ],
+     [
+      1785,
+      3046,
+      2230,
+      3548
+     ]
+    ],
+    "layout_words": 108
+   },
+   "headline_raw": "50-70 cartridges recovered from\nattack site; NIA likely to step in",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, APRIL 22\n\nA PRELIMINARY investigation\ninto the deadly attack on tourists\nnear Pahalgam has revealed that\nat least four terrorists, clad in\ncamouflage outfits, came to the\nBaisaran meadow and opened\nfire with American-made M4\ncarbine assault rifles and AK-47s.\n\nSome 50-70 used cartridges\nhad been recovered from the in-\ncident siteuntil Tuesday evening.\nIt is learnt that the Centre\nplans to hand over the investiga-\ntion from J&K Police tothe Natio-\nnal Investigation Agency (NIA).\nAsource said the initial probe\nafter recording the statement of\nvictims and eyewitnesses re-\nvealed that four terrorists, in-\ncluding two believed to be\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.62385321100918,
+   "ocr_low_conf_share": 0.027522935779816515,
+   "headline": "50-70 cartridges recovered from attack site; NIA likely to step in",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, APRIL 22",
+   "text": "A PRELIMINARY investigation into the deadly attack on tourists near Pahalgam has revealed that at least four terrorists, clad in camouflage outfits, came to the Baisaran meadow and opened fire with American-made M4 carbine assault rifles and AK-47s.\n\nSome 50-70 used cartridges had been recovered from the incident siteuntil Tuesday evening. It is learnt that the Centre plans to hand over the investigation from J&K Police tothe National Investigation Agency (NIA). Asource said the initial probe after recording the statement of victims and eyewitnesses revealed that four terrorists, including two believed to be",
+   "n_words": 93,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      3008,
+      3550,
+      3078
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 22",
+   "ocr_conf": 93.16666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 22",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3739,
+      2969,
+      4182,
+      3510
+     ]
+    ],
+    "layout_words": 66,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "the terror attack with Modi de-\nciding to cut short his two-day\nvisit. Indian Ambassador Suhel\nEjaz Khan said the Crown Prince\nalso offered Saudi assistance\nover the attack.\nThe decision to set up the\nworking groups was taken as the\ntwo leaders held a meeting of\ntheir Strategic Partnership\nCouncil. Four pacts were signed\non space, health, anti-doping in\nsports and postal departments,\nofficials said.",
+   "ocr_conf": 94.6969696969697,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "the terror attack with Modi deciding to cut short his two-day visit. Indian Ambassador Suhel Ejaz Khan said the Crown Prince also offered Saudi assistance over the attack. The decision to set up the working groups was taken as the two leaders held a meeting of their Strategic Partnership Council. Four pacts were signed on space, health, anti-doping in sports and postal departments, officials said.",
+   "n_words": 65,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      3126,
+      3691,
+      3549
+     ]
+    ],
+    "layout_words": 55,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PRIME MINISTER Narendra Modi\nand Crown Prince Mohammed\nbin Salman discussed the terror\nattack in J&K\u2019s Pahalgam during\ntheir meeting in Jeddah on\nTuesday even as India and Saudi\nArabia moved to enhance ties\nwith working groupson defence\nand tourism, and pacts in key sec-\ntors such as space and health.\nBoththe leaderscondemned",
+   "ocr_conf": 93.0754716981132,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "PRIME MINISTER Narendra Modi and Crown Prince Mohammed bin Salman discussed the terror attack in J&K's Pahalgam during their meeting in Jeddah on Tuesday even as India and Saudi Arabia moved to enhance ties with working groupson defence and tourism, and pacts in key sectors such as space and health. Boththe leaderscondemned",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      3627,
+      4166,
+      3957
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4710,
+      3665,
+      4820
+     ],
+     [
+      3247,
+      4868,
+      3690,
+      5220
+     ],
+     [
+      3737,
+      4670,
+      4178,
+      5213
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "Vance: Want partners\nwho help build things,\nrespect value of labour",
+   "deck_raw": "",
+   "body_raw": "HAMZAKHAN &\nSHUBHAJIT ROY\nJAIPUR, NEW DELHI, APRIL 22\n\nINTHE first broad foreign policy\nspeech on India by the Trump\nadministration, US Vice-\nPresident J D Vance on Tuesday\npitched for strong bilateral ties\nand emphasised that US\nPresident Donald Trump \u201cwants\nAmerica to grow... India to grow\u201d\nand \u201cbuild the future\u201d with part-\n\nners \u201call over the globe\u201d.\nSpeaking at the Rajasthan\nInternational Centre in Jaipur,\nVance also reached out to India\nfor partnering in America\u2019s\n\u201cmanufacturing economy\u201d, say-\ning the US seeks trade partners\n\u201con the basis of fairness\u201d who\n\u201crespect the value of labour\u201d. He\ncriticised previous US adminis-\ntrations for approaching the\nIndian government \u201cwith an at-\ntitude of preachiness, or even\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.04166666666667,
+   "ocr_low_conf_share": 0.016666666666666666,
+   "headline": "Vance: Want partners who help build things, respect value of labour",
+   "deck": "",
+   "byline": "HAMZAKHAN &; SHUBHAJIT ROY; JAIPUR, NEW DELHI, APRIL 22",
+   "text": "INTHE first broad foreign policy speech on India by the Trump administration, US Vice-President J D Vance on Tuesday pitched for strong bilateral ties and emphasised that US President Donald Trump \"wants America to grow... India to grow\" and \"build the future\" with partners \"all over the globe\". Speaking at the Rajasthan International Centre in Jaipur, Vance also reached out to India for partnering in America's \"manufacturing economy\", saying the US seeks trade partners \"on the basis of fairness\" who \"respect the value of labour\". He criticised previous US administrations for approaching the Indian government \"with an attitude of preachiness, or even",
+   "n_words": 102,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      3691,
+      2207,
+      3909
+     ],
+     [
+      811,
+      3937,
+      2210,
+      3997
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      3625,
+      1853,
+      3658
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      4075,
+      1108,
+      4144
+     ],
+     [
+      809,
+      4193,
+      1250,
+      4426
+     ],
+     [
+      1296,
+      4036,
+      1738,
+      4427
+     ],
+     [
+      1785,
+      4036,
+      2230,
+      4420
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "2000, \u201902, J&K terror\u2019s old ghost:\nattack during high-profile US visit\nOur hearts with you: Trump; mourn horrific attack: Vance",
+   "deck_raw": "DAYS AFTER PAK ARMY CHIEF\u2019S SHRILL RHETORIC",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 22\n\nWITH US Vice-President J D\nVance in India and Prime\nMinister Narendra Modi on an\noverseas trip to Saudi Arabia, the\nbiggest terrorist attack targeting\navilians since the 26/11 Mumbai\n\nterror attack that has jo\nkilled more than two [ze\ndozen civilians in |=\nPahalgam in Kashmir a\nTuesday frames one of [25\nthe most significant in- LL\nternal security chal-\nlenges for New Delhi\u2014one with\nexternal ramifications.\nIndeed, since August 2019,\n\nmg 0) aafterthe special status\nof Jammu _ and\n_| Kashmir was revoked,\nthe record surge in\nme tourists to the state\nwas seen as a bell-\nwether for normalcyin\nthe Valley. Given how tourism\nfuelled local employment and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 83.0909090909091,
+   "ocr_low_conf_share": 0.15702479338842976,
+   "headline": "2000, '02, J&K terror's old ghost: attack during high-profile US visit Our hearts with you: Trump; mourn horrific attack: Vance",
+   "deck": "DAYS AFTER PAK ARMY CHIEF'S SHRILL RHETORIC",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 22",
+   "text": "WITH US Vice-President J D Vance in India and Prime Minister Narendra Modi on an overseas trip to Saudi Arabia, the biggest terrorist attack targeting avilians since the 26/11 Mumbai\n\nterror attack that has jo killed more than two [ze dozen civilians in = Pahalgam in Kashmir a Tuesday frames one of [25 the most significant in- LL ternal security chal-lenges for New Delhi - one with external ramifications. Indeed, since August 2019,\n\nmg 0) aafterthe special status of Jammu _ and _ Kashmir was revoked, the record surge in me tourists to the state was seen as a bellwether for normalcyin the Valley. Given how tourism fuelled local employment and",
+   "n_words": 111,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      422,
+      3862,
+      622,
+      3927
+     ]
+    ],
+    "deck_boxes": [
+     [
+      427,
+      3828,
+      642,
+      3871
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4961,
+      757,
+      5176
+     ]
+    ],
+    "layout_words": 15
+   },
+   "headline_raw": "8 bones Sabie",
+   "deck_raw": "\u2018Censorship Orders\na baeeaes SALAS",
+   "body_raw": "CAN'T BELIEVE EYES\nAND EARS: DELHI HC\nPULLS UP RAMDEV'S\nPATANJALI OVER ADS\nPAGES 5,8",
+   "ocr_conf": 88.93333333333334,
+   "ocr_low_conf_share": 0.13333333333333333,
+   "headline": "8 bones Sabie",
+   "deck": "'Censorship Orders a baeeaes SALAS",
+   "byline": "CAN'T BELIEVE EYES; AND EARS: DELHI HC; PULLS UP RAMDEV'S; PATANJALI OVER ADS; PAGES 5,8",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      4511,
+      2151,
+      4604
+     ],
+     [
+      809,
+      4618,
+      2219,
+      4758
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      4787,
+      1096,
+      4857
+     ],
+     [
+      805,
+      4906,
+      1251,
+      5217
+     ],
+     [
+      807,
+      5500,
+      1249,
+      6166
+     ],
+     [
+      1348,
+      4780,
+      1681,
+      4821
+     ],
+     [
+      1330,
+      5131,
+      1696,
+      5170
+     ],
+     [
+      1295,
+      5500,
+      1738,
+      6160
+     ],
+     [
+      1784,
+      4749,
+      2228,
+      5211
+     ]
+    ],
+    "layout_words": 297
+   },
+   "headline_raw": "2 cr & counting: Terror strikes heart\nof record tourist surge, local economy",
+   "deck_raw": "",
+   "body_raw": "NAVEEDIQBAL\nSRINAGAR, APRIL 22\n\nTHE TERROR attackin Pahalgam\non Tuesday hits at the heart of\nthe Vailey\u2019s tourism sector,\nwhich has shown a near-con-\nstant growth since 2018 and has\nbeen touted as the most signifi-\ncant indicator of \u201cnormalcy\u201d in\nJammu and Kashmir.\n\nwere men from all over India,\nmany of whom were holidaying\nwith their families at the popular\ntourist destination.\nResidents of Shivamogga in\nKamataka, Manjunath Rao (47),\nwife Pallavi Rao, and their son\nAbhijeya (18) had reached an\narea popularly called \u2018Mini\nSwitzerland\u2019 by tourists when\nthe firing occurred in the after-\nnoon. In a call to a relative in\nShivamogga, Pallavi said they ini-\ntially thought it was an exercise\nof the armed forces. Ten minutes\nlater, Pallavi found Manjunath\u2019s\nbody lying in a pool of blood.\n\nTOURIST ARRIVALS\n\n2024 SENS 2.3 crore\n\nShe told her relative that her\nhusband died ofa single shotfired\nat his head by a man in regular\nclothes as soon as they stepped\noff a tourist bus and entered the\nmeadow. She said the men inthe\ntourist group were the primary\ntargets of the shooting.\nShe recalled an exchange of\nwords with the militant who is\nbelieved to have shot her hus-\nband. \u201cI told him that since you\nkilled my husband, kill me, too.\nMy son said the same... He\nreplied, \u2018I won't kill you, tell\nModi\u2019,\u201d she told the media.\nAnother of the victims was\n\nOfficials and stakeholders say\nterrorists chose the peak tourist\nseason in the Valley, when the\nmeadows and Mughal gardens\nattract thousands of visitors to\nwitness the spring. It also took\nplace at a destination that is on\nevery tourist's itinerary \u2014\nPahalgam in South Kashmir.\nPahalgam is significant for sev-\neral reasons \u2014 it serves as oneof\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.04697986577182,
+   "ocr_low_conf_share": 0.03355704697986577,
+   "headline": "2 cr & counting: Terror strikes heart of record tourist surge, local economy",
+   "deck": "",
+   "byline": "NAVEEDIQBAL; SRINAGAR, APRIL 22",
+   "text": "THE TERROR attackin Pahalgam on Tuesday hits at the heart of the Vailey's tourism sector, which has shown a near-constant growth since 2018 and has been touted as the most significant indicator of \"normalcy\" in Jammu and Kashmir.\n\nwere men from all over India, many of whom were holidaying with their families at the popular tourist destination. Residents of Shivamogga in Kamataka, Manjunath Rao (47), wife Pallavi Rao, and their son Abhijeya (18) had reached an area popularly called 'Mini Switzerland' by tourists when the firing occurred in the afternoon. In a call to a relative in Shivamogga, Pallavi said they initially thought it was an exercise of the armed forces. Ten minutes later, Pallavi found Manjunath's body lying in a pool of blood.\n\nTOURIST ARRIVALS\n\nShe told her relative that her husband died ofa single shotfired at his head by a man in regular clothes as soon as they stepped off a tourist bus and entered the meadow. She said the men inthe tourist group were the primary targets of the shooting. She recalled an exchange of words with the militant who is believed to have shot her husband. \"I told him that since you killed my husband, kill me, too. My son said the same... He replied, 'I won't kill you, tell Modi',\" she told the media. Another of the victims was\n\nOfficials and stakeholders say terrorists chose the peak tourist season in the Valley, when the meadows and Mughal gardens attract thousands of visitors to witness the spring. It also took place at a destination that is on every tourist's itinerary - Pahalgam in South Kashmir. Pahalgam is significant for several reasons - it serves as oneof",
+   "n_words": 280,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2682,
+      4816,
+      3158,
+      4879
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2821,
+      4760,
+      2954,
+      4791
+     ],
+     [
+      2666,
+      4933,
+      3150,
+      4983
+     ]
+    ],
+    "body_boxes": [
+     [
+      2745,
+      4889,
+      3088,
+      4921
+     ],
+     [
+      2671,
+      5001,
+      3164,
+      5079
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "DASTARDLY, MUST NOT",
+   "deck_raw": "INSIDE\n_CHORUS ACROSS INDIA",
+   "body_raw": "GO UNPUNISHED:\n\nCANCELLATION CALLS\nFLOOD TOUR OPERATORS",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "DASTARDLY, MUST NOT",
+   "deck": "_CHORUS ACROSS INDIA",
+   "byline": "GO UNPUNISHED:; CANCELLATION CALLS; FLOOD TOUR OPERATORS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5341,
+      4118,
+      5518
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5696,
+      752,
+      5847
+     ],
+     [
+      318,
+      5895,
+      760,
+      6166
+     ],
+     [
+      2760,
+      5502,
+      3200,
+      6161
+     ],
+     [
+      3247,
+      5502,
+      3689,
+      6165
+     ],
+     [
+      3734,
+      5502,
+      4177,
+      6169
+     ]
+    ],
+    "layout_words": 296
+   },
+   "headline_raw": "Among victims, men from Kochi to Kanpur on vacation with families",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nBENGALURU, BHUBANESWAR,\nTHIRUVANANTHAPURAM,\nLUCKNOW, RAIPUR, APRIL 22\n\nAREALTOR from Karnataka, an\naccountant from Odisha, a\nKanpur-based businessman, a\nGulf-returnee from Kerala \u2014\namong the 26 killed in the terror\nattack on tourists in south\nKashmir's Pahalgam Tuesday\n\nPrashant Satpathy, 43, from\nBalasore in Odisha, who was also\non vacation with wife and nin-\nyear-old son. He worked as an\naccountant in Bhubaneswar.\nHis wife Priyadarshini told\nThe Indian Express that he was\nshot in the head when they were\nalighting from a ropeway. \u201cWe\ncouldn\u2019t understand what hap-\npened as my husband was sud-\ndenly hit by a bullet. There was\nchaos all over,\u201d she said.\nA 65-year-old from Kochi in\nKerala, who was also with his\nfamily, was another victim.\nRamachandran was on vacation\n\nwith his wife Sheela, daughter\nArathi, and her two children.\n\u201cRamachandran was shot while\nriding a horse. Later, Arathi iden-\ntified the body of her father at a\nlocal hospital,\u201d said Jayalakshmi,\nthe family\u2019s neighbour in the\nEdappally area of Kochi.\nKanpur-based businessman\nShubham Dwivedi (31), part of an\n11-member family group visiting\nKashmir, was also killed. He mar-\nried Aishanya Dwivedi on\nFebruary 12. \u201cThis was their sec-\nond trip after the wedding, and\nthis time, they chose to travel\nwith their families,\u201d said\n\nShubham's cousin, Saurabh\nDwivedi. Shubham managed his\nfamily\u2019s cement business.\n\u201cShubham and his wife chose to\ngoupthemountain on horseback\nwhen the terrorists opened fire.\nShubham was killed on the spot.\u201d\nDinesh Mirania (42) from\nRaipur in Chhattisgarh, who was\nvisiting Kashmir with his wife\nNehaand children fortheir wed-\nding anniversary, was also shot.\n\u201cHe had called me a day before.\nHesaid they visited Vaishno Devi.\nToday was his wedding anniver-\nsary. Hisson had joined the fam-\nily for the holiday,\u201d a friend said.",
+   "ocr_conf": 90.88513513513513,
+   "ocr_low_conf_share": 0.05067567567567568,
+   "headline": "Among victims, men from Kochi to Kanpur on vacation with families",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; BENGALURU, BHUBANESWAR,; THIRUVANANTHAPURAM,; LUCKNOW, RAIPUR, APRIL 22",
+   "text": "AREALTOR from Karnataka, an accountant from Odisha, a Kanpur-based businessman, a Gulf-returnee from Kerala - among the 26 killed in the terror attack on tourists in south Kashmir's Pahalgam Tuesday\n\nPrashant Satpathy, 43, from Balasore in Odisha, who was also on vacation with wife and ninyear-old son. He worked as an accountant in Bhubaneswar. His wife Priyadarshini told The Indian Express that he was shot in the head when they were alighting from a ropeway. \"We couldn't understand what happened as my husband was suddenly hit by a bullet. There was chaos all over,\" she said. A 65-year-old from Kochi in Kerala, who was also with his family, was another victim. Ramachandran was on vacation\n\nwith his wife Sheela, daughter Arathi, and her two children. \"Ramachandran was shot while riding a horse. Later, Arathi identified the body of her father at a local hospital,\" said Jayalakshmi, the family's neighbour in the Edappally area of Kochi. Kanpur-based businessman Shubham Dwivedi (31), part of an 11-member family group visiting Kashmir, was also killed. He married Aishanya Dwivedi on February 12. \"This was their second trip after the wedding, and this time, they chose to travel with their families,\" said\n\nShubham's cousin, Saurabh Dwivedi. Shubham managed his family's cement business. \"Shubham and his wife chose to goupthemountain on horseback when the terrorists opened fire. Shubham was killed on the spot.\" Dinesh Mirania (42) from Raipur in Chhattisgarh, who was visiting Kashmir with his wife Nehaand children fortheir wedding anniversary, was also shot. \"He had called me a day before. Hesaid they visited Vaishno Devi. Today was his wedding anniversary. Hisson had joined the family for the holiday,\" a friend said.",
+   "n_words": 277,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5499,
+      501,
+      5573
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR",
+   "ocr_conf": 90.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "ANCHOR",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 16.0,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

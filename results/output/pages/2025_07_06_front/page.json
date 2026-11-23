@@ -1,0 +1,888 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_06_front",
+ "source_file": "2025-07-06_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-06_front.png",
+ "date": "2025-07-06",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 510,
+  "mean_line_conf": 90.56694144549407,
+  "orphan_words": 264,
+  "body_words_total": 2070
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3858,
+      75,
+      4070,
+      188
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3752,
+      322,
+      4169,
+      441
+     ]
+    ],
+    "body_boxes": [
+     [
+      3772,
+      236,
+      4158,
+      275
+     ],
+     [
+      3743,
+      459,
+      4180,
+      614
+     ]
+    ],
+    "layout_words": 23
+   },
+   "headline_raw": "eve",
+   "deck_raw": "When Snails bit\ninto the Big Apple",
+   "body_raw": "THE SUNDAY EXPRESS MAGAZINE\n\nWinner of the James Beard\nAward for Best Chef in New\nYork, on keeping to sanctity\nof authentic flavours",
+   "ocr_conf": 94.52173913043478,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve",
+   "deck": "When Snails bit into the Big Apple",
+   "byline": "THE SUNDAY EXPRESS MAGAZINE",
+   "text": "Winner of the James Beard Award for Best Chef in New York, on keeping to sanctity of authentic flavours",
+   "n_words": 19,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2765,
+      919,
+      4174,
+      1437
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2763,
+      831,
+      4112,
+      880
+     ]
+    ],
+    "body_boxes": [
+     [
+      2763,
+      1475,
+      3186,
+      1751
+     ],
+     [
+      2763,
+      1874,
+      3032,
+      1902
+     ],
+     [
+      2760,
+      1952,
+      3205,
+      3599
+     ],
+     [
+      2761,
+      3612,
+      3201,
+      3757
+     ]
+    ],
+    "layout_words": 232
+   },
+   "headline_raw": "Lacks due process, will\ndisenfranchise lakhs:\nPlea against roll revision",
+   "deck_raw": "STRIKE DOWN EC\u2019S BIHAR ORDER: NGO ADR",
+   "body_raw": "\u2018Onus of being\non voter list\nshifted from\nState to citizens\u2019\n\nNEW DELHI, JULY 5\n\nCITING \u201cLACK of due process\u201d\nand \u201cthe unreasonably short\ntimeline\u201d for the \u2018Special\nIntensive Revision\u2019 of electoral\nrolls in poll-bound Bihar, NGO\nAssociation for Democratic\nReforms (ADR) has approached\nthe Supreme Court, challenging\nthe Election Commission exer-\ncise by calling it unconstitutional\nand warning that it will \u201cdisen-\nfranchise lakhs of voters\u201d.\nInits petition dated July 4, filed\nthrough advocate Prashant\nBhushan, the ADR said, \u201cThe pres-\nent Writ Petition has been filed\nunder Article 32 of the\nConstitution of India, seeking set-\nting aside of Order and commu-\nnication dated 24.06.2025 issued\nby the Respondent Election\nCommission of India (ECI), direct-\ning for Special Intensive Revision\nof Electoral Rolls in Bihar (SIR\nOrder), as being in violation of\nArticles 14, 19, 21, 325 and 326 of\nthe Constitution of India as well as\nprovisions of the Representation\nof the People Act, 1950 and Rule\n21A ofthe Registrationof Electors\nRules, 1960.\u201d\n\u201cThe SIR order dated\n24.06.2025, if not set aside, can\narbitrarily and without due\nprocess disenfranchise lakhs of\nvoters from electing their repre-\nsentatives, thereby disrupting\nfree and fair elections and\ndemocracy in the country, which\nare part of the basic structure of\nthe Constitution,\u201d the plea\nstated.\n\nIt said \u201cthe documentation\nrequirements of the directive,\nlack of due process as well asthe\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.1853448275862,
+   "ocr_low_conf_share": 0.04741379310344827,
+   "headline": "Lacks due process, will disenfranchise lakhs: Plea against roll revision",
+   "deck": "STRIKE DOWN EC'S BIHAR ORDER: NGO ADR",
+   "byline": "NEW DELHI, JULY 5",
+   "text": "'Onus of being on voter list shifted from State to citizens'\n\nCITING \"LACK of due process\" and \"the unreasonably short timeline\" for the 'Special Intensive Revision' of electoral rolls in poll-bound Bihar, NGO Association for Democratic Reforms (ADR) has approached the Supreme Court, challenging the Election Commission exercise by calling it unconstitutional and warning that it will \"disenfranchise lakhs of voters\". Inits petition dated July 4, filed through advocate Prashant Bhushan, the ADR said, \"The present Writ Petition has been filed under Article 32 of the Constitution of India, seeking setting aside of Order and communication dated 24.06.2025 issued by the Respondent Election Commission of India (ECI), directing for Special Intensive Revision of Electoral Rolls in Bihar (SIR Order), as being in violation of Articles 14, 19, 21, 325 and 326 of the Constitution of India as well as provisions of the Representation of the People Act, 1950 and Rule 21A ofthe Registrationof Electors \"The SIR order dated 24.06.2025, if not set aside, can arbitrarily and without due process disenfranchise lakhs of voters from electing their representatives, thereby disrupting free and fair elections and democracy in the country, which are part of the basic structure of the Constitution,\" the plea stated.\n\nIt said \"the documentation requirements of the directive, lack of due process as well asthe",
+   "n_words": 216,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      1954,
+      664,
+      2014
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      421,
+      2224,
+      742,
+      2266
+     ],
+     [
+      380,
+      2303,
+      708,
+      2339
+     ],
+     [
+      323,
+      2422,
+      631,
+      2532
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "extradition",
+   "deck_raw": "",
+   "body_raw": "\u00ab< gp Nehal Modi\n\nwees on Friday\n\nMAHENDER SINGH\nMANRAL\nNEW DELHI, JULY 5",
+   "ocr_conf": 70.57142857142857,
+   "ocr_low_conf_share": 0.2857142857142857,
+   "headline": "extradition",
+   "deck": "",
+   "byline": "",
+   "text": "\u00ab< gp Nehal Modi\n\nwees on Friday\n\nMAHENDER SINGH MANRAL NEW DELHI, JULY 5",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      2095,
+      1741,
+      2689
+     ]
+    ],
+    "layout_words": 70,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Days after Thane incident, Raj: \u2018If you beat\nsomeone, don\u2019t make a video of incident\u2019\n~ = attack on the BJP-led Mahayuti\nVALLABH OZARKAR government over its now-\nMUMBAI, JULY 5 scrapped move to introduce\n\u2014_ Hindi as a third language in pri-\nSHARING Apolitical stage forthe mary schools in Maharashtra.\nfirst time in two decades, es- The joint rally at Mumbai's\ntranged cousins, ShivSena(UBT) National Sports Club of India in\nchief Uddhav Thackeray and Worli, touted as their show of\nMaharashtra Navnirman Sena __ unity for Marathi pride and iden-\n(MNS) president Raj Thackeray, _ tity, saw the Thackeray cousins\non Saturday hinted at their al- _ targeting Chief MinisterDevendra\nliance as they launched a sharp CONTINUED ON PAGE 2",
+   "ocr_conf": 86.92561983471074,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Days after Thane incident, Raj: 'If you beat someone, don't make a video of incident' ~ = attack on the BJP-led Mahayuti VALLABH OZARKAR government over its now-MUMBAI, JULY 5 scrapped move to introduce - _ Hindi as a third language in pri-SHARING Apolitical stage forthe mary schools in Maharashtra. first time in two decades, es- The joint rally at Mumbai's tranged cousins, ShivSena(UBT) National Sports Club of India in chief Uddhav Thackeray and Worli, touted as their show of Maharashtra Navnirman Sena __ unity for Marathi pride and iden- (MNS) president Raj Thackeray, _ tity, saw the Thackeray cousins on Saturday hinted at their al- _ targeting Chief MinisterDevendra",
+   "n_words": 110,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2091,
+      2707,
+      2260
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      2345,
+      2212,
+      2415
+     ],
+     [
+      1786,
+      2465,
+      2226,
+      2696
+     ],
+     [
+      2274,
+      2306,
+      2714,
+      2690
+     ]
+    ],
+    "layout_words": 74
+   },
+   "headline_raw": "\u2018Bal Thackeray\u2019s blessings\nwith me\u201d: Fadnavis hits out",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, JULY 5\n\nREACTING TO the \u201cvictory\u201d rally\nof Shiv Sena (UBT) president\nUddhav Thackeray and MNS\nchief Raj Thackeray held in\nMumbai on Saturday, where\nthey attacked the BjP-led\n\nMahayuti government over its\nnow-scrapped move to intro-\nduce Hindi in primary schools,\nMaharashtra Chief Minister\nDevendra Fadnavis dismissed\nUddhav's criticism as a \u201crudali\n(professional mourner)\u201d speech.\nWhile speaking to the media\nin Pandharpur, where the CM is\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.72972972972973,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "'Bal Thackeray's blessings with me\": Fadnavis hits out",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, JULY 5",
+   "text": "REACTING TO the \"victory\" rally of Shiv Sena (UBT) president Uddhav Thackeray and MNS chief Raj Thackeray held in Mumbai on Saturday, where they attacked the BjP-led\n\nMahayuti government over its now-scrapped move to introduce Hindi in primary schools, Maharashtra Chief Minister Devendra Fadnavis dismissed Uddhav's criticism as a \"rudali (professional mourner)\" speech. While speaking to the media in Pandharpur, where the CM is CONTINUEDON PAGE 2",
+   "n_words": 67,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      2265,
+      1141,
+      2335
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "VALLABH OZARKAR\nMUMBAI, JULY 5",
+   "ocr_conf": 91.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "VALLABH OZARKAR; MUMBAI, JULY 5",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      2280,
+      4172,
+      2619
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3252,
+      2213,
+      4025,
+      2246
+     ],
+     [
+      3251,
+      2645,
+      4098,
+      2834
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      2899,
+      3685,
+      2970
+     ],
+     [
+      3249,
+      3059,
+      3690,
+      3765
+     ]
+    ],
+    "layout_words": 85
+   },
+   "headline_raw": "\u2018What can we do if\nour names are cut\nout, what will we do?\u2019",
+   "deck_raw": "RACE AGAINST TIME IN SEEMANCHAL\nPurnia MP Pappu Yadav and Barsoi\nMLA Mehboob Alam tell people \u2018not\nto cooperate\u2019 as Opposition dials it up",
+   "body_raw": "SANTOSH SINGH\nPURNIA, ARARIA, KISHANGANJ,\n\nALANDLOCKED region compris-\ning Purnia, Katihar, Kishanganj,\nSupaul and Araria districts, the\nMuslim-dominated Seemanchal\nranks the lowest on almost all\ndevelopment indices in Bihar.\nAround this time of the year, its\nforemost concern is the weather,\nwith the rains bringing annual\nfloods and distress.\nThis time, there is another\nconcern weighing Seemanchal\ndown \u2014 the Election Comm-\nission\u2019s Special Intensive Revision\nof electoral rolls, which requires\nvoters to produce documents that\nfew hereown, or know how to go\nabout procuring.",
+   "ocr_conf": 92.94117647058823,
+   "ocr_low_conf_share": 0.023529411764705882,
+   "headline": "'What can we do if our names are cut out, what will we do?'",
+   "deck": "RACE AGAINST TIME IN SEEMANCHAL Purnia MP Pappu Yadav and Barsoi MLA Mehboob Alam tell people 'not to cooperate' as Opposition dials it up",
+   "byline": "SANTOSH SINGH; PURNIA, ARARIA, KISHANGANJ,",
+   "text": "ALANDLOCKED region comprising Purnia, Katihar, Kishanganj, Supaul and Araria districts, the Muslim-dominated Seemanchal ranks the lowest on almost all development indices in Bihar. Around this time of the year, its foremost concern is the weather, with the rains bringing annual floods and distress. This time, there is another concern weighing Seemanchal down - the Election Commission's Special Intensive Revision of electoral rolls, which requires voters to produce documents that few hereown, or know how to go about procuring.",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      2384,
+      1251,
+      2696
+     ]
+    ],
+    "layout_words": 39,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SHARING A political stage for the\nfirst time in two decades, es-\ntranged cousins, Shiv Sena(UBT)\nchief Uddhav Thackeray and\nMaharashtra Navnirman Sena\n(MNS) president Raj Thackeray,\non Saturday hinted at their al-\nliance as they launched a sharp",
+   "ocr_conf": 90.76923076923077,
+   "ocr_low_conf_share": 0.10256410256410256,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "SHARING A political stage for the first time in two decades, estranged cousins, Shiv Sena(UBT) chief Uddhav Thackeray and Maharashtra Navnirman Sena (MNS) president Raj Thackeray, on Saturday hinted at their alliance as they launched a sharp",
+   "n_words": 37,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      2580,
+      763,
+      3834
+     ]
+    ],
+    "layout_words": 150,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "US AUTHORITIES have arrested\nfugitive diamond merchant\nNirav Modi's brother Nehal Modi\nfollowing an extradition request\njointly made by the Enforcement\nDirectorate (ED) and the Central\nBureau of Investigation (CBI), of-\nficials said Saturday.\nNehal is wanted in India in\nconnection with the multi-bil-\nlion-dollar Punjab National Bank\n(PNB) fraud case allegedly or-\nchestrated by him, Nirav Modi\nand their uncle Mehul Choksi.\nNirav is also facing extradition\nfrom the UK, while Choksi is in\nAntigua and faces achallenge to\nhis citizenship.\nAccording to the ED, the US\nDepartment of Justice informed\nthe Indian authorities that Nehal\nwas arrested on July 4. The next\nhearing in his extradition pro-\nceedings is scheduled for July 17.\n\u201cThere is a possibility that Nehal\nmay apply for bail during this\nhearing, which the US prosecu-\ntion is likely to oppose,\u201d\nsaid sources.\nAn ED spokesperson said the\nextradition proceedings against\nCONTINUEDON PAGE 2",
+   "ocr_conf": 89.67333333333333,
+   "ocr_low_conf_share": 0.05333333333333334,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "US AUTHORITIES have arrested fugitive diamond merchant Nirav Modi's brother Nehal Modi following an extradition request jointly made by the Enforcement Directorate (ED) and the Central Bureau of Investigation (CBI), officials said Saturday. Nehal is wanted in India in connection with the multi-billion-dollar Punjab National Bank (PNB) fraud case allegedly orchestrated by him, Nirav Modi and their uncle Mehul Choksi. Nirav is also facing extradition from the UK, while Choksi is in Antigua and faces achallenge to his citizenship. According to the ED, the US Department of Justice informed the Indian authorities that Nehal was arrested on July 4. The next hearing in his extradition proceedings is scheduled for July 17. \"There is a possibility that Nehal may apply for bail during this hearing, which the US prosecution is likely to oppose,\" said sources. An ED spokesperson said the extradition proceedings against CONTINUEDON PAGE 2",
+   "n_words": 145,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      2764,
+      2714,
+      3289
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2510,
+      3296,
+      2682,
+      3488
+     ],
+     [
+      2273,
+      3571,
+      2588,
+      3641
+     ],
+     [
+      2269,
+      3690,
+      2714,
+      5180
+     ]
+    ],
+    "layout_words": 204
+   },
+   "headline_raw": "Punjab govt\nconsidering to\nbring law with\ndeath penalty\nfor sacrilege\nFP \u00b0C manngovt",
+   "deck_raw": "",
+   "body_raw": "to convene\nspecial\nAssembly\nsessionon\nJuly 10, 11\n\nKANCHAN VASDEV\nCHANDIGARH, JULY5\n\nTHE PUNJAB government is at-\ntempting to bringin alegislation\nproviding for stricter punish-\nment against crimes of sacrilege,\nandis exploring legal options for\na provision of death penalty for\nthose found guilty.\n\u201cWe willbe convening a spe-\ncial session of Vidhan Sabha on\nJuly 10 and 11 to bring a historic\nlegislation for stricter punish-\nmentagainst those found guilty\nof sacrilege. The Centre should\nhave done it. However, the Aam\nAadmi Party government is\nbringingitin Punjab as it under-\nstands the emotions of the peo-\nple of the state,\u201d AAP spokesper-\nson Neel Garg said on Saturday.\nSacrilege and the need for\ntougher legislation has been an\nemotive issue in the state. In\nOctober 2015, during the\nShiromani Akali Dal-BJP govern-\nment\u2019s term, an incident of sac-\nrilege of the Guru Granth Sahib\nin Bargari had changed the po-\nlitical narrative in the state, de-\nlivering a blow to the Akali Dal\nfrom which it has been strug-\ngling to recover. Almost every\ngovernment since then has at-\ntempted to bring in legislation\nproviding for stricter punish-\nment for sacrilege.\nSources said such a legisla-\ntion will require a state-specific\nCONTINUEDON PAGE2",
+   "ocr_conf": 93.58823529411765,
+   "ocr_low_conf_share": 0.004901960784313725,
+   "headline": "Punjab govt considering to bring law with death penalty for sacrilege FP \u00b0C manngovt",
+   "deck": "",
+   "byline": "KANCHAN VASDEV; CHANDIGARH, JULY5",
+   "text": "to convene special Assembly sessionon\n\nTHE PUNJAB government is attempting to bringin alegislation providing for stricter punishment against crimes of sacrilege, andis exploring legal options for a provision of death penalty for those found guilty. \"We willbe convening a special session of Vidhan Sabha on July 10 and 11 to bring a historic legislation for stricter punish-mentagainst those found guilty of sacrilege. The Centre should have done it. However, the Aam Aadmi Party government is bringingitin Punjab as it under-stands the emotions of the people of the state,\" AAP spokesperson Neel Garg said on Saturday. Sacrilege and the need for tougher legislation has been an emotive issue in the state. In October 2015, during the Shiromani Akali Dal-BJP government's term, an incident of sacrilege of the Guru Granth Sahib in Bargari had changed the political narrative in the state, delivering a blow to the Akali Dal from which it has been struggling to recover. Almost every government since then has attempted to bring in legislation providing for stricter punishment for sacrilege. Sources said such a legislation will require a state-specific CONTINUEDON PAGE2",
+   "n_words": 182,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3783,
+      3154,
+      4129,
+      3334
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3832,
+      3082,
+      4083,
+      3135
+     ],
+     [
+      3898,
+      3399,
+      4015,
+      3443
+     ]
+    ],
+    "body_boxes": [
+     [
+      3737,
+      3534,
+      4178,
+      3758
+     ]
+    ],
+    "layout_words": 33
+   },
+   "headline_raw": "NOT\nCOUNTIN BIHAR",
+   "deck_raw": "WHAT WILL\nPART3",
+   "body_raw": "With the poor and margin-\nalised likely to be the most af-\nfected by the EC drive, asthe only\nofficial documents most of them\nhold are not valid for enrolment,\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.96969696969697,
+   "ocr_low_conf_share": 0.0,
+   "headline": "NOT COUNTIN BIHAR",
+   "deck": "WHAT WILL PART3",
+   "byline": "",
+   "text": "With the poor and margin-alised likely to be the most affected by the EC drive, asthe only official documents most of them hold are not valid for enrolment, CONTINUEDON PAGE 2",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      3600,
+      2173,
+      3804
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      3915,
+      563,
+      3972
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      4022,
+      728,
+      4232
+     ],
+     [
+      808,
+      3885,
+      1086,
+      3955
+     ],
+     [
+      809,
+      4006,
+      1249,
+      4276
+     ],
+     [
+      1294,
+      3847,
+      1737,
+      4270
+     ],
+     [
+      1784,
+      3847,
+      2229,
+      4270
+     ],
+     [
+      1945,
+      4441,
+      2133,
+      4534
+     ],
+     [
+      1831,
+      4600,
+      2177,
+      5140
+     ]
+    ],
+    "layout_words": 199
+   },
+   "headline_raw": "Modi-Milei talks explore ventures\nin critical minerals, shale, defence",
+   "deck_raw": "THE WORLD",
+   "body_raw": "ATLEAST 27 DEAD\nIN TEXAS FLOODING;\nMANY CAMPERS\nMISSING\nPAGE 8\n\nSHUBHAJIT ROY\nNEW DELHI, JULY 5\n\nINDIA AND Argentina are to\nstrengthen collaboration incrit-\nical minerals, shale gas, defence\nmanufacturing, space, telemed-\nicine, digital health solutions and\ninformation technology follow-\ning talks between Prime\n\nMinister Narendra Modi and\nPresident Javier Milei in Buenos\nAires Saturday night.\nMilei, a right-wing populist,\nwon his country\u2019s elections in\n2023, and his rise has often been\ncompared with that of US\nPresident Donald Trump.\nModi and Milei met last\nNovember on the sidelines of the\nG20 Leaders\u2019 Summit in Brazil.\n\nOn Saturday, the two sides de-\ncided to work towards a prefer-\nential trade agreement and faster\napproval towards Indian medi-\ncines, and adoption of the UPIsys-\ntem after the bilateral meeting.\nModi, in a post on X, said,\n\u201cExcellent meeting with\nPresident Javier Milei of\nArgentina. We are marking\nCONTINUEDON PAGE2\n\nComing\n@ inway\n\nDISAGREEMENTS\nOVER sensitive sectors\nsuch as agriculture\nand dairy have added\nto the uncertainty\nof an interim trade\ndeal between India and\nthe United States\nbefore the end of the\ntariff pause on July 9.\nIndia has been\nresisting US demands\nfor greater access in\nthese sectors.",
+   "ocr_conf": 90.37688442211055,
+   "ocr_low_conf_share": 0.05527638190954774,
+   "headline": "Modi-Milei talks explore ventures in critical minerals, shale, defence",
+   "deck": "THE WORLD",
+   "byline": "ATLEAST 27 DEAD; IN TEXAS FLOODING;; MANY CAMPERS; MISSING; SHUBHAJIT ROY; NEW DELHI, JULY 5",
+   "text": "INDIA AND Argentina are to strengthen collaboration incritical minerals, shale gas, defence manufacturing, space, telemedicine, digital health solutions and information technology following talks between Prime\n\nMinister Narendra Modi and President Javier Milei in Buenos Aires Saturday night. Milei, a right-wing populist, won his country's elections in 2023, and his rise has often been compared with that of US President Donald Trump. Modi and Milei met last November on the sidelines of the G20 Leaders' Summit in Brazil.\n\nOn Saturday, the two sides decided to work towards a preferential trade agreement and faster approval towards Indian medicines, and adoption of the UPIsystem after the bilateral meeting. Modi, in a post on X, said, \"Excellent meeting with President Javier Milei of Argentina. We are marking CONTINUEDON PAGE2\n\nComing @ inway\n\nDISAGREEMENTS OVER sensitive sectors such as agriculture and dairy have added to the uncertainty of an interim trade deal between India and the United States before the end of the tariff pause on July 9. India has been resisting US demands for greater access in these sectors.",
+   "n_words": 175,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2759,
+      3915,
+      3175,
+      3972
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2759,
+      4497,
+      3175,
+      4707
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "PUNE RAPE CASE:\nACCUSED RELEASED\nON CONDITIONS,\nISSUED NOTICE\nPAGE 4",
+   "ocr_conf": 89.18181818181819,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "PUNE RAPE CASE:; ACCUSED RELEASED; ON CONDITIONS,; ISSUED NOTICE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3912,
+      4164,
+      4234
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      4322,
+      3562,
+      4392
+     ],
+     [
+      3248,
+      4443,
+      3690,
+      5188
+     ],
+     [
+      3246,
+      5509,
+      3689,
+      6178
+     ],
+     [
+      3978,
+      4323,
+      4133,
+      4510
+     ],
+     [
+      3735,
+      4601,
+      4178,
+      5181
+     ],
+     [
+      3735,
+      5510,
+      4179,
+      6171
+     ]
+    ],
+    "layout_words": 368
+   },
+   "headline_raw": "Patna businessman\u2019s\nkilling rocks Bihar,\nOpp targets Nitish govt",
+   "deck_raw": "",
+   "body_raw": "HIMANSHU HARSH\nPATNA, JULY 5\n\nA PROMINENT Patna-based busi-\nnessman with business interests\nranging from healthcare to real\nestate was shot dead late Friday\nnight outside his apartment\nbuilding in the city's Gandhi\nMaidan area, six years after his\nson was killed ina similar fashion.\nThe incident, which comes\nahead of the Assembly polls in\nBihar, quickly snowballed into a\npolitical flashpoint, with the op-\nposition citing it as yet another\nexample of the crumbling law\nand order in the state.\nAccording to the police,\nunidentified assailants shot\nGopal Khemka (64), the owner\nof Magadh Hospital, from close\n\nhandshake. So did Brook, who\nran across from the field and\ntouched the peak of his England\ncap while extending his arm.\nIndia had designated Shubman\nas the heir apparent long back \u2014\nnow the world was doing it.\nBy single-handedly putting\nhis team in winning position af-\nter the close defeat in the first\nTest, the new skipper had se-\ncured his position as leader in\nthe dressing room. At Edgbaston,\ncourtesy his two knocks that had\ngravitas of a Test match batting\nand chutzpah of T20 cricket, he\nhad got the respect of his rivals\n\nGopal\nKhemka\nwas killed\noutside\nhishome\n\nrange while he was waiting at his\nsociety\u2019s gate in his car near the\nTwin Tower residential complex\nadjacent to Hotel Panache. He\nwas taken to a hospital in\nKankarbagh, where he was de-\nclared dead on arrival.\nApart from owning a hospi-\ntal, Khemka had also expanded\ninto real estate and owned fac-\ntories. He is survived by his son,\na doctor, and a daughter who\nlives abroad. The killing comes\nsix years after Khemka\u2019s other\nCONTINUED ON PAGE 2\n\nand new fans abroad.\nTill the last Test, which India\nlost, the broadcaster would keep\nplaying rerunsof Kohli's innings\nafter the game. During this Test,\nthose old tapes have been\nmoved to the archives since they\nhave found a star capable of\nkeeping the television set\nswitched on even after the\nmatch hours. Shubman has the\nrange of strokes tokeep the con-\nnoisseur of the game, the Test\nmatch watchers, and even the\ncasual watchers, there to fours\nand sixes, glued to their seats.\nCONTINUEDON PAGE2",
+   "ocr_conf": 92.60326086956522,
+   "ocr_low_conf_share": 0.019021739130434784,
+   "headline": "Patna businessman's killing rocks Bihar, Opp targets Nitish govt",
+   "deck": "",
+   "byline": "HIMANSHU HARSH; PATNA, JULY 5",
+   "text": "A PROMINENT Patna-based businessman with business interests ranging from healthcare to real estate was shot dead late Friday night outside his apartment building in the city's Gandhi Maidan area, six years after his son was killed ina similar fashion. The incident, which comes ahead of the Assembly polls in Bihar, quickly snowballed into a political flashpoint, with the opposition citing it as yet another example of the crumbling law and order in the state. According to the police, unidentified assailants shot Gopal Khemka (64), the owner of Magadh Hospital, from close\n\nhandshake. So did Brook, who ran across from the field and touched the peak of his England cap while extending his arm. India had designated Shubman as the heir apparent long back - now the world was doing it. By single-handedly putting his team in winning position after the close defeat in the first Test, the new skipper had secured his position as leader in the dressing room. At Edgbaston, courtesy his two knocks that had gravitas of a Test match batting and chutzpah of T20 cricket, he had got the respect of his rivals\n\nGopal Khemka was killed outside hishome\n\nrange while he was waiting at his society's gate in his car near the Twin Tower residential complex adjacent to Hotel Panache. He was taken to a hospital in Kankarbagh, where he was declared dead on arrival. Apart from owning a hospital, Khemka had also expanded into real estate and owned factories. He is survived by his son, a doctor, and a daughter who lives abroad. The killing comes six years after Khemka's other\n\nand new fans abroad. Till the last Test, which India lost, the broadcaster would keep playing rerunsof Kohli's innings after the game. During this Test, those old tapes have been moved to the archives since they have found a star capable of keeping the television set switched on even after the match hours. Shubman has the range of strokes tokeep the connoisseur of the game, the Test match watchers, and even the casual watchers, there to fours and sixes, glued to their seats. CONTINUEDON PAGE2",
+   "n_words": 351,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4343,
+      1364,
+      4560
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4637,
+      665,
+      4707
+     ],
+     [
+      318,
+      4755,
+      760,
+      5185
+     ],
+     [
+      872,
+      4793,
+      1210,
+      4833
+     ]
+    ],
+    "layout_words": 71
+   },
+   "headline_raw": "Amid India deal impasse,\nsigns tariff letters for 12 n",
+   "deck_raw": "",
+   "body_raw": "RAVIDUTTA MISHRA\nNEW DELHI, JULY 5\n\nWITH NO word still on whether\nhis administration will sign an\ninterim trade deal with India be-\nfore the reciprocal tariff pause\nruns outJuly 9, President Donald\nTrump has said the US has begun\nthe process of informing coun-\ntries about the reciprocal tariffs\nthey must pay, and that he has\nalready signed 12 letters sched-\nuled to be dispatched Monday.\n\n| Trump. File",
+   "ocr_conf": 93.4,
+   "ocr_low_conf_share": 0.014285714285714285,
+   "headline": "Amid India deal impasse, signs tariff letters for 12 n",
+   "deck": "",
+   "byline": "RAVIDUTTA MISHRA; NEW DELHI, JULY 5",
+   "text": "WITH NO word still on whether his administration will sign an interim trade deal with India before the reciprocal tariff pause runs outJuly 9, President Donald Trump has said the US has begun the process of informing countries about the reciprocal tariffs they must pay, and that he has already signed 12 letters scheduled to be dispatched Monday.\n\nTrump. File",
+   "n_words": 60,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      1253,
+      4343,
+      1686,
+      4541
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      4598,
+      1737,
+      5179
+     ],
+     [
+      1295,
+      5508,
+      1736,
+      6169
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "se, Trump\n2? nations",
+   "deck_raw": "",
+   "body_raw": "before the July 9 deadline. The US\nhad originally announced a 26\nper cent reciprocal tariffon India.\nTrump told reporters: \u201cI\nsigned some letters and they will\ngo out on Monday, probably 12.\nDifferent amounts of money, dif-\nferent rates of tariff.\u201d He said the\nnames of the countries that\nwould be receiving the letters\nwould only be revealed Monday.\nA government official told\nThe Indian Express that agricul-\nture has been a major sticking\nCONTINUED ON PAGE 2\n\ncollapse. \u201cWell played star boy.\nRewriting history. Onwards and\nupwards from here. Youdeserve\nall of this.\u201d By stumps on Day 4,\naided by Shubman\u2019s run spree,\nEngland, chasing 608 to win,\nwere 72 for 3. It seems just a\nmatter of a day that the Indian\ncaptain\u2019s epic knocks get\nrecorded in history as match-\nwinning innings.\nVirat's \u2018star boy\u2019 was getting\npraise from the locals too.\nFormer England captain Nasser\nHussain said: \u201cA hundred in the\nfirst Test, a double hundred and\na hundred in the second. The",
+   "ocr_conf": 92.50595238095238,
+   "ocr_low_conf_share": 0.03571428571428571,
+   "headline": "se, Trump 2? nations",
+   "deck": "",
+   "byline": "before the July 9 deadline. The US",
+   "text": "had originally announced a 26 per cent reciprocal tariffon India. Trump told reporters: \"I signed some letters and they will go out on Monday, probably 12. Different amounts of money, different rates of tariff.\" He said the names of the countries that would be receiving the letters would only be revealed Monday. A government official told The Indian Express that agriculture has been a major sticking\n\ncollapse. \"Well played star boy. Rewriting history. Onwards and upwards from here. Youdeserve all of this.\" By stumps on Day 4, aided by Shubman's run spree, England, chasing 608 to win, were 72 for 3. It seems just a matter of a day that the Indian captain's epic knocks get recorded in history as match-winning innings. Virat's 'star boy' was getting praise from the locals too. Former England captain Nasser Hussain said: \"A hundred in the first Test, a double hundred and a hundred in the second. The",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      4712,
+      1248,
+      4863
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4915,
+      1248,
+      5179
+     ],
+     [
+      806,
+      5507,
+      1255,
+      6176
+     ]
+    ],
+    "layout_words": 125
+   },
+   "headline_raw": "\u2018 pe ~ \u2018@ US President\nVe jf. Donald\n= Trump. File\nee",
+   "deck_raw": "",
+   "body_raw": "Trump, however, stated that\nthe reciprocal tariffs would come\ninto effect August 1, indicating a\npotential extended window for\nnegotiations with countries, in-\ncluding possibly India, which\nhave not struck adeal with the US.\n\nBorder who had two 150s. No\nIndian batsman had scored 430\nruns in a single Test. Gill went\npast Sunil Gavaskar\u2019srun tally of\n344 against West Indies in that\nstoried Port of Spain Test in 1971.\nOn Saturday, cricketing his-\ntory and folktales were being re-\nwritten byShubman'\u2019s bat. So far\nin the series he had runs and the\ncaptaincy band, now he had an\naura too.\nIndia\u2019s retired batting megas-\ntar Virat Kohli put out an\nInstagram post while Shubman\nwas on field plotting and plan-\nning England's fourth innings",
+   "ocr_conf": 88.016,
+   "ocr_low_conf_share": 0.08,
+   "headline": "Ve jf. Donald = Trump. File ee",
+   "deck": "",
+   "byline": "",
+   "text": "Trump, however, stated that the reciprocal tariffs would come into effect August 1, indicating a potential extended window for negotiations with countries, including possibly India, which have not struck adeal with the US.\n\nBorder who had two 150s. No Indian batsman had scored 430 runs in a single Test. Gill went past Sunil Gavaskar'srun tally of 344 against West Indies in that storied Port of Spain Test in 1971. On Saturday, cricketing history and folktales were being rewritten byShubman''s bat. So far in the series he had runs and the captaincy band, now he had an aura too. India's retired batting megastar Virat Kohli put out an Instagram post while Shubman was on field plotting and plan-ning England's fourth innings",
+   "n_words": 120,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      2758,
+      4826,
+      3009,
+      4883
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2758,
+      4933,
+      3191,
+      5144
+     ],
+     [
+      2760,
+      5509,
+      3203,
+      6177
+     ]
+    ],
+    "layout_words": 105
+   },
+   "headline_raw": "RAJASTHAN",
+   "deck_raw": "",
+   "body_raw": "IMPOSTER AT RPA:\nWOMAN WHO POSED\nAS S-I, TRAINED WITH\nNEW RECRUITS HELD\nPAGES\n\nIndian captain is in the form of\nhis life. Gill has been chanceless\nand elegant in both innings.\u201d\nAfter the Indian captain was\nfinally out, adding 161 to his269\nin the first innings, two young\nEngland cricketers, wicket-\nkeeper Jamie Smith and front-\nline batsman Harry Brook, made\nit a point to acknowledge the\nbatting greatness amidst them.\nBoth in the 20s, they are\nShubman\u2019s contemporaries and\nhad scored blazing hundreds in\nthe Test themselves, Smith took\nhis gloves off, waited for Gill to\npass him and gave him a warm",
+   "ocr_conf": 93.5047619047619,
+   "ocr_low_conf_share": 0.01904761904761905,
+   "headline": "RAJASTHAN",
+   "deck": "",
+   "byline": "IMPOSTER AT RPA:; WOMAN WHO POSED; AS S-I, TRAINED WITH; NEW RECRUITS HELD; PAGES",
+   "text": "Indian captain is in the form of his life. Gill has been chanceless and elegant in both innings.\" After the Indian captain was finally out, adding 161 to his269 in the first innings, two young England cricketers, wicketkeeper Jamie Smith and front-line batsman Harry Brook, made it a point to acknowledge the batting greatness amidst them. Both in the 20s, they are Shubman's contemporaries and had scored blazing hundreds in the Test themselves, Smith took his gloves off, waited for Gill to pass him and gave him a warm",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [
+     [
+      316,
+      5339,
+      4161,
+      5616
+     ],
+     [
+      344,
+      5580,
+      758,
+      5749
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5784,
+      634,
+      5854
+     ],
+     [
+      319,
+      5903,
+      760,
+      6175
+     ]
+    ],
+    "layout_words": 42
+   },
+   "headline_raw": "e e e e r4 9\nAfter captaincy and runs, Shubman Gill gets aura, Kohli calls him \u2018star boy\n. Border who had two 150s.No collapse. \u201cWell played star boy. Indian captain is inthe form of handshake. So did Brook, who \u2014_ and new fans abroad.\n7 EXPRESS IN Indian batsman had scored 430 \u2014_ Rewriting history. Onwards and his life. Gill has beenchanceless ran across from the field and Till the last Test, which Indiz\nioe \u00a39 MONEE runs ina single Test. Gill went upwards fromhere. Youdeserve and elegant in both innings.\u201d touched the peakofhisEngland __ lost, the broadcaster would keer\nrep, gq CAPREOOIN\nes , ENGLAND",
+   "deck_raw": "",
+   "body_raw": "SANDEEP DWIVEDI\nBIRMINGHAM, JULY 5\n\nNO BATSMAN has scored adou-\nble hundred and a 150-plus\nscore in the same Test match in\nthe game's 150-year-long his-\ntory. Shubman Gill did that at\nEdgbaston. He did one better\nthan the Aussie great Alan",
+   "ocr_conf": 88.26190476190476,
+   "ocr_low_conf_share": 0.09523809523809523,
+   "headline": "After captaincy and runs, Shubman Gill gets aura, Kohli calls him 'star boy. Border who had two 150s.No collapse. \"Well played star boy. Indian captain is inthe form of handshake. So did Brook, who - _ and new fans abroad. 7 EXPRESS IN Indian batsman had scored 430 - _ Rewriting history. Onwards and his life. Gill has beenchanceless ran across from the field and Till the last Test, which Indiz ioe \u00a39 MONEE runs ina single Test. Gill went upwards fromhere. Youdeserve and elegant in both innings.\" touched the peakofhisEngland __ lost, the broadcaster would keer rep, gq CAPREOOIN es, ENGLAND",
+   "deck": "",
+   "byline": "SANDEEP DWIVEDI; BIRMINGHAM, JULY 5",
+   "text": "NO BATSMAN has scored adouble hundred and a 150-plus score in the same Test match in the game's 150-year-long history. Shubman Gill did that at Edgbaston. He did one better than the Aussie great Alan",
+   "n_words": 35,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 19.6,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

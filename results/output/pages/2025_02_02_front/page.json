@@ -1,0 +1,423 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_02_front",
+ "source_file": "2025-02-02_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-02_front.png",
+ "date": "2025-02-02",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 1345,
+  "n_lines": 154,
+  "mean_line_conf": 85.05268741615717,
+  "orphan_words": 0,
+  "body_words_total": 575
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      1445,
+      2702,
+      1671
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1300,
+      1382,
+      2409,
+      1415
+     ],
+     [
+      1833,
+      1737,
+      2460,
+      1781
+     ],
+     [
+      1839,
+      1898,
+      1956,
+      1947
+     ]
+    ],
+    "body_boxes": [
+     [
+      1837,
+      2186,
+      2055,
+      2266
+     ],
+     [
+      1835,
+      2317,
+      2555,
+      2347
+     ],
+     [
+      2545,
+      2108,
+      2592,
+      2142
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "Income up to Rs 12 lakh tax-free;\nconsumption, capex key drivers",
+   "deck_raw": "REVENUE FOREGONE IN TAX RELIEF: Rs 1 LAKH CRORE\nHOW TAX LIABILITY COMES DOWN\n12 lakh**",
+   "body_raw": "40 lakh |\n50 lakh |\n\n**Govt has proposed nil taxon taxable income up to Rs 12 lakh\n\nA",
+   "ocr_conf": 72.0,
+   "ocr_low_conf_share": 0.2631578947368421,
+   "headline": "Income up to Rs 12 lakh tax-free; consumption, capex key drivers",
+   "deck": "REVENUE FOREGONE IN TAX RELIEF: Rs 1 LAKH CRORE HOW TAX LIABILITY COMES DOWN",
+   "byline": "",
+   "text": "40 lakh 50 lakh\n\n**Govt has proposed nil taxon taxable income up to Rs 12 lakh\n\nA",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1436,
+      4119,
+      1705
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3255,
+      1384,
+      3842,
+      1417
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      1791,
+      3600,
+      1899
+     ],
+     [
+      3252,
+      1949,
+      3694,
+      2334
+     ]
+    ],
+    "layout_words": 63
+   },
+   "headline_raw": "Rs 80,000 a year and up:\nBanking on increase in\ntake-home to spur spend",
+   "deck_raw": "INCOME TAX SLABS RECAST",
+   "body_raw": "SUKALP SHARMA&\nSANDEEP SINGH\nNEW DELHI.FEBRUARY 1\n\nTHE INCOME Tax bonanza, in-\ncluding increase in exemption\nslab from Rs 7 lakh to Rs 12 lakh\n(annual income) and tweaks in\nrates and slabs, will benefit tax-\npayers across income brackets.\nWith the increase in exemp-\ntion slab to Rs 12lakh,those who\nearn up to Rs 1 lakh per month\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.58730158730158,
+   "ocr_low_conf_share": 0.06349206349206349,
+   "headline": "Rs 80,000 a year and up: Banking on increase in take-home to spur spend",
+   "deck": "INCOME TAX SLABS RECAST",
+   "byline": "SUKALP SHARMA&; SANDEEP SINGH; NEW DELHI.FEBRUARY 1",
+   "text": "THE INCOME Tax bonanza, including increase in exemption slab from Rs 7 lakh to Rs 12 lakh (annual income) and tweaks in rates and slabs, will benefit taxpayers across income brackets. With the increase in exemption slab to Rs 12lakh,those who earn up to Rs 1 lakh per month",
+   "n_words": 49,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2829,
+      1501,
+      3141,
+      1565
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2823,
+      1674,
+      3146,
+      2175
+     ],
+     [
+      2809,
+      2211,
+      3160,
+      3022
+     ],
+     [
+      2888,
+      3046,
+      3078,
+      3086
+     ],
+     [
+      2702,
+      5906,
+      3052,
+      6020
+     ]
+    ],
+    "layout_words": 91
+   },
+   "headline_raw": "UNION BUDGET",
+   "deck_raw": "",
+   "body_raw": "MACRO\nDebt/GDP new metric\nfor fiscal prudence,\nsubsidy bill set to fall\nINFRASTRUCTURE\nNew nuclear mission,\nopening sector to pvt\nPERSONAL FINANCE\n100% FDlin insurance\nallowed; capital gains\ntax on Fils at 12.5%\n\nSOCIAL SECTOR\nCancer care at district\nhospitals; health cover\nfor gig workers\nMANUFACTURING\nNational Manufacturing\nMission; Customs duty\ncut on several products\nMSMEs\nInvest ment, tumover\nlimits enhanced: hike in\ncredit guarantee cover\nEXPLAINED\nImpact on the economy\nTHE EDITORIAL PAGE\nThe delicate balance\nBy SAJID ZCHINOY\n\nPAGES 8-20\n\nScan the QR code\nto learn more\nabout SIP",
+   "ocr_conf": 87.47252747252747,
+   "ocr_low_conf_share": 0.08791208791208792,
+   "headline": "UNION BUDGET",
+   "deck": "",
+   "byline": "MACRO; SOCIAL SECTOR",
+   "text": "Debt/GDP new metric for fiscal prudence, subsidy bill set to fall INFRASTRUCTURE New nuclear mission, opening sector to pvt PERSONAL FINANCE 100% FDlin insurance allowed; capital gains tax on Fils at 12.5%\n\nCancer care at district hospitals; health cover for gig workers MANUFACTURING National Manufacturing Mission; Customs duty cut on several products MSMEs Invest ment, tumover limits enhanced: hike in credit guarantee cover EXPLAINED Impact on the economy THE EDITORIAL PAGE The delicate balance By SAJID ZCHINOY\n\nPAGES 8-20\n\nScan the QR code to learn more about SIP",
+   "n_words": 88,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3741,
+      1636,
+      4163,
+      1723
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3785,
+      1788,
+      4142,
+      1822
+     ],
+     [
+      3878,
+      1866,
+      4044,
+      1895
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "spur spends",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL\n\nBy UNNY",
+   "ocr_conf": 93.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "spur spends",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      1984,
+      1738,
+      2119
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1299,
+      1898,
+      1739,
+      1987
+     ]
+    ],
+    "body_boxes": [
+     [
+      1295,
+      2034,
+      1737,
+      2064
+     ],
+     [
+      1298,
+      2108,
+      1737,
+      2142
+     ],
+     [
+      1297,
+      2186,
+      1739,
+      2371
+     ]
+    ],
+    "layout_words": 33
+   },
+   "headline_raw": "Budget after the BJP retumed &\npower was about coalition poli-\ntics, the Budget for 2025-26\ncaooame Pn hat hia nn animnnrocs.",
+   "deck_raw": "IF UNION Finance Minister\nNirmala Sitharaman's seventh",
+   "body_raw": "power was about coalition poli-\n\nseems to bet big on an unprece-\n\nging consumption alongside a\ncontinuing thrust on capital ex-\npenditure to maintain a 6-per\ncent plus growth momentum.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.79411764705883,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Budget after the BJP retumed & power was about coalition politics, the Budget for 2025-26 caooame Pn hat hia nn animnnrocs.",
+   "deck": "IF UNION Finance Minister Nirmala Sitharaman's seventh",
+   "byline": "",
+   "text": "power was about coalition poliseems to bet big on an unpreceging consumption alongside a continuing thrust on capital expenditure to maintain a 6-per cent plus growth momentum.",
+   "n_words": 27,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      2507,
+      2625,
+      2734
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1299,
+      2448,
+      2330,
+      2481
+     ]
+    ],
+    "body_boxes": [
+     [
+      1293,
+      2780,
+      2716,
+      3130
+     ],
+     [
+      1786,
+      3016,
+      2715,
+      3130
+     ]
+    ],
+    "layout_words": 111
+   },
+   "headline_raw": "Bid to bring trust back into the\ntaxpayer-exchequer equation",
+   "deck_raw": "MIDDLE-CLASS CONFIDENCE-BUILDING MEASURE",
+   "body_raw": "* \u2014 = mentandthe honest cit- 1a tax rebate limit and re-\nAANCHAL MAGAZINE izen taxpayers \u2014 a |x jig the tax slabs, has\nNEW DELHI. FEBRUARY 1 whopping 1.75 croreof |< been to repose trust in\n= TO ____ - them. = the complying taxpayer.\nAT THE HEART of Finance Inacountry, which |\u201c e In the Budget,\nMinister Nirmala Sitharaman's \u2014_ hasjust over 10 crore tax- Sitharaman increased\ndecision toextendanincometax payers theintenttosimplifythe the income tax rebate limit to\nlargesse seems to be anideato \u2014_ tax regime with lower TDS/TCS Rs 12 lakh from Rs 7 lakh, and\nbuild trustbetweenthe govem- \u2014 compliances, raise the income CONTINUEDONPAGE2\n\npayers theintent tosimplifythe \u2014 the income tax rebate limit to\ntax regime with lower TDS/TCS Rs 12 lakh from Rs 7 lakh, and\ncompliances, raise the income CONTINUEDONPAGE2",
+   "ocr_conf": 79.14814814814815,
+   "ocr_low_conf_share": 0.21481481481481482,
+   "headline": "Bid to bring trust back into the taxpayer-exchequer equation",
+   "deck": "MIDDLE-CLASS CONFIDENCE-BUILDING MEASURE",
+   "byline": "",
+   "text": "* - = mentandthe honest cit- 1a tax rebate limit and re-AANCHAL MAGAZINE izen taxpayers - a x jig the tax slabs, has NEW DELHI. FEBRUARY 1 whopping 1.75 croreof < been to repose trust in = TO ____ - them. = the complying taxpayer. AT THE HEART of Finance Inacountry, which \" e In the Budget, Minister Nirmala Sitharaman's - _ hasjust over 10 crore tax- Sitharaman increased decision toextendanincometax payers theintenttosimplifythe the income tax rebate limit to largesse seems to be anideato - _ tax regime with lower TDS/TCS Rs 12 lakh from Rs 7 lakh, and build trustbetweenthe govem- - compliances, raise the income CONTINUEDONPAGE2\n\npayers theintent tosimplifythe - the income tax rebate limit to tax regime with lower TDS/TCS Rs 12 lakh from Rs 7 lakh, and compliances, raise the income CONTINUEDONPAGE2",
+   "n_words": 136,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2474,
+      4151,
+      2662
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      2410,
+      3903,
+      2449
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      2860,
+      3696,
+      2930
+     ],
+     [
+      3251,
+      2979,
+      3693,
+      3131
+     ],
+     [
+      3740,
+      2703,
+      4182,
+      3124
+     ]
+    ],
+    "layout_words": 79
+   },
+   "headline_raw": "Opp: No new ideas, it does\nnot address root problems",
+   "deck_raw": "\u2018BETRAYAL OF POOR, JOBLESS\u2019",
+   "body_raw": "CALLING the taxreliefa mere bid\nto woo the middie class, the\n\nthat the third-term Modi gov-\nernment's first full Budget lacked\n\u201cnew ideas,\u201d the \u201cwill to reach\nbeyond itsgrasp.\u201d\n\nSenior Congress leader P\nChidambaram said that in the\nwakeof the Budget, the slowing\neconomy would just \u201ctrudge\nalong on the old path\u201d and de-\nlver theusual6%or 6.5% growth\nin 2025-26. \u2018Thisisa farcry from\nthe 8% growth rate that the CEA\n(Chief Economic Advisor V\nAnantha Nageswaran) estimated\nCONTINUEDON PAGE2",
+   "ocr_conf": 88.41772151898734,
+   "ocr_low_conf_share": 0.08860759493670886,
+   "headline": "Opp: No new ideas, it does not address root problems",
+   "deck": "'BETRAYAL OF POOR, JOBLESS'",
+   "byline": "",
+   "text": "CALLING the taxreliefa mere bid to woo the middie class, the\n\nthat the third-term Modi government's first full Budget lacked \"new ideas,\" the \"will to reach beyond itsgrasp.\"\n\nSenior Congress leader P Chidambaram said that in the wakeof the Budget, the slowing economy would just \"trudge along on the old path\" and delver theusual6%or 6.5% growth in 2025-26. 'Thisisa farcry from the 8% growth rate that the CEA (Chief Economic Advisor V Anantha Nageswaran) estimated CONTINUEDON PAGE2",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      425,
+      5502,
+      2488,
+      5666
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      424,
+      5697,
+      2543,
+      6027
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "Contact your MFD/RIA to know more.\nAn Investor Education and Awareness Initiative",
+   "deck_raw": "",
+   "body_raw": "Visit https://www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know\nYour Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of\nwhich can be verified on the SEB! website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance\nredressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge\ncomplaints directly with the AMCs, if they are unsatisfied with the resolutions given by AMCs they may raise complaint through\nthe SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and\nsubsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the\nAMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https: //smartodr.in/login.",
+   "ocr_conf": 93.37588652482269,
+   "ocr_low_conf_share": 0.02127659574468085,
+   "headline": "Contact your MFD/RIA to know more. An Investor Education and Awareness Initiative",
+   "deck": "",
+   "byline": "",
+   "text": "Visit https://www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEB! website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs, if they are unsatisfied with the resolutions given by AMCs they may raise complaint through the SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https: //smartodr.in/login.",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 10.3,
+ "flags": []
+}

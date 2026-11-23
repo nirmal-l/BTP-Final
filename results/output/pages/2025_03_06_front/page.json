@@ -1,0 +1,755 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_06_front",
+ "source_file": "2025-03-06_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-06_front.png",
+ "date": "2025-03-06",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 515,
+  "mean_line_conf": 86.75206162230434,
+  "orphan_words": 0,
+  "body_words_total": 1921
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      366,
+      701,
+      723,
+      784
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ],
+     [
+      548,
+      1089,
+      696,
+      1165
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "BUSINESS AS USUAL",
+   "deck_raw": "",
+   "body_raw": "By UNNY\n\nsCock marhet,\naf\n- poritics here",
+   "ocr_conf": 48.125,
+   "ocr_low_conf_share": 0.5,
+   "headline": "BUSINESS AS USUAL",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY\n\nsCock marhet, af - poritics here",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      785,
+      3193,
+      1143
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      3114,
+      747
+     ],
+     [
+      811,
+      1170,
+      1713,
+      1292
+     ],
+     [
+      321,
+      1447,
+      566,
+      1503
+     ]
+    ],
+    "body_boxes": [
+     [
+      323,
+      2079,
+      754,
+      2243
+     ],
+     [
+      808,
+      1383,
+      1175,
+      1529
+     ],
+     [
+      809,
+      1581,
+      1253,
+      1892
+     ],
+     [
+      1296,
+      1342,
+      1740,
+      1885
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "TN parties oppose delimitation: Freeze\n1971 Census as basis for 30 more yrs",
+   "deck_raw": "6-POINT RESOLUTION PASSED AT ALL-PARTY MEETING CALLED BY STALIN\nCall for Joint Action Committee with\nmembers from other southern states\nTHE WORLD",
+   "body_raw": "NO RESPONSE FROM\nINDIA ON HASINA\u2019S\nEXTRADITION: YUNUS\nPAGE 12\n\nARUN JANARDHANAN\n& NIKHILA HENRY\nCHENNAI HYDERABAD.\nMARCHS\n\nINA rare display of unity, most\npolitical parties across Tamil\nNadu came together for an ail-\nparty meeting called by Chief\nMinister M K Stalin at the State\nSecretariat on Wednesday to op-\npose the delimitation of\nParliamentary constituencies,\n\nwhich is duein 2026.\nIna six-point resolution, the\nparties asked the Centre toextend\nthe 1971 Census-based delimita-\ntion framework for another 30\nyears beyond 2026, to ensure fair\nrepresentation for states thathave\neffectively controlled their popu-\nlation, Itis unjust to reduceTamil\nNadu's parliamentary represen-\ntation only because it has effec-\ntively implemented population\ncontrol measures in the national\nCONTINUEDON PAGE 2",
+   "ocr_conf": 87.61016949152543,
+   "ocr_low_conf_share": 0.059322033898305086,
+   "headline": "TN parties oppose delimitation: Freeze 1971 Census as basis for 30 more yrs",
+   "deck": "6-POINT RESOLUTION PASSED AT ALL-PARTY MEETING CALLED BY STALIN Call for Joint Action Committee with members from other southern states THE WORLD",
+   "byline": "NO RESPONSE FROM; INDIA ON HASINA'S; EXTRADITION: YUNUS; ARUN JANARDHANAN; & NIKHILA HENRY; CHENNAI HYDERABAD.; MARCHS",
+   "text": "INA rare display of unity, most political parties across Tamil Nadu came together for an ailparty meeting called by Chief Minister M K Stalin at the State Secretariat on Wednesday to oppose the delimitation of Parliamentary constituencies,\n\nwhich is duein 2026. Ina six-point resolution, the parties asked the Centre toextend the 1971 Census-based delimitation framework for another 30 years beyond 2026, to ensure fair representation for states thathave effectively controlled their population, Itis unjust to reduceTamil Nadu's parliamentary representation only because it has effectively implemented population control measures in the national CONTINUEDON PAGE 2",
+   "n_words": 94,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      1167,
+      3149,
+      1252
+     ],
+     [
+      2275,
+      1268,
+      3060,
+      1399
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      1462,
+      2548,
+      1520
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      1386,
+      3208,
+      1893
+     ],
+     [
+      2274,
+      1424,
+      2641,
+      1452
+     ],
+     [
+      2274,
+      1543,
+      2714,
+      1807
+     ]
+    ],
+    "layout_words": 101
+   },
+   "headline_raw": "Polls ahead, Stalin takes\nlead as anti-BJP voice",
+   "deck_raw": "CHENNAI, MARCH 5",
+   "body_raw": "\u201con the Centre over its all-India\nARUN JANARDHANAN projects such as NEET for admis-\nCHENNAI, MARCH 5 sion (\u00a9 medical colleges and the\nNational Education Policy (NEP),\nIN his determined campaignto managed to get parties across\nemerge asthe voiceofthe the divisive political spec-\nSouth, andas the faceof [iz trum in Tamil Nadu tojoin\nthe Opposition to the [Ez him in opposing any de-\nee So largely North-centric BJP, I \u00a9@| limitation based on new\nDMK chief and TamilNadu populationdata\nCM MKStalin arrivesforthe = Chief Minister M K Stalin will A delimitation leading to a\nall-party meetin Chennai.pm! count Wednesdayasasuccess. change in the number of\n\u2014 . Stalin, who has been taking CONTINUEDON PAGE2\n\nARUN JANARDHANAN\n\nIN his determined campaign to\nemerge asthe voiceofthe\nSouth, andas the faceof [iz\nthe Opposition to the [=\nlargely North-centric BJP, ia\nDMK chief and TamilNadu\nChief Minister M K Stalin will",
+   "ocr_conf": 80.29931972789116,
+   "ocr_low_conf_share": 0.14965986394557823,
+   "headline": "Polls ahead, Stalin takes lead as anti-BJP voice",
+   "deck": "CHENNAI, MARCH 5",
+   "byline": "ARUN JANARDHANAN",
+   "text": "\"on the Centre over its all-India ARUN JANARDHANAN projects such as NEET for admis-CHENNAI, MARCH 5 sion (\u00a9 medical colleges and the National Education Policy (NEP), IN his determined campaignto managed to get parties across emerge asthe voiceofthe the divisive political spec-South, andas the faceof [iz trum in Tamil Nadu tojoin the Opposition to the [Ez him in opposing any deee So largely North-centric BJP, I \u00a9@ limitation based on new DMK chief and TamilNadu populationdata CM MKStalin arrivesforthe = Chief Minister M K Stalin will A delimitation leading to a all-party meetin Chennai.pm! count Wednesdayasasuccess. change in the number of -. Stalin, who has been taking CONTINUEDON PAGE2\n\nIN his determined campaign to emerge asthe voiceofthe South, andas the faceof [iz the Opposition to the [= largely North-centric BJP, ia DMK chief and TamilNadu Chief Minister M K Stalin will",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      1505,
+      4170,
+      2021
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      2044,
+      4143,
+      2174
+     ],
+     [
+      3752,
+      2293,
+      4151,
+      2405
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      2255,
+      3596,
+      2324
+     ],
+     [
+      3248,
+      2373,
+      3691,
+      2608
+     ],
+     [
+      3248,
+      2613,
+      3691,
+      3549
+     ],
+     [
+      3774,
+      2456,
+      4135,
+      3155
+     ],
+     [
+      3738,
+      3258,
+      3982,
+      3289
+     ],
+     [
+      3739,
+      3350,
+      4166,
+      3515
+     ]
+    ],
+    "layout_words": 230
+   },
+   "headline_raw": "Trump: High tariffs\nby India and others\nunfair, reciprocal\ntariffs from April 2",
+   "deck_raw": "India auto tariffs over 100%... will tax\nthem what they tax us: US President\n= E Great\nis @ uncertainty",
+   "body_raw": "RAVIDUTTAMISHRA\nNEW DELHI, MARCHS\n\nCRITICISINGTHE high tariffs im-\nposed by India and other coun-\ntries as \u201cnot fair\u2019, US President\nDonald Trump on Tuesday an-\nnounced reciprocal tanffs from\nApril 2.\n\nTrump's remarks, in an ad-\ndress to the Joint Session of the\nUS Congress, signalled that ne-\ngotiations for a trade deal may\nnot yield concessions for New\nDelhi on sweeping duties. He\nsingled out the auto sector,\nwhere, he said, India charges tar-\niffsofover 100 percent.\n\u201cOther countries have used\ntanffs against us fordecadesand\nnow it's our turn to start using\nthem against those other coun-\ntries. On average, the European\nUnion, China, Brazil, India,\nMexico and Canada \u2014 have you\nheard of them? And countless\nother nations charge us tremen-\ndously higher tariffs than we\ncharge them,\u201d Trump said. \u201cIt's\nvery unfair Indiachargesus auto\ntariffs higher than 100 percent.\u201d\n\u201cindia charges us 100 percent\nCONTINUED ONPAGE 2\n\nDONALD TRUMP has an-\nnounced reciprocal tariffs\non allcountries from April\n2, eventhough Indiaand\ntheUS have planneda\nBilateral Trade Agreement\n(BTA) The tariffs against\nCanada and Mexico that\ncame into effect on\nTuesday violate a North\nAmerican deal thatTrump\nhimself negotiated in his\nfirstterm. The US2025\nTrade Policy says the WTO\nhas \u201clost its way\u201d and re-\nquiresreform BTA or not,\nIndia cannot rest easyon\ntrade with the US.\n\nTHE WORLD\n\nU.S. SUPREME COURT\nPUSHES BACK ON\nUSAID FUNDING\nPAGE12",
+   "ocr_conf": 89.5695652173913,
+   "ocr_low_conf_share": 0.05217391304347826,
+   "headline": "Trump: High tariffs by India and others unfair, reciprocal tariffs from April 2",
+   "deck": "India auto tariffs over 100%... will tax them what they tax us: US President = E Great is @ uncertainty",
+   "byline": "RAVIDUTTAMISHRA; NEW DELHI, MARCHS",
+   "text": "CRITICISINGTHE high tariffs imposed by India and other countries as \"not fair', US President Donald Trump on Tuesday announced reciprocal tanffs from April 2.\n\nTrump's remarks, in an address to the Joint Session of the US Congress, signalled that negotiations for a trade deal may not yield concessions for New Delhi on sweeping duties. He singled out the auto sector, where, he said, India charges tariffsofover 100 percent. \"Other countries have used tanffs against us fordecadesand now it's our turn to start using them against those other countries. On average, the European Union, China, Brazil, India, Mexico and Canada - have you heard of them? And countless other nations charge us tremendously higher tariffs than we charge them,\" Trump said. \"It's very unfair Indiachargesus auto tariffs higher than 100 percent.\" \"india charges us 100 percent\n\nDONALD TRUMP has announced reciprocal tariffs on allcountries from April 2, eventhough Indiaand theUS have planneda Bilateral Trade Agreement (BTA) The tariffs against Canada and Mexico that came into effect on Tuesday violate a North American deal thatTrump himself negotiated in his firstterm. The US2025 Trade Policy says the WTO has \"lost its way\" and requiresreform BTA or not, India cannot rest easyon trade with the US.\n\nTHE WORLD\n\nU.S. SUPREME COURT PUSHES BACK ON USAID FUNDING",
+   "n_words": 212,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      805,
+      2038,
+      1724,
+      2540
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      2570,
+      1113,
+      2639
+     ],
+     [
+      804,
+      2689,
+      1250,
+      3239
+     ],
+     [
+      804,
+      3243,
+      1249,
+      3554
+     ],
+     [
+      1294,
+      2532,
+      1742,
+      3547
+     ]
+    ],
+    "layout_words": 211
+   },
+   "headline_raw": "Focus on trade, tech,\nUkraine conflict at\nJaishankar meeting\nwith UK PM Starmer",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI. MARCHS\n\nDAYSAFTERhehosted anemer-\ngency meeting of European\nleaders in support of Ukraine\nand its President Volodymyr\nZelenskyy \u2014 after the latter's\npublic showdown with US\nPresident Donald Trump and\nVice-President J D Vance at the\nWhite House \u2014 British Prime\nMinister Keir Starmer \u201cshared\nUK's perspective\u201d on theconflict\nwith External Affairs Minister $\nJaishankar in London on Tuesday\nnight.\n\nBesides bilateral ties, includ-\ning on trade and technology,\nJaishankar, who is on a six-day\nvisit to the UK and Ireland, also\ndiscussed the Ukraine conflict in\na meeting with his counterpart,\nBritish Foreign Secretary David\nLammy.\n\n\u201cDelighted to call on Prime\nMinister @Keir_Starmer at\n@10DowningStreet \u2014_ today.\nConveyed the warm greetings of\nPM @narendramodi. Discussed\ntaking forward ourbilateral, eco-\nnomic cooperation and enhanc-\ning people-to-people exchanges,\nPM Starmer also shared UK's per-\nspective on the Ukraine conflict,\u201d\nJaishankar said in a post on X.\n\u201cHeld wide-ranging and pro-\nductive talks with Foreign\nSecretary @DavidLammy over\npast two days at the Chevening\nHouse. We discussed the entire\ngamut of bilateral ties, especially\nour focus on strategic coordina-\ntion, political cooperation, trade\ndeal negotiation, education,\ntechnology, mobility and peo-\nple-to-people = exchanges.\nAgreed to formulate the next\nsteps to further strengthen and\nstructure them,\u201d Jaishankar said.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.66509433962264,
+   "ocr_low_conf_share": 0.11320754716981132,
+   "headline": "Focus on trade, tech, Ukraine conflict at Jaishankar meeting with UK PM Starmer",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI. MARCHS",
+   "text": "DAYSAFTERhehosted anemergency meeting of European leaders in support of Ukraine and its President Volodymyr Zelenskyy - after the latter's public showdown with US President Donald Trump and Vice-President J D Vance at the White House - British Prime Minister Keir Starmer \"shared UK's perspective\" on theconflict with External Affairs Minister $ Jaishankar in London on Tuesday night.\n\nBesides bilateral ties, including on trade and technology, Jaishankar, who is on a six-day visit to the UK and Ireland, also discussed the Ukraine conflict in a meeting with his counterpart, British Foreign Secretary David Lammy.\n\n\"Delighted to call on Prime Minister @Keir_Starmer at @10DowningStreet - _ today. Conveyed the warm greetings of PM @narendramodi. Discussed taking forward ourbilateral, economic cooperation and enhancing people-to-people exchanges, PM Starmer also shared UK's perspective on the Ukraine conflict,\" Jaishankar said in a post on X. \"Held wide-ranging and productive talks with Foreign Secretary @DavidLammy over past two days at the Chevening House. We discussed the entire gamut of bilateral ties, especially our focus on strategic coordination, political cooperation, trade deal negotiation, education, technology, mobility and people-to-people = exchanges. Agreed to formulate the next steps to further strengthen and structure them,\" Jaishankar said.",
+   "n_words": 196,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2368,
+      758,
+      2770
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      560,
+      2806,
+      753,
+      3042
+     ],
+     [
+      316,
+      3278,
+      761,
+      4536
+     ],
+     [
+      321,
+      4639,
+      460,
+      4670
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "Gravity figured\nin Vedic texts,\nNewton found\nit much later,\nsays Governor",
+   "deck_raw": "",
+   "body_raw": "Governor\nBagde was\nspeaking at\nthe IGNOU\nconvocation\nin Jaipur\n\nRAJASTHAN GOVERNOR\nHaribhau Kisanrao Bagde on\nWednesday said that the theory\nof gravity was mentioned in the\nVedic texts long before Isaac\nNewton discovered it in 1687.\nAddressing the convocation\nceremony of the Indira Gandhi\nNational Open University's\nRegional Centre in Jaipur, the\nGovemor said, \u201cIndia has been\nthe best in the world inthe tradi-\nton of knowledge. India gave the\ndecimal system to the whole\nworld. Newton told the world\nabout the theory of gravity much\nlater. In India, this was men-\ntioned in Vedic texts long ago.\u201d\nBagde said that several in-\nventions, be it dectricity or air-\nplanes, find a mention in our his-\ntorical texts, including the\nRigveda. He said that Maharshi\nBhardwaj wrote a book men-\ntioning airplanes, and that 50\nyears ago, NASA wrote a letter\nseeking this book.\nThe Govemor said that after\ncoming to India, the British tried\nto suppress Indian knowledge.\n\u201cTherefore, it is important to\nCONTINUEDONPAGE2\n\nSPORT",
+   "ocr_conf": 91.65269461077844,
+   "ocr_low_conf_share": 0.029940119760479042,
+   "headline": "Gravity figured in Vedic texts, Newton found it much later, says Governor",
+   "deck": "",
+   "byline": "RAJASTHAN GOVERNOR",
+   "text": "Governor Bagde was speaking at the IGNOU convocation in Jaipur\n\nHaribhau Kisanrao Bagde on Wednesday said that the theory of gravity was mentioned in the Vedic texts long before Isaac Newton discovered it in 1687. Addressing the convocation ceremony of the Indira Gandhi National Open University's Regional Centre in Jaipur, the Govemor said, \"India has been the best in the world inthe traditon of knowledge. India gave the decimal system to the whole world. Newton told the world about the theory of gravity much later. In India, this was mentioned in Vedic texts long ago.\" Bagde said that several inventions, be it dectricity or airplanes, find a mention in our historical texts, including the Rigveda. He said that Maharshi Bhardwaj wrote a book mentioning airplanes, and that 50 years ago, NASA wrote a letter seeking this book. The Govemor said that after coming to India, the British tried to suppress Indian knowledge. \"Therefore, it is important to CONTINUEDONPAGE2\n\nSPORT",
+   "n_words": 159,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3623,
+      4092,
+      4054
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3247,
+      4156,
+      3496,
+      4225
+     ],
+     [
+      3244,
+      4275,
+      3691,
+      5140
+     ],
+     [
+      3734,
+      4751,
+      4178,
+      5132
+     ]
+    ],
+    "layout_words": 151
+   },
+   "headline_raw": "\u2018Re-inauguration\u2019 of\nConstitution Club:\nCong says BJP only\nwants to take credit",
+   "deck_raw": "",
+   "body_raw": "HAMZAKHAN\nJAIPUR, MARCH5\n\nAROW haserupted over the pro-\nposed \u201cinauguration\u201d of the\nConstitution Club of Rajasthan in\nJaipur by Lok Sabha SpeakerOm\nBirdaonMarch8\nTheclub was inaugurated on\nSeptember 22, 2023, by then\nChief Minister Ashok Gehlot.\nHowever, Speaker Vasudev\nDevnaniinformed the Assembly\non Tuesday that Lok Sabha\nSpeaker Om Birla will \u201cinaugu-\nrate\" it at 11 am on March 8 and\ninvited the MLAs for the event.\nOn Wednesday, Congress\nstate president Govind Singh\nDotasrasaid on X, \u2018Theentire pot\nitics of BJP hasbecome limited to\n\u2018credit and conspiracy\u2019. By \u2018inau-\ngurating the Constitution Club \u2014\nwhich was builtduring the tenure\nof the previous Congress govern-\n\nment \u2014again, and callingitanin-\nauguration, the BJP govemment\nonly wants to take credit, which\nis a wrong practice.\u201d\n\u201cThe people of Rajasthan\nknow that the Constitution Gub\nof the Legislative Assembly was\nbuilt during the Congress gov-\nemment.. But after the change\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.54966887417218,
+   "ocr_low_conf_share": 0.06622516556291391,
+   "headline": "'Re-inauguration' of Constitution Club: Cong says BJP only wants to take credit",
+   "deck": "",
+   "byline": "HAMZAKHAN; JAIPUR, MARCH5",
+   "text": "AROW haserupted over the proposed \"inauguration\" of the Constitution Club of Rajasthan in Jaipur by Lok Sabha SpeakerOm BirdaonMarch8 Theclub was inaugurated on September 22, 2023, by then Chief Minister Ashok Gehlot. However, Speaker Vasudev Devnaniinformed the Assembly on Tuesday that Lok Sabha Speaker Om Birla will \"inaugurate\" it at 11 am on March 8 and invited the MLAs for the event. On Wednesday, Congress state president Govind Singh Dotasrasaid on X, 'Theentire pot itics of BJP hasbecome limited to 'credit and conspiracy'. By 'inaugurating the Constitution Club - which was builtduring the tenure of the previous Congress government - again, and callingitaninauguration, the BJP govemment only wants to take credit, which is a wrong practice.\" \"The people of Rajasthan know that the Constitution Gub of the Legislative Assembly was built during the Congress govemment.. But after the change",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3700,
+      2218,
+      3920
+     ],
+     [
+      808,
+      3944,
+      1185,
+      4132
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      4233,
+      1128,
+      4302
+     ],
+     [
+      802,
+      4351,
+      1248,
+      5136
+     ],
+     [
+      1295,
+      4669,
+      1739,
+      5138
+     ],
+     [
+      1782,
+      4670,
+      2224,
+      5099
+     ]
+    ],
+    "layout_words": 199
+   },
+   "headline_raw": "5 yrs before tunnel collapse, report\nred-flagged \u2018fault zone\u2019, weak rocks\nCollapse took\nplace near fault\nzone: Rescuers",
+   "deck_raw": "",
+   "body_raw": "NIKHILAHENRY\nHYDERABAD, MARCHS\n\nFIVE YEARS before a part of the\nSLBC Tunnel in Telangana col-\nlapsed, trapping eight menon\nFebruary 22 this year, a report\ncommissioned by Jaiprakash\nAssociates Ltd wamed of a pos-\nsible \u201cfault zone\u201d in thetunnel\u2014\nstretches where the possibility\nof collapse is high.\nJaiprakash Associates Ltd is\nthe Noida-based company that\nwas awarded the tunnelling con-\ntract in 2005.\nThe report, Tunnel Seismic\nPrediction (TSP) - 303 Plus, was\nprepared in January 2020 by\nAmbergTechAG, acompany that\nsurveys tunnelling. According\nthe report, the fault zone existed\nbetween 13.88 km (13,882 m)\n\nand 13.91 km (13,914 m) from\nthe mouth of thetunnel The re-\nportalso found adecrease in rock\nstrength in this stretch and high-\nlighted that the stretch wasawa-\nter-bearing zone.\nWhen contacted, Jaiprakash\nAssociates Ltd confirmed the re-\nport but refused to elaborate,\nsaying, \u201cWe have no comments\nonthis\u201d Amberg also declined to\ncomment, stating that the report\n\nanditsdata are confidential.\nThe company calculated the\nrisk by transmitting seismic\nwaves into the rock mass and\nrecording and evaluating the\nportions with anomalies. The re-\nmarks in the report read,\n\u201cDecrease in rock stiffness\u201d,\n\u201cpossible jointed sheared rock\nmass\u201d, and \u201cpossible water bear-\ning zone\u201d.",
+   "ocr_conf": 89.08040201005025,
+   "ocr_low_conf_share": 0.07035175879396985,
+   "headline": "5 yrs before tunnel collapse, report red-flagged 'fault zone', weak rocks Collapse took place near fault zone: Rescuers",
+   "deck": "",
+   "byline": "NIKHILAHENRY; HYDERABAD, MARCHS",
+   "text": "FIVE YEARS before a part of the SLBC Tunnel in Telangana collapsed, trapping eight menon February 22 this year, a report commissioned by Jaiprakash Associates Ltd wamed of a possible \"fault zone\" in thetunnel - stretches where the possibility of collapse is high. Jaiprakash Associates Ltd is the Noida-based company that was awarded the tunnelling contract in 2005. The report, Tunnel Seismic Prediction (TSP) - 303 Plus, was prepared in January 2020 by AmbergTechAG, acompany that surveys tunnelling. According the report, the fault zone existed between 13.88 km (13,882 m)\n\nand 13.91 km (13,914 m) from the mouth of thetunnel The reportalso found adecrease in rock strength in this stretch and high-lighted that the stretch wasawater-bearing zone. When contacted, Jaiprakash Associates Ltd confirmed the report but refused to elaborate, saying, \"We have no comments onthis\" Amberg also declined to comment, stating that the report\n\nanditsdata are confidential. The company calculated the risk by transmitting seismic waves into the rock mass and recording and evaluating the portions with anomalies. The remarks in the report read, \"Decrease in rock stiffness\", \"possible jointed sheared rock mass\", and \"possible water bearing zone\".",
+   "n_words": 188,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      3686,
+      3094,
+      4115
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2272,
+      4195,
+      2576,
+      4264
+     ],
+     [
+      2269,
+      4314,
+      2717,
+      4780
+     ],
+     [
+      2271,
+      4746,
+      2713,
+      5139
+     ],
+     [
+      2760,
+      4828,
+      3200,
+      5132
+     ]
+    ],
+    "layout_words": 151
+   },
+   "headline_raw": "Rs 2,500 pm payout\nfor Delhi women:\nAnnual income cap\nfixed at Rs 3 lakh",
+   "deck_raw": "",
+   "body_raw": "GAYATHRI MANI\nNEW DELHI MARCH 5\n\nWOMEN WHOSE household in-\ncome is less than Rs 3 lakh per\nyear, and those who do not pay\ntax willbe eligibte for the Rs 2,500\ngrant from the Delhi govemment,\nThe Indian Express hasleamt\nOnly those aged between 18\nand 60, who do not hold govern-\nment jobs and are not receiving\nany other government financial\nassistance, willgetthe grant un-\nder the BJPgovernment\u2019s Mahila\n\nder the BJP government's Mahila\nSamniddhi Scheme, officials said.\nThe scheme was one of the\ntop poll promises made by the\nBJP inthe run-up to the Delhi\nAssembly elections. Prime\nMinister Narendra Modi had\npromised that it will be imple-\nmented by March 8,\nIntemational Women's Day.\n\nAccording to sources, the\ngovernment has estimated that\naround 15-20 lakh women will\nmeet the criteria.\n\u201cSeveral rounds of meetings\nhave taken place to finalise the\nmodalities of the scheme.\nCONTINUEDON PAGE2",
+   "ocr_conf": 86.95333333333333,
+   "ocr_low_conf_share": 0.09333333333333334,
+   "headline": "Rs 2,500 pm payout for Delhi women: Annual income cap fixed at Rs 3 lakh",
+   "deck": "",
+   "byline": "GAYATHRI MANI; NEW DELHI MARCH 5",
+   "text": "WOMEN WHOSE household income is less than Rs 3 lakh per year, and those who do not pay tax willbe eligibte for the Rs 2,500 grant from the Delhi govemment, The Indian Express hasleamt Only those aged between 18 and 60, who do not hold government jobs and are not receiving any other government financial assistance, willgetthe grant under the BJPgovernment's Mahila\n\nder the BJP government's Mahila Samniddhi Scheme, officials said. The scheme was one of the top poll promises made by the BJP inthe run-up to the Delhi Assembly elections. Prime Minister Narendra Modi had promised that it will be implemented by March 8, Intemational Women's Day.\n\nAccording to sources, the government has estimated that around 15-20 lakh women will meet the criteria. \"Several rounds of meetings have taken place to finalise the modalities of the scheme. CONTINUEDON PAGE2",
+   "n_words": 140,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      342,
+      5263,
+      4147,
+      5393
+     ]
+    ],
+    "deck_boxes": [
+     [
+      388,
+      5421,
+      1177,
+      5588
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5655,
+      752,
+      5767
+     ],
+     [
+      314,
+      5817,
+      760,
+      6166
+     ],
+     [
+      804,
+      5617,
+      1247,
+      6127
+     ],
+     [
+      1780,
+      5420,
+      2224,
+      6168
+     ],
+     [
+      3246,
+      5423,
+      3692,
+      6169
+     ],
+     [
+      3736,
+      5422,
+      4180,
+      5536
+     ]
+    ],
+    "layout_words": 335
+   },
+   "headline_raw": "An ordinary criminal\u2019: When SC defined equality in union worker's case",
+   "deck_raw": "In this series, The Indian Express tracks\ndown the women and men who\nreshaped the Republic",
+   "body_raw": "ADRIJA ROYCHOW DHURY\n&APURVAVISHWANATH\nNEW DELHI, MARCHS\n\nWHOWAS Anwar Ali Sarkar? A\nfreedom fighter? A member of a\nmob? A union worker? While\nthere aie ew reterences ioninin\ncourt records of Story BOOKS, it\u2019s\naname that is immortalised as the\nrespondent in Appeal No. 297 na\nlandmark Supreme Court ruling\nof 1952 onthe right to equality.\n\nWhile striking down a law\nwhich fast-tracked his case and\ntried him in a special court, the\napex court said thatthe move fell\nfoul of the right to equality un-\nder Article 14 of the Constitution.\nThe court also for the first time\nspelt out the nature of the right\nand how it works.\nOnFebruary26, 1949, Sarkar\nwas part of a mob of 50 young\nmen who attacked the Jessop\nfactory, an engineeringcamnany\n\nblazing furnaces.\u201d\nIn what was a coordinated\nattack led by the Revolutionary\nCommunist Party of India(RCPI),\na breakaway group of the\nCommunist Party of India (C1),\nmobs also captured the Dum\nDum airport, where they set a\nplane on fire, and attacked an\nammunition factory and shot\nthe sentry. Some of the raiders\nfled to Basirhat, where they at-\ntacked a police station, killed wo\nguards and looted about 26 ri-\nfles. The \u201cmost regrettable inci-\ndent\u201d led to a diplomatic row\nand was discussed inthe House\nof Lords in London.\nActing swiftly to mitigate in-\n\nternational tensions, the West\nBengal govemment on August\n17, 1949, promulgated the\nSpecial Courts Ordinance, a law\nthatcalled for swift trials in spe-\ncial cases. Special courts set up\nunder this law could conduct the\ntrial withoutthe presence of the\naccused and even refuse to sum-\nmon key witnesses. Sarkar was\narrested on October 11.\nOn January 25, 1950, just a\nday before the new Constitution\ncame into force, it was notified\nthat King v Anwar Ali Sarkar\nwould be heard under the\nSpecial Courts law,\nCourt records show that the\nprosecution alleged that Sarkar\n\nwas a member of the Executive\nCommittee of the Union of\nworkers of Jessop & Co, and took",
+   "ocr_conf": 87.5414201183432,
+   "ocr_low_conf_share": 0.07396449704142012,
+   "headline": "An ordinary criminal': When SC defined equality in union worker's case",
+   "deck": "In this series, The Indian Express tracks down the women and men who reshaped the Republic",
+   "byline": "ADRIJA ROYCHOW DHURY; &APURVAVISHWANATH; NEW DELHI, MARCHS",
+   "text": "WHOWAS Anwar Ali Sarkar? A freedom fighter? A member of a mob? A union worker? While there aie ew reterences ioninin court records of Story BOOKS, it's aname that is immortalised as the respondent in Appeal No. 297 na landmark Supreme Court ruling of 1952 onthe right to equality.\n\nWhile striking down a law which fast-tracked his case and tried him in a special court, the apex court said thatthe move fell foul of the right to equality under Article 14 of the Constitution. The court also for the first time spelt out the nature of the right and how it works. OnFebruary26, 1949, Sarkar was part of a mob of 50 young men who attacked the Jessop factory, an engineeringcamnany\n\nblazing furnaces.\" In what was a coordinated attack led by the Revolutionary Communist Party of India(RCPI), a breakaway group of the Communist Party of India (C1), mobs also captured the Dum Dum airport, where they set a plane on fire, and attacked an ammunition factory and shot the sentry. Some of the raiders fled to Basirhat, where they attacked a police station, killed wo guards and looted about 26 rifles. The \"most regrettable incident\" led to a diplomatic row and was discussed inthe House of Lords in London. Acting swiftly to mitigate international tensions, the West Bengal govemment on August 17, 1949, promulgated the Special Courts Ordinance, a law thatcalled for swift trials in special cases. Special courts set up under this law could conduct the trial withoutthe presence of the accused and even refuse to summon key witnesses. Sarkar was arrested on October 11. On January 25, 1950, just a day before the new Constitution came into force, it was notified that King v Anwar Ali Sarkar would be heard under the Special Courts law, Court records show that the prosecution alleged that Sarkar\n\nwas a member of the Executive Committee of the Union of workers of Jessop & Co, and took",
+   "n_words": 324,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2317,
+      5526,
+      3152,
+      5597
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2311,
+      5800,
+      2653,
+      5857
+     ],
+     [
+      2318,
+      6001,
+      2701,
+      6054
+     ]
+    ],
+    "body_boxes": [
+     [
+      2316,
+      5618,
+      2704,
+      5813
+     ],
+     [
+      2318,
+      5858,
+      2706,
+      6010
+     ],
+     [
+      2314,
+      6055,
+      2656,
+      6124
+     ],
+     [
+      2756,
+      5619,
+      3142,
+      6129
+     ]
+    ],
+    "layout_words": 87
+   },
+   "headline_raw": "STATE OF WEST BENGAL V ANWAR ALISARKAR",
+   "deck_raw": "ee ee oe ee\nJessop factoryin Kolkata\nviolated hisrightto equality",
+   "body_raw": "CASE: 1n 1949, Ammar Ali\nSarkar,amember ofthe\nRevolutionary Communist\nPartyof India, and 49others\nkilled three Europears at\n\nwhere he wasa union\nworker. Sarkar was tried ina\nSpecial Court for speedy\ndisposal. He argued that this\n\nasthe Special Courts Act,\n1950, allowed the state\n\ngovemment to bypass the\nordinary trial procedure\nwithout areasonable\njustification. The Supreme\nCourt struck down the Act.\nRELEVANCE TODAY: This\nruling isthe first to\nestablish the \u201creasonable\nclassification\u201d test, which\ndictatesthat alaw can\nprovide an exception tothe\nrightto equality and apply\ntoaspecificciass of people.",
+   "ocr_conf": 75.95402298850574,
+   "ocr_low_conf_share": 0.21839080459770116,
+   "headline": "STATE OF WEST BENGAL V ANWAR ALISARKAR",
+   "deck": "Jessop factoryin Kolkata violated hisrightto equality",
+   "byline": "",
+   "text": "CASE: 1n 1949, Ammar Ali Sarkar,amember ofthe Revolutionary Communist Partyof India, and 49others killed three Europears at\n\nwhere he wasa union worker. Sarkar was tried ina Special Court for speedy disposal. He argued that this\n\nasthe Special Courts Act, 1950, allowed the state\n\ngovemment to bypass the ordinary trial procedure without areasonable justification. The Supreme Court struck down the Act. RELEVANCE TODAY: This ruling isthe first to establish the \"reasonable classification\" test, which dictatesthat alaw can provide an exception tothe rightto equality and apply toaspecificciass of people.",
+   "n_words": 87,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3736,
+      5537,
+      4176,
+      5589
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3733,
+      5606,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 66
+   },
+   "headline_raw": "aleading partin the workers\u2019 ag-\nee ee ee ee ae a |",
+   "deck_raw": "",
+   "body_raw": "for Puja bonus. The defence,\nhowever, argued that he wasn't\npresent at the spot.\nOn March 31, 1950,SN Guha\nRoy, then Sessions Judge of\nAlipore, awarded Aliand 49 oth-\nersa sentence of \u201ctransportation\nfor life\", a punishment that in-\nvolved sending aconvictto exile\nor banishment. Under colonial\nlaws, dissidents of the State were\nroutinely given punishments\nthat included sending them to\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.64615384615385,
+   "ocr_low_conf_share": 0.06153846153846154,
+   "headline": "aleading partin the workers' agee ee ee ee ae a",
+   "deck": "",
+   "byline": "",
+   "text": "for Puja bonus. The defence, however, argued that he wasn't present at the spot. On March 31, 1950,SN Guha Roy, then Sessions Judge of Alipore, awarded Aliand 49 othersa sentence of \"transportation for life\", a punishment that involved sending aconvictto exile or banishment. Under colonial laws, dissidents of the State were routinely given punishments that included sending them to",
+   "n_words": 59,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1367,
+      5892,
+      1660,
+      5961
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1330,
+      5644,
+      1699,
+      5819
+     ],
+     [
+      1334,
+      5832,
+      1693,
+      5864
+     ]
+    ],
+    "body_boxes": [
+     [
+      1294,
+      6014,
+      1734,
+      6167
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "AN EXPRESS SERIES",
+   "deck_raw": "YEARSON\nRESHAPING THE\nREPUBLIC\nCASE BY LANDMARK CASE",
+   "body_raw": "European supervisory staff.\nCourt records show thatthe vic-\ntims were \u201cbattered to death and\ntheir corpses were thrown into",
+   "ocr_conf": 91.10526315789474,
+   "ocr_low_conf_share": 0.10526315789473684,
+   "headline": "AN EXPRESS SERIES",
+   "deck": "YEARSON RESHAPING THE REPUBLIC CASE BY LANDMARK CASE",
+   "byline": "",
+   "text": "European supervisory staff. Court records show thatthe victims were \"battered to death and their corpses were thrown into",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 19.5,
+ "flags": []
+}

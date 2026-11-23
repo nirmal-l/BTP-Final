@@ -1,0 +1,484 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_15_front",
+ "source_file": "2025-08-15_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-15_front.png",
+ "date": "2025-08-15",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 247,
+  "mean_line_conf": 90.2750853178831,
+  "orphan_words": 43,
+  "body_words_total": 866
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      512,
+      696,
+      1730,
+      1180
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      1222,
+      722,
+      1256
+     ],
+     [
+      364,
+      1297,
+      628,
+      1381
+     ],
+     [
+      810,
+      1264,
+      1189,
+      1334
+     ],
+     [
+      809,
+      1383,
+      1251,
+      1812
+     ],
+     [
+      1297,
+      1225,
+      1742,
+      1688
+     ],
+     [
+      1299,
+      1739,
+      1659,
+      1813
+     ]
+    ],
+    "layout_words": 122
+   },
+   "headline_raw": "tian Express Nine IAF and four\nuvepa Army personnel get\nweet Vir Chakra for role\nist 16, 2025 J e e e\n-\u2014\u2014 in Operation Sindoor",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL\n\nBy UNNY\nAn Out OF this world\n\nAMRITA NAYAK DUTTA\nNEW DELHI, AUGUST 14\n\nTHIRTEEN PERSONNEL \u2014 nine\nfrom the Indian Air Force (IAF)\nand four from the Army \u2014 have\nbeen awarded the Vir Chakra,\nwhich is the third-highest\nwartime gallantry award, for\ntheir role in Operation Sindoor.\nGroup Captain Ranjeet Singh\nSidhu, Group Captain Manish\nArora, Group Captain Animesh\nPatni, Group Captain Kunal Kalra,\n\nWing Commander Joy Chandra,\nSquadron Leader Sarthak Kumar,\nSquadron Leader Siddhant\nSingh, Squadron Leader Rizwan\nMalik and Flight Lieutenant\nAarshveer Singh Thakur are\namong the IAF officerswhohave\nbeen awarded the Vir Chakra.\nColonel Koshank Lamba of\n302 Medium Regiment, Lt Col\nSushil Bisht of 1988 Medium\nCONTINUED ON PAGE 2\n\nRELATED REPORT\nPAGE6",
+   "ocr_conf": 93.37704918032787,
+   "ocr_low_conf_share": 0.01639344262295082,
+   "headline": "tian Express Nine IAF and four uvepa Army personnel get weet Vir Chakra for role ist 16, 2025 J e e e - - - in Operation Sindoor",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "By UNNY An Out OF this world\n\nAMRITA NAYAK DUTTA NEW DELHI, AUGUST 14\n\nTHIRTEEN PERSONNEL - nine from the Indian Air Force (IAF) and four from the Army - have been awarded the Vir Chakra, which is the third-highest wartime gallantry award, for their role in Operation Sindoor. Group Captain Ranjeet Singh Sidhu, Group Captain Manish Arora, Group Captain Animesh Patni, Group Captain Kunal Kalra,\n\nWing Commander Joy Chandra, Squadron Leader Sarthak Kumar, Squadron Leader Siddhant Singh, Squadron Leader Rizwan Malik and Flight Lieutenant Aarshveer Singh Thakur are among the IAF officerswhohave been awarded the Vir Chakra. Colonel Koshank Lamba of 302 Medium Regiment, Lt Col Sushil Bisht of 1988 Medium\n\nRELATED REPORT",
+   "n_words": 114,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      783,
+      354,
+      814
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "+",
+   "ocr_conf": 31.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      372,
+      746,
+      761,
+      1082
+     ]
+    ],
+    "layout_words": 27,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The Indian Express\n- wishes its readers\nHAppy\nINDEPENDENCE Day\n\u2018We are closed today. 1\nThere will be no edition\nof the paper on Saturday,\nAugust 16, 2025 J",
+   "ocr_conf": 87.86206896551724,
+   "ocr_low_conf_share": 0.06896551724137931,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The Indian Express - wishes its readers HAppy INDEPENDENCE Day 'We are closed today. 1 There will be no edition of the paper on Saturday,",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      783,
+      3153,
+      1280
+     ],
+     [
+      1787,
+      1331,
+      2704,
+      1461
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1788,
+      696,
+      3049,
+      745
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      1542,
+      2164,
+      1612
+     ],
+     [
+      1786,
+      1661,
+      2231,
+      2408
+     ],
+     [
+      2272,
+      1819,
+      2574,
+      1894
+     ],
+     [
+      2275,
+      1978,
+      2717,
+      2401
+     ]
+    ],
+    "layout_words": 166
+   },
+   "headline_raw": "Publish list of 65 lakh\ndeleted voter names\nwith reasons: SC to EC\nSearchable list to be uploaded on\nwebsite, Aadhaar to be accepted as ID",
+   "deck_raw": "STATUS REPORT SOUGHT BY AUGUST 19",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, AUGUST 14\n\nTHE SUPREME Court, in an in-\nterim order Thursday, directed\nthe Election Commission of India\nto make available online a\nsearchable list of approximately\n65 lakh voter names omitted\nfrom the draft electoral roll for\nBihar with reasons for deletion\nsuch as death, migration, dupli-\ncation etc.\n\u201cSince this action can have\nsome civil consequences of de-\npriving a citizen or a person of\nthe right to franchise, a fair pro-\ncedure is required,\u201d Justice Surya\nKant, heading the bench also\ncomprising Justice Joymalya\nBagchi, observed.\nThe EC agreed to publish the\n\nJustices Surya Kant,\nJoymalya Bagchi\n\nlist of approximately 65 lakh vot-\ners whose names appear in the\nvoter list of 2025 but are not in-\ncluded in the draft list following\nthe Special Intensive Revision\nexercise in Bihar.\nThe bench said the list of dele-\ntions be made searchable and di-\nrected the EC to give wide pub-\nlicity on its website. It asked the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.90361445783132,
+   "ocr_low_conf_share": 0.030120481927710843,
+   "headline": "Publish list of 65 lakh deleted voter names with reasons: SC to EC Searchable list to be uploaded on website, Aadhaar to be accepted as ID",
+   "deck": "STATUS REPORT SOUGHT BY AUGUST 19",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, AUGUST 14",
+   "text": "THE SUPREME Court, in an interim order Thursday, directed the Election Commission of India to make available online a searchable list of approximately 65 lakh voter names omitted from the draft electoral roll for Bihar with reasons for deletion such as death, migration, duplication etc. \"Since this action can have some civil consequences of depriving a citizen or a person of the right to franchise, a fair procedure is required,\" Justice Surya Kant, heading the bench also comprising Justice Joymalya Bagchi, observed. The EC agreed to publish the\n\nJustices Surya Kant, Joymalya Bagchi\n\nlist of approximately 65 lakh voters whose names appear in the voter list of 2025 but are not included in the draft list following the Special Intensive Revision exercise in Bihar. The bench said the list of dele-tions be made searchable and directed the EC to give wide publicity on its website. It asked the",
+   "n_words": 148,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      1329,
+      3198,
+      1620
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2765,
+      1701,
+      3191,
+      1771
+     ],
+     [
+      2762,
+      1821,
+      3206,
+      2401
+     ]
+    ],
+    "layout_words": 71
+   },
+   "headline_raw": "Opp hails order,\nBJP says Cong\nclutching at\n\u2018non-issues\u2019",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, AUGUST 14\n\nTHE OPPOSITION welcomed the\nSupreme Court's directions\nThursday on the Special\nIntensive Revision (SIR) exercise\nin Bihar, calling it a \u201cvictory\u201d for\ndemocracy anda \u201csharpslap\u201d to\n\u201cthe BJP\u2019s Election Commission\u201d.\nCountering this, the BJP said\n\u201cnoone was opposed\u201d tothe SIR,\nand claimed that the Court's di-\nrections actually meant \u201cdisap-\npointment\u201d for the Congress.\nCongress president\nMallikarjun Kharge called the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.25352112676056,
+   "ocr_low_conf_share": 0.056338028169014086,
+   "headline": "Opp hails order, BJP says Cong clutching at 'non-issues'",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, AUGUST 14",
+   "text": "THE OPPOSITION welcomed the Supreme Court's directions Thursday on the Special Intensive Revision (SIR) exercise in Bihar, calling it a \"victory\" for democracy anda \"sharpslap\" to \"the BJP's Election Commission\". Countering this, the BJP said \"noone was opposed\" tothe SIR, and claimed that the Court's directions actually meant \"disappointment\" for the Congress. Congress president Mallikarjun Kharge called the",
+   "n_words": 58,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      1763,
+      4138,
+      2098
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2175,
+      3637,
+      2287
+     ],
+     [
+      3252,
+      2335,
+      3697,
+      3122
+     ],
+     [
+      3739,
+      3009,
+      4181,
+      3115
+     ]
+    ],
+    "layout_words": 123
+   },
+   "headline_raw": "At least 50 killed, 100\ninjured as cloudburst\nhits Kishtwar village",
+   "deck_raw": "",
+   "body_raw": "ARUN SHARMA&\nBASHAARAT MASOOD\nJAMMU, SRINAGAR, AUG 14\n\nAT LEAST 50 people were killed\nand more than 100 were injured\non Thursday after a cloudburst\nstruck the remote village of\nChositi in Paddar area of Jammu\nand Kashmir\u2019s Kishtwar district,\nofficials said. More than 50 peo-\nple are missing.\nThe incident took place dur-\ning the Machail Mata pilgrimage,\nfor which Chositi is the last area\nwhere yatris can park their vehi-\ncles before resuming their jour-\nney on foot.\nKishtwar Deputy\nCommissioner Pankaj Kumar\nSharma, who was at the site su-\npervising rescue operations, said\nmore than 100 people have been\nrushed to the sub-district hospi-\n\ntal at Atholi. From there, around\n35 have been referred to the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.42276422764228,
+   "ocr_low_conf_share": 0.0,
+   "headline": "At least 50 killed, 100 injured as cloudburst hits Kishtwar village",
+   "deck": "",
+   "byline": "ARUN SHARMA&; BASHAARAT MASOOD; JAMMU, SRINAGAR, AUG 14",
+   "text": "AT LEAST 50 people were killed and more than 100 were injured on Thursday after a cloudburst struck the remote village of Chositi in Paddar area of Jammu and Kashmir's Kishtwar district, officials said. More than 50 people are missing. The incident took place during the Machail Mata pilgrimage, for which Chositi is the last area where yatris can park their vehicles before resuming their journey on foot. Kishtwar Deputy Commissioner Pankaj Kumar Sharma, who was at the site supervising rescue operations, said more than 100 people have been rushed to the sub-district hospital at Atholi. From there, around 35 have been referred to the",
+   "n_words": 105,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1923,
+      756,
+      2303
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      2325,
+      761,
+      2442
+     ],
+     [
+      319,
+      2490,
+      762,
+      3112
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "18 yrs on, S&P\nupgrades India\u2019s\nrating, says US\ntariff impact\n\u2018manageable\u2019",
+   "deck_raw": "",
+   "body_raw": "SIDDHARTHUPASANI\nNEW DELHI, AUGUST 14\n\nS&P GLOBAL Ratings on\nThursday upgraded its assess-\nment of India to BBB from BBB-,\nwith a stable outlook, saying\nIndia is \u201camong the best per-\nforming economies in the\nworld\u201d. The upgrade by the\nAmerican rating agency - the\nworld\u2019s largest - comes 18 years\nafter it had last raised its India as-\nsessment in January 2007 to\nBBB- in the rating scale.\n\u201cIt (India) staged a remark-\nable comeback from the pan-\ndemic with real GDP growth\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.4659090909091,
+   "ocr_low_conf_share": 0.022727272727272728,
+   "headline": "18 yrs on, S&P upgrades India's rating, says US tariff impact 'manageable'",
+   "deck": "",
+   "byline": "SIDDHARTHUPASANI; NEW DELHI, AUGUST 14",
+   "text": "S&P GLOBAL Ratings on Thursday upgraded its assessment of India to BBB from BBB-, with a stable outlook, saying India is \"among the best performing economies in the world\". The upgrade by the American rating agency - the world's largest - comes 18 years after it had last raised its India assessment in January 2007 to BBB- in the rating scale. \"It (India) staged a remarkable comeback from the pandemic with real GDP growth",
+   "n_words": 74,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      1958,
+      1737,
+      2294
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      2319,
+      1726,
+      2438
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      2530,
+      1141,
+      2601
+     ],
+     [
+      808,
+      2650,
+      1251,
+      3119
+     ],
+     [
+      1297,
+      3006,
+      1737,
+      3113
+     ]
+    ],
+    "layout_words": 75
+   },
+   "headline_raw": "President: Op Sindoor\nstands for humanity\u2019s\nfight against terrorism",
+   "deck_raw": "Says economy healthy due to reforms,\ncontribution of farmers & workers",
+   "body_raw": "DIVYAA\nNEW DELHI, AUGUST 14\n\nIN HER first detailed public re-\nmarks on Operation Sindoor,\nPresident Droupadi Murmu\nThursday hailed the country\u2019s\n\u201csteely resolve\u201d in responding to\nthe Pahalgam terrorist attack\nand pointed to how the world\nhas taken note of India\u2019s stance\non fighting terror.\nAddressing the nationon the\neve of the 79th Independence\nDay, President Murmu said, \u201cI be-\n\nlieve Operation Sindoor will go\ndown in history asanexample in\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.84,
+   "ocr_low_conf_share": 0.05333333333333334,
+   "headline": "President: Op Sindoor stands for humanity's fight against terrorism",
+   "deck": "Says economy healthy due to reforms, contribution of farmers & workers",
+   "byline": "DIVYAA; NEW DELHI, AUGUST 14",
+   "text": "IN HER first detailed public remarks on Operation Sindoor, President Droupadi Murmu Thursday hailed the country's \"steely resolve\" in responding to the Pahalgam terrorist attack and pointed to how the world has taken note of India's stance on fighting terror. Addressing the nationon the eve of the 79th Independence Day, President Murmu said, \"I believe Operation Sindoor will go down in history asanexample in",
+   "n_words": 64,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2474,
+      3150,
+      2684
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      2769,
+      2170,
+      2838
+     ],
+     [
+      1786,
+      2887,
+      2226,
+      3120
+     ],
+     [
+      2275,
+      2765,
+      2718,
+      3121
+     ],
+     [
+      2790,
+      2730,
+      3204,
+      2836
+     ],
+     [
+      2762,
+      2849,
+      3206,
+      3114
+     ]
+    ],
+    "layout_words": 122
+   },
+   "headline_raw": "Bench sends a reminder on right\nto vote, fairness and transparency",
+   "deck_raw": "",
+   "body_raw": "APURVAVISHWANATH\nNEW DELHI, AUGUST 14\n\nUNDERLINING THE right of en-\nfranchisement, the Supreme\nCourt Thursday asked the\nElection Commission of India\n(ECI) to ensure fairness and\ntransparency in the process,\n\nSpecial Intensive j=\nRevision (SIR) in Bihar. =\n\u201cLet's proceed onthe 4s\npremise that youhave | __\nthe power to go for SIR.\nGoing by that, there are 7.90\ncrore voters in January 2025. Of\nthem, 7.24 crore have already\nfilled forms and remaining are\n\n\u2014 65lakhs. Out of 65 lakh,\nyou say 22 lakh are dead.\nYou must have heard\n\nme | there are serious dis-\nputes on whether some-\none is dead or alive.\nWhat is the mechanism to know\nthese people so that the family\ncan know their member has\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.14173228346456,
+   "ocr_low_conf_share": 0.09448818897637795,
+   "headline": "Bench sends a reminder on right to vote, fairness and transparency",
+   "deck": "",
+   "byline": "APURVAVISHWANATH; NEW DELHI, AUGUST 14",
+   "text": "UNDERLINING THE right of enfranchisement, the Supreme Court Thursday asked the Election Commission of India (ECI) to ensure fairness and transparency in the process,\n\nSpecial Intensive j= Revision (SIR) in Bihar. = \"Let's proceed onthe 4s premise that youhave __ the power to go for SIR. Going by that, there are 7.90 crore voters in January 2025. Of them, 7.24 crore have already filled forms and remaining are\n\n- 65lakhs. Out of 65 lakh, you say 22 lakh are dead. You must have heard\n\nme there are serious disputes on whether someone is dead or alive. What is the mechanism to know these people so that the family can know their member has",
+   "n_words": 113,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2320,
+      5887,
+      3641,
+      5925
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "For details, contact your Agent/Nearest LIC Branch or SMS YOUR CITY NAME to 56767474",
+   "ocr_conf": 95.57142857142857,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "For details, contact your Agent/Nearest LIC Branch or SMS YOUR CITY NAME to 56767474",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 11.5,
+ "flags": []
+}

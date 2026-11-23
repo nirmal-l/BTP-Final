@@ -1,0 +1,644 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_06_front",
+ "source_file": "2025-12-06_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-06_front.png",
+ "date": "2025-12-06",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 419,
+  "mean_line_conf": 89.67579911470126,
+  "orphan_words": 208,
+  "body_words_total": 1715
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4182,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 92.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      355,
+      936,
+      788,
+      1096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1150,
+      754,
+      1382
+     ]
+    ],
+    "layout_words": 29
+   },
+   "headline_raw": "Happening \u00a9\ntoday",
+   "deck_raw": "",
+   "body_raw": "@GERMAN CHANCELLOR\nFriedrich Merz arrivesin Israel,\nthe first visit by a major EU head\nof government since the ICC\nissued an arrest warrant for PM\nBenjamin Netanyahu last year.",
+   "ocr_conf": 90.10344827586206,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Happening \u00a9 today",
+   "deck": "",
+   "byline": "@GERMAN CHANCELLOR",
+   "text": "Friedrich Merz arrivesin Israel, the first visit by a major EU head of government since the ICC issued an arrest warrant for PM Benjamin Netanyahu last year.",
+   "n_words": 27,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      1019,
+      1778,
+      1343
+     ],
+     [
+      809,
+      1415,
+      1718,
+      1547
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      937,
+      2288,
+      981
+     ],
+     [
+      323,
+      1609,
+      512,
+      1653
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      1583,
+      1152,
+      1659
+     ],
+     [
+      806,
+      1708,
+      1251,
+      3134
+     ],
+     [
+      1320,
+      1619,
+      1697,
+      1818
+     ],
+     [
+      1296,
+      2345,
+      1738,
+      3088
+     ]
+    ],
+    "layout_words": 269
+   },
+   "headline_raw": "Modi, Putin ch\nmobility, n-enc\nOur relationship has stood the test of\ntime: PM; we work closely, says Putin",
+   "deck_raw": "16 PACTS SIGNED DURING RUSSIAN PRES!P EN Te CTATE vere\nNATION",
+   "body_raw": "Shubhajit Roy\nNew Delhi, December \u00a7\n\nDEEPENING THEIR ties as the\nworld watched India roll out the\nred carpet for visiting Russian\nPresident Vladimir Putin, Delhi\nand Moscow Friday signed ala-\nbour mobility pact, agreed on a\nprogramme for developing stra-\ntegicareas of economiccooper-\nation until 2030, announced a\n30-day free tourist visa for Rus-\nsian nationals and pledged to\nwork towards early conclusion\nof a free trade agreement with\nthe Eurasian Economic Union.\nThese were the key out-\ncomes ofbilateral talks between\nPutin and Prime Minister Nar-\nendra Modi in the Capital and\nmeetings of delegations of the\ntwosides, wrapping uptheRus-\nsian President's first visit tothe\ncountry since the start of the\nUkraine war in February 2022.\nWorld capitals tracked the\nstate visit amid effortsby the US\nto force an end to the Ukraine\nwar after penalising India for its\nimport of Russian oil which the\nTrump administration claimed\nwas funding Putin\u2019s war ma-\nchine. Incidentally, there was\nno mention of Ukraine in the\njoint statement issued in Delhi\nalthough both Modi and Putin\nspoke about it.\nFollowing the Modi-Putin\n\nBusiness as Usual\nByEP UNNY\nIn the same Fortune?\nWith no\n\ntalks, the two sides inked 16\npacts, ranging from health to\nmaritime cooperation, fertiliser\ntocustoms, academic to media\ncollaboration. Defence and nu-\nclear energy cooperation domi-\nnated discussions.\nPraising Putin, Modi said,\n\u201cOver the past two-and-a-half-\ndecades, he has continually\nnurtured this relationship with\nhis leadership and vision. His\nleadership has elevated our\nmutual ties to new heights in\nevery circumstance. [sincerely\nthank President Putin, my\nfriend, for his deep friendship\nwith India, andhis unwavering\ncommitment.\u201d",
+   "ocr_conf": 91.32089552238806,
+   "ocr_low_conf_share": 0.018656716417910446,
+   "headline": "Modi, Putin ch mobility, n-enc Our relationship has stood the test of time: PM; we work closely, says Putin",
+   "deck": "16 PACTS SIGNED DURING RUSSIAN PRES!P EN Te CTATE vere NATION",
+   "byline": "",
+   "text": "Shubhajit Roy New Delhi, December \u00a7\n\nDEEPENING THEIR ties as the world watched India roll out the red carpet for visiting Russian President Vladimir Putin, Delhi and Moscow Friday signed alabour mobility pact, agreed on a programme for developing stra-tegicareas of economiccooperation until 2030, announced a 30-day free tourist visa for Russian nationals and pledged to work towards early conclusion of a free trade agreement with the Eurasian Economic Union. These were the key outcomes ofbilateral talks between Putin and Prime Minister Narendra Modi in the Capital and meetings of delegations of the twosides, wrapping uptheRussian President's first visit tothe country since the start of the Ukraine war in February 2022. World capitals tracked the state visit amid effortsby the US to force an end to the Ukraine war after penalising India for its import of Russian oil which the Trump administration claimed was funding Putin's war machine. Incidentally, there was no mention of Ukraine in the joint statement issued in Delhi although both Modi and Putin spoke about it. Following the Modi-Putin\n\nBusiness as Usual ByEP UNNY In the same Fortune? With no\n\ntalks, the two sides inked 16 pacts, ranging from health to maritime cooperation, fertiliser tocustoms, academic to media collaboration. Defence and nuclear energy cooperation dominated discussions. Praising Putin, Modi said, \"Over the past two-and-a-half-decades, he has continually nurtured this relationship with his leadership and vision. His leadership has elevated our mutual ties to new heights in every circumstance. [sincerely thank President Putin, my friend, for his deep friendship with India, andhis unwavering commitment.\"",
+   "n_words": 257,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2329,
+      761,
+      2394
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2780,
+      751,
+      2968
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "THE WORLD paces",
+   "deck_raw": "",
+   "body_raw": "PROGRESS IN\nTALKS WITH US.,\nWILL ENGAGE\nFURTHER: RUSSIA",
+   "ocr_conf": 79.77777777777777,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "THE WORLD paces",
+   "deck": "",
+   "byline": "PROGRESS IN; TALKS WITH US.,; WILL ENGAGE; FURTHER: RUSSIA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      3022,
+      3695,
+      3415
+     ]
+    ],
+    "layout_words": 51,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "and a steady cooling in infla-\ntion, the Reserve Bank of\nIndia\u2019s Monetary Policy Com-\nmittee (MPC) on Friday unani-\nmously cut the repo rate by 25\nbasis points (bps) to 5.25 per\ncent, a move that is likely to\nbring down lending and de-\nposit rates across the banking\nsystem.",
+   "ocr_conf": 94.74509803921569,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "and a steady cooling in inflation, the Reserve Bank of India's Monetary Policy Committee (MPC) on Friday unanimously cut the repo rate by 25 basis points (bps) to 5.25 per cent, a move that is likely to bring down lending and deposit rates across the banking system.",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      3078,
+      737,
+      3460
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3495,
+      660,
+      3569
+     ],
+     [
+      315,
+      3618,
+      762,
+      5039
+     ]
+    ],
+    "layout_words": 177
+   },
+   "headline_raw": "As Tezpur varsity\nprotest flares, its\nFinance Officer\ngets anew jobin\nSikkim University",
+   "deck_raw": "",
+   "body_raw": "Sukrita Baruah\nGuwahati, December \u00a7\n\nWHILE TEZPUR University\nhas been in tumult with pro-\ntests by staff and students\nagainst its Vice-Chancellor, the\ninstitute's Finance Officer, who\nhas also been a subject of the\nprotestors\u2019 ire, took charge as\nOfficer on Special Duty (OSD)\nto the Vice-Chancellor of\nanother central institute, Sik-\nkim University, this month.\nThe official, Braja Bandhu\nMishra, who had been holding\nthe Finance Officer\u2019s post\nthrough an extension after his\nsuperannuation in May, has de-\nnied any wrongdoing on his\nend and said that he decided to\nask tobe relieved of his position\nin Tezpur University because of\nthe adversarial climate there,\nand had applied to positions in\nmultiple universities after serv-\ning his notice on October 30.\nThe ongoing protests at Tez-\npur University began in late\nSeptember. On October 19, Sik-\nkim University issued an adver-\ntisement for a one-year con-\ntractual position of OSD to the\nV-C, inviting applications from\nLevel 14 retired officers from\nCentral Autonomous Insti-\ntutes. The Indian Express learnt\nthat nine applications were\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 93.64406779661017,
+   "ocr_low_conf_share": 0.005649717514124294,
+   "headline": "As Tezpur varsity protest flares, its Finance Officer gets anew jobin Sikkim University",
+   "deck": "",
+   "byline": "",
+   "text": "Sukrita Baruah Guwahati, December \u00a7\n\nWHILE TEZPUR University has been in tumult with protests by staff and students against its Vice-Chancellor, the institute's Finance Officer, who has also been a subject of the protestors' ire, took charge as Officer on Special Duty (OSD) to the Vice-Chancellor of another central institute, Sikkim University, this month. The official, Braja Bandhu Mishra, who had been holding the Finance Officer's post through an extension after his superannuation in May, has denied any wrongdoing on his end and said that he decided to ask tobe relieved of his position in Tezpur University because of the adversarial climate there, and had applied to positions in multiple universities after serving his notice on October 30. The ongoing protests at Tezpur University began in late September. On October 19, Sikkim University issued an advertisement for a one-year contractual position of OSD to the V-C, inviting applications from Level 14 retired officers from Central Autonomous Institutes. The Indian Express learnt that nine applications were",
+   "n_words": 165,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3738,
+      3102,
+      4177,
+      3416
+     ]
+    ],
+    "layout_words": 34,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Inflation has been well below\nthelower toleranceband of\n2per cent.SoRBI stuck to its\ncore mandateand did not\nget distracted by any other\ntemptationssuchas target-\ning the rupee, deposit rates,\nor economic growth.",
+   "ocr_conf": 77.5,
+   "ocr_low_conf_share": 0.3125,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Inflation has been well below thelower toleranceband of 2per cent.SoRBI stuck to its core mandateand did not get distracted by any other temptationssuchas targeting the rupee, deposit rates, or economic growth.",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      3198,
+      3199,
+      3411
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      3457,
+      2126,
+      3531
+     ],
+     [
+      1784,
+      3580,
+      2225,
+      3928
+     ],
+     [
+      2272,
+      3461,
+      2715,
+      3886
+     ],
+     [
+      2319,
+      3898,
+      2714,
+      3933
+     ],
+     [
+      2757,
+      3462,
+      3205,
+      3926
+     ]
+    ],
+    "layout_words": 163
+   },
+   "headline_raw": "After \u2018not the era of war\u2019, PM's line:\nIndia not neutral...on side of peace",
+   "deck_raw": "",
+   "body_raw": "Shubhajit Roy\nNew Delhi, December 5\n\nWITH THE war in Ukraine\ngrinding on, amid efforts bythe\nUS and its European allies to\nbring it to an end, and all eyes\non his meetings with the visit-\ning Russian President, Prime\nMinister Narendra Modi told\nVladimir Putin Friday that\n\u201cIndiais not neutral, Indiaison\n\ntheside ofpeace\u201d and \u201cwesup-\nport all efforts towards peace\u201d.\nPutin, on his part, did not\ngive away much about their dis-\ncussion on the war. He said he\nhad the opportunity tospeakin\n\u201cdetail on the situation in\nUkraine\u201d and on thetalks initi-\nated by the US towards a \u201cposs-\nible peaceful settlement of this\ncrisis\u201d.\n\nWhile discussing \u201ckey glo-\n\nbal and regional problems\u201d,\nPutin said, \u201cWe confirmed the\nconvergence of our positions.\nBoth Russia and Indiaconduct\nan independent and sovereign\nforeign policy\u201d and promote a\n\u201cjust, democraticand multipo-\nlar world order.\u201d\nWhat did not go unnoticed\nwas that the two leaders did not\nmention the word \u201cwar\u201d or\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 87.44171779141104,
+   "ocr_low_conf_share": 0.09202453987730061,
+   "headline": "After 'not the era of war', PM's line: India not neutral...on side of peace",
+   "deck": "",
+   "byline": "",
+   "text": "Shubhajit Roy New Delhi, December 5\n\nWITH THE war in Ukraine grinding on, amid efforts bythe US and its European allies to bring it to an end, and all eyes on his meetings with the visiting Russian President, Prime Minister Narendra Modi told Vladimir Putin Friday that \"Indiais not neutral, Indiaison\n\ntheside ofpeace\" and \"wesupport all efforts towards peace\". Putin, on his part, did not give away much about their discussion on the war. He said he had the opportunity tospeakin \"detail on the situation in Ukraine\" and on thetalks initiated by the US towards a \"possible peaceful settlement of this crisis\".\n\nWhile discussing \"key global and regional problems\", Putin said, \"We confirmed the convergence of our positions. Both Russia and Indiaconduct an independent and sovereign foreign policy\" and promote a \"just, democraticand multipolar world order.\" What did not go unnoticed was that the two leaders did not mention the word \"war\" or \u00bbCONTINUEDON PAGE 2",
+   "n_words": 156,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      3421,
+      3692,
+      3933
+     ]
+    ],
+    "layout_words": 60,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The reduction \u2014 the first\nafter two consecutive pauses\u2014\nsignals a calibrated shift to-\nwards supporting growth at a\ntime when the rupee has de-\npreciated and breached the 90-\nmark against the dollar.\nThe central bank said the\ncombination of robust GDP\nnumbers and abenign inflation\ntrajectory created the policy\nspace to pivot toward accom-\nmodation. The growth engine",
+   "ocr_conf": 94.28333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The reduction - the first after two consecutive pauses - signals a calibrated shift towards supporting growth at a time when the rupee has depreciated and breached the 90- mark against the dollar. The central bank said the combination of robust GDP numbers and abenign inflation trajectory created the policy space to pivot toward accommodation. The growth engine",
+   "n_words": 58,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3739,
+      3502,
+      4180,
+      3927
+     ]
+    ],
+    "layout_words": 58,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "has been firing ahead ofexpec-\ntations, prompting the RBI to\nsharply lift its GDP projection\nfor FY26 by 50 bpsto7.3 percent\nfrom 6.8 per cent earlier. At the\nsame time, headline inflation\nhas continued to ease, allowing\nthe central bank to trim its Con-\nsumer Price Index (CPI) forecast\nto2 percent from 2.6 percent.\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 88.13793103448276,
+   "ocr_low_conf_share": 0.10344827586206896,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "has been firing ahead ofexpectations, prompting the RBI to sharply lift its GDP projection for FY26 by 50 bpsto7.3 percent from 6.8 per cent earlier. At the same time, headline inflation has continued to ease, allowing the central bank to trim its Consumer Price Index (CPI) forecast to2 percent from 2.6 percent.",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      4034,
+      1736,
+      4321
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      805,
+      4371,
+      1193,
+      4481
+     ],
+     [
+      802,
+      4534,
+      1247,
+      5047
+     ],
+     [
+      1294,
+      4375,
+      1736,
+      5040
+     ]
+    ],
+    "layout_words": 140
+   },
+   "headline_raw": "Kerala local polls: Cong,\nCPM, BJP unite totake on\ncorporate group's party",
+   "deck_raw": "",
+   "body_raw": "Shaju Philip\nThiruvanananthapuram,\nDecember 5\n\nPOLITICS OFTEN makes for\nstrange bedfellows. In Kerala,\nas garment major KitexGroup\u2019s\nparty Twenty20 seeks to ex-\npand its political footprint in\nnext week\u2019s local body elec-\ntions, the Congress, the CPI(M),\nand the BJP have buried their\ndifferences to take on the cor-\nporate group\u2019s outfit on its\nhometurf.\nKitex launched Twenty20\nas acorporate social responsi-\n\nbility (CSR) initiative in 2013 to\ntransform the village of Kizhak-\nkambalam, near Kochi, where\nit is located and employs thou-\nsandsin its garment processing\nunit. It was formed following a\nlongstanding battle with the\nCongress-ruled village pan-\nchayat that had refused the\nyear before to renew the unit\u2019s\nworkinglicence, alleging itwas\ncontaminating water bodies\nwith effluents from its dyeing\nand bleaching units, though an\nexpert committee appointed by\nthe High Court had found that\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 91.70714285714286,
+   "ocr_low_conf_share": 0.02857142857142857,
+   "headline": "Kerala local polls: Cong, CPM, BJP unite totake on corporate group's party",
+   "deck": "",
+   "byline": "",
+   "text": "Shaju Philip Thiruvanananthapuram, December 5\n\nPOLITICS OFTEN makes for strange bedfellows. In Kerala, as garment major KitexGroup's party Twenty20 seeks to expand its political footprint in next week's local body elections, the Congress, the CPI(M), and the BJP have buried their differences to take on the corporate group's outfit on its hometurf. Kitex launched Twenty20 as acorporate social responsibility (CSR) initiative in 2013 to transform the village of Kizhakkambalam, near Kochi, where it is located and employs thou-sandsin its garment processing unit. It was formed following a longstanding battle with the Congress-ruled village panchayat that had refused the year before to renew the unit's workinglicence, alleging itwas contaminating water bodies with effluents from its dyeing and bleaching units, though an expert committee appointed by the High Court had found that \u00bbCONTINUEDON PAGE 2",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      4210,
+      2709,
+      4341
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      4372,
+      2128,
+      4446
+     ],
+     [
+      1783,
+      4496,
+      2225,
+      5048
+     ],
+     [
+      2271,
+      4377,
+      2715,
+      5041
+     ]
+    ],
+    "layout_words": 149
+   },
+   "headline_raw": "One-time exemption until February 10,\nno dilution in new norms, says Govt",
+   "deck_raw": "",
+   "body_raw": "Sukalp Sharma\nNew Delhi, December 5\n\nAMID MASSIVE disruptions\nbeing faced by IndiGo, with\nover 1,000 flight cancellations\non Friday alone, the Directorate\nGeneral of Civil Aviation\n(DGCA) granted the airline a\ntemporary one-time exemp-\ntion from a few changes related\nto night operations for pilots in\nthe new Flight Duty Time Limi-\ntation (FDTL) norms \u2014 and\nother relaxations to augment\nits pilot strength.\nThe temporary rollback,\n\nwhich will bein place until Feb-\nruary 10, is for the carrier\u2019s Air-\nbus A320 fleet. Civil Aviation\nMinister K Rammohan Naidu\nsaid the decision has been\ntaken solely in the interest of\npassengers and, along with\nother measures, will help In-\ndiGo\u2019s schedule return to nor-\nmal by Saturday with complete\nrestoration of services within\nthe next three days.\nThe DGCA hasalso released\n12 Flight OperationsInspectors\n(FOIs) on deputation with it\nfrom IndiGo for flying duties\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 89.83221476510067,
+   "ocr_low_conf_share": 0.053691275167785234,
+   "headline": "One-time exemption until February 10, no dilution in new norms, says Govt",
+   "deck": "",
+   "byline": "",
+   "text": "Sukalp Sharma New Delhi, December 5\n\nAMID MASSIVE disruptions being faced by IndiGo, with over 1,000 flight cancellations on Friday alone, the Directorate General of Civil Aviation (DGCA) granted the airline a temporary one-time exemption from a few changes related to night operations for pilots in the new Flight Duty Time Limitation (FDTL) norms - and other relaxations to augment its pilot strength. The temporary rollback,\n\nwhich will bein place until February 10, is for the carrier's Airbus A320 fleet. Civil Aviation Minister K Rammohan Naidu said the decision has been taken solely in the interest of passengers and, along with other measures, will help IndiGo's schedule return to normal by Saturday with complete restoration of services within the next three days. The DGCA hasalso released 12 Flight OperationsInspectors (FOIs) on deputation with it from IndiGo for flying duties",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5224,
+      4166,
+      5346
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      5161,
+      2159,
+      5197
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      5366,
+      639,
+      5440
+     ],
+     [
+      317,
+      5371,
+      1247,
+      5835
+     ],
+     [
+      316,
+      5491,
+      760,
+      5802
+     ],
+     [
+      806,
+      5833,
+      1249,
+      6202
+     ],
+     [
+      1293,
+      5371,
+      1736,
+      6202
+     ],
+     [
+      1782,
+      6009,
+      2223,
+      6202
+     ],
+     [
+      2270,
+      6009,
+      2712,
+      6203
+     ],
+     [
+      2760,
+      6010,
+      3203,
+      6239
+     ],
+     [
+      3248,
+      5373,
+      3689,
+      5641
+     ],
+     [
+      3247,
+      5659,
+      3691,
+      6204
+     ],
+     [
+      3736,
+      5373,
+      4180,
+      6204
+     ]
+    ],
+    "layout_words": 502
+   },
+   "headline_raw": "6 years after Ayodhya verdict, new mosque still work in progress: Design is in",
+   "deck_raw": "e@ CONSTRUCTION COULD START AFTER MARCH NEXT YEAR; SOME DONATIONS HAVE STARTED TRICKLING IN",
+   "body_raw": "Maulshree Seth\nLucknow, December5\n\nMaulshree Seth paring to submit a structural\nLucknow, December map to the authorities. So the\nearliest any work, also dragged.\nAS ANOTHER December 6 downduetolackofdonations,\ncomes around, 34 years after can begin is after March 2026.\nthe Babri Masjid was demol- The Supreme Court which\nishedin Ayodhyaand nearly awarded thedisputed Ayodhya\ntwo years afteraRam Temple _ site to the Hindu side in 2019\nwas inaugurated on its spot, had ordered 5acres of landata\nconstruction is yetto starton \u201csuitable, prominent place in\nthealtemativegroundgivento Ayodhya\u201d forthe new mosque.\nthe Muslimsideto , |... | The Uttar Pradesh\n\nAS ANOTHER December 6\ncomes around, 34 years after\nthe Babri Masjid was demol-\nished in Ayodhya and nearly\ntwo years after a Ram Temple\nwas inaugurated on its spot,\nconstruction is yet to start on\nthe alternative ground given to\n\nE1 government had\n10P ( thenallotted land in\nDhannipur to the\nstate\u2019s Sunni Central Waqf\nBoard in 2020, which formed\nthe Indo Islamic Cultural Foun-\ndation Trust for the purposeof\ntheconstruction.\nThe mosque that will come\n\nup is to be known as \u2018Moham-\nmad bin Abdullah Masjid\u2019.\nZufar Ahmad Farudqi, the\nchairman of the foundation, ad-\nmits \u201cthere is nothing on the\nground yet\u201d. \u201cEarlier, we\nchanged one design submitted\nfor the mosque following dis-\ncussions, and based on the new\none, astructural map is being\nprepared. We hope to submit it\ntoAyodhyaDevelopment Auth-\nority by the end ofthis month.\u201d\nSources said that once the\nmap is submitted, it will take at\nleast three months for appro-\nval. Foundation members re-\nmain apprehensive about\nfunds, though there has been\nsome spurt since the new de-\nsign was decided. \u201cFunds are\n\ncoming, but they are just trick-\nlingin,\u201d Faruqi told The Indian\nExpress.\nThe earlier design of the\nmosque, unveiled in 2021, was\n\nseen as too \u201cmodern\u201d and \u201cfu-\nturistic\u201d, with a skylit glass\ndome. Sourcessaid this wasnot\nreceived well by the commu-\nnity,and was the reason behind\n\nthe reluctance to donate. The\nnew design is in a more tradi-\ntional style, with five minars and\ntraditional dome structures.\nTo attract a broader groupof\nJaipur\n\ndonors, the mosque founda-\ntion is highlighting other initi-\natives which will be part of the\nstructure, includinga hospital,\ncommunity kitchen, and an\nIndo-Islamic Cultural Research\nCentre, with an archives and\n\nmuseum.\nThe foundation\u2019s website\nseeks donations saying: \u201cSup-\nport the construction of the\nMuhammed Bin Abdullah\nMasjid through your generous\ndonations. This project will cre-\nate asacred space for worship,\nhealthcare, learning, and cul-\ntural preservation, serving\ncommunities for generations to\ncome. Your contribution is not\njust towards building a masjid,\nbut towards creating acentre of\n\ncompassion, unity and service,\nthat will benefit society today\nand in the future.\u201d\nTen days ago, the Ram\nTemple marked its completion\nwith the hoisting of a religious\nflag by PM Narendra Modi.\nNripendra Mishra, chairman of\nthe construction committee of\nthe Sri Ram Janmabhoomi\nTeerth Kshetra Trust, told The\nIndian Expressthe main temple\nhas been finished, while the\nlandscaningand construction of\nthe boundary wall and audi-\ntorium will be completed by\n2026. Mishra also said that\nRs 3,000 crore was received in\ninitial donations forthe temple,\nand an estimated Rs1,800 crore\nhadbeen spenton construction.",
+   "ocr_conf": 88.13084112149532,
+   "ocr_low_conf_share": 0.07663551401869159,
+   "headline": "6 years after Ayodhya verdict, new mosque still work in progress: Design is in",
+   "deck": "e@ CONSTRUCTION COULD START AFTER MARCH NEXT YEAR; SOME DONATIONS HAVE STARTED TRICKLING IN",
+   "byline": "",
+   "text": "Maulshree Seth Lucknow, December5\n\nMaulshree Seth paring to submit a structural Lucknow, December map to the authorities. So the earliest any work, also dragged. AS ANOTHER December 6 downduetolackofdonations, comes around, 34 years after can begin is after March 2026. the Babri Masjid was demol- The Supreme Court which ishedin Ayodhyaand nearly awarded thedisputed Ayodhya two years afteraRam Temple _ site to the Hindu side in 2019 was inaugurated on its spot, had ordered 5acres of landata construction is yetto starton \"suitable, prominent place in thealtemativegroundgivento Ayodhya\" forthe new mosque. the Muslimsideto,... The Uttar Pradesh\n\nAS ANOTHER December 6 comes around, 34 years after the Babri Masjid was demolished in Ayodhya and nearly two years after a Ram Temple was inaugurated on its spot, construction is yet to start on the alternative ground given to\n\nE1 government had 10P ( thenallotted land in Dhannipur to the state's Sunni Central Waqf Board in 2020, which formed the Indo Islamic Cultural Foundation Trust for the purposeof theconstruction. The mosque that will come\n\nup is to be known as 'Mohammad bin Abdullah Masjid'. Zufar Ahmad Farudqi, the chairman of the foundation, admits \"there is nothing on the ground yet\". \"Earlier, we changed one design submitted for the mosque following discussions, and based on the new one, astructural map is being prepared. We hope to submit it toAyodhyaDevelopment Authority by the end ofthis month.\" Sources said that once the map is submitted, it will take at least three months for approval. Foundation members remain apprehensive about funds, though there has been some spurt since the new design was decided. \"Funds are\n\ncoming, but they are just trick-lingin,\" Faruqi told The Indian Express. The earlier design of the mosque, unveiled in 2021, was\n\nseen as too \"modern\" and \"futuristic\", with a skylit glass dome. Sourcessaid this wasnot received well by the community,and was the reason behind\n\nthe reluctance to donate. The new design is in a more traditional style, with five minars and traditional dome structures. To attract a broader groupof Jaipur\n\ndonors, the mosque foundation is highlighting other initiatives which will be part of the structure, includinga hospital, community kitchen, and an Indo-Islamic Cultural Research Centre, with an archives and\n\nmuseum. The foundation's website seeks donations saying: \"Support the construction of the Muhammed Bin Abdullah Masjid through your generous donations. This project will create asacred space for worship, healthcare, learning, and cultural preservation, serving communities for generations to come. Your contribution is not just towards building a masjid, but towards creating acentre of\n\ncompassion, unity and service, that will benefit society today and in the future.\" Ten days ago, the Ram Temple marked its completion with the hoisting of a religious flag by PM Narendra Modi. Nripendra Mishra, chairman of the construction committee of the Sri Ram Janmabhoomi Teerth Kshetra Trust, told The Indian Expressthe main temple has been finished, while the landscaningand construction of the boundary wall and auditorium will be completed by 2026. Mishra also said that Rs 3,000 crore was received in initial donations forthe temple, and an estimated Rs1,800 crore hadbeen spenton construction.",
+   "n_words": 513,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      316,
+      5833,
+      610,
+      5915
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      5928,
+      759,
+      6201
+     ]
+    ],
+    "layout_words": 37
+   },
+   "headline_raw": "build a mosque.\nTheIndo-Islamic",
+   "deck_raw": "",
+   "body_raw": "Cultural Founda- *\ntion, which has been givena 5-\nacre plot in the middle of the\nfields in Dhannipur village in\nAyodhya, 25 km from the de-\nmolished Babri site, for con-\nstruction of the mosque, is pre-",
+   "ocr_conf": 92.1842105263158,
+   "ocr_low_conf_share": 0.0,
+   "headline": "build a mosque. TheIndo-Islamic",
+   "deck": "",
+   "byline": "",
+   "text": "Cultural Founda- * tion, which has been givena 5- acre plot in the middle of the fields in Dhannipur village in Ayodhya, 25 km from the demolished Babri site, for construction of the mosque, is pre-",
+   "n_words": 36,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 15.8,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

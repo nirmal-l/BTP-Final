@@ -1,0 +1,498 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_22_editorial",
+ "source_file": "2025-12-22_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-22_editorial.png",
+ "date": "2025-12-22",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 2,
+ "layout_stats": {
+  "H": 33.0,
+  "masthead_y": 839,
+  "n_lines": 252,
+  "mean_line_conf": 88.2880185621257,
+  "orphan_words": 5,
+  "body_words_total": 860
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3585,
+      853,
+      4182,
+      882
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTALREGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTALREGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      355,
+      930,
+      728,
+      1090
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1128,
+      752,
+      1615
+     ],
+     [
+      320,
+      1658,
+      740,
+      1724
+     ],
+     [
+      364,
+      1800,
+      718,
+      1893
+     ],
+     [
+      377,
+      2197,
+      576,
+      2372
+     ]
+    ],
+    "layout_words": 69
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@SUPREME COURT, whichis\non winter recess, will have a\nspecial sitting. CJI Surya Kant\nwill sit with Justice Joymalya\nBagchito hear matters requir-\ning immediate intervention.\nellT BOMBAY'S annual tech\nfestival begins. Exhibitions\nshowcasing cutting-edge inno-\nvations and futuristic tech will\ninclude India\u2019s first Global\nHumanoid Conclave.\n\nTRACK THESE AND MORE ON\nWWW. INDIANEXPRESS.COM\n\nBusiness as Usual\nBy EPUNNY\n\n/ FOr keeping, vote\nsecret. Imagine 8\nbrute majority\nwinning every y\npat!",
+   "ocr_conf": 82.63888888888889,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "TRACK THESE AND MORE ON; WWW. INDIANEXPRESS.COM",
+   "text": "@SUPREME COURT, whichis on winter recess, will have a special sitting. CJI Surya Kant will sit with Justice Joymalya Bagchito hear matters requiring immediate intervention. ellT BOMBAY'S annual tech festival begins. Exhibitions showcasing cutting-edge innovations and futuristic tech will include India's first Global Humanoid Conclave.\n\nBusiness as Usual By EPUNNY\n\n/ FOr keeping, vote secret. Imagine 8 brute majority winning every y pat!",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2770,
+      1007,
+      4162,
+      1242
+     ],
+     [
+      2765,
+      1308,
+      3690,
+      1438
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2769,
+      933,
+      4124,
+      977
+     ]
+    ],
+    "body_boxes": [
+     [
+      2766,
+      1459,
+      3123,
+      1533
+     ],
+     [
+      2767,
+      1583,
+      3209,
+      1971
+     ],
+     [
+      3254,
+      1463,
+      3698,
+      1972
+     ],
+     [
+      3742,
+      1265,
+      4183,
+      1537
+     ],
+     [
+      3742,
+      1543,
+      4183,
+      1965
+     ]
+    ],
+    "layout_words": 176
+   },
+   "headline_raw": "Indian mission in Chittagong\nputs visa operations on hold\nMEA denies security breach at Dhaka\nmission in New Delhi: \u2018Propaganda\u2019",
+   "deck_raw": "AFTER \u2018SECURITY INCIDENT\u2019 IN BANGLADESH PORT CITY",
+   "body_raw": "Shubhajit Roy\nNew Delhi, December 21\n\nINDIAN VISA operations in\nChittagong have been sus-\npended indefinitely following\nasecurity incident atthe Assis-\ntant High Commission of India\n(AHCI) in the second largest\ncity of Bangladesh.\nThe move came inthe wake\nofunrest acrossthe country fol-\nlowing the death of Sharif\n\nOsman Hadi, a leader of the\nproteststhat led tothe ousterof\nPrime Minister Sheikh Hasina\nand her Awami League govern-\nment in 2024.\nAcandidate for the sched-\nuled February 12 elections,\nHadi was shot in the head on\nDecember 12 by masked\ngunmen in Dhaka and died\nwhile undergoingtreatmentin\nSingapore on December 18. His\ndeath triggered attacks and\n\nvandalism across Bangladesh,\nincluding Chittagong.\nIn a statement Sunday, the\nIndian Visa Application Centre\nBangladesh said services had\nbeen halted for an indefinite\nperiod.\n\n\u201cDue to a recent security\nincident at AHCI Chittagong,\nIndian visa operations at [VAC\nChittagong will remain sus-\npended from 21/12/2025 until\nfurther notice,\u201d it stated.\nThe IVAC said the decision\nto resume services will depend\non a thorough assessment\nof the local environment.\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 88.5965909090909,
+   "ocr_low_conf_share": 0.06818181818181818,
+   "headline": "Indian mission in Chittagong puts visa operations on hold MEA denies security breach at Dhaka mission in New Delhi: 'Propaganda'",
+   "deck": "AFTER 'SECURITY INCIDENT' IN BANGLADESH PORT CITY",
+   "byline": "",
+   "text": "Shubhajit Roy New Delhi, December 21\n\nINDIAN VISA operations in Chittagong have been suspended indefinitely following asecurity incident atthe Assistant High Commission of India (AHCI) in the second largest city of Bangladesh. The move came inthe wake ofunrest acrossthe country following the death of Sharif\n\nOsman Hadi, a leader of the proteststhat led tothe ousterof Prime Minister Sheikh Hasina and her Awami League government in 2024. Acandidate for the scheduled February 12 elections, Hadi was shot in the head on December 12 by masked gunmen in Dhaka and died while undergoingtreatmentin Singapore on December 18. His death triggered attacks and\n\nvandalism across Bangladesh, including Chittagong. In a statement Sunday, the Indian Visa Application Centre Bangladesh said services had been halted for an indefinite period.\n\n\"Due to a recent security incident at AHCI Chittagong, Indian visa operations at [VAC Chittagong will remain suspended from 21/12/2025 until further notice,\" it stated. The IVAC said the decision to resume services will depend on a thorough assessment of the local environment.",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      846,
+      1091,
+      2674,
+      1560
+     ],
+     [
+      863,
+      1603,
+      2174,
+      1764
+     ],
+     [
+      1450,
+      1925,
+      1584,
+      2001
+     ]
+    ],
+    "deck_boxes": [
+     [
+      902,
+      1010,
+      2627,
+      1059
+     ],
+     [
+      1299,
+      1853,
+      1650,
+      1901
+     ],
+     [
+      1445,
+      2003,
+      1577,
+      2049
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1813,
+      1200,
+      2006
+     ],
+     [
+      809,
+      2056,
+      1251,
+      2407
+     ],
+     [
+      1787,
+      1818,
+      2234,
+      2281
+     ],
+     [
+      1788,
+      2343,
+      2227,
+      2372
+     ],
+     [
+      2275,
+      2012,
+      2709,
+      2166
+     ],
+     [
+      2275,
+      2215,
+      2716,
+      2523
+     ]
+    ],
+    "layout_words": 169
+   },
+   "headline_raw": "Year after bonds scrapped,\nBJP\u2019s purse grows over\n50% to RS 6,088 crore\nRuling party\u2019s corpus is 4.5 times the total\ncontributions toa dozen Opp parties\nDonations",
+   "deck_raw": "IN YEAR OF LS POLLS, BJP GETS 12 TIMES THE DONATIONS AS RIVAL CONG\neWhattheBJP got\n33,427 cr",
+   "body_raw": "Jatin Anand, Shijith P\nKunhitty, Lalmani Verma,\nAbhinaya Harigovind\n& Damini Nath\nNew Delhi, December 21\n\nTHESCRAPPING of theElecto-\nral Bond Scheme by the Su-\npreme Court in February 2024\nhas not made any dent onthe\ndonations received in the fol-\nlowing financial year by Bhara-\ntiya Janata Party, the party rul-\ning at the Centre. In fact,\ndonations have risen sharplyin\n\n2024-25, the first full year after\nthe scheme allowing anony-\nmous donations was junked.\nAccording tothe BJP\u2019s Con-\ntribution Report for 2024-25,\nthe year Lok Sabha elections\nwere held, the party received\nRs 6,088 crore during the year,\nabout 53 per cent higher than\nRs3,967 crore received in 2023-\n2A. The report, submitted by\n\u00bbCONTINUED ON PAGE 2\n\nPARTYWISE BREAK-UP, P 4, 6\n\nSoumyarendra Barik,\nSiddharth Upasani, Aanchal\nMagazine & Sukalp Sharma\nNew Delhi, December 21\n\nJUST SEVEN big corporate\nhouses \u2014 Tatas, OP Jindal\nGroup, L&T, Megha Engineer-\ning, Ashok Leyland, DLF, Ma-\nhindra \u2014 with a presence in\nsectors such as\nPe | construction, real\nas estate, manufac-",
+   "ocr_conf": 90.04651162790698,
+   "ocr_low_conf_share": 0.046511627906976744,
+   "headline": "Year after bonds scrapped, BJP's purse grows over 50% to RS 6,088 crore Ruling party's corpus is 4.5 times the total contributions toa dozen Opp parties Donations",
+   "deck": "IN YEAR OF LS POLLS, BJP GETS 12 TIMES THE DONATIONS AS RIVAL CONG eWhattheBJP got",
+   "byline": "",
+   "text": "Jatin Anand, Shijith P Kunhitty, Lalmani Verma, Abhinaya Harigovind & Damini Nath New Delhi, December 21\n\nTHESCRAPPING of theElectoral Bond Scheme by the Supreme Court in February 2024 has not made any dent onthe donations received in the following financial year by Bhara-tiya Janata Party, the party ruling at the Centre. In fact, donations have risen sharplyin\n\n2024-25, the first full year after the scheme allowing anonymous donations was junked. According tothe BJP's Contribution Report for 2024-25, the year Lok Sabha elections were held, the party received Rs 6,088 crore during the year, about 53 per cent higher than Rs3,967 crore received in 2023- 2A. The report, submitted by\n\nPARTYWISE BREAK-UP, P 4, 6\n\nSoumyarendra Barik, Siddharth Upasani, Aanchal Magazine & Sukalp Sharma New Delhi, December 21\n\nJUST SEVEN big corporate houses - Tatas, OP Jindal Group, L&T, Megha Engineering, Ashok Leyland, DLF, Mahindra - with a presence in sectors such as Pe construction, real as estate, manufac-",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2766,
+      2076,
+      3668,
+      2385
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2766,
+      2410,
+      3121,
+      2484
+     ],
+     [
+      2766,
+      2532,
+      3207,
+      3160
+     ],
+     [
+      3253,
+      2849,
+      3697,
+      3154
+     ]
+    ],
+    "layout_words": 124
+   },
+   "headline_raw": "Facing flak, minister\nclaims no relaxation\nfor mining in Aravallis",
+   "deck_raw": "",
+   "body_raw": "Nikhil Ghanekar\nNew Delhi, December 21\n\nFACING PROTESTS and criti-\ncism over anew uniform defini-\ntion of the Aravalli hills, which\nwas accepted by the Supreme\nCourt based on recommenda-\ntions of a Centre-led panel,\nUnion Environment Minister\nBhupender Yadav said Sunday\nthat it would not lead to any re-\nlaxation for mining in therange.\nSpeaking to reporters after\nameeting ofthe National Tiger\nConservation Authority in the\nSunderbans, Yadav said, \u201cThe\ntotal Aravalli range is 147 lakh\nsquare km and only 2 per cent\n\ncan be mined and that too only\nafter certain studies. The Su-\npreme Court has directed that\na sustainable mining plan\nshould be prepared like it has\nbeen done in Saranda, Jhark-\nhand, and permissions will be\n\u00bbCONTINUED ONPAGE 2",
+   "ocr_conf": 91.5725806451613,
+   "ocr_low_conf_share": 0.03225806451612903,
+   "headline": "Facing flak, minister claims no relaxation for mining in Aravallis",
+   "deck": "",
+   "byline": "",
+   "text": "Nikhil Ghanekar New Delhi, December 21\n\nFACING PROTESTS and criticism over anew uniform definition of the Aravalli hills, which was accepted by the Supreme Court based on recommendations of a Centre-led panel, Union Environment Minister Bhupender Yadav said Sunday that it would not lead to any relaxation for mining in therange. Speaking to reporters after ameeting ofthe National Tiger Conservation Authority in the Sunderbans, Yadav said, \"The total Aravalli range is 147 lakh square km and only 2 per cent\n\ncan be mined and that too only after certain studies. The Supreme Court has directed that a sustainable mining plan should be prepared like it has been done in Saranda, Jharkhand, and permissions will be \u00bbCONTINUED ONPAGE 2",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3741,
+      2080,
+      4165,
+      2294
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3739,
+      2331,
+      4098,
+      2406
+     ],
+     [
+      3739,
+      2456,
+      4182,
+      3154
+     ]
+    ],
+    "layout_words": 77
+   },
+   "headline_raw": "President Murmu\ngrants assent to\nVB-G RAM GBill",
+   "deck_raw": "",
+   "body_raw": "Express News Service\nNew Delhi, December 21\n\nPRESIDENT DROUPADI\nMurmu has given her assent to\nthe Viksit Bharat-Guarantee for\nRozgar and Ajeevika Mission\n(Gramin) Bill (VB-G RAMG),\n2025, which aims to repeal the\nMahatma Gandhi National\nRural Employment Guarantee\nAct (MGNREGA), 2005, and\nprovide fora newruraljobs pro-\ngramme with astatutory wage\nemployment guarantee of 125\ndays every financial year for\nrural households.\nThe Ministry of Law and\nJustice publisheda notification\nin the official gazette Sunday,\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 93.01282051282051,
+   "ocr_low_conf_share": 0.01282051282051282,
+   "headline": "President Murmu grants assent to VB-G RAM GBill",
+   "deck": "",
+   "byline": "PRESIDENT DROUPADI",
+   "text": "Express News Service New Delhi, December 21\n\nMurmu has given her assent to the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) Bill (VB-G RAMG), 2025, which aims to repeal the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), 2005, and provide fora newruraljobs programme with astatutory wage employment guarantee of 125 days every financial year for rural households. The Ministry of Law and Justice publisheda notification in the official gazette Sunday,",
+   "n_words": 72,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2470,
+      2225,
+      2567
+     ],
+     [
+      1421,
+      2705,
+      1568,
+      2791
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1296,
+      2643,
+      1678,
+      2690
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      2605,
+      1104,
+      2756
+     ],
+     [
+      804,
+      2808,
+      1251,
+      3158
+     ],
+     [
+      1474,
+      2950,
+      1578,
+      2989
+     ],
+     [
+      1785,
+      2610,
+      2229,
+      3152
+     ]
+    ],
+    "layout_words": 119
+   },
+   "headline_raw": "Donations to Cong halve to Rs 522 cr\n| Donations",
+   "deck_raw": "eWhattheCong got",
+   "body_raw": "Asad Rehman\n& Alok Deshpande\nNew Delhi, Mumbai\nDecember 21\n\nTHE CONGRESS received\nRs 522.13 crore from grants, do-\nnations and contributions in\n2024-25, less than half of what it\nreceived (Rs 1,129.66 crore) in\n2023-24. While elections to the\nLok Sabha were announced in\nMarch2024 (financial year2023-\n24), they were conducted in\n\n2268cr\n\nseven phases during April-June\n2024 (financial year 2024-25).\nThe total donations re-\nceived by Congress isjusta frac-\ntion of the Rs 6,088 crore the\nBJP received in 2024-25.\nAccording to the Contribu-\ntion Report for 2024-25 sub-\nmitted by the Congress to the\nElection Commission of India,\n60 percent or Rs 313.76 crore of\nthetotal donations of Rs 522.13\ncrore came from electoral\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 92.55833333333334,
+   "ocr_low_conf_share": 0.025,
+   "headline": "Donations to Cong halve to Rs 522 cr Donations",
+   "deck": "eWhattheCong got",
+   "byline": "",
+   "text": "Asad Rehman & Alok Deshpande New Delhi, Mumbai December 21\n\nTHE CONGRESS received Rs 522.13 crore from grants, donations and contributions in 2024-25, less than half of what it received (Rs 1,129.66 crore) in 2023-24. While elections to the Lok Sabha were announced in March2024 (financial year2023- 24), they were conducted in\n\nseven phases during April-June The total donations received by Congress isjusta fraction of the Rs 6,088 crore the BJP received in 2024-25. According to the Contribution Report for 2024-25 submitted by the Congress to the Election Commission of India, 60 percent or Rs 313.76 crore of thetotal donations of Rs 522.13 crore came from electoral \u00bbCONTINUEDON PAGE 2",
+   "n_words": 110,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2349,
+      2528,
+      2715,
+      2581
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      2571,
+      2716,
+      3120
+     ]
+    ],
+    "layout_words": 60
+   },
+   "headline_raw": "4@| turing, and\nTAAUARF aAffeAlintod",
+   "deck_raw": "",
+   "body_raw": "fie = power, accounted\nfor more than\nhalf the contributions received\nby electoral trusts in 2024-25.\nAccording to contribution\nreports submitted by different\nelectoral trusts to the Election\nCommission of India,\nRs3,811.37 crore was donated to\npolitical parties inthelastfinan-\ncial year. The seven groups had\ncontributed Rs 2,107 crore, and\nmade up 55 per cent of the cor-\npus of the trusts.",
+   "ocr_conf": 91.85483870967742,
+   "ocr_low_conf_share": 0.03225806451612903,
+   "headline": "4@ turing, and TAAUARF aAffeAlintod",
+   "deck": "",
+   "byline": "",
+   "text": "fie = power, accounted for more than half the contributions received by electoral trusts in 2024-25. According to contribution reports submitted by different electoral trusts to the Election Commission of India, Rs3,811.37 crore was donated to political parties inthelastfinancial year. The seven groups had contributed Rs 2,107 crore, and made up 55 per cent of the corpus of the trusts.",
+   "n_words": 60,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      390,
+      2702,
+      713,
+      2761
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      331,
+      2805,
+      747,
+      3126
+     ]
+    ],
+    "layout_words": 23
+   },
+   "headline_raw": "CXCHANGE",
+   "deck_raw": "",
+   "body_raw": "\u2018When entrepreneurship is\nbooming in southern states,\nin Kerala thereisa flight of\ntalent, Why then will\ninvestors come?\u2019\nRAJEEV CHANDRASEKHAR\nBJPKERALAPRESIDENT\nPAGE 13",
+   "ocr_conf": 90.8695652173913,
+   "ocr_low_conf_share": 0.0,
+   "headline": "CXCHANGE",
+   "deck": "",
+   "byline": "",
+   "text": "'When entrepreneurship is booming in southern states, in Kerala thereisa flight of talent, Why then will investors come?' RAJEEV CHANDRASEKHAR BJPKERALAPRESIDENT",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 12.1,
+ "flags": []
+}

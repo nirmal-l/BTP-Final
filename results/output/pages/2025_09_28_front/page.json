@@ -1,0 +1,526 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_28_front",
+ "source_file": "2025-09-28_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-28_front.png",
+ "date": "2025-09-28",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 292,
+  "mean_line_conf": 89.72088769297673,
+  "orphan_words": 0,
+  "body_words_total": 1087
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3859,
+      73,
+      4072,
+      186
+     ],
+     [
+      3748,
+      317,
+      4174,
+      466
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3773,
+      236,
+      4162,
+      275
+     ]
+    ],
+    "body_boxes": [
+     [
+      3744,
+      498,
+      4182,
+      621
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "eve\nArt Has a\nNew Address",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "Once restricted to Delhi and\nMumbai, art festivals are\nflourishing across country",
+   "ocr_conf": 90.41666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve Art Has a New Address",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "Once restricted to Delhi and Mumbai, art festivals are flourishing across country",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      1521,
+      4179,
+      2088
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      2265,
+      3159,
+      2337
+     ],
+     [
+      2760,
+      2386,
+      3205,
+      2848
+     ],
+     [
+      3253,
+      2147,
+      3646,
+      2217
+     ],
+     [
+      3252,
+      2266,
+      3695,
+      2848
+     ],
+     [
+      3983,
+      2146,
+      4169,
+      2335
+     ],
+     [
+      3740,
+      2426,
+      4182,
+      2848
+     ]
+    ],
+    "layout_words": 196
+   },
+   "headline_raw": "Terror attacks traced to that one\ncountry: Jaishankar targets Pak\nBefore he heads to India,\nGor begins second role\nas special envoy to region",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, SEPTEMBER 27\n\nUNDERLINING THAT \u201cmajor in-\nternational terrorist attacks are\ntraced back to that one country,\nExternal Affairs Minister S\nJaishankar targeted Pakistan at\nthe United National General\nAssembly Saturday and called\nfor \u201cmuch deeper international\ncooperation\u201d because \u201cterrorism\nis a shared threat\u201d.\nIn his 16-minute address,\nCONTINUED ON PAGE 2\n\nSHUBHAJIT ROY\nNEW DELHI, SEPTEMBER 27\n\nUS AMBASSADOR nominee to\nIndia, Sergio Gor, who will also\nbe the Trump administration's\nspecial envoy for South and\nCentral Asia, has got down to his\nsecond role quickly, meeting top\nleaders of Bangladesh, Sri Lanka\nand Bhutan on the sidelines of\nthe UN General Assembly in\nNew York.\nThis has not gone unnoticed\nin Delhi which, sources said, is\nwatching his meetings closely,\nspecially interested in who and\nwhen he meets the leaders from\n\nSergio Gor\nmet leaders\nof Sri Lanka,\nBangladesh\nand Bhutan\n\nPakistan. And whether he\npushes Delhi to give up its stated\napproach on SAARC which has\nbeen in a limbo because of the\nnear breakdowninties between\nIndia and Pakistan.\nGor met Professor Muha-\nmmad Yunus, chief advisor to\nthe interim government in\nBangladesh, on September 22\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.46938775510205,
+   "ocr_low_conf_share": 0.02040816326530612,
+   "headline": "Terror attacks traced to that one country: Jaishankar targets Pak Before he heads to India, Gor begins second role as special envoy to region",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, SEPTEMBER 27",
+   "text": "UNDERLINING THAT \"major international terrorist attacks are traced back to that one country, External Affairs Minister S Jaishankar targeted Pakistan at the United National General Assembly Saturday and called for \"much deeper international cooperation\" because \"terrorism is a shared threat\". In his 16-minute address,\n\nSHUBHAJIT ROY NEW DELHI, SEPTEMBER 27\n\nUS AMBASSADOR nominee to India, Sergio Gor, who will also be the Trump administration's special envoy for South and Central Asia, has got down to his second role quickly, meeting top leaders of Bangladesh, Sri Lanka and Bhutan on the sidelines of the UN General Assembly in New York. This has not gone unnoticed in Delhi which, sources said, is watching his meetings closely, specially interested in who and when he meets the leaders from\n\nSergio Gor met leaders of Sri Lanka, Bangladesh and Bhutan\n\nPakistan. And whether he pushes Delhi to give up its stated approach on SAARC which has been in a limbo because of the near breakdowninties between India and Pakistan. Gor met Professor Muhammad Yunus, chief advisor to the interim government in Bangladesh, on September 22",
+   "n_words": 180,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2089,
+      721,
+      2479
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3054,
+      696,
+      3124
+     ],
+     [
+      318,
+      3174,
+      761,
+      3637
+     ],
+     [
+      319,
+      3649,
+      761,
+      4032
+     ]
+    ],
+    "layout_words": 105
+   },
+   "headline_raw": "Bareilly cleric\namong 8 held;\n\u2018toolkit\u2019 used\nto spread his\nvideos: Police",
+   "deck_raw": "",
+   "body_raw": "PRAGYNESH\nBAREILLY, SEPTEMBER 27\n\nADAYafter violent clashes broke\nout in Uttar Pradesh\u2019s Bareilly,\npolice on Saturday arrested\nIttehad-e-Millat Council (IMC)\npresident Maulana Taugeer Raza\nKhan and seven others in con-\nnection with the incident.\nA local court sent Raza and\nseven others to 14-day judicial\ncustody for allegedly master-\nminding the violence, police\nsaid.\n\n\u201cPlanning was done by Raza\nand was in the works for the last\nseven days. An online toolkit was\nbeing used to spread videos\nmade by Raza, calling people to\nthe ground,\u201d Deputy Inspector\nGeneral (DIG) Ajay Kumar Sahni\nsaid, adding that the cleric was\narrested around 9am.\nCONTINUED ON PAGE 3",
+   "ocr_conf": 92.52830188679245,
+   "ocr_low_conf_share": 0.03773584905660377,
+   "headline": "Bareilly cleric among 8 held; 'toolkit' used to spread his videos: Police",
+   "deck": "",
+   "byline": "PRAGYNESH; BAREILLY, SEPTEMBER 27",
+   "text": "ADAYafter violent clashes broke out in Uttar Pradesh's Bareilly, police on Saturday arrested Ittehad-e-Millat Council (IMC) president Maulana Taugeer Raza Khan and seven others in connection with the incident. A local court sent Raza and seven others to 14-day judicial custody for allegedly master-minding the violence, police said.\n\n\"Planning was done by Raza and was in the works for the last seven days. An online toolkit was being used to spread videos made by Raza, calling people to the ground,\" Deputy Inspector General (DIG) Ajay Kumar Sahni said, adding that the cleric was arrested around 9am.",
+   "n_words": 96,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2921,
+      4173,
+      3131
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      3216,
+      3158,
+      3286
+     ],
+     [
+      2761,
+      3334,
+      3207,
+      3678
+     ],
+     [
+      3738,
+      3177,
+      4182,
+      3679
+     ]
+    ],
+    "layout_words": 117
+   },
+   "headline_raw": "Fighter engine talks with US are on,\nunaffected by tariff row: HAL chief",
+   "deck_raw": "",
+   "body_raw": "AMRITANAYAK DUTTA\nNEW DELHI, SEPTEMBER 27\n\nSEEKING TO blunt criticism of\nthe Hindustan Aeronautics\nLimited for securing an addi-\ntional order for 97 Light Combat\nAircraft Tejas Mk 1A when it is\nstill to begin delivery of the 83\naircraft ordered earlier, HAL\nChairman and Managing\nDirector D K Sunil has said if or-\n\nders do not flow continuously to\nkeep global aerospace compa-\nnies engaged, supply chains can\nface bottlenecks.\nDescribing the General\nElectric F404 engines that power\nthe LCA Mk 1A as \u201cwonderful\u201d\nand \u201cproven tobe reliable\u201d, Sunil,\nresponding to a question during\nan interview with The Indian\nExpress, said he did not think the\ntariff tensions with the US would\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.47863247863248,
+   "ocr_low_conf_share": 0.03418803418803419,
+   "headline": "Fighter engine talks with US are on, unaffected by tariff row: HAL chief",
+   "deck": "",
+   "byline": "AMRITANAYAK DUTTA; NEW DELHI, SEPTEMBER 27",
+   "text": "SEEKING TO blunt criticism of the Hindustan Aeronautics Limited for securing an additional order for 97 Light Combat Aircraft Tejas Mk 1A when it is still to begin delivery of the 83 aircraft ordered earlier, HAL Chairman and Managing Director D K Sunil has said if orders do not flow continuously to keep global aerospace companies engaged, supply chains can face bottlenecks. Describing the General Electric F404 engines that power the LCA Mk 1A as \"wonderful\" and \"proven tobe reliable\", Sunil, responding to a question during an interview with The Indian Express, said he did not think the tariff tensions with the US would",
+   "n_words": 104,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      3161,
+      1705,
+      3292
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      3371,
+      1172,
+      3441
+     ],
+     [
+      807,
+      3490,
+      1249,
+      3959
+     ],
+     [
+      1483,
+      3371,
+      1716,
+      3485
+     ]
+    ],
+    "layout_words": 78
+   },
+   "headline_raw": "Union Home Ministry seeks report;\nCM Stalin rushes to oversee relief ops",
+   "deck_raw": "",
+   "body_raw": "ARUN JANARDHANAN\nCHENNAI, SEPTEMBER 27\n\nACAMPAIGN rally for Tamil star-\ntumed-politician Vijay ended in\nastampede that killed at least 38\npeople \u2014 among them 16\nwomen and eight children \u2014 and\nleft over 150 hospitalised across\nKarur and Trichy. At least half a\ndozen victims are critical and the\ntoll could go up, officials said.\nOfficials said the chaos began\nshortly after 7.30 pm, behind the\nvan from which Vijay was speak-\n\n@ Myheartis\nshattered...\n, writhing in",
+   "ocr_conf": 87.24358974358974,
+   "ocr_low_conf_share": 0.0641025641025641,
+   "headline": "Union Home Ministry seeks report; CM Stalin rushes to oversee relief ops",
+   "deck": "",
+   "byline": "ARUN JANARDHANAN; CHENNAI, SEPTEMBER 27",
+   "text": "ACAMPAIGN rally for Tamil startumed-politician Vijay ended in astampede that killed at least 38 people - among them 16 women and eight children - and left over 150 hospitalised across Karur and Trichy. At least half a dozen victims are critical and the toll could go up, officials said. Officials said the chaos began shortly after 7.30 pm, behind the van from which Vijay was speak-\n\n@ Myheartis shattered..., writhing in",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      3157,
+      2702,
+      3428
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      3530,
+      2151,
+      3602
+     ],
+     [
+      1784,
+      3650,
+      2226,
+      3960
+     ],
+     [
+      2274,
+      3491,
+      2739,
+      3953
+     ]
+    ],
+    "layout_words": 111
+   },
+   "headline_raw": "Before stampede: Vijay\u2019s\nrun-ins with DMK, police,\nand a court intervention",
+   "deck_raw": "",
+   "body_raw": "ARUN JANARDHANAN\nCHENNAI, SEPTEMBER 27\n\nTHE CROWD at Vijay\u2019s event in\nKarur on Saturday night was less\na political assembly and more a\nsea of fans desperate to see their\nsuperstar from close quartersso\nthey could have a glimpse, a\nselfie, a story to tell. In that\nfrenzy, when some supporters\n\nwho had climbed atop a tree\nbranch fell onthe people behind\nVijay\u2019s campaign van, panic rip-\npled outward and turned a rally\ninto acatastrophe.\nThirty-eight people died, .\namong them 16 women and six\nchildren, and more than 100 are\nadmitted to hospitals across Karur\nand Trichy. Many are fighting for\ntheir lives. Dr D Sundaresan,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.70270270270271,
+   "ocr_low_conf_share": 0.018018018018018018,
+   "headline": "Before stampede: Vijay's run-ins with DMK, police, and a court intervention",
+   "deck": "",
+   "byline": "ARUN JANARDHANAN; CHENNAI, SEPTEMBER 27",
+   "text": "THE CROWD at Vijay's event in Karur on Saturday night was less a political assembly and more a sea of fans desperate to see their superstar from close quartersso they could have a glimpse, a selfie, a story to tell. In that frenzy, when some supporters\n\nwho had climbed atop a tree branch fell onthe people behind Vijay's campaign van, panic rippled outward and turned a rally into acatastrophe. Thirty-eight people died,. among them 16 women and six children, and more than 100 are admitted to hospitals across Karur and Trichy. Many are fighting for their lives. Dr D Sundaresan,",
+   "n_words": 100,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1373,
+      3508,
+      1703,
+      3579
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1296,
+      3486,
+      1717,
+      3545
+     ]
+    ],
+    "body_boxes": [
+     [
+      1356,
+      3575,
+      1738,
+      3604
+     ],
+     [
+      1295,
+      3649,
+      1738,
+      3953
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "\u201cfg Me as\nG \u201c4 pain: Vijay",
+   "deck_raw": "~i pt > unbearable\nt Sn | nain: Viiav",
+   "body_raw": "ee\n\ning, Dozens of fans and support-\ners of his political vehicle, the\nTamilaga Vettri Kazhagam (TVk),\nhad climbed a tree to get a better\nview. When its branches gave\nway, they fell onto the tightly\npacked crowd. The sudden crash\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.2,
+   "ocr_low_conf_share": 0.08888888888888889,
+   "headline": "\"fg Me as G \"4 pain: Vijay",
+   "deck": "t Sn nain: Viiav",
+   "byline": "",
+   "text": "ee\n\ning, Dozens of fans and supporters of his political vehicle, the Tamilaga Vettri Kazhagam (TVk), had climbed a tree to get a better view. When its branches gave way, they fell onto the tightly packed crowd. The sudden crash",
+   "n_words": 40,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4104,
+      1700,
+      4322
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4400,
+      702,
+      4470
+     ],
+     [
+      317,
+      4519,
+      762,
+      5060
+     ]
+    ],
+    "layout_words": 71
+   },
+   "headline_raw": "Pakistani held was in touch with\nWangchuk, sent info: Ladakh DGP",
+   "deck_raw": "",
+   "body_raw": "BASHAARAT MASOOD\nSRINAGAR, SEPTEMBER 27\n\nSAYING THAT such violence has\n\u201cnever happenedin the history\u201d\nof Ladakh, Director General of\nPolice S D Jamwal Saturday tar-\ngeted \u201cso-called environmental\nactivists\u201d and groups with \u201ca\nquestion mark on their credibil-\nity\u201d whohe said had hijacked the\nUT\u2019s struggle for statehood and\nthe Sixth Schedule.\nJamwal, while addressing a\npress conference in Leh a day af-\nter climate activist Sonam\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.98591549295774,
+   "ocr_low_conf_share": 0.028169014084507043,
+   "headline": "Pakistani held was in touch with Wangchuk, sent info: Ladakh DGP",
+   "deck": "",
+   "byline": "BASHAARAT MASOOD; SRINAGAR, SEPTEMBER 27",
+   "text": "SAYING THAT such violence has \"never happenedin the history\" of Ladakh, Director General of Police S D Jamwal Saturday targeted \"so-called environmental activists\" and groups with \"a question mark on their credibility\" whohe said had hijacked the UT's struggle for statehood and the Sixth Schedule. Jamwal, while addressing a press conference in Leh a day after climate activist Sonam",
+   "n_words": 59,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4107,
+      2709,
+      4405
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      4480,
+      2131,
+      4550
+     ],
+     [
+      1783,
+      4599,
+      2229,
+      5068
+     ],
+     [
+      2272,
+      4716,
+      2700,
+      4823
+     ],
+     [
+      2273,
+      4916,
+      2714,
+      5062
+     ]
+    ],
+    "layout_words": 98
+   },
+   "headline_raw": "Kargil war veteran killed\nin protests, father asks: Is\nthis how we treat patriots",
+   "deck_raw": "",
+   "body_raw": "DEEPTIMAN TIWARY\nLEH, SEPTEMBER 27\n\nATTHEIR three-bedroom house\non a hill in Saboo locality,around\n8 km from Leh, the family of\nTsewang Tharchin sits around\nhis embalmed dead body, recit-\ning Buddhist prayers. Relatives\nand friends stream in to pay their\nlast respects to Tharchin, 46, who\nwas killed during the September\n24 violent protests in Leh, a sin-\ngle bullet piercing through his\nback and exiting near his chest.\n\nTsewang Tharchin served in\nLadakh Scouts as Havildar\nfrom 1996-2017\n\nHe was one of four killed\nwhen police opened fire after\nprotesters, demanding statehood\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.16326530612245,
+   "ocr_low_conf_share": 0.02040816326530612,
+   "headline": "Kargil war veteran killed in protests, father asks: Is this how we treat patriots",
+   "deck": "",
+   "byline": "DEEPTIMAN TIWARY; LEH, SEPTEMBER 27",
+   "text": "ATTHEIR three-bedroom house on a hill in Saboo locality,around 8 km from Leh, the family of Tsewang Tharchin sits around his embalmed dead body, reciting Buddhist prayers. Relatives and friends stream in to pay their last respects to Tharchin, 46, who was killed during the September 24 violent protests in Leh, a single bullet piercing through his back and exiting near his chest.\n\nTsewang Tharchin served in Ladakh Scouts as Havildar\n\nHe was one of four killed when police opened fire after protesters, demanding statehood",
+   "n_words": 85,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5206,
+      2682,
+      5434
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5471,
+      499,
+      5547
+     ],
+     [
+      318,
+      5666,
+      728,
+      5736
+     ],
+     [
+      312,
+      5784,
+      759,
+      6129
+     ],
+     [
+      805,
+      5468,
+      1247,
+      6136
+     ],
+     [
+      2273,
+      5469,
+      2717,
+      6130
+     ]
+    ],
+    "layout_words": 244
+   },
+   "headline_raw": "Ground zero in Mundakkai: Over a year after Wayanad\nlandslide, a new stream, memory walls, tourism revival",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nRINKU GHOSH\nMUNDAKKAI, SEPTEMBER 27\n\n\u201cTHATS OUR river of hope,\u201d says\nKHamsa, 54, atea estate labourer,\npointing to the young ribbontike\nstream, gurgling out of a scarred\nand shor rock face that was once\na hill. Nobody knows about its ori-\ngin, but Hamsaand his friends be-\nlieve it is a sign that life has given\nthem a second chance.\n\nOver a year after the cloud-\nburst tore down the Mundakkai-\nChooralmala valley in Kerala\u2019s\nWayanad district late on July 30,\n2024, flattening human settle-\nments and splitting the river into\ntwo, ground zero is the first place\nthe locals take the tourists to now.\n\u201cThere's amemory of what\nwe were. We will build on that.\nThe stream will become a river,\nthe trees will grow back, but this\ntime, we won't cut them. They\nhold the soil,\u201d Hamsa says, point-\ning to the timber logs that the\nboulders brought down with\nthem, a visible sign of how de-\n\nforestation made the soil too\nfragile to hold the rains.\nCaked mud, boulders strewn\nall over and the naked earth\nseem eerily similar to the trail of\ndestruction after the recent land-\nslides in Uttarakhand and\nHimachal Pradesh.\nOnce a tourist hub for its\nmisty blue hills and forests, the\nMundakkai-Chooralmala valley\nhas been declared a fragile eco-\nzone by the state since the land-\nslide. While no human settle-\nments are allowed there\nanymore, locals are given day\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.12704918032787,
+   "ocr_low_conf_share": 0.040983606557377046,
+   "headline": "Ground zero in Mundakkai: Over a year after Wayanad landslide, a new stream, memory walls, tourism revival",
+   "deck": "",
+   "byline": "ANCHOR; RINKU GHOSH; MUNDAKKAI, SEPTEMBER 27",
+   "text": "\"THATS OUR river of hope,\" says KHamsa, 54, atea estate labourer, pointing to the young ribbontike stream, gurgling out of a scarred and shor rock face that was once a hill. Nobody knows about its origin, but Hamsaand his friends believe it is a sign that life has given them a second chance.\n\nOver a year after the cloudburst tore down the Mundakkai-Chooralmala valley in Kerala's Wayanad district late on July 30, 2024, flattening human settle-ments and splitting the river into two, ground zero is the first place the locals take the tourists to now. \"There's amemory of what we were. We will build on that. The stream will become a river, the trees will grow back, but this time, we won't cut them. They hold the soil,\" Hamsa says, pointing to the timber logs that the boulders brought down with them, a visible sign of how deforestation made the soil too fragile to hold the rains. Caked mud, boulders strewn all over and the naked earth seem eerily similar to the trail of destruction after the recent land-slides in Uttarakhand and Himachal Pradesh. Once a tourist hub for its misty blue hills and forests, the Mundakkai-Chooralmala valley has been declared a fragile ecozone by the state since the landslide. While no human settle-ments are allowed there anymore, locals are given day",
+   "n_words": 222,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 12.8,
+ "flags": []
+}

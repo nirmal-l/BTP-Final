@@ -1,0 +1,845 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_13_front",
+ "source_file": "2025-04-13_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-13_front.png",
+ "date": "2025-04-13",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 560,
+  "mean_line_conf": 90.49148313492063,
+  "orphan_words": 20,
+  "body_words_total": 2249
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3858,
+      73,
+      4070,
+      186
+     ],
+     [
+      3776,
+      314,
+      4150,
+      468
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3771,
+      236,
+      4158,
+      275
+     ]
+    ],
+    "body_boxes": [
+     [
+      3786,
+      498,
+      4135,
+      610
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "eve\nFood for\nthe Future",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "As seasons change out\nof schedule, will\ntraditions last?",
+   "ocr_conf": 95.88888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve Food for the Future",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "As seasons change out of schedule, will traditions last?",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      824,
+      1242,
+      1282
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1393,
+      728,
+      1463
+     ],
+     [
+      320,
+      1514,
+      764,
+      2575
+     ],
+     [
+      320,
+      3174,
+      747,
+      3244
+     ],
+     [
+      314,
+      3293,
+      761,
+      4197
+     ]
+    ],
+    "layout_words": 241
+   },
+   "headline_raw": "In first softening on\nChina, US exempts\nphones, laptops, chip\nmachines from tariffs",
+   "deck_raw": "",
+   "body_raw": "SOUMYARENDRABARIK\nNEW DELHI, APRIL12\n\nTHE UNITED STATES govern-\nment late Friday evening ex-\nempted phones, computers and\nother electronics products from\nreciprocal tariffs, adecision seen\nas the first major softening ofits\nstance towards China. The move\nwill spare companies like Apple,\nSamsung, Microsoft, HP and Dell\nwhich manufacture these prod-\nucts outside the US, from the\nhigh reciprocal tariffs President\nDonald Trump had announced\non April 2.\nThe decision also reflects a\npotentially growing awareness\nwithin the Trump camp that uni-\nlaterally escalating the tariff war\nto target Beijing could have ram-\nifications for some of its most\nimportant domestic companies\nas well as consumers, who may\nhave to pay more for items im-\nported from China, particularly\nelectronics.\nCompanies like Apple, which\nmanufacture a large share of\n\nEXPRESS NEWS SERVICE\nNEW DELHI, APRIL12\n\nTHEENFORCEMENT Directorate\n(ED) on Saturday said it has\nserved notices to take possession\nof immovable assets worth Rs\n661 crore \u2014 in Delhi, Mumbai\nand Lucknow \u2014 that it had at-\ntached as part of a money laun-\ndering probe linked to National\nHerald newspaper and\nAssociated Journals Limited (AJL).\nThe ED had attached these\nproperties earlier by issuing a\nprovisional attachment order in\na PMLA (Prevention of Money\nLaundering Act) case against AJL,\nwhich publishes the National\nHerald, and Young Indian, which\nowns the newspaper.\nCongress leaders Sonia\nGandhi and Rahul Gandhi are\nmajority shareholders of Young\nIndian, which is under the ED\nscanner overcharges ofacquiring",
+   "ocr_conf": 91.86721991701245,
+   "ocr_low_conf_share": 0.03319502074688797,
+   "headline": "In first softening on China, US exempts phones, laptops, chip machines from tariffs",
+   "deck": "",
+   "byline": "SOUMYARENDRABARIK; NEW DELHI, APRIL12",
+   "text": "THE UNITED STATES government late Friday evening exempted phones, computers and other electronics products from reciprocal tariffs, adecision seen as the first major softening ofits stance towards China. The move will spare companies like Apple, Samsung, Microsoft, HP and Dell which manufacture these products outside the US, from the high reciprocal tariffs President Donald Trump had announced on April 2. The decision also reflects a potentially growing awareness within the Trump camp that unilaterally escalating the tariff war to target Beijing could have ramifications for some of its most important domestic companies as well as consumers, who may have to pay more for items imported from China, particularly electronics. Companies like Apple, which manufacture a large share of\n\nEXPRESS NEWS SERVICE NEW DELHI, APRIL12\n\nTHEENFORCEMENT Directorate (ED) on Saturday said it has served notices to take possession of immovable assets worth Rs 661 crore - in Delhi, Mumbai and Lucknow - that it had attached as part of a money laundering probe linked to National Herald newspaper and Associated Journals Limited (AJL). The ED had attached these properties earlier by issuing a provisional attachment order in a PMLA (Prevention of Money Laundering Act) case against AJL, which publishes the National Herald, and Young Indian, which owns the newspaper. Congress leaders Sonia Gandhi and Rahul Gandhi are majority shareholders of Young Indian, which is under the ED scanner overcharges ofacquiring",
+   "n_words": 229,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      905,
+      3180,
+      1756
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1301,
+      828,
+      3060,
+      877
+     ],
+     [
+      1299,
+      1465,
+      2636,
+      1524
+     ]
+    ],
+    "body_boxes": [
+     [
+      1297,
+      1592,
+      1675,
+      1662
+     ],
+     [
+      1296,
+      1711,
+      1738,
+      2217
+     ],
+     [
+      1782,
+      1869,
+      2106,
+      1944
+     ],
+     [
+      1787,
+      2028,
+      2227,
+      2213
+     ],
+     [
+      2435,
+      1612,
+      2703,
+      1735
+     ],
+     [
+      2320,
+      1791,
+      2673,
+      2181
+     ],
+     [
+      2764,
+      1463,
+      3197,
+      1768
+     ],
+     [
+      2760,
+      1824,
+      3203,
+      1941
+     ],
+     [
+      2760,
+      1990,
+      3203,
+      2966
+     ]
+    ],
+    "layout_words": 291
+   },
+   "headline_raw": "|\nSC: President ought to seek our\na || a a\nopinion if Governor reserves Bill\na B | 1 | a a\nclaiming itis unconstitutional\nPreventing unconstitutional Bill saves resources: Bench Ina first, TN\nANANTHAKRISHNANG a co Govt notifies I\nTHESUPREME Court judgement =) att | VS M@ Article143 nad",
+   "deck_raw": "BENCH OF JUSTICES J B PARDIWALA AND R MAHADEVAN\nPreventing unconstitutional Bill saves resources: Bench",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, APRIL 12\n\nTHESUPREME Court judgement\nsettling the dispute between\nTamil Nadu Governor RN Ravi\nand the ruling DMK government\nover the clearing of Bills \u2014 while\nlaying down a specific time-\nframe for the President and\nGovernor to act in such cases \u2014\nseeks to give itself a toehold in\nthe law-making process.\nThe April 8, 2025 judgement,\nby a bench of Justices J B\nPardiwala and R Mahadevan,\n\nJustice JB Pardiwala,\nJustice R Mahadevan\n\nsays that, invoking Article 143,\nthe President \u201cought to\u201d seek its\nopinion where the Governor has\nreserved the Bill for his/her\nCONTINUED ON PAGE 2\n\nCourt pushes\nambitof\n'@ Article 143\n\nWHILE SETTING guard-\nrails for Governor, the SC\nis also being pro-active:\nsetting a time frame for\nthe President; and asking\nher to seek its opinion on\na Bill under Article 143.\nButit underlines its hands\nare tied if reference is on\npolicy or politics.\n\nIna first, TN\nGovt notifies 10\nlaws without\nGovernor nod\n\nARUN JANARDHANAN\nCHENNAI, APRIL 12\n\nINAN unprecedented move, the\nTamil Nadu government on\nSaturday invoked the Supreme\nCourt order to notify 10 laws,\nwhich were stalled by the\nGovernor earlier, as having taken\neffect without his assent.\nOn April 8,theSupreme Court\nhad said Tamil Nadu Governor R\nNRavi\u2019s decision toreserve the 10\nBills for consideration of the\nPresident after they had already\nbeen reconsidered by the State\nAssembly was illegal and erro-\nneous. It had also laid down a\ntimeline for Governors to decide\non Bills presented to them.\nThe Acts, allre-adopted by the\nTamil Nadu Assembly last year af-\nter the Governor delayedor with-\nheld assent, were forwarded to\nthePresident but were ultimately\ndeemed passed following the\nSupreme Court's order.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.92387543252595,
+   "ocr_low_conf_share": 0.04498269896193772,
+   "headline": "SC: President ought to seek our opinion if Governor reserves Bill claiming itis unconstitutional Preventing unconstitutional Bill saves resources: Bench Ina first, TN ANANTHAKRISHNANG a co Govt notifies I THESUPREME Court judgement =) att VS M@ Article143 nad",
+   "deck": "BENCH OF JUSTICES J B PARDIWALA AND R MAHADEVAN Preventing unconstitutional Bill saves resources: Bench",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, APRIL 12",
+   "text": "THESUPREME Court judgement settling the dispute between Tamil Nadu Governor RN Ravi and the ruling DMK government over the clearing of Bills - while laying down a specific time-frame for the President and Governor to act in such cases - seeks to give itself a toehold in the law-making process. The April 8, 2025 judgement, Pardiwala and R Mahadevan,\n\nJustice JB Pardiwala, Justice R Mahadevan\n\nsays that, invoking Article 143, the President \"ought to\" seek its opinion where the Governor has reserved the Bill for his/her\n\nCourt pushes ambitof '@ Article 143\n\nWHILE SETTING guard-rails for Governor, the SC is also being pro-active: setting a time frame for the President; and asking her to seek its opinion on a Bill under Article 143. Butit underlines its hands are tied if reference is on policy or politics.\n\nIna first, TN Govt notifies 10 laws without Governor nod\n\nARUN JANARDHANAN CHENNAI, APRIL 12\n\nINAN unprecedented move, the Tamil Nadu government on Saturday invoked the Supreme Court order to notify 10 laws, which were stalled by the Governor earlier, as having taken effect without his assent. On April 8,theSupreme Court had said Tamil Nadu Governor R NRavi's decision toreserve the 10 Bills for consideration of the President after they had already been reconsidered by the State Assembly was illegal and erroneous. It had also laid down a timeline for Governors to decide on Bills presented to them. The Acts, allre-adopted by the Tamil Nadu Assembly last year after the Governor delayedor withheld assent, were forwarded to thePresident but were ultimately deemed passed following the Supreme Court's order.",
+   "n_words": 264,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      849,
+      1430,
+      1251,
+      1588
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      1671,
+      1251,
+      2568
+     ]
+    ],
+    "layout_words": 104
+   },
+   "headline_raw": "oA =} US President\n\u2014 Donald\nTrump",
+   "deck_raw": "",
+   "body_raw": "their electronics output in China,\nwere particularly caught in\nTrump's tariff crosshairs, hit with\na massive 125 per cent tariff by\nthe US administration following\nan escalation in tariff rates be-\ntween Washington and Beijing.\nIn anotification issued by the\nUS Customs and Border\nProtection, the USadministration\nhas excluded 20 product cate-\ngories including smartphones,\nlaptop computers, hard drives\nand computer processors, chip\nmaking equipment, and certain\nsemiconductor devices like\nmemory chips \u2014 a substantial\npart of which are either made in\nChina, or assembled elsewhere\nby using Chinese-made parts.\nThe exclusions are retroactive to\n12:01 am on April 5.\nCONTINUED ON PAGE 3",
+   "ocr_conf": 92.60576923076923,
+   "ocr_low_conf_share": 0.019230769230769232,
+   "headline": "- Donald Trump",
+   "deck": "",
+   "byline": "",
+   "text": "their electronics output in China, were particularly caught in Trump's tariff crosshairs, hit with a massive 125 per cent tariff by the US administration following an escalation in tariff rates between Washington and Beijing. In anotification issued by the US Customs and Border Protection, the USadministration has excluded 20 product cate-gories including smartphones, laptop computers, hard drives and computer processors, chip making equipment, and certain semiconductor devices like memory chips - a substantial part of which are either made in China, or assembled elsewhere by using Chinese-made parts. The exclusions are retroactive to 12:01 am on April 5.",
+   "n_words": 98,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      1545,
+      4169,
+      2053
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3252,
+      2094,
+      4162,
+      2225
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      2307,
+      3645,
+      2377
+     ],
+     [
+      3249,
+      2425,
+      3693,
+      3566
+     ],
+     [
+      3979,
+      2345,
+      4163,
+      2453
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "As Wadf protests\nspiral in Bengal,\nfather & son among\n3 dead; 150 arrested",
+   "deck_raw": "HC orders central forces: Cannot turn\nblind eye... grave, volatile situation",
+   "body_raw": "RAVIK BHATTACHARYA\nKOLKATA, APRIL 12\n\nTHREE PERSONS, including a fa-\nther-son duo, were killed as\nprotests against the Waaf\n(Amendment) Act spiralled into\nviolence in Murshidabad district\nof West Bengal on Friday.\nAccording to a government\nstatement, over 150 people have\nbeen arrested.\nAppealing for calm, Chief\nMinister Mamata Banerjee on\nSaturday asked people not to do\n\u201cnon-religious activity in the\nname of religion\u201d and said the\nWag\u00a2f law would not be imple-\nmented in the state.\nDirector General of Police\nRajeev Kumar wamed of strong\naction against miscreants.\nAdditional Director General of\nPolice, Law and Order, Jawed\nShamim said police had toresort\nto firing to control the mob on\nFriday evening, adding that 15\npolice personnel were injured in\nthe violence.\nThe Calcutta High Court, act-\ning ona petition filed by Leader\nof the Opposition Suvendu\n\nWillnot\nimplement\nlawin state:",
+   "ocr_conf": 91.53191489361703,
+   "ocr_low_conf_share": 0.0425531914893617,
+   "headline": "As Wadf protests spiral in Bengal, father & son among 3 dead; 150 arrested",
+   "deck": "HC orders central forces: Cannot turn blind eye... grave, volatile situation",
+   "byline": "RAVIK BHATTACHARYA; KOLKATA, APRIL 12",
+   "text": "THREE PERSONS, including a father-son duo, were killed as protests against the Waaf (Amendment) Act spiralled into violence in Murshidabad district of West Bengal on Friday. According to a government statement, over 150 people have been arrested. Appealing for calm, Chief Minister Mamata Banerjee on Saturday asked people not to do \"non-religious activity in the name of religion\" and said the Wag\u00a2f law would not be implemented in the state. Director General of Police Rajeev Kumar wamed of strong action against miscreants. Additional Director General of Police, Law and Order, Jawed Shamim said police had toresort to firing to control the mob on Friday evening, adding that 15 police personnel were injured in the violence. The Calcutta High Court, acting ona petition filed by Leader of the Opposition Suvendu\n\nWillnot implement lawin state:",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      2287,
+      2709,
+      2473
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1837,
+      2580,
+      1928,
+      2627
+     ]
+    ],
+    "body_boxes": [
+     [
+      1296,
+      2541,
+      1711,
+      2651
+     ],
+     [
+      1296,
+      2699,
+      1739,
+      2965
+     ],
+     [
+      1821,
+      2540,
+      2202,
+      2657
+     ],
+     [
+      2273,
+      2503,
+      2715,
+      2965
+     ]
+    ],
+    "layout_words": 111
+   },
+   "headline_raw": "AG flags: President not in picture, should\nhave been heard before top court ruled",
+   "deck_raw": "= hy\nar ees",
+   "body_raw": "ANANTHAKRISHNANG\n& APURVA VISHWANATH\nNEW DELHI, APRIL 12\n\nRESPONDING TO the Supreme\nCourt verdict fixing a three-\nmonth deadline for the\nPresident to clear Bills reserved\nfor his/her consideration by the\nGovernor, Attorney General R\nVenkataramani told The Indian\n\na) No decision\n2&4 ONreviewyet,\n\nAG said: \u201cThe President was not\nheard. The President should\nhave been heard (before the\ncourt decided on her powers un-\nder the Constitution).\u201d He\nadded: \u201cThe President was not\ninthe picture at all\u201d in the matter.\nIncidentally, the AG has\nmade submissions on the pow-\ners of the Governor in the case.\nAsked if this could be a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.69158878504673,
+   "ocr_low_conf_share": 0.09345794392523364,
+   "headline": "AG flags: President not in picture, should have been heard before top court ruled",
+   "deck": "= hy ar ees",
+   "byline": "ANANTHAKRISHNANG; & APURVA VISHWANATH; NEW DELHI, APRIL 12",
+   "text": "RESPONDING TO the Supreme Court verdict fixing a three-month deadline for the President to clear Bills reserved for his/her consideration by the Governor, Attorney General R Venkataramani told The Indian\n\na) No decision 2&4 ONreviewyet,\n\nAG said: \"The President was not heard. The President should have been heard (before the court decided on her powers under the Constitution).\" He added: \"The President was not inthe picture at all\" in the matter. Incidentally, the AG has made submissions on the powers of the Governor in the case. Asked if this could be a",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3757,
+      2431,
+      4170,
+      2530
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3736,
+      2583,
+      4182,
+      3559
+     ]
+    ],
+    "layout_words": 121
+   },
+   "headline_raw": "|. per #. lawinstate:\n5 \u201cwy! CM Mamata",
+   "deck_raw": "",
+   "body_raw": "Adhikari, ordered the deploy-\nment of Central Armed Police\nForces (CAPF) in the affected ar-\neas, Calling the situation \u201cgrave\nand volatile\u201d, the court said it\n\u201ccannot turn a blind eye\u201d.\nAmid the growing unrest,\nUnion Home Secretary Govind\nMohan held a video conference\nwith the West Bengal Chief\nSecretary and Director General\nof Police to review the situation.\nThe Home Ministry reiterated its\nconcern over the breakdown of\nlaw and order in Murshidabad.\nAdditional Border Security Force\n(BSF) personnel have been de-\nployed in the area,\nPolice said that while\nprotests began in some districts\nsoon after Parliament passed the\nBill earlier, protesters turned vi-\nolent in Murshidabad on Friday.\nAccording to police, a father and\nCONTINUED ON PAGE 3",
+   "ocr_conf": 92.59504132231405,
+   "ocr_low_conf_share": 0.01652892561983471,
+   "headline": ". per #. lawinstate: 5 \"wy! CM Mamata",
+   "deck": "",
+   "byline": "",
+   "text": "Adhikari, ordered the deployment of Central Armed Police Forces (CAPF) in the affected areas, Calling the situation \"grave and volatile\", the court said it \"cannot turn a blind eye\". Amid the growing unrest, Union Home Secretary Govind Mohan held a video conference with the West Bengal Chief Secretary and Director General of Police to review the situation. The Home Ministry reiterated its concern over the breakdown of law and order in Murshidabad. Additional Border Security Force (BSF) personnel have been deployed in the area, Police said that while protests began in some districts soon after Parliament passed the Bill earlier, protesters turned violent in Murshidabad on Friday. According to police, a father and",
+   "n_words": 113,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2643,
+      1249,
+      3214
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      3649,
+      1251,
+      4190
+     ]
+    ],
+    "layout_words": 73
+   },
+   "headline_raw": "National Herald case:\nED moves to take\npossession of assets\nworth Rs 661 crore\nEXPRESSNEWSSERVICE fe \u00ab .",
+   "deck_raw": "",
+   "body_raw": "AJL and its assets for a \u201ca mere Rs\n50 lakh\u201d against an alleged loan\nextended by the Congress. Both\nSoniaand Rahul were questioned\nin 2022 as part of the probe.\n\u201cThis is the continuation of\nthe... proceedings where money\nlaundering is alleged with no\nmoney movement, no transfers\nand the mere transfer of shares\nbeing wrongly treated as money\nlaundering This is aconsequen-\ntial order based on the earlier\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.20270270270271,
+   "ocr_low_conf_share": 0.05405405405405406,
+   "headline": "National Herald case: ED moves to take possession of assets worth Rs 661 crore",
+   "deck": "",
+   "byline": "",
+   "text": "AJL and its assets for a \"a mere Rs 50 lakh\" against an alleged loan extended by the Congress. Both Soniaand Rahul were questioned in 2022 as part of the probe. \"This is the continuation of the... proceedings where money laundering is alleged with no money movement, no transfers and the mere transfer of shares being wrongly treated as money laundering This is aconsequential order based on the earlier",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2613,
+      2231,
+      2766
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      2819,
+      2226,
+      2969
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "(ja. | saysAttorney\nc General\nA . M Venkataramani",
+   "deck_raw": "",
+   "body_raw": "Express Saturday that the\nPresident was not heard in the\nmatter \u2014and should have been.\nAsked about the verdict, the",
+   "ocr_conf": 92.6,
+   "ocr_low_conf_share": 0.0,
+   "headline": "(ja. saysAttorney c General",
+   "deck": "",
+   "byline": "",
+   "text": "Express Saturday that the President was not heard in the matter - and should have been. Asked about the verdict, the",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2759,
+      3081,
+      3199,
+      3483
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3000,
+      3610,
+      3201,
+      3757
+     ],
+     [
+      2760,
+      3887,
+      3189,
+      3957
+     ],
+     [
+      2759,
+      4007,
+      3204,
+      4666
+     ],
+     [
+      2758,
+      4675,
+      3203,
+      5141
+     ]
+    ],
+    "layout_words": 150
+   },
+   "headline_raw": "Sukhbir back\nas Akali Dal\npresident, flags\n\u2018conspiracy\u2019\nagainst party",
+   "deck_raw": "",
+   "body_raw": "Was forced\ntoresign as\nparty chief\nin December\n\nKAMALDEEP SINGH BRAR\nAMRITSAR, APRIL 12\n\nFORMER PUNJAB Deputy Chief\nMinister Sukhbir Singh Badal\nwas on Saturday re-elected as\nthe Shiromani Akali Dal (SAD)\npresident, a post that has been\nheld by a member of the Badal\nfamily since 1990.\nAbout 500 delegates of the\nAkali Dal, who were elected by\nthe party members duringits re-\ncent organisational polls, unan-\nimously elected Sukhbir Badal as\nthe party chief barely five\nmonths after his resignation\nfrom the post.\nHeld at the Teja Singh\nSamundari hall atthe Shiromani\n\nGurdwara Parbandhak\nCommittee (SGPC) headquarters\nin Amritsar, the SAD president's\nelection was among several di-\nrections on its organisational\nchanges issued by the Akal Takht\n\u2014 the highest temporal seat of\nSikhs - after Badal and other SAD\nleaders were found guilty of \u201cre-\nligious misconduct\u201d during the\nAkali Dal-led government's\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.39597315436242,
+   "ocr_low_conf_share": 0.03355704697986577,
+   "headline": "Sukhbir back as Akali Dal president, flags 'conspiracy' against party",
+   "deck": "",
+   "byline": "KAMALDEEP SINGH BRAR; AMRITSAR, APRIL 12",
+   "text": "Was forced toresign as party chief in December\n\nFORMER PUNJAB Deputy Chief Minister Sukhbir Singh Badal was on Saturday re-elected as the Shiromani Akali Dal (SAD) president, a post that has been held by a member of the Badal family since 1990. About 500 delegates of the Akali Dal, who were elected by the party members duringits recent organisational polls, unanimously elected Sukhbir Badal as the party chief barely five months after his resignation from the post. Held at the Teja Singh Samundari hall atthe Shiromani\n\nGurdwara Parbandhak Committee (SGPC) headquarters in Amritsar, the SAD president's election was among several directions on its organisational changes issued by the Akal Takht - the highest temporal seat of Sikhs - after Badal and other SAD leaders were found guilty of \"religious misconduct\" during the Akali Dal-led government's",
+   "n_words": 135,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3711,
+      4167,
+      4048
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4125,
+      3605,
+      4195
+     ],
+     [
+      3248,
+      4244,
+      3691,
+      5141
+     ],
+     [
+      3977,
+      4164,
+      4175,
+      4311
+     ],
+     [
+      3735,
+      4404,
+      4179,
+      5142
+     ]
+    ],
+    "layout_words": 228
+   },
+   "headline_raw": "Had watched Saif film\nbut did not recognise\nhim, accused told cops",
+   "deck_raw": "",
+   "body_raw": "VIJAY KUMAR YADAV\nMUMBAI, APRIL 12\n\nMOHAMMED SHARIFUL Fakir,\nthe Bangladeshi national ar-\nrested for attacking actor Saif Ali\nKhan during the break-in at his\nhouse on January 16, is learnt to\nhave told the police that while\nhe had seen the actor on screen,\nhe did not recognise him at the\ntime of the incident.\nFakir is learnt to have said this\nduring questioning in the pres-\nence of witnesses, whose state-\nmentsare part of the over 1,600-\npage chargesheet filed inthe\ncase earlier.\nAccording to these state-\nments, Fakir told police that he\nonly got to know it was Saif\nwhen he watchedanewsclipon\nYouTube later. He said he had\nwatched Saif\u2019s film, but could not\nrecognise him as it was darkand\nthe actor was clean-shaven. He\n\nThe accused,\nMohammed\nShariful\nFakir\n\nalso said that he mostly watched\nTamil movies.\nAfter the failed robbery at-\ntempt, Fakir reportedly got a\nhaircut to change his appearance\nand bought headphones for\nRs50 outside Dadar railway sta-\ntion as he wanted to \u201crelease\npressure\u201d by listening to songs.\nThis purchase emerged as a key\nlink, as he was caught on CCTV\ncamera, eventually leading to his\narrest a few days later.\nWhile on the run, Fakir re-\nportedly kepta tab onthe devel-\nopments and found out thatthe\nwrong person had been nabbed\nfrom Durg in Chhattisgarh.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.66228070175438,
+   "ocr_low_conf_share": 0.021929824561403508,
+   "headline": "Had watched Saif film but did not recognise him, accused told cops",
+   "deck": "",
+   "byline": "VIJAY KUMAR YADAV; MUMBAI, APRIL 12",
+   "text": "MOHAMMED SHARIFUL Fakir, the Bangladeshi national arrested for attacking actor Saif Ali Khan during the break-in at his house on January 16, is learnt to have told the police that while he had seen the actor on screen, he did not recognise him at the time of the incident. Fakir is learnt to have said this during questioning in the presence of witnesses, whose state-mentsare part of the over 1,600- page chargesheet filed inthe case earlier. According to these state-ments, Fakir told police that he only got to know it was Saif when he watchedanewsclipon YouTube later. He said he had watched Saif's film, but could not recognise him as it was darkand the actor was clean-shaven. He\n\nThe accused, Mohammed Shariful Fakir\n\nalso said that he mostly watched Tamil movies. After the failed robbery attempt, Fakir reportedly got a haircut to change his appearance and bought headphones for Rs50 outside Dadar railway station as he wanted to \"release pressure\" by listening to songs. This purchase emerged as a key link, as he was caught on CCTV camera, eventually leading to his arrest a few days later. While on the run, Fakir reportedly kepta tab onthe developments and found out thatthe wrong person had been nabbed from Durg in Chhattisgarh.",
+   "n_words": 210,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3968,
+      1909,
+      4035
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      4083,
+      2221,
+      4159
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "BORDER REVIEW",
+   "deck_raw": "",
+   "body_raw": "Army Chief General Upendra Dwivedi visits areas on western\nborders to review operational readiness of frontline troops. PTI",
+   "ocr_conf": 94.61111111111111,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BORDER REVIEW",
+   "deck": "",
+   "byline": "",
+   "text": "Army Chief General Upendra Dwivedi visits areas on western borders to review operational readiness of frontline troops. PTI",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      4266,
+      2690,
+      4465
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4558,
+      1207,
+      4707
+     ],
+     [
+      806,
+      4756,
+      1250,
+      5146
+     ],
+     [
+      1294,
+      4520,
+      1736,
+      5146
+     ],
+     [
+      2271,
+      4521,
+      2716,
+      5140
+     ]
+    ],
+    "layout_words": 210
+   },
+   "headline_raw": "Pro-Palestine article to speeding ticket, why\nIndian students in US have their visas revoked",
+   "deck_raw": "",
+   "body_raw": "ABHINAYA HARIGOVIND\n& VIDHEESHA\nKUNTAMALLA\nNEW DELHI, APRIL 12\n\nAT Auniversity in Connecticut, a\nPhD scholar from India is now\nwithout funding, safety, orsleep.\nTwo weeks ago, the student,\nwho was promised five years of\nfull funding by the university,\nwas told that his monthly\nstipend of $2,600 would be\nstopped after May. \u201cI\u2019m lan-\nguishing.\u201d\n\n\u201cThaven't participated in any\nprotests during the Palestinian\nprotests. All did was write afew\npieces on the pro-Palestine\nmovement in 2023 for a few\npublications, and I feel like I\u2019m\nbeing targeted now,\u201d says the\nscholar, adding he hasn\u2019t in-\nformed his family yet. \u201cThey'll\nworry too much.\u201d\n\u201cTve been trying for options\nin other countries...Twohave al-\nready rejected me. It is very dif-\nficult to take a transfer now es-\npecially with admissions\nclosed,\u201d he says.\n\nWhile the 31-year-old sus-\npects his pro-Palestine write-ups\nmay have triggered the action, in\nrecent months, several Indian stu-\ndents in the United States on F-1\nvisas have faced a combination of\nrescinded job offers and abrupt\nfunding cuts over infractions they\nSay are minor or already resolved\n\u2014aspeeding ticket, driving under\nthe influence, alleged shoplifting\nor other misdemeanours that\nthey say have been dismissed by\ncourts. The Indian Express spoke to\nseveral students who requested\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.25592417061611,
+   "ocr_low_conf_share": 0.02843601895734597,
+   "headline": "Pro-Palestine article to speeding ticket, why Indian students in US have their visas revoked",
+   "deck": "",
+   "byline": "ABHINAYA HARIGOVIND; & VIDHEESHA; KUNTAMALLA; NEW DELHI, APRIL 12",
+   "text": "AT Auniversity in Connecticut, a PhD scholar from India is now without funding, safety, orsleep. Two weeks ago, the student, who was promised five years of full funding by the university, was told that his monthly stipend of $2,600 would be stopped after May. \"I'm languishing.\"\n\n\"Thaven't participated in any protests during the Palestinian protests. All did was write afew pieces on the pro-Palestine movement in 2023 for a few publications, and I feel like I'm being targeted now,\" says the scholar, adding he hasn't informed his family yet. \"They'll worry too much.\" \"Tve been trying for options in other countries...Twohave already rejected me. It is very difficult to take a transfer now especially with admissions closed,\" he says.\n\nWhile the 31-year-old suspects his pro-Palestine write-ups may have triggered the action, in recent months, several Indian students in the United States on F-1 visas have faced a combination of rescinded job offers and abrupt funding cuts over infractions they Say are minor or already resolved - aspeeding ticket, driving under the influence, alleged shoplifting or other misdemeanours that they say have been dismissed by courts. The Indian Express spoke to several students who requested CONTINUEDON PAGE2",
+   "n_words": 196,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4292,
+      733,
+      4324
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NETWORK",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "EXPRESS NETWORK",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4777,
+      728,
+      4947
+     ]
+    ],
+    "layout_words": 10,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "EXIT ANNAMALAI,\nNAINAR NAGENDRAN\nTAKES REINS OF\nTAMIL NADU BJP",
+   "ocr_conf": 94.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "EXIT ANNAMALAI,; NAINAR NAGENDRAN; TAKES REINS OF; TAMIL NADU BJP",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4985,
+      718,
+      5106
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "3 MAOISTS KILLED IN\nBIJAPUR ENCOUNTER\nPAGE 3,5",
+   "ocr_conf": 94.75,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "3 MAOISTS KILLED IN; BIJAPUR ENCOUNTER; PAGE 3,5",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5301,
+      4163,
+      5428
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5471,
+      499,
+      5547
+     ],
+     [
+      316,
+      5666,
+      610,
+      5736
+     ],
+     [
+      316,
+      5785,
+      761,
+      6175
+     ],
+     [
+      806,
+      5468,
+      1249,
+      6175
+     ],
+     [
+      1293,
+      5468,
+      1735,
+      6176
+     ],
+     [
+      2758,
+      5470,
+      3203,
+      6170
+     ],
+     [
+      3247,
+      5470,
+      3689,
+      5655
+     ],
+     [
+      3248,
+      5669,
+      3689,
+      6177
+     ],
+     [
+      3736,
+      5470,
+      4177,
+      5777
+     ],
+     [
+      3735,
+      5787,
+      4179,
+      6132
+     ]
+    ],
+    "layout_words": 481
+   },
+   "headline_raw": "19th century British architect\u2019s notes help reinstate Vadodara varsity dome",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nADITIRAJA\nVADODARA, APRIL 12\n\nAT THE 145-year-old heritage\nFaculty of Arts building of\nVad odara\u2019s Maharaja Sayajirao\nUniversity (MSU), a group of\nthree men stand on the campus\ngrounds, considering how best to\nsend some intricately carved\nsandstone jaalis to their peers\nstanding on the first floor of the\nbuilding. Inside,a worker isbusy\n\npolishing heavy wooden door\nframes while anotheris painstak-\ningly painting over a delicately\nengraved potted plant on the fa-\ncade onthe ground floor.\nFor the last 18 months, the\nMSU's 19th Century arts faculty\nbuilding, with its amalgam of\nIndian and Byzantine arches and\nits peculiar marriage of local\nGaekwad and the Baroque archi-\ntecture, has been humming with\nactivity. Here, 100 workers have\nbeen working on along but am-\nbitious project: to breathe new\nlife into the iconic double-lay-\nered masonry dome designed in\n1880 by British architect Robert\n\nFellows Chisholm.\nWhat makes the project\ncomplex yet exceptional, accord-\ning to experts involved in it, is\nhow it uniquely blends tradi-\ntional building materials suchas\nlime plaster and sandstone with\nout-of-the-box ones \u2014 suchas a\nmixture of jaggery, urad (black\ngram), fenugreek, and wheat \u2014\nto help reinforce its foundation.\nThe renovation work involves a\nvast amount of work \u2014 from\npainting broken bits of the edi-\nfice and restoring paintings and\nwoodwork to mending, and re-\nplacing, even the smallest nicks\nin jaalis \u2014all the while ensuring\n\nthat the workremains faithful to\nthe original.\nFor this, conservationists are\ngetting help from Chisholm him-\nself \u2014 specifically, his notes from\nThe Transactions, an 1883 book\nunveiled by the Royal Institute of\nBritish Architects, Rudresh\nSharma, chief engineer and\nMSU's Officer on Special Duty\nwho is overseeing the restora-\ntion by the Mumbai-based\nSavani Heritage Conservation\nPvt Ltd, tells The Indian Express,\nadding that work is now on the\nhome stretch and is likely to be\ncompleted by August.\nThis comes after atleasttwo\n\nfailed attempts to reinstate the\ndome, the last one being in 2018,\nwhen the Archaeological Survey\nof India drilled \u201cmore than 100\nholes\u201d.\n\n\u201cThe restoration was called\noff after that incident... It took\nus two years of studying the\nstructure and examining docu-\nments \u2014 through books by\nChisholm, records from the\nMuseum of the royal family(the\nGaekwads) as well as other\nsources \u2014 to arrive at arestora-\ntion plan,\u201d Sharma says.\nSo far, the university has\ncompleted seven domes and the\nmajority of the structural and\n\nsurface work. The estimated cost\nof repair, university officials say,\nis likely to escalate from the ini-\ntial Rs 5.5 crore \u2014 being bome by\nthe state government.\nReinforcing structure,\nreplacing delicate jaalis\n\nOne of western India\u2019s oldest\ncolleges for education, the MSU\nwas founded by Maharaja\nSayajirao Gaekwad III \u2014 of the\nGaekwad royal family of Baroda\n\u2014 in 1881 as Baroda College but\nwas eventually renamed as the\nMaharaja Sayajirao University of\nBarodain 1949,",
+   "ocr_conf": 91.8981288981289,
+   "ocr_low_conf_share": 0.037422037422037424,
+   "headline": "19th century British architect's notes help reinstate Vadodara varsity dome",
+   "deck": "",
+   "byline": "ANCHOR; ADITIRAJA; VADODARA, APRIL 12",
+   "text": "AT THE 145-year-old heritage Faculty of Arts building of Vad odara's Maharaja Sayajirao University (MSU), a group of three men stand on the campus grounds, considering how best to send some intricately carved sandstone jaalis to their peers standing on the first floor of the building. Inside,a worker isbusy\n\npolishing heavy wooden door frames while anotheris painstakingly painting over a delicately engraved potted plant on the facade onthe ground floor. For the last 18 months, the MSU's 19th Century arts faculty building, with its amalgam of Indian and Byzantine arches and its peculiar marriage of local Gaekwad and the Baroque architecture, has been humming with activity. Here, 100 workers have been working on along but ambitious project: to breathe new life into the iconic double-layered masonry dome designed in 1880 by British architect Robert\n\nFellows Chisholm. What makes the project complex yet exceptional, according to experts involved in it, is how it uniquely blends traditional building materials suchas lime plaster and sandstone with out-of-the-box ones - suchas a mixture of jaggery, urad (black gram), fenugreek, and wheat - to help reinforce its foundation. The renovation work involves a vast amount of work - from painting broken bits of the edifice and restoring paintings and woodwork to mending, and replacing, even the smallest nicks in jaalis - all the while ensuring\n\nthat the workremains faithful to the original. For this, conservationists are getting help from Chisholm himself - specifically, his notes from The Transactions, an 1883 book unveiled by the Royal Institute of British Architects, Rudresh Sharma, chief engineer and MSU's Officer on Special Duty who is overseeing the restoration by the Mumbai-based Savani Heritage Conservation Pvt Ltd, tells The Indian Express, adding that work is now on the home stretch and is likely to be completed by August. This comes after atleasttwo\n\nfailed attempts to reinstate the dome, the last one being in 2018, when the Archaeological Survey of India drilled \"more than 100 holes\".\n\n\"The restoration was called off after that incident... It took us two years of studying the structure and examining documents - through books by Chisholm, records from the Museum of the royal family(the Gaekwads) as well as other sources - to arrive at arestoration plan,\" Sharma says. So far, the university has completed seven domes and the majority of the structural and\n\nsurface work. The estimated cost of repair, university officials say, is likely to escalate from the initial Rs 5.5 crore - being bome by the state government. Reinforcing structure, replacing delicate jaalis\n\nOne of western India's oldest colleges for education, the MSU was founded by Maharaja Sayajirao Gaekwad III - of the Gaekwad royal family of Baroda - in 1881 as Baroda College but was eventually renamed as the Maharaja Sayajirao University of Barodain 1949,",
+   "n_words": 462,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.2,
+ "flags": []
+}

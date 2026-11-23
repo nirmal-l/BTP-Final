@@ -1,0 +1,687 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_16_editorial",
+ "source_file": "2025-07-16_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-16_editorial.png",
+ "date": "2025-07-16",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 462,
+  "mean_line_conf": 89.23329650218496,
+  "orphan_words": 0,
+  "body_words_total": 3429
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      375,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      617,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      763,
+      771,
+      1091,
+      802
+     ],
+     [
+      437,
+      918,
+      951,
+      960
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "\u201d FOUNDED By @\n\nBECAUSE THE TRUTH",
+   "ocr_conf": 74.85714285714286,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2134,
+      602,
+      4064,
+      818
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2176,
+      919,
+      3645,
+      1051
+     ]
+    ],
+    "body_boxes": [
+     [
+      2317,
+      2333,
+      2823,
+      3618
+     ],
+     [
+      2922,
+      1371,
+      3530,
+      3628
+     ],
+     [
+      3576,
+      1372,
+      4179,
+      1445
+     ]
+    ],
+    "layout_words": 505
+   },
+   "headline_raw": "ging against America",
+   "deck_raw": "Trump 2.0 is upending US ties with allies and partners in Asia\nand Europe. De-coupling may be hard, de-risking is necessary",
+   "body_raw": "The frustration among allies\ndoes not mean they can\nsimply walk away from\nWashington. All America\u2019s\npartners have enormous\nstakes in sustaining their\neconomic and technological\nties with the US. Even more\nimportant, their security\nchallenges would become far\nmore demanding without\nAmerican guarantees. If\nEurope must find new ways\nto defend itself against\nRussia, Asian allies must\ndevise strategies to cope with\nChinese power. America\u2019s\nEurasian partners will not\nsimply fold their hands \u2014\nthey will search for creative\nanswers. In Europe, France\nand Britain are discussing\nbetter coordination of their\nnuclear weapons policies,\nwhile the EU is accelerating\ncollective defence efforts.\n\nso sharply in his second term.\nBritain\u2019s Prime Minister, KeirStarmer, may\nlack the rhetorical flair of his French counter-\npart but he, too, is seeking to rebalance the\n\u201cspecial relationship\u201d with the US against the\ngeographic imperative of Europe. If Brexit a\ndecade ago was about distancing from Europe\nand reconnecting with the Anglosphere,\nStarmer\u2019s Labour government is working to re-\nbuild links with the Continent. Trump, despite\nhis family origins in the UK, haslittle affection\nfor Britain. His MAGA coalition looks down on\nits \u201cpoorer cousins\u201d in the British Isles.\nThe story isno different in Asia, where two\nof America\u2019s staunchest allies are seethingover\nTrump's actions. Theannouncement of 25 per\ncent tariffs on Japanese imports triggered rare\noutrage within Japan\u2019s political class, which\nhas placed neartyallits strategic betson the US\nsince World War IL. It was remarkable, there-\nfore, to hear the Japanese PM declare that\nTokyo must reduce its dependence on\nWashington. He made itciear that japan wouid\nnot offer \u201ceasy concessions\u201d or compromise\nits national interests in the face of US pressure.\nTo be sure, Prime Minister Shigeru Ishiba\nisin the midst ofan upper house election cam-\npaign this week. But this is not mere campaign\nrhetoric. He stressed that Japan, asthe largest\nforeign investor in the US anda major creator\nof American jobs, deserves different treatment\nfrom countries targeted by the tariffs. Despite\nmonths of negotiations, repeated diplomatic\nmissions to Washington, and a pledge of $1\ntrillion in new investment, Ishiba\u2019s govern-\nment could not persuade Trump to hold back,\nespecially as the US President remained dis-\nsatisfied with Japan's market access for\nAmerican rice and automobiles.\nEqually emphatic about strategic auton-\nomy has been Australian Prime Minister\nAnthony Albanese. Few countries have been\nas close to Washington as Australia. Yet, in a\nmajor speech last week, Albanese insisted that\nbeing an ally does not mean being a blind fol-\nlower. He described the US allianceasa \u201cpillar\u201d\nof Australian foreign policy but argued that\nthis partnership should not constrain\nAustralia\u2019s sovereignty or decision-making.\nHe called for an \u201cAustralia first\u201d approach \u2014\nparticularly relevant amid intensifying US-\nChinarivalry in the Indo-Pacific. As it happens,\nAlbaneseis in Chinathis week, stepping up ef-\nforts to engage Australia\u2019s Asian neighbours.\nThe frustration among allies does not\nmean they can simply walk away from\nWashington. All America\u2019s partners have",
+   "ocr_conf": 89.96039603960396,
+   "ocr_low_conf_share": 0.05742574257425743,
+   "headline": "ging against America",
+   "deck": "Trump 2.0 is upending US ties with allies and partners in Asia and Europe. De-coupling may be hard, de-risking is necessary",
+   "byline": "",
+   "text": "The frustration among allies does not mean they can simply walk away from Washington. All America's partners have enormous stakes in sustaining their economic and technological ties with the US. Even more important, their security challenges would become far more demanding without American guarantees. If Europe must find new ways to defend itself against Russia, Asian allies must devise strategies to cope with Chinese power. America's Eurasian partners will not simply fold their hands - they will search for creative answers. In Europe, France and Britain are discussing better coordination of their nuclear weapons policies, while the EU is accelerating collective defence efforts.\n\nso sharply in his second term. Britain's Prime Minister, KeirStarmer, may lack the rhetorical flair of his French counterpart but he, too, is seeking to rebalance the \"special relationship\" with the US against the geographic imperative of Europe. If Brexit a decade ago was about distancing from Europe and reconnecting with the Anglosphere, Starmer's Labour government is working to rebuild links with the Continent. Trump, despite his family origins in the UK, haslittle affection for Britain. His MAGA coalition looks down on its \"poorer cousins\" in the British Isles. The story isno different in Asia, where two of America's staunchest allies are seethingover Trump's actions. Theannouncement of 25 per cent tariffs on Japanese imports triggered rare outrage within Japan's political class, which has placed neartyallits strategic betson the US since World War IL. It was remarkable, therefore, to hear the Japanese PM declare that Tokyo must reduce its dependence on Washington. He made itciear that japan wouid not offer \"easy concessions\" or compromise its national interests in the face of US pressure. To be sure, Prime Minister Shigeru Ishiba isin the midst ofan upper house election campaign this week. But this is not mere campaign rhetoric. He stressed that Japan, asthe largest foreign investor in the US anda major creator of American jobs, deserves different treatment from countries targeted by the tariffs. Despite months of negotiations, repeated diplomatic missions to Washington, and a pledge of $1 trillion in new investment, Ishiba's government could not persuade Trump to hold back, especially as the US President remained dissatisfied with Japan's market access for American rice and automobiles. Equally emphatic about strategic autonomy has been Australian Prime Minister Anthony Albanese. Few countries have been as close to Washington as Australia. Yet, in a major speech last week, Albanese insisted that being an ally does not mean being a blind follower. He described the US allianceasa \"pillar\" of Australian foreign policy but argued that this partnership should not constrain Australia's sovereignty or decision-making. He called for an \"Australia first\" approach - particularly relevant amid intensifying US-Chinarivalry in the Indo-Pacific. As it happens, Albaneseis in Chinathis week, stepping up efforts to engage Australia's Asian neighbours. The frustration among allies does not mean they can simply walk away from Washington. All America's partners have",
+   "n_words": 481,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      691,
+      1090,
+      1162,
+      1192
+     ]
+    ],
+    "deck_boxes": [
+     [
+      363,
+      1231,
+      1492,
+      1339
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      1375,
+      1531,
+      2879
+     ]
+    ],
+    "layout_words": 463
+   },
+   "headline_raw": "SHE TOO",
+   "deck_raw": "Sexual harassment victim in Balasore spoke up, complained.\nShe was let down by a system that refused to pay heed",
+   "body_raw": "HY DID YOU not speak up? Implicit in this question, put to those who\n\\ \\ } have faced sexual harassment and abuse, is the assumption that\nbreakinga silence leads, inevitably, to justice. The young woman who\ndied this week in Balasore, Odisha, three days after she set herselfon\nfire, spoke up. She named her alleged harasser, a professor, to the internal complaints\ncommittee of her college. She filed a complaint with the police. Yet, she was let down,\ndriven to despair by asystem that she trusted. The question that must now be answered\nis this: Why was this young woman not heard?\nThe police have arrested the accused professor on charges of abetment to suicide, sex-\nual harassmentand criminal intimidation, among others. The principal of the college, too,\nis in custody onthe charge of abetment to suicide. Both had already been suspended from\nthe college following the young woman's seif-immolation on Saturday. The law must now\ntake its course, but the larger questions looming over this tragedy \u2014 about institutional re-\nsponsibility and accountability, of power asymmetries that take a high toll on those who\nspeak out against abuse \u2014 cannot be ignored. It must be asked why, 12 years after the\nPrevention of Sexual Harassment(PoSH) Act was passed \u2014 marking what seemed to be a\nturning point in the long-drawn, painful confrontation with the dismal phenomenon of\nsexual harassment and violence that women routinely endure \u2014 complaints stillannear to\nfall on deaf ears. Questions of institutional failure and lack of sensitivity can no longer be\nevaded. As the Supreme Court pointed out in 2023, when it issued directions for a \u201ctime-\nbound exercise\u201d to verify whether ail public and private bodies are compliant with the PoSH\nAct, a law alonecannot ensure \u201cdignity and respect\u201d. Investigation will reveal what the col-\nlegein Balasore did, and did not do, after the student complained of sexual harassment. But\nbeyond this one college, beyond Odisha, other institutions, too, are stakeholders in build-\ninga safe environment for women \u2014 it\u2019s time they looked at how far they've gone, how far\nthey have been willing to go, to ensure that women can study, work and travel safely.\nBack in December 2012, shaken by the death of a young woman in Delhi after a grue-\nsome incident of sexual assault, there appeared to be a strong public resolve to push for\nchange. It has periodically flared up since then, such as during the MeToo movement of\n2018 and in 2023, when there was a swell of public support for the wrestlers who had ac-\ncused a powerful politician of sexual harassment. In almost every case, it has been driven\nby women who refused to be silenced. They've spoken up, over and over again. It is time\nfor the system to listen, and respond.",
+   "ocr_conf": 91.34615384615384,
+   "ocr_low_conf_share": 0.03632478632478633,
+   "headline": "SHE TOO",
+   "deck": "Sexual harassment victim in Balasore spoke up, complained. She was let down by a system that refused to pay heed",
+   "byline": "",
+   "text": "HY DID YOU not speak up? Implicit in this question, put to those who \\ \\ } have faced sexual harassment and abuse, is the assumption that breakinga silence leads, inevitably, to justice. The young woman who died this week in Balasore, Odisha, three days after she set herselfon fire, spoke up. She named her alleged harasser, a professor, to the internal complaints committee of her college. She filed a complaint with the police. Yet, she was let down, driven to despair by asystem that she trusted. The question that must now be answered is this: Why was this young woman not heard? The police have arrested the accused professor on charges of abetment to suicide, sexual harassmentand criminal intimidation, among others. The principal of the college, too, is in custody onthe charge of abetment to suicide. Both had already been suspended from the college following the young woman's seif-immolation on Saturday. The law must now take its course, but the larger questions looming over this tragedy - about institutional responsibility and accountability, of power asymmetries that take a high toll on those who speak out against abuse - cannot be ignored. It must be asked why, 12 years after the Prevention of Sexual Harassment(PoSH) Act was passed - marking what seemed to be a turning point in the long-drawn, painful confrontation with the dismal phenomenon of sexual harassment and violence that women routinely endure - complaints stillannear to fall on deaf ears. Questions of institutional failure and lack of sensitivity can no longer be evaded. As the Supreme Court pointed out in 2023, when it issued directions for a \"time-bound exercise\" to verify whether ail public and private bodies are compliant with the PoSH Act, a law alonecannot ensure \"dignity and respect\". Investigation will reveal what the collegein Balasore did, and did not do, after the student complained of sexual harassment. But beyond this one college, beyond Odisha, other institutions, too, are stakeholders in build-inga safe environment for women - it's time they looked at how far they've gone, how far they have been willing to go, to ensure that women can study, work and travel safely. Back in December 2012, shaken by the death of a young woman in Delhi after a gruesome incident of sexual assault, there appeared to be a strong public resolve to push for change. It has periodically flared up since then, such as during the MeToo movement of 2018 and in 2023, when there was a swell of public support for the wrestlers who had accused a powerful politician of sexual harassment. In almost every case, it has been driven by women who refused to be silenced. They've spoken up, over and over again. It is time for the system to listen, and respond.",
+   "n_words": 461,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1627,
+      1214,
+      2016,
+      1306
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1626,
+      1370,
+      2228,
+      1874
+     ],
+     [
+      1624,
+      1885,
+      2228,
+      2589
+     ],
+     [
+      1624,
+      2600,
+      2227,
+      3268
+     ]
+    ],
+    "layout_words": 307
+   },
+   "headline_raw": "eo eis SS =: iiiiiel \u2014\nCRajA MOHAN",
+   "deck_raw": "",
+   "body_raw": "SECTIONS OFTHE Indian foreign policy com-\nmunity feel \u201cbetrayed\u201d by the Donald Trump\nadministration, which has found unexpected\naffection for Rawalpindi, raised a host oftough\ndemands on trade, and threatened additional\ntariffs on India because of its BRICS member-\nship and continued purchase of Russian oil. It\nis, perhaps, a small consolation that India is\nnot alone. America\u2019s neighbours and largest\ntrading partners(Mexico and Canada) and its\nlongstanding allies in Europe and Asia have\neven more reasons to feel betrayed.\nMostof these alliances datehack to theend\n\nof World Warll and have weathered multiple\ncrises over the past eight decades. Butasin life,\nso in international relations \u2014 nothing is for-\never. If change is the only constant, that mo-\nment of restructuring has now arrived for\nAmerica\u2019s alliances and partnerships in\nEurope and Asia. As anon-ally, India is better\nprepared for change in America.\nTheidea of \u201cstrategic autonomy\u201d, long cent-\nral to India\u2019s foreign policy, has been viewed\nwith scepticism by India\u2019s Wester partners.\nThey have argued that India\u2019s near obsession\nwith autonomy limits the scope for strategic\ncooperation with the US and Europe. But to-\nday, \u201cstrategicautonomy\u201d has become thenew\nmantra among America\u2019s allies themselves.\nInhis address tothe British Parliament last\nweek, French President Emmanuel Macronre-\n\nflected on the implications of the unprece-\ndented disruption unleashed by President\nTrump's second term. He underlined the need\nfor deeper Franco-British cooperation to re-\nduce what he called the \u201cdualdependency\u2019 on\nthe US and China Macron warned against\nEurope's excessive reliance on the twosuper-\npowers foreconomic, technological, andsecu-\nrity needs, and emphasised the urgency of re-\nclaiming European strategic autonomy. He\ncalled for stronger Franco-British collaboration\nondefence, climate action migrationandtech-\nnological innovation, suggesting that only\nthrough unity can Europe effectively respond\ntoglohal challenges. and safeguard its interests,\nAlthough America\u2019s European allies bent\nover backwards to placate \u201cdaddy\u201d Trump at",
+   "ocr_conf": 84.79084967320262,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "eo eis SS =: iiiiiel - CRajA MOHAN",
+   "deck": "",
+   "byline": "",
+   "text": "SECTIONS OFTHE Indian foreign policy community feel \"betrayed\" by the Donald Trump administration, which has found unexpected affection for Rawalpindi, raised a host oftough demands on trade, and threatened additional tariffs on India because of its BRICS membership and continued purchase of Russian oil. It is, perhaps, a small consolation that India is not alone. America's neighbours and largest trading partners(Mexico and Canada) and its longstanding allies in Europe and Asia have even more reasons to feel betrayed. Mostof these alliances datehack to theend\n\nof World Warll and have weathered multiple crises over the past eight decades. Butasin life, so in international relations - nothing is forever. If change is the only constant, that moment of restructuring has now arrived for America's alliances and partnerships in Europe and Asia. As anon-ally, India is better prepared for change in America. Theidea of \"strategic autonomy\", long central to India's foreign policy, has been viewed with scepticism by India's Wester partners. They have argued that India's near obsession with autonomy limits the scope for strategic cooperation with the US and Europe. But today, \"strategicautonomy\" has become thenew mantra among America's allies themselves. Inhis address tothe British Parliament last week, French President Emmanuel Macronreflected on the implications of the unprecedented disruption unleashed by President Trump's second term. He underlined the need for deeper Franco-British cooperation to reduce what he called the \"dualdependency' on the US and China Macron warned against Europe's excessive reliance on the twosuperpowers foreconomic, technological, andsecurity needs, and emphasised the urgency of reclaiming European strategic autonomy. He called for stronger Franco-British collaboration ondefence, climate action migrationandtechnological innovation, suggesting that only through unity can Europe effectively respond toglohal challenges. and safeguard its interests, Although America's European allies bent over backwards to placate \"daddy\" Trump at",
+   "n_words": 293,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3577,
+      1446,
+      4179,
+      1504
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3575,
+      1490,
+      4181,
+      2160
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "important, their security challenges wouldbe-\nCome \u00a347 more Cemannine aniwiit American",
+   "deck_raw": "",
+   "body_raw": "come far more demanding without American\nguarantees. If Europe must find new ways to\ndefend itself against Russia, Asian allies must\ndevise strategies to cope with Chinese power.\nAmerica\u2019s Eurasian partners will not simply\nfold their hands \u2014 they willsearch for creative\nanswers. In Europe, Franceand Britain are dis-\ncussing better coordination of their nuclear\nweapons policies, while the EU is accelerat-\ning collective defence efforts,\nIn Asia, the challenge is harder. Unlike in\nEurope, regional institutions remain under-\ndeveloped, and the gap between China's\npower and that of its neighbours is vast. Yet,\nthe logic of diversification is undeniable. We\nare already seeing Asian allies doing more\nwith each other and engaging other actors,",
+   "ocr_conf": 90.42608695652174,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "important, their security challenges wouldbe-Come \u00a347 more Cemannine aniwiit American",
+   "deck": "",
+   "byline": "",
+   "text": "come far more demanding without American guarantees. If Europe must find new ways to defend itself against Russia, Asian allies must devise strategies to cope with Chinese power. America's Eurasian partners will not simply fold their hands - they willsearch for creative answers. In Europe, Franceand Britain are discussing better coordination of their nuclear weapons policies, while the EU is accelerating collective defence efforts, In Asia, the challenge is harder. Unlike in Europe, regional institutions remain under-developed, and the gap between China's power and that of its neighbours is vast. Yet, the logic of diversification is undeniable. We are already seeing Asian allies doing more with each other and engaging other actors,",
+   "n_words": 112,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3576,
+      2161,
+      4178,
+      2282
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      2283,
+      4180,
+      3429
+     ],
+     [
+      3579,
+      3473,
+      4178,
+      3628
+     ]
+    ],
+    "layout_words": 240
+   },
+   "headline_raw": "suchas the EU. Someare beginning to reassess\ntheir engagement with China.\nAtthe sametime, the depth of theUS rela-",
+   "deck_raw": "",
+   "body_raw": "tionship is such that preventing a slide into\noutright rupture remains atop priority for al-\nlies in both Asia and Europe. As Macron told\nthe British Parliament, Europe does not want\nto walk away from the US \u2014 but it must \u201cde-\nrisk\u201d ties by findingnew parters and rebuild-\ning its own capacities,\nIndia, for its part, is holding its nerve and\ncontinuing to engage Washington. As Delhi\nweighs the consequences of the Trump up-\nheaval for Eurasia and the global order, it is\nworth recalling that India has managed many\nstrategic surprises before: The Chinese \u201cbe-\ntrayal\u201d in 1962, Beijing's embrace of Pakistan,\nthe Sino-Soviet split, the US-China entente in\nthe 1970s, the Soviet collapse in 1991, the rise\nof anew economic order in the 1990s, andthe\nRussia-China alignment in the 2000s.\nIf external change is inevitable, Delhi's fo-\ncus must be on managing it rather than be-\nmoaning it. For now, India remains one of the\nfew major US tiade partners not yeinotified of\na new tariff level. Delhi has resumed trade\ntalks with Washington this week and is eager\ntoconcludeone of its most ambitious negoti-\nations before the August 1 deadline. But it\nmustbe prepared for failure. As Trump might\nremind us, the golden rule of any negotiation\nis the will to walk away.\n\nThe writer is distinguished fellow at the\nCouncil for Strategic and Defence Research,\nDelhi, and contributing editor on international\naffairs for The Indian Express",
+   "ocr_conf": 89.04979253112033,
+   "ocr_low_conf_share": 0.07468879668049792,
+   "headline": "suchas the EU. Someare beginning to reassess their engagement with China. Atthe sametime, the depth of theUS rela-",
+   "deck": "",
+   "byline": "",
+   "text": "tionship is such that preventing a slide into outright rupture remains atop priority for allies in both Asia and Europe. As Macron told the British Parliament, Europe does not want to walk away from the US - but it must \"derisk\" ties by findingnew parters and rebuilding its own capacities, India, for its part, is holding its nerve and continuing to engage Washington. As Delhi weighs the consequences of the Trump upheaval for Eurasia and the global order, it is worth recalling that India has managed many strategic surprises before: The Chinese \"betrayal\" in 1962, Beijing's embrace of Pakistan, the Sino-Soviet split, the US-China entente in the 1970s, the Soviet collapse in 1991, the rise of anew economic order in the 1990s, andthe Russia-China alignment in the 2000s. If external change is inevitable, Delhi's focus must be on managing it rather than bemoaning it. For now, India remains one of the few major US tiade partners not yeinotified of a new tariff level. Delhi has resumed trade talks with Washington this week and is eager toconcludeone of its most ambitious negotiations before the August 1 deadline. But it mustbe prepared for failure. As Trump might remind us, the golden rule of any negotiation is the will to walk away.\n\nThe writer is distinguished fellow at the Council for Strategic and Defence Research, Delhi, and contributing editor on international affairs for The Indian Express",
+   "n_words": 233,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      461,
+      2996,
+      1415,
+      3080
+     ]
+    ],
+    "deck_boxes": [
+     [
+      332,
+      3123,
+      1521,
+      3231
+     ],
+     [
+      1625,
+      3269,
+      2225,
+      3326
+     ]
+    ],
+    "body_boxes": [
+     [
+      493,
+      3272,
+      1528,
+      3307
+     ],
+     [
+      1623,
+      3312,
+      2226,
+      3626
+     ]
+    ],
+    "layout_words": 62
+   },
+   "headline_raw": "BILL OF DISTRACTION",
+   "deck_raw": "Punjab\u2019s proposed sacrilege law could push the state back into a\nprecarious debate that had receded into the background\nthe NATO summit last month, they are shocked\nhuthe Toimn sagminiganon\u2019c micec Ifrhare",
+   "body_raw": "HEPUNJAB GOVERNMENTS bill proposing life imprisonment anda fine of up\n\nbythe Trump administration\u2019s policies. Ifthere\nwere any lingering doubts, Trump dispelled\nthem over the weekend byimposing a 30 per\ncent tariff on imports from the European\nUnion, shattering hopes for compromise on\ntrade. Trumphas longregarded the EUasa big-\nger economic threat than China but few antic-\nipated thattiansatiaiiic ties would deteriorate",
+   "ocr_conf": 86.27868852459017,
+   "ocr_low_conf_share": 0.11475409836065574,
+   "headline": "BILL OF DISTRACTION",
+   "deck": "Punjab's proposed sacrilege law could push the state back into a precarious debate that had receded into the background the NATO summit last month, they are shocked huthe Toimn sagminiganon'c micec Ifrhare",
+   "byline": "",
+   "text": "HEPUNJAB GOVERNMENTS bill proposing life imprisonment anda fine of up\n\nbythe Trump administration's policies. Ifthere were any lingering doubts, Trump dispelled them over the weekend byimposing a 30 per cent tariff on imports from the European Union, shattering hopes for compromise on trade. Trumphas longregarded the EUasa bigger economic threat than China but few antic-ipated thattiansatiaiiic ties would deteriorate",
+   "n_words": 59,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      492,
+      3315,
+      1528,
+      3378
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3364,
+      1530,
+      4732
+     ]
+    ],
+    "layout_words": 416
+   },
+   "headline_raw": "toRs 10 lakh forthe desecration of any religious text \u2014 sent toa Select Committee\n\u2014itrleeanh nnhblomatc Theexichne max sorecc thernme therewacnnneed",
+   "deck_raw": "",
+   "body_raw": "iL \u2014isdeeply problematic. Theexisting!aws address thecrime, therewas noneed\nfor a separate piece of legislation. It pushes the state back into adebate that had\nreceded into the background. In 2015, the Bargari sacrilege incident followed by police firing\nthat killed two protesters, and a chain of \u201cbeadbi\u201d cases, had set the state on edge. It became\na flashpoint, and a potent symbolof the growing disiliusionment with the then-ruling Akali-\nBJP alliance, which had been in power for anunprecedentedtwo successive terms since 2007.\nThe public mood was already souring; Bargari crystallised the anger.\nCongress, which succeeded the Akalis, tried to ride that wave by pushing for a sacrilege\nlaw, capitalising on the issue's emotional resonance. This period also witnessed the meteoric\nrise of the Aam Aadmi Party, which played the \u201coutsider\u201d card and swept the 2022 Punjab\nAssembly elections, The AAP\u2019s victorywas less atestamentto the party's popularity, given that\nit had never been tested in the state, than a collective indictment of legacy parties that had\npersistently failed to meet the people's aspirations. Sacrilege, by then, had become a nor-is-\nsue. Voters said they were weary of hollow promises about smooth roads and clean drains.\nItis troubling that the AAP, which appears to have shifted gears after its electoral set-\nback in Delhi, should now choose to steer Punjab back towards the volatile terrain of sac-\nrilege. in 2015, such incidents carried a discernible political undertone, and suspicions\nwere trained on the role of the Dera Sacha Sauda. But in the years since, the sporadic\nepisodes have increasingly appeared to be individual acts of crime rather than politically\norchestrated. There is no denying that sacrilege wounds deeply as it strikes at the core of\nfaith. But fora border state grappling with economic, social, and security challenges, the\nreintroduction of this emotionally charged issue into the political discourse is a cause for\nconcern. Punjab\u2019s agricultural sector flounders in the absence of diversification. Despite\nhandwringing over depleting groundwater, the state still pushes paddy cultivation to\nnew highs. Land pooling for real estate is fuelling new tensions in a state struggling to\ntransition from an agrarian economy toone led by manufacturing. The drug menace con-\ntinues to kill and the law-and-order situation teeters on the edge. This bill can only be\nread as an attempt to stoke emotions and consolidate votes in the extended run-up to\nthe 2027 Assembly elections. At a time when Punjab needs to focus on rebuilding its\neconomy, and restoring public trust, it\u2019s a dangerous distraction.",
+   "ocr_conf": 91.88192771084337,
+   "ocr_low_conf_share": 0.03614457831325301,
+   "headline": "toRs 10 lakh forthe desecration of any religious text - sent toa Select Committee - itrleeanh nnhblomatc Theexichne max sorecc thernme therewacnnneed",
+   "deck": "",
+   "byline": "",
+   "text": "iL - isdeeply problematic. Theexisting!aws address thecrime, therewas noneed for a separate piece of legislation. It pushes the state back into adebate that had receded into the background. In 2015, the Bargari sacrilege incident followed by police firing that killed two protesters, and a chain of \"beadbi\" cases, had set the state on edge. It became a flashpoint, and a potent symbolof the growing disiliusionment with the then-ruling Akali-BJP alliance, which had been in power for anunprecedentedtwo successive terms since 2007. The public mood was already souring; Bargari crystallised the anger. Congress, which succeeded the Akalis, tried to ride that wave by pushing for a sacrilege law, capitalising on the issue's emotional resonance. This period also witnessed the meteoric rise of the Aam Aadmi Party, which played the \"outsider\" card and swept the 2022 Punjab Assembly elections, The AAP's victorywas less atestamentto the party's popularity, given that it had never been tested in the state, than a collective indictment of legacy parties that had persistently failed to meet the people's aspirations. Sacrilege, by then, had become a nor-issue. Voters said they were weary of hollow promises about smooth roads and clean drains. Itis troubling that the AAP, which appears to have shifted gears after its electoral setback in Delhi, should now choose to steer Punjab back towards the volatile terrain of sacrilege. in 2015, such incidents carried a discernible political undertone, and suspicions were trained on the role of the Dera Sacha Sauda. But in the years since, the sporadic episodes have increasingly appeared to be individual acts of crime rather than politically orchestrated. There is no denying that sacrilege wounds deeply as it strikes at the core of faith. But fora border state grappling with economic, social, and security challenges, the reintroduction of this emotionally charged issue into the political discourse is a cause for concern. Punjab's agricultural sector flounders in the absence of diversification. Despite handwringing over depleting groundwater, the state still pushes paddy cultivation to new highs. Land pooling for real estate is fuelling new tensions in a state struggling to transition from an agrarian economy toone led by manufacturing. The drug menace continues to kill and the law-and-order situation teeters on the edge. This bill can only be read as an attempt to stoke emotions and consolidate votes in the extended run-up to the 2027 Assembly elections. At a time when Punjab needs to focus on rebuilding its economy, and restoring public trust, it's a dangerous distraction.",
+   "n_words": 411,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2279,
+      3777,
+      3433,
+      3886
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2277,
+      3951,
+      4159,
+      4012
+     ]
+    ],
+    "body_boxes": [
+     [
+      2319,
+      4542,
+      2820,
+      5339
+     ],
+     [
+      2921,
+      4187,
+      3528,
+      5015
+     ],
+     [
+      3574,
+      4188,
+      4179,
+      5094
+     ],
+     [
+      3624,
+      5140,
+      4178,
+      5333
+     ],
+     [
+      3571,
+      5575,
+      4162,
+      5610
+     ],
+     [
+      3570,
+      5658,
+      4042,
+      5701
+     ],
+     [
+      3569,
+      5735,
+      4172,
+      6160
+     ]
+    ],
+    "layout_words": 456
+   },
+   "headline_raw": "IN A GREATER SPACE",
+   "deck_raw": "Shubhanshu Shukla\u2019s mission, safe return will provide valuable inputs to Gaganyaan",
+   "body_raw": "can effectively empower students to pursue\nSTEM education with seriousness. This is one\nof the prominent benefits to accrue from\nShukla\u2019s worthwhile journey to space.\nHaving many significant achievements to\nitscredit in the arenaof uncrewed spaceflight,\nIndia is confidently taking its first step into hu-\nman spaceflight. Gaganyaan aims to launch\nIndian space travellers from Indian soil, in an\nIndian-built spacecraft, propelled byan Indian\nlaunch vehicle, and make them orbit the Earth\nfor a few days. Serious and systematic efforts\nare being led by ISRO, with the enthusiastic\nparticipation of many national scientific/tech-\nnological institutions of repute.\nAs part of this arduous endeavour, the hu-\nman rating(significantiy enhancing therelia-\nbility of a rocket vehicle to safely launch hu-\nman beings) of India\u2019s most capable launch\nvehicle, HLVM3, has reportedly been com-\npleted. The design and development of the\n\ncandidates in Axiom 4willenrich Gaganyaan\nin terms of planning and execution. Shukla\nwas extensively trained in many US facilities,\nincluding at NASA, for about eight months.\nFairly detailed knowledge of such facilities as\nwell as the training procedures would not\nhave been available to us without the partic-\nipation in a human spaceflight mission.\nThus, not only has Shukla been trained for\nthe launch, he also now has first-hand expe-\nrience of travelling in aspacecraft to Earth or-\nbit. More importantly, he has gained invalu-\nable experience of living and working in the\nweightless environment of space aboard the\nISS. That he was able to perform the carefully\ndesigned and packaged bio-medical, health-\ncare, space food production and cognitive sci-\nence-related experiments from India has\ngreatly encouraged our scientific and engi-\nneering community and enhanced our con-\nfidence and atmanirbharta. Thus, India\u2019s par-\nticipation in the Axiom 4 missionis beneficial\nin many ways indeed.\n\nThe writer is director, Jawaharlal Nehru\nPlanetarium, Bengaluru, adjunct faculty,\nNational Institute of Advanced Studies and\nformer associate director, ISRO.\nViews are personal\n\nsome Middle East country, possibly the UAE.\n\nDHARAVI SCANDAL\n\nAFTER A FIERY four-and-a-half-hour discus-\nsion over the \u201cDharavi land scandal\u201d, the en-\ntire Opposition in the Maharashtra Legislative\nAssembly walked out for the day in protest\nagainst the government's refusal to appointa\ncommittee of House members to probe the\n\u201cdeal\u201d. Leaderof the Opposition Sharad Pawar\ndid not agree with Minister of State for Urban\nDevelopment Ram Manohar Tripathi\u2019s offer\nto ask the chief secretary to investigate the\nland deal.",
+   "ocr_conf": 92.16008771929825,
+   "ocr_low_conf_share": 0.02412280701754386,
+   "headline": "IN A GREATER SPACE",
+   "deck": "Shubhanshu Shukla's mission, safe return will provide valuable inputs to Gaganyaan",
+   "byline": "",
+   "text": "can effectively empower students to pursue STEM education with seriousness. This is one of the prominent benefits to accrue from Shukla's worthwhile journey to space. Having many significant achievements to itscredit in the arenaof uncrewed spaceflight, India is confidently taking its first step into human spaceflight. Gaganyaan aims to launch Indian space travellers from Indian soil, in an Indian-built spacecraft, propelled byan Indian launch vehicle, and make them orbit the Earth for a few days. Serious and systematic efforts are being led by ISRO, with the enthusiastic participation of many national scientific/technological institutions of repute. As part of this arduous endeavour, the human rating(significantiy enhancing thereliability of a rocket vehicle to safely launch human beings) of India's most capable launch vehicle, HLVM3, has reportedly been completed. The design and development of the\n\ncandidates in Axiom 4willenrich Gaganyaan in terms of planning and execution. Shukla was extensively trained in many US facilities, including at NASA, for about eight months. Fairly detailed knowledge of such facilities as well as the training procedures would not have been available to us without the participation in a human spaceflight mission. Thus, not only has Shukla been trained for the launch, he also now has first-hand experience of travelling in aspacecraft to Earth orbit. More importantly, he has gained invaluable experience of living and working in the weightless environment of space aboard the ISS. That he was able to perform the carefully designed and packaged bio-medical, health-care, space food production and cognitive science-related experiments from India has greatly encouraged our scientific and engineering community and enhanced our confidence and atmanirbharta. Thus, India's participation in the Axiom 4 missionis beneficial in many ways indeed.\n\nThe writer is director, Jawaharlal Nehru Planetarium, Bengaluru, adjunct faculty, National Institute of Advanced Studies and former associate director, ISRO. Views are personal\n\nsome Middle East country, possibly the UAE.\n\nDHARAVI SCANDAL\n\nAFTER A FIERY four-and-a-half-hour discussion over the \"Dharavi land scandal\", the entire Opposition in the Maharashtra Legislative Assembly walked out for the day in protest against the government's refusal to appointa committee of House members to probe the \"deal\". Leaderof the Opposition Sharad Pawar did not agree with Minister of State for Urban Development Ram Manohar Tripathi's offer to ask the chief secretary to investigate the land deal.",
+   "n_words": 377,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1623,
+      4051,
+      2063,
+      4134
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      4186,
+      2229,
+      5291
+     ]
+    ],
+    "layout_words": 192
+   },
+   "headline_raw": "B R GURUPRASAD",
+   "deck_raw": "",
+   "body_raw": "\u201cTHE SECOND INDIAN in space\u201d, Group\nCaptain Shubhanshu Shukla\u2019s return jour-\nney toterra firma was safely and successfully\naccomplished on July 15. Shukla is back af-\nter a fruitful stay of about 18 days on the\nInternational Space Station (ISS). A day be-\nfore his return, the Crew Dragon spacecraft\nGrace in which he comfortably sat with his\nthree Axiom 4 colleagues successfully un-\ndocked (detached) from the ISS, circling the\nEarthat 400 km height. For the next 22 hours\nor so, the craft independently orbited the\nEarth and then dived back into the atmos-\nphere, survived the subsequent fiery re-en-\ntry heat and splashed down off the coast of\nCalifomia ata comfortable speed ofabout 24\nkm per hour. With this, Shukla\u2019s maiden so-\njourn in space concluded.\nUnderstandably, the successful comple-\ntion of Shukla\u2019s Axiom4 mission willmakean\nalready joyous India more euphoric for quite\nsome time. Many among our hundreds of mil-\nlions of strong, intelligent and capable students\nwill consider Shukla a role model. Shukla has\nsaid that India\u2019s first space traveller, Rakesh\nSharma, wasa role model for him.\nThe sense of excitement associated with\nspaceflight, especially human snaceflight, and",
+   "ocr_conf": 93.28125,
+   "ocr_low_conf_share": 0.005208333333333333,
+   "headline": "B R GURUPRASAD",
+   "deck": "",
+   "byline": "",
+   "text": "\"THE SECOND INDIAN in space\", Group Captain Shubhanshu Shukla's return journey toterra firma was safely and successfully accomplished on July 15. Shukla is back after a fruitful stay of about 18 days on the International Space Station (ISS). A day before his return, the Crew Dragon spacecraft Grace in which he comfortably sat with his three Axiom 4 colleagues successfully undocked (detached) from the ISS, circling the Earthat 400 km height. For the next 22 hours or so, the craft independently orbited the Earth and then dived back into the atmosphere, survived the subsequent fiery re-entry heat and splashed down off the coast of Califomia ata comfortable speed ofabout 24 km per hour. With this, Shukla's maiden sojourn in space concluded. Understandably, the successful completion of Shukla's Axiom4 mission willmakean already joyous India more euphoric for quite some time. Many among our hundreds of millions of strong, intelligent and capable students will consider Shukla a role model. Shukla has said that India's first space traveller, Rakesh Sharma, wasa role model for him. The sense of excitement associated with spaceflight, especially human snaceflight, and",
+   "n_words": 183,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      404,
+      4848,
+      1443,
+      4934
+     ]
+    ],
+    "deck_boxes": [
+     [
+      506,
+      4978,
+      1341,
+      5085
+     ],
+     [
+      1623,
+      5278,
+      2227,
+      5336
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      5119,
+      1528,
+      6162
+     ]
+    ],
+    "layout_words": 315
+   },
+   "headline_raw": "THEY HAD US AT WOOF",
+   "deck_raw": "Alis trying to bridge the communication gap\nbetween species. Who needs that?\nSR nyo eee eee orn\nthe inspiration itcan provide are immense. It",
+   "body_raw": "HERE'S SOMETHING PRIMORDIAL in the bond between Homo sapiens and\nCanis lupus familiaris. Dogs helped hairless apes become people and humans\nhelped wolves become dogs. From palaeolithic hunting companions down\ntosocial media celebs, there has beena seamless, wordless bond between the\nspecies. But, as with so many things, the Al hype can\u2019t leave well enough alone. Several\ncompanies are now promising to \u201ctranslate\u201d what your canine or feline companion is\ntrying to say when she wags her tail, sulks for attention or purrs. The danger, though, is\nthis: What is gained in translation may be lost in affection.\nThe Jeremy Coller Centre for Animal Sentience at the London School of Economics\nwill deploy considerable resources to bridge the communication gap between species.\nThere is much to gain from the endeavour. For too Jong, a human-centric view of person-\nhood \u2014 which ignores intelligent, feeling creatures as diverse as corvids and apes, dolphins\nand elephants \u2014 has resulted in cruelty on the one hand and limited how we interact\nwith these animals on the other. But when it comes to pets, do we really need to know\nwhat they are \u201csaying\u201d? More importantly, predictive models may tell people what they\nwant to hear, rather than what the animal \u201cmeans\u201d.\nTake the pooch you have had for years. The eagerness with which he greets every\nmember of the family when they return, the comfort of every winter cuddle, even the\nmanipulative looks as they seek scraps from the table \u2014 what if it was all just translated\nto \u201cfood giver here\u201d? And the disdain of the domestic feline might ruin the self-esteem\nof the most secure persons. These words can be lies of translation. Because the language\npeople share with their pets is no less complex or complete than those humans reserve\nfor each other. In essence, it is a love beyond words. Let's not ruin that.",
+   "ocr_conf": 94.04126984126984,
+   "ocr_low_conf_share": 0.012698412698412698,
+   "headline": "THEY HAD US AT WOOF",
+   "deck": "Alis trying to bridge the communication gap between species. Who needs that? SR nyo eee eee orn the inspiration itcan provide are immense. It",
+   "byline": "",
+   "text": "HERE'S SOMETHING PRIMORDIAL in the bond between Homo sapiens and Canis lupus familiaris. Dogs helped hairless apes become people and humans helped wolves become dogs. From palaeolithic hunting companions down tosocial media celebs, there has beena seamless, wordless bond between the species. But, as with so many things, the Al hype can't leave well enough alone. Several companies are now promising to \"translate\" what your canine or feline companion is trying to say when she wags her tail, sulks for attention or purrs. The danger, though, is this: What is gained in translation may be lost in affection. The Jeremy Coller Centre for Animal Sentience at the London School of Economics will deploy considerable resources to bridge the communication gap between species. There is much to gain from the endeavour. For too Jong, a human-centric view of person-hood - which ignores intelligent, feeling creatures as diverse as corvids and apes, dolphins and elephants - has resulted in cruelty on the one hand and limited how we interact with these animals on the other. But when it comes to pets, do we really need to know what they are \"saying\"? More importantly, predictive models may tell people what they want to hear, rather than what the animal \"means\". Take the pooch you have had for years. The eagerness with which he greets every member of the family when they return, the comfort of every winter cuddle, even the manipulative looks as they seek scraps from the table - what if it was all just translated to \"food giver here\"? And the disdain of the domestic feline might ruin the self-esteem of the most secure persons. These words can be lies of translation. Because the language people share with their pets is no less complex or complete than those humans reserve for each other. In essence, it is a love beyond words. Let's not ruin that.",
+   "n_words": 314,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2924,
+      5016,
+      3527,
+      5074
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2924,
+      5059,
+      3528,
+      5332
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "Gaganyaan spacecraft, which willbe capable\nNe accnmime ating hires cnoagcetrvellere icin",
+   "deck_raw": "",
+   "body_raw": "of accommodating three space travellers, isin\nprogress, Prashanth Balakrishnan Nair, Ajit\nKrishnan, Angad Pratap and Shukla, ail test pi-\nlots now holding the rank of group captain in\nthe Indian Air Force, have been selected and\ntrained in India and Russia.\nThe participation of one of its astronaut",
+   "ocr_conf": 87.27083333333333,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "Gaganyaan spacecraft, which willbe capable Ne accnmime ating hires cnoagcetrvellere icin",
+   "deck": "",
+   "byline": "",
+   "text": "of accommodating three space travellers, isin progress, Prashanth Balakrishnan Nair, Ajit Krishnan, Angad Pratap and Shukla, ail test pilots now holding the rank of group captain in the Indian Air Force, have been selected and trained in India and Russia. The participation of one of its astronaut",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2264,
+      5440,
+      3394,
+      5528
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2266,
+      5551,
+      2872,
+      5886
+     ],
+     [
+      2919,
+      5574,
+      3522,
+      5808
+     ]
+    ],
+    "layout_words": 96
+   },
+   "headline_raw": "JuLy 16, 1985, Forty YEARS AGO",
+   "deck_raw": "",
+   "body_raw": "BLACK Box ANALYSIS\nThe Bhabha Atomic Research Centre (BARC)\nand the engineering department of Air India\nare all set to extract a read-out and a print-out\nof the cockpit voice recorder and the digital\nflight data recorder of the ill-fated Air India\njumbo Kanishka that perished in the Atlantic\noff the Irish coast onJune 23.\n\nofferhad come duringthetalks the Sri Lankan\nPresident had with the Prime Minister.\nVirtually ruling out support for a separate\nEelam, the Prime Minister told anewsconfer-\nence at Raj Bhavan that \u201cwe will not support\nanything more than whatis available in India\u201d.",
+   "ocr_conf": 93.66666666666667,
+   "ocr_low_conf_share": 0.010416666666666666,
+   "headline": "JuLy 16, 1985, Forty YEARS AGO",
+   "deck": "",
+   "byline": "BLACK Box ANALYSIS",
+   "text": "The Bhabha Atomic Research Centre (BARC) and the engineering department of Air India are all set to extract a read-out and a print-out of the cockpit voice recorder and the digital flight data recorder of the ill-fated Air India jumbo Kanishka that perished in the Atlantic off the Irish coast onJune 23.\n\nofferhad come duringthetalks the Sri Lankan President had with the Prime Minister. Virtually ruling out support for a separate Eelam, the Prime Minister told anewsconference at Raj Bhavan that \"we will not support anything more than whatis available in India\".",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2915,
+      5856,
+      3481,
+      5909
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2915,
+      5933,
+      3524,
+      6253
+     ]
+    ],
+    "layout_words": 47
+   },
+   "headline_raw": "JKLF DISINTEGRATION",
+   "deck_raw": "",
+   "body_raw": "THEOVERSEAS WING of the so-called Jammu\nand Kashmir Liberation Front (JKLF) seems to\nbe disintegrating and its former president,\nAmanullah Khan, is so frustrated with what he\ncalled \u201cintegral politics\u201d that he is now seri-\nously thinking of setting up his headquarters in\nJaipur r",
+   "ocr_conf": 85.4888888888889,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "JKLF DISINTEGRATION",
+   "deck": "",
+   "byline": "",
+   "text": "THEOVERSEAS WING of the so-called Jammu and Kashmir Liberation Front (JKLF) seems to be disintegrating and its former president, Amanullah Khan, is so frustrated with what he called \"integral politics\" that he is now seriously thinking of setting up his headquarters in Jaipur r",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2268,
+      5934,
+      2870,
+      5978
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2267,
+      6011,
+      2871,
+      6166
+     ]
+    ],
+    "layout_words": 29
+   },
+   "headline_raw": "PM ON Sri LANKA WAR",
+   "deck_raw": "",
+   "body_raw": "THE SRI LANKAN President, J RJayewardene,\nhas offered to grant \u201csufficient autonomy\u201d to\nTamil areas of the island to resolve the ethnic\nissue, Prime Minister Rajiv Gandhi said. The",
+   "ocr_conf": 88.48275862068965,
+   "ocr_low_conf_share": 0.06896551724137931,
+   "headline": "PM ON Sri LANKA WAR",
+   "deck": "",
+   "byline": "",
+   "text": "THE SRI LANKAN President, J RJayewardene, has offered to grant \"sufficient autonomy\" to Tamil areas of the island to resolve the ethnic issue, Prime Minister Rajiv Gandhi said. The",
+   "n_words": 29,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 24.1,
+ "flags": []
+}

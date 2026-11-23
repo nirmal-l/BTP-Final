@@ -1,0 +1,622 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_19_editorial",
+ "source_file": "2025-08-19_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-19_editorial.png",
+ "date": "2025-08-19",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 2,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 453,
+  "mean_line_conf": 90.4768882683131,
+  "orphan_words": 577,
+  "body_words_total": 3497
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1472,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1234,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      1416,
+      960
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "@ FOUNDED By\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 76.0,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "@ FOUNDED By; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1922,
+      597,
+      3874,
+      771
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      886,
+      3533,
+      1017
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      2245,
+      2825,
+      3390
+     ],
+     [
+      2922,
+      1290,
+      3529,
+      3377
+     ]
+    ],
+    "layout_words": 433
+   },
+   "headline_raw": "The Red Fort Charter",
+   "deck_raw": "From energy security to employment, PM Modi laid\nout a blueprint for wide-ranging reform",
+   "body_raw": "It is telling that the Income\nTax Act of 1961, a relic of that\nera, is now being replaced. The\nnew Income Tax Bill is\nreducing complexity,\nabolishing 280 redundant\nsections, and offering relief up\nto Rs 12 lakh. The\nintroduction of faceless\nassessment has made the\nsystem transparent, efficient,\nand incorruptible. GST 2.0, to\nbe launched by Diwali, will\nfurther rationalise rates and\nboost compliance. Alongside\nthe abolition of over 40,000\nunnecessary compliances,\nrepealing more than 1,500\noutdated laws, and the\nInsolvency and Bankruptcy\nCode, this represents the\ndismantling of Nehru\neconomic cage.\n\nand two billion tonnes. Offshorecommon in-\nfrastructure will be created ona plug-and-play\nbasis to unlock an additional 100-250 billion\ncubic metres of gas in place, equivalent to\nnearly 8 million tonnes of production.\nTogether, these measures will not only mon-\netise previously stranded discoveries but also\nbuild an Atmanirbhar E&P ecosystem where\nthe share of local supply chains rises from to-\nday's 25-30 per cent to over 70 per cent. This\nis India\u2019s mostcomprehensive upstream over-\nhaul since Independence.\nAt the same time, India has emerged as a\nglobal leader in energy transition. India has\nreached the 50 per cent clean-power mark in\n2025 \u2014 five years ahead of the 2030 target.\nBiofuels andgreen hydrogen are moving from\npilots to production; ethanol blending and CBG\nscale-up are building a new rural-industial\nbackbone; LNG infrastructure continues to ex-\npand. The civilian nuclear sector has been\nopened to private participation. Currently, 10\nnew nuclear reactors are operational, and India\naims to increase its nuclear energy capacity\ntenfold by the 100th year ofits independence.\nThe PM's announcement of the National\nCritical Minerals Mission marksa watershed\ninour industrial strategy. Asthe world recog-\nnises the strategic value of lithium, rare\nearths, nickel and cobalt, India has launched\nexploration at 1,200+ sites andis structuring\npartnerships, processing and recycling so that\nrenewable power, semiconductors, EVs and\nadvanced defence are never hostage to\nextemal choke-points.\nNational securitywas the other pillar of the\nRed Fort charter. Operation Sindoor displayed\nIndia\u2019s military prowess in real time, ending\nthe era of nuclear blackmail and sending a\nmessage that aggression will be met with\nswiftness and sophistication. The reversal of\nthe Indus Waters Treaty is abold assertion of\nsovereignty. The unveiling of Mission\nSudarshan Chakra, inspired by Lord Krishna\nshielding Arjun on the battlefield, is emblem-\naticofModi\u2019s style\u2014civilisational symbolism\nmarried to cutting-edge technology. A multi-\nlayered indigenous security shield will protect\nIndia\u2019s critical institutions from cyber, physi-\ncaland hybrid threats,\nThe PM also did not shy away from hard\ntruths. He urged industry and farmers to em-\nbrace self-reliance and make balanced use",
+   "ocr_conf": 91.2,
+   "ocr_low_conf_share": 0.041379310344827586,
+   "headline": "The Red Fort Charter",
+   "deck": "From energy security to employment, PM Modi laid out a blueprint for wide-ranging reform",
+   "byline": "",
+   "text": "It is telling that the Income Tax Act of 1961, a relic of that era, is now being replaced. The new Income Tax Bill is reducing complexity, abolishing 280 redundant sections, and offering relief up to Rs 12 lakh. The introduction of faceless assessment has made the system transparent, efficient, and incorruptible. GST 2.0, to be launched by Diwali, will further rationalise rates and boost compliance. Alongside the abolition of over 40,000 unnecessary compliances, repealing more than 1,500 outdated laws, and the Insolvency and Bankruptcy Code, this represents the dismantling of Nehru economic cage.\n\nand two billion tonnes. Offshorecommon infrastructure will be created ona plug-and-play basis to unlock an additional 100-250 billion cubic metres of gas in place, equivalent to nearly 8 million tonnes of production. Together, these measures will not only monetise previously stranded discoveries but also build an Atmanirbhar E&P ecosystem where the share of local supply chains rises from today's 25-30 per cent to over 70 per cent. This is India's mostcomprehensive upstream overhaul since Independence. At the same time, India has emerged as a global leader in energy transition. India has reached the 50 per cent clean-power mark in 2025 - five years ahead of the 2030 target. Biofuels andgreen hydrogen are moving from pilots to production; ethanol blending and CBG scale-up are building a new rural-industial backbone; LNG infrastructure continues to expand. The civilian nuclear sector has been opened to private participation. Currently, 10 new nuclear reactors are operational, and India aims to increase its nuclear energy capacity tenfold by the 100th year ofits independence. The PM's announcement of the National Critical Minerals Mission marksa watershed inour industrial strategy. Asthe world recognises the strategic value of lithium, rare earths, nickel and cobalt, India has launched exploration at 1,200+ sites andis structuring partnerships, processing and recycling so that renewable power, semiconductors, EVs and advanced defence are never hostage to extemal choke-points. National securitywas the other pillar of the Red Fort charter. Operation Sindoor displayed India's military prowess in real time, ending the era of nuclear blackmail and sending a message that aggression will be met with swiftness and sophistication. The reversal of the Indus Waters Treaty is abold assertion of sovereignty. The unveiling of Mission Sudarshan Chakra, inspired by Lord Krishna shielding Arjun on the battlefield, is emblem-aticofModi's style - civilisational symbolism married to cutting-edge technology. A multilayered indigenous security shield will protect India's critical institutions from cyber, physicaland hybrid threats, The PM also did not shy away from hard truths. He urged industry and farmers to embrace self-reliance and make balanced use",
+   "n_words": 427,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      338,
+      1088,
+      1512,
+      1203
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1235,
+      1529,
+      3145
+     ]
+    ],
+    "layout_words": 570
+   },
+   "headline_raw": "QUESTIONS & QUESTIONS",
+   "deck_raw": "",
+   "body_raw": "The EC faces many, it undermines itself in the shrill and\nadversarial way it responds to them\nHISISA fraught moment forthe Election Commission. The poll monitor, which\nhas consistently ranked high on the list of India\u2019s most trusted institutions, has\nbeen at thecentre of a storm, or two. One, the accusations of \u201cvote chor?\u2019 levelled\nat it by the Leader of the Opposition in the Lok Sabha, Rahul Gandhi, earlier in\nMaharashtra, and more recently in Kamataka. Those allegations evidently stem froma po-\nlitical call taken by the Congress leader to make the \u201cstolen election\u201d the centrepiece of his\nparty'scampaign \u2014 its first test will be in the upcoming election in Bihar, where he hasjust\nbegun a 16-day, 1,300-km \u201cVote Adhikar Yatra\u201d. And two, the controversy over the EC's\nSpecial Intensive Revision of electoral rolls, also in Bihar, which has sparked genuine fears\nof widespread disenfranchisement because of the way it is beingconducted. Ina break from\nthe past, the SIR shifts the burden of proof ontothe voters and itseemsto be more anexer-\ncise of exclusion than inclusion. It is against this backdrop that the Commission helda press\nconference on Sunday, ina bid to answer questions and clear the air. It addressed some\nquestions, ducked and stonewalled others. By assuming a politically adversarial tone and\ngiving the impression of being thin-skinned \u2014 the EC has a lesson or two to leam on deal-\ning withcriticism from the Supreme Court \u2014 it also notched some own goals.\nChief Election Commissioner Gyanesh Kumar pointed, rightly, to the established due\nprocess for making complaints about frauduient voters and lists, and the fact that the poll\nmonitor must necessarily take into account considerations such as voter privacy as it\nmoves towards greater transparency. Itis also evident that Congress's allegations of \u201cvote\nchor\u2019, by a grand conspiracy involving collusion between the poll monitor and the rul-\ning BJP that cuts through a layered electoral process's several checks and balances, depends\non apolitical suspension of disbelief. At the same time, however, as an ongoing series of\nreportsin this paper has shown, theSIRin Bihar has raised legitimate questions about tim-\ning and design that must be addressed urgently. The Supreme Court has also intervened\nonthe SIR, upholding the EC\u2019s power to carry out the exercise while nudging itto display\nmore transparency. That the EChas published the list of 65 lakh names deleted from the\ndraft rollsin the first phase of the SIR, giving reasons for the deletions, isa step inthe right\ndirection. That electoral officers in all of Bihar\u2019s 38 districts have reportedly been asked\nto consider the family tree as an informal 12th document \u2014amid a scramble by voters for\nthe relatively hard-to-get 11 documents on the EC's list \u2014 is heartening.\nQuestions and controversies about who is a voter and who isn\u2019t are set to become\nmore salient amid an inward-looking politics, a waning of common ground and when dis-\ntrust of mediating institutions is rising. In times such as these, the EC must recognise\nwhat is at stake, and why it is crucial for it to be fair and independent and be seen to be\nso, too. The press conference was a beginning. The EC must take the process forward,\nwith a sense of responsibility and, more importantly, with humility. And a conviction\nthat itis a constitutional authority that needs toaddress every question, not have its mem-\nbers sound like the government officials they once were.",
+   "ocr_conf": 90.76357267950964,
+   "ocr_low_conf_share": 0.04203152364273205,
+   "headline": "QUESTIONS & QUESTIONS",
+   "deck": "",
+   "byline": "",
+   "text": "The EC faces many, it undermines itself in the shrill and adversarial way it responds to them HISISA fraught moment forthe Election Commission. The poll monitor, which has consistently ranked high on the list of India's most trusted institutions, has been at thecentre of a storm, or two. One, the accusations of \"vote chor?' levelled at it by the Leader of the Opposition in the Lok Sabha, Rahul Gandhi, earlier in Maharashtra, and more recently in Kamataka. Those allegations evidently stem froma political call taken by the Congress leader to make the \"stolen election\" the centrepiece of his party'scampaign - its first test will be in the upcoming election in Bihar, where he hasjust begun a 16-day, 1,300-km \"Vote Adhikar Yatra\". And two, the controversy over the EC's Special Intensive Revision of electoral rolls, also in Bihar, which has sparked genuine fears of widespread disenfranchisement because of the way it is beingconducted. Ina break from the past, the SIR shifts the burden of proof ontothe voters and itseemsto be more anexercise of exclusion than inclusion. It is against this backdrop that the Commission helda press conference on Sunday, ina bid to answer questions and clear the air. It addressed some questions, ducked and stonewalled others. By assuming a politically adversarial tone and giving the impression of being thin-skinned - the EC has a lesson or two to leam on dealing withcriticism from the Supreme Court - it also notched some own goals. Chief Election Commissioner Gyanesh Kumar pointed, rightly, to the established due process for making complaints about frauduient voters and lists, and the fact that the poll monitor must necessarily take into account considerations such as voter privacy as it moves towards greater transparency. Itis also evident that Congress's allegations of \"vote chor', by a grand conspiracy involving collusion between the poll monitor and the ruling BJP that cuts through a layered electoral process's several checks and balances, depends on apolitical suspension of disbelief. At the same time, however, as an ongoing series of reportsin this paper has shown, theSIRin Bihar has raised legitimate questions about timing and design that must be addressed urgently. The Supreme Court has also intervened onthe SIR, upholding the EC's power to carry out the exercise while nudging itto display more transparency. That the EChas published the list of 65 lakh names deleted from the draft rollsin the first phase of the SIR, giving reasons for the deletions, isa step inthe right direction. That electoral officers in all of Bihar's 38 districts have reportedly been asked to consider the family tree as an informal 12th document - amid a scramble by voters for the relatively hard-to-get 11 documents on the EC's list - is heartening. Questions and controversies about who is a voter and who isn't are set to become more salient amid an inward-looking politics, a waning of common ground and when distrust of mediating institutions is rising. In times such as these, the EC must recognise what is at stake, and why it is crucial for it to be fair and independent and be seen to be so, too. The press conference was a beginning. The EC must take the process forward, with a sense of responsibility and, more importantly, with humility. And a conviction that itis a constitutional authority that needs toaddress every question, not have its members sound like the government officials they once were.",
+   "n_words": 565,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1621,
+      1117,
+      2034,
+      1213
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      1289,
+      2228,
+      3026
+     ],
+     [
+      1620,
+      3072,
+      2224,
+      3376
+     ]
+    ],
+    "layout_words": 374
+   },
+   "headline_raw": "_\u2014 a ee a\nHARDEEP S PURI",
+   "deck_raw": "",
+   "body_raw": "| HAVE BEEN privileged to listen to August 15\nspeeches since I was a schoolgoer, but Prime\nMinister Narendra Modi's 12th Independence\nDay speech on Friday was unprecedented. It\nunleashed a Brahmastra \u2014 Arjun\u2019s legendary\nweapon with no counter \u2014 aimed at acceler-\nating India\u2019s path to Viksit Bharat. At atime of\nextraordinary turbulence in the global econ-\nomy, India continues to surge ahead as the\nfastest-growing large economy. The speech\nwas remarkable not merely for its sweep but\nfor its scope \u2014 next-generation reforms that\narebold, and capable of reshaping the destiny\nof 1.4 billion people \u2014 with a clarity of vision\nthat the nation has never witnessed before.\nTake the Digital India stack, UPI account-\ning for half of the world\u2019s real-time transac-\ntions, and the roll-out of the first Made-in-\nIndia chip by year-end. These show India\u2019s\nlead position in the global digital economy.\nAta time when semiconductors decide the\ndestiny of nations, this is nothing less than\ndigital Swaraj \u2014 India\u2019s assertion of sover-\neignty over critical technologies.\nEnergy security had long beenthe Achilles\u2019\nheel ofIndia\u2019s growth. For decades, hesitation\nand \u201cno-go\u201d classifications throttled explo-\nration and deepened import dependence.\nUnder PM Modi, India has reduced \u201cno-go\u201d\nareas for Exclusive Economic Zones by almost\n99 per cent, freeing 10 lakh sq km for explo-\nration and production (E&P). Coupled with\nOpenAcreage Licensing Policy (OALP), this has\nopened avast canvas to Indian champions and\nglobal majors alike \u2014 our hydrocarbon basins\nwill no longer lie dormant but be harnessed\nfornational progress, The National Deepwater\nExploration Mission, announced from the\nramparts of the Red Fort, sets an ambitious\nfrontier agenda in the Bay of Bengal and the\nArabian Sea. It aims to unlock 600-1,200 mil-\nlion metric tonnes of oil and gas reserves\nthrough the drilling of nearly 40 wildcat wells.\nFor the first time, India will systematically\n\nthe Bay of Bengal to the Arabian Sea \u2014 witha\nframework that de-risks investment by allow-\ning recovery of upto80 per centof costsin the\ncase of dry wells, and 40 per cent upon com-\nmercial discovery. This initiative is part of a\nbroader blueprint that could triple domestic\noil and gas output to85 million tonnes by 2032\nand double national reserves to between one",
+   "ocr_conf": 92.18181818181819,
+   "ocr_low_conf_share": 0.029411764705882353,
+   "headline": "HARDEEP S PURI",
+   "deck": "",
+   "byline": "",
+   "text": "HAVE BEEN privileged to listen to August 15 speeches since I was a schoolgoer, but Prime Minister Narendra Modi's 12th Independence Day speech on Friday was unprecedented. It unleashed a Brahmastra - Arjun's legendary weapon with no counter - aimed at accelerating India's path to Viksit Bharat. At atime of extraordinary turbulence in the global economy, India continues to surge ahead as the fastest-growing large economy. The speech was remarkable not merely for its sweep but for its scope - next-generation reforms that arebold, and capable of reshaping the destiny of 1.4 billion people - with a clarity of vision that the nation has never witnessed before. Take the Digital India stack, UPI accounting for half of the world's real-time transactions, and the roll-out of the first Made-in-India chip by year-end. These show India's lead position in the global digital economy. Ata time when semiconductors decide the destiny of nations, this is nothing less than digital Swaraj - India's assertion of sovereignty over critical technologies. Energy security had long beenthe Achilles' heel ofIndia's growth. For decades, hesitation and \"no-go\" classifications throttled exploration and deepened import dependence. Under PM Modi, India has reduced \"no-go\" areas for Exclusive Economic Zones by almost 99 per cent, freeing 10 lakh sq km for exploration and production (E&P). Coupled with OpenAcreage Licensing Policy (OALP), this has opened avast canvas to Indian champions and global majors alike - our hydrocarbon basins will no longer lie dormant but be harnessed fornational progress, The National Deepwater Exploration Mission, announced from the ramparts of the Red Fort, sets an ambitious frontier agenda in the Bay of Bengal and the Arabian Sea. It aims to unlock 600-1,200 million metric tonnes of oil and gas reserves through the drilling of nearly 40 wildcat wells. For the first time, India will systematically\n\nthe Bay of Bengal to the Arabian Sea - witha framework that de-risks investment by allowing recovery of upto80 per centof costsin the case of dry wells, and 40 per cent upon commercial discovery. This initiative is part of a broader blueprint that could triple domestic oil and gas output to85 million tonnes by 2032 and double national reserves to between one",
+   "n_words": 362,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3569,
+      1291,
+      4182,
+      3266
+     ]
+    ],
+    "layout_words": 346,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "of fertilisers. While Indiais the pharmacy of\nthe world, producing 60 per cent of global\nvaccines, this must now translate into lead-\nership in new medicines, vaccines, and de-\nvices. This sits alongside a push in biopharma\nunder the BioE3 policy, where our ambition\nis to patent and produce medicines that are\naffordable and world-class.\nEqually bold are the announcedtax and le-\ngalreforms. Itis telling that the IncomeTax Act\nof 1961, arelic of thatera, isnow being replaced.\nThe new Income Tax Bill isreducingcomplex-\nity, abolishing 280 redundant sections, and of-\nfering relief up to Rs 12 lakh. The introduction\nof faceless assessment has made the system\ntransparent, efficient, and incorruptible. GST\n2.0, to be launched by Diwali, will further ra-\ntionalise rates and boost compliance.\nAlongsidethe abolition ofover40,000unnec-\nessary compliances, repealing more than 1,500\noutdated laws, and the Insolvency and\nBankruptcy Code, this represents the disman-\ntling of Nehru\u2019s economic cage. Direct Benefit\nTransfers \u2014 touching over 25 crore beneficiar-\nies \u2014 have embedded accountability into wel-\nfare, and more than 250 million Indians have\nbeen lifted out of poverty.\nThe focus on employment has been\nbrought to the centre stage. The PM Viksit\nBharat Rozgar Yojana launches with an outlay\nof Rs 1 lakh crore; newly employed youth will\nreceive Rs 15,000 per month, companies that\ngenerate fresh jobs will be incentivised, and\nthe programme aims to reach about 3.5 crore\nyoung Indians. To translate ambition into re-\nality, the PM has unveileda Task Force for Next-\nGeneration Reforms \u2014 a body designed to re-\nengineer the ecosystem of economic activity.\nIts mandate is to slash compliance costs that\nweigh down our startups and MSMEs, toliber-\nate enterprise from the shadow of arbitrary ac-\ntion, and to streamline a thicket of laws into a\nframework thatis simple and predictable.\nThe reforms announced on August 15 are\nnot about tomorrow\u2019s headlines but about\nthe India of 2047. As the PM reminded us,\nthe world is watching an ancient civilisation\ntransform into a modern power \u2014 not by\nabandoning its roots but by drawing\nstrength from them.",
+   "ocr_conf": 90.3728323699422,
+   "ocr_low_conf_share": 0.03468208092485549,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "of fertilisers. While Indiais the pharmacy of the world, producing 60 per cent of global vaccines, this must now translate into leadership in new medicines, vaccines, and devices. This sits alongside a push in biopharma under the BioE3 policy, where our ambition is to patent and produce medicines that are affordable and world-class. Equally bold are the announcedtax and legalreforms. Itis telling that the IncomeTax Act of 1961, arelic of thatera, isnow being replaced. The new Income Tax Bill isreducingcomplexity, abolishing 280 redundant sections, and offering relief up to Rs 12 lakh. The introduction of faceless assessment has made the system transparent, efficient, and incorruptible. GST 2.0, to be launched by Diwali, will further rationalise rates and boost compliance. Alongsidethe abolition ofover40,000unnecessary compliances, repealing more than 1,500 outdated laws, and the Insolvency and Bankruptcy Code, this represents the dismantling of Nehru's economic cage. Direct Benefit Transfers - touching over 25 crore beneficiaries - have embedded accountability into welfare, and more than 250 million Indians have been lifted out of poverty. The focus on employment has been brought to the centre stage. The PM Viksit Bharat Rozgar Yojana launches with an outlay of Rs 1 lakh crore; newly employed youth will receive Rs 15,000 per month, companies that generate fresh jobs will be incentivised, and the programme aims to reach about 3.5 crore young Indians. To translate ambition into reality, the PM has unveileda Task Force for Next-Generation Reforms - a body designed to reengineer the ecosystem of economic activity. Its mandate is to slash compliance costs that weigh down our startups and MSMEs, toliberate enterprise from the shadow of arbitrary action, and to streamline a thicket of laws into a framework thatis simple and predictable. The reforms announced on August 15 are not about tomorrow's headlines but about the India of 2047. As the PM reminded us, the world is watching an ancient civilisation transform into a modern power - not by abandoning its roots but by drawing strength from them.",
+   "n_words": 331,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      508,
+      3208,
+      1341,
+      3291
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3335,
+      1527,
+      4772
+     ]
+    ],
+    "layout_words": 424
+   },
+   "headline_raw": "SIMPLER IS BETTER",
+   "deck_raw": "",
+   "body_raw": "Steps to rationalise tax slabs under GST are welcome. Revenue\nimplications need to be examined, consensus with states forged\nINCE THE SHIFT to GST, the indirect tax regime in India has been plagued by\nmany problems, stemming from the multiplicity of rates, compliance and clas-\nS sification issues, and inverted duty structure. Over the years, while the GST\nCouncil has taken steps to ease the taxpayer's burden, on the issue of rate ra-\ntionalisation, there has been little progress. The Group of Ministers (GoM) on rate ratio-\nnalisation was originally set up in the 45th meeting of the GST Council in 2021. There\nnow appears to be arenewed push to rationalise the tax slabs. In his Independence Day\nspeech, Prime Minister Narendra Modi announced the ushering in ofthe next-generation\nGST reforms by Diwali this year. \u201cThe government will bring next-generation GST re-\nforms, which will bring down tax burden on the common man. It will be a Diwali gift for\nyou,\u201d he said. Considering the sheer complexity of the current system, and the space for\ndiscretion it creates, steps to rationalise the tax slabs are welcome.\nThe proposal involves replacing the current system of multiple slabs \u2014 with main\nratesof5 percent, 12 per cent, 18 per cent and 28 per cent, along with cesses \u2014 witha two-\nslab structure of 5 percentand 18 per cent, and a 40 per cent rate fora few items includ-\ning sin and demerit goods. This is said to entail shifting almost all items under the current\n12 percent slab to 5 percent \u2014the 12 percentslab accounted for just 5-6 per cent of GST\ncollections in 2023-24 \u2014 and moving 90 per cent of items taxed at 28 percent to the 18\nper cent slab. This proposal has been sent to the GoM, which is expected to meet this\nweek to discuss the issue.\nThe GST rate (weighted average) had fallenfrom 14.4 percent in 2017 to 11.6 percent\nby September 2019. This is lower than the 15.3 per cent recommended by the\nSubramanian Committee. While any move to bring down the tax burden on the con-\nsumer will have revenue implications, there are expectations that lower rates and a\nsimplified structure will lead to higher consumption and better compliance. It is pos-\nsible that the proposal will face some resistance from states owing to a likely loss in\nrevenues. Thus, any rate rationalisation exercise will have to build consensus in the\nGST Council, while taking into consideration the revenue implications of such a move\nfor both the Centre and the states.",
+   "ocr_conf": 92.96009389671362,
+   "ocr_low_conf_share": 0.018779342723004695,
+   "headline": "SIMPLER IS BETTER",
+   "deck": "",
+   "byline": "",
+   "text": "Steps to rationalise tax slabs under GST are welcome. Revenue implications need to be examined, consensus with states forged INCE THE SHIFT to GST, the indirect tax regime in India has been plagued by many problems, stemming from the multiplicity of rates, compliance and clas-S sification issues, and inverted duty structure. Over the years, while the GST Council has taken steps to ease the taxpayer's burden, on the issue of rate rationalisation, there has been little progress. The Group of Ministers (GoM) on rate rationalisation was originally set up in the 45th meeting of the GST Council in 2021. There now appears to be arenewed push to rationalise the tax slabs. In his Independence Day speech, Prime Minister Narendra Modi announced the ushering in ofthe next-generation GST reforms by Diwali this year. \"The government will bring next-generation GST reforms, which will bring down tax burden on the common man. It will be a Diwali gift for you,\" he said. Considering the sheer complexity of the current system, and the space for discretion it creates, steps to rationalise the tax slabs are welcome. The proposal involves replacing the current system of multiple slabs - with main ratesof5 percent, 12 per cent, 18 per cent and 28 per cent, along with cesses - witha twoslab structure of 5 percentand 18 per cent, and a 40 per cent rate fora few items including sin and demerit goods. This is said to entail shifting almost all items under the current 12 percent slab to 5 percent - the 12 percentslab accounted for just 5-6 per cent of GST collections in 2023-24 - and moving 90 per cent of items taxed at 28 percent to the 18 per cent slab. This proposal has been sent to the GoM, which is expected to meet this week to discuss the issue. The GST rate (weighted average) had fallenfrom 14.4 percent in 2017 to 11.6 percent by September 2019. This is lower than the 15.3 per cent recommended by the Subramanian Committee. While any move to bring down the tax burden on the consumer will have revenue implications, there are expectations that lower rates and a simplified structure will lead to higher consumption and better compliance. It is possible that the proposal will face some resistance from states owing to a likely loss in revenues. Thus, any rate rationalisation exercise will have to build consensus in the GST Council, while taking into consideration the revenue implications of such a move for both the Centre and the states.",
+   "n_words": 419,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3730,
+      3310,
+      4182,
+      3377
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is the Union Minister for\nPetroleum & Natural Gas",
+   "ocr_conf": 77.27272727272727,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is the Union Minister for Petroleum & Natural Gas",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2198,
+      3577,
+      3696,
+      3862
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1620,
+      3880,
+      2734,
+      3924
+     ]
+    ],
+    "body_boxes": [
+     [
+      1616,
+      4023,
+      2225,
+      5166
+     ],
+     [
+      1700,
+      5396,
+      1724,
+      5439
+     ],
+     [
+      2316,
+      4523,
+      2824,
+      5170
+     ],
+     [
+      2919,
+      4024,
+      3526,
+      5167
+     ]
+    ],
+    "layout_words": 487
+   },
+   "headline_raw": "A HOME FoR A FRIEND\nY SCorder on indie dogs is impractical and unjust",
+   "deck_raw": "AMRITA NARLIKAR AND GULSHAN SACHDEVA",
+   "body_raw": "IN THE MAHABHARAT, Yudhishthir rejects\nthe prospect of heaven rather than leave a\nstray dog behind. Some read the story as an\nallegory. But at its simplest, it is a tale of the\nbond between humans and dogs. It shows the\n\u201cargumentative Indian\u201d at his best as he de-\nbates with Indra, the kingofthe gods, insisting\nthat therecan be noworse sin than abandon-\ning one who is defenceless and has sought\nrefuge. Yudhishthir makes no distinction be-\ntween the dignity that should be accorded to\nhumans and more-than-humans. For his\ncompassion, he is welcomed with fanfare and\ndriven to heaven in Indra\u2019s chariot.\nYudhishthir\u2019s willingness to reject heaven\nin order to protect a stray dog is in contrast to\nthe events last week: The Supreme Court's rul-\ning, which will dispatch lakhs of stray dogs to\na living hell. Another bench of the SC has re-\nservedits orderon theissue. The order reverses\nthe spirit of peaceful coexistence between hu-\nmansand animals, which was sought to be es-\ntablished bya 2023 ruling, It requires local au-\nthorities to round up stray dogs, and warns of\nthe \u201cstrictest of actions\u201d against anyone who\nresists. Thereason given is \u201clarger public inter-\nest\u201d \u2014 the protection, especially of children,\nand the aged, against rabies.\nThe dogs are to be taken to shelters, with\n\nSoi\n\nno prospect of being returned to their home\nterritories. A brief spark of hope is raised by\nthe mention of CCTV, only tobe swiftly extin-\nguished \u2014 security cameras are to be placed\nnot to ensure the welfare of the dogs, but \u201cto\nensure that no dogs are released\u201d.\nRabies is a fatal disease for humans, butit\nis also terrible for the afflicted dogs. But this\nsituation could have been avoided had the au-\nthorities done their due diligence on the ABC\nand vaccination programmes, as prescribed\nby previous courtrulings.\nThe state does not havethe capacity toim-\nplement the ruling \u2014 there are just not enough\nsheltersto house the large number of dogs to\nbe incarcerated, let alone shelters that would\nallow them to lead healthy and happy lives.\nDogs are territorial; dumping them together\nin crowded spaces will result in injury, disease\nand death. Dogs have lived with humans for\nmillennia as protectors and playmates. If haz-\nardous health and safety conditions in the\nshelters do not kill them, their grief will.\nThe world\u2019s fourth-largest economy, with\na hugely successful Digital Public\nInfrastructure (DPI), can surely find the re-\nsources and technical solutions to care forthe\nbezubaan(voiceless)denizens of Delhiand be-\nyond. Thefirst step towards finding asolution",
+   "ocr_conf": 91.92418032786885,
+   "ocr_low_conf_share": 0.020491803278688523,
+   "headline": "A HOME FoR A FRIEND Y SCorder on indie dogs is impractical and unjust",
+   "deck": "AMRITA NARLIKAR AND GULSHAN SACHDEVA",
+   "byline": "",
+   "text": "IN THE MAHABHARAT, Yudhishthir rejects the prospect of heaven rather than leave a stray dog behind. Some read the story as an allegory. But at its simplest, it is a tale of the bond between humans and dogs. It shows the \"argumentative Indian\" at his best as he debates with Indra, the kingofthe gods, insisting that therecan be noworse sin than abandoning one who is defenceless and has sought refuge. Yudhishthir makes no distinction between the dignity that should be accorded to humans and more-than-humans. For his compassion, he is welcomed with fanfare and driven to heaven in Indra's chariot. Yudhishthir's willingness to reject heaven in order to protect a stray dog is in contrast to the events last week: The Supreme Court's ruling, which will dispatch lakhs of stray dogs to a living hell. Another bench of the SC has reservedits orderon theissue. The order reverses the spirit of peaceful coexistence between humansand animals, which was sought to be established bya 2023 ruling, It requires local authorities to round up stray dogs, and warns of the \"strictest of actions\" against anyone who resists. Thereason given is \"larger public interest\" - the protection, especially of children, and the aged, against rabies. The dogs are to be taken to shelters, with\n\nSoi\n\nno prospect of being returned to their home territories. A brief spark of hope is raised by the mention of CCTV, only tobe swiftly extinguished - security cameras are to be placed not to ensure the welfare of the dogs, but \"to ensure that no dogs are released\". Rabies is a fatal disease for humans, butit is also terrible for the afflicted dogs. But this situation could have been avoided had the authorities done their due diligence on the ABC and vaccination programmes, as prescribed by previous courtrulings. The state does not havethe capacity toimplement the ruling - there are just not enough sheltersto house the large number of dogs to be incarcerated, let alone shelters that would allow them to lead healthy and happy lives. Dogs are territorial; dumping them together in crowded spaces will result in injury, disease and death. Dogs have lived with humans for millennia as protectors and playmates. If hazardous health and safety conditions in the shelters do not kill them, their grief will. The world's fourth-largest economy, with a hugely successful Digital Public Infrastructure (DPI), can surely find the resources and technical solutions to care forthe bezubaan(voiceless)denizens of Delhiand beyond. Thefirst step towards finding asolution",
+   "n_words": 412,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3572,
+      4025,
+      4178,
+      4369
+     ]
+    ],
+    "layout_words": 67,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "may bea proper counting and tagging ofdogs\nin Delhi NCR, and the administration of vac-\ncines and medical treatment. The pashu aad-\nhaar technology, currently used in many parts\nof the country for livestock, can be suitably\nmodified for stray dogs. If successful in Delhi,\nit can be implemented nationwide and per-\nhaps in many countries in the Global South.\nPM Narendra Modihas reminded us of the",
+   "ocr_conf": 91.11940298507463,
+   "ocr_low_conf_share": 0.04477611940298507,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "may bea proper counting and tagging ofdogs in Delhi NCR, and the administration of vaccines and medical treatment. The pashu aadhaar technology, currently used in many parts of the country for livestock, can be suitably modified for stray dogs. If successful in Delhi, it can be implemented nationwide and perhaps in many countries in the Global South. PM Narendra Modihas reminded us of the",
+   "n_words": 64,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3571,
+      4381,
+      4178,
+      4929
+     ]
+    ],
+    "layout_words": 103,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "pride that we should feel for our \u201cdesi\"/ Indie\nbreeds, Each of us can doour part in recognis-\ning our guardians. Let us adopt, not shop (for\nforeign breeds, often bred under cruel condi-\ntions), whenever possible. Whenthe state fails,\nwecanstill \u2014 as communities \u2014 work together\nfor the health and safety of our best friends.\nIndia\u2019s theme for its G20 presidency was\nvasudhaiva kutumbakam \u2014 the entire Earth is\none family. Through its attention to planetary\nrights and theconcept of LiFE (lifestyle for the\nenvironment), India has garnered global in-\nfluence. The SC nuling on street dogs could un-\ndermine India\u2019s credibility.",
+   "ocr_conf": 88.60194174757281,
+   "ocr_low_conf_share": 0.06796116504854369,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "pride that we should feel for our \"desi\"/ Indie breeds, Each of us can doour part in recognising our guardians. Let us adopt, not shop (for foreign breeds, often bred under cruel conditions), whenever possible. Whenthe state fails, wecanstill - as communities - work together for the health and safety of our best friends. India's theme for its G20 presidency was vasudhaiva kutumbakam - the entire Earth is one family. Through its attention to planetary rights and theconcept of LiFE (lifestyle for the environment), India has garnered global influence. The SC nuling on street dogs could undermine India's credibility.",
+   "n_words": 99,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      540,
+      4847,
+      1307,
+      4932
+     ]
+    ],
+    "deck_boxes": [
+     [
+      328,
+      4970,
+      1521,
+      5077
+     ],
+     [
+      1787,
+      5382,
+      2160,
+      5442
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5113,
+      1527,
+      6156
+     ]
+    ],
+    "layout_words": 313
+   },
+   "headline_raw": "A LITTLE DELULU",
+   "deck_raw": "Formalising slang coined by Gen Zand Gen Alpha by adding it to\nthe dictionary could end up ensuring its obsolescence\nINDIAN EXPRESS (S)",
+   "body_raw": "NGLISH, AS THE kids might say, is not Englishing. Or so it seems, given the baf-\nfling rate at which new words are being coined on TikTok, Discord and other\nonline platforms crowded with Gen Z and Gen Alpha users. The effort of keep-\ning up with these neologisms, akin toemptyinga river one teaspoon at atime,\nmay defeat many in the millennial generation and older, which is why the attempts of ven-\nerable institutions like dictionaries seem especially valiant.\nThe mostrecent example is the Cambridge Dictionary\u2019s inclusion of words like \u201cskibidi\u201d\n(cool or bad or, if used as a joke, no meaning at all), \u201cdelulu\u201d (delusional) and \u201ctradwife\u201d\n(married woman who proudly stays home, cooks, cleans and posts about this life on so-\ncial media). The dictionary\u2019s editorial team has defended the new inclusions against crit-\nics who may dismiss them as slang, arguing that they're not just a passing linguistic fad\nand that they only add words with \u201cstaying power\u2019.\nOnline cultures are changing the language faster than ever \u2014 not only because at\nleast two generations today have no idea whata world without the internet might look\nlike, but also because the reach of the World Wide Web has made the mainstream more\nthoroughly global. This, ultimately, may be precisely what will stymie efforts to for-\nmalise neologisms today: If a word is quick to catch on, especially with older genera-\ntions, it is also quick to be dropped by those who coined it, thus ensuring its obsoles-\ncence. If words like \u201cYOLO\u201d (\u201cyou only live once\u201d, added to the Oxford English Dictionary\nin 2016) and \u201cfleek\u201d (\u201cperfectly done or exactly right\u201d, added to the Merriam Webster dic-\ntionary in 2021) now seem like fossils preserved in amber, they only underscore the\nsuspicion that the Cambridge Dictionary may be more than alittle delulu about the\nstaying power of its new words,",
+   "ocr_conf": 90.6070287539936,
+   "ocr_low_conf_share": 0.051118210862619806,
+   "headline": "A LITTLE DELULU",
+   "deck": "Formalising slang coined by Gen Zand Gen Alpha by adding it to the dictionary could end up ensuring its obsolescence INDIAN EXPRESS (S)",
+   "byline": "",
+   "text": "NGLISH, AS THE kids might say, is not Englishing. Or so it seems, given the baffling rate at which new words are being coined on TikTok, Discord and other online platforms crowded with Gen Z and Gen Alpha users. The effort of keeping up with these neologisms, akin toemptyinga river one teaspoon at atime, may defeat many in the millennial generation and older, which is why the attempts of venerable institutions like dictionaries seem especially valiant. The mostrecent example is the Cambridge Dictionary's inclusion of words like \"skibidi\" (cool or bad or, if used as a joke, no meaning at all), \"delulu\" (delusional) and \"tradwife\" (married woman who proudly stays home, cooks, cleans and posts about this life on social media). The dictionary's editorial team has defended the new inclusions against critics who may dismiss them as slang, arguing that they're not just a passing linguistic fad and that they only add words with \"staying power'. Online cultures are changing the language faster than ever - not only because at least two generations today have no idea whata world without the internet might look like, but also because the reach of the World Wide Web has made the mainstream more thoroughly global. This, ultimately, may be precisely what will stymie efforts to formalise neologisms today: If a word is quick to catch on, especially with older generations, it is also quick to be dropped by those who coined it, thus ensuring its obsolescence. If words like \"YOLO\" (\"you only live once\", added to the Oxford English Dictionary in 2016) and \"fleek\" (\"perfectly done or exactly right\", added to the Merriam Webster dictionary in 2021) now seem like fossils preserved in amber, they only underscore the suspicion that the Cambridge Dictionary may be more than alittle delulu about the staying power of its new words,",
+   "n_words": 304,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3592,
+      4975,
+      4180,
+      5168
+     ]
+    ],
+    "layout_words": 25,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Narlikar is distinguished fellow at the\nObserver Research Foundation and honorary\nfellow of Darwin College, University of\nCambridge. Sachdeva is professor at\nJawaharlal Nehru University",
+   "ocr_conf": 90.12,
+   "ocr_low_conf_share": 0.08,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Narlikar is distinguished fellow at the Observer Research Foundation and honorary fellow of Darwin College, University of Cambridge. Sachdeva is professor at Jawaharlal Nehru University",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2268,
+      5317,
+      3524,
+      5407
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2269,
+      5437,
+      2698,
+      5481
+     ],
+     [
+      3570,
+      5650,
+      3914,
+      5701
+     ]
+    ],
+    "body_boxes": [
+     [
+      2268,
+      5527,
+      2874,
+      5960
+     ],
+     [
+      2920,
+      5449,
+      3525,
+      5754
+     ],
+     [
+      2919,
+      5809,
+      3322,
+      5852
+     ],
+     [
+      2918,
+      5886,
+      3524,
+      6157
+     ],
+     [
+      3567,
+      5728,
+      4176,
+      6150
+     ]
+    ],
+    "layout_words": 243
+   },
+   "headline_raw": "AucGusT 19, 1985, ForTY YEARS AGO",
+   "deck_raw": "BORDER TENSION\nPUNJAB POLLS",
+   "body_raw": "TENSION PREVAILED ON the border follow-\ning unprovoked intermittent firing by\nPakistani troops at two places in the Poonch\nsector since August 15. According to official\nreports received here, the firing by Pakistani\ntroops continiied internittenity at Lafgoorhills\nand the Bagyaidar area, the border township\nof Poonch. The reports said the trouble\nerupted when Indian security forces objected\nto Pakistan's encroachment into the \u201cnoman's\nland\u201d where they were constructing trenches.\n\nrounds in the air to disperse a brickbatting\nmob protesting against the demolition of\nunauthorised structures in Munirka village\nand Budh Vihar in South Delhi. Several peo-\nple, including policemen, DDA employees\nand shopkeepers, were injured in the lathi\ncharge and brickbatting. Twelve persons\nhave been arrested.\n\nTHIMPHU TALKS\n\nTHE THIMPHU TALKS between the Sri\nLankan government and Tamil groups,\nwhich were seriously threatened on August\n17 following the alleged massacre of 200\nTamils in Sri Lanka, are expected to resume\non August 19. According to information re-\nceived from the Bhutanese capital, the talks\n\nTHE TANTALISING SUSPENSE is over. But the\ndecision to hold an election in Punjab on\nSeptember 22 for the 117 assembly and 13\nLokSabha seats could not have been aneasy\none. Only a few days earlier, Akali Dal (L)\npresident Harchand Singh Longowal, one of\nthe principal architects of the momentous\nJuly 24 accord, had declared that he favoured\nan election in February or March 1986. His\nstatement must have caused ripples of ten-\nsion at the Centre.",
+   "ocr_conf": 92.77366255144032,
+   "ocr_low_conf_share": 0.02880658436213992,
+   "headline": "AucGusT 19, 1985, ForTY YEARS AGO",
+   "deck": "BORDER TENSION PUNJAB POLLS",
+   "byline": "",
+   "text": "TENSION PREVAILED ON the border following unprovoked intermittent firing by Pakistani troops at two places in the Poonch sector since August 15. According to official reports received here, the firing by Pakistani troops continiied internittenity at Lafgoorhills and the Bagyaidar area, the border township of Poonch. The reports said the trouble erupted when Indian security forces objected to Pakistan's encroachment into the \"noman's land\" where they were constructing trenches.\n\nrounds in the air to disperse a brickbatting mob protesting against the demolition of unauthorised structures in Munirka village and Budh Vihar in South Delhi. Several people, including policemen, DDA employees and shopkeepers, were injured in the lathi charge and brickbatting. Twelve persons have been arrested.\n\nTHIMPHU TALKS\n\nTHE THIMPHU TALKS between the Sri Lankan government and Tamil groups, which were seriously threatened on August 17 following the alleged massacre of 200 Tamils in Sri Lanka, are expected to resume on August 19. According to information received from the Bhutanese capital, the talks\n\nTHE TANTALISING SUSPENSE is over. But the decision to hold an election in Punjab on September 22 for the 117 assembly and 13 LokSabha seats could not have been aneasy one. Only a few days earlier, Akali Dal (L) president Harchand Singh Longowal, one of the principal architects of the momentous July 24 accord, had declared that he favoured an election in February or March 1986. His statement must have caused ripples of tension at the Centre.",
+   "n_words": 239,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3569,
+      5450,
+      4174,
+      5604
+     ]
+    ],
+    "layout_words": 25,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "were salvaged through India\u2019s efforts. The\nTamil groups, which had threatened to re-\nturn to Colombo, have reportedly decided\nnow to stay on in Thimphu.",
+   "ocr_conf": 89.08,
+   "ocr_low_conf_share": 0.08,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "were salvaged through India's efforts. The Tamil groups, which had threatened to return to Colombo, have reportedly decided now to stay on in Thimphu.",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      6007,
+      2754,
+      6051
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2267,
+      6083,
+      2872,
+      6156
+     ]
+    ],
+    "layout_words": 15
+   },
+   "headline_raw": "CLASH IN MUNIRKA",
+   "deck_raw": "",
+   "body_raw": "THE POLICE FIRED 21 teargas shells, re-\nsorted to a lathi charge and fired five",
+   "ocr_conf": 94.4,
+   "ocr_low_conf_share": 0.0,
+   "headline": "CLASH IN MUNIRKA",
+   "deck": "",
+   "byline": "",
+   "text": "THE POLICE FIRED 21 teargas shells, resorted to a lathi charge and fired five",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 22.8,
+ "flags": [
+  "3 kept article(s) without a headline"
+ ]
+}

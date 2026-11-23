@@ -1,0 +1,528 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_17_front",
+ "source_file": "2025-09-17_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-17_front.png",
+ "date": "2025-09-17",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 211,
+  "mean_line_conf": 86.85026973040817,
+  "orphan_words": 36,
+  "body_words_total": 664
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3546,
+      697,
+      4143,
+      818
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3958,
+      1009,
+      4000,
+      1051
+     ]
+    ],
+    "layout_words": 1
+   },
+   "headline_raw": "mann ki baat",
+   "deck_raw": "",
+   "body_raw": "Xr.",
+   "ocr_conf": 10.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "mann ki baat",
+   "deck": "",
+   "byline": "",
+   "text": "Xr.",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      787,
+      1249,
+      1222
+     ],
+     [
+      344,
+      1255,
+      1222,
+      1315
+     ],
+     [
+      369,
+      1321,
+      1202,
+      1438
+     ],
+     [
+      320,
+      1429,
+      592,
+      1503
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      695,
+      1252,
+      745
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      1502,
+      714,
+      1572
+     ],
+     [
+      321,
+      1620,
+      763,
+      2201
+     ],
+     [
+      810,
+      2055,
+      1250,
+      2201
+     ]
+    ],
+    "layout_words": 95
+   },
+   "headline_raw": "In 17 of 93 acquittals in\nDelhi riots cases, courts\nred-flag \u2018fabricated\u2019\nevidence, pull up police\nJudges find artificial witnesses in 12\ncases; \u2018serious trampling\u2019 of rights\nVINEET BHALLA",
+   "deck_raw": "\u2014 AN EXPRESS INVESTIGATION\u2014\u2014",
+   "body_raw": "& NIRBHAY THAKUR\nNEW DELHI, SEPTEMBER 16\n\nCOMPLAINTS WRITTEN on the\n\u201cdirection/dictation\u201d of police;\n\u201cfictitious\u201d witnesses; \u201cfabri-\ncated\u201d evidence; witness state-\nment spiced up with \u201cadditional\nfacts\u201d by the Investigating\nOfficer; \u201cartificial claim\u201d made\nby aconstable of having seen an\naccused at the spot; identifica-\ntion of accused \u201cshadowed with\nclouds of doubt\u201d; and, cases\n\u201cfoisted\u201d upon the accused.\nIt goes on and on.\nIn 93 of the 97 acquittals so\nfar in cases related to the Delhi\n\nriots of 2020, local courts in the\nNational Capital have flagged se-\nriousimpropriety inthe police's\nCONTINUEDON PAGE2",
+   "ocr_conf": 93.96842105263158,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Delhi riots cases, courts red-flag 'fabricated' evidence, pull up police Judges find artificial witnesses in 12 cases; 'serious trampling' of rights VINEET BHALLA",
+   "deck": "- AN EXPRESS INVESTIGATION - -",
+   "byline": "& NIRBHAY THAKUR; NEW DELHI, SEPTEMBER 16",
+   "text": "COMPLAINTS WRITTEN on the \"direction/dictation\" of police; \"fictitious\" witnesses; \"fabricated\" evidence; witness statement spiced up with \"additional facts\" by the Investigating Officer; \"artificial claim\" made by aconstable of having seen an accused at the spot; identification of accused \"shadowed with clouds of doubt\"; and, cases \"foisted\" upon the accused. It goes on and on. far in cases related to the Delhi\n\nriots of 2020, local courts in the National Capital have flagged seriousimpropriety inthe police's CONTINUEDON PAGE2",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1301,
+      799,
+      3181,
+      1468
+     ],
+     [
+      1297,
+      1166,
+      2218,
+      1374
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1301,
+      700,
+      3150,
+      749
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      1463,
+      1691,
+      1533
+     ],
+     [
+      1298,
+      1581,
+      1740,
+      2130
+     ],
+     [
+      1340,
+      2337,
+      1698,
+      2371
+     ],
+     [
+      1433,
+      2412,
+      1606,
+      2440
+     ],
+     [
+      1483,
+      2715,
+      1643,
+      2749
+     ],
+     [
+      1789,
+      1447,
+      2202,
+      1479
+     ],
+     [
+      1785,
+      1977,
+      2227,
+      2123
+     ],
+     [
+      2277,
+      1543,
+      2669,
+      1613
+     ],
+     [
+      2275,
+      1661,
+      2717,
+      2131
+     ],
+     [
+      2762,
+      1819,
+      3202,
+      1895
+     ],
+     [
+      2764,
+      1978,
+      3204,
+      2124
+     ]
+    ],
+    "layout_words": 201
+   },
+   "headline_raw": "PM gets birthday call from Trump\nhours after trade talks resume\nThanks for support on ending Ukraine Talks \u2018positive\u2019, will step\ntowards peaceful resclution Modi UD efforts to close deal\n\u2014 ith US early, says Govt\nThanks for support on ending Ukraine\nwar: Trump; we back your initiatives\ntowards peaceful resolution: Modi",
+   "deck_raw": "FIRST CONVERSATION SINCE U.S. DOUBLED TARIFF TO 50%",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, SEPTEMBER 16\n\nON A day when India and the\nUnited States held day-long\ntrade talks \u2014 later described by\nboth sides as \u201cpositive\u201d \u2014 US\nPresident Donald Trump called\nup Prime Minister Narendra\nModi on Tuesday to wishhimon\nthe eve ofhis 75th birthday.\nThis was the first conversa-\ntion between the two leaders\nsince the bilateral chill set in last\nmonth, after Trump doubled tar-\niffs on India to 50% tariffs over\npurchase of Russian oil.\n\nBUSINESS AS USUAL\n\nBy UNNY\n\n\u2018The govt that\n\nEXPRESS NETWORK\n\nSignificantly, both Modi and\nTrump talked of the Russia-\nUkraine conflict in their posts on\nCONTINUED ON PAGE 2\n\nRAVI DUTTA MISHRA\nNEW DELHI, SEPTEMBER 16\n\nAFTER DAY-LONG talks with US\nnegotiators led by their chief ne-\ngotiator, Brendan Lynch, in New\nDelhi, the Union Commerce and\nIndustry Ministry said the \u201cdis-\ncussions were positive\u201d and the\ntwo sides \u201cdecided to intensify\nefforts to achieve early conclu-\nsion of a mutually beneficial\ntrade agreement\u201d.\nIna statement, a spokesper-\nson of the US Embassy in India\n\nTeams led by Brendan Lynch,\nRajesh Agarwal met in Delhi\n\nsaid Assistant US Trade\nRepresentative Brendan Lynch\nhad a \u201cpositive meeting\u201d in Delhi\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.85643564356435,
+   "ocr_low_conf_share": 0.0594059405940594,
+   "headline": "PM gets birthday call from Trump hours after trade talks resume Thanks for support on ending Ukraine Talks 'positive', will step towards peaceful resclution Modi UD efforts to close deal - ith US early, says Govt Thanks for support on ending Ukraine war: Trump; we back your initiatives towards peaceful resolution: Modi",
+   "deck": "FIRST CONVERSATION SINCE U.S. DOUBLED TARIFF TO 50%",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, SEPTEMBER 16",
+   "text": "ON A day when India and the United States held day-long trade talks - later described by both sides as \"positive\" - US President Donald Trump called up Prime Minister Narendra Modi on Tuesday to wishhimon the eve ofhis 75th birthday. This was the first conversation between the two leaders since the bilateral chill set in last month, after Trump doubled tariffs on India to 50% tariffs over purchase of Russian oil.\n\nBUSINESS AS USUAL\n\nBy UNNY\n\n'The govt that\n\nEXPRESS NETWORK\n\nSignificantly, both Modi and Trump talked of the Russia-Ukraine conflict in their posts on\n\nRAVI DUTTA MISHRA NEW DELHI, SEPTEMBER 16\n\nAFTER DAY-LONG talks with US negotiators led by their chief negotiator, Brendan Lynch, in New Delhi, the Union Commerce and Industry Ministry said the \"discussions were positive\" and the two sides \"decided to intensify efforts to achieve early conclusion of a mutually beneficial trade agreement\". Ina statement, a spokesperson of the US Embassy in India\n\nTeams led by Brendan Lynch, Rajesh Agarwal met in Delhi\n\nsaid Assistant US Trade Representative Brendan Lynch had a \"positive meeting\" in Delhi",
+   "n_words": 181,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3261,
+      1529,
+      4127,
+      1661
+     ],
+     [
+      3177,
+      1680,
+      4176,
+      1830
+     ],
+     [
+      3252,
+      1844,
+      4157,
+      2045
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2763,
+      2281,
+      3178,
+      2337
+     ]
+    ],
+    "body_boxes": [
+     [
+      2762,
+      2661,
+      3161,
+      2877
+     ],
+     [
+      2762,
+      2910,
+      3203,
+      3076
+     ],
+     [
+      3253,
+      2770,
+      3645,
+      2840
+     ],
+     [
+      3249,
+      2888,
+      3693,
+      3075
+     ]
+    ],
+    "layout_words": 54
+   },
+   "headline_raw": "AmUI \u201d\n<=. Happy 75th Birthday, Modiji! |\n, India\u2019s first high-jumper\nin World finals: Big leap\nfrom pits of corn husk",
+   "deck_raw": "EXPRESS NETWORK",
+   "body_raw": "PM MODI TURNS 75\nTODAY: MILESTONE\nIN A JOURNEY THAT\nREDEFINES PARTY\nAND GOVT\n\nASI PLANS TO PUT UP\n\u2018CORRECTED\u2019 PLAQUE\nAT SARNATH\nPAGE 4\n\nPRITISH RAJ\nNEW DELHI, SEPTEMBER 16\n\nEARLY MONDAY morning, aday\nbefore his World Championship\nfinal, Sarvesh Kushare stood near\nthe high-jump pit of Tokyo's cav-\nernous National Stadium and",
+   "ocr_conf": 92.27777777777777,
+   "ocr_low_conf_share": 0.018518518518518517,
+   "headline": "AmUI \" <=. Happy 75th Birthday, Modiji!, India's first high-jumper in World finals: Big leap from pits of corn husk",
+   "deck": "EXPRESS NETWORK",
+   "byline": "PM MODI TURNS 75; TODAY: MILESTONE; IN A JOURNEY THAT; REDEFINES PARTY; AND GOVT; ASI PLANS TO PUT UP; 'CORRECTED' PLAQUE; AT SARNATH",
+   "text": "PRITISH RAJ NEW DELHI, SEPTEMBER 16\n\nEARLY MONDAY morning, aday before his World Championship final, Sarvesh Kushare stood near the high-jump pit of Tokyo's cavernous National Stadium and",
+   "n_words": 28,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      2276,
+      1239,
+      2621
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      2649,
+      689,
+      2719
+     ],
+     [
+      319,
+      2768,
+      761,
+      3072
+     ],
+     [
+      809,
+      2610,
+      1253,
+      3076
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "Industry majors go to HC\nas Bengal govt revokes\nincentives given since 93",
+   "deck_raw": "",
+   "body_raw": "ATRIMITRA\nKOLKATA, SEPTEMBER 16\n\nSEVERAL INDUSTRIAL houses\nhave moved the Calcutta High\nCourt against the West Bengal\ngovemmment\u2019s decision torevoke\nindustry incentives with retro-\nspective effect, calling it \u201cuncon-\nstitutional\u201d.\nThe Revocation of West\n\nObligations in the Nature of\nGrants and Incentives Bill, 2025,\nwas notified on April 2, after be-\ning passed by the Assembly in\nMarch and receiving the\nGovernor sassent. The Act with-\ndraws all incentives granted to\nindustries since 1993, effective\nretrospectively from the date of\nimplementation of each scheme.\nIndustrial majors, including\nUltraTech Cement, Electrosteel",
+   "ocr_conf": 92.03333333333333,
+   "ocr_low_conf_share": 0.03333333333333333,
+   "headline": "Industry majors go to HC as Bengal govt revokes incentives given since 93",
+   "deck": "",
+   "byline": "ATRIMITRA; KOLKATA, SEPTEMBER 16",
+   "text": "SEVERAL INDUSTRIAL houses have moved the Calcutta High Court against the West Bengal govemmment's decision torevoke industry incentives with retrospective effect, calling it \"unconstitutional\". The Revocation of West\n\nObligations in the Nature of Grants and Incentives Bill, 2025, was notified on April 2, after being passed by the Assembly in March and receiving the Governor sassent. The Act with-draws all incentives granted to industries since 1993, effective retrospectively from the date of implementation of each scheme. Industrial majors, including UltraTech Cement, Electrosteel",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      2277,
+      2713,
+      2558
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2650,
+      2179,
+      2720
+     ],
+     [
+      2513,
+      2689,
+      2697,
+      2843
+     ],
+     [
+      320,
+      2731,
+      4185,
+      3120
+     ],
+     [
+      1786,
+      2769,
+      2227,
+      3081
+     ],
+     [
+      2275,
+      2928,
+      2716,
+      3081
+     ]
+    ],
+    "layout_words": 137
+   },
+   "headline_raw": "Pak Dy PM: Rubio told\nus India says talks with\nIslamabad a bilateral issue",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, SEPTEMBER 16\n\nPak Dy PM\nand Foreign\nMinister\nIshaq Dar\n\n- ing passed by the Assembly in a bachu \u2014\u2014 Vom andForeign jo ew ee r ' coach, Raosaheb Jadhav. \u201cIt was\nSEVERALINDUSTRIAL houses March and receiving the 7 opertamexe INDIAHAS categorically told the Ww Minister IN A JOURNEY THAT PRITISH RAJ a brief call,\u201d Jadhav said. \u201cHe\nhave moved the Calcutta High Governor\u2019sassent. The Act with- i Cort jump United States that any dialogue 7 Ishaq Dar REDEFINES PARTY NEW DELHI, SEPTEMBER 16 showed me the stadium, the\nCourt against the West Bengal draws all incentives granted to A the queue between New Delhi and VY \u2014__ ANDGOVT \u2014 \u2014 jumping pit.. for a moment, we\ngovermment\u2019sdecisiontorevoke industries since 1993, effective court. Islamabad has to be held at a \u201cbi- \u2019 EARLYMONDAY morning, aday became nostalgic.\u201d\nindustry incentives with retro- _ retrospectively from the date of lateral\u201d level, Pakistan\u2019s Deputy \u2014_ Islamabad wanted involvement ASI PLANS TO PUT UP before his World Championship They also marvelled at\nspective effect, calling it\u201cuncon- implementationof each scheme. Prime Minister and Foreign of a third party, Dar said: \u201cWell, CORRECTED\u2019 PLAQUE final, Sarvesh Kushare stood near Kushare\u2019sgiant leap in the sport.\nstitutional\u201d. Industrial majors, including UTTARAKHANDRAIN Minister Ishaq Dar has said. we don\u2019t mind, but Indiahas ATSARNATH the high-jump pitof Tokyo's cav- The 30-year-old athlete, who\nThe Revocation of West UltraTechCement, Electrosteel FURY: 15 KILLEDP5 In an interview to AlJazeera beencategorically saying thatit PAGE 4 ernous National Stadium and _ had started on makeshift pits\nBengal Incentive Schemes and CONTINUEDONPAGE2_ _ airedon Monday, when asked if CONTINUEDONPAGE2 . _S:~*\u00e9Vid@t-clled iis\u2019 childhood CONTINUED ON PAGE 2\n\nINDIAHAS categorically told the\nUnited States that any dialogue\nbetween New Delhi and\nIslamabad has to be held at a \u201cbi-\nlateral\u201d level, Pakistan\u2019s Deputy\nPrime Minister and Foreign\nMinister Ishaq Dar has said.\nIn an interview to Al Jazeera\n\nIslamabad wanted involvement\nof a third party, Dar said: \u201cWell,\nwe don\u2019t mind, but India has\nbeen categorically saying that it",
+   "ocr_conf": 82.02967359050444,
+   "ocr_low_conf_share": 0.1543026706231454,
+   "headline": "Pak Dy PM: Rubio told us India says talks with Islamabad a bilateral issue",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, SEPTEMBER 16",
+   "text": "Pak Dy PM and Foreign Minister Ishaq Dar\n\n- ing passed by the Assembly in a bachu - - Vom andForeign jo ew ee r ' coach, Raosaheb Jadhav. \"It was SEVERALINDUSTRIAL houses March and receiving the 7 opertamexe INDIAHAS categorically told the Ww Minister IN A JOURNEY THAT PRITISH RAJ a brief call,\" Jadhav said. \"He have moved the Calcutta High Governor'sassent. The Act with- i Cort jump United States that any dialogue 7 Ishaq Dar REDEFINES PARTY NEW DELHI, SEPTEMBER 16 showed me the stadium, the Court against the West Bengal draws all incentives granted to A the queue between New Delhi and VY - __ ANDGOVT - - jumping pit.. for a moment, we govermment'sdecisiontorevoke industries since 1993, effective court. Islamabad has to be held at a \"bi- ' EARLYMONDAY morning, aday became nostalgic.\" industry incentives with retro- _ retrospectively from the date of lateral\" level, Pakistan's Deputy - _ Islamabad wanted involvement ASI PLANS TO PUT UP before his World Championship They also marvelled at spective effect, calling it\"uncon- implementationof each scheme. Prime Minister and Foreign of a third party, Dar said: \"Well, CORRECTED' PLAQUE final, Sarvesh Kushare stood near Kushare'sgiant leap in the sport. stitutional\". Industrial majors, including UTTARAKHANDRAIN Minister Ishaq Dar has said. we don't mind, but Indiahas ATSARNATH the high-jump pitof Tokyo's cav- The 30-year-old athlete, who The Revocation of West UltraTechCement, Electrosteel FURY: 15 KILLEDP5 In an interview to AlJazeera beencategorically saying thatit PAGE 4 ernous National Stadium and _ had started on makeshift pits\n\nINDIAHAS categorically told the United States that any dialogue between New Delhi and Islamabad has to be held at a \"bilateral\" level, Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar has said. In an interview to Al Jazeera\n\nIslamabad wanted involvement of a third party, Dar said: \"Well, we don't mind, but India has been categorically saying that it",
+   "n_words": 313,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1426,
+      2719,
+      1636,
+      2884
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      2999,
+      1710,
+      3077
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "\u00bb The govt that\nW8s 50\nant J\n3 the queue!",
+   "deck_raw": "",
+   "body_raw": "UTTARAKHAND RAIN\nFURY: 15 KILLED Ps",
+   "ocr_conf": 77.16666666666667,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "\u00bb The govt that ant J 3 the queue!",
+   "deck": "",
+   "byline": "UTTARAKHAND RAIN; FURY: 15 KILLED Ps",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      707,
+      4770,
+      1178,
+      4934
+     ],
+     [
+      713,
+      4949,
+      1178,
+      5025
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      712,
+      5037,
+      1178,
+      5079
+     ],
+     [
+      710,
+      5127,
+      1178,
+      5315
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "and f\nDr. Ramdas M Pai, Padm",
+   "deck_raw": "",
+   "body_raw": "Chancellor, Manipal Acac\n\nWishing you, the architec\nof education and healthc:\nWe thank you for making\nto the world and continuir",
+   "ocr_conf": 93.23809523809524,
+   "ocr_low_conf_share": 0.0,
+   "headline": "and f Dr. Ramdas M Pai, Padm",
+   "deck": "",
+   "byline": "",
+   "text": "Chancellor, Manipal Acac\n\nWishing you, the architec of education and healthc: We thank you for making to the world and continuir",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      501,
+      5842,
+      3397,
+      5873
+     ]
+    ],
+    "layout_words": 36,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "a a \u2014 een een nenierielieenenntiein PTR Qt AAA ee ee OS gk ON Be . . a .\nTrans tasaitatcom of Ememence Deemed to be Uinnersary ve \u2018 mectca' group \u201cimine (University wader Section 2(f) of the UGC Act} Awermas (University ander Section 2(f) of the UGC Act Varina\u2019 MALAYSIA A Unit Of Manipal Educetion & Medica! Group",
+   "ocr_conf": 47.08474576271186,
+   "ocr_low_conf_share": 0.6440677966101694,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Trans tasaitatcom of Ememence Deemed to be Uinnersary ve ' mectca' group \"imine (University wader Section 2(f) of the UGC Act} Awermas (University ander Section 2(f) of the UGC Act Varina' MALAYSIA A Unit Of Manipal Educetion & Medica! Group",
+   "n_words": 40,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 12.2,
+ "flags": []
+}

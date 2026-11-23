@@ -1,0 +1,628 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_26_editorial",
+ "source_file": "2025-12-26_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-26_editorial.png",
+ "date": "2025-12-26",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 349,
+  "mean_line_conf": 87.02790889864673,
+  "orphan_words": 8,
+  "body_words_total": 1188
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      359,
+      934,
+      732,
+      1096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      324,
+      1148,
+      756,
+      1421
+     ],
+     [
+      324,
+      1467,
+      763,
+      1692
+     ],
+     [
+      324,
+      1744,
+      750,
+      2018
+     ],
+     [
+      323,
+      2061,
+      761,
+      2409
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@THE DELHI HIGH COURT\nwill heara PIL seeking aGST\ncut onair purifiers by classifying\nthemas \u2018medical devices\u2019 in\nview of the Capital's worsening\nair quality. Air purifiers are\ncurrently taxed at 18 per cent.\n\n@THE FIFTH NATIONAL\nconference of chief secretaries\nbegins. The conference, which\nwillbe chaired by Prime Minister\nNarendra Modi, will conclude\non December 28.\n\n@CJISURYA KANT will lead\nan awareness walk in Panaji\nto promote mediation as a\npeople-centric andefficient\ndispute resolution mechanism.\nThe CJI willlater take part ina\nconference on the subject.\n\n@BOXING DAY TEST: TheAshes\nurn will remain in Australia as\nEngland have been hammered\ninall three Tests already, but\nBen Stokes\u2019 men have some\nserious damage control todo,\ntosalvage some pride at the\niconic Melbourne Cricket\nGround. Match starts at 5 am.",
+   "ocr_conf": 86.53125,
+   "ocr_low_conf_share": 0.078125,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "@THE DELHI HIGH COURT; @THE FIFTH NATIONAL",
+   "text": "will heara PIL seeking aGST cut onair purifiers by classifying themas 'medical devices' in view of the Capital's worsening air quality. Air purifiers are currently taxed at 18 per cent.\n\nconference of chief secretaries begins. The conference, which willbe chaired by Prime Minister Narendra Modi, will conclude on December 28.\n\n@CJISURYA KANT will lead an awareness walk in Panaji to promote mediation as a people-centric andefficient dispute resolution mechanism. The CJI willlater take part ina conference on the subject.\n\n@BOXING DAY TEST: TheAshes urn will remain in Australia as England have been hammered inall three Tests already, but Ben Stokes' men have some serious damage control todo, tosalvage some pride at the iconic Melbourne Cricket Ground. Match starts at 5 am.",
+   "n_words": 121,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3715,
+      935,
+      4167,
+      1231
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3583,
+      856,
+      4180,
+      886
+     ]
+    ],
+    "body_boxes": [
+     [
+      3739,
+      1824,
+      4120,
+      1901
+     ],
+     [
+      3739,
+      1948,
+      4183,
+      3128
+     ]
+    ],
+    "layout_words": 133
+   },
+   "headline_raw": "Top Maoist with\nRs 1-cr bounty\namong six\nkilled in Odisha",
+   "deck_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "body_raw": "Sreenivas Janyala\nHyderabad, December 25\n\nTOP MAOIST leader Paka Ha-\nnumanthu, alias Ganesh alias\nChamru, and five other Maoists\nwere killed in an encounter in\nOdisha in the early hours of\nThursday, a development the\nCentre hailed asa significant\nbreakthrough.\nGanesh, 67, from Telan-\ngana\u2019s Nalgonda district, was a\nCentral Committee memberof\nthe outlawed Communist Party\nof India (Maoist), a member of\nthe Central Regional Bureau,\nand the only member of the\nSouthern Regional Bureau. He\ncarried a reward of Rs1 crore\nand went by several aliases, in-\ncluding Rupa, Rajesh Tiwari,\nChamru, Pakka Hanumantu,\nGaneshanna and Somar.\nThose killed alongside him\nare yet tobe identified.\nIn a statement, the Union\nHomeMinistry called thedevel-\nopmenta \u201csignificant milestone\ntowards Naxal-free Bharat\u201d.\n\u201cWith this major breakthrough,\nOdisha stands at the threshold\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 91.86363636363636,
+   "ocr_low_conf_share": 0.030303030303030304,
+   "headline": "Top Maoist with Rs 1-cr bounty among six killed in Odisha",
+   "deck": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "byline": "",
+   "text": "Sreenivas Janyala Hyderabad, December 25\n\nTOP MAOIST leader Paka Hanumanthu, alias Ganesh alias Chamru, and five other Maoists were killed in an encounter in Odisha in the early hours of Thursday, a development the Centre hailed asa significant breakthrough. Ganesh, 67, from Telangana's Nalgonda district, was a Central Committee memberof the outlawed Communist Party of India (Maoist), a member of the Central Regional Bureau, and the only member of the Southern Regional Bureau. He carried a reward of Rs1 crore and went by several aliases, including Rupa, Rajesh Tiwari, Chamru, Pakka Hanumantu, Ganeshanna and Somar. Those killed alongside him are yet tobe identified. In a statement, the Union HomeMinistry called thedevelopmenta \"significant milestone towards Naxal-free Bharat\". \"With this major breakthrough, Odisha stands at the threshold \u00bbCONTINUEDON PAGE 2",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      1025,
+      3684,
+      1526
+     ],
+     [
+      2274,
+      1611,
+      2700,
+      1885
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2278,
+      938,
+      3679,
+      982
+     ],
+     [
+      2273,
+      1982,
+      2582,
+      2033
+     ]
+    ],
+    "body_boxes": [
+     [
+      2274,
+      1942,
+      2512,
+      1973
+     ],
+     [
+      2270,
+      2066,
+      2718,
+      3134
+     ],
+     [
+      3250,
+      2305,
+      3695,
+      3127
+     ]
+    ],
+    "layout_words": 222
+   },
+   "headline_raw": "Tarique back: Ihave\naplan... aninclusive\nand safe Bangladesh\nTime for all of\nus to build the\ncountry together,\nsays BNP leader",
+   "deck_raw": "ROUSING WELCOME AS KHALEDA SON RETURNS TO DHAKA\nDhaka, December25",
+   "body_raw": "Anisur Rahman\n\nBANGLADESH NATIONALIST\nParty (BNP) acting chairman\nTarique Rahman returned to\nDhakato arousing welcome by\nthousands of hissupporters on\nThursday after over 17 years in\nself-exile \u2014a homecoming that\nis expected to energise the\nparty ahead of the February 12\nparliamentary elections.\nShortly after landing at the\nHazrat Shahjalal International\nAirport, Rahman, the leading\ncontender to be the country\u2019s\nnext prime minister, stood\nbarefooton Bangladeshi soil in\na symbolic gesture to mark his\nreturntothecountry\u2019s politics.\nAddressing his supporters\nat the July 36 Expressway in\nDhaka hourslater, the 60-year-\nold son of ailing former prime\nminister Khaleda Zia gave a\nclarion call to maintain peace\nand stability in the country and\npresented abroad planto build\nan \u201cinclusive Bangladesh\u201d.\n\n\u201cIt is time for us all to build\nthe country together. We want\nto build a safe Bangladesh. In\nBangladesh, no matter who a\nwoman, man, or child is, they\nshould be able to leave their\nhomes safely and return\nsafely,\u201d he said.\nThe homecoming of the\nBNPheir apparent comes amid\na fresh wave of unrest and\npolitical instability gripping\nBangladesh following the kill-\ning of youth leader Sharif\nOsman Hadi, who was a promi-\nnent face in last year\u2019s mass pro-\ntests that forced the collapse of\nthe Sheikh Hasina government.\nInvoking Martin Luther\nKing Jr\u2019s \u201cI have a dream\u201d\n\u00bbCONTINUED ONPAGE 2",
+   "ocr_conf": 90.77927927927928,
+   "ocr_low_conf_share": 0.05855855855855856,
+   "headline": "Tarique back: Ihave aplan... aninclusive and safe Bangladesh Time for all of us to build the country together, says BNP leader",
+   "deck": "ROUSING WELCOME AS KHALEDA SON RETURNS TO DHAKA Dhaka, December25",
+   "byline": "BANGLADESH NATIONALIST",
+   "text": "Anisur Rahman\n\nParty (BNP) acting chairman Tarique Rahman returned to Dhakato arousing welcome by thousands of hissupporters on Thursday after over 17 years in self-exile - a homecoming that is expected to energise the party ahead of the February 12 parliamentary elections. Shortly after landing at the Hazrat Shahjalal International Airport, Rahman, the leading contender to be the country's next prime minister, stood barefooton Bangladeshi soil in a symbolic gesture to mark his returntothecountry's politics. Addressing his supporters at the July 36 Expressway in Dhaka hourslater, the 60-yearold son of ailing former prime minister Khaleda Zia gave a clarion call to maintain peace and stability in the country and presented abroad planto build an \"inclusive Bangladesh\".\n\n\"It is time for us all to build the country together. We want to build a safe Bangladesh. In Bangladesh, no matter who a woman, man, or child is, they should be able to leave their homes safely and return safely,\" he said. The homecoming of the BNPheir apparent comes amid a fresh wave of unrest and political instability gripping Bangladesh following the killing of youth leader Sharif Osman Hadi, who was a prominent face in last year's mass protests that forced the collapse of the Sheikh Hasina government. Invoking Martin Luther King Jr's \"I have a dream\" \u00bbCONTINUED ONPAGE 2",
+   "n_words": 217,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      2161,
+      2119,
+      2400
+     ],
+     [
+      808,
+      2489,
+      1218,
+      2898
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2935,
+      1152,
+      3009
+     ],
+     [
+      810,
+      3059,
+      1254,
+      3571
+     ],
+     [
+      1297,
+      3179,
+      1738,
+      3565
+     ],
+     [
+      1785,
+      3180,
+      2231,
+      3565
+     ]
+    ],
+    "layout_words": 157
+   },
+   "headline_raw": "BJP is proud our govt tore\ndown wall of Art370: PM\nAttacks Cong\nover \u2018one family\u2019,\nsays his govt has\nensured respect\nfor Babasaheb,\nRao, Pranab",
+   "deck_raw": "",
+   "body_raw": "Maulshree Seth\nLucknow, December 25\n\nPAYING TRIBUTE to the\ndreams and principles of the\nfounding fathers of the Jan\nSangh-BJP, Prime Minister\nNarendra Modi Thursday said\n\u201cthe BJP is proud that our gov-\nernment gottheopportunity to\ntear down the wall of Article\n370\u201d in Jammu and Kashmir\nwhere \u201cthe Constitution of\nIndia is in full force\u201d now.\nSpeaking in Lucknow where\nhe inaugurated the Rashtra\n\nPrerna Sthal and its giant\nstatues of Dr Syama Prasad\nMookerjee, Pandit Deen Dayal\nUpadhyay and Atal Bihari\nVajpayee on the former Prime\nMinister\u2019s birth anniversary,\nModi also took a swipe at the\nCongress and the Nehru-Gan-\ndhi family when he said that\nwhile these statues will infuse\n\nnew energy, one should not for-\nget that after Independence,\nevery good workin the country\nwas linked to just one family.\nBe it books, government\nschemes, institutions, roads\nand lanes, everything carried\nthenameand gloryofonly one\nfamily, he said. The Congress\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 93.01910828025478,
+   "ocr_low_conf_share": 0.01910828025477707,
+   "headline": "BJP is proud our govt tore down wall of Art370: PM Attacks Cong over 'one family', says his govt has ensured respect for Babasaheb, Rao, Pranab",
+   "deck": "",
+   "byline": "",
+   "text": "Maulshree Seth Lucknow, December 25\n\nPAYING TRIBUTE to the dreams and principles of the founding fathers of the Jan Sangh-BJP, Prime Minister Narendra Modi Thursday said \"the BJP is proud that our government gottheopportunity to tear down the wall of Article 370\" in Jammu and Kashmir where \"the Constitution of India is in full force\" now. Speaking in Lucknow where he inaugurated the Rashtra\n\nPrerna Sthal and its giant statues of Dr Syama Prasad Mookerjee, Pandit Deen Dayal Upadhyay and Atal Bihari Vajpayee on the former Prime Minister's birth anniversary, Modi also took a swipe at the Congress and the Nehru-Gandhi family when he said that while these statues will infuse\n\nnew energy, one should not forget that after Independence, every good workin the country was linked to just one family. Be it books, government schemes, institutions, roads and lanes, everything carried thenameand gloryofonly one family, he said. The Congress",
+   "n_words": 150,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2757,
+      2297,
+      3099,
+      2425
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2761,
+      2455,
+      3194,
+      2564
+     ]
+    ],
+    "body_boxes": [
+     [
+      2760,
+      2582,
+      3194,
+      3094
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "fe] EXPLAINED",
+   "deck_raw": "Frontrunner for PM\npostin Feb polls",
+   "body_raw": "Tarique Rahman\u2019s return is\npolitically significant ahead\noftheFebmuary 12 elections\n\u2014 widely seen as crucial to\nrestoring political stability\nafter nearlytwo yearsoftur-\nmoil. With the Awami\nLeague being barred from\ncontesting the elections, the\nBNP is the frontrunner, and\nRahman has emerged as a\nleading contender forprime\nministership.",
+   "ocr_conf": 93.375,
+   "ocr_low_conf_share": 0.0,
+   "headline": "fe] EXPLAINED",
+   "deck": "Frontrunner for PM postin Feb polls",
+   "byline": "",
+   "text": "Tarique Rahman's return is politically significant ahead oftheFebmuary 12 elections - widely seen as crucial to restoring political stability after nearlytwo yearsofturmoil. With the Awami League being barred from contesting the elections, the BNP is the frontrunner, and Rahman has emerged as a leading contender forprime ministership.",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      3241,
+      757,
+      3378
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "UDAIPUR FIRM CEO\nAMONG3 HELD\nFOR \u2018GANG RAPFE\u2019 p3",
+   "ocr_conf": 77.55555555555556,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "UDAIPUR FIRM CEO; AMONG3 HELD; FOR 'GANG RAPFE' p3",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      3410,
+      749,
+      3468
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3483,
+      700,
+      3569
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "SMARTPHONEBAN",
+   "deck_raw": "",
+   "body_raw": "ON WOMEN IN\nJALORENIXED p3",
+   "ocr_conf": 74.8,
+   "ocr_low_conf_share": 0.4,
+   "headline": "SMARTPHONEBAN",
+   "deck": "",
+   "byline": "ON WOMEN IN; JALORENIXED p3",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      3686,
+      1250,
+      4100
+     ],
+     [
+      320,
+      4193,
+      1244,
+      4325
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4367,
+      675,
+      4441
+     ],
+     [
+      315,
+      4491,
+      760,
+      5042
+     ],
+     [
+      808,
+      4404,
+      1220,
+      4616
+     ],
+     [
+      807,
+      4690,
+      1248,
+      5036
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "Bajrang Dal and VHP\nactivists vandalise\nschool in Assam over\nChristmas celebration\nLatest in series of disruptions in states,\nincluding MP and Chhattisgarh",
+   "deck_raw": "",
+   "body_raw": "Sukrita Baruah\nGuwahati, December 25\n\nAGROUP of Bajrang Dal and\nVishva Hindu Parishad activists\nstormed a diocese school in As-\nsam\u2019s Nalbari town on Wednes-\nday, Christmas Eve, and de-\nstroyed Christmas decorations\nthere. The same group had also\ndestroyed Christmas omaments\nbeing sold in ashopin the town.\nThe incident at Nalbari was the\nlatest ina series of Christmas dis-\nruptions reported fromdifferent\nparts of the country, including\nMadhya Pradesh and Chhattis-\n\nEDITORIAL PAGE\nGOONS CAN\u2019T\nHIJACK MERRY\nCHRISTMAS pPaAcE6\n\ngarh, overthe past week.\nNalbari Senior Superin-\ntendent of Police, Bibekananda\nDas, said that they have re-\nceived a complaint from the\nauthorities ofSt. Mary\u2019sEnglish\nSchool, Panigaon, in connec-\ntion with the incident.\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 88.49137931034483,
+   "ocr_low_conf_share": 0.06896551724137931,
+   "headline": "Bajrang Dal and VHP activists vandalise school in Assam over Christmas celebration Latest in series of disruptions in states, including MP and Chhattisgarh",
+   "deck": "",
+   "byline": "",
+   "text": "Sukrita Baruah Guwahati, December 25\n\nAGROUP of Bajrang Dal and Vishva Hindu Parishad activists stormed a diocese school in Assam's Nalbari town on Wednesday, Christmas Eve, and destroyed Christmas decorations there. The same group had also destroyed Christmas omaments being sold in ashopin the town. The incident at Nalbari was the latest ina series of Christmas disruptions reported fromdifferent parts of the country, including Madhya Pradesh and Chhattis-\n\nEDITORIAL PAGE GOONS CAN'T HIJACK MERRY CHRISTMAS pPaAcE6\n\ngarh, overthe past week. Nalbari Senior Superintendent of Police, Bibekananda Das, said that they have received a complaint from the authorities ofSt. Mary'sEnglish School, Panigaon, in connection with the incident.",
+   "n_words": 106,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3687,
+      2169,
+      4120
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1293,
+      4169,
+      1635,
+      4284
+     ],
+     [
+      1294,
+      4333,
+      1740,
+      5036
+     ],
+     [
+      1859,
+      4204,
+      2147,
+      4274
+     ]
+    ],
+    "layout_words": 96
+   },
+   "headline_raw": "GDP growth likely\nto moderate with\ninflation nearing 4%:\nRBI panel member",
+   "deck_raw": "",
+   "body_raw": "Hitesh Vyas\n& George Mathew\nMumbai, December 25\n\nTHE GROSS Domestic Product\n(GDP) growth projection islikely\nto moderate with inflation ex-\npected togradually move closer\nto the target in the coming\nquarters, and this is in line with\nthe forecasts ofthe Monetary\nPolicy Committee (MPC) resol-\nution, said Saugata Bhatta-\ncharya, one of thethree external\nmembersofthe Reserve Bank of\nIndia\u2019s rate-setting panel.\nConsumer Price Index (CPI)\ninflation is projected at 2 per\ncent for FY26. For 2026-27, CPI\ninflation is expected at 3.9 per\ncent inQ1and4 percent in Q2.\nUnder the flexible inflation tar-\n\n. EXPRESS\nIntervicw",
+   "ocr_conf": 89.52577319587628,
+   "ocr_low_conf_share": 0.05154639175257732,
+   "headline": "GDP growth likely to moderate with inflation nearing 4%: RBI panel member",
+   "deck": "",
+   "byline": "",
+   "text": "Hitesh Vyas & George Mathew Mumbai, December 25\n\nTHE GROSS Domestic Product (GDP) growth projection islikely to moderate with inflation expected togradually move closer to the target in the coming quarters, and this is in line with the forecasts ofthe Monetary Policy Committee (MPC) resolution, said Saugata Bhattacharya, one of thethree external membersofthe Reserve Bank of India's rate-setting panel. Consumer Price Index (CPI) inflation is projected at 2 per cent for FY26. For 2026-27, CPI inflation is expected at 3.9 per cent inQ1and4 percent in Q2. Under the flexible inflation tar-\n\n. EXPRESS Intervicw",
+   "n_words": 94,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1783,
+      4664,
+      2062,
+      4759
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      4811,
+      2231,
+      5037
+     ]
+    ],
+    "layout_words": 31
+   },
+   "headline_raw": "MEMBER OF RBI'S\n| PAGE9",
+   "deck_raw": "",
+   "body_raw": "geting regime, RBI ismandated\nto Keep inflation at 4 per cent\nwith aband of +/- 2 per cent.\n\u201cNow that inflation is fore-\ncast to gradually normalise\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 87.46666666666667,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "MEMBER OF RBI'S",
+   "deck": "",
+   "byline": "",
+   "text": "geting regime, RBI ismandated to Keep inflation at 4 per cent with aband of +/- 2 per cent. \"Now that inflation is forecast to gradually normalise \u00bbCONTINUEDON PAGE 2",
+   "n_words": 29,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5221,
+      2166,
+      5496
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5158,
+      2208,
+      5193
+     ],
+     [
+      1566,
+      5561,
+      1658,
+      5615
+     ],
+     [
+      1489,
+      5604,
+      1627,
+      5735
+     ]
+    ],
+    "body_boxes": [
+     [
+      445,
+      5488,
+      632,
+      5570
+     ],
+     [
+      318,
+      5641,
+      678,
+      5714
+     ],
+     [
+      318,
+      5766,
+      759,
+      6196
+     ],
+     [
+      1165,
+      5613,
+      1373,
+      5652
+     ],
+     [
+      1782,
+      5486,
+      2225,
+      6190
+     ]
+    ],
+    "layout_words": 143
+   },
+   "headline_raw": "Workers left out of Israel jobs flight take\nlegal route: \u2018Mortgaged land, jewellery\u2019",
+   "deck_raw": "@ DISCRIMINATION, SAYS PETITION IN ALLAHABAD HC AGAINST NATIONAL SKILL DEVELOPMENT CORPORATION\ni\naT\n8\nf Cah\nAni ,",
+   "body_raw": "~ PAGE1\nanchor\n\nRitu Sarin\nNew Delhi, December 25\n\n@ EIGHTEEN MONTHS ago,\nGautam Chauhan (28),amason\nfrom Azamgarh, pawned his\nsister\u2019s gold jewellery and mort-\ngaged his family\u2019s half-acre\nland to put together Rs 68,800\nfor his journey to Israel to work\nasa labourer. Heis yetto get on\nthat flight.\n@Chhedi Lal (45), a foreman\nfrom Fatehpur, pawned his\n\ner\n\nvisa,\u201d he says.\nChauhan and Lalare among\nthe over 2,700 candidates se-\nlected from UP, whowere drawn\nby advertisements issued by the\nNational Skill Development\nCorporation (NSDC) overthe\npast two years, for a showpiece\nGovernment scheme to send\nskilled labourers to Israel.\nToday, the two are among\n376 candidates who were alleg-\nedly overlooked despite having\npaid money for the air tickets\nwhile others, selected in subse-\nquent batches, were sent to Tel\nAviv. Chauhan and Lal are also\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 85.13986013986013,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "Workers left out of Israel jobs flight take legal route: 'Mortgaged land, jewellery'",
+   "deck": "@ DISCRIMINATION, SAYS PETITION IN ALLAHABAD HC AGAINST NATIONAL SKILL DEVELOPMENT CORPORATION i aT f Cah Ani,",
+   "byline": "~ PAGE1",
+   "text": "anchor\n\nRitu Sarin New Delhi, December 25\n\n@ EIGHTEEN MONTHS ago, Gautam Chauhan (28),amason from Azamgarh, pawned his sister's gold jewellery and mort-gaged his family's half-acre land to put together Rs 68,800 for his journey to Israel to work asa labourer. Heis yetto get on that flight. @Chhedi Lal (45), a foreman from Fatehpur, pawned his\n\ner\n\nvisa,\" he says. Chauhan and Lalare among the over 2,700 candidates selected from UP, whowere drawn by advertisements issued by the National Skill Development Corporation (NSDC) overthe past two years, for a showpiece Government scheme to send skilled labourers to Israel. Today, the two are among 376 candidates who were allegedly overlooked despite having paid money for the air tickets while others, selected in subsequent batches, were sent to Tel Aviv. Chauhan and Lal are also",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1195,
+      5633,
+      1701,
+      5816
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1286,
+      5872,
+      1540,
+      5911
+     ],
+     [
+      807,
+      5962,
+      1716,
+      6036
+     ],
+     [
+      806,
+      6083,
+      1246,
+      6196
+     ],
+     [
+      1293,
+      6084,
+      1736,
+      6197
+     ]
+    ],
+    "layout_words": 57
+   },
+   "headline_raw": "ptt\nye the, wee :\n. zg\n\u201cyn ley Mh\n.",
+   "deck_raw": "",
+   "body_raw": "\u201d G a. | _\n\nReceipts of money paid by the petitioners for booking air tickets to\nIsrael. These have been attached with the petition. asHinav SAHA\n\nwife\u2019s jewellery for the same\namount, and reason. \u201cSeveral\nother workers from my district,\n\nwho cleared the interview and\ntests after me, left in 2024-end.\nI still have not got my work",
+   "ocr_conf": 86.08474576271186,
+   "ocr_low_conf_share": 0.0847457627118644,
+   "headline": "ptt ye the, wee:. zg \"yn ley Mh",
+   "deck": "",
+   "byline": "",
+   "text": "Receipts of money paid by the petitioners for booking air tickets to Israel. These have been attached with the petition. asHinav SAHA\n\nwife's jewellery for the same amount, and reason. \"Several other workers from my district,\n\nwho cleared the interview and tests after me, left in 2024-end. I still have not got my work",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 14.6,
+ "flags": []
+}

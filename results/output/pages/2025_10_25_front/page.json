@@ -1,0 +1,681 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_25_front",
+ "source_file": "2025-10-25_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-25_front.png",
+ "date": "2025-10-25",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1331,
+  "n_lines": 360,
+  "mean_line_conf": 88.66756345993188,
+  "orphan_words": 6,
+  "body_words_total": 1324
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      326,
+      1502,
+      3193,
+      1862
+     ],
+     [
+      323,
+      1897,
+      1243,
+      2099
+     ]
+    ],
+    "deck_boxes": [
+     [
+      325,
+      1413,
+      1850,
+      1462
+     ]
+    ],
+    "body_boxes": [
+     [
+      323,
+      2173,
+      678,
+      2245
+     ],
+     [
+      321,
+      2293,
+      762,
+      2406
+     ],
+     [
+      321,
+      2450,
+      763,
+      2645
+     ],
+     [
+      809,
+      2134,
+      1251,
+      2638
+     ]
+    ],
+    "layout_words": 119
+   },
+   "headline_raw": "India and US begin work on trade draft; Goyal\nunderlines: No deal with a \u2018gun to the head\u2019\n\u2018(We are) 1.4 bn people, we are young.\nSo they are not in a situation where\nthey want to do sub-optimal deals\u2019",
+   "deck_raw": "U.S. DELEGATION MAY COME TO INDIA FOR TALKS",
+   "body_raw": "RAVI DUTTA MISHRA\nNEW DELHI, OCTOBER 24\n\nTHE INDIA-US trade talks,\nmarked by twists and turns,\nseems to be moving closer to-\n\nfrom both sides are said to have\nbegun working on the language\nof the text but a final announce-\nment will require \u201cpolitical con-\nvergence,\u201d a senior government\n\nofficial said here Friday.\nIndicating as much while\nstrongly reiterating the red lines,\nCommerce Minister Piyush\nGoyal, at a conference in Berlin\nFriday, said that India doesn't do\ndeals with a deadline or with a\n\u201cgun tothe head.\u201d He framed the\nnegotiations as a process in\nwhich India will look at its long-\nterm implications and how it se-\ncures the national interest for a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.45378151260505,
+   "ocr_low_conf_share": 0.06722689075630252,
+   "headline": "India and US begin work on trade draft; Goyal underlines: No deal with a 'gun to the head' '(We are) 1.4 bn people, we are young. So they are not in a situation where they want to do sub-optimal deals'",
+   "deck": "U.S. DELEGATION MAY COME TO INDIA FOR TALKS",
+   "byline": "RAVI DUTTA MISHRA; NEW DELHI, OCTOBER 24",
+   "text": "THE INDIA-US trade talks, marked by twists and turns, seems to be moving closer tofrom both sides are said to have begun working on the language of the text but a final announcement will require \"political convergence,\" a senior government\n\nofficial said here Friday. Indicating as much while strongly reiterating the red lines, Commerce Minister Piyush Goyal, at a conference in Berlin Friday, said that India doesn't do deals with a deadline or with a \"gun tothe head.\" He framed the negotiations as a process in which India will look at its long-term implications and how it secures the national interest for a",
+   "n_words": 103,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      1894,
+      3174,
+      2181
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2274,
+      2255,
+      2635,
+      2325
+     ],
+     [
+      2274,
+      2375,
+      2716,
+      2646
+     ],
+     [
+      2763,
+      2217,
+      3204,
+      2639
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "Will \u2018fully comply\u2019 with\nGovt guidance on Russian\noil sanctions, says RIL",
+   "deck_raw": "",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, OCTOBER 24\n\nFOLLOWING SANCTIONS on\nRussia\u2019s oil sector by the West,\nprivate sector refining major\nReliance Industries (RIL) said\nFriday itis assessing the implica-\ntions and compliance require-\nments, \u201ccomplying fully\u201d with\n\nany guidance on the issue from\nthe Indian government.\nRIL, currently the largest\nIndian importer of Russian crude\nand the biggest exporter of re-\nfined petroleum products, also\nsaid that it will comply with the\nEuropean Union\u2019s (EU's) latest\nguidelines on import of petro-\nleum products into Europe. The\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.89887640449439,
+   "ocr_low_conf_share": 0.02247191011235955,
+   "headline": "Will 'fully comply' with Govt guidance on Russian oil sanctions, says RIL",
+   "deck": "",
+   "byline": "SUKALP SHARMA; NEW DELHI, OCTOBER 24; FOLLOWING SANCTIONS on",
+   "text": "Russia's oil sector by the West, private sector refining major Reliance Industries (RIL) said Friday itis assessing the implications and compliance require-ments, \"complying fully\" with\n\nany guidance on the issue from the Indian government. RIL, currently the largest Indian importer of Russian crude and the biggest exporter of refined petroleum products, also said that it will comply with the European Union's (EU's) latest guidelines on import of petroleum products into Europe. The",
+   "n_words": 72,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      2479,
+      4167,
+      2960
+     ],
+     [
+      3249,
+      2994,
+      4118,
+      3125
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      2401,
+      3984,
+      2439
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      3760,
+      3606,
+      3830
+     ],
+     [
+      3246,
+      3879,
+      3697,
+      4579
+     ],
+     [
+      3899,
+      3812,
+      4125,
+      3906
+     ],
+     [
+      3786,
+      3959,
+      4132,
+      4547
+     ],
+     [
+      3736,
+      4682,
+      3981,
+      4714
+     ],
+     [
+      3737,
+      4769,
+      4165,
+      4941
+     ],
+     [
+      3739,
+      4974,
+      4148,
+      5098
+     ]
+    ],
+    "layout_words": 170
+   },
+   "headline_raw": "Victims, perpetrators\nof terror equated in\nthe name of global\nstrategy: Jaishankar\nTargets Pak, China for shielding TRF\nwhich owned up Pahalgam attack",
+   "deck_raw": "QUESTIONS U.N. DECISION-MAKING",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER 24\n\nUNDERLINING THAT \u201cvictims\nand perpetrators of terrorism\u201d\nwere being equated \u201cin the\nname of global strategy\u201d,\nExternal Affairs Minister S\nJaishankar on Friday targeted\nPakistan and China, saying \u201ca sit-\nting Security Council member\u201d\nwas openly protecting the very\norganisation which claimed re-\nsponsibility for the Pahalgam\nterror attack.\nSpeaking at an event in Delhi\nto mark the 80th anniversary of\nthe United Nations, Jaishankar\nalsoquestioned \u201cthe sincerity of\nthose involved\u201d in shielding the\nCONTINUED ON PAGE2\n\nThe stand\n@ onlisting\n\nINDIAN EFFORTS to get\nPakistan terror outfits\nand individuals on the\nUN sanctions list havea\nhistory of being blocked\nby China, a permanent\nmember. In July this year,\nPrime Minister Narendra\nModitold the BRICS that\nthere should be no hesi-\ntation in imposing sanc-\ntions against terrorists.\nHe said if it\u2019s not done, it\nraises questions about\nthe fight against terror.\n\nTHE WORLD\n\nTRUMP ENDS TRADE\nTALKS WITH CANADA\nOVER ADS, CARNEY\nREADY TO RESUME\n\nZELENSKYY SEEKS\nMORE EUROPE HELP\nPAGE 12",
+   "ocr_conf": 92.44378698224853,
+   "ocr_low_conf_share": 0.03550295857988166,
+   "headline": "Victims, perpetrators of terror equated in the name of global strategy: Jaishankar Targets Pak, China for shielding TRF which owned up Pahalgam attack",
+   "deck": "QUESTIONS U.N. DECISION-MAKING",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER 24",
+   "text": "UNDERLINING THAT \"victims and perpetrators of terrorism\" were being equated \"in the name of global strategy\", External Affairs Minister S Jaishankar on Friday targeted Pakistan and China, saying \"a sitting Security Council member\" was openly protecting the very organisation which claimed responsibility for the Pahalgam terror attack. Speaking at an event in Delhi to mark the 80th anniversary of the United Nations, Jaishankar alsoquestioned \"the sincerity of those involved\" in shielding the\n\nThe stand @ onlisting\n\nINDIAN EFFORTS to get Pakistan terror outfits and individuals on the UN sanctions list havea history of being blocked by China, a permanent member. In July this year, Prime Minister Narendra Moditold the BRICS that there should be no hesitation in imposing sanctions against terrorists. He said if it's not done, it raises questions about the fight against terror.\n\nTHE WORLD\n\nTRUMP ENDS TRADE TALKS WITH CANADA OVER ADS, CARNEY READY TO RESUME\n\nZELENSKYY SEEKS MORE EUROPE HELP",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2798,
+      1243,
+      3218
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      3283,
+      731,
+      3389
+     ],
+     [
+      320,
+      3441,
+      762,
+      4386
+     ],
+     [
+      320,
+      4075,
+      1251,
+      4426
+     ]
+    ],
+    "layout_words": 190
+   },
+   "headline_raw": "Jobs, palayan, weight of\nbeing a \u2018Bihari\u2019: Aboard\na train of migrants going\nhome for Chhath Puja",
+   "deck_raw": "",
+   "body_raw": "DEEPTIMAN TIWARY\nON BOARD A TRAIN TO BIHAR,\nOCTOBER 24\n\nTHE AMRIT Bharat Express that\nleaves Delhi's Anand Vihar sta-\ntion in the afternoonand arrives\nin Motihari in Bihar the next\nmorning is packed to the brim.\nEvery year, as Chhath Puja nears,\ntrains headed east overflow with\nmigrants returning home. This\none is no exception.\nIn the sleeper coach, it takes\nnearly 15 minutes to push\nthrough the narrow aisle to the\nberth. Sacks, suitcases, plastic\nbuckets, cardboard boxes filled\nwith pressure cookers, and uten-\nsils lie strewn around. The only\nway to move luggage is to bal-\nance it on the head and squeeze\nsideways.\nIn the compartment where\nthis reporter has a reservation,\n15 adults and seven children\nshare eight seats. The floor and\nberths are cluttered with bags\n\nway to move luggage is tobal- _ dinner sets, blankets \u2014 all gifts\nance iton the head and squeeze _ to take home. Some passengers\nsideways. have no option but to stand\nIn the compartment where _ through the night. Yet, there is-\nthis reporter has a reservation, _n\u2019t a word of complaint. \u201cArey\n15 adults and seven children kono baatnaikhe, sab kehu adjust\nshare eight seats. The floor and \u2014_hojai. Chhath ba(This is no prob-\nberths are cluttered with bags \u2014_ lem, we can adjust to anything,\nand new purchases \u2014 mixies, CONTINUED ON PAGE 2",
+   "ocr_conf": 88.35807860262008,
+   "ocr_low_conf_share": 0.07423580786026202,
+   "headline": "Jobs, palayan, weight of being a 'Bihari': Aboard a train of migrants going home for Chhath Puja",
+   "deck": "",
+   "byline": "DEEPTIMAN TIWARY; ON BOARD A TRAIN TO BIHAR,; OCTOBER 24",
+   "text": "THE AMRIT Bharat Express that leaves Delhi's Anand Vihar station in the afternoonand arrives in Motihari in Bihar the next morning is packed to the brim. Every year, as Chhath Puja nears, trains headed east overflow with migrants returning home. This one is no exception. In the sleeper coach, it takes nearly 15 minutes to push through the narrow aisle to the berth. Sacks, suitcases, plastic buckets, cardboard boxes filled with pressure cookers, and utensils lie strewn around. The only way to move luggage is to balance it on the head and squeeze sideways. In the compartment where this reporter has a reservation, 15 adults and seven children share eight seats. The floor and berths are cluttered with bags\n\nway to move luggage is tobal- _ dinner sets, blankets - all gifts ance iton the head and squeeze _ to take home. Some passengers sideways. have no option but to stand In the compartment where _ through the night. Yet, there isthis reporter has a reservation, _n't a word of complaint. \"Arey 15 adults and seven children kono baatnaikhe, sab kehu adjust share eight seats. The floor and - _hojai. Chhath ba(This is no prob-berths are cluttered with bags - _ lem, we can adjust to anything,",
+   "n_words": 207,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      2790,
+      3111,
+      3041
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1299,
+      3124,
+      1723,
+      3194
+     ],
+     [
+      1294,
+      3243,
+      1739,
+      4339
+     ],
+     [
+      1783,
+      4154,
+      2229,
+      4346
+     ],
+     [
+      2273,
+      4155,
+      2715,
+      4347
+     ],
+     [
+      2762,
+      4155,
+      3202,
+      4340
+     ],
+     [
+      2802,
+      4470,
+      3160,
+      4504
+     ],
+     [
+      2898,
+      4545,
+      3070,
+      4573
+     ]
+    ],
+    "layout_words": 222
+   },
+   "headline_raw": "Invoking Karpoori, PM hits campaign\ntrail: Bihar will keep jungle raj at bay",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nPATNA, NEW DELHI, OCT 24\n\nPRIMEMINISTER Narendra Modi\non Friday launched his campaign\nfor the November Bihar\nAssembly elections with back-to-\nback rallies in Samastipur and\nBegusarai, weaving together a\nnarrative of social justice, devel-\nopment and Hindutva, even ashe\ncautioned people not to let \u201cjun-\ngle raj\u201d return to the state, accus-\ning the Opposition Mahagath-\nbandhan leaders of lawlessness\nand corruption.\nModi said the incumbent\nNDA under Chief Minister and\nJD(U) president Nitish Kumar\nwould clinch the polls and break\nelectoral records.Without declar-\ning Nitish as the NDA's CM can-\ndidate, Modi's remarks were ap-\nparently meant to counter the\nOpposition's barb that the BJPhas\nfought shy of projecting Nitish as\nthe CM face because it wanted to\nreplace him after the elections.\nThe PM chose to launch his\ncampaign by invoking the legacy\nof socialist icon and former Bihar\n\nCM Karpoori Thakur. Before ad-\ndressing his first rally at\nSamastipur, he visited Karpoori\nGram, the paternal village of\nThakur, inSamastipur districtin\n\nthe Mithilanchal region. The\nModi government conferred\nBharat Ratnaon Karpoori Thakur\nlast year.\n\u201cT went to Karpoori Gram be-\n\nfore coming here. I got a chance\nto pay my tributes to him. It is\ndue to his blessings that people\nlike me and Nitish ji coming\nCONTINUED ON PAGE 2\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "ocr_conf": 90.78378378378379,
+   "ocr_low_conf_share": 0.03153153153153153,
+   "headline": "Invoking Karpoori, PM hits campaign trail: Bihar will keep jungle raj at bay",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; PATNA, NEW DELHI, OCT 24",
+   "text": "PRIMEMINISTER Narendra Modi on Friday launched his campaign for the November Bihar Assembly elections with back-toback rallies in Samastipur and Begusarai, weaving together a narrative of social justice, development and Hindutva, even ashe cautioned people not to let \"jungle raj\" return to the state, accusing the Opposition Mahagathbandhan leaders of lawlessness and corruption. Modi said the incumbent NDA under Chief Minister and JD(U) president Nitish Kumar would clinch the polls and break electoral records.Without declaring Nitish as the NDA's CM candidate, Modi's remarks were apparently meant to counter the Opposition's barb that the BJPhas fought shy of projecting Nitish as the CM face because it wanted to replace him after the elections. The PM chose to launch his campaign by invoking the legacy of socialist icon and former Bihar\n\nCM Karpoori Thakur. Before addressing his first rally at Samastipur, he visited Karpoori Gram, the paternal village of Thakur, inSamastipur districtin\n\nthe Mithilanchal region. The Modi government conferred Bharat Ratnaon Karpoori Thakur last year. \"T went to Karpoori Gram before coming here. I got a chance to pay my tributes to him. It is due to his blessings that people like me and Nitish ji coming\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "n_words": 200,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      4415,
+      2701,
+      4590
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      4668,
+      1672,
+      4739
+     ],
+     [
+      1296,
+      4788,
+      1739,
+      5132
+     ]
+    ],
+    "layout_words": 49
+   },
+   "headline_raw": "Ramesh & Ramesh \u2014 only one survives\nas bus blaze kills 20 in Andhra Pradesh",
+   "deck_raw": "",
+   "body_raw": "SREENIVAS JANYALA\nHYDERABAD, OCTOBER 24\n\nTHEY SHARED the same name,\ncame from the same district of\nAndhra Pradesh, got married\naround the same time, and had\ntwo children each. They have\nalso been friends for 20 years.\nOn Thursday night, Nela-\nkurthi Ramesh (30) and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 95.36734693877551,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Ramesh & Ramesh - only one survives as bus blaze kills 20 in Andhra Pradesh",
+   "deck": "",
+   "byline": "SREENIVAS JANYALA; HYDERABAD, OCTOBER 24",
+   "text": "THEY SHARED the same name, came from the same district of Andhra Pradesh, got married around the same time, and had two children each. They have also been friends for 20 years. On Thursday night, Nelakurthi Ramesh (30) and",
+   "n_words": 39,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      435,
+      4540,
+      1131,
+      4584
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4690,
+      1203,
+      4865
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "DECISION 2025 ('m BIHAR",
+   "deck_raw": "",
+   "body_raw": "@ InBJP\u2019s Hindi heartland\ndominance, Biharan\noutlier\n@ Polls on the horizon, Cong",
+   "ocr_conf": 87.61538461538461,
+   "ocr_low_conf_share": 0.0,
+   "headline": "DECISION 2025 ('m BIHAR",
+   "deck": "",
+   "byline": "",
+   "text": "@ InBJP's Hindi heartland dominance, Biharan outlier @ Polls on the horizon, Cong",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      376,
+      4845,
+      579,
+      4921
+     ],
+     [
+      362,
+      4870,
+      749,
+      5038
+     ]
+    ],
+    "deck_boxes": [
+     [
+      416,
+      4774,
+      597,
+      4865
+     ]
+    ],
+    "body_boxes": [
+     [
+      382,
+      4943,
+      761,
+      5099
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "Nitish:\n.,*F Vu ', *\nNitish-neetl\nAs Bihar's longest-serving\nCM prepares for another\nelection whatit meanc",
+   "deck_raw": "a ON \u201ca\nvei e@ Ff i",
+   "body_raw": "\\s Bihar\u2019s longest-serving\nCM prepares for another\nelection, what it means\nfor him, his party",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "Nitish: Nitish-neetl As Bihar's longest-serving CM prepares for another election whatit meanc",
+   "deck": "",
+   "byline": "",
+   "text": "\\s Bihar's longest-serving CM prepares for another election, what it means for him, his party",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      836,
+      4845,
+      1166,
+      4921
+     ],
+     [
+      807,
+      4870,
+      1206,
+      5038
+     ]
+    ],
+    "deck_boxes": [
+     [
+      912,
+      5011,
+      1104,
+      5055
+     ]
+    ],
+    "body_boxes": [
+     [
+      840,
+      5063,
+      1002,
+      5099
+     ]
+    ],
+    "layout_words": 1
+   },
+   "headline_raw": "POS ON The norizon, LO!\npays homage to former\nchief Citoram Vacs\npayshomagetoformer \u2014\nchief Sitaram Kesri\n@ BJP. Congleave lion's share\nof SC seats for allies",
+   "deck_raw": "\u2018seats for allies",
+   "body_raw": "PAGES 11,4",
+   "ocr_conf": 21.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "POS ON The norizon, LO! pays homage to former chief Citoram Vacs payshomagetoformer - chief Sitaram Kesri @ BJP. Congleave lion's share of SC seats for allies",
+   "deck": "'seats for allies",
+   "byline": "PAGES 11,4",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2829,
+      4826,
+      3160,
+      4955
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": ". Artificial\nA intelligence\nfoersure\nsafety,",
+   "ocr_conf": 42.666666666666664,
+   "ocr_low_conf_share": 0.6666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": ". Artificial A intelligence foersure safety,",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5259,
+      1723,
+      5395
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5424,
+      499,
+      5498
+     ],
+     [
+      319,
+      5617,
+      638,
+      5687
+     ],
+     [
+      318,
+      5736,
+      760,
+      6166
+     ],
+     [
+      803,
+      5419,
+      1248,
+      6166
+     ],
+     [
+      1296,
+      5420,
+      1735,
+      5567
+     ],
+     [
+      1295,
+      5579,
+      1737,
+      6041
+     ],
+     [
+      1296,
+      6053,
+      1737,
+      6160
+     ]
+    ],
+    "layout_words": 244
+   },
+   "headline_raw": "His parting line: You are",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nSHIVANI NAIK\nMUMBAI, OCTOBER 24\n\nA LEAKING verandah had\nsmudged Piyush Pandey\u2019s script\nwhen hewas ruminating under\nawindowledge. That innocuous\nevery day event would give him\nthe idea of a son forcing a father\non his deathbed to add zeros to\nhis will \u2014 while a water drop\nerases the all-important'\u20181\u2019 at the\nstart of the amount. It\u2019s how \u2018Dr\nFixit\u2019 waterproofing joined le-\n\ngions of other brands \u2014 from\nCadbury's humming-word \u2018kuch\nkhaas hai\u2019 to Asian Paints\u2019 senti-\nmental festive film and Fevicol's\nhoot of inseparable sketches \u2014\nin getting etched on minds.\nPandey\u2019s old friend and for-\nmer Test opener Arun Lal had\njingles running in his mind on\nFriday, since the time he heard\nabout his death. Besides a\nmourning universe of Indian ad-\nvertising, the legendary adman,\nwho died at 70, left behind\ncricket-mates from his college\nyears, who first witnessed turns\nof his phrases and chuckling\npuns on the field, some of which\ngrew into iconic campaigns in\n\nlater years.\nBut Pandey\u2019s autobiography\nstarts with what he loved about\ncricket.\n\nJaipur knew ofan aggressive\nbatsman and a chatty wicket-\nkeeper with pithy pointers well\nbefore M S Dhoni arrived.\nPandey\u2019s first love might have\nbeen words in advertising copy,\nbut his eternal rom-com ran\nwith cricket, starting at St\nXavier\u2019s in Jaipur where he was\nonthe school'scricket team with\nfuture BCCI administrator Amrit\nMathur.\n\nAt Delhi's St Stephen's\nCollege, his chirpiness during\ntheir annual derbies with Hindu",
+   "ocr_conf": 92.32377049180327,
+   "ocr_low_conf_share": 0.028688524590163935,
+   "headline": "His parting line: You are",
+   "deck": "",
+   "byline": "ANCHOR; SHIVANI NAIK; MUMBAI, OCTOBER 24",
+   "text": "A LEAKING verandah had smudged Piyush Pandey's script when hewas ruminating under awindowledge. That innocuous every day event would give him the idea of a son forcing a father on his deathbed to add zeros to his will - while a water drop erases the all-important''1' at the start of the amount. It's how 'Dr Fixit' waterproofing joined legions of other brands - from Cadbury's humming-word 'kuch khaas hai' to Asian Paints' sentimental festive film and Fevicol's hoot of inseparable sketches - in getting etched on minds. Pandey's old friend and former Test opener Arun Lal had jingles running in his mind on Friday, since the time he heard about his death. Besides a mourning universe of Indian advertising, the legendary adman, who died at 70, left behind cricket-mates from his college years, who first witnessed turns of his phrases and chuckling puns on the field, some of which grew into iconic campaigns in\n\nlater years. But Pandey's autobiography starts with what he loved about cricket.\n\nJaipur knew ofan aggressive batsman and a chatty wicketkeeper with pithy pointers well before M S Dhoni arrived. Pandey's first love might have been words in advertising copy, but his eternal rom-com ran with cricket, starting at St Xavier's in Jaipur where he was onthe school'scricket team with future BCCI administrator Amrit Mathur.\n\nAt Delhi's St Stephen's College, his chirpiness during their annual derbies with Hindu",
+   "n_words": 232,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3173,
+      5261,
+      3687,
+      5368
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3247,
+      5421,
+      3689,
+      6168
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "n\u2019t touch",
+   "deck_raw": "",
+   "body_raw": "College, had a star-studded au-\ndience in 1978, with his team\ncomprising historian and author\nRamachandra Guha, first class\nplayers Subhash Sharma and\nRajinder Amamath, along with\nLal and Mathur.\n\u201cYou might not be able to\nprint this but you can try,\u201d went\nthe preamble of Lal's favourite\nPandey anecdote as he bid adieu\nto \u2018Buddy\u2019, his former teammate\nand 6amcricket confidant, who\nwould ring him up at dawn to\nguffaw about the latest thing\nthat amused him about the sport\nor showbiz. Pandey, Lal says, was\nagem of aguy, anad professional\nof integrity who wove magic",
+   "ocr_conf": 91.38144329896907,
+   "ocr_low_conf_share": 0.041237113402061855,
+   "headline": "n't touch",
+   "deck": "",
+   "byline": "",
+   "text": "College, had a star-studded audience in 1978, with his team comprising historian and author Ramachandra Guha, first class players Subhash Sharma and Rajinder Amamath, along with Lal and Mathur. \"You might not be able to print this but you can try,\" went the preamble of Lal's favourite Pandey anecdote as he bid adieu to 'Buddy', his former teammate and 6amcricket confidant, who would ring him up at dawn to guffaw about the latest thing that amused him about the sport or showbiz. Pandey, Lal says, was agem of aguy, anad professional of integrity who wove magic",
+   "n_words": 96,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3719,
+      5261,
+      4080,
+      5368
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3736,
+      5422,
+      4177,
+      6162
+     ]
+    ],
+    "layout_words": 96
+   },
+   "headline_raw": "hearts",
+   "deck_raw": "",
+   "body_raw": "with earthy, Indian, Hindi ideas,\nbut who loved crude, humorous\nrepartee when playing cricket.\nBack in the 1970s, Stephen\u2019s-\nHindu matches went on for five\ndays \u201clike Tests\u201d, Lal says, and\nwere unofficially declared holi-\ndays, so everyone could turn up\nto cheer. \u201cDuring one match, the\nHindu College captain com-\nplained that one of our bowlers\nwas chucking. The umpire paid\nno heed, sohe started screaming,\nThe f***** is chucking.\u2019 Piyush\ncalmly said from behind the\nwicket, \u2018No, the chuckerisf\"\"\"\u201d,\u201d\nrecalls Lal. \u201cHis humour was un-\nderstated, and what others took\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.15625,
+   "ocr_low_conf_share": 0.010416666666666666,
+   "headline": "hearts",
+   "deck": "",
+   "byline": "",
+   "text": "with earthy, Indian, Hindi ideas, but who loved crude, humorous repartee when playing cricket. Back in the 1970s, Stephen's-Hindu matches went on for five days \"like Tests\", Lal says, and were unofficially declared holidays, so everyone could turn up to cheer. \"During one match, the Hindu College captain complained that one of our bowlers was chucking. The umpire paid no heed, sohe started screaming, The f***** is chucking.' Piyush calmly said from behind the wicket, 'No, the chuckerisf\"\"\"\",\" recalls Lal. \"His humour was understated, and what others took",
+   "n_words": 88,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 15.2,
+ "flags": []
+}

@@ -1,0 +1,694 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_20_front",
+ "source_file": "2025-09-20_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-20_front.png",
+ "date": "2025-09-20",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1291,
+  "n_lines": 316,
+  "mean_line_conf": 89.55185811163076,
+  "orphan_words": 0,
+  "body_words_total": 1116
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1284,
+      1243,
+      1659
+     ],
+     [
+      321,
+      1584,
+      1246,
+      1777
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      1805,
+      1235,
+      1924
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      2689,
+      747,
+      2795
+     ],
+     [
+      318,
+      2846,
+      761,
+      3198
+     ],
+     [
+      809,
+      2650,
+      1250,
+      3191
+     ],
+     [
+      808,
+      3293,
+      1051,
+      3325
+     ],
+     [
+      808,
+      3370,
+      1246,
+      3586
+     ]
+    ],
+    "layout_words": 129
+   },
+   "headline_raw": "Manipur: Two Assam\nRifles personnel killed,\nfive injured as convoy\nlive injured as CONVOy\nambushed on highway",
+   "deck_raw": "Incident in Bishnupur district comes\nless than a week after PM visited state",
+   "body_raw": "EXPRESS NEWS SERVICE\nIMPHAL, GUWAHATI,\nSEPTEMBER 19\n\nTWO ASSAM Rifles personnel\nwere killed and another five\nwere injured in an ambush by\n\u201cunidentified terrorists\u201d in\nManipur\u2019s Bishnupur district on\nFriday evening.\nIn a statement , a Defence\nspokesperson said the attack\ntook place around 5.50 pm, when\n\nacolumn of the 33 Assam Rifles\nwas moving along National\nHighway 2 in the Nambol Sabal\nLeikai area. \u201cIn the ensuing ac-\ntion, two personnel of Assam\nRifles were martyred and five\nwere injured, who have since\nbeen evacuated to RIMS\n(Regional Institute of Medical\nSciences, Imphal) and are cur-\nrently stable,\u201d the statement said.\nAssam Rifles identified the\npersonnel killed in the attack as\nCONTINUEDON PAGE2\n\nTHE WORLD\n\nTRUMP-XI PROGRESS\nON TIKTOK DEAL,\nPLAN TO MEET IN\nSOUTH KOREA\nPAGE 12",
+   "ocr_conf": 93.12403100775194,
+   "ocr_low_conf_share": 0.015503875968992248,
+   "headline": "Manipur: Two Assam Rifles personnel killed, five injured as convoy live injured as CONVOy ambushed on highway",
+   "deck": "Incident in Bishnupur district comes less than a week after PM visited state",
+   "byline": "EXPRESS NEWS SERVICE; IMPHAL, GUWAHATI,; SEPTEMBER 19",
+   "text": "TWO ASSAM Rifles personnel were killed and another five were injured in an ambush by \"unidentified terrorists\" in Manipur's Bishnupur district on Friday evening. In a statement, a Defence spokesperson said the attack took place around 5.50 pm, when\n\nacolumn of the 33 Assam Rifles was moving along National Highway 2 in the Nambol Sabal Leikai area. \"In the ensuing action, two personnel of Assam Rifles were martyred and five were injured, who have since been evacuated to RIMS (Regional Institute of Medical Sciences, Imphal) and are currently stable,\" the statement said. Assam Rifles identified the personnel killed in the attack as CONTINUEDON PAGE2\n\nTHE WORLD\n\nTRUMP-XI PROGRESS ON TIKTOK DEAL, PLAN TO MEET IN SOUTH KOREA",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      1290,
+      3192,
+      1770
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1292,
+      1820,
+      2199,
+      1940
+     ]
+    ],
+    "body_boxes": [
+     [
+      1296,
+      2016,
+      1690,
+      2126
+     ],
+     [
+      1296,
+      2174,
+      1739,
+      2404
+     ],
+     [
+      1786,
+      1977,
+      2227,
+      2408
+     ],
+     [
+      2272,
+      2134,
+      2712,
+      2209
+     ],
+     [
+      2276,
+      2295,
+      2715,
+      2408
+     ],
+     [
+      2760,
+      1821,
+      3208,
+      2401
+     ],
+     [
+      2806,
+      2608,
+      3164,
+      2642
+     ],
+     [
+      2899,
+      2685,
+      3063,
+      2713
+     ],
+     [
+      2765,
+      3306,
+      2899,
+      3338
+     ],
+     [
+      2761,
+      3388,
+      3157,
+      3558
+     ]
+    ],
+    "layout_words": 195
+   },
+   "headline_raw": "Goyal-led team in US next week",
+   "deck_raw": "Jaishankar and Rubio also likely to\nmeet in New York on UNGA sidelines",
+   "body_raw": "RAVIDUTTAMISHRA\n& SHUBHAJIT ROY\nNEW DELHI, SEPTEMBER 19\n\nA TEAM of officials led by\nCommerce Minister Piyush\nGoyal is expected to visit\nWashington next week to re-\nsume negotiations for a trade\ndeal, two officials aware of the\n\ndevelopment told The Indian\nExpress Friday.\nThis comes afterthe US team,\nled by Assistant US Trade\nRepresentative (USTR) for South\nand Central Asia, Brendan Lynch,\nvisited New Delhi earlier this\nweek to meet his Indian\ncounterpart.\nOfficial sources said the talks\nwill also be carried on at the po-\n\nGoyal will be in Washington,\nJaishankar in New York\n\nlitical level by External Affairs\nMinister S Jaishankar and US\nSecretary of State Marco Rubio\n\nwhen they meeton the sidelines\nof the UNGA next week.\nJaishankar\u2019s travel plans to the\nUS are being worked out and an\nofficial announcement is\nawaited.\nOn Friday, Randhir Jaiswal,\nspokesperson for the Ministry of\nExternal Affairs, said, \u201cA team\nfrom United States Trade\nRepresentative, led by Assistant\nUSTR Brendan Lynch, had meet-\nings at the Ministry of\nCommerce on September 16 to\nCONTINUED ON PAGE 2\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nINSIDE\n\nCANADA MINISTER,\nNSA, WHO FUELLED\nINDIA ROW, HOLD\nTALKS IN DELHI",
+   "ocr_conf": 93.7025641025641,
+   "ocr_low_conf_share": 0.010256410256410256,
+   "headline": "Goyal-led team in US next week",
+   "deck": "Jaishankar and Rubio also likely to meet in New York on UNGA sidelines",
+   "byline": "RAVIDUTTAMISHRA; & SHUBHAJIT ROY; NEW DELHI, SEPTEMBER 19",
+   "text": "A TEAM of officials led by Commerce Minister Piyush Goyal is expected to visit Washington next week to resume negotiations for a trade deal, two officials aware of the\n\ndevelopment told The Indian Express Friday. This comes afterthe US team, led by Assistant US Trade Representative (USTR) for South and Central Asia, Brendan Lynch, visited New Delhi earlier this week to meet his Indian counterpart. Official sources said the talks will also be carried on at the po-\n\nGoyal will be in Washington, Jaishankar in New York\n\nlitical level by External Affairs Minister S Jaishankar and US Secretary of State Marco Rubio\n\nwhen they meeton the sidelines of the UNGA next week. Jaishankar's travel plans to the US are being worked out and an official announcement is awaited. On Friday, Randhir Jaiswal, spokesperson for the Ministry of External Affairs, said, \"A team from United States Trade Representative, led by Assistant USTR Brendan Lynch, had meet-ings at the Ministry of Commerce on September 16 to\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nCANADA MINISTER, NSA, WHO FUELLED INDIA ROW, HOLD TALKS IN DELHI",
+   "n_words": 180,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      1410,
+      4114,
+      1891
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      1925,
+      4162,
+      2056
+     ]
+    ],
+    "body_boxes": [
+     [
+      3253,
+      2136,
+      3649,
+      2206
+     ],
+     [
+      3251,
+      2256,
+      3694,
+      2644
+     ],
+     [
+      3740,
+      2097,
+      4182,
+      2334
+     ],
+     [
+      3739,
+      2335,
+      4183,
+      2640
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "US, UK, France put\non hold Pak bid to\ndesignate Baloch\neroup as terrorists",
+   "deck_raw": "Need more information on links to Al\nQaeda, ISIL, say permanent members",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, SEPTEMBER 19\n\nThe US, France and the UK have\nteamed up to put a \u201ctechnical\nhold\u201d on Pakistan's bid to list the\nBalochistan Liberation Army\n(BLA) and its alias, Majeed\nBrigade, asterrorist groups at the\nUNSecurity Council\u2019s 1267 sanc-\ntions committee.\nPakistan, a non-permanent\nmember at the UNSC had China,\n\na permanent member, backing\nthe proposal, but three other per-\nmanent membersof the Security\nCouncil said the BLA does not\nhave links with Al Qaeda or ISIL\nOn September 17,\n\nAmbassador Asim Iftikhar\nAhmed, Permanent Repres-\nentative of Pakistan to the UN,\nhad told a meeting of the UN\nSecurity Council: \u201cPakistan and\nChina have jointly submitted to\nthe 1267 Sanctions Committee a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.5702479338843,
+   "ocr_low_conf_share": 0.024793388429752067,
+   "headline": "US, UK, France put on hold Pak bid to designate Baloch eroup as terrorists",
+   "deck": "Need more information on links to Al Qaeda, ISIL, say permanent members",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, SEPTEMBER 19",
+   "text": "The US, France and the UK have teamed up to put a \"technical hold\" on Pakistan's bid to list the Balochistan Liberation Army (BLA) and its alias, Majeed Brigade, asterrorist groups at the UNSecurity Council's 1267 sanctions committee. Pakistan, a non-permanent member at the UNSC had China,\n\na permanent member, backing the proposal, but three other permanent membersof the Security Council said the BLA does not have links with Al Qaeda or ISIL On September 17,\n\nAmbassador Asim Iftikhar Ahmed, Permanent Representative of Pakistan to the UN, had told a meeting of the UN Security Council: \"Pakistan and China have jointly submitted to the 1267 Sanctions Committee a",
+   "n_words": 108,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      2715,
+      4178,
+      3150
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      3244,
+      3644,
+      3316
+     ],
+     [
+      3251,
+      3365,
+      3693,
+      3709
+     ],
+     [
+      3973,
+      3367,
+      4180,
+      3439
+     ],
+     [
+      3739,
+      3522,
+      4184,
+      3709
+     ]
+    ],
+    "layout_words": 70
+   },
+   "headline_raw": "Pak Defence Minister\u2019s\nbombshell: If need be,\nour n-programme can\nbe given to the Saudis",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, SEPTEMBER 19\n\nIN REMARKS that are making\nworld capitals sit up, Pakistan's\nDefence Minister Khawaja\nMohammad Asif has said his\ncountry\u2019s nuclear programme\n\u201cwill be made available\u201d to Saudi\nArabia, if needed, under their\nnew defence pact.\nSaudi Arabia\u2019s Crown Prince\n\narrangement,\nsays Asif\n\nMohammed bin Salman signed\nthe pact Wednesday with\nPakistan Prime Minister Shehbaz\nSharif in the presence of Pakistan\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.05714285714286,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "Pak Defence Minister's bombshell: If need be, our n-programme can be given to the Saudis",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, SEPTEMBER 19",
+   "text": "IN REMARKS that are making world capitals sit up, Pakistan's Defence Minister Khawaja Mohammad Asif has said his country's nuclear programme \"will be made available\" to Saudi Arabia, if needed, under their new defence pact. Saudi Arabia's Crown Prince\n\narrangement, says Asif\n\nMohammed bin Salman signed the pact Wednesday with Pakistan Prime Minister Shehbaz Sharif in the presence of Pakistan",
+   "n_words": 60,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      3363,
+      2575,
+      3431
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3479,
+      2700,
+      3556
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "To THE RESCUE IN UTTARAKHAND",
+   "deck_raw": "",
+   "body_raw": "Officials and others carry awoman during a rescue operation following landslides and floods\ntriggered by heavy rainfall in Chamoli district of Uttarakhand on Friday. Pri",
+   "ocr_conf": 86.04,
+   "ocr_low_conf_share": 0.08,
+   "headline": "To THE RESCUE IN UTTARAKHAND",
+   "deck": "",
+   "byline": "",
+   "text": "Officials and others carry awoman during a rescue operation following landslides and floods triggered by heavy rainfall in Chamoli district of Uttarakhand on Friday. Pri",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3573,
+      3183,
+      3626
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      3640,
+      3200,
+      3672
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "BJP SLAMS PITRODA",
+   "deck_raw": "",
+   "body_raw": "OVER PAK REMARK ps",
+   "ocr_conf": 94.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BJP SLAMS PITRODA",
+   "deck": "",
+   "byline": "OVER PAK REMARK ps",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3772,
+      1174,
+      4075
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      426,
+      4179,
+      1139,
+      4218
+     ],
+     [
+      363,
+      4270,
+      790,
+      4311
+     ],
+     [
+      849,
+      4270,
+      949,
+      4341
+     ],
+     [
+      365,
+      4361,
+      636,
+      4597
+     ],
+     [
+      799,
+      4417,
+      957,
+      4454
+     ],
+     [
+      365,
+      4463,
+      1201,
+      4661
+     ],
+     [
+      807,
+      4748,
+      1248,
+      5132
+     ],
+     [
+      319,
+      4787,
+      710,
+      4857
+     ],
+     [
+      317,
+      4905,
+      760,
+      5138
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "Fiscal health of states\nunder strain as public\ndebt trebles in 10 vear",
+   "deck_raw": "",
+   "body_raw": "HIGH DEBT-TO-GSDP RATIO: TOP 5 STATES\n\nState \u201cDebtas%\n\nPublic\ndebt*\n\nPunjab\nNagaland\nWest Bengal\nHimachal Pradesh\nBihar\n\n| \u20ac13,242 cr\n\nWest Bengal 33.70% [%5,10,763cr %1,515,564cr\nHimachal Pradesh 33.06% |%63,363cr 191,659 cr\nBihar 32.58% |%2,42,846cr %7,45,440cr\n*ason March 31,2023 Source: CAG reporton State Finances 2022-23\n\nand Auditor General of India\n(CAG) that provides a decadal\nanalysis on fiscal health of states.\nThe report was released\nFriday by CAG K Sanjay Murthy\nduring the State Finance\nSecretaries Conference.\nAccording to the report, the\ntotal public debt (internal debt\nCONTINUEDON PAGE2\n\nHARIKISHAN SHARMA\nNEW DELHI, SEPTEMBER 19\n\nTHE PUBLIC debt of all 28 states\ncombined trebled in 10 years \u2014\nfrom Rs 17.57 lakhcrore in 2013-\n14toRs59.60 lakhcrore in2022-\n23 \u2014 according to a first-of-its-\nkind report by the Comptroller",
+   "ocr_conf": 87.02362204724409,
+   "ocr_low_conf_share": 0.11023622047244094,
+   "headline": "Fiscal health of states under strain as public debt trebles in 10 vear",
+   "deck": "",
+   "byline": "HIGH DEBT-TO-GSDP RATIO: TOP 5 STATES",
+   "text": "State \"Debtas%\n\nPublic debt*\n\nPunjab Nagaland West Bengal Himachal Pradesh Bihar\n\nWest Bengal 33.70% [%5,10,763cr %1,515,564cr Himachal Pradesh 33.06% %63,363cr 191,659 cr *ason March 31,2023 Source: CAG reporton State Finances 2022-23\n\nand Auditor General of India (CAG) that provides a decadal analysis on fiscal health of states. The report was released Friday by CAG K Sanjay Murthy during the State Finance Secretaries Conference. According to the report, the total public debt (internal debt CONTINUEDON PAGE2\n\nHARIKISHAN SHARMA NEW DELHI, SEPTEMBER 19\n\nTHE PUBLIC debt of all 28 states combined trebled in 10 years - from Rs 17.57 lakhcrore in 2013- 14toRs59.60 lakhcrore in2022- 23 - according to a first-of-itskind report by the Comptroller",
+   "n_words": 113,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3677,
+      2707,
+      3880
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3955,
+      1669,
+      4102
+     ],
+     [
+      1294,
+      4154,
+      1739,
+      4387
+     ]
+    ],
+    "layout_words": 34
+   },
+   "headline_raw": "Nara Lokesh & the X factor: Wooing\nfirms, much to Karnataka\u2019s dismay",
+   "deck_raw": "",
+   "body_raw": "SREENIVAS JANYALA\n& PUSHKAR BANAKAR\nHYDERABAD, NEW DELHI,\nSEPTEMBER 19\n\nWHILE HE is holding investment\nroadshows in London these days,\nareply on Xbyhimtoapost bya\nstart-up CEO from Bengaluru\nshowed that Andhra Pradesh\nInformation Technology",
+   "ocr_conf": 88.82352941176471,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "Nara Lokesh & the X factor: Wooing firms, much to Karnataka's dismay",
+   "deck": "",
+   "byline": "SREENIVAS JANYALA; & PUSHKAR BANAKAR; HYDERABAD, NEW DELHI,; SEPTEMBER 19",
+   "text": "WHILE HE is holding investment roadshows in London these days, areply on Xbyhimtoapost bya start-up CEO from Bengaluru showed that Andhra Pradesh Information Technology",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2025,
+      3790,
+      2641,
+      3888
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2026,
+      3915,
+      2221,
+      4142
+     ],
+     [
+      1784,
+      4233,
+      2226,
+      4388
+     ],
+     [
+      2275,
+      3917,
+      2716,
+      4381
+     ]
+    ],
+    "layout_words": 91
+   },
+   "headline_raw": "nataka\u2019s dismay",
+   "deck_raw": "",
+   "body_raw": "He has been\nturning to\nsocial media\ntobring\nbusinesses\ntoAndhra\n\nMinister Nara Lokesh is not\naverse to using unconventional\nways to get business to his state.\nOn Tuesday, Rajesh Yabaji,\n\nthe co-founder and CEO of logis-\ntics start-up BlackBuck, ex-\npressed his frustration over\nBengaluru\u2019s pothole-filled roads\nin a post on X saying: \u201cORR\nBellandur has been our office +\nhome for the last nine years. But\nit\u2019s now very, very hard to con-\ntinue here. We have decided to\nmove out.\u201d\nLokesh replied with an offer\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.89010989010988,
+   "ocr_low_conf_share": 0.01098901098901099,
+   "headline": "nataka's dismay",
+   "deck": "",
+   "byline": "",
+   "text": "He has been turning to social media tobring businesses toAndhra\n\nMinister Nara Lokesh is not averse to using unconventional ways to get business to his state. On Tuesday, Rajesh Yabaji,\n\nthe co-founder and CEO of logistics start-up BlackBuck, expressed his frustration over Bengaluru's pothole-filled roads in a post on X saying: \"ORR Bellandur has been our office + home for the last nine years. But it's now very, very hard to continue here. We have decided to move out.\" Lokesh replied with an offer",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1055,
+      4270,
+      1137,
+      4313
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1005,
+      4360,
+      1177,
+      4403
+     ]
+    ],
+    "body_boxes": [
+     [
+      1005,
+      4520,
+      1179,
+      4602
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "GSDP",
+   "deck_raw": "%6,85,147 cr",
+   "body_raw": "%1,91,659 cr\n37,45,440cr",
+   "ocr_conf": 55.0,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "GSDP",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      4467,
+      2695,
+      4677
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      4748,
+      1687,
+      4818
+     ],
+     [
+      1294,
+      4866,
+      1737,
+      5139
+     ],
+     [
+      2274,
+      4710,
+      2714,
+      5133
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "Zubeen Garg, Assam superstar who\nbecame voice of a generation, dies",
+   "deck_raw": "",
+   "body_raw": "SUKRITABARUAH\nGUWAHATI, SEPTEMBER 19\n\nAS NEWS of Assamese superstar\nZubeen Garg \u2014 the man who\nbound the state\u2019s population to-\ngether as his fandom - passing\naway in Singapore broke on\nFriday, tearful admirers began to\ngather outside his home in\n\nGuwahati's Kahilipara.\nGarg, 52, known simply to his\nfollowers as Zubeen da, was born\nin Meghalaya\u2019s Turain 1972 and\nemerged as Assam\u2019s most influ-\nential cultural icon over his\nthree-decade long career as a\nsinger, songwriter, actor, and\neven filmmaker.\nOn Friday afternoon, he died\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.75555555555556,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "Zubeen Garg, Assam superstar who became voice of a generation, dies",
+   "deck": "",
+   "byline": "SUKRITABARUAH; GUWAHATI, SEPTEMBER 19",
+   "text": "AS NEWS of Assamese superstar Zubeen Garg - the man who bound the state's population together as his fandom - passing away in Singapore broke on Friday, tearful admirers began to gather outside his home in\n\nGuwahati's Kahilipara. Garg, 52, known simply to his followers as Zubeen da, was born in Meghalaya's Turain 1972 and emerged as Assam's most influential cultural icon over his three-decade long career as a singer, songwriter, actor, and even filmmaker. On Friday afternoon, he died",
+   "n_words": 80,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5264,
+      2684,
+      5511
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5584,
+      499,
+      5616
+     ],
+     [
+      319,
+      5735,
+      682,
+      5843
+     ],
+     [
+      317,
+      5895,
+      760,
+      6166
+     ],
+     [
+      805,
+      5539,
+      1251,
+      6163
+     ],
+     [
+      2272,
+      5541,
+      2713,
+      6160
+     ]
+    ],
+    "layout_words": 197
+   },
+   "headline_raw": "After win in custodial torture case, Kerala Youth\nCongress leader seals it with a wedding ring",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nSHAJU PHILIP\nTHIRUVANANTHAPURAM,\nSEPTEMBER 19\n\nHAPPINESS SHONE on the faces\nof VS Sujith, 29, and Thrishna,\n22, as they tied the knot at\nGuruvayur temple in Kerala's\nThrissur district on September\n15. Days earlier, Sujith, a Youth\nCongress leader, had another\n\nreason to rejoice \u2014 his 30-month\nfight against his custodial torture\nhad finally led to the suspension\nof four police personnel.\nThroughout this fight,\nThrishna, who plans to pursue\nher Master\u2019s degree in psychol-\nogy, stood by him. The couple\nhad met five years ago at a tem-\nple where Sujith, president of\nthe Youth Congress\u2019 in\nChovvannur mandalam of\nThrissur\u2019s Kunnamkulam town,\nworked as a priest.\nCongress leaders, including\nMP Shafi Parambil, former MPs\n\nT N Prathapan and V M\nSudheeran, and former MLA Anil\nAkkara, among others, attended\nthe wedding. A week earlier,\nSujith had got a gold ring as his\nwedding gift from AICC general-\nsecretary K C Venugopal and a\ngold chain from Joseph Tajet, the\nCongress's Thrissur district com-\nmittee chief.\nSujith\u2019s long-drawn-out legal\nbattle over two years \u2014 during\nwhich he used the Right to\nInformation (RTI) Acttoforce the\npolice to hand over the CCTV\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.96446700507614,
+   "ocr_low_conf_share": 0.04568527918781726,
+   "headline": "After win in custodial torture case, Kerala Youth Congress leader seals it with a wedding ring",
+   "deck": "",
+   "byline": "ANCHOR; SHAJU PHILIP; THIRUVANANTHAPURAM,; SEPTEMBER 19",
+   "text": "HAPPINESS SHONE on the faces of VS Sujith, 29, and Thrishna, 22, as they tied the knot at Guruvayur temple in Kerala's Thrissur district on September 15. Days earlier, Sujith, a Youth Congress leader, had another\n\nreason to rejoice - his 30-month fight against his custodial torture had finally led to the suspension of four police personnel. Throughout this fight, Thrishna, who plans to pursue her Master's degree in psychology, stood by him. The couple had met five years ago at a temple where Sujith, president of the Youth Congress' in Chovvannur mandalam of Thrissur's Kunnamkulam town, worked as a priest. Congress leaders, including MP Shafi Parambil, former MPs\n\nT N Prathapan and V M Sudheeran, and former MLA Anil Akkara, among others, attended the wedding. A week earlier, Sujith had got a gold ring as his wedding gift from AICC general-secretary K C Venugopal and a gold chain from Joseph Tajet, the Congress's Thrissur district committee chief. Sujith's long-drawn-out legal battle over two years - during which he used the Right to Information (RTI) Acttoforce the police to hand over the CCTV",
+   "n_words": 183,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 14.2,
+ "flags": []
+}

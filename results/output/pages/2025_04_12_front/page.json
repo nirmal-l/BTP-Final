@@ -1,0 +1,700 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_12_front",
+ "source_file": "2025-04-12_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-12_front.png",
+ "date": "2025-04-12",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1330,
+  "n_lines": 419,
+  "mean_line_conf": 90.12545721978897,
+  "orphan_words": 70,
+  "body_words_total": 1689
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      1458,
+      722,
+      1492
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      1474,
+      3173,
+      1773
+     ],
+     [
+      809,
+      1805,
+      1214,
+      2169
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      1409,
+      1682,
+      1442
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      2254,
+      1155,
+      2324
+     ],
+     [
+      806,
+      2373,
+      1252,
+      3311
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "Headley disclosures, testimony with FBI,\nPak contacts: Rana questioning intense\nNIA, IB officers\nconducting his\ninterrogation\nafter obtaining\n18-day custody",
+   "deck_raw": "EXTRADITED FROM U.S. FOR ROLE IN 26/11",
+   "body_raw": "DEEPTIMAN TIWARY\nNEW DELHI, APRIL 11\n\nTHE NATIONAL Investigation\nAgency (NIA), which has been\ngranted 18-day custody of\nTahawwur Rana, the 26/11\nMumbai terror attack conspira-\ntor extradited to India from the\nUS, is to be confronted with dis-\nclosures about his role by\nLashkar-e-Taiba scout David\nColeman Headley.\nRana is being questioned by\ninvestigators of the NIA and of-\nficials of the Intelligence Bureau\nat the NIA headquarters,\nSources in the NIA told The\nIndian Express Friday that Rana,\nwho was brought to Delhi\nThursday evening and produced\nbefore a court for grant of cus-\ntody, will also be confronted\nwith his own testimony given to\nthe Federal Bureau Investigation\n(FBI) and the Northern District\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.76666666666667,
+   "ocr_low_conf_share": 0.05,
+   "headline": "Headley disclosures, testimony with FBI, Pak contacts: Rana questioning intense NIA, IB officers conducting his interrogation after obtaining 18-day custody",
+   "deck": "EXTRADITED FROM U.S. FOR ROLE IN 26/11",
+   "byline": "DEEPTIMAN TIWARY; NEW DELHI, APRIL 11",
+   "text": "THE NATIONAL Investigation Agency (NIA), which has been granted 18-day custody of Tahawwur Rana, the 26/11 Mumbai terror attack conspirator extradited to India from the US, is to be confronted with disclosures about his role by Lashkar-e-Taiba scout David Coleman Headley. Rana is being questioned by investigators of the NIA and officials of the Intelligence Bureau at the NIA headquarters, Sources in the NIA told The Indian Express Friday that Rana, who was brought to Delhi Thursday evening and produced before a court for grant of custody, will also be confronted with his own testimony given to the Federal Bureau Investigation (FBI) and the Northern District",
+   "n_words": 106,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3254,
+      1500,
+      4130,
+      2193
+     ],
+     [
+      3250,
+      2222,
+      4133,
+      2353
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      1410,
+      4030,
+      1467
+     ]
+    ],
+    "body_boxes": [
+     [
+      3598,
+      2716,
+      3662,
+      2792
+     ],
+     [
+      3598,
+      2854,
+      3662,
+      2886
+     ],
+     [
+      3249,
+      3205,
+      3595,
+      3316
+     ],
+     [
+      3248,
+      3365,
+      3691,
+      4026
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "India keen on\ninterim trade\ndeal with US in\npause period\nTrying to get US, EU and UK to speed\nup trade talks, says Jaishankar",
+   "deck_raw": "\u2018U.S. QUICK TO RESPOND?\u2019",
+   "body_raw": "im\nitifir\n\niprile\n\nRAVIDUTTA MISHRA\n& SHUBHAJIT ROY\nNEW DELHI, APRIL 11\n\nTOMAKEGOOD the pause on re-\nciprocal tariffs announced byUS\nPresident Donald Trump, India\nis aiming to sign an interim trade\nagreement with the US during\nthe 90-day window, a senior\ngovernment official said.\n\u201cAn agreement is possible\nwithin 90 days if it\u2019s a win-win\nfor both sides. By then, the broad\ncontours will be finalised. The\nTerms of Reference (ToR) have\nbeen signed, and India is signifi-\ncantly ahead of other countries\nseeking a deal with the US,\u201d said\nthe official, who did not wish to\nbe identified.",
+   "ocr_conf": 90.09,
+   "ocr_low_conf_share": 0.07,
+   "headline": "India keen on interim trade deal with US in pause period Trying to get US, EU and UK to speed up trade talks, says Jaishankar",
+   "deck": "'U.S. QUICK TO RESPOND?'",
+   "byline": "",
+   "text": "im itifir\n\niprile\n\nRAVIDUTTA MISHRA & SHUBHAJIT ROY NEW DELHI, APRIL 11\n\nTOMAKEGOOD the pause on reciprocal tariffs announced byUS President Donald Trump, India is aiming to sign an interim trade agreement with the US during the 90-day window, a senior government official said. \"An agreement is possible within 90 days if it's a win-win for both sides. By then, the broad contours will be finalised. The Terms of Reference (ToR) have been signed, and India is significantly ahead of other countries seeking a deal with the US,\" said the official, who did not wish to be identified.",
+   "n_words": 98,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      399,
+      1612,
+      695,
+      1686
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Dhavavi dwellers tobe\nShifted to waste dump.",
+   "ocr_conf": 73.0,
+   "ocr_low_conf_share": 0.2857142857142857,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Dhavavi dwellers tobe Shifted to waste dump.",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      1804,
+      3172,
+      2124
+     ],
+     [
+      2761,
+      2134,
+      3202,
+      2271
+     ],
+     [
+      2762,
+      2263,
+      3200,
+      2323
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2337,
+      3052,
+      2365
+     ],
+     [
+      2760,
+      2413,
+      3205,
+      3313
+     ]
+    ],
+    "layout_words": 122
+   },
+   "headline_raw": "US: Rana said\n20/11 terrorists\nshould get\nPak\u2019s highest\ngallantry award\nEXPRESS NEWS SERVICE",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, APRIL 171\n\nA DAY after his extradition to\nIndia to face trial, the US\nDepartment of Justice (DoJ)\nFriday said that following the\n26/11 Mumbai terror attacks\nTahawwurts Rana told his co-con-\nspirator David Coleman Headley\nthat the nine Lashkar-e-Taibater-\nrorists killed during the assault\n\u201cshould be given the Nishan-e-\nHaider\u201d \u2014 Pakistan\u2019s highest\naward for gallantry in battle, re-\nserved for fallen soldiers.\nMore than 16 years after the\nMumbai attacks in which 166\npeople were killed, Rana was ex-\ntradited to India and formally ar-\nrested by the NIA Thursday.\nOn Friday, US Secretary of\nState Marco Rubio said in a post\non X: \u201cWe extradited Rana to\nIndia to face charges for his role\nCONTINUED ON PAGE2",
+   "ocr_conf": 93.62295081967213,
+   "ocr_low_conf_share": 0.02459016393442623,
+   "headline": "US: Rana said 20/11 terrorists should get Pak's highest gallantry award EXPRESS NEWS SERVICE",
+   "deck": "",
+   "byline": "NEW DELHI, APRIL 171",
+   "text": "A DAY after his extradition to India to face trial, the US Department of Justice (DoJ) Friday said that following the 26/11 Mumbai terror attacks Tahawwurts Rana told his co-conspirator David Coleman Headley that the nine Lashkar-e-Taibaterrorists killed during the assault \"should be given the Nishan-e-Haider\" - Pakistan's highest award for gallantry in battle, reserved for fallen soldiers. More than 16 years after the Mumbai attacks in which 166 people were killed, Rana was extradited to India and formally arrested by the NIA Thursday. On Friday, US Secretary of State Marco Rubio said in a post on X: \"We extradited Rana to India to face charges for his role",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      2712,
+      2674,
+      2940
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      2967,
+      1608,
+      3037
+     ],
+     [
+      1296,
+      3085,
+      1737,
+      3312
+     ],
+     [
+      1784,
+      2928,
+      2225,
+      3319
+     ],
+     [
+      2274,
+      2929,
+      2714,
+      3312
+     ]
+    ],
+    "layout_words": 136
+   },
+   "headline_raw": "The South India link: 2008 Bengaluru\nblasts, Kerala terror recruitment plot",
+   "deck_raw": "",
+   "body_raw": "JOHNSONTA\nBENGALURU, APRIL 11\n\nBESIDES THE 26/11 Mumbai at-\ntacks, Tahawwur Rana\u2019s extradi-\ntion is also likely to throwlighton\nhis association with key Lashkar-\ne-Taiba operatives linked to ter-\nrorism in South India.\n\nRana is known to have been\nassociated with a key Lashkar\ncommander who handled oper-\nations in South India around the\ntime of the 26/11 Mumbai at-\ntacks, including the Bengaluru se-\nrial blasts on July 25, 2008, and a\nterror recruitment plotin Kerala.\nSince the 26/11 attacks, the\nuncovering of the Lashkar\u2019s ter-\n\nror network by agencies in India\nand the US \u2014 reported through\ncourt filings in the two countries\n\u2014 has revealed that Rana was\nlinked in some way to Lashkar\u2019s\ntop operatives behind opera-\ntions in South India.\nDocumentary evidence from\nthese court filings over the last\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.57246376811594,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "The South India link: 2008 Bengaluru blasts, Kerala terror recruitment plot",
+   "deck": "",
+   "byline": "JOHNSONTA; BENGALURU, APRIL 11",
+   "text": "BESIDES THE 26/11 Mumbai attacks, Tahawwur Rana's extradition is also likely to throwlighton his association with key Lashkare-Taiba operatives linked to terrorism in South India.\n\nRana is known to have been associated with a key Lashkar commander who handled operations in South India around the time of the 26/11 Mumbai attacks, including the Bengaluru serial blasts on July 25, 2008, and a terror recruitment plotin Kerala. Since the 26/11 attacks, the uncovering of the Lashkar's terror network by agencies in India and the US - reported through court filings in the two countries - has revealed that Rana was linked in some way to Lashkar's top operatives behind opera-tions in South India. Documentary evidence from these court filings over the last",
+   "n_words": 121,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3028,
+      755,
+      3432
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3835,
+      738,
+      3942
+     ],
+     [
+      318,
+      4035,
+      631,
+      4105
+     ],
+     [
+      317,
+      4153,
+      759,
+      5210
+     ]
+    ],
+    "layout_words": 151
+   },
+   "headline_raw": "Karnataka\naccepts caste\nsurvey report,\nCabinet to take\nit up on April 17",
+   "deck_raw": "",
+   "body_raw": "Survey commissioned in\nSiddaramaiah\u2019s first tenure\nas CM from 2013 to 2018\n\nAKRAMM\nBENGALURU, APRIL 11\n\nOVER a year after it was submit-\nted to Chief Minister Sidda-\nramaiah in February 2024, the\nKarnataka Cabinet Friday ac-\ncepted the Socio-Economic and\nEducational Survey report, pop-\nularly referred to as caste survey.\nThe 50-volume report, sub-\nmitted by the Karnataka State\nCommission for Backward Clas-\nsesin February 2024, is scheduled\nto be discussed at a Special\nCabinet meeting on April 17.\nBriefing the media on the re-\nport, Backward Classes Welfare\nMinister Shivaraj Tangadagi said\nthe survey assessed 54 parame-\nters onthe social and educational\nstatus of Karnataka households.\n\u201cOf the 6.35 crore population in\nthe state, 5.98 crore people from\n1.35 crore families were sur-\nveyed,\u201d he said, making it 94.17%\nof the population. Around 37\nlakh families, or 5.83% of the total\npopulation, were not surveyed.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.55629139072848,
+   "ocr_low_conf_share": 0.026490066225165563,
+   "headline": "Karnataka accepts caste survey report, Cabinet to take",
+   "deck": "",
+   "byline": "AKRAMM; BENGALURU, APRIL 11",
+   "text": "Survey commissioned in Siddaramaiah's first tenure as CM from 2013 to 2018\n\nOVER a year after it was submitted to Chief Minister Siddaramaiah in February 2024, the Karnataka Cabinet Friday accepted the Socio-Economic and Educational Survey report, popularly referred to as caste survey. The 50-volume report, submitted by the Karnataka State Commission for Backward Classesin February 2024, is scheduled to be discussed at a Special Cabinet meeting on April 17. Briefing the media on the report, Backward Classes Welfare Minister Shivaraj Tangadagi said the survey assessed 54 parameters onthe social and educational status of Karnataka households. \"Of the 6.35 crore population in the state, 5.98 crore people from 1.35 crore families were surveyed,\" he said, making it 94.17% of the population. Around 37 lakh families, or 5.83% of the total population, were not surveyed.",
+   "n_words": 134,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3898,
+      3209,
+      4146,
+      3350
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3783,
+      3404,
+      4144,
+      3874
+     ],
+     [
+      3738,
+      3944,
+      4173,
+      4065
+     ]
+    ],
+    "layout_words": 57
+   },
+   "headline_raw": "Win-win\ndeal may\n'@ bepossible",
+   "deck_raw": "",
+   "body_raw": "WITH A three-month\npause before 26% US re-\nciprocal tariffs kick in,\nNew Delhi is keen to push\nthrough an interim trade\ndeal. The Terms of\nReference for a bilateral\ntrade agreement have al-\nready been signed, and\nIndia believes a win-win\ninterim dealis possible\nwithin 90 days.\n\nNOW, CHINA IMPOSES\n125% TARIFFS ON U.S.\nPAGE 12",
+   "ocr_conf": 89.14035087719299,
+   "ocr_low_conf_share": 0.07017543859649122,
+   "headline": "Win-win deal may '@ bepossible",
+   "deck": "",
+   "byline": "NOW, CHINA IMPOSES; 125% TARIFFS ON U.S.",
+   "text": "WITH A three-month pause before 26% US reciprocal tariffs kick in, New Delhi is keen to push through an interim trade deal. The Terms of Reference for a bilateral trade agreement have already been signed, and India believes a win-win interim dealis possible within 90 days.",
+   "n_words": 46,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      3464,
+      1715,
+      3909
+     ],
+     [
+      1786,
+      4076,
+      2606,
+      4144
+     ]
+    ],
+    "deck_boxes": [
+     [
+      808,
+      3387,
+      1694,
+      3420
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      4588,
+      1171,
+      4658
+     ],
+     [
+      806,
+      4709,
+      1248,
+      5217
+     ],
+     [
+      1294,
+      4550,
+      1737,
+      5211
+     ],
+     [
+      1785,
+      4192,
+      3193,
+      4268
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "It\u2019s final: With EPS as\nface, common agenda\nin works, AAADMK\nand BJP form alliance\nIN HIs CONSTITUENCY",
+   "deck_raw": "TAMIL NADU ASSEMBLY POLLS NEXT YEAR",
+   "body_raw": "ARUN JANARDHANAN\nCHENNAI, APRIL 11\n\nUNION HOME Minister Amit\nShah formally announced an al-\nliance between the BJP and\nATADMK for the 2026 Tamil Nadu\nAssembly elections here Friday,\nadding that AIADMK general sec-\nretary Edappadi K Palaniswami\n(EPS) will lead it. He also said that\nthe two parties will have acom-\nmon minimum programme.\n\u2018The alliance between the\nAIADMK and BJP in Tamil Nadu\nis under the leadership of EPS...\n\nWe will have a common mini-\nmum programme before we get\ninto the elections. We will all\nwork together to make the al-\nliance stronger,\u201d Shah said, shar-\ning the stage with EPS and BJP\nstate president K Annamalai,\nwhose exit from the post is be-\ning widely seen as a strategic\nreshuffle to cement ties between\nthe two parties.\nShah dismissed suggestions\nthat the AIADMK had made any\ndemands or set conditions for\nthe alliance. Asked specifically\naboutexpelled AIADMK leaders\nCONTINUED ON PAGE2\n\nPrime Minister Narendra Modi and Uttar Pradesh Chief Minister Yogi Adityanath in Varanasi\non Friday. The PM laid the foundation stone for various projects. P17! PAGE 6",
+   "ocr_conf": 90.52197802197803,
+   "ocr_low_conf_share": 0.054945054945054944,
+   "headline": "It's final: With EPS as face, common agenda in works, AAADMK and BJP form alliance IN HIs CONSTITUENCY",
+   "deck": "TAMIL NADU ASSEMBLY POLLS NEXT YEAR",
+   "byline": "ARUN JANARDHANAN; CHENNAI, APRIL 11",
+   "text": "UNION HOME Minister Amit Shah formally announced an alliance between the BJP and ATADMK for the 2026 Tamil Nadu Assembly elections here Friday, adding that AIADMK general secretary Edappadi K Palaniswami (EPS) will lead it. He also said that the two parties will have acommon minimum programme. 'The alliance between the AIADMK and BJP in Tamil Nadu is under the leadership of EPS...\n\nWe will have a common minimum programme before we get into the elections. We will all work together to make the alliance stronger,\" Shah said, sharing the stage with EPS and BJP state president K Annamalai, whose exit from the post is being widely seen as a strategic reshuffle to cement ties between the two parties. Shah dismissed suggestions that the AIADMK had made any demands or set conditions for the alliance. Asked specifically aboutexpelled AIADMK leaders\n\nPrime Minister Narendra Modi and Uttar Pradesh Chief Minister Yogi Adityanath in Varanasi on Friday. The PM laid the foundation stone for various projects. P17! PAGE 6",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      4218,
+      4163,
+      4498
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      4590,
+      3536,
+      4660
+     ],
+     [
+      3248,
+      4711,
+      3688,
+      5220
+     ],
+     [
+      3736,
+      4867,
+      4159,
+      4935
+     ],
+     [
+      3735,
+      5026,
+      4177,
+      5213
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "US Vice President Vance,\nNSA Mike Waltz likely to\nvisit India this month",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 11\n\nPREPARATIONS ARE being made\ntoschedule separate visits by US\nVice President J D Vance and US\nNational Security Advisor Mike\nWaltz later this month.\nSources said there is a possi-\nbility that both visits may hap-\npen in the last week of the\nmonth, between April 21 and 25.\nThe visits, if confirmed, will\ncome at time when the two sides\nare working on a trade deal.\nVance is expected to under-\n\nUS Vice President] D Vance;\nNSA Mike Waitz\n\ntake an official meeting and then\nhead for a private visit to meet\nhis wife's family. His wife, Usha\nVance, is of Indian origin and has\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.94827586206897,
+   "ocr_low_conf_share": 0.06896551724137931,
+   "headline": "US Vice President Vance, NSA Mike Waltz likely to visit India this month",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 11",
+   "text": "PREPARATIONS ARE being made toschedule separate visits by US Vice President J D Vance and US National Security Advisor Mike Waltz later this month. Sources said there is a possibility that both visits may happen in the last week of the month, between April 21 and 25. The visits, if confirmed, will come at time when the two sides are working on a trade deal. Vance is expected to under-\n\nUS Vice President] D Vance; NSA Mike Waitz\n\ntake an official meeting and then head for a private visit to meet his wife's family. His wife, Usha Vance, is of Indian origin and has",
+   "n_words": 104,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1783,
+      4453,
+      3187,
+      4555
+     ],
+     [
+      1784,
+      4567,
+      3194,
+      4724
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1786,
+      4378,
+      2630,
+      4411
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      4749,
+      2145,
+      4819
+     ],
+     [
+      1784,
+      4867,
+      2223,
+      5218
+     ],
+     [
+      2268,
+      4710,
+      2716,
+      5219
+     ],
+     [
+      2758,
+      4710,
+      3202,
+      5212
+     ]
+    ],
+    "layout_words": 184
+   },
+   "headline_raw": "TDP and YSRCP fly corporators to\nMalaysia, Lanka ahead of trust vote",
+   "deck_raw": "RESORT POLITICS GOES INTERNATIONAL",
+   "body_raw": "SREENIVAS JANYALA\nHYDERABAD, APRIL 1)\n\nPOLITICIANS BEING whisked\naway to resorts ahead of trust\nvotes and party splits is nothing\nnew, but the Telugu Desam Party\n(TDP) andthe YSR Congress Party\n(YSRCP) have taken it upa notch\nin Andhra Pradesh, flying out\ntheir corporators to Malaysiaand\nSri Lanka, respectively, before a\n\nvote on a no-confidence motion\nagainst Visakhapatnam Mayor G\nHari Venkata Kumarion April 19.\nThe Y S Jagan Mohan Reddy-\nled YSRCP currently runs the\nGreater Vizag Municipal\nCorporation (GVMC) Apart from\nKumari, Deputy Mayors J Sridhar\nandK Satish alsobelong to the YS-\nRCP, which hasbeen on the back-\nfoot since losing power in the state\nlast year, with leaders big and\nsmall jumping ship to the TDP.\n\nAgainst this backdrop, TDP\ncorporators in the GVMC sub-\nmitted a no-confidence motion\nagainst Kumari on March 22.\nAs the April 19 deadline for\nvoting approaches, both camps\nhave sent their corporators\naway to prevent poaching and\ncross-voting. The YSRCP has 59\nof the 98 seats inthe GVMC. The\nTDP has 29 corporators on its\nside, with three from ally JSP.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.3695652173913,
+   "ocr_low_conf_share": 0.02717391304347826,
+   "headline": "TDP and YSRCP fly corporators to Malaysia, Lanka ahead of trust vote",
+   "deck": "RESORT POLITICS GOES INTERNATIONAL",
+   "byline": "SREENIVAS JANYALA; HYDERABAD, APRIL 1)",
+   "text": "POLITICIANS BEING whisked away to resorts ahead of trust votes and party splits is nothing new, but the Telugu Desam Party (TDP) andthe YSR Congress Party (YSRCP) have taken it upa notch in Andhra Pradesh, flying out their corporators to Malaysiaand Sri Lanka, respectively, before a\n\nvote on a no-confidence motion against Visakhapatnam Mayor G Hari Venkata Kumarion April 19. The Y S Jagan Mohan Reddyled YSRCP currently runs the Greater Vizag Municipal Corporation (GVMC) Apart from Kumari, Deputy Mayors J Sridhar andK Satish alsobelong to the YS-RCP, which hasbeen on the back-foot since losing power in the state last year, with leaders big and small jumping ship to the TDP.\n\nAgainst this backdrop, TDP corporators in the GVMC submitted a no-confidence motion against Kumari on March 22. As the April 19 deadline for voting approaches, both camps have sent their corporators away to prevent poaching and cross-voting. The YSRCP has 59 of the 98 seats inthe GVMC. The TDP has 29 corporators on its side, with three from ally JSP.",
+   "n_words": 171,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      565,
+      5350,
+      4168,
+      5510
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      805,
+      5500,
+      1249,
+      6166
+     ],
+     [
+      1293,
+      5500,
+      1735,
+      6167
+     ],
+     [
+      2755,
+      5501,
+      3201,
+      6168
+     ],
+     [
+      3247,
+      5502,
+      3689,
+      6168
+     ],
+     [
+      3735,
+      5502,
+      4179,
+      6162
+     ]
+    ],
+    "layout_words": 425
+   },
+   "headline_raw": "In TN village named as case study for Waaf law, support for new Act",
+   "deck_raw": "",
+   "body_raw": "that we are sure that temples in\nthe village will no longer be\nclaimed by the Waaf Board, the\ntemple festival was celebrated\nwith more excitement this time.\nThe Wagdf law has breathed a\nnew life into this area.\u201d\nSpread over 900 acres,\nThiruchendurai village shot to\nfame after Union Minority\nAffairs Minister Kiren Rijijumen-\ntioned it as a \u201ccase study\u201d while\nspeaking in support of the Waaf\nBillin Parliamentin August 2024.\nHe had said the entire village, in-\ncluding the temple, was being\nclaimed as Waqf property.\n\nPassed by Parliament on\nApril 4, the Waqf(Amendment)\nAct, 2025, came into force on\nApril 8, Even as the Opposition\nhas criticised the Act as \u201cuncon-\nstitutional\u201d and an attack on the\nconstitutional rights of the\nMuslim community, agraharam\nresidents say they are in favour\nofthe new law.\nTo a query by The Indian\nExpress on the dispute, an official\nwiththe Tamil Nadu Waqf Board\nsays \u201cit had not claimed the en-\ntire village\u201d.\nThe official adds, \u201cOnly the\npart of the village that was do-\n\nnated by Rani Mangammal to\nthe Muslims in the 18th century\nisconsidered a part of Waqf land.\nThe village is considered as an\ninam gramam (gift land)as per a\n1954 Gazette notification.\u201d\nDisputing this, Kannan\nVenkataraman, another resident\nof the agraharam, says, \u201cI have\nbeen living at the agraharam for\ngenerations. All this time, the is-\nsue of the village being an inam\ngramam was never raised.\u201d\nThiruchendurai village is\ndominated by Hindus, from both\nthe dominant and historically\nmarginalised castes. Its residents\n\ninclude the nearly 40 families re-\nsiding in the agraharam. Protests\nagainst the Waoaf Board\u2019s claims\nover the village land have been\ncentered at the agraharam.\nThe issue at Thiruchendurai\nvillage first came to light in 2022,\nafter Rajagopal, a farmer from\nthe OBC community, decided to\nsell his 1.2-acre land. Locals say\nthe village revenue officials told\nhim to get a no-objection certifi-\ncate (NOC) from the Waqf Board\n\u201csince the land belonged to\nthem\u201d. The Indian Express\nreached out to the district rev-\nenue officials, but they were un-\n\navailable for comment.\nKannan Venkataraman, an-\nother resident of the agraharam,\nsays, \u201cRajagopal\u2019s case soon be-\ncame a rallying point. The agra-\nharam residents too supported\nthe cause.\u201d\nRajagopal eventually sold his\nland, after the Tamil Nadu gov-\nernment intervened in the dis-\npute in2022 and itsrevenue de-\npartment said that an NOC was\nnot required from the Waqf\nBoard for land transactions.\n\u201cWhen | bought property in\nthe agraharam nearly 25 years\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.25647058823529,
+   "ocr_low_conf_share": 0.021176470588235293,
+   "headline": "In TN village named as case study for Waaf law, support for new Act",
+   "deck": "",
+   "byline": "",
+   "text": "that we are sure that temples in the village will no longer be claimed by the Waaf Board, the temple festival was celebrated with more excitement this time. The Wagdf law has breathed a new life into this area.\" Spread over 900 acres, Thiruchendurai village shot to fame after Union Minority Affairs Minister Kiren Rijijumentioned it as a \"case study\" while speaking in support of the Waaf Billin Parliamentin August 2024. He had said the entire village, including the temple, was being claimed as Waqf property.\n\nPassed by Parliament on April 4, the Waqf(Amendment) Act, 2025, came into force on April 8, Even as the Opposition has criticised the Act as \"unconstitutional\" and an attack on the constitutional rights of the Muslim community, agraharam residents say they are in favour ofthe new law. To a query by The Indian Express on the dispute, an official withthe Tamil Nadu Waqf Board says \"it had not claimed the entire village\". The official adds, \"Only the part of the village that was donated by Rani Mangammal to the Muslims in the 18th century isconsidered a part of Waqf land. The village is considered as an inam gramam (gift land)as per a 1954 Gazette notification.\" Disputing this, Kannan Venkataraman, another resident of the agraharam, says, \"I have been living at the agraharam for generations. All this time, the issue of the village being an inam gramam was never raised.\" Thiruchendurai village is dominated by Hindus, from both the dominant and historically marginalised castes. Its residents\n\ninclude the nearly 40 families residing in the agraharam. Protests against the Waoaf Board's claims over the village land have been centered at the agraharam. The issue at Thiruchendurai village first came to light in 2022, after Rajagopal, a farmer from the OBC community, decided to sell his 1.2-acre land. Locals say the village revenue officials told him to get a no-objection certificate (NOC) from the Waqf Board \"since the land belonged to them\". The Indian Express reached out to the district revenue officials, but they were unavailable for comment. Kannan Venkataraman, another resident of the agraharam, says, \"Rajagopal's case soon became a rallying point. The agraharam residents too supported the cause.\" Rajagopal eventually sold his land, after the Tamil Nadu government intervened in the dispute in2022 and itsrevenue department said that an NOC was not required from the Waqf Board for land transactions. \"When bought property in the agraharam nearly 25 years",
+   "n_words": 404,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5539,
+      726,
+      5651
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "NIKHILAHENRY\nTHIRUCHENDURAI\n(TIRUCHIRAPPALLI), APRIL 11",
+   "ocr_conf": 84.6,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "NIKHILAHENRY; THIRUCHENDURAI; (TIRUCHIRAPPALLI), APRIL 11",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      5696,
+      759,
+      6166
+     ]
+    ],
+    "layout_words": 55,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "RETIRED SCHOOL teacher T K\nBalasubramaian, 84, says the lo-\ncal festival at the 1,500-year-old\nChandrasekhara Swamy Temple\nat Thiruchendurai village in\nTiruchirappalli district was cel-\nebrated with more \u201cgusto\u201d than\nusual this year.\nSitting on the thinnai (porch)\nat his house in an agraharam (a\nBrahmin settlement) in the vil-\nlage, Balasubramaian says, \u201cNow",
+   "ocr_conf": 90.4,
+   "ocr_low_conf_share": 0.03636363636363636,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "RETIRED SCHOOL teacher T K Balasubramaian, 84, says the local festival at the 1,500-year-old Chandrasekhara Swamy Temple at Thiruchendurai village in Tiruchirappalli district was celebrated with more \"gusto\" than usual this year. Sitting on the thinnai (porch) at his house in an agraharam (a Brahmin settlement) in the village, Balasubramaian says, \"Now",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 16.7,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

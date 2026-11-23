@@ -1,0 +1,682 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_16_front",
+ "source_file": "2025-11-16_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-16_front.png",
+ "date": "2025-11-16",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 916,
+  "n_lines": 488,
+  "mean_line_conf": 89.32312941677965,
+  "orphan_words": 2,
+  "body_words_total": 1875
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      355,
+      1003,
+      730,
+      1165
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1217,
+      758,
+      1563
+     ],
+     [
+      320,
+      1616,
+      756,
+      1929
+     ],
+     [
+      319,
+      1976,
+      746,
+      2290
+     ]
+    ],
+    "layout_words": 110
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@|AF\u2019S SU-30MKI FIGHTER\njets will operate alongside\nFrench fighters in simulated air\ncombat scenarios as part of\n\u2018Garuda 25 ' bilateral exercise\nat Mont-de-Marsan, France.\nThe exercise, which aimsto\nrefine tactics and procedures,\nwill continue until November 27.\n\n@ JUST OVERAMONTH AFTER\nprovocative gestures during\nthe three matches between\nIndia and Pakistan\u2019s main teams\nin Dubai sparked arow, the\n\u2018A teams of the two sides will\nclash in Doha at the Rising\nStars Asia Cup.\n\n@THERSS IS SCHEDULED\ntocarry out its centenary\nmarch in Chittapur town of\nKarnataka\u2019s Kalaburagi\ndistrict. The route of the\nfoot march was at the centre of\na legal and political tug-of-war\nin the Congress-ruled state.",
+   "ocr_conf": 83.87272727272727,
+   "ocr_low_conf_share": 0.14545454545454545,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "@ AF'S SU-30MKI FIGHTER; @ JUST OVERAMONTH AFTER",
+   "text": "jets will operate alongside French fighters in simulated air combat scenarios as part of 'Garuda 25 ' bilateral exercise at Mont-de-Marsan, France. The exercise, which aimsto refine tactics and procedures, will continue until November 27.\n\nprovocative gestures during the three matches between India and Pakistan's main teams in Dubai sparked arow, the 'A teams of the two sides will clash in Doha at the Rising Stars Asia Cup.\n\n@THERSS IS SCHEDULED tocarry out its centenary march in Chittapur town of Karnataka's Kalaburagi district. The route of the foot march was at the centre of a legal and political tug-of-war in the Congress-ruled state.",
+   "n_words": 103,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1554,
+      1335,
+      1628,
+      1374
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1561,
+      1641,
+      1576,
+      1670
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "4",
+   "ocr_conf": 79.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      2319,
+      2612,
+      2745
+     ],
+     [
+      808,
+      2749,
+      1699,
+      2811
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1371,
+      2893,
+      1661,
+      2976
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      2851,
+      1166,
+      2925
+     ],
+     [
+      807,
+      2974,
+      1252,
+      3879
+     ],
+     [
+      807,
+      3933,
+      1248,
+      4006
+     ],
+     [
+      1291,
+      3494,
+      1737,
+      3960
+     ],
+     [
+      1787,
+      3010,
+      2081,
+      3085
+     ],
+     [
+      1786,
+      3135,
+      2231,
+      4007
+     ],
+     [
+      2481,
+      3056,
+      2633,
+      3087
+     ]
+    ],
+    "layout_words": 302
+   },
+   "headline_raw": "JDU flags PM role\nPM and Nitish CMi1s pinaruream\nPersonally feel Nitish should continue People of Bihar don\u2019\nto head government, says ally Chirag",
+   "deck_raw": ". EXPRESS\nInterview",
+   "body_raw": "Deeptiman Tiwary\nNew Dethi, November15\n\nADAYaftertheNDAslandslide\nwin in the Bihar Assembly elec-\ntions, JD(U) national working\npresident Sanjay Jha on Satur-\nday told The Indian Express in\nan interview that \u201cfor Bihar, hav-\ning Modi as the PM and Nitish\nKumar as the CM is a dream\ncombination\u201d and \u201cthere is no\nconfusion within the NDA\u2019 on\nthe CM question. Union Min-\nister Chirag Paswan, whose\nparty LJP (RV) won 19 of the 28\nseats it contested as part of the\nNDA, too, said that he \u201cper-\nsonally\u201d feels Nitishshouldcon-\ntinue to head the government\nJha said the \u201cdouble-en-\ngine\u201d government was one of\nthe reasons for the party\u2019s vic-\ntory. \u201cFor Bihar, having Modias\nthe PM and Nitish Kumar as the\nCM is adream combination.\n\nmoment. Both the 2024 and\n2025 Union Budgets had sig-\n\nnificant allocations for Bihar.\nThe PM was in Bihar almost\nevery month in the past couple\nof years, launching or an-\nnouncing some project. This\nplayed a role,\u201d he said.\nAsked if Nitish would take\noath as CM for a record 10th\ntime, he said, \u201cThings will be\nclear when the time comes. In-\nternally, there is no confusion\nwithin the NDA.\u201d\n\nKamal Saiyed\nSurat, November 15\n\nCREDITING THE people of\nBihar for the massive mandate\nthat returnedthe ruling NDAto\npower in the state, Prime Min-\nister Narendra Modisaid Satur-\nday that they had rejected the\n\u201cpoison of casteism\u201d and the\n\u201cdivisive\u201d politics of the \u201cMus-\nlim League-Maowadi Congress\n(MMC) and allied parties\u201d and\nopted for \u201cnew heights in\ndevelopment\u201d.\nTargeting Congress leader\nRahul Gandhi and RJD\u2019s Te-\njashwi Yadav \u2014hedidnottake\nnamesbut referred toa \u201cnaam-\ndar\u2019 and a \u201cjamanati beta\u201d \u2014\nModi, who was addressing mi-\ngrants from Bihar at the Surat\nInternational Airport, said,\n\u201cBihar ke logon ko rajniti\nsamjhani nahi padti hai, woh\n\nVERDICT",
+   "ocr_conf": 90.6092715231788,
+   "ocr_low_conf_share": 0.052980132450331126,
+   "headline": "JDU flags PM role PM and Nitish CMi1s pinaruream Personally feel Nitish should continue People of Bihar don' to head government, says ally Chirag",
+   "deck": ". EXPRESS Interview",
+   "byline": "",
+   "text": "Deeptiman Tiwary New Dethi, November15\n\nADAYaftertheNDAslandslide win in the Bihar Assembly elections, JD(U) national working president Sanjay Jha on Saturday told The Indian Express in an interview that \"for Bihar, having Modi as the PM and Nitish Kumar as the CM is a dream combination\" and \"there is no confusion within the NDA' on the CM question. Union Minister Chirag Paswan, whose party LJP (RV) won 19 of the 28 seats it contested as part of the NDA, too, said that he \"personally\" feels Nitishshouldcontinue to head the government Jha said the \"double-engine\" government was one of the reasons for the party's victory. \"For Bihar, having Modias the PM and Nitish Kumar as the CM is adream combination.\n\nmoment. Both the 2024 and 2025 Union Budgets had significant allocations for Bihar. The PM was in Bihar almost every month in the past couple of years, launching or announcing some project. This played a role,\" he said. Asked if Nitish would take oath as CM for a record 10th time, he said, \"Things will be clear when the time comes. Internally, there is no confusion within the NDA.\"\n\nKamal Saiyed Surat, November 15\n\nCREDITING THE people of Bihar for the massive mandate that returnedthe ruling NDAto power in the state, Prime Minister Narendra Modisaid Saturday that they had rejected the \"poison of casteism\" and the \"divisive\" politics of the \"Muslim League-Maowadi Congress (MMC) and allied parties\" and opted for \"new heights in development\". Targeting Congress leader Rahul Gandhi and RJD's Tejashwi Yadav - hedidnottake namesbut referred toa \"naamdar' and a \"jamanati beta\" - Modi, who was addressing migrants from Bihar at the Surat International Airport, said, \"Bihar ke logon ko rajniti samjhani nahi padti hai, woh\n\nVERDICT",
+   "n_words": 286,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2400,
+      757,
+      2787
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2904,
+      330,
+      2933
+     ],
+     [
+      318,
+      3328,
+      618,
+      3404
+     ],
+     [
+      318,
+      3452,
+      761,
+      3846
+     ],
+     [
+      318,
+      3853,
+      760,
+      4118
+     ],
+     [
+      314,
+      4131,
+      761,
+      5035
+     ]
+    ],
+    "layout_words": 196
+   },
+   "headline_raw": "In blow to Lalu\nafter poll rout,\ndaughter Rohini\nquits politics,\n\u2018disowns\u2019 family",
+   "deck_raw": "",
+   "body_raw": "4\n\nHimanshu Harsh\nPatna, November 15\n\nADAYafterthe RJD-led Maha-\ngathbandhan suffered acrush-\ning defeat at the hands of the\nruling NDA in the Bihar Assem-\nbly polls, RJD president Lalu\nPrasad\u2019s daughter Rohini\nAcharya announced Saturday\nthat she was \u201cquitting\u201d politics\nand severing ties with her\nfamily.\n\nIn a cryptic post on X,\nAcharya said: \u201cIam quitting\npolitics and am disowning my\nfamily... This is what Sanjay\nYadav and Rameez had asked\nme to do, and lam taking all the\nblame.\u201d\n\nThe timing of her an-\nnouncement wassignificant as\nthe Bihar poll results saw the\nNDA storming back to power,\nwiththe RJD\u2019s tally plunging to\n25 seats from 75 seats it had se-\ncured in the 2020 elections.\nA doctor by training,\nAcharya, who largely stayed\nout of active politics until re-\ncent years, had chosen to be-\ncome a homemaker and settled\nwith her husband in Singapore.\nAcharya did not elaborate\nwhat Sanjay Yadav and Rameez\nhad said to her. They were not\navailable for comments.\nA Rajya Sabha MP, Sanjay\nYadav has been a close aide of\nRJD leader and Lalu's younger\nson Tejashwi Yadav, who spear-\nheaded the party\u2019scampaignin\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 89.88775510204081,
+   "ocr_low_conf_share": 0.0663265306122449,
+   "headline": "In blow to Lalu after poll rout, daughter Rohini quits politics, 'disowns' family",
+   "deck": "",
+   "byline": "",
+   "text": "Himanshu Harsh Patna, November 15\n\nADAYafterthe RJD-led Maha-gathbandhan suffered acrushing defeat at the hands of the ruling NDA in the Bihar Assembly polls, RJD president Lalu Prasad's daughter Rohini Acharya announced Saturday that she was \"quitting\" politics and severing ties with her family.\n\nIn a cryptic post on X, Acharya said: \"Iam quitting politics and am disowning my family... This is what Sanjay Yadav and Rameez had asked me to do, and lam taking all the blame.\"\n\nThe timing of her announcement wassignificant as the Bihar poll results saw the NDA storming back to power, withthe RJD's tally plunging to 25 seats from 75 seats it had secured in the 2020 elections. A doctor by training, Acharya, who largely stayed out of active politics until recent years, had chosen to become a homemaker and settled with her husband in Singapore. Acharya did not elaborate what Sanjay Yadav and Rameez had said to her. They were not available for comments. A Rajya Sabha MP, Sanjay Yadav has been a close aide of RJD leader and Lalu's younger son Tejashwi Yadav, who spear-headed the party'scampaignin",
+   "n_words": 183,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      2650,
+      3202,
+      2924
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2972,
+      3102,
+      3050
+     ],
+     [
+      2761,
+      3096,
+      3205,
+      4001
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "No terror angle:\nPolice; material\nstored in open,\ninspection was on",
+   "deck_raw": "",
+   "body_raw": "Bashaarat Masood\nSrinagar, November 15\n\nON FRIDAY night, at the Now-\ngam police station on the out-\nskirts of Srinagar, a forensics\nteam was examining the ex-\nplosivesrecovered from theRed\nFort blast-linked Jaish-e-Mo-\nhammad terror module busted\nlastweek. Accompanying them\nwere officials of the State Inves-\ntigation Agency (SIA), which\nhad taken over the case a day\nearlier, revenue officials on\nmagisterial duty, and a tailor\ncalled in to stitch the bags\nwhere the seized material\nwould be stored. Also present\nwerea few seniorpolice officers.\nAs the sampling process\ndragged on longer than ex-\npected, the police officers\nstepped out for a stroll, while\nsome of the officials went tothe\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 91.27433628318585,
+   "ocr_low_conf_share": 0.035398230088495575,
+   "headline": "No terror angle: Police; material stored in open, inspection was on",
+   "deck": "",
+   "byline": "",
+   "text": "Bashaarat Masood Srinagar, November 15\n\nON FRIDAY night, at the Nowgam police station on the outskirts of Srinagar, a forensics team was examining the explosivesrecovered from theRed Fort blast-linked Jaish-e-Mohammad terror module busted lastweek. Accompanying them were officials of the State Investigation Agency (SIA), which had taken over the case a day earlier, revenue officials on magisterial duty, and a tailor called in to stitch the bags where the seized material would be stored. Also present werea few seniorpolice officers. As the sampling process dragged on longer than expected, the police officers stepped out for a stroll, while some of the officials went tothe \u00bbCONTINUEDON PAGE 2",
+   "n_words": 107,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      2609,
+      4134,
+      2906
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      3570,
+      3592,
+      3689
+     ],
+     [
+      3249,
+      3735,
+      3692,
+      4008
+     ],
+     [
+      3738,
+      3575,
+      4182,
+      4002
+     ]
+    ],
+    "layout_words": 92
+   },
+   "headline_raw": "Among victims: Cops,\nrevenue official, police\nphotographers, a tailor",
+   "deck_raw": "",
+   "body_raw": "Bashaarat Masood\n& Naveed Iqbal\nSrinagar, November 15\n\nMOHAMMAD AMIN Mir last\nspoke to his younger brother on\nthe phone Friday night. \u201cIam\nbusy,\u201d he said. \u201cIwill finish work\nsoon and return home.\u201d\nMir, a head constable at the\nForensic Science Laboratory\n\n(FSL) posted at the District Po-\nlice Lines, Srinagar, was part of\nthe team that went to the Now-\ngam police station to collect\nsamples from the explosive-\nmaking materialsthat wentoff\nlate Friday night.\nBarely 35 minutes after the\nbrief phone conversation, a\npowerful blast ripped through\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 94.76086956521739,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Among victims: Cops, revenue official, police photographers, a tailor",
+   "deck": "",
+   "byline": "",
+   "text": "Bashaarat Masood & Naveed Iqbal Srinagar, November 15\n\nMOHAMMAD AMIN Mir last spoke to his younger brother on the phone Friday night. \"Iam busy,\" he said. \"Iwill finish work soon and return home.\" Mir, a head constable at the Forensic Science Laboratory\n\n(FSL) posted at the District Police Lines, Srinagar, was part of the team that went to the Nowgam police station to collect samples from the explosive-making materialsthat wentoff late Friday night. Barely 35 minutes after the brief phone conversation, a powerful blast ripped through \u00bbCONTINUEDON PAGE 2",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2485,
+      3165,
+      2668,
+      3220
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2325,
+      3265,
+      2661,
+      3295
+     ],
+     [
+      2271,
+      3375,
+      2715,
+      4000
+     ]
+    ],
+    "layout_words": 79
+   },
+   "headline_raw": "BIHAR",
+   "deck_raw": "",
+   "body_raw": "REPORTS, PAGES 4, 5\n\nduniya ko rajniti samjhane ki\ntaakat rakhte hain.\u201d\n(\u201cOne doesn\u2019t have to teach\npolitics to the people of Bihar,\nthey wield the power to teach\npolitics to the world.\u201d)\n\u201cGo anywhere inthe world,\nand you will find Bihar\u2019s talent.\nBihar is now showinga willing-\nness to reach new heights in de-\nvelopment. This election re-\nflected that willingness. Bihar\u2019s\nwomen and youth \u2014 Mahila\nand Yuva, M-Y \u2014 formed\na combination that has\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 89.3875,
+   "ocr_low_conf_share": 0.05,
+   "headline": "BIHAR",
+   "deck": "",
+   "byline": "REPORTS, PAGES 4, 5",
+   "text": "duniya ko rajniti samjhane ki taakat rakhte hain.\" (\"One doesn't have to teach politics to the people of Bihar, they wield the power to teach politics to the world.\") \"Go anywhere inthe world, and you will find Bihar's talent. Bihar is now showinga willingness to reach new heights in development. This election reflected that willingness. Bihar's women and youth - Mahila and Yuva, M-Y - formed a combination that has",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      4109,
+      2690,
+      4332
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      4367,
+      1149,
+      4441
+     ],
+     [
+      806,
+      4491,
+      1248,
+      5043
+     ],
+     [
+      1294,
+      4372,
+      1736,
+      5043
+     ],
+     [
+      1784,
+      4850,
+      2224,
+      5037
+     ],
+     [
+      2271,
+      4372,
+      2714,
+      5037
+     ]
+    ],
+    "layout_words": 252
+   },
+   "headline_raw": "10 years after Dadri man lynched over beef\nsuspicion, UP govt moves to withdraw case",
+   "deck_raw": "",
+   "body_raw": "Manish Sahu\nLucknow, November 15\n\nNEARLY A decade after 50-\nyear-old Mohammad Akhlaq\nwas lynched by a mob over ru-\nmours of cow slaughter and\nstoring its meat at his home in\nDadri\u2019s Bisada village, the Uttar\nPradesh government has de-\ncided to withdraw the case\nagainst the accused.\n\u201cWe filed the withdrawal ap-\nplication, issued by the govern-\nment in connection with\nAkhlaq Ahmed\u2019s case, before\nthecompetent court on October\n\n15. Thecourthas not yet passed\nany order on the application\nand has fixed December 12 for\nhearing the matter,\u201d said Bhag\nSingh Bhati, Additional District\nGovernment Counsel (ADGC),\nGautam Buddha Nagar.\n\u201cItis for the court to decide\nwhether the case will be with-\ndrawn or not. Until then, the\ntrial will continue. So far, the\ntestimony of the first prosecu-\ntion witness \u2014 the complain-\nant and the deceased\u2019s\ndaughter, Shaista \u2014 is under-\nway. Her cross-examination is\nyet to be done,\u201d Bhati said. He\n\nalso confirmed that all 15 ac-\ncused facing trial in the case are\ncurrently out on bail.\nConfirming the move, Dis-\ntrict Government Counsel\n\n(DGC), Gautam Buddha Nagar,\nBrahm Jeet Singh, said that\nafter receiving the govern-\nment\u2019s letter regarding the\nwithdrawal of Akhlaq\u2019scase, he\nforwarded it to the ADGC con-\ncemed for filing the appropriate\napplication before the court\nDefence counsel B R\nSharma also confirmed that\nwithdrawal application has\nbeen moved by the govern-\nment counselin the court.\nOn September 28, 2015, a\nmob gathered outside Akhlaq\u2019s\nhouse after an announcement\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 92.77777777777777,
+   "ocr_low_conf_share": 0.015873015873015872,
+   "headline": "10 years after Dadri man lynched over beef suspicion, UP govt moves to withdraw case",
+   "deck": "",
+   "byline": "",
+   "text": "Manish Sahu Lucknow, November 15\n\nNEARLY A decade after 50- year-old Mohammad Akhlaq was lynched by a mob over rumours of cow slaughter and storing its meat at his home in Dadri's Bisada village, the Uttar Pradesh government has decided to withdraw the case against the accused. \"We filed the withdrawal application, issued by the government in connection with Akhlaq Ahmed's case, before thecompetent court on October\n\n15. Thecourthas not yet passed any order on the application and has fixed December 12 for hearing the matter,\" said Bhag Singh Bhati, Additional District Government Counsel (ADGC), Gautam Buddha Nagar. \"Itis for the court to decide whether the case will be withdrawn or not. Until then, the trial will continue. So far, the testimony of the first prosecution witness - the complainant and the deceased's daughter, Shaista - is underway. Her cross-examination is yet to be done,\" Bhati said. He\n\nalso confirmed that all 15 accused facing trial in the case are currently out on bail. Confirming the move, District Government Counsel\n\n(DGC), Gautam Buddha Nagar, Brahm Jeet Singh, said that after receiving the government's letter regarding the withdrawal of Akhlaq'scase, he forwarded it to the ADGC concemed for filing the appropriate application before the court Defence counsel B R Sharma also confirmed that withdrawal application has been moved by the government counselin the court. On September 28, 2015, a mob gathered outside Akhlaq's house after an announcement",
+   "n_words": 236,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2760,
+      4161,
+      4168,
+      4363
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2763,
+      4085,
+      3402,
+      4128
+     ]
+    ],
+    "body_boxes": [
+     [
+      2758,
+      4408,
+      3116,
+      4482
+     ],
+     [
+      2758,
+      4534,
+      3202,
+      5045
+     ],
+     [
+      3250,
+      4771,
+      3592,
+      4800
+     ],
+     [
+      3248,
+      4851,
+      3692,
+      5045
+     ],
+     [
+      3735,
+      4413,
+      4179,
+      5038
+     ]
+    ],
+    "layout_words": 173
+   },
+   "headline_raw": "Clues that confirmed Umar drove\ni20 car: Charred limb, black shoe",
+   "deck_raw": "RED FORT CAR EXPLOSION",
+   "body_raw": "Alok Singh\nNew Delhi, November 15\n\nINVESTIGATORS RELIED on\nkey forensic clues to establish\nthat Umar Nabi was driving the\ncar that exploded near Delhi\u2019s\nRed Fort on November 10, in-\ncluding a charred portion of a\nleg found near the accelerator\nand a black sports shoe lying\nbeside the wreckage, The\nIndian Express has learnt.\nThe blast almost completely\ndestroyed the car, sources said,\nleaving only the front portion of\n\nBlast accused Umar Nabi\n\nthe bonnet, a tyre and part of\nthe gear lever intact. \u201cForensic\nteamsrecovered the lower por-\ntion of a leg from the driver\u2019s\nside and sent it to a hospital\n\nmortuary for DNA analysis,\u201d\nsources said.\nA DNA sample taken from\nUmar\u2019s mother matched the re-\nmains during testing con-\nducted Wednesday at the All\nIndia Institute of Medical\nSciences (AIIMS), they said.\nInvestigatorsalso recovered\na sports shoe near the vehicle\nwhich, sources said, matched\nthe footwear Umar was seen\nwearing in CCTV footage re-\ncorded acrossseveral locations\nin Delhi as he travelled toward\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 92.50581395348837,
+   "ocr_low_conf_share": 0.01744186046511628,
+   "headline": "Clues that confirmed Umar drove i20 car: Charred limb, black shoe",
+   "deck": "RED FORT CAR EXPLOSION",
+   "byline": "INVESTIGATORS RELIED on",
+   "text": "Alok Singh New Delhi, November 15\n\nkey forensic clues to establish that Umar Nabi was driving the car that exploded near Delhi's Red Fort on November 10, including a charred portion of a leg found near the accelerator and a black sports shoe lying beside the wreckage, The Indian Express has learnt. The blast almost completely destroyed the car, sources said, leaving only the front portion of\n\nBlast accused Umar Nabi\n\nthe bonnet, a tyre and part of the gear lever intact. \"Forensic teamsrecovered the lower portion of a leg from the driver's side and sent it to a hospital\n\nmortuary for DNA analysis,\" sources said. A DNA sample taken from Umar's mother matched the remains during testing conducted Wednesday at the All India Institute of Medical Sciences (AIIMS), they said. Investigatorsalso recovered a sports shoe near the vehicle which, sources said, matched the footwear Umar was seen wearing in CCTV footage recorded acrossseveral locations in Delhi as he travelled toward",
+   "n_words": 161,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      316,
+      5218,
+      3989,
+      5344
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      5160,
+      2752,
+      5196
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      5364,
+      678,
+      5438
+     ],
+     [
+      807,
+      5368,
+      1247,
+      5439
+     ],
+     [
+      316,
+      5488,
+      1247,
+      5966
+     ],
+     [
+      806,
+      5489,
+      1250,
+      5636
+     ],
+     [
+      952,
+      5803,
+      1250,
+      5966
+     ],
+     [
+      317,
+      5966,
+      759,
+      6201
+     ],
+     [
+      806,
+      5967,
+      1246,
+      6201
+     ],
+     [
+      1293,
+      5369,
+      1737,
+      6157
+     ],
+     [
+      1782,
+      6048,
+      2226,
+      6202
+     ],
+     [
+      2270,
+      6049,
+      2711,
+      6201
+     ],
+     [
+      3247,
+      5371,
+      3691,
+      6204
+     ],
+     [
+      3731,
+      5371,
+      4179,
+      6197
+     ]
+    ],
+    "layout_words": 479
+   },
+   "headline_raw": "Another glass ceiling breaks: Women soldiers soon in Territorial Army",
+   "deck_raw": "@ IN VACANCIES FOR SOME BATTALIONS OF THE TERRITORIAL ARMY INFANTRY HOME & HEARTH, SECTION STRENGTH EARMARKED FOR WOMEN",
+   "body_raw": "Amrita Nayak Dutta\nNew Delhi, November 15\n\nfor Jammu and Kashmir and\nthree for the North-East, in\n\nIN A first-of-its-kind move, the In some of these TA H&H\nArmy is planning to induct _ battalions, asectionstrengthof\nwomen soldiers in its Terri- vacancies has been earmarked\ntorial Army (TA) battalions, for the induction of women\naimed at graduallyopeningup candidates,among the total va-\ngreater opportunities for cancies, it islearnt. Asection\nwomen in the force. usually comprises 10 soldiers.\nThe Indian Express has This means a TA H&H bat-\nlearnt that the Direc- talion, which has\ntorate General of PAGE1 around 750 to 1,000\nTerritorial Army re- anchor f soldiers, will now\nleased additional va- have a section of\n\nIn some of these TA H&H\nbattalions, asection strength of\nvacancies has been earmarked\nfor the induction of women\n\ntalion, which has\naround 750 to 1,000\nsoldiers, will now\nhave a section of\n\ncancies for 2025-2026 for the\nInfantry Battalions TA Home&\nHearth (H&H) last month.\nAccording to the TA web-\nSite, there are11TAH&Hbattal-\nions, eight of which were raised\n\nwomen soldiers.\nWhilethis initiative initially\nentails inducting a section\nstrength of women soldiers into\nsome of the TA H&H battalions,\nplans are to expand it to all TA\n\nH&H battalions and subse-\nquently increase their numbers.\nThe TA H&H battalions,\ncomprising the local popula-\ntion, have been raised in the\nnorthern and eastern theatres\nfor counter-insurgency and\ncounter-terrorism operations.\nThey assist the regular Army\nand civil administration in\nmultiple tasks, such as intelli-\ngence gathering, road opening,\nand assistance in case of natu-\nral calamities, among others.\nAs of today, women are not\nallowed to join core combat\narms of theArmysuchas Infan-\ntry, Armoured Corps and\nMechanised Infantry. Some of\nthecombat support arms, such\n\nment of Artillery and Corps of\nSignals and all services, have\nwomen officers. Only the Corps\nof Military Police inducts\n\nwomen as soldiers.\nThelatest decision to induct\nwomen soldiers into infantry\nbattalions TA (H&H) will allow\n\nin this arm tocontribute tothe\nnation\u2019s defence. The TA pro-\nvides the volunteers an ideal\nopportunity to receive military\ntraining in their spare time and\nto serve the nation in times of\nnational emergency and inter-\nnal disturbances.\nIn May this year, during Op-\neration Sindoor, the Ministryof\nDefence had announced acti-\nvating 14 of 32 infantry battal-\nions of the Territorial Army for\ndeployment across the country\nuntil February 2028.\nPresently, the TA has a\nstrength of approximately\n\u00a70,000 personnel comprising\n65 Departmental TA units, such\nas Railway, IOC, ONGC and\nNon-Departmental TA units of\n\nInfantry Battalion (TA), includ-\ning Home & Hearth Battalions,\nEcological Battalion (TA)affili-\nated to various Infantry Regi-\nments and Engineer Regiment\n(TA) for maintenance of Line of\nControl Fencing.\nAComposite Eco Task Force\nfor the National Mission for\nClean Ganga has also been\nraised. The Eco Task Force is\ndedicated to the development,\npreservation and maintenance\nofecological balance and affor-\nestation in difficult areas.\nMany celebrities, too, have\neither served or have been\ngranted honorary ranks in the\nTA, among them Nana Patekar,\nMohanlal, Kapil Dev, MS Dhoni,\nand Abhinav Bindra",
+   "ocr_conf": 91.6608187134503,
+   "ocr_low_conf_share": 0.031189083820662766,
+   "headline": "Another glass ceiling breaks: Women soldiers soon in Territorial Army",
+   "deck": "@ IN VACANCIES FOR SOME BATTALIONS OF THE TERRITORIAL ARMY INFANTRY HOME & HEARTH, SECTION STRENGTH EARMARKED FOR WOMEN",
+   "byline": "",
+   "text": "Amrita Nayak Dutta New Delhi, November 15\n\nfor Jammu and Kashmir and three for the North-East, in\n\nIN A first-of-its-kind move, the In some of these TA H&H Army is planning to induct _ battalions, asectionstrengthof women soldiers in its Terri- vacancies has been earmarked torial Army (TA) battalions, for the induction of women aimed at graduallyopeningup candidates,among the total vagreater opportunities for cancies, it islearnt. Asection women in the force. usually comprises 10 soldiers. The Indian Express has This means a TA H&H batlearnt that the Direc- talion, which has torate General of PAGE1 around 750 to 1,000 Territorial Army re- anchor f soldiers, will now leased additional va- have a section of\n\nIn some of these TA H&H battalions, asection strength of vacancies has been earmarked for the induction of women\n\ntalion, which has soldiers, will now have a section of\n\ncancies for 2025-2026 for the Infantry Battalions TA Home& Hearth (H&H) last month. According to the TA web-Site, there are11TAH&Hbattalions, eight of which were raised\n\nwomen soldiers. Whilethis initiative initially entails inducting a section strength of women soldiers into some of the TA H&H battalions, plans are to expand it to all TA\n\nH&H battalions and subsequently increase their numbers. The TA H&H battalions, comprising the local population, have been raised in the northern and eastern theatres for counter-insurgency and counter-terrorism operations. They assist the regular Army and civil administration in multiple tasks, such as intelligence gathering, road opening, and assistance in case of natural calamities, among others. As of today, women are not allowed to join core combat arms of theArmysuchas Infantry, Armoured Corps and Mechanised Infantry. Some of thecombat support arms, such\n\nment of Artillery and Corps of Signals and all services, have women officers. Only the Corps of Military Police inducts\n\nwomen as soldiers. Thelatest decision to induct women soldiers into infantry battalions TA (H&H) will allow\n\nin this arm tocontribute tothe nation's defence. The TA provides the volunteers an ideal opportunity to receive military training in their spare time and to serve the nation in times of national emergency and internal disturbances. In May this year, during Operation Sindoor, the Ministryof Defence had announced activating 14 of 32 infantry battalions of the Territorial Army for deployment across the country until February 2028. Presently, the TA has a strength of approximately \u00a70,000 personnel comprising 65 Departmental TA units, such as Railway, IOC, ONGC and Non-Departmental TA units of\n\nInfantry Battalion (TA), including Home & Hearth Battalions, Ecological Battalion (TA)affiliated to various Infantry Regiments and Engineer Regiment (TA) for maintenance of Line of Control Fencing. AComposite Eco Task Force for the National Mission for Clean Ganga has also been raised. The Eco Task Force is dedicated to the development, preservation and maintenance ofecological balance and afforestation in difficult areas. Many celebrities, too, have either served or have been granted honorary ranks in the TA, among them Nana Patekar, Mohanlal, Kapil Dev, MS Dhoni, and Abhinav Bindra",
+   "n_words": 491,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2755,
+      5370,
+      3098,
+      5499
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2759,
+      5529,
+      3134,
+      5581
+     ]
+    ],
+    "body_boxes": [
+     [
+      2759,
+      5611,
+      3186,
+      5956
+     ],
+     [
+      2758,
+      6049,
+      3199,
+      6123
+     ]
+    ],
+    "layout_words": 43
+   },
+   "headline_raw": "fe] EXPLAINED",
+   "deck_raw": "Why this matters",
+   "body_raw": "Women are not allowed to\njoin core combat arms such\nas Infantry, Armoured\nCorps and Mechanised In-\nfantry. Some combat sup-\nport arms have women of-\nficers. Only the Corps of\nMilitary Police inducts\nwomen as soldiers.\n\nthemto break yet another glass\nceiling -",
+   "ocr_conf": 90.5909090909091,
+   "ocr_low_conf_share": 0.045454545454545456,
+   "headline": "fe] EXPLAINED",
+   "deck": "Why this matters",
+   "byline": "",
+   "text": "Women are not allowed to join core combat arms such as Infantry, Armoured Corps and Mechanised Infantry. Some combat support arms have women officers. Only the Corps of Military Police inducts women as soldiers.\n\nthemto break yet another glass ceiling -",
+   "n_words": 41,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 18.4,
+ "flags": []
+}

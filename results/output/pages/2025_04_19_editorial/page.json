@@ -1,0 +1,487 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_19_editorial",
+ "source_file": "2025-04-19_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-19_editorial.png",
+ "date": "2025-04-19",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 454,
+  "mean_line_conf": 90.75085581085959,
+  "orphan_words": 361,
+  "body_words_total": 3397
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1473,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1234,
+      877
+     ],
+     [
+      1710,
+      925,
+      1870,
+      980
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      949,
+      960
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA\n{Fe",
+   "body_raw": "FOUNDED By\n\nBECAUSE THE TRUTH",
+   "ocr_conf": 84.4,
+   "ocr_low_conf_share": 0.2,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA {Fe",
+   "byline": "FOUNDED By; BECAUSE THE TRUTH",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2000,
+      596,
+      3807,
+      823
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2310,
+      885,
+      3494,
+      1017
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      2468,
+      2815,
+      3315
+     ],
+     [
+      2920,
+      1251,
+      3529,
+      3348
+     ]
+    ],
+    "layout_words": 424
+   },
+   "headline_raw": "Diffusion is destiny",
+   "deck_raw": "That\u2019s the message of a recent book which traces\nhow technology affects balance of power",
+   "body_raw": "If you want tobea\ntechnology leader, you\nshould focus less on getting\ndominance in specific\nsectors and more on broad-\nbased policies that allow for\nthe diffusion of General\nPurpose Technologies\n(GPTs). Institutions\noriented towards creating\ninnovations or comering\nprofits in leading sectors are\noften very different in kind\nfrom institutions that allow\nfor the diffusion of GPTs\nacross a whole range\nof applications.\n\ntentially be adopted across a large number of\nsectors, leading to productivity gains across\nthe economy. An advantage in, say, electric\ncars, might have some spillover effects, but\ndoesnot transform a large number of sectors.\nUsing this distinction as a basis, Ding up-\nends conventional economic history and geo-\npolitics. Britain was successful in the first\nIndustrial Revolution not because ofa leading\nsector but due tothe general diffusion of engi-\nneering and machining skills. In the second\nrevolution, Germany was ahead in most lead-\ning sectors, Butthe US stole the thunder by be-\ning able todiffuse engineering skills and insti-\ntuting standards that allowed general-purpose\ntechnologies like electricity to be adopted far\nmore rapidly. Inthe Third Industrial Revolution,\nJapan seemingly had the advantage in some\nleading sectors like consumer electronics. But\nits ability to diffuse GPTs like computerisation\nwas limited. The US, by contrast, did not rely\nondominanceina few sectors, but greater dif-\nfusion of technology that could transform a\nnumber of sectors simultaneously.\nDing\u2019s discussion of the distinction be-\ntween these technologies is sophisticated\nand leads to testable predictions. But the\ncentral message is clear: If you want to bea\ntechnology leader, you should focus less on\ngetting dominance in specific sectors and\nmore onbroad-based policies that allow for\nthe diffusion of GPTs, Institutions oriented\ntowards creating innovations or cornering\nprofits in leading sectors are often very dif-\nferent in kind from institutions that allow\nfor the diffusion of GPTs across a whole\nrange of applications. The short version of\nDing\u2019s message is: Diffusion is Destiny.\nBut Ding\u2019s larger point is that the mistake\nthat economic historians make in focusing on\nLeading Sector Technologies is often mirrored\nby leaders and designers of industrial policy.\nThese often seek to create a comparative ad-\nvantage in a few sectors. And often the gains\nfromthesesectors last only as long as youcan\ncreatesomemonopoly profits fromthesesec-\ntors, in part by denying the rise of others in\nthese sectors. Leading sectors can bring gains\ntotheeconomy in terms of exports or employ-\nment, But they are not a reliabie basis for build-\ning national power.\nThis argument has deep implications, for\ndevelopment and geopolitics. For develop-",
+   "ocr_conf": 90.77358490566037,
+   "ocr_low_conf_share": 0.0330188679245283,
+   "headline": "Diffusion is destiny",
+   "deck": "That's the message of a recent book which traces how technology affects balance of power",
+   "byline": "",
+   "text": "If you want tobea technology leader, you should focus less on getting dominance in specific sectors and more on broad-based policies that allow for the diffusion of General Purpose Technologies (GPTs). Institutions oriented towards creating innovations or comering profits in leading sectors are often very different in kind from institutions that allow for the diffusion of GPTs across a whole range of applications.\n\ntentially be adopted across a large number of sectors, leading to productivity gains across the economy. An advantage in, say, electric cars, might have some spillover effects, but doesnot transform a large number of sectors. Using this distinction as a basis, Ding upends conventional economic history and geopolitics. Britain was successful in the first Industrial Revolution not because ofa leading sector but due tothe general diffusion of engineering and machining skills. In the second revolution, Germany was ahead in most leading sectors, Butthe US stole the thunder by being able todiffuse engineering skills and instituting standards that allowed general-purpose technologies like electricity to be adopted far more rapidly. Inthe Third Industrial Revolution, Japan seemingly had the advantage in some leading sectors like consumer electronics. But its ability to diffuse GPTs like computerisation was limited. The US, by contrast, did not rely ondominanceina few sectors, but greater diffusion of technology that could transform a number of sectors simultaneously. Ding's discussion of the distinction between these technologies is sophisticated and leads to testable predictions. But the central message is clear: If you want to bea technology leader, you should focus less on getting dominance in specific sectors and more onbroad-based policies that allow for the diffusion of GPTs, Institutions oriented towards creating innovations or cornering profits in leading sectors are often very different in kind from institutions that allow for the diffusion of GPTs across a whole range of applications. The short version of Ding's message is: Diffusion is Destiny. But Ding's larger point is that the mistake that economic historians make in focusing on Leading Sector Technologies is often mirrored by leaders and designers of industrial policy. These often seek to create a comparative advantage in a few sectors. And often the gains fromthesesectors last only as long as youcan createsomemonopoly profits fromthesesectors, in part by denying the rise of others in these sectors. Leading sectors can bring gains totheeconomy in terms of exports or employment, But they are not a reliabie basis for building national power. This argument has deep implications, for development and geopolitics. For develop-",
+   "n_words": 410,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      498,
+      1090,
+      1356,
+      1192
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1231,
+      1530,
+      2917
+     ]
+    ],
+    "layout_words": 525
+   },
+   "headline_raw": "(COURT\u2019S NUDGE",
+   "deck_raw": "",
+   "body_raw": ".-has brought a welcome pause on waqf law. At stake is faith,\nand space in which minority concerns are heard and addressed\nT HE GOVERNMENT HAS agreed to pause till May 5 two central aspects of the\ncontentious amendments to the Waqf Act that was passed earlier this month.\nIt told the Supreme Court that it would neither make appointments to Waqf\nBoards nor change the character of waqf properties, including \u201cwaqf-by-user\u2019,\nnotified and registered as such. Theassurancecame after abench ledby ChiefJusticeof India\nSanjiv Khanna asked some hard questions of Solicitor General Tushar Mehta and indicated\nthat it couldstay the operation of some aspects of the law. The Centre's pause \u2014aftertheSC's\nnudge \u2014 is welcome. It must lead to more deliberation onan issue that involves the consti-\ntutionally guaranteed fundamental rights of minorities. On May 5, theSC will hear the Centre\nagain and decide whether it must protect the status quo till the law is fully tested in courts.\nAta time of deepening divides, the relief provided by the protection of the status quo is\ncrucial. It will ensure that there is no encroachment on rights that could render the possi-\nbleoutcomeofthe court finding an infirmity in the law into an academic exercise. The pause\nwasalso necessary because a key provision that does away with the concept of waqf-by-user\n\u2014 where land used for Muslim religious or charitable purposes for a long period of time is\ndeemed as waqf even it was not registered as such \u2014 kicked in after the President gave her\nassent to the law on April 8. Opposition and minority voices have argued that striking down\nwaqf-by-user could put a question mark over the status of at least half of all waqf proper-\nties. While the goverment cited misuse of this concept, which is valid in some cases, the\nfact also isthat it hasbeen part of law recognised by Indian courts going back to 1935. Even\nthe SC\u2019s landmark ruling in the 2019 Ayodhya case recognised the validity of waqf-by-user.\nOnrepresentation of non-Muslims in waqfboards, too, the SC has raised crucial questions.\nThe benchasked if the government would \u201copenly\u201d say that it would also appoint minori-\nties on temple boards. These are complex issues \u2014 involving faith, and also the space inade-\nliberative democracy for minority concerns to be heard and addressed.\nThe wagqf law was introduced in August 2024 and was referred toa joint parliamentary\ncommittee that included members of the Opposition. It was debated in both Houses ofthe\nParliament. On the face of it, this was a robust process. However, in the JPC none of the is-\nsues raised by the Opposition were taken on board \u2014 all the 14 amendments that were ac-\ncepted were introduced by the BJP andits allies. In Parliament, it ultimately came down to\nthe fact that the government had the hard numbers, Judicial review is an integral and inalien-\nable partof the constitutional system ofchecks and balances. Cj Khannahas underlined that\nthere are some good aspects of the law, even as the bench he presides over also asks the\ntough questions that will only add to the legislative process, not detract from it.",
+   "ocr_conf": 90.0552380952381,
+   "ocr_low_conf_share": 0.045714285714285714,
+   "headline": "(COURT'S NUDGE",
+   "deck": "",
+   "byline": "",
+   "text": ".-has brought a welcome pause on waqf law. At stake is faith, and space in which minority concerns are heard and addressed T HE GOVERNMENT HAS agreed to pause till May 5 two central aspects of the contentious amendments to the Waqf Act that was passed earlier this month. It told the Supreme Court that it would neither make appointments to Waqf Boards nor change the character of waqf properties, including \"waqf-by-user', notified and registered as such. Theassurancecame after abench ledby ChiefJusticeof India Sanjiv Khanna asked some hard questions of Solicitor General Tushar Mehta and indicated that it couldstay the operation of some aspects of the law. The Centre's pause - aftertheSC's nudge - is welcome. It must lead to more deliberation onan issue that involves the constitutionally guaranteed fundamental rights of minorities. On May 5, theSC will hear the Centre again and decide whether it must protect the status quo till the law is fully tested in courts. Ata time of deepening divides, the relief provided by the protection of the status quo is crucial. It will ensure that there is no encroachment on rights that could render the possibleoutcomeofthe court finding an infirmity in the law into an academic exercise. The pause wasalso necessary because a key provision that does away with the concept of waqf-by-user - where land used for Muslim religious or charitable purposes for a long period of time is deemed as waqf even it was not registered as such - kicked in after the President gave her assent to the law on April 8. Opposition and minority voices have argued that striking down waqf-by-user could put a question mark over the status of at least half of all waqf properties. While the goverment cited misuse of this concept, which is valid in some cases, the fact also isthat it hasbeen part of law recognised by Indian courts going back to 1935. Even the SC's landmark ruling in the 2019 Ayodhya case recognised the validity of waqf-by-user. Onrepresentation of non-Muslims in waqfboards, too, the SC has raised crucial questions. The benchasked if the government would \"openly\" say that it would also appoint minorities on temple boards. These are complex issues - involving faith, and also the space inadeliberative democracy for minority concerns to be heard and addressed. The wagqf law was introduced in August 2024 and was referred toa joint parliamentary committee that included members of the Opposition. It was debated in both Houses ofthe Parliament. On the face of it, this was a robust process. However, in the JPC none of the issues raised by the Opposition were taken on board - all the 14 amendments that were accepted were introduced by the BJP andits allies. In Parliament, it ultimately came down to the fact that the government had the hard numbers, Judicial review is an integral and inalienable partof the constitutional system ofchecks and balances. Cj Khannahas underlined that there are some good aspects of the law, even as the bench he presides over also asks the tough questions that will only add to the legislative process, not detract from it.",
+   "n_words": 518,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1622,
+      1108,
+      2200,
+      1194
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1618,
+      1250,
+      2226,
+      3347
+     ],
+     [
+      1621,
+      3847,
+      2013,
+      3890
+     ],
+     [
+      1618,
+      3948,
+      2224,
+      5213
+     ]
+    ],
+    "layout_words": 566
+   },
+   "headline_raw": ")_\nPRATAP BHANU MEHTA",
+   "deck_raw": "",
+   "body_raw": "TRANSITIONS IN THE balance of power inthe\ninternational system are often driven by tech-\nnology. Technology is at the core of the cur-\nrent great power competition between China\nand the United States, But how does technol-\nogy affect the balance of power? This ques-\ntion is not as straightforward as it seems.\nJeffrey Ding's much-discussed book\nTechnology and the Rise of Great Powers\n(Princeton University Press)is upendinga lot\nof conventional wisdom.\nThe conventional wisdom goes something\nlike this. Countries gain advantage by getting\nahead in what are known as the leading sec-\ntors. They innovate, acquire the lead-in, and\nthen, fora brief period, accrue first-mover ad-\nvantage or monopoly rents from their domi-\nnance in leading technologies. So, during the\nIndustrial Revolution, Britain acquired alead-\ning edge in critical innovations in industries\nlike textiles. During the Second Industrial\nRevolution, when Germany challenged\nBritain, it did so by acquiring an edge in what\nthen became the leading sectors, like the\nchemical industry.\nIn the late 1970s, many people thought\nJapan would give the US a run for its money\nbased on the fact that it dominated industries\nlike consumer electronics and cars. And cur-\nrently, followers of technology competition\nalsowatch dominance in leading sectors. Will\nChina gain an irrevocable lead in electric cars,\nfor example?\nDing argues that this focus on leading sec-\ntors as an explanation for shifts in global\npower balances is mistaken. Great powersta-\ntusisnotachieved by dominance of aleading\nsector. It is, instead, achieved by the diffusion\nof whathe calls General Purpose Technologies\n(GPT) It is a clich\u00e9 to say not all technologies\nare created equal. But the specific distinction\nthat drives Ding\u2019s argument is between\nGeneral Purpose Technologies and Leading\nSector Technologies, The former technologies\nare, as the name implies, innovations that al-\nter economic activity by driving productivity\ngainsacross a large number of sectors.\nSo, in the first Industrial Revolution,\nBritain's advantage did not come from tex-\ntiles; it came from its ability to produce and\ndiffuse iron-based machines across a large\nnumber of sectors. Acontemporary example\nmight be that Al is atechnology that can po-\n\nGAURAV GOGOI\n\nBEING A YOUNG person today is not simple.\nFor many Indians, adolescence is no longer a\ncarefree phase but a high-pressure journey\nmarked by academic stress, social-media\nscrutiny,and emotional isolation. India is fac-\ninga silent mental-health crisis \u2014 one that is\ndisproportionately impacting its youth.\nAccording to the National Crime Records\nBureau, over 40,000 student suicides have\nbeen reported in India in the past five years.\nYet, mental health remains a neglected area\nin our public health agenda. The National\nMental Health Survey (2016) found that onein\n10 adolescents has a mental health disorder,\nbut India allocates less than 0.5 per cent ofits\nhealth budget to mental health services. With\nover 250 million people under the age of 20,\nthis crisis demands immediate attention.\nCovid deepened a growing crisis among\nyoung people. With schools closed and real-\nworld social interactions cut off, most adoles-\ncents turned to digital platforms. While social\nmedia offered connection, it also intensified\nfeelings of comparison, isolation, and per-\nformance anxiety. Teenagers, already navigat-\ning complex emotional terrains, were left\nmorevulnerable than ever. The habits formed\nduring lockdown have become entrenched.\nThe Netflix series Adolescence offers in-\nsights into the emotional struggles of today\u2019s\nyouth, helping Us better uiersiand tie cracks\nin our support systems and the damaging in-",
+   "ocr_conf": 91.81448763250883,
+   "ocr_low_conf_share": 0.0353356890459364,
+   "headline": "PRATAP BHANU MEHTA",
+   "deck": "",
+   "byline": "GAURAV GOGOI",
+   "text": "TRANSITIONS IN THE balance of power inthe international system are often driven by technology. Technology is at the core of the current great power competition between China and the United States, But how does technology affect the balance of power? This question is not as straightforward as it seems. Jeffrey Ding's much-discussed book Technology and the Rise of Great Powers (Princeton University Press)is upendinga lot of conventional wisdom. The conventional wisdom goes something like this. Countries gain advantage by getting ahead in what are known as the leading sectors. They innovate, acquire the lead-in, and then, fora brief period, accrue first-mover advantage or monopoly rents from their dominance in leading technologies. So, during the Industrial Revolution, Britain acquired aleading edge in critical innovations in industries like textiles. During the Second Industrial Revolution, when Germany challenged Britain, it did so by acquiring an edge in what then became the leading sectors, like the chemical industry. In the late 1970s, many people thought Japan would give the US a run for its money based on the fact that it dominated industries like consumer electronics and cars. And currently, followers of technology competition alsowatch dominance in leading sectors. Will China gain an irrevocable lead in electric cars, for example? Ding argues that this focus on leading sectors as an explanation for shifts in global power balances is mistaken. Great powerstatusisnotachieved by dominance of aleading sector. It is, instead, achieved by the diffusion of whathe calls General Purpose Technologies (GPT) It is a clich\u00e9 to say not all technologies are created equal. But the specific distinction that drives Ding's argument is between General Purpose Technologies and Leading Sector Technologies, The former technologies are, as the name implies, innovations that alter economic activity by driving productivity gainsacross a large number of sectors. So, in the first Industrial Revolution, Britain's advantage did not come from textiles; it came from its ability to produce and diffuse iron-based machines across a large number of sectors. Acontemporary example might be that Al is atechnology that can po-\n\nBEING A YOUNG person today is not simple. For many Indians, adolescence is no longer a carefree phase but a high-pressure journey marked by academic stress, social-media scrutiny,and emotional isolation. India is facinga silent mental-health crisis - one that is disproportionately impacting its youth. According to the National Crime Records Bureau, over 40,000 student suicides have been reported in India in the past five years. Yet, mental health remains a neglected area in our public health agenda. The National Mental Health Survey (2016) found that onein 10 adolescents has a mental health disorder, but India allocates less than 0.5 per cent ofits health budget to mental health services. With over 250 million people under the age of 20, this crisis demands immediate attention. Covid deepened a growing crisis among young people. With schools closed and real-world social interactions cut off, most adolescents turned to digital platforms. While social media offered connection, it also intensified feelings of comparison, isolation, and performance anxiety. Teenagers, already navigating complex emotional terrains, were left morevulnerable than ever. The habits formed during lockdown have become entrenched. The Netflix series Adolescence offers insights into the emotional struggles of today's youth, helping Us better uiersiand tie cracks in our support systems and the damaging in-",
+   "n_words": 545,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3573,
+      1251,
+      4180,
+      3230
+     ]
+    ],
+    "layout_words": 354,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ment, and for countries like India, the les-\nson is this: Even as we think of industrial\npolicies for particular sectors, the basis of\nnational power will have to be the diffusion\nof GPTs thatenhance productivity across the\neconomy and produce a range of accumu-\nlated improvements across complementary\nsectors. One of the reasons politicians are\nloathe to think of diffusion of GPTs is in part\nbecause it does not grab the headlines. But,\nin part, this is because diffusion of GPTs re-\nquires more systemic change. It requires not\nthe skilling of human capital for specific\nleading sectors but widespread enhance-\nment of human capital, institutional adapt-\nability and facilitating interoperability of\ntechnologies. It requires consistent, wide-\nspread and foundational investments\nrather than the creation of technologies in\nmission mode.\nFor geopolitics, the implications of Ding\u2019s\nargument are telling. He concedes that in\nterms of Leading Sectors analysis, China has\ndone impressively well, in the production of\nelectric cars, for example. But he thinks the\nUS, unless Trump guts the entire system, may\nstill have the edge in adoption of GPTs, Theis-\nsuewill not bewho \u201cinvents\u201d technologies like\nDeepSeek. It will be \u2014 who is able to diffuse\nthese technologies widely.\nThis argument needs tobe assessed at two\nlevels. The first is at the level of the framework:\nIs the ability to diffuse technology a better\nfoundation for power than leading sector in-\nnovations? The second is at the level of appli-\ncation of the argument. Is the ability of the US\nto diffuse GPTs still better than that of China,\neven though China might have the edge in\nsome leading technologies?\nDing thinks the US still has the edge, and\nhe tries to provide evidence for it, induding\ninthe diffusion of relevant engineering skills.\nBut the lesson for India is clear. As Ding puts\nit, the spotlight should not be on the innova-\ntion clusters. It must focus on \u201csmall-sized\nfirms, small towns, engineers who tweak,\nand channels that connect the technology\nfrontier with the rest of the economy\u201d. We\nneed a widespread diffusion of human cap-\nital and deep institutional reform.",
+   "ocr_conf": 91.77118644067797,
+   "ocr_low_conf_share": 0.031073446327683617,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ment, and for countries like India, the lesson is this: Even as we think of industrial policies for particular sectors, the basis of national power will have to be the diffusion of GPTs thatenhance productivity across the economy and produce a range of accumulated improvements across complementary sectors. One of the reasons politicians are loathe to think of diffusion of GPTs is in part because it does not grab the headlines. But, in part, this is because diffusion of GPTs requires more systemic change. It requires not the skilling of human capital for specific leading sectors but widespread enhancement of human capital, institutional adaptability and facilitating interoperability of technologies. It requires consistent, widespread and foundational investments rather than the creation of technologies in mission mode. For geopolitics, the implications of Ding's argument are telling. He concedes that in terms of Leading Sectors analysis, China has done impressively well, in the production of electric cars, for example. But he thinks the US, unless Trump guts the entire system, may still have the edge in adoption of GPTs, Theissuewill not bewho \"invents\" technologies like DeepSeek. It will be - who is able to diffuse these technologies widely. This argument needs tobe assessed at two levels. The first is at the level of the framework: Is the ability to diffuse technology a better foundation for power than leading sector innovations? The second is at the level of application of the argument. Is the ability of the US to diffuse GPTs still better than that of China, even though China might have the edge in some leading technologies? Ding thinks the US still has the edge, and he tries to provide evidence for it, induding inthe diffusion of relevant engineering skills. But the lesson for India is clear. As Ding puts it, the spotlight should not be on the innovation clusters. It must focus on \"small-sized firms, small towns, engineers who tweak, and channels that connect the technology frontier with the rest of the economy\". We need a widespread diffusion of human capital and deep institutional reform.",
+   "n_words": 343,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      600,
+      3053,
+      1245,
+      3136
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3181,
+      1529,
+      4723
+     ]
+    ],
+    "layout_words": 436
+   },
+   "headline_raw": "FIRING AT FED",
+   "deck_raw": "",
+   "body_raw": "Undermining independence of central bank will only add to\nuncertainty and turmoil in markets and economy\nHEUS FEDERAL Reserveis in an unenviable position, confronted with chal-\nlenges on both its mandates \u2014 ensuring price stability and maximum em-\nployment. President Donald Trump's tariff policies have raised the spectre of\nhigher inflation, along with weaker economic momentim and higher unem-\nploymentat the same time. This complicates the Fed's monetary policy decisions \u2014 Fed\nchair Jerome Powell has also acknowledged that. On Wednesday, speaking at the\nEconomic Club of Chicago, he said, \u201cWe may find ourselves in the challenging scenario in\nwhich our dual-mandate goals are in tension.\u201d Powell further said that the \u201ceffects of that\n(the Trump administration's policy changes) are likely to move us away from our goals,\nso unemployment is likely to go up as the economy slows in all likelihood, and inflation\nis likely to go up as tariffs find their way\u201d into the economy.\nA day later, the Fed chairperson came under severe criticism from the US President. On\nThursday, Trump wrote on a social media platform: \u201c\u2018Too Late\u2019 Jerome Powell of the Fed,\nwho is always TOO LATE AND WRONG, yesterday issued a report which was another, and\ntypical, complete \u2018mess!\u2019 Powell's termination cannot come fastenough! \" Thisis notthe\nfirst time that Trump has criticised the Fed. In March, when the central bank had decided\ntohold rates steady, Trump had posted: \u201cThe Fed would be MUCH better off CUTTING RATES\nas US Tariffs start to transition (ease!) their way into the economy. Do the right thing.\u201d The\nthreat of \u201cPowell's termination\u201d because of disagreements with the President sends wor-\nrying signals about the independence of the US Fed. Central bank independence is a cher-\nished asset. Unlike politicians whotend to be driven by short-term political considerations,\nindependent central banks, taking a longer view, can take tough and unpopular decisions\nthat may deliver short-term pain. Former US Fed chairperson Ben Bernanke had once cau-\ntioned that \u201cpolitical interference in monetary policy can generate undesirable boom-bust\ncycles that ultimately lead to both a less stable economy and higher inflation\u201d.\nThese developments come at a time of uncertainty in markets. US treasuries \u2014 con-\nsidered to bea safe haven during periods of uncertainty \u2014 had sold off recently. Alongside,\nthe US dollar has weakened. On Monday, former US treasury secretary Janet Yellen said\nthat the movement in the bond market was \u201csuggestive of a loss of confidence in US eco-\nnomic policy\u201d. Any attempt to undermine the independence of the central bank will only\nadd to the uncertainty and turmoil in the markets and the economy.",
+   "ocr_conf": 91.18993135011442,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "FIRING AT FED",
+   "deck": "",
+   "byline": "",
+   "text": "Undermining independence of central bank will only add to uncertainty and turmoil in markets and economy HEUS FEDERAL Reserveis in an unenviable position, confronted with chal-lenges on both its mandates - ensuring price stability and maximum employment. President Donald Trump's tariff policies have raised the spectre of higher inflation, along with weaker economic momentim and higher unemploymentat the same time. This complicates the Fed's monetary policy decisions - Fed chair Jerome Powell has also acknowledged that. On Wednesday, speaking at the Economic Club of Chicago, he said, \"We may find ourselves in the challenging scenario in which our dual-mandate goals are in tension.\" Powell further said that the \"effects of that (the Trump administration's policy changes) are likely to move us away from our goals, so unemployment is likely to go up as the economy slows in all likelihood, and inflation is likely to go up as tariffs find their way\" into the economy. A day later, the Fed chairperson came under severe criticism from the US President. On Thursday, Trump wrote on a social media platform: \"'Too Late' Jerome Powell of the Fed, who is always TOO LATE AND WRONG, yesterday issued a report which was another, and typical, complete 'mess!' Powell's termination cannot come fastenough! \" Thisis notthe first time that Trump has criticised the Fed. In March, when the central bank had decided tohold rates steady, Trump had posted: \"The Fed would be MUCH better off CUTTING RATES as US Tariffs start to transition (ease!) their way into the economy. Do the right thing.\" The threat of \"Powell's termination\" because of disagreements with the President sends worrying signals about the independence of the US Fed. Central bank independence is a cherished asset. Unlike politicians whotend to be driven by short-term political considerations, independent central banks, taking a longer view, can take tough and unpopular decisions that may deliver short-term pain. Former US Fed chairperson Ben Bernanke had once cautioned that \"political interference in monetary policy can generate undesirable boom-bust cycles that ultimately lead to both a less stable economy and higher inflation\". These developments come at a time of uncertainty in markets. US treasuries - considered to bea safe haven during periods of uncertainty - had sold off recently. Alongside, the US dollar has weakened. On Monday, former US treasury secretary Janet Yellen said that the movement in the bond market was \"suggestive of a loss of confidence in US economic policy\". Any attempt to undermine the independence of the central bank will only add to the uncertainty and turmoil in the markets and the economy.",
+   "n_words": 429,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3759,
+      3275,
+      4179,
+      3349
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Thewriter is contributing editor,\nThe Indian Express",
+   "ocr_conf": 94.85714285714286,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Thewriter is contributing editor, The Indian Express",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      3542,
+      3897,
+      3652
+     ],
+     [
+      2276,
+      3716,
+      4025,
+      3778
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2316,
+      4527,
+      2798,
+      5222
+     ],
+     [
+      2920,
+      3949,
+      3525,
+      4340
+     ],
+     [
+      2920,
+      4386,
+      3525,
+      5214
+     ],
+     [
+      3570,
+      3950,
+      4176,
+      5094
+     ],
+     [
+      3798,
+      5140,
+      4180,
+      5214
+     ],
+     [
+      3570,
+      5497,
+      4174,
+      5691
+     ],
+     [
+      3569,
+      5738,
+      4176,
+      6167
+     ]
+    ],
+    "layout_words": 547
+   },
+   "headline_raw": "\u2018THE ADOLESCENT AT HOME\nOur young are facing mental health challenges that are not being addressed",
+   "deck_raw": "",
+   "body_raw": "Addressing this crisis\nrequires systemic and\ncultural reform.\nMental-health support\nmust be integrated into\nschools. Preventive\ncounselling and emotional\neducation should be\nstandard. Schools must\nalso teach digital literacy\nand emotional intelligence,\nequipping students to\nnavigate online\nspaces safely.\n\nfluence of online culture. An insidious aspect\nof the digital age is the rise of influencers pro-\nmoting toxic masculinity \u2014 preaching domi-\nnance, emotional suppression, and hyper-ag-\ngression among young boys. It teaches boys\ntorepress vulnerability and discouragesthem\nfrom seeking help, while fostering environ-\nments of misogyny. We must disrupt these\nnarratives. Strength lies not in emotional sup-\npression but in emotional honesty. Weneed to\n\nand build a culture that celebrates empathy,\nself-awareness, and resilience.\nAddressing this ciisis iequii\u00e9ssystemicand\ncultural reform. Mental-health support must\nbe integrated into schools. Preventive coun-\nselling and emotional education should be\nstandard. Schools must also teach digital liter-\nacy and emotionalintelligence, equipping stu-\ndents to navigate online spaces safely.\nChanging the culture around mental\nhealth also requires reshaping the way we talk\nabout masculinity. Tackling toxicmasculinity\nmust be a national priority \u2014 not just by re-\nvising textbooks, but by promoting healthier\nmodels of masculinity. Butthese cultural shifts\nWill mean litde without real investment. India\nmust significantly boost its mental-health\nbudget to strengthen infrastructure and ex-\npand access to care, particularly in rural and\nunderserved areas. A lack of funding is no\nlonger just an administrative gap; it\u2019s a life-\n\nthreatening obstacle for young people.\nOften, stigma around mental health be-\ngins at home, whereconversations about feel-\nings are dismissed or avoided. Parents and\ncaregivers must be equipped to recognise\nsigns of distress and approach mental health\nwith the same urgency as physical health.\nFrom anearly age, children should be encour-\naged to express emotions and develop emo-\ntional intelligence in environments that see\nvulnerability as strength, not weakness. Public\nfigures \u2014 politicians, celebrities, influencers\n\u2014 also play a powerful role. By speaking\nopenly about their experiences, they can help\nnormalise mental health conversations and\nfoster a culture of authenticity.\nThe youth are the future of our country.\nBut what future can we promise them if we\nfail to protect their present? The weight of ex-\npectation, the fear of judgement, the suffocat-\ning silence around mental health \u2014 these are\nburdens no young person should carry. We\nare at a crossroads. We can continue to brush\nthis crisis under the carpet or we can rise to\nthe moment with courage and compassion.\nThisis notjusta policy issue \u2014it\u2019sa human is-\nsue. And the cost of inaction is counted in lost\npotential, futures, and lives. Indiamust choose\nempathy. India must choose to listen.\n\nThe writer is deputy leader of\nCongress in the Lok Sabha\n\nPakistan Foreign Minister later called onPrime\nMinister Rajiv Gandhi and conveyed the good\nwishes of President Zia-ul-Haq. Yakub Khan\nalso held discussions with the chairman of the\npolicy planning cell, G Parthasarathy.\n\nNAM ON NAMBIA\nA CALL FORan early meeting of the UNSC to\nconsider measures for securing the immedi-\nate independence of Namibia is expected to\nbe issued at the ministerial-level meeting of\nthe non-aligned countries. The draft of the\ndeclaration, prepared by India as the host\ncountry, also calls for the imposition of sanc-\ntions against South Africa. The meeting was\npresided over by the foreign secretary.",
+   "ocr_conf": 91.52285191956125,
+   "ocr_low_conf_share": 0.029250457038391225,
+   "headline": "'THE ADOLESCENT AT HOME Our young are facing mental health challenges that are not being addressed",
+   "deck": "",
+   "byline": "",
+   "text": "Addressing this crisis requires systemic and cultural reform. Mental-health support must be integrated into schools. Preventive counselling and emotional education should be standard. Schools must also teach digital literacy and emotional intelligence, equipping students to navigate online spaces safely.\n\nfluence of online culture. An insidious aspect of the digital age is the rise of influencers promoting toxic masculinity - preaching dominance, emotional suppression, and hyper-aggression among young boys. It teaches boys torepress vulnerability and discouragesthem from seeking help, while fostering environments of misogyny. We must disrupt these narratives. Strength lies not in emotional suppression but in emotional honesty. Weneed to\n\nand build a culture that celebrates empathy, self-awareness, and resilience. Addressing this ciisis iequii\u00e9ssystemicand cultural reform. Mental-health support must be integrated into schools. Preventive counselling and emotional education should be standard. Schools must also teach digital literacy and emotionalintelligence, equipping students to navigate online spaces safely. Changing the culture around mental health also requires reshaping the way we talk about masculinity. Tackling toxicmasculinity must be a national priority - not just by revising textbooks, but by promoting healthier models of masculinity. Butthese cultural shifts Will mean litde without real investment. India must significantly boost its mental-health budget to strengthen infrastructure and expand access to care, particularly in rural and underserved areas. A lack of funding is no longer just an administrative gap; it's a lifethreatening obstacle for young people. Often, stigma around mental health begins at home, whereconversations about feelings are dismissed or avoided. Parents and caregivers must be equipped to recognise signs of distress and approach mental health with the same urgency as physical health. From anearly age, children should be encouraged to express emotions and develop emotional intelligence in environments that see vulnerability as strength, not weakness. Public figures - politicians, celebrities, influencers - also play a powerful role. By speaking openly about their experiences, they can help normalise mental health conversations and foster a culture of authenticity. The youth are the future of our country. But what future can we promise them if we fail to protect their present? The weight of expectation, the fear of judgement, the suffocating silence around mental health - these are burdens no young person should carry. We are at a crossroads. We can continue to brush this crisis under the carpet or we can rise to the moment with courage and compassion. Thisis notjusta policy issue - it'sa human issue. And the cost of inaction is counted in lost potential, futures, and lives. Indiamust choose empathy. India must choose to listen.\n\nThe writer is deputy leader of Congress in the Lok Sabha\n\nPakistan Foreign Minister later called onPrime Minister Rajiv Gandhi and conveyed the good wishes of President Zia-ul-Haq. Yakub Khan also held discussions with the chairman of the policy planning cell, G Parthasarathy.\n\nNAM ON NAMBIA A CALL FORan early meeting of the UNSC to consider measures for securing the immediate independence of Namibia is expected to be issued at the ministerial-level meeting of the non-aligned countries. The draft of the declaration, prepared by India as the host country, also calls for the imposition of sanctions against South Africa. The meeting was presided over by the foreign secretary.",
+   "n_words": 528,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      618,
+      4860,
+      1224,
+      4944
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      4989,
+      1525,
+      6155
+     ]
+    ],
+    "layout_words": 328
+   },
+   "headline_raw": "THE TAXMAN",
+   "deck_raw": "",
+   "body_raw": "From ancient Rome to The Beatles song to\nnow \u2014 there's no escaping his attention\nNOTHING IS CERTAIN,\u201d the saying attributed to Benjamin Franklin goes,\n| \\ | \u201cexcept death and taxes\u201d. And the jury is out on death. Religions of vari-\nous hues, after all, promise an afterlife or rebirth. But as long as the state\nand its punitively-minded bureaucracy are around, there is unlikely to\nbe any relief from taxes. Tax collection is so central to the state that tax evasion has been\nboth crime and protest \u2014 remember the Dandi March? Recent research on a 1,900-year-\nold legal document shows that long before The Beatles sang about the ultimate bogey-\nman in The Taxman\u2019, the tax evader was in the crosshairs of the state.\nA paper published by AnnaDolganovetal in Tyche, an academic journal on ancient his-\ntory, analyses legal documents that detail the prosecution of a tax evasion case \u2014 on pa-\npyrus \u2014 from the Roman Empire during the time of Emperor Hadrian. Inthe distant (from\nthe centre of the empire) province of Judaea, Gadalias and Saulos (both likely Jewish)\nforged documents to escape the exchequer\u2019s demands. Part of their offence was freeing\nslaves without paying the appropriate duties. The papyrus documents only the strate-\ngiesand notes of the prosecution, which was committed to carrying outits duty and dis-\nplayed great knowledge of Roman law at the edges of the empire.\nWhat's most interesting, though, is the context Dolganov and her colleagues have\nprovided. The tax evaders freed slaves during a period of rebellion and were subject to the\nsame attention and harassment that many of the middle class today would be all too fa-\nmiliar with. The bureaucracy, of course, has its own logic \u2014 obfuscated in legalese and\nKafkaesque to the core. And, like the narrator of The Beatles song, their motive is in-\nscrutable: \u201cDon't ask me what I want it for.. If you don't want to pay some more... \"Cause\nI'mthe taxman.\u201d",
+   "ocr_conf": 92.8429003021148,
+   "ocr_low_conf_share": 0.030211480362537766,
+   "headline": "THE TAXMAN",
+   "deck": "",
+   "byline": "",
+   "text": "From ancient Rome to The Beatles song to now - there's no escaping his attention NOTHING IS CERTAIN,\" the saying attributed to Benjamin Franklin goes, \\ \"except death and taxes\". And the jury is out on death. Religions of various hues, after all, promise an afterlife or rebirth. But as long as the state and its punitively-minded bureaucracy are around, there is unlikely to be any relief from taxes. Tax collection is so central to the state that tax evasion has been both crime and protest - remember the Dandi March? Recent research on a 1,900-yearold legal document shows that long before The Beatles sang about the ultimate bogeyman in The Taxman', the tax evader was in the crosshairs of the state. A paper published by AnnaDolganovetal in Tyche, an academic journal on ancient history, analyses legal documents that detail the prosecution of a tax evasion case - on papyrus - from the Roman Empire during the time of Emperor Hadrian. Inthe distant (from the centre of the empire) province of Judaea, Gadalias and Saulos (both likely Jewish) forged documents to escape the exchequer's demands. Part of their offence was freeing slaves without paying the appropriate duties. The papyrus documents only the strategiesand notes of the prosecution, which was committed to carrying outits duty and displayed great knowledge of Roman law at the edges of the empire. What's most interesting, though, is the context Dolganov and her colleagues have provided. The tax evaders freed slaves during a period of rebellion and were subject to the same attention and harassment that many of the middle class today would be all too familiar with. The bureaucracy, of course, has its own logic - obfuscated in legalese and Kafkaesque to the core. And, like the narrator of The Beatles song, their motive is inscrutable: \"Don't ask me what I want it for.. If you don't want to pay some more... \"Cause I'mthe taxman.\"",
+   "n_words": 320,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2268,
+      5362,
+      3447,
+      5452
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2271,
+      5486,
+      2782,
+      5530
+     ],
+     [
+      2920,
+      5816,
+      3396,
+      5860
+     ],
+     [
+      2268,
+      6014,
+      2845,
+      6058
+     ]
+    ],
+    "body_boxes": [
+     [
+      2268,
+      5574,
+      2873,
+      5967
+     ],
+     [
+      2268,
+      6090,
+      2871,
+      6159
+     ],
+     [
+      2920,
+      5496,
+      3523,
+      5769
+     ],
+     [
+      2918,
+      5894,
+      3525,
+      6163
+     ]
+    ],
+    "layout_words": 179
+   },
+   "headline_raw": "APRIL 19, 1985, FORTY YEARS AGO",
+   "deck_raw": "\u2018KHALISTANI GUESTS\nINDO-PAK MEETING\nANTI-RESERVATION STIR",
+   "body_raw": "A RULING PARTY member, K K Tiwari, told\nthe Lok Sabha that some well-known pro-\ntagonists of Khalistan were guests at\nRashtrapati Bhavan some time ago: Deedar\nSingh Bains and Bhajan Singh Jogi, who had\n\u201cdubious links\u201d with J S Chauhan and GS\nDhillon, had stayed in the complex in 1983.\nBoth Bains and Jogi had links with those who\nhad arranged the US congressional briefing\non human rights.\n\nARSON FLARED ANEW in parts of Gujarat,\neven as Chief Minister Madhavsinh Solanki\n\nannounced his government\u2019s decision to re-\nlease the seven student leaders of the Akhil\nGujarat Navrachna Samiti in a bid to defuse\nthe two-month-old anti-reservation stir.\nReports of setting fire to post offices, schools,\nand pubiic transport buses were received from\nSaurashtra and Ahmedabad late in the night.\n\nTHE INDO-PAK JOINT ministerial-level com-\nmission will be meeting in New Delhi along\nwith the four sub-commissions on June 27-\n28.This was announced at the endof the bilat-\neral talks between the Foreign Minister of\nPakistan, Yakub Khan, and the Minister of State\nfor Extemal Affairs, Khurshid Alam Khan.The",
+   "ocr_conf": 91.56424581005587,
+   "ocr_low_conf_share": 0.03910614525139665,
+   "headline": "APRIL 19, 1985, FORTY YEARS AGO",
+   "deck": "'KHALISTANI GUESTS INDO-PAK MEETING ANTI-RESERVATION STIR",
+   "byline": "",
+   "text": "A RULING PARTY member, K K Tiwari, told the Lok Sabha that some well-known protagonists of Khalistan were guests at Rashtrapati Bhavan some time ago: Deedar Singh Bains and Bhajan Singh Jogi, who had \"dubious links\" with J S Chauhan and GS Dhillon, had stayed in the complex in 1983. Both Bains and Jogi had links with those who had arranged the US congressional briefing on human rights.\n\nARSON FLARED ANEW in parts of Gujarat, even as Chief Minister Madhavsinh Solanki\n\nannounced his government's decision to release the seven student leaders of the Akhil Gujarat Navrachna Samiti in a bid to defuse the two-month-old anti-reservation stir. Reports of setting fire to post offices, schools, and pubiic transport buses were received from Saurashtra and Ahmedabad late in the night.\n\nTHE INDO-PAK JOINT ministerial-level commission will be meeting in New Delhi along with the four sub-commissions on June 27- 28.This was announced at the endof the bilateral talks between the Foreign Minister of Pakistan, Yakub Khan, and the Minister of State for Extemal Affairs, Khurshid Alam Khan.The",
+   "n_words": 175,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 22.4,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

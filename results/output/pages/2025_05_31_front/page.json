@@ -1,0 +1,662 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_31_front",
+ "source_file": "2025-05-31_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-31_front.png",
+ "date": "2025-05-31",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 518,
+  "mean_line_conf": 90.51546469939328,
+  "orphan_words": 3,
+  "body_words_total": 2118
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      694,
+      4101,
+      1179
+     ],
+     [
+      3252,
+      1216,
+      4135,
+      1348
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      1424,
+      3604,
+      1495
+     ],
+     [
+      3250,
+      1544,
+      3693,
+      2608
+     ],
+     [
+      3899,
+      1443,
+      4119,
+      1574
+     ],
+     [
+      3785,
+      1623,
+      4132,
+      2092
+     ],
+     [
+      3783,
+      2156,
+      4132,
+      2233
+     ],
+     [
+      3737,
+      2335,
+      4183,
+      2601
+     ]
+    ],
+    "layout_words": 239
+   },
+   "headline_raw": "Industrial growth\npushes up Q4 GDP\nto 7.4% but FY25\ngrowth at 4-yr low\nNSO data: Manufacturing growth at\n3-quarter high; consumption falters",
+   "deck_raw": "",
+   "body_raw": "AANCHAL MAGAZINE\nNEW DELHI, MAY 30\n\nINDIA'S REAL Gross Domestic\nProduct (GDP) gained strength\nas it picked up pace sequentially\nto a four-quarter high of 7.4 per\ncent in January-March on the\nback of firm industrial growth in\nmanufacturing, construction\nand mining sectors even as con-\nsumption demand slowed\ndown. The full-year growth rate,\nhowever, is estimated to have\nslowed to a four-year low of 6.5\npercent for financial year 2024-\n25, the same level as the second\nadvance estimates released\nFebruary-end, data released by\nthe National Statistics Office\n(NSO) on Friday showed.\nGDP had grown 8.4 per cent\nin Q4in2023-24and 92 percent\nin FY24. The growth rate for the\nprevious quarter was also re-\nvised up, with Q3 growth now\nestimated at 6.4 per cent as\nagainst 6.2 per cent earlier.\nIndustrial growth picked up\npace to 6.8 per cent in Q4 FY25\n\nThe fourth\nquarter\n|@ push\n\nGROWTH FOR FY25 has\nstayed resilient, remain-\ning at the same level as\nthe second advance esti-\nmate of 6.5%. GDP forthe\nfourth quarter came as a\nsurprise by growing\nstrongly at 7.4% on the\nback of firm industrial\ngrowth, with construc-\ntion recording a double-\ndigit expansion,\n\nTHE TAKEAWAYS\nEXPLAINED, PAGE 14\n\nfrom 5.1 per cent in Q3 even\nthough it was slower than the\n10.2 per cent growth seen in Q4\nFY24. Manufacturing growth\nrose toa three-quarter high of\n4.8 per cent in January-March,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.23849372384937,
+   "ocr_low_conf_share": 0.02092050209205021,
+   "headline": "Industrial growth pushes up Q4 GDP growth at 4-yr low NSO data: Manufacturing growth at 3-quarter high; consumption falters",
+   "deck": "",
+   "byline": "AANCHAL MAGAZINE; NEW DELHI, MAY 30",
+   "text": "INDIA'S REAL Gross Domestic Product (GDP) gained strength as it picked up pace sequentially to a four-quarter high of 7.4 per cent in January-March on the back of firm industrial growth in manufacturing, construction and mining sectors even as consumption demand slowed down. The full-year growth rate, however, is estimated to have slowed to a four-year low of 6.5 percent for financial year 2024- 25, the same level as the second advance estimates released February-end, data released by the National Statistics Office (NSO) on Friday showed. GDP had grown 8.4 per cent in Q4in2023-24and 92 percent in FY24. The growth rate for the previous quarter was also revised up, with Q3 growth now estimated at 6.4 per cent as against 6.2 per cent earlier. Industrial growth picked up pace to 6.8 per cent in Q4 FY25\n\nThe fourth quarter @ push\n\nGROWTH FOR FY25 has stayed resilient, remaining at the same level as the second advance estimate of 6.5%. GDP forthe fourth quarter came as a surprise by growing strongly at 7.4% on the back of firm industrial growth, with construction recording a double-digit expansion,\n\nTHE TAKEAWAYS EXPLAINED, PAGE 14\n\nfrom 5.1 per cent in Q3 even though it was slower than the 10.2 per cent growth seen in Q4 FY24. Manufacturing growth rose toa three-quarter high of 4.8 per cent in January-March,",
+   "n_words": 223,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 94.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      793,
+      3173,
+      1139
+     ],
+     [
+      812,
+      1171,
+      1245,
+      1431
+     ]
+    ],
+    "deck_boxes": [
+     [
+      814,
+      696,
+      2674,
+      745
+     ],
+     [
+      808,
+      1540,
+      1035,
+      1597
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1502,
+      1234,
+      1530
+     ],
+     [
+      807,
+      1621,
+      1252,
+      2681
+     ],
+     [
+      810,
+      2689,
+      1249,
+      2874
+     ],
+     [
+      808,
+      3220,
+      1227,
+      3344
+     ],
+     [
+      3003,
+      1621,
+      3168,
+      1775
+     ],
+     [
+      2762,
+      1939,
+      3082,
+      2048
+     ],
+     [
+      2761,
+      2097,
+      3205,
+      3352
+     ]
+    ],
+    "layout_words": 358
+   },
+   "headline_raw": "lt Pak serious about talks, it must hand\nover Hatiz Saeed, Masood Azhar: Rajnath\nHad Navy gone\nin, Pak could have\nsplit into four:\nDefence Minister",
+   "deck_raw": "INDIA SPELLS OUT CONDITIONS FOR PAK TO SEEK DIALOGUE\nPANAJI, MAY 30",
+   "body_raw": "PAVNEET SINGH CHADHA\n\nDEFENCE MINISTER Rajnath\nSingh said Friday if Pakistan isse-\nrious about talks it should hand\nover 26/11 Mumbai attack mas-\ntermind Hafiz Saeed and Jaish-\ne-Mohammed (JeM) chief\nMasood Azhar to India \u201cso that\njustice is served\u201d.\nThis is the first time a senior\nminister has spelt out conditions\nfor Pakistan to seek a dialogue\nwith India post Operation Sindoor.\nAddressing officers and\nsailors onboard aircraft carrier\nINS Vikrant off the coast of Goa,\nSingh said, \u201cIt would be in\nPakistan's interest to uproot the\nnursery of terrorism, that is op-\nerating on its soil, with its own\nhands. And it should start by\nhanding over terrorists like Hafiz\nSaeed and Masood Azhar to\nIndia, Both are not only in India\u2019s\nlist of \u2018Most Wanted Terrorists\u2019,\nthey are also UN-designated ter-\nrorists. Tahawwur Rana, an ac-\ncused inthe Mumbaiattacks, has\n\nbeen brought to India recently.\nHafiz Saeed is guilty of the\nMumbai attacks. We have still\nnot forgotten, justice has to be\nCONTINUED ON PAGE 2\n\nPAK WON\u2019T BE ABLE\nTO FIGHT A WAR FOR\n4-5 YRS: SHAH Pace 6\n\nGen Sahir\nShamshad\nMirza in\nSingapore.\n\nIDREES ALI & RAJU\nGOPALAKRISHNAN\nSINGAPORE, MAY 30\n\nPAKISTAN AND India are close to\nreducing the troop build-upalong\ntheir border to levels before con-\nflict erupted this month, a top\nPakistani military official told\nReuters on Friday, although he\nwarmed the crisis had increased\ntheriskofescalation in the future.\nGeneral Sahir Shamshad\nMirza, Pakistan\u2019s Chairman of\nthe Joint Chiefs of Staff, said in an\ninterview that the two militaries\nhad started the process of draw-\ning down troop levels.\n\u201cWe have almost come back\nto the pre-22nd April situation...\nwe are approaching that, or we\nmust have approached that by\nnow,\u201d said Mirza, the most sen-\nior Pakistani military official to\nspeak publicly since the conflict.\nIndia\u2019s Ministry of Defence\nand the office of the Indian Chief\nof Defence Staff did not immedi-\nately respond to Reuters\u2019 re-\nquests for comment on the re-\nmarks by Mirza.\nMirza, who is in Singapore to\nattend the Shangri-La Dialogue\nforum, said while there was no\nmove towards nuclear weapons\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.40947075208913,
+   "ocr_low_conf_share": 0.027855153203342618,
+   "headline": "lt Pak serious about talks, it must hand over Hatiz Saeed, Masood Azhar: Rajnath Had Navy gone in, Pak could have split into four: Defence Minister",
+   "deck": "INDIA SPELLS OUT CONDITIONS FOR PAK TO SEEK DIALOGUE PANAJI, MAY 30",
+   "byline": "PAVNEET SINGH CHADHA",
+   "text": "DEFENCE MINISTER Rajnath Singh said Friday if Pakistan isserious about talks it should hand over 26/11 Mumbai attack mastermind Hafiz Saeed and Jaishe-Mohammed (JeM) chief Masood Azhar to India \"so that justice is served\". This is the first time a senior minister has spelt out conditions for Pakistan to seek a dialogue with India post Operation Sindoor. Addressing officers and sailors onboard aircraft carrier INS Vikrant off the coast of Goa, Singh said, \"It would be in Pakistan's interest to uproot the nursery of terrorism, that is operating on its soil, with its own hands. And it should start by handing over terrorists like Hafiz Saeed and Masood Azhar to India, Both are not only in India's list of 'Most Wanted Terrorists', they are also UN-designated terrorists. Tahawwur Rana, an accused inthe Mumbaiattacks, has\n\nbeen brought to India recently. Hafiz Saeed is guilty of the Mumbai attacks. We have still not forgotten, justice has to be\n\nPAK WON'T BE ABLE TO FIGHT A WAR FOR 4-5 YRS: SHAH Pace 6\n\nGen Sahir Shamshad Mirza in Singapore.\n\nIDREES ALI & RAJU GOPALAKRISHNAN SINGAPORE, MAY 30\n\nPAKISTAN AND India are close to reducing the troop build-upalong their border to levels before conflict erupted this month, a top Pakistani military official told Reuters on Friday, although he warmed the crisis had increased theriskofescalation in the future. General Sahir Shamshad Mirza, Pakistan's Chairman of the Joint Chiefs of Staff, said in an interview that the two militaries had started the process of drawing down troop levels. \"We have almost come back to the pre-22nd April situation... we are approaching that, or we must have approached that by now,\" said Mirza, the most senior Pakistani military official to speak publicly since the conflict. India's Ministry of Defence and the office of the Indian Chief of Defence Staff did not immediately respond to Reuters' requests for comment on the remarks by Mirza. Mirza, who is in Singapore to attend the Shangri-La Dialogue forum, said while there was no move towards nuclear weapons",
+   "n_words": 336,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1445,
+      740,
+      1745
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      562,
+      1817,
+      757,
+      2004
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "Ankita murder:\nLife term for\nson of ex-BJP\nleader, 2 others",
+   "deck_raw": "",
+   "body_raw": "Receptionist\nat Arya\u2019s\nresort, she\nwas killed\nin 2022",
+   "ocr_conf": 81.66666666666667,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "Ankita murder: Life term for son of ex-BJP leader, 2 others",
+   "deck": "",
+   "byline": "",
+   "text": "Receptionist at Arya's resort, she was killed",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2098,
+      760,
+      2161
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2175,
+      603,
+      2203
+     ],
+     [
+      319,
+      2254,
+      764,
+      3389
+     ]
+    ],
+    "layout_words": 155
+   },
+   "headline_raw": "AISWARYARAJ",
+   "deck_raw": "",
+   "body_raw": "DEHRADUN, MAY 30\n\nACOURT in Uttarakhand\u2019s Pauri\nGarhwal district Friday sen-\ntenced Pulkit Arya, son of former\nBJP leader Vinod Arya, and two\nothers to life imprisonment for\nthe 2022 murder of 19-year-old\nAnkita Bhandari.\nShe was killed whileworking\nasa receptionist at a resortrun by\nPulkit. His employees, Saurabh\nBhaskar and Ankit Gupta, were\nalso handed life terms.\nAfter the sentencing by the\ncourt of the Additional District\nand Sessions Judge, Ankita\u2019s fa-\nther Virendra Bhandari told The\nIndian Express that the family was\nhoping that the accused would\nbe handed the death sentence.\n\u201cThe accused will be injail, but\nwhat about those people who are\noutside? We had raised the issue\nof a VIP, but his name has not\ncome out yet... We had sought\nthe transfer of the case to the CBI,\nand even filed an application that\nother suspects be probed, but it\nwas disposed of,\u201d he said.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.30322580645161,
+   "ocr_low_conf_share": 0.03870967741935484,
+   "headline": "AISWARYARAJ",
+   "deck": "",
+   "byline": "DEHRADUN, MAY 30",
+   "text": "ACOURT in Uttarakhand's Pauri Garhwal district Friday sentenced Pulkit Arya, son of former BJP leader Vinod Arya, and two others to life imprisonment for the 2022 murder of 19-year-old Ankita Bhandari. She was killed whileworking asa receptionist at a resortrun by Pulkit. His employees, Saurabh Bhaskar and Ankit Gupta, were also handed life terms. After the sentencing by the court of the Additional District and Sessions Judge, Ankita's father Virendra Bhandari told The Indian Express that the family was hoping that the accused would be handed the death sentence. \"The accused will be injail, but what about those people who are outside? We had raised the issue of a VIP, but his name has not come out yet... We had sought the transfer of the case to the CBI, and even filed an application that other suspects be probed, but it was disposed of,\" he said.",
+   "n_words": 146,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      2355,
+      2675,
+      2559
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1293,
+      2603,
+      1735,
+      2720
+     ],
+     [
+      1296,
+      2769,
+      1737,
+      3351
+     ],
+     [
+      1785,
+      3271,
+      2702,
+      3351
+     ]
+    ],
+    "layout_words": 86
+   },
+   "headline_raw": "BrahMos didn\u2019t let Pak sleep, game\nof state, non-state actors over: PM",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nLUCKNOW, MAY 30\n\nUNDERLINING THAT Operation\nSindoor demonstrated the might\nof indigenous weapons and the\nMake-in-india initiative, Prime\nMinister Narendra Modi said\nFriday that \u201cthe BrahMos missile,\nwhich did not let the enemy sleep,\nhas anew address: Uttar Pradesh\u201d\n\u2014areference to the new missile\nproduction unit in the state.\nSpeaking in Kanpur where he\nunveiled 15 development projects\nworth over Rs 47,600 crore, Modi\nsaid, \u201cOur Indian-made weapons,\nCONTINUED ON PAGE2\n\nLAST EXTENSION TO INDIGO FOR DAMP-LEASED\nTURKISH AIRLINES PLANES Economy",
+   "ocr_conf": 90.26190476190476,
+   "ocr_low_conf_share": 0.05952380952380952,
+   "headline": "BrahMos didn't let Pak sleep, game of state, non-state actors over: PM",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; LUCKNOW, MAY 30",
+   "text": "UNDERLINING THAT Operation Sindoor demonstrated the might of indigenous weapons and the Make-in-india initiative, Prime Minister Narendra Modi said Friday that \"the BrahMos missile, which did not let the enemy sleep, has anew address: Uttar Pradesh\" - areference to the new missile production unit in the state. Speaking in Kanpur where he unveiled 15 development projects worth over Rs 47,600 crore, Modi said, \"Our Indian-made weapons,\n\nLAST EXTENSION TO INDIGO FOR DAMP-LEASED TURKISH AIRLINES PLANES Economy",
+   "n_words": 76,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      2673,
+      4086,
+      3129
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3246,
+      3911,
+      3688,
+      4029
+     ],
+     [
+      3248,
+      4077,
+      3690,
+      4625
+     ],
+     [
+      3733,
+      3918,
+      4177,
+      4618
+     ]
+    ],
+    "layout_words": 161
+   },
+   "headline_raw": "All big hospitals in\ncity to come under\nAyushman scheme,\nsays Delhi Govt",
+   "deck_raw": "",
+   "body_raw": "ANKITAUPADHYAY\nNEW DELHI, MAY 30\n\nALLTHE \u201cbig hospitals\u201d of Delhi\nwill now be brought under the\nAyushman Bharat insurance\numbrella in the next \u201c20-25\ndays\u201d, Health Minister Pankaj\nSingh told The Indian Express as\nthe Rekha Gupta-led BJP govern-\nment in the Capital completed\n100 days in power Friday.\nSingh\u2019s remarks are signifi-\ncant because major private hos-\npital groups in Delhi, such as\nMax, Fortis and Apollo, have not\nyet come on board the\n\nAyushman Bharat Pradhan\nMantri Jan Arogya Yojana (PM-\nJAY) \u2014 the scheme\u2019s dashboard\ncurrently includes 82 other pri-\nvate hospitals, apart from 11 gov-\nemment facilities.\nAccording to Singh, private\nhospitals in Delhi were hesitant\nto sign up because the previous\nAAP government did not clear\npending payments under other\nschemes. \u201cThey did not make the\npayment on time from Delhi\nArogya Nidhi (the financial assis-\ntance scheme run by the\nDirectorate General of Health\nServices). Now I ensure that in\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.94339622641509,
+   "ocr_low_conf_share": 0.03773584905660377,
+   "headline": "All big hospitals in city to come under Ayushman scheme, says Delhi Govt",
+   "deck": "",
+   "byline": "ANKITAUPADHYAY; NEW DELHI, MAY 30",
+   "text": "ALLTHE \"big hospitals\" of Delhi will now be brought under the Ayushman Bharat insurance umbrella in the next \"20-25 days\", Health Minister Pankaj Singh told The Indian Express as the Rekha Gupta-led BJP government in the Capital completed 100 days in power Friday. Singh's remarks are significant because major private hospital groups in Delhi, such as Max, Fortis and Apollo, have not yet come on board the\n\nAyushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY) - the scheme's dashboard currently includes 82 other private hospitals, apart from 11 govemment facilities. According to Singh, private hospitals in Delhi were hesitant to sign up because the previous AAP government did not clear pending payments under other schemes. \"They did not make the payment on time from Delhi Arogya Nidhi (the financial assistance scheme run by the Directorate General of Health Services). Now I ensure that in",
+   "n_words": 144,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3503,
+      1215,
+      3942
+     ],
+     [
+      317,
+      3981,
+      741,
+      4312
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4391,
+      745,
+      4461
+     ],
+     [
+      317,
+      4509,
+      759,
+      5138
+     ],
+     [
+      808,
+      4628,
+      1250,
+      5132
+     ]
+    ],
+    "layout_words": 155
+   },
+   "headline_raw": "Taken to court by\nL&T, MMRDA says\nscrapping tenders for\nmega infra projects\nCj bench accepts\nsubmission,\nAuthority says\nfresh tenders to\nbe issued",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, NEW DELHI, MAY 30\n\nTAKEN TO court by Larsen &\nToubro (L&T) Ltd which said it had\nbeen kept in the dark about the\nstatus of bids for two projects\nworth Rs 14,000 crore \u2014 the\nThane-Ghodbunder to\nBhayandar tunnel and elevated\nroad \u2014 the Mumbai Metropolitan\nRegion Development Authority\n(MMRDA)informedthe Supreme\nCourt Friday that it had scrapped\nthe tender process \u201cin the larger\npublicinterest\u201d and fresh tenders\nwould be issued in due course.\nSenior Advocate Mukul\nRohatgi, appearing for MMRDA,\n\ntold the benchof Chief Justice of\nIndia B R Gavai and Justices AG\nMasih and AS Chandurkar: \u201cWe\nhave decided to scrap the two\ntenders. The government will\ndecide what they want todo.\u201d\nTaking the MMRDA state-\nment on record, the bench dis-\nposed of L&Tss pleas against the\nMay 20 order of Bombay High\nCourt as \u201cinfructuous\u201d. A vaca-\ntion bench of the High Court had\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.2051282051282,
+   "ocr_low_conf_share": 0.03205128205128205,
+   "headline": "Taken to court by L&T, MMRDA says scrapping tenders for mega infra projects Cj bench accepts submission, Authority says fresh tenders to be issued",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, NEW DELHI, MAY 30",
+   "text": "TAKEN TO court by Larsen & Toubro (L&T) Ltd which said it had been kept in the dark about the status of bids for two projects worth Rs 14,000 crore - the Thane-Ghodbunder to Bhayandar tunnel and elevated road - the Mumbai Metropolitan Region Development Authority (MMRDA)informedthe Supreme Court Friday that it had scrapped the tender process \"in the larger publicinterest\" and fresh tenders would be issued in due course. Senior Advocate Mukul Rohatgi, appearing for MMRDA,\n\ntold the benchof Chief Justice of India B R Gavai and Justices AG Masih and AS Chandurkar: \"We have decided to scrap the two tenders. The government will decide what they want todo.\" Taking the MMRDA statement on record, the bench disposed of L&Tss pleas against the May 20 order of Bombay High Court as \"infructuous\". A vacation bench of the High Court had",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3503,
+      3188,
+      3774
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3797,
+      1577,
+      3867
+     ],
+     [
+      1292,
+      3916,
+      1737,
+      4346
+     ],
+     [
+      2759,
+      3759,
+      3204,
+      4340
+     ]
+    ],
+    "layout_words": 133
+   },
+   "headline_raw": "Now, Cong\u2019s Khurshid backs end of Art 370:\n\u2018Prosperity in Kashmir, Pakistan out to undo\u2019",
+   "deck_raw": "",
+   "body_raw": "ASAD REHMAN\nNEW DELHI, MAY 30\n\nCONGRESS LEADER and former\nExternal Affairs Minister Salman\nKhurshid on Friday backed the\nabrogation of Article 370, saying\nit was unfortunate that Pakistan\nwants to undo the \u201cprosperity\nthat has come to Kashmir\u201d be-\ncause ofit.\nIn an address to Indonesian\nthink tanks and academia in\nJakarta, which he is visiting as a\n\nmember of a multi-party dele-\ngation to rallysupport for India\u2019s\nwar against terror emanating\nfrom Pakistan, Khurshid said:\n\u201cKashmir had a major, major\nproblem fora longtime. Much of\nthat was reflected in the think-\ning of the government in an\nArticle called 370 of the\nConstitution, which somehow\ngave the impression that it\n(Kashmir) was separate from the\nrest of the country. Article 370\nwas abrogated, finally put to an\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.36842105263158,
+   "ocr_low_conf_share": 0.045112781954887216,
+   "headline": "Now, Cong's Khurshid backs end of Art 370: 'Prosperity in Kashmir, Pakistan out to undo'",
+   "deck": "",
+   "byline": "ASAD REHMAN; NEW DELHI, MAY 30",
+   "text": "CONGRESS LEADER and former External Affairs Minister Salman Khurshid on Friday backed the abrogation of Article 370, saying it was unfortunate that Pakistan wants to undo the \"prosperity that has come to Kashmir\" because ofit. In an address to Indonesian think tanks and academia in Jakarta, which he is visiting as a\n\nmember of a multi-party delegation to rallysupport for India's war against terror emanating from Pakistan, Khurshid said: \"Kashmir had a major, major problem fora longtime. Much of that was reflected in the thinking of the government in an Article called 370 of the Constitution, which somehow gave the impression that it (Kashmir) was separate from the rest of the country. Article 370 was abrogated, finally put to an",
+   "n_words": 120,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      4414,
+      3160,
+      4684
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      4709,
+      1653,
+      4779
+     ],
+     [
+      1294,
+      4827,
+      1736,
+      5139
+     ],
+     [
+      1784,
+      4668,
+      2227,
+      5140
+     ],
+     [
+      2272,
+      4669,
+      2716,
+      5140
+     ],
+     [
+      2759,
+      4669,
+      3200,
+      5133
+     ]
+    ],
+    "layout_words": 222
+   },
+   "headline_raw": "Surge in number of rural women able to do\nonline banking, UPI a key enabler: Survey",
+   "deck_raw": "",
+   "body_raw": "SIDDHARTH UPASANI\nNEW DELHI, MAY 30\n\nTHE PROPORTION of women in\nrural areas who could perform\nonline banking transactions\nsurged to 30 per cent in the first\nquarter of 2025, much higher\nthan 171 per cent in 2022-23, a\nnewsurvey by the statistics min-\nistry shows.\n\nAccording to the results of\nthe Ministry of Statistics and\nProgramme Implementation\u2019s\n\u2018Comprehensive Modular\nSurvey: Telecom, 2025\u2019, released\non Friday, there has been a\nmarked increase in the number\nof Indians in rural areas engag-\ning in online banking, with the\nrise being particularly notewor-\nthy among young women.\nAccording to the survey's re-\n\nsults, 51.4 per cent of women in\nrural areasin the 15-24 agegroup\nreported they could perform on-\nline banking transactions, more\nthan double the 19.6 per cent in\n2022-23, as per the ministry's\nComprehensive Annual Modular\nSurvey for 2022-23 (July-June),\nreleased in October 2024.\nTo be sure, a higher propor-\ntion of rural men, too, said they\ncould doonline banking, with the\n\nfigure for those in the 15-24 year\nbracket rising to 73.3 per cent\nfrom 40.2 per cent in 2022-23.\nThe statistics ministry did not\ntest or check the skills reported\nby the respondents while con-\nducting the survey.\nIn urban areas, where online\nbanking penetration levels were\nhigher to begin with, theincrease\nwas ofa smallermagnitude, with\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.9054054054054,
+   "ocr_low_conf_share": 0.013513513513513514,
+   "headline": "Surge in number of rural women able to do online banking, UPI a key enabler: Survey",
+   "deck": "",
+   "byline": "SIDDHARTH UPASANI; NEW DELHI, MAY 30",
+   "text": "THE PROPORTION of women in rural areas who could perform online banking transactions surged to 30 per cent in the first quarter of 2025, much higher than 171 per cent in 2022-23, a newsurvey by the statistics ministry shows.\n\nAccording to the results of the Ministry of Statistics and Programme Implementation's 'Comprehensive Modular Survey: Telecom, 2025', released on Friday, there has been a marked increase in the number of Indians in rural areas engaging in online banking, with the rise being particularly noteworthy among young women. According to the survey's results, 51.4 per cent of women in rural areasin the 15-24 agegroup reported they could perform online banking transactions, more than double the 19.6 per cent in 2022-23, as per the ministry's Comprehensive Annual Modular Survey for 2022-23 (July-June), released in October 2024. To be sure, a higher proportion of rural men, too, said they could doonline banking, with the\n\nfigure for those in the 15-24 year bracket rising to 73.3 per cent from 40.2 per cent in 2022-23. The statistics ministry did not test or check the skills reported by the respondents while conducting the survey. In urban areas, where online banking penetration levels were higher to begin with, theincrease was ofa smallermagnitude, with",
+   "n_words": 205,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3794,
+      4741,
+      4119,
+      4786
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3799,
+      4855,
+      4116,
+      4981
+     ]
+    ],
+    "body_boxes": [
+     [
+      3767,
+      4995,
+      4148,
+      5102
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "BIG PICTURE",
+   "deck_raw": "The Talented\nMr Ridley",
+   "body_raw": "How auniqueconservation\nproject in coastal Maharashtra\nis working to protect turtles",
+   "ocr_conf": 86.81818181818181,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BIG PICTURE",
+   "deck": "The Talented Mr Ridley",
+   "byline": "",
+   "text": "How auniqueconservation project in coastal Maharashtra is working to protect turtles",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5262,
+      3987,
+      5434
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5421,
+      499,
+      5494
+     ],
+     [
+      316,
+      5617,
+      600,
+      5687
+     ],
+     [
+      317,
+      5736,
+      758,
+      6166
+     ],
+     [
+      806,
+      5419,
+      1247,
+      6166
+     ],
+     [
+      1294,
+      5420,
+      1735,
+      6166
+     ],
+     [
+      2758,
+      5421,
+      3200,
+      6168
+     ],
+     [
+      3247,
+      5421,
+      3690,
+      6168
+     ],
+     [
+      3734,
+      5422,
+      4176,
+      6162
+     ]
+    ],
+    "layout_words": 567
+   },
+   "headline_raw": "Meet the Nightingales: Palliative care to looking after cancer patients",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nANONNADUTT\nNEW DELHI, MAY 30\n\nLEIMAPOKPAM RANJITA Devi\nand her husband used to rou-\ntinely hop on a scooter at odd\nhours to provide palliative care to\npatients in remote Manipur vil-\nlages. Banu MR cared for her sick\ncolleagues in the NIMHANS hos-\ntel and guest house in Bengaluru\nto free up beds for patients with\nsevere Covid-19 infection. As an\noncology nurse, when the con-\n\ncept of palliative care was rela-\ntively unknown, Major-General\nSheena P D has counselled nu-\nmerous cancer patients and their\nfamilies on accepting the diagno-\nsis and getting treatment.\nThe trio was among the 15\nnurses, auxiliary nurse midwives\nand women health workers from\nacross Indiawho were conferred\nthe Florence Nightingale Award\nby President Droupadi Murmu\non Friday. Of these awardees, four\nare from the North-East, and two\nfrom the national capital.\nRanjita tells TheIndian Express,\n\u201cOne of my seniors asked me to\napply for the award, but I barely\nhad any photographs or videos\n\nthat I was required to upload as\npart of my nomination. However,\nI got this award for training other\nnurses at the hospital.\u201d\nHaving spent most of her\nnearly 20-year career at the\nImphal-based Jawaharlal Nehru\nInstitute of Medical Sciences,\nRanjita has many feathers in her\ncap over the years \u2014 from provid-\ning palliative care and training\nnurses in the red zone (areas in\nthe hospital with severely ill\nCovid-19 patients) to setting up\nthe protocol forthe kidney trans-\nplant team attheinstitute and be-\ninga partoftherapidaction team\nestablished after violence erupted\nin Manipur in May 2023.\n\n\u201cSince] liveon campus, | fre-\nquently cover shifts for nurses\nwho are unable to report for\nduty. | still remember being\nasked to come to the hospital on\nMay 3 (2023). l ended up staying\nall night. People kept coming in\nwith injuries the whole time,\u201d\nshe recalls.\nBefore all this, Ranjita was a\npart ofa four-member team that\nprovided door-to-door palliative\ncare. \u201cI would receive a call if a pa-\ntient removed their Ryle\u2019s tube\n(used for feeding through the\nnose) by mistake or if they were\nin too much pain.One by one, the\nothers moved to different teams,\nbut they would keep referring\n\ntheir patients to me,\u201d she says,\nadding that though the pro-\ngramme has been discontinued,\n\u201cthis is what ]am most proudof\".\nWhile Ranjita says she has\nnever hesitated in taking care of\nher patients, she recalls a scare\nshe got while seven months\npregnant with her second child.\n\u201cIremember rushing to a hospi-\ntal corridor at the end of my\nnight shift to help awoman, who\nhad started delivering her baby\nthere. Inthe afternoon, I received\nacall and was informed that the\nwoman was HIV positive. I had\nto take medicines to protect my-\nself and my baby,\u201d she says.\nLike Ranjita, Banu too has\n\nnever shied away from her du-\nties as a nurse at NIMHANS, one\nof the country\u2019s foremost men-\ntal health hospitals. Taking care\nof nearly 170 doctors, nurses,\nhealth workers and medical stu-\ndents during the pandemic, she\nsays, \u201cearned me this award\u201d.\nBanu, who specialises in tak-\ning care of patients with psychi-\natric and neurological condi-\ntions, manages a rehabilitation\ncentre at NIMHANS.\n\u201cThere are several patients\nwhodo not have an acute condi-\ntion, but their mental ailments\ndon\u2019t quite not allow them to in-\ntegrate into society. So our centre\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.55026455026454,
+   "ocr_low_conf_share": 0.04056437389770723,
+   "headline": "Meet the Nightingales: Palliative care to looking after cancer patients",
+   "deck": "",
+   "byline": "ANCHOR; ANONNADUTT; NEW DELHI, MAY 30",
+   "text": "LEIMAPOKPAM RANJITA Devi and her husband used to routinely hop on a scooter at odd hours to provide palliative care to patients in remote Manipur villages. Banu MR cared for her sick colleagues in the NIMHANS hostel and guest house in Bengaluru to free up beds for patients with severe Covid-19 infection. As an oncology nurse, when the concept of palliative care was relatively unknown, Major-General Sheena P D has counselled numerous cancer patients and their families on accepting the diagnosis and getting treatment. The trio was among the 15 nurses, auxiliary nurse midwives and women health workers from across Indiawho were conferred the Florence Nightingale Award by President Droupadi Murmu on Friday. Of these awardees, four are from the North-East, and two from the national capital. Ranjita tells TheIndian Express, \"One of my seniors asked me to apply for the award, but I barely had any photographs or videos\n\nthat I was required to upload as part of my nomination. However, I got this award for training other nurses at the hospital.\" Having spent most of her nearly 20-year career at the Imphal-based Jawaharlal Nehru Institute of Medical Sciences, Ranjita has many feathers in her cap over the years - from providing palliative care and training nurses in the red zone (areas in the hospital with severely ill Covid-19 patients) to setting up the protocol forthe kidney transplant team attheinstitute and beinga partoftherapidaction team established after violence erupted in Manipur in May 2023.\n\n\"Since] liveon campus, frequently cover shifts for nurses who are unable to report for duty. still remember being asked to come to the hospital on May 3 (2023). l ended up staying all night. People kept coming in with injuries the whole time,\" she recalls. Before all this, Ranjita was a part ofa four-member team that provided door-to-door palliative care. \"I would receive a call if a patient removed their Ryle's tube (used for feeding through the nose) by mistake or if they were in too much pain.One by one, the others moved to different teams, but they would keep referring\n\ntheir patients to me,\" she says, adding that though the programme has been discontinued, \"this is what ]am most proudof\". While Ranjita says she has never hesitated in taking care of her patients, she recalls a scare she got while seven months pregnant with her second child. \"Iremember rushing to a hospital corridor at the end of my night shift to help awoman, who had started delivering her baby there. Inthe afternoon, I received acall and was informed that the woman was HIV positive. I had to take medicines to protect myself and my baby,\" she says. Like Ranjita, Banu too has\n\nnever shied away from her duties as a nurse at NIMHANS, one of the country's foremost mental health hospitals. Taking care of nearly 170 doctors, nurses, health workers and medical students during the pandemic, she says, \"earned me this award\". Banu, who specialises in taking care of patients with psychiatric and neurological conditions, manages a rehabilitation centre at NIMHANS. \"There are several patients whodo not have an acute condition, but their mental ailments don't quite not allow them to integrate into society. So our centre CONTINUEDON PAGE2",
+   "n_words": 534,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.9,
+ "flags": []
+}

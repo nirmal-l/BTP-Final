@@ -1,0 +1,648 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_11_front",
+ "source_file": "2025-01-11_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-11_front.png",
+ "date": "2025-01-11",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 375,
+  "mean_line_conf": 88.473491005291,
+  "orphan_words": 45,
+  "body_words_total": 1443
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3255,
+      695,
+      4171,
+      1211
+     ],
+     [
+      3252,
+      1254,
+      4180,
+      1385
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3255,
+      1465,
+      3616,
+      1534
+     ],
+     [
+      3247,
+      1583,
+      3698,
+      2290
+     ],
+     [
+      3738,
+      1941,
+      4182,
+      2126
+     ],
+     [
+      3738,
+      2138,
+      4181,
+      2283
+     ]
+    ],
+    "layout_words": 138
+   },
+   "headline_raw": "Should not call any\ndisputed structure\na mosque, says UP\nCM Adityanath\nThose who claim Kumbh area as Waqf\nland will face denting, painting: CM",
+   "deck_raw": "",
+   "body_raw": "BHUPENDRA PANDEY\nLUCKNOW, JANUARY 10\n\nAMID A series of temple-\nmosque disputes, with several\nsuits pending before various\ncourts, Uttar Pradesh Chief\nMinister Yogi Adityanath saidon\nFriday that any disputed struc-\nture should not be called a\nmosque.\n\u201cKist bhi vivadit dhaanche ko\nmagjid nahi bohha chahiye. Hum\njis din masjid bolna bandh kar\ndenge, uss din log jaana bhi bandh\nkar denge. Waise bhiyeh Islamke\nsidhhanto ke khilaaf hai ki kisi kt\nbhi aastha ko thais pahuncha kar\nwahan masjid-numa dhaancha\nkhada kar diyaho, aise sthaan par\nKisi prakaarki hone waat ibaadat\n\nKhuda ko bhi manzoor nahi hott\nhai. islam me upasana ke liye\nstructure ki zoroorat nahi hai, jab\nki yeh Sanatan Dharma me hai,\"\nhe said.\n\n(\u201cAny disputed structure\nshould not be called a mosque.\nThe day we stop calling it a\nCONTINUED ONPAGE 2",
+   "ocr_conf": 89.34057971014492,
+   "ocr_low_conf_share": 0.057971014492753624,
+   "headline": "Should not call any disputed structure a mosque, says UP CM Adityanath Those who claim Kumbh area as Waqf land will face denting, painting: CM",
+   "deck": "",
+   "byline": "BHUPENDRA PANDEY; LUCKNOW, JANUARY 10",
+   "text": "AMID A series of temple-mosque disputes, with several suits pending before various courts, Uttar Pradesh Chief Minister Yogi Adityanath saidon Friday that any disputed structure should not be called a mosque. \"Kist bhi vivadit dhaanche ko magjid nahi bohha chahiye. Hum jis din masjid bolna bandh kar denge, uss din log jaana bhi bandh kar denge. Waise bhiyeh Islamke sidhhanto ke khilaaf hai ki kisi kt bhi aastha ko thais pahuncha kar wahan masjid-numa dhaancha khada kar diyaho, aise sthaan par Kisi prakaarki hone waat ibaadat\n\nKhuda ko bhi manzoor nahi hott hai. islam me upasana ke liye structure ki zoroorat nahi hai, jab ki yeh Sanatan Dharma me hai,\" he said.\n\n(\"Any disputed structure should not be called a mosque. The day we stop calling it a",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      721,
+      750,
+      753
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE EDITORIAL PAGE",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "THE EDITORIAL PAGE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      349,
+      813,
+      764,
+      880
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1157,
+      567,
+      1188
+     ],
+     [
+      323,
+      1761,
+      671,
+      1928
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "MY FRIEND\n. \u201cMS) BAA AIAAM EL AAI",
+   "deck_raw": "",
+   "body_raw": "THE WORLD\n\nLOS ANGELES\nWILDFIRES RAGE\nFOR THIRD NIGHT\nPAGE 14",
+   "ocr_conf": 95.0909090909091,
+   "ocr_low_conf_share": 0.0,
+   "headline": "MY FRIEND. \"MS) BAA AIAAM EL AAI",
+   "deck": "",
+   "byline": "THE WORLD; LOS ANGELES; WILDFIRES RAGE; FOR THIRD NIGHT",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      793,
+      3169,
+      1104
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      2900,
+      753
+     ],
+     [
+      808,
+      1171,
+      3149,
+      1227
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1302,
+      1161,
+      1371
+     ],
+     [
+      808,
+      1424,
+      1253,
+      1687
+     ],
+     [
+      808,
+      1695,
+      1253,
+      1892
+     ],
+     [
+      1294,
+      1263,
+      1740,
+      1498
+     ],
+     [
+      1298,
+      1503,
+      1740,
+      1892
+     ],
+     [
+      1787,
+      1779,
+      2229,
+      1888
+     ],
+     [
+      2436,
+      1305,
+      2664,
+      1441
+     ],
+     [
+      2321,
+      1504,
+      2679,
+      1846
+     ],
+     [
+      2763,
+      1265,
+      3208,
+      1696
+     ],
+     [
+      2763,
+      1741,
+      3205,
+      1886
+     ]
+    ],
+    "layout_words": 252
+   },
+   "headline_raw": "Inafirst, selection process for next Chief\nElection Commissioner casts wider net",
+   "deck_raw": "EARLIER, MOST SENIOR EC WAS DEFAULT CHOICE TO SUCCEED CEC\nAs per new law, panel of five to be sent to committee of PM, Leader of Opposition in Lok Sabha, Minister",
+   "body_raw": "DAMININATH\nNEW DELHI, JANUARY 10\n\nTRADITIONALLY, the successor\nto the Chief Election\nCommissioner (CEC) has been\nthe next senior most Election\nCommissioner. For the first time,\nas per the Chief Election\nCommissioner And Other\n\nElection Commissioners\n(Appointment, Conditions of\nService And Term of Office) Act,\n2023, the net can be cast wider.\nCurrent CEC Rajiv Kumar\n\ndemits office on February 18.The\nElection Commission comprises\nthe CEC and two election com-\nmissioners \u2014 Gyanesh Kumar\nand Sukhbir Singh Sandhu at\npresent.\n\nGyanesh Kumar could stillbe\nin contention but according to\nSections 6 and 7 of the Act, the\nMinistry of Law will set up a\nSearch Committee chaired by\nthe Law Minister to prepare a\npanel of five names for the\nSelection Committee.\nThe Selection Committee,\ncomprising the Prime Minister,\n\na Cabinet minister and the\nLeader of the Opposition in the\nLok Sabha, can select from this\n\nBreak\nfrom\n@ tradition?\n\nWHEN THE Election\nCommission isunder\nscrutiny, thenew law\ngives the Govemment the\nspace to break from tradi-\ntion. With the Leader of\nOpposition on the panel, a\ndebate over who is nextis\nnotruled out.\n\npanel or consider \u201cany other per-\nson\u201d from outside.\nSection 6 ofthe Act specifies\nthis process for the appointment\nof the Chief Election Commi-\nssioner and other Election\nCommissioners.\nEven as Gyanesh Kumar re-\nmains a potential candidate for\nthetop post, the Act gives the se-\nlectioncommittee the option of\n\nthe Election Commission.\nThiscomes against the back-\ndrop of the EC facing the heat\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.4920634920635,
+   "ocr_low_conf_share": 0.047619047619047616,
+   "headline": "Inafirst, selection process for next Chief Election Commissioner casts wider net",
+   "deck": "EARLIER, MOST SENIOR EC WAS DEFAULT CHOICE TO SUCCEED CEC As per new law, panel of five to be sent to committee of PM, Leader of Opposition in Lok Sabha, Minister",
+   "byline": "DAMININATH; NEW DELHI, JANUARY 10",
+   "text": "TRADITIONALLY, the successor to the Chief Election Commissioner (CEC) has been the next senior most Election Commissioner. For the first time, as per the Chief Election Commissioner And Other\n\nElection Commissioners (Appointment, Conditions of Service And Term of Office) Act, 2023, the net can be cast wider. Current CEC Rajiv Kumar\n\ndemits office on February 18.The Election Commission comprises the CEC and two election commissioners - Gyanesh Kumar and Sukhbir Singh Sandhu at present.\n\nGyanesh Kumar could stillbe in contention but according to Sections 6 and 7 of the Act, the Ministry of Law will set up a Search Committee chaired by the Law Minister to prepare a panel of five names for the Selection Committee. The Selection Committee, comprising the Prime Minister,\n\na Cabinet minister and the Leader of the Opposition in the Lok Sabha, can select from this\n\nBreak from @ tradition?\n\nWHEN THE Election Commission isunder scrutiny, thenew law gives the Govemment the space to break from tradition. With the Leader of Opposition on the panel, a debate over who is nextis notruled out.\n\npanel or consider \"any other person\" from outside. Section 6 ofthe Act specifies this process for the appointment of the Chief Election Commissioner and other Election Commissioners. Even as Gyanesh Kumar remains a potential candidate for thetop post, the Act gives the selectioncommittee the option of\n\nthe Election Commission. Thiscomes against the backdrop of the EC facing the heat",
+   "n_words": 236,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      343,
+      862,
+      763,
+      1025
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "rc MANMOHAN\n~~ By JAGDISH\ni BHAGWATI\nay PAGE10",
+   "ocr_conf": 71.44444444444444,
+   "ocr_low_conf_share": 0.4444444444444444,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "rc MANMOHAN ~~ By JAGDISH i BHAGWATI ay PAGE10",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2037,
+      1212,
+      2533
+     ],
+     [
+      323,
+      2596,
+      1224,
+      2727
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2806,
+      670,
+      2875
+     ],
+     [
+      320,
+      2925,
+      764,
+      4303
+     ],
+     [
+      806,
+      3401,
+      1251,
+      4300
+     ]
+    ],
+    "layout_words": 295
+   },
+   "headline_raw": "PM: World trusts\nus, for peace... I tell\nRussia & Ukraine,\nIsrael & Palestine\n\u2018My tagline is nation first... willing to\nleave old things and accept new ones\u2019",
+   "deck_raw": "",
+   "body_raw": "VIKAS PATHAK\nNEW DELHI. JANUARY 10\n\nUNDERLINING THAT \u201cthe world\ntrustsusbecause there is no du-\nplicity in us\u201d, Prime Minister\nNarendra Modi said Friday while\n\u201cwe are not neutral... | will co-\noperate ineveryeffort\u2019 for peace,\nbe it between \u201cRussia and\nUkraine, Israel and Palestine\u201d.\nIn a conversation with\nZerodha co-founder Nikhil\nKamat, Modi said India's stand-\ning in the world had increased\nbecause ofits actions.\n\u201cThe world trusts usbecause\nthereisno duplicity in us. What\nwe say is clear. We repeatedly\nsaid we are not neutral. lamin\nfavour of peace, and I will coop-\nerate in every effort for it. I teil\nthisto Russia and Ukraine, Israel\nand Palestine. Our credibilityhas\nincreased because of this. The\nworld thinks that India says\nwhat it believes.\u201d\n\u201cIn Abu Dhabi,when! wanted\natemplefor Hindus, | got it from\nthe Crown Prince in a moment.\nWhat a happy moment this was\nfor crores of Hindus,\u201d he said.\nHe recalled how Chinese\nPresident Xi Jinping once told\nhim that they shared a \u201cspecial\nconnection\".\nHe said when he became\nPrime Minister in 2014, \u201cPresi-\n\ndent Xi, during a courtesy call,\nsaidtomehe wished tocome to\nIndia, travelto Gujarat, Vadnagar\nin particular. I said he was most\nwelcome. He said we share a\nspecial connection.\u201d\nModi quoted Xi as telling him\nthat the Chinese scholar Hiuen\nTsang, when he travelled to\nIndia, stayed for long in his vil-\nlage Vadnagar and in Xi'svillage\nwhenhe retumed to China\nFor the first time in several\nyears, he spoke of the Godhra\ntrain burning incident and the\ncriticism that followed the\nGujarat nots in 2002.\nResponding to aquestion on\nhowhe dealt with anxiety, he re-\ncalled the 2002 incidents. \u201cOn\nFebruary 24, 2002, | first became\nMLA. On February 27, I went to\nCONTINUEDONPAGE 2",
+   "ocr_conf": 90.89115646258503,
+   "ocr_low_conf_share": 0.030612244897959183,
+   "headline": "PM: World trusts us, for peace... I tell Russia & Ukraine, Israel & Palestine 'My tagline is nation first... willing to leave old things and accept new ones'",
+   "deck": "",
+   "byline": "VIKAS PATHAK; NEW DELHI. JANUARY 10",
+   "text": "UNDERLINING THAT \"the world trustsusbecause there is no duplicity in us\", Prime Minister Narendra Modi said Friday while \"we are not neutral... will cooperate ineveryeffort' for peace, be it between \"Russia and Ukraine, Israel and Palestine\". In a conversation with Zerodha co-founder Nikhil Kamat, Modi said India's standing in the world had increased because ofits actions. \"The world trusts usbecause thereisno duplicity in us. What we say is clear. We repeatedly said we are not neutral. lamin favour of peace, and I will cooperate in every effort for it. I teil thisto Russia and Ukraine, Israel and Palestine. Our credibilityhas increased because of this. The world thinks that India says what it believes.\" \"In Abu Dhabi,when! wanted atemplefor Hindus, got it from the Crown Prince in a moment. What a happy moment this was for crores of Hindus,\" he said. He recalled how Chinese President Xi Jinping once told him that they shared a \"special connection\". He said when he became Prime Minister in 2014, \"President Xi, during a courtesy call, saidtomehe wished tocome to India, travelto Gujarat, Vadnagar in particular. I said he was most welcome. He said we share a special connection.\" Modi quoted Xi as telling him that the Chinese scholar Hiuen Tsang, when he travelled to India, stayed for long in his village Vadnagar and in Xi'svillage whenhe retumed to China For the first time in several years, he spoke of the Godhra train burning incident and the criticism that followed the Gujarat nots in 2002. Responding to aquestion on howhe dealt with anxiety, he recalled the 2002 incidents. \"On February 24, 2002, first became MLA. On February 27, I went to CONTINUEDONPAGE 2",
+   "n_words": 278,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      2357,
+      4180,
+      2808
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      2888,
+      3677,
+      2957
+     ],
+     [
+      3248,
+      3009,
+      3695,
+      3716
+     ],
+     [
+      3734,
+      3403,
+      4179,
+      3709
+     ]
+    ],
+    "layout_words": 130
+   },
+   "headline_raw": "SC orders status quo\nin row over well at\nSambhal mosque, calls\nfor report in 2 weeks",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, JANUARY 10\n\nTHERE WILL be no worship or\nholy bath at the well near the\nShahi Jama Masjid in Sambhal in\nUttar Pradesh.\nOn Friday, the Supreme Court\nstayed the execution of a\u201cno-\ntice\u201d, purportedly issued by\nSambhal municipal authorities,\nregarding the well. It sought a\nstatusreport in two weeks even\nas the UP govemment con-\ntended that the well was situ-\nated on government land.\nThis, after the mosque man-\nagement committee said that\nthe notice, a public poster which\nbore the name of the Sambhal\nNagar Palika, referred to the well\n\nasbeing located in acorner ofthe\nHari Mandir.\nHindus and Muslims have\nbeen locked in adispute over the\nmosque, withthe formerciaim-\ning thatthe Mughal-era mosque\nwas built after destroying a\nCONTINUED ONPAGE 2",
+   "ocr_conf": 86.86153846153846,
+   "ocr_low_conf_share": 0.1,
+   "headline": "SC orders status quo in row over well at Sambhal mosque, calls for report in 2 weeks",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, JANUARY 10",
+   "text": "THERE WILL be no worship or holy bath at the well near the Shahi Jama Masjid in Sambhal in Uttar Pradesh. On Friday, the Supreme Court stayed the execution of a\"notice\", purportedly issued by Sambhal municipal authorities, regarding the well. It sought a statusreport in two weeks even as the UP govemment contended that the well was situated on government land. This, after the mosque management committee said that the notice, a public poster which bore the name of the Sambhal Nagar Palika, referred to the well\n\nasbeing located in acorner ofthe Hari Mandir. Hindus and Muslims have been locked in adispute over the mosque, withthe formerciaiming thatthe Mughal-era mosque was built after destroying a",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      3281,
+      3161,
+      3359
+     ]
+    ],
+    "layout_words": 36,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "A Vande Bharat Express train, designed to operate in J&K\u2019s winter conditions, at the Shakurbasti depot in New Delhi on Friday.\nThe 272-km Udhampur-Srinagar-Baramulla Rail Link project will connect the Valley tothe rail network. Praveen Khanna",
+   "ocr_conf": 89.77777777777777,
+   "ocr_low_conf_share": 0.05555555555555555,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "A Vande Bharat Express train, designed to operate in J&K's winter conditions, at the Shakurbasti depot in New Delhi on Friday. The 272-km Udhampur-Srinagar-Baramulla Rail Link project will connect the Valley tothe rail network. Praveen Khanna",
+   "n_words": 36,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3464,
+      2656,
+      3691
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      3718,
+      1597,
+      3787
+     ],
+     [
+      1293,
+      3838,
+      1738,
+      4308
+     ],
+     [
+      1784,
+      4155,
+      2226,
+      4308
+     ],
+     [
+      2269,
+      3680,
+      2738,
+      4301
+     ]
+    ],
+    "layout_words": 150
+   },
+   "headline_raw": "Amid Lt Governor-Omar rift, J&K\nremains without Advocate General",
+   "deck_raw": "",
+   "body_raw": "ARUN SHARMA\nJAMMU, JANUARY 10\n\nFOR OVER two months now,\nJammu and Kashmir has been\nwithout an Advocate General,\nwith the impasse bet ween the\nLieutenant Governor'soffice and\nOmar Abdullah-led govemment\nthat is reportedly holding upthe\nappointment showing no signs\nof a resolution.\nHearing a petition against the\nnew J&K reservation policy last\nmonth, the Jammuand Kashmir\n\nand Ladakh High Court had ex-\npressed concem over the matter,\nand issued anotice to the Union\nTerritory.\n\nAs per norm, following the\nswearing-in of the National |\nConference-led government on |\nOctober 18 last year, the existing\nAdvocate General, D CRaina, had\nsubmitted his resignation. He\nWas appointed to the post by for-\nmerL-GGirish ChandraMurmu\nonNovember 1, 2019, aday after\nJ&K officiallyceased to bea state.\nHowever, when Rainacalled\non Omar Abdullah after his res-\nignation, the Chief Minister\nasked him to continue in office.\nSince there was no official\nCONTINUEDONPAGE 2",
+   "ocr_conf": 88.81879194630872,
+   "ocr_low_conf_share": 0.053691275167785234,
+   "headline": "Amid Lt Governor-Omar rift, J&K remains without Advocate General",
+   "deck": "",
+   "byline": "ARUN SHARMA; JAMMU, JANUARY 10",
+   "text": "FOR OVER two months now, Jammu and Kashmir has been without an Advocate General, with the impasse bet ween the Lieutenant Governor'soffice and Omar Abdullah-led govemment that is reportedly holding upthe appointment showing no signs of a resolution. Hearing a petition against the new J&K reservation policy last month, the Jammuand Kashmir\n\nand Ladakh High Court had expressed concem over the matter, and issued anotice to the Union Territory.\n\nAs per norm, following the swearing-in of the National Conference-led government on October 18 last year, the existing Advocate General, D CRaina, had submitted his resignation. He Was appointed to the post by formerL-GGirish ChandraMurmu onNovember 1, 2019, aday after J&K officiallyceased to bea state. However, when Rainacalled on Omar Abdullah after his resignation, the Chief Minister asked him to continue in office. Since there was no official CONTINUEDONPAGE 2",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3468,
+      3177,
+      3522
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      3554,
+      3133,
+      3674
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "FAMILY OF FIVE\nKILLED IN MEERUT\nPAGE 8",
+   "ocr_conf": 89.875,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "FAMILY OF FIVE; KILLED IN MEERUT",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      4372,
+      2179,
+      4567
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      805,
+      4629,
+      1158,
+      4698
+     ],
+     [
+      805,
+      4748,
+      1249,
+      5055
+     ]
+    ],
+    "layout_words": 43
+   },
+   "headline_raw": "2024 was hottest year ever, breached\n1.5 degree Celsius warming threshold",
+   "deck_raw": "",
+   "body_raw": "AMITABHSINHA\nNEW DELHI. JANUARY 10\n\nTHE LAST year, 2024, has be-\ncome the first year to breachthe\n1.5 degree Celsius warming\nmark, the World Meteorological\nOrganisation (WMO) said on\nFriday. Average annual global\ntemperature in 2024, based on\ndata from six different datasets,",
+   "ocr_conf": 90.93023255813954,
+   "ocr_low_conf_share": 0.046511627906976744,
+   "headline": "2024 was hottest year ever, breached 1.5 degree Celsius warming threshold",
+   "deck": "",
+   "byline": "AMITABHSINHA; NEW DELHI. JANUARY 10",
+   "text": "THE LAST year, 2024, has become the first year to breachthe 1.5 degree Celsius warming mark, the World Meteorological Organisation (WMO) said on Friday. Average annual global temperature in 2024, based on data from six different datasets,",
+   "n_words": 37,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1285,
+      4476,
+      2179,
+      4568
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      4588,
+      1737,
+      5059
+     ],
+     [
+      1781,
+      4589,
+      2229,
+      4894
+     ],
+     [
+      1786,
+      4977,
+      2012,
+      5051
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "Isius warming threshold",
+   "deck_raw": "",
+   "body_raw": "was 1.55 degree Celsius higher\nthan pre-industrial times (aver-\nage of 1850-1900 period), itsaid.\nOne of these datasets, from\nCopernicus Climate Change\nService run by the European\nCentre for Medium Range\nWeather Forecasting, found the\nwarming to be 16 degree Celsius\nhigher than pre-industrial levels.\n2024 nowovertakes 2023 as\nthe warmest yearever recorded.\n\n2023 was recorded tobe 1.45 de-\ngree Celsius warmer than pre-\nindustrial times,\nWMO said each of the six\ndatasets it had used had put\n2024 as the warmest year ever,\nbut not all of them recorded the\nCONTINUED ON PAGE2\n\nEXPLAINED\nPAGE 12",
+   "ocr_conf": 92.0618556701031,
+   "ocr_low_conf_share": 0.020618556701030927,
+   "headline": "Isius warming threshold",
+   "deck": "",
+   "byline": "",
+   "text": "was 1.55 degree Celsius higher than pre-industrial times (average of 1850-1900 period), itsaid. One of these datasets, from Copernicus Climate Change Service run by the European Centre for Medium Range Weather Forecasting, found the warming to be 16 degree Celsius higher than pre-industrial levels. 2024 nowovertakes 2023 as the warmest yearever recorded.\n\n2023 was recorded tobe 1.45 degree Celsius warmer than preindustrial times, WMO said each of the six datasets it had used had put 2024 as the warmest year ever, but not all of them recorded the\n\nEXPLAINED",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5185,
+      2666,
+      5409
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5462,
+      499,
+      5537
+     ],
+     [
+      318,
+      5655,
+      667,
+      5727
+     ],
+     [
+      318,
+      5777,
+      763,
+      6159
+     ],
+     [
+      805,
+      5460,
+      1250,
+      6167
+     ],
+     [
+      2270,
+      5460,
+      2715,
+      6161
+     ]
+    ],
+    "layout_words": 234
+   },
+   "headline_raw": "Long after the ignition turned off, Delhi Police\u2019s\nlast two Ambassadors are set to be auctioned",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nALOK SINGH\nNEW DELHI, JANUARY 10\n\nINSIDE THE Delhi Police's old se-\ncurity unit at Central Delhi's\nVinay Marg is a graveyard of\nsorts for vehicles used by the\nforceover the years. Inthecrowd\nof rusted cars are Delhi Police's\nlast two Ambassadors which, af-\nter years of lying idle, are set to\nbe auctioned, The Indian Express\nhas leamt.\n\nThe two vehicles were de-\nployed in the security unit before\nthey were damaged in separate\naccidents at Mandir Marg and\nDelhi Cantonment in earty 2000.\nOne ofthe accidents had claimed\nthe lifeofa Delhi Police officer.\nDue to court hearingsand le-\ngal procedures, the auction of\nboth vehicleswas delayed, a po-\nlice source said, adding, \u201cThey\nare now ready for auction after\nreceiving necessary permission\nfrom the respective courts \u2014\nPatiala and Saket.\u201d\nBesides being in bad shape\ndue to the accidents, the twocars\nhave long surpassed their oper-\n\national tenure of six-and-a-half\nyears. The lifespan ofa petrol- or\ndiesel-run four-wheeler in the\nDelhi Police is either 1.5 lakh\nkilometres or six-and-a-half\nyears, whichever comes first, a\npolice officer said.\nOne of the cars was bought\nfor Rs 153 lakh in 1994, andthe\nother for Rs 3.20 lakhin 1999,\nAfter they became defunct, the\nvehicles were stationed at\nMandir Marg and Delhi\nCantonment police stations, be-\nfore being brought to the secu-\nrity wing during court hearings.\nManufactured by Hindustan\nCONTINUED ONPAGE 2",
+   "ocr_conf": 89.67094017094017,
+   "ocr_low_conf_share": 0.04700854700854701,
+   "headline": "Long after the ignition turned off, Delhi Police's last two Ambassadors are set to be auctioned",
+   "deck": "",
+   "byline": "ANCHOR; ALOK SINGH; NEW DELHI, JANUARY 10",
+   "text": "INSIDE THE Delhi Police's old security unit at Central Delhi's Vinay Marg is a graveyard of sorts for vehicles used by the forceover the years. Inthecrowd of rusted cars are Delhi Police's last two Ambassadors which, after years of lying idle, are set to be auctioned, The Indian Express has leamt.\n\nThe two vehicles were deployed in the security unit before they were damaged in separate accidents at Mandir Marg and Delhi Cantonment in earty 2000. One ofthe accidents had claimed the lifeofa Delhi Police officer. Due to court hearingsand legal procedures, the auction of both vehicleswas delayed, a police source said, adding, \"They are now ready for auction after receiving necessary permission from the respective courts - Patiala and Saket.\" Besides being in bad shape due to the accidents, the twocars have long surpassed their operational tenure of six-and-a-half years. The lifespan ofa petrol- or diesel-run four-wheeler in the Delhi Police is either 1.5 lakh kilometres or six-and-a-half years, whichever comes first, a police officer said. One of the cars was bought for Rs 153 lakh in 1994, andthe other for Rs 3.20 lakhin 1999, After they became defunct, the vehicles were stationed at Mandir Marg and Delhi Cantonment police stations, before being brought to the security wing during court hearings. Manufactured by Hindustan",
+   "n_words": 215,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 15.4,
+ "flags": []
+}

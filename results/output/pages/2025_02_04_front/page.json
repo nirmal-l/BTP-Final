@@ -1,0 +1,980 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_04_front",
+ "source_file": "2025-02-04_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-04_front.png",
+ "date": "2025-02-04",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 506,
+  "mean_line_conf": 87.50388607388035,
+  "orphan_words": 3,
+  "body_words_total": 1888
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      747,
+      723,
+      782
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      774,
+      2270,
+      1147
+     ],
+     [
+      811,
+      1190,
+      1227,
+      1522
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      696,
+      2442,
+      746
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      1573,
+      1250,
+      1689
+     ],
+     [
+      810,
+      1739,
+      1255,
+      2992
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "Campaigning for high-s\nAssembly polls ends, vo\nLast lap: Shah\nreiterates graft\ncharge, Kejriwal\nsays BJP will stop\nAAP schemes",
+   "deck_raw": "POLL SOPS TAKE CENTRE STAGE IN CAPITAL BATTLE",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, FEBRUARY 3\n\nTHE HIGH-PITCHED campaign\nfor the Delhi Assembly elections\n\u2014 which saw the AAP, BJP and\nCongress raising the stakes with\nvanous poll sopsand schemes \u2014\ndrew to a close on Monday. The\n70 Assembly constituencies in\nthe Capital will vote on\nWednesday, and the results will\nbe declared on February 8.\nThe AAP is seeking a third\nconsecutive term while the BJP\nishoping for acomeback after 27\nyears. TheCongress, whichdom-\ninated Delhi's political landscape\nfor a decade-and-a-half before\nthe AAP burst on tothe scene, is\nlooking to regain its foothold.\nIn the run-up to the polls, all\nthree parties announced a slew\nof poll sops.\nAmid criticism over basing its\ngovemance model on freebies,\nthe AAP doubled down and an-\nnounced anincrease from Rs\n1,000 to Rs 2,100 per monthin\nits promised Mukhyamantri\nMahilaSamman Raashi scheme,\nfree treatment for all above the\nage of 60 years in empanelled\nprivate hospitals, anda monthly\nCON TINUEDON PAGE2",
+   "ocr_conf": 84.58641975308642,
+   "ocr_low_conf_share": 0.10493827160493827,
+   "headline": "Campaigning for high-s Assembly polls ends, vo Last lap: Shah reiterates graft charge, Kejriwal says BJP will stop AAP schemes",
+   "deck": "POLL SOPS TAKE CENTRE STAGE IN CAPITAL BATTLE",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, FEBRUARY 3",
+   "text": "THE HIGH-PITCHED campaign for the Delhi Assembly elections - which saw the AAP, BJP and Congress raising the stakes with vanous poll sopsand schemes - drew to a close on Monday. The 70 Assembly constituencies in the Capital will vote on Wednesday, and the results will be declared on February 8. The AAP is seeking a third consecutive term while the BJP ishoping for acomeback after 27 years. TheCongress, whichdominated Delhi's political landscape for a decade-and-a-half before the AAP burst on tothe scene, is looking to regain its foothold. In the run-up to the polls, all three parties announced a slew of poll sops. Amid criticism over basing its govemance model on freebies, the AAP doubled down and announced anincrease from Rs 1,000 to Rs 2,100 per monthin its promised Mukhyamantri MahilaSamman Raashi scheme, free treatment for all above the age of 60 years in empanelled private hospitals, anda monthly CON TINUEDON PAGE2",
+   "n_words": 153,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      410,
+      859,
+      641,
+      963
+     ]
+    ],
+    "deck_boxes": [
+     [
+      461,
+      823,
+      627,
+      852
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      1472,
+      566,
+      1503
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "(andda, China,\nMeRICO,",
+   "deck_raw": "By UNNY",
+   "body_raw": "THE WORLD",
+   "ocr_conf": 95.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "(andda, China, MeRICO,",
+   "deck": "By UNNY",
+   "byline": "THE WORLD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1932,
+      631,
+      1982
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1997,
+      721,
+      2164
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "WINS GRAMMY",
+   "deck_raw": "",
+   "body_raw": "MUSK SAYS TRUMP\nHAD AGREED TO\nCLOSE USAID\nPAGE 10",
+   "ocr_conf": 93.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "WINS GRAMMY",
+   "deck": "",
+   "byline": "MUSK SAYS TRUMP; HAD AGREED TO; CLOSE USAID",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1348,
+      2084,
+      1601,
+      2154
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1370,
+      2327,
+      1667,
+      2357
+     ],
+     [
+      1341,
+      2474,
+      1695,
+      2516
+     ],
+     [
+      1361,
+      2714,
+      1483,
+      2779
+     ],
+     [
+      1363,
+      2914,
+      1675,
+      2995
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "DECISION \u00a2",
+   "deck_raw": "",
+   "body_raw": "TOTAL SEATS: 70\n\nAAP BJP\n\nVotingon\nFEBS\n\nRELATED REPORT\nPAGES",
+   "ocr_conf": 85.9,
+   "ocr_low_conf_share": 0.1,
+   "headline": "DECISION \u00a2",
+   "deck": "",
+   "byline": "TOTAL SEATS: 70; AAP BJP",
+   "text": "Votingon FEBS\n\nRELATED REPORT PAGES",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2080,
+      3272,
+      2344
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2372,
+      2144,
+      2441
+     ],
+     [
+      1786,
+      2491,
+      2228,
+      3001
+     ],
+     [
+      2273,
+      2333,
+      2717,
+      3001
+     ],
+     [
+      2762,
+      2333,
+      3204,
+      2994
+     ]
+    ],
+    "layout_words": 251
+   },
+   "headline_raw": "BJP\u2019s hope: ll yrs on, AAP vehicle\nfor change stuck \u2014 at the bottom \u201c\na os Bian trac taniitan ths A&A Danth werkhantlac af \u201cAach fnatan\u2019\" sand tT",
+   "deck_raw": "",
+   "body_raw": "VANDITAMISHRA\nNEW DELHI, FEBRUARY 3\n\nIN AN arena where Congress is\nrelegated to the status of aminor\nthird wheel, on the other side\nfrom the 11-year incumbent\nAAP. is a Modi-BJP that has just\nretumed for a third term at the\nCentr and ischafing at being out\nof power for 27 years in Delhi.\nThe BJP labels the AAP as a\npurveyor of \u201crevdis\" (or \u201cfree-\nbies\u201d) and, at the same time, as-\nsures voters it will not discon-\ntinue the existing schemes. It\n\neventries tooutdo the AAPwith\nits own promises of cash trans-\nfersand subsidies \u2014 forinstance,\nif AAP says it will give Rs 2,100\nmonth to women, the BJP\npledges Rs 2,500 monthly.\nUnlike in many other states,\nhowever, the BJP\u2019s USP may lie\nless in the commitments it\nmakes to individual labharthis-\n~ inthe national capital, the AAP\nhasbeatthe BJPto it Itlies, more,\nina set of appeals that are alsoa\nprominent part of the BJP's\nmulti-layered pitch elsewhere:\nPrime Minister Narendra Modi's\ninvocation of larger, powerful\n\nwhokes of \u201cdesh (nation)\u201d and\nIndiain the world, and narratives\nof big \u201cdevelopment\u201d.\nSo far, in the capital, where\naspirations grow even if living\nspaces become cramped, the\nBJP\u2019s appeal, alongside the AAP\u2019s\npitch, has led to Delhi's unique\nsplit ticket in the last two elec-\ntions for the Centre and assem-\nbly \u2014 Modi at the Centre deci-\nsively, Kejriwal in Delhi\noverwhelmingly.\nAs The indian Express spoke\nto wiers from Shaheen Bagh to\nShalimar Bagh, from Sangam\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.32936507936508,
+   "ocr_low_conf_share": 0.023809523809523808,
+   "headline": "BJP's hope: ll yrs on, AAP vehicle for change stuck - at the bottom \" a os Bian trac taniitan ths A&A Danth werkhantlac af \"Aach fnatan'\" sand tT",
+   "deck": "",
+   "byline": "VANDITAMISHRA; NEW DELHI, FEBRUARY 3",
+   "text": "IN AN arena where Congress is relegated to the status of aminor third wheel, on the other side from the 11-year incumbent AAP. is a Modi-BJP that has just retumed for a third term at the Centr and ischafing at being out of power for 27 years in Delhi. The BJP labels the AAP as a purveyor of \"revdis\" (or \"freebies\") and, at the same time, assures voters it will not discontinue the existing schemes. It\n\neventries tooutdo the AAPwith its own promises of cash transfersand subsidies - forinstance, if AAP says it will give Rs 2,100 month to women, the BJP pledges Rs 2,500 monthly. Unlike in many other states, however, the BJP's USP may lie less in the commitments it makes to individual labharthis- ~ inthe national capital, the AAP hasbeatthe BJPto it Itlies, more, ina set of appeals that are alsoa prominent part of the BJP's multi-layered pitch elsewhere: Prime Minister Narendra Modi's invocation of larger, powerful\n\nwhokes of \"desh (nation)\" and Indiain the world, and narratives of big \"development\". So far, in the capital, where aspirations grow even if living spaces become cramped, the BJP's appeal, alongside the AAP's pitch, has led to Delhi's unique split ticket in the last two elections for the Centre and assembly - Modi at the Centre decisively, Kejriwal in Delhi overwhelmingly. As The indian Express spoke to wiers from Shaheen Bagh to Shalimar Bagh, from Sangam",
+   "n_words": 236,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2237,
+      4173,
+      2403
+     ],
+     [
+      3250,
+      2442,
+      4157,
+      2675
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3247,
+      2717,
+      3654,
+      2961
+     ],
+     [
+      3251,
+      3045,
+      3604,
+      3156
+     ],
+     [
+      3248,
+      3206,
+      3693,
+      4310
+     ],
+     [
+      3900,
+      2806,
+      4114,
+      2893
+     ],
+     [
+      3786,
+      2968,
+      4140,
+      3352
+     ]
+    ],
+    "layout_words": 186
+   },
+   "headline_raw": "Rahul invokes China\nto attack Govt on\njobs, border security",
+   "deck_raw": "",
+   "body_raw": "Says Delhi sought\nPM invite to US;\nJaishankar calls\nit falsehood\n\nMANOJCG\n& ASAD REHMAN\nNEW DELHI, FEBRUARY 3\n\nA FORTNIGHT after he an-\nnounced the launch of a White\nT-shirts campaign \u2014 billed asa\nplatform for youth, to unite\nworkers across sectors \u2014 Rahul\nGandhi focused on the youth\nand unemployment in his ad-\ndress in Parliament Monday, this\ntime in the context ofthe rise of\nChina as a manufacturing giant.\nIncidentally, in his speech -\nwhich he described as the ad-\ndress a President under anINDIA\nbloc government would make to\nParliament \u2014 Gandhi offered\nseveral backhanded compli-\nments to Prime Minister\nNarendra Modi. While these\nwere part of the argument\nGandhi built against the Modi\ngovernment's job creation\nrecord, the Congress leader's ap-\nproach was a departure from\nprevious Parliament Sessions\nmarked with bitter acrimony.\nEven several Congress allies\nhave been uncomfortable with\nGandhi's unrelenting combat-\n\nNew foot\n@ forward?\n\nRAHUL GANDHI'S concil-\nialory noises seemeda\ndeparture from the acri-\nmony of previous\nParliament Sessions. The\nCongress leader also re-\npeatedly projected INDIA\nbloc as an entity, amidst\nrising tensions within\nthe alliance.",
+   "ocr_conf": 90.67204301075269,
+   "ocr_low_conf_share": 0.03763440860215054,
+   "headline": "Rahul invokes China to attack Govt on jobs, border security",
+   "deck": "",
+   "byline": "MANOJCG; & ASAD REHMAN; NEW DELHI, FEBRUARY 3",
+   "text": "Says Delhi sought PM invite to US; Jaishankar calls it falsehood\n\nA FORTNIGHT after he announced the launch of a White T-shirts campaign - billed asa platform for youth, to unite workers across sectors - Rahul Gandhi focused on the youth and unemployment in his address in Parliament Monday, this time in the context ofthe rise of China as a manufacturing giant. Incidentally, in his speech - which he described as the address a President under anINDIA bloc government would make to Parliament - Gandhi offered several backhanded compliments to Prime Minister Narendra Modi. While these were part of the argument Gandhi built against the Modi government's job creation record, the Congress leader's approach was a departure from previous Parliament Sessions marked with bitter acrimony. Even several Congress allies have been uncomfortable with Gandhi's unrelenting combat-\n\nNew foot @ forward?\n\nRAHUL GANDHI'S concilialory noises seemeda departure from the acrimony of previous Parliament Sessions. The Congress leader also repeatedly projected INDIA bloc as an entity, amidst rising tensions within the alliance.",
+   "n_words": 170,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2276,
+      758,
+      2647
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2728,
+      721,
+      2834
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "NAAC bribery:\nJNU suspends\nprof, his tenure\nas Dean was cut\nshort in 2023",
+   "deck_raw": "",
+   "body_raw": "VIDHEESHA\nKUNTAMALLA&\nABHINAYAHARIGOVIND",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "NAAC bribery: JNU suspends prof, his tenure as Dean was cut short in 2023",
+   "deck": "",
+   "byline": "VIDHEESHA; KUNTAMALLA&; ABHINAYAHARIGOVIND",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2848,
+      676,
+      2898
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      2925,
+      765,
+      4300
+     ],
+     [
+      322,
+      4402,
+      572,
+      4434
+     ]
+    ],
+    "layout_words": 150
+   },
+   "headline_raw": "NEW DELHI, FEBRUARY 3",
+   "deck_raw": "",
+   "body_raw": "ARRESTED BY the CBI in a\nbribery case linked to the\nNational Assessment and\nAccreditation Council (NAAC),\nRajeev Sijariya, a professor at\nJawaharlal Nehru University's\nAtal Bihari Vajpayee School of\nManagement and\nEntrepreneurship (ABVSME), is\nno stranger to controversy.\nIn 2023, his two-year tenure\nas Dean of ABVSME was cut short\nafter several facultymembersac-\ncused him of \u201cundemocratic de-\ncision-making\" and \u201cinstigating\nstudents against faculty mem-\nbers\", The Indian Express has\nleamt. \u201cHe never involved his\nschool's faculty in major deci-\nsions, which created discontent.\nUltimately, he had to step down,\u201d\nsaid acolleagueatJNU, speaking\non condition of anonymity.\nAnother professor and an official\nfrom the JNU administration\nconfirmed this.\nSiariya was appointed asthe\nDean in 2023 itself. Heeraman\nTiwari waseventually appointed\nto lead the school, setupin 2020.\nAnorder to this effect, issued on\nMarch 14,2024, stated,\u201cThe Vice\nChancellor... has appointed Prof\nTiwari, Centre of Historical\nCONTINUED ON PAGE 2\n\nRAJASTHAN",
+   "ocr_conf": 87.54666666666667,
+   "ocr_low_conf_share": 0.08,
+   "headline": "NEW DELHI, FEBRUARY 3",
+   "deck": "",
+   "byline": "RAJASTHAN",
+   "text": "ARRESTED BY the CBI in a bribery case linked to the National Assessment and Accreditation Council (NAAC), Rajeev Sijariya, a professor at Jawaharlal Nehru University's Atal Bihari Vajpayee School of Management and Entrepreneurship (ABVSME), is no stranger to controversy. In 2023, his two-year tenure as Dean of ABVSME was cut short after several facultymembersaccused him of \"undemocratic decision-making\" and \"instigating students against faculty members\", The Indian Express has leamt. \"He never involved his school's faculty in major decisions, which created discontent. Ultimately, he had to step down,\" said acolleagueatJNU, speaking on condition of anonymity. Another professor and an official from the JNU administration confirmed this. Siariya was appointed asthe Dean in 2023 itself. Heeraman Tiwari waseventually appointed to lead the school, setupin 2020. Anorder to this effect, issued on March 14,2024, stated,\"The Vice Chancellor... has appointed Prof Tiwari, Centre of Historical",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      806,
+      3145,
+      1728,
+      3628
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1339,
+      3717,
+      1696,
+      3761
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      3718,
+      1106,
+      3787
+     ],
+     [
+      805,
+      3836,
+      1254,
+      5054
+     ],
+     [
+      1335,
+      3795,
+      1696,
+      4255
+     ],
+     [
+      1295,
+      4352,
+      1738,
+      5052
+     ]
+    ],
+    "layout_words": 251
+   },
+   "headline_raw": "Rajasthan tables\nanti-conversion Bill:\nJail sentence of up to\n10 yrs, non-bailable",
+   "deck_raw": "WHAT THE BILLSAYS",
+   "body_raw": "HAMZAKHAN\nJAIPUR, FEBRUARY 3\n\nCITING CONVERSIONof \u201cgullible\npersons\u201d through coercion, al-\nlurement or fraud, the Rajasthan\ngovernment tabled the\nRajasthan Prohibition of\nUnlawful Conversion of Religion\nBill in the Assembly Monday\nwitha maximum imprisonment\nof 10 years and all offences being\ncognizable and non-bailable.\nThose converting voluntarily\nwill have to go through a seem-\ningty exhaustive process which\nincludes the district administra-\ntion puttingup their details on a\nnotice board to invite objections.\nIn an interview to The indian\nExpress last year, Rajasthan Law\nMinister Jogaram Patel had said\nthe Bill is being brought to pre-\nvent forcible conversions, espe-\ncially those of vulnerable com-\nmunities like tribals, and alsoto\nkeep a check on \u201clove jihad\u201d,\namong other things.\nOnce passed, Rajasthan will\njoin 11 other states \u2014 Odisha,\nArunachal Pradesh, Gujarat,\nChhattisgarh, Karnataka,\nJharkhand, Haryana, Uttarakhand,\nHimachal Pradesh, Utar Pradesh\n\nB Jail term of upto 10\nyears\nwCognizable and non-\nbailable offences\nmBurden of proofon\nperson \u2018effecting\u2019\nconversion\ngS Exhaustivedeciaration\nform, including 60-day\nnotice for voluntary\nconversions\n\nand Madhya Pradesh \u2014 in having\nananti-conversion law,\nInits \u2018Statement of Objects\nand Reasons\u2019 for the Bill, the\nBhajan Lal Sharma government\nsaid: \u201cThe Constitution confers\non each individual the funda-\nmental right tw profess, practise\nand propagate his religion.\nHowever, the individual right to\nfreedom of conscience and reli-\ngioncannot beex tended tocon-\nstrue a collective nght to prose-\nlytize: the right to religious\nfreedom belongs equally to the\nperson converting and the indi-\nvidual sought to be converted\u201d.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 85.39285714285714,
+   "ocr_low_conf_share": 0.09523809523809523,
+   "headline": "Rajasthan tables anti-conversion Bill: Jail sentence of up to 10 yrs, non-bailable",
+   "deck": "WHAT THE BILLSAYS",
+   "byline": "HAMZAKHAN; JAIPUR, FEBRUARY 3",
+   "text": "CITING CONVERSIONof \"gullible persons\" through coercion, allurement or fraud, the Rajasthan government tabled the Rajasthan Prohibition of Unlawful Conversion of Religion Bill in the Assembly Monday witha maximum imprisonment of 10 years and all offences being cognizable and non-bailable. Those converting voluntarily will have to go through a seem-ingty exhaustive process which includes the district administration puttingup their details on a notice board to invite objections. In an interview to The indian Express last year, Rajasthan Law Minister Jogaram Patel had said the Bill is being brought to prevent forcible conversions, especially those of vulnerable communities like tribals, and alsoto keep a check on \"love jihad\", among other things. Once passed, Rajasthan will join 11 other states - Odisha, Arunachal Pradesh, Gujarat, Chhattisgarh, Karnataka, Jharkhand, Haryana, Uttarakhand, Himachal Pradesh, Utar Pradesh\n\nB Jail term of upto 10 years wCognizable and nonbailable offences mBurden of proofon person 'effecting' conversion gS Exhaustivedeciaration form, including 60-day notice for voluntary conversions\n\nand Madhya Pradesh - in having ananti-conversion law, Inits 'Statement of Objects and Reasons' for the Bill, the Bhajan Lal Sharma government said: \"The Constitution confers on each individual the fundamental right tw profess, practise and propagate his religion. However, the individual right to freedom of conscience and religioncannot beex tended toconstrue a collective nght to proselytize: the right to religious freedom belongs equally to the person converting and the individual sought to be converted\".",
+   "n_words": 232,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      3146,
+      3185,
+      3363
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      3440,
+      2155,
+      3509
+     ],
+     [
+      1783,
+      3559,
+      2227,
+      4309
+     ],
+     [
+      2272,
+      4193,
+      2714,
+      4302
+     ],
+     [
+      2763,
+      4193,
+      3203,
+      4302
+     ]
+    ],
+    "layout_words": 123
+   },
+   "headline_raw": "Retired soldier killed, wife & niece\ninjured in Kashmir militant attack",
+   "deck_raw": "",
+   "body_raw": "BASHAARAT MASOOD\nSRINAGAR, FEBRUARY 3\n\nANEX-SERVICEMAN waskilled,\nand his wife and niece were in-\njured, when gunmen opened\nfire at them in south Kashmir\u2019s\nKul gam on Monday.\nThisis the first militant attack\nin the Valley thisyear\nAccording to police sources,\nthe unidentified gunmen shot at\ntheex-serviceman, identified as\nretired Lance Naik Manzoor\nAhmad Wagay (45), and his fam-\nily outside their residence at\nBehibagh villagein Kul gam. The\nbullets hit Wagay, his wife and\nher niece. While Wagay was hit\nintheabdomen, the two women\nsuffered wounds in the legs.\nAll three were immediately\n\ntaken to hospital where Wagay\nsuccumbed to his injuries. The\nother twoare in stable condition.\n\n\u2018He had retired in 2021 and\nhad been rearing sheep. He was\nCONTINUEDON PAGE 2",
+   "ocr_conf": 89.8225806451613,
+   "ocr_low_conf_share": 0.03225806451612903,
+   "headline": "Retired soldier killed, wife & niece injured in Kashmir militant attack",
+   "deck": "",
+   "byline": "BASHAARAT MASOOD; SRINAGAR, FEBRUARY 3",
+   "text": "ANEX-SERVICEMAN waskilled, and his wife and niece were injured, when gunmen opened fire at them in south Kashmir's Kul gam on Monday. Thisis the first militant attack in the Valley thisyear According to police sources, the unidentified gunmen shot at theex-serviceman, identified as retired Lance Naik Manzoor Ahmad Wagay (45), and his family outside their residence at Behibagh villagein Kul gam. The bullets hit Wagay, his wife and her niece. While Wagay was hit intheabdomen, the two women suffered wounds in the legs. All three were immediately\n\ntaken to hospital where Wagay succumbed to his injuries. The other twoare in stable condition.\n\n'He had retired in 2021 and had been rearing sheep. He was CONTINUEDON PAGE 2",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3784,
+      3382,
+      4129,
+      3431
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      3522,
+      4182,
+      4303
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "INPARLIAMENT Ps",
+   "deck_raw": "",
+   "body_raw": "iveness in the House.\nIncidentally, the most divisive of\nthose issues, Gautam Adani,\nhardly figured in Gandhi's\nspeech Monday.\nGandhi's 45-minute address\nessentially could be split ntotwo\nparts. Ifthe firstwas his nuanced\nattack on the government over\nunemployment, the second was\non more expected lines - caste\ncensus, \u201cthreats\u201d to Constitution\nand Constitutional institutions,\nand in the same thread, \u201cirregu-\nlarities\u201d in the Maharashtra\nAssembly elections,\nThe new point Gandhi made\nwas the indication that the\nOpposition does not have faith\nCONTINUEDON PAGE 2",
+   "ocr_conf": 90.79761904761905,
+   "ocr_low_conf_share": 0.011904761904761904,
+   "headline": "INPARLIAMENT Ps",
+   "deck": "",
+   "byline": "",
+   "text": "iveness in the House. Incidentally, the most divisive of those issues, Gautam Adani, hardly figured in Gandhi's speech Monday. Gandhi's 45-minute address essentially could be split ntotwo parts. Ifthe firstwas his nuanced attack on the government over unemployment, the second was on more expected lines - caste census, \"threats\" to Constitution and Constitutional institutions, and in the same thread, \"irregularities\" in the Maharashtra Assembly elections, The new point Gandhi made was the indication that the Opposition does not have faith CONTINUEDON PAGE 2",
+   "n_words": 83,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4379,
+      4176,
+      4640
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4732,
+      2186,
+      4858
+     ],
+     [
+      2271,
+      4700,
+      2619,
+      4734
+     ],
+     [
+      2760,
+      4629,
+      3202,
+      5060
+     ],
+     [
+      2759,
+      5500,
+      3205,
+      6168
+     ],
+     [
+      3251,
+      4945,
+      3688,
+      5014
+     ],
+     [
+      3736,
+      4634,
+      4181,
+      5054
+     ]
+    ],
+    "layout_words": 217
+   },
+   "headline_raw": "exeressnerwork \"Trump pauses tariffs on Mexico for a month\n| fet after \u2018very friendly conversation\u2019, border deal\nLik an. 2. a | c 7 te dan INA man a OU nAGP PayaAe Ih FAS",
+   "deck_raw": "",
+   "body_raw": "TIGER GIVES UTTAR\nPRADESH VILLAGES\nANXIOUS DAYS\n\n& FABIOLA SANCHEZ\n\nplanned to deploy 10,000 mem-\nbers of its National Guard to ad-\ndress drug trafficking.\nTrump's tariffs against\nCanada and China were still\nslated to go into effect Tuesday,\nbut uncertainty remained about\nthe durability of any deals and\nwhether the tariffs were a har-\nbinger of a broader trade war, as\nTrump has promised more im-\n\nothers,Article 21 and Article 220f\nthe Constitution (protection\nagainst arrest and detention).\nHowever, Article 22, while pro-\nviding for \u201cprotection against ar-\nrest and detention\u201d including the\nright to be informed of charges,\nthe right t alawyer and therght\nto be produced before a court\nwithin 24 hours, carves out a\nStrategic exception \u2014that protec-\ntionis suspended when an arrest\nis under a law that specifically\nprovides for preventive detention\nThus, AK Gopalan v State of\nMadras would thus go on to be-\ncome the first case toquestion the\n\nUS President Donald Trump,\nMexico's Claudia Sheinbaum\n\nport taxes to come.\nThe US and Mexican leaders\nannounced the pause after what\nTrump described on social me-\ndiaas a \u201cvery friendly conversa-\ntion\u201d, and he said he looked for-\nward to the upcoming talks.\nTrump said the talks would\nbe headed by Secretary of Sate\nMarco Rubio, Secretary of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.54587155963303,
+   "ocr_low_conf_share": 0.05045871559633028,
+   "headline": "exeressnerwork \"Trump pauses tariffs on Mexico for a month fet after 'very friendly conversation', border deal Lik an. 2. a c 7 te dan INA man a OU nAGP PayaAe Ih FAS",
+   "deck": "",
+   "byline": "TIGER GIVES UTTAR; PRADESH VILLAGES; ANXIOUS DAYS; & FABIOLA SANCHEZ",
+   "text": "planned to deploy 10,000 members of its National Guard to address drug trafficking. Trump's tariffs against Canada and China were still slated to go into effect Tuesday, but uncertainty remained about the durability of any deals and whether the tariffs were a harbinger of a broader trade war, as Trump has promised more imothers,Article 21 and Article 220f the Constitution (protection against arrest and detention). However, Article 22, while providing for \"protection against arrest and detention\" including the right to be informed of charges, the right t alawyer and therght to be produced before a court within 24 hours, carves out a Strategic exception - that protectionis suspended when an arrest is under a law that specifically provides for preventive detention Thus, AK Gopalan v State of Madras would thus go on to become the first case toquestion the\n\nUS President Donald Trump, Mexico's Claudia Sheinbaum\n\nport taxes to come. The US and Mexican leaders announced the pause after what Trump described on social mediaas a \"very friendly conversation\", and he said he looked forward to the upcoming talks. Trump said the talks would be headed by Secretary of Sate Marco Rubio, Secretary of",
+   "n_words": 194,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2271,
+      4631,
+      2713,
+      4863
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2271,
+      4868,
+      2713,
+      5060
+     ],
+     [
+      2269,
+      5500,
+      2715,
+      6168
+     ]
+    ],
+    "layout_words": 110
+   },
+   "headline_raw": "JOSH BOAK\n& FABIOLA SANCHEZ\nWASHINGTON, FEBRUARY 3\nUS PRESIDENT Donald Trump",
+   "deck_raw": "",
+   "body_raw": "and Mexican President Claudia\nSheinbaum put their planned\ntariffs on hold for a month on\nMonday to give time for further\nnegotiations, and Mexico said it\n\nbranded asa criminal,\u201d he wrote\nin his autobiography In the Cause\nof the People.\nIn 1950, he moved the\nSupreme Court against his de-\ntention, perhaps hoping that the\nfreedoms guaranteed by the\nnew Constitution that came into\nforce in 1950 would ensure his\nrelease from jail. Afterall, Article\n21 stated that \u201cno person shall\nbe deprived of his life or personal\nliberty except according to pro-\ncedure established by law\u201d.\nAKG argued that the preven-\ntive detention law violated his\nfundamental nghts under,among",
+   "ocr_conf": 91.58181818181818,
+   "ocr_low_conf_share": 0.02727272727272727,
+   "headline": "JOSH BOAK & FABIOLA SANCHEZ WASHINGTON, FEBRUARY 3 US PRESIDENT Donald Trump",
+   "deck": "",
+   "byline": "",
+   "text": "and Mexican President Claudia Sheinbaum put their planned tariffs on hold for a month on Monday to give time for further negotiations, and Mexico said it\n\nbranded asa criminal,\" he wrote in his autobiography In the Cause of the People. In 1950, he moved the Supreme Court against his detention, perhaps hoping that the freedoms guaranteed by the new Constitution that came into force in 1950 would ensure his release from jail. Afterall, Article 21 stated that \"no person shall be deprived of his life or personal liberty except according to procedure established by law\". AKG argued that the preventive detention law violated his fundamental nghts under,among",
+   "n_words": 107,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      4873,
+      756,
+      4924
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4936,
+      758,
+      5014
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "KOTA: JEE ASPIRANT",
+   "deck_raw": "",
+   "body_raw": "DIES AFTER BUS\nRUNS OVER HIM PAGE 3",
+   "ocr_conf": 73.25,
+   "ocr_low_conf_share": 0.25,
+   "headline": "KOTA: JEE ASPIRANT",
+   "deck": "",
+   "byline": "DIES AFTER BUS; RUNS OVER HIM PAGE 3",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4866,
+      2196,
+      4935
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4938,
+      2223,
+      5015
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "MANIPUR VIOLENCE:",
+   "deck_raw": "",
+   "body_raw": "SC SEEKS REPORT ON\nAUDIO TAPES Pace 5",
+   "ocr_conf": 86.25,
+   "ocr_low_conf_share": 0.125,
+   "headline": "MANIPUR VIOLENCE:",
+   "deck": "",
+   "byline": "SC SEEKS REPORT ON",
+   "text": "AUDIO TAPES Pace 5",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      448,
+      5190,
+      3074,
+      5698
+     ],
+     [
+      447,
+      5499,
+      1613,
+      5630
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5648,
+      759,
+      5843
+     ],
+     [
+      319,
+      5892,
+      766,
+      6166
+     ],
+     [
+      807,
+      5656,
+      1250,
+      6167
+     ],
+     [
+      1295,
+      5657,
+      1738,
+      6167
+     ]
+    ],
+    "layout_words": 173
+   },
+   "headline_raw": "When freedom came on August 15, 1947 he was in\nprison; his case a benchmark for personal liberty\nIn this series, The Indian Express tracks down the eet aoarin intteCmes (he Consttion tne\nwomen and men who reshaped the Republic J of the People. against arrest and det\nIn this series, The Indian Express tracks down the\nwomen and men who reshaped the Republic",
+   "deck_raw": "",
+   "body_raw": "SHAJU PHILIP\n& APURVAVISHWANATH\nTHIRUVANANTHAPURAM.\nNEW DELHI, FEBRUARY 3\n\nMINUTES PAST midnight, on\nAugust 15, 1947, the echoes of\nMahatma Gandhi ki jai and\nBharat Mata kijai reverberated\nthrough the Cannanore (now\nKannur) jail where Communist\nleader A K Gopalan, then 43, was\n\nin solitary confinement He had\nsecretly kept anational flag with\nhim for the occasion. At dawn, he\nhoisted the Tricolour where\nother prisoners gathered to hear\nhim speak. Barely four or five\nminutes into his speech, the jail\nauthorities topped him.\nAday later, accused of stirring\nup the people \u201cagainst His\nMajesty the Emperor\u2019, Gopalan\n(or AKG, as is popularty known)\nwas produced before a magis-\n\ntrate in Calicut (now Kozhikode)\nand charged with sedition. He\nwas released on October 12,\n1947, butjustover amonthlater,\nhe was detained again under the\ncolonial laws that were still in\nplace in the newly independent\nnation. After India became a re-\npublic, the Preventive Detention\nAct, 1950 was passed to \u2018regu-\nlarise\u2019 detentions of many in-\ncluding AKG.\n\u201cIwas a political prisoner",
+   "ocr_conf": 90.2046783625731,
+   "ocr_low_conf_share": 0.06432748538011696,
+   "headline": "When freedom came on August 15, 1947 he was in prison; his case a benchmark for personal liberty In this series, The Indian Express tracks down the eet aoarin intteCmes (he Consttion tne women and men who reshaped the Republic J of the People. against arrest and det In this series, The Indian Express tracks down the women and men who reshaped the Republic",
+   "deck": "",
+   "byline": "SHAJU PHILIP; & APURVAVISHWANATH; THIRUVANANTHAPURAM.; NEW DELHI, FEBRUARY 3",
+   "text": "MINUTES PAST midnight, on August 15, 1947, the echoes of Mahatma Gandhi ki jai and Bharat Mata kijai reverberated through the Cannanore (now Kannur) jail where Communist leader A K Gopalan, then 43, was\n\nin solitary confinement He had secretly kept anational flag with him for the occasion. At dawn, he hoisted the Tricolour where other prisoners gathered to hear him speak. Barely four or five minutes into his speech, the jail authorities topped him. Aday later, accused of stirring up the people \"against His Majesty the Emperor', Gopalan (or AKG, as is popularty known) was produced before a magistrate in Calicut (now Kozhikode) and charged with sedition. He was released on October 12, 1947, butjustover amonthlater, he was detained again under the colonial laws that were still in place in the newly independent nation. After India became a republic, the Preventive Detention Act, 1950 was passed to 'regularise' detentions of many including AKG. \"Iwas a political prisoner",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      3401,
+      5302,
+      4017,
+      5346
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3283,
+      5698,
+      4136,
+      5733
+     ],
+     [
+      3281,
+      5777,
+      3858,
+      5812
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "AKGOPALAN V STATEOF MADRAS",
+   "deck_raw": "",
+   "body_raw": "\n\n1930 for taking partinthe \u2014_| tentions.",
+   "ocr_conf": 48.833333333333336,
+   "ocr_low_conf_share": 0.5,
+   "headline": "AKGOPALAN V STATEOF MADRAS",
+   "deck": "",
+   "byline": "",
+   "text": "1930 for taking partinthe - _ tentions.",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [
+     [
+      3280,
+      5632,
+      4055,
+      5805
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3245,
+      5891,
+      3691,
+      6161
+     ]
+    ],
+    "layout_words": 32
+   },
+   "headline_raw": "hejoined the joing the\nIndependence d h Communist\nstruggle. He was Party. His pol\nheld for the first time in | leanings meant freauer\n1930 for taking part in the tentions.",
+   "deck_raw": "",
+   "body_raw": "Constitution'scontrariety.\nOn May 19, 1950, asix-judge\nbench held that the preventive\ndetention law was valid and only\nallowed minor procedural safe-\nguards that the lengthofdeten-\ntion had to be informed at the",
+   "ocr_conf": 91.34375,
+   "ocr_low_conf_share": 0.03125,
+   "headline": "hejoined the joing the Independence d h Communist struggle. He was Party. His pol held for the first time in leanings meant freauer 1930 for taking part in the tentions.",
+   "deck": "",
+   "byline": "",
+   "text": "Constitution'scontrariety. On May 19, 1950, asix-judge bench held that the preventive detention law was valid and only allowed minor procedural safe-guards that the lengthofdetention had to be informed at the",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 20,
+   "layout": {
+    "headline_boxes": [
+     [
+      3707,
+      5737,
+      4132,
+      5805
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3737,
+      5891,
+      4175,
+      5934
+     ]
+    ],
+    "body_boxes": [
+     [
+      3735,
+      5937,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "| leaningsmeant frequent de-\ntentions.",
+   "deck_raw": "time of arrest although it could",
+   "body_raw": "be extended. While AKG lost his\ncase, the prescient questions it\nraised continue to shape our\nrights and freedoms.\n\u201cPreventive detention is\nCONTINUEDONPAGE 2",
+   "ocr_conf": 95.625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "leaningsmeant frequent detentions.",
+   "deck": "time of arrest although it could",
+   "byline": "",
+   "text": "be extended. While AKG lost his case, the prescient questions it raised continue to shape our rights and freedoms. \"Preventive detention is CONTINUEDONPAGE 2",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 21,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      5964,
+      2222,
+      6025
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1833,
+      5710,
+      2206,
+      5887
+     ],
+     [
+      1838,
+      5900,
+      2199,
+      5932
+     ]
+    ],
+    "body_boxes": [
+     [
+      1783,
+      6053,
+      2228,
+      6168
+     ]
+    ],
+    "layout_words": 17
+   },
+   "headline_raw": "a AN EXPRESS SERIES =",
+   "deck_raw": "YEAradN\nRESHAPING THE\nREPUBLIC\nCASE BY LANDMARK CASE",
+   "body_raw": "from 1930 to 1945 inthe eyes of\na foreign govemment. Under to-\nday's popular government, | am",
+   "ocr_conf": 90.3529411764706,
+   "ocr_low_conf_share": 0.0,
+   "headline": "a AN EXPRESS SERIES =",
+   "deck": "YEAradN RESHAPING THE REPUBLIC CASE BY LANDMARK CASE",
+   "byline": "",
+   "text": "from 1930 to 1945 inthe eyes of a foreign govemment. Under today's popular government, am",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 20.5,
+ "flags": []
+}

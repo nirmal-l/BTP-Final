@@ -1,0 +1,681 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_23_front",
+ "source_file": "2025-01-23_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-23_front.png",
+ "date": "2025-01-23",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 433,
+  "mean_line_conf": 88.42744968657209,
+  "orphan_words": 0,
+  "body_words_total": 1729
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      1302,
+      788,
+      1778,
+      1145
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1302,
+      697,
+      1778,
+      745
+     ],
+     [
+      1297,
+      1170,
+      1691,
+      1374
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      1463,
+      1650,
+      1532
+     ],
+     [
+      1297,
+      1578,
+      1741,
+      2678
+     ]
+    ],
+    "layout_words": 132
+   },
+   "headline_raw": "US flag:\nalways",
+   "deck_raw": "FIRST BILATER.:\nLevels of trust\nvery high, says\nEAM Jaishankar",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI JANUARY 22\n\nNEWLY-APPOINTED US\nSecretary of State Marco Rubio\nraised the issue of \u201cirregularim-\nmigration\u201d in his very first meet-\ning with External Affairs\nMinister S Jaishankar in\nWashington DC Wednesday.\nWhile there was no word on\nthe discussion on tariffs, Rubio\nunderlined the newadministra-\ntion's desire to \u201cadvance eco-\nnomic ties\u201d.\nThe two sides are also dis-\ncussing the possibility ofa meet-\ning between Prime Minister\nNarendra Modi and US President\nDonald Trump on the sidelines\nof the Al summit in Paris on\nFebruary 11-12, sourcessaid.\nJaishankar told reporters that\n\u201ctevels of trust are very high\u201d and\n\u201cthe trust is a more systemic\nsentiment\u201d.\n\u201cThere's avery visible chem-\nistry between Prime Minister\nModi and President Trump, and\nthat also, in a sense, percolates\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.28787878787878,
+   "ocr_low_conf_share": 0.03787878787878788,
+   "headline": "US flag: always",
+   "deck": "FIRST BILATER.: Levels of trust very high, says EAM Jaishankar",
+   "byline": "SHUBHAJIT ROY; NEW DELHI JANUARY 22; NEWLY-APPOINTED US",
+   "text": "Secretary of State Marco Rubio raised the issue of \"irregularimmigration\" in his very first meeting with External Affairs Minister S Jaishankar in Washington DC Wednesday. While there was no word on the discussion on tariffs, Rubio underlined the newadministration's desire to \"advance economic ties\". The two sides are also discussing the possibility ofa meeting between Prime Minister Narendra Modi and US President Donald Trump on the sidelines of the Al summit in Paris on February 11-12, sourcessaid. Jaishankar told reporters that \"tevels of trust are very high\" and \"the trust is a more systemic sentiment\". \"There's avery visible chemistry between Prime Minister Modi and President Trump, and that also, in a sense, percolates",
+   "n_words": 113,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1443,
+      1210,
+      1936
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      2011,
+      750,
+      2202
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      2242,
+      760,
+      2400
+     ],
+     [
+      321,
+      2452,
+      766,
+      3074
+     ],
+     [
+      888,
+      2495,
+      1137,
+      2529
+     ],
+     [
+      807,
+      2610,
+      1252,
+      3074
+     ]
+    ],
+    "layout_words": 140
+   },
+   "headline_raw": "Passengers get off\nafter chain-pulling,\npassing train runs\nover 12 on tracks",
+   "deck_raw": "Were spooked by\nrumour of firein\ntrain: Minister",
+   "body_raw": "SWEETY ADIMULAM\n&DHEERAJ MISHRA\nMUMBAI NEW DELHI. JAN 22\n\nAT LEAST 12 passengers of\nMumbai-bound Pushpak\nExpress, who got off the train af-\nter an alarm chain-pulling inci-\ndent, were run over by another\ntrain coming from the opposite\ndirection on the adjacent tracks\nin Maharashtra's Jalgaon district\nWednesday evening. Ten more\npassengers were injured, four of\nthem critically.\nJalgaon Guardian Minister\nGulabrao Patil said the passen-\ngers, mostly from the general\ncompartment, were spooked by\na rumour that the train had\n\nPachora Junction\n\ncaught fire, and jumped out of\nthe train.\n\u201cThere was a chain-pulling\nincident that caused the train to\ncome to anabnupt haltwhen the\nemergency brakes were applied.\nThe friction from the brakes\ncaused sparks to fly from the\ntracks, Passengersinthe general\ncompartment, fearing the train\nhad caught fire, jumped from\nCONTIN UE DONPAGE 2",
+   "ocr_conf": 90.08695652173913,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "Passengers get off after chain-pulling, passing train runs over 12 on tracks",
+   "deck": "Were spooked by rumour of firein train: Minister",
+   "byline": "SWEETY ADIMULAM; &DHEERAJ MISHRA; MUMBAI NEW DELHI. JAN 22",
+   "text": "AT LEAST 12 passengers of Mumbai-bound Pushpak Express, who got off the train after an alarm chain-pulling incident, were run over by another train coming from the opposite direction on the adjacent tracks in Maharashtra's Jalgaon district Wednesday evening. Ten more passengers were injured, four of them critically. Jalgaon Guardian Minister Gulabrao Patil said the passengers, mostly from the general compartment, were spooked by a rumour that the train had\n\nPachora Junction\n\ncaught fire, and jumped out of the train. \"There was a chain-pulling incident that caused the train to come to anabnupt haltwhen the emergency brakes were applied. The friction from the brakes caused sparks to fly from the tracks, Passengersinthe general compartment, fearing the train had caught fire, jumped from CONTIN UE DONPAGE 2",
+   "n_words": 126,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      2014,
+      4057,
+      2099
+     ],
+     [
+      3251,
+      2133,
+      4169,
+      2310
+     ],
+     [
+      3251,
+      2409,
+      3565,
+      2469
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2334,
+      3545,
+      2401
+     ],
+     [
+      3248,
+      2494,
+      3693,
+      3630
+     ],
+     [
+      3737,
+      2889,
+      4180,
+      3631
+     ]
+    ],
+    "layout_words": 249
+   },
+   "headline_raw": "incident: Father of\nSaif stabbing accused\nMUMBAI, JANUARY 22",
+   "deck_raw": "",
+   "body_raw": "SAGARRAJPUT &\nNAYONIKABOSE\n\nTHIRTY-EIGHT HOURS after he\nallegedly stabbed Saif Ali Khan\nat the actor's Bandra residence,\nMohd Shariful Islam called his\nfather back home in Jhalokathi,\nBangladesh. Shariful told his fa-\nther he had transferred 10,000\nTaka to the latter's account.\nShariful said he had Rs 3,000 in\nsavings, enough to buy food for\nthe next fewdays, his father, Md\nRuhul Amin Fakir, recalled while\nspeaking to The Indian Express\nover the phone.\nTwo dayslater, Ruhul, aclerk\nin a jute company, saw his son's\nface splashed across newschan-\nnels and social media.\n\u201clam astonished...Wedonot\nhave anyfinancial problems, and\ncommitting such acrime is not\nsomething any of us could imag-\nine,\u201d Ruhul said.\nThe 54-year-old wondered\nhow the family can help with le-\ngal aid when Shariful is \u201cthou-\nsands of kilometres away\u201d.\nShariful, 30, dropped out of\nschool after Class 10 and entered\n\nIndia illegalty in April last year\nthrough an agent in Bangladesh\nin search ofbetter job prospects,\nhis father said. In Rajabaria vil-\nlage, Shariful eamed a living for\nthe last six years ferrying people\non his motorcycle before he de-\ncided to move to India.\n\u201cDue to increasing political\ninstabilityhere, he felt his future\nwas bleak in this village, so he left\nwithout any legal documents\nwith the help of a middleman,\u201d\nhis father said, claiming that his\neventual aim was to earn\nenough and move out of India.\nShaniful worked in a hotel in\nWest Bengal for about amonth\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.67338709677419,
+   "ocr_low_conf_share": 0.06048387096774194,
+   "headline": "incident: Father of Saif stabbing accused MUMBAI, JANUARY 22",
+   "deck": "",
+   "byline": "SAGARRAJPUT &; NAYONIKABOSE",
+   "text": "THIRTY-EIGHT HOURS after he allegedly stabbed Saif Ali Khan at the actor's Bandra residence, Mohd Shariful Islam called his father back home in Jhalokathi, Bangladesh. Shariful told his father he had transferred 10,000 Taka to the latter's account. Shariful said he had Rs 3,000 in savings, enough to buy food for the next fewdays, his father, Md Ruhul Amin Fakir, recalled while speaking to The Indian Express over the phone. Two dayslater, Ruhul, aclerk in a jute company, saw his son's face splashed across newschannels and social media. \"lam astonished...Wedonot have anyfinancial problems, and committing such acrime is not something any of us could imagine,\" Ruhul said. The 54-year-old wondered how the family can help with legal aid when Shariful is \"thou-sands of kilometres away\". Shariful, 30, dropped out of school after Class 10 and entered\n\nIndia illegalty in April last year through an agent in Bangladesh in search ofbetter job prospects, his father said. In Rajabaria village, Shariful eamed a living for the last six years ferrying people on his motorcycle before he decided to move to India. \"Due to increasing political instabilityhere, he felt his future was bleak in this village, so he left without any legal documents with the help of a middleman,\" his father said, claiming that his eventual aim was to earn enough and move out of India. Shaniful worked in a hotel in West Bengal for about amonth",
+   "n_words": 234,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      2196,
+      3132,
+      2417
+     ],
+     [
+      1789,
+      2439,
+      3109,
+      2571
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      2650,
+      2139,
+      2719
+     ],
+     [
+      1783,
+      2768,
+      2231,
+      3597
+     ],
+     [
+      2316,
+      2664,
+      2673,
+      2699
+     ],
+     [
+      2412,
+      2740,
+      2578,
+      2769
+     ],
+     [
+      2272,
+      3323,
+      2717,
+      3597
+     ],
+     [
+      2759,
+      2612,
+      3207,
+      3555
+     ]
+    ],
+    "layout_words": 264
+   },
+   "headline_raw": "Quad message to China: Oppose\nany action to change status quo\nLeaders of grouping will meet in India later this year;\nsummit may be advanced if Trump\u2019s calendar permits",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJITROY\nNEW DELHI. JANUARY 22\n\nUS SECRETARY of State Marco\nRubio held his first multilateral\nmeeting as Foreign Ministers of\nthe Quad grouping gathered in\nWashington DC and pledged to\n\u201cstrongly oppose any unilateral\nactions that seek to change the\nStatus quo by force or coercion\u201d.\nThis resolve was directed at\nChina and its assertive behaviour\nin the Indo-Pacific region, from\nTaiwan to the Sino-Indian bor-\nder The fact thatthe Quad meet-\ning wasthe first meeting for the\nnewly-appointed Secretary of\nState signals the priority givento\nthe grouping.\nIndia will be hosting the\nQuad leaders\u2019 summit this year,\nand efforts are underway to\nschedule the trip by US President\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nDonald Trump to India, sources\nsaid. While there is expectation\nthat the visit is expected to take\nplace in the latter half of the year,\nthere are indications that it can\nbeadvanced toaseartyasApmil if\nTrump's diplomatic travelcalen-\n\ndar allows that.\nIna joint statement after the\ntalks in Washington DC hosted\nby Rubio on his first dayin office,\nthe four nations said officials\nwould meet regularlyto prepare\nfor an upcoming leaders\u2019 sum-\nmit inIndia expected this year.\n\u201cWe, the Secretary of State of\nthe United States and the Foreign\nMinisters of Australia, Indiaand\nJapan, met today in Washington\nDC to reaffirm our shared com-\nmitmentto strengtheningaFree\nand Open Indo-Pacific where the\nrule of law, democratic values,\nsovereignty, and territorial in-\ntegrity are upheld and de-\nfended.\u201d The references to rule\nof law, democratic values and\ndefence of territorial integrity\nand sovereignty are oblique ref-\nerences to China's behaviour in\nthe region.",
+   "ocr_conf": 91.35606060606061,
+   "ocr_low_conf_share": 0.030303030303030304,
+   "headline": "Quad message to China: Oppose any action to change status quo Leaders of grouping will meet in India later this year; summit may be advanced if Trump's calendar permits",
+   "deck": "",
+   "byline": "SHUBHAJITROY; NEW DELHI. JANUARY 22",
+   "text": "US SECRETARY of State Marco Rubio held his first multilateral meeting as Foreign Ministers of the Quad grouping gathered in Washington DC and pledged to \"strongly oppose any unilateral actions that seek to change the Status quo by force or coercion\". This resolve was directed at China and its assertive behaviour in the Indo-Pacific region, from Taiwan to the Sino-Indian border The fact thatthe Quad meeting wasthe first meeting for the newly-appointed Secretary of State signals the priority givento the grouping. India will be hosting the Quad leaders' summit this year, and efforts are underway to schedule the trip by US President\n\nBUSINESS AS USUAL\n\nBy UNNY\n\nDonald Trump to India, sources said. While there is expectation that the visit is expected to take place in the latter half of the year, there are indications that it can beadvanced toaseartyasApmil if Trump's diplomatic travelcalendar allows that. Ina joint statement after the talks in Washington DC hosted by Rubio on his first dayin office, the four nations said officials would meet regularlyto prepare for an upcoming leaders' summit inIndia expected this year. \"We, the Secretary of State of the United States and the Foreign Ministers of Australia, Indiaand Japan, met today in Washington DC to reaffirm our shared commitmentto strengtheningaFree and Open Indo-Pacific where the rule of law, democratic values, sovereignty, and territorial integrity are upheld and defended.\" The references to rule of law, democratic values and defence of territorial integrity and sovereignty are oblique references to China's behaviour in the region.",
+   "n_words": 251,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1410,
+      2750,
+      1623,
+      2845
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1344,
+      2887,
+      1688,
+      3547
+     ]
+    ],
+    "layout_words": 55
+   },
+   "headline_raw": "Picking up\nthe threads",
+   "deck_raw": "",
+   "body_raw": "AS DELHI engages the\nnew US administration,\nthe focus will be on\ndeepening ties espe-\ncially over critical and\nemerging technologies,\ndefence, energy. It was\nTrump who, in his first\nterm, revived the Quad\ngrouping tocounter\nChina's aggressionin the\nIndo-Pacific region. His\nadministration also\nbacked India during the\ncrises over Doklam,\nPulwama, Balakot and\nGalwan.",
+   "ocr_conf": 91.30909090909091,
+   "ocr_low_conf_share": 0.03636363636363636,
+   "headline": "Picking up the threads",
+   "deck": "",
+   "byline": "",
+   "text": "AS DELHI engages the new US administration, the focus will be on deepening ties especially over critical and emerging technologies, defence, energy. It was Trump who, in his first term, revived the Quad grouping tocounter China's aggressionin the Indo-Pacific region. His administration also backed India during the crises over Doklam, Pulwama, Balakot and Galwan.",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3155,
+      1051,
+      3233
+     ]
+    ],
+    "deck_boxes": [
+     [
+      806,
+      3361,
+      998,
+      3411
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      3269,
+      1164,
+      3347
+     ],
+     [
+      807,
+      3429,
+      1246,
+      3552
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "THE WORLD",
+   "deck_raw": "THREATS",
+   "body_raw": "TRUMP DELIVERS\nFRESH TARIFF\n\nWILL KEEP CONTROL\nOF GAZA-EGYPT\nCROSSING: ISRAELPi3",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "THE WORLD",
+   "deck": "THREATS",
+   "byline": "TRUMP DELIVERS; FRESH TARIFF; WILL KEEP CONTROL; OF GAZA-EGYPT; CROSSING: ISRAELPi3",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3742,
+      1176,
+      4068
+     ],
+     [
+      322,
+      4100,
+      1240,
+      4244
+     ],
+     [
+      319,
+      4235,
+      523,
+      4299
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      4313,
+      672,
+      4341
+     ],
+     [
+      317,
+      4391,
+      761,
+      5137
+     ],
+     [
+      803,
+      4233,
+      1251,
+      5130
+     ],
+     [
+      805,
+      5420,
+      1248,
+      6127
+     ]
+    ],
+    "layout_words": 278
+   },
+   "headline_raw": "As Punjab VIPs join\ncampaign for AAP,\nDelhi Police seeks\ndetails of travel plans\nALOK SINGH",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, JANUARY 22\n\nDELHI POLICE has asked its\nPunjab counterparts to\u201c intimate\ntour plans and security details\u201d\nof protectees during the\nAssembly elections and Republic\nDay function in the national cap-\nital. Following this, Punjab Police\nappointed an Assistant Inspector\nGeneral (AIG) as the nodal offi-\ncer to maintain \u201cliaison and co-\nordination\u201d between the two,\nsources said.\nPunjab Police has also writ-\nten to all its protectees, includ-\ning state ministers and MIAs, re-\nquesting them to provide their\ntour details to the nodal officer,\nthesources said.\nAccording to the sources, on\n\nJanuary 10, aletter was sent from\nDelhiPolice's security division to\nitscounterpart unit in Punjab led\nby the Additional Director\nGeneral, highlighting an \u201careaof\nconcern relating to security of\nprotected persons\u201d.\nThe letter states thatinview\nofthe heightened security alert-\nnessin connection with Republic\nDay and the Delhi Assembly\nelections, the Punjab Police\nshould provide information re-\ngarding tour programmes of its\nprotectees and accompanying\nsecurity components white trav-\nelling to Dethi.\nIncompliancewith the letter,\nthe Punjab Police replied to the\nDelhi Police Commissioner and\nStated that ithas asked the ADGP,\nSecurity, fomaintain liaison and\nCONTINUED ONPAGE 2\n\nple has had to accommodate for\nthis large footfall, even as the\nnewdeadline for itscompletion\nisnow March 30, 2025.\nAround the city, roads arebe-\ning laid, flyovers being built, a\nstruggling traffic police, new ho-\ntelsin differentstatesof comple-\ntion, restaurants that have re-\nplaced the local halwai, and brisk\nsales of replicas of the idol in-\nstalied at the Ram Tempk.\nChange is also visible in the\nmenuof roadsidedhabas, where\nidli-sambhar has replaced puri-\nSabji as the crowd favourite, as\nnumbers fromthe South surge.\nWith the authorities putting",
+   "ocr_conf": 88.80575539568345,
+   "ocr_low_conf_share": 0.05755395683453238,
+   "headline": "As Punjab VIPs join campaign for AAP, Delhi Police seeks details of travel plans ALOK SINGH",
+   "deck": "",
+   "byline": "NEW DELHI, JANUARY 22",
+   "text": "DELHI POLICE has asked its Punjab counterparts to\" intimate tour plans and security details\" of protectees during the Assembly elections and Republic Day function in the national capital. Following this, Punjab Police appointed an Assistant Inspector General (AIG) as the nodal officer to maintain \"liaison and coordination\" between the two, sources said. Punjab Police has also written to all its protectees, including state ministers and MIAs, requesting them to provide their tour details to the nodal officer, thesources said. According to the sources, on\n\nJanuary 10, aletter was sent from DelhiPolice's security division to itscounterpart unit in Punjab led by the Additional Director General, highlighting an \"areaof concern relating to security of protected persons\". The letter states thatinview ofthe heightened security alert-nessin connection with Republic Day and the Delhi Assembly elections, the Punjab Police should provide information regarding tour programmes of its protectees and accompanying security components white travelling to Dethi. Incompliancewith the letter, the Punjab Police replied to the Delhi Police Commissioner and Stated that ithas asked the ADGP, Security, fomaintain liaison and\n\nple has had to accommodate for this large footfall, even as the newdeadline for itscompletion Around the city, roads arebeing laid, flyovers being built, a struggling traffic police, new hotelsin differentstatesof completion, restaurants that have replaced the local halwai, and brisk sales of replicas of the idol instalied at the Ram Tempk. Change is also visible in the menuof roadsidedhabas, where idli-sambhar has replaced puri-Sabji as the crowd favourite, as numbers fromthe South surge. With the authorities putting",
+   "n_words": 252,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3708,
+      4083,
+      4161
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      4235,
+      3529,
+      4304
+     ],
+     [
+      3247,
+      4354,
+      3692,
+      5132
+     ],
+     [
+      3243,
+      5422,
+      3689,
+      6169
+     ],
+     [
+      3978,
+      4275,
+      4174,
+      4429
+     ],
+     [
+      3733,
+      4512,
+      4180,
+      5132
+     ],
+     [
+      3735,
+      5423,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 374
+   },
+   "headline_raw": "STF mourns fallen\nveteran: Injured in\ngunbattle with UP\ngang, Inspector dies",
+   "deck_raw": "",
+   "body_raw": "NEETIKAJHA\nNOIDA, JANUARY 22\n\nTHOSE WHO knew him never\ncalled him \u2018Sir. To his colleagues\nand juniors inthe Uttar Pradesh\nSpecial Task Force (STF), he was\n\u2018Dadu\u2019,a term ofendearment for\nthe one who put them at ease.\nAt 2.30 pm Wednesday,\nInspector Sunil Kumar breathed\nhis last, two days after he was\nshot at, ailegediybymembersof\nthe Mustafa Kagga gang during\nan encounter in Shamili district\nofwesternUP.\nKumar, 53, was hit by three\nbullets in the abdomen during a\ngunfight between 11 pm and\n11.30 pm Monday at the Bidoli-\nChausana Road inthe Jhinjhana\narea, the UP STF said in a state-\nment. He was taken to\n\nalso be completed soon.\"\nNripendra Misra, the chair-\npersonoftheconstruction com-\nmittee of the Shri Ram\nJanmabhoomi Teerth Kshetra\nTrust, just spent three days in\nAyodhya reviewing the progress\nof the construction work at the\ntemple. After this, he says, he ar-\nrived at the date of March 30,\n2025, for completion of themain\ntemple, and of July 2025 forthe\nconstructionof thetemple\u2019s 1.1-\nkm long \u201cpercota(periphery)\u201d.\nThe works have to keep the\nrush of devotees in mind, Misra\ntold The Indian Express.\nCurrently, the numbers are aver-\naging more than two lakh a day\n\nInspector\nSunil Kumar\nhad 3 bullet\ninjuries\n\nAmritdhara Hospital in Karnal,\nwhere doctors referred him to\nthe Medanta Hospital in\nGurgaon. He underwent a six-\nhour surgery Tuesday.\nAccording to sources, Kumar,\nwho was leading a team of 12\npolice personnel, was not wear-\ning a bullet-proof jacket when\nthe gunfight broke out. Neither\nwas anyone else in the team.\nAmitabh Yash, Additional\nDirector General of Police, UP\nSTF, Lawand Order, said, \u201cHe was\none of the bravest in the team.\nCONTINUED ON PAGE 2\n\nas many pilgrims are coming to\nAyodhya from the Maha Kumbh\nat Prayagraj.On MauniAmavasya\nday, falling on January 29, the\nnumbers in Ayodhya could rise\nbeyond 3 lakh, say authorities.\n\u201cThere are issues in terms of\nvery specialized work but over-\nall the construction is going\nsmoothly. The security of the\ndevoteesis the first priority, and\nwe aretryingto achievethe best\nresults without compromising\non that,\" says Misra.\nAftercompletionof the main\ntemple, including the \u2018Ram\nDarbar\u2019 on the first floor \u2014 the\nidolsin white marble which will\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.27272727272727,
+   "ocr_low_conf_share": 0.05080213903743316,
+   "headline": "STF mourns fallen veteran: Injured in gunbattle with UP gang, Inspector dies",
+   "deck": "",
+   "byline": "NEETIKAJHA; NOIDA, JANUARY 22",
+   "text": "THOSE WHO knew him never called him 'Sir. To his colleagues and juniors inthe Uttar Pradesh Special Task Force (STF), he was 'Dadu',a term ofendearment for the one who put them at ease. At 2.30 pm Wednesday, Inspector Sunil Kumar breathed his last, two days after he was shot at, ailegediybymembersof the Mustafa Kagga gang during an encounter in Shamili district ofwesternUP. Kumar, 53, was hit by three bullets in the abdomen during a gunfight between 11 pm and 11.30 pm Monday at the Bidoli-Chausana Road inthe Jhinjhana area, the UP STF said in a statement. He was taken to\n\nalso be completed soon.\" Nripendra Misra, the chair-personoftheconstruction committee of the Shri Ram Janmabhoomi Teerth Kshetra Trust, just spent three days in Ayodhya reviewing the progress of the construction work at the temple. After this, he says, he arrived at the date of March 30, 2025, for completion of themain temple, and of July 2025 forthe constructionof thetemple's 1.1- km long \"percota(periphery)\". The works have to keep the rush of devotees in mind, Misra told The Indian Express. Currently, the numbers are aver-aging more than two lakh a day\n\nInspector Sunil Kumar had 3 bullet injuries\n\nAmritdhara Hospital in Karnal, where doctors referred him to the Medanta Hospital in Gurgaon. He underwent a sixhour surgery Tuesday. According to sources, Kumar, who was leading a team of 12 police personnel, was not wearing a bullet-proof jacket when the gunfight broke out. Neither was anyone else in the team. Amitabh Yash, Additional Director General of Police, UP STF, Lawand Order, said, \"He was one of the bravest in the team.\n\nas many pilgrims are coming to Ayodhya from the Maha Kumbh at Prayagraj.On MauniAmavasya day, falling on January 29, the numbers in Ayodhya could rise beyond 3 lakh, say authorities. \"There are issues in terms of very specialized work but overall the construction is going smoothly. The security of the devoteesis the first priority, and we aretryingto achievethe best results without compromising on that,\" says Misra. Aftercompletionof the main temple, including the 'Ram Darbar' on the first floor - the idolsin white marble which will",
+   "n_words": 353,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      4906,
+      2613,
+      4975
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      5022,
+      3198,
+      5099
+     ],
+     [
+      1293,
+      5421,
+      1736,
+      6167
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "THE UP CABINET AT MAHA KUMBH",
+   "deck_raw": "",
+   "body_raw": "Uttar Pradesh Chief Minister Yogi Adityanath and his Cabinet colleagues take a dip at the Sangam during the Maha Kumbhin\nPrayagraj on Wednesday.P7!\n\n25 lakh per day, locals whose\nanger at their displacementdue\nto the Ram Tempke project was\nbelieved to have contributed to\nthe BJP\u2019s shock defeat from the\nFaizabad Lok Sabha seat, feel\nthat the paceoftheconstruction\nworks is crawling since the\nelections.\nRam Prakash, who runs a\n\u201cchakki\" in a lane near the Ram\nPath from arented accommoda-\ntion, talks about his constant\nstruggle with traffic and parking.\nAyodhya Mayor Girish Pati\nTripathisays: \u201cAll the major civic\nworks are complete, so are the\nmajor paths leading to the tem-\nple... The works that are on will",
+   "ocr_conf": 90.15254237288136,
+   "ocr_low_conf_share": 0.059322033898305086,
+   "headline": "THE UP CABINET AT MAHA KUMBH",
+   "deck": "",
+   "byline": "",
+   "text": "Uttar Pradesh Chief Minister Yogi Adityanath and his Cabinet colleagues take a dip at the Sangam during the Maha Kumbhin Prayagraj on Wednesday.P7!\n\n25 lakh per day, locals whose anger at their displacementdue to the Ram Tempke project was believed to have contributed to the BJP's shock defeat from the Faizabad Lok Sabha seat, feel that the paceoftheconstruction works is crawling since the elections. Ram Prakash, who runs a \"chakki\" in a lane near the Ram Path from arented accommodation, talks about his constant struggle with traffic and parking. Ayodhya Mayor Girish Pati Tripathisays: \"All the major civic works are complete, so are the major paths leading to the temple... The works that are on will",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5263,
+      775,
+      5391
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5420,
+      499,
+      5494
+     ],
+     [
+      320,
+      5616,
+      629,
+      5644
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "Ayodhya",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nMAULSHREE SETH",
+   "ocr_conf": 71.4,
+   "ocr_low_conf_share": 0.4,
+   "headline": "Ayodhya",
+   "deck": "",
+   "byline": "ANCHOR; MAULSHREE SETH",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2892,
+      5425,
+      3122,
+      5543
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2802,
+      5575,
+      3123,
+      5654
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "THE WORKS",
+   "deck_raw": "",
+   "body_raw": "& Completionof Ram\nTemple, its percota",
+   "ocr_conf": 77.33333333333333,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "THE WORKS",
+   "deck": "",
+   "byline": "",
+   "text": "& Completionof Ram Temple, its percota",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5654,
+      648,
+      5713
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5737,
+      760,
+      6159
+     ]
+    ],
+    "layout_words": 59
+   },
+   "headline_raw": "AYODHYA, JANUARY 22",
+   "deck_raw": "",
+   "body_raw": "A YEAR after the grand consecra-\ntion ceremony for the Ram\nTempie, Ayodhyais acityin tran-\nsition. All across what used to be\na Nagar Palika Parishad with an\nestimated population of about\n80,000, the makeover to a major\npilgrimage site that getsas many\nvisitors every day \u2014 going up to\nthreetimes \u2014 is on.\nThe construction of the tem-",
+   "ocr_conf": 84.72881355932203,
+   "ocr_low_conf_share": 0.1016949152542373,
+   "headline": "AYODHYA, JANUARY 22",
+   "deck": "",
+   "byline": "",
+   "text": "A YEAR after the grand consecration ceremony for the Ram Tempie, Ayodhyais acityin transition. All across what used to be a Nagar Palika Parishad with an estimated population of about 80,000, the makeover to a major pilgrimage site that getsas many visitors every day - going up to threetimes - is on. The construction of the tem-",
+   "n_words": 57,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2801,
+      5886,
+      3198,
+      6131
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2801,
+      5679,
+      2994,
+      5725
+     ],
+     [
+      2801,
+      5737,
+      3161,
+      5791
+     ]
+    ],
+    "body_boxes": [
+     [
+      2801,
+      5803,
+      3082,
+      5884
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "development |\nThree Parikrama Marg\n5 | 15 | 84\nkosi | kosi |! kosi",
+   "deck_raw": "wAring road\nm4 railway overbridges",
+   "body_raw": "m@ Second phase of\nAyodhya airport",
+   "ocr_conf": 58.166666666666664,
+   "ocr_low_conf_share": 0.5,
+   "headline": "development Three Parikrama Marg kosi kosi! kosi",
+   "deck": "wAring road m4 railway overbridges",
+   "byline": "",
+   "text": "m@ Second phase of Ayodhya airport",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 17.2,
+ "flags": []
+}

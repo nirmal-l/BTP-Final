@@ -1,0 +1,663 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_07_front",
+ "source_file": "2025-12-07_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-07_front.png",
+ "date": "2025-12-07",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 910,
+  "n_lines": 469,
+  "mean_line_conf": 88.4882196872069,
+  "orphan_words": 1,
+  "body_words_total": 1855
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2739,
+      1000,
+      2784,
+      1036
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "pC",
+   "ocr_conf": 21.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "pC",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      326,
+      1065,
+      2689,
+      1418
+     ]
+    ],
+    "deck_boxes": [
+     [
+      326,
+      998,
+      2282,
+      1043
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      1490,
+      723,
+      1820
+     ],
+     [
+      321,
+      1880,
+      661,
+      1955
+     ],
+     [
+      321,
+      2003,
+      763,
+      2863
+     ],
+     [
+      808,
+      2280,
+      1252,
+      2869
+     ],
+     [
+      1300,
+      2307,
+      1803,
+      2346
+     ]
+    ],
+    "layout_words": 184
+   },
+   "headline_raw": "Govtimposes airfare caps, asks\nIndiGo CEO to explain in 24 hrs",
+   "deck_raw": "FARE CAPS TO PROTECT PASSENGERS FROM OPPORTUNISTIC PRICING: MINISTRY",
+   "body_raw": "Operational\nfailures indicate\nplanning lapses:\nShow-cause\nnotice to CEO\n\nSukalp Sharma\nNew Delhi, December 6\n\nWITHAIRFARES skyrocketing\ndue to large-scale cancellation\nof flights by domestic aviation\nmarket leader IndiGo, the gov-\nernment on Saturday stepped\nin to regulate fares for all air-\nlines by prescribing caps. As\nwidespread disruptions in op-\nerations entered the fourth day,\nthe government also issued a\nshow-cause notice to IndiGo\nCEO Pieter Elbersasking himto\nrespond within 24 hours why\nno action should be taken\nagainst him. Elbers has been\nthe CEO of IndiGo since Sep-\ntember 2022.\nThe Ministry of Civil Avi-\nation (MoCA)Saturday invoked\nits regulatory powers in an\notherwise free market aviation\nsector \u201cto ensure fair and rea-\n\nsonable fares across all affected\nroutes\u201d and protect passengers\nfrom \u201cany form of opportun-\nistic pricing\u201d.\nThe airfare caps are: Rs\n7,500 for a stage length of up to\n\u00a700 km (Delhi-Jaipur/ Chandi-\ngarh), Rs 12,000 for 500-1,000\nkm (Delhi-Bhopal/ Jammu), Rs\n15,000 for 1,000-1,500 km\n(Delhi-Mumbai/ Kolkata), and\nRs18,000 for over1,500 km (say\nDelhi-Chennai/ Bengaluru).\nThese caps are exclusive of\nairport levies and taxes, and are\n\n\u00a9 Maximum domestic fare",
+   "ocr_conf": 90.97311827956989,
+   "ocr_low_conf_share": 0.03763440860215054,
+   "headline": "Govtimposes airfare caps, asks IndiGo CEO to explain in 24 hrs",
+   "deck": "FARE CAPS TO PROTECT PASSENGERS FROM OPPORTUNISTIC PRICING: MINISTRY",
+   "byline": "",
+   "text": "Operational failures indicate planning lapses: Show-cause notice to CEO\n\nSukalp Sharma New Delhi, December 6\n\nWITHAIRFARES skyrocketing due to large-scale cancellation of flights by domestic aviation market leader IndiGo, the government on Saturday stepped in to regulate fares for all airlines by prescribing caps. As widespread disruptions in operations entered the fourth day, the government also issued a show-cause notice to IndiGo CEO Pieter Elbersasking himto respond within 24 hours why no action should be taken against him. Elbers has been the CEO of IndiGo since September 2022. The Ministry of Civil Aviation (MoCA)Saturday invoked its regulatory powers in an otherwise free market aviation sector \"to ensure fair and reasonable fares across all affected routes\" and protect passengers from \"any form of opportunistic pricing\". The airfare caps are: Rs 7,500 for a stage length of up to \u00a700 km (Delhi-Jaipur/ Chandi-garh), Rs 12,000 for 500-1,000 km (Delhi-Bhopal/ Jammu), Rs (Delhi-Mumbai/ Kolkata), and Rs18,000 for over1,500 km (say Delhi-Chennai/ Bengaluru). These caps are exclusive of airport levies and taxes, and are\n\n\u00a9 Maximum domestic fare",
+   "n_words": 174,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2769,
+      1165,
+      4174,
+      1532
+     ],
+     [
+      2759,
+      1607,
+      4185,
+      1736
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2771,
+      1079,
+      4175,
+      1123
+     ],
+     [
+      2762,
+      1566,
+      3103,
+      1658
+     ]
+    ],
+    "body_boxes": [
+     [
+      2762,
+      1728,
+      3204,
+      2864
+     ],
+     [
+      2762,
+      2877,
+      3203,
+      3308
+     ],
+     [
+      3739,
+      2443,
+      4182,
+      3302
+     ],
+     [
+      3714,
+      3458,
+      4173,
+      3751
+     ],
+     [
+      3738,
+      3787,
+      4078,
+      3861
+     ],
+     [
+      3737,
+      3909,
+      4179,
+      5173
+     ]
+    ],
+    "layout_words": 453
+   },
+   "headline_raw": "Diplomatic tightrope: Red\ncarpet for Putin, Delhi works\non dates for Zelenskyy visit\nNewDelhi, December 6 PM\u2018s \u2018not-neutral\u2019 remark Friday\nAS RUSSIAN President Viadi- echoes what he told Zelenskyy last year",
+   "deck_raw": "WILL BE FIRST VISIT BY UKRAINIAN PRESIDENT SINCE 2012\nShubhajit Roy\nNew Delhi, December 6",
+   "body_raw": "mir Putin concluded his two-\nday visit to India December 5,\nNew Delhi was preparing the\nnext steps in a careful diplo-\nmatic balancing act: moves are\nafoot to schedule a possible\nvisit by Ukrainian President\nVolodymyr Zelenskyy to India\nin the coming months, The\nIndian Express has learnt. The\nvisit could take place as early as\nJanuary 2026.\nAZelenskyy visit would re-\ninforce Delhi\u2019s effortto stayen-\ngaged with both sides of the\nRussia\u2014Ukraine war, following\nthe same calibrated approach\nadopted last year. In July 2024,\nPrime Minister Narendra Modi\ntravelled to Moscow and met\nPutin; amonth later, in August,\nhe had visited Ukraine.\nSources said discussions be-\ntween Indian and Ukrainian of-\nficials have been ongoing for\nseveral weeks, with New Delhi\nin touch with Zelenskyy\u2019s office\neven before Putin arrived in\nIndia.\n\nThetiming and scope ofthe\nproposed visit will depend on\nmultiple factors, including how\nformer US President Donald\nTrump\u2019s peace plan unfolds\nand developments on the\nbattlefield. Domestic politics in\nUkraine, where Zelenskyy\u2019s\ngovernmentis currently under\npressure embroiled ina sweep-\ning corruption scandal, could\n\nPutin\u2019s visit has drawn close\nscrutiny from Europe, with sev-\neral European envoys urging\nIndia to use its influence to\npush Moscow towards ending\nthe war. Delhi, however, con-\nsistently maintained that dia-\nlogue and diplomacy remain\nthe only viable path forward\nwith Modi framing it as: \u201cIndia\nis not neutral, India is on the\nside of peace.\u201d\nIndia has stayed in touch\nwith both Putin and Zelenskyy\nsince the war began in February\n2022. Modi has spoken to Ze-\nlenskyy by phone at least eight\ntimes, and the two leaders have\nmet on at least four occasions.\nTheir most recent conversa-\ntion was on August 30, when\n\u00bbCONTINUED ON PAGE2\n\n- Indias freedom of\nchoice, Putin's visit\nwontaffect US\nties: Jaishankar\n\nDivyaA\nNew Delhi, December 6\n\nUNDERLINING INDIAS \u201cfree-\ndom of choice\u201d in its relation-\nships, External Affairs Minister\n\u00a7 Jaishankar on Saturday said\nRussian President Vladimir Pu-\ntin\u2019s two-day visit won\u2019t com-\nplicate India\u2019s ties with the\nUnited States. Defining India's\nties with Russia as \u201camong the\nsteadiest big relationships\u201d in\nthe world, he said Putin's visit\nwas about \u201cre-imagining\u201d the\nties with a focus on economic\nengagement.\nEmphasising \u201cstrategic au-\ntonomy\u201d, Jaishankar, duringan\ninteractive session at the HT\nLeadership Summit in New\nDelhi, said, \u201cEverybody knows\nthat India has relations with all\nthe major countries of the\nworld. And for any country to\nexpect to havea vetoon howwe\ndevelop our relationships with\nothers, is not fair.\u201d He was re-\nsponding to a question on Pu-\ntin's visit amid trade tensions\nwith the US, after the Donald\nTrump administration im-\nposed an additional 25% pen-\nalty tariff on India for impor-\nting Russian oil.",
+   "ocr_conf": 90.82781456953643,
+   "ocr_low_conf_share": 0.04415011037527594,
+   "headline": "Diplomatic tightrope: Red carpet for Putin, Delhi works on dates for Zelenskyy visit NewDelhi, December 6 PM's 'not-neutral' remark Friday AS RUSSIAN President Viadi- echoes what he told Zelenskyy last year",
+   "deck": "WILL BE FIRST VISIT BY UKRAINIAN PRESIDENT SINCE 2012 Shubhajit Roy New Delhi, December 6",
+   "byline": "",
+   "text": "mir Putin concluded his two-day visit to India December 5, New Delhi was preparing the next steps in a careful diplomatic balancing act: moves are afoot to schedule a possible visit by Ukrainian President Volodymyr Zelenskyy to India in the coming months, The Indian Express has learnt. The visit could take place as early as January 2026. AZelenskyy visit would reinforce Delhi's effortto stayengaged with both sides of the Russia - Ukraine war, following the same calibrated approach adopted last year. In July 2024, Prime Minister Narendra Modi travelled to Moscow and met Putin; amonth later, in August, he had visited Ukraine. Sources said discussions between Indian and Ukrainian officials have been ongoing for several weeks, with New Delhi in touch with Zelenskyy's office even before Putin arrived in India.\n\nThetiming and scope ofthe proposed visit will depend on multiple factors, including how former US President Donald Trump's peace plan unfolds and developments on the battlefield. Domestic politics in Ukraine, where Zelenskyy's governmentis currently under pressure embroiled ina sweeping corruption scandal, could\n\nPutin's visit has drawn close scrutiny from Europe, with several European envoys urging India to use its influence to push Moscow towards ending the war. Delhi, however, consistently maintained that dialogue and diplomacy remain the only viable path forward with Modi framing it as: \"India is not neutral, India is on the side of peace.\" India has stayed in touch with both Putin and Zelenskyy since the war began in February 2022. Modi has spoken to Zelenskyy by phone at least eight times, and the two leaders have met on at least four occasions. Their most recent conversation was on August 30, when\n\n- Indias freedom of choice, Putin's visit wontaffect US ties: Jaishankar\n\nDivyaA New Delhi, December 6\n\nUNDERLINING INDIAS \"freedom of choice\" in its relationships, External Affairs Minister \u00a7 Jaishankar on Saturday said Russian President Vladimir Putin's two-day visit won't complicate India's ties with the United States. Defining India's ties with Russia as \"among the steadiest big relationships\" in the world, he said Putin's visit was about \"re-imagining\" the ties with a focus on economic engagement. Emphasising \"strategic autonomy\", Jaishankar, duringan interactive session at the HT Leadership Summit in New Delhi, said, \"Everybody knows that India has relations with all the major countries of the world. And for any country to expect to havea vetoon howwe develop our relationships with others, is not fair.\" He was responding to a question on Putin's visit amid trade tensions with the US, after the Donald Trump administration imposed an additional 25% penalty tariff on India for importing Russian oil.",
+   "n_words": 430,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2226,
+      1447,
+      2595,
+      1601
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      1605,
+      2715,
+      1714
+     ]
+    ],
+    "body_boxes": [
+     [
+      2275,
+      1767,
+      2701,
+      2198
+     ],
+     [
+      2276,
+      2282,
+      2716,
+      2586
+     ],
+     [
+      2275,
+      2599,
+      2719,
+      2785
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "",
+   "deck_raw": "Govt firefights\nIndigo-induced pain",
+   "body_raw": "Poor pianning by the coun-\ntry\u2019s largest airline has re-\nsulted in an unprecedented\ncrisis. Warning signals were\nvisible through November,\nbut before the government\nacted, itdescended upon\npassengers with flight can-\ncellations and skyrocketing\nfares. Thegovernment is\nfirefighting now.\n\nnot applicable for business\nclass fares and on flights oper-\nated under the regional con-\nnectivity scheme, the MoCA\norder stated. The fare limitsare\napplicable for travel \u201cuntil fares\nstabilise or till further review\u201d,\nit said.\n\nThe show-cause notice to\nElbers said that \u201csuch large-\nscale operational failures indi-\ncate significant lapses in\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 87.95876288659794,
+   "ocr_low_conf_share": 0.07216494845360824,
+   "headline": "",
+   "deck": "Govt firefights Indigo-induced pain",
+   "byline": "",
+   "text": "Poor pianning by the country's largest airline has resulted in an unprecedented crisis. Warning signals were visible through November, but before the government acted, itdescended upon passengers with flight cancellations and skyrocketing fares. Thegovernment is firefighting now.\n\nnot applicable for business class fares and on flights operated under the regional connectivity scheme, the MoCA order stated. The fare limitsare applicable for travel \"until fares stabilise or till further review\", it said.\n\nThe show-cause notice to Elbers said that \"such large-scale operational failures indicate significant lapses in",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1337,
+      2441,
+      2168,
+      2659
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      2823,
+      2678,
+      2867
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      2722,
+      1737,
+      2835
+     ],
+     [
+      809,
+      4183,
+      2674,
+      4259
+     ]
+    ],
+    "layout_words": 56
+   },
+   "headline_raw": "rorrouresueto SOOkm ror 500-1,000km\n(E.G. DELHITOCHANDIGARH) (\u20ac.G.DELHITO PATNA)\nRs15,000 ~/ Rs18,000\nror 1,000-1,500km rorroutesasove 1,500 k",
+   "deck_raw": "RELATED REPORTS P3,7",
+   "body_raw": "@Limits exclude airport levies and\ntaxes; do not apply to business class\nof flights under the UDAN scheme\n\nFormer Delhi University associate professor Hany Babu, who was granted bail in the Elgaar Parishad case Thursday, with his wife, Prof Jenny\nRowena, and their daughter Farzana after his release from Taloja Jailin Navi Mumbai on Saturday. NARENDRAVASKAR",
+   "ocr_conf": 89.55357142857143,
+   "ocr_low_conf_share": 0.05357142857142857,
+   "headline": "rorrouresueto SOOkm ror 500-1,000km (E.G. DELHITOCHANDIGARH) (\u20ac.G.DELHITO PATNA) ror 1,000-1,500km rorroutesasove 1,500 k",
+   "deck": "RELATED REPORTS P3,7",
+   "byline": "",
+   "text": "@Limits exclude airport levies and taxes; do not apply to business class of flights under the UDAN scheme\n\nFormer Delhi University associate professor Hany Babu, who was granted bail in the Elgaar Parishad case Thursday, with his wife, Prof Jenny Rowena, and their daughter Farzana after his release from Taloja Jailin Navi Mumbai on Saturday. NARENDRAVASKAR",
+   "n_words": 56,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1839,
+      2375,
+      2174,
+      2483
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1800,
+      2617,
+      2213,
+      2660
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      2667,
+      2223,
+      2836
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "Rs 12,000\nror 500-1,000km",
+   "deck_raw": "FOR ROUTES ABOVE 1,500 km",
+   "body_raw": "(E.G. DELHI TO CHENNAI)\n@Fare caps apply to all bookings,\nwhether made directly with airlines\nor through online travel agents",
+   "ocr_conf": 92.7,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "FOR ROUTES ABOVE 1,500 km",
+   "byline": "(E.G. DELHI TO CHENNAI)",
+   "text": "@Fare caps apply to all bookings, whether made directly with airlines or through online travel agents",
+   "n_words": 16,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2480,
+      3691,
+      2524
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2547,
+      3693,
+      2582
+     ],
+     [
+      3250,
+      3156,
+      3692,
+      3305
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "THE WORLD paces",
+   "deck_raw": "",
+   "body_raw": "[ a |\n\nalsoinfluence the outcome.\nNotably, Ukraine has sent\nPresidents to India only three\ntimes: 1992, 2002 and 2012,",
+   "ocr_conf": 83.65,
+   "ocr_low_conf_share": 0.1,
+   "headline": "THE WORLD paces",
+   "deck": "",
+   "byline": "",
+   "text": "alsoinfluence the outcome. Notably, Ukraine has sent Presidents to India only three times: 1992, 2002 and 2012,",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      353,
+      2982,
+      728,
+      3141
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3192,
+      756,
+      3498
+     ],
+     [
+      318,
+      3550,
+      756,
+      3782
+     ],
+     [
+      318,
+      3826,
+      756,
+      3979
+     ]
+    ],
+    "layout_words": 93
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@ INAUGURAL CEREMONY of\na key UNESCO meeting \u2014 dur-\ning which Diwali is set to be pro-\nposed for inclusion in its Intan-\ngible Cultural Heritage List \u2014\nwill beheld at Red Fort. The\nmain session will runfrom\nDecember 8 to December13.\n\n@HONGKONGVOTES to\nelect new lawmakers, in atest of\nlegitimacy for the government\nas ittries to soothe public anger\nover the recent high-rise fire\nthat killed at least 159 people.\n\n@ THE IAF WILL present a grand\n\u2018Surya Kiran Air Show\u2019 in Rajkot,\nGujarat, to encouragethe youth\nto join the service.",
+   "ocr_conf": 85.75268817204301,
+   "ocr_low_conf_share": 0.08602150537634409,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "@ INAUGURAL CEREMONY of; @HONGKONGVOTES to",
+   "text": "a key UNESCO meeting - during which Diwali is set to be proposed for inclusion in its Intangible Cultural Heritage List - will beheld at Red Fort. The main session will runfrom December 8 to December13.\n\nelect new lawmakers, in atest of legitimacy for the government as ittries to soothe public anger over the recent high-rise fire that killed at least 159 people.\n\n@ THE IAF WILL present a grand 'Surya Kiran Air Show' in Rajkot, Gujarat, to encouragethe youth to join the service.",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2759,
+      3451,
+      3640,
+      3902
+     ],
+     [
+      2759,
+      3969,
+      3677,
+      4100
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2759,
+      4142,
+      3100,
+      4216
+     ],
+     [
+      2758,
+      4266,
+      3202,
+      5205
+     ],
+     [
+      3248,
+      4146,
+      3711,
+      5205
+     ]
+    ],
+    "layout_words": 258
+   },
+   "headline_raw": "US negotiators to be\nin Delhi next week,\ntrade talks may\nget fresh impetus\nUS deputy trade representative, chief\nnegotiator to meet Commerce Secy",
+   "deck_raw": "",
+   "body_raw": "Ravi Dutta Mishra\nNew Delhi, December 6\n\nA UStrade team led by Deputy\nUS Trade Representative Rick\nSwitzer is set to visit India next\nweek to iron out differences\nsuch that the long-pending bi-\nlateral trade agreement (BTA)\nis signed before December-end,\na source aware of the develop-\nments said.\nSwitzerand Brendan Lynch,\nthe US chief negotiator for the\ntrade deal with India, are ex-\npected to meet Commerce Sec-\nretary Rajesh Agrawal for the\nfinal talks ahead of the agree-\nment. Negotiations with the US\nhad commenced after Prime\nMinister Narendra Modi visited\nthe US in February this year.\nThe meeting comes close on\nthe heels of Russian President\nVladimir Putin\u2019s two-day visit\nto India when the two countries\ndecided to boost bilateral trade\n\nto $100 billion by 2030 from\n$64 billion now, and increase\ndomestic currency trade.\nSourcesdid not prefer to de-\nscribe the US officials\u2019 visit as a\nformal round of negotiations.\nThey said differences are ex-\npected tobe resolved ata politi-\ncal level. India had last month\nsent across its final proposal to\nthe US for the agreement.\nA government official told\nThe Indian Express that the In-\ndian team has not had technical\nnegotiations with the US team\nduring the last one month and\nthat the North American Free\nTrade Agreement (NAFTA)\nwingofthecommerceministry\nhas begun working on the deal\nwith Canada.\nIn the recent months, India\nhas increased oil imports from\nthe US. This has helped the bi-\nlateral trade gap between US\nand India to reach $1.5 billion\n\u00bbCONTINUEDON PAGE2 |",
+   "ocr_conf": 91.11284046692607,
+   "ocr_low_conf_share": 0.05058365758754864,
+   "headline": "in Delhi next week, trade talks may get fresh impetus US deputy trade representative, chief negotiator to meet Commerce Secy",
+   "deck": "",
+   "byline": "",
+   "text": "Ravi Dutta Mishra New Delhi, December 6\n\nA UStrade team led by Deputy US Trade Representative Rick Switzer is set to visit India next week to iron out differences such that the long-pending bilateral trade agreement (BTA) is signed before December-end, a source aware of the developments said. Switzerand Brendan Lynch, the US chief negotiator for the trade deal with India, are expected to meet Commerce Secretary Rajesh Agrawal for the final talks ahead of the agreement. Negotiations with the US had commenced after Prime Minister Narendra Modi visited the US in February this year. The meeting comes close on the heels of Russian President Vladimir Putin's two-day visit to India when the two countries decided to boost bilateral trade\n\nto $100 billion by 2030 from $64 billion now, and increase domestic currency trade. Sourcesdid not prefer to describe the US officials' visit as a formal round of negotiations. They said differences are expected tobe resolved ata political level. India had last month sent across its final proposal to the US for the agreement. A government official told The Indian Express that the Indian team has not had technical negotiations with the US team during the last one month and that the North American Free Trade Agreement (NAFTA) wingofthecommerceministry has begun working on the deal with Canada. In the recent months, India has increased oil imports from the US. This has helped the bilateral trade gap between US and India to reach $1.5 billion \u00bbCONTINUEDON PAGE2",
+   "n_words": 246,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      4059,
+      1663,
+      4134
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      4244,
+      487,
+      4287
+     ]
+    ],
+    "body_boxes": [
+     [
+      317,
+      4607,
+      740,
+      4846
+     ],
+     [
+      318,
+      4926,
+      753,
+      5165
+     ]
+    ],
+    "layout_words": 23
+   },
+   "headline_raw": "Out of Jail After 5 Years",
+   "deck_raw": "INSIDE",
+   "body_raw": "POLITICS\nBMC POLLS: FOUR\nWARDS SEEOVER\n50% INCREASE IN\nVOTERS PacE3\n\nNATION\nNEW NCERT BOOK\nFOR CLASS 7 HAS\nBIGGER SECTION\nON GHAZNI PaceE2",
+   "ocr_conf": 83.45833333333333,
+   "ocr_low_conf_share": 0.125,
+   "headline": "Out of Jail After 5 Years",
+   "deck": "",
+   "byline": "POLITICS; BMC POLLS: FOUR; WARDS SEEOVER; 50% INCREASE IN; NATION; NEW NCERT BOOK; FOR CLASS 7 HAS; BIGGER SECTION",
+   "text": "VOTERS PacE3\n\nON GHAZNI PaceE2",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      4361,
+      2670,
+      4581
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      4617,
+      1088,
+      4691
+     ],
+     [
+      807,
+      4739,
+      1250,
+      5210
+     ],
+     [
+      2267,
+      4622,
+      2713,
+      5204
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "Eye on one crore jobs pledge, Nitish Govt\nstarts groundwork, creates three key depts",
+   "deck_raw": "",
+   "body_raw": "Santosh Singh\nPatna, December 6\n\nKEEPING ITS focus on Key is-\nsues like employment and in-\nfrastructure, which dominated\ntherecent Bihar Assembly elec-\ntions, the re-elected NDA gov-\nernment led by Chief Minister\nNitish Kumar has announced\nthree new departments, in-\ncluding the Department of\nYouth, Employment and Skill\nDevelopment that will be en-\ntrusted with creating one crore\n\njobs over the next five years in\nthe state.\nThe other newdepartmenis\nare Higher Education and Civil\nAviation, taking the total\nnumber of departments in the\nBihar government to 40.\nWith the size of the Cabinet\nrestricted to 15% of the Assem-\nbly\u2019sstrength of 243 members,\nBihar can have a maximum of\n36 ministers including the CM.\nFollowing the NDA's land-\nslide victory, Nitish was swom\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 91.703125,
+   "ocr_low_conf_share": 0.015625,
+   "headline": "Eye on one crore jobs pledge, Nitish Govt starts groundwork, creates three key depts",
+   "deck": "",
+   "byline": "",
+   "text": "Santosh Singh Patna, December 6\n\nKEEPING ITS focus on Key issues like employment and infrastructure, which dominated therecent Bihar Assembly elections, the re-elected NDA government led by Chief Minister Nitish Kumar has announced three new departments, including the Department of Youth, Employment and Skill Development that will be entrusted with creating one crore\n\njobs over the next five years in the state. The other newdepartmenis are Higher Education and Civil Aviation, taking the total number of departments in the Bihar government to 40. With the size of the Cabinet restricted to 15% of the Assembly'sstrength of 243 members, Bihar can have a maximum of 36 ministers including the CM. Following the NDA's landslide victory, Nitish was swom",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5385,
+      4086,
+      5503
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5302,
+      2502,
+      5360
+     ],
+     [
+      689,
+      5837,
+      877,
+      5924
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      5527,
+      1252,
+      5924
+     ],
+     [
+      313,
+      5930,
+      1247,
+      6260
+     ],
+     [
+      1263,
+      5533,
+      1735,
+      6260
+     ],
+     [
+      2759,
+      5533,
+      3201,
+      6239
+     ],
+     [
+      3247,
+      5534,
+      3690,
+      6116
+     ],
+     [
+      3737,
+      5535,
+      4178,
+      6197
+     ]
+    ],
+    "layout_words": 455
+   },
+   "headline_raw": "No. 16 on his jersey, idol Sreejesh as his coach, Hockey India\u2019s Prince in waiting",
+   "deck_raw": "e 21-YEAR-OLD GOALKEEPER POWERS INDIA\u2019S WIN IN QUARTER-FINAL SHOOTOUT AGAINST BELGIUM AT FIH JUNIOR WORLD CUP\n~ PAGE1 \u00a9\nanchor",
+   "body_raw": "Vinayakk Mohanarangan in the penaltyshootout as India\nChennai, December 6 defeated Belgium in the thril-\n~ ling quarter-final of the FIH\nPRINCEDEEP SINGH grewup Junior World Cup in Chennai.\nwanting to be like P R Sreejesh. The number 16, made fa-\nSomuchsothattherookiegoal- mousby Sreejesh, hasa special\nkeeper even got the legendary _ place for Princedeep. \u201cI started\nIndian custodian\u2019s playing hockey\njersey number \u2014 16 PAGE1 around 2015 at Chee-\n\u2014onhisback.And )anchorf ma Academy in Ba-\n\nnow, in the team * \u201ctala and I actually\ncoached by Sreejesh, Prince- played fullback fora year... I\ndeep hasemergedasastandout _usedtoalso play football during\nperformer. the weekends, and I was good\nOn Friday, the 21-year-old at goalkeeping because of my\ngoalkeeper shotintothe lime- height, which is how my inter-\nlight witha sensationaldisplay est developed. Then I took up\n(ae a\n\nhockey goalkeeping in 2016,\u201d\nPrincedeep tells The Indian Ex-\npress. \u201cAt that time, I used to\nwatch the Indian team at the\n2016 Olympic Games and I\nwanted tobe like P R Sreejesh.\u201d\n\u201cRight from when Itookup\ngoalkeeping after watching\nSreejesh, I was obsessed about\nwearing the No. 16 jersey,\u201d he\nsays. \u201cI used to watch his\nHockey India League (HIL)\nmatches, and once went forthe\nK DSingh Babu tournament in\nLucknow where I got a chance\nto watch Sreejesh bhai live. I\ndidn\u2019t meet him that day, just\n, \"FR\n\nsaw him from outside, where\nwe were chanting his name.\nNow, I get to work directly with\nhim. It\u2019s a dream,\u201d hesays.\nThe boots are obviously too\nbig to fill, but Princedeep\u2019s po-\ntential was evident in Chennai\nas he thwarted Belgium twice\nin the shootout. The standout\nmoment ofthe night was when\nNicolas Bogaerts dribbled for-\nward into the circle and was\nfirst prevented from getting a\nshot away by Princedeep's\nstick. The Belgian player, how-\never, still managed to get tothe\nloose ball, and his shot was\nJaipur\n\nheading into goal when Prince-\ndeep sprang back up from the\nturf, took acouple of steps to his\nleft and put ina full-length dive\nto block the ball with his stick\nforthe second time.\nEarlier, after India\u2019s 5-0 win\nagainst Switzerland, Sreejesh,\nthe now-retired No 16, had\nspoken highly of Princedeep.\n\u201cFor me, he was the man of the\nmatch, because of how well he\nplayed in the third quarter and\nsaved that stroke,\u201d Sreejesh had\nsaid.\n\nshorttime. Things that seemed\nvery difficult earlier are becom-\ning easier,\u201d says Princedeep.\n\u201cThe main thing he has helped\nme understand is how to go\ninto a match with confidence.\nHe insists on communicating\nas much as possible with the\ndefenders and bringing match\nsituations into practice\nsessions... imagine that I am\nplaying a match when I train.\nHe has also helped me under-\nstand howto handle the press-\nure. Earlier, Ididn\u2019thave much\nconfidence while playing a\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 89.0253164556962,
+   "ocr_low_conf_share": 0.06962025316455696,
+   "headline": "No. 16 on his jersey, idol Sreejesh as his coach, Hockey India's Prince in waiting",
+   "deck": "e 21-YEAR-OLD GOALKEEPER POWERS INDIA'S WIN IN QUARTER-FINAL SHOOTOUT AGAINST BELGIUM AT FIH JUNIOR WORLD CUP anchor",
+   "byline": "",
+   "text": "Vinayakk Mohanarangan in the penaltyshootout as India Chennai, December 6 defeated Belgium in the thril- ~ ling quarter-final of the FIH PRINCEDEEP SINGH grewup Junior World Cup in Chennai. wanting to be like P R Sreejesh. The number 16, made fa-Somuchsothattherookiegoal- mousby Sreejesh, hasa special keeper even got the legendary _ place for Princedeep. \"I started Indian custodian's playing hockey jersey number - 16 PAGE1 around 2015 at Chee- - onhisback.And )anchorf ma Academy in Banow, in the team * \"tala and I actually coached by Sreejesh, Prince- played fullback fora year... I deep hasemergedasastandout _usedtoalso play football during performer. the weekends, and I was good On Friday, the 21-year-old at goalkeeping because of my goalkeeper shotintothe lime- height, which is how my interlight witha sensationaldisplay est developed. Then I took up (ae a\n\nhockey goalkeeping in 2016,\" Princedeep tells The Indian Express. \"At that time, I used to watch the Indian team at the 2016 Olympic Games and I wanted tobe like P R Sreejesh.\" \"Right from when Itookup goalkeeping after watching Sreejesh, I was obsessed about wearing the No. 16 jersey,\" he says. \"I used to watch his Hockey India League (HIL) matches, and once went forthe K DSingh Babu tournament in Lucknow where I got a chance to watch Sreejesh bhai live. I didn't meet him that day, just\n\nsaw him from outside, where we were chanting his name. Now, I get to work directly with him. It's a dream,\" hesays. The boots are obviously too big to fill, but Princedeep's potential was evident in Chennai as he thwarted Belgium twice in the shootout. The standout moment ofthe night was when Nicolas Bogaerts dribbled forward into the circle and was first prevented from getting a shot away by Princedeep's stick. The Belgian player, however, still managed to get tothe loose ball, and his shot was Jaipur\n\nheading into goal when Princedeep sprang back up from the turf, took acouple of steps to his left and put ina full-length dive to block the ball with his stick forthe second time. Earlier, after India's 5-0 win against Switzerland, Sreejesh, the now-retired No 16, had spoken highly of Princedeep. \"For me, he was the man of the match, because of how well he played in the third quarter and saved that stroke,\" Sreejesh had said.\n\nshorttime. Things that seemed very difficult earlier are becoming easier,\" says Princedeep. \"The main thing he has helped me understand is how to go into a match with confidence. He insists on communicating as much as possible with the defenders and bringing match situations into practice sessions... imagine that I am playing a match when I train. He has also helped me understand howto handle the pressure. Earlier, Ididn'thave much confidence while playing a \u00bbCONTINUEDON PAGE 2",
+   "n_words": 462,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.7,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

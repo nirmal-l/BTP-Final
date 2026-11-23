@@ -1,0 +1,655 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_23_front",
+ "source_file": "2025-09-23_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-23_front.png",
+ "date": "2025-09-23",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 346,
+  "mean_line_conf": 90.49649862019803,
+  "orphan_words": 29,
+  "body_words_total": 1318
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      817,
+      788,
+      3187,
+      1104
+     ]
+    ],
+    "deck_boxes": [
+     [
+      816,
+      698,
+      2127,
+      747
+     ]
+    ],
+    "body_boxes": [
+     [
+      813,
+      1173,
+      1198,
+      1516
+     ],
+     [
+      812,
+      1581,
+      1207,
+      1651
+     ],
+     [
+      808,
+      1700,
+      1254,
+      2129
+     ],
+     [
+      2765,
+      1187,
+      3208,
+      2084
+     ]
+    ],
+    "layout_words": 190
+   },
+   "headline_raw": "In shadow of tariff, H-1B, Jaishankar and\nRubio discuss issues of \u2018current concern\u2019",
+   "deck_raw": "MEETING ON SIDELINES OF UNGA SESSION",
+   "body_raw": "EAM: Agreed\non importance\nof sustained\nengagement on\npriority areas\n\nSHUBHAJIT ROY\nNEW DELHI, SEPTEMBER 22\n\nEXTERNAL AFFAIRS Minister S\nJaishankar and US Secretary of\nState Marco Rubio discussed a\n\u201crange of bilateral and interna-\ntional issues of current concern\u201d\nas they met in New York on\nMonday \u2014 their first meeting after\nthe Donald Trump administration\ndoubled the tariff on Indian im-\nports to 50 per cent as \u201cpenalty\u201d\nfor purchase of Russian oil, and\n\ndays aftertheUS increased the H-\n1B visa fee to $100,000.\nSources said the hour-long\nmeeting, on the sidelines of the\nhigh-level 80th session of the UN\nGeneral Assembly (UNGA), was\n\u201cpositive\u201d, as they discussed all\nissues in a candid manner. They\nalso agreed to continue to en-\ngage so that they can make\nprogress on \u201cpriority areas\u201d.\n\u201cGood to meet @SecRubio\nthis morning in New York. Our\nconversation covered a range of\nbilateral and international issues\nof current concern. Agreed on\nthe importance of sustained en-\ngagement to progress on prior-\nity areas. We will remain in\ntouch,\u201d Jaishankar posted on X\nafter the meeting, indicating that\nthe hot-button issues were part\nof conversation.",
+   "ocr_conf": 92.01052631578948,
+   "ocr_low_conf_share": 0.042105263157894736,
+   "headline": "In shadow of tariff, H-1B, Jaishankar and Rubio discuss issues of 'current concern'",
+   "deck": "MEETING ON SIDELINES OF UNGA SESSION",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, SEPTEMBER 22",
+   "text": "EAM: Agreed on importance of sustained engagement on priority areas\n\nEXTERNAL AFFAIRS Minister S Jaishankar and US Secretary of State Marco Rubio discussed a \"range of bilateral and international issues of current concern\" as they met in New York on Monday - their first meeting after the Donald Trump administration doubled the tariff on Indian imports to 50 per cent as \"penalty\" for purchase of Russian oil, and\n\ndays aftertheUS increased the H- 1B visa fee to $100,000. Sources said the hour-long meeting, on the sidelines of the high-level 80th session of the UN General Assembly (UNGA), was \"positive\", as they discussed all issues in a candid manner. They also agreed to continue to engage so that they can make progress on \"priority areas\". \"Good to meet @SecRubio this morning in New York. Our conversation covered a range of bilateral and international issues of current concern. Agreed on the importance of sustained engagement to progress on priority areas. We will remain in touch,\" Jaishankar posted on X after the meeting, indicating that the hot-button issues were part of conversation.",
+   "n_words": 179,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3254,
+      773,
+      4176,
+      1271
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3255,
+      1292,
+      4049,
+      1422
+     ]
+    ],
+    "body_boxes": [
+     [
+      3254,
+      1504,
+      3641,
+      1574
+     ],
+     [
+      3252,
+      1623,
+      3697,
+      2679
+     ],
+     [
+      3742,
+      1498,
+      4168,
+      1530
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "UP govt \u2018prohibits\u2019\ncaste-based rallies:\n\u2018Contrary to public\norder, national unity\u2019",
+   "deck_raw": "SP says cosmetic move, BJP allies\nsay trying to understand order",
+   "body_raw": "MAULSHREE SETH\nLUCKNOW, SEPTEMBER 22\n\nFOLLOWING THE Allahabad\nHigh Court directive seeking re-\nmoval of caste displaysin public,\nthe Uttar Pradesh government\nissued a government order late\nSunday night prohibiting \u201ccaste-\nbased political rallies\u201d, calling\nthem a threat to \u201cpublic order\u201d\nand \u201cnational unity\u201d.\nThe move isexpected to have\npolitical implications ahead of\nthe 2027 Assembly elections,\nwith all UP-based parties draw-\ning their strength from specific\ncaste groups.\nThe UP government order\nalsocoincides with the firstever\ncaste count to be held in the\ncountry since 1933, in the com-\ning Census, which followed a\nlong agitation led by the\nOpposition, especially the\nCongress, seeking the same.\nAs news spread of the gov-\nemment order, parties struggled\nto frame a response, including\nCONTINUED ON PAGE2\n\nTHE EDITORIAL PAGE",
+   "ocr_conf": 93.4453125,
+   "ocr_low_conf_share": 0.0234375,
+   "headline": "UP govt 'prohibits' caste-based rallies: 'Contrary to public order, national unity'",
+   "deck": "SP says cosmetic move, BJP allies say trying to understand order",
+   "byline": "MAULSHREE SETH; LUCKNOW, SEPTEMBER 22",
+   "text": "FOLLOWING THE Allahabad High Court directive seeking removal of caste displaysin public, the Uttar Pradesh government issued a government order late Sunday night prohibiting \"caste-based political rallies\", calling them a threat to \"public order\" and \"national unity\". The move isexpected to have political implications ahead of the 2027 Assembly elections, with all UP-based parties drawing their strength from specific caste groups. The UP government order alsocoincides with the firstever caste count to be held in the country since 1933, in the coming Census, which followed a long agitation led by the Opposition, especially the Congress, seeking the same. As news spread of the govemment order, parties struggled to frame a response, including\n\nTHE EDITORIAL PAGE",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      429,
+      912,
+      636,
+      1007
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "/ Nos, Tex 8 bit >\nOn Our Bddress And\nlet us FOlLOW PMs",
+   "ocr_conf": 57.0,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "/ Nos, Tex 8 bit > On Our Bddress And let us FOlLOW PMs",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      823,
+      633,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3745,
+      1553,
+      4182,
+      1605
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3742,
+      1634,
+      4181,
+      1828
+     ],
+     [
+      3902,
+      1985,
+      4139,
+      2079
+     ],
+     [
+      3785,
+      2137,
+      4142,
+      2647
+     ]
+    ],
+    "layout_words": 75
+   },
+   "headline_raw": "DISCOUNTING CASTE",
+   "deck_raw": "",
+   "body_raw": "UP govt order against \u2018caste-\nbased signs\u2019 at rallies collapses\nvoices of marginalised and\nprivileged. It needs to go.\nPS\n\nCaste and\n|@ UP parties\n\nALLUTTAR Pradesh-\nbased parties draw\ntheir strength from spe-\ncific caste groups, includ-\ning those which are BJP\nallies. The order also\ncoincides with the first\never caste count to be\nheld in the country\nsince 1933, in the com-\ning Census, following a\nlong agitation led by\nthe Opposition.",
+   "ocr_conf": 91.26666666666667,
+   "ocr_low_conf_share": 0.05333333333333334,
+   "headline": "DISCOUNTING CASTE",
+   "deck": "",
+   "byline": "",
+   "text": "UP govt order against 'caste-based signs' at rallies collapses voices of marginalised and privileged. It needs to go. PS\n\nCaste and @ UP parties\n\nALLUTTAR Pradesh-based parties draw their strength from specific caste groups, including those which are BJP allies. The order also coincides with the first ever caste count to be held in the country since 1933, in the coming Census, following a long agitation led by the Opposition.",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      2068,
+      733,
+      2284
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "NEPAL PM EXPANDS\nINTERIM CABINET,\n4 NEW MINISTERS\nSWORN IN\nPAGE 12",
+   "ocr_conf": 94.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "NEPAL PM EXPANDS; INTERIM CABINET,; 4 NEW MINISTERS; SWORN IN",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2276,
+      2210,
+      2493
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      2571,
+      1207,
+      2641
+     ],
+     [
+      811,
+      2689,
+      1252,
+      3119
+     ],
+     [
+      1301,
+      2555,
+      1435,
+      2587
+     ],
+     [
+      1298,
+      2630,
+      1703,
+      2799
+     ],
+     [
+      1295,
+      2886,
+      1739,
+      3120
+     ],
+     [
+      1785,
+      2531,
+      2229,
+      3113
+     ]
+    ],
+    "layout_words": 182
+   },
+   "headline_raw": "To raise awareness on \u2018vote chor?\u2019,\nCongress rolls out \u2018booth rakshaks\u2019",
+   "deck_raw": "",
+   "body_raw": "ASAD REHMAN\nNEW DELHI, SEPTEMBER 22\n\nIN LINE with Lok Sabha Leader\nof Opposition Rahul Gandhi's\n\u201cvote chori\u201d campaign, the\nCongress has rolled out a \u201cpilot\nproject\u201d to appoint \u201cbooth rak-\nshaks\u201d, with the aim to train\nparty workers on the ground to\ndetect and report \u201cirregularities\nin electoral rolls\u201d.\nThe party has picked five Lok\nSabha constituencies \u2014 Jaipur\n\nINSIDE\n\nKARNATAKA MAY\nTAKE LEGAL ROUTE\nTOGET ALAND SEAT\nDATA FROM ECpace 3\n\nRural and Alwar in Rajasthan,\nJanjgir-Champa in Chhattisgarh,\nMorena in Madhya Pradesh, and\nBansgaon in Uttar Pradesh \u2014\nwhere its candidates lost by rel-\natively narrow margins in the\n\n2024 elections, for the \u201cpilot\nproject\u201d. Each booth rakshak will\nbe in charge of 10 booths, and\nhas been assigned a team of 10\nBooth Level Agents (BLA).\nThe party has formed a five-\nmember team to oversee the ex-\nercise. The team is learnt to have\nstarted the groundwork, visiting\nall five constituencies and hold-\ning training workshops for the\nlocal leadership at the booth\nlevel on reviewing electoral rolls,\nThey have also been gathering\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.16483516483517,
+   "ocr_low_conf_share": 0.02197802197802198,
+   "headline": "To raise awareness on 'vote chor?', Congress rolls out 'booth rakshaks'",
+   "deck": "",
+   "byline": "ASAD REHMAN; NEW DELHI, SEPTEMBER 22",
+   "text": "IN LINE with Lok Sabha Leader of Opposition Rahul Gandhi's \"vote chori\" campaign, the Congress has rolled out a \"pilot project\" to appoint \"booth rakshaks\", with the aim to train party workers on the ground to detect and report \"irregularities in electoral rolls\". The party has picked five Lok Sabha constituencies - Jaipur\n\nKARNATAKA MAY TAKE LEGAL ROUTE TOGET ALAND SEAT DATA FROM ECpace 3\n\nRural and Alwar in Rajasthan, Janjgir-Champa in Chhattisgarh, Morena in Madhya Pradesh, and Bansgaon in Uttar Pradesh - where its candidates lost by relatively narrow margins in the\n\n2024 elections, for the \"pilot project\". Each booth rakshak will be in charge of 10 booths, and has been assigned a team of 10 Booth Level Agents (BLA). The party has formed a five-member team to oversee the exercise. The team is learnt to have started the groundwork, visiting all five constituencies and holding training workshops for the local leadership at the booth level on reviewing electoral rolls, They have also been gathering",
+   "n_words": 166,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      2276,
+      3200,
+      2569
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      2651,
+      2663,
+      2721
+     ],
+     [
+      2276,
+      2769,
+      2717,
+      3121
+     ],
+     [
+      2764,
+      2612,
+      3207,
+      3114
+     ]
+    ],
+    "layout_words": 109
+   },
+   "headline_raw": "Kanpur FIR over Prophet\nsignboard sparks protests\nin state, several arrested",
+   "deck_raw": "",
+   "body_raw": "MANISH SAHU\nLUCKNOW, SEPTEMBER 22\n\nSEVERAL PEOPLE have been\nbooked and arrested after they\ntook out protests across Uttar\nPradesh, days after an FIR was\nlodged by Kanpur police over a\nboard displaying the message, \u201cI\nlove Mohammad\u201d, which was\nput up as part of decorations for\nthe annual Barawafat procession\n\nto commemorate the birth of\nProphet Mohammad.\nProtests against the Kanpur\nFIR were witnessed over the\nweekend at several districts, in-\ncluding Kaushambi, Pilibhit,\nBareilly, Bhadohi, Lucknow,\nUnnao, and Kanpur. Police said\nmost of the protests were organ-\nised without taking permission.\nAs of Monday, at least five people\nhave been arrested in Unnaoand\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.28440366972477,
+   "ocr_low_conf_share": 0.01834862385321101,
+   "headline": "Kanpur FIR over Prophet signboard sparks protests in state, several arrested",
+   "deck": "",
+   "byline": "MANISH SAHU; LUCKNOW, SEPTEMBER 22",
+   "text": "SEVERAL PEOPLE have been booked and arrested after they took out protests across Uttar Pradesh, days after an FIR was lodged by Kanpur police over a board displaying the message, \"I love Mohammad\", which was put up as part of decorations for the annual Barawafat procession\n\nto commemorate the birth of Prophet Mohammad. Protests against the Kanpur FIR were witnessed over the weekend at several districts, including Kaushambi, Pilibhit, Bareilly, Bhadohi, Lucknow, Unnao, and Kanpur. Police said most of the protests were organ-ised without taking permission. As of Monday, at least five people have been arrested in Unnaoand",
+   "n_words": 98,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2396,
+      760,
+      2794
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      563,
+      2965,
+      761,
+      3112
+     ],
+     [
+      322,
+      3202,
+      748,
+      3272
+     ],
+     [
+      317,
+      3323,
+      765,
+      4102
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "2020 riots: SC\nnotice to Delhi\nPolice on bail\npleas of Umar\nKhalid, 4 others",
+   "deck_raw": "",
+   "body_raw": "Khalid and\nthe others\nwere booked\nunder UAPA\n\nEXPRESS NEWS SERVICE\nNEW DELHI, SEPTEMBER 22\n\nTHESUPREME Court on Monday\nsought the response of the Delhi\nPolice on the bail pleas of Umar\nKhalid, Sharjeel Imam, Gulfisha\nFatima, Meeran Haider and Shifa\nUr Rehman, all charged as con-\nspirators in the 2020 Delhi riots.\nThe notice was issued by a\nbench of Justices Aravind Kumar\nand N VAnjaria. The matter was\nlast listed before a bench of\nJustices Aravind Kumar and\nManmohan on September 19,\nbut it was not taken up. On\nMonday, Justice Kumar ex-\nplained that it could not be taken\nup that day \u201cbecause my bench\npartner (Justice Manmohan)\nwas disabled\u201d. As a lawyer,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.39166666666667,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "2020 riots: SC notice to Delhi Police on bail pleas of Umar Khalid, 4 others",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, SEPTEMBER 22",
+   "text": "Khalid and the others were booked under UAPA\n\nTHESUPREME Court on Monday sought the response of the Delhi Police on the bail pleas of Umar Khalid, Sharjeel Imam, Gulfisha Fatima, Meeran Haider and Shifa Ur Rehman, all charged as conspirators in the 2020 Delhi riots. The notice was issued by a bench of Justices Aravind Kumar and N VAnjaria. The matter was last listed before a bench of Justices Aravind Kumar and Manmohan on September 19, but it was not taken up. On Monday, Justice Kumar explained that it could not be taken up that day \"because my bench partner (Justice Manmohan) was disabled\". As a lawyer,",
+   "n_words": 107,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3706,
+      2757,
+      4092,
+      2814
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3741,
+      2859,
+      4174,
+      3030
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "| GOVT & POLITICS",
+   "deck_raw": "",
+   "body_raw": "IN ARUNACHAL, PM\nTARGETS CONGRESS:\n\u2018THEY NEGLECTED\nSTATE FOR DECADES\u2019",
+   "ocr_conf": 92.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "GOVT & POLITICS",
+   "deck": "",
+   "byline": "IN ARUNACHAL, PM; TARGETS CONGRESS:; 'THEY NEGLECTED; STATE FOR DECADES'",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      3186,
+      2220,
+      3395
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      3433,
+      1249,
+      3550
+     ],
+     [
+      809,
+      3599,
+      1251,
+      4102
+     ],
+     [
+      1296,
+      3995,
+      1731,
+      4063
+     ],
+     [
+      1787,
+      3442,
+      2229,
+      4103
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "Delhi\u2019s biggest \u2018digital arrest\u2019 fraud:\n<22.92 cr, split via 4,236 transactions",
+   "deck_raw": "",
+   "body_raw": "RITU SARIN\nNEW DELHI, SEPTEMBER 22\n\nDAILY GET-TOGETHERS in South\nDelhi's upmarket Gulmohar\nPark, strolls in the colony park,\nadda with close friends and vis-\nits to the club \u2014 none of these\nover the past six weeks felt un-\nusual for family, friends and\nneighbours of 78-year old re-\ntired banker Naresh Malhotra.\nButit was in this period when he\nvisited a branch of three banks\nwhere he held an account to\ntransfer a total of Rs 22.92 crore\n\nThe scammers issued such\n\u2018RBI certificates\u2019 to Malhotra\n\nin 21 transactions to 16 different\nbank accounts.\nThe managers of the bank\nbranches from where he trans-\nferred suchlarge funds too didn\u2019t\nsuspect any foul play \u2014 in one of\nthe bank branch, he would have\nacupoftea while money was be-\ning moved out. But Malhotrawas\nunder \u201cdigital arrest\u201d, taking per-\nmission from thescammers who\nclaimed to be officers from the\nEnforcement Directorate and\nMumbai Police, for withdrawing\nsmall amounts tomake monthly\nsalary payments to his staff.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.57058823529412,
+   "ocr_low_conf_share": 0.052941176470588235,
+   "headline": "Delhi's biggest 'digital arrest' fraud: <22.92 cr, split via 4,236 transactions",
+   "deck": "",
+   "byline": "RITU SARIN; NEW DELHI, SEPTEMBER 22",
+   "text": "DAILY GET-TOGETHERS in South Delhi's upmarket Gulmohar Park, strolls in the colony park, adda with close friends and visits to the club - none of these over the past six weeks felt unusual for family, friends and neighbours of 78-year old retired banker Naresh Malhotra. Butit was in this period when he visited a branch of three banks where he held an account to transfer a total of Rs 22.92 crore\n\nThe scammers issued such 'RBI certificates' to Malhotra\n\nin 21 transactions to 16 different bank accounts. The managers of the bank branches from where he transferred suchlarge funds too didn't suspect any foul play - in one of the bank branch, he would have acupoftea while money was being moved out. But Malhotrawas under \"digital arrest\", taking permission from thescammers who claimed to be officers from the Enforcement Directorate and Mumbai Police, for withdrawing small amounts tomake monthly salary payments to his staff.",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4175,
+      2157,
+      4393
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4470,
+      747,
+      4540
+     ],
+     [
+      319,
+      4588,
+      761,
+      5054
+     ],
+     [
+      808,
+      4431,
+      1251,
+      5051
+     ]
+    ],
+    "layout_words": 152
+   },
+   "headline_raw": "Stowed away in aircraft\u2019s wheel well, 13-yr-old\nAfghan boy lands in Delhi, is sent back to Kabu",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, SEPTEMBER 22\n\nA 13-YEAR-OLD boy from\nKunduz, in Afghanistan, wanted\nto travel to Iran. So, early on\nSunday morning, he sneaked into\nthe Kabul airport, trailed a group\nof passengers, and stowed away\nin an aircraft\u2019s rear wheel well \u2014\nthe internal compartment which\nhouses the landing gear \u2014 carry-\ning just a\u201csmall red-coloured au-\ndio speaker\u2019. But, it was a flight\nbound for Delhi, not Tehran.\n\nFor over 90 minutes, the boy\nflew in the wheel well, miracu-\nlously landing unscathed at the\nIndira Gandhi International (IGI)\nAirport in the Capital, where he\nwas seen wandering around by\nsomeairportstaff. By evening, he\nwas sent backon aflight to Kabul,\nending his day's adventure.\nAccording to an official of the\nCentral Industrial Security Force\n(CISF), the boy had stowed away\nona KAM Air flight (RQ4401)\nKabul-Delhi flight, which landed\nat IGI Airport at 10.20 am.\nCONTINUEDON PAGE 2",
+   "ocr_conf": 90.96710526315789,
+   "ocr_low_conf_share": 0.039473684210526314,
+   "headline": "Stowed away in aircraft's wheel well, 13-yr-old Afghan boy lands in Delhi, is sent back to Kabu",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, SEPTEMBER 22",
+   "text": "A 13-YEAR-OLD boy from Kunduz, in Afghanistan, wanted to travel to Iran. So, early on Sunday morning, he sneaked into the Kabul airport, trailed a group of passengers, and stowed away in an aircraft's rear wheel well - the internal compartment which houses the landing gear - carrying just a\"small red-coloured audio speaker'. But, it was a flight bound for Delhi, not Tehran.\n\nFor over 90 minutes, the boy flew in the wheel well, miraculously landing unscathed at the Indira Gandhi International (IGI) Airport in the Capital, where he was seen wandering around by someairportstaff. By evening, he was sent backon aflight to Kabul, ending his day's adventure. According to an official of the Central Industrial Security Force (CISF), the boy had stowed away ona KAM Air flight (RQ4401) Kabul-Delhi flight, which landed at IGI Airport at 10.20 am. CONTINUEDON PAGE 2",
+   "n_words": 142,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5190,
+      2215,
+      5419
+     ]
+    ],
+    "deck_boxes": [
+     [
+      526,
+      5549,
+      761,
+      5652
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      5735,
+      645,
+      5805
+     ],
+     [
+      318,
+      5856,
+      761,
+      6159
+     ],
+     [
+      1784,
+      5461,
+      2228,
+      5884
+     ],
+     [
+      1785,
+      5896,
+      2225,
+      6160
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "\u2018Crashing planes\u2019 and gunshots with bat:\nIndia-Pak game everything except cricket",
+   "deck_raw": "EXPRESS\nATASIACUP",
+   "body_raw": "SANDIPG\nDUBAI, SEPTEMBER 22\n\nARGUABLY THE most acrimo-\nnious India-Pakistan cricket\nmatch ever, Sunday's Asia Cup\nSuper 4 league game at Dubai\nwasn\u2019t quite \u2018war minus the\nshooting\u2019 as the late American\nwriter Mike Marqusee famously\ndescribed such contests be-\n\ntween the arch rivals. The match\nwitnessed an unending war of\nwords, along with some imagi-\nnary shooting.\nThe tense T20 game, which\nIndia won by six wickets and an\nover to spare, saw several alter-\ncations but the most talked\nabout were the ones involving\nthe rampaging Indian openers\nAbhishek Sharma and Shubman\n\nGilland Pakistan's senior pacers\nShaheen Afridi and Haris Rauf.\nDuring the powerplay of the\nIndian innings, Haris, after an ex-\npensive over and a seemingly\nabusive face-off with Sharma\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.25196850393701,
+   "ocr_low_conf_share": 0.015748031496062992,
+   "headline": "'Crashing planes' and gunshots with bat: India-Pak game everything except cricket",
+   "deck": "EXPRESS ATASIACUP",
+   "byline": "SANDIPG; DUBAI, SEPTEMBER 22",
+   "text": "ARGUABLY THE most acrimonious India-Pakistan cricket match ever, Sunday's Asia Cup Super 4 league game at Dubai wasn't quite 'war minus the shooting' as the late American writer Mike Marqusee famously described such contests between the arch rivals. The match witnessed an unending war of words, along with some imaginary shooting. The tense T20 game, which India won by six wickets and an over to spare, saw several alter-cations but the most talked about were the ones involving the rampaging Indian openers Abhishek Sharma and Shubman\n\nGilland Pakistan's senior pacers Shaheen Afridi and Haris Rauf. During the powerplay of the Indian innings, Haris, after an expensive over and a seemingly abusive face-off with Sharma",
+   "n_words": 114,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 14.5,
+ "flags": []
+}

@@ -1,0 +1,627 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_17_front",
+ "source_file": "2025-11-17_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-17_front.png",
+ "date": "2025-11-17",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 840,
+  "n_lines": 360,
+  "mean_line_conf": 88.37147045855379,
+  "orphan_words": 5,
+  "body_words_total": 1190
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3585,
+      843,
+      4182,
+      879
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 88.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1789,
+      1005,
+      3128,
+      1415
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1789,
+      936,
+      2660,
+      980
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      1463,
+      2148,
+      1536
+     ],
+     [
+      1786,
+      1584,
+      2228,
+      1937
+     ],
+     [
+      2275,
+      1428,
+      2720,
+      1937
+     ],
+     [
+      2319,
+      2087,
+      2673,
+      2180
+     ],
+     [
+      2366,
+      2223,
+      2705,
+      2336
+     ],
+     [
+      2763,
+      1428,
+      3230,
+      1932
+     ]
+    ],
+    "layout_words": 178
+   },
+   "headline_raw": "Prime Minister Modito\ndeliver Sixth Ramnath\nGoenka Lecture today",
+   "deck_raw": "\u2018COMMITMENT TO POWER OF IDEAS\u2019",
+   "body_raw": "Express News Service\nNew Dethi, November 16\n\nPRIME MINISTER Narendra\nModi will deliver the Sixth\nRamnath Goenka Lecture here\nMonday.\nThe lecture, named after\nthe founder of the Express\nGroup, invites speakers who\nhave shaped change and in-\nspired critical thought on the\n\nmost pressing contemporary\nchallenges and issues.\n\u201cThis lecture is not a cer-\nemony but a commitment to\nthe values of truth-telling, ac-\ncountability, and the power of\nideas,\u201d said Viveck Goenka,\nChairman, Express Group.\n\u201cThis is atime when power\nequations of the world are\nbeing upended, when nations\nare redefining both their place\nand purpose and when uncer-\n\nBusiness as Usual\nBy EPUNNY\n\nYou voted in far (00 many\nJob seekers\nKs = 0\n\ntainty and volatility are the key-\nwords of our times. That\u2019s why\nlistening to the Prime Minister,\nrepresenting the highest\nelected office in the world\u2019s lar-\ngest democracy, has a deeper\nresonance,\u201d hesaid.\nGoenka said that the Prime\nMinister, speaking in Ramnath\nGoenka\u2019s name, is \u201ca reaffirm-\nation that the dialogue between\nthe state and the free press\n\u00bbCONTINUEDON PAGE 2 |",
+   "ocr_conf": 90.10055865921788,
+   "ocr_low_conf_share": 0.061452513966480445,
+   "headline": "Prime Minister Modito deliver Sixth Ramnath Goenka Lecture today",
+   "deck": "'COMMITMENT TO POWER OF IDEAS'",
+   "byline": "",
+   "text": "Express News Service New Dethi, November 16\n\nPRIME MINISTER Narendra Modi will deliver the Sixth Ramnath Goenka Lecture here Monday. The lecture, named after the founder of the Express Group, invites speakers who have shaped change and inspired critical thought on the\n\nmost pressing contemporary challenges and issues. \"This lecture is not a ceremony but a commitment to the values of truth-telling, accountability, and the power of ideas,\" said Viveck Goenka, Chairman, Express Group. \"This is atime when power equations of the world are being upended, when nations are redefining both their place and purpose and when uncer-\n\nBusiness as Usual By EPUNNY\n\nYou voted in far (00 many Job seekers\n\ntainty and volatility are the keywords of our times. That's why listening to the Prime Minister, representing the highest elected office in the world's largest democracy, has a deeper resonance,\" hesaid. Goenka said that the Prime Minister, speaking in Ramnath Goenka's name, is \"a reaffirmation that the dialogue between the state and the free press \u00bbCONTINUEDON PAGE 2",
+   "n_words": 169,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      738,
+      1851,
+      1490,
+      1920
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      974,
+      1903,
+      1490,
+      1938
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "PRLARSHMES rane | > | Tulip | rita\ncomes THRO RAJMANS it |",
+   "deck_raw": "",
+   "body_raw": "greener - ane r | lem\n\u2014ann | RAIHANS | \"|",
+   "ocr_conf": 17.363636363636363,
+   "ocr_low_conf_share": 0.9090909090909091,
+   "headline": "PRLARSHMES rane > Tulip rita comes THRO RAJMANS it",
+   "deck": "",
+   "byline": "",
+   "text": "greener - ane r lem - ann RAIHANS \"",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      2041,
+      3644,
+      2339
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      2376,
+      3102,
+      2453
+     ],
+     [
+      2762,
+      2381,
+      3696,
+      3168
+     ],
+     [
+      2762,
+      2500,
+      3206,
+      2890
+     ],
+     [
+      2596,
+      5977,
+      3205,
+      6012
+     ],
+     [
+      2532,
+      6093,
+      3938,
+      6127
+     ]
+    ],
+    "layout_words": 200
+   },
+   "headline_raw": "Terror group doctor\u2019s\nneighbour sets self on\nfire after son picked up",
+   "deck_raw": "",
+   "body_raw": "Bashaarat Masood\nSrinagar, November 16\n\nBashaarat Masood where he worked at a private\nSrinagar, November 16 hospital.\nOO Wani\u2019s family claimed that\nANEIGHBOURofoneoftheal- _hisson, college student Jasir\nleged members ofthe terror Bilal, was picked up by police\nmodule linked tothe Red Fort four days ago and his brother,\nblast sethimselfonfireSunday Nabeel Ahmad, ateacher, was\nmorning andwasrushedtothe picked up two days ago. On Sat-\nSher-i-Kashmir Institute of | urday morning, the family said\nMedical Sciences (SKIMS)in Waniwascalled to Qazigund\nSrinagar, where heissaidtobe _ police station. Wani returned\nin acritical condition. home that night. However, his\nBilal Ahmad Wani (55),adry sonand brother remain in po-\nfruits seller, lived at Qazigund _ lice custody, the family claimed.\nin south Kashmir, near the Afamily member said Wani\nhome of Adeel Rather,adoctor returned home visibly dis-\naccused ofbeing part oftheter- turbed. \u201cHe (Wani) didn\u2019t talk\nror module. Rather was ar- to anyone. He was very dis-\nrested earlier this month from turbedandcould noteven walk\nUttar Pradesh\u2019s Saharanpur, \u00bbCONTINUED ON PAGE 2\n\nANEIGHBOUR ofone of theal-\nleged members of the terror\nmodule linked to the Red Fort\nblast set himselfon fire Sunday\nmorning and was rushed tothe\nSher-i-Kashmir Institute of\nMedical Sciences (SKIMS) in\nSrinagar, where he is said tobe\nin acritical condition.\nBilal Ahmad Wani (55), adry\n\nToll Free Number 1800 209 1415\n\nHead Office : New India Assurance Building, 87, M.G. Road, Fort, Mumbai - 400001, INDIA",
+   "ocr_conf": 85.87982832618026,
+   "ocr_low_conf_share": 0.10300429184549356,
+   "headline": "Terror group doctor's neighbour sets self on fire after son picked up",
+   "deck": "",
+   "byline": "",
+   "text": "Bashaarat Masood Srinagar, November 16\n\nBashaarat Masood where he worked at a private Srinagar, November 16 hospital. OO Wani's family claimed that ANEIGHBOURofoneoftheal- _hisson, college student Jasir leged members ofthe terror Bilal, was picked up by police module linked tothe Red Fort four days ago and his brother, blast sethimselfonfireSunday Nabeel Ahmad, ateacher, was morning andwasrushedtothe picked up two days ago. On Sat-Sher-i-Kashmir Institute of urday morning, the family said Medical Sciences (SKIMS)in Waniwascalled to Qazigund Srinagar, where heissaidtobe _ police station. Wani returned in acritical condition. home that night. However, his Bilal Ahmad Wani (55),adry sonand brother remain in pofruits seller, lived at Qazigund _ lice custody, the family claimed. in south Kashmir, near the Afamily member said Wani home of Adeel Rather,adoctor returned home visibly disaccused ofbeing part oftheter- turbed. \"He (Wani) didn't talk ror module. Rather was ar- to anyone. He was very disrested earlier this month from turbedandcould noteven walk\n\nANEIGHBOUR ofone of thealleged members of the terror module linked to the Red Fort blast set himselfon fire Sunday morning and was rushed tothe Sher-i-Kashmir Institute of Medical Sciences (SKIMS) in Srinagar, where he is said tobe in acritical condition. Bilal Ahmad Wani (55), adry\n\nToll Free Number 1800 209 1415\n\nHead Office: New India Assurance Building, 87, M.G. Road, Fort, Mumbai - 400001, INDIA",
+   "n_words": 219,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3774,
+      2049,
+      4149,
+      2211
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3739,
+      2261,
+      4180,
+      2652
+     ],
+     [
+      3740,
+      2698,
+      4176,
+      3050
+     ],
+     [
+      3854,
+      5647,
+      4073,
+      5739
+     ]
+    ],
+    "layout_words": 94
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@ MINISTRY OF COMMERCE\nand Industry willrelease the\ntrade data for October. While the\nSeptember data showed\nexports to the US have begun\ntaking ahit, the October data will\nreveal the fullimpact of the 50%\nUS tariffs that came into effect\non August 27 on India\u2019s mer-\nchandise exports.\n\n@ BANGLADESHIS ONALERT\nasa tribunal is scheduled to\ndeliver its verdict against ousted\nPM Sheikh Hasina. The interim\ngovernment led by Muhammad\nYunus has demanded death\npenalty for Hasina, accusing\nher of crimes against humanity\nduring the protests last year.\n\nclaim the amount\nnewindia.co.in/\nourofficesV2/",
+   "ocr_conf": 89.19148936170212,
+   "ocr_low_conf_share": 0.06382978723404255,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "@ MINISTRY OF COMMERCE; @ BANGLADESHIS ONALERT",
+   "text": "and Industry willrelease the trade data for October. While the September data showed exports to the US have begun taking ahit, the October data will reveal the fullimpact of the 50% US tariffs that came into effect on August 27 on India's merchandise exports.\n\nasa tribunal is scheduled to deliver its verdict against ousted PM Sheikh Hasina. The interim government led by Muhammad Yunus has demanded death penalty for Hasina, accusing her of crimes against humanity during the protests last year.\n\nclaim the amount newindia.co.in/ ourofficesV2/",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      420,
+      2160,
+      2215,
+      2758
+     ]
+    ],
+    "deck_boxes": [
+     [
+      447,
+      2086,
+      2108,
+      2131
+     ],
+     [
+      841,
+      2781,
+      1957,
+      2828
+     ]
+    ],
+    "body_boxes": [
+     [
+      859,
+      3304,
+      1137,
+      3384
+     ],
+     [
+      964,
+      3569,
+      1209,
+      3720
+     ],
+     [
+      1261,
+      3569,
+      1752,
+      3680
+     ],
+     [
+      1844,
+      3160,
+      2008,
+      3191
+     ]
+    ],
+    "layout_words": 29
+   },
+   "headline_raw": "After tax havens, dirty\nmoney finds anew\nhome: Cryptocurrency",
+   "deck_raw": "WITH INTERNATIONAL CONSORTIUM OF INVESTIGATIVE JOURNALISTS\neHOW CRYPTOIS USED TO LAUNDER MONEY",
+   "body_raw": "Crypto ATM Offshore\nForeign bank\nCurrency accounts\n\nExitincashor\nforeign accounts\n(incurrencies such\nas dirham)\n\nCan be movedto potentially any\njurisdiction as crypto, often switching\nblockchains. Dubai, China and\n\nCrypto coins",
+   "ocr_conf": 91.06666666666666,
+   "ocr_low_conf_share": 0.03333333333333333,
+   "headline": "After tax havens, dirty money finds anew home: Cryptocurrency",
+   "deck": "WITH INTERNATIONAL CONSORTIUM OF INVESTIGATIVE JOURNALISTS eHOW CRYPTOIS USED TO LAUNDER MONEY",
+   "byline": "",
+   "text": "Crypto ATM Offshore Foreign bank Currency accounts\n\nExitincashor foreign accounts (incurrencies such as dirham)\n\nCan be movedto potentially any jurisdiction as crypto, often switching blockchains. Dubai, China and\n\nCrypto coins",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2723,
+      809,
+      2870
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      2931,
+      745,
+      3083
+     ],
+     [
+      318,
+      3133,
+      763,
+      4469
+     ],
+     [
+      317,
+      4484,
+      758,
+      4589
+     ],
+     [
+      318,
+      4602,
+      763,
+      4947
+     ]
+    ],
+    "layout_words": 214
+   },
+   "headline_raw": "[EXPRESS |\ninvestigation",
+   "deck_raw": "",
+   "body_raw": "Ritu Sarin, Mahender Singh\nManral, Soumyarendra\nBarik & Jay Mazoomdaar\nNew Delhi, November 16\n\nCRYPTOCURRENCY = EX-\nCHANGES, operatinginaregu-\nlatory grey zone and powered\nby technologies that race far\nahead of policy, have become\nthe newest gateways and hubs\nfor dirty money to cross\nborders. Indian agencies are\nnow scrambling to keep pace.\nThese findings emerge from\nThe Coin Laundry, an investi-\ngation by The Indian Expressin\npartnership with the Interna-\ntional Consortium of Investi-\ngative Journalists (ICIJ).\nSpanning 10monthsand in-\nvolving 113 reporters across 38\nnewsrooms, including The New\nYork Times, Suddeutsche Zei-\ntung, Le Monde and Malaysia-\nkini, the project uncovers how\ncrypto exchanges worldwide\nhave spawned a shadow econ-\nomy where illicit transactions\nflow with unprecedented ease.\nOver the last nine years, ex-\nchanges have facedat least $5.8\nbillion in fines, penalties and\nsettlements. This is an indica-\ntion of how large, and how\nopaque, this parallel financial\nuniverse has become, a space\nthat was once dominated by tax\nhavens.\n\nThe India angle, investi-\ngated by The Indian Express,\nreveals:\n\n@ In just 21 months, be-\ntween January 2024 and Sep-\ntember 2025, the Home Minis-\ntry\u2019s Indian Cyber Crime\nCoordination Centre (I4C)\nflagged at least 27 crypto ex-\nchanges for allegedly being\nused aslaundering channels by\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 93.28638497652582,
+   "ocr_low_conf_share": 0.018779342723004695,
+   "headline": "[EXPRESS investigation",
+   "deck": "",
+   "byline": "",
+   "text": "Ritu Sarin, Mahender Singh Manral, Soumyarendra Barik & Jay Mazoomdaar New Delhi, November 16\n\nCRYPTOCURRENCY = EX-CHANGES, operatinginaregulatory grey zone and powered by technologies that race far ahead of policy, have become the newest gateways and hubs for dirty money to cross borders. Indian agencies are now scrambling to keep pace. These findings emerge from The Coin Laundry, an investigation by The Indian Expressin partnership with the International Consortium of Investigative Journalists (ICIJ). Spanning 10monthsand involving 113 reporters across 38 newsrooms, including The New York Times, Suddeutsche Zeitung, Le Monde and Malaysiakini, the project uncovers how crypto exchanges worldwide have spawned a shadow economy where illicit transactions flow with unprecedented ease. Over the last nine years, exchanges have facedat least $5.8 billion in fines, penalties and settlements. This is an indication of how large, and how opaque, this parallel financial universe has become, a space that was once dominated by tax havens.\n\nThe India angle, investigated by The Indian Express, reveals:\n\n@ In just 21 months, between January 2024 and September 2025, the Home Ministry's Indian Cyber Crime Coordination Centre (I4C) flagged at least 27 crypto exchanges for allegedly being used aslaundering channels by",
+   "n_words": 194,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2278,
+      2802,
+      2506,
+      2845
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2274,
+      2881,
+      2711,
+      3151
+     ],
+     [
+      2387,
+      6011,
+      2489,
+      6044
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "POLITICS",
+   "deck_raw": "",
+   "body_raw": "NEW BIHAR GOVT:\nEQUALJDU, BJP\nSHARE ON TABLE\nChirag Paswan\u2019s party may\nbe offered two ministerial\nberths PAGE8\n\nOMPRY",
+   "ocr_conf": 91.21052631578948,
+   "ocr_low_conf_share": 0.05263157894736842,
+   "headline": "POLITICS",
+   "deck": "",
+   "byline": "NEW BIHAR GOVT:; EQUALJDU, BJP; SHARE ON TABLE; OMPRY",
+   "text": "Chirag Paswan's party may be offered two ministerial berths PAGE8",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3689,
+      2223,
+      3803
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      3805,
+      2162,
+      3877
+     ],
+     [
+      1785,
+      3950,
+      2205,
+      4244
+     ],
+     [
+      1783,
+      4282,
+      2158,
+      4356
+     ],
+     [
+      1781,
+      4404,
+      2226,
+      5276
+     ],
+     [
+      1784,
+      5278,
+      2227,
+      5464
+     ],
+     [
+      1783,
+      5579,
+      2150,
+      5689
+     ],
+     [
+      1784,
+      5723,
+      2169,
+      5811
+     ],
+     [
+      1783,
+      5852,
+      2150,
+      5939
+     ]
+    ],
+    "layout_words": 162
+   },
+   "headline_raw": ". . . . . ot SL\nas dirham) Cambodia are popular destinations ~ \\ . i \u201ca Ga\nL ~ _\nNote: Mule accounts are used for illegal activities; pool accounts hold funds from multiple sources; unhosted",
+   "deck_raw": "",
+   "body_raw": "wallets are controlled by users, not exchang es; mixer wallets mix assets to obscure sources; P2P/OTC are\ndirect party-to-party transactions\n\nAgencies track\ntrail: India to\nChina via Dubai\nand Cambodia\n\nMahender Singh Manral\nNew Dethi, November 16\n\nINVESTIGATIONS BY Indian\nauthorities into howcryptocur-\nrency is used to funnel money\nstolen through cybercrimes to\ntransnational syndicates have\nledthemtoarecurring maze \u2014\nfrom anonymous digital wal-\nlets to blacklisted crypto ex-\nchanges in Dubai, onward to\nsimilar exchanges in Cambo-\ndia, and finally to Chinese scam\nnetworks.\nThis is the key takeaway\nfrom an analysis of at least 144\ncases by Indian Cyber Crime\nCoordination Centre (I4C), the\nUnion Home Ministry\u2019s cyber\nfraud unit, according torecords\nreviewed by The Indian Ex-\npressas pait of The Coin Laun-\ndry \u2014 an investigation in as-\nsociation with the\n\nInternational Consortium of\nInvestigative Journalists (ICLJ)\nonhow the crypto industry has\nprofited from illicit financial\nflows.\n\nEXPLAINED\nWHAT IS CRYPTO?\n\nWHAT ARE CRYPTO\nEXCHANGES?\n\nWHY ARE THEY SO\nHARD TO TRACK?",
+   "ocr_conf": 90.26829268292683,
+   "ocr_low_conf_share": 0.06097560975609756,
+   "headline": "as dirham) Cambodia are popular destinations ~ \\. i \"a Ga Note: Mule accounts are used for illegal activities; pool accounts hold funds from multiple sources; unhosted",
+   "deck": "",
+   "byline": "",
+   "text": "wallets are controlled by users, not exchang es; mixer wallets mix assets to obscure sources; P2P/OTC are direct party-to-party transactions\n\nAgencies track trail: India to China via Dubai and Cambodia\n\nMahender Singh Manral New Dethi, November 16\n\nINVESTIGATIONS BY Indian authorities into howcryptocurrency is used to funnel money stolen through cybercrimes to transnational syndicates have ledthemtoarecurring maze - from anonymous digital wallets to blacklisted crypto exchanges in Dubai, onward to similar exchanges in Cambodia, and finally to Chinese scam networks. This is the key takeaway from an analysis of at least 144 cases by Indian Cyber Crime Coordination Centre (I4C), the Union Home Ministry's cyber fraud unit, according torecords reviewed by The Indian Expressas pait of The Coin Laundry - an investigation in association with the\n\nInternational Consortium of Investigative Journalists (ICLJ) onhow the crypto industry has profited from illicit financial flows.\n\nEXPLAINED WHAT IS CRYPTO?\n\nWHAT ARE CRYPTO EXCHANGES?\n\nWHY ARE THEY SO HARD TO TRACK?",
+   "n_words": 157,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3946,
+      1696,
+      4115
+     ],
+     [
+      809,
+      3953,
+      1034,
+      4017
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4161,
+      1167,
+      4235
+     ],
+     [
+      1297,
+      4166,
+      1737,
+      4676
+     ],
+     [
+      807,
+      4285,
+      1248,
+      4676
+     ],
+     [
+      1199,
+      4635,
+      1341,
+      4676
+     ],
+     [
+      807,
+      4718,
+      1737,
+      4948
+     ]
+    ],
+    "layout_words": 124
+   },
+   "headline_raw": "New crypto adds many\nblindfolds to old hawala\nNewc",
+   "deck_raw": "",
+   "body_raw": "Jay Mazoomdaar\nNew Delhi, November 16\n\ndeals but now riding on virtual\nassets through digital routes.\nWhen it comes to dirty money\nflows, old hawala hasembraced\nthe new crypto. Key to this are\n___._ two factors: technol-\nogy and crypto\u2019s grey\n\"1 1H zone ofregulation.\nThis grey zone\n\u201c cutting across bor-\n; dershasbroughtano-\nnymity and ramped\nitl up efficiency to ha-\n\n\u00ae@A Ghaziabad trader chan-\nnelled crime proceeds of Rs 13\ncrore to a Dubai-\nbased wallet in 2024.\ne Investigators THE\nchargeda Delhi busi-\nnessman with mov- x\ning over Rs 4,000 ,\ncrore internationally WS\nthrough fabricated LAu\n\nLAunudY\n\ncompanies. network of faceless\n@Agenciesrecordedmorethan individuals operating outside\nRs 1,000 crore of cyberfraud the formal bankingsystem.\nproceeds exiting Indiathrough \u201cThe blindfold is now\ncrypto walletsthisyearalone. multi-layered,\u201d said a senior\nTHESE ARE all hawala \u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 85.02898550724638,
+   "ocr_low_conf_share": 0.10144927536231885,
+   "headline": "New crypto adds many blindfolds to old hawala Newc",
+   "deck": "",
+   "byline": "",
+   "text": "Jay Mazoomdaar New Delhi, November 16\n\ndeals but now riding on virtual assets through digital routes. When it comes to dirty money flows, old hawala hasembraced the new crypto. Key to this are ___._ two factors: technology and crypto's grey \"1 1H zone ofregulation. This grey zone \" cutting across bor-; dershasbroughtanonymity and ramped itl up efficiency to ha-\n\n\u00ae@A Ghaziabad trader channelled crime proceeds of Rs 13 crore to a Dubai-based wallet in 2024. e Investigators THE chargeda Delhi businessman with mov- x ing over Rs 4,000, crore internationally WS through fabricated LAu\n\nLAunudY\n\ncompanies. network of faceless @Agenciesrecordedmorethan individuals operating outside Rs 1,000 crore of cyberfraud the formal bankingsystem. proceeds exiting Indiathrough \"The blindfold is now crypto walletsthisyearalone. multi-layered,\" said a senior THESE ARE all hawala \u00bbCONTINUEDON PAGE 2",
+   "n_words": 131,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5027,
+      1723,
+      5356
+     ],
+     [
+      317,
+      5477,
+      759,
+      5554
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      5353,
+      674,
+      5463
+     ],
+     [
+      316,
+      5557,
+      760,
+      6027
+     ],
+     [
+      1293,
+      5358,
+      1739,
+      6021
+     ],
+     [
+      799,
+      6098,
+      1743,
+      6130
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "\u00b0 PROBE AGENCIES IN 4 CONTINENTS CRACKING DOWN ON HIS PONZI SCHEMES\nMeet Lado, crypto-accused behind\nDisha Patani film, Musk mom\u2019s party\nHE\u2019STHE creator ofamovie by",
+   "deck_raw": "",
+   "body_raw": "Ritu Sarin, Scilla Alecci\n& Fergus Shiel\nNovember 16\n\nOscar-winner Kevin Spacey,\nwith Bollywood star Disha Pa-\ntani listed among the cast; heis\nthe face behind several investor\nsummits in India; he has even\npersuaded Elon Musk\u2019s\nmother, Maye, to pose for the\ncover of his new magazine \u2014\nlaunched during her birthday\nparty in Mumbai this year.\nMeet Vladimir Okhotnikov,\nbetter known as Lado, a47-year-\n\nold Russian entrepreneur ac-\ncused oforchestratinga seriesof\nglobal crypto currency scams\nthat investigators allege havesi-\nphoned as much as $1 billion\nfrom millions of unsuspecting\ninvestors across fourcontinents.\nUS prosecutors have\ncharged him with running For-\nsage, an alleged international\nPonzi and pyramid scheme\nthat used a rigged cryptocur-\nrency investment platform to\nsteal at least $340 million from\ninvestors between 2020 and\n2022. Last year, a Georgian\n\u00bbCONTINUED ON PAGE2\n\nFULL REPORT ON WWW.INDIANEXPRESS.COM",
+   "ocr_conf": 92.09219858156028,
+   "ocr_low_conf_share": 0.028368794326241134,
+   "headline": "\u00b0 PROBE AGENCIES IN 4 CONTINENTS CRACKING DOWN ON HIS PONZI SCHEMES Meet Lado, crypto-accused behind Disha Patani film, Musk mom's party HE'STHE creator ofamovie by",
+   "deck": "",
+   "byline": "",
+   "text": "Ritu Sarin, Scilla Alecci & Fergus Shiel November 16\n\nOscar-winner Kevin Spacey, with Bollywood star Disha Patani listed among the cast; heis the face behind several investor summits in India; he has even persuaded Elon Musk's mother, Maye, to pose for the cover of his new magazine - launched during her birthday party in Mumbai this year. Meet Vladimir Okhotnikov, better known as Lado, a47-yearold Russian entrepreneur accused oforchestratinga seriesof global crypto currency scams that investigators allege havesiphoned as much as $1 billion from millions of unsuspecting investors across fourcontinents. US prosecutors have charged him with running Forsage, an alleged international Ponzi and pyramid scheme that used a rigged cryptocurrency investment platform to steal at least $340 million from investors between 2020 and 2022. Last year, a Georgian",
+   "n_words": 128,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 15.9,
+ "flags": []
+}

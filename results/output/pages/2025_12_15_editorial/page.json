@@ -1,0 +1,746 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_15_editorial",
+ "source_file": "2025-12-15_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-15_editorial.png",
+ "date": "2025-12-15",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 483,
+  "n_lines": 543,
+  "mean_line_conf": 89.2286666781142,
+  "orphan_words": 0,
+  "body_words_total": 3203
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      421,
+      579,
+      1104,
+      644
+     ]
+    ],
+    "deck_boxes": [
+     [
+      369,
+      697,
+      1157,
+      814
+     ]
+    ],
+    "body_boxes": [
+     [
+      681,
+      840,
+      844,
+      871
+     ],
+     [
+      574,
+      920,
+      951,
+      995
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "$ The IndianEXPRESS",
+   "deck_raw": "~ FOUNDED BY ~\nRAMNATH GOENKA",
+   "body_raw": "IN 1932\n\nBECAUSE THE TRUTH\nINVOLVES US ALL",
+   "ocr_conf": 95.375,
+   "ocr_low_conf_share": 0.0,
+   "headline": "$ The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1362,
+      567,
+      4118,
+      914
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      950,
+      1903,
+      2538
+     ],
+     [
+      1947,
+      951,
+      2554,
+      2333
+     ],
+     [
+      2924,
+      951,
+      3531,
+      2341
+     ],
+     [
+      1948,
+      2054,
+      3466,
+      2380
+     ],
+     [
+      1947,
+      2352,
+      3528,
+      2540
+     ],
+     [
+      3573,
+      952,
+      4182,
+      2341
+     ],
+     [
+      3588,
+      2386,
+      4177,
+      2537
+     ]
+    ],
+    "layout_words": 987
+   },
+   "headline_raw": "In Trump-MbS bonhomie, Riyadh\u2019s\nwin, for Washington an uncertain bet",
+   "deck_raw": "",
+   "body_raw": "HE CROWN Prince of Saudi\nArabia, Mohammed bin Sal-\nman (MbS), recently visited\nWashington, DC, and was\ngranted a state-like reception,\ncomplete with a mounted honour guard\nanda flyover of F-35and F-15 jets. President\nDonald Trump publicly exonerated him for\nthe murder of the dissident Jamal Khas-\nhoggi, and celebrated the promise of $1 tril-\nlion in Saudi investments into the US econ-\nomy. Thevisit accomplished several things\nfor each side, some symbolic and others\nmore tangible. While the Saudis appear to\nhave come out ahead in this exchange,\nMbS's intimate association with President\nTrump may ultimately prove costly with a\nfuture Democratic administration.\nThe Crown Prince had three objectives.\nThe first was to restore his standing in the\nUnited States as a respected international\nleader andtheundisputed ruler of the king-\ndom. His meetings with President Trump\nin the Oval Office, over a formal dinner in\nthe White House, and then with congres-\nsional and business leaders, iournalists, and\npolicy experts all indicate that he has ac-\ncomplished this. In addition, the respect\nand prominence he was accorded as Saudi\nArabia's de facto leader played to Saudi na-\ntionalist sensibilities back home.\nThe second aim was thesigning ofastra-\ntegic defence agreement that promises US\nprotection against external aggressors. The\ndetails of this agreement \u2014 which falls short\nofa full treaty \u2014 havenot been made public,\nbut it appearstoinclude the streamlining of\narmsexports, joint military taining, and US\nbasing access. Riyadh ultimately wants to\nberecognised asa strategic ally ofthe United\n\nStates on par with, say, France or Japan. Se-\ncurity has been a perennial concern for\nSaudi Arabia, and the kingdom sees the US\nas the only powerabie to provide protection\nagainst aggressive neighbours like Iran and\nthe Houthis in Yemen. This conviction has\nbeen reinforced by the superior perform-\nance of US weapons and defence systems\n(CENTCOM) during the war between Israel\nand its enemies over the last two years.\nWhilethe kingdom could not obtaina presi-\ndential executive order on security, as Qatar\ndidin September, it did receive considerable\nsymbolic support from Trump, who de-\nclared that all US weapons systems were\navailable for purchase, including the F-35\naircraft. Saudi Arabia was also designated a\nMajor Non-NATO Ally. The question ofa\ntreaty is tied to normalisation with Israel \u2014\nsomething President Trump craves, both to\nexpand theAbraham Accordsand to obtain\naNobel Peace Prize. Unfortunately for him,\nhowever, Riyadh is unwilling to normalise\nunless and until Jerusalem provides a\ncredible path to a Palestinian state. This is\nlargely because the tragic situation in Gaza\nhas heightened concerns among\nordinary Saudis for the plight ofthe\nPalestinians, and MbS cannot ig-\nnore that. Unite\nMbS\u2019s third \u2014 and perhaps F\nmostimportant goal\u2014pertainsto |\nobtaining access to US artificial in-\ntelligence, whichheseesascentral SOUN\nto the economic diversification read\n\nductors and the development of advanced\nAl applications and infrastructure to the\nKingdom. Most critically, Saudi obtaineda\npermit to import 35,000 advanced chips\nfrom NVIDIA for its recently established AI\ncompany, Humain. In returm, it has prom-\nised to limit its relationship with China in\nthisdomain and toprovide guarantees that\nit will not allow leaks of this technology to\nBeijing. Saudi Arabia wants to become a\nglobal AI development hub that will gener-\nate jobs and new companies, anda position\nat the cutting edge of technological inno-\nvation. To achieve this, it argues that it has\nseveral comparative advantages likely to\nattract US companies to build datacentres\nthere. These include the relative abun-\ndance of cheap energy from both gas and\nrenewable sources, abundant state-con-\ntrolled land,alowregulatory environment,\ninexpensive capital, and rapid centralised\npermits \u2014 all of which are more con-\nstrained in Western countries. President\nTrump is supportive of this goal, just as he\nhas been with a similar ambition pursued\nby the United Arab Emirates, which also\nobtained comparable accessto US\nchip technology.\nWhat did the United States ob-\nturn? tain in return? First, President\np Trump secured his headline\n. soundbite that Saudi Arabia is\n|, readytoinvest$i trillion inthe US\nbia is economy, confirming his view of\nnthe MbS asa modern-day Croesus.\n\nne ee eee pene ON ON ON EE ONE . Dect aiiatiniiieieied <> ied\nPalestinians, and MbS cannot ig- What did the What did the United States\nnore that. United States obtain inreturn? tain in return? First, Presid\nMbS\u2019s third \u2014 and perhaps First President Trump Trump secured his head!\nmostimportant goal\u2014pertainsto , ed his headlin soundbite that Saudi Arabi\nobtaining access toUS artificial in- secur s eac \u20ac _ , readyto invest $1 trillion in the\ntelligence, whichheseesascentral soundbite that Saudi Arabia is economy, confirming his vie\nto the economic diversification ready toinvest $1 trillionin the MbS as a modern-day Croe:\nand development plan now USeconomy confirminghic Upon closer examination,\n\nand development plan now o \u2018 \u2018 Upon closer examination,\nunderway in Saudi Arabia. The US economy, confirming his however, all Saudi _invest-\ntwo governments signed a stra- view of MbS as amodern- ments willbe tied to the King-\ntegic AI partnership, allowing for day Croesus dom\u2019s devel- opmentgoalsand\nthe supply of advanced semicon- o will not con- sist of long-term\n\nplacements in the US. Here is how MbS ex-\npressed this: \u201cWe're not creating [invest-\nment] opportunitiesto please America[or]\nplease Trump. For example, when you ask\nabout Aland chips, Saudi Arabia hasa huge\ndemand, a huge need for computing\npower. And we're going to spend, in the\nshort term, around $50 billion by buying\nthose semiconductors for our needs in\nSaudi Arabia...\u201d Second, Saudi Arabia will\ncontinue, as it has done for decades, to buy\nAmerican weapons, buton this visit, there\nwas very little announced in terms of actual\nsales other than 300 Abrams tanks. Finally,\nit signed several other agreements: On ci-\nvilian nuclear energy that may benefit US\ncompanies when such power plants are\neventually built; and on mining and pro-\ncessing of rare earths that will help diversify\nthe supply chain for these minerals away\nfrom China. That the US is attempting to\nkeep Riyadh from establishing closer ties\nto China canalsobe considered a success.\nThis meeting and the agreements\nsigned provide the foundation for a more\nenduring and structural alliance between\nthe two countries. The fact that these\nagreements were initiated under President\nJoe Biden and have now been concluded\nunder Trump indicates that the relation-\nship is valued across the political dividein\nthe United States. The challenge for the\nSaudis will be to maintain such a consen-\nsusaboutits importance to the US oncethe\nTrump era ends.\n\nThe writer is professor, Near Eastem Studies,\nPrinceton University, and senior fellow\n(nonresident), Center for Peace and Security in\nthe Middle East, Hudson Institute",
+   "ocr_conf": 88.9737793851718,
+   "ocr_low_conf_share": 0.06329113924050633,
+   "headline": "In Trump-MbS bonhomie, Riyadh's win, for Washington an uncertain bet",
+   "deck": "",
+   "byline": "",
+   "text": "HE CROWN Prince of Saudi Arabia, Mohammed bin Salman (MbS), recently visited Washington, DC, and was granted a state-like reception, complete with a mounted honour guard anda flyover of F-35and F-15 jets. President Donald Trump publicly exonerated him for the murder of the dissident Jamal Khashoggi, and celebrated the promise of $1 trillion in Saudi investments into the US economy. Thevisit accomplished several things for each side, some symbolic and others more tangible. While the Saudis appear to have come out ahead in this exchange, MbS's intimate association with President Trump may ultimately prove costly with a future Democratic administration. The Crown Prince had three objectives. The first was to restore his standing in the United States as a respected international leader andtheundisputed ruler of the kingdom. His meetings with President Trump in the Oval Office, over a formal dinner in the White House, and then with congressional and business leaders, iournalists, and policy experts all indicate that he has accomplished this. In addition, the respect and prominence he was accorded as Saudi Arabia's de facto leader played to Saudi nationalist sensibilities back home. The second aim was thesigning ofastrategic defence agreement that promises US protection against external aggressors. The details of this agreement - which falls short ofa full treaty - havenot been made public, but it appearstoinclude the streamlining of armsexports, joint military taining, and US basing access. Riyadh ultimately wants to berecognised asa strategic ally ofthe United\n\nStates on par with, say, France or Japan. Security has been a perennial concern for Saudi Arabia, and the kingdom sees the US as the only powerabie to provide protection against aggressive neighbours like Iran and the Houthis in Yemen. This conviction has been reinforced by the superior performance of US weapons and defence systems (CENTCOM) during the war between Israel and its enemies over the last two years. Whilethe kingdom could not obtaina presidential executive order on security, as Qatar didin September, it did receive considerable symbolic support from Trump, who declared that all US weapons systems were available for purchase, including the F-35 aircraft. Saudi Arabia was also designated a Major Non-NATO Ally. The question ofa treaty is tied to normalisation with Israel - something President Trump craves, both to expand theAbraham Accordsand to obtain aNobel Peace Prize. Unfortunately for him, however, Riyadh is unwilling to normalise unless and until Jerusalem provides a credible path to a Palestinian state. This is largely because the tragic situation in Gaza has heightened concerns among ordinary Saudis for the plight ofthe Palestinians, and MbS cannot ignore that. Unite MbS's third - and perhaps F mostimportant goal - pertainsto obtaining access to US artificial intelligence, whichheseesascentral SOUN to the economic diversification read\n\nductors and the development of advanced Al applications and infrastructure to the Kingdom. Most critically, Saudi obtaineda permit to import 35,000 advanced chips from NVIDIA for its recently established AI company, Humain. In returm, it has promised to limit its relationship with China in thisdomain and toprovide guarantees that it will not allow leaks of this technology to Beijing. Saudi Arabia wants to become a global AI development hub that will generate jobs and new companies, anda position at the cutting edge of technological innovation. To achieve this, it argues that it has several comparative advantages likely to attract US companies to build datacentres there. These include the relative abundance of cheap energy from both gas and renewable sources, abundant state-controlled land,alowregulatory environment, inexpensive capital, and rapid centralised permits - all of which are more constrained in Western countries. President Trump is supportive of this goal, just as he has been with a similar ambition pursued by the United Arab Emirates, which also obtained comparable accessto US chip technology. What did the United States obturn? tain in return? First, President p Trump secured his headline. soundbite that Saudi Arabia is, readytoinvest$i trillion inthe US bia is economy, confirming his view of nthe MbS asa modern-day Croesus.\n\nne ee eee pene ON ON ON EE ONE. Dect aiiatiniiieieied <> ied Palestinians, and MbS cannot ig- What did the What did the United States nore that. United States obtain inreturn? tain in return? First, Presid MbS's third - and perhaps First President Trump Trump secured his head! mostimportant goal - pertainsto, ed his headlin soundbite that Saudi Arabi obtaining access toUS artificial in- secur s eac \u20ac _, readyto invest $1 trillion in the telligence, whichheseesascentral soundbite that Saudi Arabia is economy, confirming his vie to the economic diversification ready toinvest $1 trillionin the MbS as a modern-day Croe: and development plan now USeconomy confirminghic Upon closer examination,\n\nand development plan now o ' ' Upon closer examination, underway in Saudi Arabia. The US economy, confirming his however, all Saudi _investtwo governments signed a stra- view of MbS as amodern- ments willbe tied to the King-tegic AI partnership, allowing for day Croesus dom's devel- opmentgoalsand the supply of advanced semicon- o will not con- sist of long-term\n\nplacements in the US. Here is how MbS expressed this: \"We're not creating [investment] opportunitiesto please America[or] please Trump. For example, when you ask about Aland chips, Saudi Arabia hasa huge demand, a huge need for computing power. And we're going to spend, in the short term, around $50 billion by buying those semiconductors for our needs in Saudi Arabia...\" Second, Saudi Arabia will continue, as it has done for decades, to buy American weapons, buton this visit, there was very little announced in terms of actual sales other than 300 Abrams tanks. Finally, it signed several other agreements: On civilian nuclear energy that may benefit US companies when such power plants are eventually built; and on mining and processing of rare earths that will help diversify the supply chain for these minerals away from China. That the US is attempting to keep Riyadh from establishing closer ties to China canalsobe considered a success. This meeting and the agreements signed provide the foundation for a more enduring and structural alliance between the two countries. The fact that these agreements were initiated under President Joe Biden and have now been concluded under Trump indicates that the relationship is valued across the political dividein the United States. The challenge for the Saudis will be to maintain such a consensusaboutits importance to the US oncethe Trump era ends.\n\nThe writer is professor, Near Eastem Studies, Princeton University, and senior fellow (nonresident), Center for Peace and Security in the Middle East, Hudson Institute",
+   "n_words": 1074,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      1088,
+      1202,
+      1275
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1309,
+      1204,
+      1972
+     ]
+    ],
+    "layout_words": 181
+   },
+   "headline_raw": "Inflation is low, but\ndon\u2019t take eye off the ball",
+   "deck_raw": "",
+   "body_raw": "NDIA'S HEADLINE inflation raterose by 07 percent in No-\nvember. In other words, the overall price level in the econ-\nomy rose by lessthan a per cent this November when com-\npared to where it was12 months ago. By itself, this confirms\nwhat the Governor of Reserve Bank said in the recent monetary\npolicy review: That inflation at\u201ca benign 2.2 per cent\u201d (forthe full\nyear) and growth at 8.0 percent in the first half of the current fi-\nnancial year \u201cpresent a rare goldilocks period\u201d for the economy.\nWhilethe November numberis low, itwasa modest increaseover\nthe inflation rate in October. But the turnaround is not entirely\nsurprising since inflation hit a record low of 0.3 per cent in Oc-\ntober. Nor can the uptick be necessarily called a rebound since\nthe move is too small and that too over just one month.\nThe low November print has been part of the larger disinfla-\ntiontrend. In October2024 India\u2019s inflation rate was 6.21 per cent;\nhigher than theRBPscomfortzoneof2-6 percent. But sincethen,\nthere has been an almost secular decline in the inflation rate \u2014",
+   "ocr_conf": 86.22651933701657,
+   "ocr_low_conf_share": 0.09392265193370165,
+   "headline": "Inflation is low, but don't take eye off the ball",
+   "deck": "",
+   "byline": "",
+   "text": "NDIA'S HEADLINE inflation raterose by 07 percent in November. In other words, the overall price level in the economy rose by lessthan a per cent this November when compared to where it was12 months ago. By itself, this confirms what the Governor of Reserve Bank said in the recent monetary policy review: That inflation at\"a benign 2.2 per cent\" (forthe full year) and growth at 8.0 percent in the first half of the current financial year \"present a rare goldilocks period\" for the economy. Whilethe November numberis low, itwasa modest increaseover the inflation rate in October. But the turnaround is not entirely surprising since inflation hit a record low of 0.3 per cent in October. Nor can the uptick be necessarily called a rebound since the move is too small and that too over just one month. The low November print has been part of the larger disinflationtrend. In October2024 India's inflation rate was 6.21 per cent; higher than theRBPscomfortzoneof2-6 percent. But sincethen, there has been an almost secular decline in the inflation rate -",
+   "n_words": 175,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1982,
+      1201,
+      2040
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      2025,
+      1203,
+      2291
+     ]
+    ],
+    "layout_words": 64
+   },
+   "headline_raw": "disinflation \u2014 barring two instances (August and November)\nwhonthe insatinn ratemoveniin The fall hacheenanciterannia!",
+   "deck_raw": "",
+   "body_raw": "whenthe inflation rate moved up. The fall hasbeensosiitstantial\nthat in the second quarterofthe current financial year (July, Au-\ngust and September), the average headline inflation fora quarter\ncame in at 1.7 per cent \u2014 lower than the RBI\u2019s comfort zone. In\nfact, thisisthe first timesince theadoption ofthe flexible inflation\ntargeting regimein August2016thatthe lower bound ofthe RBI's\ncomfort zone has been breached.",
+   "ocr_conf": 87.50819672131148,
+   "ocr_low_conf_share": 0.09836065573770492,
+   "headline": "disinflation - barring two instances (August and November) whonthe insatinn ratemoveniin The fall hacheenanciterannia!",
+   "deck": "",
+   "byline": "",
+   "text": "whenthe inflation rate moved up. The fall hasbeensosiitstantial that in the second quarterofthe current financial year (July, August and September), the average headline inflation fora quarter came in at 1.7 per cent - lower than the RBI's comfort zone. In fact, thisisthe first timesince theadoption ofthe flexible inflation targeting regimein August2016thatthe lower bound ofthe RBI's comfort zone has been breached.",
+   "n_words": 60,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2301,
+      1203,
+      2421
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      2643,
+      1202,
+      2701
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      2423,
+      1203,
+      2656
+     ],
+     [
+      319,
+      2702,
+      1203,
+      2857
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "Policymakers would do well to keep their eyes peeled for\nchanges in underlying factors that determine headline inflation.\nThere isa difference between headlineinflation and coreinflation",
+   "deck_raw": "eee NET ng Mah RN TAREE EES SRLS eee i ye Ue\nheadline number quite substantially in either direction. If one",
+   "body_raw": "(thatis, inflation after the effect of food and fuel itemsis removed).\nThebulkofthe disinflationary trend isbecause of asharp collapse\nin food prices. Food inflation was almost 10 per cent in October\nlast yearbut it has been in negative territorysince Junethisyear.\nSince food items account for almost 50 per cent of the weight in\ncalculating retail inflation, thedeflationin food pricesmoves the\n\ntakes away food prices, core inflation hasactually been trending\nup over the past year and stands at 4.3 per cent \u2014 from 0.7per\ncent. Whilegoldis akey culprit for this divergence, it underscores\nhow policymakers cannot take their eyes off the ball.",
+   "ocr_conf": 89.06,
+   "ocr_low_conf_share": 0.06,
+   "headline": "Policymakers would do well to keep their eyes peeled for changes in underlying factors that determine headline inflation. There isa difference between headlineinflation and coreinflation",
+   "deck": "eee NET ng Mah RN TAREE EES SRLS eee i ye Ue headline number quite substantially in either direction. If one",
+   "byline": "",
+   "text": "(thatis, inflation after the effect of food and fuel itemsis removed). Thebulkofthe disinflationary trend isbecause of asharp collapse in food prices. Food inflation was almost 10 per cent in October last yearbut it has been in negative territorysince Junethisyear. Since food items account for almost 50 per cent of the weight in calculating retail inflation, thedeflationin food pricesmoves the\n\ntakes away food prices, core inflation hasactually been trending up over the past year and stands at 4.3 per cent - from 0.7per cent. Whilegoldis akey culprit for this divergence, it underscores how policymakers cannot take their eyes off the ball.",
+   "n_words": 100,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      2717,
+      2774,
+      2972
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      3022,
+      2226,
+      3294
+     ],
+     [
+      1566,
+      3278,
+      2226,
+      4172
+     ],
+     [
+      2271,
+      3023,
+      2878,
+      5048
+     ],
+     [
+      2273,
+      5092,
+      2950,
+      5240
+     ]
+    ],
+    "layout_words": 489
+   },
+   "headline_raw": "Why is India pursuing FTAs?\nIt\u2019s not just economics",
+   "deck_raw": "",
+   "body_raw": "NDIA NOW appears poised to seal\na Free Trade Agreement (FTA) with\nNew Zealand, as talks continue\nwith Oman, Chile, Israel, Canada\nand others. Why is India pursuing\nso many agreements? India is signing not\nonly broad regional deals, but also bilat-\n\n: Olly UIOdd ICelUlldl Utedls, VUL alsO UMdl~\nerals with countries already embeddedin\nL other regional blocs.\n: Empirical evidence suggests FTAs\nrarely create new trade; they tend to for-\nmalise existing, substantial bilateral\nflows. Any FTA creates winners (ex-\nporters) and losers (firms competing with\ncheaper imports). Unless these political\nforces balance each other, agreements\nstall or underperform, as happened with\nthe ASEAN FTA. Only when pre-existing\ntrade volumes are large enough to gener-\nate both significant support and opposi-\ntion dothese pressures cancel out. IfFTAs\ndo not expand trade, why negotiate them?\nIncreasingly, FTAs are serving as plat-\nforms for cooperation in areas the WTO\nhas struggled with, including services, in-\nvestment, and other WTO-plus commit-\nments. These demand deeper engagement\nbut enable forms of integration that multi-\nlateral processes cannot presently deliver.\n\nwere already low, limiting India\u2019s gains.\nPartner countries often benefited more,\nsometimes via Chinese goods routed\nthrough RTA members, fuelling resis-\ntanceamong the Indian industry. India\u2019s\ncomparative advantage in services re-\nmained underutilised because ASEAN\nmembers resisted meaningful services\nliberalisation; even today, Singapore is\nthe lone partial exception.\nIndia has now about 18 RTAs/PTAs\n(Preferential Trade Agreements) in force\nacross Asia, the Asia-Pacific, Latin\nAmerica and Africa. Yet only eight in-\ncludeservices agreements, and only two,\nSouth Korea and ASEAN, have end dates\nfor implementation. Even there, move-\nment has been limited. Only South Korea\nand Singapore show hints of progress in\nservices trade.\nWhy, then, sign so many? The answer\nlies largely outside economics. Some\nRTAs, like ASEAN, were crafted to ad-\nvance broader strategic objectives of the\nQUAD (India, the US, Australia and\nJapan), especially in the Indo-Pacific. In-\ndia\u2019s later agreement with Australia\nseems similarly driven by political logic\nrather than prospects of significant econ-\nomic gain. RTAs with countries like the\nUAE reflect a clearer services-and-invest-\nment rationale. Negotiations with the EU\nand the UK, long in the pipeline, remain\nworks in progress, and it istoosoon toas-\nsess gains beyond commodity trade.\nTrump\u2019s flurry of bilateral FTAs has\nscrambled global calculations. If the US\nand China crystallise into a new \u201cG2\u201d,\nwhat happens to the QUAD, and to the\nRTAs around it? This uncertainty partly\nexplains India\u2019s own burst of agreements\nwith almost every imaginable partner. As\ngeopolitics shifts, the purpose of RTAs is\nshifting with it: From economic instru-\nments to political safety nets. About time\n\u2014 after alull, an India-Russia FTA looks\nincreasingly logical. In the emerging\nworld order, RTAs will bedriven far more\nby strategic considerations than econ-\nomic logic. The MEA, not the Commerce\nMinistry, is in the driver\u2019s seat.\n\nPant is Visiting Professor, Shiv Nadar University\nand former VC, lIFT and Dean, SIS/JNU.\nRahul is Assistant Professor, Institute of\nEconomicGrowth __",
+   "ocr_conf": 91.9215291750503,
+   "ocr_low_conf_share": 0.04225352112676056,
+   "headline": "Why is India pursuing FTAs? It's not just economics",
+   "deck": "",
+   "byline": "",
+   "text": "NDIA NOW appears poised to seal a Free Trade Agreement (FTA) with New Zealand, as talks continue with Oman, Chile, Israel, Canada and others. Why is India pursuing so many agreements? India is signing not only broad regional deals, but also bilat-\n\n: Olly UIOdd ICelUlldl Utedls, VUL alsO UMdl~ erals with countries already embeddedin L other regional blocs.: Empirical evidence suggests FTAs rarely create new trade; they tend to formalise existing, substantial bilateral flows. Any FTA creates winners (exporters) and losers (firms competing with cheaper imports). Unless these political forces balance each other, agreements stall or underperform, as happened with the ASEAN FTA. Only when pre-existing trade volumes are large enough to generate both significant support and opposition dothese pressures cancel out. IfFTAs do not expand trade, why negotiate them? Increasingly, FTAs are serving as plat-forms for cooperation in areas the WTO has struggled with, including services, investment, and other WTO-plus commit-ments. These demand deeper engagement but enable forms of integration that multilateral processes cannot presently deliver.\n\nwere already low, limiting India's gains. Partner countries often benefited more, sometimes via Chinese goods routed through RTA members, fuelling resistanceamong the Indian industry. India's comparative advantage in services remained underutilised because ASEAN members resisted meaningful services liberalisation; even today, Singapore is the lone partial exception. India has now about 18 RTAs/PTAs (Preferential Trade Agreements) in force across Asia, the Asia-Pacific, Latin America and Africa. Yet only eight includeservices agreements, and only two, South Korea and ASEAN, have end dates for implementation. Even there, movement has been limited. Only South Korea and Singapore show hints of progress in services trade. Why, then, sign so many? The answer lies largely outside economics. Some RTAs, like ASEAN, were crafted to advance broader strategic objectives of the QUAD (India, the US, Australia and Japan), especially in the Indo-Pacific. India's later agreement with Australia seems similarly driven by political logic rather than prospects of significant economic gain. RTAs with countries like the UAE reflect a clearer services-and-investment rationale. Negotiations with the EU and the UK, long in the pipeline, remain works in progress, and it istoosoon toassess gains beyond commodity trade. Trump's flurry of bilateral FTAs has scrambled global calculations. If the US and China crystallise into a new \"G2\", what happens to the QUAD, and to the RTAs around it? This uncertainty partly explains India's own burst of agreements with almost every imaginable partner. As geopolitics shifts, the purpose of RTAs is shifting with it: From economic instruments to political safety nets. About time - after alull, an India-Russia FTA looks increasingly logical. In the emerging world order, RTAs will bedriven far more by strategic considerations than economic logic. The MEA, not the Commerce Ministry, is in the driver's seat.\n\nPant is Visiting Professor, Shiv Nadar University and former VC, lIFT and Dean, SIS/JNU. Rahul is Assistant Professor, Institute of EconomicGrowth __",
+   "n_words": 477,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2974,
+      2722,
+      4171,
+      2938
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2874,
+      5449,
+      3471,
+      5845
+     ],
+     [
+      2874,
+      5897,
+      3470,
+      6162
+     ],
+     [
+      3296,
+      3024,
+      4180,
+      3813
+     ]
+    ],
+    "layout_words": 265
+   },
+   "headline_raw": "India-Russia ties are on the rise\nandindecline at the same time",
+   "deck_raw": "",
+   "body_raw": "for only then will the industry pay atten-\ntion and improve the standard of goods. It\nis because the consumer does not de-\nmand and takes whatever is given to him\nthat we lack good quality, Gandhi said.\nSpeaking at a function at Maruti Udyog\npremises at Gurgaon to mark the release\nof the four-wheel drive, Maruti Gypsy,\nGandhi said that people must developa\nscientific temper.\n\nAssamelections\nTHE PRIME minister Rajiv Gandhi ex-\npressed the confidence that his party\nwould get a majority in the Assam elec-\ntions. The Prime Minister, who returned to\nGuwahati airport after addressing his last\n\nHE 23RD India-Russiasummit held on December\n5 was a showcase ofcontrasts. Itlooked like an un-\ndeniable success, demonstrating the proverbial\ndurability ofstrategic partnership ata time of glo-\nbal turmoil. One thing, however, was missing: Out-\ncomes. Two new joint ventures in pharmaceuticals and ferti-\nliser supply are significant, as are growing exchanges between\nmedia and civil societies. But it is hard to pick out any signifi-\ncant deal. Instead, New Delhi and Moscow opted for low-hang-\ning fruits and ostensibly agreed to leave high-value items for\nthe future.\nIs the current dynamic a continuation of the decline in the\nrelationship that has lasted since the early years of the previous\ndecade, or is ita renaissance of the strategic partnership that\nwould probably require further efforts to get back on track? Al-\nthoughthe relationship cannot bein declineand onthe rise sim-\nultaneously, the recent summit provided sufficientevidence for\nboth scenarios.\nThere is aclear upward trajectory with regular political con-\ntact and rekindled interest in expanding economic cooperation,",
+   "ocr_conf": 90.00754716981132,
+   "ocr_low_conf_share": 0.033962264150943396,
+   "headline": "India-Russia ties are on the rise andindecline at the same time",
+   "deck": "",
+   "byline": "",
+   "text": "for only then will the industry pay attention and improve the standard of goods. It is because the consumer does not demand and takes whatever is given to him that we lack good quality, Gandhi said. Speaking at a function at Maruti Udyog premises at Gurgaon to mark the release of the four-wheel drive, Maruti Gypsy, Gandhi said that people must developa scientific temper.\n\nAssamelections THE PRIME minister Rajiv Gandhi expressed the confidence that his party would get a majority in the Assam elections. The Prime Minister, who returned to Guwahati airport after addressing his last\n\nHE 23RD India-Russiasummit held on December 5 was a showcase ofcontrasts. Itlooked like an undeniable success, demonstrating the proverbial durability ofstrategic partnership ata time of global turmoil. One thing, however, was missing: Outcomes. Two new joint ventures in pharmaceuticals and fertiliser supply are significant, as are growing exchanges between media and civil societies. But it is hard to pick out any significant deal. Instead, New Delhi and Moscow opted for low-hanging fruits and ostensibly agreed to leave high-value items for the future. Is the current dynamic a continuation of the decline in the relationship that has lasted since the early years of the previous decade, or is ita renaissance of the strategic partnership that would probably require further efforts to get back on track? Althoughthe relationship cannot bein declineand onthe rise simultaneously, the recent summit provided sufficientevidence for both scenarios. There is aclear upward trajectory with regular political contact and rekindled interest in expanding economic cooperation,",
+   "n_words": 252,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      328,
+      2921,
+      1193,
+      3108
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1295,
+      3278,
+      1593,
+      3375
+     ]
+    ],
+    "body_boxes": [
+     [
+      314,
+      3141,
+      1205,
+      4848
+     ]
+    ],
+    "layout_words": 361
+   },
+   "headline_raw": "NHRC order on death in\ncustody is welcome",
+   "deck_raw": "MANOJ PANT\nAND M RAHUL",
+   "body_raw": "HE NATIONAL Human Rights Commission\u2019s\n(NHRC)directive to the Uttar Pradesh government to\npay Rs 10 lakh to the family of a36-year-oldman who\ndied in police custody in 2021 marks a welcome reaf-\nfirmation of the inviolability ofhuman dignity and the impera-\ntive ofaccountability, That this order arrives against a backdrop\nofsystemic failures makes it all the more resonant: According\nto official data, between 2020 and 2022, over 4,400 custodial\n(judicial and police) deaths were recorded nationwide, with UP\naccounting for 952 of them. In September 2023, the Gujarat\nState Law Commission flagged increasing incidents of custo-\ndial death in the state as \u201ca matter of great public concern\u201d. The\nStatus of Policing in India Report 2025, released in March this\nyear, showed an approval for coercive action among asizeable\npercentage of police personnel, based on surveys of 8,276 of-\nficers across 17 states/UTs.The NHRC\u2019s verdict sends a much-\nneeded, ifbelated, signal that institutional abdications cannot\nhide behind bureaucratic obfuscation.\nEstablished in 1993 under the Protection of Human Rights\nAct, the NHRC was conceived as a bulwark against state excess,\nmandated to investigate violations and negligence, recommend\nremedies and shape India\u2019s human-rights jurisprudence. For\nmuch ofits early life, it rose to that promise: Flagging over-\ncrowded and degrading prisonconditions, issuing thecountry\u2019s\nfirst comprehensive guidelines on extra-judicial killings, defend-\ning labour rights, standing with victims of communal violence\nand pressing forcompensation and redress. Over time, however,\nagrowingdeferencetogovernments, reluictaniceto pursue politi-\ncallysensitivecasesand opacity in appointments have gradually\nunderlined the institution's structural weaknesses: Non-binding\nrecommendations and limited enforcement powers, for in-\nstance, that had prompteda former chairperson todescribeit as\na \u201ctoothless tiger\u201d. In 2024, its accreditation with the UN-recog-\nnised Global AllianceofNational Human Rights Institutions was\ndeferred for a second year, citing among other things, a lack of\ntransparency and diversity in its appointments.\nAcynical reading will see the NHRC\u2019sdirective as asymbolic\ngesture. Yet, it also represents a welcome moment ofassertion,\nand a gesture towards a recovery of purpose. A verdict cannot\nsingle-handedly redeem institutional drift, just as compensa-\ntion cannot restore a life. But such interventions can re-anchor\nthecommission to its primary task: Speaking up forthe voice-\nless, and showing that vigilance matters.",
+   "ocr_conf": 88.88888888888889,
+   "ocr_low_conf_share": 0.058333333333333334,
+   "headline": "NHRC order on death in custody is welcome",
+   "deck": "MANOJ PANT AND M RAHUL",
+   "byline": "",
+   "text": "HE NATIONAL Human Rights Commission's (NHRC)directive to the Uttar Pradesh government to pay Rs 10 lakh to the family of a36-year-oldman who died in police custody in 2021 marks a welcome reaffirmation of the inviolability ofhuman dignity and the imperative ofaccountability, That this order arrives against a backdrop ofsystemic failures makes it all the more resonant: According to official data, between 2020 and 2022, over 4,400 custodial (judicial and police) deaths were recorded nationwide, with UP accounting for 952 of them. In September 2023, the Gujarat State Law Commission flagged increasing incidents of custodial death in the state as \"a matter of great public concern\". The Status of Policing in India Report 2025, released in March this year, showed an approval for coercive action among asizeable percentage of police personnel, based on surveys of 8,276 officers across 17 states/UTs.The NHRC's verdict sends a much-needed, ifbelated, signal that institutional abdications cannot hide behind bureaucratic obfuscation. Established in 1993 under the Protection of Human Rights Act, the NHRC was conceived as a bulwark against state excess, mandated to investigate violations and negligence, recommend remedies and shape India's human-rights jurisprudence. For much ofits early life, it rose to that promise: Flagging overcrowded and degrading prisonconditions, issuing thecountry's first comprehensive guidelines on extra-judicial killings, defending labour rights, standing with victims of communal violence and pressing forcompensation and redress. Over time, however, agrowingdeferencetogovernments, reluictaniceto pursue politicallysensitivecasesand opacity in appointments have gradually underlined the institution's structural weaknesses: Non-binding recommendations and limited enforcement powers, for instance, that had prompteda former chairperson todescribeit as a \"toothless tiger\". In 2024, its accreditation with the UN-recognised Global AllianceofNational Human Rights Institutions was deferred for a second year, citing among other things, a lack of transparency and diversity in its appointments. Acynical reading will see the NHRC'sdirective as asymbolic gesture. Yet, it also represents a welcome moment ofassertion, and a gesture towards a recovery of purpose. A verdict cannot single-handedly redeem institutional drift, just as compensation cannot restore a life. But such interventions can re-anchor thecommission to its primary task: Speaking up forthe voiceless, and showing that vigilance matters.",
+   "n_words": 348,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2987,
+      3326,
+      3215,
+      3388
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3029,
+      3280,
+      3188,
+      3316
+     ]
+    ],
+    "body_boxes": [
+     [
+      2971,
+      4454,
+      3246,
+      5202
+     ]
+    ],
+    "layout_words": 28
+   },
+   "headline_raw": "_ZAKHAROV",
+   "deck_raw": "ALEKSEI",
+   "body_raw": "The India-\nRussia\nrelationship is\nparadoxical.\nWhile it is\nsustainable\nthanks to long-\nstanding\nconnections in\ntraditional\nspheres, itis\nalso stagnant\nsince new areas\nhave notbeen\nclearly defined",
+   "ocr_conf": 94.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "_ZAKHAROV",
+   "deck": "ALEKSEI",
+   "byline": "",
+   "text": "The India-Russia relationship is paradoxical. While it is sustainable thanks to long-standing connections in traditional spheres, itis also stagnant since new areas have notbeen clearly defined",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3296,
+      3800,
+      4179,
+      3860
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3295,
+      3860,
+      4182,
+      4536
+     ],
+     [
+      3294,
+      4537,
+      4178,
+      5128
+     ],
+     [
+      3413,
+      5174,
+      4172,
+      5244
+     ],
+     [
+      3527,
+      5450,
+      4126,
+      5645
+     ]
+    ],
+    "layout_words": 335
+   },
+   "headline_raw": "el eee en eee ee ee eto ee a aU,\nparticularly on the Russian side. The latter was on full display",
+   "deck_raw": "",
+   "body_raw": "during the summit, with asizeable Russian delegation predomi-\nnantly comprising top officials from the Russian government's\neconomic bloc and banking officials. While previously India was\nmore ofan attraction for national security officials in terms of\ndefence and security cooperation and was rarely heeded by the\nupper echelons of the Russian financial circles, it is now being\nrediscovered as acountry of economic opportunities anda \u201csafe\nharbour\u201d for Russian businesses left with nochoice but toexplore\nnew markets. One such sign is the growing integration in the\nbanking sector. Currently, five Russian banks are operating in\nIndia with some of them eyeing expansion by opening new of-\nfices. The Russian Central Bank is also set to open a branch in\nMumbai in 2026. The rupee-rouble settlement mechanism has\nballooned in recent years.\nThereareseveral possibiereasons for the absence of new de-\nfencedeals, ranging from the ongoing negotiations requiring co-\nordination of technical and financial details, to a sensitive geo-\n\npolitical moment necessitating a low profile. Military\ncooperation iscurrently placed in a closed box notaccessible to\nthe public, and its true nature, like Schr\u00e9dinger\u2019s cat, is hard to\ndetermine. The verdict on its potential could be easierto make\nfollowing the end ofthe war in Ukraine when the environment\nmight become more conducive to announcements,\nThe India-Russia relationship is paradoxical While it is sus-\ntainable thanks to long-standing connections in traditional\nspheres, it is alsostagnant since new areas have not beenclearly\ndefined. It has withstood the fallout from the war in Ukraine, but\nhas also lost momentum and has encountered additional bar-\nriers. Although it has seena record risein trade, thishas been im-\nbalanced and transactional, and hasbeen entirely aby-product\nof oil shipments. As the relationship is contingent on many ex-\nternal variables, it will remain in a state of uncertainty.\n\nThe writer is a fellow, Strategic Studies Programme, Observer\nResearch Foundation, New Delhi\n\nelection meeting at Mangaldoi, was asked\nby newsmen about the Congress (I)\u2019s poll\nprospects. \u201clam confident my party will\nwin a majority,\u201d he told while boarding the\nplane for Delhi.",
+   "ocr_conf": 91.15384615384616,
+   "ocr_low_conf_share": 0.029585798816568046,
+   "headline": "el eee en eee ee ee eto ee a aU, particularly on the Russian side. The latter was on full display",
+   "deck": "",
+   "byline": "",
+   "text": "during the summit, with asizeable Russian delegation predominantly comprising top officials from the Russian government's economic bloc and banking officials. While previously India was more ofan attraction for national security officials in terms of defence and security cooperation and was rarely heeded by the upper echelons of the Russian financial circles, it is now being rediscovered as acountry of economic opportunities anda \"safe harbour\" for Russian businesses left with nochoice but toexplore new markets. One such sign is the growing integration in the banking sector. Currently, five Russian banks are operating in India with some of them eyeing expansion by opening new offices. The Russian Central Bank is also set to open a branch in Mumbai in 2026. The rupee-rouble settlement mechanism has ballooned in recent years. Thereareseveral possibiereasons for the absence of new defencedeals, ranging from the ongoing negotiations requiring coordination of technical and financial details, to a sensitive geopolitical moment necessitating a low profile. Military cooperation iscurrently placed in a closed box notaccessible to the public, and its true nature, like Schr\u00e9dinger's cat, is hard to determine. The verdict on its potential could be easierto make following the end ofthe war in Ukraine when the environment might become more conducive to announcements, The India-Russia relationship is paradoxical While it is sustainable thanks to long-standing connections in traditional spheres, it is alsostagnant since new areas have not beenclearly defined. It has withstood the fallout from the war in Ukraine, but has also lost momentum and has encountered additional barriers. Although it has seena record risein trade, thishas been imbalanced and transactional, and hasbeen entirely aby-product of oil shipments. As the relationship is contingent on many external variables, it will remain in a state of uncertainty.\n\nThe writer is a fellow, Strategic Studies Programme, Observer Research Foundation, New Delhi\n\nelection meeting at Mangaldoi, was asked by newsmen about the Congress (I)'s poll prospects. \"lam confident my party will win a majority,\" he told while boarding the plane for Delhi.",
+   "n_words": 329,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1621,
+      4195,
+      2225,
+      4453
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1668,
+      4177,
+      2225,
+      4230
+     ],
+     [
+      1620,
+      4531,
+      2224,
+      4585
+     ],
+     [
+      1428,
+      4575,
+      2224,
+      4648
+     ],
+     [
+      1621,
+      4695,
+      2224,
+      4790
+     ],
+     [
+      1529,
+      4774,
+      2223,
+      4849
+     ],
+     [
+      1621,
+      4933,
+      2224,
+      5009
+     ],
+     [
+      1620,
+      5092,
+      2227,
+      5207
+     ]
+    ],
+    "body_boxes": [
+     [
+      1621,
+      4376,
+      2224,
+      4410
+     ],
+     [
+      1290,
+      4447,
+      2227,
+      5207
+     ],
+     [
+      1621,
+      5212,
+      2223,
+      5246
+     ],
+     [
+      2146,
+      5712,
+      2158,
+      5749
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "BLAS dave aisO VCCUITe LOUL UF LUI-\neign policy. In an unstable world, re-\ngional and bilateral agreements offer\nstrategic insurance. States increasingly\nview them as mechanisms to reinforce\npolitical alignments rather than merely\nexpand trade. But if preferential trade",
+   "deck_raw": "FTAs have also become tools of for-\nmm nalicu In an unerahle warld ra\ngional Trade Agreement) should rise\nvaolatitzva tra alnhal teada Vat data fram\nws relative to global trade. Yet data from\nliseinto \u2014_ agreements concluded more than a dec-\nThe authors did some calculations\nusing ITC trade map data for the three\nRTAs with ASEAN. Korea and Janan.\n, RTAs with ASEAN, Korea and Japan,\n. using five-year averages of India\u2019s exports\nagreements. The share of India\u2019s total ex-\nports (imports) to each of the RTAs\nmained more or less the same or declined\nbefore and after the implementation of\nagreements. Most deals revolved around",
+   "body_raw": "political alignments rather than merely\n\ncalculations.If deals are to achieve even their limited\nthe US and economic purpose, intra-RTA trade (Re-\nChina gional Trade Agreement) should rise\n. relative to global trade. Yet data from\ncrystalliseinto \u2014_ agreements concluded more than adec-\nanew \u2018G2\u2019, ade ago show the opposite.\nwhat happens The authors did some calculations\ntotheQUAD, using ITC trade map data for the three\n, RTAs with ASEAN, Korea and Japan,\nand to the using five-year averages of India\u2019s exports\nRTAsaround _ to (and imports from) these regions be-\nit? This fore and after the implementation of\nrtaint agreements. The share of India\u2019s total ex-\nuncertain y ports (imports) to each of the RTAs\npartlyexplains __ relative to the share of India\u2019s exports\nIndia\u2019s own (imports) to the rest of the world re-\nburst of mained more or less the same or declined\nbefore and after the implementation of\nagreements agreements. Most deals revolved around\n\ncommodity trade, where partner tariffs\n\n",
+   "ocr_conf": 89.54037267080746,
+   "ocr_low_conf_share": 0.062111801242236024,
+   "headline": "BLAS dave aisO VCCUITe LOUL UF LUIeign policy. In an unstable world, regional and bilateral agreements offer strategic insurance. States increasingly view them as mechanisms to reinforce political alignments rather than merely expand trade. But if preferential trade",
+   "deck": "FTAs have also become tools of formm nalicu In an unerahle warld ra gional Trade Agreement) should rise vaolatitzva tra alnhal teada Vat data fram ws relative to global trade. Yet data from liseinto - _ agreements concluded more than a dec-The authors did some calculations using ITC trade map data for the three RTAs with ASEAN. Korea and Janan., RTAs with ASEAN, Korea and Japan,. using five-year averages of India's exports agreements. The share of India's total exports (imports) to each of the RTAs mained more or less the same or declined before and after the implementation of agreements. Most deals revolved around",
+   "byline": "",
+   "text": "political alignments rather than merely\n\ncalculations.If deals are to achieve even their limited the US and economic purpose, intra-RTA trade (Re-China gional Trade Agreement) should rise. relative to global trade. Yet data from crystalliseinto - _ agreements concluded more than adecanew 'G2', ade ago show the opposite. what happens The authors did some calculations totheQUAD, using ITC trade map data for the three, RTAs with ASEAN, Korea and Japan, and to the using five-year averages of India's exports RTAsaround _ to (and imports from) these regions beit? This fore and after the implementation of rtaint agreements. The share of India's total exuncertain y ports (imports) to each of the RTAs partlyexplains __ relative to the share of India's exports India's own (imports) to the rest of the world reburst of mained more or less the same or declined before and after the implementation of agreements agreements. Most deals revolved around\n\ncommodity trade, where partner tariffs",
+   "n_words": 155,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1342,
+      5448,
+      1788,
+      5572
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1367,
+      5756,
+      1670,
+      5823
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "40 YEARS AGO\nDecember 15, 1985",
+   "deck_raw": "",
+   "body_raw": "PM claims response [\nto six-nation call =",
+   "ocr_conf": 76.0,
+   "ocr_low_conf_share": 0.125,
+   "headline": "40 YEARS AGO",
+   "deck": "",
+   "byline": "",
+   "text": "PM claims response [ to six-nation call =",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2226,
+      5447,
+      2655,
+      5494
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2223,
+      5530,
+      2827,
+      5899
+     ],
+     [
+      2223,
+      5888,
+      2766,
+      5962
+     ],
+     [
+      2223,
+      6016,
+      2793,
+      6162
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "Rajiv\u2019s peaceinitiative",
+   "deck_raw": "",
+   "body_raw": "THE PRIME Minister Rajiv Gandhi said that the\nsix-nation joint initiative for peace had sug-\ngested a 12-month moratorium onnuclear\ntesting tothe superpowers, as part of anat-\ntempt to initiate a worldwide move for dis-\narmament. Participating in asix-nation award-\ngiving ceremony. at which he was one of the\nrecipients for efforts towards achievingworld\npeace and ensuringa world without war,\nvahich vsae talancact unrihisice farthe firct\n\nwhich was telecast woridwide for the first\ntime in history.\n\nCall for quality\nTHE PRIME Minister, Rajiv Gandhi, urged\nthe Indian consumer to demand quality,",
+   "ocr_conf": 80.05494505494505,
+   "ocr_low_conf_share": 0.17582417582417584,
+   "headline": "Rajiv's peaceinitiative",
+   "deck": "",
+   "byline": "",
+   "text": "THE PRIME Minister Rajiv Gandhi said that the six-nation joint initiative for peace had suggested a 12-month moratorium onnuclear testing tothe superpowers, as part of anat-tempt to initiate a worldwide move for disarmament. Participating in asix-nation award-giving ceremony. at which he was one of the recipients for efforts towards achievingworld peace and ensuringa world without war, vahich vsae talancact unrihisice farthe firct\n\nwhich was telecast woridwide for the first time in history.\n\nCall for quality THE PRIME Minister, Rajiv Gandhi, urged the Indian consumer to demand quality,",
+   "n_words": 87,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3528,
+      5699,
+      3934,
+      5747
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3526,
+      5769,
+      4119,
+      6162
+     ]
+    ],
+    "layout_words": 64
+   },
+   "headline_raw": "Noida villagedacoity",
+   "deck_raw": "",
+   "body_raw": "AGANG of about 10 dacoits armed\nwith country-made guns and sticks\nraided and looted at least 10 huts in the\nfields of Chilla village near Noida. The da-\ncoits who brought ropes with them tied\nupand beat up at least seven persons, in-\ncluding three women, during their hour-\nlong raid. They escaped with gold jewel-\nlery, clothes and cash worth several\nthousand rupees.",
+   "ocr_conf": 92.03125,
+   "ocr_low_conf_share": 0.03125,
+   "headline": "Noida villagedacoity",
+   "deck": "",
+   "byline": "",
+   "text": "AGANG of about 10 dacoits armed with country-made guns and sticks raided and looted at least 10 huts in the fields of Chilla village near Noida. The dacoits who brought ropes with them tied upand beat up at least seven persons, including three women, during their hour-long raid. They escaped with gold jewel-lery, clothes and cash worth several thousand rupees.",
+   "n_words": 60,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1368,
+      5823,
+      1663,
+      5872
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1367,
+      6039,
+      1569,
+      6072
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "ee eee eee ee I.\nBeyond War awards presented i",
+   "deck_raw": "",
+   "body_raw": "Regionalism can bit \u00a9",
+   "ocr_conf": 61.5,
+   "ocr_low_conf_share": 0.5,
+   "headline": "ee eee eee ee I. Beyond War awards presented i",
+   "deck": "",
+   "byline": "",
+   "text": "Regionalism can bit \u00a9",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 26.9,
+ "flags": []
+}

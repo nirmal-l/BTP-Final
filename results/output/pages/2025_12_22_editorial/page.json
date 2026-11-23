@@ -1,0 +1,504 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_22_editorial",
+ "source_file": "2025-12-22_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-22_editorial.png",
+ "date": "2025-12-22",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 484,
+  "n_lines": 484,
+  "mean_line_conf": 86.72526212595945,
+  "orphan_words": 0,
+  "body_words_total": 3177
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      421,
+      580,
+      1105,
+      644
+     ]
+    ],
+    "deck_boxes": [
+     [
+      369,
+      697,
+      1157,
+      814
+     ]
+    ],
+    "body_boxes": [
+     [
+      681,
+      842,
+      844,
+      873
+     ],
+     [
+      574,
+      921,
+      951,
+      997
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "$ The IndianEXPRESS",
+   "deck_raw": "~ FOUNDED BY ~\nRAMNATH GOENKA",
+   "body_raw": "IN 1932\n\nBECAUSE THE TRUTH\nINVOLVES US ALL",
+   "ocr_conf": 95.625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "$ The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1306,
+      566,
+      4170,
+      915
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1293,
+      952,
+      1906,
+      2660
+     ],
+     [
+      1949,
+      952,
+      2555,
+      2140
+     ],
+     [
+      2922,
+      953,
+      3532,
+      2176
+     ],
+     [
+      1949,
+      2148,
+      2551,
+      2261
+     ],
+     [
+      1948,
+      2189,
+      3531,
+      2560
+     ],
+     [
+      2496,
+      2308,
+      3529,
+      2560
+     ],
+     [
+      3051,
+      2308,
+      3531,
+      2560
+     ],
+     [
+      3579,
+      954,
+      4185,
+      1381
+     ],
+     [
+      3578,
+      1393,
+      4183,
+      2542
+     ],
+     [
+      3727,
+      2589,
+      4176,
+      2656
+     ]
+    ],
+    "layout_words": 1017
+   },
+   "headline_raw": "We saw the IndiGo meltdown. Now let\u2019s\nsee the aviation sector\u2019s restructuring",
+   "deck_raw": "",
+   "body_raw": "HE DIRECTORATE General of\nCivil Aviation (DGCA) first pro-\nposed the new FDTL (Flight\nDuty Time Limitations) in Ja-\nnhuary 2024 to give adequate\nrest to pilots in the interest of passenger\nsafety. IndiGo ignored the notification and,\nusing political clout, tookno actionto recruit\nortrain new pilots or even adjust thesched-\nules to comply with the new safety require-\nments. Pilot complaints were ignored, alle-\ngations of monopoly abuse emerged. Pilots\nfiled cases incourts. However, the regulator\ncontinued to relax regulations specifically\nfor IndiGo. On December 5, over 1,000 In-\ndiGo flights had tobecancelled. Thousands\nof passengers were stranded across India.\nAfter several postponements to favour In-\ndiGo, under court orders, the DGCA finally\ndecided to implement the new FDTL niles\nfrom July 1and November 1, twoyears after\nthey were first proposed.\nMinister Ram Mohan Naidu said India\nwould require about 30,000 new pilots over\nthe next 15 years. On November 25, Adani\nDefence Systems and Prime Aero Services\nacquired a majority stake in the Flight\nSimulation Technique Centre (FSTC), giv-\ning the Adani Group significant control\nover India\u2019s pilot-training ecosystem. Five\ndays later, on December 1, we witnessed the\nIndiGo meltdown. Is there a connection?\nToday IndiGo controls 65 per cent ofthe\nIndian aviation market, while the Tatas (Air\nIndia) have less than 30 per cent market\nshare. In 2004, there were 4 crore annual\npassengers and eight airlines. In 2025, pas-\nsengers roseto40crore, withonly twomajor\nairlines. This represents a classic case of regu-\nlatory capture where the regulator ensures\nprivate profit instead of public interest.\nWhat is the experience in other devel-\noped markets? We do not have to look far.\n\nThe recent Southwest Airlines crisis in the\nUSis agood case study. It began around De-\ncember 21, 2022, when aseverewinterstorm\nhit large parts of western and central US. In\nthe next few days, between December 26 to\n28, over 5,500 Southwest flights were can-\ncelled. Inall, Southwest ended upcancelling\nover 16,000 flights, the largest such dis-\nruption in US aviation history. Nearly 2 mil-\nlion passengers were stranded. While the\nWiiiter storm triggered the initial disruption,\ndeeper structural and operational weak-\nnesses made it into a full-blown meltdown.\nSouthwest used an old, inflexiblesystem\nfor rostering and managing flights. It could\nnot handlecascading disruptions. Once the\nsystem got out of sync, the manual pro-\ncesses that took over could not cope. Inter-\nnal warnings by the pilots\u2019 union had em-\nphasised that the systems were \u201coutdated\u201d\nand vulnerable. But the warnings were ig-\nnored. Thectisistriggered investigations by\naSenateCommiittee. Aftera year of investi-\ngation, in December 2023, the US Depart-\nment of Transportation (DOT) fined South-\nwest $140 million, the largest\nconsumer-protection penalty ever levied\non a US airline. In addition to the fine,\nSouthwest hadto reimburse over $600 mil-\nlion. The airline estimated total losses, both\n\nthe IndiGo meltdown?\nRemove the Civil Aviation Minister\n(Naidu) for permitting delay in the imple-\nmentation of safety rules, which compro-\nmised passenger safety. Also, replace the\nSecretary, Civil Aviation. They are account-\nable and must accept responsibility.\nRemove the Director General, Civil Avi-\nation, and top leadership of the DGCA.\nTerminate Pieter Elbers, CEO of IndiGo,\nwho is directly responsible for operational\nfailure. It is strange that everyone con-\nnected with IndiGo has apologised except\nthe promoter, Rahul Bhatia.\nA formal inquiry by the DGCA should\nbe conducted with findings tobe submitted\nwithin 15 days.\nImpose financial penalties on IndiGoto\ncreate a compensation fund for passengers\naffected by cancellations. Section 27 of the\nCompetition Act empowers the govern-\nment to impose penalties of up to 10 per\ncent of the company\u2019s average turnover\nover the last three years. This is one of the\nstrongest toois availabie to the government\nto prevent monopoly abuse in India.\nInitiate suo motu action to impose pe-\nnalties under Section 18(2) of the Consumer\nProtection Act.\nRedistribute some of IndiGo\u2019s slots to\nother airlines.\n\ndirect and indirect, to be nearly $1 billion.\nSouthwest re-evaluated its sys-\ntems and committed to major re-\n\nSouthwest re-evaluated its sys- Institute a Joint Parliamen-\ntems and committed to major re- tary Committee (JPC) to specifi-\nsilience-focused upgrades. By The 2022 Southwest cally look into the possible nexus\nearly 2025, it had regained its ere : ofIndiGo\u2019s (InterGlobe Aviation)\nstrong on-time performance, and Air lines meltdown remains political donation of Rs 58 crore\nclaimed areturnto reliableservice. aclassic example of how by electoral bonds to political\nThe 2022SouthwestAirlinesmett- fragileoperationalsystems _ parties, mainlythe BJP. Didthese\ndownremainsaclassicexample of turned an ordinary donations enable IndiGo to ig-\nhow fragile operational systems : nore the DGCA\u2019s FDTL safety\nturned an ardinary wearherevonr weather event intoa narme nacmnansa hiring nau ni.\n\neee of IndiGo\u2019s (InterGlobe Aviation)\nAir lines meltdown remains political donation of Rs 58 crore\naclassic example of how by electoral bonds to political\nfragile operational systems parties, mainly the BJP. Didthese\nH onations enable IndiGo to ig-\nturned an ordinary nore the DGCA\u2019s FDTL safety\nweather event into a Nnarme nacrnnana hiring nou ni.\n\nofIndiGo\u2019s (InterGlobe Aviation)\npolitical donation of Rs 58 crore\nby electoral bonds to political\nparties, mainly the BJP. Didthese\ndonations enable IndiGo to ig-\nnore the DGCA\u2019s FDTL safety\nNnarme nacrnnana hiring nou ni.\n\nOn August 31, 2022, the then Civil Avi-\nation Minister, Jyotiraditya Scindia, re-\nmoved the fare cap, thereby allowing air-\nlines to charge exorbitant fares. After the\nOdisha train accident, airlines reportedly\ncharged as much as Rs 1,00,000 fora Chen-\nnai-Bhubaneswar ticket. Following the In-\ndiGo meltdown, the government reimposed\nthe fare cap on December 5. Many develop-\ning countries cap airfares. However, the Civil\nAviation Ministerinformed Parliament last\n\nweek that a permanent cap on airfares was\nnot feasible. One cannot accept that prop-\nosition. Inamonopolysituation, theremust\nbea fare cap or a price band. Why did the\ngovernment remove the fare cap and allow\nthe airlines to fleece the passengers? This\nshould be investigated by the JPC.\nRegulation of the Indian aviation sec-\ntor needs to be completely restructured.\nThis should be done by scrapping the cur-\nrent DGCA. It was constituted by an\nexecutive order under the Aircraft Act,\n1934. A new autonomous Civil Aviation\nAuthority (CAA) under an Act of Parlia-\nment, similar to the US Federal Aviation\nAdministration (FAA), is required. This\nwas proposed by the Manmohan Singh\ngovernment in December 2012.\nSection 28 of the Competition Act em-\npowers the government to impose a struc-\ntural remedy to break up a monopoly. The\ngovernment can consider breaking up In-\ndiGo into two completely independentair-\nlines as was done inthe US under the Sher-\nman and Clayton Anti-Trust Acts. There\nwould then be three equal-sized com-\npanies, each with a market share of 33 per\ncent. This would act as a warning to other\nemerging monopolies.\n\nThe writer was a Union minister and\nchief minister of Maharashtra",
+   "ocr_conf": 90.8729037952339,
+   "ocr_low_conf_share": 0.04060017652250662,
+   "headline": "We saw the IndiGo meltdown. Now let's see the aviation sector's restructuring",
+   "deck": "",
+   "byline": "",
+   "text": "HE DIRECTORATE General of Civil Aviation (DGCA) first proposed the new FDTL (Flight Duty Time Limitations) in Janhuary 2024 to give adequate rest to pilots in the interest of passenger safety. IndiGo ignored the notification and, using political clout, tookno actionto recruit ortrain new pilots or even adjust theschedules to comply with the new safety require-ments. Pilot complaints were ignored, alle-gations of monopoly abuse emerged. Pilots filed cases incourts. However, the regulator for IndiGo. On December 5, over 1,000 IndiGo flights had tobecancelled. Thousands of passengers were stranded across India. After several postponements to favour IndiGo, under court orders, the DGCA finally decided to implement the new FDTL niles from July 1and November 1, twoyears after they were first proposed. Minister Ram Mohan Naidu said India would require about 30,000 new pilots over the next 15 years. On November 25, Adani Defence Systems and Prime Aero Services acquired a majority stake in the Flight Simulation Technique Centre (FSTC), giving the Adani Group significant control over India's pilot-training ecosystem. Five days later, on December 1, we witnessed the IndiGo meltdown. Is there a connection? Today IndiGo controls 65 per cent ofthe Indian aviation market, while the Tatas (Air India) have less than 30 per cent market share. In 2004, there were 4 crore annual passengers and eight airlines. In 2025, passengers roseto40crore, withonly twomajor airlines. This represents a classic case of regulatory capture where the regulator ensures private profit instead of public interest. What is the experience in other developed markets? We do not have to look far.\n\nThe recent Southwest Airlines crisis in the USis agood case study. It began around December 21, 2022, when aseverewinterstorm hit large parts of western and central US. In the next few days, between December 26 to 28, over 5,500 Southwest flights were cancelled. Inall, Southwest ended upcancelling over 16,000 flights, the largest such disruption in US aviation history. Nearly 2 million passengers were stranded. While the Wiiiter storm triggered the initial disruption, deeper structural and operational weak-nesses made it into a full-blown meltdown. Southwest used an old, inflexiblesystem for rostering and managing flights. It could not handlecascading disruptions. Once the system got out of sync, the manual processes that took over could not cope. Internal warnings by the pilots' union had emphasised that the systems were \"outdated\" and vulnerable. But the warnings were ignored. Thectisistriggered investigations by aSenateCommiittee. Aftera year of investigation, in December 2023, the US Department of Transportation (DOT) fined Southwest $140 million, the largest consumer-protection penalty ever levied on a US airline. In addition to the fine, Southwest hadto reimburse over $600 million. The airline estimated total losses, both\n\nthe IndiGo meltdown? Remove the Civil Aviation Minister (Naidu) for permitting delay in the implementation of safety rules, which compromised passenger safety. Also, replace the Secretary, Civil Aviation. They are accountable and must accept responsibility. Remove the Director General, Civil Aviation, and top leadership of the DGCA. Terminate Pieter Elbers, CEO of IndiGo, who is directly responsible for operational failure. It is strange that everyone connected with IndiGo has apologised except the promoter, Rahul Bhatia. A formal inquiry by the DGCA should be conducted with findings tobe submitted within 15 days. Impose financial penalties on IndiGoto create a compensation fund for passengers affected by cancellations. Section 27 of the Competition Act empowers the government to impose penalties of up to 10 per cent of the company's average turnover over the last three years. This is one of the strongest toois availabie to the government to prevent monopoly abuse in India. Initiate suo motu action to impose penalties under Section 18(2) of the Consumer Protection Act. Redistribute some of IndiGo's slots to other airlines.\n\ndirect and indirect, to be nearly $1 billion. Southwest re-evaluated its systems and committed to major re-\n\nSouthwest re-evaluated its sys- Institute a Joint Parliamentems and committed to major re- tary Committee (JPC) to specifisilience-focused upgrades. By The 2022 Southwest cally look into the possible nexus early 2025, it had regained its ere: ofIndiGo's (InterGlobe Aviation) strong on-time performance, and Air lines meltdown remains political donation of Rs 58 crore claimed areturnto reliableservice. aclassic example of how by electoral bonds to political The 2022SouthwestAirlinesmett- fragileoperationalsystems _ parties, mainlythe BJP. Didthese downremainsaclassicexample of turned an ordinary donations enable IndiGo to ighow fragile operational systems: nore the DGCA's FDTL safety turned an ardinary wearherevonr weather event intoa narme nacmnansa hiring nau ni.\n\neee of IndiGo's (InterGlobe Aviation) Air lines meltdown remains political donation of Rs 58 crore aclassic example of how by electoral bonds to political fragile operational systems parties, mainly the BJP. Didthese H onations enable IndiGo to igturned an ordinary nore the DGCA's FDTL safety weather event into a Nnarme nacrnnana hiring nou ni.\n\nofIndiGo's (InterGlobe Aviation) political donation of Rs 58 crore by electoral bonds to political parties, mainly the BJP. Didthese donations enable IndiGo to ignore the DGCA's FDTL safety Nnarme nacrnnana hiring nou ni.\n\nOn August 31, 2022, the then Civil Aviation Minister, Jyotiraditya Scindia, removed the fare cap, thereby allowing airlines to charge exorbitant fares. After the Odisha train accident, airlines reportedly charged as much as Rs 1,00,000 fora Chennai-Bhubaneswar ticket. Following the IndiGo meltdown, the government reimposed the fare cap on December 5. Many developing countries cap airfares. However, the Civil Aviation Ministerinformed Parliament last\n\nweek that a permanent cap on airfares was not feasible. One cannot accept that proposition. Inamonopolysituation, theremust bea fare cap or a price band. Why did the government remove the fare cap and allow the airlines to fleece the passengers? This should be investigated by the JPC. Regulation of the Indian aviation sector needs to be completely restructured. This should be done by scrapping the current DGCA. It was constituted by an executive order under the Aircraft Act, 1934. A new autonomous Civil Aviation Authority (CAA) under an Act of Parliament, similar to the US Federal Aviation Administration (FAA), is required. This was proposed by the Manmohan Singh government in December 2012. Section 28 of the Competition Act empowers the government to impose a structural remedy to break up a monopoly. The government can consider breaking up IndiGo into two completely independentairlines as was done inthe US under the Sherman and Clayton Anti-Trust Acts. There would then be three equal-sized companies, each with a market share of 33 per cent. This would act as a warning to other emerging monopolies.\n\nThe writer was a Union minister and chief minister of Maharashtra",
+   "n_words": 1073,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      326,
+      1088,
+      1197,
+      1277
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      1309,
+      1206,
+      3177
+     ]
+    ],
+    "layout_words": 418
+   },
+   "headline_raw": "Tearing hurry, no debate\nweaken new job bill",
+   "deck_raw": "",
+   "body_raw": "EITHER PRIME Minister Narendra Modi nor the\nLeader ofthe Opposition in the Lok Sabha, Rahul Gan-\ndhi, were present \u2014 both were abroad \u2014 when the\nVB-G RAMG Bill was passed last week in Parliament\nbyvoicevote. The Modi government didn\u2019t deem it necessaryto\nsend the Bill, which repeals and replaces the two-decade-old\nMGNREGA, to a standing committee for detailed scrutiny and\nfor inviting public/expert opinions before its final passage. Why\nit did not, whilereferring twoother bills (one toestablish an apex\nregulatory body for higher education and theother to enact auni-\nfied Securities Market Code) to the concerned House committees,\nis inexplicable. Giventhatthe MGNREGA provides wageemiploy-\nmenttonearly 6crore rural households for anaverage of SO days\na year, any law seeking to scrap or overhaul it is surely worthy of\ninformed debate and deliberation. What was the tearing hurry\nto push through the Bill?\nThe MGNREGA was the flagship programme of the previous\nCongress-led UPA regime. But the Modi government can take\ncredit forstreamilining it to ensurethat the money spent reached\nthe intended beneficiaries, whether through seeding their Aad-\nhaar-linked bank accounts with the NREGASoft MIS platform or\ngeo-taggingofthe assetscreated. During the Covid years of 2020-\n21and 2021-22, the MGNREGA generated 389.09 croreand 363.19\ncrore person-days of employment, with the total households\nworking, too, reaching a record 7.55 crore and 7.25 crore respect-\nively. The scheme, thus, delivered most when it mattered \u2014 and\nunder the present government. Also, unlike, say, the farm laws,\nthisisa programmethat has lent itseiftobipartisan support. Any\nproposed legislation to reform or improve it would have en-\ncountered little political rift. By steamrolling the VB-G RAMG\nBillthroughboth Houses, the Modi government has repeated its\nmistake vis-a-vis the farm bills \u2014 they were also not referred to\nthe parliainentary standing committee.\nThe Bill that has been passed has provisions that constitute\nsignificant departures from the MGNREGA. The latter was de-\nmand-driven and could be availed by any household whose\nmembers sought to do manual work for up to 100 daysa year,\nwith the Centre footing the entire wage bill and three-fourths of\nthe material cost. But now, the Centre will determine the \u201cnor-\nmative allocation\u201d of funds for each state, making it a supply-\nfrom-above rather than a demand-from-below scheme. The\nCentre decidinghow much eachstate gets also opens upthe possi-\nbility of playing favourites based on political calculations. Further,\ntheCentrewill cover only60 percentofithescheme'\u2019s cost, putting\nan additional burden on already fiscally constrained states. All\nthese are serious issues that deserved more public consultation\nand greater legislative oversight.",
+   "ocr_conf": 88.96650717703349,
+   "ocr_low_conf_share": 0.07177033492822966,
+   "headline": "Tearing hurry, no debate weaken new job bill",
+   "deck": "",
+   "byline": "",
+   "text": "EITHER PRIME Minister Narendra Modi nor the Leader ofthe Opposition in the Lok Sabha, Rahul Gandhi, were present - both were abroad - when the VB-G RAMG Bill was passed last week in Parliament byvoicevote. The Modi government didn't deem it necessaryto send the Bill, which repeals and replaces the two-decade-old MGNREGA, to a standing committee for detailed scrutiny and for inviting public/expert opinions before its final passage. Why it did not, whilereferring twoother bills (one toestablish an apex regulatory body for higher education and theother to enact aunified Securities Market Code) to the concerned House committees, is inexplicable. Giventhatthe MGNREGA provides wageemiploymenttonearly 6crore rural households for anaverage of SO days a year, any law seeking to scrap or overhaul it is surely worthy of informed debate and deliberation. What was the tearing hurry to push through the Bill? The MGNREGA was the flagship programme of the previous Congress-led UPA regime. But the Modi government can take credit forstreamilining it to ensurethat the money spent reached the intended beneficiaries, whether through seeding their Aadhaar-linked bank accounts with the NREGASoft MIS platform or geo-taggingofthe assetscreated. During the Covid years of 2020- 21and 2021-22, the MGNREGA generated 389.09 croreand 363.19 crore person-days of employment, with the total households working, too, reaching a record 7.55 crore and 7.25 crore respectively. The scheme, thus, delivered most when it mattered - and under the present government. Also, unlike, say, the farm laws, thisisa programmethat has lent itseiftobipartisan support. Any proposed legislation to reform or improve it would have encountered little political rift. By steamrolling the VB-G RAMG Billthroughboth Houses, the Modi government has repeated its mistake vis-a-vis the farm bills - they were also not referred to the parliainentary standing committee. The Bill that has been passed has provisions that constitute significant departures from the MGNREGA. The latter was demand-driven and could be availed by any household whose members sought to do manual work for up to 100 daysa year, with the Centre footing the entire wage bill and three-fourths of the material cost. But now, the Centre will determine the \"normative allocation\" of funds for each state, making it a supply-from-above rather than a demand-from-below scheme. The Centre decidinghow much eachstate gets also opens upthe possibility of playing favourites based on political calculations. Further, theCentrewill cover only60 percentofithescheme''s cost, putting an additional burden on already fiscally constrained states. All these are serious issues that deserved more public consultation and greater legislative oversight.",
+   "n_words": 408,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      2840,
+      2843,
+      3072
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1364,
+      3144,
+      2878,
+      4654
+     ],
+     [
+      2274,
+      3145,
+      2878,
+      3458
+     ],
+     [
+      1303,
+      4640,
+      2877,
+      5230
+     ]
+    ],
+    "layout_words": 467
+   },
+   "headline_raw": "Delhi & Geneva are shaping an\nAl future based on trust",
+   "deck_raw": "",
+   "body_raw": "NDIA HAS emerged as one of the withcommitment, resourcesand expertise.\nj world\u2019sleading Al nations,combining _ Institutions such as ETH Zurich and EPF\n; technological capability with an in- | Lausanne rank among the world\u2019s leading\ne \u00a5 ; clusive vision of digital transforma- centres forAl research, closely connectedto\na nN ay tion. ItsdecisiontohosttheAlImpact innovative companies active in machine\n> a Summit 2026 places itatthecentreofthe learning, robotics, health technologies and\n~~ gconversationatamoment whenleadership language models. Switzerland consistently\nMaya grounded in responsibility is urgently ranks atthe topofglobalinnovation indices,\nTISSAFI needed. As Switzerland\u2019s Ambassadorto __ reflecting a system where research excel-\n\u2014 India, Ihave witnessed theremarkablecon- _ lence, entrepreneurship and publictrust re-\nvergence of our two countries\u2019 approaches _inforce one another.\nto AI\u2014notasarace for dominance, but asa The strength of Switzerland\u2019s AI eco-\nshared responsibility to stewarda powerful \u2014_ system liesnotin scale, butin coherence. Re-\ntechnology. Both recognise that AI\u2019slong- _ searchers, industry, regulators and interna-\nterm success depends not only oninnova- _ tionalorganisations operate closely together,\ntion, buton trust. allowing ideas to move efficiently from lab-\nSwitzerland brings to thispartnershipa \u2014_ oratoryto application, and from innovation\ndistinct setofstrengths that areincreasingly to governance. Switzerland's multilingual\ncritical inthe age of AI: World-classscientific _realityisan asset, reflected inpioneering in-\nresearch, a dense innovation ecosystem,a __itiatives such as Apertus, an open-source\nmultilinguatand multicultural society,and multilingual AI model trained on curated\nconsensus-based governance. These assets and verified data. Most importantly, Switzer-\nmake Switzerland notonlyareliableparmer, land offers an environment where AI gov-\nbuta credible and forward-lookinglocation ernancecan evcivealongsideinnovation As\nforthe developmentand governanceofAI. a global hub where diplomacy, humanitar-\nAl is reshaping economies, security _ianaction, science, wand economics inter-\narchitectures, public services, democratic sect, the \u201cInternational Geneva\u201d provides a\nprocesses and everyday life.Itcanaccelerate uniquespace where comnilex technological\ndevelopment and expandopportunity\u2014or questions can be translated into durable\ndeepeninequalities,erodetrustandexacer- norms and practical rules. India and Swit-\nbate geopolitical tensions. Global cooper- _zerland are, therefore, natural partners. Both\nation is, therefore, essential. understand that responsible AI does not\nFor AI to fulfil its promise, technological hinder innovation, but enables it.\nprogress must go hand in hand with clear At the heart of this partnership lies a\ngovemance, transparency and publicconfi- shared conviction: Trust in Al is not built\ndence. Performance alone cannot guarantee _ through technical specifications alone, but\nlegitimacy. Trust emerges when govern- throughiraiisparent processes, meaningful\n\u00aba ys = Ments,companies, researchers, civilsociety accountability mechanisms and governance\n\nwith commitment, resourcesand expertise.\nInstitutions such as ETH Zurich and EPF\nLausanne rank among the world\u2019s leading\ncentres for AI research, closely connected to\ninnovative companies active in machine\nlearning, robotics, health technologies and\nlanguage models. Switzerland consistently\nranks at the top of global innovation indices,\n\nSwitzerland is ALICL ILO, CEE I, PEE UES, RV OV\nand affected co Se ew ey Pa\nh communities shape decisio: eNO eee\nonoured to together. India has played a pioneering role aren res that reflect society's diversity.\nsup port India\u2019s imamplifyingvoicesthataretoooftenunder- _ alon Wendt is committed to working\nvision forthe \u2018Prsented.ensuringthatthe Al revolution serves aba and all partnerstoensure Al\nAllImpact does not replicate historical patterns of ex- juman dignity, prosperity and social\nSummi clusion. This inclusive approach is acomer- Progress, As/ndla prepares o kadthe global\nmit 2026. _ stoneof India\u2019s global leadership. conversationin 2026, the path beyond al\nOur shared Switzerland is honoured to support tend begins to take shape. Switzerland is\nobjective is India\u2019svision for the Al Impact Summit 2026. oN totcietinacureh momentum forward\nclear: Ourshared objectiveisclear: AI afe. dard ating our shared values intostan-\nNe must innovative, openand ichaie Athen. This S, ron and partnerships that endure.\n. s \u20ac, mit, Switzerland will co-chair the working _ fort to aha ae erste i on joie\ninnovative, group Inclusion for Social Empowerment. highest aspiration Al siuture worthy of our\nopen an ocusing on inclusive, multili . aspirations. Switzerland is proud to\np' d Ae Ta cen Sar ban Utilingual and cul- walk this path with India.",
+   "ocr_conf": 72.23765432098766,
+   "ocr_low_conf_share": 0.2916666666666667,
+   "headline": "Delhi & Geneva are shaping an Al future based on trust",
+   "deck": "",
+   "byline": "",
+   "text": "NDIA HAS emerged as one of the withcommitment, resourcesand expertise. j world'sleading Al nations,combining _ Institutions such as ETH Zurich and EPF; technological capability with an in- Lausanne rank among the world's leading e \u00a5; clusive vision of digital transforma- centres forAl research, closely connectedto a nN ay tion. ItsdecisiontohosttheAlImpact innovative companies active in machine > a Summit 2026 places itatthecentreofthe learning, robotics, health technologies and ~~ gconversationatamoment whenleadership language models. Switzerland consistently Maya grounded in responsibility is urgently ranks atthe topofglobalinnovation indices, TISSAFI needed. As Switzerland's Ambassadorto __ reflecting a system where research excel- - India, Ihave witnessed theremarkablecon- _ lence, entrepreneurship and publictrust revergence of our two countries' approaches _inforce one another. to AI - notasarace for dominance, but asa The strength of Switzerland's AI ecoshared responsibility to stewarda powerful - _ system liesnotin scale, butin coherence. Retechnology. Both recognise that AI'slong- _ searchers, industry, regulators and internaterm success depends not only oninnova- _ tionalorganisations operate closely together, tion, buton trust. allowing ideas to move efficiently from lab-Switzerland brings to thispartnershipa - _ oratoryto application, and from innovation distinct setofstrengths that areincreasingly to governance. Switzerland's multilingual critical inthe age of AI: World-classscientific _realityisan asset, reflected inpioneering inresearch, a dense innovation ecosystem,a __itiatives such as Apertus, an open-source multilinguatand multicultural society,and multilingual AI model trained on curated consensus-based governance. These assets and verified data. Most importantly, Switzer-make Switzerland notonlyareliableparmer, land offers an environment where AI govbuta credible and forward-lookinglocation ernancecan evcivealongsideinnovation As forthe developmentand governanceofAI. a global hub where diplomacy, humanitar-Al is reshaping economies, security _ianaction, science, wand economics inter-architectures, public services, democratic sect, the \"International Geneva\" provides a processes and everyday life.Itcanaccelerate uniquespace where comnilex technological development and expandopportunity - or questions can be translated into durable deepeninequalities,erodetrustandexacer- norms and practical rules. India and Switbate geopolitical tensions. Global cooper- _zerland are, therefore, natural partners. Both ation is, therefore, essential. understand that responsible AI does not For AI to fulfil its promise, technological hinder innovation, but enables it. progress must go hand in hand with clear At the heart of this partnership lies a govemance, transparency and publicconfi- shared conviction: Trust in Al is not built dence. Performance alone cannot guarantee _ through technical specifications alone, but legitimacy. Trust emerges when govern- throughiraiisparent processes, meaningful \u00aba ys = Ments,companies, researchers, civilsociety accountability mechanisms and governance\n\nwith commitment, resourcesand expertise. Institutions such as ETH Zurich and EPF Lausanne rank among the world's leading centres for AI research, closely connected to innovative companies active in machine learning, robotics, health technologies and language models. Switzerland consistently ranks at the top of global innovation indices,\n\nSwitzerland is ALICL ILO, CEE I, PEE UES, RV OV h communities shape decisio: eNO eee onoured to together. India has played a pioneering role aren res that reflect society's diversity. sup port India's imamplifyingvoicesthataretoooftenunder- _ alon Wendt is committed to working vision forthe 'Prsented.ensuringthatthe Al revolution serves aba and all partnerstoensure Al AllImpact does not replicate historical patterns of ex- juman dignity, prosperity and social Summi clusion. This inclusive approach is acomer- Progress, As/ndla prepares o kadthe global mit 2026. _ stoneof India's global leadership. conversationin 2026, the path beyond al Our shared Switzerland is honoured to support tend begins to take shape. Switzerland is objective is India'svision for the Al Impact Summit 2026. oN totcietinacureh momentum forward clear: Ourshared objectiveisclear: AI afe. dard ating our shared values intostan-Ne must innovative, openand ichaie Athen. This S, ron and partnerships that endure.. s \u20ac, mit, Switzerland will co-chair the working _ fort to aha ae erste i on joie innovative, group Inclusion for Social Empowerment. highest aspiration Al siuture worthy of our open an ocusing on inclusive, multili. aspirations. Switzerland is proud to p' d Ae Ta cen Sar ban Utilingual and cul- walk this path with India.",
+   "n_words": 630,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2979,
+      2840,
+      4141,
+      3086
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2974,
+      4692,
+      3245,
+      5291
+     ],
+     [
+      2876,
+      5536,
+      3476,
+      5731
+     ],
+     [
+      2875,
+      5782,
+      3470,
+      6122
+     ],
+     [
+      3294,
+      3146,
+      4183,
+      5214
+     ],
+     [
+      3436,
+      5258,
+      4176,
+      5325
+     ],
+     [
+      3528,
+      5536,
+      4074,
+      5611
+     ],
+     [
+      3528,
+      5665,
+      4129,
+      6128
+     ]
+    ],
+    "layout_words": 649
+   },
+   "headline_raw": "InWest Asia, India's diplomacy\nhas delivered dramatic gains",
+   "deck_raw": "",
+   "body_raw": "Countries that\nonce viewed\nIndia through\nthe prism of\nPakistan \u2014\nsuch as Saudi\nArabia andthe\nUAE \u2014 nowsee\nNew Delhiasa\nlong-term\nstrategic\npartner\n\nNelson Mandela, from her home in Soweto\nand drove her toa hotel outside Johannes-\nburg. The police said her exile to the remote\ntown of Brandfort was cancelled, but she\nwas barred from Johannesburg.\n\nVP Singhontax raids\nThe Finance Minister, Vishwanath Pratap\nSingh, offered to consider changes intax\nlaws to remove difficulties in their imple-\nmentation but was against any let-up in\nrecent taxraids onindustrialists and busi-\nnessmen. Singh denied that only indus-\ntrialists and businessmen who were un-\n\nHEN INDIA signed a landmark economic part-\nnership agreement with Oman on December\n18, it signalled how decisively India\u2019s Middle\nEast policy hasbeen transformed under Prime\nMinister Narendra Modi. Offering zero-duty\naccess on over 98 per cent ofits tariff lines for Indian exports,\nOman has entered its first bilateral trade agreement since 2006,\nThisshiftis theresult of sustained political entrepreneurship,\nstrategic clarity, and diplomatic energy displayed by PM Modi\nsince2014. He connected the region to India\u2019s larger civilisational,\neconomic, and strategic canvas. The \u201cThink West\u201d policy became\na defining feature of India\u2019s foreign relations. Engagement ex-\npanded beyond thesix Gulf Cooperation Council (GCC) statesto\ninclude Egypt, Jordan, Morocco, Tunisia, and North African and\nAfrican Muslim-majority countries such as Nigeria, Ghana, and\nEthiopia. This outreachcanitalised on ashifting Arab perception\nof India\u2019s economic strength and rising global stature.\nIndia\u2019s share in GCC trade rose from 3per cent in1992 tollper\ncent by 2012, and has accelerated further over the past decade.\nBy 2020, Saudi Arabia and the UAE were India\u2019s third- and fourth-\nlargest trading partners. In 2023-24, India\u2019s trade with the GCC\ntouched $184 billion, while FDI from Gulf countries crossed $20\nbillion. This economic deepening has gone hand in hand with\nstrategic realism. The Modi government has been forthright\nabout concemsover China\u2019s expanding naval and port footprint\nin the region. In response, India has positioned itselfas a net se-\ncurity provider\u2014 deploying naval assetsto protect sealanes from\npiracy and missile threats, while conducting joint military exer-\ncises with partners such as the UAE, Saudi Arabia, and Egypt.\nWhat distinguishes Modi\u2019s West Asia policy is the centrality\nof personal diplomacy. No Indian leader has invested as much\ntimeorpolitical capital inthe region. Modihas visited nine Middle\nEaster states since 2014, more than his four predecessors com-\nbined. This goodwill has delivered tangible outcomes, whether\nin the de-hyphenation of India and Pakistan in Gulfdiplomacy,\nthetoning downofcriticism over Kashmir, orthereleaseof Indian\nnaval veterans from Qatarthrough leader-level engagement. In-\ndia\u2019s diaspora has also benefited. Their safety, dignity, and welfare\nhave become integral to India\u2019s regional diplomacy, reinforcing\nthe mutual dependence between India and the Arab world.\nPerhaps the most striking change is political. Countries that\nonceviewed India through the prism of Pakistan \u2014 suchas Saudi\nArabiaand the UAE \u2014 nowsee New Delhiasalong-term strategic\npartner. Investinenis announced soon after India\u2019s 2019 Kashmir\ndecision, and the UAE declaring that it viewed the matter as\nIndia\u2019sinternal affair, reflected a shift in regional calculations.\nIndia today is not neglected by any Persian Gulf state. It is\ncourted, respected, and trusted. FewofIndia\u2019sexternal relation-\nships have changed so dramatically in such a short time. That\ntransformation bears the unmistakable imprint of PM Modi\u2019s\nleadership \u2014 and it has firmly placed India at the heart of West\nAsia\u2019s evolving strategic landscape.\n\nThe writer is chairperson of the Delhi State Hajj Committee\nand a member of the BJP\n\nfriendly to the government were being\nproceeded against.\n\nSriLankamassacre\nOver100 Tamils were feared killed in firing\nby SriLankan security forces from heli-\ncopters in several parts of northern Jaffna,\naccording to the Eelam People\u2019s Revol-\nutionary Liberation Front. It said the casu-\nalty figure was a \u201cconservative estimate\u201d as\nthe security forces fired at the civilians from\n1S helicopters and dropped bombs. The\nJaffna hospital was overcrowded with many\ninjured people admitted, it said.",
+   "ocr_conf": 89.20769230769231,
+   "ocr_low_conf_share": 0.06923076923076923,
+   "headline": "InWest Asia, India's diplomacy has delivered dramatic gains",
+   "deck": "",
+   "byline": "",
+   "text": "Countries that once viewed India through the prism of Pakistan - such as Saudi Arabia andthe UAE - nowsee New Delhiasa long-term strategic partner\n\nNelson Mandela, from her home in Soweto and drove her toa hotel outside Johannesburg. The police said her exile to the remote town of Brandfort was cancelled, but she was barred from Johannesburg.\n\nVP Singhontax raids The Finance Minister, Vishwanath Pratap Singh, offered to consider changes intax laws to remove difficulties in their implementation but was against any let-up in recent taxraids onindustrialists and businessmen. Singh denied that only indus-trialists and businessmen who were un-\n\nHEN INDIA signed a landmark economic partnership agreement with Oman on December 18, it signalled how decisively India's Middle East policy hasbeen transformed under Prime Minister Narendra Modi. Offering zero-duty access on over 98 per cent ofits tariff lines for Indian exports, Oman has entered its first bilateral trade agreement since 2006, Thisshiftis theresult of sustained political entrepreneurship, strategic clarity, and diplomatic energy displayed by PM Modi since2014. He connected the region to India's larger civilisational, economic, and strategic canvas. The \"Think West\" policy became a defining feature of India's foreign relations. Engagement expanded beyond thesix Gulf Cooperation Council (GCC) statesto include Egypt, Jordan, Morocco, Tunisia, and North African and African Muslim-majority countries such as Nigeria, Ghana, and Ethiopia. This outreachcanitalised on ashifting Arab perception of India's economic strength and rising global stature. India's share in GCC trade rose from 3per cent in1992 tollper cent by 2012, and has accelerated further over the past decade. By 2020, Saudi Arabia and the UAE were India's third- and fourth-largest trading partners. In 2023-24, India's trade with the GCC touched $184 billion, while FDI from Gulf countries crossed $20 billion. This economic deepening has gone hand in hand with strategic realism. The Modi government has been forthright about concemsover China's expanding naval and port footprint in the region. In response, India has positioned itselfas a net security provider - deploying naval assetsto protect sealanes from piracy and missile threats, while conducting joint military exercises with partners such as the UAE, Saudi Arabia, and Egypt. What distinguishes Modi's West Asia policy is the centrality of personal diplomacy. No Indian leader has invested as much timeorpolitical capital inthe region. Modihas visited nine Middle Easter states since 2014, more than his four predecessors combined. This goodwill has delivered tangible outcomes, whether in the de-hyphenation of India and Pakistan in Gulfdiplomacy, thetoning downofcriticism over Kashmir, orthereleaseof Indian naval veterans from Qatarthrough leader-level engagement. India's diaspora has also benefited. Their safety, dignity, and welfare have become integral to India's regional diplomacy, reinforcing the mutual dependence between India and the Arab world. Perhaps the most striking change is political. Countries that onceviewed India through the prism of Pakistan - suchas Saudi Arabiaand the UAE - nowsee New Delhiasalong-term strategic partner. Investinenis announced soon after India's 2019 Kashmir decision, and the UAE declaring that it viewed the matter as India'sinternal affair, reflected a shift in regional calculations. India today is not neglected by any Persian Gulf state. It is courted, respected, and trusted. FewofIndia'sexternal relation-ships have changed so dramatically in such a short time. That transformation bears the unmistakable imprint of PM Modi's leadership - and it has firmly placed India at the heart of West Asia's evolving strategic landscape.\n\nThe writer is chairperson of the Delhi State Hajj Committee and a member of the BJP\n\nfriendly to the government were being proceeded against.\n\nSriLankamassacre Over100 Tamils were feared killed in firing by SriLankan security forces from helicopters in several parts of northern Jaffna, according to the Eelam People's Revolutionary Liberation Front. It said the casualty figure was a \"conservative estimate\" as the security forces fired at the civilians from 1S helicopters and dropped bombs. The Jaffna hospital was overcrowded with many injured people admitted, it said.",
+   "n_words": 636,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      328,
+      3242,
+      1196,
+      3431
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1364,
+      3450,
+      1508,
+      3502
+     ]
+    ],
+    "body_boxes": [
+     [
+      431,
+      3462,
+      1202,
+      3616
+     ],
+     [
+      318,
+      3662,
+      1202,
+      4094
+     ],
+     [
+      313,
+      4141,
+      1204,
+      5050
+     ]
+    ],
+    "layout_words": 362
+   },
+   "headline_raw": "Country No 1 on doping\nlist must clean up",
+   "deck_raw": "TISSAFI",
+   "body_raw": "JOR THE third consecutive year, India has topped the\nWorld Anti-Doping Agency\u2019s (WADA) global list of of-\nfenders. With 260 positive cases in 2024, Indiaisthe only\nnation to hit triple digits, surpassing countries with far\n\nThis is not just a statistical anomaly; it is a systemic failure that\nthreatenstoimpact India'sambitious bid forthe 2036 Olympics.\nThe root of the menace lies in a toxic mix \u2014 unscrupulous\ncoaches looking for quick success, athletes taking shortcuts and\nlacunae in anti-doping education. In India, sports are often\nviewed as a ladder to escape poverty. A national or international\nmedal can secure a coveted government job, often in the police\norarmed forces. This medal-at-all-costs mentality plays into the\nhands of those suppiying performance-enhancing substances.\nReports of athletes fleeing the field of play at the Khelo India Uni-\nversity Games earlierthis monthto avoid testingisa damningin-\n\nState meets. It suggests that doping is not limited to the elite; it\nhas reached into thejunior and collegiatelevels. Asthe incidents\nrise, the integrity of the nation's sporting foundation is being\ncalled into question. This is disquieting, and more so given that\ntrack and field, weightlifting and wrestling \u2014 India\u2019s traditional\nstrongholds \u2014 account for the bulk of the doping cases.\nWhile the National Anti-Doping Agency (NADA) argues that\nhigher numbers are a result of \u201cintensified testing\u201d, the maths\ntelisa different story. India\u2019s positivity rate(3.6 per cent) isnearly\n18times that of China (0.2 percent), which conducts three times\nas many tests. The International Olympic Committee (IOC) has\nalready flagged this disparity, tellingIndian delegates to get their\nhouseinorder before pitching forthe 2036 Games. Acountry that\ncannot police its own athletes will struggle toconvince the world\nitcan host a clean global event. Testing alone isn'ta remedy. India\nneedsto proactively educate athietes about not just thesporting\nimplications, but alsothe health consequencesofdoping. NADA\nhas increased its awareness programmes and the impact of the\ntwin steps \u2014 rigorous testing and wideroutreach \u2014is visible. The\npreliminary data for 2025 has shown a droptoa1.5 per cent posi-\ntivity rate (110 offenders out of 7,068 tests). It offers a glimmer of\nhope. However, sustained efforts will be needed for thisto be a\ngenuine turning point rather than a temporary dip.",
+   "ocr_conf": 86.96685082872928,
+   "ocr_low_conf_share": 0.09668508287292818,
+   "headline": "Country No 1 on doping list must clean up",
+   "deck": "TISSAFI",
+   "byline": "",
+   "text": "JOR THE third consecutive year, India has topped the World Anti-Doping Agency's (WADA) global list of offenders. With 260 positive cases in 2024, Indiaisthe only nation to hit triple digits, surpassing countries with far\n\nThis is not just a statistical anomaly; it is a systemic failure that threatenstoimpact India'sambitious bid forthe 2036 Olympics. The root of the menace lies in a toxic mix - unscrupulous coaches looking for quick success, athletes taking shortcuts and lacunae in anti-doping education. In India, sports are often viewed as a ladder to escape poverty. A national or international medal can secure a coveted government job, often in the police orarmed forces. This medal-at-all-costs mentality plays into the hands of those suppiying performance-enhancing substances. Reports of athletes fleeing the field of play at the Khelo India University Games earlierthis monthto avoid testingisa damningin-\n\nState meets. It suggests that doping is not limited to the elite; it has reached into thejunior and collegiatelevels. Asthe incidents rise, the integrity of the nation's sporting foundation is being called into question. This is disquieting, and more so given that track and field, weightlifting and wrestling - India's traditional strongholds - account for the bulk of the doping cases. While the National Anti-Doping Agency (NADA) argues that higher numbers are a result of \"intensified testing\", the maths telisa different story. India's positivity rate(3.6 per cent) isnearly 18times that of China (0.2 percent), which conducts three times as many tests. The International Olympic Committee (IOC) has already flagged this disparity, tellingIndian delegates to get their houseinorder before pitching forthe 2036 Games. Acountry that cannot police its own athletes will struggle toconvince the world itcan host a clean global event. Testing alone isn'ta remedy. India needsto proactively educate athietes about not just thesporting implications, but alsothe health consequencesofdoping. NADA has increased its awareness programmes and the impact of the twin steps - rigorous testing and wideroutreach - is visible. The preliminary data for 2025 has shown a droptoa1.5 per cent positivity rate (110 offenders out of 7,068 tests). It offers a glimmer of hope. However, sustained efforts will be needed for thisto be a genuine turning point rather than a temporary dip.",
+   "n_words": 360,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1622,
+      4640,
+      2830,
+      4694
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1621,
+      4739,
+      2877,
+      4894
+     ],
+     [
+      1620,
+      4978,
+      2876,
+      5230
+     ]
+    ],
+    "layout_words": 50
+   },
+   "headline_raw": "ADIOL ILO, CAPE IAL A, DELI ES, EVIL OUI GARVULILGAUHILY TIC I BSI ALN SU VOLE ied\nand affected communities shape decisions _structuresthat reflect society's diversity.",
+   "deck_raw": "",
+   "body_raw": "inamplifyingvoicesthat aretoooftenunder- _alongsideIndiaand all partnerstoensure AI\nrepresented, ensuringthatthe Al revolution serves human dignity, prosperity and social\ndoes not replicate historical patterns of ex- _ progress. AsIndia prepares to lead the global\nclusion. Thisinclusive approachisacorner- Al conversationin 2026, the path beyondal-\n\nIndia\u2019s vision for the AlImpact Summit 2026. \u00a9 \u2014bytransiating our shared values intostan-\nOurshared objectiveisclear:Al mustbesafe, dards, tools and partnerships that endure.\ninnovative,openandinclusive. Atthesum- This would be the next step in our joint ef-\nmit, Switzerland will co-chair the working _ forts to shape an AI future worthy of our\ngroup Inclusion for Social Empowerment, _ highest aspirations. Switzerland is proud to\nfocusing on inclusive, multilingualandcul- walk this path with India.\nthrall: aomiundad ATrhar amnnwere maroi_",
+   "ocr_conf": 77.02586206896552,
+   "ocr_low_conf_share": 0.19827586206896552,
+   "headline": "ADIOL ILO, CAPE IAL A, DELI ES, EVIL OUI GARVULILGAUHILY TIC I BSI ALN SU VOLE ied and affected communities shape decisions _structuresthat reflect society's diversity.",
+   "deck": "",
+   "byline": "",
+   "text": "inamplifyingvoicesthat aretoooftenunder- _alongsideIndiaand all partnerstoensure AI represented, ensuringthatthe Al revolution serves human dignity, prosperity and social does not replicate historical patterns of ex- _ progress. AsIndia prepares to lead the global clusion. Thisinclusive approachisacorner- Al conversationin 2026, the path beyondal-\n\nIndia's vision for the AlImpact Summit 2026. \u00a9 - bytransiating our shared values intostan-Ourshared objectiveisclear:Al mustbesafe, dards, tools and partnerships that endure. innovative,openandinclusive. Atthesum- This would be the next step in our joint efmit, Switzerland will co-chair the working _ forts to shape an AI future worthy of our group Inclusion for Social Empowerment, _ highest aspirations. Switzerland is proud to focusing on inclusive, multilingualandcul- walk this path with India. thrall: aomiundad ATrhar amnnwere maroi_",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      4739,
+      2879,
+      4894
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2258,
+      4978,
+      2879,
+      5093
+     ],
+     [
+      2262,
+      5178,
+      2872,
+      5295
+     ]
+    ],
+    "body_boxes": [
+     [
+      1667,
+      5296,
+      2871,
+      5331
+     ],
+     [
+      2126,
+      5529,
+      2805,
+      5933
+     ],
+     [
+      2126,
+      5983,
+      2826,
+      6128
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "alongside India and all parmerstoensure AI\nserves human dignity, prosperity and social\nprogress. As India prepares to lead the global\nAlconversationin 2026, the path beyond al-",
+   "deck_raw": "\u2014bytransiating g our shared values intostan-\ndards, tools and partnerships that endure.\nThis would be the next step in our joint ef-\nwalk this path with India. -\nThe writer is Ambassador of Switzerland to",
+   "body_raw": "Switzerland participates in this effort India and Bhutan\n\nMahantalikely tobe CM\nThe president of the Asom Gana Parishad,\nPrafulla Mahanta, is almost certain to be\nelected leader of the party in the state as-\n5 sembly to head the government in Assam.\ni| The party, which commandsan absolute\n= majority in the 126-member assembly, has\nsecured 64 seats. The AGP also won six of\n1 the 12 Lok Sabha seats declared so far.\n\n3 Winnie Mandeladetained\nsi The police dragged Winnie Mandela, wife of\n~. the jailed African National Congress leader",
+   "ocr_conf": 86.27472527472527,
+   "ocr_low_conf_share": 0.10989010989010989,
+   "headline": "alongside India and all parmerstoensure AI serves human dignity, prosperity and social progress. As India prepares to lead the global Alconversationin 2026, the path beyond al-",
+   "deck": "- bytransiating g our shared values intostandards, tools and partnerships that endure. This would be the next step in our joint efwalk this path with India. - The writer is Ambassador of Switzerland to",
+   "byline": "",
+   "text": "Switzerland participates in this effort India and Bhutan\n\nMahantalikely tobe CM The president of the Asom Gana Parishad, Prafulla Mahanta, is almost certain to be elected leader of the party in the state as- 5 sembly to head the government in Assam. i The party, which commandsan absolute = majority in the 126-member assembly, has secured 64 seats. The AGP also won six of 1 the 12 Lok Sabha seats declared so far.\n\n3 Winnie Mandeladetained si The police dragged Winnie Mandela, wife of ~. the jailed African National Congress leader",
+   "n_words": 91,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1620,
+      5202,
+      2224,
+      5295
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1342,
+      5529,
+      1981,
+      5777
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "A MonD Wid BI vy ASIA imei\nturally grounded AI that empowers margi-\nnalised communities.",
+   "deck_raw": "",
+   "body_raw": "40 YEARS AGO\nDecember 22, 1985\n(\"==\") Mrnaraat evnnece",
+   "ocr_conf": 73.77777777777777,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "A MonD Wid BI vy ASIA imei turally grounded AI that empowers marginalised communities.",
+   "deck": "",
+   "byline": "40 YEARS AGO",
+   "text": "(\"==\") Mrnaraat evnnece",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 26.1,
+ "flags": []
+}

@@ -1,0 +1,625 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_01_front",
+ "source_file": "2025-06-01_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-01_front.png",
+ "date": "2025-06-01",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1263,
+  "n_lines": 467,
+  "mean_line_conf": 90.76876635736379,
+  "orphan_words": 30,
+  "body_words_total": 1902
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      890,
+      1302,
+      1905,
+      1427
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      1553,
+      1228,
+      1662
+     ],
+     [
+      320,
+      1711,
+      1255,
+      2347
+     ],
+     [
+      1299,
+      2256,
+      2221,
+      2337
+     ],
+     [
+      1298,
+      2423,
+      1741,
+      2655
+     ]
+    ],
+    "layout_words": 129
+   },
+   "headline_raw": "\u2018NO SIGN OF ANY ACTUAL HELP TO PAKISTAN\nFROM CHINA DURING CONFLICT\u2019",
+   "deck_raw": "",
+   "body_raw": "RAJU GOPALAKRISHNAN\n& XINGHU!I KOK\nSINGAPORE, MAY 31\n\nHMALWIGHATTAGAINST \u2014 INDIASWITCHED tactics after\nAKBAR, SAYS DY CM suffering losses in the air on the\nDIYA KUMARI PAGE 3 first day of conflict with Pakistan\n\u2018 _ earlier this month and estab-\nlished a decisive advantage be-\nEXPRESS NETWORK fore the neighbours announced\nran otisumme we a ceasefire three days later,\niy \u201ci India\u2019s highest ranking General\n[|'||| said Saturday.\nai) General Anil Chauhan, Chief\nia | of Defence Staff, said inaninter-\n\u2018 | | view that India suffered initial\nPd \u201c4 i losses in the air, but declined to\n\u00a9. a alll give details,\nMLA ABBAS ANSARI \u201cWhat was importantis, why\nGETS TWO-YEAR JAIL did these losses occur, and what\n\nPM: INDIA WON'T TOLERATE PROXY WARS,\nBULLETS WILL BE ANSWERED WITH SHELLS ps\n\nair bases deep inside Pakistan,\npenetrated all their air defences\nwith impunity, carried out pre-\ncision strikes.\u201d\nThe Indian Air Force \u201cflew all\ntypes of aircraft with all types of",
+   "ocr_conf": 83.25766871165644,
+   "ocr_low_conf_share": 0.17177914110429449,
+   "headline": "'NO SIGN OF ANY ACTUAL HELP TO PAKISTAN FROM CHINA DURING CONFLICT'",
+   "deck": "",
+   "byline": "RAJU GOPALAKRISHNAN; & XINGHU!I KOK; SINGAPORE, MAY 31",
+   "text": "HMALWIGHATTAGAINST - INDIASWITCHED tactics after AKBAR, SAYS DY CM suffering losses in the air on the DIYA KUMARI PAGE 3 first day of conflict with Pakistan ' _ earlier this month and established a decisive advantage be-EXPRESS NETWORK fore the neighbours announced ran otisumme we a ceasefire three days later, iy \"i India's highest ranking General [ ' said Saturday. ai) General Anil Chauhan, Chief ia of Defence Staff, said inaninter- ' view that India suffered initial Pd \"4 i losses in the air, but declined to \u00a9. a alll give details, MLA ABBAS ANSARI \"What was importantis, why GETS TWO-YEAR JAIL did these losses occur, and what\n\nPM: INDIA WON'T TOLERATE PROXY WARS, BULLETS WILL BE ANSWERED WITH SHELLS ps\n\nair bases deep inside Pakistan, penetrated all their air defences with impunity, carried out precision strikes.\" The Indian Air Force \"flew all types of aircraft with all types of",
+   "n_words": 150,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1426,
+      685,
+      1478
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1493,
+      762,
+      1570
+     ],
+     [
+      320,
+      1605,
+      755,
+      1821
+     ],
+     [
+      323,
+      1898,
+      735,
+      1930
+     ]
+    ],
+    "layout_words": 24
+   },
+   "headline_raw": "BOMB THREAT AT",
+   "deck_raw": "",
+   "body_raw": "JAIPUR HOTEL TURNS\nOUT TO BE HOAX\n\nMAHARANA PRATAP\nWON BATTLE OF\nHALDIGHATI AGAINST\nAKBAR, SAYS DY CM\nDIYA KUMARI PAcE 3\n\nEXPRESS NETWORK",
+   "ocr_conf": 93.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BOMB THREAT AT",
+   "deck": "",
+   "byline": "JAIPUR HOTEL TURNS; OUT TO BE HOAX; MAHARANA PRATAP; WON BATTLE OF; HALDIGHATI AGAINST; AKBAR, SAYS DY CM; DIYA KUMARI PAcE 3",
+   "text": "EXPRESS NETWORK",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      1507,
+      3200,
+      1829
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      1910,
+      2642,
+      1980
+     ],
+     [
+      2273,
+      2028,
+      2716,
+      2655
+     ],
+     [
+      2763,
+      1871,
+      3206,
+      2649
+     ],
+     [
+      2965,
+      4049,
+      3201,
+      4078
+     ]
+    ],
+    "layout_words": 166
+   },
+   "headline_raw": "Three weeks later, CDS\nsheds new light on\nops during hostilities",
+   "deck_raw": "",
+   "body_raw": "AMRITANAYAKDUTTA\nNEW DELHI MAY 31\n\nCHIEF OF Defence Staff General\nAnil Chauhan\u2019s interviews to\nnews agencies Reuters and\nBloomberg on the sidelines of the\nShangri-La Dialogue se-\ncurityforuminSingapore ja\nshed newlightoncom- |=\nbat operations during |=\nOperationSindoor,going | &\nbeyond the media brief- !\u2122\nings by theIndian Armed\nForces during the hostilities.\nFirst, General Chauhan\u2019s re-\nmark about initial losses in the\nair, without going into details or\ngiving acount of aircraft lost, is\n\nthe first official admission of\nfighter jets being downed in\ncombat operations.\nAsked by Bloomberg if the\nPakistani claim of downing six\nIndian jets was correct, the CDS\nsaid: \u201cAbsolutely incorrect\u201d\nThe remarks came exactly\nthree weeks after India\n\"| and Pakistan agreed on\ncessation of military\ni strikes against each other.\nTo be clear, at no point,\nM@ | duringandafterthehos-\ntilities, did the IAF ever\ndeny losing any aircraft.\nOn May 11,a day after the two\nmilitaries reached a truce, Air\nMarshalA K Bharti, Director of Air\nCONTINUEDON PAGE 2\n\nREPORT, PAGE 5",
+   "ocr_conf": 89.05952380952381,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "Three weeks later, CDS sheds new light on ops during hostilities",
+   "deck": "",
+   "byline": "AMRITANAYAKDUTTA; NEW DELHI MAY 31",
+   "text": "CHIEF OF Defence Staff General Anil Chauhan's interviews to news agencies Reuters and Bloomberg on the sidelines of the Shangri-La Dialogue securityforuminSingapore ja shed newlightoncom- = bat operations during = OperationSindoor,going & beyond the media brief-!\u2122 ings by theIndian Armed Forces during the hostilities. First, General Chauhan's remark about initial losses in the air, without going into details or giving acount of aircraft lost, is\n\nthe first official admission of fighter jets being downed in combat operations. Asked by Bloomberg if the Pakistani claim of downing six Indian jets was correct, the CDS said: \"Absolutely incorrect\" The remarks came exactly three weeks after India \" and Pakistan agreed on cessation of military i strikes against each other. To be clear, at no point, M@ duringandafterthehostilities, did the IAF ever deny losing any aircraft. On May 11,a day after the two militaries reached a truce, Air MarshalA K Bharti, Director of Air CONTINUEDON PAGE 2\n\nREPORT, PAGE 5",
+   "n_words": 157,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      1953,
+      4173,
+      2415
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2504,
+      3553,
+      2573
+     ],
+     [
+      3247,
+      2622,
+      3692,
+      3647
+     ],
+     [
+      3980,
+      2503,
+      4175,
+      2696
+     ],
+     [
+      3736,
+      2782,
+      4182,
+      3640
+     ]
+    ],
+    "layout_words": 244
+   },
+   "headline_raw": "Woman \u2018pushed into\nBangladesh\u2019, brought\nback after officials\nfound \u2018mismatch\u2019",
+   "deck_raw": "",
+   "body_raw": "SUKRITABARUAH\nGUWAHATI, MAY 31\n\nA WOMAN from Assam\u2019s\nGolaghat district was detained by\nthe police, allegedly taken to the\nBangladesh border by security\nforces, and told to cross \u2014 before\nauthorities realised there had\nbeen an error in her case and\nbrought her back.\nRahimaBegum (50)is among\nseveral people to have been de-\ntained in Assam in the past few\nweeks as part of an ongoing\ncrackdown on people who have\nbeen declared foreigners by the\nstate\u2019s Foreigners Tribunals (FTs).\nAccording to her lawyer, a\nForeigners Tribunal ruled last\nmonth that Begum\u2019s family had\nentered India before March 25,\n1971, the cut-off date for citizen-\nship in Assam.\nOn Friday, invoking a\nSupreme Court order, Chief\nMinister Himanta Biswa Sarma\nhad confirmed that the state is\npushing declared foreigners\n\nRahima\nBegum, 50,\nreturned\nhome Friday\nevening\n\nacross the international border\ninto Bangladesh.\nBegum, who retumed home\nto her family in Golaghat\u2019s 2\nPadumoni village on Friday\nevening, alleged she was \u201cpushed\ninto Bangladesh\u201d witha group of\npeople on Tuesday night.\n\u201cOn Sunday morning (May\n25) at around 4 am, when we\nwerestill sleeping, police cameto\nour home and told me to report\nto the police station to answer\nsome questions, After spending\nthe morning there, they took me\nto the Golaghat Superintendent\nof Police's office with some oth-\ners. | took my documents, and\nthey collected our fingerprints.\nWe were there the whole day. At\nnight, they took us somewhere\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.31147540983606,
+   "ocr_low_conf_share": 0.03278688524590164,
+   "headline": "Woman 'pushed into Bangladesh', brought back after officials found 'mismatch'",
+   "deck": "",
+   "byline": "SUKRITABARUAH; GUWAHATI, MAY 31",
+   "text": "A WOMAN from Assam's Golaghat district was detained by the police, allegedly taken to the Bangladesh border by security forces, and told to cross - before authorities realised there had been an error in her case and brought her back. RahimaBegum (50)is among several people to have been detained in Assam in the past few weeks as part of an ongoing crackdown on people who have been declared foreigners by the state's Foreigners Tribunals (FTs). According to her lawyer, a Foreigners Tribunal ruled last month that Begum's family had entered India before March 25, 1971, the cut-off date for citizenship in Assam. On Friday, invoking a Supreme Court order, Chief Minister Himanta Biswa Sarma had confirmed that the state is pushing declared foreigners\n\nRahima Begum, 50, returned home Friday evening\n\nacross the international border into Bangladesh. Begum, who retumed home to her family in Golaghat's 2 Padumoni village on Friday evening, alleged she was \"pushed into Bangladesh\" witha group of people on Tuesday night. \"On Sunday morning (May 25) at around 4 am, when we werestill sleeping, police cameto our home and told me to report to the police station to answer some questions, After spending the morning there, they took me to the Golaghat Superintendent of Police's office with some others. took my documents, and they collected our fingerprints. We were there the whole day. At night, they took us somewhere",
+   "n_words": 232,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2424,
+      2227,
+      2648
+     ]
+    ],
+    "layout_words": 30,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ordnances on the 10th\u201d, he said.\nIndia\u2019s Director General of Air\nOperations, Air Marshal A K\nBharti, had told a press confer-\nence earlier in the month that\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.83333333333333,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ordnances on the 10th\", he said. India's Director General of Air Operations, Air Marshal A K Bharti, had told a press conference earlier in the month that CONTINUEDON PAGE2",
+   "n_words": 29,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2857,
+      1245,
+      3292
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      2803,
+      819,
+      2836
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      3371,
+      664,
+      3441
+     ],
+     [
+      318,
+      3490,
+      760,
+      4118
+     ],
+     [
+      1049,
+      3331,
+      1242,
+      3557
+     ],
+     [
+      804,
+      3649,
+      1249,
+      4112
+     ]
+    ],
+    "layout_words": 165
+   },
+   "headline_raw": "Trump doubles steel\nand aluminium tariffs\nto 50%, exporters say\n\u2018complicates trade talks\u2019",
+   "deck_raw": "TO TAKE EFFECT JUNE 4",
+   "body_raw": "RAVIDUTTA MISHRA\nNEW DELHI, MAY 31\n\nUS PRESIDENT Donald Trump\nFriday announced he would\ndouble import tariffs on steel to\n50 per cent, a move that was\ntermed \u201cunfortunate\u201d by India\u2019s\nexporters, who said this made\ntrade talks \u201cmuch more difficult\nand complicated\u201d.\nAddressing a rally at a US\nsteel plant in West Mifflin,\nPennsylvania, Trump said Friday,\nthe sharp hike in tariffs on steel\nfrom 25 per cent to 50 per cent\nwill \u201ceven further secure the\nsteel industry in the United\nStates\u201d. \u201cNobody's going to get\n\n\u2018Will further\nsecure steel\nindustry in\nUS...nobody\ngoing to get\naround that\u2019\n\naround that,\u201d he said.\nLater in a social media post,\nTrump said, \u201cIt is my great hon-\nour to raise the tariffs on steel\nand aluminium from 25% to 50%,\neffective Wednesday, June 4th.\nOur steel and aluminium indus-\ntries are coming back like never\nbefore. This will be yet another\nBIG jolt of great news for our\nwonderful steel and aluminium\nCONTINUED ONPAGE 2",
+   "ocr_conf": 92.0060606060606,
+   "ocr_low_conf_share": 0.03636363636363636,
+   "headline": "Trump doubles steel and aluminium tariffs to 50%, exporters say 'complicates trade talks'",
+   "deck": "TO TAKE EFFECT JUNE 4",
+   "byline": "RAVIDUTTA MISHRA; NEW DELHI, MAY 31",
+   "text": "US PRESIDENT Donald Trump Friday announced he would double import tariffs on steel to 50 per cent, a move that was termed \"unfortunate\" by India's exporters, who said this made trade talks \"much more difficult and complicated\". Addressing a rally at a US steel plant in West Mifflin, Pennsylvania, Trump said Friday, the sharp hike in tariffs on steel from 25 per cent to 50 per cent will \"even further secure the steel industry in the United States\". \"Nobody's going to get\n\n'Will further secure steel industry in US...nobody going to get around that'\n\naround that,\" he said. Later in a social media post, Trump said, \"It is my great honour to raise the tariffs on steel and aluminium from 25% to 50%, effective Wednesday, June 4th. Our steel and aluminium indus-tries are coming back like never before. This will be yet another BIG jolt of great news for our wonderful steel and aluminium",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3711,
+      4177,
+      4164
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4244,
+      3534,
+      4313
+     ],
+     [
+      3246,
+      4362,
+      3690,
+      5109
+     ],
+     [
+      3736,
+      4205,
+      4180,
+      5102
+     ]
+    ],
+    "layout_words": 222
+   },
+   "headline_raw": "Law student arrested\nfrom Gurgaon home\nby Kolkata police over\nher social media post",
+   "deck_raw": "",
+   "body_raw": "TANUSREE BOSE\nKOLKATA, MAY 31\n\nTHE KOLKATA police on Friday af-\nternoon arrested a 22-year-old\nlaw student from her Gurgaon\nresidence overan allegedly objec-\ntionable social media post. The\nwoman, Sharmistha Panoli, is a\nstudent of Symbiosis Intern-\national University, Pune, and has\nasizeable social media following\n\u2014 almost 85,000 followers on X\nand 90,000 on Instagram.\nOn May 14, the AIMIM\u2019s na-\ntional spokesperson, Waris\nPathan, had shared a video pur-\nportedly posted by her and al-\nleged that she had insulted Islam\nand tried to spread communal\ndisharmony. In his post, Pathan\ntagged the Home Minister and\n\nsought her arrest.\nOn May 15, Patoli posted on\nX, \u201cIdo hereby tender my uncon-\nditional apology. Whatever was\nputare my personal feelings and\nI never intentionally wanted to\nhurt anybody, so if anybody is\nhurt, I'm sorry for the same. I ex-\npect co-operation and under-\nstanding. Henceforth, I will be\ncautious in my public post Again,\nplease accept my apologies.\u201d\nOn Saturday, she was pro-\nduced ina court in Alipore and re-\nmanded in judicial custody until\n13 June. While leaving the court,\nshe said, \u201cThe way this harass-\nment is being done in a democ-\nracy \u2014 this is not democracy.\u201d\nAccording to the FIR, police\nreceived a complaint at Garden\nReach police station on May 14\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.85650224215247,
+   "ocr_low_conf_share": 0.04484304932735426,
+   "headline": "Law student arrested from Gurgaon home by Kolkata police over her social media post",
+   "deck": "",
+   "byline": "TANUSREE BOSE; KOLKATA, MAY 31",
+   "text": "THE KOLKATA police on Friday afternoon arrested a 22-year-old law student from her Gurgaon residence overan allegedly objectionable social media post. The woman, Sharmistha Panoli, is a student of Symbiosis International University, Pune, and has asizeable social media following - almost 85,000 followers on X and 90,000 on Instagram. On May 14, the AIMIM's national spokesperson, Waris Pathan, had shared a video purportedly posted by her and alleged that she had insulted Islam and tried to spread communal disharmony. In his post, Pathan tagged the Home Minister and\n\nsought her arrest. On May 15, Patoli posted on X, \"Ido hereby tender my unconditional apology. Whatever was putare my personal feelings and I never intentionally wanted to hurt anybody, so if anybody is hurt, I'm sorry for the same. I expect co-operation and understanding. Henceforth, I will be cautious in my public post Again, please accept my apologies.\" On Saturday, she was produced ina court in Alipore and remanded in judicial custody until 13 June. While leaving the court, she said, \"The way this harassment is being done in a democracy - this is not democracy.\" According to the FIR, police received a complaint at Garden Reach police station on May 14",
+   "n_words": 201,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1293,
+      3886,
+      3029,
+      3965
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      4004,
+      3147,
+      4080
+     ]
+    ],
+    "layout_words": 34
+   },
+   "headline_raw": "28 KILLED IN FLOODS, LANDSLIDES ACROSS N-E",
+   "deck_raw": "",
+   "body_raw": "In Guwahati, Assam, on Saturday. At least 28 people have been killed across different states in the Northeast over the last two\ndays as heavy rainfall battered the region with floods and landslides. pn REPORT, PAG",
+   "ocr_conf": 95.19444444444444,
+   "ocr_low_conf_share": 0.0,
+   "headline": "28 KILLED IN FLOODS, LANDSLIDES ACROSS N-E",
+   "deck": "",
+   "byline": "",
+   "text": "In Guwahati, Assam, on Saturday. At least 28 people have been killed across different states in the Northeast over the last two days as heavy rainfall battered the region with floods and landslides. pn REPORT, PAG",
+   "n_words": 36,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4197,
+      1671,
+      4408
+     ],
+     [
+      317,
+      4310,
+      1310,
+      4408
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4479,
+      592,
+      4549
+     ],
+     [
+      318,
+      4598,
+      760,
+      5103
+     ],
+     [
+      807,
+      5033,
+      1246,
+      5103
+     ],
+     [
+      1294,
+      4441,
+      1739,
+      5100
+     ]
+    ],
+    "layout_words": 171
+   },
+   "headline_raw": "Shift to new Central Secretariat\nbuildings likely to start by August\nbuildings likely to start b",
+   "deck_raw": "",
+   "body_raw": "DAMINI NATH\nNEW DELHI, MAY 31\n\nENDING A nearly-100-year stay\nin the case of North Block and\nsome 60 years for Nirman\nBhawan, the Union ministries and\nde\u00e9par iments iocated in thesetwo\ncomplexes are likely to start shift-\ning to the new Common Central\nSecretariat (CCS) 1,2 and 3 build-\nings by August, The Indian Express\nhas learnt.\nThe timeline for the remain-\ning projects is also likely to be\n\u201ccondensed\u201d, with the central\n\ngovernment working on tenders\nfor them, it has been learnt.\n\nThe other CCS buildings are\nproposed tocome upatthe site of\nNirman Bhawan, Shastri Bhawan,\nKrishi Bhawan, Udyog Bhawan\nand National Museum, which are\nexpected to be demolished to\nmake way for the new complex.\nBuilt as a part of the central\ngovernment\u2019s larger plan to re-\ndevelop the Central Vista area \u2014\nwhich stretches from India Gate\nto Rashtrapati Bhavan\u2014the CCS\n1,2 and 3 buildings are nearing\ncompletion. According to gov-\nemment sources, about 5% of the\nwork is remaining in the new\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.7719298245614,
+   "ocr_low_conf_share": 0.06432748538011696,
+   "headline": "Shift to new Central Secretariat buildings likely to start by August buildings likely to start b",
+   "deck": "",
+   "byline": "DAMINI NATH; NEW DELHI, MAY 31",
+   "text": "ENDING A nearly-100-year stay in the case of North Block and some 60 years for Nirman Bhawan, the Union ministries and de\u00e9par iments iocated in thesetwo complexes are likely to start shifting to the new Common Central Secretariat (CCS) 1,2 and 3 buildings by August, The Indian Express has learnt. The timeline for the remaining projects is also likely to be \"condensed\", with the central\n\ngovernment working on tenders for them, it has been learnt.\n\nThe other CCS buildings are proposed tocome upatthe site of Nirman Bhawan, Shastri Bhawan, Krishi Bhawan, Udyog Bhawan and National Museum, which are expected to be demolished to make way for the new complex. Built as a part of the central government's larger plan to redevelop the Central Vista area - which stretches from India Gate to Rashtrapati Bhavan - the CCS 1,2 and 3 buildings are nearing completion. According to govemment sources, about 5% of the work is remaining in the new",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1783,
+      4198,
+      3181,
+      4408
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      4480,
+      2081,
+      4550
+     ],
+     [
+      1783,
+      4599,
+      2224,
+      5107
+     ],
+     [
+      2272,
+      4995,
+      2711,
+      5108
+     ],
+     [
+      2756,
+      4442,
+      3201,
+      5101
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "Eid on June 7, Maharashtra livestock\npanel calls for halt on animal markets",
+   "deck_raw": "",
+   "body_raw": "ZEESHAN SHAIKH\nMUMBAI, MAY 31\n\nWITH EID al-Adha, known com-\nmonly as Bakri Eid, just a week\naway on June 7, the Maharashtra\nGoseva Ayog, a commission set\nup for welfare of indigenous\ncows, has directed all Agriculture\nProduce Market Committees\n(APMCs) not to hold any livestock\nmarket from June 3 toJune8.\nThe move has drawn flak\nfrom various quarters, including\nMuslim community members,\nwho have questioned the intent\n\nbehind stopping the sale of all\nanimals, including lambs and\nsheep, in the whole week pre-\n\nceding Eid.\nIn a May 27 circular sent to all\nAPMCs, the Goseva Ayog said in\nlight of the upcoming Bakri Eid\nfestival, when large-scale animal\nslaughter} sacrifice is carried out,\nno livestock markets should be\nheld in villages across districts\nfrom June 3-8 toensure that noil-\nlegal slaughter of bovines takes\nplace. \u201cPlease stay vigilant in this\nmatter,\u201d it said, referencing the\nMaharashtraAnimal Preservation\nAct, which enforces a complete\nbanon the slaughter ofbovinean-\nimals (cow progeny) in the state.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.17159763313609,
+   "ocr_low_conf_share": 0.01775147928994083,
+   "headline": "Eid on June 7, Maharashtra livestock panel calls for halt on animal markets",
+   "deck": "",
+   "byline": "ZEESHAN SHAIKH; MUMBAI, MAY 31",
+   "text": "WITH EID al-Adha, known commonly as Bakri Eid, just a week away on June 7, the Maharashtra Goseva Ayog, a commission set up for welfare of indigenous cows, has directed all Agriculture Produce Market Committees (APMCs) not to hold any livestock market from June 3 toJune8. The move has drawn flak from various quarters, including Muslim community members, who have questioned the intent\n\nbehind stopping the sale of all animals, including lambs and sheep, in the whole week preceding Eid. In a May 27 circular sent to all APMCs, the Goseva Ayog said in light of the upcoming Bakri Eid festival, when large-scale animal slaughter} sacrifice is carried out, no livestock markets should be held in villages across districts from June 3-8 toensure that noil-legal slaughter of bovines takes place. \"Please stay vigilant in this matter,\" it said, referencing the MaharashtraAnimal Preservation Act, which enforces a complete banon the slaughter ofbovineanimals (cow progeny) in the state.",
+   "n_words": 156,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      342,
+      5262,
+      3188,
+      5388
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5432,
+      499,
+      5507
+     ],
+     [
+      316,
+      5625,
+      636,
+      5697
+     ],
+     [
+      316,
+      5745,
+      761,
+      6136
+     ],
+     [
+      801,
+      5429,
+      1249,
+      6129
+     ],
+     [
+      1294,
+      5429,
+      1735,
+      5578
+     ],
+     [
+      1293,
+      5587,
+      1735,
+      6136
+     ],
+     [
+      2758,
+      5430,
+      3203,
+      6142
+     ]
+    ],
+    "layout_words": 324
+   },
+   "headline_raw": "The man who secured the tiger and became its voice \u2014",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nJAY MAZOOMDAAR\nNEW DELHI, MAY 31\n\nCONSERVATIONIST AND tiger\nchroniclerValmik Thapar passed\naway early this moming after a\nbrave and tough fight with can-\ncer at his Kautilya Marg residence\nin New Delhi, his family said. He\nwas diagnosed with cancer in his\ndigestive tract.\nConsideredone of the world\u2019s\nforemost authorities on tigers,\n\nValmik Thapar inspired genera-\ntions to rally for the cause of\nwildlife conservation.\nAveritable one-man army, he\nauthored over two dozen books\nmostly on big cats, presented sev-\neral wildlife documentaries, in-\ncluding the seminal BBC series\nLand of the Tiger (1997), and re-\nmained the loudest \u2014 and most\narticulate \u2014 voice for conserva-\ntion in India since the 1990s.\nWith no formal training in\nwildlife biology or conservation,\nThapar developed a deep under-\nstanding of tiger behaviour, as he\nput it, by watching wild tigers in\nRanthambhore over five decades.\n\nIn 1976, it wasachanceencounter\nwith Fateh Singh Rathore, then di-\nrector of Ranthambhore tiger re-\nserve, that had him hooked forlife.\n\nBoth outspoken and often\ncontrarian, Rathore and Thapar\nformed an indefatigable partner-\nship \u2014 until Rathore\u2019s demise in\n2011 \u2014 that influenced and, of-\nten, shaped India\u2019s conservation\nefforts and policies over the\ndecades.\nThapar served in multiple\napex bodies of the government,\nincluding the National Board for\nWildlife and the Central\nEmpowered Committee of the\nSupreme Court. He was also a\n\nmember of the Tiger Task Force\nset up to prescribe reforms in\nthe aftermath of the disappear-\nance of tigers from Rajasthan\u2019s\nSariska in 2005.\nThat was also the year I started\nlearning the mercurial ways of\nIndia\u2019s Tigerman.\nThapar was wai iily suppoit-\nive of my work in The Indian\nExpress from the day | first re-\nported the total loss of tigers in\nRajasthan\u2019s Sariska tiger reserve\nin January 2005. He offered me\nencouragement, insights and\ncontacts, as the investigative se-\nries took me to parks across the\ncountry: Ranthambhore",
+   "ocr_conf": 92.26625386996903,
+   "ocr_low_conf_share": 0.015479876160990712,
+   "headline": "The man who secured the tiger and became its voice -",
+   "deck": "",
+   "byline": "ANCHOR; JAY MAZOOMDAAR; NEW DELHI, MAY 31",
+   "text": "CONSERVATIONIST AND tiger chroniclerValmik Thapar passed away early this moming after a brave and tough fight with cancer at his Kautilya Marg residence in New Delhi, his family said. He was diagnosed with cancer in his digestive tract. Consideredone of the world's foremost authorities on tigers,\n\nValmik Thapar inspired genera-tions to rally for the cause of wildlife conservation. Averitable one-man army, he authored over two dozen books mostly on big cats, presented several wildlife documentaries, including the seminal BBC series Land of the Tiger (1997), and remained the loudest - and most articulate - voice for conservation in India since the 1990s. With no formal training in wildlife biology or conservation, Thapar developed a deep understanding of tiger behaviour, as he put it, by watching wild tigers in Ranthambhore over five decades.\n\nIn 1976, it wasachanceencounter with Fateh Singh Rathore, then director of Ranthambhore tiger reserve, that had him hooked forlife.\n\nBoth outspoken and often contrarian, Rathore and Thapar formed an indefatigable partnership - until Rathore's demise in 2011 - that influenced and, often, shaped India's conservation efforts and policies over the decades. Thapar served in multiple apex bodies of the government, including the National Board for Wildlife and the Central Empowered Committee of the Supreme Court. He was also a\n\nmember of the Tiger Task Force set up to prescribe reforms in the aftermath of the disappearance of tigers from Rajasthan's Sariska in 2005. That was also the year I started learning the mercurial ways of India's Tigerman. Thapar was wai iily suppoitive of my work in The Indian Express from the day first reported the total loss of tigers in Rajasthan's Sariska tiger reserve in January 2005. He offered me encouragement, insights and contacts, as the investigative series took me to parks across the country: Ranthambhore",
+   "n_words": 298,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3214,
+      5265,
+      4150,
+      5365
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3247,
+      5431,
+      3689,
+      6131
+     ],
+     [
+      3734,
+      5431,
+      4177,
+      6132
+     ]
+    ],
+    "layout_words": 170
+   },
+   "headline_raw": "with love and awe",
+   "deck_raw": "",
+   "body_raw": "(Rajasthan), Panna, Kanha\n(Madhya Pradesh), Indrawati\n(Chhattisgarh), Valmiki (Bihar)\nand Palamu (Jharkhand) over the\nnext three months.\nIn May 2005, Ireported how\nRanthambhore was in shambles\ndespite attracting more money\nthanall other tiger reserves com-\nbined. Non-profits, including\nThapar\u2019s NGO Ranthambhore\nFoundation, had received a size-\nable chunk of those funds. The\nreport appeared in the morning\nthen Prime Minister\nManmohan Singh visited\nRanthambhore. Thapar was\nlivid over what he said would be\n\nhis last phone call to me.\nIt was a we-told-you-so mo-\nment for a couple of young con-\nservationists who had flagged\nhowoften Thapar used to grandly\nbemoan how he failed to save\n\u201chis\u201d tigers, \u201cValmikisinlovewith\nhis ego,\u201d his critics would carp.\nTwo months later, it was\nThapar himself, back at what he\nloved doing, who would alert me\nto what he perceived as a \u201cpro-\npeople bias\u201d in the Tiger Task\nForce report which observed that\nthe tiger \u201cissue is not about the\ntiger per se... but about rebuild-\ning forest economies.\u201d\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.25294117647059,
+   "ocr_low_conf_share": 0.03529411764705882,
+   "headline": "with love and awe",
+   "deck": "",
+   "byline": "",
+   "text": "(Rajasthan), Panna, Kanha (Madhya Pradesh), Indrawati (Chhattisgarh), Valmiki (Bihar) and Palamu (Jharkhand) over the next three months. In May 2005, Ireported how Ranthambhore was in shambles despite attracting more money thanall other tiger reserves combined. Non-profits, including Thapar's NGO Ranthambhore Foundation, had received a sizeable chunk of those funds. The report appeared in the morning then Prime Minister Manmohan Singh visited Ranthambhore. Thapar was livid over what he said would be\n\nhis last phone call to me. It was a we-told-you-so moment for a couple of young conservationists who had flagged howoften Thapar used to grandly bemoan how he failed to save \"his\" tigers, \"Valmikisinlovewith his ego,\" his critics would carp. Two months later, it was Thapar himself, back at what he loved doing, who would alert me to what he perceived as a \"propeople bias\" in the Tiger Task Force report which observed that the tiger \"issue is not about the tiger per se... but about rebuilding forest economies.\"",
+   "n_words": 160,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.2,
+ "flags": []
+}

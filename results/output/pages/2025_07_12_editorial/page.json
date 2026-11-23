@@ -1,0 +1,598 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_12_editorial",
+ "source_file": "2025-07-12_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-12_editorial.png",
+ "date": "2025-07-12",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 469,
+  "mean_line_conf": 89.71692629333936,
+  "orphan_words": 949,
+  "body_words_total": 3422
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      372,
+      604,
+      1473,
+      713
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      819,
+      1234,
+      875
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      1416,
+      960
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 94.44444444444444,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2282,
+      598,
+      3678,
+      823
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2261,
+      886,
+      3544,
+      1017
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      1982,
+      2830,
+      3227
+     ],
+     [
+      2919,
+      1251,
+      3532,
+      3226
+     ]
+    ],
+    "layout_words": 392
+   },
+   "headline_raw": "s America slips",
+   "deck_raw": "The US is undermining what made it great. India will\nsuffer short-term pain \u2014 it also has opportunities",
+   "body_raw": "The political popularity of\nAmerica\u2019s economic\nirrationality \u2014 Make\nAmerica Great Again, feels\nlike Make America White\nAgain \u2014suggests healing\nwill take time. But Indians\nshowing schadenfreude at\nAmerica\u2019s challenges should\npause. Despite our short-\nterm pain from the US's\nactions, its democracy\nremains the best partner for\nIndia\u2019s students, emigrants,\ninvestment needs and\nexports. Suppose the\ngovernment-funded\nAmerican research engine in\nbasic science suffers. It\u2019s hard\nto imagine the Indian state\nor pharma, software, and\nmanufacturing companies\nresponding with resources of\nthe same intensity\nand impact.\n\nsciences, ignoring Richard Feynman's warn-\ning that physics would be impossible if elec-\ntrons had feelings. This conversionof econom-\nics to mathematics, political science to\nstatistics, and sociology/anthropology to\nracism paralleled a crisis in peer-reviewed,\njournal-published academic papers around\nreplicability, scalability, and generalisability.\nIt's also unclear whether a private university\nlike Harvard, with an endowment of $50 bil-\nlion, should take $90,000 per student per year\nin government funding.\nPresident Donald Trump\u2019s economically\nilliterate advice to Walmart, a hyper-efficient\nAmerican retailer with 3 per cent profit mar-\ngins, to \u201ceat\u201d his import tariffs is a long way\nfrom the global supply chains described in the\nnew book Apple in China by Patrick McGee.\nIgnoring the author's patronising and unfair\nportrayal of Apple's motivations, the book in-\nsightfully demonstrates how the globalisation\nof manufacturing supply chains became the\nmost significant factor in reducing global\npoverty by attracting investment, training\nmanagersand accelerating productivity. India\ncame late to manufacturing supply chains;\nonly one in 10 of our workers works in a fac-\ntory. However, China's recent dismissal of Deng\nXiaoping\u2019s economic genius presents India\nwith a manufacturing opportunity to attract\nfactory refugees despite America\u2019stariff drama.\nIfdemographyis destiny, immigration has\nensured Americadoesn't face the probiems of\nJapan (adult diapers outsell baby diapers) or\nChina (Nigeria may have more people by\n2060). Approximately 14 per cent of\nAmericans are foreign-born, and immigrants,\nincluding their US-bom children, account for\n27 per cent of thecountry's population. These\nnumbers conceal the disproportionate contri-\nbutions of Indian immigrants to newoompany\nformation, university teaching, scientific re-\nsearch, technology innovation, and taxes.\nIndia\u2019s improbable success in two Indian in-\ndustries \u2014 economists never envisioned poor\ncountries exporting software and medicines\n\u2014 benefited from America\u2019s skilled workervisa\nregime and brain circulation. A new book by\nSrinath Raghavan of Ashoka University on the\nIndira Gandhi years suggests they represent",
+   "ocr_conf": 91.69720101781171,
+   "ocr_low_conf_share": 0.04071246819338423,
+   "headline": "s America slips",
+   "deck": "The US is undermining what made it great. India will suffer short-term pain - it also has opportunities",
+   "byline": "",
+   "text": "The political popularity of America's economic irrationality - Make America Great Again, feels like Make America White Again - suggests healing will take time. But Indians showing schadenfreude at America's challenges should pause. Despite our short-term pain from the US's actions, its democracy remains the best partner for India's students, emigrants, investment needs and exports. Suppose the government-funded American research engine in basic science suffers. It's hard to imagine the Indian state or pharma, software, and manufacturing companies responding with resources of the same intensity and impact.\n\nsciences, ignoring Richard Feynman's warning that physics would be impossible if electrons had feelings. This conversionof economics to mathematics, political science to statistics, and sociology/anthropology to racism paralleled a crisis in peer-reviewed, journal-published academic papers around replicability, scalability, and generalisability. It's also unclear whether a private university like Harvard, with an endowment of $50 billion, should take $90,000 per student per year in government funding. President Donald Trump's economically illiterate advice to Walmart, a hyper-efficient American retailer with 3 per cent profit margins, to \"eat\" his import tariffs is a long way from the global supply chains described in the new book Apple in China by Patrick McGee. Ignoring the author's patronising and unfair portrayal of Apple's motivations, the book insightfully demonstrates how the globalisation of manufacturing supply chains became the most significant factor in reducing global poverty by attracting investment, training managersand accelerating productivity. India came late to manufacturing supply chains; only one in 10 of our workers works in a factory. However, China's recent dismissal of Deng Xiaoping's economic genius presents India with a manufacturing opportunity to attract factory refugees despite America'stariff drama. Ifdemographyis destiny, immigration has ensured Americadoesn't face the probiems of Japan (adult diapers outsell baby diapers) or China (Nigeria may have more people by 2060). Approximately 14 per cent of Americans are foreign-born, and immigrants, including their US-bom children, account for 27 per cent of thecountry's population. These numbers conceal the disproportionate contributions of Indian immigrants to newoompany formation, university teaching, scientific research, technology innovation, and taxes. India's improbable success in two Indian industries - economists never envisioned poor countries exporting software and medicines - benefited from America's skilled workervisa regime and brain circulation. A new book by Srinath Raghavan of Ashoka University on the Indira Gandhi years suggests they represent",
+   "n_words": 383,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      1091,
+      1526,
+      1192
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1232,
+      1529,
+      3036
+     ],
+     [
+      320,
+      3017,
+      1525,
+      3052
+     ]
+    ],
+    "layout_words": 589
+   },
+   "headline_raw": "LISTEN TO THE COURT",
+   "deck_raw": "",
+   "body_raw": "EC must not stand on prestige. At stake is the integrity and\ncredibility of the process it has fine-tuned so painstakingly\nHE SUPREME COURT has not stayed or stopped the Election Commission's\nSpecial Intensive Revision of electoral rolls in Bihar, an exercise that has stoked\nconfusion on the ground and raised spectres of disenfranchisement. But\nthat\u2019s not the most important message after the EC\u2019s day in court Thursday.\nItis, instead, this: The Court has flagged important issues that the Commission would do\nwell to heed and act upon, before it files its counter-affidavit in a fortnight \u2014 the SC is\nscheduled to hear the matter again on July 28. Even as the Court has framed its concerns\nwith a respectful tentativeness, given that it is addressing a constitutional authority, the\nEC must know that they resonate widely. It needs to ask itself whether the electoral roll\nrevision exercise \u2014 unprecedented not in itself, but for asking for documentation at the\nstage of enumeration, for shifting the burden of proof onto voters, and for disregarding\nthe sanctity of existing electoral rolls \u2014 can be carried out according to due process with\nonly months to go before the Bihar election. It needs to consider seriously the Court\u2019s\nsuggestion that, \u201cin the interest of justice\u201d, it should include more accessible and ubiqui-\ntous options like the Aadhaar card, ration card and voter ID card in its list of required doc-\numents. The Court has asked the EC to give reasons for not including these. The EC must\nknow that the onus is now on it to prove that it is acting in good faith.\nItis ironic that the EC, for long seen tobe one of India\u2019s most trusted institutions, should\nfind itself in the dock. The reforms initiated and supervised by the ECina sprawling coun-\ntry of staggering diversities have ensured that the Indian election sets the gold standard\nfor the conduct of free and fair polls, and for ensuring that no voter is left out, every vote\nis counted in. Now, that institution must show thatit also listens, that it knows when not\nto stand on prestige. For, at stake is its own record and legacy, and more importantly, the\nintegrity and credibility of the process thatit has refined and fine-tuned so painstakingly.\nApart from suggesting the inclusion of three documents in the EC list, and pointing out\nthat the tight timeline creates practical difficulties, including in the matter of providing\na reasonable opportunity for a hearing in cases of deletion, the Court has also drawn at-\ntention to the question of remit. It is the Ministry of Home Affairs, not the EC, the SC has\nrightly said, whose task it is to ascertain or verify citizenship.\nBut most of all, the EC must listen to the Court because it is giving the Commission an-\nother opportunity to listen to the voice of India's voters. Ground reports in this paper have\ncaptured some of those voices, especially in vulnerable sections that are more likely to fall\nthrough the cracks of acomplicated bureaucratic exercise. The EC must listen tothe undoc-\numented people, the poor and the migrants, the SCs and STs and extremely backward castes,\nand tothe women who move from their parents\u2019 homes to their marital homes. It must up-\ndate and clean the electoral rolls, of course, and make them more accurate. But it must do\nsowithout making the process arduous forthe neovle and without siolane tneiranxieties.\n\nsowithout making the process arduous forthe people, and without stoking their anxieties.",
+   "ocr_conf": 92.06972789115646,
+   "ocr_low_conf_share": 0.03231292517006803,
+   "headline": "LISTEN TO THE COURT",
+   "deck": "",
+   "byline": "",
+   "text": "EC must not stand on prestige. At stake is the integrity and credibility of the process it has fine-tuned so painstakingly HE SUPREME COURT has not stayed or stopped the Election Commission's Special Intensive Revision of electoral rolls in Bihar, an exercise that has stoked confusion on the ground and raised spectres of disenfranchisement. But that's not the most important message after the EC's day in court Thursday. Itis, instead, this: The Court has flagged important issues that the Commission would do well to heed and act upon, before it files its counter-affidavit in a fortnight - the SC is scheduled to hear the matter again on July 28. Even as the Court has framed its concerns with a respectful tentativeness, given that it is addressing a constitutional authority, the EC must know that they resonate widely. It needs to ask itself whether the electoral roll revision exercise - unprecedented not in itself, but for asking for documentation at the stage of enumeration, for shifting the burden of proof onto voters, and for disregarding the sanctity of existing electoral rolls - can be carried out according to due process with only months to go before the Bihar election. It needs to consider seriously the Court's suggestion that, \"in the interest of justice\", it should include more accessible and ubiquitous options like the Aadhaar card, ration card and voter ID card in its list of required documents. The Court has asked the EC to give reasons for not including these. The EC must know that the onus is now on it to prove that it is acting in good faith. Itis ironic that the EC, for long seen tobe one of India's most trusted institutions, should find itself in the dock. The reforms initiated and supervised by the ECina sprawling country of staggering diversities have ensured that the Indian election sets the gold standard for the conduct of free and fair polls, and for ensuring that no voter is left out, every vote is counted in. Now, that institution must show thatit also listens, that it knows when not to stand on prestige. For, at stake is its own record and legacy, and more importantly, the integrity and credibility of the process thatit has refined and fine-tuned so painstakingly. Apart from suggesting the inclusion of three documents in the EC list, and pointing out that the tight timeline creates practical difficulties, including in the matter of providing a reasonable opportunity for a hearing in cases of deletion, the Court has also drawn attention to the question of remit. It is the Ministry of Home Affairs, not the EC, the SC has rightly said, whose task it is to ascertain or verify citizenship. But most of all, the EC must listen to the Court because it is giving the Commission another opportunity to listen to the voice of India's voters. Ground reports in this paper have captured some of those voices, especially in vulnerable sections that are more likely to fall through the cracks of acomplicated bureaucratic exercise. The EC must listen tothe undocumented people, the poor and the migrants, the SCs and STs and extremely backward castes, and tothe women who move from their parents' homes to their marital homes. It must update and clean the electoral rolls, of course, and make them more accurate. But it must do sowithout making the process arduous forthe neovle and without siolane tneiranxieties.\n\nsowithout making the process arduous forthe people, and without stoking their anxieties.",
+   "n_words": 581,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      1141,
+      2147,
+      1184
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "MANISH SABHARWAL",
+   "ocr_conf": 90.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "MANISH SABHARWAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1621,
+      1250,
+      2226,
+      1517
+     ]
+    ],
+    "layout_words": 39,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "AN AUTOIMMUNE DISEASE occurs when\nyour body's immune system treats its own\nhealthy tissuesas invaders and attacks them,\nAmerica\u2019s policies currently targetingits three\npowerful muscles \u2014 universities, companies\nand immigration \u2014 create short-term pain for\nIndiainremittances, student enrolment, man-",
+   "ocr_conf": 80.82051282051282,
+   "ocr_low_conf_share": 0.1282051282051282,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "AN AUTOIMMUNE DISEASE occurs when your body's immune system treats its own healthy tissuesas invaders and attacks them, America's policies currently targetingits three powerful muscles - universities, companies and immigration - create short-term pain for Indiainremittances, student enrolment, man-",
+   "n_words": 39,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3571,
+      1251,
+      4178,
+      3109
+     ]
+    ],
+    "layout_words": 308,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "conjoined crises ofhegemony, representation,\nand governance, This may also explain\nAmerica\u2019s political backlash. Universities be-\ncame idealists with illusions. The geographic\n(rural) and sectoral (manufacturing) concen-\ntration of wage declines were ignored. Liberals\ndenied that illegal migration would hurt legal\nmigration, a path to citizenship is not neces-\nsary fora path to work. And migrants are eas-\nier to vilify than technology.\nThe political popularity of America\u2019s eco-\nnomic irrationality \u2014 Make America Great\nAgain, feels like Make America White Again\n\u2014suggests healing will take time. But Indians\nshowing schadenfreude at America\u2019s chal-\nlenges should pause. Despite our short-term\npain from the US\u2019s actions, its democracy re-\nmains the best partner for India\u2019s students,\nemigrants, investment needs and exports.\nSuppose the government-funded American\nresearch engine in basic science suffers. It\u2019s\nhard to imagine the Indian state or pharma,\nsoftware, and manufacturing companies re-\nsponding with resources of the same inten-\nsity and impact. Let's compare America to the\naltemative; imagine the tyranny and soulless-\nness of a global order hinged on China,\nEvery problem is an opportunity. India\nmust capitaliseon this one in three ways. First,\ncutemployer compliance, filing and criminal\nprovisions. Second, shift some of Delhi's\npower (funds, functions and functionaries) to\nstate and city governments. Third, while the\ntroubles of America\u2019s Ivy League universities\nare probably temporary, granting poorna\nswargj to IISC, ITs, IIMs, and Ashoka to inno-\nvate, disrupt and teach would accelerate their\ndisruption of global university rankings.\nAll three reforms are hard. But as a song\nfromthe movie Pink reminded us Jo tujhse lipti\nbedivaan samajhna inko vastra tu/ ye bediyaan\npighal ke banale inko shastra tu (Don't mistake\nthechains that bind you forclothes/ Melt these\nchains into weapons) In policy, there isnosuch\nthing as being toolate, but thereisa \u201cfierce ur-\ngency of now\u201d. Successis far from guaranteed\nbut the moment feels auspicious.",
+   "ocr_conf": 88.38311688311688,
+   "ocr_low_conf_share": 0.05844155844155844,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "conjoined crises ofhegemony, representation, and governance, This may also explain America's political backlash. Universities became idealists with illusions. The geographic (rural) and sectoral (manufacturing) concentration of wage declines were ignored. Liberals denied that illegal migration would hurt legal migration, a path to citizenship is not necessary fora path to work. And migrants are easier to vilify than technology. The political popularity of America's economic irrationality - Make America Great Again, feels like Make America White Again - suggests healing will take time. But Indians showing schadenfreude at America's challenges should pause. Despite our short-term pain from the US's actions, its democracy remains the best partner for India's students, emigrants, investment needs and exports. Suppose the government-funded American research engine in basic science suffers. It's hard to imagine the Indian state or pharma, software, and manufacturing companies responding with resources of the same intensity and impact. Let's compare America to the altemative; imagine the tyranny and soullessness of a global order hinged on China, Every problem is an opportunity. India must capitaliseon this one in three ways. First, cutemployer compliance, filing and criminal provisions. Second, shift some of Delhi's power (funds, functions and functionaries) to state and city governments. Third, while the troubles of America's Ivy League universities are probably temporary, granting poorna swargj to IISC, ITs, IIMs, and Ashoka to innovate, disrupt and teach would accelerate their disruption of global university rankings. All three reforms are hard. But as a song fromthe movie Pink reminded us Jo tujhse lipti bedivaan samajhna inko vastra tu/ ye bediyaan pighal ke banale inko shastra tu (Don't mistake thechains that bind you forclothes/ Melt these chains into weapons) In policy, there isnosuch thing as being toolate, but thereisa \"fierce urgency of now\". Successis far from guaranteed but the moment feels auspicious.",
+   "n_words": 297,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1617,
+      1527,
+      2227,
+      3225
+     ]
+    ],
+    "layout_words": 292,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ufacturing jobs, foreign investment and ex-\nports. While these attacks feel like a passing\nshower, it's too early to conclude they aren't\nthe climate change of Pax Americana ending.\nRegardless of how politics unfolds in America,\nIndia must seize the long-term economic op-\nportunities by making itseif strongerthrough\na 180-day pian for deregulation for employ-\ners, decentralisation of power and deepening\nof human capital.\nSome people date Pax Americana \u2014 US\ndominancein the world order \u2014 to World War\nIl. 1 prefer January 1992, when President\nGeorge H W Bush, referring to the Soviet\nUnion's collapse, said, \u201cThe last year has seen\nchanges ofbiblical proportions. By the graceof\nGod ... a world once divided ... now recog-\nnises one sole and preeminent power, the\nUnited States of America.\u201d Despite this bibli-\ncal hubris\u2014 and 9/11, twowars, afinancial cri-\nsis and Covid since \u2014 the US has dominated\nin digital innovation, new drugs and stock\nmarket growth because it stole the best peo-\nple in the world, made public investments in\nbasic science and its companies globalised\ntheir supply chains. But America is now\npouncing onall three.\nAmerica\u2019s universities are home to 50 per\ncent of Nobel Prize winners. Funding from the\nNational Institutes of Health contributed to99\nper cent of all drugs approved between 2010\nand 2019. In biotech, US government funding\naccounted for 38 per of total investment in\n2024, almost as much as all global venture\ncapital combined. Global consumers of med-\nicine and information technology innovations\n(chips, internet, and GPS) have benefited from\ngenerous US government funding that sup-\nported cutting-edge basic science research\nand grants toacademic scientists. Same of the\nbacklash against universities is earned as some\nintolerant humanities professors with physics\nenvy gift-wrapped their disciplines as social",
+   "ocr_conf": 90.98972602739725,
+   "ocr_low_conf_share": 0.04794520547945205,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ufacturing jobs, foreign investment and exports. While these attacks feel like a passing shower, it's too early to conclude they aren't the climate change of Pax Americana ending. Regardless of how politics unfolds in America, India must seize the long-term economic opportunities by making itseif strongerthrough a 180-day pian for deregulation for employers, decentralisation of power and deepening of human capital. Some people date Pax Americana - US dominancein the world order - to World War Il. 1 prefer January 1992, when President George H W Bush, referring to the Soviet Union's collapse, said, \"The last year has seen changes ofbiblical proportions. By the graceof God... a world once divided... now recognises one sole and preeminent power, the United States of America.\" Despite this biblical hubris - and 9/11, twowars, afinancial crisis and Covid since - the US has dominated in digital innovation, new drugs and stock market growth because it stole the best people in the world, made public investments in basic science and its companies globalised their supply chains. But America is now pouncing onall three. America's universities are home to 50 per cent of Nobel Prize winners. Funding from the National Institutes of Health contributed to99 per cent of all drugs approved between 2010 and 2019. In biotech, US government funding accounted for 38 per of total investment in 2024, almost as much as all global venture capital combined. Global consumers of medicine and information technology innovations (chips, internet, and GPS) have benefited from generous US government funding that supported cutting-edge basic science research and grants toacademic scientists. Same of the backlash against universities is earned as some intolerant humanities professors with physics envy gift-wrapped their disciplines as social",
+   "n_words": 282,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      465,
+      3147,
+      1385,
+      3231
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3277,
+      1527,
+      4769
+     ]
+    ],
+    "layout_words": 432
+   },
+   "headline_raw": "CALL BACK THE BILL",
+   "deck_raw": "",
+   "body_raw": "Maharashtra Special Public Security Bill will aid state over-reach,\ncriminalise dissent. Fadnavis government must step back\nHERE ARE SALIENT differences between Left Wing Extremism (LWE)\u2014 which\nhas been flagged by successive governments at the Centre and in the states as\nagrave internal security threat \u2014 and \u201curban Maoism\u201d. The former, an insur-\ngency against the state, has targeted security forces, government officials, civil-\niansand politicians and invited a whole-of-government response that includes armed en-\ngagement, develonment work and a host of other policies and actions. The latter is a political\nterm of relatively recent vintage that has been deployed controversially against activists,\nstudents and academics who have expressed dissent with the dominant ideology or polit-\nicalestablishment Disturbingly, the Maharashtra Special Public Security Bill, passed by the\nlower House, conflates the two. Its loosely defined scope and stringent provisions raise spec-\ntres of state overreachand misuse. Armed with vague and opaque definitions, it invites the\ndanger of blurring the lines between extremist violence and non-violent dissent.\nThe Bill fails the test established by the Supreme Court as far back as 1962 in Kedar\nNath Singh vs State of Bihar. Words and ideas, no matter how critical of the government,\neven the state itself, do not constitute sedition or a crime unless they can be directly linked\ntoan incitement to violence. The Bill provides for ajail term of up to seven years for \u201cany\naction\u201d thatis \u201cspoken or written\u201d or \u201cby visual representation\u201d thatcan be construed as\na \u201cdanger to peace and tranquillity\u201d or interferes with \u201cmaintenance of public order\u201d, and\nitallows for attaching the property of an accused. In this respect, it is more stringent than\nthe most controversial sections of the Prevention of Money Laundering Act. Democracy,\nin practice, is the right to speak and write, to draw and debate, to disagree and criticise.\nThe Constitution recognises this in its guarantees of the fundamental rights to speech\nand expression. The Special Public Security Act violates that promise in letter and spirit.\nChief Minister Devendra Fadnavis, who tabled the Bill, said that it was needed to\ncounter organisations that are \u201cbrainwashing the youth\u201d. He should have more faith in\nthe maturity of the young. He spoke of how LWE influence is waning in the state, as in\nmuch of the \u201cred corridor\u2019, which, he said, is down from four districts to twoblocks. Why,\nthen, raise the bogey of \u201curban Maoism\u201d? Itis difficult not to see the Bill as an attempt to\nafrogate more powers to the state and to help it to criminalise political-ideological oppo-\nnents, The Maharashtra government must rethink the law.",
+   "ocr_conf": 92.14351851851852,
+   "ocr_low_conf_share": 0.02546296296296296,
+   "headline": "CALL BACK THE BILL",
+   "deck": "",
+   "byline": "",
+   "text": "Maharashtra Special Public Security Bill will aid state over-reach, criminalise dissent. Fadnavis government must step back HERE ARE SALIENT differences between Left Wing Extremism (LWE) - which has been flagged by successive governments at the Centre and in the states as agrave internal security threat - and \"urban Maoism\". The former, an insurgency against the state, has targeted security forces, government officials, civil-iansand politicians and invited a whole-of-government response that includes armed engagement, develonment work and a host of other policies and actions. The latter is a political term of relatively recent vintage that has been deployed controversially against activists, students and academics who have expressed dissent with the dominant ideology or politicalestablishment Disturbingly, the Maharashtra Special Public Security Bill, passed by the lower House, conflates the two. Its loosely defined scope and stringent provisions raise spectres of state overreachand misuse. Armed with vague and opaque definitions, it invites the danger of blurring the lines between extremist violence and non-violent dissent. The Bill fails the test established by the Supreme Court as far back as 1962 in Kedar Nath Singh vs State of Bihar. Words and ideas, no matter how critical of the government, even the state itself, do not constitute sedition or a crime unless they can be directly linked toan incitement to violence. The Bill provides for ajail term of up to seven years for \"any action\" thatis \"spoken or written\" or \"by visual representation\" thatcan be construed as a \"danger to peace and tranquillity\" or interferes with \"maintenance of public order\", and itallows for attaching the property of an accused. In this respect, it is more stringent than the most controversial sections of the Prevention of Money Laundering Act. Democracy, in practice, is the right to speak and write, to draw and debate, to disagree and criticise. The Constitution recognises this in its guarantees of the fundamental rights to speech and expression. The Special Public Security Act violates that promise in letter and spirit. Chief Minister Devendra Fadnavis, who tabled the Bill, said that it was needed to counter organisations that are \"brainwashing the youth\". He should have more faith in the maturity of the young. He spoke of how LWE influence is waning in the state, as in much of the \"red corridor', which, he said, is down from four districts to twoblocks. Why, then, raise the bogey of \"urban Maoism\"? Itis difficult not to see the Bill as an attempt to afrogate more powers to the state and to help it to criminalise political-ideological opponents, The Maharashtra government must rethink the law.",
+   "n_words": 427,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3836,
+      3153,
+      4184,
+      3220
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is co-founder of\nTeamlease Services",
+   "ocr_conf": 95.28571428571429,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is co-founder of Teamlease Services",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      3417,
+      4017,
+      3519
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2268,
+      3591,
+      4094,
+      3652
+     ]
+    ],
+    "body_boxes": [
+     [
+      2316,
+      4537,
+      2804,
+      5330
+     ],
+     [
+      2919,
+      3825,
+      3525,
+      5326
+     ],
+     [
+      3568,
+      3826,
+      4178,
+      5128
+     ],
+     [
+      3613,
+      5172,
+      4175,
+      5327
+     ],
+     [
+      3570,
+      5609,
+      4174,
+      5762
+     ]
+    ],
+    "layout_words": 539
+   },
+   "headline_raw": "MISSION WITHOUT A MANDATE",
+   "deck_raw": "India\u2019s AI ambitions need bipartisan consensus. Parliament must be brought in",
+   "body_raw": "tional companies, and to the extent that the\nIndian IT industry has engaged with Al, ithas\nbeen largely in deployment \u2014 downstream\nof frontier innovation. India lacks AI-first na-\ntional champions and the deep-tech indus-\ntrial ecosystem seen in global leaders.\nVenture capital majors are frank: They see\nIndia as a consumer market, nota deep-tech\ninnovator. Funding remains skewed towards\nconsumer tech, not foundational research.\nBridging these deficits will require a coordi-\nnated transformation, guided by a national\nstrategy, anchored in political consensus and\ndesigned to provide long-term policy stabil-\nity. That consensus is what India\u2019s current\napproach lacks. Parliament's role goes be-\nyond regulation; it is the primary forum for\nsignalling bipartisan political consensus .Yet,\nParliament has remained extraneous to\nshaping national AI governance. Less than 1\nper cent of questions are on Al and there is\nno dedicated institutional mechanism for\noversight. Inother leading democracies, leg-\nislative processes have built bipartisan sup-\nport for Al strategies, ensured transparency,\nand aligned governance with public values.\nWithout parliamentary anchoring, India\u2019s Al\ngovemianice risks remaining fragmented and\nvulnerable to administrative shifts.\nThe consequences of this democratic\ndeficit are evident. Important debates around\nstrategic autonomy, use of public data,energy\ndemands and national security implications\nhave received short shrift in the largely tech-\nnocratic policy discussions. This absence also\nundermines India\u2019s international credibility.\nWhile India\u2019s leadership of the Global\nPartnership on Alsignalsginhal ambition, other\n\ndemocracies will look at whether its domestic\ngovernance aligns with its aspirations abroad.\nThe path forward is clear. India needs a\nCabinet-endorsed National Al Strategy \u2014 pre-\nsented to Parliament \u2014 that sets out a vision, an\nactionable roadmap, and mechanisms for\ndemocraticaccountability. This strategy must\nestablish an empowered coordinating author-\nity with a whole-of-government mandate;\nalign R&D, industrial policy, and security strat-\negy, and create frainieworks for public engage-\nment and parliamentary oversight. Al is not\njust anothertechnology. Itis a general-purpose\ntransformation that will reshape national se-\ncurity, economic structures and thesocialcon-\ntract itself. Managing that transformation re-\nquires policy stability and legitimacy \u2014 built\nthrough broad-based national deliberation.\nIndia\u2019s strengths are undeniable: A young\npopulation, a competitive digitaleconomy,and\nthe world\u2019s largest democracy. These assets\nposition India to chart an Al trajectory that\ncombines innovation with inclusion, But that\nfuture will not emerge by default.\nThe windowfor action is closing. As global\nAl governance frameworks take shape and ca-\npabilities advance rapidly, India must move\nbeyond piecemeal initiatives toward a com-\nprehensive strategy. Al governance must be\ntreated as a national strategic priority \u2014\ngrounded in democratic consensus \u2014 if India\nis toshape an Al future aligned withits national\ninterests and global leadership aspirations.\n\nGuptais executive director of Future of India\nFoundation. This article draws from the\nFoundation's report, Governing Alin India:\nWhy Strategy Must Precede Mission\u2019\n\nment said that the defence equipment is \u201cin\nresponse to repeated violations of Pakistan\u2019s\nairspace and territory by Communist aircraft\napproaching from Afghanistan\u201d.",
+   "ocr_conf": 89.9962962962963,
+   "ocr_low_conf_share": 0.053703703703703705,
+   "headline": "MISSION WITHOUT A MANDATE",
+   "deck": "India's AI ambitions need bipartisan consensus. Parliament must be brought in",
+   "byline": "",
+   "text": "tional companies, and to the extent that the Indian IT industry has engaged with Al, ithas been largely in deployment - downstream of frontier innovation. India lacks AI-first national champions and the deep-tech industrial ecosystem seen in global leaders. Venture capital majors are frank: They see India as a consumer market, nota deep-tech innovator. Funding remains skewed towards consumer tech, not foundational research. Bridging these deficits will require a coordinated transformation, guided by a national strategy, anchored in political consensus and designed to provide long-term policy stability. That consensus is what India's current approach lacks. Parliament's role goes beyond regulation; it is the primary forum for signalling bipartisan political consensus.Yet, Parliament has remained extraneous to shaping national AI governance. Less than 1 per cent of questions are on Al and there is no dedicated institutional mechanism for oversight. Inother leading democracies, legislative processes have built bipartisan support for Al strategies, ensured transparency, and aligned governance with public values. Without parliamentary anchoring, India's Al govemianice risks remaining fragmented and vulnerable to administrative shifts. The consequences of this democratic deficit are evident. Important debates around strategic autonomy, use of public data,energy demands and national security implications have received short shrift in the largely technocratic policy discussions. This absence also undermines India's international credibility. While India's leadership of the Global Partnership on Alsignalsginhal ambition, other\n\ndemocracies will look at whether its domestic governance aligns with its aspirations abroad. The path forward is clear. India needs a Cabinet-endorsed National Al Strategy - presented to Parliament - that sets out a vision, an actionable roadmap, and mechanisms for democraticaccountability. This strategy must establish an empowered coordinating authority with a whole-of-government mandate; align R&D, industrial policy, and security strategy, and create frainieworks for public engagement and parliamentary oversight. Al is not just anothertechnology. Itis a general-purpose transformation that will reshape national security, economic structures and thesocialcontract itself. Managing that transformation requires policy stability and legitimacy - built through broad-based national deliberation. India's strengths are undeniable: A young population, a competitive digitaleconomy,and the world's largest democracy. These assets position India to chart an Al trajectory that combines innovation with inclusion, But that future will not emerge by default. The windowfor action is closing. As global Al governance frameworks take shape and capabilities advance rapidly, India must move beyond piecemeal initiatives toward a comprehensive strategy. Al governance must be treated as a national strategic priority - grounded in democratic consensus - if India is toshape an Al future aligned withits national interests and global leadership aspirations.\n\nGuptais executive director of Future of India Foundation. This article draws from the Foundation's report, Governing Alin India: Why Strategy Must Precede Mission'\n\nment said that the defence equipment is \"in response to repeated violations of Pakistan's airspace and territory by Communist aircraft approaching from Afghanistan\".",
+   "n_words": 464,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      3721,
+      1965,
+      3764
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "RUCHI GUPTA",
+   "ocr_conf": 92.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "RUCHI GUPTA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1615,
+      3824,
+      2226,
+      5318
+     ]
+    ],
+    "layout_words": 249,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ASTHE USand Chinadrive anew eraof Al com-\npetition, and the EU asserts leadership on Al\nregulation, India has articulated its ambition\ntolead in technology and shape global Al gov-\nemance. With its democratic legitimacy and\ndigital capacity, India is positioned to repre-\nsent the Global South in Al forums. However,\nwithout acomprehensive, politicallygrounded\nnational strategy, it risks falling behindin tech-\nnological capability and managing the atten-\ndant strategic and social transformations,\nThe IndiaAl Mission, approved last year\nwith abudget of over Rs 10,000 crore, isawel-\ncome step. But it is a mission without a man-\ndate. Housed as a division of a Section 8 com-\npany under the Ministry of Electronics and\nInformation Technology, it is led by a bureau-\ncrat, Operating without a Cabinet-endorsed\nnational strategy, it lacks both the political heft\nto drive whole-of-government coordination\nor signal the long-term political commitment\nrequired toalign public and privateaction. The\nUS, China, the UK and the EU anchor their Al\nefforts in formal, Cabinet-endorsed national\nstrategies with clear roadmaps and timelines,\nThis governance gap is critical because\nIndia faces structural deficits that impede its\nAl ecosystem, which cannot be overcome\nthrough incremental approaches. The Indian\nR&D baseremains relatively shallow. Ouruni-\nversities are underrepresented in global Al\nrankings; the pipeline of Al-specialised PhDs is\nlimited; collaboration between academia and\nindustry is weak, India continues to lose top-\ntier Al talent to global hubs.\nIn the private sector, India\u2019s IT industry\nremains oriented toward services, Research\ninvestments are modest relative to intemna-",
+   "ocr_conf": 90.51807228915662,
+   "ocr_low_conf_share": 0.05220883534136546,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ASTHE USand Chinadrive anew eraof Al competition, and the EU asserts leadership on Al regulation, India has articulated its ambition tolead in technology and shape global Al govemance. With its democratic legitimacy and digital capacity, India is positioned to represent the Global South in Al forums. However, without acomprehensive, politicallygrounded national strategy, it risks falling behindin technological capability and managing the attendant strategic and social transformations, The IndiaAl Mission, approved last year with abudget of over Rs 10,000 crore, isawelcome step. But it is a mission without a mandate. Housed as a division of a Section 8 company under the Ministry of Electronics and Information Technology, it is led by a bureaucrat, Operating without a Cabinet-endorsed national strategy, it lacks both the political heft to drive whole-of-government coordination or signal the long-term political commitment required toalign public and privateaction. The US, China, the UK and the EU anchor their Al efforts in formal, Cabinet-endorsed national strategies with clear roadmaps and timelines, This governance gap is critical because India faces structural deficits that impede its Al ecosystem, which cannot be overcome through incremental approaches. The Indian R&D baseremains relatively shallow. Ouruniversities are underrepresented in global Al rankings; the pipeline of Al-specialised PhDs is limited; collaboration between academia and industry is weak, India continues to lose toptier Al talent to global hubs. In the private sector, India's IT industry remains oriented toward services, Research investments are modest relative to intemna-",
+   "n_words": 238,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      621,
+      4858,
+      1227,
+      4941
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4987,
+      1530,
+      6155
+     ]
+    ],
+    "layout_words": 324
+   },
+   "headline_raw": "MAN AT REST",
+   "deck_raw": "",
+   "body_raw": "Ata time when burnout is a badge of honour, Hugh Grant's\nWimbledon nap is a reminder of the body\u2019s limits\n\\ X 4 AS IT THE sun-dappled ambience, the strawberries and cream, the\nfrustration of Flavio Cobolli's unforced errors against Serbian Novak\nDjokovic on Centre Court or simply the crushing weight of being a64-\nyear-old man in the third act ofa very public life? Whatever the rea-\nson, Hugh Grant deserves empathy. There he was, in the royal box at Wimbledon, seated\nbehind Queen Camilla, and flanked by Britain\u2019s well-dressed and well-rested, watching\nthe men\u2019s singles quarter-finals, when the actor did something quietly radical: Head ata\ntilt, eyes closed, utterly unbothered, he took a nap.\nThe internet, of course, did what it does best \u2014 it giggled, memed, and gently roasted.\nBut far froma gaffe, Grant\u2019s power nap was avibe. Ata time when hustle culture is prac-\ntically a moral code and burnout a badge of honour, his shuteye was a tiny, silken rebel-\nlion, a reminder that in a world obsessed with presence and polish, the human body\nsometimes refuses to cooperate with the agenda. That it may cock a snook at the tyranny\nof being always-present and simply opt out. It makes Grant a perfect ambassador for ex-\nistential exhaustion. Because honestly, is there anyone who hasn't been in his shoes?\nAfter a hard day\u2019s work, settling down with a book, or toa movie to slough off the day's\ndrudgery, who hasn't found their eyes glazing over mid-sentence, or the soundtrack of\nthe movie fading toa pleasant drone in the background?\nSo praise be to Grant for serving up an unexpected ace. In that small, deliciousmoment,\nhe didn\u2019t merely catch forty winks \u2014 he made an elegant case for surrender. Not to lazi-\nness, but to limits. To the body\u2019s quiet wisdom over society's relentless performance met-\nrics. Wimbledon had its tennis. The perpetually sleep-deprived discovered a leading man,\nnot of action, but of rest.",
+   "ocr_conf": 90.53211009174312,
+   "ocr_low_conf_share": 0.039755351681957186,
+   "headline": "MAN AT REST",
+   "deck": "",
+   "byline": "",
+   "text": "Ata time when burnout is a badge of honour, Hugh Grant's Wimbledon nap is a reminder of the body's limits \\ X 4 AS IT THE sun-dappled ambience, the strawberries and cream, the frustration of Flavio Cobolli's unforced errors against Serbian Novak Djokovic on Centre Court or simply the crushing weight of being a64- year-old man in the third act ofa very public life? Whatever the reason, Hugh Grant deserves empathy. There he was, in the royal box at Wimbledon, seated behind Queen Camilla, and flanked by Britain's well-dressed and well-rested, watching the men's singles quarter-finals, when the actor did something quietly radical: Head ata tilt, eyes closed, utterly unbothered, he took a nap. The internet, of course, did what it does best - it giggled, memed, and gently roasted. But far froma gaffe, Grant's power nap was avibe. Ata time when hustle culture is practically a moral code and burnout a badge of honour, his shuteye was a tiny, silken rebellion, a reminder that in a world obsessed with presence and polish, the human body sometimes refuses to cooperate with the agenda. That it may cock a snook at the tyranny of being always-present and simply opt out. It makes Grant a perfect ambassador for existential exhaustion. Because honestly, is there anyone who hasn't been in his shoes? After a hard day's work, settling down with a book, or toa movie to slough off the day's drudgery, who hasn't found their eyes glazing over mid-sentence, or the soundtrack of the movie fading toa pleasant drone in the background? So praise be to Grant for serving up an unexpected ace. In that small, deliciousmoment, he didn't merely catch forty winks - he made an elegant case for surrender. Not to laziness, but to limits. To the body's quiet wisdom over society's relentless performance metrics. Wimbledon had its tennis. The perpetually sleep-deprived discovered a leading man, not of action, but of rest.",
+   "n_words": 321,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2264,
+      5472,
+      3394,
+      5560
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2268,
+      5602,
+      2801,
+      5646
+     ],
+     [
+      2919,
+      5769,
+      3410,
+      5813
+     ],
+     [
+      3571,
+      5809,
+      3858,
+      5863
+     ]
+    ],
+    "body_boxes": [
+     [
+      2266,
+      5687,
+      2873,
+      6156
+     ],
+     [
+      2920,
+      5608,
+      3523,
+      5715
+     ],
+     [
+      2918,
+      5845,
+      3523,
+      6157
+     ]
+    ],
+    "layout_words": 145
+   },
+   "headline_raw": "JuLy 12, 1985, Forty YEARS AGO",
+   "deck_raw": "ASSASSINATION FOILED\nUS ARMS PAKISTAN\nCJI RETIRES",
+   "body_raw": "THESRI LANKAN government said that a plot\nby Tamil separatists to assassinate President\nJunius Jayewardene was foiled when the po-\nlice discovered 120 kg of gelignite wired toa\ntiming device in a parked van. A statement\nby the Information Minister said the alleged\nconspirators \u201ctold police that the target was\nto be the presidential secretariat\u201d. The gov-\nernment said a group called the Eelam\nRevolutionary Organisation of Students was\nresponsible. The five militant groups and the\nTULF delegation participating in talks with\n\nthe Sri Lankan government condemned the\nalleged attempt and in ajoint statement, de-\nnied involvement.\n\nTHE UNITED STATES is rushing to Pakistan\n100 AIML sidewinder air-to-air missiles and\nan unspecified numberof shoulder-fired sur-\nface-to-air Stinger missiles worth $8.5 mil-\nlion. In addition, a Pakistani request for\nground or airborne radar for iinpioved detec-\ntion and interception of Afghan aircraft re-\nmains understudy. Astatedepartmeni state-",
+   "ocr_conf": 90.5,
+   "ocr_low_conf_share": 0.0410958904109589,
+   "headline": "JuLy 12, 1985, Forty YEARS AGO",
+   "deck": "ASSASSINATION FOILED US ARMS PAKISTAN CJI RETIRES",
+   "byline": "",
+   "text": "THESRI LANKAN government said that a plot by Tamil separatists to assassinate President Junius Jayewardene was foiled when the police discovered 120 kg of gelignite wired toa timing device in a parked van. A statement by the Information Minister said the alleged conspirators \"told police that the target was to be the presidential secretariat\". The government said a group called the Eelam Revolutionary Organisation of Students was responsible. The five militant groups and the TULF delegation participating in talks with\n\nthe Sri Lankan government condemned the alleged attempt and in ajoint statement, denied involvement.\n\nTHE UNITED STATES is rushing to Pakistan 100 AIML sidewinder air-to-air missiles and an unspecified numberof shoulder-fired surface-to-air Stinger missiles worth $8.5 million. In addition, a Pakistani request for ground or airborne radar for iinpioved detection and interception of Afghan aircraft remains understudy. Astatedepartmeni state-",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3567,
+      5887,
+      4177,
+      6157
+     ]
+    ],
+    "layout_words": 50,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "CHIEF JUSTICE Y V Chandrachud retired after\nseven years in the post and 25 years as ajudge.\nJustice PN Bhagwati, the senior-most judge of\ntheSupreme Court, willbeswom inas thenew\nChief Justice. While Chandrachud had the\nlongest term as CJ], Justice Bhagwati will have\none of the shortest \u2014 one-and-a-half years,",
+   "ocr_conf": 84.72,
+   "ocr_low_conf_share": 0.12,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "CHIEF JUSTICE Y V Chandrachud retired after seven years in the post and 25 years as ajudge. Justice PN Bhagwati, the senior-most judge of theSupreme Court, willbeswom inas thenew Chief Justice. While Chandrachud had the longest term as CJ], Justice Bhagwati will have one of the shortest - one-and-a-half years,",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 23.6,
+ "flags": [
+  "28% of body text had no headline above it",
+  "4 kept article(s) without a headline"
+ ]
+}

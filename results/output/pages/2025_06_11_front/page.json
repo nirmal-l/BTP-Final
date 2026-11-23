@@ -1,0 +1,703 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_11_front",
+ "source_file": "2025-06-11_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-11_front.png",
+ "date": "2025-06-11",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 505,
+  "mean_line_conf": 90.38368607161469,
+  "orphan_words": 24,
+  "body_words_total": 2103
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      786,
+      3147,
+      1144
+     ]
+    ],
+    "deck_boxes": [
+     [
+      813,
+      696,
+      2625,
+      745
+     ],
+     [
+      320,
+      1408,
+      571,
+      1465
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      1794,
+      746,
+      2005
+     ],
+     [
+      811,
+      1171,
+      1247,
+      1431
+     ],
+     [
+      809,
+      1502,
+      1186,
+      1611
+     ],
+     [
+      809,
+      1661,
+      1251,
+      2011
+     ],
+     [
+      1294,
+      1859,
+      1739,
+      1972
+     ],
+     [
+      1345,
+      1977,
+      1738,
+      2005
+     ],
+     [
+      1787,
+      1859,
+      2228,
+      2005
+     ],
+     [
+      2277,
+      1543,
+      2620,
+      1613
+     ],
+     [
+      2275,
+      1661,
+      2717,
+      2013
+     ],
+     [
+      2763,
+      1504,
+      3205,
+      2006
+     ],
+     [
+      2885,
+      3327,
+      3201,
+      3356
+     ]
+    ],
+    "layout_words": 245
+   },
+   "headline_raw": "Hopeful of a trade deal with US before\ntariff pause ends July 9: Jaishankar",
+   "deck_raw": "\u2018STRUCTURAL FORCES DRIVING INDIA-U.S. RELATIONSHIP\u2019\nRAJASTHAN",
+   "body_raw": "PICNIC TRIP TO TONK\nTURNS TRAGIC:\nEIGHT DROWN IN\nBANAS RIVER\nPAGE 3\n\nOn China, says ties\ncan improve step\nby step; warns\nPak on terror\n\nDIVYAA\n& RAVIDUTTA MISHRA\nNEW DELHI, JUNE 10\n\nCONFIRMING THE progress on\nan interim trade deal between\nIndia and the US, External Affairs\nMinister S Jaishankar has said the\ngovernment is \u201chopeful of reach-\ning an agreement before the tar-\niff suspension ends on July 9\u201d.\nOn April 2, the US announced\n26 per cent reciprocal tariffs on\n\nIndian goods and later effected a\n90-day pause period that ends\njuly9. :\n\nIn an interview with French\n\ndaily Le Figaro, Jaishankar, who\nis on an official visit to Belgium\nand France until June 14, said,\nCONTINUED ON PAGE 2\n\nRAVIDUTTAMISHRA\nNEW DELHI, JUNE 10\n\nA WEEK after India announced\nits trade deal with the UK amid\ntariff threats from US President\nDonald Trump, the European\nUnion and India have made sig-\nnificant progress in their trade\ntalks between May 12 and May\n17, closing as many as five chap-\nters including the challenging\n\narea of intellectual property\nrights (IPR), a status report re-\nleased Tuesday by the EU said.\nThe conclusion of the UK deal\nisan \u201cimportant factor\u2019 in Delhi's\ntrade negotiations with Brussels,\na government official told The\nIndian Express, since UK\u2019s exit\nfrom the EU single market in\n2020 had given rise to tensions\nbetween London and Brussels\nover newchecks, paperwork and\nCONTINUED ON PAGE 2\n\nREPORTS, PAGES 5,11",
+   "ocr_conf": 89.48373983739837,
+   "ocr_low_conf_share": 0.07317073170731707,
+   "headline": "Hopeful of a trade deal with US before tariff pause ends July 9: Jaishankar",
+   "deck": "'STRUCTURAL FORCES DRIVING INDIA-U.S. RELATIONSHIP' RAJASTHAN",
+   "byline": "PICNIC TRIP TO TONK; TURNS TRAGIC:; EIGHT DROWN IN; BANAS RIVER",
+   "text": "On China, says ties can improve step by step; warns Pak on terror\n\nDIVYAA & RAVIDUTTA MISHRA NEW DELHI, JUNE 10\n\nCONFIRMING THE progress on an interim trade deal between India and the US, External Affairs Minister S Jaishankar has said the government is \"hopeful of reaching an agreement before the tariff suspension ends on July 9\". On April 2, the US announced 26 per cent reciprocal tariffs on\n\nIndian goods and later effected a 90-day pause period that ends july9.:\n\nIn an interview with French\n\ndaily Le Figaro, Jaishankar, who is on an official visit to Belgium and France until June 14, said,\n\nRAVIDUTTAMISHRA NEW DELHI, JUNE 10\n\nA WEEK after India announced its trade deal with the UK amid tariff threats from US President Donald Trump, the European Union and India have made significant progress in their trade talks between May 12 and May 17, closing as many as five chap-ters including the challenging\n\narea of intellectual property rights (IPR), a status report released Tuesday by the EU said. The conclusion of the UK deal isan \"important factor' in Delhi's trade negotiations with Brussels, a government official told The Indian Express, since UK's exit from the EU single market in 2020 had given rise to tensions between London and Brussels over newchecks, paperwork and\n\nREPORTS, PAGES 5,11",
+   "n_words": 219,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      774,
+      4170,
+      1241
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      1305,
+      3542,
+      1375
+     ],
+     [
+      3252,
+      1424,
+      3694,
+      2837
+     ],
+     [
+      3901,
+      1974,
+      4122,
+      2063
+     ],
+     [
+      3786,
+      2138,
+      4135,
+      2844
+     ],
+     [
+      3739,
+      2979,
+      3984,
+      3011
+     ],
+     [
+      3739,
+      3067,
+      4128,
+      3206
+     ],
+     [
+      3740,
+      3226,
+      4146,
+      3392
+     ]
+    ],
+    "layout_words": 278
+   },
+   "headline_raw": "Indus treaty: More\nstorage for projects in\nfirst stages, no change\nin others, says Govt",
+   "deck_raw": "",
+   "body_raw": "AGGAM WALIA\nNEW DELHI, JUNE10\n\nUNION POWER Minister\nManohar Lal said Tuesday that\nIndia will plan more water stor-\nage for hydro projects inJ&K that\nare still in the initial stages, but\nno changes will be made for\nprojects already in the pipeline.\nAt a media briefing, the\nMinister said, \u201cWhere Indus\nWaters Treaty is concerned, no\nchanges will be made for proj-\nects that are in the pipeline, be-\ncause the technical details have\nbeen finalised. There are some\nprojects that are in the initial\nstages, for which we can plan\nmore water storage and electric-\nity generation.\u201d\nFollowing the Pahalgam ter-\nror attack on April 22, the gov-\nernment put in abeyance the\nIndus Waters Treaty with\nPakistan, which restricts hydro-\nelectric projects in the Indus\nriver basin from including any\nsignificant water storage capac-\nity. Now, the governmentis likely\nto increase storage capacity for\nnew projects.\nCurrently, there are four hy-\ndro projects in J&K that have\nbeen concurred by the Central\nElectricity Authority (CEA), the\ncountry's apex power planning\nbody, but are yet to be taken up\nfor construction.\n\nWhy Pak\n'@ is worried\n\nMORETHAN two years\nbefore it decided to put\nthe IWT on hold follow-\ning the Pahalgam terror\nattack, India sent\nPakistan a notice seeking\n\u201creview and modifica-\ntion\u201d of the 1960 treaty.\nPakistan has now ex-\npressed willingness to\nhold adiscussion be-\ncause India has indicated\nit has plans, short-term\nand long-term, to utilise\nthe waters and increase\nStorage. This can change\nthe situation on the\nground in Pakistan.\n\nTHE WORLD\n\nTRUMP SENDS\nMARINES, STEPS\nUP MIGRANT RAIDS\n\nISRAEL DEPORTS\nGRETA, 17 KILLED\nNEAR GAZA AID SITE\nPAGE 12",
+   "ocr_conf": 93.29602888086643,
+   "ocr_low_conf_share": 0.02527075812274368,
+   "headline": "Indus treaty: More storage for projects in first stages, no change in others, says Govt",
+   "deck": "",
+   "byline": "AGGAM WALIA; NEW DELHI, JUNE10",
+   "text": "UNION POWER Minister Manohar Lal said Tuesday that India will plan more water storage for hydro projects inJ&K that are still in the initial stages, but no changes will be made for projects already in the pipeline. At a media briefing, the Minister said, \"Where Indus Waters Treaty is concerned, no changes will be made for projects that are in the pipeline, because the technical details have been finalised. There are some projects that are in the initial stages, for which we can plan more water storage and electricity generation.\" Following the Pahalgam terror attack on April 22, the government put in abeyance the Indus Waters Treaty with Pakistan, which restricts hydroelectric projects in the Indus river basin from including any significant water storage capacity. Now, the governmentis likely to increase storage capacity for new projects. Currently, there are four hydro projects in J&K that have been concurred by the Central Electricity Authority (CEA), the country's apex power planning body, but are yet to be taken up for construction.\n\nWhy Pak '@ is worried\n\nMORETHAN two years before it decided to put the IWT on hold following the Pahalgam terror attack, India sent Pakistan a notice seeking \"review and modification\" of the 1960 treaty. Pakistan has now expressed willingness to hold adiscussion because India has indicated it has plans, short-term and long-term, to utilise the waters and increase Storage. This can change the situation on the ground in Pakistan.\n\nTHE WORLD\n\nTRUMP SENDS MARINES, STEPS UP MIGRANT RAIDS\n\nISRAEL DEPORTS GRETA, 17 KILLED NEAR GAZA AID SITE",
+   "n_words": 257,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      631,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2157,
+      1725,
+      2417
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2450,
+      699,
+      2557
+     ],
+     [
+      319,
+      2610,
+      762,
+      3396
+     ],
+     [
+      809,
+      2965,
+      1692,
+      3041
+     ],
+     [
+      809,
+      3124,
+      1248,
+      3277
+     ],
+     [
+      1296,
+      3125,
+      1740,
+      3390
+     ],
+     [
+      809,
+      3283,
+      1249,
+      3393
+     ]
+    ],
+    "layout_words": 177
+   },
+   "headline_raw": "Recount castes, earlier data old:\nCong brass to its Karnataka govt",
+   "deck_raw": "",
+   "body_raw": "MANOJ CG & AKRAMM\nNEW DELHI, BENGALURU,\nJUNE10\n\nTHE CONGRESS high command\ndirected the party\u2019s government\nin Karnataka Tuesday toconduct\na recount of castes, two months\nafter the findings of a report on\na 10-year-old survey created a\nrift in the party and drew criti-\ncism from the politically domi-\nnant Vokkaliga and Lingayat\ncommunities and some non-\nKuruba backward classes.\nThe decision on a recount\nwas taken ata meeting Congress\npresident Mallikarjun Kharge\nand Leader of the Opposition in\nLok Sabha Rahul Gandhi held\nwith Karnataka Chief Minister\nSiddaramaiah and Deputy CM\nD K Shivakumar in Delhi. AICC\ngeneral secretary(Organisation)\n\nKarnataka CM Siddaramaiah, Deputy CM D K Shivakumar\nand KC Venugopal in New Delhi on Tuesday. Anil Sharma\n\nKC Venugopal and AICC general\nsecretary in-charge of Karnataka\nRandeep Surjewala were also\npresent.\n\nKarnataka Congress president,\nhad been summoned by the\nleadership to Delhi to discuss the\npolitical fallout of the recent\nstampede in Bengaluru which\nclaimed 11 lives. The Opposition\nCONTINUED ON PAGE 2\n\n- Apart from the caste census\nconundrum, Siddaramaiah and\nShivakumar, who is also the",
+   "ocr_conf": 90.54189944134079,
+   "ocr_low_conf_share": 0.0446927374301676,
+   "headline": "Recount castes, earlier data old: Cong brass to its Karnataka govt",
+   "deck": "",
+   "byline": "MANOJ CG & AKRAMM; NEW DELHI, BENGALURU,; JUNE10",
+   "text": "THE CONGRESS high command directed the party's government in Karnataka Tuesday toconduct a recount of castes, two months after the findings of a report on a 10-year-old survey created a rift in the party and drew criticism from the politically dominant Vokkaliga and Lingayat communities and some non-Kuruba backward classes. The decision on a recount was taken ata meeting Congress president Mallikarjun Kharge and Leader of the Opposition in Lok Sabha Rahul Gandhi held with Karnataka Chief Minister Siddaramaiah and Deputy CM D K Shivakumar in Delhi. AICC general secretary(Organisation)\n\nKarnataka CM Siddaramaiah, Deputy CM D K Shivakumar and KC Venugopal in New Delhi on Tuesday. Anil Sharma\n\nKC Venugopal and AICC general secretary in-charge of Karnataka Randeep Surjewala were also present.\n\nKarnataka Congress president, had been summoned by the leadership to Delhi to discuss the political fallout of the recent stampede in Bengaluru which claimed 11 lives. The Opposition\n\n- Apart from the caste census conundrum, Siddaramaiah and Shivakumar, who is also the",
+   "n_words": 164,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      3283,
+      3081,
+      3359
+     ]
+    ],
+    "layout_words": 19,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The Axiom-4 mission, with India's Shubhanshu Shukla and three other astronauts, is\nexpected to be launched on Wednesday. @spacex REPORTS, PAC",
+   "ocr_conf": 91.47619047619048,
+   "ocr_low_conf_share": 0.047619047619047616,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The Axiom-4 mission, with India's Shubhanshu Shukla and three other astronauts, is expected to be launched on Wednesday. @spacex REPORTS, PAC",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      3463,
+      1247,
+      3914
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3995,
+      643,
+      4065
+     ],
+     [
+      314,
+      4114,
+      761,
+      4576
+     ],
+     [
+      319,
+      4588,
+      759,
+      4655
+     ],
+     [
+      318,
+      4667,
+      762,
+      5131
+     ],
+     [
+      807,
+      4628,
+      1248,
+      5132
+     ]
+    ],
+    "layout_words": 193
+   },
+   "headline_raw": "Third Ranthambhore\ndeath: No decision yet\non panel\u2019s advice to\nshift 3 \u2018raised\u2019 tigers",
+   "deck_raw": "",
+   "body_raw": "JAY MAZOOMDAAR\nNEW DELHI, JUNE 10\n\nAS OFFICIALS in Jaipur and Delhi\ndithered over implementing the\nrecommendations of the techni-\ncal committee formed last\nmonth after the second human\ndeath in Ranthambhore since\nApril, ayet-to-be-identified tiger\nkilled a 70-year-old chowkidar\nof a temple inside the tiger re-\nserve on Monday.\nInless than three months, the\nthree fatal attackson humans took\n\nplace within a radius of less than\n500 metres inside Ranthambhore.\n\nFollowing the first two fatal\nattacks \u2014one on April 16 by sub-\nadult tigress Kankati and an-\nother on May 11 by Kankati and\nher unnamed male sibling \u2014 a\ntechnical committee constituted\nto examine the issue concluded\nthat the three sub-adult cubs of\ntigress Arrowhead, on live bait\nsupport since July 2023, have be-\ncome habituated to people and\nshould be shifted from\n\nRanthambhore.\nOn May 14, Kankati was spot-\nted ina millet field outside the\ntiger reserve where the forest\nstafftranquilised her. Once the ti-\ngress was placed in an enclosure\nin Ranthambhore\u2019s Talda, no-\nbody wasin a hurry to actonthe\ntechnical committee's recom-\nmendation for her two siblings.\nEarly Monday, Radheshyam\nMali, a chowkidar of the Jain\nCONTINUEDON PAGE 2",
+   "ocr_conf": 87.8298969072165,
+   "ocr_low_conf_share": 0.08247422680412371,
+   "headline": "Third Ranthambhore death: No decision yet on panel's advice to shift 3 'raised' tigers",
+   "deck": "",
+   "byline": "JAY MAZOOMDAAR; NEW DELHI, JUNE 10",
+   "text": "AS OFFICIALS in Jaipur and Delhi dithered over implementing the recommendations of the technical committee formed last month after the second human death in Ranthambhore since April, ayet-to-be-identified tiger killed a 70-year-old chowkidar of a temple inside the tiger reserve on Monday. Inless than three months, the three fatal attackson humans took\n\nplace within a radius of less than 500 metres inside Ranthambhore.\n\nFollowing the first two fatal attacks - one on April 16 by subadult tigress Kankati and another on May 11 by Kankati and her unnamed male sibling - a technical committee constituted to examine the issue concluded that the three sub-adult cubs of tigress Arrowhead, on live bait support since July 2023, have become habituated to people and should be shifted from\n\nRanthambhore. On May 14, Kankati was spotted ina millet field outside the tiger reserve where the forest stafftranquilised her. Once the tigress was placed in an enclosure in Ranthambhore's Talda, nobody wasin a hurry to actonthe technical committee's recommendation for her two siblings. Early Monday, Radheshyam Mali, a chowkidar of the Jain CONTINUEDON PAGE 2",
+   "n_words": 180,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      3464,
+      3084,
+      3683
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3758,
+      1712,
+      3867
+     ],
+     [
+      1295,
+      3916,
+      1737,
+      4267
+     ],
+     [
+      1785,
+      3719,
+      2226,
+      4268
+     ],
+     [
+      2761,
+      3720,
+      3206,
+      4261
+     ]
+    ],
+    "layout_words": 193
+   },
+   "headline_raw": "We can\u2019t seek justice for the past, it has to\nbe forgotten, says Ram temple\u2019s top officer",
+   "deck_raw": "",
+   "body_raw": "BHUPENDRA PANDEY\n& P VAIDYANATHANIYER\nAYODHYA, JUNE 10\n\nOBSERVING THAT there are\n\u201climits\u201d to correcting historical\nwrongs, Nripendra Misra,\nAyodhya Ram temple\u2019s officer-\narchitect-in-chief, has said that\nonce people \u201crealise that the\ntime has gone by and once they\nrealise the dream of the future\nwhile living in the present, soci-\n\nety will be more positive and\nlook towards the issues of devel-\nopment.\u201d\nMisra, who served as the\nPrincipal Secretary to Prime\nMinister Narendra Modi in his\nentire first term, and was ap-\npointed the Chairman of the\ntemple construction committee\nin February 2020, also said the\nRam Mandir \u201cwas accepted by\nall only because it was (a judge-\nment) by the Supreme Court\u201d,\nbut one \u201ccannot seek justice for\n\nthe past\u201d in all such conflicts.\nIn an interview with The\nIndian Express two days after the\nconsecration of the statue of\nRam as the king of Ayodhya,\nMisra said that Prime Minister\nNarendra Modi was emphatic\nthat the message people take\naway from the temple is not\n\u201cnegative\u201d. \u201cNowhere have we\nused the name that such and\nsuch came and destroyed the\ntemple. The message was, please\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.97409326424871,
+   "ocr_low_conf_share": 0.02072538860103627,
+   "headline": "We can't seek justice for the past, it has to be forgotten, says Ram temple's top officer",
+   "deck": "",
+   "byline": "BHUPENDRA PANDEY; & P VAIDYANATHANIYER; AYODHYA, JUNE 10",
+   "text": "OBSERVING THAT there are \"limits\" to correcting historical wrongs, Nripendra Misra, Ayodhya Ram temple's officer-architect-in-chief, has said that once people \"realise that the time has gone by and once they realise the dream of the future while living in the present, society will be more positive and look towards the issues of development.\" Misra, who served as the Principal Secretary to Prime Minister Narendra Modi in his entire first term, and was appointed the Chairman of the temple construction committee in February 2020, also said the Ram Mandir \"was accepted by all only because it was (a judge-ment) by the Supreme Court\", but one \"cannot seek justice for\n\nthe past\" in all such conflicts. In an interview with The Indian Express two days after the consecration of the statue of Ram as the king of Ayodhya, Misra said that Prime Minister Narendra Modi was emphatic that the message people take away from the temple is not \"negative\". \"Nowhere have we used the name that such and such came and destroyed the temple. The message was, please",
+   "n_words": 176,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3505,
+      4115,
+      3955
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      4037,
+      3562,
+      4107
+     ],
+     [
+      3250,
+      4156,
+      3692,
+      5060
+     ],
+     [
+      3250,
+      5106,
+      3689,
+      5141
+     ],
+     [
+      3739,
+      3998,
+      4181,
+      4184
+     ],
+     [
+      3737,
+      4235,
+      4181,
+      5134
+     ]
+    ],
+    "layout_words": 260
+   },
+   "headline_raw": "Overlooking its own\npast concerns, forest\npanel clears hydel\nproject in Arunachal",
+   "deck_raw": "",
+   "body_raw": "NIKHILGHANEKAR\nNEW DELHI, JUNE 10\n\nIN A move that aligns with the\nCentre\u2019s push to fast-track hy-\ndropower projects inthe North-\nEast, the Environment Ministry's\nForest Advisory Committee\n(FAC) has granted in-principle\nforest clearance to the 3,097-\nMW Etalin hydel project, which\ninvolves diversion of 1,175\nhectares of forest land and felling\nof around 2.78 lakh trees in\nArunachal Pradesh\u2019s Dibang\nValley and has long been at the\ncentre of protests.\nThe Etalin project is among\nthe largest proposed hy-\ndropower projects in India in\nterms of generation capacity.\nThe approval comes despite\nthe same FAC raising biodiver-\nsity and wildlife concerns in\n2022, when it had rejected the\nproposal and directed the state\n\ncumulative impact assessments\n\nfor the Dibang river basin. This\ntime, however, the FAC granted\napproval based on existing stud-\nies, overlooking its own recom-\nmendations made in December\n\nThe project will be a run-of-\nthe-river one, which does not in-\nvolve storage, and is proposed to\nbe constructed on Dri river and\nTalo river, the local name for\nDibang, in the state\u2019s biodiverse\nDibang valley.\nThe appraisal of the project\nhas been underway since 2014\nand the FAC had discussed it six\ntimes between 2015 and 2022.\nTheFAC noted the past delib-\nerations held with the state gov-\nernment, regional office of the\nEnvironment Ministry and said\nit had examined ecological, so-\ncialand economic aspects and is-\nsues related to wildlife as well as\nthe project's cumulative impact.\nIt said that the submissions\nmade by the state forest depart-\nment on these concerns were\nCONTINUED ON PAGE 5",
+   "ocr_conf": 92.70992366412214,
+   "ocr_low_conf_share": 0.007633587786259542,
+   "headline": "Overlooking its own past concerns, forest panel clears hydel project in Arunachal",
+   "deck": "",
+   "byline": "NIKHILGHANEKAR; NEW DELHI, JUNE 10",
+   "text": "IN A move that aligns with the Centre's push to fast-track hydropower projects inthe North-East, the Environment Ministry's Forest Advisory Committee (FAC) has granted in-principle forest clearance to the 3,097- MW Etalin hydel project, which involves diversion of 1,175 hectares of forest land and felling of around 2.78 lakh trees in Arunachal Pradesh's Dibang Valley and has long been at the centre of protests. The Etalin project is among the largest proposed hydropower projects in India in terms of generation capacity. The approval comes despite the same FAC raising biodiversity and wildlife concerns in 2022, when it had rejected the proposal and directed the state\n\ncumulative impact assessments\n\nfor the Dibang river basin. This time, however, the FAC granted approval based on existing studies, overlooking its own recommendations made in December\n\nThe project will be a run-ofthe-river one, which does not involve storage, and is proposed to be constructed on Dri river and Talo river, the local name for Dibang, in the state's biodiverse Dibang valley. The appraisal of the project has been underway since 2014 and the FAC had discussed it six times between 2015 and 2022. TheFAC noted the past deliberations held with the state government, regional office of the Environment Ministry and said it had examined ecological, socialand economic aspects and issues related to wildlife as well as the project's cumulative impact. It said that the submissions made by the state forest department on these concerns were",
+   "n_words": 240,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      4334,
+      3145,
+      4553
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      4628,
+      1576,
+      4698
+     ],
+     [
+      1295,
+      4749,
+      1737,
+      5139
+     ],
+     [
+      1784,
+      4589,
+      2223,
+      4663
+     ],
+     [
+      1784,
+      4668,
+      2225,
+      5140
+     ],
+     [
+      2761,
+      4590,
+      3205,
+      5133
+     ]
+    ],
+    "layout_words": 193
+   },
+   "headline_raw": "Meghalaya honeymoon murder: MP woman\nwanted to pass killing as robbery, say police",
+   "deck_raw": "",
+   "body_raw": "ANAND MOHAN J\nBHOPAL, JUNE 10\n\nSONAM RAGHUVANSHI al-\nlegedly intended to pass off her\nhusband Raja Raghuvanshi's\nmurder as a robbery gone wrong\nin Meghalaya and was planning\non living as a widow for some\ntime before trying to convince\nher family to let her marry Raj\nKushwaha, the alleged master-\nmind of the honeymoon murder,\n\ninvestigators have told The indian\nExpress. oo oo\n\nThe special investigation\nteam (SIT) probing the murder\nof Raja, an Indore resident who\nran a transport business, first\ngrew suspicious of Sonam when\nthey heard her audio call with\nher mother-in-law, informing\nher about a fast that she under-\ntook for her husband\u2019s health,\nWhen the SIT tracked down\nthe owner of the hotel where the\ncouple stayed, they found this\n\nwasa lie and that she had eaten\nthere. This revelation raised sus-\npicions, and when _ the\nMeghalaya police decided to\nmount technical surveillance on\nSonam, they found that she was\nin constant touch with\nKushwaha, police said.\nSuperintendent of Police,\nEast Khasi Hills, Vivek Syiem told\nThe Indian Express, \u201cWe found\nthat she had consumed food. We\nalso found that she was in touch\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.6734693877551,
+   "ocr_low_conf_share": 0.04081632653061224,
+   "headline": "Meghalaya honeymoon murder: MP woman wanted to pass killing as robbery, say police",
+   "deck": "",
+   "byline": "ANAND MOHAN J; BHOPAL, JUNE 10",
+   "text": "SONAM RAGHUVANSHI allegedly intended to pass off her husband Raja Raghuvanshi's murder as a robbery gone wrong in Meghalaya and was planning on living as a widow for some time before trying to convince her family to let her marry Raj Kushwaha, the alleged mastermind of the honeymoon murder,\n\ninvestigators have told The indian Express. oo oo\n\nThe special investigation team (SIT) probing the murder of Raja, an Indore resident who ran a transport business, first grew suspicious of Sonam when they heard her audio call with her mother-in-law, informing her about a fast that she undertook for her husband's health, When the SIT tracked down the owner of the hotel where the couple stayed, they found this\n\nwasa lie and that she had eaten there. This revelation raised suspicions, and when _ the Meghalaya police decided to mount technical surveillance on Sonam, they found that she was in constant touch with Kushwaha, police said. Superintendent of Police, East Khasi Hills, Vivek Syiem told The Indian Express, \"We found that she had consumed food. We also found that she was in touch",
+   "n_words": 182,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5264,
+      3685,
+      5364
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5421,
+      499,
+      5494
+     ],
+     [
+      318,
+      5617,
+      606,
+      5687
+     ],
+     [
+      316,
+      5736,
+      759,
+      6165
+     ],
+     [
+      807,
+      5419,
+      1248,
+      5527
+     ],
+     [
+      806,
+      5539,
+      1249,
+      6166
+     ],
+     [
+      1294,
+      5420,
+      1734,
+      5488
+     ],
+     [
+      1293,
+      5500,
+      1736,
+      6167
+     ],
+     [
+      2760,
+      5421,
+      3202,
+      6161
+     ],
+     [
+      3249,
+      5421,
+      3691,
+      6168
+     ]
+    ],
+    "layout_words": 432
+   },
+   "headline_raw": "Meet first woman ADC to President: \u2018Never dreamt this would be",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nDIVYAA\nNEW DELHI, JUNE 10\n\nBETWEEN MAY 7 and 10 last\nmonth, as Colonel Sophiya\nQureshi and Wing Commander\nVyomika Singh took centrestage\nto brief the nation on Operation\nSindoor, another quiet change\nhappened away from the spot-\nlight, atthe country\u2019s highest of-\nfice. On May 9, Lieutenant\nCommander Yashaswi Solankee\n(27)became the first woman of-\n\nficer to be appointed as an Aide-\nde-Camp (ADC)to the President\nof India.\n\nWhile the President, typi-\ncally, has five ADCs \u2014 three from\nthe Army, and one each from the\nNavy and Air Force \u2014 none of\nthem have been a woman offi-\ncer so far.\n\u201cThe thought started with\nPresident DroupadiMurmu her-\nself, as the Supreme Commander\nof the Armed Forces,\u201d Major\nGeneral V Parida, Military\nSecretary to the President, told\nThe Indian Express. \u201cShe speaks\nabout women's empowerment,\ngender parity and inclusivity so\nmuch. So, this is her thought,\n\nwhich has been implemented,\u201d\nhe said.\n\nWith the Naval ADC com-\npleting his tenure at the time, a\npanel of three Naval officers \u2014all\nwomen \u2014 was called for selec-\ntion. The three officers stayed at\nthe Presidential Estate for 15\ndays, during which they were as-\nsessed, including an interview\nwith the President herself.\nBesides physical criteria, their\nbasicintelligence and adaptabil-\nity were also put to test.\nSolankee, originally from\nBharuch in Gujarat, was selected\nin April, after which she under-\nwent a month-long orientation\nbefore receiving her coveted aigu-\n\nillette from Murmu on May 9.\nSources said the criteria for\nselection of a woman ADC re-\nmained the same, including the\nheight and physical fitness re-\nquirement \u2014 at 173 cms,\nSolankee, earlier a district-level\nbadminton and volleyball player,\nmade the cut. The only conces-\nsion was that they allowed\nwomen officers without perma-\nnent commission, too.\nThe President's ADC serves as\nthe bridge to the First Citizen \u2014\nliaisoning her appointments and\ncall-ons, being present with her\nat all presidential ceremonies\nand events, facilitating commu-\nnication with various branches\n\nof the government and military.\nAssigned a duty room next tothe\nPresident's room, the ADC is just\na call away at all times.\nSometimes, they are on duty for\n24 hours, on rotation.\nSolankee has been appointed\nfor a tenure of two-and-a-half to\nthree years. While the first\nmonth was all about getting\nmaximum exposure and build-\ning arapport with the President,\nshe said she now feels more in-\nformed. But, as ADCs, they can\nnever feel over-confident.\n\u201cWe prepare for all the en-\ngagements and take up-to-date\ninformation about who is com-\ning to meet the President, be-",
+   "ocr_conf": 90.37268518518519,
+   "ocr_low_conf_share": 0.04398148148148148,
+   "headline": "Meet first woman ADC to President: 'Never dreamt this would be",
+   "deck": "",
+   "byline": "ANCHOR; DIVYAA; NEW DELHI, JUNE 10",
+   "text": "BETWEEN MAY 7 and 10 last month, as Colonel Sophiya Qureshi and Wing Commander Vyomika Singh took centrestage to brief the nation on Operation Sindoor, another quiet change happened away from the spotlight, atthe country's highest office. On May 9, Lieutenant Commander Yashaswi Solankee (27)became the first woman officer to be appointed as an Aidede-Camp (ADC)to the President of India.\n\nWhile the President, typically, has five ADCs - three from the Army, and one each from the Navy and Air Force - none of them have been a woman officer so far. \"The thought started with President DroupadiMurmu herself, as the Supreme Commander of the Armed Forces,\" Major General V Parida, Military Secretary to the President, told The Indian Express. \"She speaks about women's empowerment, gender parity and inclusivity so much. So, this is her thought,\n\nwhich has been implemented,\" he said.\n\nWith the Naval ADC completing his tenure at the time, a panel of three Naval officers - all women - was called for selection. The three officers stayed at the Presidential Estate for 15 days, during which they were assessed, including an interview with the President herself. Besides physical criteria, their basicintelligence and adaptability were also put to test. Solankee, originally from Bharuch in Gujarat, was selected in April, after which she underwent a month-long orientation before receiving her coveted aiguillette from Murmu on May 9. Sources said the criteria for selection of a woman ADC remained the same, including the height and physical fitness requirement - at 173 cms, Solankee, earlier a district-level badminton and volleyball player, made the cut. The only concession was that they allowed women officers without permanent commission, too. The President's ADC serves as the bridge to the First Citizen - liaisoning her appointments and call-ons, being present with her at all presidential ceremonies and events, facilitating communication with various branches\n\nof the government and military. Assigned a duty room next tothe President's room, the ADC is just a call away at all times. Sometimes, they are on duty for 24 hours, on rotation. Solankee has been appointed for a tenure of two-and-a-half to three years. While the first month was all about getting maximum exposure and building arapport with the President, she said she now feels more informed. But, as ADCs, they can never feel over-confident. \"We prepare for all the engagements and take up-to-date information about who is coming to meet the President, be-",
+   "n_words": 403,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3712,
+      5267,
+      4152,
+      5390
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3736,
+      5422,
+      4179,
+      6162
+     ]
+    ],
+    "layout_words": 102
+   },
+   "headline_raw": "possible\u2019",
+   "deck_raw": "",
+   "body_raw": "cause we have to brief her before\nevery engagement, and she can\nask anything,\u201d she said. \u201cI had\nnever dreamtof getting selected\nas the ADC to the President. This\nwas never on my bucket list, be-\ncause | didn't know this may be\npossible,\u201d she said.\nSolankee was earlier posted\nwith the Naval Armament\n(Defence Production), in\nHyderabad. \u201cI am a technical of-\nficer and initially, my knowledge\nwas quite siloed, because that\nwas my portfolio. I did have gen-\neral knowledge, but that was\nquite general, But now, I need to\nbe updated at all times. Like,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.1078431372549,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "possible'",
+   "deck": "",
+   "byline": "",
+   "text": "cause we have to brief her before every engagement, and she can ask anything,\" she said. \"I had never dreamtof getting selected as the ADC to the President. This was never on my bucket list, because didn't know this may be possible,\" she said. Solankee was earlier posted with the Naval Armament (Defence Production), in Hyderabad. \"I am a technical officer and initially, my knowledge was quite siloed, because that was my portfolio. I did have general knowledge, but that was quite general, But now, I need to be updated at all times. Like,",
+   "n_words": 94,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.0,
+ "flags": []
+}

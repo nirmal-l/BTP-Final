@@ -1,0 +1,888 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_17_front",
+ "source_file": "2025-07-17_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-17_front.png",
+ "date": "2025-07-17",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 448,
+  "mean_line_conf": 89.79175545839426,
+  "orphan_words": 44,
+  "body_words_total": 1776
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      771,
+      3177,
+      1047
+     ],
+     [
+      812,
+      1092,
+      1676,
+      1224
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      696,
+      2591,
+      735
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      1303,
+      1095,
+      1373
+     ],
+     [
+      807,
+      1422,
+      1254,
+      1886
+     ],
+     [
+      1299,
+      1264,
+      1741,
+      1886
+     ],
+     [
+      2763,
+      1108,
+      3206,
+      1888
+     ],
+     [
+      1786,
+      1779,
+      2227,
+      1894
+     ],
+     [
+      2276,
+      1779,
+      2717,
+      1894
+     ],
+     [
+      1780,
+      3241,
+      3170,
+      3359
+     ]
+    ],
+    "layout_words": 297
+   },
+   "headline_raw": "Under scanner: Tech snag hours before crash,\ncan switch be cut-off without pilot command\nFlight data analysis to focus on \u2018trail\nof errors\u2019 as noted in technical logs",
+   "deck_raw": "ON DECEMBER 12, 2024, FLIGHT BY SAME PLANE ABORTED DUE TO ELECTRIC FAILURE",
+   "body_raw": "ADITIRAJA\nVADODARA, JULY 16\n\nINVESTIGATORS PROBING the\nJune 12 Air India plane crashare\nclosely studying snags that\ncropped up in the electrical and\nsoftware components of\nthe aircraft which could\npossibly have triggered\n\u201cun-commanded\u201d actions.\n\u201cThe probe will ascertain\nthe possibility of an\n\u2018un-commanded transition\u2019 of\nthe fuel control switches to the\n\ncut-off mode seconds after the\nlift-off,\u201d an official aware of the\ninvestigation told The Indian\nExpress, requesting anonymity.\nOn June 12, the aircraft\ncrashed less than a minute after\ntake-off, killing 260 people, in-\ncluding 241 on board.\nIn fact, just hours before\ntake-off from Ahmedabad to\nLondon Gatwick on June 12, a\npilot flying the same aircraft\nfrom Delhi to Ahmedabad noted\nin the technical log a \u2018Stabilizer\nPosition Transducer Defect\u2019, the\nofficial said.\n\ntrol system to ensure that\nresponses to pilot input are ac-\ncurate. The official said the mal-\nfunction was checked and the\nengineer did the trouble shoot-\ning as per Boeing procedure.\n\u201cThe malfunction isa critical\nissue as it can trigger incorrect\nresponses in flight control, in-\ncluding unintended fuel cut-off\nsignal,\u201d the official said. But he\nquickly added, \u201cThe Stabilizer\nPosition Transducer malfunc-\ntion did not cause this crash, but\nthe question is whether itledto\nmultiple sensor failure.\u201d\nA few weeks before, there\nwere at least two more incidents,\none of electrical snags in the\nCONTINUED ON PAGE 2\n\nThe Stabilizer Position\nTransducer is essentially asensor\nthatcontrols aircraft pitch \u2014 the\n\nup and down movement of the\nnose \u2014 and transmits the datain\nelectrical signals tothe flight con-\n\nAstronaut Shubhanshu Shukla posted this photograph with wife Kamna following his\nreturn from the mission to the International Space Station. \u201cComing back to Earth and\nholding my family back in my arms felt like home,\u201d he wrote on Instagram. REPORT, PAGE 6",
+   "ocr_conf": 92.68791946308725,
+   "ocr_low_conf_share": 0.016778523489932886,
+   "headline": "Under scanner: Tech snag hours before crash, can switch be cut-off without pilot command Flight data analysis to focus on 'trail of errors' as noted in technical logs",
+   "deck": "ON DECEMBER 12, 2024, FLIGHT BY SAME PLANE ABORTED DUE TO ELECTRIC FAILURE",
+   "byline": "ADITIRAJA; VADODARA, JULY 16; INVESTIGATORS PROBING the; June 12 Air India plane crashare",
+   "text": "closely studying snags that cropped up in the electrical and software components of the aircraft which could possibly have triggered \"un-commanded\" actions. \"The probe will ascertain the possibility of an 'un-commanded transition' of the fuel control switches to the\n\ncut-off mode seconds after the lift-off,\" an official aware of the investigation told The Indian Express, requesting anonymity. On June 12, the aircraft crashed less than a minute after take-off, killing 260 people, including 241 on board. In fact, just hours before take-off from Ahmedabad to London Gatwick on June 12, a pilot flying the same aircraft from Delhi to Ahmedabad noted in the technical log a 'Stabilizer Position Transducer Defect', the official said.\n\ntrol system to ensure that responses to pilot input are accurate. The official said the malfunction was checked and the engineer did the trouble shooting as per Boeing procedure. \"The malfunction isa critical issue as it can trigger incorrect responses in flight control, including unintended fuel cut-off signal,\" the official said. But he quickly added, \"The Stabilizer Position Transducer malfunction did not cause this crash, but the question is whether itledto multiple sensor failure.\" A few weeks before, there were at least two more incidents, one of electrical snags in the\n\nThe Stabilizer Position Transducer is essentially asensor thatcontrols aircraft pitch - the\n\nup and down movement of the nose - and transmits the datain electrical signals tothe flight con-\n\nAstronaut Shubhanshu Shukla posted this photograph with wife Kamna following his return from the mission to the International Space Station. \"Coming back to Earth and holding my family back in my arms felt like home,\" he wrote on Instagram. REPORT, PAGE 6",
+   "n_words": 275,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      376,
+      884,
+      701,
+      959
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Give O Coke 8 Century Or (U0,\n[got {extbodks wil be\nie he ei fe fe",
+   "ocr_conf": 51.8125,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Give O Coke 8 Century Or (U0, [got {extbodks wil be",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      631,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      491,
+      915,
+      706,
+      1044
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Out textbooks wit be\nbrutally rare\nabout Gaza,\nUsrame, ..",
+   "ocr_conf": 64.7,
+   "ocr_low_conf_share": 0.3,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Out textbooks wit be brutally rare about Gaza, Usrame,..",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      325,
+      1472,
+      457,
+      1504
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "INSIDE",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1566,
+      762,
+      1705
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PROTESTS IN ODISHA\nAFTER STUDENT'S\nDEATH; BANDH TODAY",
+   "ocr_conf": 92.625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "PROTESTS IN ODISHA; AFTER STUDENT'S; DEATH; BANDH TODAY",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      1725,
+      759,
+      1853
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "NO DAMAGE TO INFRA\nFROM PAK DRONES,\nSAYS CDS Paces 6,7",
+   "ocr_conf": 91.63636363636364,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "NO DAMAGE TO INFRA; FROM PAK DRONES,",
+   "text": "SAYS CDS Paces 6,7",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      1842,
+      4158,
+      2342
+     ],
+     [
+      3253,
+      2360,
+      4176,
+      2491
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      1767,
+      4006,
+      1800
+     ]
+    ],
+    "body_boxes": [
+     [
+      3253,
+      2573,
+      3624,
+      2643
+     ],
+     [
+      3251,
+      2691,
+      3694,
+      3788
+     ],
+     [
+      3741,
+      3146,
+      4155,
+      3320
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "Scheme to develop\n100 agri districts\nacross country gets\nCabinet go-ahead\n36 existing schemes with an annual\noutlay of Rs 24,000 cr to be converged",
+   "deck_raw": "PM DHAN-DHAANYA KRISHI YOJANA",
+   "body_raw": "HARIKISHAN SHARMA\nNEW DELHI, JULY 16\n\nTHE UNION Cabinet on\nWednesday approved the \u2018Prime\nMinister Dhan-Dhaanya Krishi\nYojana\u2019 (PMDDKY), which envis-\nages development of 100 agri-\ncultural districts through the\nconvergence ofexisting schemes\nwith an annual outlay of\nRs 24,000 crore per year.\n\u201cThe scheme will be imple-\nmented through convergence of\n36 existing schemes across 11\ndepartments, other State\nschemes and local partnerships\nwith the private sector,\u201d said an\nofficial statement issued after\nthe Cabinet meeting,\nAt a briefing on the Cabinet's\ndecisions, Information and\nBroadcasting Minister Ashwini\nVaishnaw said the scheme would\nbe implemented for six years be-\nginning from 2025-26. \u201cA mas-\nter plan will be prepared foreach\ndistrict. It will include agriculture\nand other allied activities,\u201d\nVaishnaw said. He said the\nscheme would benefit about 1.7\n\nRENEWABLES\nBOOST: NTPC CAN\nINVEST 20,000 CR,\nNCL INDIA 7,000 CR",
+   "ocr_conf": 90.53191489361703,
+   "ocr_low_conf_share": 0.03546099290780142,
+   "headline": "Scheme to develop 100 agri districts across country gets Cabinet go-ahead 36 existing schemes with an annual outlay of Rs 24,000 cr to be converged",
+   "deck": "PM DHAN-DHAANYA KRISHI YOJANA",
+   "byline": "HARIKISHAN SHARMA; NEW DELHI, JULY 16",
+   "text": "THE UNION Cabinet on Wednesday approved the 'Prime Minister Dhan-Dhaanya Krishi Yojana' (PMDDKY), which envisages development of 100 agricultural districts through the convergence ofexisting schemes with an annual outlay of Rs 24,000 crore per year. \"The scheme will be implemented through convergence of 36 existing schemes across 11 departments, other State schemes and local partnerships with the private sector,\" said an official statement issued after the Cabinet meeting, At a briefing on the Cabinet's decisions, Information and Broadcasting Minister Ashwini Vaishnaw said the scheme would be implemented for six years beginning from 2025-26. \"A master plan will be prepared foreach district. It will include agriculture and other allied activities,\" Vaishnaw said. He said the scheme would benefit about 1.7\n\nRENEWABLES BOOST: NTPC CAN NCL INDIA 7,000 CR",
+   "n_words": 127,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      2053,
+      1730,
+      2537
+     ],
+     [
+      321,
+      2596,
+      1239,
+      2727
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      1963,
+      1709,
+      2012
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      3559,
+      616,
+      3629
+     ],
+     [
+      318,
+      3679,
+      761,
+      4220
+     ],
+     [
+      1018,
+      3550,
+      1156,
+      3590
+     ],
+     [
+      969,
+      3659,
+      1130,
+      3693
+     ]
+    ],
+    "layout_words": 81
+   },
+   "headline_raw": "India, China, Brazil can\nbe hit by sanctions over\nRussia trade: NATO chief\nRutte says countries should call Putin,\ntell him to get serious about truce talks",
+   "deck_raw": "AMID INDIA-U.S. TRADE PACT NEGOTIATIONS",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, JULY 16\n\nAT A time when Delhi and\nWashington are working on a\ntrade dealbefore the pause on re-\nciprocal tariff ends August 1,\nNATO Secretary General Mark\nRutte said Wednesday that coun-\ntries like India, China and Brazil\ncould be hit very hard by second-\nary sanctions if they continued to\ndo business with Russia.\nSpeaking in Washington,\nRutte, according to the Reuters\nnews agency, said countries in\nCONTINUED ON PAGE 2\n\nIn India,\n\n1@ watch",
+   "ocr_conf": 90.45679012345678,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "India, China, Brazil can be hit by sanctions over Russia trade: NATO chief Rutte says countries should call Putin, tell him to get serious about truce talks",
+   "deck": "AMID INDIA-U.S. TRADE PACT NEGOTIATIONS",
+   "byline": "SUKALP SHARMA; NEW DELHI, JULY 16",
+   "text": "AT A time when Delhi and Washington are working on a trade dealbefore the pause on reciprocal tariff ends August 1, NATO Secretary General Mark Rutte said Wednesday that countries like India, China and Brazil could be hit very hard by secondary sanctions if they continued to do business with Russia. Speaking in Washington, Rutte, according to the Reuters news agency, said countries in\n\nIn India,\n\n1@ watch",
+   "n_words": 68,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      2594,
+      1722,
+      2998
+     ],
+     [
+      1789,
+      3125,
+      2466,
+      3193
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1299,
+      3085,
+      1642,
+      3155
+     ],
+     [
+      1296,
+      3204,
+      1739,
+      4221
+     ]
+    ],
+    "layout_words": 136
+   },
+   "headline_raw": "Indonesia pact\ngives us full\naccess, India\ndeal on same\nlines: Trump\n\u2018FEELS LIKE HOME\u2019",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTA MISHRA\nNEW DELHI, JULY 16\n\nAS INDIAN negotiators engage\nwith the US in extended talks for\nan interim deal this week,\nPresident Donald Trump said\nWednesday that the US has\nsigned a trade deal with\nIndonesia, opening the country\nto trade withthe US, and that an\nagreement \u201con the same lines\u201d\nis being worked on with India.\nAfter what Hasan Nasbi,\nspokesperson for the Indonesian\nPresident, called an \u201cextraordi-\nnary struggle\u201d by their negotia-\ntors, the US and Indonesia an-\nnounced that the reciprocal\ntariffs faced by the Southeast\nAsiancountry would be reduced\nfrom 32 per cent to 19 per cent.\nTrump said American firms, in\nexchange, would have \u201cfull ac-\ncess\u201d to the Indonesian market.\n\u201cWe have full access into\nIndonesia, everything. As you\nknow, Indonesia is very strong\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.27941176470588,
+   "ocr_low_conf_share": 0.014705882352941176,
+   "headline": "Indonesia pact gives us full access, India deal on same lines: Trump 'FEELS LIKE HOME'",
+   "deck": "",
+   "byline": "RAVI DUTTA MISHRA; NEW DELHI, JULY 16",
+   "text": "AS INDIAN negotiators engage with the US in extended talks for an interim deal this week, President Donald Trump said Wednesday that the US has signed a trade deal with Indonesia, opening the country to trade withthe US, and that an agreement \"on the same lines\" is being worked on with India. After what Hasan Nasbi, spokesperson for the Indonesian President, called an \"extraordinary struggle\" by their negotiators, the US and Indonesia announced that the reciprocal tariffs faced by the Southeast Asiancountry would be reduced from 32 per cent to 19 per cent. Trump said American firms, in exchange, would have \"full access\" to the Indonesian market. \"We have full access into Indonesia, everything. As you know, Indonesia is very strong",
+   "n_words": 121,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3741,
+      3330,
+      4181,
+      3383
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3740,
+      3397,
+      4155,
+      3478
+     ],
+     [
+      3739,
+      3561,
+      4184,
+      3788
+     ],
+     [
+      3738,
+      3892,
+      3983,
+      3924
+     ],
+     [
+      3738,
+      3987,
+      4179,
+      4157
+     ],
+     [
+      3739,
+      4182,
+      4168,
+      4260
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "RESOLUTION PASSED",
+   "deck_raw": "",
+   "body_raw": "ON SHUKLA\u2019S SPACE\nMISSION PAGEs 6, 11\n\ncrore farmers.\nThe scheme was first an-\nnounced by Finance Minister\nNirmala Sitharman in her\nBudget speech earlier this year.\nCONTINUED ON PAGE 2\n\nTHE WORLD\n\nU.S. FIRES 17 JUDGES,\nSENDS DEPORTEES\nTO TINY AFRICAN\nCOUNTRY\n\nSYRIAN GOVT, DRUZE\nDECLARE TRUCE",
+   "ocr_conf": 92.16666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "RESOLUTION PASSED",
+   "deck": "",
+   "byline": "ON SHUKLA'S SPACE; MISSION PAGEs 6, 11",
+   "text": "crore farmers. The scheme was first announced by Finance Minister Nirmala Sitharman in her Budget speech earlier this year.\n\nTHE WORLD\n\nU.S. FIRES 17 JUDGES, SENDS DEPORTEES TO TINY AFRICAN COUNTRY\n\nSYRIAN GOVT, DRUZE DECLARE TRUCE",
+   "n_words": 36,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      3540,
+      3200,
+      3742
+     ],
+     [
+      1787,
+      3780,
+      3186,
+      3841
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      3970,
+      3525,
+      4014
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      3916,
+      2164,
+      3986
+     ],
+     [
+      1784,
+      4036,
+      2227,
+      4307
+     ],
+     [
+      2488,
+      3995,
+      2693,
+      4025
+     ],
+     [
+      2762,
+      3878,
+      3206,
+      4301
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "SIT misdirecting itself, submit report\nin 4 weeks: SC on Ashoka prof probe\nBench questions seizure of devices, tells SIT to stick to posts",
+   "deck_raw": "NA x",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, JULY 16\n\nASKING WHY the Haryana\nSpecial Investigation Team (SIT)\nwas \u201cmisdirecting itself\u2019 in the\ncase related to Ashoka University\nProfessor Ali Khan Mahmudabad\n\u2014 who was arrested in May over\nhis social media posts on\n\nProf Ali Khan\n\nthe contents of the posts\u201d.\nThe bench of Justices Surya\nKant and Joymalya Bagchi also\nquestioned the seizure of\nMahmudabad's cellphone and\nother electronic devices, and\nasked the SIT to confine itself to\nthe two FIRs filed against him,\nsee if there was an offence, and\nsubmit its report in four weeks,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.25510204081633,
+   "ocr_low_conf_share": 0.10204081632653061,
+   "headline": "SIT misdirecting itself, submit report in 4 weeks: SC on Ashoka prof probe Bench questions seizure of devices, tells SIT to stick to posts",
+   "deck": "NA x",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, JULY 16",
+   "text": "ASKING WHY the Haryana Special Investigation Team (SIT) was \"misdirecting itself' in the case related to Ashoka University Professor Ali Khan Mahmudabad - who was arrested in May over his social media posts on\n\nProf Ali Khan\n\nthe contents of the posts\". The bench of Justices Surya Kant and Joymalya Bagchi also questioned the seizure of Mahmudabad's cellphone and other electronic devices, and asked the SIT to confine itself to the two FIRs filed against him, see if there was an offence, and submit its report in four weeks,",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      856,
+      3727,
+      1158,
+      3792
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      854,
+      3797,
+      1204,
+      4181
+     ]
+    ],
+    "layout_words": 39
+   },
+   "headline_raw": "INDIAN REFINERS are",
+   "deck_raw": "",
+   "body_raw": "adopting a wait-and-\nwatch approach while\nkeeping Russian oil flows\nrobust. In fact, imports of\nRussian crude may rise\nfurther amid the tariff\nthreats as Indian refiners\nwould ideally want to\nstock up before any tariff\naction takes effect.",
+   "ocr_conf": 94.43589743589743,
+   "ocr_low_conf_share": 0.0,
+   "headline": "INDIAN REFINERS are",
+   "deck": "",
+   "byline": "",
+   "text": "adopting a wait-andwatch approach while keeping Russian oil flows robust. In fact, imports of Russian crude may rise further amid the tariff threats as Indian refiners would ideally want to stock up before any tariff action takes effect.",
+   "n_words": 38,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2321,
+      4057,
+      2705,
+      4142
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2335,
+      4029,
+      2712,
+      4083
+     ]
+    ],
+    "body_boxes": [
+     [
+      2270,
+      4194,
+      2714,
+      4307
+     ]
+    ],
+    "layout_words": 15
+   },
+   "headline_raw": "Ee BMY | AVECAR REE ERENCE Lie\n74) faces two FIRs",
+   "deck_raw": "",
+   "body_raw": "Operation Sindoor\u2014 the Supreme\nCourt on Wednesday said the SIT\nwas only supposed to \u201cexamine",
+   "ocr_conf": 77.33333333333333,
+   "ocr_low_conf_share": 0.26666666666666666,
+   "headline": "Ee BMY AVECAR REE ERENCE Lie 74) faces two FIRs",
+   "deck": "",
+   "byline": "",
+   "text": "Operation Sindoor - the Supreme Court on Wednesday said the SIT was only supposed to \"examine",
+   "n_words": 16,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4373,
+      2214,
+      4591
+     ],
+     [
+      320,
+      4615,
+      2206,
+      4775
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4789,
+      604,
+      4817
+     ],
+     [
+      319,
+      4866,
+      762,
+      5217
+     ],
+     [
+      807,
+      4708,
+      1252,
+      5217
+     ],
+     [
+      1296,
+      4709,
+      1738,
+      5218
+     ],
+     [
+      1784,
+      4709,
+      2226,
+      5211
+     ]
+    ],
+    "layout_words": 242
+   },
+   "headline_raw": "Let citizenship to daughter of OCI cardholders\nbe one-off, don\u2019t open floodgates: Govt to HC\nMHA appeals 2024 ruling\u2019s views on \u2018illegal immigrant\u2019, \u2018person of Indian-origin\u2019\n= = son of Indian-origin\u201d. single judge's observationonthe and 2005. In 2019, when Rachit.\nSOHINIGHOSH The MHA, represented bygov- twoaspects\u201cmayopen floodgates applied for a passport to stud",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, JULY 16\n\nAFTER A single-judge bench of\nthe Delhi High Court directed the\nCentre to grant Indian citizenship\ntoa \u201cstateless\u201d 17-year-old girl\nbornin India to acouple of Indian-\norigin holding US atizenship, the\nMinistry of Home Affairs (MHA)\nhas challenged the HC's \u201cviews\u201d\non \u201cillegal immigrant\u201d and \u201cper-\n\nson of Indian-origin\u201d.\nThe MHA, represented bygov-\nernment pleader Abhigyan\nSiddhant, urged the division\nbench of Chief Justice D K\nUpadhyaya and Justice Tushar Rao\nGedelaon Monday to clarify that\nthe single-judge\u2019s judgment of\nMay 15, 2024 should be consid-\nered as an individual case andnot\na precedent, meaning it may not\nbe used for relief in other cases.\nThe MHA apprehends thatthe\n\nsingle judge\u2019s observation on the\ntwoaspects \u201cmay open floodgates\nfor many other illegal migrants in\nseeking Indian citizenship\u201d and\n\u201cwould have a cascading effect\nand woulddilute the spirit of the\nCitizenship Act, 1955,\u201d\nThe 2024 ruling was in the\ncase of Rachita Francis Xavier,\nborn in 2006 in Nidamanuru,\nAndhra Pradesh, to parents who\nwere earlier Indian citizens and\nobtained US citizenship in 2001\n\nand 2005. In 2019, when Rachita\napplied for a passport to study\nabroad, her request was denied\non the ground that she cannot be\nrecognised as a citizen of India,\neffectively leaving her with no\nrecognition of citizenship, either\ninIndia orthe US. She then chal-\nlenged the action before the\nDelhi HC.\nRelying on the citizenship\nlaws and provisions, the MHA\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.71487603305785,
+   "ocr_low_conf_share": 0.028925619834710745,
+   "headline": "Let citizenship to daughter of OCI cardholders be one-off, don't open floodgates: Govt to HC MHA appeals 2024 ruling's views on 'illegal immigrant', 'person of Indian-origin' = = son of Indian-origin\". single judge's observationonthe and 2005. In 2019, when Rachit. SOHINIGHOSH The MHA, represented bygov- twoaspects\"mayopen floodgates applied for a passport to stud",
+   "deck": "",
+   "byline": "NEW DELHI, JULY 16",
+   "text": "AFTER A single-judge bench of the Delhi High Court directed the Centre to grant Indian citizenship toa \"stateless\" 17-year-old girl bornin India to acouple of Indian-origin holding US atizenship, the Ministry of Home Affairs (MHA) has challenged the HC's \"views\" on \"illegal immigrant\" and \"person of Indian-origin\". The MHA, represented bygovernment pleader Abhigyan Siddhant, urged the division bench of Chief Justice D K Upadhyaya and Justice Tushar Rao Gedelaon Monday to clarify that the single-judge's judgment of May 15, 2024 should be considered as an individual case andnot a precedent, meaning it may not be used for relief in other cases. The MHA apprehends thatthe\n\nsingle judge's observation on the twoaspects \"may open floodgates for many other illegal migrants in seeking Indian citizenship\" and \"would have a cascading effect and woulddilute the spirit of the Citizenship Act, 1955,\" The 2024 ruling was in the case of Rachita Francis Xavier, born in 2006 in Nidamanuru, Andhra Pradesh, to parents who were earlier Indian citizens and obtained US citizenship in 2001\n\nand 2005. In 2019, when Rachita applied for a passport to study abroad, her request was denied on the ground that she cannot be recognised as a citizen of India, effectively leaving her with no recognition of citizenship, either inIndia orthe US. She then challenged the action before the Delhi HC. Relying on the citizenship laws and provisions, the MHA",
+   "n_words": 229,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      4374,
+      4148,
+      4645
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2275,
+      4641,
+      2713,
+      4696
+     ]
+    ],
+    "body_boxes": [
+     [
+      2275,
+      4712,
+      2496,
+      4740
+     ],
+     [
+      2272,
+      4789,
+      2714,
+      5219
+     ],
+     [
+      3737,
+      4630,
+      4180,
+      5213
+     ]
+    ],
+    "layout_words": 129
+   },
+   "headline_raw": "Booked for assault after scuffle at meeting of\ncorporation, son of Patna Mayor is on the run",
+   "deck_raw": "HIMANSHU HARSH",
+   "body_raw": "PATNA, JULY 16\n\nTHE PATNA Municipal\nCorporation (PMC) tumed into a\n\u201cbattlefield\u201d last week after arou-\ntine meeting spiralled into a fist-\nfight between Shishir Kumar, the\nson of Patna Mayor Sita Sahu, and\nOpposition councillors. Police\nhave charged Shishir with assault\nand \u201cinterference with govern-\nment business\u201d, on a complaint\nlodged by councillor Jeet Kumar.\n\nA hunt is on for Shishir who is\nsaid to be absconding.\nThe July 11 meeting had been\nconvened by Sahu to fast track\n\u201ccontentious\u201d proposals. This\nwas objected to by Municipal\nCommissioner Animesh Kumar\nParashar, who claimed these\nprojects had been put on hold as\nthey \u201cintended to benefit private\ninterests\u201d. After Sahu insisted\nthat the proposals be passed,\nParashar staged a walkout.\nA verbal duel between the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.06976744186046,
+   "ocr_low_conf_share": 0.06976744186046512,
+   "headline": "Booked for assault after scuffle at meeting of corporation, son of Patna Mayor is on the run",
+   "deck": "HIMANSHU HARSH",
+   "byline": "PATNA, JULY 16",
+   "text": "THE PATNA Municipal Corporation (PMC) tumed into a \"battlefield\" last week after aroutine meeting spiralled into a fist-fight between Shishir Kumar, the son of Patna Mayor Sita Sahu, and Opposition councillors. Police have charged Shishir with assault and \"interference with government business\", on a complaint lodged by councillor Jeet Kumar.\n\nA hunt is on for Shishir who is said to be absconding. The July 11 meeting had been convened by Sahu to fast track \"contentious\" proposals. This was objected to by Municipal Commissioner Animesh Kumar Parashar, who claimed these projects had been put on hold as they \"intended to benefit private interests\". After Sahu insisted that the proposals be passed, Parashar staged a walkout. A verbal duel between the",
+   "n_words": 119,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      5349,
+      4138,
+      5472
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5499,
+      499,
+      5573
+     ],
+     [
+      318,
+      5696,
+      683,
+      5766
+     ],
+     [
+      318,
+      5816,
+      760,
+      6166
+     ],
+     [
+      803,
+      5500,
+      1251,
+      5745
+     ],
+     [
+      806,
+      5736,
+      1251,
+      6166
+     ],
+     [
+      1295,
+      5500,
+      1738,
+      6167
+     ],
+     [
+      2760,
+      5501,
+      3202,
+      6168
+     ],
+     [
+      3249,
+      5502,
+      3691,
+      6168
+     ],
+     [
+      3736,
+      5502,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 476
+   },
+   "headline_raw": "Second thoughts on \u2018tapping\u2019 complaint, Ramadoss and son look to patch up",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nARUN JANARDHANAN\nCHENNAI, JULY 16\n\nTHE SIMMERING public rift be-\ntween Pattali Makkal Katchi\n(PMK) founder S Ramadoss and\nhis son, party president\nAnbumani Ramadoss, may be\nheaded for a cooling down \u2014\nprompted not by asudden meet-\ning of the minds, but the alleged\ndiscovery of atapping device, and\n\napprehension ofa police probe.\nAccording to two senior PMK\nsources and a family confidant, a\ncomplaint filed on behalf of\nRamadoss about the discovery of\nasophisticated audio-tapping de-\nwneo at hhichniica andAtha bint iat\n\nvice at his house, andthe hint that\nthe son's side may be implicated\nin it, had prompted a flurry of\ndamage-control efforts by the\nfamily. G Viswanathan, who runs\nthe VIT Group of Institutions and\nisalong-time friend of the family,\nisreportedly the chief mediator.\nAcomplaint filed with police's\nCyber Crime Wing by PMK\nHeadquarters secretary M\n\nAnbalagan says that \u201can appara-\ntus(bug)\u201d was found at the official\nresidence of Ramadoss byhis staff\non the evening of July 9, \u201cin the\nusual sitting chair (sofa)\u201d, while\nthey were cleaning the furniture.\nThe complaint added that\nthe device was planted while\nRamadoss was not present, and\nsought a thorough search of the\nhouse \u201cto find out ifthere are any\nother devices also fixed in any se-\ncret place by the mischief mon-\ngers, who all appear to be anti-\nsocial elements\u201d. The complaint\nalso urged the authorities \u201cto\ntake appropriate legal action at\n\nthe earliest, apart from provid-\ning adequate police force for the\nsafety of our Founder President\nand his family\u201d.\nHowever, the PMK and\nRamadoss family later got appre-\nhensive that the complaint pro-\nvided a reason to the DMK gov-\nernment to send in state police\ninto Ramadoss's house, as well as\ngoafter Anbumani. The PMK is an\nally of the BJP-led NDA in thestate.\nIncidentally, Ramadoss\u2019s\ncomplaint regarding the \u201ctap-\nping\u201d device followed earlier\nquestions raised by him about\ndigital security within the party,\n\nclaiming that his social media\naccounts were still controlled by\nthose loyal to Anbumani, whom\nhe had dismissed.\n\u201cWith the Villupuram police\nreportedly preparing to act on\nthe complaint (over the \u2018bug-\nging\u2019 device),and seeking details,\nthe possibility of law enforce-\nment entering the family prop-\nerties and potentially question-\ning Anbumani became too risky\nfor both sides,\u201d said a senior PMK\nleader. \u201cLetting them enter the\nhouse itself would be detrimen-\ntal to the party,\u201d said a top source\nin the party.\n\nThis added an urgency to the\nmediation efforts between the\nfather and son, and as per\nsources, a breakthrough is near.\nAtop source in the family said it\nwas Anbumani\u2019s father-in-law\nKrishnaswamy, who is also a\nfriend of Viswanathan, who had\nurged the VIT Group ownertoin-\ntervene. Senior Ramadoss and\nViswanathan are believed to\nhave met last week on Saturday.\nThe top PMK source said:\n\u201cThe conversation between\nViswanathan and Ayya\n(Ramadoss) was candid.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.46583850931677,
+   "ocr_low_conf_share": 0.047619047619047616,
+   "headline": "Second thoughts on 'tapping' complaint, Ramadoss and son look to patch up",
+   "deck": "",
+   "byline": "ANCHOR; ARUN JANARDHANAN; CHENNAI, JULY 16",
+   "text": "THE SIMMERING public rift between Pattali Makkal Katchi (PMK) founder S Ramadoss and his son, party president Anbumani Ramadoss, may be headed for a cooling down - prompted not by asudden meeting of the minds, but the alleged discovery of atapping device, and\n\napprehension ofa police probe. According to two senior PMK sources and a family confidant, a complaint filed on behalf of Ramadoss about the discovery of asophisticated audio-tapping dewneo at hhichniica andAtha bint iat\n\nvice at his house, andthe hint that the son's side may be implicated in it, had prompted a flurry of damage-control efforts by the family. G Viswanathan, who runs the VIT Group of Institutions and isalong-time friend of the family, isreportedly the chief mediator. Acomplaint filed with police's Cyber Crime Wing by PMK Headquarters secretary M\n\nAnbalagan says that \"an apparatus(bug)\" was found at the official residence of Ramadoss byhis staff on the evening of July 9, \"in the usual sitting chair (sofa)\", while they were cleaning the furniture. The complaint added that the device was planted while Ramadoss was not present, and sought a thorough search of the house \"to find out ifthere are any other devices also fixed in any secret place by the mischief mongers, who all appear to be antisocial elements\". The complaint also urged the authorities \"to take appropriate legal action at\n\nthe earliest, apart from providing adequate police force for the safety of our Founder President and his family\". However, the PMK and Ramadoss family later got apprehensive that the complaint provided a reason to the DMK government to send in state police into Ramadoss's house, as well as goafter Anbumani. The PMK is an ally of the BJP-led NDA in thestate. Incidentally, Ramadoss's complaint regarding the \"tapping\" device followed earlier questions raised by him about digital security within the party,\n\nclaiming that his social media accounts were still controlled by those loyal to Anbumani, whom he had dismissed. \"With the Villupuram police reportedly preparing to act on the complaint (over the 'bugging' device),and seeking details, the possibility of law enforcement entering the family prop-erties and potentially questioning Anbumani became too risky for both sides,\" said a senior PMK leader. \"Letting them enter the house itself would be detrimental to the party,\" said a top source in the party.\n\nThis added an urgency to the mediation efforts between the father and son, and as per sources, a breakthrough is near. Atop source in the family said it was Anbumani's father-in-law Krishnaswamy, who is also a friend of Viswanathan, who had urged the VIT Group ownertointervene. Senior Ramadoss and Viswanathan are believed to have met last week on Saturday. The top PMK source said: \"The conversation between Viswanathan and Ayya (Ramadoss) was candid.",
+   "n_words": 454,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.6,
+ "flags": []
+}

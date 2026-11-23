@@ -1,0 +1,736 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_03_editorial",
+ "source_file": "2025-01-03_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-03_editorial.png",
+ "date": "2025-01-03",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 2,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 462,
+  "mean_line_conf": 86.24774830289536,
+  "orphan_words": 80,
+  "body_words_total": 3329
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      604,
+      1473,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      819,
+      1234,
+      876
+     ],
+     [
+      985,
+      918,
+      1417,
+      978
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      770,
+      1088,
+      801
+     ],
+     [
+      433,
+      918,
+      950,
+      961
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA\nINVOLVES US ALL",
+   "body_raw": "FoOuNDED By @\n\nBECAUSE THE TRUTH",
+   "ocr_conf": 85.83333333333333,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA INVOLVES US ALL",
+   "byline": "BECAUSE THE TRUTH",
+   "text": "FoOuNDED By @",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2336,
+      592,
+      3468,
+      817
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2277,
+      883,
+      3572,
+      1012
+     ]
+    ],
+    "body_boxes": [
+     [
+      2320,
+      2359,
+      2827,
+      3342
+     ],
+     [
+      2922,
+      1250,
+      3530,
+      3351
+     ]
+    ],
+    "layout_words": 436
+   },
+   "headline_raw": "Hard power",
+   "deck_raw": "BJP\u2019s dominance is marked not just by its electoral upper\nhand but also by the long arm of the law and intolerance",
+   "body_raw": "The BJP\u2019s politics has often\nbeen one of acrimony, deep\ndivisions and consequent\nlack of smooth institutional\nfunctioning. The adversarial\nrelationship between the\nruling party and the\nOpposition can be compared\nonly with the worst and\nweakest phase of Congress\ndominance \u2014 1972 to 76.\nThe frequency and\nvehemence with which the\nBJP has to resort to\nrepression and use of state\nmachinery against political\nopponents indicates its\nruthless resolve to craft\ndominance as also the chinks\nin its armour.\n\nin 2014, the BJP failed in Delhi and Bihar; lost\nRajasthan and Chhattisgarh: had to steal MP,\nKarnataka and later, Maharashtra; it lost\nHimachal Kamataka and recently, could not\nwin Jharkhand. West Bengal, too, has re-\nmained beyond its grip so far.\nThe weakness of the BJP's dominance is\nmore apparent in its voter pool. It has\nstrengthened that pool since the 1990s, but\nnotexactly diversified it. It continues tostrug-\ngle to be a\u201cdominant\" partyencompassing a\ncross-section of voters. The BJP appearsdom-\ninant because under its Hindutva umbreita,it\nhas attracted many from the backward castes\nand won sizeable support among Dalits and\nAdiwasis lis inability and uiiwallingiiess to cul-\ntivate the Muslim (and Christian) vote is a\nwell-known limitation. Beyond this self-im-\nposed limitation, the BJP\u2019s voter umbrella is\nrather weak in accommodating most mar-\nginal sections of society.\nWhile the party has expanded beyond the\ntypical middle class, it is more acceptable\namong upper and middle castes and the\nrich/middie income voters than among Dalits,\nAdivasis and the poor. A study shows thatthe\nupper half of society, which has moreaccess\nto caste-class privilege, tends to support the\nBJP more (Suhas Palshikar and Jyoti Mishra,\nStudies in Indian Politics, December 2023) It\nhas beenslightly more successful among ur-\nban constituencies than among rural. Even\namong women, while the BJPis about toneu-\ntralise the gender gap, it has yet to establish\nanadvantage. The BJP\u2019s relationship with cit-\nizens on the peripheries is tenuous Its elec-\ntoral dominance, thus, is crafted through an\numbrella of the so-called heartland and the\nso-called mainstream.\nFinally, the BJP\u2019s politics has often been one\nof acrimony, deep divisions and consequent\nlack of smooth institutional functioning. The\nadversarial relationship between the ruling\nparty and the Opposition can be compared\nonly with the worst and weakest phase of\nCongress dominance \u2014 1972 tw 76. The fre-\nquency and vehemence with which the BJP\nhastoresort to repression and use of state ma-\nchinery against politicalopponents indicates\nitsruthless resolve to craft dominance asalso\nthe chinks in its armour. If in the Sixties, the\nsheer scale of lecidiatviciones would demor-\nalise the Opposition, today the Opposition is",
+   "ocr_conf": 90.01605504587155,
+   "ocr_low_conf_share": 0.05045871559633028,
+   "headline": "Hard power",
+   "deck": "BJP's dominance is marked not just by its electoral upper hand but also by the long arm of the law and intolerance",
+   "byline": "",
+   "text": "The BJP's politics has often been one of acrimony, deep divisions and consequent lack of smooth institutional functioning. The adversarial relationship between the ruling party and the Opposition can be compared only with the worst and weakest phase of Congress dominance - 1972 to 76. The frequency and vehemence with which the BJP has to resort to repression and use of state machinery against political opponents indicates its ruthless resolve to craft dominance as also the chinks in its armour.\n\nin 2014, the BJP failed in Delhi and Bihar; lost Rajasthan and Chhattisgarh: had to steal MP, Karnataka and later, Maharashtra; it lost Himachal Kamataka and recently, could not win Jharkhand. West Bengal, too, has remained beyond its grip so far. The weakness of the BJP's dominance is more apparent in its voter pool. It has strengthened that pool since the 1990s, but notexactly diversified it. It continues tostruggle to be a\"dominant\" partyencompassing a cross-section of voters. The BJP appearsdominant because under its Hindutva umbreita,it has attracted many from the backward castes and won sizeable support among Dalits and Adiwasis lis inability and uiiwallingiiess to cultivate the Muslim (and Christian) vote is a well-known limitation. Beyond this self-imposed limitation, the BJP's voter umbrella is rather weak in accommodating most marginal sections of society. While the party has expanded beyond the typical middle class, it is more acceptable among upper and middle castes and the rich/middie income voters than among Dalits, Adivasis and the poor. A study shows thatthe upper half of society, which has moreaccess to caste-class privilege, tends to support the BJP more (Suhas Palshikar and Jyoti Mishra, Studies in Indian Politics, December 2023) It has beenslightly more successful among urban constituencies than among rural. Even among women, while the BJPis about toneutralise the gender gap, it has yet to establish anadvantage. The BJP's relationship with citizens on the peripheries is tenuous Its electoral dominance, thus, is crafted through an umbrella of the so-called heartland and the so-called mainstream. Finally, the BJP's politics has often been one of acrimony, deep divisions and consequent lack of smooth institutional functioning. The adversarial relationship between the ruling party and the Opposition can be compared only with the worst and weakest phase of Congress dominance - 1972 tw 76. The frequency and vehemence with which the BJP hastoresort to repression and use of state machinery against politicalopponents indicates itsruthless resolve to craft dominance asalso the chinks in its armour. If in the Sixties, the sheer scale of lecidiatviciones would demoralise the Opposition, today the Opposition is",
+   "n_words": 423,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      389,
+      1095,
+      1470,
+      1200
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      1238,
+      1534,
+      2834
+     ]
+    ],
+    "layout_words": 424
+   },
+   "headline_raw": "\u2018THE HOTTEST YEAR",
+   "deck_raw": "",
+   "body_raw": "Met body\u2019s warning that 2025 could be another hot year should\nlead to guardrails, It\u2019s time political class takes ownership\nHE JURY IS still out on whether climate change has reached a point of no re-\nturn. But the India Meteorological Department's (IMD) announcement that\nin 2024, the world's most populous country experienced its hottestyear since\n1901 should be sobering for policymakers across the world. Globally, too,\nthere is enough evidence that the year gone by was the hottest on record \u2014 though the\nWorld Meteorological Organi sation(WMO)hasnotyetissued an official declaration. The\nIMD and WMO have wamed that 2025 could be another hot year. By all accounts, India\nisontrackto meetits global climate goals. That, however, isn'tthe case for mostcountries,\nespecially those in the West. Indian policymakers must, therefore, build several guardrails\n\u2014 frame heat action plans, build sea walls, improve disaster-management systems, spruce\nup weather-alert mechanisms, overhaul drainage systems, install irrigation systems to\ncombat water scarcity and climate-proof agriculture.\nAsthe planet gets hotter, the challenge will be to address people's vulnerabilities with-\noutcompromising on their developmental needs. More than 30 percent of the country's\nGDP is generated in sectors that arehighly nature-dependent \u2014 agriculture, forestry, wa-\nter and power utilities, and construction. A World Economic Forum study estimates that\nagriculture output is estimated to drop by 16 per cent in the next five years, shaving off\nmore than 2.5 per centofthe GDP. Another report, last year, by the global construction con-\nsultancy CBRE, estimates that nearly 50 per cent of the country's infrastructure is at risk\ndue w exiieine Weailiei vers. The Reserve Bankofindia has also recognised that global\nwarming can upset financial stability and growth. Quantification of climate risks in the\ncountry has, however, been patchy, largely because of the fragmented nature of infor-\nmation and widespread variations in data collection metrics. In this context, the RBI's\nmove, lastyear,to set upa repository, the Gimate Riskin formation System, is atimely step.\nThe system's focus onlocal-level scenarios is particularty salient given that climate vul-\nnerabitities vary every few kilometres in the country.\nThe political class has, however rarely taken cues from the country's centraibank, Met\nbody, academia and civil society institutions. The tolltaken by floods, landslides, sea-level\nrise, poor air and the loss of green lungs has rarely been at the centre of political conver-\nsation, even during the generalelection last year. That's why longstanding vulnerabilities\nof people to extreme rainfall, heat and cold have remained unaddressed. Every year floods\nin rural and urban India expose a similar set of abdications: Outdated drainage systems that",
+   "ocr_conf": 87.06367924528301,
+   "ocr_low_conf_share": 0.08962264150943396,
+   "headline": "'THE HOTTEST YEAR",
+   "deck": "",
+   "byline": "",
+   "text": "Met body's warning that 2025 could be another hot year should lead to guardrails, It's time political class takes ownership HE JURY IS still out on whether climate change has reached a point of no return. But the India Meteorological Department's (IMD) announcement that in 2024, the world's most populous country experienced its hottestyear since 1901 should be sobering for policymakers across the world. Globally, too, there is enough evidence that the year gone by was the hottest on record - though the World Meteorological Organi sation(WMO)hasnotyetissued an official declaration. The IMD and WMO have wamed that 2025 could be another hot year. By all accounts, India isontrackto meetits global climate goals. That, however, isn'tthe case for mostcountries, especially those in the West. Indian policymakers must, therefore, build several guardrails - frame heat action plans, build sea walls, improve disaster-management systems, spruce up weather-alert mechanisms, overhaul drainage systems, install irrigation systems to combat water scarcity and climate-proof agriculture. Asthe planet gets hotter, the challenge will be to address people's vulnerabilities with-outcompromising on their developmental needs. More than 30 percent of the country's GDP is generated in sectors that arehighly nature-dependent - agriculture, forestry, water and power utilities, and construction. A World Economic Forum study estimates that agriculture output is estimated to drop by 16 per cent in the next five years, shaving off more than 2.5 per centofthe GDP. Another report, last year, by the global construction consultancy CBRE, estimates that nearly 50 per cent of the country's infrastructure is at risk due w exiieine Weailiei vers. The Reserve Bankofindia has also recognised that global warming can upset financial stability and growth. Quantification of climate risks in the country has, however, been patchy, largely because of the fragmented nature of information and widespread variations in data collection metrics. In this context, the RBI's move, lastyear,to set upa repository, the Gimate Riskin formation System, is atimely step. The system's focus onlocal-level scenarios is particularty salient given that climate vulnerabitities vary every few kilometres in the country. The political class has, however rarely taken cues from the country's centraibank, Met body, academia and civil society institutions. The tolltaken by floods, landslides, sea-level rise, poor air and the loss of green lungs has rarely been at the centre of political conversation, even during the generalelection last year. That's why longstanding vulnerabilities of people to extreme rainfall, heat and cold have remained unaddressed. Every year floods in rural and urban India expose a similar set of abdications: Outdated drainage systems that",
+   "n_words": 417,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1624,
+      1113,
+      2076,
+      1211
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1621,
+      1250,
+      2229,
+      1576
+     ],
+     [
+      1625,
+      1568,
+      2227,
+      1642
+     ]
+    ],
+    "layout_words": 72
+   },
+   "headline_raw": "SUHAS PALSHIKAR",
+   "deck_raw": "",
+   "body_raw": "THE AGGRESSION SHOWN by the BJP re-\ncently, inside Parliament andoutside it, marks\nboth the nature and the limits of its domi-\nnance. Its detractors may take satisfaction\nfrom the fact that these developments indi-\ncate the BJP\u2019s irritation over the enhanced\nnumbers of the Opposition. The BJP seemsto\nbe a pennianenity angry party. Even inits vic-\nPtraenArt 1f6e arewkir amd unmaAircreram Cr afene ite\n\ntories, it is acerbic and vindictive. So, after its\nlacklustre performance in the Lok Sabha elec-",
+   "ocr_conf": 80.92592592592592,
+   "ocr_low_conf_share": 0.16049382716049382,
+   "headline": "SUHAS PALSHIKAR",
+   "deck": "",
+   "byline": "",
+   "text": "THE AGGRESSION SHOWN by the BJP recently, inside Parliament andoutside it, marks both the nature and the limits of its dominance. Its detractors may take satisfaction from the fact that these developments indicate the BJP's irritation over the enhanced numbers of the Opposition. The BJP seemsto be a pennianenity angry party. Even inits vic-PtraenArt 1f6e arewkir amd unmaAircreram Cr afene ite\n\ntories, it is acerbic and vindictive. So, after its lacklustre performance in the Lok Sabha elec-",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      1251,
+      4181,
+      1723
+     ]
+    ],
+    "layout_words": 80,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "often physically tamed, caricatured through\ncontrol of media and silenced through the use\nof presiding officers of the legislature.\nThe BJP\u2019 sability to set an agenda is predi-\ncated on the exercise of govemmental coer-\ncion resulting in nmiecting alldissentasanti-\nnational and browbeating any social segment\nthat may engage in protests and agitations.\nBesides an electoral upperhand, the longarm\nof the lawand the stilllonger arm of misinfor-\nmation and innuendo sustain the BJP\u2019s pre-\neminent position in competitive politics. This",
+   "ocr_conf": 87.025,
+   "ocr_low_conf_share": 0.1,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "often physically tamed, caricatured through control of media and silenced through the use of presiding officers of the legislature. The BJP' sability to set an agenda is predicated on the exercise of govemmental coercion resulting in nmiecting alldissentasantinational and browbeating any social segment that may engage in protests and agitations. Besides an electoral upperhand, the longarm of the lawand the stilllonger arm of misinformation and innuendo sustain the BJP's preeminent position in competitive politics. This",
+   "n_words": 75,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1625,
+      1643,
+      2227,
+      1703
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1622,
+      1706,
+      1959,
+      1765
+     ]
+    ],
+    "body_boxes": [
+     [
+      1625,
+      1767,
+      2232,
+      1874
+     ],
+     [
+      1621,
+      1885,
+      2229,
+      3263
+     ],
+     [
+      1622,
+      3275,
+      2228,
+      3350
+     ],
+     [
+      1618,
+      3947,
+      2225,
+      5254
+     ]
+    ],
+    "layout_words": 478
+   },
+   "headline_raw": "tions the BIP\u2019sresponseto the parliamentary\naNnnaatinn again rakes themedion Iscthe RIP",
+   "deck_raw": "Spree eg teeta\nreally adominant party?",
+   "body_raw": "Dominance maybe understood asacom-\nbination of electoral success, formation of\nbroad socialcoalitionsand minimal recourse\n\ntothe politics of repression even while dictat-\ning the terms of political discourse. How far\ndoes the BJP qualify for being adominant pole\ninthissense? The shadow of Congressdomi-\nnance, and exaggerated projections of the\nBJP\u2019s smartness, end tocomplcate any analy-\nsisof the BJP\u2019sdominance. The former makes\nitappear that any amount of electoral success\nby the BJP might still not match the domi-\nnance exercised by Congress during 1950-70.\nPerceptions of its smartness, on the other\nhand, lead one tobelieve that all past histories\nof dominance willbe surpassed by the BJP.\nLet us first look at electoral politics The BJP\nhas not only retained power for three parlia-\nmentary elections, it hasalsoretained its vote\nshare. The distance from its nearest competi-\ntor ishuge \u2014 15 percentage points. So, the\nminimaltcriterion of being adominant player\nis easily fulfilled. But thisall-India picture be-\ncomes complicated once we start looking at\nstates.Overthe past decade, in parliamentary\nelections, it has retained its hold over Gujarat,\nMP, Chhattisgarh and Assam. Ithasmade sig-\nnificant gains in Odisha, Andhra and\nTelangana Butin 2024, the BJPfaced setbacks\nin states that were on the verge of becoming\nits bastions \u2014 Karnataka, Maharashtra,\nHaryana, Rajasthan andUP \u2014besides failing to\nexpand in Jharkhand, Bihar and West Bengal.\nA few states continue to be out of bounds for\nthe BJP after 10 years. These include Kerala(in\ntermsof seats), Tamil Nadu, Punjaband prac-\ntically the entire Northeastexcept Assam.\nMoreover, its losses and limitedsuccesses\n\ninassemblies manifest an inconsigency inits\ndominance. Right after its handsome victory\n\nSOME CALL HER a Pakistani writer, some a\nParsi one, but for me, Bapsi Sidhwa(1938-\n2024) remains a writer who transcends all\nborders Her writing bridged the many layers\nof human experience beyond nationalities\nand religions. Bom in pre-Partition Karachi,\nSidhwa's writings merge history, identity,and\nthe complexities of human experience with\nadenth andcomnassion thar remain unparal-\nleled. Through her novels, she created spaces\nwhere marginalised voices were heard,\nwomen\u2019s experiences explored, and where\nthe traumatic pasts of nation-states could be\nunderstood through the lives of unforgettable\ncharacters. With her passing at the age of 86in\nTexas, the literary world has lost a brillant and\nfearless storyteller.\nFor me, and for countless other writers\nfrom the Sub-continent, Sidhwa's work was\nnot just aform of storytelling \u2014 it wasa reve-\nlation. As a young Pakistani woman, reading\nher novels ignited adesire to explore beyond\nState narrativesand historytextbooks, and to\nunderstandthe world ina more nuanced way.\nSidhwa's writing notonty shaped my under-\nStanding of the world but also inspired meto\ngive voice to the stories around me. Iremem-\nber browsing the stacks at a second-hand\nbook store in Karachi as a teenager, and\namongst the rows of English language books\nbyWestem authors,caming acrossher name.\nItwasa surprise tofind a novel with characters\nlike myself, withfamiliarsettingsand customs.",
+   "ocr_conf": 85.85714285714286,
+   "ocr_low_conf_share": 0.10294117647058823,
+   "headline": "tions the BIP'sresponseto the parliamentary aNnnaatinn again rakes themedion Iscthe RIP",
+   "deck": "Spree eg teeta really adominant party?",
+   "byline": "",
+   "text": "Dominance maybe understood asacombination of electoral success, formation of broad socialcoalitionsand minimal recourse\n\ntothe politics of repression even while dictating the terms of political discourse. How far does the BJP qualify for being adominant pole inthissense? The shadow of Congressdominance, and exaggerated projections of the BJP's smartness, end tocomplcate any analysisof the BJP'sdominance. The former makes itappear that any amount of electoral success by the BJP might still not match the dominance exercised by Congress during 1950-70. Perceptions of its smartness, on the other hand, lead one tobelieve that all past histories of dominance willbe surpassed by the BJP. Let us first look at electoral politics The BJP has not only retained power for three parliamentary elections, it hasalsoretained its vote share. The distance from its nearest competitor ishuge - 15 percentage points. So, the minimaltcriterion of being adominant player is easily fulfilled. But thisall-India picture becomes complicated once we start looking at states.Overthe past decade, in parliamentary elections, it has retained its hold over Gujarat, MP, Chhattisgarh and Assam. Ithasmade significant gains in Odisha, Andhra and Telangana Butin 2024, the BJPfaced setbacks in states that were on the verge of becoming its bastions - Karnataka, Maharashtra, Haryana, Rajasthan andUP - besides failing to expand in Jharkhand, Bihar and West Bengal. A few states continue to be out of bounds for the BJP after 10 years. These include Kerala(in termsof seats), Tamil Nadu, Punjaband practically the entire Northeastexcept Assam. Moreover, its losses and limitedsuccesses\n\ninassemblies manifest an inconsigency inits dominance. Right after its handsome victory\n\nSOME CALL HER a Pakistani writer, some a Parsi one, but for me, Bapsi Sidhwa(1938- 2024) remains a writer who transcends all borders Her writing bridged the many layers of human experience beyond nationalities and religions. Bom in pre-Partition Karachi, Sidhwa's writings merge history, identity,and the complexities of human experience with adenth andcomnassion thar remain unparalleled. Through her novels, she created spaces where marginalised voices were heard, women's experiences explored, and where the traumatic pasts of nation-states could be understood through the lives of unforgettable characters. With her passing at the age of 86in Texas, the literary world has lost a brillant and fearless storyteller. For me, and for countless other writers from the Sub-continent, Sidhwa's work was not just aform of storytelling - it wasa revelation. As a young Pakistani woman, reading her novels ignited adesire to explore beyond State narrativesand historytextbooks, and to understandthe world ina more nuanced way. Sidhwa's writing notonty shaped my under-Standing of the world but also inspired meto give voice to the stories around me. Iremember browsing the stacks at a second-hand book store in Karachi as a teenager, and amongst the rows of English language books byWestem authors,caming acrossher name. Itwasa surprise tofind a novel with characters like myself, withfamiliarsettingsand customs.",
+   "n_words": 463,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3577,
+      1708,
+      4178,
+      1767
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3573,
+      1768,
+      4181,
+      2040
+     ]
+    ],
+    "layout_words": 45
+   },
+   "headline_raw": "eee eee eee om pene. SPEED\n5 notonlybecause the BJPis weakin other re-",
+   "deck_raw": "",
+   "body_raw": "spects but because in the BJP\u2019simagination of\ndominance, a certain intolerance and impa-\nBence with those who disagree is inherent.\nOverall, today's BJPis a case of truncated\ndominance. The limits to electoral successes,\nthe narrownessofits voter umbrella and the\ncompulsive resort to high-handed tactics cou-",
+   "ocr_conf": 80.06666666666666,
+   "ocr_low_conf_share": 0.15555555555555556,
+   "headline": "eee eee eee om pene. SPEED 5 notonlybecause the BJPis weakin other re-",
+   "deck": "",
+   "byline": "",
+   "text": "spects but because in the BJP'simagination of dominance, a certain intolerance and impa-Bence with those who disagree is inherent. Overall, today's BJPis a case of truncated dominance. The limits to electoral successes, the narrownessofits voter umbrella and the compulsive resort to high-handed tactics cou-",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3577,
+      2042,
+      4177,
+      2099
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3575,
+      2084,
+      4178,
+      2196
+     ],
+     [
+      3577,
+      2205,
+      4179,
+      2318
+     ]
+    ],
+    "layout_words": 37
+   },
+   "headline_raw": "pled with suspicion of any dissent, point toa\ndefiar in num fia ties that hare mibjict dam",
+   "deck_raw": "",
+   "body_raw": "deficit in two qualities that shape robust dom-\ninance: Statesmanship and willingness on\ndemocratic accammodarion.Instead itsdom-\n\ninance is woven through a maze of naked\npower, verbosty and chicanery.\n_ The BJP may overcome some of the limita-",
+   "ocr_conf": 85.4054054054054,
+   "ocr_low_conf_share": 0.10810810810810811,
+   "headline": "pled with suspicion of any dissent, point toa defiar in num fia ties that hare mibjict dam",
+   "deck": "",
+   "byline": "",
+   "text": "deficit in two qualities that shape robust dominance: Statesmanship and willingness on democratic accammodarion.Instead itsdominance is woven through a maze of naked power, verbosty and chicanery. _ The BJP may overcome some of the limita-",
+   "n_words": 35,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3571,
+      2320,
+      4176,
+      2402
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3573,
+      2402,
+      4179,
+      3230
+     ],
+     [
+      3845,
+      3276,
+      4178,
+      3351
+     ]
+    ],
+    "layout_words": 143
+   },
+   "headline_raw": "tionsin the electoral arena. But itis unlikely\neasily OveTCOME the Mis imposed by its nar-",
+   "deck_raw": "",
+   "body_raw": "row Hindutva umbrella under which the so-\ncio-spatial peripheries or the less privileged\nsections will only have a cramped place.\nHaving got into the habitof misusing govern-\nmental power, it is equally unlikely that the\nBJPwillmaleitselfa more legitimate player in\ndemocratic politics. The awkward militancy\nOf BJP syimpathisers natwithstanding the BJP\nappears far away from robust dominance.\nThis leads to at least two strange para-\ndoxes. Because of its truncated dominance\nthere is space fora siting consieilationasainst\nic incompetitive politics and yet, precisely for\nthat reason, a strong united opposition is not\nlikely to take shape easily. Secondly, while its\nincomplete dominance compels itto indulge\nin shrillrhetoric, that same rhetoric easily of-\nfers itself as an agenda Competitive politics\nin the phase of India's second dominant party\nsystem, therefore, will unfold through these\ntwo paradoves.\n\nThe writer, based in Pune,\ntaught Political Science",
+   "ocr_conf": 86.86713286713287,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "tionsin the electoral arena. But itis unlikely easily OveTCOME the Mis imposed by its nar-",
+   "deck": "",
+   "byline": "",
+   "text": "row Hindutva umbrella under which the socio-spatial peripheries or the less privileged sections will only have a cramped place. Having got into the habitof misusing governmental power, it is equally unlikely that the BJPwillmaleitselfa more legitimate player in democratic politics. The awkward militancy Of BJP syimpathisers natwithstanding the BJP appears far away from robust dominance. This leads to at least two strange para-doxes. Because of its truncated dominance there is space fora siting consieilationasainst ic incompetitive politics and yet, precisely for that reason, a strong united opposition is not likely to take shape easily. Secondly, while its incomplete dominance compels itto indulge in shrillrhetoric, that same rhetoric easily offers itself as an agenda Competitive politics in the phase of India's second dominant party system, therefore, will unfold through these two paradoves.\n\nThe writer, based in Pune, taught Political Science",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      2846,
+      1532,
+      2902
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      2891,
+      1531,
+      3020
+     ]
+    ],
+    "layout_words": 34
+   },
+   "headline_raw": "cannot take the stress of more than nonnd rainfall, planning thatdoesnot account forlo-\nrelhudenlamsand er sor es th se wee eo eee ie 4 maraanicing rolinfand racriia",
+   "deck_raw": "",
+   "body_raw": "calhydrology and civic agencies whose rote seenis timited t organising relief and rescue.\nIt's increasingly becoming clear that floods, droughts, cyclones and heatwaves cannot be\ndealt with on ashort-term basis, oronly to tide overemergencies.",
+   "ocr_conf": 80.32352941176471,
+   "ocr_low_conf_share": 0.14705882352941177,
+   "headline": "cannot take the stress of more than nonnd rainfall, planning thatdoesnot account forlorelhudenlamsand er sor es th se wee eo eee ie 4 maraanicing rolinfand racriia",
+   "deck": "",
+   "byline": "",
+   "text": "calhydrology and civic agencies whose rote seenis timited t organising relief and rescue. It's increasingly becoming clear that floods, droughts, cyclones and heatwaves cannot be dealt with on ashort-term basis, oronly to tide overemergencies.",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      420,
+      3128,
+      1424,
+      3213
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      3255,
+      1530,
+      4752
+     ]
+    ],
+    "layout_words": 424
+   },
+   "headline_raw": "YOUNG AND HOPELESS",
+   "deck_raw": "",
+   "body_raw": "BPSC exam row in Bihar points to a systemic distortion and\nlack of accountability that is taking a high toll across states\nNTHE RUN-UP to the 2024 Lok Sabha election, countering the Opposition parties\u2019\npitchon the caste census, Prime Minister Narendra Modi had said that, for him, there\nare only fourcastes: Poor, farmers, women\u2014and youth Theemphasis on youth, an\nunderlining of their issues and concems, could also be found in the manifestos of\npartiesand leaders speeches However, in 2024, like manyyears before it, across states, the\nyoung were letdown by leaders and parties who tumed an unseeing eye to a recurring pat-\ntem \u2014 paper leaks and allegations of cheating and foul play leading to exam cancellations\nand students\u2019 protests, tono avail. The controversy overthe Bihar PublicService Commission\n(BPSC) preliminary examination held on December 13 is only the latest ina dismal series.\nOne of the centres in Patna saw a disruption \u2014 it was alleged that the question paper\nhad been leaked Soon after, reports of irregularities poured in from other centres,sparking\nstudents\u2019 pmtests.On December 19,the Commission decided to conduct a re-examination\nonly foronecentre Asitie protests intensified, leaderslike Prashant Kishor, founder of the\nstate's fedglingJan SuraajParty, along with several educators, put their weight behind the\nstudents' demands; RJD's Tejashwi Yadav asked the Commission t conduct fresh prelims\nacross the state. The BPSC controversy, however, is just one more in along list of such irreg-\nularities The year 2024 saw the NEET-UG fracas, followed by the cancellation of the NET\nand NEET-PG exams. Exams conducted for state government recruitmentsin UP,Rajasthan,\nMaharashtra, and Tamil Nadu faced similar controversies. The Centre introduced the Public\nExaminations(Prevention of Unfair Means) Act(2024) to lay down guardrails.\nButis it enough to passa law? Ever since thie uproar over ihe Vyapam scamin Madhya\nPradesh in 2013 \u2014 its ghosts are still to belaid to rest \u2014 few political partieshavemadeit a\npolitical or electoral issue. For the aspirants, many of whom belong & marginalised castes\nandclasses, these exams are away to achieve social mobility, against daunting odds.Inacoun-\ntry of large economic disparities, and when job creationis not picking upin the private sec-\ntor they represent a possibility ofempowerment for millions.Crammed inm general com-\npartments of trains and in overcrowded buses, they reach the exam centres armed only\nwith their aspiration \u2014 between 2014 and 2022, for instance, only 0.33 percentoftheap-\nplicants got govemment jobs. The voices of the students in Bihar, and other states, must be\nheard and heeded Ina country of the young one that is on the move, much isat stake.",
+   "ocr_conf": 86.42216981132076,
+   "ocr_low_conf_share": 0.08490566037735849,
+   "headline": "YOUNG AND HOPELESS",
+   "deck": "",
+   "byline": "",
+   "text": "BPSC exam row in Bihar points to a systemic distortion and lack of accountability that is taking a high toll across states NTHE RUN-UP to the 2024 Lok Sabha election, countering the Opposition parties' pitchon the caste census, Prime Minister Narendra Modi had said that, for him, there are only fourcastes: Poor, farmers, women - and youth Theemphasis on youth, an underlining of their issues and concems, could also be found in the manifestos of partiesand leaders speeches However, in 2024, like manyyears before it, across states, the young were letdown by leaders and parties who tumed an unseeing eye to a recurring pattem - paper leaks and allegations of cheating and foul play leading to exam cancellations and students' protests, tono avail. The controversy overthe Bihar PublicService Commission (BPSC) preliminary examination held on December 13 is only the latest ina dismal series. One of the centres in Patna saw a disruption - it was alleged that the question paper had been leaked Soon after, reports of irregularities poured in from other centres,sparking students' pmtests.On December 19,the Commission decided to conduct a re-examination only foronecentre Asitie protests intensified, leaderslike Prashant Kishor, founder of the state's fedglingJan SuraajParty, along with several educators, put their weight behind the students' demands; RJD's Tejashwi Yadav asked the Commission t conduct fresh prelims across the state. The BPSC controversy, however, is just one more in along list of such irregularities The year 2024 saw the NEET-UG fracas, followed by the cancellation of the NET and NEET-PG exams. Exams conducted for state government recruitmentsin UP,Rajasthan, Maharashtra, and Tamil Nadu faced similar controversies. The Centre introduced the Public Examinations(Prevention of Unfair Means) Act(2024) to lay down guardrails. Butis it enough to passa law? Ever since thie uproar over ihe Vyapam scamin Madhya Pradesh in 2013 - its ghosts are still to belaid to rest - few political partieshavemadeit a political or electoral issue. For the aspirants, many of whom belong & marginalised castes andclasses, these exams are away to achieve social mobility, against daunting odds.Inacountry of large economic disparities, and when job creationis not picking upin the private sector they represent a possibility ofempowerment for millions.Crammed inm general compartments of trains and in overcrowded buses, they reach the exam centres armed only with their aspiration - between 2014 and 2022, for instance, only 0.33 percentoftheapplicants got govemment jobs. The voices of the students in Bihar, and other states, must be heard and heeded Ina country of the young one that is on the move, much isat stake.",
+   "n_words": 420,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      3541,
+      3958,
+      3652
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2272,
+      3717,
+      3674,
+      3777
+     ]
+    ],
+    "body_boxes": [
+     [
+      2321,
+      4410,
+      2832,
+      5257
+     ],
+     [
+      2920,
+      3947,
+      3529,
+      5250
+     ],
+     [
+      3572,
+      3949,
+      4182,
+      5088
+     ],
+     [
+      3590,
+      5138,
+      4178,
+      5255
+     ],
+     [
+      3572,
+      5535,
+      4178,
+      5652
+     ]
+    ],
+    "layout_words": 548
+   },
+   "headline_raw": "THE TRUTH OF HER FICTION",
+   "deck_raw": "Bapsi Sidhwa made us see the world as it is and as it could be",
+   "body_raw": "Sidhwas writing not only\nshaped my understanding of\nthe world but also inspired\nme to give voice to the stories\naround me. I remember\nbrowsing the stacks at a\nsecond-hand book store in\nKarachi as a teenager, and\namongst the rows of English\nlanguage books by Western\nauthors, coming across her\nname. It was a surprise to\nfind a novel with characters\nlike myself, with familiar\nsettings and customs. In a\nway it made me feel that my\nstory mattered.\n\nIn a way it made me feel that my story mat-\ntered \u2014 it gave me permission to transition\nfroma passive reader to an active writer.\nReading Ice-Candy-Man (1988), a novel\nthat explores the devastation caused by the\nPartition, | realised how fiction can human-\nise history. The story, narrated through the\neyesof ayoung girl, showed the human cost\nof Partition, beyond its politicisation through\nnationalistic lenses. Sidhwa mined herown\nlife to tell a personal story of families tom\napart, personal betrayals, and the anguishof\nmigration. Though many Urdu and Punjabi\nwriters had written on this subject, it was\nthrough thisbook that I first understood the\ntrue scope of Partition's trauma. It was this\nhumanism that madeher writingstand out.\nInher own words, \u201cManyhistorians have ar-\nrived at the truth. Butoften their narrationis\nimbued with their own prejudice and can\nslant history tosuit thar or iheirownor their\ncountry's agenda. History inthe handsof fic-\ntion waiters like Tolstoyis often more authen-\ntic and vivid than history books.\u201d\nThe Bride( 1983) remains anothercorner-\nstone in Sidhwa's exploration of women\u2019s\nlives within restrictive cultural and patriar-\nchal systems. The novel takes readers into\nthe heart of a young woman's forced mar-\nriage and her struggle to maintain her dig-\nnity and sense of self in the face of isolation\nand abuse. Unlike other novels with such\nthemes, Sidhwa also imbued her characters\n\nwith adeep, quiet strength \u2014 something\nI began to understand more profoundly as\nI grew older\nSidhwa brought her compassion and wit\nto herevocation of community lives as well.\nThrough the satirical and heartwarming The\nCrow Eaters (1978), she portrayed the Parsis\nNot just as a community but as arich and in-\ntegral part of the cukural fabric of South Asia.\nAnAmericanBrat (1993)explored the experi-\nence ofa young Pakistani gidl living in the US,\ncaught between the cukural expectations of\nher family and the alienating freedoms ofthe\nWest Sidhwa's ability to portray the struggles\nofdiaspara communities \u2014 of finding asense\nof belonging when you straddle multiple\nidentities \u2014 remains a key influence on my\nown wniting joumey as a global citizen.\nSidhwa's influence is felt not only in the\nSouth Asian literary community but across\nthe globe. Her stories continue to remind us\nof the power of literature t& connect, to heal,\nand to provoke. As she once said in an inter-\nview, \u201cThe role of a novelist, and byextension\nthe novel, is to reveal the culture and complex-\nities of asociety ina manner that isengaging\nand entertaining\u201d. Sidhwa did exactly that \u2014\nshe made us see the world not only asitis but\nasit could be.\n\nJaveriis a wniter, translator and essayist from\nPakistan She teaches writing at New York\nUniversity, Abu Dhabi\n\nproductivity as well as making ranid advances\ntowards greater social justice. The measures\nareboth for short-term and long-term.",
+   "ocr_conf": 88.9872495446266,
+   "ocr_low_conf_share": 0.0546448087431694,
+   "headline": "THE TRUTH OF HER FICTION",
+   "deck": "Bapsi Sidhwa made us see the world as it is and as it could be",
+   "byline": "",
+   "text": "Sidhwas writing not only shaped my understanding of the world but also inspired me to give voice to the stories around me. I remember browsing the stacks at a second-hand book store in Karachi as a teenager, and amongst the rows of English language books by Western authors, coming across her name. It was a surprise to find a novel with characters like myself, with familiar settings and customs. In a way it made me feel that my story mattered.\n\nIn a way it made me feel that my story mattered - it gave me permission to transition froma passive reader to an active writer. Reading Ice-Candy-Man (1988), a novel that explores the devastation caused by the Partition, realised how fiction can humanise history. The story, narrated through the eyesof ayoung girl, showed the human cost of Partition, beyond its politicisation through nationalistic lenses. Sidhwa mined herown life to tell a personal story of families tom apart, personal betrayals, and the anguishof migration. Though many Urdu and Punjabi writers had written on this subject, it was through thisbook that I first understood the true scope of Partition's trauma. It was this humanism that madeher writingstand out. Inher own words, \"Manyhistorians have arrived at the truth. Butoften their narrationis imbued with their own prejudice and can slant history tosuit thar or iheirownor their country's agenda. History inthe handsof fiction waiters like Tolstoyis often more authentic and vivid than history books.\" The Bride( 1983) remains anothercornerstone in Sidhwa's exploration of women's lives within restrictive cultural and patriarchal systems. The novel takes readers into the heart of a young woman's forced marriage and her struggle to maintain her dignity and sense of self in the face of isolation and abuse. Unlike other novels with such themes, Sidhwa also imbued her characters\n\nwith adeep, quiet strength - something I began to understand more profoundly as I grew older Sidhwa brought her compassion and wit to herevocation of community lives as well. Through the satirical and heartwarming The Crow Eaters (1978), she portrayed the Parsis Not just as a community but as arich and integral part of the cukural fabric of South Asia. AnAmericanBrat (1993)explored the experience ofa young Pakistani gidl living in the US, caught between the cukural expectations of her family and the alienating freedoms ofthe West Sidhwa's ability to portray the struggles ofdiaspara communities - of finding asense of belonging when you straddle multiple identities - remains a key influence on my own wniting joumey as a global citizen. Sidhwa's influence is felt not only in the South Asian literary community but across the globe. Her stories continue to remind us of the power of literature t& connect, to heal, and to provoke. As she once said in an interview, \"The role of a novelist, and byextension the novel, is to reveal the culture and complexities of asociety ina manner that isengaging and entertaining\". Sidhwa did exactly that - she made us see the world not only asitis but asit could be.\n\nJaveriis a wniter, translator and essayist from Pakistan She teaches writing at New York University, Abu Dhabi\n\nproductivity as well as making ranid advances towards greater social justice. The measures areboth for short-term and long-term.",
+   "n_words": 535,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      608,
+      4861,
+      1248,
+      4946
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      524,
+      5163,
+      1529,
+      5192
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "D&D FOR ALL",
+   "deck_raw": "",
+   "body_raw": "diving flashhack sin thase who remember the 2017 tweet \u2014 \u201chow muchis",
+   "ocr_conf": 71.41666666666667,
+   "ocr_low_conf_share": 0.25,
+   "headline": "D&D FOR ALL",
+   "deck": "",
+   "byline": "",
+   "text": "diving flashhack sin thase who remember the 2017 tweet - \"how muchis",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      507,
+      4990,
+      1529,
+      5249
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5256,
+      1535,
+      6164
+     ]
+    ],
+    "layout_words": 270
+   },
+   "headline_raw": "Lesson from gaming history for critics ofthe\ngame\u2019s new updates: Inclusive can be fun\n\u2122\u201d OW MUCHIS Hasbro?\u201d wentthe X post byElon Musk on December 28, in-\ndiicing flashback sin those who remember the 2017 tweet \u2014 \u201chow muchis\nit?\u201d. The 2017 tweet had led to his purchase, in 2022, of the microblogging",
+   "deck_raw": "",
+   "body_raw": "\u2014_ A_ website formerty known as Twitter The X post was a response to outrage\namong fans of the table-top role-playing game, Dungeons and Dragons (D&D) that its pub-\nlisher, Wizards ofthe Coast (owned by Hasbro), has made too many \u201cwoke\u201d updates. These\ninclude replacing the term \u201crace\u201d with \u201cspecies\u201d to describe the beings in the D&D world,\nanda newrule thatletsplayersstopa game ifit\u2019s going in an uncomfortable direction.\nThe episode has broughton other flashbacks too, specifically about the 2014 \u201cGamergate\u201d\nharassment campaign where women gamers and developers were bullied, abused and\ndoxoed by those in the community who Rit that feminist values weie ruining games. Itwas\none of the worst chapters in gaming history, but a decade on, things have changed for the\nbetter \u2014 not only are there more women, non-binary and transgender gamers now, who\nwere among the worst attacked, gamesthemselves have become more diverse, going be-\nyond the traditionaishooter and war gaines. Several, including hestelling oneslike The Last\nof Us: Part il, which sold 10 million copies, have embedded values like empathy and friend-\nship without, as Gamer gate doomsayers had prophesied, cutting out the fun\nThe lesson, then, is this \u2014 not only for those foretelling the ruin of D&D, butall who rail\nagainst \u201cwokeism\u201d wrecking favourite film franchises, books and toys: Change is not al-\nwaysbad. DGD, with its vast cast of characters and thrilling adventures, isa greatbuilder of\nsolidarities, but many of its \u201ctraditional\u201d features, such as the fetishisation of female char-\nacters, can be alienating. And ifcommunityis one of the main attractionsof the game, what's\nthe ham in making it more inclusive and widening itsembrace?",
+   "ocr_conf": 84.8529411764706,
+   "ocr_low_conf_share": 0.10294117647058823,
+   "headline": "Lesson from gaming history for critics ofthe game's new updates: Inclusive can be fun \u2122\" OW MUCHIS Hasbro?\" wentthe X post byElon Musk on December 28, indiicing flashback sin those who remember the 2017 tweet - \"how muchis it?\". The 2017 tweet had led to his purchase, in 2022, of the microblogging",
+   "deck": "",
+   "byline": "",
+   "text": "- _ A_ website formerty known as Twitter The X post was a response to outrage among fans of the table-top role-playing game, Dungeons and Dragons (D&D) that its publisher, Wizards ofthe Coast (owned by Hasbro), has made too many \"woke\" updates. These include replacing the term \"race\" with \"species\" to describe the beings in the D&D world, anda newrule thatletsplayersstopa game ifit's going in an uncomfortable direction. The episode has broughton other flashbacks too, specifically about the 2014 \"Gamergate\" harassment campaign where women gamers and developers were bullied, abused and doxoed by those in the community who Rit that feminist values weie ruining games. Itwas one of the worst chapters in gaming history, but a decade on, things have changed for the better - not only are there more women, non-binary and transgender gamers now, who were among the worst attacked, gamesthemselves have become more diverse, going beyond the traditionaishooter and war gaines. Several, including hestelling oneslike The Last of Us: Part il, which sold 10 million copies, have embedded values like empathy and friendship without, as Gamer gate doomsayers had prophesied, cutting out the fun The lesson, then, is this - not only for those foretelling the ruin of D&D, butall who rail against \"wokeism\" wrecking favourite film franchises, books and toys: Change is not alwaysbad. DGD, with its vast cast of characters and thrilling adventures, isa greatbuilder of solidarities, but many of its \"traditional\" features, such as the fetishisation of female characters, can be alienating. And ifcommunityis one of the main attractionsof the game, what's the ham in making it more inclusive and widening itsembrace?",
+   "n_words": 268,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2267,
+      5403,
+      3511,
+      5493
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      5526,
+      2806,
+      5570
+     ],
+     [
+      3573,
+      5696,
+      4005,
+      5740
+     ],
+     [
+      2923,
+      5816,
+      3478,
+      5860
+     ]
+    ],
+    "body_boxes": [
+     [
+      2268,
+      5616,
+      2875,
+      5847
+     ],
+     [
+      2919,
+      5535,
+      3526,
+      5770
+     ],
+     [
+      2922,
+      5892,
+      3527,
+      6166
+     ],
+     [
+      3572,
+      5773,
+      4177,
+      6159
+     ]
+    ],
+    "layout_words": 186
+   },
+   "headline_raw": "JANUARY 3, 1985, FORTY YEARS AGO",
+   "deck_raw": "ASSEMBLY DISSOLVED\nLACKLUSTRE IFFI\nMORE LIBERALISATION",
+   "body_raw": "THE KARNATAKA ASSEMBLY was dissolved\nonJanuary 2 by the Govemor, AN Banerji on\nthe advice of Chief Minister Ramakrishna\nHegde whohad also tendered his resionarion.\nThe Congress (1), the main opposition partyin\nthestate assembly, was against forming anal-\n\ningto the homecommissioner N K Agrawal.\nThree police riflesand alarge numberoflive\nCartridges were recovered from the extrem-\nists Some police uniforms were also recov-\nered from them. Agrawal said the arms were\nlooted from Home Guard jawans in August.\n\nFURTHER UBERALISATION OF industrial and\nimport policies toachieve modemisation and\nhigher productivity is being considered.\nMembers of the Prime Minister's Economic\nAdvisory Council have been asked to suggest\nmeasures & givea new direction totheecon-\nomy particularly aimed at realising higher\n\nFOR BETTER OR for worse, movie madness or\nat least the cinema-going habit is definitely\non the wane with the pervasive video inva-\nsion. Even the craziest of film festival fans\nseem to have tumedon acold front at atime\nwhenthecityis awaiting a long spellof cellu-\nloid extravaganza in the shape of the\nIntemational Film Festival. So far, alittle over\n10 tickets have been sold forforeignretrospec-\ntives at Mavalankar Auditorium.",
+   "ocr_conf": 85.60215053763442,
+   "ocr_low_conf_share": 0.0967741935483871,
+   "headline": "JANUARY 3, 1985, FORTY YEARS AGO",
+   "deck": "ASSEMBLY DISSOLVED LACKLUSTRE IFFI MORE LIBERALISATION",
+   "byline": "",
+   "text": "THE KARNATAKA ASSEMBLY was dissolved onJanuary 2 by the Govemor, AN Banerji on the advice of Chief Minister Ramakrishna Hegde whohad also tendered his resionarion. The Congress (1), the main opposition partyin thestate assembly, was against forming analingto the homecommissioner N K Agrawal. Three police riflesand alarge numberoflive Cartridges were recovered from the extremists Some police uniforms were also recovered from them. Agrawal said the arms were looted from Home Guard jawans in August.\n\nFURTHER UBERALISATION OF industrial and import policies toachieve modemisation and higher productivity is being considered. Members of the Prime Minister's Economic Advisory Council have been asked to suggest measures & givea new direction totheeconomy particularly aimed at realising higher\n\nFOR BETTER OR for worse, movie madness or at least the cinema-going habit is definitely on the wane with the pervasive video invasion. Even the craziest of film festival fans seem to have tumedon acold front at atime whenthecityis awaiting a long spellof celluloid extravaganza in the shape of the Intemational Film Festival. So far, alittle over 10 tickets have been sold forforeignretrospectives at Mavalankar Auditorium.",
+   "n_words": 179,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      5833,
+      2875,
+      5891
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      5973,
+      2874,
+      6018
+     ]
+    ],
+    "body_boxes": [
+     [
+      2273,
+      5891,
+      2673,
+      5919
+     ],
+     [
+      2272,
+      6051,
+      2874,
+      6165
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "Ee EO BLT, Be St roe\ntemative govemment preferring imposition",
+   "deck_raw": "10 KILLED IN ENCOUNTER",
+   "body_raw": "of President srule inthe state.\n\nTEN ALLEGED EXTREMISTS and two police-\nmen were killed in a 30-hour encounter in\nKethih village of Aurangabad district, accord-",
+   "ocr_conf": 92.12,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Ee EO BLT, Be St roe temative govemment preferring imposition",
+   "deck": "10 KILLED IN ENCOUNTER",
+   "byline": "",
+   "text": "of President srule inthe state.\n\nTEN ALLEGED EXTREMISTS and two policemen were killed in a 30-hour encounter in Kethih village of Aurangabad district, accord-",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 24.0,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

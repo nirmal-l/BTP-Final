@@ -1,0 +1,770 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_19_front",
+ "source_file": "2025-12-19_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-19_front.png",
+ "date": "2025-12-19",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 476,
+  "mean_line_conf": 89.46549704380588,
+  "orphan_words": 159,
+  "body_words_total": 1857
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4180,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 92.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      357,
+      936,
+      730,
+      1096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      1150,
+      762,
+      1376
+     ]
+    ],
+    "layout_words": 28
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@THE FIFTH AND FINALT20\nInternational between india\nand South Africabegins at\n7pm in Ahmedabad. Will India\nseal the series or will the visitors\nensure the honours are shared?",
+   "ocr_conf": 84.89285714285714,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "@THE FIFTH AND FINALT20",
+   "text": "International between india and South Africabegins at 7pm in Ahmedabad. Will India seal the series or will the visitors ensure the honours are shared?",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      1006,
+      3189,
+      1374
+     ]
+    ],
+    "deck_boxes": [
+     [
+      325,
+      1580,
+      761,
+      1623
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      2163,
+      760,
+      2371
+     ],
+     [
+      810,
+      1389,
+      1246,
+      1722
+     ],
+     [
+      809,
+      1783,
+      1168,
+      1897
+     ],
+     [
+      809,
+      1947,
+      1251,
+      2371
+     ],
+     [
+      1298,
+      2225,
+      1740,
+      2372
+     ],
+     [
+      1786,
+      2225,
+      2229,
+      2379
+     ],
+     [
+      2275,
+      1669,
+      2716,
+      2140
+     ],
+     [
+      2275,
+      2226,
+      2716,
+      2380
+     ],
+     [
+      2878,
+      3686,
+      3014,
+      3727
+     ]
+    ],
+    "layout_words": 185
+   },
+   "headline_raw": "Looking to expand market access,\nIndia inks free trade pact with Oman",
+   "deck_raw": "PARLIAMENT pace3",
+   "body_raw": "NATION PAGE4\nSCCOLLEGIUM\nRECOMMENDS\nCJs TOSIX HCs\n\nLabour-intensive\nsectors to gain\nfrom zero-duty\naccess on 98% of\nOman\u2019s tarifflines\n\nRavi Dutta Mishra\n& Shubhajit Roy\nNew Dethi, December 18\n\nINDIA THURSDAY signed a\nfree trade agreement (FTA)\nwith Oman, the second trade\ndeal with a Gulf Cooperation\nCouncil (GCC) country after the\nUAE, in an effort to expand\nmarket access for its exporters\nin the West Asian market at a\ntime when steep tariffs in the\nUS market are hurting trade\nand investments.\n\nPrime Minister Narendra\nModi, who met Oman Sultan\nHaitham bin Tarik in Muscat,\ntold the India-Oman Business\n\nForum: \u201cToday we are taking a\nhistoric decision, the echoes of\nwhich will be heard for many\ndecades tocome.The Compre-\n\nWith Oman offering zero-\nduty access on 98% ofits tar-\nifflines, the pact islikely to\nimprove competitiveness for\nIndian industrial exports.\nThisisIndia\u2019ssecond pact\nwitha GulfCooperation\nCouncil member. It entered\nintoa CEPA with theUAEin\n2022. Other members of the\nGCC are Bahrain, Kuwait,\nQatarand Saudi Arabia.\n\nhensive Economic Partnership\nAgreement, or CEPA, will in-\nfuse our partnership with new\nconfidence and energy in the\n\n\u2018KNOWLEDGES\nRealty TRUST",
+   "ocr_conf": 89.68279569892474,
+   "ocr_low_conf_share": 0.05913978494623656,
+   "headline": "Looking to expand market access, India inks free trade pact with Oman",
+   "deck": "PARLIAMENT pace3",
+   "byline": "NATION PAGE4; SCCOLLEGIUM; RECOMMENDS",
+   "text": "CJs TOSIX HCs\n\nLabour-intensive sectors to gain from zero-duty access on 98% of Oman's tarifflines\n\nRavi Dutta Mishra & Shubhajit Roy New Dethi, December 18\n\nINDIA THURSDAY signed a free trade agreement (FTA) with Oman, the second trade deal with a Gulf Cooperation Council (GCC) country after the UAE, in an effort to expand market access for its exporters in the West Asian market at a time when steep tariffs in the US market are hurting trade and investments.\n\nPrime Minister Narendra Modi, who met Oman Sultan Haitham bin Tarik in Muscat, told the India-Oman Business\n\nForum: \"Today we are taking a historic decision, the echoes of which will be heard for many decades tocome.The Compre-\n\nWith Oman offering zero-duty access on 98% ofits tarifflines, the pact islikely to improve competitiveness for Indian industrial exports. ThisisIndia'ssecond pact witha GulfCooperation Council member. It entered intoa CEPA with theUAEin 2022. Other members of the GCC are Bahrain, Kuwait, Qatarand Saudi Arabia.\n\nhensive Economic Partnership Agreement, or CEPA, will infuse our partnership with new confidence and energy in the\n\n'KNOWLEDGES Realty TRUST",
+   "n_words": 179,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1011,
+      4173,
+      1473
+     ],
+     [
+      3252,
+      1575,
+      4178,
+      1706
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      939,
+      3967,
+      983
+     ],
+     [
+      3250,
+      1744,
+      3586,
+      1837
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      1869,
+      3692,
+      2300
+     ],
+     [
+      3250,
+      2307,
+      3692,
+      3136
+     ],
+     [
+      3293,
+      3282,
+      3645,
+      3377
+     ],
+     [
+      3436,
+      3485,
+      3651,
+      3617
+     ],
+     [
+      3739,
+      1749,
+      4183,
+      3130
+     ]
+    ],
+    "layout_words": 330
+   },
+   "headline_raw": "\u2018Live-in relations\nnot illegal, State\u2019s\nduty to protect\u2019: HC\nrelief for 12 women\nSays couple's unmarried status doesn\u2019t\ndeprive them of fundamental rights",
+   "deck_raw": "ORDERS POLICE PROTECTION\nBhupendra Pandey\nLucknow, December 18",
+   "body_raw": "THEALLAHABAD High Court\nhasobserved that a live-in rela-\ntionship cannot be called il-\nlegal, nor is living together\nwithout the sanctity of mar-\nriage an offence. It also said the\nState is duty-bound to protect\nevery citizen, and acouple\u2019sun-\nmarried statusdoes not deprive\nthem of their fundamental\nrights.\n\nHearing12petitions filed by\nwomen in live-in relationships\nwho sought protection as they\nfeared athreatto their lives, the\ncourt ordered the police chiefs\nof the districts concerned to\nprovide immediate protection\nif someone disturbs their\npeaceful living.\nWhile issuing the direction\non Wednesday, the single\nbench of Justice Vivek Kumar\nSingh observed, \u201cThe concept\nofalive-inrelationship may not\nbe acceptable to all, but it can-\nnot besaid that sucha relation-\nship is an illegal one or that liv-\ning together without the\nsanctity ofthe marriage consti-\ntutes an offence.\u201d\nThe petitioners claimed\n\nBusiness as Usual\nByEPUNNY\n\nThis wit get\nsorted out.\nMearuthile, who is\nbuilding that little\n\nthey approached police in the\ndistricts concerned, but no at-\ntention was paid tothem. Inall\nthe writ petitions \u2014 which the\ncourt clubbed \u2014 the petitioners\nprayed that the police be di-\nrected to provide protection\nfrom people, including family\nmembers, relatives or associ-\nates, from causing any harm.\nThe court stated, \u201cSince the\ncontroversy involved in all the\nwrit petitionsis similar, they are\nbeing decided by a common\njudgment.\u201d\nThe order referred to the ar-\ngument of the government\ncounsel, whostated, \u201cLive-in re-\nlationships cannot be accepted\nat the cost of our country\u2019s so-\ncial fabric. These parties are not\nbound by any law, and eitherof\nthe partnerscan walkout ofthe\nsaid relationship as and when\nthey like... Itis a contract... re-\nnewed every day by the parties\nandcan beterminated by either\nof the parties without the con-\nsent of the other party... There\nis no legal status of such a rela-\ntionship, the legal status of the\nchildren born out ofsuch arela-\ntionship would not be deter-\nmined, and it will createa lot of\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 91.12990936555892,
+   "ocr_low_conf_share": 0.045317220543806644,
+   "headline": "'Live-in relations not illegal, State's duty to protect': HC relief for 12 women Says couple's unmarried status doesn't deprive them of fundamental rights",
+   "deck": "ORDERS POLICE PROTECTION Bhupendra Pandey Lucknow, December 18",
+   "byline": "",
+   "text": "THEALLAHABAD High Court hasobserved that a live-in relationship cannot be called illegal, nor is living together without the sanctity of marriage an offence. It also said the State is duty-bound to protect every citizen, and acouple'sunmarried statusdoes not deprive them of their fundamental rights.\n\nHearing12petitions filed by women in live-in relationships who sought protection as they feared athreatto their lives, the court ordered the police chiefs of the districts concerned to provide immediate protection if someone disturbs their peaceful living. While issuing the direction on Wednesday, the single bench of Justice Vivek Kumar Singh observed, \"The concept ofalive-inrelationship may not be acceptable to all, but it cannot besaid that sucha relationship is an illegal one or that living together without the sanctity ofthe marriage constitutes an offence.\" The petitioners claimed\n\nBusiness as Usual ByEPUNNY\n\nThis wit get sorted out. Mearuthile, who is building that little\n\nthey approached police in the districts concerned, but no attention was paid tothem. Inall the writ petitions - which the court clubbed - the petitioners prayed that the police be directed to provide protection from people, including family members, relatives or associates, from causing any harm. The court stated, \"Since the controversy involved in all the writ petitionsis similar, they are being decided by a common judgment.\" The order referred to the argument of the government counsel, whostated, \"Live-in relationships cannot be accepted at the cost of our country's social fabric. These parties are not bound by any law, and eitherof the partnerscan walkout ofthe said relationship as and when they like... Itis a contract... renewed every day by the parties andcan beterminated by either of the parties without the consent of the other party... There is no legal status of such a relationship, the legal status of the children born out ofsuch arelationship would not be determined, and it will createa lot of",
+   "n_words": 309,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      1351,
+      3206,
+      2373
+     ]
+    ],
+    "layout_words": 120,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "21st century. This is the blue-\nprint for our shared future. It\nwill give new momentum to\nour trade, new confidenceto in-\nvestment, and open new doors\nofopportunity ineverysector.\u201d\n\u201cCEPA will createmany new\nopportunities for growth, inno-\nvation and employment for our\nyouth. Your role iscrucial in en-\nsuring that this agreement\nmoves from paper to perform-\nance. Becauseonly when policy\nand enterprise work together\ndoes a partnership create new\nhistory,\u201d he said.\nUnder the deal, Oman has\noffered zero-duty access on 98\nper cent ofits tariff lines that\ncould result in $2 billion worth\nof exports in the near term, ac-\ncording to official estimates,\nbenefitting gems and jewellery,\ntextiles, leather, footwear, sports\ngoods, plastics, furniture,\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 89.74166666666666,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "21st century. This is the blueprint for our shared future. It will give new momentum to our trade, new confidenceto investment, and open new doors ofopportunity ineverysector.\" \"CEPA will createmany new opportunities for growth, innovation and employment for our youth. Your role iscrucial in ensuring that this agreement moves from paper to performance. Becauseonly when policy and enterprise work together does a partnership create new history,\" he said. Under the deal, Oman has offered zero-duty access on 98 per cent ofits tariff lines that could result in $2 billion worth of exports in the near term, according to official estimates, benefitting gems and jewellery, textiles, leather, footwear, sports goods, plastics, furniture,",
+   "n_words": 111,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      2479,
+      1246,
+      2939
+     ],
+     [
+      327,
+      3004,
+      1153,
+      3136
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3176,
+      642,
+      3250
+     ],
+     [
+      320,
+      3301,
+      761,
+      3970
+     ],
+     [
+      808,
+      3180,
+      1252,
+      3963
+     ]
+    ],
+    "layout_words": 178
+   },
+   "headline_raw": "Hydel project row:\nJ&K Police warned\nof 29 workers with\n\u2018terror, criminal\u2019 link\nCOO accuses BJP MLA of causing\ndelays to the crucial Ratle plant",
+   "deck_raw": "",
+   "body_raw": "Arun Sharma\nJammu, December 18\n\nON NOVEMBER 1, the Jammu\nand Kashmir Police wrote to\nMegha Engineering and Infra-\nstructure Limited (MEIL) about\n29 people with alleged militant\nlinks or criminal backgrounds\nbeing engaged in the under-\nconstruction 850 MW Ratle\nHydro Electric Project in Kish-\ntwar\u2019s Drabshalla area.\nBJP Kishtwar MLA Shagun\nParihar, who has raised ques-\ntions about the workers hired\nfor the project, said this \u201cvindi-\ncated\u201d her allegations. The con-\ntroversy, which broke into the\nopen after MEIL Chief Operat-\n\ning Officer (COO) Harpal Singh\nwent publicaccusing Parihar of\ncausing delays to the project, is\nset to get a new twist with the\nsurfacing of the letter.\nIn the letter, addressed to\nGeneral Manager, MEIL, Kish-\ntwar Senior Superintendent of\nPolice Naresh Singh said that as\npart ofaroutine police verifica-\ntion of Kishiwar residents work-\ning for the project, the SHOs\nconcerned had submitted re-\nports, and 29 had been \u201cfound\ninvolved in subversive/anti-na-\ntional activities\u201d. \u201cBy engaging\nthese employees, security of\nPower Project gets compro-\nmised as these individuals are\n\u00bbCONTINUED ONPAGE 2",
+   "ocr_conf": 91.5505617977528,
+   "ocr_low_conf_share": 0.033707865168539325,
+   "headline": "Hydel project row: J&K Police warned of 29 workers with 'terror, criminal' link COO accuses BJP MLA of causing delays to the crucial Ratle plant",
+   "deck": "",
+   "byline": "ON NOVEMBER 1, the Jammu",
+   "text": "Arun Sharma Jammu, December 18\n\nand Kashmir Police wrote to Megha Engineering and Infrastructure Limited (MEIL) about 29 people with alleged militant links or criminal backgrounds being engaged in the under-construction 850 MW Ratle Hydro Electric Project in Kishtwar's Drabshalla area. BJP Kishtwar MLA Shagun Parihar, who has raised questions about the workers hired for the project, said this \"vindicated\" her allegations. The controversy, which broke into the open after MEIL Chief Operating Officer (COO) Harpal Singh went publicaccusing Parihar of causing delays to the project, is set to get a new twist with the surfacing of the letter. In the letter, addressed to General Manager, MEIL, Kishtwar Senior Superintendent of Police Naresh Singh said that as part ofaroutine police verification of Kishiwar residents working for the project, the SHOs concerned had submitted reports, and 29 had been \"found involved in subversive/anti-national activities\". \"By engaging these employees, security of Power Project gets compromised as these individuals are \u00bbCONTINUED ONPAGE 2",
+   "n_words": 160,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3739,
+      3248,
+      4177,
+      3713
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3736,
+      3736,
+      4096,
+      3810
+     ],
+     [
+      3737,
+      3860,
+      4179,
+      4333
+     ],
+     [
+      3735,
+      4338,
+      4179,
+      5082
+     ]
+    ],
+    "layout_words": 161
+   },
+   "headline_raw": "EUTHANASIA PLEA\nSupreme Court\ntomeet parents\nof comatose\nmanbefore\ntaking \u2018final call\u2019",
+   "deck_raw": "",
+   "body_raw": "AnanthakrishnanG\nNew Delhi, December 18\n\nNOTING THAT the secondary\nmedical board constituted by\nthe AIIMS director had given a\n\u201cvery sad\u201d report on Harish\nRana, a 32-year-old man who\nhas been in a vegetative state\nforalmost 13 years now, the Su-\npreme Court on Thursday said\nit would take a decision on his\nfather\u2019s plea to allow passive\neuthanasia after meeting the\nfamily.\n\nThe bench of Justices JB\nPardiwala and K V Viswana-\nthan asked Harish\u2019s parents to\nappear in court on January 13.\n\u201cWe have reached a stage\nwherein we will have to take a\nfinal call... It\u2019sa very sad report\nand it will be abig challenge for\nus also but we can\u2019t keep the\nboy like this for all time to\ncome,\u201d said Justice Pardiwala,\nseeking the \u201cthorough assis-\ntance\u201d of Additional Solicitor\nGeneral (ASG) Aishwarya\nBhati, and Rashmi Nandaku-\nmar, counsel for Harish\u2019s father,\nAshok Rana, who has filed a\nplea for permission to withdraw\n\u00bbCONTINUEDON PAGE2",
+   "ocr_conf": 89.9,
+   "ocr_low_conf_share": 0.05625,
+   "headline": "EUTHANASIA PLEA Supreme Court tomeet parents of comatose manbefore taking 'final call'",
+   "deck": "",
+   "byline": "",
+   "text": "AnanthakrishnanG New Delhi, December 18\n\nNOTING THAT the secondary medical board constituted by the AIIMS director had given a \"very sad\" report on Harish Rana, a 32-year-old man who has been in a vegetative state foralmost 13 years now, the Supreme Court on Thursday said it would take a decision on his father's plea to allow passive euthanasia after meeting the family.\n\nThe bench of Justices JB Pardiwala and K V Viswanathan asked Harish's parents to appear in court on January 13. \"We have reached a stage wherein we will have to take a final call... It'sa very sad report and it will be abig challenge for us also but we can't keep the boy like this for all time to come,\" said Justice Pardiwala, seeking the \"thorough assistance\" of Additional Solicitor General (ASG) Aishwarya Bhati, and Rashmi Nandakumar, counsel for Harish's father, Ashok Rana, who has filed a plea for permission to withdraw \u00bbCONTINUEDON PAGE2",
+   "n_words": 156,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      3817,
+      3131,
+      3931
+     ]
+    ],
+    "layout_words": 34,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Stand-up comedian Zakir Khan in conversation with Anant Goenka, Executive Director of The Indian\nExpress Group, and Devendra Pandey, Deputy Associate Editor, The indian Express, atthe Express\nAdda in Mumbai on Thursday. amit CHAKRAVARTY",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Stand-up comedian Zakir Khan in conversation with Anant Goenka, Executive Director of The Indian Express Group, and Devendra Pandey, Deputy Associate Editor, The indian Express, atthe Express Adda in Mumbai on Thursday. amit CHAKRAVARTY",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4093,
+      1726,
+      4308
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4374,
+      755,
+      4702
+     ],
+     [
+      317,
+      4768,
+      708,
+      4847
+     ],
+     [
+      317,
+      4894,
+      759,
+      5082
+     ],
+     [
+      807,
+      4814,
+      1247,
+      5086
+     ],
+     [
+      1294,
+      4336,
+      1737,
+      5079
+     ]
+    ],
+    "layout_words": 174
+   },
+   "headline_raw": "After 45-yr-old man\u2019s lynching in\nBihar, family struggles for answers",
+   "deck_raw": "",
+   "body_raw": "Sold clothes for\nnearly 20 years in\nthe area where\nhe was allegedly\nmistaken for thief\n\nHimanshu Harsh\nBihar Sharif, December 18\n\nFOR ALMOST 20 years,\nMohammad Athar Hussain\nhad been a regular sight in Na-\nwada and nearby areas, carting\nclothes such as blankets, cur-\n\ntains and children\u2019s wear and\nselling them door to door. A\nyear ago, the 45-year-old\nbought a second-hand bicycle\nto make the rounds and, with\nseveral basic household wants\nfinally met, the family thought\n\ntheir lives had turned a comer.\nOn the night of December 5,\nthose hopesmet an abruptend.\nHussain was caught by a group\nof villagers who allegedly mis-\ntook him forathiefand brutally\nassaulted. After struggling for\nlife for six days, he died early\nDecember 12 moming.\nWife Shabnam Parveen last\nsaw Hussain on November 28,\nwhen he left home, in Gagan\nDiwan village ofBihar Sharif dis-\ntrict, headed 45 km away to Na-\nwada. The family lived in Na-\nwada\u2019s Barui until recently, and\nHussain felt comfortable in\nthose areas, finding eager\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 88.82857142857142,
+   "ocr_low_conf_share": 0.06857142857142857,
+   "headline": "After 45-yr-old man's lynching in Bihar, family struggles for answers",
+   "deck": "",
+   "byline": "",
+   "text": "Sold clothes for nearly 20 years in the area where he was allegedly mistaken for thief\n\nHimanshu Harsh Bihar Sharif, December 18\n\nFOR ALMOST 20 years, Mohammad Athar Hussain had been a regular sight in Nawada and nearby areas, carting clothes such as blankets, curtains and children's wear and selling them door to door. A year ago, the 45-year-old bought a second-hand bicycle to make the rounds and, with several basic household wants finally met, the family thought\n\ntheir lives had turned a comer. On the night of December 5, those hopesmet an abruptend. Hussain was caught by a group of villagers who allegedly mistook him forathiefand brutally assaulted. After struggling for life for six days, he died early December 12 moming. Wife Shabnam Parveen last saw Hussain on November 28, when he left home, in Gagan Diwan village ofBihar Sharif district, headed 45 km away to Nawada. The family lived in Nawada's Barui until recently, and Hussain felt comfortable in those areas, finding eager",
+   "n_words": 165,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1797,
+      4113,
+      3678,
+      4326
+     ],
+     [
+      1784,
+      4408,
+      2632,
+      4540
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      4570,
+      2717,
+      4649
+     ],
+     [
+      1784,
+      4657,
+      2714,
+      5060
+     ],
+     [
+      1761,
+      5053,
+      2712,
+      5087
+     ],
+     [
+      2761,
+      4934,
+      3202,
+      5088
+     ],
+     [
+      3248,
+      4934,
+      3691,
+      5081
+     ]
+    ],
+    "layout_words": 110
+   },
+   "headline_raw": "As Delhi gasps for air, biggest Govt hospital\nrunning short of respiratory medicine stocks\nWith shelves of pharmacy at LNJP\nempty, patients told to buy outside",
+   "deck_raw": "",
+   "body_raw": "Ankita Upadhyay ernment is running short of\nNew Delhi, December 18 drugs to treat respiratory ill-\n\n7 nesses, say patients.\nIN THE middleofNorth India\u2019s At Lok Nayak Hospital,\nair pollution season, with out- wherecomplaints ofbreathing\npatient numbers th problems triggered\nhaving risen an esti- by air pollution\nmated 20% above @ : O spike every winter,\nthe baseline across (0), essential drugs in-\nhospitals in the na- wo cluding nebuliser\ntional capital, the DEATH solutions, cough\nlargest hospital run by breath | syrups, muttivita-\ndace @ha aw Tralhi wre, amnstenn awd nanranval\n\n| by the Delhi gov- es! mins, and several\n\ninhalers are notavailable, forc-\ning patients to buy them from\nprivate pharmacies.\nIn prescriptions that OPD\n\npatients at Lok Nayak showed\nThe Indian Express over two\ndaysthis week, pharmacy staff\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 84.85074626865672,
+   "ocr_low_conf_share": 0.1044776119402985,
+   "headline": "As Delhi gasps for air, biggest Govt hospital running short of respiratory medicine stocks With shelves of pharmacy at LNJP empty, patients told to buy outside",
+   "deck": "",
+   "byline": "",
+   "text": "Ankita Upadhyay ernment is running short of New Delhi, December 18 drugs to treat respiratory ill-\n\n7 nesses, say patients. IN THE middleofNorth India's At Lok Nayak Hospital, air pollution season, with out- wherecomplaints ofbreathing patient numbers th problems triggered having risen an esti- by air pollution mated 20% above @: O spike every winter, the baseline across (0), essential drugs inhospitals in the na- wo cluding nebuliser tional capital, the DEATH solutions, cough largest hospital run by breath syrups, muttivitadace @ha aw Tralhi wre, amnstenn awd nanranval\n\nby the Delhi gov- es! mins, and several\n\ninhalers are notavailable, forcing patients to buy them from private pharmacies. In prescriptions that OPD\n\npatients at Lok Nayak showed The Indian Express over two daysthis week, pharmacy staff",
+   "n_words": 125,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5255,
+      4075,
+      5429
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5197,
+      3595,
+      5237
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5406,
+      673,
+      5480
+     ],
+     [
+      806,
+      5410,
+      1248,
+      5684
+     ],
+     [
+      318,
+      5530,
+      759,
+      5677
+     ],
+     [
+      319,
+      5729,
+      1246,
+      5759
+     ],
+     [
+      3247,
+      5412,
+      3692,
+      6197
+     ],
+     [
+      3734,
+      5413,
+      4178,
+      6197
+     ]
+    ],
+    "layout_words": 239
+   },
+   "headline_raw": "No problem with Centre, except on statehood, but L-G interfering: Omar",
+   "deck_raw": "@ \u2018WE KEEP BEING TOLD THAT (STATEHOOD WILL HAPPEN) AT APPROPRIATE TIME, BUT NOBODY TELLS US HOW THEY WILL ASSESS WHAT THE APPROPRIATE TIME IS AND WHAT THE GOALPOST IS\u2019",
+   "body_raw": "DivyaA\nNew Delhi, December 18\n\ntory and Jammu-Kashmir in\nthe same sentence\u201d.\nReferring to Sinha, he said,\n\u201cInspite ofthe fact that hehason\nnumerous occasions publicly\nsaid that he is only responsible\nfor security, and law and order,\n\nJ&K CHIEF Minister Omar Ab-\ndullah has said that while the\nBJP-led NDA regime at the\nCentre was \u201csort of well dis-\n\nadministration,ex- J \"Et\" [the domain of the\n\nwards the government of\nJammu & Kashmir.\u201d\nWhile referring to the L-G,\nhowever, he pointed to how\nSinha waschairman ofthe J&K\nState Power Development Cor-\nporation (JKSPDC) and Chan-\ncellor of state universities,\nwhile chairing cultural acad-\nemies and convening meetings\nontourism,\n\u201cTam the Power Minister. It\n(JKSPDC) is a corporation that\nis part ofthe ministry buttheL-\nG is the chairman of that cor-\nporation, (which he) shouldn\u2019t\nbe... was chairman of that cor-\nporation when I was Chief Min-\nister (in the previous stint),\u201d Ab-\ndullah said.\n\n\u201cWe have two universities\n(Baba Ghulam Shah Badshah\nUniversity and Islamic Univer-\nsityofScience and Technology)\nand their statutes meant that\nthe Chief Minister was chancel-\nlor... After the elections, these\nuniversities should have been\ntransferred to the elected gov-\nernment. They haven't,\u201d hesaid.\n\u201cHe (Sinha) is chairman of\nthe cultural academy even\nthough the culture department\nis with the elected govern-\nment... lam the Tourism Min-\nister but he continues to hold\non even to tourism develop-\nment authorities.. Somebody\nwhosays heisonly responsible\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 89.39419087136929,
+   "ocr_low_conf_share": 0.06639004149377593,
+   "headline": "No problem with Centre, except on statehood, but L-G interfering: Omar",
+   "deck": "@ 'WE KEEP BEING TOLD THAT (STATEHOOD WILL HAPPEN) AT APPROPRIATE TIME, BUT NOBODY TELLS US HOW THEY WILL ASSESS WHAT THE APPROPRIATE TIME IS AND WHAT THE GOALPOST IS'",
+   "byline": "",
+   "text": "DivyaA New Delhi, December 18\n\ntory and Jammu-Kashmir in the same sentence\". Referring to Sinha, he said, \"Inspite ofthe fact that hehason numerous occasions publicly said that he is only responsible for security, and law and order,\n\nJ&K CHIEF Minister Omar Abdullah has said that while the BJP-led NDA regime at the Centre was \"sort of well disadministration,ex- J \"Et\" [the domain of the\n\nwards the government of Jammu & Kashmir.\" While referring to the L-G, however, he pointed to how Sinha waschairman ofthe J&K State Power Development Corporation (JKSPDC) and Chancellor of state universities, while chairing cultural academies and convening meetings ontourism, \"Tam the Power Minister. It (JKSPDC) is a corporation that is part ofthe ministry buttheL-G is the chairman of that corporation, (which he) shouldn't be... was chairman of that corporation when I was Chief Minister (in the previous stint),\" Abdullah said.\n\n\"We have two universities (Baba Ghulam Shah Badshah University and Islamic UniversityofScience and Technology) and their statutes meant that the Chief Minister was chancellor... After the elections, these universities should have been transferred to the elected government. They haven't,\" hesaid. \"He (Sinha) is chairman of the cultural academy even though the culture department is with the elected government... lam the Tourism Minister but he continues to hold on even to tourism development authorities.. Somebody whosays heisonly responsible",
+   "n_words": 221,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1297,
+      5410,
+      1734,
+      5456
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      5450,
+      1739,
+      6202
+     ]
+    ],
+    "layout_words": 92
+   },
+   "headline_raw": "finding fault with voting ma-\na i Fe a a nr",
+   "deck_raw": "",
+   "body_raw": "chines, which he was not in fa-\nvour of, and the functioning of\nthe Election Commission where,\nhe said, \u201cwe havea problem\u201d.\nThe National Conference\nleader also described as \u201cdeeply\ndistressing\u201d the incident last\nweek of Bihar Chief Minister\nNitish Kumar pulling the hijab\nfrom a student\u2019s face at a felici-\ntation function.\nAsked about the relation-\nship between his government\nand the Centre, Abdullah said,\n\u201cOther than a couple of major\nissues on which, obviously, we\nhaven\u2019t made asmuch progress\nas I would have liked, particu-\nlarly on the restoration of state-",
+   "ocr_conf": 87.61290322580645,
+   "ocr_low_conf_share": 0.10752688172043011,
+   "headline": "finding fault with voting maa i Fe a a nr",
+   "deck": "",
+   "byline": "",
+   "text": "chines, which he was not in favour of, and the functioning of the Election Commission where, he said, \"we havea problem\". The National Conference leader also described as \"deeply distressing\" the incident last week of Bihar Chief Minister Nitish Kumar pulling the hijab from a student's face at a felicitation function. Asked about the relationship between his government and the Centre, Abdullah said, \"Other than a couple of major issues on which, obviously, we haven't made asmuch progress as I would have liked, particularly on the restoration of state-",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2821,
+      5456,
+      3148,
+      5551
+     ],
+     [
+      2777,
+      5673,
+      3191,
+      5830
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2820,
+      5563,
+      3148,
+      5644
+     ],
+     [
+      2881,
+      5865,
+      3086,
+      5941
+     ],
+     [
+      2759,
+      6049,
+      3201,
+      6239
+     ]
+    ],
+    "layout_words": 28
+   },
+   "headline_raw": "Ratico\nAapA",
+   "deck_raw": "",
+   "body_raw": "SPIRIT OF EXCELLENCE\npresents\n\nHospitality Partner\nMERIDIEN\n\nhood and pending that our\nbusinessrules being approved,\nthe Government of India has\nbeen sort of well disposed to-\nJaipur",
+   "ocr_conf": 93.33333333333333,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "Ratico AapA",
+   "deck": "",
+   "byline": "SPIRIT OF EXCELLENCE",
+   "text": "presents\n\nHospitality Partner MERIDIEN\n\nhood and pending that our businessrules being approved, the Government of India has been sort of well disposed to-Jaipur",
+   "n_words": 23,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5689,
+      614,
+      5802
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5807,
+      762,
+      6201
+     ]
+    ],
+    "layout_words": 45
+   },
+   "headline_raw": "posed\u201d towards his\nadministration, ex-\ncept on the issue of",
+   "deck_raw": "",
+   "body_raw": "statehood, thesame ~\ndid not hold true for its appoin-\ntee Lieutenant Governor Manoj\nSinha who was \u201cessentially in-\nterfering\u201d in the functioning of\nan \u201celected government\u201d.\nSpeaking at the Express\nAdda Wednesday, Abdullah\nalso spoke about his unease in\nusing \u201cthe words Union Terri-",
+   "ocr_conf": 93.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "posed\" towards his administration, except on the issue of",
+   "deck": "",
+   "byline": "",
+   "text": "statehood, thesame ~ did not hold true for its appointee Lieutenant Governor Manoj Sinha who was \"essentially interfering\" in the functioning of an \"elected government\". Speaking at the Express Adda Wednesday, Abdullah also spoke about his unease in using \"the words Union Terri-",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      955,
+      5689,
+      1247,
+      5802
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      805,
+      5808,
+      1247,
+      6202
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "and everything elseis\nthe domain of the\nelected government,",
+   "deck_raw": "",
+   "body_raw": "\u201cthat has not been\ntranslated on the ground. Ican\nname institutions that should\nordinarily have transferred to\nthe elected government that\nhaven't so far,\u201d he said.\nResponding to questions on\na range of other issues as well,\nAbdullah sought to makea dis-\ntinction between the Opposition",
+   "ocr_conf": 91.82608695652173,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "and everything elseis the domain of the elected government,",
+   "deck": "",
+   "byline": "",
+   "text": "\"that has not been translated on the ground. Ican name institutions that should ordinarily have transferred to the elected government that haven't so far,\" he said. Responding to questions on a range of other issues as well, Abdullah sought to makea distinction between the Opposition",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 18.5,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

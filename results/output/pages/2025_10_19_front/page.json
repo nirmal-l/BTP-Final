@@ -1,0 +1,698 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_19_front",
+ "source_file": "2025-10-19_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-19_front.png",
+ "date": "2025-10-19",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 276,
+  "mean_line_conf": 88.30787314596458,
+  "orphan_words": 65,
+  "body_words_total": 991
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3859,
+      73,
+      4072,
+      186
+     ],
+     [
+      3742,
+      303,
+      4184,
+      468
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3773,
+      236,
+      4162,
+      275
+     ]
+    ],
+    "body_boxes": [
+     [
+      3748,
+      491,
+      4179,
+      615
+     ]
+    ],
+    "layout_words": 15
+   },
+   "headline_raw": "eve\nA Lamp for\nEvery Story",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "There is no one narrative\nbut a collection of diverse\nstories that lights up Diwali",
+   "ocr_conf": 87.33333333333333,
+   "ocr_low_conf_share": 0.13333333333333333,
+   "headline": "eve A Lamp for Every Story",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "There is no one narrative but a collection of diverse stories that lights up Diwali",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2767,
+      2026,
+      4172,
+      2122
+     ],
+     [
+      2765,
+      2174,
+      4126,
+      2304
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2978,
+      3115,
+      3047
+     ],
+     [
+      2762,
+      3096,
+      3206,
+      3678
+     ],
+     [
+      2930,
+      3946,
+      3237,
+      3987
+     ]
+    ],
+    "layout_words": 81
+   },
+   "headline_raw": "Hiay HUW HIUbDr . UUVE\n54 items being closely monitored, says Sitharaman, \u2018not\nin one has tax benefit not been passed on\u2019 to consumers",
+   "deck_raw": "",
+   "body_raw": "AANCHAL MAGAZINE\nNEW DELHI, OCTOBER 18\n\nASHARPjump in sales, especially\nof electronics and consumer\ngoods; reduced prices for key\ndaily-use items; all adding up to\na significant push to consump-\ntion which may even reflect in\nthe GDP numbers for financial\nyear 2025-26 \u2014these were some\nof the key gains, highlighted by\nthe government Saturday, attrib-\nuted to GST2.0 reforms rolled out\nSeptember 22.\nAt a joint conference named\n\u201cGST Bachat Utsav,\u201d held by\nFinance Minister Nirmala\n\n",
+   "ocr_conf": 90.35064935064935,
+   "ocr_low_conf_share": 0.05194805194805195,
+   "headline": "Hiay HUW HIUbDr. UUVE 54 items being closely monitored, says Sitharaman, 'not in one has tax benefit not been passed on' to consumers",
+   "deck": "",
+   "byline": "AANCHAL MAGAZINE; NEW DELHI, OCTOBER 18",
+   "text": "ASHARPjump in sales, especially of electronics and consumer goods; reduced prices for key daily-use items; all adding up to a significant push to consumption which may even reflect in the GDP numbers for financial year 2025-26 - these were some of the key gains, highlighted by the government Saturday, attributed to GST2.0 reforms rolled out September 22. At a joint conference named \"GST Bachat Utsav,\" held by Finance Minister Nirmala",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      2092,
+      2697,
+      2237
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2516,
+      2383,
+      2703,
+      2570
+     ],
+     [
+      2275,
+      2660,
+      2626,
+      2730
+     ],
+     [
+      2274,
+      2781,
+      2718,
+      4034
+     ]
+    ],
+    "layout_words": 169
+   },
+   "headline_raw": "\u2018Response will\nbe catastrophic\u2019",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER 18\n\nCAUTIONING INDIA against any\n\u201cfresh wave of hostilities\u201d while\nunderlining that there was \u201cno\nspace for warina nuclearised en-\nvironment\u2019, Pakistan Army chief\nField Marshal Asim Munir said\nSaturday that his country would\n\u201crespond much beyond the ex-\npectations of the initiators\u201d.\nAddressing cadets at the\nPakistan Military Academy\n(PMA) in Kakul in Abbottabad,\nMunir asked India to settle core\nissues and said, \u201cWe will never\nbe intimidated nor coerced by\nyour rhetoric and shall respond\ndecisively, beyond proportions,\nto even a minor provocation\nwithout any qualms. The onus of\nensuing escalations, one that\nmay ultimately bear cata-\nstrophic consequences for the\nentire region and beyond, will\nsquarely lie with India.\u201d\nThis is the second time in two\nmonths that Munir has issued a\nnuclear threat to India. In August,\ninanaddress to the Pakistani di-\nasporain Florida's Tampa, Munir\nwas quoted saying \u201cWe are a nu-\nclear nation. If we think we are\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.84023668639053,
+   "ocr_low_conf_share": 0.011834319526627219,
+   "headline": "'Response will be catastrophic'",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER 18",
+   "text": "CAUTIONING INDIA against any \"fresh wave of hostilities\" while underlining that there was \"no space for warina nuclearised environment', Pakistan Army chief Field Marshal Asim Munir said Saturday that his country would \"respond much beyond the expectations of the initiators\". Addressing cadets at the Pakistan Military Academy (PMA) in Kakul in Abbottabad, Munir asked India to settle core issues and said, \"We will never be intimidated nor coerced by your rhetoric and shall respond decisively, beyond proportions, to even a minor provocation without any qualms. The onus of ensuing escalations, one that may ultimately bear catastrophic consequences for the entire region and beyond, will squarely lie with India.\" This is the second time in two months that Munir has issued a nuclear threat to India. In August, inanaddress to the Pakistani diasporain Florida's Tampa, Munir was quoted saying \"We are a nuclear nation. If we think we are CONTINUEDON PAGE 2",
+   "n_words": 151,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      2185,
+      1173,
+      2255
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BHUPENDRA PANDEY\nLUCKNOW, OCTOBER 18",
+   "ocr_conf": 56.6,
+   "ocr_low_conf_share": 0.4,
+   "headline": "",
+   "deck": "",
+   "byline": "BHUPENDRA PANDEY; LUCKNOW, OCTOBER 18",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      2305,
+      1253,
+      2767
+     ]
+    ],
+    "layout_words": 54,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "DESCRIBING OPERATION Sindoor\nas a \u201ctrailer\u201d, Defence Minister\nRajnath Singh sent Pakistan a\ntough message on Saturday, say-\ning every inch ofits territory was\nnow within the reach of the\nBrahMos missile.\nAddressing a gathering after\nhe and Uttar Pradesh Chief\nMinister Yogi Adityanath flagged\noff the first BrahMos batch\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.98148148148148,
+   "ocr_low_conf_share": 0.07407407407407407,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "DESCRIBING OPERATION Sindoor as a \"trailer\", Defence Minister Rajnath Singh sent Pakistan a tough message on Saturday, saying every inch ofits territory was now within the reach of the BrahMos missile. Addressing a gathering after he and Uttar Pradesh Chief Minister Yogi Adityanath flagged off the first BrahMos batch",
+   "n_words": 49,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      2539,
+      758,
+      2590
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      2589,
+      716,
+      2639
+     ]
+    ],
+    "body_boxes": [
+     [
+      323,
+      2651,
+      702,
+      2731
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "OTHERS OVER GRAFT",
+   "deck_raw": "CROWDS GATHER |",
+   "body_raw": "FOR \u2018NO KINGS\u2019\nRALLIES IN U.S. P10",
+   "ocr_conf": 90.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "OTHERS OVER GRAFT",
+   "deck": "CROWDS GATHER",
+   "byline": "FOR 'NO KINGS'; RALLIES IN U.S. P10",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2841,
+      1255,
+      3160
+     ],
+     [
+      579,
+      3376,
+      1173,
+      3437
+     ],
+     [
+      578,
+      3492,
+      1026,
+      3554
+     ]
+    ],
+    "deck_boxes": [
+     [
+      363,
+      3192,
+      1206,
+      3377
+     ],
+     [
+      579,
+      3436,
+      1026,
+      3494
+     ]
+    ],
+    "body_boxes": [
+     [
+      364,
+      3458,
+      496,
+      3496
+     ],
+     [
+      429,
+      3577,
+      1205,
+      3607
+     ],
+     [
+      808,
+      3689,
+      1249,
+      4033
+     ],
+     [
+      321,
+      3727,
+      671,
+      3797
+     ],
+     [
+      320,
+      3846,
+      761,
+      4039
+     ],
+     [
+      377,
+      4157,
+      571,
+      4191
+     ],
+     [
+      472,
+      4303,
+      608,
+      4332
+     ],
+     [
+      361,
+      4637,
+      716,
+      4939
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "Azerbaijan and Turkey\nbacked Pak in Op Sindoor,\nsee dip in Indian tourists\n| may-AuG | 43957 | 99,267 | -55.7%\n| MAY-AUG | 90,383 |1,35,5071",
+   "deck_raw": "THE PLUMMETING NUMBERS\nCOUNTRY ===! PERIOD \u2014=t C025 #1 2024 = YoY chance!\n\u201cAZERBANAN | JAN-APR [87,093 |60,979 | 33%\n| JAN-APR | 83,306 | 84,522 |",
+   "body_raw": "_ TURKEY\n\nData from Azerbaijan Tourism Board, Turkey's Tourism Ministry\n\ncame out in Pakistan's support\nduring the conflict in May, fell\ndrastically, according to their lat-\nest available tourism statistics.\nBetween the two countries,\nthe drop in the number of visi-\ntors from India has been steeper\nfor Azerbaijan, which saw a 56\nCONTINUED ON PAGE 2\n\nSUKALP SHARMA\nNEW DELHI, OCTOBER 18\n\nIN THE weeks and months after\nOperation Sindoor and the hos-\ntilities that followed, Indian\ntourist traffic to Turkey and\nAzerbaijan, two countries which\n\nDECISION\n\nBIHAR\n\n@ Nitish unanimous NDA\nleader: JD(U) underlines\nafter Amit Shah remarks\n@ Age, education row\nadd to heat on BJP Dy\nCM Samrat Choudhary\nPAGE4",
+   "ocr_conf": 91.2280701754386,
+   "ocr_low_conf_share": 0.03508771929824561,
+   "headline": "Azerbaijan and Turkey backed Pak in Op Sindoor, see dip in Indian tourists",
+   "deck": "THE PLUMMETING NUMBERS COUNTRY ===! PERIOD - =t C025 #1 2024 = YoY chance! \"AZERBANAN JAN-APR [87,093 60,979 33%",
+   "byline": "_ TURKEY",
+   "text": "Data from Azerbaijan Tourism Board, Turkey's Tourism Ministry\n\ncame out in Pakistan's support during the conflict in May, fell drastically, according to their latest available tourism statistics. Between the two countries, the drop in the number of visitors from India has been steeper for Azerbaijan, which saw a 56\n\nSUKALP SHARMA NEW DELHI, OCTOBER 18\n\nIN THE weeks and months after Operation Sindoor and the hostilities that followed, Indian tourist traffic to Turkey and Azerbaijan, two countries which\n\nDECISION\n\nBIHAR\n\n@ Nitish unanimous NDA leader: JD(U) underlines after Amit Shah remarks @ Age, education row add to heat on BJP Dy CM Samrat Choudhary",
+   "n_words": 104,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      2841,
+      2220,
+      3139
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1299,
+      3161,
+      2165,
+      3216
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      3293,
+      1723,
+      3363
+     ],
+     [
+      1297,
+      3412,
+      1739,
+      4040
+     ],
+     [
+      1786,
+      3570,
+      2225,
+      3765
+     ]
+    ],
+    "layout_words": 101
+   },
+   "headline_raw": "Afghanistan pulls out of\ntri-series in Pakistan after\n3 players killed in attack",
+   "deck_raw": "Stand in solidarity with ACB, says BCCI",
+   "body_raw": "EXPRESS NEWS SERVICE\nCHENNAI, OCTOBER 18\n\nAFGHANISTAN CRICKET Board\n(ACB) has pulled out its team\nfrom participating ina tri-series\nin Pakistan next month, after\nthree local cricketers died ina\nPakistani military strike. Ina post\non X, the ACB said that following\nthe airstrikes, it decided not to\nsend its team to Lahore and\nRawalpindi for the T20 tri-series\nin November, which also in-\nvolved Sri Lanka.\nThe Pakistan Cricket Board is\nyet to respond to the issue, and\nit is unclear whether the series\nwill go ahead with just Pakistan\n\n(Clockwise\n= Y_ fiomieft\nO. Sibghatullah,\nOS Haroon and\na ae yl ~=KabeerAgha",
+   "ocr_conf": 86.93203883495146,
+   "ocr_low_conf_share": 0.10679611650485436,
+   "headline": "Afghanistan pulls out of tri-series in Pakistan after 3 players killed in attack",
+   "deck": "Stand in solidarity with ACB, says BCCI",
+   "byline": "EXPRESS NEWS SERVICE; CHENNAI, OCTOBER 18",
+   "text": "AFGHANISTAN CRICKET Board (ACB) has pulled out its team from participating ina tri-series in Pakistan next month, after three local cricketers died ina Pakistani military strike. Ina post on X, the ACB said that following the airstrikes, it decided not to send its team to Lahore and Rawalpindi for the T20 tri-series in November, which also involved Sri Lanka. The Pakistan Cricket Board is yet to respond to the issue, and it is unclear whether the series will go ahead with just Pakistan\n\n(Clockwise = Y_ fiomieft O. Sibghatullah, OS Haroon and",
+   "n_words": 92,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3307,
+      3145,
+      3966,
+      3190
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      3492,
+      3692,
+      3686
+     ],
+     [
+      3522,
+      3360,
+      4137,
+      3424
+     ],
+     [
+      3739,
+      3492,
+      4183,
+      3679
+     ]
+    ],
+    "layout_words": 52
+   },
+   "headline_raw": "Passengervebicles| 3,72,458| 3,21,840| 3,56,752",
+   "deck_raw": "",
+   "body_raw": "Sitharaman, Commerce and\nIndustry Minister Piyush Goyal,\nand Information & Broadcasting\nMinister Ashwini Vaishnaw, the\ngovernment's message was that\n\nSource: Society of Indian Automobile Manufacturers,\nTractor and Mechanization Association\n\nthe benefits of GST rate cuts are\nreaching the end-consumers\nand these cuts have resulted in\nconsumers increasing their\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.59615384615384,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Sitharaman, Commerce and Industry Minister Piyush Goyal, and Information & Broadcasting Minister Ashwini Vaishnaw, the government's message was that\n\nSource: Society of Indian Automobile Manufacturers, Tractor and Mechanization Association\n\nthe benefits of GST rate cuts are reaching the end-consumers and these cuts have resulted in consumers increasing their",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      3733,
+      2227,
+      3806
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      3847,
+      2227,
+      4034
+     ]
+    ],
+    "layout_words": 28
+   },
+   "headline_raw": "ws ry Raber Agha",
+   "deck_raw": "",
+   "body_raw": "and Sri Lanka or if a third team\nwill be invited. The neighbour-\ning countries have been engaged\nina conflict for nearly a week\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.28571428571429,
+   "ocr_low_conf_share": 0.17857142857142858,
+   "headline": "ws ry Raber Agha",
+   "deck": "",
+   "byline": "",
+   "text": "and Sri Lanka or if a third team will be invited. The neighbouring countries have been engaged ina conflict for nearly a week",
+   "n_words": 23,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3440,
+      3914,
+      3810,
+      3986
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "of India\nGood people to bank with",
+   "ocr_conf": 93.57142857142857,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "of India Good people to bank with",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      4105,
+      2696,
+      4290
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      4401,
+      1120,
+      4471
+     ],
+     [
+      807,
+      4519,
+      1253,
+      4989
+     ],
+     [
+      1783,
+      4794,
+      2224,
+      4989
+     ],
+     [
+      2273,
+      4361,
+      2716,
+      4983
+     ]
+    ],
+    "layout_words": 158
+   },
+   "headline_raw": "Lost in a warehouse blaze, Amar Chitra Katha\u2019s\nhand-drawn sketches from iconic Krishna edition",
+   "deck_raw": "",
+   "body_raw": "NAYONIKA BOSE\nMUMBAI, OCTOBER 18\n\nFORA generation introduced to\nIndian mythology through Amar\nChitra Katha (ACK) comics, it all\nstarted with the 11th edition,\nKrishna. In its pages, illustrated\nwith textured line work and dra-\nmatic composition, were vivid\nimages of the beloved child-God\n\u2014 the mud-eating toddler, the\ndiplomat, the warrior and the\nphilosopher.\nBut late on October 1, apart of\n\nAreprint of Amar Chitra\nKatha\u2019s iconic Krishna title.\nOriginals of over 200tities\nwere lost in fire at Bhiwandi,\nMaharashtra, on Oct 1. Express\n\nthat history and nostalgiawas lost\nforever when a major fire raged\nthrough ACK\u2019s main warehouse,\ndestroying the original positives\nof hand-drawn sketches of\naround 200 of the earliest ACK\ncomics, including Krishna.\nIt took firefighters four days\nto douse the fire. By then, lakhs\nof positives \u2014hand-drawn, line\nart on transparent film \u2014 of ACK\ncomics, including Krishna, Rama,\nThe Pandava Princes, Savitri,\nPrithviraj Chauhan and Shivaji\nMaharaj, were lost.\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.93037974683544,
+   "ocr_low_conf_share": 0.03164556962025317,
+   "headline": "Lost in a warehouse blaze, Amar Chitra Katha's hand-drawn sketches from iconic Krishna edition",
+   "deck": "",
+   "byline": "NAYONIKA BOSE; MUMBAI, OCTOBER 18",
+   "text": "FORA generation introduced to Indian mythology through Amar Chitra Katha (ACK) comics, it all started with the 11th edition, Krishna. In its pages, illustrated with textured line work and dramatic composition, were vivid images of the beloved child-God - the mud-eating toddler, the diplomat, the warrior and the philosopher. But late on October 1, apart of\n\nAreprint of Amar Chitra Katha's iconic Krishna title. Originals of over 200tities were lost in fire at Bhiwandi, Maharashtra, on Oct 1. Express\n\nthat history and nostalgiawas lost forever when a major fire raged through ACK's main warehouse, destroying the original positives of hand-drawn sketches of around 200 of the earliest ACK comics, including Krishna. It took firefighters four days to douse the fire. By then, lakhs of positives - hand-drawn, line art on transparent film - of ACK comics, including Krishna, Rama, The Pandava Princes, Savitri, Prithviraj Chauhan and Shivaji Maharaj, were lost. CONTINUEDON PAGE 2",
+   "n_words": 153,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5147,
+      2678,
+      5398
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5432,
+      499,
+      5507
+     ],
+     [
+      320,
+      5625,
+      744,
+      5697
+     ],
+     [
+      318,
+      5745,
+      760,
+      6135
+     ],
+     [
+      807,
+      5429,
+      1249,
+      5574
+     ],
+     [
+      806,
+      5586,
+      1248,
+      6129
+     ]
+    ],
+    "layout_words": 148
+   },
+   "headline_raw": "\u2018Age is just a number... if you are doing well, then\nit is in your hands for how long you want to play\u2019",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nEXPRESS NEWS SERVICE\nMUMBAI, OCTOBER 18\n\nACRICKETER should be judged\nby on-field performance and not\nby age, T20 captain Suryakumar\nYadav said atan Express Addaon\nFriday. His comments came\nahead of India\u2019s three-match ODI\nseries in Australia from October\n19, which features two former\ncaptains Rohit Sharma, who is 38\nyears old, and Virat Kohli, who is\n\n36. There is uncertainty whether\nthe two veterans will be selected\nfor the 50-over World Cup\nin 2027.\n\nWhen asked if there is extra\nscrutiny on players like Rohit and\nVirat because of their age,\nSuryakumar, who wasin conver-\nsation with Anant Goenka,\nExecutive Director of The Indian\nExpress Group, and Devendra\nPandey, deputy associate editor,\nsaid: \u201cAccording to me, age is just\nanumber If youare scoring runs\nand doing everything your team\nwants, then it is just a number.\nI was reading about James\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.07432432432432,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "'Age is just a number... if you are doing well, then it is in your hands for how long you want to play'",
+   "deck": "",
+   "byline": "ANCHOR; EXPRESS NEWS SERVICE; MUMBAI, OCTOBER 18",
+   "text": "ACRICKETER should be judged by on-field performance and not by age, T20 captain Suryakumar Yadav said atan Express Addaon Friday. His comments came ahead of India's three-match ODI series in Australia from October 19, which features two former captains Rohit Sharma, who is 38 years old, and Virat Kohli, who is\n\n36. There is uncertainty whether the two veterans will be selected for the 50-over World Cup\n\nWhen asked if there is extra scrutiny on players like Rohit and Virat because of their age, Suryakumar, who wasin conversation with Anant Goenka, Executive Director of The Indian Express Group, and Devendra Pandey, deputy associate editor, said: \"According to me, age is just anumber If youare scoring runs and doing everything your team wants, then it is just a number. I was reading about James",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2362,
+      5474,
+      2623,
+      5548
+     ],
+     [
+      2329,
+      5644,
+      2656,
+      5766
+     ],
+     [
+      2383,
+      5833,
+      2602,
+      5893
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2294,
+      6014,
+      2654,
+      6056
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "Ratlico\nAapA\nRallancedigttal",
+   "deck_raw": "",
+   "body_raw": "MEQ",
+   "ocr_conf": 25.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "Ratlico AapA Rallancedigttal",
+   "deck": "",
+   "byline": "MEQ",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 13.1,
+ "flags": []
+}

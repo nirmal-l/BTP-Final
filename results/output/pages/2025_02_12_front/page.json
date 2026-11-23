@@ -1,0 +1,725 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_12_front",
+ "source_file": "2025-02-12_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-12_front.png",
+ "date": "2025-02-12",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 3,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 284,
+  "mean_line_conf": 86.51306688051757,
+  "orphan_words": 0,
+  "body_words_total": 1023
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      366,
+      701,
+      723,
+      784
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "BUSINESS AS USUAL",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BUSINESS AS USUAL",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      697,
+      3679,
+      1031
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      1107,
+      3073,
+      1176
+     ],
+     [
+      2761,
+      1226,
+      3205,
+      1854
+     ],
+     [
+      3250,
+      1068,
+      3693,
+      1847
+     ]
+    ],
+    "layout_words": 177
+   },
+   "headline_raw": "Captain among two\nArmy personnel killed\nin IED blast along LoC",
+   "deck_raw": "",
+   "body_raw": "ARUNSHARMA\nJAMMU, FEBRUARY 11\n\nTWO ARMY personnel, includ-\ning a Captain, were killed and an-\nother injured in anIED explosion\nnear the Line of Control(LoQ)in\nAkhnoor sector of Jammu dis-\ntrict Tuesday.\nTheAmny personnel wereon\npatrolling duty along the barbed\nwire that marks the LoC when\nthey were hit by a powerful ex-\nplosion around 3.50 pm, sources\nsaid, adding that the IED ap-\npeared to have been planted by\nmilitants from across the border.\nWhile two of the injured per-\nsonnel later died of their injuries,\n\na third soldier was admitted to\nhospital where his condition was\nstated to be stable.\nConfirming the deaths, the\nArmy identified the two dead as\nCaptain Karanjit Singh Bakshi\nand Naik Mukesh.\nIna post on X, Udhampur-\nbased Northern Command said:\n\u201cLt Gen MV Suchindra Kumar\nand ali ranks of Dhruva Comm-\nand solemnly salute the supre-\nmesacrificeofbravehearts Capt\nKaramjit Singh Bakshi and Naik\nMukesh ina suspected IED blast\nin Akhnoor. Dhruva Command\nstands firm with the bereaved\nfamily in this hour of grief.\u201d\nNagrota-based White Knight\nCONTINUED ONPAGE 2",
+   "ocr_conf": 88.06214689265536,
+   "ocr_low_conf_share": 0.062146892655367235,
+   "headline": "Captain among two Army personnel killed in IED blast along LoC",
+   "deck": "",
+   "byline": "ARUNSHARMA; JAMMU, FEBRUARY 11",
+   "text": "TWO ARMY personnel, including a Captain, were killed and another injured in anIED explosion near the Line of Control(LoQ)in Akhnoor sector of Jammu district Tuesday. TheAmny personnel wereon patrolling duty along the barbed wire that marks the LoC when they were hit by a powerful explosion around 3.50 pm, sources said, adding that the IED appeared to have been planted by militants from across the border. While two of the injured personnel later died of their injuries,\n\na third soldier was admitted to hospital where his condition was stated to be stable. Confirming the deaths, the Army identified the two dead as Captain Karanjit Singh Bakshi and Naik Mukesh. Ina post on X, Udhampurbased Northern Command said: \"Lt Gen MV Suchindra Kumar and ali ranks of Dhruva Command solemnly salute the supremesacrificeofbravehearts Capt Karamjit Singh Bakshi and Naik Mukesh ina suspected IED blast in Akhnoor. Dhruva Command stands firm with the bereaved family in this hour of grief.\" Nagrota-based White Knight",
+   "n_words": 161,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3739,
+      695,
+      4159,
+      1018
+     ],
+     [
+      3739,
+      1042,
+      4164,
+      1152
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3739,
+      1186,
+      4118,
+      1255
+     ],
+     [
+      3739,
+      1305,
+      4182,
+      1572
+     ],
+     [
+      3738,
+      1583,
+      4184,
+      2008
+     ],
+     [
+      3739,
+      2020,
+      4184,
+      2401
+     ]
+    ],
+    "layout_words": 137
+   },
+   "headline_raw": "SC to poll\npanel: Don\u2019t\nerase EVM\ndata while it\u2019s\nbeing verified",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, FEBRUARY 11\n\nTHE SUPREME Court Tuesday\nasked the Election Commission\nof India (ECI) to ensure that\npolling data is not deleted from\nthe Electronic Voting Machines\n(EVMs) while these are being\nvenfied.\n\nThe bench of Chief Justice of\nIndia Sanjiv Khanna and Justice\nDipankar Datta said this while\nseeking the ECI's response toa\nplea by NGO Association for\nDemocratic Reforms (ADR)\nwhich alleged thatthe ECI's pro-\ncedure for verification of EVMs\nwas not in accordance with the\nApril 2024 order of the Supreme\nCourt.\n\nInitsApril 26, 2024 order, the\ntop court allowed candidates at\nNo.2 and No. 3 positions theop-\ntion to getthe bumt memory/mi-\ncrocontroller of 5 per cent of\nEVMs per Assembly segment\n\u201cchecked and verified by a team\nof engineers from EVM manufac-\nturers post the announcementof\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.51094890510949,
+   "ocr_low_conf_share": 0.043795620437956206,
+   "headline": "SC to poll panel: Don't erase EVM data while it's being verified",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, FEBRUARY 11",
+   "text": "THE SUPREME Court Tuesday asked the Election Commission of India (ECI) to ensure that polling data is not deleted from the Electronic Voting Machines (EVMs) while these are being venfied.\n\nThe bench of Chief Justice of India Sanjiv Khanna and Justice Dipankar Datta said this while seeking the ECI's response toa plea by NGO Association for Democratic Reforms (ADR) which alleged thatthe ECI's procedure for verification of EVMs was not in accordance with the April 2024 order of the Supreme Court.\n\nInitsApril 26, 2024 order, the top court allowed candidates at No.2 and No. 3 positions theoption to getthe bumt memory/microcontroller of 5 per cent of EVMs per Assembly segment \"checked and verified by a team of engineers from EVM manufacturers post the announcementof",
+   "n_words": 124,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      773,
+      2709,
+      1137
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      696,
+      2352,
+      746
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1131,
+      1246,
+      1475
+     ],
+     [
+      809,
+      1541,
+      1171,
+      1610
+     ],
+     [
+      805,
+      1660,
+      1250,
+      2202
+     ]
+    ],
+    "layout_words": 79
+   },
+   "headline_raw": "PM: Dawn of Al age, need aglobal\nframework for trust, transparency",
+   "deck_raw": "INDIA TO HOST NEXT AI SUMMIT LATER THIS YEAR",
+   "body_raw": "Modisays need\nopen-source\nsystems, data sets\nfree from biases,\nresource pools\n\nSHUBHAJIT ROY\nNEW DELHi, FEBRUARY 11\n\nSAYING THAT the worldis atthe\n\u201cdawn of the Al (Artificial\nIntelligence) age\u201d. Prime\nMinister Narendra Modi on\nTuesday called for collective ef-\nforts toestablish a global frame-\nwork for Al that upholds shared\nvalues, addresses risks, builds\ntrust and ensures access to all,\nespecially the Global South.\nCo-chairing the Al Action\nSummit with French President\nEmmanuel Macron in Paris,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.5125,
+   "ocr_low_conf_share": 0.0625,
+   "headline": "PM: Dawn of Al age, need aglobal framework for trust, transparency",
+   "deck": "INDIA TO HOST NEXT AI SUMMIT LATER THIS YEAR",
+   "byline": "SHUBHAJIT ROY; NEW DELHi, FEBRUARY 11",
+   "text": "Modisays need open-source systems, data sets free from biases, resource pools\n\nSAYING THAT the worldis atthe \"dawn of the Al (Artificial Intelligence) age\". Prime Minister Narendra Modi on Tuesday called for collective efforts toestablish a global framework for Al that upholds shared values, addresses risks, builds trust and ensures access to all, especially the Global South. Co-chairing the Al Action Summit with French President Emmanuel Macron in Paris,",
+   "n_words": 68,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      1132,
+      2711,
+      1469
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2274,
+      1542,
+      2680,
+      1611
+     ],
+     [
+      2274,
+      1661,
+      2718,
+      2203
+     ]
+    ],
+    "layout_words": 62
+   },
+   "headline_raw": "PM\u2019s message:\nOpen source,\nsustainability,\njob optimism",
+   "deck_raw": "",
+   "body_raw": "SOUMYARENDRA BARIK\nNEW DELHI. FEBRUARY 11\n\nbre WHILE HE called\nE E for global collab-\n= oration to har-\nbr} @! ness Artificial\nIntelligence (Al)\nfor economic growth, social\ntransformation and sustainable\ndevelopment, Prime Minister\nNarendra Modi on Tuesday em-\nphasised the need to build qual-\nity data sets that are \u201cfree from\nbiases\u201d and embrace open-\nsource models. He also carried a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.19402985074628,
+   "ocr_low_conf_share": 0.1044776119402985,
+   "headline": "PM's message: Open source, sustainability, job optimism",
+   "deck": "",
+   "byline": "SOUMYARENDRA BARIK; NEW DELHI. FEBRUARY 11",
+   "text": "bre WHILE HE called E E for global collab- = oration to harbr} @! ness Artificial Intelligence (Al) for economic growth, social transformation and sustainable development, Prime Minister Narendra Modi on Tuesday emphasised the need to build quality data sets that are \"free from biases\" and embrace open-source models. He also carried a",
+   "n_words": 53,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1447,
+      742,
+      1849
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      560,
+      1936,
+      755,
+      2123
+     ],
+     [
+      323,
+      2213,
+      681,
+      2282
+     ],
+     [
+      321,
+      2332,
+      761,
+      2763
+     ]
+    ],
+    "layout_words": 62
+   },
+   "headline_raw": "Lottery King\nMartin set up\n350 shell firms\nonly to hold\nproperties: ED",
+   "deck_raw": "",
+   "body_raw": "Martin's\nFuture\nGaming was\nlargest poll\nbond donor\n\nRITUSARIN\nNEW DELHI, FEBRUARY 11\n\nAFTERALMOST adecadesinceit\nregistered its first case in Kochi\nagainst lottery king Santiago\nMartin and his companies, the\nEnforcement Directorate hasas-\nsessed that the group has incor-\nporated more than 350 entities\nor \u201cshell\u201d companies where lit-\ntle or no business activities are\nbeing conducted, The indian\nExpress has learnt.",
+   "ocr_conf": 92.11290322580645,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Lottery King Martin set up 350 shell firms only to hold properties: ED",
+   "deck": "",
+   "byline": "RITUSARIN; NEW DELHI, FEBRUARY 11",
+   "text": "Martin's Future Gaming was largest poll bond donor\n\nAFTERALMOST adecadesinceit registered its first case in Kochi against lottery king Santiago Martin and his companies, the Enforcement Directorate hasassessed that the group has incorporated more than 350 entities or \"shell\" companies where little or no business activities are being conducted, The indian Express has learnt.",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      2032,
+      3612,
+      2190
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3258,
+      2140,
+      3386,
+      2193
+     ],
+     [
+      2798,
+      2203,
+      3185,
+      2324
+     ]
+    ],
+    "body_boxes": [
+     [
+      2803,
+      2335,
+      3161,
+      2366
+     ],
+     [
+      3204,
+      2215,
+      3632,
+      2367
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "Pom @ | SAMMARIPRASAD\nlee? | OF BHAR",
+   "deck_raw": "led\nRESHAPING THE\nREPUBLIC",
+   "body_raw": "CASE BY LAND MARK CASE\n\nIna new nation, when\nabolition of zamindari system\nwas challenged in Supreme\nCourt PAGE 4",
+   "ocr_conf": 90.85,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Pom @ SAMMARIPRASAD lee? OF BHAR",
+   "deck": "led RESHAPING THE REPUBLIC",
+   "byline": "CASE BY LAND MARK CASE",
+   "text": "Ina new nation, when abolition of zamindari system was challenged in Supreme Court PAGE 4",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2274,
+      1738,
+      2626
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      2619,
+      1118,
+      2677
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      2689,
+      1170,
+      2758
+     ],
+     [
+      807,
+      2807,
+      1249,
+      3153
+     ],
+     [
+      1538,
+      2648,
+      1738,
+      2835
+     ],
+     [
+      1297,
+      2926,
+      1739,
+      3153
+     ]
+    ],
+    "layout_words": 84
+   },
+   "headline_raw": "Delhi draws up a list of\nUS-based gangsters, may\nshare with Washington",
+   "deck_raw": "MAHENDER SINGH",
+   "body_raw": "MANRAL\nNEW DELHI, FEBRUARY 11\n\nFOLLOWING A directive from\nthe Ministry of Home Affairs,\nIndia's top security agencies\nhave collated a list of 12 gang-\nsters basedinthe US, The Indian\nExpress has leamt. Sources said\nthelist could be shared with rel-\nevantauthorities in Washington\non the sidelines of Prime\n\nAnmol\nBisnoiisone\nof the 12\ngangsterson\nthe list\n\nMinister Narendra Modi's visit to\nthe USthis week \u2014 hisfirst since\nDonald Trump's return to the\nOval Office.\nThe list includes notorious\nCON TINUED ON PAGE2",
+   "ocr_conf": 89.16867469879519,
+   "ocr_low_conf_share": 0.04819277108433735,
+   "headline": "Delhi draws up a list of US-based gangsters, may share with Washington",
+   "deck": "MAHENDER SINGH",
+   "byline": "MANRAL; NEW DELHI, FEBRUARY 11",
+   "text": "FOLLOWING A directive from the Ministry of Home Affairs, India's top security agencies have collated a list of 12 gang-sters basedinthe US, The Indian Express has leamt. Sources said thelist could be shared with relevantauthorities in Washington on the sidelines of Prime\n\nAnmol Bisnoiisone of the 12 gangsterson the list\n\nMinister Narendra Modi's visit to the USthis week - hisfirst since Donald Trump's return to the Oval Office. The list includes notorious CON TINUED ON PAGE2",
+   "n_words": 76,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1731,
+      2274,
+      2672,
+      2874
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      2926,
+      2715,
+      3154
+     ]
+    ],
+    "layout_words": 23
+   },
+   "headline_raw": "Trump pauses US law\n\u2019 against bribery, could\nprovide relief to Adanis\nGEORGEMATHEW : . Y T\nrump\n> MUMBAI. FEBRUARY 11 \\ ae signed the\n1 US PRESIDENT Donald Trump =] orderon",
+   "deck_raw": "",
+   "body_raw": "key executives of the Adani\nGroup currently facing bribery\nchargesina US court.\nSourcesinthe know said the\nexecutive order would provide\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.95833333333333,
+   "ocr_low_conf_share": 0.08333333333333333,
+   "headline": "Trump pauses US law ' against bribery, could provide relief to Adanis rump > MUMBAI. FEBRUARY 11 \\ ae signed the 1 US PRESIDENT Donald Trump =] orderon",
+   "deck": "",
+   "byline": "",
+   "text": "key executives of the Adani Group currently facing bribery chargesina US court. Sourcesinthe know said the executive order would provide",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2765,
+      2475,
+      4161,
+      2549
+     ],
+     [
+      2763,
+      2576,
+      4034,
+      2728
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2730,
+      3085,
+      2799
+     ],
+     [
+      2762,
+      2848,
+      3203,
+      3162
+     ],
+     [
+      3427,
+      2729,
+      3687,
+      2876
+     ],
+     [
+      3737,
+      2692,
+      4183,
+      3155
+     ]
+    ],
+    "layout_words": 108
+   },
+   "headline_raw": "Gukesh calm even at the crunch: Heart\nmonitors watch grandmasters fight\nFO - wager == (BPM). Caruana has 3",
+   "deck_raw": "",
+   "body_raw": "AMITKAMATH\nMUMBAI, FEBRUARY 11\n\nTHE TENSION of the end game\ntakes a grip as World Champion\nGukesh Dommaraju has under a\nminute lefton his clockin the cru-\nCial first game of his quarter-final\nagainst the World No 2, USA's\nFabiano Caruana, on Sunday.\nDespite the pressure exerted\n\nGukeshhad\nheartrate of\n78while\n\u20184 WorldNo2\n\n(BPM). Caruana has 35 seconds\nmore on his clock than Gukesh.\nDespite the position being equal,\nCaruanaison theedge. his heart-\nbeat a gallopat 124 BPM.\nWith the Weissenhausleg of\nthe Freestyle Grand Siam Chess\nTour fitting chess players with\nheart rate monitors during\ngames, the physiological re-\nsponsesofelite grandmastersto\nCONTINUED ON PAGE 2",
+   "ocr_conf": 83.76415094339623,
+   "ocr_low_conf_share": 0.11320754716981132,
+   "headline": "Gukesh calm even at the crunch: Heart monitors watch grandmasters fight FO - wager == (BPM). Caruana has 3",
+   "deck": "",
+   "byline": "AMITKAMATH; MUMBAI, FEBRUARY 11",
+   "text": "THE TENSION of the end game takes a grip as World Champion Gukesh Dommaraju has under a minute lefton his clockin the cru-Cial first game of his quarter-final against the World No 2, USA's Fabiano Caruana, on Sunday. Despite the pressure exerted\n\nGukeshhad heartrate of 78while '4 WorldNo2\n\n(BPM). Caruana has 35 seconds more on his clock than Gukesh. Despite the position being equal, Caruanaison theedge. his heartbeat a gallopat 124 BPM. With the Weissenhausleg of the Freestyle Grand Siam Chess Tour fitting chess players with heart rate monitors during games, the physiological responsesofelite grandmastersto",
+   "n_words": 95,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      2614,
+      2091,
+      2691
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1783,
+      2769,
+      2228,
+      3161
+     ]
+    ],
+    "layout_words": 47
+   },
+   "headline_raw": "GEORGE MATHEW",
+   "deck_raw": "",
+   "body_raw": "US PRESIDENT Donald Trump\nsigned an executive order on\nMonday directing the US Justice\nDepartment to halt prosecuting\nAmericans accused of bribing\nforeign government officials to\nwin overseas business,\nWhile the order is meant to\nprovide relief to US citizens, it\nwill likely come asa breather for",
+   "ocr_conf": 76.80851063829788,
+   "ocr_low_conf_share": 0.23404255319148937,
+   "headline": "GEORGE MATHEW",
+   "deck": "",
+   "byline": "",
+   "text": "US PRESIDENT Donald Trump signed an executive order on Monday directing the US Justice Department to halt prosecuting Americans accused of bribing foreign government officials to win overseas business, While the order is meant to provide relief to US citizens, it will likely come asa breather for",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2378,
+      2617,
+      2623,
+      2690
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2374,
+      2768,
+      2649,
+      2836
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "a ie",
+   "deck_raw": "",
+   "body_raw": "= orderon\n-Z@ FCPA",
+   "ocr_conf": 54.0,
+   "ocr_low_conf_share": 0.5,
+   "headline": "a ie",
+   "deck": "",
+   "byline": "",
+   "text": "= orderon -Z@ FCPA",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      365,
+      2763,
+      766,
+      2824
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      2846,
+      761,
+      3152
+     ]
+    ],
+    "layout_words": 34
+   },
+   "headline_raw": "Top ED officials said that of\n> 250 entinesincomonmred by",
+   "deck_raw": "",
+   "body_raw": "Martin and his family members,\nthere were 15 partnership firms,\n200 companies and 110 limited\nliability partnerships (LLPs).\nAccording to an assessment\nby the agency, these firms have\nbeen found to be only\nCONTINUEDONPAGE2",
+   "ocr_conf": 92.26470588235294,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "Top ED officials said that of > 250 entinesincomonmred by",
+   "deck": "",
+   "byline": "",
+   "text": "Martin and his family members, there were 15 partnership firms, 200 companies and 110 limited liability partnerships (LLPs). According to an assessment by the agency, these firms have been found to be only CONTINUEDONPAGE2",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3393,
+      2855,
+      3615,
+      2964
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      3009,
+      3691,
+      3162
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "q@ WorldN\n4, was 124",
+   "deck_raw": "",
+   "body_raw": "by Caruana in their Freestyle\nChess battle at Weissenhaus,\nGermany, Gukesh's heart is trot-\nting at 78 beats per minute",
+   "ocr_conf": 92.6,
+   "ocr_low_conf_share": 0.0,
+   "headline": "q@ WorldN",
+   "deck": "",
+   "byline": "",
+   "text": "by Caruana in their Freestyle Chess battle at Weissenhaus, Germany, Gukesh's heart is trot-ting at 78 beats per minute",
+   "n_words": 19,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      425,
+      5500,
+      2488,
+      5663
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      424,
+      5694,
+      2543,
+      6021
+     ]
+    ],
+    "layout_words": 140
+   },
+   "headline_raw": "Contact your MFD/RIA to know more.\nAn Investor Education and Awareness Initiative",
+   "deck_raw": "",
+   "body_raw": "Visit https://www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know\nYour Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of\nwhich can be verified on the SEB! website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance\nredressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge\ncomplaints directly with the AMCs, if they are unsatisfied with the resolutions given by AMCs they may raise complaint through\nthe SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and\nsubsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the\nAMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login.",
+   "ocr_conf": 94.01428571428572,
+   "ocr_low_conf_share": 0.014285714285714285,
+   "headline": "Contact your MFD/RIA to know more. An Investor Education and Awareness Initiative",
+   "deck": "",
+   "byline": "",
+   "text": "Visit https://www.hdfcfund.com/information/key-know-how to know more about the process to complete a one-time Know Your Customer (KYC) requirement to invest in Mutual Funds. Investors should only deal with registered Mutual Funds, details of which can be verified on the SEB! website (www.sebi.gov.in/intermediaries.html). For any queries, complaints & grievance redressal, investors may reach out to the AMCs and / or Investor Relations Officers. Additionally, investors may also lodge complaints directly with the AMCs, if they are unsatisfied with the resolutions given by AMCs they may raise complaint through the SCORES portal on https://scores.gov.in. SCORES portal facilitates investors to lodge complaint online with SEBI and subsequently view its status. In case the investor is not satisfied with the resolution of the complaints raised directly with the AMCs or through the SCORES portal, they may file any complaint on the Smart ODR on https://smartodr.in/login.",
+   "n_words": 140,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2693,
+      5508,
+      3058,
+      5723
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2699,
+      5901,
+      3052,
+      6014
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Scan the QR code\nto learn more\nabout SIP",
+   "ocr_conf": 85.88888888888889,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Scan the QR code to learn more about SIP",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 14.2,
+ "flags": []
+}

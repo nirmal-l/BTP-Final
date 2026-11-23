@@ -1,0 +1,791 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_28_editorial",
+ "source_file": "2025-11-28_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-28_editorial.png",
+ "date": "2025-11-28",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 4,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 577,
+  "mean_line_conf": 88.66238550588638,
+  "orphan_words": 13,
+  "body_words_total": 2338
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4180,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 92.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      357,
+      936,
+      730,
+      1096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1148,
+      752,
+      1422
+     ],
+     [
+      322,
+      1467,
+      680,
+      1614
+     ],
+     [
+      322,
+      1667,
+      750,
+      1900
+     ],
+     [
+      322,
+      1945,
+      754,
+      2172
+     ],
+     [
+      321,
+      2223,
+      737,
+      2417
+     ],
+     [
+      365,
+      2527,
+      747,
+      2805
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@GOVT WILL release GDP data\nfor the July-September quarter\n(Q2). The Q1GDP growth rate\nwas ata five-quarter high of\n7.8%. Economists see it declin-\ning to7.3% in Q2. For FY26, RBI\nsees GDP growing 6.8%.\n\n@GOVT WILL also release\nindustrial production data\nand Central government\nfinances for October.\n\n@ PRESIDENT DROUPADI\nMurmuwill attend a Brahma\nKumaris event in Lucknow. She\nwill also attend a Bharat Scouts\n& Guides Diamond Jubilee\nprogramme later in the day.\n\n@PM NARENDRA Modi will visit\nGoa and Karnataka. In South\nGoa district, he will inaugurate\na77-foot bronze statue of Lord\nRam. Andin Udupi district, he\nwill visit the SriKrishna Math.\n\n@TMC DELEGATION will meet\nthe Election Commission in\nNew Delhi over the Special\nIntensive Revision of electoral\nrollsin West Bengal.\n\nBusiness as Usual\nBy EPUNNY\nWaving, achieved heights oF\no, excellence, do\nh broaden vision,\nle ~ Free up the",
+   "ocr_conf": 86.76551724137931,
+   "ocr_low_conf_share": 0.08275862068965517,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "",
+   "text": "@GOVT WILL release GDP data for the July-September quarter (Q2). The Q1GDP growth rate was ata five-quarter high of 7.8%. Economists see it declining to7.3% in Q2. For FY26, RBI sees GDP growing 6.8%.\n\n@GOVT WILL also release industrial production data and Central government finances for October.\n\n@ PRESIDENT DROUPADI Murmuwill attend a Brahma Kumaris event in Lucknow. She will also attend a Bharat Scouts & Guides Diamond Jubilee programme later in the day.\n\n@PM NARENDRA Modi will visit Goa and Karnataka. In South Goa district, he will inaugurate a77-foot bronze statue of Lord Ram. Andin Udupi district, he will visit the SriKrishna Math.\n\n@TMC DELEGATION will meet the Election Commission in New Delhi over the Special Intensive Revision of electoral rollsin West Bengal.\n\nBusiness as Usual By EPUNNY Waving, achieved heights oF o, excellence, do h broaden vision, le ~ Free up the",
+   "n_words": 144,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      806,
+      1015,
+      3193,
+      1346
+     ],
+     [
+      809,
+      1404,
+      1734,
+      1490
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      937,
+      2687,
+      987
+     ]
+    ],
+    "body_boxes": [
+     [
+      806,
+      1501,
+      1691,
+      1698
+     ],
+     [
+      1293,
+      1587,
+      1741,
+      2141
+     ],
+     [
+      807,
+      1746,
+      1252,
+      2140
+     ],
+     [
+      1792,
+      1807,
+      2212,
+      1876
+     ],
+     [
+      1785,
+      2027,
+      2226,
+      2134
+     ],
+     [
+      2302,
+      1815,
+      2700,
+      1873
+     ],
+     [
+      2270,
+      2027,
+      2718,
+      2142
+     ],
+     [
+      2761,
+      1390,
+      3203,
+      2135
+     ]
+    ],
+    "layout_words": 272
+   },
+   "headline_raw": "After 14-month turmoil, Sensex\nbreaches 86,000 mark first time\nBehind turbulence: Trade & geopolitics",
+   "deck_raw": "INDEX RECORDS 86,055.86 IN THURSDAY EARLY TRADE, CLOSES AT 85,720.38",
+   "body_raw": "abroad, GST & insurance Bill at home\nGeorge Mathew, Hitesh scaled a lifetime peak\nVyas & Sandeep Singh 26,310.45 during intraday tra\nMumbai, November 27 but settled to end at 26,215.\n\nscaled a lifetime peak of\n26,310.45 during intraday trade\nbut settled to end at 26,215.55,\nmarginally higher than Wed-\nnesday\u2019s close of 26,205.30.\nThe previous all-time highs,\non an intraday basis, for the\nSensex was 85,978.25 and Nifty\n\u00a70 26,250.90, both on Septem-\nber 27, 2024.\nIt was exactly 14 months ago\nthat the Sensex first crossed the\n85,000 milestone following a\nstrong run that began in De-\n\nAFTER A long wait of 14\nmonths, theSensex at the Bom-\nbay Stock Exchange breached\nthe 86,000 mark forthe first time\nduring Thursday morning trad-\ning, hitting a record high of\n86,055.86 before finishing at\n85,720.38 \u2014up0.13 percentfrom\nthe previous close of 85,609.51.\nThe broader Nifty 50 also\n\n70.000: ' i \u2018 i E i I\n27 Sept 27 Jan\n\ncember 2023, when it surged\nfrom 68,000 to 85,000 over the\nnext ten months.\n\n' i) ' if ' q J 1\n27May =. 28Aug \u00ab27 Nov\n\nHaving gained 17,000 points\n\u2014 nearly 25 per cent \u2014 be-\ntween December 2023 and Sep-\n\ntember 2024, the subsequent 14\nmonths proved elusive for In-\ndian markets. During this\nperiod, the Sensex oscillated\nbetween 71,000 and 85,000, hit-\nting alow of 71,425in April 2025\nand the high of 85,978 in Sep-\ntember 2024.\nThis turbulent movement\nindicates that while global fac-\ntors kept the Indian markets\nunder check, there were con-\ncerns on the domestic front\nabout overvaluation of Indian\nequity markets. Hence, when\nglobal concerns arose on ac-\ncount of tariffs and oil prices,\nthe Indian markets moved\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 87.47750865051903,
+   "ocr_low_conf_share": 0.10726643598615918,
+   "headline": "After 14-month turmoil, Sensex breaches 86,000 mark first time Behind turbulence: Trade & geopolitics",
+   "deck": "INDEX RECORDS 86,055.86 IN THURSDAY EARLY TRADE, CLOSES AT 85,720.38",
+   "byline": "",
+   "text": "abroad, GST & insurance Bill at home George Mathew, Hitesh scaled a lifetime peak Vyas & Sandeep Singh 26,310.45 during intraday tra Mumbai, November 27 but settled to end at 26,215.\n\nscaled a lifetime peak of 26,310.45 during intraday trade but settled to end at 26,215.55, marginally higher than Wednesday's close of 26,205.30. The previous all-time highs, on an intraday basis, for the Sensex was 85,978.25 and Nifty \u00a70 26,250.90, both on September 27, 2024. It was exactly 14 months ago that the Sensex first crossed the 85,000 milestone following a strong run that began in De-\n\nAFTER A long wait of 14 months, theSensex at the Bombay Stock Exchange breached the 86,000 mark forthe first time during Thursday morning trading, hitting a record high of 86,055.86 before finishing at the previous close of 85,609.51. The broader Nifty 50 also\n\n27 Sept 27 Jan\n\ncember 2023, when it surged from 68,000 to 85,000 over the next ten months.\n\n27May =. 28Aug \u00ab27 Nov\n\nHaving gained 17,000 points - nearly 25 per cent - between December 2023 and September 2024, the subsequent 14 months proved elusive for Indian markets. During this period, the Sensex oscillated between 71,000 and 85,000, hitting alow of 71,425in April 2025 and the high of 85,978 in September 2024. This turbulent movement indicates that while global factors kept the Indian markets under check, there were concerns on the domestic front about overvaluation of Indian equity markets. Hence, when global concerns arose on account of tariffs and oil prices, the Indian markets moved \u00bbCONTINUEDON PAGE 2",
+   "n_words": 258,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      1107,
+      4177,
+      1587
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3307,
+      1019,
+      4129,
+      1064
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      1631,
+      4182,
+      2541
+     ],
+     [
+      3254,
+      1674,
+      3691,
+      1935
+     ],
+     [
+      3250,
+      1984,
+      3615,
+      2059
+     ],
+     [
+      3250,
+      2108,
+      3694,
+      2494
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "Basic structure not\nviolated: Law panel\nfirms up view on\njoint election Bills",
+   "deck_raw": "HOUSE PANEL HEARING ON DEC 4",
+   "body_raw": "mission is also learnt to have\n* found that there is no require-\nNot in favour of ment to give the Model Code of\nkin Conduct statutory recognition.\nstatutory bac \u00a7 The committee on the Con-\nfor Model Code __ stitution (one Hundred and\nTwenty-Ninth Amend-\nof Conduct ment) Bill, 2024 and the Union\nTerritories Laws\nDamini Nath (Amendment),known as the\nNew Delhi, November 27 One Nation One Election Bills,\nis set to meet on December 4.\nAHEAD OF its scheduled brief- Representatives of the Law\ningbeforethe JointCommittee Commission and the Election\nof Parliament on the simulta- | Commission are scheduled to\nneous elections Bills on De- _ briefthe committee, according\ncember 4, the 23rd LawCom- _tothemeeting notice.\nmission is learnt to have firmed The two Bills were intro-\nupits view that the Billsdonot duced by Law Minister Arjun\ndisturb the basic structure of Ram Meghwal in December\nthe Constitution, when it last year and referred to the\ncomes to federalism andthe committee. The Bills provide\nright of the voter. for synchronising\n\nNot in favour of\nstatutory backing\nfor Model Code\nof Conduct\n\nDamini Nath\nNew Delhi, November 27\n\nAHEAD OFits scheduled brief-\ningbeforethe Joint Committee\nof Parliament on the simulta-\nneous elections Bills on De-\ncember 4, the 23rd Law Com-\nmission is learnt to have firmed\nup its view that the Bills donot\ndisturb the basic structure of\nthe Constitution, when it\ncomes to federalism and the",
+   "ocr_conf": 88.39748953974896,
+   "ocr_low_conf_share": 0.08368200836820083,
+   "headline": "Basic structure not violated: Law panel firms up view on joint election Bills",
+   "deck": "HOUSE PANEL HEARING ON DEC 4",
+   "byline": "",
+   "text": "mission is also learnt to have * found that there is no require-Not in favour of ment to give the Model Code of kin Conduct statutory recognition. statutory bac \u00a7 The committee on the Confor Model Code __ stitution (one Hundred and Twenty-Ninth Amendof Conduct ment) Bill, 2024 and the Union Territories Laws Damini Nath (Amendment),known as the New Delhi, November 27 One Nation One Election Bills, is set to meet on December 4. AHEAD OF its scheduled brief- Representatives of the Law ingbeforethe JointCommittee Commission and the Election of Parliament on the simulta- Commission are scheduled to neous elections Bills on De- _ briefthe committee, according cember 4, the 23rd LawCom- _tothemeeting notice. mission is learnt to have firmed The two Bills were introupits view that the Billsdonot duced by Law Minister Arjun disturb the basic structure of Ram Meghwal in December the Constitution, when it last year and referred to the comes to federalism andthe committee. The Bills provide right of the voter. for synchronising\n\nNot in favour of statutory backing for Model Code of Conduct\n\nDamini Nath New Delhi, November 27\n\nAHEAD OFits scheduled brief-ingbeforethe Joint Committee of Parliament on the simultaneous elections Bills on December 4, the 23rd Law Commission is learnt to have firmed up its view that the Bills donot disturb the basic structure of the Constitution, when it comes to federalism and the",
+   "n_words": 230,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2243,
+      1735,
+      2695
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      2738,
+      1175,
+      2814
+     ],
+     [
+      807,
+      2862,
+      1250,
+      4130
+     ],
+     [
+      1295,
+      2743,
+      1741,
+      4123
+     ]
+    ],
+    "layout_words": 319
+   },
+   "headline_raw": "SCfor autonomous\nonline regulator, Govt\nsays amending rules\non digital obscenity",
+   "deck_raw": "",
+   "body_raw": "Ananthakrishnan G\nNew Delhi, November 27\n\nOBSERVING THAT \u201cself-\nstyled\u201d mechanisms \u201cwill not\nbe effective\u201d in regulating on-\nline content, the Supreme\nCourt Thursday suggested that\nan autonomous body \u201cfree\nfrom influence\u201d oversee social\nmedia platforms while ensur-\ning protection of freespeech. It\nalso suggested using Aadhaar\nor income tax number to verify\nthe age of the user.\nThese suggestions were\nmade by the benchofChief Jus-\nticeofIndia SuryaKant and Jus-\ntice Joymalya Bagchi while\nhearing pleas by YouTuber Ran-\nveer Allahabadia and others\nchallenging the FIRs against\nthem over alleged obscenecom-\nments in Samay Raina\u2019s India\u2019s\nGot Latent show.\nTheMinistry of Information\nand Broadcasting, in anote to\nthe court, said it is planning to\namend the Code of Ethics pub-\nlished with the Information\nTechnology Rules, 2021toincor-\nporate guidelines on obscenity\nforalldigital content, on accessi-\nbility foronline curated content\nand on Aland deep fakes.\n\nThe proposals include rat-\ning of online content for differ-\nent age groups and a bar on\nanti-national digital content. It\nsaid this was being proposed \u201cin\naccordance with Article 19(1)(a)\nand the reasonable restrictions\nimposed under Article 19(2).\u201d\nThe note said an insertion\nwill be made in Rule 2 -\n\u201cobscene digital content\u201d\nmeans any digital content shall\nbe deemed to be obscene if it is\nlasciviousor appeals to the pru-\nrient interest or if its effect, or\n(where it comprises two or\nmore distinct items) the effect\nof any one of its items, is, if\ntaken as a whole, tend to de-\nprave and corrupt persons who\nare likely, having regard to all\nrelevant circumstances, to\nread, see or hear the matter\ncontained or embodied in it.\nThe bench, also hearing a\nplea by M/s SMA (Spinal Mus-\ncular Atrophy) Cure Founda-\ntion accusing satirists Samay\nRaina, Vipun Goyal, Balraj\nParamjeet Singh Ghai, Sonali\nThakkar and Nishant Jagdish\nTanwar of mocking persons\nwithdisabilities (PwDs) on their\nshow, told Solicitor General\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 90.5705329153605,
+   "ocr_low_conf_share": 0.05329153605015674,
+   "headline": "SCfor autonomous online regulator, Govt says amending rules on digital obscenity",
+   "deck": "",
+   "byline": "",
+   "text": "Ananthakrishnan G New Delhi, November 27\n\nOBSERVING THAT \"self-styled\" mechanisms \"will not be effective\" in regulating online content, the Supreme Court Thursday suggested that an autonomous body \"free from influence\" oversee social media platforms while ensuring protection of freespeech. It also suggested using Aadhaar or income tax number to verify the age of the user. These suggestions were made by the benchofChief JusticeofIndia SuryaKant and Justice Joymalya Bagchi while hearing pleas by YouTuber Ranveer Allahabadia and others challenging the FIRs against them over alleged obscenecomments in Samay Raina's India's Got Latent show. TheMinistry of Information and Broadcasting, in anote to the court, said it is planning to amend the Code of Ethics published with the Information Technology Rules, 2021toincorporate guidelines on obscenity foralldigital content, on accessibility foronline curated content and on Aland deep fakes.\n\nThe proposals include rating of online content for different age groups and a bar on anti-national digital content. It said this was being proposed \"in accordance with Article 19(1)(a) and the reasonable restrictions imposed under Article 19(2).\" The note said an insertion will be made in Rule 2 - \"obscene digital content\" means any digital content shall lasciviousor appeals to the prurient interest or if its effect, or (where it comprises two or more distinct items) the effect of any one of its items, is, if taken as a whole, tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it. The bench, also hearing a plea by M/s SMA (Spinal Muscular Atrophy) Cure Foundation accusing satirists Samay Raina, Vipun Goyal, Balraj Paramjeet Singh Ghai, Sonali Thakkar and Nishant Jagdish Tanwar of mocking persons withdisabilities (PwDs) on their show, told Solicitor General",
+   "n_words": 292,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1761,
+      2244,
+      3203,
+      2510
+     ],
+     [
+      1785,
+      2540,
+      2199,
+      2814
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      2860,
+      2150,
+      2933
+     ],
+     [
+      1782,
+      2983,
+      2227,
+      3368
+     ],
+     [
+      1785,
+      3381,
+      2226,
+      3694
+     ],
+     [
+      2272,
+      3261,
+      2715,
+      3694
+     ],
+     [
+      2762,
+      3261,
+      3206,
+      3688
+     ]
+    ],
+    "layout_words": 162
+   },
+   "headline_raw": "Disruptions a disaster for Opp:\nRijiju ahead of House Session \u2014\n\u2018If agenda driven\nby one or two\nfailed leaders, it\nis very difficult...\u201d",
+   "deck_raw": "",
+   "body_raw": "Express News Service\nNew Delhi, November 27\n\nAHEAD OF the coming Winter\nSession of Parliament, Union\nParliamentary Affairs Minister\nKiren Rijijuhassaidthe Opposi-\ntionshould giveup frequent dis-\nruption of proceedings, claiming\nthat such measures\nhave provedtobe\u201ca =. ,\ndisaster politically\u201d > Q~\nforit. INE!\n\nSpeaking at The Ae.\nIdea Exchange EXC!\nsession of The In-\ndian Express, Rijijusaid: \u201cBy dis-\nfipiingpariiamentary proceed-\nings, they are losing election\nafter election... Misusing the\nParliament forum for driving a\n\npolitical agendadoes\nnot necessarily bring\npolitical dividends.\u201d\ntion expected to\nraise the Election\nCommission\u2019s ongoing Special\nIntensive Revision (SIR)ofelec-\ntoral rolls in the House, Rijiju\nsaid: \u201cThe discussion about any\nconstitutional authority which\n\nis clearly an autonomous body\n(the EC) is not advisable,\nnumber one, because the gov-\nernment cannot speak on be-\nhalf of the authority. Suppose\nyou want to discuss the Su-\npreme Court\u2019s functioning... it\nis different from judicial re-\nforms... So that is why, when\nthere are matters sub-judice or\nsCONTINUED ON PAGE 2",
+   "ocr_conf": 87.77300613496932,
+   "ocr_low_conf_share": 0.09202453987730061,
+   "headline": "Disruptions a disaster for Opp: Rijiju ahead of House Session - 'If agenda driven by one or two failed leaders, it is very difficult...\"",
+   "deck": "",
+   "byline": "",
+   "text": "Express News Service New Delhi, November 27\n\nAHEAD OF the coming Winter Session of Parliament, Union Parliamentary Affairs Minister Kiren Rijijuhassaidthe Oppositionshould giveup frequent disruption of proceedings, claiming that such measures have provedtobe\"a =., disaster politically\" > Q~ forit. INE!\n\nSpeaking at The Ae. Idea Exchange EXC! session of The Indian Express, Rijijusaid: \"By disfipiingpariiamentary proceedings, they are losing election after election... Misusing the Parliament forum for driving a\n\npolitical agendadoes not necessarily bring political dividends.\" tion expected to raise the Election Commission's ongoing Special Intensive Revision (SIR)ofelectoral rolls in the House, Rijiju said: \"The discussion about any constitutional authority which\n\nis clearly an autonomous body (the EC) is not advisable, number one, because the government cannot speak on behalf of the authority. Suppose you want to discuss the Supreme Court's functioning... it is different from judicial reforms... So that is why, when there are matters sub-judice or sCONTINUED ON PAGE 2",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3296,
+      2542,
+      3809,
+      2603
+     ],
+     [
+      3250,
+      2553,
+      3508,
+      2696
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3246,
+      2705,
+      3693,
+      3217
+     ]
+    ],
+    "layout_words": 61
+   },
+   "headline_raw": "The commis- a\nn\u2019s view. it is EXP RESS\nThe commis-\nsion\u2019s view, it is\nlearnt, is that the\nBills, which will",
+   "deck_raw": "",
+   "body_raw": "enable simulta-\nneous elections to the Lok\nSabha and State and Union Ter-\nritory Assemblies, do not need\nratification by states as they do\nnot propose to make any\nchanges to the subjects under\nArticle 368 (2), clauses (a) to (e),\nrelating to subjects that require\nratification by states.\nInresponse to a query bythe\ncommittee, which is chaired by\nBJPMPPPChaudhary, thecom-",
+   "ocr_conf": 88.65573770491804,
+   "ocr_low_conf_share": 0.08196721311475409,
+   "headline": "The commis- a n's view. it is EXP RESS The commission's view, it is learnt, is that the Bills, which will",
+   "deck": "",
+   "byline": "",
+   "text": "enable simultaneous elections to the Lok Sabha and State and Union Territory Assemblies, do not need ratification by states as they do not propose to make any changes to the subjects under Article 368 (2), clauses (a) to (e), relating to subjects that require ratification by states. Inresponse to a query bythe committee, which is chaired by BJPMPPPChaudhary, thecom-",
+   "n_words": 59,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3917,
+      2542,
+      4179,
+      2603
+     ],
+     [
+      3877,
+      2553,
+      4179,
+      2696
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      2706,
+      4179,
+      3210
+     ]
+    ],
+    "layout_words": 61
+   },
+   "headline_raw": "the Lok Sabhaand\nAssembly elec-\n| the Lok Sabhaand\nAssembly elec-\ntions bycurtailing\n| the terms of state",
+   "deck_raw": "",
+   "body_raw": "assemblies that\nare elected after a particular\nLokSabhato end with theterm\nof that Lok Sabha. Once the\nterms of the legislatures align,\nthe next general election would\nbe held simultaneously.\nIn the commission\u2019s view, it\nis learnt, the Bills affect the dur-\nation or frequency of voting and\nnot theright tovote, which does\nnot violate the basic structure.\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 83.75409836065573,
+   "ocr_low_conf_share": 0.13114754098360656,
+   "headline": "the Lok Sabhaand Assembly electhe Lok Sabhaand Assembly elections bycurtailing the terms of state",
+   "deck": "",
+   "byline": "",
+   "text": "assemblies that are elected after a particular LokSabhato end with theterm of that Lok Sabha. Once the terms of the legislatures align, the next general election would be held simultaneously. In the commission's view, it is learnt, the Bills affect the duration or frequency of voting and not theright tovote, which does not violate the basic structure.",
+   "n_words": 57,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      3419,
+      4170,
+      3852
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3252,
+      3327,
+      4124,
+      3368
+     ],
+     [
+      3251,
+      3922,
+      4161,
+      3970
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      4015,
+      3635,
+      4092
+     ],
+     [
+      3250,
+      4139,
+      3691,
+      4485
+     ],
+     [
+      3250,
+      4497,
+      3691,
+      5166
+     ],
+     [
+      3250,
+      5174,
+      3690,
+      5248
+     ],
+     [
+      3742,
+      4062,
+      4124,
+      4099
+     ],
+     [
+      3739,
+      4136,
+      4175,
+      4414
+     ],
+     [
+      3739,
+      4438,
+      4177,
+      4932
+     ],
+     [
+      3737,
+      5015,
+      4178,
+      5241
+     ]
+    ],
+    "layout_words": 240
+   },
+   "headline_raw": "Upto3yrs jail, fineon\ninstitutes: Karnataka\u2019s\nRohith Vemula Bill to\ncurb campus caste bias",
+   "deck_raw": "10 YRS AFTER DEATH OF PHD SCHOLAR\nTo betabled in House Winter Session",
+   "body_raw": "Nikhila Henry\nHyderabad, November 27\n\nNEARLY 10 years after the\ndeath of Dalit PhD scholar Ro-\nhith Vemula by suicide at the\nUniversity of Hyderabad (UoH),\nthe Siddaramaiah-led Congress\ngovernment in Karnataka has\ncome up with a Bill named after\nhiminordertocurb caste-based\ndiscrimination and harassment\n\nin public and private colleges\nand universities in the state.\nThe Siddaramaiah govern-\nment is likelyto table the Billin\nthe state Legislature during its\nwinter session to be held during\n8-19 December. The legislation\nis being brought following a\nnudge from top Congress\nleader Rahul Gandhi.\nThe Bill, called The Karna-\ntaka Rohith Vemula (Preven-\ntion of Exclusion or Injustice)\n(Right to Education and Dig-\nnity) Bill, 2025, seeks to address\nthe \u201ccaste realities\u201d in higher\neducational institutions(HEIs).\n\nSome academic and legal ex-\nperts, who have gone through\n\neBILLPROVISIONS\n\nTHE TABLING of the Bill will\ncome months after a nudge by\nCong leader Rahul Gandhi\nIT SEEKS to curb \u201cdiscrimination,\nharassment and atrocity on the\nbasis of caste\u201d in higher educa-\ntional institutions\n\nAN AGGRIEVED\nperson can bea stu-\ne dent, faculty\nmember or non-\nteaching staff\nBILL PROPOSES penalty for indi-\nvidual offenders, ranging from\nwritten apology to3 years in\nprison and fine\nALSO IMPOSES penalty oninsti-\ntutions for violations, which\nincludes a cut in govt aid\n\nthe Bill, say that upon its enact-\nment, this law would curb \u201cdis-\ncrimination, harassment and\natrocity onthe basis of caste\u201d.\nThe proposed legislation\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 89.15833333333333,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "Upto3yrs jail, fineon institutes: Karnataka's Rohith Vemula Bill to curb campus caste bias",
+   "deck": "10 YRS AFTER DEATH OF PHD SCHOLAR To betabled in House Winter Session",
+   "byline": "",
+   "text": "Nikhila Henry Hyderabad, November 27\n\nNEARLY 10 years after the death of Dalit PhD scholar Rohith Vemula by suicide at the University of Hyderabad (UoH), the Siddaramaiah-led Congress government in Karnataka has come up with a Bill named after himinordertocurb caste-based discrimination and harassment\n\nin public and private colleges and universities in the state. The Siddaramaiah government is likelyto table the Billin the state Legislature during its winter session to be held during 8-19 December. The legislation is being brought following a nudge from top Congress leader Rahul Gandhi. The Bill, called The Karnataka Rohith Vemula (Prevention of Exclusion or Injustice) (Right to Education and Dignity) Bill, 2025, seeks to address the \"caste realities\" in higher educational institutions(HEIs).\n\nSome academic and legal experts, who have gone through\n\neBILLPROVISIONS\n\nTHE TABLING of the Bill will come months after a nudge by Cong leader Rahul Gandhi IT SEEKS to curb \"discrimination, harassment and atrocity on the basis of caste\" in higher educational institutions\n\nAN AGGRIEVED person can bea stue dent, faculty member or nonteaching staff BILL PROPOSES penalty for individual offenders, ranging from written apology to3 years in prison and fine ALSO IMPOSES penalty oninstitutions for violations, which includes a cut in govt aid\n\nthe Bill, say that upon its enactment, this law would curb \"discrimination, harassment and atrocity onthe basis of caste\". The proposed legislation \u00bbCONTINUEDON PAGE 2",
+   "n_words": 227,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      3874,
+      3164,
+      4114
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1788,
+      3804,
+      3055,
+      3850
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      4173,
+      2096,
+      4247
+     ],
+     [
+      1783,
+      4297,
+      2228,
+      5246
+     ],
+     [
+      2272,
+      4894,
+      2714,
+      5247
+     ],
+     [
+      2760,
+      4894,
+      3201,
+      5240
+     ]
+    ],
+    "layout_words": 218
+   },
+   "headline_raw": "Behind violent VIT protests:\nFact, fiction, months of anger",
+   "deck_raw": "FUELLED BY JAUNDICE SCARE, CLEANLINESS CONCERNS",
+   "body_raw": "Anand Mohan J\nSehore, November27\n\nSECURITY GUARDS and\nwardens watched in disbelief\non Tuesday night as atorrentof\nteenagers tore through hostel\ngates, uprooted elevator doors\nand torched vehicles \u2014 angry\nover the alleged lack of clean\nwater and food and a jaundice\ncontagion scare at Vellore Insti-\ntute of Technology in Madhya\nPradesh\u2019s Sehore.\nIt was the culmination of\nweeks of anger, which had been\nbrewing over what studentssay\nare legitimate concerns, even\nthough the spark wasa rumour:\nThat three people had died of\njaundice after 23 fell ill in the\npast two weeks. The adminis-\ntration had time to dispel the\nrumours, but by most ac-\ncounts, failed to take the stu-\ndents into confidence.\nOn Thursday, University\n\nRegistrar K K Nair broke his si-\nlence onthe deathsand clarified\nthey were not due to jaundice.\n\u201cAs regards the death of a stu-\ndent, Ms Neha, it occurred on\nNovember24 due toTB while at\nher home in Bilaspur, Chhattis-\ngarh. It has nothing to do with\njaundice. We are processing a\n\nfee refund. Regarding the death\nof Dr Sangram Kesari Das, fac-\nulty, it was a natural death after\nprolonged illness. He has been\non medical leavesince May 2025\nand returneda few daysago. He\nwas found dead at home; he\ndied of typhoid,\u201d Nair said.\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 91.61467889908256,
+   "ocr_low_conf_share": 0.03669724770642202,
+   "headline": "Behind violent VIT protests: Fact, fiction, months of anger",
+   "deck": "FUELLED BY JAUNDICE SCARE, CLEANLINESS CONCERNS",
+   "byline": "",
+   "text": "Anand Mohan J Sehore, November27\n\nSECURITY GUARDS and wardens watched in disbelief on Tuesday night as atorrentof teenagers tore through hostel gates, uprooted elevator doors and torched vehicles - angry over the alleged lack of clean water and food and a jaundice contagion scare at Vellore Institute of Technology in Madhya Pradesh's Sehore. It was the culmination of weeks of anger, which had been brewing over what studentssay are legitimate concerns, even though the spark wasa rumour: That three people had died of jaundice after 23 fell ill in the past two weeks. The administration had time to dispel the rumours, but by most accounts, failed to take the students into confidence. On Thursday, University\n\nRegistrar K K Nair broke his silence onthe deathsand clarified they were not due to jaundice. \"As regards the death of a student, Ms Neha, it occurred on November24 due toTB while at her home in Bilaspur, Chhattisgarh. It has nothing to do with jaundice. We are processing a\n\nfee refund. Regarding the death of Dr Sangram Kesari Das, faculty, it was a natural death after prolonged illness. He has been on medical leavesince May 2025 and returneda few daysago. He was found dead at home; he died of typhoid,\" Nair said. \u00bbCONTINUEDON PAGE 2",
+   "n_words": 210,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3947,
+      727,
+      4085
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "HONG KONG\nTOWER INFERNO\nTOLLRISES TO 83",
+   "ocr_conf": 58.714285714285715,
+   "ocr_low_conf_share": 0.5714285714285714,
+   "headline": "",
+   "deck": "",
+   "byline": "HONG KONG; TOWER INFERNO; TOLLRISES TO 83",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4325,
+      1708,
+      4651
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      4241,
+      1120,
+      4282
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4689,
+      684,
+      4777
+     ],
+     [
+      319,
+      4813,
+      762,
+      5242
+     ],
+     [
+      807,
+      4694,
+      1249,
+      5004
+     ],
+     [
+      807,
+      5013,
+      1248,
+      5242
+     ],
+     [
+      1296,
+      4694,
+      1759,
+      5239
+     ]
+    ],
+    "layout_words": 194
+   },
+   "headline_raw": "Before SC stepped in, Ministry\nwas told to let Law Commission\ndecide future of green committee",
+   "deck_raw": "CENTRAL EMPOWERED COMMITTEE",
+   "body_raw": "Nikhil Ghanekar\nNew Delhi, November 27\n\nA FORTNIGHT before the No-\nvember 19 direction of the Su-\npreme Court that the Central\nEmpowered Committee (CEC),\nwhich advises it on environ-\nmental issues, can only be dis-\nbanded with its approval, the\nCabinet Secretariat had asked\nthe Environment Ministry to\nrefer the matter of the CEC\u2019s fu-\nture to the Law Commission,\n\nThe Indian Express has learnt.\nThe CEC, a statutory body\nsince 2023, was originally\nformed in 2002 on the Supreme\nCourt\u2019s order. It advises the\ncourt oii wiit petitions related to\nenvironment and _ forest\nmatters, and assistsin monitor-\n\ningand complianceof its orders.\nThe Cabinet Secretariat is\nlearnt to have cited the example\nofthe National Green Tribunal\n(NGT), and said that with both\nNGT and CEC functional, du-\n\nplicity ofagencies may be lead-\ning toa delayin deciding the ju-\nrisdiction between the two.\nIt is learnt to have stated in\nits communication to Tanmay\nKumar, Secretary, Environ-\nment Ministry, that the NGT is\nnowa stable adjudicatory body,\nwith expert members of its\nown, and hence it should be\nconsidered whether the CEC\nshould continue functioning\nwith a stronger Environment\n\u00bbCONTINUEDON PAGE 2 |",
+   "ocr_conf": 88.64948453608247,
+   "ocr_low_conf_share": 0.07731958762886598,
+   "headline": "Before SC stepped in, Ministry was told to let Law Commission decide future of green committee",
+   "deck": "CENTRAL EMPOWERED COMMITTEE",
+   "byline": "",
+   "text": "Nikhil Ghanekar New Delhi, November 27\n\nA FORTNIGHT before the November 19 direction of the Supreme Court that the Central Empowered Committee (CEC), which advises it on environmental issues, can only be disbanded with its approval, the Cabinet Secretariat had asked the Environment Ministry to refer the matter of the CEC's future to the Law Commission,\n\nThe Indian Express has learnt. The CEC, a statutory body since 2023, was originally formed in 2002 on the Supreme Court's order. It advises the court oii wiit petitions related to environment and _ forest matters, and assistsin monitoringand complianceof its orders. The Cabinet Secretariat is learnt to have cited the example ofthe National Green Tribunal (NGT), and said that with both NGT and CEC functional, duplicity ofagencies may be leading toa delayin deciding the jurisdiction between the two. It is learnt to have stated in its communication to Tanmay Kumar, Secretary, Environment Ministry, that the NGT is nowa stable adjudicatory body, with expert members of its own, and hence it should be considered whether the CEC should continue functioning with a stronger Environment \u00bbCONTINUEDON PAGE 2",
+   "n_words": 183,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5336,
+      2935,
+      5396
+     ],
+     [
+      321,
+      5425,
+      4107,
+      5538
+     ]
+    ],
+    "deck_boxes": [
+     [
+      689,
+      5876,
+      877,
+      5926
+     ]
+    ],
+    "body_boxes": [
+     [
+      315,
+      5565,
+      1250,
+      5926
+     ],
+     [
+      319,
+      5927,
+      1248,
+      6201
+     ],
+     [
+      805,
+      5969,
+      1253,
+      6195
+     ],
+     [
+      1291,
+      5570,
+      1739,
+      6202
+     ],
+     [
+      2759,
+      5573,
+      3203,
+      6239
+     ],
+     [
+      3247,
+      5572,
+      3689,
+      6197
+     ],
+     [
+      3733,
+      5572,
+      4180,
+      6197
+     ]
+    ],
+    "layout_words": 440
+   },
+   "headline_raw": "\u00b0 LIST INCLUDES SEVEN INDIAN NAMES FOR GEOLOGICAL FEATURES ON MARS, INCLUDING CRATER NAMED AFTER RENOWNED GEOLOGIST MS KRISHNAN\nOn Martian surface, a slice of Kerala: Periyar river, Varkala beach, ISRO birthplace",
+   "deck_raw": "anchor",
+   "body_raw": "AnjaliMarar geological features on Mars, ac-\nBengaluru, November 27 cording toanannouncement by\nthe International Astronomical\nWHAT\u2019S COMMON to Kerala\u2019s Union ([AU) on November 24.\nlargest river, its largest fort, its Inall, seven Indian names\nmost popular beach andtwoof _ feature inthe latest list prepared\nits towns that helped by the IAU\u2019s Working\npropel India\u2019s space PAGE1 Group for Planetary\ndreams? They all now anchor System Nomencla-\n\nhave a second ad- *& 4 ture. Thenameoftwo\ndress \u2014 225 million other locations on\nkilometres away on Mars. Mars honours the renowned\nAllthese places\u2014 Periyar geologist MSKrishnan, the first\nriver, Bekal fort, Varkalabeach, Indiantobecome the director of\nand Thumba and Valiamala\u2014 the Geological SurveyofIndiain\nareamongthenewestnamesfor 1951. The crater named after\n\nother locations on\nMars honours the renowned\ngeologist M S Krishnan, the first\nIndian tobecome the director of\nthe Geological Survey of Indiain\n1951. The crater named after\n\nKrishnan measures 77 km in di-\nameter and isbelieved tobeover\n3 billion years old. And a plain\nsurface to the southeast of this\ncrater, about 50 km in diameter,\nwillbe knownas Krishnan Piaus.\nAccording to thenomencla-\nture rules for Mars, large\ncraters, of the size 50 km or\nlarger, are named after scien-\ntists, while smaller craters are\nto be named after small towns\nand villages anywhere in the\nworld with populations of\nabout 100,000 or less. \u201cThis cat-\negoryis simply alargesourceof\n\ncrater names. No commemor-\nation of specific towns or vil-\nlages isintended,\u201d the rulessay.\nThere are more than 2,000\nfeatureson Mars that have been\nnamed till now, according to\nthe Gazetteer of Planetary No-\nmenclature maintained by the\nUS Geological Survey, one of\nthe most authoritative data-\nbases on the subject. About 50\nof them have Indian references,\nincluding names of Indian\ntowns and villages.\nFor naming stars or planets\nor geological features on the\nJaipur\n\nplanets, the AU issues a \u2018Call for\nProposal\u2019 seeking names from\nrequestors worldwide. Along\nwiththe name, itsorigin and de-\nscription of the feature needs to\nbe submitted alongwith a short\nscientific explanation. The sub-\nmission must also include the\nannotated and unannotated\nimages of the feature, the fea-\nture type, latitude or longitude\nin the correct coordinate sys-\ntem, and its size, ifknown.\nIn some cases, there are\ncountry-specific groups to\nwhom the names are first sub-\n\nmitted after which it is sent to\nthe IAU. In some other cases,\nthe proposer sends the names\ntothe JAU. The final selection is\ndone by the highest officials of\nthe TUA after deliberation and\ncommittee-level meetings.\nIn case of the latest Martian\ncrater naming, the proposal\nwas sent by scientists at the In-\ndian Institute of Space Science\nand Technology (IST) basedon\ntheir ongoing research.\nIn the latest addition, the\nIAU has chosen a 9-km wide\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 88.63340563991324,
+   "ocr_low_conf_share": 0.06073752711496746,
+   "headline": "\u00b0 LIST INCLUDES SEVEN INDIAN NAMES FOR GEOLOGICAL FEATURES ON MARS, INCLUDING CRATER NAMED AFTER RENOWNED GEOLOGIST MS KRISHNAN On Martian surface, a slice of Kerala: Periyar river, Varkala beach, ISRO birthplace",
+   "deck": "anchor",
+   "byline": "",
+   "text": "AnjaliMarar geological features on Mars, ac-Bengaluru, November 27 cording toanannouncement by the International Astronomical WHAT'S COMMON to Kerala's Union ([AU) on November 24. largest river, its largest fort, its Inall, seven Indian names most popular beach andtwoof _ feature inthe latest list prepared its towns that helped by the IAU's Working propel India's space PAGE1 Group for Planetary dreams? They all now anchor System Nomenclahave a second ad- *& 4 ture. Thenameoftwo dress - 225 million other locations on kilometres away on Mars. Mars honours the renowned Allthese places - Periyar geologist MSKrishnan, the first river, Bekal fort, Varkalabeach, Indiantobecome the director of and Thumba and Valiamala - the Geological SurveyofIndiain areamongthenewestnamesfor 1951. The crater named after\n\nother locations on Mars honours the renowned geologist M S Krishnan, the first Indian tobecome the director of the Geological Survey of Indiain 1951. The crater named after\n\nKrishnan measures 77 km in diameter and isbelieved tobeover 3 billion years old. And a plain surface to the southeast of this crater, about 50 km in diameter, willbe knownas Krishnan Piaus. According to thenomenclature rules for Mars, large craters, of the size 50 km or larger, are named after scientists, while smaller craters are to be named after small towns and villages anywhere in the world with populations of about 100,000 or less. \"This categoryis simply alargesourceof\n\ncrater names. No commemoration of specific towns or villages isintended,\" the rulessay. There are more than 2,000 featureson Mars that have been named till now, according to the Gazetteer of Planetary Nomenclature maintained by the US Geological Survey, one of the most authoritative data-bases on the subject. About 50 of them have Indian references, including names of Indian towns and villages. For naming stars or planets or geological features on the Jaipur\n\nplanets, the AU issues a 'Call for Proposal' seeking names from requestors worldwide. Along withthe name, itsorigin and description of the feature needs to be submitted alongwith a short scientific explanation. The submission must also include the annotated and unannotated images of the feature, the feature type, latitude or longitude in the correct coordinate system, and its size, ifknown. In some cases, there are country-specific groups to whom the names are first submitted after which it is sent to the IAU. In some other cases, the proposer sends the names tothe JAU. The final selection is done by the highest officials of the TUA after deliberation and committee-level meetings. In case of the latest Martian crater naming, the proposal was sent by scientists at the Indian Institute of Space Science and Technology (IST) basedon their ongoing research. In the latest addition, the IAU has chosen a 9-km wide",
+   "n_words": 443,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 21.9,
+ "flags": []
+}

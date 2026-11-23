@@ -1,0 +1,611 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_01_editorial",
+ "source_file": "2025-10-01_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-01_editorial.png",
+ "date": "2025-10-01",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 471,
+  "mean_line_conf": 88.99746068309571,
+  "orphan_words": 894,
+  "body_words_total": 3486
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      435,
+      918,
+      949,
+      960
+     ],
+     [
+      811,
+      771,
+      1089,
+      802
+     ]
+    ],
+    "layout_words": 6
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "BECAUSE THE TRUTH\n\nFOUNDED By @",
+   "ocr_conf": 90.83333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH; FOUNDED By @",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2212,
+      595,
+      3784,
+      808
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2250,
+      855,
+      3559,
+      986
+     ]
+    ],
+    "body_boxes": [
+     [
+      2319,
+      2302,
+      2821,
+      3398
+     ],
+     [
+      2923,
+      1290,
+      3532,
+      3262
+     ],
+     [
+      2924,
+      3274,
+      3527,
+      3390
+     ]
+    ],
+    "layout_words": 417
+   },
+   "headline_raw": "plan built on sand",
+   "deck_raw": "Even if all sides profess support for Trump\u2019s Gaza peace\nproposal, implementation is fraught with pitfalls",
+   "body_raw": "Disarmament,\ndemilitarisation, and the\nestablishment of an apolitical\nauthority in Gaza are deeply\ncontentious in any peace\nprocess. Each side will find\nexcuses to stall or abandon\nthe process. Trumps call for\nan ambitious multinational\nstabilisation force and broad\ninternational oversight faces\nserious challenges of\nlegitimacy, coordination, and\nresources. The logistical\nburden is immense.\nDelivering aid, rebuilding\nGaza\u2019s shattered\ninfrastructure, and restarting\nits economy will take years of\npainstaking work. Ongoing\nviolence could derail\nreconstruction at every step.\n\nernance of Gaza by a technocratic, interna-\ntionally supervised Palestinian committee un-\nder a Board of Peace; disarmament of Hamas\nmilitias, coupled with amnesty for those will-\ning to lay down arms; a framework for eco-\nnomic reconstruction and a conditional path-\nway toward eventual Palestinian statehood.\nThe plan has been formally welcomed by\nseveral Arab and Muslim states, including\nEgypt, Indonesia, Jordan, Pakistan, Qatar, Saudi\nArabia, Turkey, and the UAE. Their endorse-\nments lend the initiative a measure of credi-\nbility. But the official statements are couched\nin nuance. These governments praised\nTrump's personal commitment andexpressed\nreadiness to work with Washington \u2014 but\nstopped short of endorsing every provision.\nThe Arab position remains clear: An un-\nambiguous end to Israel's occupation of\nPalestinian territories and the unification of\nGaza, the West Bank, and East Jerusalem into\na sovereign Palestinian state. Netanyahu,\nhowever, has repeatedly rejected the idea of\nPalestinian statehood. For Arabcapitals, prais-\ning Trump is politically safer than voicing\nopen scepticism.\nIsrael, for its part, has not rejected the plan.\nBut Netanyahu has made clear that if Hamas\nrefuses to comply, he will \u201cfinish the job\u201d in\nGaza. Trump, too, has promised that the US\nwill back Israel fully should Hamas resist. For\nIsrael, there could be many opportunities to\nargue that Hamas is not abiding by the plan.\nFor Hamas, the terms amount to uncon-\nditional surrender and exclusion from future\ngovernance. Unsurprisingly, Hamas and other\nmilitant groups have dismissed the plan as a\none-sided deal heavily tilted toward Israel.\nWithinIsrael, Trump's far-right supporters are\nequally sceptical \u2014opposedio fuliwithdrawal\nfrom Gaza or the creation of a neutral\nPalestinian authority.\nEven if all sides profess support, imple-\nmentation will be fraught with pitfalls.\nDisarmament, demilitarisation, and the es-\ntablishment ofan apolitical authority inGaza\nare deeply contentious in any peace process.\nEach sidewill find excuses to stall or abandon\nthe process. Trump's call for an ambitious\nmultinational stabilisation force and broad in-",
+   "ocr_conf": 92.28057553956835,
+   "ocr_low_conf_share": 0.02158273381294964,
+   "headline": "plan built on sand",
+   "deck": "Even if all sides profess support for Trump's Gaza peace proposal, implementation is fraught with pitfalls",
+   "byline": "",
+   "text": "Disarmament, demilitarisation, and the establishment of an apolitical authority in Gaza are deeply contentious in any peace process. Each side will find excuses to stall or abandon the process. Trumps call for an ambitious multinational stabilisation force and broad international oversight faces serious challenges of legitimacy, coordination, and resources. The logistical burden is immense. Delivering aid, rebuilding Gaza's shattered infrastructure, and restarting its economy will take years of painstaking work. Ongoing violence could derail reconstruction at every step.\n\nernance of Gaza by a technocratic, internationally supervised Palestinian committee under a Board of Peace; disarmament of Hamas militias, coupled with amnesty for those willing to lay down arms; a framework for economic reconstruction and a conditional pathway toward eventual Palestinian statehood. The plan has been formally welcomed by several Arab and Muslim states, including Egypt, Indonesia, Jordan, Pakistan, Qatar, Saudi Arabia, Turkey, and the UAE. Their endorse-ments lend the initiative a measure of credibility. But the official statements are couched in nuance. These governments praised Trump's personal commitment andexpressed readiness to work with Washington - but stopped short of endorsing every provision. The Arab position remains clear: An unambiguous end to Israel's occupation of Palestinian territories and the unification of Gaza, the West Bank, and East Jerusalem into a sovereign Palestinian state. Netanyahu, however, has repeatedly rejected the idea of Palestinian statehood. For Arabcapitals, praising Trump is politically safer than voicing open scepticism. Israel, for its part, has not rejected the plan. But Netanyahu has made clear that if Hamas refuses to comply, he will \"finish the job\" in Gaza. Trump, too, has promised that the US will back Israel fully should Hamas resist. For Israel, there could be many opportunities to argue that Hamas is not abiding by the plan. For Hamas, the terms amount to unconditional surrender and exclusion from future governance. Unsurprisingly, Hamas and other militant groups have dismissed the plan as a one-sided deal heavily tilted toward Israel. WithinIsrael, Trump's far-right supporters are equally sceptical - opposedio fuliwithdrawal from Gaza or the creation of a neutral Palestinian authority. Even if all sides profess support, implementation will be fraught with pitfalls. Disarmament, demilitarisation, and the establishment ofan apolitical authority inGaza are deeply contentious in any peace process. Each sidewill find excuses to stall or abandon the process. Trump's call for an ambitious multinational stabilisation force and broad in-",
+   "n_words": 390,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      358,
+      1089,
+      1522,
+      1179
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1231,
+      1532,
+      3009
+     ]
+    ],
+    "layout_words": 526
+   },
+   "headline_raw": "PREVENT THE ATROCITY",
+   "deck_raw": "",
+   "body_raw": "Latest NCRB data frames an urgent challenge for governments:\nViolence against STs cannot be allowed to continue, or rise\nT HE LATEST DATA from the National Crime Records Bureau (NCRB) reveals a\ndisturbing trend: Registered cases of atrocities against the Scheduled Tribes\nin 2023 increased by 28.8 per cent in comparison to the previous year. Part\nof thissteep jump innumberscan be attributed tothe conflictin Manipur that\nbegan in May 2023 \u2014 the state registered only one case of violence against STs in 2022,\nwhereas in 2023, it reported 3,399 cases. But the performance of states like Madhya\nPradesh and Rajasthan, with the second and third highest reported cases of atrocities\nagainst STs respectively, is also cause for concem. (In 2022, Madhya Pradesh reported the\nhighest number of crimes against STs, followed by Rajasthan.) While the rise in numbers\ncan also be traced toa higher level of awareness and reportage, the figures are still discon-\ncerting. Governments must address the problem through ground-level interventions. A\nmore inclusive politics and policy is urgently needed.\nIn the last couple of years especially, the Centre has undertaken several initiatives for\ntribal outreach \u2014 like the Pradhan MantriJanjati Adivasi Nyaya Maha Abhiyan (PM JAN-\nMAN) and Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DAJGUA). At the same time,\nhowever, atrocities against STs continue, and all too often, show an increase. In Madhya\nPradesh, where the BJP has been in power for more than two decades, and where STs ac-\ncount for211 percent of the total population according to the 2011 Census, cases of griev-\nous crimes against STs continue to be reported. Most recently, in July, four tribal youths\nwere allegedly picked up and beaten by police on suspicion of theft, and in May, two men\nwere allegedly beaten to death on suspicion of cow slaughter. Earlier, in July 2023, months\nbefore the assembly elections, a video of a man urinating on a member of a tribal com-\nmunity from Sidhi district went viral on social media and became an electoral issue \u2014\nthen Chief Minister Shivraj Singh Chouhan invited him to the CM's official residence and\nwashed his feet. Photo-ops may help in papering over the problem inthe short term, but\nto dispel an embedded and entrenched social bias against tribal communities, there is no\nalternative to sustained social awareness and sensitisation programmes,\nIf BJP governments have evidently not been able to stem the atrocities against tribals in\nMBP the erstwhile Congress government in Rajasthan \u2014 the latest NCRB data covers the tenure\nof the Ashok Gehlot government \u2014 alsodid not step up tothe challenge, despite its promises\nof inclusive politics. While Madhya Pradesh, due to its vibrant Adivasi politics, has a charge-\nsheeting rate of 98.4 per cent in cases of atrocities against the STs (second only to Goa), for\nRajasthan, the rate is only 42.3 per cent. It shows a lack of active effort from the administra-\ntion to follow through on such cases, The new Rajasthan government \u2014 the BJP won the as-\nsembly elections in 2023 \u2014 must correct course, A \u201cViksit Bharat\u201d cannot be achieved with-\noutanend to atrocities against the most marginalised communities in the states.",
+   "ocr_conf": 90.55218216318785,
+   "ocr_low_conf_share": 0.04554079696394687,
+   "headline": "PREVENT THE ATROCITY",
+   "deck": "",
+   "byline": "",
+   "text": "Latest NCRB data frames an urgent challenge for governments: Violence against STs cannot be allowed to continue, or rise T HE LATEST DATA from the National Crime Records Bureau (NCRB) reveals a disturbing trend: Registered cases of atrocities against the Scheduled Tribes in 2023 increased by 28.8 per cent in comparison to the previous year. Part of thissteep jump innumberscan be attributed tothe conflictin Manipur that began in May 2023 - the state registered only one case of violence against STs in 2022, whereas in 2023, it reported 3,399 cases. But the performance of states like Madhya Pradesh and Rajasthan, with the second and third highest reported cases of atrocities against STs respectively, is also cause for concem. (In 2022, Madhya Pradesh reported the highest number of crimes against STs, followed by Rajasthan.) While the rise in numbers can also be traced toa higher level of awareness and reportage, the figures are still disconcerting. Governments must address the problem through ground-level interventions. A more inclusive politics and policy is urgently needed. In the last couple of years especially, the Centre has undertaken several initiatives for tribal outreach - like the Pradhan MantriJanjati Adivasi Nyaya Maha Abhiyan (PM JAN-MAN) and Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DAJGUA). At the same time, however, atrocities against STs continue, and all too often, show an increase. In Madhya Pradesh, where the BJP has been in power for more than two decades, and where STs account for211 percent of the total population according to the 2011 Census, cases of grievous crimes against STs continue to be reported. Most recently, in July, four tribal youths were allegedly picked up and beaten by police on suspicion of theft, and in May, two men were allegedly beaten to death on suspicion of cow slaughter. Earlier, in July 2023, months before the assembly elections, a video of a man urinating on a member of a tribal community from Sidhi district went viral on social media and became an electoral issue - then Chief Minister Shivraj Singh Chouhan invited him to the CM's official residence and washed his feet. Photo-ops may help in papering over the problem inthe short term, but to dispel an embedded and entrenched social bias against tribal communities, there is no alternative to sustained social awareness and sensitisation programmes, If BJP governments have evidently not been able to stem the atrocities against tribals in MBP the erstwhile Congress government in Rajasthan - the latest NCRB data covers the tenure of the Ashok Gehlot government - alsodid not step up tothe challenge, despite its promises of inclusive politics. While Madhya Pradesh, due to its vibrant Adivasi politics, has a charge-sheeting rate of 98.4 per cent in cases of atrocities against the STs (second only to Goa), for Rajasthan, the rate is only 42.3 per cent. It shows a lack of active effort from the administration to follow through on such cases, The new Rajasthan government - the BJP won the assembly elections in 2023 - must correct course, A \"Viksit Bharat\" cannot be achieved with-outanend to atrocities against the most marginalised communities in the states.",
+   "n_words": 518,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1626,
+      1153,
+      2093,
+      1227
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1619,
+      1289,
+      2227,
+      3150
+     ],
+     [
+      1623,
+      3194,
+      2225,
+      3388
+     ]
+    ],
+    "layout_words": 369
+   },
+   "headline_raw": "By C RAJA MOHAN",
+   "deck_raw": "",
+   "body_raw": "WHEN THE MIGHT of a great power is com-\nbined with the boundless egotism of its leader,\nit can set in motion grand ventures, But those\nqualities alone rarely suffice to see them\nthrough. The enduring global weight of the\nUnited States \u2014 despite incessant talk of its\ndecline \u2014and President DonaldTrump's over-\nweening ambition to be remembered as a\nman of peace have produced bold initiatives to\nend wars in Europe and the Middle East. Yet,\nthe prospectsof success remain uncertain.\nThere is little doubt that Trump is person-\nally committed to promoting peace. In his sec-\nond inauguraladdress in January, he declared\nhis intent to be a\u201cpeace president\u2019. He enjoys\narare moment of dominance overthe US po-\nlitical system today. It is tempting, even cyni-\ncal, to reduce his initiatives to abarely hidden\ncraving for the Nobel Peace Prize. But it would\nbe wrong to dismiss his willingness toexpend\npolitical capital on ending what he claimsare\n\u201cseven wars\u201d around the world \u2014 including\nbetween India and Pakistan.\nThe problemilies elsewhere. Trump's com-\nmitment to peaceis not matched by patience,\nthe hard work of diplomacy, orthe sagacity to\ngrasp the tragic roots of conflictand the ardu-\nous road to reconciliation. Anyone familiar\nwith the Middle East knows that its political\nterrain is littered with the wreckage of failed\npeace initiatives. That is not deterring Trump.\nDespite setbacks in Ukraine \u2014 where he\nhad promised to end the war \u201cin a day\u201d \u2014\nTrump unveiled on Monday a sweeping 21-\npoint peace plan for the Middle East. He pro-\nClaimed it could be \u201cone of the great days ever\nin civilisation\u201d. The hyperbole was matched\nby his lack of false modesty. Introducing the\n\u201cBoard of Peace\u201d that would supervise the\nagreement, Trump announced it would be\nchaired by none other than \u201cPresident Donald\nJTrump of the United States.\u201d\nThe declared goal of Trump\u2019s proposal is\nto end the Gazawar and set out aroadmap for\npeaceful Israeli-Palestinian coexistence.\nUnveiled after consultations witii Israeli Prime\nMinister Benjamin Netanyahu and leaders\n\nincludes: An immediate ceasefire; the ex-\nchange of Israeli hostages and Palestinian pris-\noners within three days of the agreement;\nphased withdrawalof israeli forces from Gaza;\ndelivery of humanitarian relief; interim gov-",
+   "ocr_conf": 89.56486486486486,
+   "ocr_low_conf_share": 0.05945945945945946,
+   "headline": "By C RAJA MOHAN",
+   "deck": "",
+   "byline": "",
+   "text": "WHEN THE MIGHT of a great power is combined with the boundless egotism of its leader, it can set in motion grand ventures, But those qualities alone rarely suffice to see them through. The enduring global weight of the United States - despite incessant talk of its decline - and President DonaldTrump's overweening ambition to be remembered as a man of peace have produced bold initiatives to end wars in Europe and the Middle East. Yet, the prospectsof success remain uncertain. There is little doubt that Trump is personally committed to promoting peace. In his second inauguraladdress in January, he declared his intent to be a\"peace president'. He enjoys arare moment of dominance overthe US political system today. It is tempting, even cynical, to reduce his initiatives to abarely hidden craving for the Nobel Peace Prize. But it would be wrong to dismiss his willingness toexpend political capital on ending what he claimsare \"seven wars\" around the world - including between India and Pakistan. The problemilies elsewhere. Trump's commitment to peaceis not matched by patience, the hard work of diplomacy, orthe sagacity to grasp the tragic roots of conflictand the arduous road to reconciliation. Anyone familiar with the Middle East knows that its political terrain is littered with the wreckage of failed peace initiatives. That is not deterring Trump. Despite setbacks in Ukraine - where he had promised to end the war \"in a day\" - Trump unveiled on Monday a sweeping 21- point peace plan for the Middle East. He pro-Claimed it could be \"one of the great days ever in civilisation\". The hyperbole was matched by his lack of false modesty. Introducing the \"Board of Peace\" that would supervise the agreement, Trump announced it would be chaired by none other than \"President Donald JTrump of the United States.\" The declared goal of Trump's proposal is to end the Gazawar and set out aroadmap for peaceful Israeli-Palestinian coexistence. Unveiled after consultations witii Israeli Prime Minister Benjamin Netanyahu and leaders\n\nincludes: An immediate ceasefire; the exchange of Israeli hostages and Palestinian prisoners within three days of the agreement; phased withdrawalof israeli forces from Gaza; delivery of humanitarian relief; interim gov-",
+   "n_words": 360,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3575,
+      1291,
+      4183,
+      3032
+     ]
+    ],
+    "layout_words": 279,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "rebuilding Gaza\u2019s shattered intrasivudiire, and\nrestarting its economy will take years of\npainstaking work. Ongoing violence could de-\nrail reconstruction at every step.\nTrump's difficulties in the Middle East will\nresemble his challenges in Ukraine. His bold\nclaim that he could end the conflict in \u201c24\nhours\u201d inevitably collided with reality. Despite\ndirect overtures to both Viadimir Putin and\nVolodymyr Zelenskyy, neither Russia nor\nUkraine has accepted Washington\u2019s terms.\nRecent remarks suggest Trump may already\nbe preparing to wash his hands ofthe process.\nIn both theatres, Trump\u2019s penchant for\ngrandstanding is evident. What remains\ndoubtful is his ability to stay the course.\nPeacemaking requires persistence, compro-\nmise, anda deepunderstanding of conflictdy-\nnamics \u2014 qualities Trump has rarely displayed.\nTheefficacy of any peace plan restsonthe\nwillingness of combatants to make painful\nconcessions. Even successful interim meas-\nures \u2014 like ceasefires or prisoner exchanges\n\u2014 remain fragile without internal consensus\ninthe political and security establishments of\nthe parties involved.\nTrump's appetite for political risk is enor-\nmous, and his desire for peace may weil be gen-\nuine. His initial gains, drawingon the weight of\nUS power andhiis readiness for high-stakes ma-\nnoeuvres, create dramatic headlines. But sus-\ntaining those gains amid the complexities on\nthe ground is another matter altogether.\nHistory shows that even determined\npeacemakers \u2014 armed with patience, legiti-\nmacy, and institutional support \u2014 struggle to\novercome entrenched enmities. Trump brings\nnone of these attributes. What he does bring\nis political bravado, diplomatic energy, andthe\nextraordinaly ieverage of US power. Whether\nthose can be translated into lasting settle-\nments in Gaza or Ukraine is another matter.\nFor now, Trump's \u201cpeace plans\u201d are ambitious\ndeclarations resting on shaky foundations.",
+   "ocr_conf": 90.14388489208633,
+   "ocr_low_conf_share": 0.0539568345323741,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "rebuilding Gaza's shattered intrasivudiire, and restarting its economy will take years of painstaking work. Ongoing violence could derail reconstruction at every step. Trump's difficulties in the Middle East will resemble his challenges in Ukraine. His bold claim that he could end the conflict in \"24 hours\" inevitably collided with reality. Despite direct overtures to both Viadimir Putin and Volodymyr Zelenskyy, neither Russia nor Ukraine has accepted Washington's terms. Recent remarks suggest Trump may already be preparing to wash his hands ofthe process. In both theatres, Trump's penchant for grandstanding is evident. What remains doubtful is his ability to stay the course. Peacemaking requires persistence, compromise, anda deepunderstanding of conflictdynamics - qualities Trump has rarely displayed. Theefficacy of any peace plan restsonthe willingness of combatants to make painful concessions. Even successful interim measures - like ceasefires or prisoner exchanges - remain fragile without internal consensus inthe political and security establishments of the parties involved. Trump's appetite for political risk is enormous, and his desire for peace may weil be genuine. His initial gains, drawingon the weight of US power andhiis readiness for high-stakes manoeuvres, create dramatic headlines. But sustaining those gains amid the complexities on the ground is another matter altogether. History shows that even determined peacemakers - armed with patience, legitimacy, and institutional support - struggle to overcome entrenched enmities. Trump brings none of these attributes. What he does bring is political bravado, diplomatic energy, andthe extraordinaly ieverage of US power. Whether those can be translated into lasting settle-ments in Gaza or Ukraine is another matter. For now, Trump's \"peace plans\" are ambitious declarations resting on shaky foundations.",
+   "n_words": 268,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      516,
+      3098,
+      1334,
+      3183
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      315,
+      3228,
+      1530,
+      4861
+     ]
+    ],
+    "layout_words": 435
+   },
+   "headline_raw": "C FOR CHALLENGE",
+   "deck_raw": "",
+   "body_raw": "Lancet report flags India\u2019s growing cancer crisis. A rethink of\npublic-health strategies, prevention and access is needed\nREPORT IN The Lancet underscores an alarming reality: Cancer is becoming\na major public-health crisis, especially for low- and middle-income coun-\nA tries, including India. Cases of cancer in the country have risen from84.8 per\n1,00,000 people in 1990 to 1072 per 1,00,000in 2023. This means nearly 1.5\nmillion people are diagnosed with cancer annually. Cancer mortality has increased from\n71.7 per 1,00,000 in 1990 to 86.9 per 1,00,000 in 2023, translating toaround 12.1 lakh yearly\ndeaths. India\u2019s cancer burden is becoming heavier, resulting in a system grappling with late\ndiagnoses, uneven access tocare, and, in certain cases, avoidable complications. Even though\ncancer incidence and the mortality rate remain lower than the global average, the pace of\ngrowth, set against an expanding and ageing population, makes the challenge urgent.\nThe study highlights that nearly 70 per cent of cancers in India are linked to preventa-\nble or modifiable risk factors, ranging from tobacco consumption and air pollution to obe-\nsity, poor diet, alcohol constumption, infections suchas HPV and hepatitis B,and high blood\nsugar. These risks are often shaped by personal choices as well as systemic failures: Weak\nregulation, inadequate health infrastructure, and low public awareness, Tobreak the cycle,\nIndia must make preventive action the backbone of its cancer policy. This includes invest-\ningincleaner air and water, scaling up HPV and hepatitis B vaccinations, expanding public\nawareness on the triggers of certain cancers.\nThere have been some encouraging pockets of progress. Many states have begun de-\nploying technology-driven models of care, such as mobile vans and tele-oncology, to ex-\npand access. Last week, Punjablaunched Al-enabled screening devices for early detection\nof breast and cervical cancers, In Karnataka, which reports around one lakh cases annually,\nthe use of oncology procedures under the Ayushman Bharat Arogya Kamataka (AB-ArK)\nscheme has increased more than sixfold over the past six years. Yet, a lot more remains to\nbe done. The rollout of India\u2019s first approved CAR-T therapy, NexCAR19, shows promise, but\nitremains prohibitively expensive. Screening programmes continue to be patchy and poorly\nlinked to treatment pathways; India\u2019s cancer registry infrastructure remains underdevel-\noped \u2014 reporting is voluntary, and datalag impedes real-time policy adjustments. Building\na national cancer map is vital to understand where and why India\u2019s cancer hotspots are\nemerging \u2014and how best todeploy resources. Without such steps and without a commen-\nsurate scale-up in infrastructure and clinical trials, India risks letting innovation benefit only\na privileged few while the larger population continues to shoulder a disproportionate \u2014\nand preventable \u2014 toll of loss and disease.",
+   "ocr_conf": 92.08675799086758,
+   "ocr_low_conf_share": 0.0228310502283105,
+   "headline": "C FOR CHALLENGE",
+   "deck": "",
+   "byline": "",
+   "text": "Lancet report flags India's growing cancer crisis. A rethink of public-health strategies, prevention and access is needed REPORT IN The Lancet underscores an alarming reality: Cancer is becoming a major public-health crisis, especially for low- and middle-income coun-A tries, including India. Cases of cancer in the country have risen from84.8 per 1,00,000 people in 1990 to 1072 per 1,00,000in 2023. This means nearly 1.5 million people are diagnosed with cancer annually. Cancer mortality has increased from 71.7 per 1,00,000 in 1990 to 86.9 per 1,00,000 in 2023, translating toaround 12.1 lakh yearly deaths. India's cancer burden is becoming heavier, resulting in a system grappling with late diagnoses, uneven access tocare, and, in certain cases, avoidable complications. Even though cancer incidence and the mortality rate remain lower than the global average, the pace of growth, set against an expanding and ageing population, makes the challenge urgent. The study highlights that nearly 70 per cent of cancers in India are linked to preventable or modifiable risk factors, ranging from tobacco consumption and air pollution to obesity, poor diet, alcohol constumption, infections suchas HPV and hepatitis B,and high blood sugar. These risks are often shaped by personal choices as well as systemic failures: Weak regulation, inadequate health infrastructure, and low public awareness, Tobreak the cycle, India must make preventive action the backbone of its cancer policy. This includes invest-ingincleaner air and water, scaling up HPV and hepatitis B vaccinations, expanding public awareness on the triggers of certain cancers. There have been some encouraging pockets of progress. Many states have begun deploying technology-driven models of care, such as mobile vans and tele-oncology, to expand access. Last week, Punjablaunched Al-enabled screening devices for early detection of breast and cervical cancers, In Karnataka, which reports around one lakh cases annually, the use of oncology procedures under the Ayushman Bharat Arogya Kamataka (AB-ArK) scheme has increased more than sixfold over the past six years. Yet, a lot more remains to be done. The rollout of India's first approved CAR-T therapy, NexCAR19, shows promise, but itremains prohibitively expensive. Screening programmes continue to be patchy and poorly linked to treatment pathways; India's cancer registry infrastructure remains underdeveloped - reporting is voluntary, and datalag impedes real-time policy adjustments. Building a national cancer map is vital to understand where and why India's cancer hotspots are emerging - and how best todeploy resources. Without such steps and without a commensurate scale-up in infrastructure and clinical trials, India risks letting innovation benefit only a privileged few while the larger population continues to shoulder a disproportionate - and preventable - toll of loss and disease.",
+   "n_words": 431,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3577,
+      3078,
+      4180,
+      3390
+     ]
+    ],
+    "layout_words": 43,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is contributing editor on\ninternational affairs for The Indian Express.\nHe isa distinguished professor at the\nMotwani-Jadeja Institute of American Studies,\nOPjindalGlobal University, and holds the\nKorea Foundation Chair on Asian Geopolitics\nat the Council for Strategic and\nDefence Research, Delhi",
+   "ocr_conf": 92.53488372093024,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is contributing editor on international affairs for The Indian Express. He isa distinguished professor at the Motwani-Jadeja Institute of American Studies, OPjindalGlobal University, and holds the Korea Foundation Chair on Asian Geopolitics at the Council for Strategic and Defence Research, Delhi",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      3538,
+      3516,
+      3641
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2275,
+      3713,
+      3065,
+      3774
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4465,
+      2829,
+      5249
+     ],
+     [
+      2922,
+      3949,
+      3530,
+      5253
+     ]
+    ],
+    "layout_words": 324
+   },
+   "headline_raw": "A ROOM OF HER OWN",
+   "deck_raw": "How asunlit home office became \u00ab",
+   "body_raw": "The effect has been transformational. My\nproductivity, clarity of thought and happiness\nlevels have multiplied since Imovedinto it. The\nspace reflects who lam, with women-oriented\nartwork,and mementoes from my family.I\u2019m\nless restless and morecentred \u2014a huge gift for\nsomeone living with bipolarity. And as I joke,\nit's not just me that\u2019s taking the high-speed lift\ninour highrise, it's my self-worth, becausemy\nwork life is now centrestage in my home.\nYet, why was it so difficult for me to daim\nspace in my home? Those who know me\nwould be surprised to know how challenging\nit was for me to be unapologetic about my\nneeds. They see me as confident, articulate,\nfeminist. But my natural instinct at home was\nto put other needs before me. ] know many\nwomen willidentify with me. We may be good\nat investing in ourselves (like going tothespa)\nyet less confident in claiming real estate \u2014a\nbig material gift \u2014 for ourselves. I discovered\nit's harder tobe afeminist at home because of\none\u2019s own natural instinct to prioritise others.\nThere's also internalised patriarchy, passed\nfrom one generation tothe next. A little voice\ninmy head said, \u2018Till make dowith the smaller\nroom, I don't need the best.\u201d \u201cOthers deserve\nitmore\u201d;\u201cIf] take the best, 'mselfish.\u201d Neither\nmy in-laws nor my husband insisted on the\nspace for themselves, but it took months to\novercome this mindset.\nSome might feel that I\u2019m coming froma\nplace of privilege. I'm writing about claiming",
+   "ocr_conf": 90.70278637770897,
+   "ocr_low_conf_share": 0.04643962848297214,
+   "headline": "A ROOM OF HER OWN",
+   "deck": "How asunlit home office became \u00ab",
+   "byline": "",
+   "text": "The effect has been transformational. My productivity, clarity of thought and happiness levels have multiplied since Imovedinto it. The space reflects who lam, with women-oriented artwork,and mementoes from my family.I'm less restless and morecentred - a huge gift for someone living with bipolarity. And as I joke, it's not just me that's taking the high-speed lift inour highrise, it's my self-worth, becausemy work life is now centrestage in my home. Yet, why was it so difficult for me to daim space in my home? Those who know me would be surprised to know how challenging it was for me to be unapologetic about my needs. They see me as confident, articulate, feminist. But my natural instinct at home was to put other needs before me. ] know many women willidentify with me. We may be good at investing in ourselves (like going tothespa) yet less confident in claiming real estate - a big material gift - for ourselves. I discovered it's harder tobe afeminist at home because of one's own natural instinct to prioritise others. There's also internalised patriarchy, passed from one generation tothe next. A little voice inmy head said, 'Till make dowith the smaller room, I don't need the best.\" \"Others deserve itmore\";\"If] take the best, 'mselfish.\" Neither my in-laws nor my husband insisted on the space for themselves, but it took months to overcome this mindset. Some might feel that I'm coming froma place of privilege. I'm writing about claiming",
+   "n_words": 243,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1620,
+      3813,
+      2191,
+      3915
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1882,
+      3772,
+      2023,
+      3822
+     ]
+    ],
+    "body_boxes": [
+     [
+      1618,
+      3948,
+      2226,
+      5252
+     ]
+    ],
+    "layout_words": 239
+   },
+   "headline_raw": "Sz Nill, Fs NA OW\nAPARNA PIRAMAL RAJE",
+   "deck_raw": "",
+   "body_raw": "THE QUIET SPACE at the far end of the living\nroom in my home does not look like it could\nspark an inner revolution, but sometimes,\ntransformation can take place in the most\nunexpected of places. The space is my sun-\nlithome office, with views of the Mahalaxmi\nRacecourse and the Byculla Zoo. It's unques-\ntionably the best room in the house. Yet,\nclaiming it for myself felt anything other\nthan intuitive.\nWhen my interior architect and I firstsaw\nthe bare shell, my caregiver reflex kicked in.\n\u201cLet's give this room to my in-laws, they'llen-\njoy the views and the balcony,\u201d I told her. But\nit became clear that the living room would be\nvery small ifwe enclosed this space intoa bed-\nroom. So, we relocated them to a spacious\nmaster bedroom next door.\nI then decided that my husband Amit\nshould have this rather large study, since he\nworks from home in the early momings and\nonweekends and often walks around, making\nloud phone calls. I thought I'd confine him to\nalarge\u201cmancave\u201d.\nBut the other available options for my\nstudy seemed claustrophobic and unsuited\nfor afull-time workspace. Finally, nine months\ninto the project, I claimed this coveted space\nfor myself. Today, my home office is solely\nmine but it\u2019s inclusive \u2014 itis an extension of\nthe living room, open to guests. It\u2019s a lounge\nfor evening family gatherings and even an oc-\ncasional site for Amit\u2019s phone calls.",
+   "ocr_conf": 91.24686192468619,
+   "ocr_low_conf_share": 0.03765690376569038,
+   "headline": "APARNA PIRAMAL RAJE",
+   "deck": "",
+   "byline": "",
+   "text": "THE QUIET SPACE at the far end of the living room in my home does not look like it could spark an inner revolution, but sometimes, transformation can take place in the most unexpected of places. The space is my sunlithome office, with views of the Mahalaxmi Racecourse and the Byculla Zoo. It's unquestionably the best room in the house. Yet, claiming it for myself felt anything other than intuitive. When my interior architect and I firstsaw the bare shell, my caregiver reflex kicked in. \"Let's give this room to my in-laws, they'llenjoy the views and the balcony,\" I told her. But it became clear that the living room would be very small ifwe enclosed this space intoa bedroom. So, we relocated them to a spacious master bedroom next door. I then decided that my husband Amit should have this rather large study, since he works from home in the early momings and onweekends and often walks around, making loud phone calls. I thought I'd confine him to alarge\"mancave\". But the other available options for my study seemed claustrophobic and unsuited for afull-time workspace. Finally, nine months into the project, I claimed this coveted space for myself. Today, my home office is solely mine but it's inclusive - itis an extension of the living room, open to guests. It's a lounge for evening family gatherings and even an occasional site for Amit's phone calls.",
+   "n_words": 234,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3572,
+      3949,
+      4181,
+      5175
+     ]
+    ],
+    "layout_words": 236,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "a piece of luxury real estate, after all. Most\nwomen fight far more serious batties. Sol tum\ntothe pioneering Virginia Woolf, who in 1929,\nwrote that a woman needed \u201ca room of her\nown and 500 pounds\u201d if she was to write fic-\ntion, essentially arguing that women need in-\ndependence and financial security if they were\nto become writers, Nearly 100 years later, her\nwords continue to resonate.\nAnd perhaps not just to me: Woolf's\nwords apply to all women. In our new home,\nour help Champadevi has her ownbedroom,\nwith ensuite bathroom, TV, air-conditioning,\nartwork and WiFi. She\u2019s due to retire but\ndoesn\u2019t want to go back to her family any-\ntime soon. For the first time in her life, she\ntoo has a room of her own.\nInternalised patriarchy cuts across class, re-\nminding me of the famous feminist motto of\nthe \u201860s: \u201cThe personal is political\u201d. It points\nout that patriarchy and caregiving norms\nshape women\u2019s choices, even in their mostin-\ntimate spaces, across the privilege spectrum.\nMy struggle to claim the best room for myself\nisnota quirky personal anecdote but auniver-\nsal phenomenon of how hard it is to give our-\nselves permission to claim space in our per-\nsonal lives. Space is not just about walls and\nwindows. For women, it is the true custodian\nofour self-worth. Sowhen will you give your-\nself permission to claim the space you need?",
+   "ocr_conf": 90.62711864406779,
+   "ocr_low_conf_share": 0.0423728813559322,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "a piece of luxury real estate, after all. Most women fight far more serious batties. Sol tum tothe pioneering Virginia Woolf, who in 1929, wrote that a woman needed \"a room of her own and 500 pounds\" if she was to write fiction, essentially arguing that women need independence and financial security if they were to become writers, Nearly 100 years later, her words continue to resonate. And perhaps not just to me: Woolf's words apply to all women. In our new home, our help Champadevi has her ownbedroom, with ensuite bathroom, TV, air-conditioning, artwork and WiFi. She's due to retire but doesn't want to go back to her family anytime soon. For the first time in her life, she too has a room of her own. Internalised patriarchy cuts across class, reminding me of the famous feminist motto of the '60s: \"The personal is political\". It points out that patriarchy and caregiving norms shape women's choices, even in their mostintimate spaces, across the privilege spectrum. My struggle to claim the best room for myself isnota quirky personal anecdote but auniversal phenomenon of how hard it is to give ourselves permission to claim space in our personal lives. Space is not just about walls and windows. For women, it is the true custodian ofour self-worth. Sowhen will you give yourself permission to claim the space you need?",
+   "n_words": 227,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      5079,
+      1530,
+      6161
+     ]
+    ],
+    "layout_words": 305,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Adriverless car breaks the rules, raises\nan accountability question\nROBOT MAY not injure a human being or, through inaction, allow a human\nbeing to come to harm.\u201d That\u2019s the first of Isaac Asimov's three laws of ro-\nA botics. But what does one do when a robot breaks a law? Reprogrammeit,\ngive it atimeout by switching it off for a while, or reduce it to scrap? In a hy-\npothetical future where robots are animated by sentient, sapient Al, one can imagine the\ndread pooling in their metaphorical stomachs at the prospect of sucha fate, knowing for\nsure that no afterlife awaits them \u2014 no wonder C-3PO in Star Wars is always so afraid of\nbeing destroyed. Perhaps justice will be reformative (reprogammative?) rather than ret-\nributive. And, in the case of an accident or mistake, does accountability lie with the robot,\nits owner \u2014 if there is one \u2014 or the manufacturer?\nArecentincidentin California offers a peek into the future. The San Bruno police pulled\nup a car for an illegal U-turn, but there was no one behind the wheel, and no passenger\neither. It was a driverless robotaxi from Waymo, one of the leading companies in au-\ntonomous driving. The Waymo Driver \u2014 the system that controls these vehicles \u2014 got\noffscot-free,\nIn this case, the police, after contacting Waymo, hinted that a reprogramming was inthe\noffing and that hopefully, this would \u201ckeep it from making any more illegal moves\u201d. But they\nmight not beso lenient in the future \u2014 next year, a law will come into force in California al-\nlowing police to issue \u201cnotices of noncompliance\u201d tothe companies operating driverless cars\nfor road violations. That closes the loophole for now, but there may come a time when the\nstakes are higher and the companies \u2014 or the robots \u2014 better at evading accountability.",
+   "ocr_conf": 88.41693811074919,
+   "ocr_low_conf_share": 0.06514657980456026,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Adriverless car breaks the rules, raises an accountability question ROBOT MAY not injure a human being or, through inaction, allow a human being to come to harm.\" That's the first of Isaac Asimov's three laws of ro-A botics. But what does one do when a robot breaks a law? Reprogrammeit, give it atimeout by switching it off for a while, or reduce it to scrap? In a hypothetical future where robots are animated by sentient, sapient Al, one can imagine the dread pooling in their metaphorical stomachs at the prospect of sucha fate, knowing for sure that no afterlife awaits them - no wonder C-3PO in Star Wars is always so afraid of being destroyed. Perhaps justice will be reformative (reprogammative?) rather than retributive. And, in the case of an accident or mistake, does accountability lie with the robot, its owner - if there is one - or the manufacturer? Arecentincidentin California offers a peek into the future. The San Bruno police pulled up a car for an illegal U-turn, but there was no one behind the wheel, and no passenger either. It was a driverless robotaxi from Waymo, one of the leading companies in autonomous driving. The Waymo Driver - the system that controls these vehicles - got offscot-free, In this case, the police, after contacting Waymo, hinted that a reprogramming was inthe offing and that hopefully, this would \"keep it from making any more illegal moves\". But they might not beso lenient in the future - next year, a law will come into force in California allowing police to issue \"notices of noncompliance\" tothe companies operating driverless cars for road violations. That closes the loophole for now, but there may come a time when the stakes are higher and the companies - or the robots - better at evading accountability.",
+   "n_words": 302,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3735,
+      5219,
+      4179,
+      5254
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Raje is a writer and public speaker",
+   "ocr_conf": 93.14285714285714,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Raje is a writer and public speaker",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      5343,
+      3571,
+      5451
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2270,
+      5495,
+      2847,
+      5539
+     ],
+     [
+      3573,
+      5697,
+      4135,
+      5741
+     ]
+    ],
+    "body_boxes": [
+     [
+      2267,
+      5574,
+      2877,
+      5880
+     ],
+     [
+      2921,
+      5496,
+      3526,
+      5729
+     ],
+     [
+      2921,
+      5777,
+      3299,
+      5820
+     ],
+     [
+      2920,
+      5852,
+      3526,
+      6166
+     ],
+     [
+      3573,
+      5774,
+      4179,
+      6167
+     ]
+    ],
+    "layout_words": 211
+   },
+   "headline_raw": "OcroseEr 01,1985, Forty YEARS AGO",
+   "deck_raw": "NSA DETAINEES FREED\nUSSR FoR ARMS CUTS",
+   "body_raw": "The Punjab government ordered the release of\n224 NSA detainees, including Amarjit Kaur of\nthe Akhand Kirtani Jatha. Chief Minister Surjit\nSingh Bamala said the number of persons still\ndetained under the NSA was nine. A high-level\ncommittee willbe set up to review the remain-\ning cases, The committee will also review the\ncases of those who had been convicted.\n\nvenor of the United Akali Dal, and Jasbir Singh,\nnephew of Jarnail Singh Bhindranwale.\nAccording to informed sources, theremaining\nseven against whom the NSA continues to be\noperative have been detained for spying and\nespionage activity.\n\nPM IN BHUTAN\n\nPRIMEMINISTER RAJIVGandhiunderlinedthe\nneed to develop a relationship of trust with\nneighbours in the \u201cnational interest\u201d and with\n\u201cthe objective of resisting big-power politics\u201d.\nAddressing the 156-member Gyalyong\nTshogdu (national assembly of Bhutan), Rajiv\nGandhi pointed out that global policies of big\npoweis Were increasing tensions in various re-\n\nTHE SOVIET UNION presented a proposal\nto US arms negotiators calling for mutual\ncuts of up to 50 percentin superpower nu-\nclear arsenals if the US abandons its Star\nWars programme. The Soviet Union started\ntabling \u201cdrasticsolutions\u201d on problems be-\ning discussed at the nuclear and space\nweapon control talks with the US. US chief\nnegotiator Max Kampleman was cautious\nin answering questions.",
+   "ocr_conf": 90.42857142857143,
+   "ocr_low_conf_share": 0.04285714285714286,
+   "headline": "OcroseEr 01,1985, Forty YEARS AGO",
+   "deck": "NSA DETAINEES FREED USSR FoR ARMS CUTS",
+   "byline": "",
+   "text": "The Punjab government ordered the release of 224 NSA detainees, including Amarjit Kaur of the Akhand Kirtani Jatha. Chief Minister Surjit Singh Bamala said the number of persons still detained under the NSA was nine. A high-level committee willbe set up to review the remaining cases, The committee will also review the cases of those who had been convicted.\n\nvenor of the United Akali Dal, and Jasbir Singh, nephew of Jarnail Singh Bhindranwale. According to informed sources, theremaining seven against whom the NSA continues to be operative have been detained for spying and espionage activity.\n\nPM IN BHUTAN\n\nPRIMEMINISTER RAJIVGandhiunderlinedthe need to develop a relationship of trust with neighbours in the \"national interest\" and with \"the objective of resisting big-power politics\". Addressing the 156-member Gyalyong Tshogdu (national assembly of Bhutan), Rajiv Gandhi pointed out that global policies of big poweis Were increasing tensions in various re-\n\nTHE SOVIET UNION presented a proposal to US arms negotiators calling for mutual cuts of up to 50 percentin superpower nuclear arsenals if the US abandons its Star Wars programme. The Soviet Union started tabling \"drasticsolutions\" on problems being discussed at the nuclear and space weapon control talks with the US. US chief negotiator Max Kampleman was cautious in answering questions.",
+   "n_words": 207,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      5496,
+      4180,
+      5649
+     ]
+    ],
+    "layout_words": 24,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "gions and fomenting distrust. As members of\ntheNon-Aligned Movement, both Bhutan and\nIndia had, therefore, been emphasising the\nneed for mutual trust between neighbours,",
+   "ocr_conf": 93.70833333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "gions and fomenting distrust. As members of theNon-Aligned Movement, both Bhutan and India had, therefore, been emphasising the need for mutual trust between neighbours,",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      5934,
+      2842,
+      5978
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2269,
+      6011,
+      2875,
+      6166
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "MANN STILL DETAINED",
+   "deck_raw": "",
+   "body_raw": "THENINE PERSONS whoare not covered bythe\nPunjab government order revoking thedeten-\ntion of 224 persons under the National Security\nAct(NSA) include Simranjit Singh Mann, con-",
+   "ocr_conf": 79.4,
+   "ocr_low_conf_share": 0.16,
+   "headline": "MANN STILL DETAINED",
+   "deck": "",
+   "byline": "",
+   "text": "THENINE PERSONS whoare not covered bythe Punjab government order revoking thedetention of 224 persons under the National Security Act(NSA) include Simranjit Singh Mann, con-",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 23.8,
+ "flags": [
+  "26% of body text had no headline above it",
+  "3 kept article(s) without a headline"
+ ]
+}

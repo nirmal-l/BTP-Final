@@ -1,0 +1,771 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_21_editorial",
+ "source_file": "2025-05-21_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-21_editorial.png",
+ "date": "2025-05-21",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 461,
+  "mean_line_conf": 89.82096390731196,
+  "orphan_words": 201,
+  "body_words_total": 3364
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      949,
+      960
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH",
+   "ocr_conf": 91.16666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1956,
+      598,
+      3841,
+      821
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2240,
+      885,
+      3569,
+      1018
+     ]
+    ],
+    "body_boxes": [
+     [
+      2319,
+      1958,
+      2829,
+      3344
+     ],
+     [
+      2922,
+      1251,
+      3529,
+      1921
+     ]
+    ],
+    "layout_words": 214
+   },
+   "headline_raw": "The shadow triangle",
+   "deck_raw": "What makes this face-off with Pak structurally different\nis China\u2019s embedded role, a new strategic geometry",
+   "body_raw": "The reappearance of\nhyphenation in global\ndiscourse, particularly\nthrough American\nstatements seeking to \u2018own\nthe ceasefire\u2019, is a diplomatic\nregression. For over two\ndecades, India has sought to\ndecouple its international\npositioning from Pakistan,\nleveraging its economic\nscale, democratic\ngovernance, and global\npartnerships. Yet, crisis has\na gravitational pull. Even\nmomentary equivalence \u2014\nintended as diplomatic\nsymmetry \u2014 risks\nlegitimising Pakistan's parity\nnarrative. India must engage\ndiplomatically but reject\nframeworks that reduce its\nglobal profile to regional\nconflict management. The\nmessage must remain clear:\nThis is not a clash of equals\nbut of a rules-based state\nand a revisionist actor.\n\nplaybook \u2014 urging restraint, activating diplo-\nmatic channels, and engaging both sides with\npublic neutrality. While this reflects institu-\ntional continuity, italso underscores the limits\nof trust in India-US relations when itcomes to\ncrisis scenarios. Despite deeper strategic ties\n\u2014 spanning defence, technology, and Indo-\nPacific cooperation \u2014 the US's reflex remains\nde-escalation over alignment For India, this is\na reminder that strategic partnerships do not\nalways transiate into narrative control. Pakistan\nhas seized the moment to showcase US in-\nvolvement asa form ofrecognition. By ampli-\nfying external mediation, Islamabad attemnts\nto recast itself not as a provocateur but a co-\nequal party in a bilateral dispute. India must\nresistresponding on those terms. Strategicma-",
+   "ocr_conf": 91.33177570093459,
+   "ocr_low_conf_share": 0.04205607476635514,
+   "headline": "The shadow triangle",
+   "deck": "What makes this face-off with Pak structurally different is China's embedded role, a new strategic geometry",
+   "byline": "",
+   "text": "The reappearance of hyphenation in global discourse, particularly through American statements seeking to 'own the ceasefire', is a diplomatic regression. For over two decades, India has sought to decouple its international positioning from Pakistan, leveraging its economic scale, democratic governance, and global partnerships. Yet, crisis has a gravitational pull. Even momentary equivalence - intended as diplomatic symmetry - risks legitimising Pakistan's parity narrative. India must engage diplomatically but reject frameworks that reduce its global profile to regional conflict management. The message must remain clear: This is not a clash of equals but of a rules-based state and a revisionist actor.\n\nplaybook - urging restraint, activating diplomatic channels, and engaging both sides with public neutrality. While this reflects institutional continuity, italso underscores the limits of trust in India-US relations when itcomes to crisis scenarios. Despite deeper strategic ties - spanning defence, technology, and Indo-Pacific cooperation - the US's reflex remains de-escalation over alignment For India, this is a reminder that strategic partnerships do not always transiate into narrative control. Pakistan has seized the moment to showcase US involvement asa form ofrecognition. By amplifying external mediation, Islamabad attemnts to recast itself not as a provocateur but a coequal party in a bilateral dispute. India must resistresponding on those terms. Strategicma-",
+   "n_words": 208,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      440,
+      1089,
+      1408,
+      1192
+     ]
+    ],
+    "deck_boxes": [
+     [
+      328,
+      1231,
+      1526,
+      1329
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      1367,
+      1531,
+      3185
+     ]
+    ],
+    "layout_words": 538
+   },
+   "headline_raw": "A LIFE IN SCIENCE",
+   "deck_raw": "Jayant Narlikar challenged dominant theories, nurtured talent\nand made niche research accessible",
+   "body_raw": "N THE EARLY 1990s, Jayant Narlikar wrote a Marathi short story, Athenscha Plague\n(The Plague in Athens), which featured avirus unleashed by an asteroid. Ina fic-\ntional replay of the great Athens plague, the Greek city gets swept away. However,\nunlike the ancient epidemic, whose causes remain unknown, Narlikar's Athens\nwas ravaged by a pathogen from space. A few years later, the cosmologist led an experi-\nmentto collect microorganisms from the upper atmosphere. His research suggested ev-\nidence of living matter in the stratosphere. Did some of them seed life on Earth? Narlikar\ncounselled caution and talked of the need for more experiments. The short story and the\nexperiment on the possibilities of microbial life outside Earth encapsulated Narlikar's\napproach. The cosmologist, who passed away, at 87 on Tuesday, believed in pushing the\nlimits of possibilities, Narlikar, the writer, took readers on exploratory journeys. Narlikar,\nthe astrophysicist, challenged dominant theories and worked assiduously to build evi-\ndencetosubstantiate his claims. His jong collaboration with mentor and British astrophysi-\ncist Fred Hoyle produced the most significant critique of the influential Big Bang theory.\nThe building blocks of the Hoyle-Narlikar Quasi Steady State Cosmology theory \u2014 it con-\ntends that theuniverse did not originate in one Big Bang, but has existed forinfinitetimeand\nhas developed in small spurts \u2014 were forged when the young astrophysicist worked with\nhis mentor in Cambridge. But Narlikar belonged toa generation of scientists such as Madhav\nGadgil, indira Nath and Venkataraman Radhakrishnan, who gave up thriving careers in\nrenowned global labs tonurture research and hone talent in Indian institutions. The astro-\nphysicist took upa position at the Tata Institute of Fundamental Research in 1972, where he\ntrained scientists whose work would have a seminal influence on Indian astrophysics \u2014\nthey include Ajit Kembhavi, the late Thanu Padmanabhan and Sanjeev Dhurandhar. In the\nlate 1980s, when the UGC invited him to create the Inter-University Centre for Astronomy\nand Astrophysics (IUCAA), Narlikar suggested that the institute be set up within an existing\nuniversity. Conceived as a hub where scholars from across Indian universities could come\ntogether to brainstorm and share resources, Narlikar\u2019s most enduring institutional legacy\nstarted in a small room in the Pune University campus in 1988. However, in a few years, it\nexpanded into a vibrant institution, equipped with state-of-the-art labs and telescopes.\nNarlikar saw himself as more than an academic. He wrote scripts for TV and was a reg-\nular contributor to newspapers. The astrophysicist would often use the example of veg-\netable prices to explain the quasi-steady state cosmology theory \u2014 prices go up and down\ndepending on seasons, but over a decade, they go up regardless of the season. Likewise, he\nwould say, the universe goes through cycles of contraction and expansion, but evolves\nover the long term. He anticipated the predicaments of the Al age in his novel, The Return\nof Vaman, in which a machine outwits its programmer. The scientist often drew inspira-\ntion from Indian traditions \u2014 he reportedly asked architect Charles Correa to design the IU-\nCAA campus according to Buddhist concepts. At the same time, Narlikar made it a mis-\nsion to counter pseudoscience and astrology. He made science accessibie while underlining\nthatthere were no shortcuts to excellence.",
+   "ocr_conf": 91.30912476722533,
+   "ocr_low_conf_share": 0.03910614525139665,
+   "headline": "A LIFE IN SCIENCE",
+   "deck": "Jayant Narlikar challenged dominant theories, nurtured talent and made niche research accessible",
+   "byline": "",
+   "text": "N THE EARLY 1990s, Jayant Narlikar wrote a Marathi short story, Athenscha Plague (The Plague in Athens), which featured avirus unleashed by an asteroid. Ina fictional replay of the great Athens plague, the Greek city gets swept away. However, unlike the ancient epidemic, whose causes remain unknown, Narlikar's Athens was ravaged by a pathogen from space. A few years later, the cosmologist led an experimentto collect microorganisms from the upper atmosphere. His research suggested evidence of living matter in the stratosphere. Did some of them seed life on Earth? Narlikar counselled caution and talked of the need for more experiments. The short story and the experiment on the possibilities of microbial life outside Earth encapsulated Narlikar's approach. The cosmologist, who passed away, at 87 on Tuesday, believed in pushing the limits of possibilities, Narlikar, the writer, took readers on exploratory journeys. Narlikar, the astrophysicist, challenged dominant theories and worked assiduously to build evidencetosubstantiate his claims. His jong collaboration with mentor and British astrophysicist Fred Hoyle produced the most significant critique of the influential Big Bang theory. The building blocks of the Hoyle-Narlikar Quasi Steady State Cosmology theory - it contends that theuniverse did not originate in one Big Bang, but has existed forinfinitetimeand has developed in small spurts - were forged when the young astrophysicist worked with his mentor in Cambridge. But Narlikar belonged toa generation of scientists such as Madhav Gadgil, indira Nath and Venkataraman Radhakrishnan, who gave up thriving careers in renowned global labs tonurture research and hone talent in Indian institutions. The astrophysicist took upa position at the Tata Institute of Fundamental Research in 1972, where he trained scientists whose work would have a seminal influence on Indian astrophysics - they include Ajit Kembhavi, the late Thanu Padmanabhan and Sanjeev Dhurandhar. In the late 1980s, when the UGC invited him to create the Inter-University Centre for Astronomy and Astrophysics (IUCAA), Narlikar suggested that the institute be set up within an existing university. Conceived as a hub where scholars from across Indian universities could come together to brainstorm and share resources, Narlikar's most enduring institutional legacy started in a small room in the Pune University campus in 1988. However, in a few years, it expanded into a vibrant institution, equipped with state-of-the-art labs and telescopes. Narlikar saw himself as more than an academic. He wrote scripts for TV and was a regular contributor to newspapers. The astrophysicist would often use the example of vegetable prices to explain the quasi-steady state cosmology theory - prices go up and down depending on seasons, but over a decade, they go up regardless of the season. Likewise, he would say, the universe goes through cycles of contraction and expansion, but evolves over the long term. He anticipated the predicaments of the Al age in his novel, The Return of Vaman, in which a machine outwits its programmer. The scientist often drew inspiration from Indian traditions - he reportedly asked architect Charles Correa to design the IU-CAA campus according to Buddhist concepts. At the same time, Narlikar made it a mission to counter pseudoscience and astrology. He made science accessibie while underlining thatthere were no shortcuts to excellence.",
+   "n_words": 525,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1623,
+      1141,
+      2015,
+      1184
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "NIRUPAMA RAO",
+   "ocr_conf": 93.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "NIRUPAMA RAO",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1621,
+      1250,
+      2230,
+      1992
+     ]
+    ],
+    "layout_words": 119,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE RECENT BOUT of hostilities between\nIndiaand Pakistan has once again exposedthe\nfragility ofdeterrence in South Asia. Thistime,\nhowever, the conflict cannot be framed solely\nasa bilateral flashpoint. While the triggers re-\nmain familiar \u2014 cross-border provocation and\nmilitary response \u2014 the broader context has\nshifted significantly. The United States, return-\ning to its well-worm role of crisis manager, has\nmomentarily revived the India-Pakistan hy-\nphenation that New Delhihaslong worked to\ndismantle. More consequential, though, isthe\nincreasingly visible footprint of China in\nPakistan's military posture. The conflict may\nhave started on the LineofControl, butit now\nplays out ina strategic triangle, witheach ver-\ntex holding different stakes and tactics.\nIndia\u2019s retaliatory response has delivered\ntactical benefits. It demonstrates acredible shift",
+   "ocr_conf": 91.07563025210084,
+   "ocr_low_conf_share": 0.03361344537815126,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "THE RECENT BOUT of hostilities between Indiaand Pakistan has once again exposedthe fragility ofdeterrence in South Asia. Thistime, however, the conflict cannot be framed solely asa bilateral flashpoint. While the triggers remain familiar - cross-border provocation and military response - the broader context has shifted significantly. The United States, returning to its well-worm role of crisis manager, has momentarily revived the India-Pakistan hyphenation that New Delhihaslong worked to dismantle. More consequential, though, isthe increasingly visible footprint of China in Pakistan's military posture. The conflict may have started on the LineofControl, butit now plays out ina strategic triangle, witheach vertex holding different stakes and tactics. India's retaliatory response has delivered tactical benefits. It demonstrates acredible shift",
+   "n_words": 115,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      1251,
+      4181,
+      1723
+     ]
+    ],
+    "layout_words": 74,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The use of Chinese materiel in the present\ncrisis, if confirmed, changes the rules of en-\ngagement. Pakistani J-10Cs, armed with PL-\n15 long-range missiles and shielded by\nChinese air defence systems, narrow India's\ntraditional airsuperiority.In any engagement,\nIndia risks confronting Chinese-origin hard-\nware, doctrine, and possibly real-time sup-\nport. The two-front threat, longtheorised, now\nfinds real-time validation. Strategic planners\nmust absorb this reality: Pakistan no longer\nacts alone, and China no longer staysoutside.",
+   "ocr_conf": 93.86486486486487,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The use of Chinese materiel in the present crisis, if confirmed, changes the rules of engagement. Pakistani J-10Cs, armed with PL- 15 long-range missiles and shielded by Chinese air defence systems, narrow India's traditional airsuperiority.In any engagement, India risks confronting Chinese-origin hardware, doctrine, and possibly real-time support. The two-front threat, longtheorised, now finds real-time validation. Strategic planners must absorb this reality: Pakistan no longer acts alone, and China no longer staysoutside.",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3625,
+      1724,
+      4180,
+      1781
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3574,
+      1767,
+      4181,
+      2036
+     ],
+     [
+      3574,
+      2044,
+      4183,
+      3231
+     ],
+     [
+      3678,
+      3275,
+      4181,
+      3342
+     ]
+    ],
+    "layout_words": 260
+   },
+   "headline_raw": "With this evolving configuration, the risk\niniendic canfict ecnaminc je narim iced!",
+   "deck_raw": "",
+   "body_raw": "ofepisodic conflict becoming the norniis real.\nLimited engagements followed by quick\ncease fires may prevent war, but they also en-\ntrench a cycle of confrontation. This rhythm\nserves neither India\u2019s strategic ambitions nor\nregional stability. Each flare-up diverts diplo-\nmatic bandwidth, distracts from structural re-\n\nform, and reinforces old narratives. India must\naim not just to deter conflict, but to shift the\nconflict paradigm. That requires both doctri-\nnal innovation and narrative superiority.\nThe global response, too, remains trapped\nincontradiction. While much of theworld ac-\nknowledges India\u2019s strategic maturity and\nglobal responsibilities, it defaults to treating\nSouth Asian crises as bilateral flare-ups need-\ning urgent mediation. This undermines the\nidea of Indiaasa stabilising Indo-Pacific power.\nIndia\u2019s diplomatic task is tworoid: To intema-\ntionalise its strategicvision while localising its\ndisputes, That means engaging global institu-\ntions not merely as stakehoiders in peace, but\nas validators of India\u2019s wider role.\nUltimately, this is not amoment of col-\nlapse but one of recalibration. India is con-\nfronting a new strategic geometry: Crises are\ntriangular, platforms are shared, and narra-\ntives are contested as much as borders. The\nUS will remain a tempering actor, but not an\narbiter of truth. Chinawill remaina silent cat-\nalyst. Pakistan, emboldened by both, will re-\nmainaspoiler. India\u2019s taskis to respond when\nneeded, restrain when possible, and reinforce\nits role as a power whose stability is not de-\nfined by others\u2019 volatility. In conflict, as in\ndiplomacy, maturity lies notin escalation, but\nin the control of the terms of engagement.\n\nThe writer is a former foreign secretary\nand ambassador",
+   "ocr_conf": 89.28461538461538,
+   "ocr_low_conf_share": 0.06153846153846154,
+   "headline": "With this evolving configuration, the risk iniendic canfict ecnaminc je narim iced!",
+   "deck": "",
+   "byline": "",
+   "text": "ofepisodic conflict becoming the norniis real. Limited engagements followed by quick cease fires may prevent war, but they also entrench a cycle of confrontation. This rhythm serves neither India's strategic ambitions nor regional stability. Each flare-up diverts diplomatic bandwidth, distracts from structural reform, and reinforces old narratives. India must aim not just to deter conflict, but to shift the conflict paradigm. That requires both doctrinal innovation and narrative superiority. The global response, too, remains trapped incontradiction. While much of theworld acknowledges India's strategic maturity and global responsibilities, it defaults to treating South Asian crises as bilateral flare-ups needing urgent mediation. This undermines the idea of Indiaasa stabilising Indo-Pacific power. India's diplomatic task is tworoid: To intemationalise its strategicvision while localising its disputes, That means engaging global institutions not merely as stakehoiders in peace, but as validators of India's wider role. Ultimately, this is not amoment of collapse but one of recalibration. India is confronting a new strategic geometry: Crises are triangular, platforms are shared, and narratives are contested as much as borders. The US will remain a tempering actor, but not an arbiter of truth. Chinawill remaina silent catalyst. Pakistan, emboldened by both, will remainaspoiler. India's taskis to respond when needed, restrain when possible, and reinforce its role as a power whose stability is not defined by others' volatility. In conflict, as in diplomacy, maturity lies notin escalation, but in the control of the terms of engagement.\n\nThe writer is a former foreign secretary and ambassador",
+   "n_words": 246,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2921,
+      1922,
+      3528,
+      1981
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2924,
+      1965,
+      3528,
+      1993
+     ],
+     [
+      2921,
+      2001,
+      3529,
+      2476
+     ]
+    ],
+    "layout_words": 79
+   },
+   "headline_raw": "turity lies in letting others claim headlines\nwihileceaninnomicome Indiamuercontini ie",
+   "deck_raw": "",
+   "body_raw": "while securing otitcomes. India mustcontinue\n\ndeepening bilateral mechanisms with key\npartners like the US, where cooperation ranges\nbeyond crisis flashpoints. That breadth is the\nbest antidote to Pakistan's narrow frame.\nThe signalling around the Indus Waters\nTreaty \u2014 raising the prospect of re-evaluating\nits operational commitments \u2014 is a serious\nescalation cue. The treaty carries immense\nsymbolic weight. India\u2019s statements are likely\naimed at increasing pressure without intend-\ning immediate disruption. Still, itisa message\nwith regional reverberations. Water isbotha",
+   "ocr_conf": 85.26582278481013,
+   "ocr_low_conf_share": 0.11392405063291139,
+   "headline": "turity lies in letting others claim headlines wihileceaninnomicome Indiamuercontini ie",
+   "deck": "",
+   "byline": "",
+   "text": "while securing otitcomes. India mustcontinue\n\ndeepening bilateral mechanisms with key partners like the US, where cooperation ranges beyond crisis flashpoints. That breadth is the best antidote to Pakistan's narrow frame. The signalling around the Indus Waters Treaty - raising the prospect of re-evaluating its operational commitments - is a serious escalation cue. The treaty carries immense symbolic weight. India's statements are likely aimed at increasing pressure without intending immediate disruption. Still, itisa message with regional reverberations. Water isbotha",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1624,
+      2039,
+      2226,
+      2098
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      2084,
+      2230,
+      3340
+     ]
+    ],
+    "layout_words": 207
+   },
+   "headline_raw": "Domestically, it bolsters political legitimacy.\nInternatinnally itcion ale tat Indiawnllaniinl_",
+   "deck_raw": "",
+   "body_raw": "Internationally, itsignals that india will nottol-\nerate a return to the era of consequence-free\nprovocation. However, such tactical assertive-\nness must be weighed against strategic cost.\nEach military exchange, especially when itin-\nvites global mediation, draws Indiabackintoa\nregional frame it seeks to transcend. The goal\nmust be to win engagements without re-en-\ntering acycle that diminishes India\u2019s identity as\na global \u2014 not merely South Asian \u2014 actor.\nThe reappearance ofhyphenation in global\ndiscourse, particularly through American\nstatements seeking to \u201cown the ceasefire\u201d,isa\ndiplomatic regression. For over two decades,\nIndia has sought to decouple its international\npositioning from Pakistan, leveraging its eco-\nnomic scale, democratic governance, and\nglobal partnerships. Yet, crisis has a gravita-\ntional pull. Even momentary equivalence \u2014in-\ntended as diplomatic symmetry \u2014 risks legit-\nimising Pakistan's parity narrative. Indiamust\nengage diplomatically but reject frameworks\nthat reduce its global profile to regional con-\nflict management. The message must remain\nclear: This is not aclash of equals but ofa rules-\nbased state and a revisionist actor.\nThe US's posture hasbeen cautious but fa-\nmiliar. During the first Trump administration,\nmediation was often offered impulsively, with\nKashmirat times invoked as a bargaining chip\nin the broader Afghan calculus, The current US\nadministration has reverted to a traditional",
+   "ocr_conf": 89.10144927536231,
+   "ocr_low_conf_share": 0.06280193236714976,
+   "headline": "Domestically, it bolsters political legitimacy. Internatinnally itcion ale tat Indiawnllaniinl_",
+   "deck": "",
+   "byline": "",
+   "text": "Internationally, itsignals that india will nottolerate a return to the era of consequence-free provocation. However, such tactical assertiveness must be weighed against strategic cost. Each military exchange, especially when itinvites global mediation, draws Indiabackintoa regional frame it seeks to transcend. The goal must be to win engagements without re-entering acycle that diminishes India's identity as a global - not merely South Asian - actor. The reappearance ofhyphenation in global discourse, particularly through American statements seeking to \"own the ceasefire\",isa diplomatic regression. For over two decades, India has sought to decouple its international positioning from Pakistan, leveraging its economic scale, democratic governance, and global partnerships. Yet, crisis has a gravitational pull. Even momentary equivalence - intended as diplomatic symmetry - risks legitimising Pakistan's parity narrative. Indiamust engage diplomatically but reject frameworks that reduce its global profile to regional conflict management. The message must remain clear: This is not aclash of equals but ofa rules-based state and a revisionist actor. The US's posture hasbeen cautious but familiar. During the first Trump administration, mediation was often offered impulsively, with Kashmirat times invoked as a bargaining chip in the broader Afghan calculus, The current US administration has reverted to a traditional",
+   "n_words": 197,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1624,
+      2003,
+      2226,
+      2038
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "from passive restraint to active deterrence.",
+   "ocr_conf": 95.83333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "from passive restraint to active deterrence.",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2925,
+      2477,
+      3527,
+      2534
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2923,
+      2520,
+      3531,
+      3348
+     ]
+    ],
+    "layout_words": 140
+   },
+   "headline_raw": "national and an ecological security issue, and\nchanoec tm tha laaiic frameaanrce vanilla invite",
+   "deck_raw": "",
+   "body_raw": "changes to the Indus framework wouid invite\nintemational scrutiny, including from China,\nIndia must wield this instrument with cau-\ntion \u2014 visible enough to signal resolve, but re-\nstrained enough to avoid irreversible fallout.\nWhat makes this confrontation struc-\nturally different is China\u2019s embedded role.\nBeijing is not merely a diplomatic shield for\nPakistan but a material enabler. Pakistan's cur-\nrent air capabilities are heavily influenced by\nChinese platforms \u2014from the co-produced JF-\n17 to the advanced J-10C fighters, and from\nWing Loong drones to HQ-9B air defence sys-\ntems. This represents more than procure-\nment; it is doctrinal alignment. Chinese sys-\ntems allow Pakistan to reduce dependency on\nWestern suppliers while gaining combat par-\nity with Indian platforms like the Rafale. India\nmust prepare for conflicts where adversaries\nare networked, platforms are interoperable,\nand escalation is layered with ambiguity.",
+   "ocr_conf": 87.72857142857143,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "national and an ecological security issue, and chanoec tm tha laaiic frameaanrce vanilla invite",
+   "deck": "",
+   "byline": "",
+   "text": "changes to the Indus framework wouid invite intemational scrutiny, including from China, India must wield this instrument with caution - visible enough to signal resolve, but restrained enough to avoid irreversible fallout. What makes this confrontation structurally different is China's embedded role. Beijing is not merely a diplomatic shield for Pakistan but a material enabler. Pakistan's current air capabilities are heavily influenced by Chinese platforms - from the co-produced JF- 17 to the advanced J-10C fighters, and from Wing Loong drones to HQ-9B air defence systems. This represents more than procurement; it is doctrinal alignment. Chinese systems allow Pakistan to reduce dependency on Western suppliers while gaining combat parity with Indian platforms like the Rafale. India must prepare for conflicts where adversaries are networked, platforms are interoperable, and escalation is layered with ambiguity.",
+   "n_words": 133,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      479,
+      3279,
+      1370,
+      3378
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      315,
+      3409,
+      1530,
+      4905
+     ]
+    ],
+    "layout_words": 410
+   },
+   "headline_raw": "DEADLOCKED, STILL",
+   "deck_raw": "",
+   "body_raw": "Now Trump says a peace deal would have to be negotiated\ndirectly between Russia and Ukraine. But core obstacles remain\nAST YEAR, US President Donald Trump claimed he would end the warin Ukraine\nwithin \u201c24 hours\u201d. More recently, he suggested that the conflict could only be re-\nsolved through an in-person meeting between himself and Russian President\nVladimir Putin. Following a two-hour phone call with Putin on Monday, Trump\nsaid that any peace agreement would have to be negotiated directly between Russia and\nUkraine. This sudden pivot away from his earlier stance underscores the complex nature of\nthe ongoing deadlock between Ukraine and Russia. Evenas Trump posted on social media\nthat Kyiv and Moscow would \u201cimmediately start\u201d negotiations fora ceasefire, Putin rejected\na US-proposed 30-day unconditional ceasefire \u2014 one Ukraine has already agreed to. The\nRussian President has consistently rejected such proposals, arguing that a temporary halt\nwould allow Ukraine timeto regroup and rearm. He instead reiterated on Monday Moscow's\ndemand for addressing what he calls the \u201croot causes\u201d of the conflict.\nIn February, Trump had announced that peace talks would begin \u201cimmediately\u201d. Back\nthen, however, Kyiv was not invited tothe table, prompting Furopean leaders to rally around\nUkrainian President Volodymyr Zelenskyy. Today, both Trump and Zelenskyy appear to\nhave moved on from their infamous televised spat in late February, andthey recently signed\nthe much-touted critical minerals deal. Washington is now making efforts to bring both\nKyiv and Moscow into direct negotiations. Yet, the core obstacles to peace remain unchanged:\nRussia currently occupies about afifth of Ukraine and insists that Kyiv cedethis land, which\nwould eventually be rendered permanently \u201cneutral\u201d. Ukraine insists on a full Russian with-\ndrawal and seeks NATO membership as a long-term security guarantee.\nThere is no quick fix. Less than aweek ago, Russia and Ukraine held their first direct peace\ntalks (proposed by Putin) since 2022 in Istanbul. While they failed to make meaningful\nprogress on the territory issue, the two delegations agreed to exchange 1,000 prisoners of\nwar each. A Ukrainian delegate reportedly described Moscow's demands as \u201cdetached from\nreality\u201d. Still, the mere fact that these direct talks took place is significant. The next crucial\nstep must be securing an immediate ceasefire \u2014 creating the space needed to tackle the\nmore difficult questions suriGunding a lasting peaceagreement. Putin reportedly declined\nto attend the Istanbul meeting despite being invited by Zelenskyy. For a way out, leader-\nship mustrise above optics and meaningful engagement must be prioritised.",
+   "ocr_conf": 90.46341463414635,
+   "ocr_low_conf_share": 0.04878048780487805,
+   "headline": "DEADLOCKED, STILL",
+   "deck": "",
+   "byline": "",
+   "text": "Now Trump says a peace deal would have to be negotiated directly between Russia and Ukraine. But core obstacles remain AST YEAR, US President Donald Trump claimed he would end the warin Ukraine within \"24 hours\". More recently, he suggested that the conflict could only be resolved through an in-person meeting between himself and Russian President Vladimir Putin. Following a two-hour phone call with Putin on Monday, Trump said that any peace agreement would have to be negotiated directly between Russia and Ukraine. This sudden pivot away from his earlier stance underscores the complex nature of the ongoing deadlock between Ukraine and Russia. Evenas Trump posted on social media that Kyiv and Moscow would \"immediately start\" negotiations fora ceasefire, Putin rejected a US-proposed 30-day unconditional ceasefire - one Ukraine has already agreed to. The Russian President has consistently rejected such proposals, arguing that a temporary halt would allow Ukraine timeto regroup and rearm. He instead reiterated on Monday Moscow's demand for addressing what he calls the \"root causes\" of the conflict. In February, Trump had announced that peace talks would begin \"immediately\". Back then, however, Kyiv was not invited tothe table, prompting Furopean leaders to rally around Ukrainian President Volodymyr Zelenskyy. Today, both Trump and Zelenskyy appear to have moved on from their infamous televised spat in late February, andthey recently signed the much-touted critical minerals deal. Washington is now making efforts to bring both Kyiv and Moscow into direct negotiations. Yet, the core obstacles to peace remain unchanged: Russia currently occupies about afifth of Ukraine and insists that Kyiv cedethis land, which would eventually be rendered permanently \"neutral\". Ukraine insists on a full Russian withdrawal and seeks NATO membership as a long-term security guarantee. There is no quick fix. Less than aweek ago, Russia and Ukraine held their first direct peace talks (proposed by Putin) since 2022 in Istanbul. While they failed to make meaningful progress on the territory issue, the two delegations agreed to exchange 1,000 prisoners of war each. A Ukrainian delegate reportedly described Moscow's demands as \"detached from reality\". Still, the mere fact that these direct talks took place is significant. The next crucial step must be securing an immediate ceasefire - creating the space needed to tackle the more difficult questions suriGunding a lasting peaceagreement. Putin reportedly declined to attend the Istanbul meeting despite being invited by Zelenskyy. For a way out, leadership mustrise above optics and meaningful engagement must be prioritised.",
+   "n_words": 407,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2277,
+      3543,
+      3743,
+      3677
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      3717,
+      4085,
+      3778
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4523,
+      2812,
+      5220
+     ],
+     [
+      2919,
+      3949,
+      3527,
+      5214
+     ],
+     [
+      3572,
+      3950,
+      4178,
+      5095
+     ],
+     [
+      3695,
+      5140,
+      4177,
+      5211
+     ],
+     [
+      3573,
+      5496,
+      4180,
+      5691
+     ]
+    ],
+    "layout_words": 482
+   },
+   "headline_raw": "Nort Just A TRADE DEAL",
+   "deck_raw": "FTA with UK marks India\u2019s maturing global presence, readiness to lead growth",
+   "body_raw": "The landmark Double\nContribution Convention,\nwhich waives UK social\nsecurity contributions for\nIndian professionals on\ntemporary assignments, is\nnot just a cost-saving tool. It\nwill make Indian service\nexports even more\ncompetitive. Equally\nimportant is the mutual\ncommitment to recognition\nof professional\nqualifications.\n\ntensive sectors are not disrupted. This should\nserve as a blueprint for future trade deals.\nThe FIA's most ambitious provisions liein\nthe services sector, a domain where Indiahas\na global edge. With enhanced market access\nfor Indian IT, telecom, education, and finan-\ncial services firms, and provisions that facili-\ntate professional mobility, this agreement\nclears a long-standing barrier: Ease of deploy-\ning talent in the UK. The landmark Double\nContribution Convention, which waives UK\nsocial security contributions for Indian pro-\nfessionals on temporary assignments, is not\njust acost-savingtool. twill make Indian serv-\nice exports even more competitive. Equally\nimportant is the mutual commitment to\nrecognition of professional qualifications,\nIndian architects, accountants, engineers,and\neducators can now have seamless UK careers.\nThe FTA provides a platform for deep bi-\nlateral cooperation in investment, innovation,\nand research. With the UK's strength in de-\nsign, R&D and advanced manufacturing, and\nIndia\u2019s strength in scale, talent, andexecution,\nthis agreement paves the way for joint IP cre-\nation, technology transfer, and co-manufac-\nturing. Businesses must begin to see the UK\nnotjust asan export destination but as apart-\nner in value chain innovation, where both\ncountries can co-develop for global markets.\nFor the first time, an Indian FTA includes\nchapters on labourrights, environmental pro-\n\ntection, consumerwelfare, gender equity and\nanti-corruption. Thesereflect India\u2019s evolving\neconomic maturity and its recognition that\nfuture trade will be governed by values and\ntransparency, not just volumes. Indian busi-\nnesses must now invest in compliance, ESG\nreadiness and workforce diversity,\nTo leverage this opportunity, Indian busi-\nnesses must build UK-specific market strate-\ngies rooted in consumer insight, brand local-\nisation, and agile fulfilment models. Invest in\ncertifications, regulatory compliance, and\nproduct innovation to meet UKstandards and\nexpectations. Reskill and redeploy talent, es-\npecially in legal, financial, supply chain, and\ncustomer-facing roles, Form joint ventures\nand R&D partnerships with UK firms toaccel-\nerate innovation and de-risk expansion. Create\nfeedback loops from UK market performance.\nIndia\u2019s long-term economic vision \u2014Viksit\nBharat \u2014 demands that we expand our share\nof global trade, move up the value chain, and\ncreate large-scale employment. The India-UK\nFTAis a major leap toward thatvision. This is an\ninflexion point for India to transform from a\ncost-driven export economy toa value-creat-\ningglobal powerhouse. Itis time to stopthink-\ning in terms of export incentives and start\nthinking in terms of global brand leadership.\n\nThe writer is president, FICCI and vice\nchairman & MD, Emami Limited\n\nmakeshift courtroom in Tihar Jail, where the\nthree accused are lodged. The accused were\nheld in tight security before proceedings be-\ngan, made to stand in a special bulletproof\nglass cage the size ofa public telephone booth.",
+   "ocr_conf": 89.7551867219917,
+   "ocr_low_conf_share": 0.06224066390041494,
+   "headline": "Nort Just A TRADE DEAL",
+   "deck": "FTA with UK marks India's maturing global presence, readiness to lead growth",
+   "byline": "",
+   "text": "The landmark Double Contribution Convention, which waives UK social security contributions for Indian professionals on temporary assignments, is not just a cost-saving tool. It will make Indian service exports even more competitive. Equally important is the mutual commitment to recognition of professional qualifications.\n\ntensive sectors are not disrupted. This should serve as a blueprint for future trade deals. The FIA's most ambitious provisions liein the services sector, a domain where Indiahas a global edge. With enhanced market access for Indian IT, telecom, education, and financial services firms, and provisions that facilitate professional mobility, this agreement clears a long-standing barrier: Ease of deploying talent in the UK. The landmark Double Contribution Convention, which waives UK social security contributions for Indian professionals on temporary assignments, is not just acost-savingtool. twill make Indian service exports even more competitive. Equally important is the mutual commitment to recognition of professional qualifications, Indian architects, accountants, engineers,and educators can now have seamless UK careers. The FTA provides a platform for deep bilateral cooperation in investment, innovation, and research. With the UK's strength in design, R&D and advanced manufacturing, and India's strength in scale, talent, andexecution, this agreement paves the way for joint IP creation, technology transfer, and co-manufacturing. Businesses must begin to see the UK notjust asan export destination but as apartner in value chain innovation, where both countries can co-develop for global markets. For the first time, an Indian FTA includes chapters on labourrights, environmental protection, consumerwelfare, gender equity and anti-corruption. Thesereflect India's evolving economic maturity and its recognition that future trade will be governed by values and transparency, not just volumes. Indian businesses must now invest in compliance, ESG readiness and workforce diversity, To leverage this opportunity, Indian businesses must build UK-specific market strategies rooted in consumer insight, brand local-isation, and agile fulfilment models. Invest in certifications, regulatory compliance, and product innovation to meet UKstandards and expectations. Reskill and redeploy talent, especially in legal, financial, supply chain, and customer-facing roles, Form joint ventures and R&D partnerships with UK firms toaccelerate innovation and de-risk expansion. Create feedback loops from UK market performance. India's long-term economic vision - Viksit Bharat - demands that we expand our share of global trade, move up the value chain, and create large-scale employment. The India-UK FTAis a major leap toward thatvision. This is an inflexion point for India to transform from a cost-driven export economy toa value-creat-ingglobal powerhouse. Itis time to stopthinking in terms of export incentives and start thinking in terms of global brand leadership.\n\nThe writer is president, FICCI and vice chairman & MD, Emami Limited\n\nmakeshift courtroom in Tihar Jail, where the three accused are lodged. The accused were held in tight security before proceedings began, made to stand in a special bulletproof glass cage the size ofa public telephone booth.",
+   "n_words": 463,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1620,
+      3812,
+      2351,
+      3919
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1617,
+      3948,
+      2227,
+      4736
+     ]
+    ],
+    "layout_words": 143
+   },
+   "headline_raw": "HARSHA VARDHAN AGARWAL",
+   "deck_raw": "",
+   "body_raw": "THE INDIA-UK FREE Trade Agreement (FTA)\nmarks not just ahigh point in India\u2019s trade ne-\ngotiations but a transformative opportunity\nfor Indian industry. It is a signpost of India\u2019s\nmaturing global presence \u2014 no longer con-\ntent to participate in trade from the sidelines,\nbut ready to lead, partner and shape the next\nwave of global economic growth.\nHistorically, Indian exporters \u2014 particu-\nlarly in sectors like textiles, apparel, marine\nproducts, leather, and toys \u2014 have been at a\ntariff disadvantage in developed markets like\nthe UK. That changes now. With zero-duty ac-\ncess fornearly 99 per cent of Indian tarifflines,\nIndian firms finally enjoy a level playing field\nagainst competitors from the EU, Bangladesh\nandCPTPP countries. Consider apparel: Indian\nexports tothe UK havebeen penalised by tar-\niffs of up to 12 per cent while Bangladesh and\nChina thrived on preferential access. Post-FTA,",
+   "ocr_conf": 91.23076923076923,
+   "ocr_low_conf_share": 0.027972027972027972,
+   "headline": "HARSHA VARDHAN AGARWAL",
+   "deck": "",
+   "byline": "",
+   "text": "THE INDIA-UK FREE Trade Agreement (FTA) marks not just ahigh point in India's trade negotiations but a transformative opportunity for Indian industry. It is a signpost of India's maturing global presence - no longer content to participate in trade from the sidelines, but ready to lead, partner and shape the next wave of global economic growth. Historically, Indian exporters - particularly in sectors like textiles, apparel, marine products, leather, and toys - have been at a tariff disadvantage in developed markets like the UK. That changes now. With zero-duty access fornearly 99 per cent of Indian tarifflines, Indian firms finally enjoy a level playing field against competitors from the EU, Bangladesh andCPTPP countries. Consider apparel: Indian exports tothe UK havebeen penalised by tariffs of up to 12 per cent while Bangladesh and China thrived on preferential access. Post-FTA,",
+   "n_words": 138,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1622,
+      4737,
+      2224,
+      4789
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1622,
+      4799,
+      2224,
+      4858
+     ]
+    ],
+    "body_boxes": [
+     [
+      1621,
+      4861,
+      2224,
+      5093
+     ]
+    ],
+    "layout_words": 41
+   },
+   "headline_raw": "this handicap iseliminated. But this opportu-\nnih damangac 4 minacat chif fenm cammans |",
+   "deck_raw": "RAIL CHEE ea DS A TEESE SETTLE POT CORE TOU\nity exports to branded, differentiated offer-",
+   "body_raw": "ings for premium, regulated markets.\nIndia\u2019s approach to the FTA reflects a cali-\nbrated strategy. While offering duty-free ac-\ncess to 85 per cent of UK products over a\nphased 10-year period, India has protected\nsensitive sectors such as dairy, apples, edible",
+   "ocr_conf": 89.85714285714286,
+   "ocr_low_conf_share": 0.047619047619047616,
+   "headline": "this handicap iseliminated. But this opportunih damangac 4 minacat chif fenm cammans",
+   "deck": "RAIL CHEE ea DS A TEESE SETTLE POT CORE TOU ity exports to branded, differentiated offer-",
+   "byline": "",
+   "text": "ings for premium, regulated markets. India's approach to the FTA reflects a calibrated strategy. While offering duty-free access to 85 per cent of UK products over a phased 10-year period, India has protected sensitive sectors such as dairy, apples, edible",
+   "n_words": 40,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      483,
+      4993,
+      1360,
+      5076
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1621,
+      5094,
+      2223,
+      5148
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      5122,
+      1526,
+      6157
+     ],
+     [
+      1621,
+      5178,
+      2224,
+      5213
+     ]
+    ],
+    "layout_words": 310
+   },
+   "headline_raw": "MATTER OF DEBATE",
+   "deck_raw": "oils, smartphones and medical devices. This\nhal anra af nnannaoceunth oestamer artannarnys",
+   "body_raw": "Scariest thing about Al is not that it can brainwash multitudes,\nbut that those who hold its reins are human and deeply flawed\nNOTHER WEEK, AND another warming about the potential of artificial intel-\nligence. Researchers at the Swiss Federal Institute of Technology in Lausanne\nhave found that when it comes to persuading others in a debate, large lan-\nguage models(LLMs) likeChatGPT can perform as wellas humans, ifnot bet-\nter. In the age of mis/dis-information, this ability could spell catastrophe, says the team be-\nhind the study: Not only can Al offer convincing, rational arguments, when fed with its\nopponents\u2019 personal details, it can customise its arguments to win the debate.\nNo amount of Ghiblification can prettify the spectre that this poses, of conspiracy the-\nories, hoaxes and \u201calternative facts\u201d supercharged by personal data and amplified across\nplatforms. And for those whose lives have already been affected by the \u201cAI wave\u201d, particu-\nlarly when it comes to employment, there is cold comfort in the suggestion that Al's debat-\ning tools can be deployed on the side of the angels, that they can be used to persuade peo-\nple away from political polarisation and harmful behaviours and beliefs.\nYet, as the computational linguist Emily M Bender said, Alis but a \u201cstochastic parrot\u2019, ca-\npable of producing plausible language but with no real understanding of what it is saying.\nWhich means that if Al does cause harm through its \u201cdebating skills\u201d, the blame rests en-\ntirely on the humans involved. To debateis, after all, adeeply human act, driven by other hu-\nman things such as desire, power and ambition. Any technology capable of experiencing\nthese remains in the realm of fiction. The scariest thing about Al is not thatit can brainwash\nthe multitudes, but that those who hold its reins are human and, therefore, deeply flawed.\n\nensures Make in India and employment-in-",
+   "ocr_conf": 91.21935483870968,
+   "ocr_low_conf_share": 0.03870967741935484,
+   "headline": "MATTER OF DEBATE",
+   "deck": "oils, smartphones and medical devices. This hal anra af nnannaoceunth oestamer artannarnys",
+   "byline": "",
+   "text": "Scariest thing about Al is not that it can brainwash multitudes, but that those who hold its reins are human and deeply flawed NOTHER WEEK, AND another warming about the potential of artificial intelligence. Researchers at the Swiss Federal Institute of Technology in Lausanne have found that when it comes to persuading others in a debate, large language models(LLMs) likeChatGPT can perform as wellas humans, ifnot better. In the age of mis/dis-information, this ability could spell catastrophe, says the team behind the study: Not only can Al offer convincing, rational arguments, when fed with its opponents' personal details, it can customise its arguments to win the debate. No amount of Ghiblification can prettify the spectre that this poses, of conspiracy theories, hoaxes and \"alternative facts\" supercharged by personal data and amplified across platforms. And for those whose lives have already been affected by the \"AI wave\", particularly when it comes to employment, there is cold comfort in the suggestion that Al's debating tools can be deployed on the side of the angels, that they can be used to persuade people away from political polarisation and harmful behaviours and beliefs. Yet, as the computational linguist Emily M Bender said, Alis but a \"stochastic parrot', capable of producing plausible language but with no real understanding of what it is saying. Which means that if Al does cause harm through its \"debating skills\", the blame rests entirely on the humans involved. To debateis, after all, adeeply human act, driven by other human things such as desire, power and ambition. Any technology capable of experiencing these remains in the realm of fiction. The scariest thing about Al is not thatit can brainwash the multitudes, but that those who hold its reins are human and, therefore, deeply flawed.\n\nensures Make in India and employment-in-",
+   "n_words": 299,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      5363,
+      3414,
+      5452
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2271,
+      5486,
+      2662,
+      5530
+     ],
+     [
+      3577,
+      5738,
+      4145,
+      5782
+     ],
+     [
+      2922,
+      5895,
+      3454,
+      5939
+     ]
+    ],
+    "body_boxes": [
+     [
+      2270,
+      5574,
+      2876,
+      6006
+     ],
+     [
+      2270,
+      6054,
+      2720,
+      6097
+     ],
+     [
+      2921,
+      5972,
+      3525,
+      6166
+     ],
+     [
+      3573,
+      5814,
+      4177,
+      6167
+     ]
+    ],
+    "layout_words": 175
+   },
+   "headline_raw": "May 21, 1985, Forty YEARS AGO",
+   "deck_raw": "FIVE-DAY WEEK\nSARKARIA COMMISSION\nINDIRA GANDHI CASE",
+   "body_raw": "CENTRALGOVERNMENT OFFICES and estab-\nlishments all over the country will observe\nthe five-day week schedule with Saturday\nand Sunday as holidays from June 3.\nGovernment offices will have an extra hour\nevery day to offset the loss in the number of\nworking hours. The official press note claimed\nthat a five-day week, which had been found\nsuccessful in advanced countries, would in-\ncrease the overall efficiency of the govern-\nmental machinery.\n\nANTI-TERROR BILL\n\nSPECIAL JUDGE MAHESH Chandra once again\nadjourned hearing in the Indira Gandhi as-\nsassination case to May 24, as one of thethree\naccused, Balbir Singh, failed to find a lawyer to\ndefend him. Hearing in the case began in a\n\nTHE UNION CABINET on Monday approved\nthe extension of the term of the Sarkaria\nCommission for one year, till June 1986.The\nterm of the commission set up last year to go\ninto the entire gamut of Centre-staterelations\nwas to expire next month, The commission\nitself is understood to have sought theexten-\nsion asit had not completed discussions with\nall the state governments.",
+   "ocr_conf": 91.05714285714286,
+   "ocr_low_conf_share": 0.04,
+   "headline": "May 21, 1985, Forty YEARS AGO",
+   "deck": "FIVE-DAY WEEK SARKARIA COMMISSION INDIRA GANDHI CASE",
+   "byline": "ANTI-TERROR BILL",
+   "text": "CENTRALGOVERNMENT OFFICES and establishments all over the country will observe the five-day week schedule with Saturday and Sunday as holidays from June 3. Government offices will have an extra hour every day to offset the loss in the number of working hours. The official press note claimed that a five-day week, which had been found successful in advanced countries, would increase the overall efficiency of the governmental machinery.\n\nSPECIAL JUDGE MAHESH Chandra once again adjourned hearing in the Indira Gandhi assassination case to May 24, as one of thethree accused, Balbir Singh, failed to find a lawyer to defend him. Hearing in the case began in a\n\nTHE UNION CABINET on Monday approved the extension of the term of the Sarkaria Commission for one year, till June 1986.The term of the commission set up last year to go into the entire gamut of Centre-staterelations was to expire next month, The commission itself is understood to have sought theextension asit had not completed discussions with all the state governments.",
+   "n_words": 168,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      2922,
+      5496,
+      3526,
+      5623
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2918,
+      5614,
+      3526,
+      5848
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "to the Terrorist and Disruptive Activities\n(Prevention) Bill, which gives the government\nsweeping powers to combat the menace ofter-\nraricem Tho masciuirac inziida\u00bb.mavimiimT",
+   "deck_raw": "",
+   "body_raw": "rorism. The measures include a maximum\npenalty ofa death sentence forterrorist acts re-\nsulting in loss of life. Both Law Minister Asoke\nSen and Home Minister S BChavan sought toal-\nlay the Opposition\u2019s fears about the possibility\nof misuse of this law to curb political opponents,",
+   "ocr_conf": 84.04347826086956,
+   "ocr_low_conf_share": 0.08695652173913043,
+   "headline": "to the Terrorist and Disruptive Activities (Prevention) Bill, which gives the government sweeping powers to combat the menace ofterraricem Tho masciuirac inziida\u00bb.mavimiimT",
+   "deck": "",
+   "byline": "",
+   "text": "rorism. The measures include a maximum penalty ofa death sentence forterrorist acts resulting in loss of life. Both Law Minister Asoke Sen and Home Minister S BChavan sought toallay the Opposition's fears about the possibility of misuse of this law to curb political opponents,",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 24.0,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,569 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_22_editorial",
+ "source_file": "2025-08-22_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-22_editorial.png",
+ "date": "2025-08-22",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 457,
+  "mean_line_conf": 90.36409582640538,
+  "orphan_words": 333,
+  "body_words_total": 3333
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      949,
+      960
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH",
+   "ocr_conf": 91.16666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2181,
+      597,
+      3623,
+      771
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2432,
+      886,
+      3385,
+      1017
+     ]
+    ],
+    "body_boxes": [
+     [
+      2920,
+      1251,
+      3531,
+      1914
+     ],
+     [
+      2920,
+      1926,
+      3529,
+      3348
+     ]
+    ],
+    "layout_words": 345
+   },
+   "headline_raw": "The skills check",
+   "deck_raw": "India\u2019s vocational training system needs\nto reinvent itself to boost employability",
+   "body_raw": "vocational skilling. Forinstance, Singapore of-\nfers VET either as technical education at the\npost-secondary level or via polytechnics at the\ntertiary level through dual vocational tracks,\nbut has defined pathways from VET to tradi-\ntional university education. India, in contrast,\noffers no formal academic progression from\nVET to mainstream higher education, nor does\noureducation system offer credit transfers be-\ntween systems, This reduces the uptake of VET\nby many whowish to keep the option of tradi-\ntional, academic education viable,\nThird, and possibly most important, is the\nperception and quality of VET in India.\nSingapore has industry-led curriculum design,\nhigh instructor quality, regular audits and a\nmechanism that seeks constant feediback from\n\nemployers and trainees, Singapore also has a\nSkill Future Programme, where the govern-\nment offers subsidies to upskill throughout\none\u2019s career. In India, in contrast, many courses\nare outdated and misaligned with industry\nneeds. Over one-third of ITI instructor posts\nare vacant due to limited training capacity at\nNational Skill Training Institutes, Quality mon-\nitoring is weak, with irregular ITI grading and\nno feedback systems.\nRelatedly, investing in robust public-pri-\nvate partnerships to deliver VET is critical for\nsuccessful skilling. In Germany, Singapore, and\nCanada, governments fund VET institutions,\nwhile employers pay for apprenticeships,\nshare training costs, and also help design cur-\nricula. In India, the engagement ofemployers\nin the private sector is limited, if not absent.\nITIs depend heavily on government funding,\nwith minimal private sector investment in in-\nfrastructure and training apparatus. Medium\nand Small Scale Enterprises drive local job cre-\nation, but have low engagement with ITis due\nto capacity constraints, Sector Skill Councils,\nwhich play a key role in integrating training\nwith industry needs, lack state-level presence.\nWhat can India learn from intemational\nexperiences to overhaul its VET programme?\nFirst, integrate VET into early schooling.\nThe National Education Policy(NEP), 2020 rec-\nommends such integration, but progress has\nbeen slow. Second, fast-track reforms to im-\nplement the National Credit Framework that\ndefines clear progression pathways and aims\nto havea board for nationally recognised cer-\ntifications. Third, to improve training quality,",
+   "ocr_conf": 88.77391304347826,
+   "ocr_low_conf_share": 0.05507246376811594,
+   "headline": "The skills check",
+   "deck": "India's vocational training system needs to reinvent itself to boost employability",
+   "byline": "",
+   "text": "vocational skilling. Forinstance, Singapore offers VET either as technical education at the post-secondary level or via polytechnics at the tertiary level through dual vocational tracks, but has defined pathways from VET to traditional university education. India, in contrast, offers no formal academic progression from VET to mainstream higher education, nor does oureducation system offer credit transfers between systems, This reduces the uptake of VET by many whowish to keep the option of traditional, academic education viable, Third, and possibly most important, is the perception and quality of VET in India. Singapore has industry-led curriculum design, high instructor quality, regular audits and a mechanism that seeks constant feediback from\n\nemployers and trainees, Singapore also has a Skill Future Programme, where the government offers subsidies to upskill throughout one's career. In India, in contrast, many courses are outdated and misaligned with industry needs. Over one-third of ITI instructor posts are vacant due to limited training capacity at National Skill Training Institutes, Quality monitoring is weak, with irregular ITI grading and no feedback systems. Relatedly, investing in robust public-private partnerships to deliver VET is critical for successful skilling. In Germany, Singapore, and Canada, governments fund VET institutions, while employers pay for apprenticeships, share training costs, and also help design curricula. In India, the engagement ofemployers in the private sector is limited, if not absent. ITIs depend heavily on government funding, with minimal private sector investment in infrastructure and training apparatus. Medium and Small Scale Enterprises drive local job creation, but have low engagement with ITis due to capacity constraints, Sector Skill Councils, which play a key role in integrating training with industry needs, lack state-level presence. What can India learn from intemational experiences to overhaul its VET programme? First, integrate VET into early schooling. The National Education Policy(NEP), 2020 recommends such integration, but progress has been slow. Second, fast-track reforms to implement the National Credit Framework that defines clear progression pathways and aims to havea board for nationally recognised certifications. Third, to improve training quality,",
+   "n_words": 332,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      473,
+      1088,
+      1376,
+      1192
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      1231,
+      1532,
+      2229
+     ]
+    ],
+    "layout_words": 274
+   },
+   "headline_raw": "\"THREE PLUS ONE",
+   "deck_raw": "",
+   "body_raw": "While India\u2019s engagements with Russia, China are independent\nof Trump disruptions, they have acquired a new dimension\nT HE RECENT TO-AND-FRO in India-Russia-China diplomacy and their im-\npending summits could be viewed, arguably, against the backdrop of New\nDelhi's recent discomforts with US President Donald Trump. In what has\nbeen a particularly active week for Indian foreign policy, Chinese Foreign\nMinister Wang Yi was in New Delhi for the 24th round of boundary talks, after which\nExternal Affairs Minister S Jaishankar travelled to Moscow to co-chair the 26thsessionof\nthe India-Russia Inter-Governmental Commission. In less thantwo weeks, PM Modi will\nmeet with President Xi Jinping at the SCO, and Russian President Vladimir Putin is set to\nvisit India later this year. While these engagements are independent of the Trump disrup-\ntions, in the face of tensions with Washington, they have acquired a new dimension.\nIndia\u2019s immediate concern with respect to Russia is Trump's threat of secondary tar-\niffs on cheap oil purchases. With the Trump-Putin summit in Alaska offering little clar-\nity on the Ukraine war, the US has doubled down on the tariff threat: The US Treasury\nSecretary, Scott Bessent, this week accused India of profiteering from Russian oil, while\nTrump's trade adviser, Peter Navarro, wrote an op-ed bluntly titled \u2018India\u2019s oil lobby is\nfunding Putin\u2019s war machine \u2014 that has to stop\u2019. India can only hope that the US and\nRussia reach a deal over Ukraine and that Trump rolls back the additional 25 per cent tar-\niff threat. Whatever direction this issue takes, however, going ahead, the larger lesson is\nthat New Delhi must pursue independent reiations with the \u201cgreat powers\u201d, and foreign",
+   "ocr_conf": 92.9090909090909,
+   "ocr_low_conf_share": 0.02181818181818182,
+   "headline": "\"THREE PLUS ONE",
+   "deck": "",
+   "byline": "",
+   "text": "While India's engagements with Russia, China are independent of Trump disruptions, they have acquired a new dimension T HE RECENT TO-AND-FRO in India-Russia-China diplomacy and their impending summits could be viewed, arguably, against the backdrop of New Delhi's recent discomforts with US President Donald Trump. In what has been a particularly active week for Indian foreign policy, Chinese Foreign Minister Wang Yi was in New Delhi for the 24th round of boundary talks, after which External Affairs Minister S Jaishankar travelled to Moscow to co-chair the 26thsessionof the India-Russia Inter-Governmental Commission. In less thantwo weeks, PM Modi will meet with President Xi Jinping at the SCO, and Russian President Vladimir Putin is set to visit India later this year. While these engagements are independent of the Trump disruptions, in the face of tensions with Washington, they have acquired a new dimension. India's immediate concern with respect to Russia is Trump's threat of secondary tariffs on cheap oil purchases. With the Trump-Putin summit in Alaska offering little clarity on the Ukraine war, the US has doubled down on the tariff threat: The US Treasury Secretary, Scott Bessent, this week accused India of profiteering from Russian oil, while Trump's trade adviser, Peter Navarro, wrote an op-ed bluntly titled 'India's oil lobby is funding Putin's war machine - that has to stop'. India can only hope that the US and Russia reach a deal over Ukraine and that Trump rolls back the additional 25 per cent tariff threat. Whatever direction this issue takes, however, going ahead, the larger lesson is that New Delhi must pursue independent reiations with the \"great powers\", and foreign",
+   "n_words": 270,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1624,
+      1100,
+      2603,
+      1196
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      1250,
+      2228,
+      3150
+     ],
+     [
+      2319,
+      2606,
+      2803,
+      3353
+     ]
+    ],
+    "layout_words": 387
+   },
+   "headline_raw": "FARZANA AFRIDI AND ARJITA CHANDNA",
+   "deck_raw": "",
+   "body_raw": "WITH A VOLATILE external sector increasing\nthe challenge of demand-driven growth, the\nPrime Minister unveiled a slew of proposed re-\nforms from the Red Fort\u2019s ramparts on August\n15, While a recalibration of GST could induce\nhigher domestic consumption and spur do-\nmestic investmentwith employment growth,\nIndia must seize this opportunity to also re-\nthink its education system and increase the\nproductivity and employability of its labour\nforce. Our traditional education system \u2014 ac-\nademic and rote-based \u2014 is unlikely to deliver\naworkforce equipped for the future of work.\nIn India and across the world, formal vo-\ncational or skill training is associated with\nhigher chances of an individual being em-\nployed and obtaining a job in the formal sec-\ntor. Yet, only 4 per cent of India\u2019s workforce is\nformally trained, even though the institutional\ncoverage of the Vocational Education and\nTraining (VET)systemis extensive \u2014 with over\n14,000 IndustrialTraining Institutes(ITIs)and\n25 lakh sanctioned seats. Actual enrolment\nwas only around 12 lakh in 2022, implying just\n48 per cent seat utilisation. Our VET system\nstruggles with not only low uptake but also\nmodest employment rates for those whoun-\ndergo training. In 2018, the employment rate\namong ITI graduates was 63 percent, whereas\ncountries with robust VET systems such as\nGermany, Singapore, and Canada reported\nemployment rates ranging between 80 and\n90 percent. These statistics point to. a VET sys-\ntem that is both ineffective and unattractive\ntoour youth.\nWhy is the uptake and employment rate\nlow for India\u2019s VET system?\nThe first factor is the stage of the education\nsystem at which VET is integrated. Countries\nthat introduce VET earlier inte schooling sys-\ntem show a stronger association with better\nlabour market outcomes. In Germany, for ex-\nample, VET is integrated at the upper second-\nary level through a dual system, combining\nschool education with paid apprenticeships.\nIn contrast, in India, VET is an afterthought \u2014\noffered post high-school education, which not\nonly shortens the period available for hands-on\n\n\u2018We must invest more in\nhuman capital. India\nallocates around 3 per cent\nof total education\nexpenditure to VET,\ncompared to 10-13 per cent\nin countries like Germany,\nSingapore, and Canada.\nPublic funding can be\noptimised with improved\nfinancial viability of ITIs\nthrough lower per-student\ncosts of training and by\nallowing ITIs autonomy to\ngenerate their own revenue.",
+   "ocr_conf": 91.33850129198966,
+   "ocr_low_conf_share": 0.03617571059431524,
+   "headline": "FARZANA AFRIDI AND ARJITA CHANDNA",
+   "deck": "",
+   "byline": "",
+   "text": "WITH A VOLATILE external sector increasing the challenge of demand-driven growth, the Prime Minister unveiled a slew of proposed reforms from the Red Fort's ramparts on August 15, While a recalibration of GST could induce higher domestic consumption and spur domestic investmentwith employment growth, India must seize this opportunity to also rethink its education system and increase the productivity and employability of its labour force. Our traditional education system - academic and rote-based - is unlikely to deliver aworkforce equipped for the future of work. In India and across the world, formal vocational or skill training is associated with higher chances of an individual being employed and obtaining a job in the formal sector. Yet, only 4 per cent of India's workforce is formally trained, even though the institutional coverage of the Vocational Education and Training (VET)systemis extensive - with over 14,000 IndustrialTraining Institutes(ITIs)and 25 lakh sanctioned seats. Actual enrolment was only around 12 lakh in 2022, implying just 48 per cent seat utilisation. Our VET system struggles with not only low uptake but also modest employment rates for those whoundergo training. In 2018, the employment rate among ITI graduates was 63 percent, whereas countries with robust VET systems such as Germany, Singapore, and Canada reported employment rates ranging between 80 and 90 percent. These statistics point to. a VET system that is both ineffective and unattractive toour youth. Why is the uptake and employment rate low for India's VET system? The first factor is the stage of the education system at which VET is integrated. Countries that introduce VET earlier inte schooling system show a stronger association with better labour market outcomes. In Germany, for example, VET is integrated at the upper secondary level through a dual system, combining school education with paid apprenticeships. In contrast, in India, VET is an afterthought - offered post high-school education, which not only shortens the period available for hands-on\n\n'We must invest more in human capital. India allocates around 3 per cent of total education expenditure to VET, compared to 10-13 per cent in countries like Germany, Singapore, and Canada. Public funding can be optimised with improved financial viability of ITIs through lower per-student costs of training and by allowing ITIs autonomy to generate their own revenue.",
+   "n_words": 375,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      1252,
+      4183,
+      2516
+     ]
+    ],
+    "layout_words": 204,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "align VET courses with local industry demand\nthrough regular market assessments, expand\nNSTIs and fast-track instructor recruitment to\naddress capacity gaps, and strengthen ITI\ngrading by incorporating trainee feedback.\nFourth, scale models like the Private Training\nPartner approach by leveraging public infra-\nstructure and private expertise. Involve\nMSMEs, and strategically use CSR funding to\nboost industry relevance. Fifth, increase pub-\nlic spending on VET and ensure the financial\nviability of institutions by linking public fund-\ning to their performance and granting them\nautonomy to generate their ownrevenue.\n\u2018We must invest more in human capital.\nIndia allocates around 3 per centof totaledu-\ncation expenditure to VET, compared to 10-\n13 per cent in countries like Germany,\nSingapore, and Canada. Public funding canbe\noptimised with improved financial viability\nof ITIs through lower per-student costs of\ntrainingand byallowing ITs autonomy to gen-\nerate their ownrevenue.\nRecent government schemes \u2014 suchas the\nEmployment Linked Incentive (ELI) scheme,\nthe PM Internship Scheme, and the ITI\nUpgradation Initiative \u2014 reflect an increased\nfocus onemployment outcomes. ELI Part A of-\nfers up to Rs 15,000 for first-time EPFO-regis-\ntered workers, while the revised ELI, Part B\ngives employers Rs 3,000 a month for every\nnew hire. Both ELI schemes push formalisa-",
+   "ocr_conf": 90.18627450980392,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "align VET courses with local industry demand through regular market assessments, expand NSTIs and fast-track instructor recruitment to address capacity gaps, and strengthen ITI grading by incorporating trainee feedback. Fourth, scale models like the Private Training Partner approach by leveraging public infrastructure and private expertise. Involve MSMEs, and strategically use CSR funding to boost industry relevance. Fifth, increase public spending on VET and ensure the financial viability of institutions by linking public funding to their performance and granting them autonomy to generate their ownrevenue. 'We must invest more in human capital. India allocates around 3 per centof totaleducation expenditure to VET, compared to 10- 13 per cent in countries like Germany, Singapore, and Canada. Public funding canbe optimised with improved financial viability of ITIs through lower per-student costs of trainingand byallowing ITs autonomy to generate their ownrevenue. Recent government schemes - suchas the Employment Linked Incentive (ELI) scheme, the PM Internship Scheme, and the ITI Upgradation Initiative - reflect an increased focus onemployment outcomes. ELI Part A offers up to Rs 15,000 for first-time EPFO-registered workers, while the revised ELI, Part B gives employers Rs 3,000 a month for every new hire. Both ELI schemes push formalisa-",
+   "n_words": 197,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      2235,
+      1528,
+      2417
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2422,
+      1528,
+      3009
+     ]
+    ],
+    "layout_words": 170
+   },
+   "headline_raw": "policy agility must be shored up by unity and long-overdue economic reform at home.\nIndia\u2019s engagement with China hasaccelerated since the formal conclusion of the dis-\nengagement process nearly a year ago. During Wang's visit to Delhi, the two sides agreed\nto restart direct flights and border trade, and to establish new mechanisms on border",
+   "deck_raw": "",
+   "body_raw": "management. Significantly, Beijing\u2019s official handout urged India and China to \u201cdemon-\nstrate their responsibility as major powers\u201d. Yetit would be naive to believe that China will\nnot continue to view relations with India througha zero-sum competitive lens, The bor-\nder dispute remains unresolved, and while disengagement has taken place, the de-esca-\nlation that Jaishankar reiterated in his talks with Wang (who visited Islamabad right af-\nter New Delhi) still hasn't begun. Beijing appears to see merit in keeping up the pressure\nalong the border. China\u2019s defence capacity has grown formidable, while India continues\ntorun a trade deficit of over $100 billion with it, amid tensions with its largest export\nmarket, the US. This makes it all the more vital for India to step up domestic economic re-\nform, enhance its technological capabilities, nodemise the defence sector \u2014 India suc-\ncessfully test-fired Agni-5 on Wednesday \u2014 and strengthen security partnerships with\nits Asian partners. Only by moving towards narrowing the gap with China can New Delhi\nbuild enough leverage with Beijing.",
+   "ocr_conf": 93.71176470588236,
+   "ocr_low_conf_share": 0.0058823529411764705,
+   "headline": "policy agility must be shored up by unity and long-overdue economic reform at home. India's engagement with China hasaccelerated since the formal conclusion of the disengagement process nearly a year ago. During Wang's visit to Delhi, the two sides agreed to restart direct flights and border trade, and to establish new mechanisms on border",
+   "deck": "",
+   "byline": "",
+   "text": "management. Significantly, Beijing's official handout urged India and China to \"demonstrate their responsibility as major powers\". Yetit would be naive to believe that China will not continue to view relations with India througha zero-sum competitive lens, The border dispute remains unresolved, and while disengagement has taken place, the de-esca-lation that Jaishankar reiterated in his talks with Wang (who visited Islamabad right after New Delhi) still hasn't begun. Beijing appears to see merit in keeping up the pressure along the border. China's defence capacity has grown formidable, while India continues torun a trade deficit of over $100 billion with it, amid tensions with its largest export market, the US. This makes it all the more vital for India to step up domestic economic reform, enhance its technological capabilities, nodemise the defence sector - India successfully test-fired Agni-5 on Wednesday - and strengthen security partnerships with its Asian partners. Only by moving towards narrowing the gap with China can New Delhi build enough leverage with Beijing.",
+   "n_words": 164,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3572,
+      2517,
+      4180,
+      3191
+     ]
+    ],
+    "layout_words": 115,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "tion of jobs but have no skilling components.\nThe Prime Minister Internship Scheme aims to\nprovide one-year placements to youth in top\ncompanies, but lacks pathways to permanent\njobs. The IT] Upgradation Scheme focuses on\nmodemising 1,000 government ITIs in part-\nnership with industry, but not necessarily the\nquality of training.\nPolicy initiatives, thus far, have either tin-\nkered on the margins of our existing educa-\ntion system or are afterthoughts. They are un-\nlikely to transform the level of productivity\nandemployability of our workforce unless we\noverhaul a system that is becoming increas-\ningly outdated.Such an overhaul is crucial for\nmaking vocational training a pathway to jobs\n\u2014an essential step towards a Viksit Bharat.",
+   "ocr_conf": 91.42608695652174,
+   "ocr_low_conf_share": 0.034782608695652174,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "tion of jobs but have no skilling components. The Prime Minister Internship Scheme aims to provide one-year placements to youth in top companies, but lacks pathways to permanent jobs. The IT] Upgradation Scheme focuses on modemising 1,000 government ITIs in partnership with industry, but not necessarily the quality of training. Policy initiatives, thus far, have either tinkered on the margins of our existing education system or are afterthoughts. They are unlikely to transform the level of productivity andemployability of our workforce unless we overhaul a system that is becoming increasingly outdated.Such an overhaul is crucial for making vocational training a pathway to jobs - an essential step towards a Viksit Bharat.",
+   "n_words": 111,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      378,
+      3098,
+      1465,
+      3183
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3228,
+      1529,
+      4769
+     ]
+    ],
+    "layout_words": 429
+   },
+   "headline_raw": "ARTIST & THE MACHINE",
+   "deck_raw": "",
+   "body_raw": "Controversy over an Al-created film frames unsettled questions\nabout creative labour, ownership. A conversation must begin\nMONTHAFTER controversy broke out overthe news that the Tamil-dubbed\n- \\ version ofthe 2013 Hindi film Raanjhanaa, titled Ambikapathy, was being re-\nreleased with a new Al-generated ending, the announcementof a new film,\nChiranjeevi Hanuman \u2014 The Eternal, made using Al, has sharpened fears over\nwhat the technology could mean for one of India\u2019s biggest creative industries. While the\nuse of the newtechnology in the two films may vary in termsof scale \u2014 froma single scene\nin Ambikapathy to the entire project in Chiranjeevi Hanuman \u2014 it raises equally uncomfort-\nable questions about creative ownership, money and power. \u201cAndsoitbegins...who...needs\nwriters and directors whenit's\u2018Made inAI\u201d, posted filmmaker Vikramaditya Motwane on\nsocial media, with director Anurag Kashyap, too, questioning the wisdom of supporting\nprojects made with technology that could ultimately make the people involved in film-\nmaking redundant Theirunease underscores the crux ofthe matter: In atime when prompts\nfedinto a machine are all one needs to make a movie, what happens to those whose liveli-\nhood depends on the collaborative, time-consuming process that is cinema?\nYet, as Kashyap himself pointed out, there is no wishing away the technology itself. Nearly\nthree years after the debut of OpenAl\u2019s ChatGPT, with reactions that swung between asense\nof awe over its capabilities and paranoia about a Terminator-like takeover by machines, at-\ntitudes have settled in favour of general acceptance. For many, including artists, writers and\nother creative professionals, it has become one more thread in the fabric of routine, both at\nhome andin the workplace. But apprehensions persist, including over ethical use: In the case\nof Ambikapathy, for example, the producers were accused of using Al to undermine thecre-\native vision behind the original. The central question, then, is this: At what point does Al go\nfrom being a tool \u2014 such as inthe 2024 film The Brutalist, where it was used to enhance the\nHungarian accent of certain characters \u2014 toa competitor, as appears to be the case with\nChiranjeevi Hanuman and other Al-created films like Maharaja in Denims and Naisha?\nThis is an issue that film industries elsewhere, too, have been grappling with; the use of\nAl was, notably, afiashpoint in the nearly year-long strike by writers and actors in Hollywood\nin 2023. In that case, negotiations between industry stakeholders led to the creation of\nguardrails in how the technology could be used without pitting artists against machines. As\nIndian cinemaswings between excitement and apprehension overa future with Al thisis the\nconversation that must now take place.",
+   "ocr_conf": 89.31860465116279,
+   "ocr_low_conf_share": 0.05581395348837209,
+   "headline": "ARTIST & THE MACHINE",
+   "deck": "",
+   "byline": "",
+   "text": "Controversy over an Al-created film frames unsettled questions about creative labour, ownership. A conversation must begin MONTHAFTER controversy broke out overthe news that the Tamil-dubbed - \\ version ofthe 2013 Hindi film Raanjhanaa, titled Ambikapathy, was being rereleased with a new Al-generated ending, the announcementof a new film, Chiranjeevi Hanuman - The Eternal, made using Al, has sharpened fears over what the technology could mean for one of India's biggest creative industries. While the use of the newtechnology in the two films may vary in termsof scale - froma single scene in Ambikapathy to the entire project in Chiranjeevi Hanuman - it raises equally uncomfortable questions about creative ownership, money and power. \"Andsoitbegins...who...needs writers and directors whenit's'Made inAI\", posted filmmaker Vikramaditya Motwane on social media, with director Anurag Kashyap, too, questioning the wisdom of supporting projects made with technology that could ultimately make the people involved in film-making redundant Theirunease underscores the crux ofthe matter: In atime when prompts fedinto a machine are all one needs to make a movie, what happens to those whose livelihood depends on the collaborative, time-consuming process that is cinema? Yet, as Kashyap himself pointed out, there is no wishing away the technology itself. Nearly three years after the debut of OpenAl's ChatGPT, with reactions that swung between asense of awe over its capabilities and paranoia about a Terminator-like takeover by machines, attitudes have settled in favour of general acceptance. For many, including artists, writers and other creative professionals, it has become one more thread in the fabric of routine, both at home andin the workplace. But apprehensions persist, including over ethical use: In the case of Ambikapathy, for example, the producers were accused of using Al to undermine thecreative vision behind the original. The central question, then, is this: At what point does Al go from being a tool - such as inthe 2024 film The Brutalist, where it was used to enhance the Hungarian accent of certain characters - toa competitor, as appears to be the case with Chiranjeevi Hanuman and other Al-created films like Maharaja in Denims and Naisha? This is an issue that film industries elsewhere, too, have been grappling with; the use of Al was, notably, afiashpoint in the nearly year-long strike by writers and actors in Hollywood in 2023. In that case, negotiations between industry stakeholders led to the creation of guardrails in how the technology could be used without pitting artists against machines. As Indian cinemaswings between excitement and apprehension overa future with Al thisis the conversation that must now take place.",
+   "n_words": 424,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1619,
+      3151,
+      2225,
+      3208
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1623,
+      3194,
+      2225,
+      3347
+     ],
+     [
+      1622,
+      3843,
+      1875,
+      3885
+     ],
+     [
+      1620,
+      3948,
+      2225,
+      5206
+     ]
+    ],
+    "layout_words": 223
+   },
+   "headline_raw": "training before the youth enter thejobmarket,\nhartalen ane ac allnaa Sor ane onan fmware",
+   "deck_raw": "",
+   "body_raw": "butalso does not aliow for orientation towards\nemployable skills.\nAsecond aspectis the absenceof adefined\npathway to higher( or academic education via\n\nM A BABY\n\nTHE CONSTITUTION (130TH Amendment)\nBill, 2025, which has been introduced in the\nname of \u201cpublic interest, welfare, and good\ngovernance\u2019, is, in reality, a draconian piece\nof legislation designed to destabilise\nOpposition-led state governments and un-\ndermine India\u2019s federal structure. In an era\nmarked by vindictive politics, where central\nagencies are unleashed against Opposition\nleaders, the provisions have been designed\nto enable misuse for ulterior motives. The\nbill\u2019s reference to \u201cconstitutional morality\u201d\ncontradicts its spirit, as it deviates from the\nestablished principle that disqualification\nand punishment should be tied to convic-\ntions by courts, not merely charges or arrests.\nThis principle is clearly enshrined in Section\n8 of the Representation of the People Act\n(RPA), 1951. In today\u2019s pernicious political cli-\nmate, where individuals can easily be\ncharged, arrested, and detained for extended\nperiods, this legislation will surely be\nweaponised to target political opponents and\nerode democratic norms.\nArticles 75, 164 and 239AA of the Indian\nConstitution detail procedures and prereq-\nuisites for ministerial appointment and re-\nmoval, expressly vesting such power in \u201cthe\nPresident on the advice of the Prime\nMinister\u201d and \u201cthe Governor on the advice\nof the Chief Minister\u201d. The proposed amend-\nment breaches this constitutional intent.",
+   "ocr_conf": 93.31696428571429,
+   "ocr_low_conf_share": 0.017857142857142856,
+   "headline": "training before the youth enter thejobmarket, hartalen ane ac allnaa Sor ane onan fmware",
+   "deck": "",
+   "byline": "M A BABY",
+   "text": "butalso does not aliow for orientation towards employable skills. Asecond aspectis the absenceof adefined pathway to higher( or academic education via\n\nTHE CONSTITUTION (130TH Amendment) Bill, 2025, which has been introduced in the name of \"public interest, welfare, and good governance', is, in reality, a draconian piece of legislation designed to destabilise Opposition-led state governments and undermine India's federal structure. In an era marked by vindictive politics, where central agencies are unleashed against Opposition leaders, the provisions have been designed to enable misuse for ulterior motives. The bill's reference to \"constitutional morality\" contradicts its spirit, as it deviates from the established principle that disqualification and punishment should be tied to convictions by courts, not merely charges or arrests. This principle is clearly enshrined in Section 8 of the Representation of the People Act (RPA), 1951. In today's pernicious political climate, where individuals can easily be charged, arrested, and detained for extended periods, this legislation will surely be weaponised to target political opponents and erode democratic norms. Articles 75, 164 and 239AA of the Indian Constitution detail procedures and prerequisites for ministerial appointment and removal, expressly vesting such power in \"the President on the advice of the Prime Minister\" and \"the Governor on the advice of the Chief Minister\". The proposed amendment breaches this constitutional intent.",
+   "n_words": 215,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3577,
+      3235,
+      4180,
+      3349
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Afridi is professor of Economics, ISI(Delhi) and\nvisiting professor, NCAER. Chandnais\nassociate fellow, NCAER",
+   "ocr_conf": 79.5,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Afridi is professor of Economics, ISI(Delhi) and visiting professor, NCAER. Chandnais associate fellow, NCAER",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      3537,
+      4176,
+      3639
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2276,
+      3713,
+      4155,
+      3774
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4475,
+      2829,
+      5221
+     ],
+     [
+      2922,
+      3949,
+      3530,
+      5207
+     ],
+     [
+      3572,
+      3950,
+      4180,
+      5134
+     ],
+     [
+      3605,
+      5180,
+      4177,
+      5214
+     ],
+     [
+      3573,
+      5496,
+      4178,
+      5610
+     ],
+     [
+      3573,
+      5658,
+      3971,
+      5701
+     ],
+     [
+      3573,
+      5735,
+      4177,
+      6160
+     ]
+    ],
+    "layout_words": 577
+   },
+   "headline_raw": "AGAINST OPPOSITION, NOT CORRUPTION",
+   "deck_raw": "Bill to remove arrested ministers will be weaponised to target political opponents",
+   "body_raw": "Articles 14, 19 and 21 enshrine equality be-\nfore the law, freedom of speech, due process,\nand personal liberty. Automatic removalon\nunproven criminal! charges contravenes\nthese guarantees, It reverses the burden of\nproof and the presumption of innocence.\nThere isn\u2019t even a sunset or review clause.\nOnce removed, the minister cannot automat-\nically return even if acquitted or if bail is\ngranted after the 30-day period. There is no\nprovision for compensation if the arrest is\nfound to be malicious, either. In fact, this will\nonly encourage the misuse of preventive de-\ntention and laws like the UAPA.\nAs far as central agencies go, the\nEnforcement Directorate (ED) is the favourite\nlapdog of the current ruling dispensation.\nHowever, the ED has a dismal track record,\nwith only 38 convictions in the past five years.\nIts extremely low conviction rate also exposes\nthe fact that most cases never even reach the\ntrial stage. Ninety-five per cent of prominent\npoliticians probed by the ED between 2014\nand 2022 were Opposition leaders. Under the\nPMLA, bail remains rare, particularly because\nof the twin conditions \u2014 the public prosecu-\ntor having a chance to oppose the bail appli-\ncation, and the court being satisfied that the\nperson is not guilty and unlikely to commit\nany offence while on bail \u2014 to be met under\nSection 45. Such excesses are only going to be\naccentuated if this bill becomes law!\n\nFour serious objections ought tobe raised\nagainst this bill. One, it is violative of the pre-\nsumption of innocence. It punishes minis-\nters on mere arrest, not conviction, subvert-\ning the constitutional guarantee of \u201cinnocent\nuntil proven guilty\u201d and creating an execu-\ntive tool for vendetta. Two, it breaches the\nseparation of powers, Automatic removal by-\npasses parliamentary and judicial oversight,\nconcentrating unchecked power in the ex-\necutive and contravening basic constitu-\ntional checks and balances. Three, due\nprocess is denied. Removal without trial,\ncharge framing, or judicial finding violates\ndue process, as established in Rameshwar\nPrasad v Union of India. Four, it creates a plat-\nform for political misuse. Under the current\nwell-established pattern of central agencies\ntargeting Opposition leaders, the bill risks\nconstitutionalising vendetta instead of pro-\nmoting clean governance.\nThis bill is an unprecedented attack on\nIndia\u2019s constitutional architecture. It is a\nmanifestation of the Modi government's au-\nthoritarian drive to suppress the Opposition\nand our democracy, which displays their\nneo-fascist characteristics. The pattern of\nWeaponising prosecution is already under-\nway, and it cannot be allowed to have consti-\ntutional sanctity.\n\nThe writer is general secretary of the CPI(M)\n\nquestion of holding elections in Punjab under\nthe changed circumstances and also intelli-\ngence reports on law and order.\n\nTHIMPHU TALKS\n\nTHEPROSPECTSOF the second round oftalks\nbetween the SriLankan government and\nTamil groups being resumedat Thimphu dur-\ning this week appear dim. While the repre-\nsentatives of the militant Eelam National\nLiberation Front failedtoturn up in New Delhi\nfor a meeting with the Prime Minister, the\nmoderate Tamil United Liberation Front\n(TULF) leader, AAmirthalingam, asserted that\n\u201ckillings must stop before any meaningful\ntalks are resumed\u201d.",
+   "ocr_conf": 92.25129982668977,
+   "ocr_low_conf_share": 0.03119584055459272,
+   "headline": "AGAINST OPPOSITION, NOT CORRUPTION",
+   "deck": "Bill to remove arrested ministers will be weaponised to target political opponents",
+   "byline": "",
+   "text": "Articles 14, 19 and 21 enshrine equality before the law, freedom of speech, due process, and personal liberty. Automatic removalon unproven criminal! charges contravenes these guarantees, It reverses the burden of proof and the presumption of innocence. There isn't even a sunset or review clause. Once removed, the minister cannot automatically return even if acquitted or if bail is granted after the 30-day period. There is no provision for compensation if the arrest is found to be malicious, either. In fact, this will only encourage the misuse of preventive detention and laws like the UAPA. As far as central agencies go, the Enforcement Directorate (ED) is the favourite lapdog of the current ruling dispensation. However, the ED has a dismal track record, with only 38 convictions in the past five years. Its extremely low conviction rate also exposes the fact that most cases never even reach the trial stage. Ninety-five per cent of prominent politicians probed by the ED between 2014 and 2022 were Opposition leaders. Under the PMLA, bail remains rare, particularly because of the twin conditions - the public prosecutor having a chance to oppose the bail application, and the court being satisfied that the person is not guilty and unlikely to commit any offence while on bail - to be met under Section 45. Such excesses are only going to be accentuated if this bill becomes law!\n\nFour serious objections ought tobe raised against this bill. One, it is violative of the presumption of innocence. It punishes ministers on mere arrest, not conviction, subverting the constitutional guarantee of \"innocent until proven guilty\" and creating an executive tool for vendetta. Two, it breaches the separation of powers, Automatic removal bypasses parliamentary and judicial oversight, concentrating unchecked power in the executive and contravening basic constitutional checks and balances. Three, due process is denied. Removal without trial, charge framing, or judicial finding violates due process, as established in Rameshwar Prasad v Union of India. Four, it creates a platform for political misuse. Under the current well-established pattern of central agencies targeting Opposition leaders, the bill risks constitutionalising vendetta instead of promoting clean governance. This bill is an unprecedented attack on India's constitutional architecture. It is a manifestation of the Modi government's authoritarian drive to suppress the Opposition and our democracy, which displays their neo-fascist characteristics. The pattern of Weaponising prosecution is already underway, and it cannot be allowed to have constitutional sanctity.\n\nThe writer is general secretary of the CPI(M)\n\nquestion of holding elections in Punjab under the changed circumstances and also intelligence reports on law and order.\n\nTHIMPHU TALKS\n\nTHEPROSPECTSOF the second round oftalks between the SriLankan government and Tamil groups being resumedat Thimphu during this week appear dim. While the representatives of the militant Eelam National Liberation Front failedtoturn up in New Delhi for a meeting with the Prime Minister, the moderate Tamil United Liberation Front (TULF) leader, AAmirthalingam, asserted that \"killings must stop before any meaningful talks are resumed\".",
+   "n_words": 492,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      507,
+      4862,
+      1340,
+      4962
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4993,
+      1530,
+      6166
+     ]
+    ],
+    "layout_words": 351
+   },
+   "headline_raw": "THE NICEST JUDGE",
+   "deck_raw": "",
+   "body_raw": "Judge Frank Caprio brought empathy into\nthe courtroom. There could be no better epitaph\nOR MOST PEOPLE, a courtroom is an intimidating place. It is infused with a\nsense of its own importance, most visible \u2014 with less justification \u2014 in the\nlawyers who inhabitit. And, high above, on her pedestal, sits the judge. Black-\nrobed, witha gavel to hammer justice home, the judge pronounces verdictson\nmatters as mundane astraffic fines and neighbours\u2019 quarrels toweightier issues of wealth\nand marriage, family and freedom, fraternity and liberty. Between the bureaucracy of the\nsystem and the cold rationality of the law, the human factor often goes missing. Too of-\nten, the law and its officers treat unequais equally. Not so with Judge Frank Caprio, who\ndied this week aged 88. The municipal judge in Rhode Island in the US was known for\nhis kindness and leniency, and, over the past few years, became a social media star.\nAjudge for over 40 years, Caprio became well-known through his hit TV show, Caught\nin Providence. Over the last few years, clips from the reality programme \u2014 it showed Caprio\ndealing with cases in his court, from traffic violations to custody battles \u2014 made him\nsomething ofa global star. His form of delivering justice was anything but blind: He would\ninquire into the circumstances of the accused, sympathise with their struggles. He would\nwaive fines for single parents rushing to work, trying to make ends meet. He would lis-\nten to immigrants\u2019 stories and admire their grit and struggle. Often, he would invite the\nchildren of those in the dock to come up to his seat and hold his gavel \u2014 heartwarming\ngestures that made a judge seem human in the best way possible.\nAt atime when the internet is a source of division, \u201cthe nicest judge inthe world\u201d was\na breath of fresh air. Across the world, the fates of migrants, of the people at the bottom\nof the pyramid, are determined by men and womenin black robes who must leave their\nbiases at thedoor. Perhaps, though, like Caprio, they can carry empathy intothe courtroom,",
+   "ocr_conf": 92.43874643874643,
+   "ocr_low_conf_share": 0.042735042735042736,
+   "headline": "THE NICEST JUDGE",
+   "deck": "",
+   "byline": "",
+   "text": "Judge Frank Caprio brought empathy into the courtroom. There could be no better epitaph OR MOST PEOPLE, a courtroom is an intimidating place. It is infused with a sense of its own importance, most visible - with less justification - in the lawyers who inhabitit. And, high above, on her pedestal, sits the judge. Black-robed, witha gavel to hammer justice home, the judge pronounces verdictson matters as mundane astraffic fines and neighbours' quarrels toweightier issues of wealth and marriage, family and freedom, fraternity and liberty. Between the bureaucracy of the system and the cold rationality of the law, the human factor often goes missing. Too often, the law and its officers treat unequais equally. Not so with Judge Frank Caprio, who died this week aged 88. The municipal judge in Rhode Island in the US was known for his kindness and leniency, and, over the past few years, became a social media star. Ajudge for over 40 years, Caprio became well-known through his hit TV show, Caught in Providence. Over the last few years, clips from the reality programme - it showed Caprio dealing with cases in his court, from traffic violations to custody battles - made him something ofa global star. His form of delivering justice was anything but blind: He would inquire into the circumstances of the accused, sympathise with their struggles. He would waive fines for single parents rushing to work, trying to make ends meet. He would listen to immigrants' stories and admire their grit and struggle. Often, he would invite the children of those in the dock to come up to his seat and hold his gavel - heartwarming gestures that made a judge seem human in the best way possible. At atime when the internet is a source of division, \"the nicest judge inthe world\" was a breath of fresh air. Across the world, the fates of migrants, of the people at the bottom of the pyramid, are determined by men and womenin black robes who must leave their biases at thedoor. Perhaps, though, like Caprio, they can carry empathy intothe courtroom,",
+   "n_words": 348,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2270,
+      5343,
+      3531,
+      5451
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2271,
+      5495,
+      2796,
+      5539
+     ]
+    ],
+    "body_boxes": [
+     [
+      2270,
+      5574,
+      2876,
+      6166
+     ],
+     [
+      2922,
+      5496,
+      3525,
+      5609
+     ],
+     [
+      2921,
+      5657,
+      3525,
+      6159
+     ]
+    ],
+    "layout_words": 201
+   },
+   "headline_raw": "AUGUST 22, 1985, Forty YEARS AGO",
+   "deck_raw": "LONGOWAL CREMATED",
+   "body_raw": "THE BODY OF Sant Harchand Singh Longowal,\nthe Akali Dal (L) chief, who was assassinated,\nwas consigned tothe flames with full state ho-\nnours amidst chants of \u201cLongowal amar rahe\u201d\nat his dera near Longowal. Heart-rending\nscenes were witnessed when Giani Kirpal\nSingh, jathedar ofthe AkaliTakht, lit the funeral\npyre whilethe guns froma Punjab police posse\nboomed in salute. Earlier, Giani Sahib Singh,\nhead priest of the Golden Temple at Amritsar,\nperformed the ardas while gloom descended\non the large gathering consisting of about 1.5\nlakhpeonle, including asignificant numberof\nnon-Sikhs. The Akali Dal faces a leadership cri-\nsis, perhaps the gravest in the 65-year history\n\nof the party. Noneof the present leaders of the\nparty is of the stature the Sant had acquired af-\nter the signing of the Punjab accord,\n\nPUNJAB BANDH\nPUNJAB OBSERVED A total bandh as people\nmourned the assassination of the Akali Dal\npresident, Sant Harchand Singh Longowal.\nMost business establishments remained\nclosed in Chandigarh and parts of Haryanaand\nHimachal Pradesh. The call forthe bandh was\ngiven by the Akali Dal in protest against the\nassassination. Reports said people responded\ntothebandhvoluntarily. However, curfew was\nclamped in parts of Ludhiana. Itis understood\nthat the Cabinet Committee reviewed the",
+   "ocr_conf": 89.1044776119403,
+   "ocr_low_conf_share": 0.04975124378109453,
+   "headline": "AUGUST 22, 1985, Forty YEARS AGO",
+   "deck": "LONGOWAL CREMATED",
+   "byline": "",
+   "text": "THE BODY OF Sant Harchand Singh Longowal, the Akali Dal (L) chief, who was assassinated, was consigned tothe flames with full state honours amidst chants of \"Longowal amar rahe\" at his dera near Longowal. Heart-rending scenes were witnessed when Giani Kirpal Singh, jathedar ofthe AkaliTakht, lit the funeral pyre whilethe guns froma Punjab police posse boomed in salute. Earlier, Giani Sahib Singh, head priest of the Golden Temple at Amritsar, performed the ardas while gloom descended on the large gathering consisting of about 1.5 lakhpeonle, including asignificant numberof non-Sikhs. The Akali Dal faces a leadership crisis, perhaps the gravest in the 65-year history\n\nof the party. Noneof the present leaders of the party is of the stature the Sant had acquired after the signing of the Punjab accord,\n\nPUNJAB BANDH PUNJAB OBSERVED A total bandh as people mourned the assassination of the Akali Dal president, Sant Harchand Singh Longowal. Most business establishments remained closed in Chandigarh and parts of Haryanaand Himachal Pradesh. The call forthe bandh was given by the Akali Dal in protest against the assassination. Reports said people responded tothebandhvoluntarily. However, curfew was clamped in parts of Ludhiana. Itis understood that the Cabinet Committee reviewed the",
+   "n_words": 198,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 23.1,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

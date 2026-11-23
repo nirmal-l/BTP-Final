@@ -1,0 +1,709 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_24_front",
+ "source_file": "2025-03-24_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-24_front.png",
+ "date": "2025-03-24",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 278,
+  "mean_line_conf": 81.80156089414182,
+  "orphan_words": 73,
+  "body_words_total": 850
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      747,
+      723,
+      782
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      627,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 88.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      816,
+      785,
+      3183,
+      1388
+     ],
+     [
+      813,
+      1170,
+      1224,
+      1291
+     ],
+     [
+      813,
+      1303,
+      1240,
+      1494
+     ]
+    ],
+    "deck_boxes": [
+     [
+      813,
+      696,
+      3193,
+      746
+     ],
+     [
+      814,
+      1454,
+      1094,
+      1514
+     ],
+     [
+      1345,
+      1662,
+      1439,
+      1708
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      1554,
+      1113,
+      1751
+     ],
+     [
+      807,
+      1778,
+      2719,
+      1932
+     ],
+     [
+      2925,
+      1271,
+      3085,
+      1363
+     ],
+     [
+      2799,
+      1426,
+      3166,
+      1886
+     ]
+    ],
+    "layout_words": 119
+   },
+   "headline_raw": "a B a a\nUS tariffs looming, India looks at easing\na a a\nnon-trade barriers, relaxing Chinese FDI\nDiallingdownof \u2014 \u2014 =\nborder tensions ; __INDIA-CHINABILATERAL TRADE (Figures in USD billion) E Signal\nhas yielded space eal cron IE es | cell ee | 13 Kame tous\nDialling down of\nborder tensions\nhas yielded space\nto promote trade,\nsav officials",
+   "deck_raw": "ON AGENDA: UPGRADING INDIA-CHINA BILATERAL ECONOMIC RELATIONSHIP\nsay Officials\n\u2018jan-Jul",
+   "body_raw": "SANDEEP SINGH\n&ANILSASI\nMUMBAI. NEW DELHI.\nMARCH 23\n\nWITH SOME dialling down of eraleconomicrelationshpsnow. ing Indiato the comer on reduc- According to sources aware\ntensions between IndiaandChina \u2014Itisbeingviewedasanopportune _ ing tariffs and forcingit t agree of development, discussions are\nalong the border, policy makers time, particularly when US totermssetby Washington,es- on between departments to\nare more opentoupgrading bilat- President Donald Trumpispush- _ pecially on taniffs. CONTINUED ONPAGE 2\n\nSignal\n@ toUS\n\nTHERE [Sa growing viewin\nIndia that enteringinwa\nvisibly closer dialogue with\nChinaon normalising busi-\nnesstiescould send out a\nsignal to the US andlikely\nactasa potential hedge.\nTalks areon to consider di-\nluting some of the restric-\ntions on trade and invest-\nments putin place after the\nGalwanclashes in 2020.",
+   "ocr_conf": 75.95,
+   "ocr_low_conf_share": 0.225,
+   "headline": "US tariffs looming, India looks at easing non-trade barriers, relaxing Chinese FDI border tensions; __INDIA-CHINABILATERAL TRADE (Figures in USD billion) E Signal has yielded space eal cron IE es cell ee 13 Kame tous Dialling down of border tensions has yielded space to promote trade, sav officials",
+   "deck": "ON AGENDA: UPGRADING INDIA-CHINA BILATERAL ECONOMIC RELATIONSHIP say Officials 'jan-Jul",
+   "byline": "SANDEEP SINGH; &ANILSASI; MUMBAI. NEW DELHI.; MARCH 23",
+   "text": "WITH SOME dialling down of eraleconomicrelationshpsnow. ing Indiato the comer on reduc- According to sources aware tensions between IndiaandChina - Itisbeingviewedasanopportune _ ing tariffs and forcingit t agree of development, discussions are along the border, policy makers time, particularly when US totermssetby Washington,es- on between departments to are more opentoupgrading bilat- President Donald Trumpispush- _ pecially on taniffs. CONTINUED ONPAGE 2\n\nSignal @ toUS\n\nTHERE [Sa growing viewin India that enteringinwa visibly closer dialogue with Chinaon normalising businesstiescould send out a signal to the US andlikely actasa potential hedge. Talks areon to consider diluting some of the restrictions on trade and invest-ments putin place after the Galwanclashes in 2020.",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      769,
+      4174,
+      1237
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      1426,
+      3694,
+      2369
+     ],
+     [
+      3735,
+      1266,
+      4184,
+      1976
+     ],
+     [
+      3739,
+      2020,
+      4181,
+      2362
+     ]
+    ],
+    "layout_words": 269
+   },
+   "headline_raw": "F-] visa denials surge\nto 10-year high, US\nrejects 41% of foreign\nstudent applicants",
+   "deck_raw": "",
+   "body_raw": "STUDENT VISA denials by the\nUnited States (US) soared toa\ndecade-high last fiscal year\n(October 2023 to September\n2024) with 41% of F-1 visa appli-\ncations from across all countries\nturned down \u2014 almost double\nthe rejection rate ofthe 2014 fis-\ncal year \u2014 shows an analysis of\nState Department data by The\nIndian Express.\nIn 2023-24, (the US govern-\nment's fiscal year runs from\nOctober 1 to September 30), the\nUS received a total of 6.79 lakh\napplications for F-1 visas, of\nwhich 2.79 lakh (41%) were de-\nnied. This is an increase from\n2022-23, when 2.53 lakh appli-\ncations (36%) of a total of 6.99\nlakh were turned down.\nWhile the US Sate\nDenartment didnot share dataon\nthe country-wise refusal rate for\n\nF-1 visas, The Indian Express had\nreported on December Slast year\nthat the number of student visas\nissued to Indians in the first nine\nmonths of 2024had decreasedby\n38% as compared to the corre-\nsponding period in 2023.\nAccording to the data, the\npercentage of student visa de-\nnials increased even as the ab-\nsolute number of applications\nfrom across allcountriesdipped\nover the lastdecade. During this\nperiod, the total number of ap-\nplications peaked at 8.56 lakh in\n2014-15, but saw a steady dip in\nthenext fewyears, till ithita low\nof 1.62 lakh in the Covid year of\n\nPost-Covid, while the num-\nber of applications steadily in-\ncreased, there was a3% decrease\nin 2023-24 \u2014 from 6.99 lakh\nin 2022-23 to 6.79 lakh in2023-\n24. As aresult, the absolute num-\nber of visa denials in the last\nfiscal year (2.79 lakh)\nCONTINUED ON PAGE2",
+   "ocr_conf": 87.13805970149254,
+   "ocr_low_conf_share": 0.07462686567164178,
+   "headline": "F-] visa denials surge to 10-year high, US rejects 41% of foreign student applicants",
+   "deck": "",
+   "byline": "",
+   "text": "STUDENT VISA denials by the United States (US) soared toa decade-high last fiscal year (October 2023 to September 2024) with 41% of F-1 visa applications from across all countries turned down - almost double the rejection rate ofthe 2014 fiscal year - shows an analysis of State Department data by The Indian Express. In 2023-24, (the US government's fiscal year runs from October 1 to September 30), the US received a total of 6.79 lakh applications for F-1 visas, of which 2.79 lakh (41%) were denied. This is an increase from 2022-23, when 2.53 lakh applications (36%) of a total of 6.99 lakh were turned down. While the US Sate Denartment didnot share dataon the country-wise refusal rate for\n\nF-1 visas, The Indian Express had reported on December Slast year that the number of student visas issued to Indians in the first nine months of 2024had decreasedby 38% as compared to the corresponding period in 2023. According to the data, the percentage of student visa denials increased even as the absolute number of applications from across allcountriesdipped over the lastdecade. During this period, the total number of applications peaked at 8.56 lakh in 2014-15, but saw a steady dip in thenext fewyears, till ithita low of 1.62 lakh in the Covid year of\n\nPost-Covid, while the number of applications steadily increased, there was a3% decrease in 2023-24 - from 6.99 lakh in 2022-23 to 6.79 lakh in2023- 24. As aresult, the absolute number of visa denials in the last fiscal year (2.79 lakh)",
+   "n_words": 253,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      539,
+      915,
+      694,
+      993
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "US TITUTION\n4 of IND",
+   "ocr_conf": 49.0,
+   "ocr_low_conf_share": 0.8,
+   "headline": "",
+   "deck": "",
+   "byline": "US TITUTION",
+   "text": "4 of IND",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      1447,
+      764,
+      1833
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Ex-minister\nChandrasekhar\nset to be next\nchief of BJP\u2019s\nKerala unit",
+   "ocr_conf": 94.63636363636364,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Ex-minister Chandrasekhar set to be next chief of BJP's Kerala unit",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      566,
+      1894,
+      739,
+      2123
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Immediate\nchallenge\nwillbe the\nlocal body\npolls in\nOctober",
+   "ocr_conf": 95.22222222222223,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Immediate challenge willbe the local body polls in October",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2083,
+      3203,
+      2242
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2241,
+      3189,
+      2277
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "EXPRESS NETWORK\nINVADER MINDSETA",
+   "deck_raw": "",
+   "body_raw": "THREAT: HOSABALE",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK INVADER MINDSETA",
+   "deck": "",
+   "byline": "THREAT: HOSABALE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2148,
+      1726,
+      2349
+     ],
+     [
+      809,
+      2361,
+      1624,
+      2506
+     ]
+    ],
+    "deck_boxes": [
+     [
+      812,
+      2082,
+      2353,
+      2116
+     ],
+     [
+      584,
+      2825,
+      762,
+      2885
+     ]
+    ],
+    "body_boxes": [
+     [
+      806,
+      2690,
+      1252,
+      3160
+     ],
+     [
+      1294,
+      3008,
+      1739,
+      3153
+     ],
+     [
+      1915,
+      2258,
+      2479,
+      2286
+     ],
+     [
+      1786,
+      2651,
+      2228,
+      3161
+     ]
+    ],
+    "layout_words": 151
+   },
+   "headline_raw": "Mosque panel head held;\nwas to appear before\njudicial panel: brother",
+   "deck_raw": "2024 SAMBHAL VIOLENCE FAULTY IMPLANTS IN INDIA\nAGK wi INIA TVIP,\nunanimous,\u201d",
+   "body_raw": "POLICE IN westem UP\u2019s Sambhal\nonSunday arrested Zafar Ali,chair-\nman of the Shahi Jama Masjid\nmanaging committee, accusing\nhimof playing an \u201cincendiary rok\u201d\nin the violence that erupted on\nNovember 24 over a court-or-\ndered survey of the mosque.\nSambhal SP Krishna Kumar\nsaid, \u201cWe have gathered evi-\ndence that he played anincendi-\nary role during the violence last\n\nyear. He was picked up by the\npolice from his house in Sambhal\non Sunday morning and was\nCONTINUED ONPAGE 2\n\n\n\nEVEN AS nearly 4,000 patients\nawaitjustice from the Delhi High\nCourt in the form of compensa-\ntion from Johnson & Johnson\n(J&J) over faulty hip implants\nthat severely impaired their\nhealth, the pharma giant had\nproposed a payout formula to\nthe Government during a\nclosed-door meeting over five\nyears ago. That plan was shot\ndown \u2014 it did not take into ac-\ncount the severity of a patient's",
+   "ocr_conf": 92.17567567567568,
+   "ocr_low_conf_share": 0.033783783783783786,
+   "headline": "Mosque panel head held; was to appear before judicial panel: brother",
+   "deck": "2024 SAMBHAL VIOLENCE FAULTY IMPLANTS IN INDIA AGK wi INIA TVIP, unanimous,\"",
+   "byline": "",
+   "text": "POLICE IN westem UP's Sambhal onSunday arrested Zafar Ali,chairman of the Shahi Jama Masjid managing committee, accusing himof playing an \"incendiary rok\" in the violence that erupted on November 24 over a court-ordered survey of the mosque. Sambhal SP Krishna Kumar said, \"We have gathered evidence that he played anincendiary role during the violence last\n\nyear. He was picked up by the police from his house in Sambhal on Sunday morning and was\n\nEVEN AS nearly 4,000 patients awaitjustice from the Delhi High Court in the form of compensation from Johnson & Johnson (J&J) over faulty hip implants that severely impaired their health, the pharma giant had proposed a payout formula to the Government during a closed-door meeting over five years ago. That plan was shot down - it did not take into account the severity of a patient's",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      2148,
+      2647,
+      2349
+     ],
+     [
+      1788,
+      2361,
+      2628,
+      2506
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2272,
+      2769,
+      2662,
+      2958
+     ],
+     [
+      2273,
+      3048,
+      2714,
+      3154
+     ]
+    ],
+    "layout_words": 24
+   },
+   "headline_raw": "J&J payout plan for\npatients wasn\u2019t fair, so\nGovt rejected it: Book",
+   "deck_raw": "",
+   "body_raw": "Seeman towers '\nieee\" |)\nThe book by The Indian\nExpress National Health\nEditor, Kaunain Sheriff M\n\ndisabilitycaused bytheimplant\nThis undisclosed episode in\nCONTINUED ONPAGE 2",
+   "ocr_conf": 79.76923076923077,
+   "ocr_low_conf_share": 0.15384615384615385,
+   "headline": "J&J payout plan for patients wasn't fair, so Govt rejected it: Book",
+   "deck": "",
+   "byline": "",
+   "text": "Seeman towers ' ieee\" ) The book by The Indian Express National Health Editor, Kaunain Sheriff M\n\ndisabilitycaused bytheimplant This undisclosed episode in",
+   "n_words": 23,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2371,
+      765,
+      2763
+     ]
+    ],
+    "layout_words": 43,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE BJP has decided to appoint\nformer Union IT Minister and\ntechnocrat-tumed-politician\nRajeev Chandrasekhar as the\nnext president ofits Kerala unit.\nThe BJP\u2019s core committee\ntook the decision ata meeting in\nThiruvananthapuram on Sunday\nthat was attended by the party's\nKerala in-charge Prakash",
+   "ocr_conf": 83.32558139534883,
+   "ocr_low_conf_share": 0.13953488372093023,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "THE BJP has decided to appoint former Union IT Minister and technocrat-tumed-politician Rajeev Chandrasekhar as the next president ofits Kerala unit. The BJP's core committee took the decision ata meeting in Thiruvananthapuram on Sunday that was attended by the party's Kerala in-charge Prakash",
+   "n_words": 43,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      2447,
+      4119,
+      2706
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2759,
+      2848,
+      3207,
+      3154
+     ],
+     [
+      3736,
+      2692,
+      4180,
+      3155
+     ]
+    ],
+    "layout_words": 104
+   },
+   "headline_raw": "Paralympics medallist sets target\nfor teen rival who lost limbs at 5",
+   "deck_raw": "",
+   "body_raw": "SHEETAL DEVIis onlyoneof two\narmless athletes to win a medal\nat the Paralympics The story of\nthis 18-year-old archer from\nJammu, however, is not just\nabout beating the oddsand win-\nning medals She is also inspiring\nothers in similar or more chal-\n\nlenging circumstances to takeup\nthe bow \u2014 and beasgood as her.\nOn Sunday, Sheetal edged\npast 17-year-old Payal Nag inthe\nfinal to win gold in the 2025\nKhelo India Para Games. But\nthen, had # not been for Sheetal's\nexploits at the 2024 Paris\nParalympics, where she won\nbronze, Payal would not have\ntaken up the sport at all.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.85714285714286,
+   "ocr_low_conf_share": 0.02857142857142857,
+   "headline": "Paralympics medallist sets target for teen rival who lost limbs at 5",
+   "deck": "",
+   "byline": "",
+   "text": "SHEETAL DEVIis onlyoneof two armless athletes to win a medal at the Paralympics The story of this 18-year-old archer from Jammu, however, is not just about beating the oddsand winning medals She is also inspiring others in similar or more challenging circumstances to takeup the bow - and beasgood as her. On Sunday, Sheetal edged past 17-year-old Payal Nag inthe final to win gold in the 2025 Khelo India Para Games. But then, had # not been for Sheetal's exploits at the 2024 Paris Paralympics, where she won bronze, Payal would not have taken up the sport at all.",
+   "n_words": 99,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2768,
+      763,
+      2831
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      2825,
+      574,
+      2885
+     ]
+    ],
+    "body_boxes": [
+     [
+      317,
+      2886,
+      763,
+      3152
+     ]
+    ],
+    "layout_words": 29
+   },
+   "headline_raw": "Javadekar and co-in-charge\nAnariita Saransi, aLok Sabha MP.",
+   "deck_raw": "mat eels ot\n\u201cThe decision was",
+   "body_raw": "said asource.\nChandrasekhar\u2019snameis ex-\npected to be announced offt-\nCially ata party conclave thatwill\nbe held at the Uday Palace\nConvention Centre in Kowdiar,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.71428571428571,
+   "ocr_low_conf_share": 0.03571428571428571,
+   "headline": "Javadekar and co-in-charge Anariita Saransi, aLok Sabha MP.",
+   "deck": "mat eels ot \"The decision was",
+   "byline": "",
+   "text": "said asource. Chandrasekhar'snameis expected to be announced offt-Cially ata party conclave thatwill be held at the Uday Palace Convention Centre in Kowdiar,",
+   "n_words": 22,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      697,
+      3365,
+      3983,
+      3638
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2705,
+      3703,
+      2866,
+      3754
+     ],
+     [
+      1953,
+      3817,
+      2391,
+      3874
+     ]
+    ],
+    "body_boxes": [
+     [
+      1948,
+      4360,
+      1980,
+      4393
+     ],
+     [
+      1867,
+      4687,
+      2159,
+      4761
+     ],
+     [
+      3332,
+      4905,
+      3998,
+      4937
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY, NOIDA\n(Deemed to be University)\nApproved by UGC & AICTE | Accredited by NBA & NAAC | Ranked by NIRF",
+   "deck_raw": "RROE\nA ATLASSIAN",
+   "body_raw": "wR\n\netfucties\ncisco O\u2122\n\n",
+   "ocr_conf": 23.25,
+   "ocr_low_conf_share": 0.75,
+   "headline": "JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY, NOIDA (Deemed to be University) Approved by UGC & AICTE Accredited by NBA & NAAC Ranked by NIRF",
+   "deck": "RROE A ATLASSIAN",
+   "byline": "",
+   "text": "wR\n\netfucties cisco O\u2122",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2433,
+      4785,
+      3205,
+      4982
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2530,
+      5140,
+      3438,
+      5188
+     ]
+    ],
+    "body_boxes": [
+     [
+      2532,
+      5396,
+      2881,
+      5428
+     ],
+     [
+      3079,
+      5397,
+      3716,
+      5429
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\n\n",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      443,
+      5953,
+      797,
+      6038
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      472,
+      6057,
+      797,
+      6094
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "FAYPEE",
+   "deck_raw": "",
+   "body_raw": "EDUSPHERE",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "FAYPEE",
+   "deck": "",
+   "byline": "EDUSPHERE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 14.3,
+ "flags": []
+}

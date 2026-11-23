@@ -1,0 +1,895 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_21_front",
+ "source_file": "2025-05-21_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-21_front.png",
+ "date": "2025-05-21",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 544,
+  "mean_line_conf": 90.27231273413548,
+  "orphan_words": 135,
+  "body_words_total": 2174
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      693,
+      4163,
+      1194
+     ],
+     [
+      3251,
+      1243,
+      4129,
+      1445
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3635,
+      1493,
+      3797,
+      1526
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "The North Star in\nIndian astrophysics,\nhe was ahead of his\ntime and space\nWorking with legendary Fred Hoyle\nto setting up IUCAA, Jayant Narlikar\nnurtured, inspired next generation",
+   "deck_raw": "",
+   "body_raw": "PNG fash",
+   "ocr_conf": 16.5,
+   "ocr_low_conf_share": 1.0,
+   "headline": "The North Star in Indian astrophysics, he was ahead of his time and space Working with legendary Fred Hoyle to setting up IUCAA, Jayant Narlikar nurtured, inspired next generation",
+   "deck": "",
+   "byline": "",
+   "text": "PNG fash",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      784,
+      3186,
+      1059
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1641,
+      701,
+      2388,
+      751
+     ],
+     [
+      811,
+      1094,
+      1731,
+      1278
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1343,
+      1182,
+      1413
+     ],
+     [
+      809,
+      1463,
+      1252,
+      1812
+     ],
+     [
+      2026,
+      1206,
+      2351,
+      1496
+     ],
+     [
+      1787,
+      1621,
+      2229,
+      1813
+     ],
+     [
+      2275,
+      1622,
+      2715,
+      1767
+     ],
+     [
+      2322,
+      1779,
+      2715,
+      1814
+     ],
+     [
+      2763,
+      1622,
+      3204,
+      1807
+     ]
+    ],
+    "layout_words": 147
+   },
+   "headline_raw": "Tweak in Jal Jeevan tender rule removed cap\non expense, led to Rs 16,000-crore extra cost",
+   "deck_raw": "AN EXPRESS INVESTIGATION |\nBulkof escalation in projects of Rs 100 cr\nand above; cost rise across states, UTs;\nMP, Maharashtra, Chhattisgarh top three",
+   "body_raw": "HARIKISHAN SHARMA\nNEW DELHI, MAY 20\n\nON MONDAY, the Government\nissued an order for 100 inspec-\ntion teams to fan out across 135\ndistricts in 29 states and Union\nTerritories to review the work\nbeing carried out under its flag-\nship Jal Jeevan Mission for sup-\nplying drinking water through\nindividual tap connections to ru-\n\n. %1,000cr & above\n> -500cr-2999 cr\n\u2014\u2014 8100 cr-2499 cr\n\u2018| 50 cr-299 cr\n325 cr- %50 cr\n{ Below\u00ae25cr\n\ncosts totalling Rs 16,839 crore for\n14,586 schemes \u2014anincrease of\n14.58 per cent from their esti-\nmated cost. Before a tender is is-\nsued for a scheme, the govern-\n\nment arrives at the estimated\ncost by adding various project\ncosts including material and\nlabour.\n\nOver the past month, The\n\nIndian Express scrutinised details\nof over 1 lakh schemes for which\nwork orders were issued on or\nafter June 21, 2022, when the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.94736842105263,
+   "ocr_low_conf_share": 0.07236842105263158,
+   "headline": "Tweak in Jal Jeevan tender rule removed cap on expense, led to Rs 16,000-crore extra cost",
+   "deck": "AN EXPRESS INVESTIGATION Bulkof escalation in projects of Rs 100 cr and above; cost rise across states, UTs; MP, Maharashtra, Chhattisgarh top three",
+   "byline": "HARIKISHAN SHARMA; NEW DELHI, MAY 20",
+   "text": "ON MONDAY, the Government issued an order for 100 inspection teams to fan out across 135 districts in 29 states and Union Territories to review the work being carried out under its flagship Jal Jeevan Mission for supplying drinking water through individual tap connections to ru-\n\n- - 8100 cr-2499 cr { Below\u00ae25cr\n\ncosts totalling Rs 16,839 crore for 14,586 schemes - anincrease of 14.58 per cent from their estimated cost. Before a tender is issued for a scheme, the government arrives at the estimated cost by adding various project costs including material and labour.\n\nOver the past month, The\n\nIndian Express scrutinised details of over 1 lakh schemes for which work orders were issued on or after June 21, 2022, when the",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1283,
+      1227,
+      1733,
+      1283
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      1304,
+      1742,
+      1806
+     ]
+    ],
+    "layout_words": 64
+   },
+   "headline_raw": "hattisgarh top three",
+   "deck_raw": "",
+   "body_raw": "ral households \u2014 amid concerns\nwithin the administration over\ncostoverrunsand alleged lapses\nin award of tenders.\nAn investigation by The\nIndian Express of the data up-\nloaded by states and UTs in the\nJal Jeevan Mission dashboard has\nrevealed thata crucial change in\nthe tender guidelines three years\nago lifted the check on expendi-\nture, and led to cost escalations.\nThis resulted in additional",
+   "ocr_conf": 87.484375,
+   "ocr_low_conf_share": 0.0625,
+   "headline": "hattisgarh top three",
+   "deck": "",
+   "byline": "",
+   "text": "ral households - amid concerns within the administration over costoverrunsand alleged lapses in award of tenders. An investigation by The Indian Express of the data uploaded by states and UTs in the Jal Jeevan Mission dashboard has revealed thata crucial change in the tender guidelines three years ago lifted the check on expenditure, and led to cost escalations. This resulted in additional",
+   "n_words": 62,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1446,
+      751,
+      1850
+     ]
+    ],
+    "deck_boxes": [
+     [
+      544,
+      2073,
+      758,
+      2122
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      2214,
+      633,
+      2284
+     ],
+     [
+      319,
+      2333,
+      762,
+      2605
+     ],
+     [
+      321,
+      2610,
+      762,
+      3119
+     ],
+     [
+      321,
+      3163,
+      761,
+      3864
+     ],
+     [
+      321,
+      3924,
+      759,
+      4094
+     ]
+    ],
+    "layout_words": 194
+   },
+   "headline_raw": "Ashoka prof\nsent to judicial\ncustody until\nMay 27; SC to\nhear plea today",
+   "deck_raw": "A Nea\nMahmudabad",
+   "body_raw": "SUKHBIR SIWACH\nCHANDIGARH, MAY 20\n\nACOURT in Sonipat on Tuesday\nsent Ali Khan Mahmudahad, as-\nsociate professor and head of the\nDepartment of Political Science\nat Ashoka University, to judicial\ncustody until the next hearing on\nMay 27.\n\nMahmudabad was arrested\non Sunday for remarks he posted\non social media that, an FIR al-\nleged, \u201cdisparaged women offi-\ncers in the Indian Armed Forces\nand promoted communal\ndisharmony\u201d.\nThe Supreme Court is set to\nhear his plea challenging the ar-\nrest on Wednesday. The top\ncourt's causelist showed a bench\ncomprising Justices Surya Kant\nand N K Singh willbe hearing the\n\nMahmudabad was produced\nbefore the court of Judicial\nMagistrate (First Class) Azad\nSingh in Sonipat on Tuesday, af-\nter the expiry of his two-day po-\nlice remand.\nWhile the police sought his\nremand for seven more days, the\ncourt dismissed the application\nand sent Mahmudabad to judi-\ncial custody, ordering him to be\nproduced through videoconfer-\nencing on May 27.\nSeeking extension of police\nremand, the prosecution told the\ncourt that Mahmudabad's lap-\ntop and cellphone had been sent\nCONTINUED ON PAGE 2\n\nSTATEMENT AGAINST\nPROF: JNU, GUJARAT\nUNIV V-Cs AMONG\nSIGNATORIES PaGE 5",
+   "ocr_conf": 92.43076923076923,
+   "ocr_low_conf_share": 0.015384615384615385,
+   "headline": "Ashoka prof sent to judicial custody until May 27; SC to hear plea today",
+   "deck": "A Nea Mahmudabad",
+   "byline": "SUKHBIR SIWACH; CHANDIGARH, MAY 20",
+   "text": "ACOURT in Sonipat on Tuesday sent Ali Khan Mahmudahad, associate professor and head of the Department of Political Science at Ashoka University, to judicial custody until the next hearing on\n\nMahmudabad was arrested on Sunday for remarks he posted on social media that, an FIR alleged, \"disparaged women officers in the Indian Armed Forces and promoted communal disharmony\". The Supreme Court is set to hear his plea challenging the arrest on Wednesday. The top court's causelist showed a bench comprising Justices Surya Kant and N K Singh willbe hearing the\n\nMahmudabad was produced before the court of Judicial Magistrate (First Class) Azad Singh in Sonipat on Tuesday, after the expiry of his two-day police remand. While the police sought his remand for seven more days, the court dismissed the application and sent Mahmudabad to judicial custody, ordering him to be produced through videoconferencing on May 27. Seeking extension of police remand, the prosecution told the court that Mahmudabad's laptop and cellphone had been sent\n\nSTATEMENT AGAINST PROF: JNU, GUJARAT UNIV V-Cs AMONG SIGNATORIES PaGE 5",
+   "n_words": 175,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      1974,
+      3076,
+      2312
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      1884,
+      2830,
+      1934
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      2399,
+      1248,
+      2742
+     ],
+     [
+      808,
+      2807,
+      1189,
+      2916
+     ],
+     [
+      805,
+      2967,
+      1250,
+      3989
+     ],
+     [
+      1297,
+      3123,
+      1302,
+      3151
+     ],
+     [
+      2761,
+      2397,
+      3185,
+      2786
+     ],
+     [
+      2764,
+      2888,
+      3044,
+      2959
+     ],
+     [
+      2761,
+      3008,
+      3203,
+      4025
+     ]
+    ],
+    "layout_words": 268
+   },
+   "headline_raw": "Countering Pak, exposing its terror,\nIndia\u2019s Indus stand: Teams fan out",
+   "deck_raw": "ALL-PARTY TEAMS BRIEFED BY MINISTRY OF EXTERNAL AFFAIRS",
+   "body_raw": "Delegations head\nabroad to meet\ngovts, think tanks,\nacademics, civil\nsociety, media\n\nDEEPTIMAN TIWARY &\nASAD REHMAN\nNEW DELHI, MAY 20\n\nMOVING TOrally global support\nfor India\u2019s war against terror em-\nanating from Pakistan, members\nof the all-party delegations -\nthree teams start their foreign\nvisits Wednesday \u2014 will seek to\ndispel Pakistani misinformation\non Operation Sindoor, expose\nIslamabad's duplicity on coun-\ntering terror, explain India's\nstand on the Indus Waters Treaty\nand underline thecountry\u2019s\u2018new\nnormal in responseto cross-bor-\nder terrorism.\nThree delegations, headed by\nJDU's Sanjay Kumar Jha, Shiv\nSena\u2019s Shrikant Shinde and\nDMK\u2019s Kanimozhi, were briefed\nby Foreign Secretary Vikram\nMisri Tuesday. They were told\nthat they will have back-to-back\nmeetings with people from the\ngovernment (Ministers, MPs and\nother lawmakers), think tanks,\nacademics, journalists, civil so-\nciety and others.\n\n\n\nGovt reaches\nout to Mamata\nand Uddhav;\nTMC to send\nAbhishek\n\nMANOJCG\nNEW DELHI, MAY 20\n\nA DAY after the Trinamool\nCongress(TMC) said it would not\nsend Lok Sabha MP Yusuf Pathan,\npicked by theCentre as one ofthe\nmembers for the all-party dele-\ngations visiting foreign capitals,\nsaying it had not been consulted,\nAbhishek Banerjee, the party's\nDiamond Harbour MP and de\nfacto second-in-command, was\nadded toa delegation.\nAbhishek replaces Pathan in\nthe group headed by the JD(U)\u2019s\nSanjay Kumar Jha. The delega-\ntion will travel to Indonesia,\nMalaysia, South Korea, Japan and\nSingapore. CPI(M) MP John\nBrittas, BJP MPAparajita Sarangi,\nand Congress leader Salman\nKhurshid are among the other\nmembers of the group.\nThe party\u2019s change of heart\nreportedly came after Union\nParliamentary Affairs Minister\nKiren Rijiju spoke to TMC\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.78277153558052,
+   "ocr_low_conf_share": 0.033707865168539325,
+   "headline": "Countering Pak, exposing its terror, India's Indus stand: Teams fan out",
+   "deck": "ALL-PARTY TEAMS BRIEFED BY MINISTRY OF EXTERNAL AFFAIRS",
+   "byline": "DEEPTIMAN TIWARY &; ASAD REHMAN; NEW DELHI, MAY 20",
+   "text": "Delegations head abroad to meet govts, think tanks, academics, civil society, media\n\nMOVING TOrally global support for India's war against terror emanating from Pakistan, members of the all-party delegations - three teams start their foreign visits Wednesday - will seek to dispel Pakistani misinformation on Operation Sindoor, expose Islamabad's duplicity on countering terror, explain India's stand on the Indus Waters Treaty and underline thecountry's'new normal in responseto cross-border terrorism. Three delegations, headed by JDU's Sanjay Kumar Jha, Shiv Sena's Shrikant Shinde and DMK's Kanimozhi, were briefed by Foreign Secretary Vikram Misri Tuesday. They were told that they will have back-to-back meetings with people from the government (Ministers, MPs and other lawmakers), think tanks, academics, journalists, civil society and others.\n\nGovt reaches out to Mamata and Uddhav; TMC to send Abhishek\n\nMANOJCG NEW DELHI, MAY 20\n\nA DAY after the Trinamool Congress(TMC) said it would not send Lok Sabha MP Yusuf Pathan, picked by theCentre as one ofthe members for the all-party delegations visiting foreign capitals, saying it had not been consulted, Abhishek Banerjee, the party's Diamond Harbour MP and de facto second-in-command, was added toa delegation. Abhishek replaces Pathan in the group headed by the JD(U)'s Sanjay Kumar Jha. The delegation will travel to Indonesia, Malaysia, South Korea, Japan and Singapore. CPI(M) MP John Brittas, BJP MPAparajita Sarangi, and Congress leader Salman Khurshid are among the other members of the group. The party's change of heart reportedly came after Union Parliamentary Affairs Minister Kiren Rijiju spoke to TMC",
+   "n_words": 248,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2345,
+      3523,
+      2421
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2416,
+      3532,
+      2444
+     ],
+     [
+      3249,
+      2493,
+      3691,
+      4111
+     ]
+    ],
+    "layout_words": 215
+   },
+   "headline_raw": "AMITABH SINHA\nRICA MoI WAAAY ON",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, MAY 20\n\nBIG BANG is an exploding myth,\nread the sign outside his room. It\nwasalsoa sort of theme song for\nthe person inside.\nFor Jayant Narlikar, the estab-\nlished theory about how the uni-\nverse came into being, through\na Big Bang about 13.8 billion\nyears ago, was never really a set-\ntled issue.\nNarlikar, who had contributed\nimmensely to the development\nofanalternative model of the uni-\nversealong with his mentorFred\nHoyle, passed away Tuesday\nmorning in Pune. He was 87.\nAiling for some time, he had had\na falltwo weeks ago and had tobe\noperated upon last week.\nOne of the most celebrated\nIndian scientists, Narlikar, thena\nyoung researcher at Cambridge\nUniversity in the UK, had at-\ntracted global recognition for his\nwork on what is known as the\nsteady-state theory of the uni-\nverse, developed by Hoyle, in\ncollaboration with Hermann\nBondi and Thomas Gold.\nThe Big Bang theory suggests\nthat the universe has a definite\nbeginning, anda possible end. In\ncontrast, the steady state theory,\nwhich was the mainstream the-\noryin the 1950s and 1960s, main-\ntains that the universe has always\nbeen the way it is, without any\nbeginning or anend. The idea has\nbecome less popular over time,\nwith mounting evidence that\nsupports the Big Bang theory.",
+   "ocr_conf": 91.74883720930232,
+   "ocr_low_conf_share": 0.046511627906976744,
+   "headline": "AMITABH SINHA RICA MoI WAAAY ON",
+   "deck": "",
+   "byline": "NEW DELHI, MAY 20",
+   "text": "BIG BANG is an exploding myth, read the sign outside his room. It wasalsoa sort of theme song for the person inside. For Jayant Narlikar, the established theory about how the universe came into being, through a Big Bang about 13.8 billion years ago, was never really a settled issue. Narlikar, who had contributed immensely to the development ofanalternative model of the universealong with his mentorFred Hoyle, passed away Tuesday morning in Pune. He was 87. Ailing for some time, he had had a falltwo weeks ago and had tobe operated upon last week. One of the most celebrated Indian scientists, Narlikar, thena young researcher at Cambridge University in the UK, had attracted global recognition for his work on what is known as the steady-state theory of the universe, developed by Hoyle, in collaboration with Hermann Bondi and Thomas Gold. The Big Bang theory suggests that the universe has a definite beginning, anda possible end. In contrast, the steady state theory, which was the mainstream theoryin the 1950s and 1960s, main-tains that the universe has always been the way it is, without any beginning or anend. The idea has become less popular over time, with mounting evidence that supports the Big Bang theory.",
+   "n_words": 203,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3683,
+      2345,
+      3874,
+      2421
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3504,
+      2166,
+      3925,
+      2220
+     ]
+    ],
+    "body_boxes": [
+     [
+      3738,
+      4038,
+      4060,
+      4112
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "INSIDE",
+   "deck_raw": "JAYANT NARLIKAR",
+   "body_raw": "MORE REPORTS\nPAGE 5",
+   "ocr_conf": 77.0,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "JAYANT NARLIKAR",
+   "byline": "MORE REPORTS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      2840,
+      4129,
+      3011
+     ]
+    ],
+    "layout_words": 10,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "MR SRINIVASAN,\nVETERAN NUCLEAR\nSCIENTIST, DIES\nAT 95 Pace 5",
+   "ocr_conf": 84.3,
+   "ocr_low_conf_share": 0.1,
+   "headline": "",
+   "deck": "",
+   "byline": "MR SRINIVASAN,; VETERAN NUCLEAR; SCIENTIST, DIES",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      3088,
+      4180,
+      3392
+     ]
+    ],
+    "layout_words": 32,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "But Narlikar remained un-\nconvinced.\nAcknowledging that he wasin\nasmall minority, he argued in his\nautobiography \u2018A Tale of Four\nCities\u2019 that there was still enough\nevidence to \u201cre-examinethesitu-\nation\u201d.",
+   "ocr_conf": 87.8,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "But Narlikar remained unconvinced. Acknowledging that he wasin asmall minority, he argued in his autobiography 'A Tale of Four Cities' that there was still enough evidence to \"re-examinethesituation\".",
+   "n_words": 28,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      3345,
+      2657,
+      3556
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      3640,
+      1579,
+      3710
+     ],
+     [
+      1296,
+      3758,
+      1740,
+      4031
+     ],
+     [
+      2272,
+      3600,
+      2714,
+      4025
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "Delegations good move... members\nto convey govt stand: Chidambaran",
+   "deck_raw": "",
+   "body_raw": "NEETASHARMA\nNEW DELHI, MAY 20\n\nREFLECTING THE friction within\nthe Congress over the stand to\ntake on different aspects of\nOperation Sindoor, senior party\nleader and former Union home\nminister P Chidambaram has\nsaid he welcomes the govern-\n\nment decision to send all-party\ndelegations to foreign capitals to\nexplain India\u2019s position. While\nthe Congress has objected tothe\ngovernment picking the dele-\ngates on its own, Chidambaram\nunderlined that the teams were\nthere not to represent any party's\nstand but the government's.\nIn an interview with\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.82022471910112,
+   "ocr_low_conf_share": 0.033707865168539325,
+   "headline": "Delegations good move... members to convey govt stand: Chidambaran",
+   "deck": "",
+   "byline": "NEETASHARMA; NEW DELHI, MAY 20",
+   "text": "REFLECTING THE friction within the Congress over the stand to take on different aspects of Operation Sindoor, senior party leader and former Union home minister P Chidambaram has said he welcomes the government decision to send all-party delegations to foreign capitals to explain India's position. While the Congress has objected tothe government picking the dele-gates on its own, Chidambaram underlined that the teams were there not to represent any party's stand but the government's. In an interview with",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      3404,
+      4182,
+      3985
+     ]
+    ],
+    "layout_words": 90,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "\u201cIt is not that Narlikar was\nblind to the new evidence com-\ning out in support of Big Bang. He\nwasa scientist of the first order. It\nis just that hestrongly believed in\nhis work. So, every new piece of\nevidence for Big Bang used to be\ntaken asa fresh challenge by him,\na new opportunity to test his\nideas, And his responses, or criti-\ncism, of the new evidence usedto\nbe as scientifically rigorous as it\ncan get,\u201d said + Somak\nRaychaudhuri, a former director\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.58888888888889,
+   "ocr_low_conf_share": 0.044444444444444446,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "\"It is not that Narlikar was blind to the new evidence coming out in support of Big Bang. He wasa scientist of the first order. It is just that hestrongly believed in his work. So, every new piece of evidence for Big Bang used to be taken asa fresh challenge by him, a new opportunity to test his ideas, And his responses, or criticism, of the new evidence usedto be as scientifically rigorous as it can get,\" said + Somak Raychaudhuri, a former director",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4179,
+      563,
+      4236
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4597,
+      754,
+      4767
+     ],
+     [
+      320,
+      4802,
+      756,
+      5014
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "THE WORLD",
+   "deck_raw": "",
+   "body_raw": "STRIKES KILL OVER\n50 INGAZA; STARMER\nSAYS \u2018HORRIFIED\u2019 BY\nISRAEL\u2019S ESCALATION\n\nIRAN\u2019S KHAMENE!\nSLAMS \u2018OUTRAGEOUS\u2019\nU.S. DEMANDS IN\nNUCLEAR TALKS\nPAGES",
+   "ocr_conf": 88.52380952380952,
+   "ocr_low_conf_share": 0.09523809523809523,
+   "headline": "THE WORLD",
+   "deck": "",
+   "byline": "STRIKES KILL OVER; 50 INGAZA; STARMER; SAYS 'HORRIFIED' BY; ISRAEL'S ESCALATION; IRAN'S KHAMENE!; SLAMS 'OUTRAGEOUS'; U.S. DEMANDS IN; NUCLEAR TALKS; PAGES",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      806,
+      4174,
+      2201,
+      4378
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4470,
+      1088,
+      4540
+     ],
+     [
+      804,
+      4589,
+      1248,
+      5058
+     ],
+     [
+      1292,
+      4431,
+      1739,
+      5058
+     ],
+     [
+      1725,
+      5271,
+      1741,
+      5303
+     ],
+     [
+      1784,
+      4432,
+      2226,
+      5052
+     ]
+    ],
+    "layout_words": 222
+   },
+   "headline_raw": "Was transferred with ill intention to\nharass: MP Judge in farewell speech",
+   "deck_raw": "",
+   "body_raw": "ANAND MOHAN J\nBHOPAL, MAY 20\n\nOUTGOING MADHYA Pradesh\njudge Duppala Venkata Ramana\nsaid at his farewell function on\nTuesday that his transfer to the\nMadhyaPradesh High Court was\nissued with \u201cill intention to ha-\nrass\u201d him, and that he was \"sub-\njected to conspiratorial scrutiny\"\nbecause of which his family suf-\nfered in silence.\nThe Supreme Court\nCollegium proposed transferring\n\nJustice Ramana of the High Court\nof Andhra Pradesh to the High\nCourt of Madhya Pradesh in\nAugust 2023.\nHerequested his transfer pro-\nposal be reconsidered and sought\na transfer to the High Court of\nKarnataka instead. The Collegium\ndid not find merit in his request\nand resolved to reiterate its rec-\nommendation to transfer him to\nthe High Court of Madhya\nPradesh as a permanent judge.\nJustice Ramana, who retired\nfrom the Indore bench of the MP\nHigh Court, said on Tuesday, \"I\n\n>]\n\nwas transferred from Andhra\nPradesh High Court to Madhya\nPradesh High Court without any\nreason. 1 was asked for options. I\nopted for the state of Karnataka\nso that my wife gets better treat-\nment... but it was not consid-\nered by the Honourable\nSupreme Court.\u201d\nJustice Ramana said that he\nsought the transfer on the\nground ofhis wife's medical con-\ndition, since she suffered from\nparoxysmal _non-epileptic\nseizures and infirmity in the\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.09909909909909,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "Was transferred with ill intention to harass: MP Judge in farewell speech",
+   "deck": "",
+   "byline": "ANAND MOHAN J; BHOPAL, MAY 20",
+   "text": "OUTGOING MADHYA Pradesh judge Duppala Venkata Ramana said at his farewell function on Tuesday that his transfer to the MadhyaPradesh High Court was issued with \"ill intention to harass\" him, and that he was \"subjected to conspiratorial scrutiny\" because of which his family suffered in silence. The Supreme Court Collegium proposed transferring\n\nJustice Ramana of the High Court of Andhra Pradesh to the High Court of Madhya Pradesh in August 2023. Herequested his transfer proposal be reconsidered and sought a transfer to the High Court of Karnataka instead. The Collegium did not find merit in his request and resolved to reiterate its recommendation to transfer him to the High Court of Madhya Pradesh as a permanent judge. Justice Ramana, who retired from the Indore bench of the MP High Court, said on Tuesday, \"I\n\nwas transferred from Andhra Pradesh High Court to Madhya Pradesh High Court without any reason. 1 was asked for options. I opted for the state of Karnataka so that my wife gets better treatment... but it was not considered by the Honourable Supreme Court.\" Justice Ramana said that he sought the transfer on the ground ofhis wife's medical condition, since she suffered from paroxysmal _non-epileptic seizures and infirmity in the CONTINUEDON PAGE 2",
+   "n_words": 207,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2271,
+      4181,
+      2687,
+      4253
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2272,
+      4804,
+      2659,
+      5016
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "CONVICTED SERIAL\nKILLER ARRESTED\nFROM ASHRAM IN\nDAUSA DISTRICT\nPAGE 3",
+   "ocr_conf": 94.27272727272727,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "CONVICTED SERIAL; KILLER ARRESTED; FROM ASHRAM IN; DAUSA DISTRICT",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      4176,
+      4179,
+      4380
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2762,
+      4418,
+      3686,
+      4474
+     ]
+    ],
+    "body_boxes": [
+     [
+      2761,
+      4551,
+      3144,
+      4621
+     ],
+     [
+      2761,
+      4669,
+      3202,
+      5060
+     ],
+     [
+      3249,
+      4512,
+      3693,
+      4738
+     ],
+     [
+      3245,
+      4750,
+      3693,
+      5053
+     ],
+     [
+      3896,
+      4470,
+      4128,
+      4622
+     ],
+     [
+      3791,
+      4670,
+      4115,
+      5014
+     ]
+    ],
+    "layout_words": 170
+   },
+   "headline_raw": "SG: Wadf secular concept... property\ndedication common across religions",
+   "deck_raw": "SC flags need for \u2018glaring case\u2019 to stay law",
+   "body_raw": "APURVAVISHWANATH\nNEW DELHI, MAY 20\n\nIN A note Tuesday, Solicitor\nGeneral Tushar Mehta told the\nSupreme Court, which began\nhearing the challenge against the\namendments to the Waqf Act,\nthat \u201cwaaf, by its very nature, isa\nsecular concept\u201d and that the law\ndoes not touch upon any essen-\ntial religious practices of Muslims,\n\u201cIt may be noted that Waqf,\n\nby its very nature, is a secular\nconcept. This is so since waqf\nmerely means dedication of\nproperty,\u201d Mehtastated ina 145-\npage note submitted to the\nCourt.\n\nA bench comprising Chief\nJustice of India B R Gavai and\nJustice Augustine G Masih that\nbegan hearing the batch of peti-\ntions seeking an interim stay on\nthe amendments observed that\n\u201ca very strong and glaring case\u201d\nCONTINUEDON PAGE2\n\n_ Whatis\nbefore the\n|@ topcourt\n\nTHE SC is hearing pleas\nseeking an interim stay\nof the Waaf lawtill the\ncourt can decide on its\nconstitutional validity.\nWhile the SC has been\ncautious of staying a\nlaw, it stayed the three\nfarm laws in 2021.",
+   "ocr_conf": 92.08771929824562,
+   "ocr_low_conf_share": 0.029239766081871343,
+   "headline": "SG: Wadf secular concept... property dedication common across religions",
+   "deck": "SC flags need for 'glaring case' to stay law",
+   "byline": "APURVAVISHWANATH; NEW DELHI, MAY 20",
+   "text": "IN A note Tuesday, Solicitor General Tushar Mehta told the Supreme Court, which began hearing the challenge against the amendments to the Waqf Act, that \"waaf, by its very nature, isa secular concept\" and that the law does not touch upon any essential religious practices of Muslims, \"It may be noted that Waqf,\n\nby its very nature, is a secular concept. This is so since waqf merely means dedication of property,\" Mehtastated ina 145- page note submitted to the Court.\n\nA bench comprising Chief Justice of India B R Gavai and Justice Augustine G Masih that began hearing the batch of petitions seeking an interim stay on the amendments observed that \"a very strong and glaring case\" CONTINUEDON PAGE2\n\n_ Whatis before the @ topcourt\n\nTHE SC is hearing pleas seeking an interim stay of the Waaf lawtill the court can decide on its constitutional validity. While the SC has been cautious of staying a law, it stayed the three farm laws in 2021.",
+   "n_words": 164,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5187,
+      1719,
+      5287
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5340,
+      499,
+      5416
+     ],
+     [
+      320,
+      5539,
+      600,
+      5609
+     ],
+     [
+      318,
+      5658,
+      759,
+      6159
+     ],
+     [
+      806,
+      5340,
+      1251,
+      6166
+     ],
+     [
+      1293,
+      5341,
+      1736,
+      6167
+     ]
+    ],
+    "layout_words": 273
+   },
+   "headline_raw": "At new National Museum",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nDIVYAA\nNEW DELHI, MAY 20\n\nTHE UPCOMING Yuge Yugeen\nNational Museum will have a\nmassive glass dome as its cen-\ntral feature. On the lines of the\nglass pyramid at the Louvre\nMuseum in Paris, the dome, the\nfirst point of entry to the\nNational Museum, will function\nas a holding area for visitors,\nwith ticketing counters, sou-\nvenir shops, photo booths and\ncafes, The Indian Express has\nlearnt.\n\nWhile the iconic Louvre\nPyramid is a landmark in Paris,\nthe Louvre in Abu Dhabi has a\nglass dome. Sources said the\nIndian government, which has\ntied up with French Museums\nDevelopment (FMD) for the\nproject,is keen ona similar glass\nstructure for the new National\nMuseum.\nThe museum, expected to\novertake the Louvre in Paris as\nthe \u201clargest museum in the\nworld\u201d once it's ready, is a key\npart of the Central Vista\nRedevelopment Project. The\nglassdome is set tocome upata\nsuitable point in the vicinity of\nthe North and South Blocks,\nwhich currently house several\nkey government offices, includ-\n\ning the Prime Minister's Office,\nand the Home, Defence and\nFinance Ministries.\n\u201cWith a planned surface area\nof 155,000 sqm, the museum is\namong the largest ongoing mu-\nseum projects globally. France\nwas invited to share its expertise\nas exemplified in several out-\nstanding projects such as the\nGrand Louvre, Louvre Abu\nDhabi, and the Grand Palais,\u201d an\nofficial from the French\nEmbassy in New Delhi told The\nIndian Express.\nThe Louvre Pyramid in Paris,\nalarge glass-and-metal entrance\nway that stands in the main\ncourtyard of the Louvre Palace,\ncame up in 1989 as part of the\nGrand Louvre project. The dis-",
+   "ocr_conf": 93.87912087912088,
+   "ocr_low_conf_share": 0.018315018315018316,
+   "headline": "At new National Museum",
+   "deck": "",
+   "byline": "ANCHOR; DIVYAA; NEW DELHI, MAY 20",
+   "text": "THE UPCOMING Yuge Yugeen National Museum will have a massive glass dome as its central feature. On the lines of the glass pyramid at the Louvre Museum in Paris, the dome, the first point of entry to the National Museum, will function as a holding area for visitors, with ticketing counters, souvenir shops, photo booths and cafes, The Indian Express has learnt.\n\nWhile the iconic Louvre Pyramid is a landmark in Paris, the Louvre in Abu Dhabi has a glass dome. Sources said the Indian government, which has tied up with French Museums Development (FMD) for the project,is keen ona similar glass structure for the new National Museum. The museum, expected to overtake the Louvre in Paris as the \"largest museum in the world\" once it's ready, is a key part of the Central Vista Redevelopment Project. The glassdome is set tocome upata suitable point in the vicinity of the North and South Blocks, which currently house several key government offices, including the Prime Minister's Office, and the Home, Defence and Finance Ministries. \"With a planned surface area of 155,000 sqm, the museum is among the largest ongoing museum projects globally. France was invited to share its expertise as exemplified in several outstanding projects such as the Grand Louvre, Louvre Abu Dhabi, and the Grand Palais,\" an official from the French Embassy in New Delhi told The Indian Express. The Louvre Pyramid in Paris, alarge glass-and-metal entrance way that stands in the main courtyard of the Louvre Palace, came up in 1989 as part of the Grand Louvre project. The dis-",
+   "n_words": 261,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      1773,
+      5187,
+      4136,
+      5316
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2757,
+      5342,
+      3203,
+      6043
+     ],
+     [
+      2759,
+      6055,
+      3200,
+      6168
+     ],
+     [
+      3247,
+      5342,
+      3692,
+      6168
+     ],
+     [
+      3735,
+      5382,
+      4177,
+      6162
+     ]
+    ],
+    "layout_words": 310
+   },
+   "headline_raw": "plans for glass dome inspired by the Louvre",
+   "deck_raw": "",
+   "body_raw": "tinctive dome of the Louvre in\nAbu Dhabi, designed by architect\nJean Nouvel and inaugurated in\n2017, is known for its \u201crain of\nlight\u201d effect.\nSources said the dome at the\nYuge Yugeen Bharat National\nMuseum will blend with the\ntheme of the museum: \u201c5,000\nyears of Indian civilisation\u2019.\nIn December last year, India\nand France signed an agree-\nmenton the \u201cadaptive reuse\u201d of\nthe North and South Blocks -\nthat is, the buildings would be\nrepurposed for the museum\nproject without demolishing\nthem.\n\nSources said the Indian side\nwants to expedite the museum\nproject. The project will be im-\n\nplemented in two phases \u2014 the\nfirst involves the retrofitting of\nNorth Block into a museum\nspace, with an estimated dead-\nline of June 2026.\nSources said the mapping of\nNorth Block has already been\ndone in consultation with FMD\nand the building is expected to\nbe free for retrofitting activities\nin three months. The plan is to\nget South Block too vacated this\nyear. Sources said the PMO will\nbe the first department to move\nout of South Block before the end\nof this year.\nOfficials said objects from\nthe National Museum will be\nmoved from their current loca-\ntion at Janpath only when the\nnew building is ready to host\n\n\u201cThe focus is now on finalis-\ning the content and exhibition\ndesign for the new project. The\nmuseum will be built as a single,\ncoherent narrative and not sep-\narate fragmented galleries,\u201d a\nsource said.\nOnce North Block is vacated,\nthe Central Public Works\nDepartment (CPWD) willrestore\nthe structure to its original state\nby removing all the additional\nwalls, partitions and ceilings that\ncame up over the decades.\nRecords show North Block had\naround 400 rooms when the\nBritish inaugurated New Delhiin\n1931, but over the years, parti-\ntions were added and the num-\nber of rooms doubled.",
+   "ocr_conf": 94.2741935483871,
+   "ocr_low_conf_share": 0.0064516129032258064,
+   "headline": "plans for glass dome inspired by the Louvre",
+   "deck": "",
+   "byline": "",
+   "text": "tinctive dome of the Louvre in Abu Dhabi, designed by architect Jean Nouvel and inaugurated in 2017, is known for its \"rain of light\" effect. Sources said the dome at the Yuge Yugeen Bharat National Museum will blend with the theme of the museum: \"5,000 years of Indian civilisation'. In December last year, India and France signed an agree-menton the \"adaptive reuse\" of the North and South Blocks - that is, the buildings would be repurposed for the museum project without demolishing them.\n\nSources said the Indian side wants to expedite the museum project. The project will be implemented in two phases - the first involves the retrofitting of North Block into a museum space, with an estimated deadline of June 2026. Sources said the mapping of North Block has already been done in consultation with FMD and the building is expected to be free for retrofitting activities in three months. The plan is to get South Block too vacated this year. Sources said the PMO will be the first department to move out of South Block before the end of this year. Officials said objects from the National Museum will be moved from their current location at Janpath only when the new building is ready to host\n\n\"The focus is now on finalising the content and exhibition design for the new project. The museum will be built as a single, coherent narrative and not separate fragmented galleries,\" a source said. Once North Block is vacated, the Central Public Works Department (CPWD) willrestore the structure to its original state by removing all the additional walls, partitions and ceilings that came up over the decades. Records show North Block had around 400 rooms when the British inaugurated New Delhiin 1931, but over the years, partitions were added and the number of rooms doubled.",
+   "n_words": 302,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.2,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

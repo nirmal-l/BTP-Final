@@ -1,0 +1,879 @@
+{
+ "version": "1.6",
+ "page_id": "2025_08_26_front",
+ "source_file": "2025-08-26_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-08-26_front.png",
+ "date": "2025-08-26",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 377,
+  "mean_line_conf": 88.12897530479201,
+  "orphan_words": 5,
+  "body_words_total": 1290
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      796,
+      3247,
+      1131
+     ]
+    ],
+    "deck_boxes": [
+     [
+      814,
+      696,
+      3039,
+      746
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1181,
+      1181,
+      1441
+     ],
+     [
+      810,
+      1541,
+      1237,
+      1611
+     ],
+     [
+      810,
+      1699,
+      1252,
+      2043
+     ],
+     [
+      1298,
+      1919,
+      1726,
+      2044
+     ],
+     [
+      1788,
+      1966,
+      2202,
+      2044
+     ]
+    ],
+    "layout_words": 75
+   },
+   "headline_raw": "PM: No matter how great the pressure, will\nbearit... politics of economic self-interest \u2014",
+   "deck_raw": "U.S. TARIFF PENALTY ON INDIA OVER RUSSIAN OIL KICKS IN TOMORROW",
+   "body_raw": "Won't let small\nentrepreneurs\nand farmers be\nharmed: Modi\n\nEXPRESS NEWS SERVICE\nAHMEDABAD, AUGUST 25\n\nministration\u2019s tariff penalty on\nIndia over its purchase of Russian\noil kicks in, Prime Minister\nNarendra Modi said Monday \u201cno\nmatter how much pressure\ncomes, we will keep increasing\nour strength to withstand it\u201d.\nAddressing a huge gathering\nCONTINUED ON PAGE 2\n\nENVOY: WILL BUY OIL\nWHEREVER WE GET\nTHE BEST DEAL\n\nINDIA, FiJI TO BOOST\nDEFENCE TIES Pace 4",
+   "ocr_conf": 93.13333333333334,
+   "ocr_low_conf_share": 0.02666666666666667,
+   "headline": "PM: No matter how great the pressure, will bearit... politics of economic self-interest -",
+   "deck": "U.S. TARIFF PENALTY ON INDIA OVER RUSSIAN OIL KICKS IN TOMORROW",
+   "byline": "EXPRESS NEWS SERVICE; AHMEDABAD, AUGUST 25",
+   "text": "Won't let small entrepreneurs and farmers be harmed: Modi\n\nministration's tariff penalty on India over its purchase of Russian oil kicks in, Prime Minister Narendra Modi said Monday \"no matter how much pressure comes, we will keep increasing our strength to withstand it\". Addressing a huge gathering\n\nENVOY: WILL BUY OIL WHEREVER WE GET THE BEST DEAL\n\nINDIA, FiJI TO BOOST DEFENCE TIES Pace 4",
+   "n_words": 65,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      823,
+      633,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ByUNNY",
+   "ocr_conf": 51.0,
+   "ocr_low_conf_share": 1.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ByUNNY",
+   "n_words": 1,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      378,
+      959,
+      698,
+      1190
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      1408,
+      567,
+      1465
+     ]
+    ],
+    "body_boxes": [
+     [
+      392,
+      1179,
+      447,
+      1211
+     ],
+     [
+      323,
+      1961,
+      751,
+      2086
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "pilus",
+   "deck_raw": "THE WORLD",
+   "body_raw": "stOps\n\nGERMANY WILL BE\nPART OF GUARANTEE\nFOR UKRAINE paces",
+   "ocr_conf": 88.8,
+   "ocr_low_conf_share": 0.1,
+   "headline": "pilus",
+   "deck": "THE WORLD",
+   "byline": "GERMANY WILL BE; PART OF GUARANTEE",
+   "text": "stOps\n\nFOR UKRAINE paces",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      1179,
+      3201,
+      1459
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2277,
+      1543,
+      2573,
+      1613
+     ],
+     [
+      2276,
+      1661,
+      2718,
+      2052
+     ],
+     [
+      2994,
+      1622,
+      3202,
+      1728
+     ],
+     [
+      2764,
+      1821,
+      3208,
+      2045
+     ]
+    ],
+    "layout_words": 88
+   },
+   "headline_raw": "Ready to support growth,\nsectors impacted more by\nUS tariffs: RBI Governor",
+   "deck_raw": "",
+   "body_raw": "HITESH VYAS\nMUMBAI, AUGUST 25\n\nRESERVE BANK OF India\nGovernor Sanjay Malhotra on\nMonday said the central bank is\nready to step in with policy\nmeasures to support economic\ngrowth and sectors hit by the\nproposed 50 per cent US tariffs if\nthey start to weigh on India\u2019s\neconomic growth. The tariffs\ntake effect on Wednesday.\n\nRBI Governor\nSanjay\nMalhotra\n\n\u201cWhatever support is re-\nquired from us for the growth of\nthe economy and including\nthose of the sectors which are\nimpacted more, if itso happens,\nCONTINUEDON PAGE2",
+   "ocr_conf": 92.77272727272727,
+   "ocr_low_conf_share": 0.022727272727272728,
+   "headline": "Ready to support growth, sectors impacted more by US tariffs: RBI Governor",
+   "deck": "",
+   "byline": "HITESH VYAS; MUMBAI, AUGUST 25",
+   "text": "RESERVE BANK OF India Governor Sanjay Malhotra on Monday said the central bank is ready to step in with policy measures to support economic growth and sectors hit by the proposed 50 per cent US tariffs if they start to weigh on India's economic growth. The tariffs take effect on Wednesday.\n\nRBI Governor Sanjay Malhotra\n\n\"Whatever support is required from us for the growth of the economy and including those of the sectors which are impacted more, if itso happens, CONTINUEDON PAGE2",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1763,
+      4174,
+      2214
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2295,
+      3587,
+      2365
+     ],
+     [
+      3247,
+      2414,
+      3693,
+      3114
+     ],
+     [
+      3740,
+      2810,
+      4179,
+      2884
+     ],
+     [
+      3738,
+      2930,
+      4179,
+      3115
+     ]
+    ],
+    "layout_words": 127
+   },
+   "headline_raw": "Surprised the mighty\nHome Minister raising\n(Salwa Judum) issue\nafter 14 years: Reddy",
+   "deck_raw": "",
+   "body_raw": "MANOJ CG\nNEW DELHI, AUGUST 25\n\nTHE OPPOSITION\u2019S Vice-\nPresidential candidate, Justice\n(retired) B Sudershan Reddy, has\ncome under criticism from sen-\nior BJP leaders in the last few\ndays as he was part of the two-\njudge SC bench that in 2011 dis-\nbanded the anti-Maoist Salwa\nJudum militia in Chhattisgarh.\nUnion Home Minister Amit\nShah said last Friday that \u201cNaxal\nterrorism would have ended by\n2020\u201d had Justice Reddy not\ngiven the verdict (he reiterated\nthe accusation on Monday).\nReddy denies the allegations,\nsaying the State has the right to\ncombat violence but \u201ccannot in-\n\nfringe upon fundamental rights\u201d.\nExcerpts from an interview:\n\nWhat does the contest for\nVice-President mean to you?\nThe Constitution of India and\nthe valuesenshrined therein, all\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.16535433070867,
+   "ocr_low_conf_share": 0.03937007874015748,
+   "headline": "Surprised the mighty Home Minister raising (Salwa Judum) issue after 14 years: Reddy",
+   "deck": "",
+   "byline": "MANOJ CG; NEW DELHI, AUGUST 25",
+   "text": "THE OPPOSITION'S Vice-Presidential candidate, Justice (retired) B Sudershan Reddy, has come under criticism from senior BJP leaders in the last few days as he was part of the twojudge SC bench that in 2011 disbanded the anti-Maoist Salwa Judum militia in Chhattisgarh. Union Home Minister Amit Shah said last Friday that \"Naxal terrorism would have ended by 2020\" had Justice Reddy not given the verdict (he reiterated the accusation on Monday). Reddy denies the allegations, saying the State has the right to combat violence but \"cannot infringe upon fundamental rights\". Excerpts from an interview:\n\nWhat does the contest for Vice-President mean to you? The Constitution of India and the valuesenshrined therein, all",
+   "n_words": 112,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2199,
+      753,
+      2488
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      563,
+      2608,
+      759,
+      2795
+     ],
+     [
+      321,
+      2885,
+      699,
+      2957
+     ],
+     [
+      320,
+      3006,
+      765,
+      4259
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "SC stays FIRs\nagainst Sanjay\nKumar of CSDS\nover data error",
+   "deck_raw": "",
+   "body_raw": "Kumar had\nwithdrawn\nthe post on\nMaharashtra\nelections\n\nANANTHAKRISHNANG\nNEW DELHI, AUGUST 25\n\nTHE SUPREME Court Monday\nstayed FIRs filed in Maharashtra\nagainst Sanjay Kumar, co-direc-\ntor of Lokniti, a research pro-\ngramme at the Centre for the\nStudy of Developing Societies\n(CSDS), over a post relating to\nelections in the state.\nCiting data \u201cerror\u201d, Kumar\nhad withdrawn the post and\napologised for it. Subsequently,\ntwo FIRs were filed, one each in\nNagpur and Nashik.\nThe bench of Chief Justice of\nIndia B R Gavai and Justice N V\nAnjaria also issued notice to the\nMaharashtragovernmenton his\nplea seeking quashing of the FIRs.\nKumar's counsel, Senior\nAdvocate Vivek Tankha and\nAdvocate Sumeer Sodhi, told the\nbench, \u201cThis person has impec-\ncable integrity. Thirty years of\nconscientious service to the na-\ntion and to the world. He is\nhighly respected. It was a mis-\ntake. He apologised.\u201d\n\u201cYou withdrew (the post)\nalso,\u201d Cjl Gavai said.\nNodding in agreement,\nKumar's counsel said, \u201cI deleted,\nCONTINUEDON PAGE2",
+   "ocr_conf": 93.29878048780488,
+   "ocr_low_conf_share": 0.012195121951219513,
+   "headline": "SC stays FIRs against Sanjay Kumar of CSDS over data error",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, AUGUST 25",
+   "text": "Kumar had withdrawn the post on Maharashtra elections\n\nTHE SUPREME Court Monday stayed FIRs filed in Maharashtra against Sanjay Kumar, co-director of Lokniti, a research programme at the Centre for the Study of Developing Societies (CSDS), over a post relating to elections in the state. Citing data \"error\", Kumar had withdrawn the post and apologised for it. Subsequently, two FIRs were filed, one each in Nagpur and Nashik. The bench of Chief Justice of India B R Gavai and Justice N V Anjaria also issued notice to the Maharashtragovernmenton his plea seeking quashing of the FIRs. Kumar's counsel, Senior Advocate Vivek Tankha and Advocate Sumeer Sodhi, told the bench, \"This person has impeccable integrity. Thirty years of conscientious service to the nation and to the world. He is highly respected. It was a mistake. He apologised.\" \"You withdrew (the post) also,\" Cjl Gavai said. Nodding in agreement, Kumar's counsel said, \"I deleted, CONTINUEDON PAGE2",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      2198,
+      2757,
+      2502
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      2572,
+      2610,
+      2642
+     ],
+     [
+      2274,
+      2691,
+      2716,
+      3121
+     ]
+    ],
+    "layout_words": 58
+   },
+   "headline_raw": "PM\u2019s degree\ninformation,\nnot disclose,",
+   "deck_raw": "",
+   "body_raw": "SOHINIGHOSH\nNEW DELHI, AUGUST 25\n\nTHE DELHI High Court on\nMonday set aside a 2016 order\nby the Central Information\nCommission (CIC) that had di-\nrected Delhi University (DU) to\ndisclose details of Prime\nMinister Narendra Modi\u2019s bach-\nelor\u2019s degree in response to an\nRTI application.\nNoting that there lies a \u201cspe-\ncal relationship of trust and con-",
+   "ocr_conf": 92.93103448275862,
+   "ocr_low_conf_share": 0.0,
+   "headline": "PM's degree information, not disclose,",
+   "deck": "",
+   "byline": "SOHINIGHOSH; NEW DELHI, AUGUST 25",
+   "text": "THE DELHI High Court on Monday set aside a 2016 order by the Central Information Commission (CIC) that had directed Delhi University (DU) to disclose details of Prime Minister Narendra Modi's bachelor's degree in response to an RTI application. Noting that there lies a \"specal relationship of trust and con-",
+   "n_words": 50,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2768,
+      2198,
+      3120,
+      2509
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      2531,
+      3207,
+      3114
+     ]
+    ],
+    "layout_words": 74
+   },
+   "headline_raw": "personal\nDU need\nsays HC",
+   "deck_raw": "",
+   "body_raw": "fidence\u201d between a student and\nauniversity, whichis fidudaryin\nnature, the court held that infor-\nmation pertaining to an individ-\nual\u2019s educational qualifications\n\u2014 including degrees and marks-\n- falls within the ambit of \u201cper-\nsonal information\u201d under provi-\nsions of the RTI Act.\nIn a plea moved before the\nHigh Court in 2017, DU had chal-\nlenged the CIC order, which had\ndirected inspection of records of\nstudents who passed the BA\nCONTINUEDON PAGE2",
+   "ocr_conf": 88.74324324324324,
+   "ocr_low_conf_share": 0.08108108108108109,
+   "headline": "personal DU need says HC",
+   "deck": "",
+   "byline": "",
+   "text": "fidence\" between a student and auniversity, whichis fidudaryin nature, the court held that information pertaining to an individual's educational qualifications - including degrees and marks- - falls within the ambit of \"personal information\" under provisions of the RTI Act. In a plea moved before the High Court in 2017, DU had chal-lenged the CIC order, which had directed inspection of records of students who passed the BA CONTINUEDON PAGE2",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      2275,
+      2207,
+      2647
+     ],
+     [
+      810,
+      2675,
+      2184,
+      2807
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      2200,
+      2186,
+      2238
+     ],
+     [
+      1637,
+      2999,
+      2174,
+      3042
+     ]
+    ],
+    "body_boxes": [
+     [
+      1344,
+      2891,
+      2174,
+      3103
+     ],
+     [
+      1912,
+      3062,
+      2177,
+      3138
+     ],
+     [
+      2077,
+      3062,
+      2161,
+      3103
+     ],
+     [
+      2075,
+      3189,
+      2179,
+      3226
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "In 3 dists with most deletions,\nmore voters struck off than\nwinning margins in 2/3rd seats\nIn 36 Assembly seats across Patna, Madhubani and East\nChamparan, voters under 40 make up 37.8% of deletions",
+   "deck_raw": "IN BIHAR, ESTIMATED 65 LAKH VOTER NAMES DELETED UNDER SIR\nMen Margins in2020 Assembly polls",
+   "body_raw": "DELETIONS AFTER BIHAR SIR\nWOMENOUTNUMBERMEN Where Goetcnsexccce winning\nWomen Men margins in2020 Assembly polls\n5,66,769 495651 joa. |\nSA 250, AREREY, District | 7 Total 7 Where\n\n| Total \u00a9 Where\nAssembly deletions\n\nWhere\n\nmargin |",
+   "ocr_conf": 74.25,
+   "ocr_low_conf_share": 0.25,
+   "headline": "In 3 dists with most deletions, more voters struck off than winning margins in 2/3rd seats In 36 Assembly seats across Patna, Madhubani and East Champaran, voters under 40 make up 37.8% of deletions",
+   "deck": "IN BIHAR, ESTIMATED 65 LAKH VOTER NAMES DELETED UNDER SIR Men Margins in2020 Assembly polls",
+   "byline": "DELETIONS AFTER BIHAR SIR",
+   "text": "WOMENOUTNUMBERMEN Where Goetcnsexccce winning Women Men margins in2020 Assembly polls SA 250, AREREY, District 7 Total 7 Where\n\nTotal \u00a9 Where Assembly deletions\n\nWhere\n\nmargin",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      950,
+      3156,
+      1109,
+      3245
+     ]
+    ],
+    "deck_boxes": [
+     [
+      898,
+      3085,
+      1161,
+      3142
+     ],
+     [
+      849,
+      3256,
+      1209,
+      3313
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      3441,
+      1157,
+      3550
+     ],
+     [
+      808,
+      3599,
+      1250,
+      3986
+     ]
+    ],
+    "layout_words": 59
+   },
+   "headline_raw": "NOT",
+   "deck_raw": "WHAT WILL\nCOUNT IN BIHAR",
+   "body_raw": "ANJISHNU DAS\n& SHIJITH KUNHITTY\nNEW DELHI, AUGUST 25\n\nDATA ON deleted voters pub-\nlished by the Election Commi-\nssion (EC) as part of its con-\ntentious Special Intensive\nRevision (SIR) of electoral rolls in\npoll-bound Bihar show that in\nthe three districts with the most\ndeletions \u2014 Patna, Madhubani\nand East Champaran \u2014 women\noutnumber men, while voters",
+   "ocr_conf": 94.11864406779661,
+   "ocr_low_conf_share": 0.0,
+   "headline": "NOT",
+   "deck": "WHAT WILL COUNT IN BIHAR",
+   "byline": "ANJISHNU DAS; & SHIJITH KUNHITTY; NEW DELHI, AUGUST 25",
+   "text": "DATA ON deleted voters published by the Election Commission (EC) as part of its contentious Special Intensive Revision (SIR) of electoral rolls in poll-bound Bihar show that in the three districts with the most deletions - Patna, Madhubani and East Champaran - women outnumber men, while voters",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1343,
+      3363,
+      1666,
+      3424
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1343,
+      3288,
+      1892,
+      3376
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      3481,
+      2226,
+      3643
+     ],
+     [
+      1298,
+      3595,
+      2225,
+      3943
+     ],
+     [
+      1343,
+      3955,
+      1736,
+      3983
+     ]
+    ],
+    "layout_words": 66
+   },
+   "headline_raw": "Sr ed Pe er ea I\nelectors, women 47.56%",
+   "deck_raw": "In2024LSpolls, men Madhubani\naccounted for52.43% of East",
+   "body_raw": "aged 18-40 (categorised [9 among the four most\nas youth) form more j= populous in the state,\nthanathirdofthenum- [5 and comprise 36 of its\nbers. Fr @ | total243 Assembly con-\n\nbers. I ame | inane total 243 Assembly con-\nApolling booth-level stituencies.\nanalysis of the data In the 2020 Assem-\nshows that in these three dis- _ bly polls, in as many as 25 of the\ntricts, 10.63 lakh names were 36 seats, the number of voters\ntaken out, accounting for 16.35% deleted now exceeded the win-\nof the total 65 lakhdeletions \u2014ningmargin of the elected candi-\nacross the 38 districts of the date. Of these 25 seats, the BJP-\nstate. JD(U) alliance won 18.\n\nThese three districts are also",
+   "ocr_conf": 82.32231404958678,
+   "ocr_low_conf_share": 0.1487603305785124,
+   "headline": "electors, women 47.56%",
+   "deck": "In2024LSpolls, men Madhubani accounted for52.43% of East",
+   "byline": "",
+   "text": "aged 18-40 (categorised [9 among the four most as youth) form more j= populous in the state, thanathirdofthenum- [5 and comprise 36 of its bers. Fr @ total243 Assembly conbers. I ame inane total 243 Assembly con-Apolling booth-level stituencies. analysis of the data In the 2020 Assemshows that in these three dis- _ bly polls, in as many as 25 of the tricts, 10.63 lakh names were 36 seats, the number of voters taken out, accounting for 16.35% deleted now exceeded the winof the total 65 lakhdeletions - ningmargin of the elected candiacross the 38 districts of the date. Of these 25 seats, the BJPstate. JD(U) alliance won 18.\n\nThese three districts are also",
+   "n_words": 114,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1746,
+      3363,
+      1896,
+      3424
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1748,
+      3234,
+      1826,
+      3281
+     ],
+     [
+      1806,
+      3520,
+      2225,
+      3643
+     ]
+    ],
+    "body_boxes": [
+     [
+      1782,
+      3719,
+      2225,
+      3983
+     ]
+    ],
+    "layout_words": 41
+   },
+   "headline_raw": "S ntermiaedtinel\nChamparan",
+   "deck_raw": "Patna\npopulous in the state,\nand comprise 36 of its\n1@ | total 243 Assembly con-",
+   "body_raw": "bly polls, in as many as 25 of the\n36 seats, the number of voters\ndeleted now exceeded the win-\nning margin of the elected candi-\ndate. Of these 25 seats, the BJP-\nJD(U) alliance won 18.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.2439024390244,
+   "ocr_low_conf_share": 0.0,
+   "headline": "S ntermiaedtinel Champaran",
+   "deck": "Patna populous in the state, and comprise 36 of its 1@ total 243 Assembly con-",
+   "byline": "",
+   "text": "bly polls, in as many as 25 of the 36 seats, the number of voters deleted now exceeded the winning margin of the elected candidate. Of these 25 seats, the BJP-JD(U) alliance won 18.",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      3808,
+      3353,
+      4100,
+      3431
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3726,
+      3533,
+      4024,
+      3599
+     ],
+     [
+      3725,
+      3648,
+      3986,
+      3719
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "BSE\u201d",
+   "deck_raw": "",
+   "body_raw": "Fell prey\nto unsound scams\n\nFollowed\nsound practices",
+   "ocr_conf": 95.875,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BSE\"",
+   "deck": "",
+   "byline": "",
+   "text": "Fell prey to unsound scams\n\nFollowed sound practices",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2372,
+      3534,
+      2705,
+      3613
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2365,
+      3652,
+      2672,
+      3751
+     ],
+     [
+      2980,
+      4031,
+      3266,
+      4090
+     ]
+    ],
+    "body_boxes": [
+     [
+      2608,
+      4139,
+      2630,
+      4168
+     ],
+     [
+      2470,
+      4640,
+      2901,
+      4670
+     ],
+     [
+      2409,
+      5694,
+      4050,
+      5732
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "SCAMS",
+   "deck_raw": "\u2018SAFE & SMART\nINVESTING\n",
+   "body_raw": "nd\n\nae ee re\ny: | | advisers on social media.\n\nPa eg ee Scan to visit",
+   "ocr_conf": 55.1764705882353,
+   "ocr_low_conf_share": 0.5294117647058824,
+   "headline": "SCAMS",
+   "deck": "'SAFE & SMART INVESTING",
+   "byline": "",
+   "text": "nd\n\ny: advisers on social media.\n\nPa eg ee Scan to visit",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      806,
+      4059,
+      2173,
+      4274
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      4337,
+      733,
+      4394
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      4352,
+      1187,
+      4422
+     ],
+     [
+      804,
+      4471,
+      1252,
+      4900
+     ],
+     [
+      1296,
+      4311,
+      1738,
+      4901
+     ],
+     [
+      1783,
+      4312,
+      2228,
+      4894
+     ]
+    ],
+    "layout_words": 212
+   },
+   "headline_raw": "SC constitutes SIT to investigate\nVantara, how it acquires animals",
+   "deck_raw": "EXPRESS NETWORK",
+   "body_raw": "ANANTHAKRISHNAN G\nNEW DELHI, AUGUST 25\n\nTHESUPREME Court Monday or-\ndered an inquiry by a Special in-\nvestigation Team (SIT) headed by\nits former judge, Justice\nJ Chelameswar, into the affairs of\nVantara, the wildlife rescue and\nrehabilitation centre of Reliance\nFoundation in Gujarat\u2019s Jamnagar.\nThe apex court directed the\nSIT to examine and submit a re-\nport on a number of issues, in-\n\ncluding the acquisition of animals\nfrom India and abroad, particu-\nlarly elephants, and compliance\nwith the Wild Life (Protection)\nAct, 1972, and rules for zoos.\nA bench of Justices Pankaj\nMithal and P B Varale directed the\nsetting up of the SIT on two PILs\n\u2014one by CRJayaSukin, a lawyer,\nand the other by a petitioner\nidentified as Dev Sharma \u2014 filed\nin the wake of a controversy over\nthe shifting of an elephant\nnamed Mahadevi froma temple\nin Kolhapur to Vantara in July.\n\nThe SIT will also include for-\nmer Chief Justice of Uttarakhand\nand Telangana High Court Justice\nRaghavendra Chauhan, former\nMumbai Police Commissioner\nHemant Nagrale and Additional\nCommissioner Customs Anish\nGupta. The SIT has been directed\nto conduct its inquiry \u201cforth-\nwith\u201d and submit its report by\nSeptember 12.\nThe SIT will alsolookintothe\nInternational Convention on\nTrade of Endangered Species of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.51415094339623,
+   "ocr_low_conf_share": 0.02358490566037736,
+   "headline": "SC constitutes SIT to investigate Vantara, how it acquires animals",
+   "deck": "EXPRESS NETWORK",
+   "byline": "ANANTHAKRISHNAN G; NEW DELHI, AUGUST 25",
+   "text": "THESUPREME Court Monday ordered an inquiry by a Special investigation Team (SIT) headed by its former judge, Justice J Chelameswar, into the affairs of Vantara, the wildlife rescue and rehabilitation centre of Reliance Foundation in Gujarat's Jamnagar. The apex court directed the SIT to examine and submit a report on a number of issues, including the acquisition of animals from India and abroad, particularly elephants, and compliance with the Wild Life (Protection) Act, 1972, and rules for zoos. A bench of Justices Pankaj Mithal and P B Varale directed the setting up of the SIT on two PILs - one by CRJayaSukin, a lawyer, and the other by a petitioner identified as Dev Sharma - filed in the wake of a controversy over the shifting of an elephant named Mahadevi froma temple in Kolhapur to Vantara in July.\n\nThe SIT will also include former Chief Justice of Uttarakhand and Telangana High Court Justice Raghavendra Chauhan, former Mumbai Police Commissioner Hemant Nagrale and Additional Commissioner Customs Anish Gupta. The SIT has been directed to conduct its inquiry \"forthwith\" and submit its report by September 12. The SIT will alsolookintothe International Convention on Trade of Endangered Species of",
+   "n_words": 196,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5027,
+      2223,
+      5266
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5304,
+      499,
+      5380
+     ],
+     [
+      318,
+      5499,
+      755,
+      5609
+     ],
+     [
+      319,
+      5657,
+      760,
+      6166
+     ],
+     [
+      806,
+      6014,
+      1248,
+      6159
+     ],
+     [
+      1296,
+      6014,
+      1735,
+      6166
+     ],
+     [
+      1784,
+      5302,
+      2228,
+      6160
+     ]
+    ],
+    "layout_words": 213
+   },
+   "headline_raw": "Absent\u2019 Jagdeep Dhankhar catches up\non OTT shows, wife on family property",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nRITU SARIN\n& HAMZAKHAN\nNEW DELHI, JAIPUR, AUGUST25\n\nIT HAS been over a month since\nhe suddenly quit, and Jagdeep\nDhankhar has assiduously kept\naway from anything \u201cVice\nPresidential\u201d. He hardly ever steps\ninsidethe office complex attached\nto hisallottedresidence, a15-acre\nenclave where he has been living\nsince April 2024, orused the Vice-\nPresidential carcade since his res-\nignation onJuly 21.\nThis complete absence from\nthe public eye, with calls and text\n\nmessages drawing no response\neither, has triggered much spec-\nulation over Dhankhar\u2019s where-\nabouts.\n\nIntroducing Justice (retired)B\nSudershan Reddy, the\nOpposition\u2019s V-P nominee, sen-\nior Congress leader Rahul Gandhi\n\nsaid recently: \u201cThere is a big story\nabout why he (Dhankhar) re-\nsigned... And thenthere\u2019sa story\nabout why he is in hiding...\nSuddenly, the person who used\nto burst forth in the Rajya Sabha\nhas gone... completely silent.\u201d\nAsked about Dhankhar in an\ninterview to ANI on Monday,\nUnion Home Minister Amit Shah\nsaid: \u201cDhankhar ji was sitting in\na Constitutional post and, during\nhis tenure, he did good work ac-\ncording to the Constitution. He\nhas resigned due to personal\nhealth problems. One should not\ntry to stretch it too much and\nfind something.\u201d\nWhile Dhankhar has not\nstepped outof his high-security\nresidence, his wife Sudesh\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.20283018867924,
+   "ocr_low_conf_share": 0.0330188679245283,
+   "headline": "Absent' Jagdeep Dhankhar catches up on OTT shows, wife on family property",
+   "deck": "",
+   "byline": "ANCHOR; RITU SARIN; & HAMZAKHAN; NEW DELHI, JAIPUR, AUGUST25",
+   "text": "IT HAS been over a month since he suddenly quit, and Jagdeep Dhankhar has assiduously kept away from anything \"Vice Presidential\". He hardly ever steps insidethe office complex attached to hisallottedresidence, a15-acre enclave where he has been living since April 2024, orused the Vice-Presidential carcade since his resignation onJuly 21. This complete absence from the public eye, with calls and text\n\nmessages drawing no response either, has triggered much speculation over Dhankhar's whereabouts.\n\nIntroducing Justice (retired)B Sudershan Reddy, the Opposition's V-P nominee, senior Congress leader Rahul Gandhi\n\nsaid recently: \"There is a big story about why he (Dhankhar) resigned... And thenthere'sa story about why he is in hiding... Suddenly, the person who used to burst forth in the Rajya Sabha has gone... completely silent.\" Asked about Dhankhar in an interview to ANI on Monday, Union Home Minister Amit Shah said: \"Dhankhar ji was sitting in a Constitutional post and, during his tenure, he did good work according to the Constitution. He has resigned due to personal health problems. One should not try to stretch it too much and find something.\" While Dhankhar has not stepped outof his high-security residence, his wife Sudesh",
+   "n_words": 192,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.3,
+ "flags": []
+}

@@ -1,0 +1,662 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_09_front",
+ "source_file": "2025-10-09_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-09_front.png",
+ "date": "2025-10-09",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 320,
+  "mean_line_conf": 88.802760677736,
+  "orphan_words": 9,
+  "body_words_total": 1110
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2320,
+      748,
+      2678,
+      781
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2768,
+      787,
+      4172,
+      1306
+     ],
+     [
+      2767,
+      1332,
+      4172,
+      1462
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2766,
+      697,
+      3906,
+      755
+     ]
+    ],
+    "body_boxes": [
+     [
+      2767,
+      1543,
+      3150,
+      1613
+     ],
+     [
+      2763,
+      1662,
+      3206,
+      3114
+     ]
+    ],
+    "layout_words": 175
+   },
+   "headline_raw": "Signal from DC on trade\ndeal: Direct Modi-Trump\n\u2018engagement\u2019 may help\nOne window is the ASEAN summit in Kuala Lumpur this\nmonth but fingers crossed over PM\u2019s visit, progress of talks",
+   "deck_raw": "AFTER CHILL, WARMTH LAST MONTH",
+   "body_raw": "PVAIDYANATHANIYER\nNEW DELHI, OCTOBER8\n\nAN \u201cENGAGEMENT at the high-\nest level\u201d between Prime\nMinister Narendra Modi and US\nPresident Donald Trump could\nbreak the current deadlock and\ninject the momentum needed to\npush the long-drawn India-US\ntrade talks over the finish line.\nThis is one of the \u201cfresh indica-\ntions\u201d New Delhi has received\nfrom Washington DC, a senior\ngovernment official told The\nIndian Express.\nSetting the stage for such an\nengagement, however, is not\neasy, particularly given Trump\u2019s\nflamboyant and unpredictable\ndiplomatic style. Officials here\nare hoping that US Ambassador-\ndesignate Sergio Gor (see adja-\ncent story) may playa role in \u201cfa-\ncilitating\u201d this outreach.\n\u201cPresident Trump and his of-\nfice are probably looking at\nPrime Minister Modi meeting\nhim before a deal is announced,\nbut that\u2019s not how the Indian\nsystem traditionally works,\u201d the\nofficial said. \u201cIdeally, the two\nleaders would talk only once the\ndealis done.\u201d\nBut there is a realisation that\ncircumstances alter cases and\nthis is anew Washington where\nTrump has upended long-held\nprinciples of protocol.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.51428571428572,
+   "ocr_low_conf_share": 0.06285714285714286,
+   "headline": "Signal from DC on trade deal: Direct Modi-Trump 'engagement' may help One window is the ASEAN summit in Kuala Lumpur this month but fingers crossed over PM's visit, progress of talks",
+   "deck": "AFTER CHILL, WARMTH LAST MONTH",
+   "byline": "PVAIDYANATHANIYER; NEW DELHI, OCTOBER8",
+   "text": "AN \"ENGAGEMENT at the highest level\" between Prime Minister Narendra Modi and US President Donald Trump could break the current deadlock and inject the momentum needed to push the long-drawn India-US trade talks over the finish line. This is one of the \"fresh indications\" New Delhi has received from Washington DC, a senior government official told The Indian Express. Setting the stage for such an engagement, however, is not easy, particularly given Trump's flamboyant and unpredictable diplomatic style. Officials here are hoping that US Ambassador-designate Sergio Gor (see adjacent story) may playa role in \"facilitating\" this outreach. \"President Trump and his office are probably looking at Prime Minister Modi meeting him before a deal is announced, but that's not how the Indian system traditionally works,\" the official said. \"Ideally, the two leaders would talk only once the dealis done.\" But there is a realisation that circumstances alter cases and this is anew Washington where Trump has upended long-held principles of protocol.",
+   "n_words": 161,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2413,
+      825,
+      2581,
+      853
+     ]
+    ],
+    "layout_words": 1,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BYUNNY",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BYUNNY",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2277,
+      1524,
+      2686,
+      1604
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "STARMER BATS FOR\nDEEPENING FILM",
+   "ocr_conf": 94.2,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "STARMER BATS FOR; DEEPENING FILM",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      1616,
+      2617,
+      1667
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2277,
+      1684,
+      2695,
+      1853
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "COLLABORATION",
+   "deck_raw": "",
+   "body_raw": "INDIA, UK MINISTERS\nDISCUSS FTA\nIMPLEMENTATION\nPAGES 5,13",
+   "ocr_conf": 95.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "COLLABORATION",
+   "deck": "",
+   "byline": "INDIA, UK MINISTERS; DISCUSS FTA; IMPLEMENTATION; PAGES 5,13",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2025,
+      1215,
+      2347
+     ]
+    ],
+    "deck_boxes": [
+     [
+      324,
+      1963,
+      947,
+      1996
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      2411,
+      659,
+      2481
+     ],
+     [
+      321,
+      2530,
+      763,
+      3119
+     ]
+    ],
+    "layout_words": 78
+   },
+   "headline_raw": "India-UK trade deal\nlaunchpad for growth,\nopportunities: Starme1",
+   "deck_raw": "BILATERAL WITH MODI TODAY",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER8\n\nTERMING THE India-UK trade\ndeal signed in July asa \u201claunch-\npad for growth\u201d, British Prime\nMinister Keir Starmer, who ar-\nrived in Mumbai on a two-day\nvisit Wednesday, said trade with\nIndia would become \u201cquicker\nand cheaper\u201d and the opportu-\nnities waiting to be seized are\n\u201cunparalleled\u201d.\nThis is Starmer\u2019s first visit to\nIndia after assuming charge as\nPM. He isaccompanied by a 125-\nmember delegation \u2014 UK\u2019s\nlargest ever trade delegation to",
+   "ocr_conf": 93.26923076923077,
+   "ocr_low_conf_share": 0.0,
+   "headline": "India-UK trade deal launchpad for growth, opportunities: Starme1",
+   "deck": "BILATERAL WITH MODI TODAY",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER8",
+   "text": "TERMING THE India-UK trade deal signed in July asa \"launchpad for growth\", British Prime Minister Keir Starmer, who arrived in Mumbai on a two-day visit Wednesday, said trade with India would become \"quicker and cheaper\" and the opportunities waiting to be seized are \"unparalleled\". This is Starmer's first visit to India after assuming charge as PM. He isaccompanied by a 125- member delegation - UK's largest ever trade delegation to",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1300,
+      2040,
+      2681,
+      2257
+     ],
+     [
+      1786,
+      2369,
+      2112,
+      2441
+     ],
+     [
+      1836,
+      2521,
+      2115,
+      2622
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1815,
+      2456,
+      2024,
+      2504
+     ]
+    ],
+    "body_boxes": [
+     [
+      1300,
+      2333,
+      1724,
+      2403
+     ],
+     [
+      1298,
+      2452,
+      1739,
+      3120
+     ],
+     [
+      1786,
+      2298,
+      2114,
+      2335
+     ],
+     [
+      1788,
+      2967,
+      2228,
+      3113
+     ],
+     [
+      2273,
+      2968,
+      2715,
+      3113
+     ]
+    ],
+    "layout_words": 116
+   },
+   "headline_raw": "PM opens Navi Mumbai airport,\nsays reflects goal of Viksit Bharat\nhe,\novie ot! Mahara\nY og _ ee\n{ fy ot\nbt Me",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, OCTOBER 8\n\nASSERTING THAT \u201cnational pol-\nicy\u201d is the foundation of his\nGovernment's politics, Prime\nMinister Narendra Modi\nWednesday inaugurated two\nmega infrastructure projects in\nMumbai \u2014 Phase 1 of Navi\nMumbai International Airport\nand Phase 2B of the under-\nground Metro Line-3.\nDescribing the projects as\nthose that reflect the \u201cmuch\ncherished goal of Viksit Bharat\u201d,\nthe Prime Minister underscored\ntheir potential to play a signifi-\ncant role in growth, develop-\nment and employment genera-\n\non'ble Prime Mini\n\ntion. Modi also took a dig at the\nOpposition, saying the previous\n(MVA) government in\nMaharashtra had stalled such\n\nprojects for political gain.\n\u201cHum un sanskaron mein\npale-badhe hain jahan rashtraniti\nCONTINUEDON PAGE2",
+   "ocr_conf": 93.60344827586206,
+   "ocr_low_conf_share": 0.008620689655172414,
+   "headline": "PM opens Navi Mumbai airport, says reflects goal of Viksit Bharat he, ovie ot! Mahara bt Me",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, OCTOBER 8",
+   "text": "ASSERTING THAT \"national policy\" is the foundation of his Government's politics, Prime Minister Narendra Modi Wednesday inaugurated two mega infrastructure projects in Mumbai - Phase 1 of Navi Mumbai International Airport and Phase 2B of the underground Metro Line-3. Describing the projects as those that reflect the \"much cherished goal of Viksit Bharat\", the Prime Minister underscored their potential to play a significant role in growth, development and employment generaon'ble Prime Mini\n\ntion. Modi also took a dig at the Opposition, saying the previous (MVA) government in Maharashtra had stalled such\n\nprojects for political gain. \"Hum un sanskaron mein pale-badhe hain jahan rashtraniti CONTINUEDON PAGE2",
+   "n_words": 105,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2227,
+      4147,
+      2520
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2612,
+      3590,
+      2682
+     ],
+     [
+      3251,
+      2731,
+      3693,
+      3122
+     ],
+     [
+      3740,
+      2573,
+      4182,
+      3115
+     ]
+    ],
+    "layout_words": 121
+   },
+   "headline_raw": "Senate confirms Gor as\nenvoy, Delhi hopes for\na boost in line to DC",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI,OCTOBER8\n\nOVER A month after Sergio Gor\nwas nominated by US President\nDonald Trump as the next US\nAmbassador to India, and Special\nEnvoy for South and Central\nAsian Affairs, the US Senate has\nconfirmed his appointment \u2014\ndespite the ongoing US govemm-\nment shutdown.\nGor, 38, was among 107\n\nnominees confirmed by the\nSenate in a single en bloc vote\nWednesday with 51 senators\nvoting in favour and 47 against.\nThis quick confirmation indi-\ncates that Washington is keento\nstrengthen diplomatic and po-\nlitical interactions with India\namid tensions over 50% tariffs\nand increased H-1B visa fees.\nNow that Gor\u2019s nomination\nhas been confirmed, the US gov-\nernment will send whatis called\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.475,
+   "ocr_low_conf_share": 0.075,
+   "headline": "Senate confirms Gor as envoy, Delhi hopes for a boost in line to DC",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI,OCTOBER8",
+   "text": "OVER A month after Sergio Gor was nominated by US President Donald Trump as the next US Ambassador to India, and Special Envoy for South and Central Asian Affairs, the US Senate has confirmed his appointment - despite the ongoing US govemmment shutdown. Gor, 38, was among 107\n\nnominees confirmed by the Senate in a single en bloc vote Wednesday with 51 senators voting in favour and 47 against. This quick confirmation indicates that Washington is keento strengthen diplomatic and political interactions with India amid tensions over 50% tariffs and increased H-1B visa fees. Now that Gor's nomination has been confirmed, the US government will send whatis called",
+   "n_words": 108,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      789,
+      2253,
+      1241,
+      2328
+     ]
+    ],
+    "deck_boxes": [
+     [
+      919,
+      2406,
+      1167,
+      2504
+     ]
+    ],
+    "body_boxes": [
+     [
+      857,
+      2531,
+      1186,
+      2921
+     ],
+     [
+      811,
+      3006,
+      1250,
+      3112
+     ]
+    ],
+    "layout_words": 54
+   },
+   "headline_raw": "es: Starmer",
+   "deck_raw": "Challenges in\n| ties with UK",
+   "body_raw": "THE MODI-STARMER\nmeet, with the focus on\ntech and trade, is ex-\npected to boost ties ata\ntime when the US has\nposed tariff challenges.\nBut there are thomy is-\nsues with UK too: visa\ncurbs, Sikh separatism\nand economic fugitives.\n\nIndia \u2014 which includes hiscoun-\ntry\u2019s leading CEOs, entrepreneurs,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.5925925925926,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "es: Starmer",
+   "deck": "Challenges in ties with UK",
+   "byline": "THE MODI-STARMER",
+   "text": "meet, with the focus on tech and trade, is expected to boost ties ata time when the US has posed tariff challenges. But there are thomy issues with UK too: visa curbs, Sikh separatism and economic fugitives.\n\nIndia - which includes hiscountry's leading CEOs, entrepreneurs,",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      3187,
+      759,
+      3570
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      3639,
+      658,
+      3748
+     ],
+     [
+      320,
+      3798,
+      765,
+      4655
+     ]
+    ],
+    "layout_words": 115
+   },
+   "headline_raw": "SIM card probe:\nPak operatives\n\u2018in touch\u2019 with\nArmy personnel\nposted in J&K",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, OCTOBER8\n\nCENTRAL INTELLIGENCE agen-\ncies have found that Pakistan-\nbased operatives using Indian\nSIM cards, allegedly smuggled\nout by a Nepal national, had\nreached out to at least 75 Indian\nArmy personnel posted in J&K\nand Mathura and were \u201cin\ntouch\u201d with them mainly\nthrough WhatsApp, it is learnt.\n\u201cAfter identifying the details\n(of the Army personnel), we are\nlikely to inform their unit heads\nand summon them for question-\ning in the coming days. As of\nnow, we do not have any sub-\nstantial evidence proving their\ninvolvement in any espionage\nactivity. But operatives based in\ndifferent Pakistani cities were in\ntouch with them,\u201d a senior\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.13913043478261,
+   "ocr_low_conf_share": 0.034782608695652174,
+   "headline": "SIM card probe: Pak operatives 'in touch' with Army personnel posted in J&K",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, OCTOBER8",
+   "text": "CENTRAL INTELLIGENCE agen-cies have found that Pakistanbased operatives using Indian SIM cards, allegedly smuggled out by a Nepal national, had reached out to at least 75 Indian Army personnel posted in J&K and Mathura and were \"in touch\" with them mainly through WhatsApp, it is learnt. \"After identifying the details (of the Army personnel), we are likely to inform their unit heads and summon them for questioning in the coming days. As of now, we do not have any substantial evidence proving their involvement in any espionage activity. But operatives based in different Pakistani cities were in touch with them,\" a senior",
+   "n_words": 102,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      3185,
+      2222,
+      3413
+     ],
+     [
+      812,
+      3432,
+      1766,
+      3493
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      3559,
+      1177,
+      3710
+     ],
+     [
+      809,
+      3758,
+      1252,
+      4070
+     ],
+     [
+      1539,
+      3599,
+      1728,
+      3746
+     ],
+     [
+      1298,
+      3837,
+      1738,
+      4067
+     ],
+     [
+      1787,
+      3521,
+      2229,
+      4064
+     ]
+    ],
+    "layout_words": 148
+   },
+   "headline_raw": "IPS officer alleges caste bias in\n\u2018suicide note\u2019, names top officers\nIAS wife files complaint against Haryan.",
+   "deck_raw": "",
+   "body_raw": "VARINDER BHATIA\n& JAGPREET SINGH\nSANDHU\nCHANDIGARH, OCTOBER8\n\nALLEGING \u201cCASTE-BASED dis-\ncrimination, public humiliation,\ntargeted mental harassment and\natrocities\u201d, Haryana-cadre IPS of-\nficer Y Puran Kumar, 52, whowas\nfound dead with a gunshot\nwound at his residence in\nChandigarh on Tuesday, has\n\nYPuran\nKumar, 52,a\n2001 -batch\nIPS officer\n\nnamed nine serving IPS officers\nof the Haryana Police, a retired IPS.\nofficer, and three retired IAS offi-\ncersina purported \u201csuicide note\u201d.\nMeanwhile, Kumar's wife, IAS\nofficer Amneet P Kumar, who\n\nwasin Japan onan official trip,re-\ntumed on Wednesday and fileda\npolice complaint seeking an FIR\nagainst Haryana Director General\nof Police (DGP) Shatrujeet Kapur\nand Rohtak Superintendent of\nPolice (SP) Narendra Bijarniya, al-\nleging a \u201cwell-planned conspir-\nacy\u201d to implicate Kumar ina \u201cfriv-\nolous and mischievous\ncompiaint by fabricating faise ev-\nidence\u201d. Both Kapur and Bijarniya\ndid not respond to calls and text\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.80952380952381,
+   "ocr_low_conf_share": 0.06802721088435375,
+   "headline": "IPS officer alleges caste bias in 'suicide note', names top officers IAS wife files complaint against Haryan.",
+   "deck": "",
+   "byline": "VARINDER BHATIA; & JAGPREET SINGH; SANDHU; CHANDIGARH, OCTOBER8",
+   "text": "ALLEGING \"CASTE-BASED discrimination, public humiliation, targeted mental harassment and atrocities\", Haryana-cadre IPS officer Y Puran Kumar, 52, whowas found dead with a gunshot wound at his residence in Chandigarh on Tuesday, has\n\nYPuran Kumar, 52,a IPS officer\n\nnamed nine serving IPS officers of the Haryana Police, a retired IPS. officer, and three retired IAS officersina purported \"suicide note\". Meanwhile, Kumar's wife, IAS officer Amneet P Kumar, who\n\nwasin Japan onan official trip,retumed on Wednesday and fileda police complaint seeking an FIR against Haryana Director General of Police (DGP) Shatrujeet Kapur and Rohtak Superintendent of Police (SP) Narendra Bijarniya, alleging a \"well-planned conspiracy\" to implicate Kumar ina \"frivolous and mischievous compiaint by fabricating faise evidence\". Both Kapur and Bijarniya did not respond to calls and text",
+   "n_words": 125,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      4135,
+      2143,
+      4355
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      4431,
+      1221,
+      4616
+     ],
+     [
+      808,
+      4667,
+      1249,
+      5055
+     ],
+     [
+      1297,
+      4945,
+      1737,
+      5059
+     ]
+    ],
+    "layout_words": 74
+   },
+   "headline_raw": "Bring him home, says family of\n22-yr-old caught in Ukraine war",
+   "deck_raw": "",
+   "body_raw": "RITU SHARMA,\nKAMAL SAIYED &\nBRENDAN DABHI\nMORBI, SURAT, AHMEDABAD,\nOCTOBER8\n\nAN UNEASY silence has en-\nveloped this double-storey\nhouse in the nondescript Kalika\nPlot neighbourhood of Gujarat\u2019s\nceramics hub, Morbi. This is the\nhome of Hasina Majothi, who\nlives here with her mother, sis-\nter and brother, and his wife, af-\nter her only child, 22-year-old\nSahil Mohamed Hussein, left to\n\npursue anengineering degree in\nRussia two years ago.\nOn Wednesday moming, the",
+   "ocr_conf": 91.02702702702703,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "Bring him home, says family of 22-yr-old caught in Ukraine war",
+   "deck": "",
+   "byline": "RITU SHARMA,; KAMAL SAIYED &; BRENDAN DABHI; MORBI, SURAT, AHMEDABAD,; OCTOBER8",
+   "text": "AN UNEASY silence has enveloped this double-storey house in the nondescript Kalika Plot neighbourhood of Gujarat's ceramics hub, Morbi. This is the home of Hasina Majothi, who lives here with her mother, sister and brother, and his wife, after her only child, 22-year-old Sahil Mohamed Hussein, left to\n\npursue anengineering degree in Russia two years ago. On Wednesday moming, the",
+   "n_words": 60,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4733,
+      551,
+      4789
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4840,
+      728,
+      5015
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "EXPLAINED",
+   "deck_raw": "",
+   "body_raw": "NOBEL PRIZE\nMAKING ROOM FOR\nNEW USES OF\nCHEMISTRY pace 12",
+   "ocr_conf": 69.27272727272727,
+   "ocr_low_conf_share": 0.2727272727272727,
+   "headline": "EXPLAINED",
+   "deck": "",
+   "byline": "NOBEL PRIZE; MAKING ROOM FOR; NEW USES OF",
+   "text": "CHEMISTRY pace 12",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      5196,
+      2168,
+      5410
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5505,
+      499,
+      5537
+     ],
+     [
+      320,
+      5657,
+      664,
+      5727
+     ],
+     [
+      318,
+      5775,
+      759,
+      6166
+     ],
+     [
+      1782,
+      5461,
+      2227,
+      6160
+     ]
+    ],
+    "layout_words": 149
+   },
+   "headline_raw": "\u2018Drone chor\u2019 fears lead to UP lynching:\n\u2018How can one be killed over rumours?\u2019",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nMAULSHREE SETH\nRAE BARELI, OCTOBER 8\n\nFOROVER a month now, districts\nin Uttar Pradesh have been inthe\ngnpofrumours of \u201cdrone chori\u201d\n\u2014 that drones were allegedly be-\ning used to carry out robberies.\nIt was the whorl of one such\npanic-fuelled night that Hariom\nValmiki walked into late on\nOctober 1.\nAt Dandepur Jamunapur vil-\n\nlage in Rae Bareli, Hariom, who\npolice said was of unsound\nmind, wasallegedly mistaken for\na drone thief. The 38-year-old\nwas apparently on his way to\nAmiliya ka Purva village, 8 km\naway, where his estranged wife\nand daughter lived with his fa-\nther-in-law. Over the next few\nhours, Hariom was slapped,\nkicked, stripped, beaten with\nbelts and canes and taken from\none place to another in\nDandepur Jamunapur as the\nmob of about a hundred asked\nhim to lead them to his alleged\naccomplice. Videos of the attack\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.2751677852349,
+   "ocr_low_conf_share": 0.026845637583892617,
+   "headline": "'Drone chor' fears lead to UP lynching: 'How can one be killed over rumours?'",
+   "deck": "",
+   "byline": "ANCHOR; MAULSHREE SETH; RAE BARELI, OCTOBER 8",
+   "text": "FOROVER a month now, districts in Uttar Pradesh have been inthe gnpofrumours of \"drone chori\" - that drones were allegedly being used to carry out robberies. It was the whorl of one such panic-fuelled night that Hariom Valmiki walked into late on October 1. At Dandepur Jamunapur village in Rae Bareli, Hariom, who police said was of unsound mind, wasallegedly mistaken for a drone thief. The 38-year-old was apparently on his way to Amiliya ka Purva village, 8 km away, where his estranged wife and daughter lived with his father-in-law. Over the next few hours, Hariom was slapped, kicked, stripped, beaten with belts and canes and taken from one place to another in Dandepur Jamunapur as the mob of about a hundred asked him to lead them to his alleged accomplice. Videos of the attack",
+   "n_words": 135,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 14.0,
+ "flags": []
+}

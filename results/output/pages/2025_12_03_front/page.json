@@ -1,0 +1,594 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_03_front",
+ "source_file": "2025-12-03_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-03_front.png",
+ "date": "2025-12-03",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 360,
+  "mean_line_conf": 88.90493085232669,
+  "orphan_words": 5,
+  "body_words_total": 1305
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4180,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 92.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      357,
+      936,
+      788,
+      1096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1150,
+      711,
+      1456
+     ],
+     [
+      322,
+      1508,
+      724,
+      1779
+     ],
+     [
+      321,
+      1826,
+      728,
+      2179
+     ]
+    ],
+    "layout_words": 85
+   },
+   "headline_raw": "Happening \u00a9\ntoday",
+   "deck_raw": "",
+   "body_raw": "@RBI\u2018S MONETARY POLICY\nCommittee begins its three-\nday meeting. While Q2 GDP\ngrowth was arobust 8.2%,\nexperts continue tolean\ntowards afirst repo rate cut\nin6monthsamidrecord\nlow inflation.\n\n@PRESIDENT DROUPADI\nMurmu begins a two-day visit\nto Kerala where she willlead\nthe Navy Day celebrations\nand witness Indian Navy's\noperational demonstration\nat Thiruvananthapuram.\n\n@GERMANPRESIDENT\nFrank-Walter Steinmeier\narrives in the UK ona three-\nday State visit, the first bya\nGerman leaderin nearly three\ndecades. His visit includes a\ntripto Coventry Cathedral,\nwhich was bombed by\nGermany during WWII.",
+   "ocr_conf": 88.23529411764706,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "Happening \u00a9 today",
+   "deck": "",
+   "byline": "@RBI'S MONETARY POLICY; @PRESIDENT DROUPADI",
+   "text": "Committee begins its threeday meeting. While Q2 GDP growth was arobust 8.2%, experts continue tolean towards afirst repo rate cut in6monthsamidrecord low inflation.\n\nMurmu begins a two-day visit to Kerala where she willlead the Navy Day celebrations and witness Indian Navy's operational demonstration at Thiruvananthapuram.\n\n@GERMANPRESIDENT Frank-Walter Steinmeier arrives in the UK ona threeday State visit, the first bya German leaderin nearly three decades. His visit includes a tripto Coventry Cathedral, which was bombed by Germany during WWII.",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      1015,
+      3180,
+      1329
+     ],
+     [
+      810,
+      1413,
+      2218,
+      1545
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      940,
+      2767,
+      989
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1583,
+      1154,
+      1659
+     ],
+     [
+      805,
+      1708,
+      1252,
+      2339
+     ],
+     [
+      1443,
+      1658,
+      1643,
+      1689
+     ],
+     [
+      1789,
+      1621,
+      2225,
+      1658
+     ],
+     [
+      1786,
+      1693,
+      2168,
+      1876
+     ],
+     [
+      1786,
+      1948,
+      2231,
+      2333
+     ]
+    ],
+    "layout_words": 133
+   },
+   "headline_raw": "After surveillance uproar, Govt says\nusers can delete Sanchar Saathi app\nDigital rights groups say app will need system level access,\nwarn users can\u2019t meaningfully refuse, control or remove it",
+   "deck_raw": "VOLUNTARY, DESIGNED TO PROTECT CONSUMERS: COMMUNICATIONS MINISTER",
+   "body_raw": "Soumyarendra Barik\nNew Delhi, December 2\n\nFACING BACKLASH over the\ntelecom department\u2019sorder for\nsmartphone companies to pre-\nload the state-owned cyber-se-\ncurity application Sanchar\nSaathi, Union Minister for\nCommunications and Devel-\nopment of North Eastern Re-\ngion JyotiradityaScindia Tues-\nday said users were free to not\nregister on it, and wouldbe able\nto delete the application.\nThe government\u2019s confi-\ndential order of November 28 to\nphonemakers has sparked con-\ncerns around privacy and po-\n\nEXPLAINED\n\nTHE EDITORIAL PAGE\n\nFORCING DOWN\nAPP ERODES\nPRIVACY, HURTS\nBUSINESS PAGE8\n\ntion lawmakers to the civil so-\nciety criticising the order in\npublic, and some smartphone\ncompanies pushing back\nagainst it in private, and plan-\nning to formally flag their con-\ncerns with the government.\n\u201cDigital security for every\ncitizen is our topmost priority.\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 92.1203007518797,
+   "ocr_low_conf_share": 0.015037593984962405,
+   "headline": "After surveillance uproar, Govt says users can delete Sanchar Saathi app Digital rights groups say app will need system level access, warn users can't meaningfully refuse, control or remove it",
+   "deck": "VOLUNTARY, DESIGNED TO PROTECT CONSUMERS: COMMUNICATIONS MINISTER",
+   "byline": "",
+   "text": "Soumyarendra Barik New Delhi, December 2\n\nFACING BACKLASH over the telecom department'sorder for smartphone companies to preload the state-owned cyber-security application Sanchar Saathi, Union Minister for Communications and Development of North Eastern Region JyotiradityaScindia Tuesday said users were free to not register on it, and wouldbe able to delete the application. The government's confidential order of November 28 to phonemakers has sparked concerns around privacy and po-\n\nEXPLAINED\n\nTHE EDITORIAL PAGE\n\nFORCING DOWN APP ERODES PRIVACY, HURTS BUSINESS PAGE8\n\ntion lawmakers to the civil society criticising the order in public, and some smartphone companies pushing back against it in private, and planning to formally flag their concerns with the government. \"Digital security for every citizen is our topmost priority.",
+   "n_words": 119,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      1014,
+      4179,
+      1490
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      939,
+      3884,
+      983
+     ],
+     [
+      3252,
+      1573,
+      4175,
+      1704
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      1744,
+      3583,
+      1820
+     ],
+     [
+      3251,
+      1869,
+      3696,
+      3138
+     ],
+     [
+      3739,
+      2268,
+      4184,
+      3132
+     ]
+    ],
+    "layout_words": 277
+   },
+   "headline_raw": "Pressure on India,\nneed to secure our\ntrade, says Kremlin\nahead of Putin visit",
+   "deck_raw": "VISIT STARTS TOMORROW\nS-400s, Su-57s, small modular reactors\namong issues on table: Spokesperson",
+   "body_raw": "Shubhajit Roy\nNew Delhi, December 2\n\nUNDERLINING THE \u201cpress-\nure over India\u201d and the need to\n\u201ccontinue and enlarge the vol-\nume of our bilateral business\u201d\nand \u201cnot letting anyone inter-\nfere in that\u201d, the Kremlin said\nTuesday that Russian Presi-\ndent Vladimir Putin and Prime\nMinister Narendra Modi will\ndiscuss a labour mobility pact\nand thesupply of S-400 air de-\nfence systems and the Sukhoi-\n\u00a77 fighter aircraft to India.\nIn an online media interac-\ntion, organised by Russian news\nagency Sputnik India ahead of\nPutin\u2019s visit to India on De-\ncember 4-5, Kremlin spokesper-\nson Dmitry Peskov, responding\nto the issue of 25 per cent US\npenalty tariff on India for buy-\ning Russian oil, said, \u201cTariffsbe-\ntween India and the United\nStates is rather a question of bi-\nlateral relations between India\nand the United States. What\nconcerns us is the way we are\ngoing to continue and enlarge\nthe volume of our bilateral busi-\nness with India, not letting any-\none interfere in that. And this\nwill be definitely discussed.\u201d\n\n\u201cAnd we understand that\nthereis pressureover India. And\nactually this is the reasonthat we\nhaveto be very careful in creat-\ning an architecture of our rela-\ntionship that mustbe freeofany\ninfluence coming from third\ncountries. We havetosecureour\nrelationship. We have to secure\nour trade that brings mutual\nbenefit. So trade can be only\nbeneficial for both sides, and if\nwe earn from thisbilateral trade,\nwe havetocontinuebut we have\nto secure it from pressure from\nabroad.\u201d\n\u201cIndia is very sovereign in\ndefendingits national interest.\nAnd we do admire this charac-\nteristic of India ... And we are\nalso very sensitive to this right\n\u00bbCONTINUEDONPAGE2",
+   "ocr_conf": 92.00361010830325,
+   "ocr_low_conf_share": 0.039711191335740074,
+   "headline": "Pressure on India, need to secure our trade, says Kremlin ahead of Putin visit",
+   "deck": "VISIT STARTS TOMORROW S-400s, Su-57s, small modular reactors among issues on table: Spokesperson",
+   "byline": "",
+   "text": "Shubhajit Roy New Delhi, December 2\n\nUNDERLINING THE \"pressure over India\" and the need to \"continue and enlarge the volume of our bilateral business\" and \"not letting anyone interfere in that\", the Kremlin said Tuesday that Russian President Vladimir Putin and Prime Minister Narendra Modi will discuss a labour mobility pact and thesupply of S-400 air defence systems and the Sukhoi- \u00a77 fighter aircraft to India. In an online media interaction, organised by Russian news agency Sputnik India ahead of Putin's visit to India on December 4-5, Kremlin spokesperson Dmitry Peskov, responding to the issue of 25 per cent US penalty tariff on India for buying Russian oil, said, \"Tariffsbetween India and the United States is rather a question of bilateral relations between India and the United States. What concerns us is the way we are going to continue and enlarge the volume of our bilateral business with India, not letting anyone interfere in that. And this will be definitely discussed.\"\n\n\"And we understand that thereis pressureover India. And actually this is the reasonthat we haveto be very careful in creating an architecture of our relationship that mustbe freeofany influence coming from third countries. We havetosecureour relationship. We have to secure our trade that brings mutual benefit. So trade can be only beneficial for both sides, and if we earn from thisbilateral trade, we havetocontinuebut we have to secure it from pressure from abroad.\" \"India is very sovereign in defendingits national interest. And we do admire this characteristic of India... And we are also very sensitive to this right \u00bbCONTINUEDONPAGE2",
+   "n_words": 260,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      1369,
+      3195,
+      1655
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2271,
+      1704,
+      2602,
+      1778
+     ],
+     [
+      2268,
+      1829,
+      2715,
+      2334
+     ],
+     [
+      2313,
+      2448,
+      2675,
+      2653
+     ],
+     [
+      2761,
+      1709,
+      3207,
+      2294
+     ]
+    ],
+    "layout_words": 137
+   },
+   "headline_raw": "Apple, Google set to push\nback citing privacy and\nsystem security concerns",
+   "deck_raw": "",
+   "body_raw": "Soumyarendra Barik\nNew Delhi, December 2\n\nSMARTPHONE MAKERS Apple\nand Googie \u2014 which own the\ntwo most popularoperating sys-\ntems iOS and Android, respect-\nively \u2014 are planning to push\nback on the government direc-\ntive to mandatorily pre-install\nthe Sanchar Saathi app on their\ndevices, with concerns around\nprivacy and system security\nweighing heavy on their minds,\nThe Indian Express has learnt.\nSanchar Saathiis astate-de-\n\nBusiness as Usual\nByEPUNNY\nMacaulay (eX behind\nBsemicclOnial Mindset?\n\nveloped cybersecurity applica-\ntion and allows users to report\nfraudulent calls, messages, and\nstolen mobile phones.\nIndustry sources aware of\nthe companies\u2019 point of view\nsaid the phone-makershave no\nhistory or precedent of preload-\ningstate-owned applicationsto\ntheir devices anywhere in the\nworld. The change poses oper-\national challenges since it could\nrequire them to customise iOS\nand Android specifically\nfor India.",
+   "ocr_conf": 89.84558823529412,
+   "ocr_low_conf_share": 0.051470588235294115,
+   "headline": "Apple, Google set to push back citing privacy and system security concerns",
+   "deck": "",
+   "byline": "",
+   "text": "Soumyarendra Barik New Delhi, December 2\n\nSMARTPHONE MAKERS Apple and Googie - which own the two most popularoperating systems iOS and Android, respectively - are planning to push back on the government directive to mandatorily pre-install the Sanchar Saathi app on their devices, with concerns around privacy and system security weighing heavy on their minds, The Indian Express has learnt. Sanchar Saathiis astate-de-\n\nBusiness as Usual ByEPUNNY Macaulay (eX behind BsemicclOnial Mindset?\n\nveloped cybersecurity application and allows users to report fraudulent calls, messages, and stolen mobile phones. Industry sources aware of the companies' point of view said the phone-makershave no history or precedent of preloadingstate-owned applicationsto their devices anywhere in the world. The change poses operational challenges since it could require them to customise iOS and Android specifically for India.",
+   "n_words": 130,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1300,
+      1744,
+      1673,
+      1794
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      1827,
+      1739,
+      2173
+     ],
+     [
+      1299,
+      2266,
+      1739,
+      2340
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "Concerns persist",
+   "deck_raw": "",
+   "body_raw": "The government hasclari-\nfied that registering with\nSanchar Saathi app is volun-\ntary and userscan delete it,\nbut concerns persist since\nthe government\u2019s November\n28 order directing phone\nmakersto pre-install the app\nhas not been withdrawn.\n\ntential surveillance, with stake-\nholders ranging from Opposi-",
+   "ocr_conf": 88.86363636363636,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "Concerns persist",
+   "deck": "",
+   "byline": "",
+   "text": "The government hasclarified that registering with Sanchar Saathi app is voluntary and userscan delete it, but concerns persist since the government's November 28 order directing phone makersto pre-install the app has not been withdrawn.\n\ntential surveillance, with stake-holders ranging from Opposi-",
+   "n_words": 41,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2443,
+      2203,
+      2656
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2742,
+      761,
+      3003
+     ],
+     [
+      320,
+      3056,
+      694,
+      3132
+     ],
+     [
+      320,
+      3181,
+      761,
+      3725
+     ],
+     [
+      367,
+      3737,
+      761,
+      3771
+     ],
+     [
+      808,
+      3619,
+      1249,
+      3765
+     ],
+     [
+      1295,
+      3620,
+      1737,
+      3725
+     ],
+     [
+      1785,
+      3620,
+      2226,
+      3766
+     ]
+    ],
+    "layout_words": 129
+   },
+   "headline_raw": "Parliament logjam ends as Govt, Opp agree\nto debate Vande Mataram, electoral reforms",
+   "deck_raw": "",
+   "body_raw": "Vande Mataram\ndebatein LS\nDec 8, poll reforms\non Dec9-10\n\nManojC G & Liz Mathew\nNew Delhi, December2\n\nTHE STANDOFF between the\ngovernment andthe Opposition\nin Parliament was resolved\nTuesday as both sides agreed to\nholda discussionon the national\nsong Vande Mataram as well as\nelectoral reforms, in which the\nOpposition would raise thecon-\ntentious issue of the Special In-\ntensive Revision (SIR) of electo-\nralrollsbeing undertaken bythe\nElection Commission (EC) in\nnine states and three Union Ter-\nritories.\n\nAtanall-party meeting con-\n\nvened by Lok Sabha Speaker\nOm Birla, it was decided that\nthe House willtake up separate\ndiscussions on the 150th anni-\n\nversary of Vande Mataram and\nelectoral reforms early next\nweek.\n\nModi will initiate the day-long\ndiscussion on Vande Mataram\non December 8 in the\n\u00bbCONTINUED ONPAGE2",
+   "ocr_conf": 89.30232558139535,
+   "ocr_low_conf_share": 0.06201550387596899,
+   "headline": "Parliament logjam ends as Govt, Opp agree to debate Vande Mataram, electoral reforms",
+   "deck": "",
+   "byline": "",
+   "text": "Vande Mataram debatein LS Dec 8, poll reforms on Dec9-10\n\nManojC G & Liz Mathew New Delhi, December2\n\nTHE STANDOFF between the government andthe Opposition in Parliament was resolved Tuesday as both sides agreed to holda discussionon the national song Vande Mataram as well as electoral reforms, in which the Opposition would raise thecontentious issue of the Special Intensive Revision (SIR) of electoralrollsbeing undertaken bythe Election Commission (EC) in nine states and three Union Territories.\n\nAtanall-party meeting convened by Lok Sabha Speaker Om Birla, it was decided that the House willtake up separate discussions on the 150th anniversary of Vande Mataram and electoral reforms early next week.\n\nModi will initiate the day-long discussion on Vande Mataram on December 8 in the \u00bbCONTINUED ONPAGE2",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1269,
+      3875,
+      2221,
+      4174
+     ],
+     [
+      1553,
+      3875,
+      2042,
+      3950
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      4213,
+      1638,
+      4286
+     ],
+     [
+      1294,
+      4337,
+      1738,
+      4888
+     ],
+     [
+      1294,
+      4932,
+      1736,
+      5040
+     ],
+     [
+      1784,
+      4734,
+      2224,
+      5040
+     ]
+    ],
+    "layout_words": 118
+   },
+   "headline_raw": "India\u2019s third nuclear\nsubmarine soon, trials in\nfinal stages: Navy chief\nthird nuclear",
+   "deck_raw": "",
+   "body_raw": "Deeptiman Tiwary\nNew Delhi, December2\n\nINDIA WILL commission its\nthird nuclear submarine soon\nas it is in the final stages of\ntrials, Chief of Naval Staff Ad-\nmiral Dinesh K Tripathi said\nTuesday.\nThe induction of INS Arid-\nhaman will take India\u2019s oper-\national fleet of the Arihant-\nclass nuclear-powered ballistic\nmissile submarines (SSBN) to\nthree, marking a significant\nstep in strengthening the\ncountry\u2019ssea-based nuclear de-\n\n\u201c(INS) Arighaat was com-\nmissioned in August 2024 and\nAridhaman will be commis-\n\nsioned soon. It is in the final\nstages of trials,\u201d Admiral Tripa-\nthi told the press ahead of Navy\nDay on Thursday.\nExpected to be commis-\nsioned around 2026-27, Aridha-\nman is designed to carry the\n\u00bbCONTINUED ONPAGE 2",
+   "ocr_conf": 92.5677966101695,
+   "ocr_low_conf_share": 0.01694915254237288,
+   "headline": "India's third nuclear submarine soon, trials in final stages: Navy chief third nuclear",
+   "deck": "",
+   "byline": "",
+   "text": "Deeptiman Tiwary New Delhi, December2\n\nINDIA WILL commission its third nuclear submarine soon as it is in the final stages of trials, Chief of Naval Staff Admiral Dinesh K Tripathi said Tuesday. The induction of INS Aridhaman will take India's operational fleet of the Arihantclass nuclear-powered ballistic missile submarines (SSBN) to three, marking a significant step in strengthening the country'ssea-based nuclear de-\n\n\"(INS) Arighaat was commissioned in August 2024 and Aridhaman will be commissioned soon. It is in the final stages of trials,\" Admiral Tripathi told the press ahead of Navy Day on Thursday. Expected to be commissioned around 2026-27, Aridhaman is designed to carry the \u00bbCONTINUED ONPAGE 2",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      3950,
+      1138,
+      4249
+     ]
+    ],
+    "deck_boxes": [
+     [
+      323,
+      3882,
+      749,
+      3926
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4292,
+      661,
+      4366
+     ],
+     [
+      319,
+      4415,
+      759,
+      5046
+     ],
+     [
+      805,
+      4296,
+      1246,
+      4565
+     ],
+     [
+      805,
+      4574,
+      1246,
+      5040
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "Do we give intruder a\nred-carpet welcome,\nasks Supreme Court",
+   "deck_raw": "PIL ON ROHINGYA",
+   "body_raw": "Ananthakrishnan G\nNew Dethi, December2\n\nWONDERING HOW people\nwho enter India illegally can\nseek due legal process fortheir\nexpulsion, the Supreme\nCourt, in oral observations\nTuesday, said \u201cif an intruder\ncomes, do we give ared-carpet\nwelcome, saying we would\nlike to provide all facilities\u201d.\nHearinga PiLby rightsactiv-\nist Rita Manchanda who\nclaimed that some Rohingya\npeople had been deported il-\nlegally, Chief Justice of India\nSurya Kant, who wason a bench\nwith Justice Joymalya Bagchi,\n\nsaid, \u201cYou cross the fenced\nborderillegally, you dig a tunnel,\nand you enter India. Then you\ndeclare that \u2018nowthat I have en-\ntered, your laws must apply to\nme, that I should be issued a\nshow-causenotice, lamentitled\n\nto be provided food, Iam en-\ntitled tobe provided shelter, my\nchildren are entitled to this and\nthat\u2019. Do we want to stretch the\nlaw like this?\u201d.\nManchanda\u2019s counsel, who\nclaimed that fiveRohingyaper-\nsons had been deported with-\nout following procedure, said\nshe was not opposing deport-\nation, but it should be carried\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 88.55952380952381,
+   "ocr_low_conf_share": 0.06547619047619048,
+   "headline": "Do we give intruder a red-carpet welcome, asks Supreme Court",
+   "deck": "PIL ON ROHINGYA",
+   "byline": "",
+   "text": "Ananthakrishnan G New Dethi, December2\n\nWONDERING HOW people who enter India illegally can seek due legal process fortheir expulsion, the Supreme Court, in oral observations Tuesday, said \"if an intruder comes, do we give ared-carpet welcome, saying we would like to provide all facilities\". Hearinga PiLby rightsactivist Rita Manchanda who claimed that some Rohingya people had been deported illegally, Chief Justice of India Surya Kant, who wason a bench with Justice Joymalya Bagchi,\n\nsaid, \"You cross the fenced borderillegally, you dig a tunnel, and you enter India. Then you declare that 'nowthat I have entered, your laws must apply to me, that I should be issued a show-causenotice, lamentitled\n\nto be provided food, Iam entitled tobe provided shelter, my children are entitled to this and that'. Do we want to stretch the law like this?\". Manchanda's counsel, who claimed that fiveRohingyapersons had been deported without following procedure, said she was not opposing deportation, but it should be carried",
+   "n_words": 158,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5226,
+      2214,
+      5449
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5163,
+      1464,
+      5196
+     ]
+    ],
+    "body_boxes": [
+     [
+      444,
+      5499,
+      634,
+      5581
+     ],
+     [
+      318,
+      5645,
+      686,
+      5720
+     ],
+     [
+      318,
+      5768,
+      759,
+      6201
+     ],
+     [
+      806,
+      6087,
+      1246,
+      6195
+     ],
+     [
+      1293,
+      6087,
+      1734,
+      6202
+     ],
+     [
+      1779,
+      5492,
+      2226,
+      6196
+     ]
+    ],
+    "layout_words": 175
+   },
+   "headline_raw": "Pune researchers find Milky Way-like spiral\ngalaxy from early universe\u2014 Alaknanda",
+   "deck_raw": "e DISCOVERY MADE USING NASA\u2019S JAMES WEBB SPACE TELESCOPE",
+   "body_raw": "\u2014 PAGE1\nanchor\n\nAnuradha Mascarenhas\nPune, December 2\n\nINDIAN RESEARCHERS have\ndiscovered a massive galaxy\nthat existed when the universe\nwas just 1.5 billion years old \u2014\none of the earliest to have been\nobserved so far \u2014and with fea-\ntures that challenge the current\nunderstanding of how galaxies\nwere formed in early universe.\nGalaxies that formed so\nearly in the life of the universe\n\nare expected to be not very well-\nstructured, turbulent and un-\nstable. But the one that Pune-\n\nbased researchers have dis-\ncovered is a well-defined spiral\ngalaxy, remarkably similar in\n\nstructureto our own Milky Way\n\u2014 the kind of galaxy supposed\nto have evolved much later.\n\u201cWe have named it Alak-\nnanda, after the Himalayan\nriver,\u201d Professor Yogesh Wa-\ndadekar at the National Centre\nfor Radio Astrophysics of the\nTata Institute of Fundamental\nResearch (NCRA-TIFR) in Pune\nsaid Tuesday while announcing\nthe discovery.\nRashi Jain, a PhD student\nwho led this research under Wa-\ndadekar\u2019s guidance, said the\ndiscovery was a little unex-\npected. \u201cThe galaxy looks\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 89.54545454545455,
+   "ocr_low_conf_share": 0.056818181818181816,
+   "headline": "Pune researchers find Milky Way-like spiral galaxy from early universe - Alaknanda",
+   "deck": "e DISCOVERY MADE USING NASA'S JAMES WEBB SPACE TELESCOPE",
+   "byline": "-  PAGE1",
+   "text": "anchor\n\nAnuradha Mascarenhas Pune, December 2\n\nINDIAN RESEARCHERS have discovered a massive galaxy that existed when the universe was just 1.5 billion years old - one of the earliest to have been observed so far - and with features that challenge the current understanding of how galaxies were formed in early universe. Galaxies that formed so early in the life of the universe\n\nare expected to be not very well-structured, turbulent and unstable. But the one that Punebased researchers have discovered is a well-defined spiral galaxy, remarkably similar in\n\nstructureto our own Milky Way - the kind of galaxy supposed to have evolved much later. \"We have named it Alaknanda, after the Himalayan river,\" Professor Yogesh Wadadekar at the National Centre for Radio Astrophysics of the Tata Institute of Fundamental Research (NCRA-TIFR) in Pune said Tuesday while announcing the discovery. Rashi Jain, a PhD student who led this research under Wadadekar's guidance, said the discovery was a little unexpected. \"The galaxy looks",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 15.1,
+ "flags": []
+}

@@ -1,0 +1,698 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_09_front",
+ "source_file": "2025-03-09_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-09_front.png",
+ "date": "2025-03-09",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 0,
+  "n_lines": 265,
+  "mean_line_conf": 87.18373015873016,
+  "orphan_words": 82,
+  "body_words_total": 850
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3858,
+      75,
+      4071,
+      188
+     ],
+     [
+      3815,
+      303,
+      4118,
+      485
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3774,
+      236,
+      4160,
+      275
+     ]
+    ],
+    "body_boxes": [
+     [
+      3753,
+      496,
+      4174,
+      621
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "eve\nWays of\nSeeing",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "Photo-artist Dayanita Singh\non intersection of physical\nworlds in her photography",
+   "ocr_conf": 87.54545454545455,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve Ways of Seeing",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "Photo-artist Dayanita Singh on intersection of physical worlds in her photography",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      1455,
+      2704,
+      1731
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1025,
+      1745,
+      1251,
+      1895
+     ],
+     [
+      808,
+      1988,
+      1164,
+      2016
+     ],
+     [
+      2276,
+      2475,
+      2410,
+      2506
+     ],
+     [
+      2273,
+      2924,
+      2711,
+      3047
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "D-day in Dubai: All eyes on Kohli as India\ntake on Kiwis for Champions Trophy glory",
+   "deck_raw": "",
+   "body_raw": "EXPRESS AT\nCHAMPIONS\nTROPHY\n\nVENKATAB KRISHNA\n\nINSIDE\n\nBILL TOREGULATE\nCOACHING CENTRES\nGETS CABINET NODe3",
+   "ocr_conf": 83.85714285714286,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "D-day in Dubai: All eyes on Kohli as India take on Kiwis for Champions Trophy glory",
+   "deck": "",
+   "byline": "EXPRESS AT; CHAMPIONS; TROPHY; VENKATAB KRISHNA",
+   "text": "BILL TOREGULATE COACHING CENTRES GETS CABINET NODe3",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      1551,
+      4113,
+      1954
+     ],
+     [
+      2763,
+      1900,
+      4183,
+      2297
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2765,
+      2095,
+      3171,
+      2368
+     ],
+     [
+      3251,
+      2900,
+      3694,
+      3092
+     ],
+     [
+      3900,
+      2187,
+      4136,
+      2280
+     ],
+     [
+      3786,
+      2346,
+      4136,
+      2817
+     ],
+     [
+      3741,
+      2900,
+      4180,
+      3085
+     ]
+    ],
+    "layout_words": 103
+   },
+   "headline_raw": "Trade pact talks ahead,\nDelhi ducks Trump's\nAd 3\nfresh salvo on tariff \u2018cut\nGoyal meets E _\u2014\nLutnick, Greer to = Theindian\nprepareground | 13 Bimme objective",
+   "deck_raw": "",
+   "body_raw": "Goyal meets\nLutnick, Greer to\nprepare ground\nfor negotiations\n\nsive you can't even sell anything\nin India It's almost... restrictive.\nYou know, we do very littke busi-\nness inside. They have agreed...\nThey wantto cut their tariffs way\n\nThe Indian\n1@ objective\n\nINTHE Indian assess-\nment, abilateral trade\npact will deepentwo-\nway trade across the\ngoods and services sec-\ntor, increase market ac-\ncess, reduce tariff and\nnon-tariff barriers, and\ndeepen supply chain in-\ntegration. Negotiators\nwill Look to finalise the\ndeal by autumn this year.\n\ndown now because somebody's\nfinally exposing them for what\nthey have done.\u201d\nDelhi offered noimmediate\nCONTINUEDON PAGE2",
+   "ocr_conf": 88.10679611650485,
+   "ocr_low_conf_share": 0.07766990291262135,
+   "headline": "Trade pact talks ahead, Delhi ducks Trump's Ad 3 fresh salvo on tariff 'cut Goyal meets E _ - Lutnick, Greer to = Theindian prepareground 13 Bimme objective",
+   "deck": "",
+   "byline": "",
+   "text": "Goyal meets Lutnick, Greer to prepare ground for negotiations\n\nsive you can't even sell anything in India It's almost... restrictive. You know, we do very littke business inside. They have agreed... They wantto cut their tariffs way\n\nThe Indian 1@ objective\n\nINTHE Indian assessment, abilateral trade pact will deepentwoway trade across the goods and services sector, increase market access, reduce tariff and non-tariff barriers, and deepen supply chain integration. Negotiators will Look to finalise the deal by autumn this year.\n\ndown now because somebody's finally exposing them for what they have done.\" Delhi offered noimmediate CONTINUEDON PAGE2",
+   "n_words": 97,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      1711,
+      1742,
+      2371
+     ]
+    ],
+    "layout_words": 82,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "dressing room. Not far from the\nbus, akid perched on his father's\nshoulders letouta desperate cry:\n\u201cKohli bhaiya... please ek ticket\ndedo,\u201d (please give me a ticket)\ndrawing chuckles.\nMoments later, Kohli\nstepped out of the bus, headed\ntowards that kid to pose for a\nphotograph and put his signa-\ntureonthe kid's cap. Ina rarein-\nstance, for the next couple of\nminutes, Kohli would go about\nengaging with each of his fans\nbefore disappearing.\nNot just kids, but adults\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.63855421686748,
+   "ocr_low_conf_share": 0.0963855421686747,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "dressing room. Not far from the bus, akid perched on his father's shoulders letouta desperate cry: \"Kohli bhaiya... please ek ticket dedo,\" (please give me a ticket) drawing chuckles. Moments later, Kohli stepped out of the bus, headed towards that kid to pose for a photograph and put his signatureonthe kid's cap. Ina rareinstance, for the next couple of minutes, Kohli would go about engaging with each of his fans before disappearing. Not just kids, but adults",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2090,
+      744,
+      2411
+     ],
+     [
+      321,
+      2422,
+      732,
+      2644
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3093,
+      684,
+      3239
+     ],
+     [
+      320,
+      3294,
+      765,
+      4269
+     ]
+    ],
+    "layout_words": 139
+   },
+   "headline_raw": "Rahul draws\nline for Gujarat\nCong: \u2018Those\nconniving with\nBJP have to go\u2019\ngn -",
+   "deck_raw": "",
+   "body_raw": "LEENAMISRA\n&ADITIRAJA\nAHMEDABAD, VADODARA,\nMARCH 8\n\nCONGRESS LEADER Rahul\nGandhi on Saturday accused a\nsection of party leaders in\nGujarat of \u201cconniving with the\nBJP\u201d and said the party should be\nready toremove \u201c20 to 30 peo-\nple\u201d ifneeded. The revival of the\nCongress in the state was nota\n\u201ctwo three year project buta\n50-year project\", added the\nLeader of the Opposition (LoP)in\nthe Lok Sabha\n\u201cWhy has the Congress not\nbeen able to fulfil the expecta-\ntionsof the people of Gujarat for\nthe last 20 to 30 years? The an-\nswer is that the leadership of\nGujarat, the workers the district\nand block presidents of the party\nhave two kinds of leaders. One,\nwho stand with the public, fight\nfor them and respect them be-\ncause they have the Congress in\ntheir heart; the other, who sits\nCONTINUEDONPAGE2",
+   "ocr_conf": 93.42446043165468,
+   "ocr_low_conf_share": 0.014388489208633094,
+   "headline": "Rahul draws line for Gujarat Cong: 'Those conniving with BJP have to go' gn -",
+   "deck": "",
+   "byline": "LEENAMISRA; &ADITIRAJA; AHMEDABAD, VADODARA,; MARCH 8",
+   "text": "CONGRESS LEADER Rahul Gandhi on Saturday accused a section of party leaders in Gujarat of \"conniving with the BJP\" and said the party should be ready toremove \"20 to 30 people\" ifneeded. The revival of the Congress in the state was nota \"two three year project buta 50-year project\", added the Leader of the Opposition (LoP)in the Lok Sabha \"Why has the Congress not been able to fulfil the expectationsof the people of Gujarat for the last 20 to 30 years? The answer is that the leadership of Gujarat, the workers the district and block presidents of the party have two kinds of leaders. One, who stand with the public, fight for them and respect them because they have the Congress in their heart; the other, who sits CONTINUEDONPAGE2",
+   "n_words": 129,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2080,
+      1248,
+      2142
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      2026,
+      1042,
+      2084
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      2147,
+      1250,
+      2378
+     ]
+    ],
+    "layout_words": 30
+   },
+   "headline_raw": "AROUND 4:40 pm Saturday, af-",
+   "deck_raw": "DUBAI, MARCH8",
+   "body_raw": "teratwo-hour net session atthe\nDubai cricket stadium to prepare\nfor the Champions Trophy final\nagainst New Zealand, Virat Kohli\nstepped into the team bus that\nwas parked right outside the",
+   "ocr_conf": 88.8,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "AROUND 4:40 pm Saturday, af-",
+   "deck": "DUBAI, MARCH8",
+   "byline": "",
+   "text": "teratwo-hour net session atthe Dubai cricket stadium to prepare for the Champions Trophy final against New Zealand, Virat Kohli stepped into the team bus that was parked right outside the",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1917,
+      2446,
+      2170,
+      2508
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1970,
+      3415,
+      2229,
+      3444
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "bel whe. am]",
+   "deck_raw": "",
+   "body_raw": "REPORTS, PAGE 4",
+   "ocr_conf": 92.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "bel whe. am]",
+   "deck": "",
+   "byline": "REPORTS, PAGE 4",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      2548,
+      3204,
+      2717
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2764,
+      2504,
+      3069,
+      2555
+     ]
+    ],
+    "body_boxes": [
+     [
+      2760,
+      2624,
+      3203,
+      2658
+     ],
+     [
+      2762,
+      2741,
+      3203,
+      2808
+     ],
+     [
+      2762,
+      2817,
+      3204,
+      3091
+     ]
+    ],
+    "layout_words": 46
+   },
+   "headline_raw": "US PRESIDENT Donald Trump's\nlatest saWothat India has \u201cagreed\u201d\nto\u201c cut their tanfis way down\" did\nner lice anvimiiiecaiate wminte",
+   "deck_raw": "NEW DELHI. MARCH8",
+   "body_raw": "latest saWvothat India has \u201cagreed\u201d\n\nfrom Delhi Saturday. Officials in-\ndicated it\u2019sone bait that theIndian\n\nestablishmentisnotgning tobite,\nespecially when the ground is be-\ning prepared for negotiations on\na bilateral trade pact\nSpeaking at the Oval Office\nFriday night, Trump said, \u201cindia\ncharges us massive tariffs, mas-",
+   "ocr_conf": 87.70212765957447,
+   "ocr_low_conf_share": 0.10638297872340426,
+   "headline": "US PRESIDENT Donald Trump's latest saWothat India has \"agreed\" to\" cut their tanfis way down\" did ner lice anvimiiiecaiate wminte",
+   "deck": "NEW DELHI. MARCH8",
+   "byline": "",
+   "text": "latest saWvothat India has \"agreed\"\n\nfrom Delhi Saturday. Officials indicated it'sone bait that theIndian\n\nestablishmentisnotgning tobite, especially when the ground is being prepared for negotiations on a bilateral trade pact Speaking at the Oval Office Friday night, Trump said, \"india charges us massive tariffs, mas-",
+   "n_words": 45,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3255,
+      1974,
+      3324
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      3371,
+      2222,
+      3448
+     ]
+    ],
+    "layout_words": 22
+   },
+   "headline_raw": "Mobi AT WOMEN\u2019S Day EVENT",
+   "deck_raw": "",
+   "body_raw": "Prime Minister Narendra Modi with Gujarat Chief Minister Bhupendra Patel during anevent\nto mark international Women's Day in Navsari on Saturday. ANI REPORTS, PAGE 4",
+   "ocr_conf": 90.28,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Mobi AT WOMEN'S Day EVENT",
+   "deck": "",
+   "byline": "",
+   "text": "Prime Minister Narendra Modi with Gujarat Chief Minister Bhupendra Patel during anevent to mark international Women's Day in Navsari on Saturday. ANI REPORTS, PAGE 4",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3565,
+      2210,
+      3822
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1296,
+      4122,
+      1732,
+      4238
+     ],
+     [
+      1785,
+      3806,
+      2227,
+      4270
+     ]
+    ],
+    "layout_words": 66
+   },
+   "headline_raw": "Delhi clears %2,500 monthly payout\nfor women, earmarks %5,100 crore",
+   "deck_raw": "",
+   "body_raw": "CM Rekha Gupta addresses\nreporters after aCabinet\nmeet, Saturday. Praveen Khanna\n\nSpeaking after the conclusion\nof the BJP Mahila Morcha's con-\nvention on the International\nWomen's Day, Gupta said,\n\u201cUtilising this august occasion,\nwe convened a meeting of the\nDelhi Cabinet (earlier in the\nday)... We have fulfilled the\npromise we had made to Delhi's\nSisters in our Sankalp Patra\n(manifesto) under the Mahila\nCONTINUEDON PAGE2",
+   "ocr_conf": 88.87878787878788,
+   "ocr_low_conf_share": 0.07575757575757576,
+   "headline": "Delhi clears %2,500 monthly payout for women, earmarks %5,100 crore",
+   "deck": "",
+   "byline": "",
+   "text": "CM Rekha Gupta addresses reporters after aCabinet meet, Saturday. Praveen Khanna\n\nSpeaking after the conclusion of the BJP Mahila Morcha's convention on the International Women's Day, Gupta said, \"Utilising this august occasion, we convened a meeting of the Delhi Cabinet (earlier in the day)... We have fulfilled the promise we had made to Delhi's Sisters in our Sankalp Patra (manifesto) under the Mahila CONTINUEDON PAGE2",
+   "n_words": 65,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      4017,
+      1250,
+      4084
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      4085,
+      1249,
+      4277
+     ]
+    ],
+    "layout_words": 26
+   },
+   "headline_raw": "Gunta announced saturday that\nher government had approved",
+   "deck_raw": "",
+   "body_raw": "the Mahila Samridhi Yojana un-\nder which eligible women ben-\neficiaries would get a monthly\nallowance of Rs 2,500, a poll\npromise made by the BJP.",
+   "ocr_conf": 91.26923076923077,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Gunta announced saturday that her government had approved",
+   "deck": "",
+   "byline": "",
+   "text": "the Mahila Samridhi Yojana under which eligible women beneficiaries would get a monthly allowance of Rs 2,500, a poll promise made by the BJP.",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      4336,
+      1144,
+      4508
+     ],
+     [
+      321,
+      4523,
+      1179,
+      4653
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4677,
+      727,
+      4785
+     ],
+     [
+      315,
+      4834,
+      759,
+      5106
+     ],
+     [
+      803,
+      4638,
+      1248,
+      5099
+     ]
+    ],
+    "layout_words": 94
+   },
+   "headline_raw": "Manipur: On first day of\nfree movement, clashes,\nstone pelting, and a death\nLe \" phmiichthea crara'e high",
+   "deck_raw": "",
+   "body_raw": "SUKRITABARUAH\n& JIMMY LEIVON\nGUWHATI.IMPHAL, MARCH 8\n\nAFTERFOUR monthsofnocasu-\nalties in the ongoing conflict in\nManipur, one person died and\nmany others were injured in\nKangpokpi district on the first\nday of the central government\ntrying to enforce free movement\n\nthrough the state's highways.\nThe man, Lalgun Singsit, was\npart of a group that had clashed\nwith security forces white trying\nto prevent the movement of a\nbus from the Meitei-majority\nvalley through the Kuki-Zo ma-\njority district.\nUnion Home Minister Amit\nShah had ordered the free move-\nment intitiaveduringa meeting\nCONTINUED ONPAGE 2",
+   "ocr_conf": 90.25531914893617,
+   "ocr_low_conf_share": 0.05319148936170213,
+   "headline": "Manipur: On first day of free movement, clashes, stone pelting, and a death Le \" phmiichthea crara'e high",
+   "deck": "",
+   "byline": "SUKRITABARUAH; & JIMMY LEIVON; GUWHATI.IMPHAL, MARCH 8",
+   "text": "AFTERFOUR monthsofnocasualties in the ongoing conflict in Manipur, one person died and many others were injured in Kangpokpi district on the first day of the central government trying to enforce free movement\n\nthrough the state's highways. The man, Lalgun Singsit, was part of a group that had clashed with security forces white trying to prevent the movement of a bus from the Meitei-majority valley through the Kuki-Zo majority district. Union Home Minister Amit Shah had ordered the free movement intitiaveduringa meeting",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1295,
+      4337,
+      2185,
+      4515
+     ],
+     [
+      1295,
+      4524,
+      2208,
+      4653
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      4796,
+      1740,
+      5099
+     ],
+     [
+      1785,
+      4639,
+      2226,
+      4745
+     ],
+     [
+      1784,
+      4757,
+      2226,
+      5100
+     ]
+    ],
+    "layout_words": 94
+   },
+   "headline_raw": "2 women including tourist\nfrom Israel raped, fellow\ntraveller killed near Hampi\ne 7 parbad ber rhmea Inceal unith:",
+   "deck_raw": "",
+   "body_raw": "TWO WOMEN, including a\ntourist from Israel, were allegedly\nraped and a male tourist from\nOdisha drowned after being\npushed into the Tungabhadra\nrivercanal at the idyllicAnegundi\nregion in the Koppal district of\nKamataka. The tourists were at-\n\ntacked by three local youths\non the night of March 6, police\nsaid.\n\nThe body of the 26-year-old\ntourist from Odisha, identified as\nBibash, was recovered from the\ncanal on Saturday morning. The\nattack on the tourists and their\nwoman guide froma local resort\noccurred in the vicinity of the\nhistorical Hampi heritage site,\nCONTINUED ON PAGE2",
+   "ocr_conf": 92.4421052631579,
+   "ocr_low_conf_share": 0.0,
+   "headline": "2 women including tourist from Israel raped, fellow traveller killed near Hampi e 7 parbad ber rhmea Inceal unith:",
+   "deck": "",
+   "byline": "",
+   "text": "TWO WOMEN, including a tourist from Israel, were allegedly raped and a male tourist from Odisha drowned after being pushed into the Tungabhadra rivercanal at the idyllicAnegundi region in the Koppal district of Kamataka. The tourists were attacked by three local youths on the night of March 6, police said.\n\nThe body of the 26-year-old tourist from Odisha, identified as Bibash, was recovered from the canal on Saturday morning. The attack on the tourists and their woman guide froma local resort occurred in the vicinity of the historical Hampi heritage site,",
+   "n_words": 91,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5252,
+      2221,
+      5476
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5553,
+      499,
+      5585
+     ],
+     [
+      318,
+      5825,
+      760,
+      5899
+     ],
+     [
+      1784,
+      5508,
+      2246,
+      6129
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "Maha Kumbh is over, now for the hard part:\nDismantling Mela city over 4,000 hectares",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nTHE MAHA Kumbh may beover\nfor pilgrimsand the Akharas but\n\nities and agenciesinvolved inthe\nuninstallation and cleanup,\nwhile the deadline to bring the\nentire area back to how it was is\nMarch 20, the processes \u2014 a\nthird-party verification, disman-\ntling and inventorying \u2014 means\nthe deadline could be pushed.\nAuthorities have to disman-\ntle,clean and store away about 2\nlakhtents, over 1.5 lakh portable\ntoilets, 2.69 lakh chequered alu-\nminium plates used for laying\nroads, about 1,300 km of water\npipeline, over 56,000 water taps,\nCONTINUEDON PAGE2 .",
+   "ocr_conf": 89.36666666666666,
+   "ocr_low_conf_share": 0.05555555555555555,
+   "headline": "Maha Kumbh is over, now for the hard part: Dismantling Mela city over 4,000 hectares",
+   "deck": "",
+   "byline": "ANCHOR",
+   "text": "THE MAHA Kumbh may beover for pilgrimsand the Akharas but\n\nities and agenciesinvolved inthe uninstallation and cleanup, while the deadline to bring the entire area back to how it was is March 20, the processes - a third-party verification, disman-tling and inventorying - means the deadline could be pushed. Authorities have to dismantle,clean and store away about 2 lakhtents, over 1.5 lakh portable toilets, 2.69 lakh chequered aluminium plates used for laying roads, about 1,300 km of water pipeline, over 56,000 water taps, CONTINUEDON PAGE2.",
+   "n_words": 85,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5899,
+      757,
+      5960
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      314,
+      5982,
+      762,
+      6135
+     ]
+    ],
+    "layout_words": 17
+   },
+   "headline_raw": "for the governmentauthorities,a\nmammoth tack await: dicman-",
+   "deck_raw": "",
+   "body_raw": "tling the temporary city spread\nover 4,000 hectares onthe banks\nof the Ganga.\nAccording to various author-",
+   "ocr_conf": 73.11764705882354,
+   "ocr_low_conf_share": 0.23529411764705882,
+   "headline": "for the governmentauthorities,a mammoth tack await: dicman-",
+   "deck": "",
+   "byline": "",
+   "text": "tling the temporary city spread over 4,000 hectares onthe banks of the Ganga. According to various author-",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 12.8,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,757 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_26_front",
+ "source_file": "2025-05-26_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-26_front.png",
+ "date": "2025-05-26",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 356,
+  "mean_line_conf": 87.81727833159678,
+  "orphan_words": 12,
+  "body_words_total": 1258
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      365,
+      752,
+      722,
+      785
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      788,
+      4137,
+      1317
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2764,
+      697,
+      3865,
+      746
+     ]
+    ],
+    "body_boxes": [
+     [
+      2763,
+      1372,
+      3185,
+      1643
+     ],
+     [
+      2763,
+      1740,
+      3044,
+      1810
+     ],
+     [
+      2762,
+      1860,
+      3208,
+      3114
+     ]
+    ],
+    "layout_words": 169
+   },
+   "headline_raw": "There willbe a price\nto pay: Indian team in\nUS onterror from Pak",
+   "deck_raw": "ALL-PARTY TEAM\u2019S FIRM MESSAGE",
+   "body_raw": "Tharoor: India\nexercised right\nto self-defence,\nnot irresponsibly\n\nASAD REHMAN\nNEW DELHI, MAY 25\n\nTHE LEADER of anall-party team\nsent to rally support for India\u2019s war\nagainst terror emanating from\nPakistan said in New York Sunday\nthat \u201cno one sitting in Pakistan is\ngoing to beallowed tobelieve that\nthey can just walk across the bor-\nder and kill our citizens with im-\npunity\u201d and \u201cthere will be a price\ntopay\u201d for such acts.\nUnderlining the need for \u201ca\nnew normal\u201d, Congress MP\nShashi Tharoor made these re-\nmarks at an interaction, hosted\nby the Consulate General of India\nin New York, with members of\nthe Indian-American commu-\nnity and individuals from lead-\ning media and think tanks.\nTharoor reached the US with\nanall-party delegation compris-\ning Sarfaraz Ahmad (JMM),\nGanti Harish Madhur Balayogi\n(TDP), Shashank Mani Tripathi\n(BJP), Bhubaneswar Kalita (BJP),\nMilind Deora(ShivSena), Tejasvi\nSurya (BJP) and India's former\nAmbassador to the US Taranjit\nSingh Sandhu.\nDescribing the recent hostil-\nities with Pakistan as an\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.54437869822485,
+   "ocr_low_conf_share": 0.08875739644970414,
+   "headline": "There willbe a price to pay: Indian team in US onterror from Pak",
+   "deck": "ALL-PARTY TEAM'S FIRM MESSAGE",
+   "byline": "ASAD REHMAN; NEW DELHI, MAY 25",
+   "text": "Tharoor: India exercised right to self-defence, not irresponsibly\n\nTHE LEADER of anall-party team sent to rally support for India's war against terror emanating from Pakistan said in New York Sunday that \"no one sitting in Pakistan is going to beallowed tobelieve that they can just walk across the border and kill our citizens with impunity\" and \"there will be a price topay\" for such acts. Underlining the need for \"a new normal\", Congress MP Shashi Tharoor made these remarks at an interaction, hosted by the Consulate General of India in New York, with members of the Indian-American community and individuals from leading media and think tanks. Tharoor reached the US with anall-party delegation comprising Sarfaraz Ahmad (JMM), Ganti Harish Madhur Balayogi (TDP), Shashank Mani Tripathi (BJP), Bhubaneswar Kalita (BJP), Milind Deora(ShivSena), Tejasvi Surya (BJP) and India's former Ambassador to the US Taranjit Singh Sandhu. Describing the recent hostilities with Pakistan as an",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      401,
+      1246,
+      647,
+      1313
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Toum planners shoud\nWAteYPYOOF the stogan.",
+   "ocr_conf": 51.0,
+   "ocr_low_conf_share": 0.5,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Toum planners shoud WAteYPYOOF the stogan.",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1445,
+      759,
+      1829
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      2171,
+      750,
+      2249
+     ],
+     [
+      320,
+      2332,
+      600,
+      2402
+     ],
+     [
+      319,
+      2450,
+      764,
+      3785
+     ]
+    ],
+    "layout_words": 159
+   },
+   "headline_raw": "Moving to mend\nties, Jaishankar\nand Canada\u2019s\nAnand hold\ntalks over phone",
+   "deck_raw": "",
+   "body_raw": "EAMSJaishankar, his Canada\ncounterpart Anita Anand\n\nSHUBHAJIT ROY\nNEW DELHI, MAY 25\n\nTAKING THE first step towards\nmending strained bilateral ties,\nExternal Affairs Minister\nS Jaishankar and the newly\nappointed Canadian Foreign\nMinister Anita Anand held talks\nover the phone Sunday.\nThis is the first official politi-\ncal-level contact between Delhi\nand Ottawa after Mark Carney\nwon the Canadian elections and\nbecame Prime Minister, raising\nhopes for a reset in ties that\nplummeted during the rule of\nthe Justin Trudeau government.\nJaishankar, in a post on X,\nsaid, \u201cAppreciate the telecon\nwith FM @AnitaAnandMP of\nCanada. Discussed the prospects\nof India-Canada ties. Wished her\navery successful tenure.\u201d\nin her post, Anand said,\n\u201cThank you Minister\n@DrSjaishankar for the produc-\ntive discussion today on\nstrengthening Canada-Indiaties,\ndeepening our economic coop-\neration, and advancing shared\npriorities. I look forward to con-\ntinuing our work together.\u201d\nItremainstobe seen whether\nOttawa invites Prime Minister\nNarendra Modito the G7 Summit,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.30188679245283,
+   "ocr_low_conf_share": 0.0440251572327044,
+   "headline": "Moving to mend ties, Jaishankar and Canada's Anand hold talks over phone",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, MAY 25",
+   "text": "EAMSJaishankar, his Canada counterpart Anita Anand\n\nTAKING THE first step towards mending strained bilateral ties, External Affairs Minister S Jaishankar and the newly appointed Canadian Foreign Minister Anita Anand held talks over the phone Sunday. This is the first official political-level contact between Delhi and Ottawa after Mark Carney won the Canadian elections and became Prime Minister, raising hopes for a reset in ties that plummeted during the rule of the Justin Trudeau government. Jaishankar, in a post on X, said, \"Appreciate the telecon with FM @AnitaAnandMP of Canada. Discussed the prospects of India-Canada ties. Wished her avery successful tenure.\" in her post, Anand said, \"Thank you Minister @DrSjaishankar for the productive discussion today on strengthening Canada-Indiaties, deepening our economic coop-eration, and advancing shared priorities. I look forward to continuing our work together.\" Itremainstobe seen whether Ottawa invites Prime Minister Narendra Modito the G7 Summit,",
+   "n_words": 145,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      1919,
+      2687,
+      2137
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      2172,
+      1712,
+      2291
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      2372,
+      1173,
+      2478
+     ],
+     [
+      808,
+      2531,
+      1250,
+      2724
+     ],
+     [
+      1296,
+      2333,
+      1741,
+      2724
+     ],
+     [
+      2274,
+      2175,
+      2718,
+      2718
+     ]
+    ],
+    "layout_words": 158
+   },
+   "headline_raw": "Kerala sounds alert after Liberian-flagged ship\ncarrying \u2018hazardous cargo\u2019 capsizes off Kochi",
+   "deck_raw": "All 24 crew rescued; besides oil in fallen\ncontainers, ship\u2019s fuel also leaked: CMO",
+   "body_raw": "SHAJU PHILIP\nTHIRUVANANTHAPURAM,\nMAY 25\n\nTHE KERALA government on\nSunday put the state's coastal ar-\neas on alert after a Liberian-\nflagged cargo ship, MSC ELSA 3,\ncarrying tonnes of oil and con-\n\ntainers with \u201chazardous cargo\u201d,\ncapsized off the coast of Kochi.\nAll the crew members have been\nrescued.\n\u201cAstheoilslick can reach any-\nwhere along the Kerala coast, an\nalert has been sounded across\nthe coastal belt. The containers\naredrifting in theseaata speed of\n3 km per hour. Besides the oil in\n\nthe fallen containers, marine fuel\nused in the ship hasalso leaked,\u201d\nthe Chief Minister's Office said in\na statement following a high-\nlevel meeting chaired by the\nChief Secretary on Sunday.\nThe vessel had started tilting\n38 nautical miles (70.3 km) off\nthe coast of Kochi on Saturday.\nThe Coast Guard said the vessel\ncapsized rapidly in the early\nhours of Sunday \u201cdue to flood-\ning in one of the holds\u201d.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.42405063291139,
+   "ocr_low_conf_share": 0.02531645569620253,
+   "headline": "Kerala sounds alert after Liberian-flagged ship carrying 'hazardous cargo' capsizes off Kochi",
+   "deck": "All 24 crew rescued; besides oil in fallen containers, ship's fuel also leaked: CMO",
+   "byline": "SHAJU PHILIP; THIRUVANANTHAPURAM,; MAY 25",
+   "text": "THE KERALA government on Sunday put the state's coastal areas on alert after a Liberian-flagged cargo ship, MSC ELSA 3, carrying tonnes of oil and containers with \"hazardous cargo\", capsized off the coast of Kochi. All the crew members have been rescued. \"Astheoilslick can reach anywhere along the Kerala coast, an alert has been sounded across the coastal belt. The containers aredrifting in theseaata speed of 3 km per hour. Besides the oil in\n\nthe fallen containers, marine fuel used in the ship hasalso leaked,\" the Chief Minister's Office said in a statement following a high-level meeting chaired by the Chief Secretary on Sunday. The vessel had started tilting 38 nautical miles (70.3 km) off the coast of Kochi on Saturday. The Coast Guard said the vessel capsized rapidly in the early hours of Sunday \"due to flooding in one of the holds\".",
+   "n_words": 143,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      2277,
+      4152,
+      2589
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2652,
+      3532,
+      2761
+     ],
+     [
+      3251,
+      2810,
+      3693,
+      3114
+     ],
+     [
+      3497,
+      3423,
+      3663,
+      3465
+     ]
+    ],
+    "layout_words": 51
+   },
+   "headline_raw": "Op Sindoor displayed\npower of Made in India\nweapons, says PM",
+   "deck_raw": "",
+   "body_raw": "DAMININATH\n& VIKAS PATHAK\nNEW DELHI, MAY 25\n\nTERMING OPERATION Sindoor\nas a picture of India\u2019s resolve and\ntransformation, Prime Minister\nNarendra Modi said Sunday that\nit was the courage of the soldiers\nand power of Made-in-India\nweapons that led to the destruc-\ntion of the terror bases across the\n\nDEAKIN",
+   "ocr_conf": 90.31372549019608,
+   "ocr_low_conf_share": 0.0392156862745098,
+   "headline": "Op Sindoor displayed power of Made in India weapons, says PM",
+   "deck": "",
+   "byline": "DAMININATH; & VIKAS PATHAK; NEW DELHI, MAY 25",
+   "text": "TERMING OPERATION Sindoor as a picture of India's resolve and transformation, Prime Minister Narendra Modi said Sunday that it was the courage of the soldiers and power of Made-in-India weapons that led to the destruction of the terror bases across the\n\nDEAKIN",
+   "n_words": 42,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      2795,
+      2688,
+      2852
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2274,
+      2892,
+      2693,
+      3077
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "IMD TO ADOPT\nNEW WEATHER\nFORECAST SYSTEM\nTODAY pace4",
+   "ocr_conf": 91.22222222222223,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "IMD TO ADOPT; NEW WEATHER; FORECAST SYSTEM",
+   "text": "TODAY pace4",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3736,
+      2781,
+      4156,
+      2881
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3769,
+      2728,
+      4149,
+      2828
+     ]
+    ],
+    "body_boxes": [
+     [
+      3740,
+      2930,
+      4182,
+      3115
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "wre go Mibaatsing\n/ pr Ly OpSindoor\nain fo",
+   "deck_raw": ", Pae \u00bb | First Mann\n4, ~ 6% KiBaatsinc\n4 1A Fa OnSindoor",
+   "body_raw": "border earlier this month.\n\u201cFriends, our soldiers de-\nstroyed terror bases; itwas their\nindomitable courage, alongwith\nCONTINUED ON PAGE 2",
+   "ocr_conf": 80.4,
+   "ocr_low_conf_share": 0.2,
+   "headline": "wre go Mibaatsing ain fo",
+   "deck": ", Pae \u00bb First Mann",
+   "byline": "",
+   "text": "border earlier this month. \"Friends, our soldiers destroyed terror bases; itwas their indomitable courage, alongwith",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2869,
+      2219,
+      3081
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      2794,
+      1615,
+      2827
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      3163,
+      1156,
+      3233
+     ],
+     [
+      807,
+      3284,
+      1249,
+      3714
+     ],
+     [
+      1539,
+      3202,
+      1734,
+      3358
+     ],
+     [
+      1296,
+      3441,
+      1737,
+      3714
+     ],
+     [
+      1786,
+      3125,
+      2226,
+      3707
+     ]
+    ],
+    "layout_words": 182
+   },
+   "headline_raw": "South Delhi house to travel: Bribes\nflowed via web of entities, finds ED",
+   "deck_raw": "FORMER CMD OF UCO BANK ARRESTED",
+   "body_raw": "DEEPTIMAN TIWARY\nNEW DELHI, MAY 25\n\nTHE ENFORCEMENT Directorate,\nwhich arrested former UCO\nBank CMD Subodh Kumar Goel\non May 16 in connection witha\ncase of alleged corruption and\nmoney laundering, has told a\nPMLA special court in Kolkata\nthat he created a complex web\nof nine companies with cross\nholdings to receive kickbacks.\nAccording tothe ED, its probe\n\nSubodh\nKumar Goel\nwas arrested\non May 16\n\nfound that Goel received bribes\nfrom an iron ore company, a loan\ndefaulter, through these entities\nand used the funds to buy prop-\nerty. He also forced the loan de-\nfaulterto fund his family\u2019s travels\nand purchase of personal items\n\nsuch as goggles and dry fruits,\nthe agency claimed.\nGoel is being probed in con-\nnection with an over Rs 6,000-\ncrore loan default by Concast\nSteel and Power Ltd (CSPL), pro-\nmoted by Sanjay Sureka, where\nUCO Bank alone had an exposure\nof Rs 1,400 crore.\nGoel\u2019s lawyer Gautam\nKhazanchi did not respond to\nspecific allegations made by ED\nsaying the matter was sub judice.\nHe said he was approaching\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.89010989010988,
+   "ocr_low_conf_share": 0.04395604395604396,
+   "headline": "South Delhi house to travel: Bribes flowed via web of entities, finds ED",
+   "deck": "FORMER CMD OF UCO BANK ARRESTED",
+   "byline": "DEEPTIMAN TIWARY; NEW DELHI, MAY 25",
+   "text": "THE ENFORCEMENT Directorate, which arrested former UCO Bank CMD Subodh Kumar Goel on May 16 in connection witha case of alleged corruption and money laundering, has told a PMLA special court in Kolkata that he created a complex web of nine companies with cross holdings to receive kickbacks. According tothe ED, its probe\n\nSubodh Kumar Goel was arrested on May 16\n\nfound that Goel received bribes from an iron ore company, a loan defaulter, through these entities and used the funds to buy property. He also forced the loan defaulterto fund his family's travels and purchase of personal items\n\nsuch as goggles and dry fruits, the agency claimed. Goel is being probed in connection with an over Rs 6,000- crore loan default by Concast Steel and Power Ltd (CSPL), promoted by Sanjay Sureka, where UCO Bank alone had an exposure of Rs 1,400 crore. Goel's lawyer Gautam Khazanchi did not respond to specific allegations made by ED saying the matter was sub judice. He said he was approaching",
+   "n_words": 168,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2455,
+      3728,
+      3805,
+      4021
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2448,
+      4101,
+      3795,
+      4151
+     ],
+     [
+      2446,
+      4272,
+      3437,
+      4394
+     ],
+     [
+      2983,
+      4559,
+      3110,
+      4615
+     ]
+    ],
+    "body_boxes": [
+     [
+      2449,
+      4519,
+      2710,
+      4613
+     ]
+    ],
+    "layout_words": 2
+   },
+   "headline_raw": "International education,\ncloser than you think",
+   "deck_raw": "AT AUSTRALIA\u2019S DEAKIN UNIVERSITY, GIFT CITY CAMPUS\n>\u00bb Master of Business Analytics\n> Master of Cyber Security (Professional)\nEQUIS",
+   "body_raw": "International\naccreditations",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "International education, closer than you think",
+   "deck": "AT AUSTRALIA'S DEAKIN UNIVERSITY, GIFT CITY CAMPUS >\u00bb Master of Business Analytics > Master of Cyber Security (Professional) EQUIS",
+   "byline": "",
+   "text": "International accreditations",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3780,
+      1725,
+      4078
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      4153,
+      1179,
+      4223
+     ],
+     [
+      804,
+      4272,
+      1250,
+      4854
+     ],
+     [
+      1456,
+      4215,
+      1719,
+      4304
+     ],
+     [
+      1329,
+      4353,
+      1695,
+      4822
+     ]
+    ],
+    "layout_words": 138
+   },
+   "headline_raw": "Before Central teams hit\nground, states scramble\nto verify Jal Jeevan works",
+   "deck_raw": "",
+   "body_raw": "HARIKISHAN SHARMA\nNEW DELHI, MAY 25\n\nAS CENTRAL teams begin to fan\nout for ground inspection of Jal\nJeevan Mission (JM) implemen-\ntation from Monday, several states\nsuch as Uttar Pradesh, Madhya\nPradesh and Rajasthan are scram-\nbling toconduct theirown \u201cphys-\nical verification\u201d and \u201creview\u201d of\nthe works carried out under the\nflagship rural tap water scheme.\nUttar Pradesh, which accounts\nfor 6.37% of the JJM schemes or\nprojects approved across the\ncountry but 18.56% of the total\nCONTINUED ON PAGE 2\n\nEyeon\n|@ transparency\n\nTHEINITIATIVES taken by\nthe Centre and the states to\nreview the works under\nJJM are much-awaited\nmeasures to bring in trans-\nparency and ensure ac-\ncountability in the imple-\nmentation of the scheme.\nThis will also pave the way\nfor early approval of the\nfunding for the second\nphase (until 2028) of JJM.",
+   "ocr_conf": 91.76086956521739,
+   "ocr_low_conf_share": 0.036231884057971016,
+   "headline": "Before Central teams hit ground, states scramble to verify Jal Jeevan works",
+   "deck": "",
+   "byline": "HARIKISHAN SHARMA; NEW DELHI, MAY 25",
+   "text": "AS CENTRAL teams begin to fan out for ground inspection of Jal Jeevan Mission (JM) implementation from Monday, several states such as Uttar Pradesh, Madhya Pradesh and Rajasthan are scrambling toconduct theirown \"physical verification\" and \"review\" of the works carried out under the flagship rural tap water scheme. Uttar Pradesh, which accounts for 6.37% of the JJM schemes or projects approved across the country but 18.56% of the total\n\nEyeon @ transparency\n\nTHEINITIATIVES taken by the Centre and the states to review the works under JJM are much-awaited measures to bring in transparency and ensure accountability in the implementation of the scheme. This will also pave the way for early approval of the funding for the second phase (until 2028) of JJM.",
+   "n_words": 122,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      3781,
+      2217,
+      4069
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      4154,
+      2064,
+      4224
+     ],
+     [
+      1784,
+      4273,
+      2226,
+      4855
+     ]
+    ],
+    "layout_words": 78
+   },
+   "headline_raw": "Lalu disowns\nson Tej Pratap,\nexpels him from\nRJD for six years",
+   "deck_raw": "",
+   "body_raw": "SANTOSH SINGH\nPATNA, MAY 25\n\nRJDCHIEF Lalu Prasad on Sunday\nexpelled his eldest son Tej Pratap\nYadav from the party for six\nyears andsnapped ties with him\nfor \u201cirresponsible behaviour not\ninaccordance\u201d with the family\u2019s\n\u201cvalues and traditions\u201d.\nIn a post on X, the former\nBihar Chief Minister wrote,\n\u201cIgnoring moral values in per-\nsonal life weakens our collective\nstruggle for social justice. My eld-\nest son\u2019s activities, public conduct,\nand irresponsible behaviour are\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.6025641025641,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Lalu disowns son Tej Pratap, expels him from RJD for six years",
+   "deck": "",
+   "byline": "SANTOSH SINGH; PATNA, MAY 25",
+   "text": "RJDCHIEF Lalu Prasad on Sunday expelled his eldest son Tej Pratap Yadav from the party for six years andsnapped ties with him for \"irresponsible behaviour not inaccordance\" with the family's \"values and traditions\". In a post on X, the former Bihar Chief Minister wrote, \"Ignoring moral values in personal life weakens our collective struggle for social justice. My eldest son's activities, public conduct, and irresponsible behaviour are",
+   "n_words": 67,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      411,
+      4303,
+      674,
+      4352
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      4397,
+      717,
+      4816
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "CXCHANGE",
+   "deck_raw": "",
+   "body_raw": "\u2018Managing foreign\npolicy isn\u2019t just\nanalysis behind closed\ndoors... Itnow plays\nout on your phone\nscreen, shaped by\npeople's voices\u2019\nJAWED ASHRAF\nFORMER DIPLOMAT\nPAGETI]",
+   "ocr_conf": 90.0,
+   "ocr_low_conf_share": 0.04,
+   "headline": "CXCHANGE",
+   "deck": "",
+   "byline": "",
+   "text": "'Managing foreign policy isn't just analysis behind closed doors... Itnow plays out on your phone screen, shaped by people's voices' JAWED ASHRAF FORMER DIPLOMAT PAGETI]",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      4997,
+      2104,
+      5351
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      5419,
+      592,
+      5490
+     ],
+     [
+      318,
+      5539,
+      760,
+      6166
+     ],
+     [
+      852,
+      5765,
+      1754,
+      5972
+     ],
+     [
+      806,
+      6053,
+      1247,
+      6166
+     ],
+     [
+      1296,
+      6053,
+      1735,
+      6166
+     ],
+     [
+      1810,
+      5606,
+      2158,
+      5640
+     ]
+    ],
+    "layout_words": 162
+   },
+   "headline_raw": "New solar cell tech by ITT Bombay to\nsharply cut costs, enhance efficiency\nANCHOR 1 COMMERCIAL SATION AVENUES BEINGEXPLORED |",
+   "deck_raw": "",
+   "body_raw": "PALLAV!I SMART\nMUMBAI, MAY 25\n\nINWHATIS seenas a major break-\nthrough in solar energy technol-\nogy, researchers at IIT Bombay\nhave developed a high efficiency\ntandem solar cell with power con-\nversion efficiency of approxi-\nmately 30 percent compared with\naround 20 per cent now.\nThis is expected to lead to a\n25-30 per cent boost in effi-\nciency over conventional solar\ntechnology and potentially re-\nduce cost of solar power at\naround %1 per kwh compared\nwith? 2.5-4 per unit now.\nThe Maharashtra govern-\n\n(A) Thecurrent 4-T structure developed by IIT Bombay witha\nlifespan of 10-plus years of perovskite. It is commercially viable,\nwith immediate effect after development at module level. This\nstructure will require replacement of thetop cell after 10 years\nas lifespan for the bottom silicon cell is more than 20 years.\n\nmentand ART-PVIndia Pvt Ltd,a\nstart-up founded at IIT Bombay's\nSociety for Innovations and\n\nEntrepreneurship (SINE),\nare working to provide a com-\nplete commercial wafer size so-\n\nBombay researchers are",
+   "ocr_conf": 87.65243902439025,
+   "ocr_low_conf_share": 0.07926829268292683,
+   "headline": "New solar cell tech by ITT Bombay to sharply cut costs, enhance efficiency ANCHOR 1 COMMERCIAL SATION AVENUES BEINGEXPLORED",
+   "deck": "",
+   "byline": "PALLAV!I SMART; MUMBAI, MAY 25",
+   "text": "INWHATIS seenas a major breakthrough in solar energy technology, researchers at IIT Bombay have developed a high efficiency tandem solar cell with power conversion efficiency of approximately 30 percent compared with around 20 per cent now. This is expected to lead to a 25-30 per cent boost in efficiency over conventional solar technology and potentially reduce cost of solar power at around %1 per kwh compared with? 2.5-4 per unit now. The Maharashtra govern-\n\n(A) Thecurrent 4-T structure developed by IIT Bombay witha lifespan of 10-plus years of perovskite. It is commercially viable, with immediate effect after development at module level. This structure will require replacement of thetop cell after 10 years as lifespan for the bottom silicon cell is more than 20 years.\n\nmentand ART-PVIndia Pvt Ltd,a start-up founded at IIT Bombay's Society for Innovations and\n\nEntrepreneurship (SINE), are working to provide a complete commercial wafer size so-\n\nBombay researchers are",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5258,
+      499,
+      5331
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR",
+   "ocr_conf": 75.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "ANCHOR",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      1809,
+      5537,
+      2130,
+      5711
+     ],
+     [
+      1809,
+      5652,
+      2150,
+      5733
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      5726,
+      2176,
+      5967
+     ],
+     [
+      1784,
+      6054,
+      2224,
+      6121
+     ]
+    ],
+    "layout_words": 29
+   },
+   "headline_raw": "(C) Going forward, IIT\nBombay researchers at\nworking to create a2T\nstructure which will be\nworking to create a2T\nstructure which will be\nrns ewe nwriallssenahla anil",
+   "deck_raw": "",
+   "body_raw": "> commercially viable only\nwitha when the perovskite cell\nily viable attains the lifespan of\nwvel.This _ Siliconcell, which is\n\u20181Oyears More than 20years.\nfears, Source: IIT Bombay\n\nlution for this technology by\nDecember 2027.",
+   "ocr_conf": 80.25714285714285,
+   "ocr_low_conf_share": 0.2,
+   "headline": "(C) Going forward, IIT Bombay researchers at working to create a2T structure which will be working to create a2T structure which will be rns ewe nwriallssenahla anil",
+   "deck": "",
+   "byline": "",
+   "text": "> commercially viable only witha when the perovskite cell ily viable attains the lifespan of wvel.This _ Siliconcell, which is '1Oyears More than 20years. fears, Source: IIT Bombay\n\nlution for this technology by December 2027.",
+   "n_words": 35,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 15.3,
+ "flags": []
+}

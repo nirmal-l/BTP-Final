@@ -1,0 +1,541 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_30_editorial",
+ "source_file": "2025-01-30_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-30_editorial.png",
+ "date": "2025-01-30",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 460,
+  "mean_line_conf": 85.90172196050199,
+  "orphan_words": 285,
+  "body_words_total": 3332
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1473,
+      714
+     ],
+     [
+      420,
+      1097,
+      1439,
+      1199
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      819,
+      1234,
+      876
+     ],
+     [
+      433,
+      918,
+      1417,
+      978
+     ],
+     [
+      375,
+      1238,
+      1482,
+      1346
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      770,
+      1091,
+      801
+     ],
+     [
+      321,
+      1375,
+      1539,
+      2882
+     ]
+    ],
+    "layout_words": 466
+   },
+   "headline_raw": "TheIndianEXPRESS\nSMALL AND SMART",
+   "deck_raw": "RAMNATH GOENKA\nBECAUSE THE TRUTH INVOLVES US ALL\nAChinese lab has shaken acore tenet of Al development,\nshowing more can be done with less. India must take note",
+   "body_raw": "FOUNDED By @\n\nF ARTIFICIAL INTELLIGENCE is the new battlefield, when was the first shot fired?\nWasitlast week, whena Chinese Al lab released a Large Language Model (LLM),de-\nveloped at a fraction of the cost of the ones built by Silicon Valley, and yet capable\nof beating these same models on several benchmarks? Or was it this week, when\nWall Street opened t a bloodbath, with US stocks losing a reported $1 trillion in value,\nincluding chip-maker Nvidia's $600-billion drop? Perhaps it can be traced way back to\nOctober 2022, when the US, in aneffort to retain its edge, banned the export to China of\nadvanced chips used for Al development? As questions pile up on the implications of\nChina's DeepSeekR1 and the future of Al, one thingis clear: America\u2019s lead inthe race has\nshrunk considerably. It seems to have happened, moreover, inthe blink of aneye, catch-\ning the US and Silicon Valley \u2014 as indeed, the world \u2014 completely by surprise.\nYet, it is not as if DeepSeek, with a logo featuring a blue whale, surfaced out of\nnowhere. A minnow compared to the Big Four in Ghina\u2019s tech sector (Baidu, Alibaba,\nTencent and Xiaomi), DeepSeek made ripples last year when it released its V3 model,\nwhich was described by Andrej Karpathy, one of the founders of OpenAL. as a \u201cfron-\ntier-grade LLM, trained on a joke of a budget\u201d (a \u201cmere\u201d $6 million, compared to the\nover $500 million that OpenAl has reportedly spent on ChatGPT). The January 20 de-\nbut of R1, a reasoning model developed on a shoestring budget and with second-rate\nchipswhichcan, nonetheless perform as well as OpenAl's most advanced model, shook\none of the central tenets of Aldevelopment in the US \u2014 that it takes billions of dollars\nto produce cutting-edge technology. Thatlack of access to first-ratechips couldn't hin-\nder DeepSeek also shows the limits of America\u2019s \u201csmall yard, high fence\u201d approach,\nand that smaller, nimbler competitors could easily get within heel-snapping distance.\nThe open-source strategy adopted by Chinese labs, including DeepSeek, as opposed to\nthe proprietary model favoured by those in the US(except, notably, Meta) also hints at\nanother way in which therutes of the gamecould be rewritten byChina, asmore global\ntalent \u2014 and, indeed, other countries nursing their own Al ambitions \u2014 gravitate to-\nwards free-to-use models.\nIndia, which talksof building \u201csovereign AI\u201d, may find hope in the DeepSeek story, that\nit is possible t do more with less. Yet, even asit puts its weight heing the ambition and tal-\nent of the homegrown tech sector, and puts in the Rs 10,300 crore committed under the\nIndiaAl mission in March 2024, the government must also find a way to ensure access to\nthe best Al hardware. Ifthe future will be defined by Al, India must bea part ofit.",
+   "ocr_conf": 88.4206008583691,
+   "ocr_low_conf_share": 0.07081545064377683,
+   "headline": "TheIndianEXPRESS SMALL AND SMART",
+   "deck": "RAMNATH GOENKA BECAUSE THE TRUTH INVOLVES US ALL AChinese lab has shaken acore tenet of Al development, showing more can be done with less. India must take note",
+   "byline": "FOUNDED By @",
+   "text": "F ARTIFICIAL INTELLIGENCE is the new battlefield, when was the first shot fired? Wasitlast week, whena Chinese Al lab released a Large Language Model (LLM),developed at a fraction of the cost of the ones built by Silicon Valley, and yet capable of beating these same models on several benchmarks? Or was it this week, when Wall Street opened t a bloodbath, with US stocks losing a reported $1 trillion in value, including chip-maker Nvidia's $600-billion drop? Perhaps it can be traced way back to October 2022, when the US, in aneffort to retain its edge, banned the export to China of advanced chips used for Al development? As questions pile up on the implications of China's DeepSeekR1 and the future of Al, one thingis clear: America's lead inthe race has shrunk considerably. It seems to have happened, moreover, inthe blink of aneye, catching the US and Silicon Valley - as indeed, the world - completely by surprise. Yet, it is not as if DeepSeek, with a logo featuring a blue whale, surfaced out of nowhere. A minnow compared to the Big Four in Ghina's tech sector (Baidu, Alibaba, Tencent and Xiaomi), DeepSeek made ripples last year when it released its V3 model, which was described by Andrej Karpathy, one of the founders of OpenAL. as a \"frontier-grade LLM, trained on a joke of a budget\" (a \"mere\" $6 million, compared to the over $500 million that OpenAl has reportedly spent on ChatGPT). The January 20 debut of R1, a reasoning model developed on a shoestring budget and with second-rate chipswhichcan, nonetheless perform as well as OpenAl's most advanced model, shook one of the central tenets of Aldevelopment in the US - that it takes billions of dollars to produce cutting-edge technology. Thatlack of access to first-ratechips couldn't hinder DeepSeek also shows the limits of America's \"small yard, high fence\" approach, and that smaller, nimbler competitors could easily get within heel-snapping distance. The open-source strategy adopted by Chinese labs, including DeepSeek, as opposed to the proprietary model favoured by those in the US(except, notably, Meta) also hints at another way in which therutes of the gamecould be rewritten byChina, asmore global talent - and, indeed, other countries nursing their own Al ambitions - gravitate towards free-to-use models. India, which talksof building \"sovereign AI\", may find hope in the DeepSeek story, that it is possible t do more with less. Yet, even asit puts its weight heing the ambition and talent of the homegrown tech sector, and puts in the Rs 10,300 crore committed under the IndiaAl mission in March 2024, the government must also find a way to ensure access to the best Al hardware. Ifthe future will be defined by Al, India must bea part ofit.",
+   "n_words": 456,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1897,
+      595,
+      3909,
+      776
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2288,
+      885,
+      3555,
+      1015
+     ]
+    ],
+    "body_boxes": [
+     [
+      2320,
+      1932,
+      2823,
+      3076
+     ],
+     [
+      2918,
+      1251,
+      3532,
+      3072
+     ],
+     [
+      3571,
+      1252,
+      4182,
+      2868
+     ],
+     [
+      3575,
+      2919,
+      4178,
+      3073
+     ]
+    ],
+    "layout_words": 683
+   },
+   "headline_raw": "A much-needed thaw",
+   "deck_raw": "Economically, India and China need each other.\nPolitically, they must constantly worry about the US",
+   "body_raw": "thehelmin Washington.\nEconomically, India and China need each\nother. India\u2019s economy is siubbomiy stuck on\na 30-year growth path of 7 percent per an-\nnum. China'seconomyislanguishingat5 per\ncent per annum andcould further slow down.\nTo grow, Indian businesses desperately need\nChinese products including in many key ar-\n\u00e9aslike pharmaceuticals, eectronics,and also\ninfrastructure. As for Chinese businesses, they\nneed t diversify in a world where Western\nprotectionism against them is growing,\nLooking ahead, India isa potentially huge mar-\nketforChina\nMilitarity, the two countries are ina stale-\nmate. It is clear after Gatwan that both sides\nare prepared to maintain huge military de-\nployments in physically horrible environ-\nments to defend every inch of territory. But\nthesetake a huge tollonmen, materiel, and\nmoney. Moreimportantly, given the terrain\nand climate, neither side can likely ever win\nan outright victory on the border. Plus, both\nconfront other military challenges. India\nmust always reckon with the possibility of\nconflict with Pakistan over cross-border ter-\nrorism,and worse still, a two-front war with\nChina and Pakistan For China, the main mil\nitary concerns are in East Asia \u2014 war with\nTaiwan, with Japan over the Senkaku/Diaoyu\nIslands, and with the Philippines over the\nSouth China Sea. In each case, the US could\nbecome involved against China. Trump's\npresidency could heighten President Xi\nJinping's concemsover the US presence and\nrole in the region.\nPolitically, both Delhi and Beijing must\nconstantly worry about Washington. Despite\nall the bonhomie between India and the US,\ndifferences abound: Over immigration, trade,\nrelations with Pakistan and Bangladesh, US\ncommentary on India\u2019s democratic record,\nAmerican accusations over a putative Indian\nassassination plot, and Indian accusations of\nunchecked Sikh militant activity on US soil.\nSome of these worries may reduce with\n\nTrumpin the White House others such asim-\nmigration and trade could get worse. For\nChina, the US' weaponisation of trade and\ntechnology are likely to continue under\nTrump. China must also worry about\nAmerica's \u201cnaming and shaming\u201d of Beging's\npolicies in Tibet and Xinjiang. In short, India\nand China face a common chalienge \u2014 how\ntw enhance their bargaining power with the\nUS. One way is to signal to Washington that\nthey have cilia sirategic choices and partners\nif pushed too hard.\nWil thisd\u00e9tente last? India and China have\nsquared offin a series of confrontations since\n2010 \u2014in 2013 (Depsang), 2014 (Chumar),\n2015 (Burtse), 2017(Doklam), 2020 (Galwan),\nand 2022 (Yangtse), with casualties in 2020\nand 2022. It would be foolish to say that the\npresentd\u00e9tente and normalisation is assured\nand that the two sides will avoid future\nclashes. Territorial quarrels are hard to man-\nage and even harder t resoWve because land\n(and water) is connected to sovereignty.\nNational identity and memories of colonial-\nism and imperialism in both India and China\nmake both societies very touchy about any\nchallenges to sovereignty. As Manjari\nChatterjee Miller of the University of Toronto\nSuggested years ago, both sides have an en-\nduring sense of victimhood. Resolution of the\nquarrel is possible, butit will take a huge bar-\ngain. A bargain is not beyond Modiand Xi, but\nneither leadership looksin ahurry.\nThe drivers of the current thawin relations\nare structural. Economic need, military reali-\nties aiid political worries over the US are long-\nterm factors that won't easily go away. India-\nChina relations should, therefore, continue to\nsoften and normalise even if along-term bor-\nderand strategic agreement appears difficult\nachieve\n\nThe writer is Witmar Professor of Asian Studies\nand vice dean (Research and Development),\nLee Kuan Yew School of Public Policy,\nNational University of Singapore",
+   "ocr_conf": 86.2316715542522,
+   "ocr_low_conf_share": 0.09970674486803519,
+   "headline": "A much-needed thaw",
+   "deck": "Economically, India and China need each other. Politically, they must constantly worry about the US",
+   "byline": "",
+   "text": "thehelmin Washington. Economically, India and China need each other. India's economy is siubbomiy stuck on a 30-year growth path of 7 percent per annum. China'seconomyislanguishingat5 per cent per annum andcould further slow down. To grow, Indian businesses desperately need Chinese products including in many key ar- \u00e9aslike pharmaceuticals, eectronics,and also infrastructure. As for Chinese businesses, they need t diversify in a world where Western protectionism against them is growing, Looking ahead, India isa potentially huge marketforChina Militarity, the two countries are ina stalemate. It is clear after Gatwan that both sides are prepared to maintain huge military deployments in physically horrible environ-ments to defend every inch of territory. But thesetake a huge tollonmen, materiel, and money. Moreimportantly, given the terrain and climate, neither side can likely ever win an outright victory on the border. Plus, both confront other military challenges. India must always reckon with the possibility of conflict with Pakistan over cross-border terrorism,and worse still, a two-front war with China and Pakistan For China, the main mil itary concerns are in East Asia - war with Taiwan, with Japan over the Senkaku/Diaoyu Islands, and with the Philippines over the South China Sea. In each case, the US could become involved against China. Trump's presidency could heighten President Xi Jinping's concemsover the US presence and role in the region. Politically, both Delhi and Beijing must constantly worry about Washington. Despite all the bonhomie between India and the US, differences abound: Over immigration, trade, relations with Pakistan and Bangladesh, US commentary on India's democratic record, American accusations over a putative Indian assassination plot, and Indian accusations of unchecked Sikh militant activity on US soil. Some of these worries may reduce with\n\nTrumpin the White House others such asimmigration and trade could get worse. For China, the US' weaponisation of trade and technology are likely to continue under Trump. China must also worry about America's \"naming and shaming\" of Beging's policies in Tibet and Xinjiang. In short, India and China face a common chalienge - how tw enhance their bargaining power with the US. One way is to signal to Washington that they have cilia sirategic choices and partners if pushed too hard. Wil thisd\u00e9tente last? India and China have squared offin a series of confrontations since 2010 - in 2013 (Depsang), 2014 (Chumar), 2015 (Burtse), 2017(Doklam), 2020 (Galwan), and 2022 (Yangtse), with casualties in 2020 and 2022. It would be foolish to say that the presentd\u00e9tente and normalisation is assured and that the two sides will avoid future clashes. Territorial quarrels are hard to manage and even harder t resoWve because land (and water) is connected to sovereignty. National identity and memories of colonialism and imperialism in both India and China make both societies very touchy about any challenges to sovereignty. As Manjari Chatterjee Miller of the University of Toronto Suggested years ago, both sides have an enduring sense of victimhood. Resolution of the quarrel is possible, butit will take a huge bargain. A bargain is not beyond Modiand Xi, but neither leadership looksin ahurry. The drivers of the current thawin relations are structural. Economic need, military realities aiid political worries over the US are long-term factors that won't easily go away. India-China relations should, therefore, continue to soften and normalise even if along-term borderand strategic agreement appears difficult achieve\n\nThe writer is Witmar Professor of Asian Studies and vice dean (Research and Development), Lee Kuan Yew School of Public Policy, National University of Singapore",
+   "n_words": 574,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1624,
+      1135,
+      1959,
+      1211
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1624,
+      1249,
+      2229,
+      1602
+     ],
+     [
+      1619,
+      1647,
+      2231,
+      3071
+     ]
+    ],
+    "layout_words": 300
+   },
+   "headline_raw": "KANTI BAJPAI",
+   "deck_raw": "",
+   "body_raw": "INDIA AND CHINA are finally talking toeach\nother again rather than past each other Are\nwe, then, headed back to their pre-Galwan\n\u201cnormal\u201d relationship, oris the present thaw\nlikely to turn cold and conflictual again?\nNothing in India-China relations is ever simple\nand linear, but the signs are that the wocoun-\ntries are moving towards the normal diplo-\nmacy of the past 35 years, ever since Rajiv\n\nFrom 1988 onwards, India-China relations\ncame to rest on four pillars that undergirded\na fair degree of military and diplomatic sta-\nbility: Summitry, border negotiations, confi-\ndence building measures (CBMs), and peo-\nple-to-people(P2P)tiesinc hiding trade.Until\nGalwan, the top leadership of Indiaand China\nwould meet regularly, bilaterally and multi-\nlaterally, often more than once a year.\nRunning parallel to summitry were the bor-\nder negotiations. Inone formor another talks\non a final territorial settlement have run for\nover 30 years, with few interruptions (a\nremarkable fact).\nSince the two militariescould clashatthe\nborder, they had worked out aseries of CBMs\nto reduce the risk of serious escalation \u2014\nGalwari was the @cepton that provedthe rule\n(fatalities were low). Beyond these state-to-\nState measures, Delhi and Resing encouraged\nP2P\u2014 tourism, cultural and academic links,\nand trade \u2014to anchorties atthe societallevel\nas well. Asa result, thousands of Indian stu-\ndents are in Chinagetting relatively tow-priced\nand high-quality education and are also get-\nting to know their host country beyond the\ninflammatory headlines.\nAtleast three factors are driving India and\nChina back tothis normal dininmary Ina niece\n[ wrote for the Asia Peace Programme at the\nNational University of Singapore before\nDonald Trump won the US presidential elec-\ntion, I suggested that the three drivers of d\u00e9-\ntente are economic, military, and political.\nThese will likely be even stronger drivers of\nIndia~China diplomacy now that Trump is at",
+   "ocr_conf": 86.77666666666667,
+   "ocr_low_conf_share": 0.09333333333333334,
+   "headline": "KANTI BAJPAI",
+   "deck": "",
+   "byline": "",
+   "text": "INDIA AND CHINA are finally talking toeach other again rather than past each other Are we, then, headed back to their pre-Galwan \"normal\" relationship, oris the present thaw likely to turn cold and conflictual again? Nothing in India-China relations is ever simple and linear, but the signs are that the wocountries are moving towards the normal diplomacy of the past 35 years, ever since Rajiv\n\nFrom 1988 onwards, India-China relations came to rest on four pillars that undergirded a fair degree of military and diplomatic stability: Summitry, border negotiations, confidence building measures (CBMs), and people-to-people(P2P)tiesinc hiding trade.Until Galwan, the top leadership of Indiaand China would meet regularly, bilaterally and multilaterally, often more than once a year. Running parallel to summitry were the border negotiations. Inone formor another talks on a final territorial settlement have run for over 30 years, with few interruptions (a remarkable fact). Since the two militariescould clashatthe border, they had worked out aseries of CBMs to reduce the risk of serious escalation - Galwari was the @cepton that provedthe rule (fatalities were low). Beyond these state-to-State measures, Delhi and Resing encouraged P2P - tourism, cultural and academic links, and trade - to anchorties atthe societallevel as well. Asa result, thousands of Indian students are in Chinagetting relatively tow-priced and high-quality education and are also getting to know their host country beyond the inflammatory headlines. Atleast three factors are driving India and China back tothis normal dininmary Ina niece [ wrote for the Asia Peace Programme at the National University of Singapore before Donald Trump won the US presidential election, I suggested that the three drivers of d\u00e9- tente are economic, military, and political. These will likely be even stronger drivers of India~China diplomacy now that Trump is at",
+   "n_words": 291,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      347,
+      3010,
+      1500,
+      3095
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3139,
+      1529,
+      4730
+     ]
+    ],
+    "layout_words": 420
+   },
+   "headline_raw": "A CASE OF COMMON SENSE",
+   "deck_raw": "",
+   "body_raw": "In defamation case against Atishi, Delhi courtsends outright\nmessage that political matters are for the ballot, not witness box\nOLONIAL-ERA LAWS, AND some of their successors in independent India,\nare often misused to curb free speech. The weaponisation of the provisions\non criminal Gefaiiiation iiider ie Code of Criminal Procedure(CrPC)and the\nBNSS stand out. Too often, cases that appear politicalty motivated or rely on\nthe loosely defined idea of \u201churt sentiments\u201d make their way through the system \u2014 of-\nten, theyare seen as serving partisan ends, Insuchcircumstances, it is for the judiciary \u2014\natevery level \u2014 to separate politics from justice and protect free speech. The sessions\ncourt of SpecialJudge VishalGogne in Delhihasrisen, admirably, to the taskofadjudicat-\ning a politically sensitive matter ahead of the assembly etection. It must serve as an ex-\nample across the country.\nLast April, Atishi \u2014 who later became Delhi's chief minister \u2014 accused the BJP of try-\ning to poach its leaders and threatening them withaction by investigative agencies. The\ndefamationcase filed against her by Delhi BJP leader Praveen Shankar Kapoor alleged, in\nessence, thatshe made false allegations to distract from the Delhi excise policy \u201cscam\" and\nthatthe AAPwas \u201ctrying to portray thatthe BJP is trying to subvert the|Delhi] government\nby illegal means\". Judge Gogne quashed the summonsagainst Atishi, underlining at least\nthree principles that must become part of the judicial and political common sense. First,\nhereiterated that anessential partof free speech \u201cpermits one man's subal tern to be an-\nother man's Naxal, it permits one man\u2019s freebie to be another man\u2019s welfare\u201d. Second,\nthecourt asserted that the final judgement on political comments and assertions\u201cmust\nbe answered by the court of the people through elections and not courts of law through\ndiscussionson defamation\u201d. The court also questioned Kapoor's claim of beingaggrieved\nby Atishi's statements: \u201cA person looking to represent himself as\u2018aggrieved' by virtue of\nbeinga member of the party cannot claim legal statusasan aggrieved purely upon his le-\ngal statusas a member ofthe party\u201d.\nThe judiciary, particularty at the trial court level, hasheen seen in recenttimes as pass-\ning the buck on politically sensitive matters, including defamation and the grant of bail.\nInAugustlastyear thenCJI D \u00a5Y Chandrachud had asked trial court judges to exercise \u201cro-\nbust common sense\u201d. By insisting that, \u201ca court of law cannot aid the tilting of the dem-\nocratic balance between unequal political formationsand against therightto freedomof\nspeech\u201d, the Delhi courthasdone justthat. It isnow also for the political class to introspect,\nand perhaps be more judiciousin playing politics in court.",
+   "ocr_conf": 87.06428571428572,
+   "ocr_low_conf_share": 0.08571428571428572,
+   "headline": "A CASE OF COMMON SENSE",
+   "deck": "",
+   "byline": "",
+   "text": "In defamation case against Atishi, Delhi courtsends outright message that political matters are for the ballot, not witness box OLONIAL-ERA LAWS, AND some of their successors in independent India, are often misused to curb free speech. The weaponisation of the provisions on criminal Gefaiiiation iiider ie Code of Criminal Procedure(CrPC)and the BNSS stand out. Too often, cases that appear politicalty motivated or rely on the loosely defined idea of \"hurt sentiments\" make their way through the system - often, theyare seen as serving partisan ends, Insuchcircumstances, it is for the judiciary - atevery level - to separate politics from justice and protect free speech. The sessions court of SpecialJudge VishalGogne in Delhihasrisen, admirably, to the taskofadjudicating a politically sensitive matter ahead of the assembly etection. It must serve as an example across the country. Last April, Atishi - who later became Delhi's chief minister - accused the BJP of trying to poach its leaders and threatening them withaction by investigative agencies. The defamationcase filed against her by Delhi BJP leader Praveen Shankar Kapoor alleged, in essence, thatshe made false allegations to distract from the Delhi excise policy \"scam\" and thatthe AAPwas \"trying to portray thatthe BJP is trying to subvert the Delhi] government by illegal means\". Judge Gogne quashed the summonsagainst Atishi, underlining at least three principles that must become part of the judicial and political common sense. First, hereiterated that anessential partof free speech \"permits one man's subal tern to be another man's Naxal, it permits one man's freebie to be another man's welfare\". Second, thecourt asserted that the final judgement on political comments and assertions\"must be answered by the court of the people through elections and not courts of law through discussionson defamation\". The court also questioned Kapoor's claim of beingaggrieved by Atishi's statements: \"A person looking to represent himself as'aggrieved' by virtue of beinga member of the party cannot claim legal statusasan aggrieved purely upon his legal statusas a member ofthe party\". The judiciary, particularty at the trial court level, hasheen seen in recenttimes as passing the buck on politically sensitive matters, including defamation and the grant of bail. InAugustlastyear thenCJI D \u00a5Y Chandrachud had asked trial court judges to exercise \"robust common sense\". By insisting that, \"a court of law cannot aid the tilting of the democratic balance between unequal political formationsand against therightto freedomof speech\", the Delhi courthasdone justthat. It isnow also for the political class to introspect, and perhaps be more judiciousin playing politics in court.",
+   "n_words": 412,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2278,
+      3262,
+      3750,
+      3371
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2278,
+      3435,
+      3785,
+      3496
+     ],
+     [
+      1624,
+      3566,
+      2159,
+      3610
+     ]
+    ],
+    "body_boxes": [
+     [
+      1617,
+      3671,
+      2228,
+      5253
+     ],
+     [
+      1691,
+      5461,
+      1878,
+      5491
+     ],
+     [
+      2319,
+      4466,
+      2817,
+      5262
+     ],
+     [
+      2922,
+      3672,
+      3528,
+      3865
+     ],
+     [
+      2920,
+      3908,
+      3529,
+      4575
+     ],
+     [
+      2920,
+      4623,
+      3527,
+      5255
+     ]
+    ],
+    "layout_words": 578
+   },
+   "headline_raw": "PARTNERS IN INNOVATION",
+   "deck_raw": "UK and India can collaborate not just on technology but for Viksit\nRICHARD MCCALLUM",
+   "body_raw": "INTHE UK, when Itake a long-haul flight, drive\nacar that hasconnected technologyor use an\nonline banking app, it's likely thatin some way,\nFm tapping into technology that has been de-\nveloped ina global capability centre (GCQ) in\nIndia. However, few UK consumers appreciate\nhow technology collaboration between for-\neign firms, including those in the UK, and\nIndia\u2019s dynamic scientific talent and innova-\ntion ecosystem, impacts their lives. Or saves\nlives, as we saw with vaccine development\nduring the pandemic. Technology is a thread\nthat runs through every sector in the UK-India\neconomic parmership. I want tomake thecase\nthat the UK and India are parmers not justin\ntechnology but for Viksit Bharat 2047,\nIn 2024, the UK was third behind the USA\nandChinan attracting venture-capitalinvest-\nment into its @chnology companies. London\nalone has more technology start-ups than the\nrest of Europe combined. At the same time,\nIndia has become a technology super power.\nSo much can be achieved when businesses\nand universities in the twocountries collabo-\nrate. This is why the organisation I lead, the\nUK India Business Council(UKIBC) welcomed\nthe recent signing of the UK-India Technology\nSecurity Initiative, a bilateral agreement toin-\ncrease collaboration onemerging and critical\ntechnologies. There are already many exam-\nples of such collaboration \u2014 the UKIBC re-\ncently published a report capturing exampies\nand suggesting ways to enable more.\nIn financial services, British banks are\namong the leading investors in India and are\nalready deploying tech-led solutions across\nsegment. By Mianng regulatory DSI practices\nand standards, India can attract more UK fin-\ntech companies, thereby enhancing SME\nlending and financial inclusion.\n\n1 INDIA\n\nAdvanced manufacturing\nand defence is another area\nwhere UK and Indian firms\nare co-developing\ntechnology. Few markets\nhave India\u2019s scale or need for\nnew capability, but at the\nsame time, UK firms can\nbenefit from India's cost-\neffective manufacturing. We\ncan domore to plug Indian\ncompanies into UK supply\nchains. Our message to UK\nbusiness is clear \u2014 consider\nIndia a strategic partner, not\njust a market.\n\nAsa leader in green innovation and regula-\ntion, the UKcanbecome India'senergy transi-\nfon partner, providing green technology so-\nlutions and access to finance through the City\nof London. The climate crisis doesn\u2019t respect\n\naforce for global good Take the Sunrise project\n\u2014a multinational collaboration led bySwansea\nUnwersity with 18 academic partners across\nfive countries, including Imperial College\nLondon, Oxford, Cambridge, IISER Pune, IISc,\nandseveral IITs. We argue that India can boost\nmarket access for British businesses through\nsustained govemment platforms that spark\npartnerships with Indian industry. India can\nalsoexpand priority-sector lending to include\nEVs and EV-supporting infrastructure along-\nSide renewable energy to help reach its goals.\nAdvanced manufacturing and defence is\nanother area where UK and Indian firms are\nco-devapiig technology. Few markets have\nIndia's scaleorneed for new capability, butat\nthe same time, UK firms can benefit from\n\ndo more to plug Indian companies into UK\nsupply chains. Our message to UK businessis\nclear \u2014 consider Indiaa strategic parmer, not\njust amarket.\nThe UKIBC aerospace and defence group,\nrepresenting 22 UK firms with $60 billion in\nglobal revenue, is eager to expand partner-\nships with India. It believes technology infu-\nSion and investment into India can speed up\nwith certain refinements to India's defence\nacquisition procedure \u2014 for example, adopt-\ninga more graduated approach w indigenous\ncontent & encourage foreign firms into the\nmarket,and relooking at FDI thresholds so that\nmore foreign firms can participate in strate-\ngic defence programmes. We also argue that",
+   "ocr_conf": 85.79930795847751,
+   "ocr_low_conf_share": 0.08996539792387544,
+   "headline": "PARTNERS IN INNOVATION",
+   "deck": "UK and India can collaborate not just on technology but for Viksit RICHARD MCCALLUM",
+   "byline": "1 INDIA",
+   "text": "INTHE UK, when Itake a long-haul flight, drive acar that hasconnected technologyor use an online banking app, it's likely thatin some way, Fm tapping into technology that has been developed ina global capability centre (GCQ) in India. However, few UK consumers appreciate how technology collaboration between foreign firms, including those in the UK, and India's dynamic scientific talent and innovation ecosystem, impacts their lives. Or saves lives, as we saw with vaccine development during the pandemic. Technology is a thread that runs through every sector in the UK-India economic parmership. I want tomake thecase that the UK and India are parmers not justin technology but for Viksit Bharat 2047, In 2024, the UK was third behind the USA andChinan attracting venture-capitalinvestment into its @chnology companies. London alone has more technology start-ups than the rest of Europe combined. At the same time, India has become a technology super power. So much can be achieved when businesses and universities in the twocountries collaborate. This is why the organisation I lead, the UK India Business Council(UKIBC) welcomed the recent signing of the UK-India Technology Security Initiative, a bilateral agreement toincrease collaboration onemerging and critical technologies. There are already many exam-ples of such collaboration - the UKIBC recently published a report capturing exampies and suggesting ways to enable more. In financial services, British banks are among the leading investors in India and are already deploying tech-led solutions across segment. By Mianng regulatory DSI practices and standards, India can attract more UK fintech companies, thereby enhancing SME lending and financial inclusion.\n\nAdvanced manufacturing and defence is another area where UK and Indian firms are co-developing technology. Few markets have India's scale or need for new capability, but at the same time, UK firms can benefit from India's cost-effective manufacturing. We can domore to plug Indian companies into UK supply chains. Our message to UK business is clear - consider India a strategic partner, not just a market.\n\nAsa leader in green innovation and regulation, the UKcanbecome India'senergy transifon partner, providing green technology solutions and access to finance through the City of London. The climate crisis doesn't respect\n\naforce for global good Take the Sunrise project - a multinational collaboration led bySwansea Unwersity with 18 academic partners across five countries, including Imperial College London, Oxford, Cambridge, IISER Pune, IISc, andseveral IITs. We argue that India can boost market access for British businesses through sustained govemment platforms that spark partnerships with Indian industry. India can alsoexpand priority-sector lending to include EVs and EV-supporting infrastructure along-Side renewable energy to help reach its goals. Advanced manufacturing and defence is another area where UK and Indian firms are co-devapiig technology. Few markets have India's scaleorneed for new capability, butat the same time, UK firms can benefit from\n\ndo more to plug Indian companies into UK supply chains. Our message to UK businessis clear - consider Indiaa strategic parmer, not just amarket. The UKIBC aerospace and defence group, representing 22 UK firms with $60 billion in global revenue, is eager to expand partnerships with India. It believes technology infu-Sion and investment into India can speed up with certain refinements to India's defence acquisition procedure - for example, adopt-inga more graduated approach w indigenous content & encourage foreign firms into the market,and relooking at FDI thresholds so that more foreign firms can participate in strategic defence programmes. We also argue that",
+   "n_words": 559,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      3673,
+      4183,
+      4698
+     ]
+    ],
+    "layout_words": 172,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "the UK can do moreto help its start-ups dock\nintoindia\u2019s detence technotogy start-up scene.\nFor example, an accelerator programme for\nhigh-growth UK firms t enter India.\nClearly, the economicrelitionshipis song\nand growing. Wecan be more imaginative in\nour ambition. At our recent Technology\nFutures Conference, Minister of Commerce\nand Industry Piyush Goyal spoke about how\nthe UK and India could collaborateonAl and\nvirtual reality to transform education and\ntraining. And how a tele-medicine partner-\nship could bring down the cost of heakhcare\nin the UK and make quality healthcare avail-\nabe tothe emotes parts of India He alsosug-\ngested that the two countries work to develop\nclimate modelling too8 to predict and manage\nnatural disasters These are excellentideas that\nneed capital Recently, I've been imagining a\nbig, bold G2G- backed investment fund t sup-\nport collaboration between UK and Indian\nStart-ups in emerging technologies.\nIdeas also need skilled people to make\nthem happen. I've been imagining atime\nwhen we talk about tens of thousands of\nBritish students in India \u2014 taking advantage",
+   "ocr_conf": 86.63372093023256,
+   "ocr_low_conf_share": 0.09302325581395349,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "the UK can do moreto help its start-ups dock intoindia's detence technotogy start-up scene. For example, an accelerator programme for high-growth UK firms t enter India. Clearly, the economicrelitionshipis song and growing. Wecan be more imaginative in our ambition. At our recent Technology Futures Conference, Minister of Commerce and Industry Piyush Goyal spoke about how the UK and India could collaborateonAl and virtual reality to transform education and training. And how a tele-medicine partnership could bring down the cost of heakhcare in the UK and make quality healthcare availabe tothe emotes parts of India He alsosuggested that the two countries work to develop climate modelling too8 to predict and manage natural disasters These are excellentideas that need capital Recently, I've been imagining a big, bold G2G- backed investment fund t support collaboration between UK and Indian Start-ups in emerging technologies. Ideas also need skilled people to make them happen. I've been imagining atime when we talk about tens of thousands of British students in India - taking advantage",
+   "n_words": 168,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3573,
+      4742,
+      4178,
+      5174
+     ]
+    ],
+    "layout_words": 75,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "derstanding the business culture of the next\nsuperpower. | started with GCCsandf'llfinish\nwith them. 2024 wasa good year for the UK-\nIndia relationship. 2025 will be better, as UK\nbusiness leaders realise that engineering and\nresearch centres in India aren't just for big\nbrands; with new operating models, even\nmid-size and smaller firms can tap into the\nIndian GCC phenomenon. Let's be imagina-\ntive and relentless in pursuing the extraordi-\nnary potential of this relationship.",
+   "ocr_conf": 87.8,
+   "ocr_low_conf_share": 0.08,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "derstanding the business culture of the next superpower. started with GCCsandf'llfinish with them. 2024 wasa good year for the UK-India relationship. 2025 will be better, as UK business leaders realise that engineering and research centres in India aren't just for big brands; with new operating models, even mid-size and smaller firms can tap into the Indian GCC phenomenon. Let's be imaginative and relentless in pursuing the extraordinary potential of this relationship.",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      422,
+      4861,
+      1428,
+      4946
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4990,
+      1531,
+      5568
+     ],
+     [
+      321,
+      5625,
+      1529,
+      6164
+     ]
+    ],
+    "layout_words": 317
+   },
+   "headline_raw": "HISTORY IN CLOSE-UPS",
+   "deck_raw": "",
+   "body_raw": "Publication of a spate of memoirs paints a reassuring picture\nof the enduring appeal of individual stories\nNANERAof digital immediacy and data overload, is there stillroom forthe mem-\noir that zooms in on the personal over the big picture? The publication of a spate\nof memoirs, from Kargil War hero Lt Gen Y K Joshi's Who Dares Wins to Amol\nPalekar\u2019s Viewfinder to the English translation of aFinnish woman'saccount of life\nin the Soviet Union under Stalinin the 1930s, Underthe Sickle and theSledgehammer paints\nareassuring picture of their enduring appeal and historical heft.\nFrom General Joshi's retelling of hislife as a soldier toKirsti Huurre's account of thedis-\nsolution ofher dream ofegalitarianism in Under the Sidcle and the Sledge hammer, each of\nthese books shows that history is not something that happens to nations, It seeps into\nthe lives ofindividuals, beyond the grandiose narratives of history booksor official state\n\ningthe texture and depth to the complexities ofanera Asthe world celebrated the80th\nanniversary of the liberation of Auschwitz this week, for instance, it was the diary ofa\n13-year-old Anne Frank, hidden in asecret annexe in Amsterdam during the Holocaust,\nthat offered a glimpse into the human cost of war when it was first published posthu-\nmousty in 1947. Frank had perished in the Bergen-Belsen concentration camp in 1945.\nIn2007, on avisit to New Delhi to release the English translation of his memoir Once\nUpon a Time in the Soviet Union, Dominique Lapierre had spoken of his ex perience of trav-\nelling through post-Stalin USSR. One of the highlights of the trip was meeting an old\nSoviet lady who requested Lapierre to deflate one of the tires of his French Marty so she\ncould \u201cfeel the gust of air from Paris\u201d, he told The indian Express. History books can speak\nofhowthe world changesoneevent ata time, but only such intimate accountscan speak\nof what it feels like to live through them.",
+   "ocr_conf": 86.70031545741325,
+   "ocr_low_conf_share": 0.09779179810725552,
+   "headline": "HISTORY IN CLOSE-UPS",
+   "deck": "",
+   "byline": "",
+   "text": "Publication of a spate of memoirs paints a reassuring picture of the enduring appeal of individual stories NANERAof digital immediacy and data overload, is there stillroom forthe memoir that zooms in on the personal over the big picture? The publication of a spate of memoirs, from Kargil War hero Lt Gen Y K Joshi's Who Dares Wins to Amol Palekar's Viewfinder to the English translation of aFinnish woman'saccount of life in the Soviet Union under Stalinin the 1930s, Underthe Sickle and theSledgehammer paints areassuring picture of their enduring appeal and historical heft. From General Joshi's retelling of hislife as a soldier toKirsti Huurre's account of thedissolution ofher dream ofegalitarianism in Under the Sidcle and the Sledge hammer, each of these books shows that history is not something that happens to nations, It seeps into the lives ofindividuals, beyond the grandiose narratives of history booksor official state\n\ningthe texture and depth to the complexities ofanera Asthe world celebrated the80th anniversary of the liberation of Auschwitz this week, for instance, it was the diary ofa 13-year-old Anne Frank, hidden in asecret annexe in Amsterdam during the Holocaust, that offered a glimpse into the human cost of war when it was first published posthumousty in 1947. Frank had perished in the Bergen-Belsen concentration camp in 1945. In2007, on avisit to New Delhi to release the English translation of his memoir Once Upon a Time in the Soviet Union, Dominique Lapierre had spoken of his ex perience of travelling through post-Stalin USSR. One of the highlights of the trip was meeting an old Soviet lady who requested Lapierre to deflate one of the tires of his French Marty so she could \"feel the gust of air from Paris\", he told The indian Express. History books can speak ofhowthe world changesoneevent ata time, but only such intimate accountscan speak of what it feels like to live through them.",
+   "n_words": 313,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3607,
+      5220,
+      4178,
+      5251
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is CEO, UK IndiaBusiness Council",
+   "ocr_conf": 78.57142857142857,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is CEO, UK IndiaBusiness Council",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2267,
+      5403,
+      3559,
+      5493
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      5526,
+      2814,
+      5571
+     ],
+     [
+      3573,
+      5778,
+      4020,
+      5822
+     ],
+     [
+      2273,
+      6013,
+      2711,
+      6067
+     ],
+     [
+      2923,
+      6053,
+      3287,
+      6097
+     ]
+    ],
+    "body_boxes": [
+     [
+      2270,
+      5616,
+      2878,
+      5969
+     ],
+     [
+      2269,
+      6091,
+      2876,
+      6166
+     ],
+     [
+      2920,
+      5534,
+      3528,
+      6009
+     ],
+     [
+      3572,
+      5853,
+      4180,
+      6166
+     ]
+    ],
+    "layout_words": 213
+   },
+   "headline_raw": "JANUARY 30, 1985, FORTY YEARS AGO",
+   "deck_raw": "Two DIvISIONS IN SC\nZAIL SINGH IRKED\nBJP-JANATA SPLIT\nINDO-PAK TIES",
+   "body_raw": "THE SUPREME COURT should have two sep-\narate divisions \u2014 a constitutional and a legal\ndivision \u2014 the Law Commission has recom-\nmended in its95threport, which was tabled\nin Lok Sabha. The Commission, headed by\nJustice K K Mathew, has also recommended\nthat the constitutional division should have\natleast seven judges and that appointmentof\njudges should be made t separate divisions.\n\nTHE TWO-YEAR-OLD alliance between the\nJanata Party and the BJP, which survived many\n\nvicissitudes while sustaining the minority\nJanata goverment in Kamataka, came to an\nend when talks about seat adjustments be-\ntween the two parties broke down. The two\nmajor parties, which fought the recent Lok\nSabha elections unitedly on the basis of seat\nsharing, will now confront each other in the\nassembly poll in Kamataka, unless the Chief\nMinister, RamaKrishna Hegde, is abe to pulloff\nalast-minute salvage operation when he\nmeets the national president of the BJP.AB\nVajpayee, in New Delhion February 1.\n\nPRESIDENT ZAIL SINGH wants all adminis-\ntrative orders issued in Punjab during the\nterm of the Central rule to be issued in the\nnameoftheGovemor and not inthe name of\nthe President. Some of the orders issued by\nthe state government were contrary to his\nviews and caused him embarrassment. But\nlegal experts do not find it feasible.",
+   "ocr_conf": 92.14553990610328,
+   "ocr_low_conf_share": 0.023474178403755867,
+   "headline": "JANUARY 30, 1985, FORTY YEARS AGO",
+   "deck": "Two DIvISIONS IN SC ZAIL SINGH IRKED BJP-JANATA SPLIT INDO-PAK TIES",
+   "byline": "",
+   "text": "THE SUPREME COURT should have two separate divisions - a constitutional and a legal division - the Law Commission has recommended in its95threport, which was tabled in Lok Sabha. The Commission, headed by Justice K K Mathew, has also recommended that the constitutional division should have atleast seven judges and that appointmentof judges should be made t separate divisions.\n\nTHE TWO-YEAR-OLD alliance between the Janata Party and the BJP, which survived many\n\nvicissitudes while sustaining the minority Janata goverment in Kamataka, came to an end when talks about seat adjustments between the two parties broke down. The two major parties, which fought the recent Lok Sabha elections unitedly on the basis of seat sharing, will now confront each other in the assembly poll in Kamataka, unless the Chief Minister, RamaKrishna Hegde, is abe to pulloff alast-minute salvage operation when he meets the national president of the BJP.AB Vajpayee, in New Delhion February 1.\n\nPRESIDENT ZAIL SINGH wants all administrative orders issued in Punjab during the term of the Central rule to be issued in the nameoftheGovemor and not inthe name of the President. Some of the orders issued by the state government were contrary to his views and caused him embarrassment. But legal experts do not find it feasible.",
+   "n_words": 209,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      5534,
+      4177,
+      5731
+     ]
+    ],
+    "layout_words": 31,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "asa\u201cgood first step\u201d, Pakistan President Ziaul\nHaa's indication that islamahbad would try the\nhijackers of the Indian aircraft. Gandhi said\nHag had given the first positive indication for\nnormalising Indo-Pak ties.",
+   "ocr_conf": 78.74193548387096,
+   "ocr_low_conf_share": 0.16129032258064516,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "asa\"good first step\", Pakistan President Ziaul Haa's indication that islamahbad would try the hijackers of the Indian aircraft. Gandhi said Hag had given the first positive indication for normalising Indo-Pak ties.",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 23.0,
+ "flags": [
+  "2 kept article(s) without a headline"
+ ]
+}

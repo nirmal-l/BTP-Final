@@ -1,0 +1,790 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_30_front",
+ "source_file": "2025-10-30_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-30_front.png",
+ "date": "2025-10-30",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1290,
+  "n_lines": 473,
+  "mean_line_conf": 90.36795838537661,
+  "orphan_words": 10,
+  "body_words_total": 1929
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      1425,
+      722,
+      1458
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 93.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      1469,
+      2641,
+      1842
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      1369,
+      1711,
+      1417
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1884,
+      1248,
+      2155
+     ],
+     [
+      1051,
+      2253,
+      1184,
+      2407
+     ],
+     [
+      810,
+      2530,
+      1164,
+      2601
+     ],
+     [
+      808,
+      2650,
+      1253,
+      3191
+     ],
+     [
+      809,
+      3269,
+      1231,
+      3384
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "Significant progress in trade\ntalks with EU, says Goyal",
+   "deck_raw": "AMID STEEP TRUMP TARIFFS",
+   "body_raw": "FTA: 10 chapters\nconcluded, EU\nteam to visit soon,\nsays Minister\n\nUnion\nMinister\nPiyush\nGoyal\n\nRAVIDUTTAMISHRA\nNEW DELHI, OCTOBER 29\n\nCOMMERCE AND Industry\nMinister Piyush Goyal\nWednesday said significant\nprogress has been made in talks\nwith the European Union(EU)to\nreach a free trade agreement.\nNewDelhiis keen to wrapup\nthe India-EU Free Trade\nAgreement. The EU provides a\nstable market for a range of\nIndian merchandise exports.\nIndia\u2019s exports to the EU in the\nlast financial year stood at\nCONTINUED ON PAGE 2\n\nHPCL-MITTAL ENERGY:\nSUSPENDING RUSSIA\nOIL IMPORTS PAGE 11",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.022222222222222223,
+   "headline": "Significant progress in trade talks with EU, says Goyal",
+   "deck": "AMID STEEP TRUMP TARIFFS",
+   "byline": "",
+   "text": "FTA: 10 chapters concluded, EU team to visit soon, says Minister\n\nUnion Minister Piyush Goyal\n\nRAVIDUTTAMISHRA NEW DELHI, OCTOBER 29\n\nCOMMERCE AND Industry Minister Piyush Goyal Wednesday said significant progress has been made in talks with the European Union(EU)to reach a free trade agreement. NewDelhiis keen to wrapup the India-EU Free Trade Agreement. The EU provides a stable market for a range of Indian merchandise exports. India's exports to the EU in the last financial year stood at\n\nHPCL-MITTAL ENERGY: SUSPENDING RUSSIA OIL IMPORTS PAGE 11",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      1881,
+      2704,
+      2190
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1299,
+      2215,
+      1654,
+      2285
+     ],
+     [
+      1298,
+      2333,
+      1739,
+      2678
+     ],
+     [
+      2275,
+      2175,
+      2720,
+      2678
+     ]
+    ],
+    "layout_words": 122
+   },
+   "headline_raw": "Before Xi meet, Trump says trade deal\nwith India on, repeats ceasefire claim\nModi the nicest looking guy... a killer... tough as hell: Trump",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER 29\n\nAHEAD OF the much-antici-\npated meeting between US\nPresident Donald Trump and\nChinese President Xi Jinping in\nSouth Korea Thursday where\nthey are expected to signatrade\ndeal, Trump, in remarks\nWednesday, said he was going to\ndoa \u201ctrade deal with India.\u201d\n\nThis is the first time that the\nUS President has said as much, at\natimewhen the US has imposed\n50 per cent tariffs on Indian\ngoods \u2014 25 per cent as penalty\nfor buying Russian oil and 25 per\ncent as universal tariffs. The two\nsides are engaged in negotiations.\nAt the same time, Trump re-\npeated his claims regarding his\nrole in the India-Pakistan cease-\nfire in May. Officials here said\nCONTINUEDON PAGE 2",
+   "ocr_conf": 92.84426229508196,
+   "ocr_low_conf_share": 0.01639344262295082,
+   "headline": "Before Xi meet, Trump says trade deal with India on, repeats ceasefire claim Modi the nicest looking guy... a killer... tough as hell: Trump",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER 29",
+   "text": "AHEAD OF the much-anticipated meeting between US President Donald Trump and Chinese President Xi Jinping in South Korea Thursday where they are expected to signatrade deal, Trump, in remarks Wednesday, said he was going to doa \"trade deal with India.\"\n\nThis is the first time that the US President has said as much, at atimewhen the US has imposed 50 per cent tariffs on Indian goods - 25 per cent as penalty for buying Russian oil and 25 per cent as universal tariffs. The two sides are engaged in negotiations. At the same time, Trump repeated his claims regarding his role in the India-Pakistan ceasefire in May. Officials here said CONTINUEDON PAGE 2",
+   "n_words": 113,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      2126,
+      756,
+      2200
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "5 TEST HIV-POSITIVE\nIN JHARKHAND",
+   "ocr_conf": 95.6,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "5 TEST HIV-POSITIVE; IN JHARKHAND",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2237,
+      729,
+      2627
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      2728,
+      626,
+      2798
+     ],
+     [
+      317,
+      2846,
+      765,
+      4141
+     ],
+     [
+      321,
+      4153,
+      760,
+      4259
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "One child was\ndiagnosed in\nSept, month\nbefore official\nconfirmation",
+   "deck_raw": "",
+   "body_raw": "SHUBHAM TIGGA\nRANCHI, OCTOBER 29\n\nTHE MOTHER of one of the chil-\ndren, who was being treated for\nthalassemia and was infected\nwith HIV, allegedly because of a\nblood transfusion in Jharkhand\u2019s\nChaibasa, has told The Indian\nExpress that her child was diag-\nnosed withthe virus in September\n\u2014amonth before the administra-\ntion officially confirmed the first\ncase on October 18.\nAccording to the child\u2019s\nmother, hospital staff informed\nthem in September that their\nchild had tested positive for HIV\nand immediately began admin-\nistering medicines, assuring\nthem that \u201cthese would make\nthe child recover\u201d.\nThe child's medical records\naccessed by The Indian Express\nshow that antiretroviral (ART)\ntreatment began on September\n24, indicating that the child had\nbeen diagnosed with HIV weeks\nbefore the administration's offi-\ncial announcement and raising\nquestions on whether officials\nattempted to keep the case un-\nder wraps. A total of five children\nsuffering from thalassemia have\nbeen diagnosed with HIV in the\ndistrict.\n\n\u201cThe hospital staff started be-\nhaving differently. They would\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.30232558139535,
+   "ocr_low_conf_share": 0.01744186046511628,
+   "headline": "One child was diagnosed in Sept, month before official confirmation",
+   "deck": "",
+   "byline": "SHUBHAM TIGGA; RANCHI, OCTOBER 29",
+   "text": "THE MOTHER of one of the children, who was being treated for thalassemia and was infected with HIV, allegedly because of a blood transfusion in Jharkhand's Chaibasa, has told The Indian Express that her child was diagnosed withthe virus in September - amonth before the administration officially confirmed the first case on October 18. According to the child's mother, hospital staff informed them in September that their child had tested positive for HIV and immediately began admin-istering medicines, assuring them that \"these would make the child recover\". The child's medical records accessed by The Indian Express show that antiretroviral (ART) treatment began on September 24, indicating that the child had been diagnosed with HIV weeks before the administration's official announcement and raising questions on whether officials attempted to keep the case under wraps. A total of five children suffering from thalassemia have been diagnosed with HIV in the district.\n\n\"The hospital staff started behaving differently. They would",
+   "n_words": 157,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2765,
+      2355,
+      3795,
+      2493
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      2530,
+      4147,
+      2647
+     ]
+    ],
+    "layout_words": 43
+   },
+   "headline_raw": "PRESIDENT\u2019S RAFALE SORTIE",
+   "deck_raw": "",
+   "body_raw": "President Droupadi Murmu before her sortie ona Rafale jet at the IAF station in Ambala on\nWednesday. She became the first Indian President to fly in two IAF fighters \u2014 her previous\nsortie was in a Sukhoi 30 MK] in April 2023. Kamleshwar Singh REPORT, PAGE",
+   "ocr_conf": 89.54347826086956,
+   "ocr_low_conf_share": 0.06521739130434782,
+   "headline": "PRESIDENT'S RAFALE SORTIE",
+   "deck": "",
+   "byline": "",
+   "text": "President Droupadi Murmu before her sortie ona Rafale jet at the IAF station in Ambala on Wednesday. She became the first Indian President to fly in two IAF fighters - her previous sortie was in a Sukhoi 30 MK] in April 2023. Kamleshwar Singh REPORT, PAGE",
+   "n_words": 46,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3949,
+      2616,
+      4180,
+      2644
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "REPORT, PAGE 7",
+   "ocr_conf": 32.0,
+   "ocr_low_conf_share": 0.6666666666666666,
+   "headline": "",
+   "deck": "",
+   "byline": "REPORT, PAGE 7",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      2747,
+      2706,
+      2982
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1298,
+      3006,
+      1653,
+      3076
+     ],
+     [
+      1293,
+      3125,
+      1741,
+      3397
+     ],
+     [
+      1785,
+      2967,
+      2228,
+      3398
+     ],
+     [
+      2274,
+      2968,
+      2716,
+      3391
+     ],
+     [
+      2435,
+      3568,
+      2683,
+      3648
+     ],
+     [
+      2320,
+      3720,
+      2667,
+      4150
+     ]
+    ],
+    "layout_words": 193
+   },
+   "headline_raw": "All eyes on Trump-Xi today, peace plan\ncould mark rise of a new bipolar order",
+   "deck_raw": "",
+   "body_raw": "CRAJA MOHAN\nNEW DELHI, OCTOBER 29\n\nWITHA trade deal ready for sig-\nnature, US President Donald\nTrump and Chinese President Xi\nJinping are expected to unveil\nThursday a \u201cglobal peace plan\u201d\nthat seeks to cast both as states-\nmen jointly steering the world\n\naway from turbulence. It could\nalso help mark the slow but in-\nevitable emergence of a bipolar\nglobal order.\nThe plan, likely to be an-\nnounced during their summit in\nBusan, could become the organ-\nising framework for an intense\nphase of US-China engagement\nover the coming year.\nTrump is expected to travel\n\nto Beijing early next year, with Xi\nundertaking a return visit to\nWashington later in 2026 \u2014 vis-\nits that could inaugurate a new\nphase in the world\u2019s most con-\nsequential bilateral relationship.\nWhile the trade dispute has\ndominated headlines for\nmonths, neither leader wants to\ndefine the relationship merely\nCONTINUEDON PAGE 2\n\nTowards\n|@ de-escalation\n\nTHE LATEST round of\ntalks indicates attempts\nby both sides to stabilise\nthe disengagement\nprocess along the Line of\nActual Control in eastern\nLadakh and resolve exist-\ning border issues, ina\nmove towards eventually\nachieving de-escalation\nof troops from the region.",
+   "ocr_conf": 92.33160621761658,
+   "ocr_low_conf_share": 0.025906735751295335,
+   "headline": "All eyes on Trump-Xi today, peace plan could mark rise of a new bipolar order",
+   "deck": "",
+   "byline": "CRAJA MOHAN; NEW DELHI, OCTOBER 29",
+   "text": "WITHA trade deal ready for signature, US President Donald Trump and Chinese President Xi Jinping are expected to unveil Thursday a \"global peace plan\" that seeks to cast both as statesmen jointly steering the world\n\naway from turbulence. It could also help mark the slow but inevitable emergence of a bipolar global order. The plan, likely to be announced during their summit in Busan, could become the organ-ising framework for an intense phase of US-China engagement over the coming year. Trump is expected to travel\n\nto Beijing early next year, with Xi undertaking a return visit to Washington later in 2026 - visits that could inaugurate a new phase in the world's most consequential bilateral relationship. While the trade dispute has dominated headlines for months, neither leader wants to define the relationship merely CONTINUEDON PAGE 2\n\nTowards @ de-escalation\n\nTHE LATEST round of talks indicates attempts by both sides to stabilise the disengagement process along the Line of Actual Control in eastern Ladakh and resolve existing border issues, ina move towards eventually achieving de-escalation of troops from the region.",
+   "n_words": 179,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2760,
+      2752,
+      4172,
+      3136
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      3204,
+      3167,
+      3316
+     ],
+     [
+      2761,
+      3364,
+      3204,
+      4268
+     ],
+     [
+      3289,
+      3785,
+      3425,
+      3813
+     ],
+     [
+      3251,
+      3878,
+      3692,
+      4269
+     ],
+     [
+      3738,
+      3879,
+      4181,
+      4262
+     ]
+    ],
+    "layout_words": 224
+   },
+   "headline_raw": "Voices of discontent but\nTejashwi\u2019s challenge: How to\nexpand tent, bring them in",
+   "deck_raw": "",
+   "body_raw": "VANDITAMISHRA\nRAGHOPUR, MUZAFFARPUR,\nSITAMARHI, OCTOBER 29\n\nAS YOU step outside Patna, the\nNitish Kumar-led NDA govern-\nment\u2019s infrastructure develop-\nment story that seems so visible\nin Patna, lurches and becomes\nmore fitful. The wide and gleam-\ning new bridge and the recently\nconstructed 4-lane highway rep-\nresent a smoother connection \u2014\nbutalso etch a sharp and glaring\ndisconnect. Long distance travel\nhas been made far easier and\nshorter now in Bihar, but away\nfrom Patna, the distinction be-\ntween rural and urban still blurs\nperilously, the narrow road isstill\nall too prone to the ubiquitous\ntraffic snarl and water-logging.\nEven Muzaffarpur, Bihar\u2019s sec-\nond most urbanised centre after\nPatna, also designated a \u201cSmart\nCity\u201d, continues to battle the dis-\nmal \u201cjam\u201d and \u201cjal jamaav\u2019 inef-\n\nBIHAR\n\nfectually. In Sitamarhi, residents\npoint angrily to the Mehsaul\noverbridge, the town\u2019s lifeline,\non which work started almost\ntwo decades and some elections\nago, but is still incomplete.\nOutside Patna, the battle-\nground in this election seems,\ntherefore, on the face of it, more\nhospitable to the Opposition. In\n\nprinciple, a range of factors seem\nto be working for it: There is un-\neven development, patchy deliv-\nery of government schemes,\nprice rise, clamour against \u201caf-\nsarshahi\u201d (rule of the bureaucrat)\nand increased corruption \u2014 even\nthe latest Mahila Rojgar Yojana,\nconsisting of election-eve\nCONTINUED ON PAGE 6",
+   "ocr_conf": 89.07142857142857,
+   "ocr_low_conf_share": 0.07589285714285714,
+   "headline": "Voices of discontent but Tejashwi's challenge: How to expand tent, bring them in",
+   "deck": "",
+   "byline": "VANDITAMISHRA; RAGHOPUR, MUZAFFARPUR,; SITAMARHI, OCTOBER 29",
+   "text": "AS YOU step outside Patna, the Nitish Kumar-led NDA government's infrastructure development story that seems so visible in Patna, lurches and becomes more fitful. The wide and gleaming new bridge and the recently constructed 4-lane highway represent a smoother connection - butalso etch a sharp and glaring disconnect. Long distance travel has been made far easier and shorter now in Bihar, but away from Patna, the distinction between rural and urban still blurs perilously, the narrow road isstill all too prone to the ubiquitous traffic snarl and water-logging. Even Muzaffarpur, Bihar's second most urbanised centre after Patna, also designated a \"Smart City\", continues to battle the dismal \"jam\" and \"jal jamaav' inef-\n\nBIHAR\n\nfectually. In Sitamarhi, residents point angrily to the Mehsaul overbridge, the town's lifeline, on which work started almost two decades and some elections ago, but is still incomplete. Outside Patna, the battleground in this election seems, therefore, on the face of it, more hospitable to the Opposition. In\n\nprinciple, a range of factors seem to be working for it: There is uneven development, patchy delivery of government schemes, price rise, clamour against \"afsarshahi\" (rule of the bureaucrat) and increased corruption - even the latest Mahila Rojgar Yojana, consisting of election-eve",
+   "n_words": 203,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      3529,
+      2220,
+      3765
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      3467,
+      2061,
+      3501
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      3797,
+      1189,
+      3867
+     ],
+     [
+      808,
+      3915,
+      1252,
+      4188
+     ],
+     [
+      1298,
+      3758,
+      1738,
+      4189
+     ],
+     [
+      1784,
+      3759,
+      2227,
+      4182
+     ]
+    ],
+    "layout_words": 145
+   },
+   "headline_raw": "India & China agree to maintain LAC\nstability, continue border mechanisms",
+   "deck_raw": "FIRST HIGH-LEVEL MILITARY TALKS SINCE DISENGAGEMENT",
+   "body_raw": "AMRITANAYAK DUTTA\nNEW DELHI, OCTOBER 29\n\nIN THE first high-level military\ntalks since India and China com-\npleted the disengagement of\ntroops from key friction points\nalong the Line of Actual Control\n(LAC) in eastern Ladakh last\nOctober, the two sides agreed to\n\ncontinue to use \u201cexisting mech-\nanisms to resolve any groundis-\nsues along the border to main-\ntain stability\u201d.\nThe 23rd round of Corps\nCommander-level talks was held\nat the Chushul-Moldo border\nmeeting point on October 25, the\nMinistry of External Affairs\n(MEA) said on Wednesday.\nThe meeting \u2014 the first high-\n\nlevel engagement since the\nSpecial Representatives\u2019 talks on\nAugust 19 \u2014 came a year after\nboth sides disengaged from the\nfriction points in October last\nyear, following the 22nd round\nof military talks.\nFollowing the agreement be-\ntween the twosides last October,\nboth sides have been carrying\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.86896551724138,
+   "ocr_low_conf_share": 0.027586206896551724,
+   "headline": "India & China agree to maintain LAC stability, continue border mechanisms",
+   "deck": "FIRST HIGH-LEVEL MILITARY TALKS SINCE DISENGAGEMENT",
+   "byline": "AMRITANAYAK DUTTA; NEW DELHI, OCTOBER 29",
+   "text": "IN THE first high-level military talks since India and China completed the disengagement of troops from key friction points along the Line of Actual Control (LAC) in eastern Ladakh last October, the two sides agreed to\n\ncontinue to use \"existing mechanisms to resolve any groundissues along the border to maintain stability\". The 23rd round of Corps Commander-level talks was held at the Chushul-Moldo border meeting point on October 25, the Ministry of External Affairs (MEA) said on Wednesday. The meeting - the first highlevel engagement since the Special Representatives' talks on August 19 - came a year after both sides disengaged from the friction points in October last year, following the 22nd round of military talks. Following the agreement between the twosides last October, both sides have been carrying",
+   "n_words": 129,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4328,
+      1729,
+      4564
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4588,
+      665,
+      4658
+     ],
+     [
+      319,
+      4708,
+      762,
+      5256
+     ],
+     [
+      804,
+      4549,
+      1250,
+      5257
+     ],
+     [
+      1297,
+      4550,
+      1738,
+      5250
+     ]
+    ],
+    "layout_words": 257
+   },
+   "headline_raw": "Attack on CRPF camp: HC sets aside\ndeath for 4; acquits 5 of key charges",
+   "deck_raw": "",
+   "body_raw": "MANISH SAHU\nLUCKNOW, OCTOBER 29\n\nCITING DEFECTS in the investi-\ngation that struck at \u201cthe root of\nthe case\u201d, the Allahabad High\nCourt Wednesday set aside a\ntrial court order of capital pun-\nishment to four men and alife\nterm to another over the terror\nattack on a CRPF camp in UP's\nRampur in 2007, and acquitted\nthe five, including two Pakistani\nnationals, in the main case re-\nlated to the incident.\nThe High Court, however,\nsentenced the five to ten years\u2019\n\nrigorous imprisonment under\nSection 25(1-A)of the Arms Act,\n1959, related mainly to posses-\nsion, and imposed a fine of Rs 1\nlakh on each. The High Court\npassed the order while hearing\nan appeal filed by the five, who\nare currently lodged in the\nBareilly Central Jail, against the\njudgment passed by the Sessions\nCourt in Rampur.\nIn 2019, the Sessions Court\nhad sentenced Mohammad\nShareef (47), Sabaduddin (46),\nand two Pakistani nationals and\nalleged LeT operatives Imran\nShahzad (48) and Mohammad\nFarooq (47), to capital punish-\n\nmentin the attack in whicheight\npersons were killed. It had sen-\ntenced the fifth accused, Jung\nBahadur (58), to life imprison-\nment in the case.\nThe SessionsCourt had acquit-\nted two others, Gulab Khan (41)\nand Mohammad Kausar (48), in\nthecaseciting lack of sufficient ev-\nidence. The police had claimed to\nhaverecovered arms and ammu-\nnition from those arrested.\nSetting aside the conviction\nbased on the main charges, the\nHigh Court observed that the\n\u201ccase would have meta different\nresult had the investigation and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.01167315175097,
+   "ocr_low_conf_share": 0.01556420233463035,
+   "headline": "Attack on CRPF camp: HC sets aside death for 4; acquits 5 of key charges",
+   "deck": "",
+   "byline": "MANISH SAHU; LUCKNOW, OCTOBER 29",
+   "text": "CITING DEFECTS in the investigation that struck at \"the root of the case\", the Allahabad High Court Wednesday set aside a trial court order of capital punishment to four men and alife term to another over the terror attack on a CRPF camp in UP's Rampur in 2007, and acquitted the five, including two Pakistani nationals, in the main case related to the incident. The High Court, however, sentenced the five to ten years'\n\nrigorous imprisonment under Section 25(1-A)of the Arms Act, 1959, related mainly to possession, and imposed a fine of Rs 1 lakh on each. The High Court passed the order while hearing an appeal filed by the five, who are currently lodged in the Bareilly Central Jail, against the judgment passed by the Sessions Court in Rampur. In 2019, the Sessions Court had sentenced Mohammad Shareef (47), Sabaduddin (46), and two Pakistani nationals and alleged LeT operatives Imran Shahzad (48) and Mohammad Farooq (47), to capital punishmentin the attack in whicheight persons were killed. It had sentenced the fifth accused, Jung Bahadur (58), to life imprisonment in the case. The SessionsCourt had acquitted two others, Gulab Khan (41) and Mohammad Kausar (48), in thecaseciting lack of sufficient evidence. The police had claimed to haverecovered arms and ammunition from those arrested. Setting aside the conviction based on the main charges, the High Court observed that the \"case would have meta different result had the investigation and",
+   "n_words": 238,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4338,
+      2029,
+      4395
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4706,
+      2191,
+      4922
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "THE WORLD",
+   "deck_raw": "",
+   "body_raw": "DAY AFTER STRIKES\nKILLED 104, ISRAEL\nSAYS WILL UPHOLD\nGAZA CEASEFIRE\nPAGE 12",
+   "ocr_conf": 94.46153846153847,
+   "ocr_low_conf_share": 0.0,
+   "headline": "THE WORLD",
+   "deck": "",
+   "byline": "DAY AFTER STRIKES; KILLED 104, ISRAEL; SAYS WILL UPHOLD; GAZA CEASEFIRE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      4335,
+      4174,
+      4595
+     ],
+     [
+      2273,
+      4592,
+      2561,
+      4669
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      4668,
+      2644,
+      4819
+     ],
+     [
+      2273,
+      4867,
+      2714,
+      5258
+     ],
+     [
+      2760,
+      4590,
+      3203,
+      5252
+     ],
+     [
+      3250,
+      5024,
+      3659,
+      5100
+     ],
+     [
+      3250,
+      5185,
+      3691,
+      5259
+     ],
+     [
+      3737,
+      4591,
+      4180,
+      5252
+     ]
+    ],
+    "layout_words": 253
+   },
+   "headline_raw": "Under ED lens: 22 de-addiction centres run by\nPunjab doctor that \u2018sold pills in open market\u2019\nANJU AGNIHOTRI",
+   "deck_raw": "",
+   "body_raw": "CHABA, RITU SARIN\n& AISWARYARAJ\nCHANDIGARH, NEW DELHI,\nDEHRADUN, OCTOBER 29\n\nWHEN THE Punjab government\ndecided on Tuesday that no pri-\nvate person will be allowed to\noperate more than five drug de-\naddiction centres in the state, the\nmove was meantto bring trans-\nparency to a system that has\ncome to be mired in controversy.\nNowhere is the crisis more ap-\nparent than in the case of 22 pri-\n\nvate centres being investigated\nby the Enforcement Directorate\nafter allegations emerged of fake\npatient admissions, procuring\nmore drugs than required, and\npeddling them in the open mar-\nket, The Indian Express found.\nAli 22 were run by one man,\nChandigarh-based doctor Amit\nBansal. The facilities were spread\nacross 16 districts in Punjab and\none in Chandigarh, and are now\nall shuttered. While other private\nplayers were running de-addic-\ntion centres in Punjab too, this\nwas the highest by a single entity.\nWhile trouble for Bansal\u2019s\n\nOne of the de-addiction\ncentres in Jalandhar. Express\n\nclinics first started in 2022, when\ntwoemployees of a de-addiction\n\ncentre in Ludhiana were arrested\nfor alleged irregularities, he came\nunder sharper scrutiny last year,\nwhen videos went viral from one\nof his facilities purportedly\nshowing staff selling medicines\nin the open market.\nUnlike the state govern-\nment\u2019s de-addiction centres,\nwhich give away the tablets to\nrecovering addicts for free, such\nprivate centres, which came into\nexistence in 2015-16 under rules\nframed in 2011, are supposed to\ncharge Rs 40 per pill. Except,\nBansal's centres allegedly\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.16205533596838,
+   "ocr_low_conf_share": 0.039525691699604744,
+   "headline": "Under ED lens: 22 de-addiction centres run by Punjab doctor that 'sold pills in open market' ANJU AGNIHOTRI",
+   "deck": "",
+   "byline": "CHABA, RITU SARIN; & AISWARYARAJ; CHANDIGARH, NEW DELHI,; DEHRADUN, OCTOBER 29",
+   "text": "WHEN THE Punjab government decided on Tuesday that no private person will be allowed to operate more than five drug de-addiction centres in the state, the move was meantto bring transparency to a system that has come to be mired in controversy. Nowhere is the crisis more apparent than in the case of 22 private centres being investigated by the Enforcement Directorate after allegations emerged of fake patient admissions, procuring more drugs than required, and peddling them in the open market, The Indian Express found. Ali 22 were run by one man, Chandigarh-based doctor Amit Bansal. The facilities were spread across 16 districts in Punjab and one in Chandigarh, and are now all shuttered. While other private players were running de-addiction centres in Punjab too, this was the highest by a single entity. While trouble for Bansal's\n\nOne of the de-addiction centres in Jalandhar. Express\n\nclinics first started in 2022, when twoemployees of a de-addiction\n\ncentre in Ludhiana were arrested for alleged irregularities, he came under sharper scrutiny last year, when videos went viral from one of his facilities purportedly showing staff selling medicines in the open market. Unlike the state government's de-addiction centres, which give away the tablets to recovering addicts for free, such private centres, which came into existence in 2015-16 under rules framed in 2011, are supposed to charge Rs 40 per pill. Except, Bansal's centres allegedly",
+   "n_words": 230,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      4963,
+      2228,
+      5016
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      5058,
+      2153,
+      5228
+     ]
+    ],
+    "layout_words": 13
+   },
+   "headline_raw": "EXPRESS NETWORK >",
+   "deck_raw": "",
+   "body_raw": "PROBE \u2018BRIBES OF\n~25-35 LAKH\u2019 PER\nPOST: ED TOTAMIL\nNADU DGP pace 3",
+   "ocr_conf": 70.3076923076923,
+   "ocr_low_conf_share": 0.23076923076923078,
+   "headline": "EXPRESS NETWORK >",
+   "deck": "",
+   "byline": "PROBE 'BRIBES OF; POST: ED TOTAMIL",
+   "text": "NADU DGP pace 3",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5384,
+      1243,
+      5508
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5580,
+      499,
+      5612
+     ],
+     [
+      318,
+      5735,
+      674,
+      5847
+     ],
+     [
+      318,
+      5895,
+      758,
+      6166
+     ],
+     [
+      807,
+      5539,
+      1249,
+      6166
+     ]
+    ],
+    "layout_words": 116
+   },
+   "headline_raw": "Acquitted after 43",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nVIDHEESHA\nKUNTAMALLA\nNEW DELHI, OCTOBER 29\n\nWHEN THE call came,\nSaraswathi Vedam was in uni-\nversity in Massachusetts in 1982,\nhalfway through her Master's\ndegree in community health\neducation.\nHer younger _ brother,\n\nSubramanyam \u2014\u201cSubu\u201d tofam-\nily \u2014 was on the phone. He had\nbeen detained and, a few\nmonths later, accused of mur-\ndering a classmate. \u201cHe told me\nnot to worry,\u201d Saraswathi told\nThe Indian Express. \u201cHe said,\n\u2018They are just trying to pressure\nme. It\u2019s going to be okay. Please\ndon\u2019t disturb Ammaand Appa\u2019s\ntrip to Europe\u2019.\u201d\nBut it wasn't okay. Within\nhours, Saraswathi drove hun-\ndreds of miles south to State\nCollege, the college town that's\nhome to Penn State University's",
+   "ocr_conf": 92.61206896551724,
+   "ocr_low_conf_share": 0.017241379310344827,
+   "headline": "Acquitted after 43",
+   "deck": "",
+   "byline": "ANCHOR; VIDHEESHA; KUNTAMALLA; NEW DELHI, OCTOBER 29",
+   "text": "WHEN THE call came, Saraswathi Vedam was in university in Massachusetts in 1982, halfway through her Master's degree in community health education. Her younger _ brother,\n\nSubramanyam - \"Subu\" tofamily - was on the phone. He had been detained and, a few months later, accused of murdering a classmate. \"He told me not to worry,\" Saraswathi told The Indian Express. \"He said, 'They are just trying to pressure me. It's going to be okay. Please don't disturb Ammaand Appa's trip to Europe'.\" But it wasn't okay. Within hours, Saraswathi drove hundreds of miles south to State College, the college town that's home to Penn State University's",
+   "n_words": 106,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      1273,
+      5385,
+      4047,
+      5510
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      5933,
+      1718,
+      6160
+     ],
+     [
+      2760,
+      5541,
+      3203,
+      6161
+     ],
+     [
+      3249,
+      5541,
+      3694,
+      6168
+     ],
+     [
+      3736,
+      5541,
+      4179,
+      6162
+     ]
+    ],
+    "layout_words": 263
+   },
+   "headline_raw": "years, Indian-origin man in US now faces deportation",
+   "deck_raw": "",
+   "body_raw": "Subramanyam Vedam\noutside acourthouse in\nBellefonte, Pennsylvania in\nFebruary; and (right)a 1981\nphotograph of Vedam with\nhis sister Saraswathi. AP\n\nmain campus. It was where they\nhad grown up, where their father\nK Vedam, aphysics professorand\nlater professor emeritus, and\ntheir mother Nalini, who ran a li-\nbrary, led the ideal diaspora life.\n\u201cWhile driving home, I re-\nmember thinking the whole\ntime that this couldn't be real. He\nwas 20. Just a kid,\u201d she said on\nthe phone from Vancouver,\nCanada, where she is Professor\nand Lead Investigator at\nUniversity of British Columbia.\nA few months later, in 1983,\nSubu was convicted and sen-\n\ntenced to life without parole. It\nwould take 43 years for hisname\nto be cleared \u2014 in August this\nyear, a Pennsylvania judge finally\novertumed his conviction, ruling\nthat prosecutors had concealed\nthousands of pages of evidence\nthat would have proved his in-\nnocence, By then, Subu had\nspent more than two-thirds of\nhis life in prison.\nBut when freedom came, it\nwasn\u2019t real. Twenty-four hours\nafter hisexoneration, he was de-\ntained again, this time by US\nImmigration and Customs\n\nEnforcement (ICE) over deporta-\ntion charges dating back to 1988\nbased onthe murder conviction\nand a related drug offence.\n\u201cI couldn't even hug him,\u201d\nSaraswathi said. \u201cThere was\nplexiglass between us. Yet, when\nI saw him, he stood up straight\nand said, \u2018Akka, my name has\nbeen cleared. I\u2019m not a prisoner\nanymore, I'm adetained man.\u201d\nImmigration lawyer Ava\nBenach, who is representing him\nat the Board of Immigration\nAppeals, told the Associated Press,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.23574144486692,
+   "ocr_low_conf_share": 0.049429657794676805,
+   "headline": "years, Indian-origin man in US now faces deportation",
+   "deck": "",
+   "byline": "",
+   "text": "Subramanyam Vedam outside acourthouse in Bellefonte, Pennsylvania in February; and (right)a 1981 photograph of Vedam with his sister Saraswathi. AP\n\nmain campus. It was where they had grown up, where their father K Vedam, aphysics professorand later professor emeritus, and their mother Nalini, who ran a library, led the ideal diaspora life. \"While driving home, I remember thinking the whole time that this couldn't be real. He was 20. Just a kid,\" she said on the phone from Vancouver, Canada, where she is Professor and Lead Investigator at University of British Columbia. A few months later, in 1983, Subu was convicted and sentenced to life without parole. It would take 43 years for hisname to be cleared - in August this year, a Pennsylvania judge finally overtumed his conviction, ruling that prosecutors had concealed thousands of pages of evidence that would have proved his innocence, By then, Subu had spent more than two-thirds of his life in prison. But when freedom came, it wasn't real. Twenty-four hours after hisexoneration, he was detained again, this time by US Immigration and Customs\n\nEnforcement (ICE) over deportation charges dating back to 1988 based onthe murder conviction and a related drug offence. \"I couldn't even hug him,\" Saraswathi said. \"There was plexiglass between us. Yet, when I saw him, he stood up straight and said, 'Akka, my name has been cleared. I'm not a prisoner anymore, I'm adetained man.\" Immigration lawyer Ava Benach, who is representing him at the Board of Immigration Appeals, told the Associated Press,",
+   "n_words": 253,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.0,
+ "flags": []
+}

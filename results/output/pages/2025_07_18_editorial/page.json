@@ -1,0 +1,676 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_18_editorial",
+ "source_file": "2025-07-18_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-18_editorial.png",
+ "date": "2025-07-18",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 1,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 454,
+  "mean_line_conf": 89.07907581664443,
+  "orphan_words": 0,
+  "body_words_total": 3364
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      375,
+      605,
+      1474,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      617,
+      820,
+      1236,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      763,
+      771,
+      1089,
+      802
+     ],
+     [
+      437,
+      918,
+      951,
+      960
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "@ FOUNDED BY @\n\nBECAUSE THE TRUTH",
+   "ocr_conf": 81.28571428571429,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "BECAUSE THE TRUTH",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2788,
+      599,
+      4040,
+      775
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      885,
+      3531,
+      1017
+     ],
+     [
+      3575,
+      1393,
+      4177,
+      1450
+     ]
+    ],
+    "body_boxes": [
+     [
+      2320,
+      2356,
+      2828,
+      3353
+     ],
+     [
+      2925,
+      1251,
+      3527,
+      1524
+     ],
+     [
+      3574,
+      1251,
+      4178,
+      1406
+     ],
+     [
+      3572,
+      1450,
+      4179,
+      2549
+     ],
+     [
+      3573,
+      2560,
+      4177,
+      2874
+     ]
+    ],
+    "layout_words": 382
+   },
+   "headline_raw": "in the cosmos",
+   "deck_raw": "Success of Axiom-4 mission offers invaluable lessons\nand a powerful impetus for India\u2019s space aspirations\nee ag SE ER ER Sg UE VIC cu\npotential profitability, encouraging more",
+   "body_raw": "Axiom-4's experience provides arich case\nstudy in several key areas. Of primary and crit-\nical importanceis crew training and prepara-\ntion. Observing how commercial astronauts\nfrom various professional backgrounds, who\nare not necessarily all career military pilots,\nare rigorously trained and seamlessly inte-\n\nthe benefits of pooling resources, expertise,\nand technological capabilities, This mission\u2019s\nsuccess will certainly accelerate private-sector\nparticipation, demonstrating the viability and\n\nIndian companies to invest in spaceinfrastruc-\nture, services, and human spaceflight support\nThis could lead to a thriving ecosystem of\nIndian suppliers, manufacturers, and service\nproviders for future missions.\nThe transition from short-duration mis-\nsions like Gaganyaan toa continuous human\npresence requires mastering complex logis-\ntics, radiation protection, and psychological\nsupport for astronauts, all areas where these\nnew transnational collaborations can offer\ninsights, Axiom Space\u2019s declared long-term\ngoal of building its own commercial space\nstation, intended to succeed the ISS, is a bold\nundertaking. ISRO has already declared\nIndia\u2019s ambitions to deploy the Bharatiya\nAntariksh Mission. It plans to, perhaps inthe\nfollowing decade, send Indians to the Moon,\nmaybe even build a base on its surface.\nObserving the progress of Axioms efforts, in-\ncluding the challenges they encounter, and\nthe solutions they devise in developing and\nintegrating modules intothe ISS, will provide\nrare invaluable foresight for India.\nIn essence, the successful conclusion of\nAxiom-4 is not just a tiumph for commercial\nspaceflight; itis abeginning for the spaceam-\nbitions of anation such as India. It underscores\n\nthat human spaceflight is nolonger solely the\ndomain of a few state-funded agencies but is\nevolving into a more dynamic, collaborative,\nand commercially viable enterprise. One can\nonly hope that these ventures will also sup-\nport purely scientific projects such as the\nplanned ISRO missions to look for life by study-\ning the atmospheres of extra-solar planets, or",
+   "ocr_conf": 92.0757180156658,
+   "ocr_low_conf_share": 0.033942558746736295,
+   "headline": "in the cosmos",
+   "deck": "Success of Axiom-4 mission offers invaluable lessons and a powerful impetus for India's space aspirations potential profitability, encouraging more",
+   "byline": "",
+   "text": "Axiom-4's experience provides arich case study in several key areas. Of primary and critical importanceis crew training and preparation. Observing how commercial astronauts from various professional backgrounds, who are not necessarily all career military pilots, are rigorously trained and seamlessly intethe benefits of pooling resources, expertise, and technological capabilities, This mission's success will certainly accelerate private-sector participation, demonstrating the viability and\n\nIndian companies to invest in spaceinfrastructure, services, and human spaceflight support This could lead to a thriving ecosystem of Indian suppliers, manufacturers, and service providers for future missions. The transition from short-duration missions like Gaganyaan toa continuous human presence requires mastering complex logistics, radiation protection, and psychological support for astronauts, all areas where these new transnational collaborations can offer insights, Axiom Space's declared long-term goal of building its own commercial space station, intended to succeed the ISS, is a bold undertaking. ISRO has already declared India's ambitions to deploy the Bharatiya Antariksh Mission. It plans to, perhaps inthe following decade, send Indians to the Moon, maybe even build a base on its surface. Observing the progress of Axioms efforts, including the challenges they encounter, and the solutions they devise in developing and integrating modules intothe ISS, will provide rare invaluable foresight for India. In essence, the successful conclusion of Axiom-4 is not just a tiumph for commercial spaceflight; itis abeginning for the spaceambitions of anation such as India. It underscores\n\nthat human spaceflight is nolonger solely the domain of a few state-funded agencies but is evolving into a more dynamic, collaborative, and commercially viable enterprise. One can only hope that these ventures will also support purely scientific projects such as the planned ISRO missions to look for life by studying the atmospheres of extra-solar planets, or",
+   "n_words": 287,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      347,
+      1090,
+      1511,
+      1192
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1231,
+      1532,
+      2917
+     ]
+    ],
+    "layout_words": 515
+   },
+   "headline_raw": "STATE OF INSECURITY",
+   "deck_raw": "",
+   "body_raw": "After hard-won gains, Bihar cannot afford backsliding. In election\nyear, state government has a lot to answer \u2014 and account for\nEN WITH GUNS stride into a high-profile hospital in the capital city of\nM Patna, fireat their target,a convictedcriminal on parole, and leave. The lat-\nest instance of murder in Bihar \u2014 one among several in recent days and\nweeks \u2014 is a chilling tableau caught on CCTV. The case will be investi-\ngated in days to come, and the law will hopefully take its course. But its impact could be far\nwider. In astate headed to assembly polls, where \u201claw and order\u201d has beena polarising con-\ncern that overshadowed other issues in the past, the murder in the hospital is likely tobere-\nplayed and revisited in the campaign to come \u2014 with one difference. This time, the BJP-\nJD(U) will be at the receiving end, and the RJD, for long years accused of presiding over\n\u201cjungle raj\u201d when it ruled the state, will play the indignant and outraged party. In the last in-\nstance, however, the political crossfire, or the role reversal, is not the main story. It is, in-\nstead, this: In astatein which, over thelast two decades, the subject has slowly and painstak-\ningly changed from thestate\u2019s capacity to performits most basic functions, uphold the rule\nof law, to how it faces the many challenges of governance and development, the possible re-\nturn of \u201claw and order\u201d as a trumping concernis a disheartening backsliding,\nWhen Nitish Kumar came to power in 2005, there had beena long process of de-insti-\ntutionalisation under Lalu Prasad. While Lalu had become the symbol of backward-caste\nempowerment, and while his politics helped shape an upsurge from below of under-rep-\nresented constituencies, he also contributed to a pessimistic opposition taking hold \u2014\n\u201csamajik nyaya (social justice)\u201d was painted as unconnected to, almost antagonistic with,\ndevelopment or \u201cvikas\u201d. This disregard for the quality of governance in a state that had\nmany steep mountains to climbon the development front had taken a toll, especially on\nlaw and order. One of Nitish\u2019s first and most resonant successes, therefore, lay in curbing\nlawlessness. In fact, all the other more fluctuating achievements of the Nitish government\nin its various avatars were built on the foundations laid during 2005-2010 on this front.\nFrom renovating the government school to reviving the health centre, from the schoolgirl\nona cycle provided by the government so that she doesn't drop out to the woman mak-\ning her own way inthe self-help group \u2014itall became possible once the fundamental as-\nsurance of the safety and security of citizens began to be taken for granted.\nNeither the JD(U) nor the BJP, partmers in the ruling alliance, can afford to turn their\nbackon the return of insecurities on the law-and-order front. Both must know that much\nmore than an electionis at stake. The Nitish Kumar government, whether or not it comes\nback to power, has a legacy to protect. it must ensure that the state builds on its hard-\nwon gains, and that there is no going back to the past.",
+   "ocr_conf": 91.0562015503876,
+   "ocr_low_conf_share": 0.03488372093023256,
+   "headline": "STATE OF INSECURITY",
+   "deck": "",
+   "byline": "",
+   "text": "After hard-won gains, Bihar cannot afford backsliding. In election year, state government has a lot to answer - and account for EN WITH GUNS stride into a high-profile hospital in the capital city of M Patna, fireat their target,a convictedcriminal on parole, and leave. The latest instance of murder in Bihar - one among several in recent days and weeks - is a chilling tableau caught on CCTV. The case will be investigated in days to come, and the law will hopefully take its course. But its impact could be far wider. In astate headed to assembly polls, where \"law and order\" has beena polarising concern that overshadowed other issues in the past, the murder in the hospital is likely tobereplayed and revisited in the campaign to come - with one difference. This time, the BJP-JD(U) will be at the receiving end, and the RJD, for long years accused of presiding over \"jungle raj\" when it ruled the state, will play the indignant and outraged party. In the last instance, however, the political crossfire, or the role reversal, is not the main story. It is, instead, this: In astatein which, over thelast two decades, the subject has slowly and painstakingly changed from thestate's capacity to performits most basic functions, uphold the rule of law, to how it faces the many challenges of governance and development, the possible return of \"law and order\" as a trumping concernis a disheartening backsliding, When Nitish Kumar came to power in 2005, there had beena long process of de-institutionalisation under Lalu Prasad. While Lalu had become the symbol of backward-caste empowerment, and while his politics helped shape an upsurge from below of under-represented constituencies, he also contributed to a pessimistic opposition taking hold - \"samajik nyaya (social justice)\" was painted as unconnected to, almost antagonistic with, development or \"vikas\". This disregard for the quality of governance in a state that had many steep mountains to climbon the development front had taken a toll, especially on law and order. One of Nitish's first and most resonant successes, therefore, lay in curbing lawlessness. In fact, all the other more fluctuating achievements of the Nitish government in its various avatars were built on the foundations laid during 2005-2010 on this front. From renovating the government school to reviving the health centre, from the schoolgirl ona cycle provided by the government so that she doesn't drop out to the woman making her own way inthe self-help group - itall became possible once the fundamental assurance of the safety and security of citizens began to be taken for granted. Neither the JD(U) nor the BJP, partmers in the ruling alliance, can afford to turn their backon the return of insecurities on the law-and-order front. Both must know that much more than an electionis at stake. The Nitish Kumar government, whether or not it comes back to power, has a legacy to protect. it must ensure that the state builds on its hard-won gains, and that there is no going back to the past.",
+   "n_words": 503,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1623,
+      1100,
+      2233,
+      1193
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      1250,
+      2229,
+      3347
+     ],
+     [
+      1622,
+      3843,
+      2007,
+      3886
+     ],
+     [
+      1621,
+      3948,
+      2225,
+      5252
+     ]
+    ],
+    "layout_words": 578
+   },
+   "headline_raw": "- ea - NX\nSOMAK RAYCHAUDHURY",
+   "deck_raw": "",
+   "body_raw": "THE SAFE RETURN of Group Captain\nShubhanshu Shukla from the International\nSpace Station as part of the Axiom-4 mission,\nwhere he was the pilot amongithefour-mem-\nbercrew, marks awatershed moment not just\nfor Indian human spaceflight, but for the en-\ntire strategic arc of India\u2019s space programme.\nFor the first time since Rakesh Sharma\ntravelled on a Soviet spacecraft in 1984, an\nIndian has completed a complex scientific\nmission, in a journey to and from the ISS,\nspending more than two weeks aboard, this\ntime under the banner of international part-\nnership and indigenous resolve.\nThe successful conclusion of the Axiom-4\nmission, marking another milestone in the\nburgeoning era of commercial human space-\nflight, resonates far beyond the confines of\nEarth\u2019s orbit. ForIndia,a nation rapidly assert-\ning its prowess in the global space arena, this\nachievement offers invaluable lessons and a\npowerful impetus, particularly for its ambi-\ntious Gaganyaan mission and the grander vi-\nsion for its future ventures in space.\nAxiom-4's journey underscored several\ncritical advancements that are reshaping the\nspace landscape. It highlighted the increasing\nreliabilityand capability of private-sector space\ntransportation. This mission, executed with\nprofessionalism and aclear focus onits objec-\ntives, reinforced the growing accessibility of\nthelow-Earthorbit for a multitude of purposes,\nfrom cutting-edge scientificresearch and tech-\nnological demonstrations to the nascent but\nrapidly expanding commercial ventures,\nMany Indians were following the mission,\namong them the young people in schools and\ncolleges across the country, who were bom\nlong after Sharma's heroic journey. For them,\nin addition tothe importance of the Indian role\nmodelwhoachieved this rare feat, the journey\nalso showcased theefficiency and necessity of\ninternational collaboration, even in commer-\ncially driven missions, where diverse expertise\nWOIKS together towards shared objectives.\nFor India\u2019s Gaganyaan mission, whichaims\ntosend Indian astronauts into space on anin-\ndigenous vehicle, the insights gleaned from\nAxiom-4 are profoundly relevant. While\nISRO\u2019s approach is distinctly national, the\nglobal landscape of human spaceflight is in-\ncreasingly collaborative and increasingly\ndriven by the commercial sector.\n\nMILIND SOMAN\n\nTODAY, THE WORLD grieves the loss of Fauja\nSingh, the indomitable \u201cTurbaned Torpedo\u201d.\nWe have lost a legend, a man who didn't just\nTun, but who rewrote the meaning of move-\nment itself. Even writing down his age, 114,\nfeels surreal. Not because he lived that long \u2014\nbut because he lived that well.\nIhave been greatly inspired by Singh's life,\nespecially his running tales. 1 had the honour\nof meeting him years ago at the Mumbai\nMarathon. iremeniber thinking that this was\nsomeone who didn'tjust defy age, hemade it\nirrelevant. No grand philosophies, no high-\ntech training gear. Just discipline, simplicity,\nand a heart that beat with purpose.\nSingh\u2019s death is heartbreaking, not only be-\ncause we have lost a symbol of resilience, but\nbecause it was avoidable. He was killed by a\nperson driving recklessly while Singh was\nCrossing a road near iis home. His death shines\na light ona harsh truth: In India, pedestrians,\nespecially the elderly, face daily dangers from\nunsafe roads, lack of crosswalks, and our could-\nn't-care-less attitude to drunken driving and\nhit-and-runs. Singh defied limitsall his life, only\nto be failed by a society that couldn't protect\nhim. His passing must not be in vain \u2014 it must\nbecome a call toaction for safer roads, stricter\nlaws and respect for every person\u2019s life.\nAlthough my own running joumney began\nover two decades ago, Singh reminded me\nthat sport isn\u2019t about speed or medals \u2014 it\u2019s\nabout spirit. He started running marathonsat",
+   "ocr_conf": 89.93425605536332,
+   "ocr_low_conf_share": 0.04152249134948097,
+   "headline": "SOMAK RAYCHAUDHURY",
+   "deck": "",
+   "byline": "MILIND SOMAN",
+   "text": "THE SAFE RETURN of Group Captain Shubhanshu Shukla from the International Space Station as part of the Axiom-4 mission, where he was the pilot amongithefour-membercrew, marks awatershed moment not just for Indian human spaceflight, but for the entire strategic arc of India's space programme. For the first time since Rakesh Sharma travelled on a Soviet spacecraft in 1984, an Indian has completed a complex scientific mission, in a journey to and from the ISS, spending more than two weeks aboard, this time under the banner of international partnership and indigenous resolve. The successful conclusion of the Axiom-4 mission, marking another milestone in the burgeoning era of commercial human spaceflight, resonates far beyond the confines of Earth's orbit. ForIndia,a nation rapidly asserting its prowess in the global space arena, this achievement offers invaluable lessons and a powerful impetus, particularly for its ambitious Gaganyaan mission and the grander vision for its future ventures in space. Axiom-4's journey underscored several critical advancements that are reshaping the space landscape. It highlighted the increasing reliabilityand capability of private-sector space transportation. This mission, executed with professionalism and aclear focus onits objectives, reinforced the growing accessibility of thelow-Earthorbit for a multitude of purposes, from cutting-edge scientificresearch and technological demonstrations to the nascent but rapidly expanding commercial ventures, Many Indians were following the mission, among them the young people in schools and colleges across the country, who were bom long after Sharma's heroic journey. For them, in addition tothe importance of the Indian role modelwhoachieved this rare feat, the journey also showcased theefficiency and necessity of international collaboration, even in commercially driven missions, where diverse expertise WOIKS together towards shared objectives. For India's Gaganyaan mission, whichaims tosend Indian astronauts into space on anindigenous vehicle, the insights gleaned from Axiom-4 are profoundly relevant. While ISRO's approach is distinctly national, the global landscape of human spaceflight is increasingly collaborative and increasingly driven by the commercial sector.\n\nTODAY, THE WORLD grieves the loss of Fauja Singh, the indomitable \"Turbaned Torpedo\". We have lost a legend, a man who didn't just Tun, but who rewrote the meaning of movement itself. Even writing down his age, 114, feels surreal. Not because he lived that long - but because he lived that well. Ihave been greatly inspired by Singh's life, especially his running tales. 1 had the honour of meeting him years ago at the Mumbai Marathon. iremeniber thinking that this was someone who didn'tjust defy age, hemade it irrelevant. No grand philosophies, no high-tech training gear. Just discipline, simplicity, and a heart that beat with purpose. Singh's death is heartbreaking, not only because we have lost a symbol of resilience, but because it was avoidable. He was killed by a person driving recklessly while Singh was Crossing a road near iis home. His death shines a light ona harsh truth: In India, pedestrians, especially the elderly, face daily dangers from unsafe roads, lack of crosswalks, and our couldn't-care-less attitude to drunken driving and hit-and-runs. Singh defied limitsall his life, only to be failed by a society that couldn't protect him. His passing must not be in vain - it must become a call toaction for safer roads, stricter laws and respect for every person's life. Although my own running joumney began over two decades ago, Singh reminded me that sport isn't about speed or medals - it's about spirit. He started running marathonsat",
+   "n_words": 560,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2925,
+      1525,
+      3527,
+      1598
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2921,
+      1609,
+      3527,
+      2952
+     ]
+    ],
+    "layout_words": 197
+   },
+   "headline_raw": "grated intoa \u2018complex mission profile offers\nvaluable perspectives. Indiacan meticulously",
+   "deck_raw": "",
+   "body_raw": "refine its own astronaut selection and train-\ning methodologies by studying these models.\nThis includes incorporating best practices for\nphysiological adaptation to microgravity and\npsychological conditioning forisolation.Both\nsimulation-based drills and real-time prob-\nlem-solving scenarios can enhance the pre-\nparedness of Indian \u201cvyomnauts\u201d.\nMission operations and logistics present\nanother vital area of learning. Managing a hu-\nman spaceflight mission involving multiplein-\nternational parmers and commercial entities,\nas Axiom-4 successfully did, provides an in-\nvaluable blueprint for streamlining complex\noperational flows. This encompasses pre-flight\npreparations and launch sequences to in-or-\nbit activities, rendezvous and docking proce-\ndures, and the critical re-entry and recovery\nphases. Understanding ihe intricacies of com-\nmunication protocols, real-time decision-mak-\ning under pressure, and robust contingency\nplanning, can significantly help ISRO anticipate\npotential challenges and optimise its own mis-\nsion control strategies for Gaganyaan.\nEqually important are the areas of technol-\nogy validation and integration. While\nGaganyaan is built upon ISRO\u2019s formidable in-\ndigenous capabilities and decades of expert-\nise, Axiom-4's reliance on established com-\nmercial launch andcrew vehicles(like SpaceX\u2019s\nFalcon 9 and Crew Dragon), and its focus on\nspecificin-orbit scientific and commercial ob-\njectives, demonstrates now new techiaiogies\ncan be rapidly integrated, tested, and validated",
+   "ocr_conf": 88.78680203045685,
+   "ocr_low_conf_share": 0.05583756345177665,
+   "headline": "grated intoa 'complex mission profile offers valuable perspectives. Indiacan meticulously",
+   "deck": "",
+   "byline": "",
+   "text": "refine its own astronaut selection and training methodologies by studying these models. This includes incorporating best practices for physiological adaptation to microgravity and psychological conditioning forisolation.Both simulation-based drills and real-time problem-solving scenarios can enhance the preparedness of Indian \"vyomnauts\". Mission operations and logistics present another vital area of learning. Managing a human spaceflight mission involving multipleinternational parmers and commercial entities, as Axiom-4 successfully did, provides an invaluable blueprint for streamlining complex operational flows. This encompasses pre-flight preparations and launch sequences to in-orbit activities, rendezvous and docking procedures, and the critical re-entry and recovery phases. Understanding ihe intricacies of communication protocols, real-time decision-making under pressure, and robust contingency planning, can significantly help ISRO anticipate potential challenges and optimise its own mission control strategies for Gaganyaan. Equally important are the areas of technology validation and integration. While Gaganyaan is built upon ISRO's formidable indigenous capabilities and decades of expertise, Axiom-4's reliance on established commercial launch andcrew vehicles(like SpaceX's Falcon 9 and Crew Dragon), and its focus on specificin-orbit scientific and commercial objectives, demonstrates now new techiaiogies can be rapidly integrated, tested, and validated",
+   "n_words": 181,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3573,
+      2875,
+      4177,
+      2996
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3569,
+      3113,
+      4175,
+      3173
+     ],
+     [
+      3573,
+      3168,
+      3961,
+      3224
+     ]
+    ],
+    "body_boxes": [
+     [
+      3573,
+      2997,
+      4178,
+      3112
+     ],
+     [
+      3575,
+      3275,
+      4181,
+      3349
+     ]
+    ],
+    "layout_words": 30
+   },
+   "headline_raw": "detect gravitational waves from space.\nBy meticulously studying its successes and\ndrawing pertinent iessons, India can not only",
+   "deck_raw": "ture inthe cosmos. The stars, it seems, are in-\ncreacinety within reach and India ic well-no-\ncreasingly within reacn, and i\nsitioned to seize its moment.",
+   "body_raw": "ensure the triumphant realisation of\nGaganyaan, butalso confidently chart acourse\nforan even moreambitious and impactfulfu-\n\nThe writer is vice-chancellor and professor of\nPhysics, Ashoka University. Views are personal",
+   "ocr_conf": 93.14285714285714,
+   "ocr_low_conf_share": 0.0,
+   "headline": "detect gravitational waves from space. By meticulously studying its successes and drawing pertinent iessons, India can not only",
+   "deck": "ture inthe cosmos. The stars, it seems, are increacinety within reach and India ic well-nocreasingly within reacn, and i sitioned to seize its moment.",
+   "byline": "",
+   "text": "ensure the triumphant realisation of Gaganyaan, butalso confidently chart acourse foran even moreambitious and impactfulfu-\n\nThe writer is vice-chancellor and professor of Physics, Ashoka University. Views are personal",
+   "n_words": 28,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      423,
+      3013,
+      1427,
+      3099
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      332,
+      3144,
+      1530,
+      3352
+     ]
+    ],
+    "layout_words": 44
+   },
+   "headline_raw": "THE SANCTIONS STICK",
+   "deck_raw": "",
+   "body_raw": "New Delhi should disregard NATO threat on doing business with\nRussia, pursue its own path, even as West seeks to dictate terms\nURING OPERATION SINDOOR, the S-400 formed the outermost layer of\nIndia\u2019s air defence. This is the missiiesystem that india acquired from Russia",
+   "ocr_conf": 90.20454545454545,
+   "ocr_low_conf_share": 0.11363636363636363,
+   "headline": "THE SANCTIONS STICK",
+   "deck": "",
+   "byline": "",
+   "text": "New Delhi should disregard NATO threat on doing business with Russia, pursue its own path, even as West seeks to dictate terms URING OPERATION SINDOOR, the S-400 formed the outermost layer of India's air defence. This is the missiiesystem that india acquired from Russia",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2925,
+      2954,
+      3528,
+      3010
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2923,
+      2997,
+      3525,
+      3191
+     ]
+    ],
+    "layout_words": 28
+   },
+   "headline_raw": "in the space environment. This could inspire\nIndia tnevnloare <satesir aa oer iik Sw cere",
+   "deck_raw": "",
+   "body_raw": "Indiato explore strategic paltnersiups foi cer-\nmethodologies for its own technological de-\nvelopment and validation processes.\nIfithasn\u2019t already, the public visibility and",
+   "ocr_conf": 79.68181818181819,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "in the space environment. This could inspire India tnevnloare <satesir aa oer iik Sw cere",
+   "deck": "",
+   "byline": "",
+   "text": "Indiato explore strategic paltnersiups foi cermethodologies for its own technological development and validation processes. Ifithasn't already, the public visibility and",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2924,
+      3192,
+      3525,
+      3249
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2923,
+      3258,
+      3525,
+      3309
+     ]
+    ],
+    "body_boxes": [
+     [
+      2924,
+      3314,
+      3526,
+      3348
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "success of this mission will inspire and\narenothen intemananalcnollahoraton Actha",
+   "deck_raw": "EE Ene SE EE Se Re Bo Se ee SS PU\nglobal space community becomes more in-",
+   "body_raw": "terconnected, missions likeAxiom-4highlight",
+   "ocr_conf": 92.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "success of this mission will inspire and arenothen intemananalcnollahoraton Actha",
+   "deck": "global space community becomes more in-",
+   "byline": "",
+   "text": "terconnected, missions likeAxiom-4highlight",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      3360,
+      1528,
+      3491
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3501,
+      1530,
+      4730
+     ]
+    ],
+    "layout_words": 378
+   },
+   "headline_raw": "| y a few years ago despite the US threatening sanctions under CAATSA \u2014 a\nlaw mandating punitive measures against countries engaging in \u201csignificant\ntransactions\u201d with Russia, North Korea, or Iran. India made it clear that it would proceed",
+   "deck_raw": "",
+   "body_raw": "with the S-400 deal anyway. Eventually, the US House carved out an India-specific waiver.\nA similar episode is playing out again. NATO Secretary General Mark Rutte wamed this\nweek that countries like India, China, and Brazil could face secondary sanctions if they\ncontinue doing business with Russia. This comes as several US senators back a new sanc-\ntions bill proposing a 500 per cent tariff on nations buying Russian goods, US President\nDonaldTrump, too, said this week that the US would impose 100 per cent secondary tar-\niffs targeting Russia\u2019s trade partners if a peace deal with Ukraine did not happenin 50days.\nThe Ministry of External Affairs\u2019 sharp rebuttal on Thursday \u2014 underlining that the en-\nergy requirements of the Indian people are the overriding priority, and cautioning against\n\u201cdouble standards\u201d \u2014 serves as a timely reminder to the West, particularly Europe, of its\nown manoeuvres in pursuit of energy security. Yes, India was quick to seize the oppor-\ntunity to purchase discounted Russian oil after the West imposed price caps and turned\naway from it. But while Russia\u2019s emergence as India\u2019s top crude supplier hashelped meet\ndomestic energy demand and stabilise prices, it is no secret that a substantial volume of\nrefined fuel, derived from the Russian oil imported to India, is ultimately exported to\nEurope. A CREA report noted that by late 2024, \u201ccapitalising on the refining loophole\u201d,\nIndia had become the EU's largest exporter of oil products, Europe also imported LNG at\nrecord levels from Russia last year.\nThe sanctions threat to its trade partners is intended to choke Russia\u2019s war funding and\npressure President Vladimir Putin into agreeing to a ceasefire. In doing so, however, the\nUS and NATO iisk undermining their relationship with one ofthe world\u2019s largest economies\nand an essential ally in the Indo-Pacific. The West cannot have it both ways: Penalise India\nfor pursuing national interest while simultaneously expecting cooperation in regional and\nglobal initiatives, Itis high time the West engaged with Indiaas an equal partner. Petroleum\nMinister Hardeep Singh Puri said on Thursday that there was nothing to worry about even\nif sanctions were activated because Indiahas expanded its crude sourcing slate. New Delhi\nshould remain firm in pursuing its own path, even as the West seeks to dictate terms.",
+   "ocr_conf": 92.81746031746032,
+   "ocr_low_conf_share": 0.018518518518518517,
+   "headline": "y a few years ago despite the US threatening sanctions under CAATSA - a law mandating punitive measures against countries engaging in \"significant transactions\" with Russia, North Korea, or Iran. India made it clear that it would proceed",
+   "deck": "",
+   "byline": "",
+   "text": "with the S-400 deal anyway. Eventually, the US House carved out an India-specific waiver. A similar episode is playing out again. NATO Secretary General Mark Rutte wamed this week that countries like India, China, and Brazil could face secondary sanctions if they continue doing business with Russia. This comes as several US senators back a new sanctions bill proposing a 500 per cent tariff on nations buying Russian goods, US President DonaldTrump, too, said this week that the US would impose 100 per cent secondary tariffs targeting Russia's trade partners if a peace deal with Ukraine did not happenin 50days. The Ministry of External Affairs' sharp rebuttal on Thursday - underlining that the energy requirements of the Indian people are the overriding priority, and cautioning against \"double standards\" - serves as a timely reminder to the West, particularly Europe, of its own manoeuvres in pursuit of energy security. Yes, India was quick to seize the opportunity to purchase discounted Russian oil after the West imposed price caps and turned away from it. But while Russia's emergence as India's top crude supplier hashelped meet domestic energy demand and stabilise prices, it is no secret that a substantial volume of refined fuel, derived from the Russian oil imported to India, is ultimately exported to Europe. A CREA report noted that by late 2024, \"capitalising on the refining loophole\", India had become the EU's largest exporter of oil products, Europe also imported LNG at record levels from Russia last year. The sanctions threat to its trade partners is intended to choke Russia's war funding and pressure President Vladimir Putin into agreeing to a ceasefire. In doing so, however, the US and NATO iisk undermining their relationship with one ofthe world's largest economies and an essential ally in the Indo-Pacific. The West cannot have it both ways: Penalise India for pursuing national interest while simultaneously expecting cooperation in regional and global initiatives, Itis high time the West engaged with Indiaas an equal partner. Petroleum Minister Hardeep Singh Puri said on Thursday that there was nothing to worry about even if sanctions were activated because Indiahas expanded its crude sourcing slate. New Delhi should remain firm in pursuing its own path, even as the West seeks to dictate terms.",
+   "n_words": 374,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      3539,
+      3338,
+      3648
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      3713,
+      3956,
+      3774
+     ]
+    ],
+    "body_boxes": [
+     [
+      2317,
+      4459,
+      2819,
+      5256
+     ],
+     [
+      2918,
+      3949,
+      3528,
+      5250
+     ],
+     [
+      3570,
+      3950,
+      4176,
+      5134
+     ],
+     [
+      3714,
+      5180,
+      4174,
+      5247
+     ],
+     [
+      3569,
+      5536,
+      4175,
+      5730
+     ],
+     [
+      3570,
+      5778,
+      4002,
+      5821
+     ],
+     [
+      3566,
+      5853,
+      4176,
+      6167
+     ]
+    ],
+    "layout_words": 640
+   },
+   "headline_raw": "At HIs Own PACE",
+   "deck_raw": "Fauja Singh is areminder that we run not to escape life, but to embrace it",
+   "body_raw": "89. Most peoplewould have given upon their\nbodies by then. He chose to believe in his.\n\u201cRunning showed me kindness and brought\nme back to life,\u201d he shared. What I admired\nmost about him was not his stamina or\nstrength, but his spirit. He began running to\ncope with grief after losing his wife and son.\nHechose to move, one step at a time, until that\nmovement became something the world no-\nticed, His journey culminated in the 2011\nToronto Marathon, where hebecame the first\ncentenarian to finish a full marathon.\nHis life was more than atestamentto phys-\nical endurance. It spoke of resilience. It re-\nminded me, and everyone who watched his\nturban bobalong theroute, that itis never too\nlate to start exploring anything you love.\nIn the world of fitness, we tend to idolise\nyoung achievers bursting with speed and\npromise, but Singh taught us to revere the\nspark in the soul of an elder. He even carried\nthe London Olympic torch in 2012.\nThat's what runningis. Not escape, not ex-\nertion \u2014 but expression. A meditation. And\nSingh showed us how it could heal. Running\nteaches you everything you need to know \u2014\nabout patience, resilience, joy, and pain. With\nevery mile he ran, Singh reminded us that age\nis nota limitation; the mind is.\nWhat's heartbreaking is how, in India, run-\nning becomes an act of bravery. Every runner\nwho steps out of the door \u2014 especially\nwomen, elders, and those without access to\n\nprivate clubs \u2014is quietiy pushing back against\nfear, neglect, and indifference.\nIndia has the spirit for running. Butto be-\ncome a country that welcomes runners, it\nneeds more than marathons, It needs safer\nstreets, respectful public spaces anda cultural\nshift that sees runners not as obstacles onthe\nroad, but as inspiring people who deserve to\nmove freely and safely.\nThere's something truly sacred about long-\ndistance running. What makes it special is not\nthe distance \u2014 it\u2019s the journey inward. With\nevery kilometre, you're not just moving for-\nward, youare also peeling back layers of fear,\ndoubt, and fatigue. It\u2019s not about outrunning\nothers; it\u2019s about discovering thestrength you\ndidn\u2019t know you had.\nWould! recommend long distance run-\nning? Absolutely, Not just as a sport, but as a\nway to know yourself, as a way to happiness.\nFauja Singh is a humbling reminder that\nwerun not to escape life, but to embrace it. He\nraced the clock and, for awhile, beat it. |hope\nwe remember him not just for his races, but\nfor the grace with which he lived. The disci-\npline of his days, the gratitude in his words.\nHe has passed ontous alegacy not measured\nin kilometres, but in courage. We must carry\nforward that torch by running our own races\n\u2014 towards self-belief, discipline and purpose.\n\nThe writer isa long-distance runner,\nactor and model\n\nthe Army handed over control of the walled city\ntothe police Indefinite curfew was imposedin\nthese two areas. However, the DirectorGeneral\nof Police, J FRibeiro,ruled outdeployment of the\nArmy, saying, \u201cnochance at all\u201d.\n\nDEADLY COLLAPSE\n\nATLEAST 38 persons are feared to have been\nkilled and 42 others injured when an Army\nbuilding under construction collapsed near\nAkhnoor, about34 km from Jammu. Eight bod-\nies have reportedly been recoveredand the rest\nwere still buried under the debris. The building\ncollapsed dueto the heavy downpour. The vic-\ntims were labourers from Madhya Pradesh.",
+   "ocr_conf": 89.975,
+   "ocr_low_conf_share": 0.05625,
+   "headline": "At HIs Own PACE",
+   "deck": "Fauja Singh is areminder that we run not to escape life, but to embrace it",
+   "byline": "",
+   "text": "89. Most peoplewould have given upon their bodies by then. He chose to believe in his. \"Running showed me kindness and brought me back to life,\" he shared. What I admired most about him was not his stamina or strength, but his spirit. He began running to cope with grief after losing his wife and son. Hechose to move, one step at a time, until that movement became something the world noticed, His journey culminated in the 2011 Toronto Marathon, where hebecame the first centenarian to finish a full marathon. His life was more than atestamentto physical endurance. It spoke of resilience. It reminded me, and everyone who watched his turban bobalong theroute, that itis never too late to start exploring anything you love. In the world of fitness, we tend to idolise young achievers bursting with speed and promise, but Singh taught us to revere the spark in the soul of an elder. He even carried the London Olympic torch in 2012. That's what runningis. Not escape, not exertion - but expression. A meditation. And Singh showed us how it could heal. Running teaches you everything you need to know - about patience, resilience, joy, and pain. With every mile he ran, Singh reminded us that age is nota limitation; the mind is. What's heartbreaking is how, in India, running becomes an act of bravery. Every runner who steps out of the door - especially women, elders, and those without access to\n\nprivate clubs - is quietiy pushing back against fear, neglect, and indifference. India has the spirit for running. Butto become a country that welcomes runners, it needs more than marathons, It needs safer streets, respectful public spaces anda cultural shift that sees runners not as obstacles onthe road, but as inspiring people who deserve to move freely and safely. There's something truly sacred about long-distance running. What makes it special is not the distance - it's the journey inward. With every kilometre, you're not just moving forward, youare also peeling back layers of fear, doubt, and fatigue. It's not about outrunning others; it's about discovering thestrength you didn't know you had. Would! recommend long distance running? Absolutely, Not just as a sport, but as a way to know yourself, as a way to happiness. Fauja Singh is a humbling reminder that werun not to escape life, but to embrace it. He raced the clock and, for awhile, beat it. hope we remember him not just for his races, but for the grace with which he lived. The discipline of his days, the gratitude in his words. He has passed ontous alegacy not measured in kilometres, but in courage. We must carry forward that torch by running our own races - towards self-belief, discipline and purpose.\n\nThe writer isa long-distance runner, actor and model\n\nthe Army handed over control of the walled city tothe police Indefinite curfew was imposedin these two areas. However, the DirectorGeneral of Police, J FRibeiro,ruled outdeployment of the Army, saying, \"nochance at all\".\n\nDEADLY COLLAPSE\n\nATLEAST 38 persons are feared to have been killed and 42 others injured when an Army building under construction collapsed near Akhnoor, about34 km from Jammu. Eight bodies have reportedly been recoveredand the rest were still buried under the debris. The building collapsed dueto the heavy downpour. The victims were labourers from Madhya Pradesh.",
+   "n_words": 555,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      480,
+      4816,
+      1373,
+      4900
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4944,
+      1529,
+      6164
+     ]
+    ],
+    "layout_words": 342
+   },
+   "headline_raw": "PROBLEM WITH ANI",
+   "deck_raw": "",
+   "body_raw": "Theinternet has long been plagued by sexism. The GrokAl\n\u2018companion will only make regressive attitudes harder toroot out\nFRANKENSTEIN REDUX it was not, but reports of one of the \u201ccompanions\u201d\nlaunched by Elon Musk\u2019s GrokAl describing the billionaire as having \u201cmore\nA money than brains\u201d come close tothe creator-vs-creation trope first encoun-\nteredin Mary Shelley's classicnovel, That, however, is the least of the problems\nposed by the GrokAl companions unveiled this week by Musk. These companions include,\nfor now, two animated characters: A \u201crude\u201d red panda named Rudi \u2014 who dissed the bil-\nlionaire after being prompted by users \u2014 and a \u201cflirty\u201d Japanese anime woman named Ani.\nOf the two, Ani represents the far thomier challenge. Already, it has been flagged as po-\ntentially promoting objectification of women. Ifit feels like regression, it\u2019s because it was not\nso long ago that public outcry forced Big Tech to roll back or modify the heavily gendered\naspects of early Alvoiceassistants like Siri (Apple), Alexa (Amazon) and Cortana (Microsoft).\nBestowed with femininenames and programmed with women\u2019s voices, the initial versions\nof these assistants were heavily criticised for reinforcing harmful stereotypes about \u201csub-\nmissive\u201d or \u201ceager-to-please\u201d women, While Apple and Amazon added male personas in\nresponse to the outcry, allowing users a greater degree of choice in how they interacted\nwith the digital assistants, Cortana was eventually phased out in favour of the gender-neu-\ntral Copilot. Ani, with her servile manner, offering to make users\u2019 lives \u201csexier\u201d, takes several\nsteps back from that moment of accountability by Big Tech.\nLLMs like Grok become \u201cintelligent\u201d by trawling through vast amounts of data. That\nthey've absorbed not justfacts and figures but also human attitudes has already been widely\ndocumented \u2014 for example, a study of five popular LLMs published in June showed chat-\nbots routinely suggesting that female applicants for a job ask for lower pay than male ap-\nplicants forthe same position. Iftheinternet has long been unkind toand about women, cre-\nations like Ani will only make it harder to root out the sexism coded into it.",
+   "ocr_conf": 89.95043731778425,
+   "ocr_low_conf_share": 0.04664723032069971,
+   "headline": "PROBLEM WITH ANI",
+   "deck": "",
+   "byline": "",
+   "text": "Theinternet has long been plagued by sexism. The GrokAl 'companion will only make regressive attitudes harder toroot out FRANKENSTEIN REDUX it was not, but reports of one of the \"companions\" launched by Elon Musk's GrokAl describing the billionaire as having \"more A money than brains\" come close tothe creator-vs-creation trope first encounteredin Mary Shelley's classicnovel, That, however, is the least of the problems posed by the GrokAl companions unveiled this week by Musk. These companions include, for now, two animated characters: A \"rude\" red panda named Rudi - who dissed the billionaire after being prompted by users - and a \"flirty\" Japanese anime woman named Ani. Of the two, Ani represents the far thomier challenge. Already, it has been flagged as potentially promoting objectification of women. Ifit feels like regression, it's because it was not so long ago that public outcry forced Big Tech to roll back or modify the heavily gendered aspects of early Alvoiceassistants like Siri (Apple), Alexa (Amazon) and Cortana (Microsoft). Bestowed with femininenames and programmed with women's voices, the initial versions of these assistants were heavily criticised for reinforcing harmful stereotypes about \"submissive\" or \"eager-to-please\" women, While Apple and Amazon added male personas in response to the outcry, allowing users a greater degree of choice in how they interacted with the digital assistants, Cortana was eventually phased out in favour of the gender-neutral Copilot. Ani, with her servile manner, offering to make users' lives \"sexier\", takes several steps back from that moment of accountability by Big Tech. LLMs like Grok become \"intelligent\" by trawling through vast amounts of data. That they've absorbed not justfacts and figures but also human attitudes has already been widely documented - for example, a study of five popular LLMs published in June showed chat-bots routinely suggesting that female applicants for a job ask for lower pay than male applicants forthe same position. Iftheinternet has long been unkind toand about women, creations like Ani will only make it harder to root out the sexism coded into it.",
+   "n_words": 335,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2266,
+      5402,
+      3398,
+      5491
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2271,
+      5535,
+      2702,
+      5578
+     ],
+     [
+      2267,
+      5614,
+      2876,
+      6006
+     ],
+     [
+      2270,
+      6054,
+      2848,
+      6097
+     ]
+    ],
+    "layout_words": 76
+   },
+   "headline_raw": "JULY 18, 1985, ForTy YEARS AGO",
+   "deck_raw": "",
+   "body_raw": "KANISHKA \u2018CLUES\u2019\n\nCOMPUTER ANALYSIS OF the \u201cKanishka\u201d air-\ncraft\u2019s digital flight data recorder (DFDR) gave\n\u201cdefinite clues\u201d of amid-air explosion before it\nplunged into the Atlantic on June 23. This fur-\nther confirms tie sapoiage theoryadvancedby\naviation circles and strengthened by the hear-\ning of the cockpit voice recorder (CVR) at the\nBhabha Atomic Research Centre. The analysis of\nthe DFDR tape suggested cracking of the air-\ncraft material seconds after the explosion.\n\nBHOPAL TRAGEDY PROBE",
+   "ocr_conf": 86.69736842105263,
+   "ocr_low_conf_share": 0.06578947368421052,
+   "headline": "JULY 18, 1985, ForTy YEARS AGO",
+   "deck": "",
+   "byline": "KANISHKA 'CLUES'",
+   "text": "COMPUTER ANALYSIS OF the \"Kanishka\" aircraft's digital flight data recorder (DFDR) gave \"definite clues\" of amid-air explosion before it plunged into the Atlantic on June 23. This further confirms tie sapoiage theoryadvancedby aviation circles and strengthened by the hearing of the cockpit voice recorder (CVR) at the Bhabha Atomic Research Centre. The analysis of the DFDR tape suggested cracking of the aircraft material seconds after the explosion.\n\nBHOPAL TRAGEDY PROBE",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2918,
+      5770,
+      3523,
+      5892
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2917,
+      5535,
+      3526,
+      5653
+     ],
+     [
+      2921,
+      5934,
+      3475,
+      5978
+     ]
+    ],
+    "body_boxes": [
+     [
+      2922,
+      5655,
+      3523,
+      5769
+     ],
+     [
+      2918,
+      6012,
+      3523,
+      6166
+     ]
+    ],
+    "layout_words": 49
+   },
+   "headline_raw": "the investigation. He also cited instances when\ngovernimenidepartinenisobiectediothecom-\nmission's requirements on financial grounds.",
+   "deck_raw": "Bhopal gas disaster, said the Madhya Pradesh\ngoverment was notcooperating enoughio en-\nable himto expedite the inquiry. He said he was\nAHMEDABAD VIOLENCE",
+   "body_raw": "\u201chandicapped\u201d as the government had not ap-\npointed sufficientstaffto assistthe commission,\nand the technical experts required to assist in\n\nFIVE PERSONS WERE killed and more than 20\ninjured aslarge-scale violence erupted anew in\nthe communally sensitive Kalupur and Dariapur\nareas of the walled city, less than 40 hours after",
+   "ocr_conf": 90.40816326530613,
+   "ocr_low_conf_share": 0.04081632653061224,
+   "headline": "the investigation. He also cited instances when governimenidepartinenisobiectediothecommission's requirements on financial grounds.",
+   "deck": "Bhopal gas disaster, said the Madhya Pradesh goverment was notcooperating enoughio enable himto expedite the inquiry. He said he was AHMEDABAD VIOLENCE",
+   "byline": "",
+   "text": "\"handicapped\" as the government had not appointed sufficientstaffto assistthe commission, and the technical experts required to assist in\n\nFIVE PERSONS WERE killed and more than 20 injured aslarge-scale violence erupted anew in the communally sensitive Kalupur and Dariapur areas of the walled city, less than 40 hours after",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 23.7,
+ "flags": []
+}

@@ -1,0 +1,820 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_12_front",
+ "source_file": "2025-10-12_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-12_front.png",
+ "date": "2025-10-12",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1261,
+  "n_lines": 432,
+  "mean_line_conf": 89.79572260301427,
+  "orphan_words": 229,
+  "body_words_total": 1659
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      1301,
+      737,
+      1623
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Confident his\ntenure will further\nboost India-US\nglobal strategic\npartnership: PM",
+   "ocr_conf": 86.27272727272727,
+   "ocr_low_conf_share": 0.18181818181818182,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Confident his tenure will further boost India-US global strategic partnership: PM",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      1299,
+      3192,
+      1400
+     ],
+     [
+      1789,
+      1411,
+      3149,
+      1698
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1790,
+      1593,
+      2132,
+      1663
+     ],
+     [
+      1788,
+      1711,
+      2229,
+      2220
+     ],
+     [
+      1787,
+      2581,
+      2187,
+      2651
+     ],
+     [
+      1787,
+      2699,
+      2229,
+      3044
+     ]
+    ],
+    "layout_words": 124
+   },
+   "headline_raw": "Trump threatens China with 100%\nmore tariffs over rare earth curbs",
+   "deck_raw": "",
+   "body_raw": "RAVIDUTTA MISHRA\nNEW DELHI, OCTOBER 11\n\nAHEAD OF high-stakes US-China\ntrade talks likely laterthis month,\nfresh tensions erupted after\nChina significantly expanded its\nexport controls on rare earths\nand other critical minerals on\nOctober 9, to which President\nDonald Trump responded by\nthreatening to raise duties on\nChinese goods by 100 per cent.\nThis triggered a sharp decline\nin US stock markets on Friday\nwith the S&P 500 falling 2.7 per\n\nABHINAYAHARIGOVIND\nNEW DELHI, OCTOBER 11\n\nAHEAD OF the start of the Fall se-\nmester at American universities,\nthe number of Indian student ar-\nrivals in the United States in\nAugust felltothe lowest sincethe\nCovid pandemic (2020), register-\ning an over 44 per cent decrease\nas compared to the corresponding\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.38709677419355,
+   "ocr_low_conf_share": 0.04838709677419355,
+   "headline": "Trump threatens China with 100% more tariffs over rare earth curbs",
+   "deck": "",
+   "byline": "RAVIDUTTA MISHRA; NEW DELHI, OCTOBER 11",
+   "text": "AHEAD OF high-stakes US-China trade talks likely laterthis month, fresh tensions erupted after China significantly expanded its export controls on rare earths and other critical minerals on October 9, to which President Donald Trump responded by threatening to raise duties on Chinese goods by 100 per cent. This triggered a sharp decline in US stock markets on Friday with the S&P 500 falling 2.7 per\n\nABHINAYAHARIGOVIND NEW DELHI, OCTOBER 11\n\nAHEAD OF the start of the Fall semester at American universities, the number of Indian student arrivals in the United States in August felltothe lowest sincethe Covid pandemic (2020), registering an over 44 per cent decrease as compared to the corresponding",
+   "n_words": 111,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2319,
+      1556,
+      3079,
+      1705
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2317,
+      1751,
+      2715,
+      1977
+     ],
+     [
+      2276,
+      2068,
+      2717,
+      2221
+     ],
+     [
+      2739,
+      1752,
+      3160,
+      1984
+     ],
+     [
+      2766,
+      2068,
+      3206,
+      2214
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "F Why this matters for Delhi\n.",
+   "deck_raw": "",
+   "body_raw": "BOTH CHINESE and Ame-\nrican posturing on trade as-\nsumes significance for India,\nwhich is in midst of negotia-\ntions fora bilateral trade deal\nwith the US. China\u2019s curbs on\n\ncent, its biggest single-day drop\nin six months since early April.\nThreatening a steep hike in\ntariffs, Trump said: \u201cIt has just\n\n: rareearths also pose a threat\n: to India\u2019s automobile indus-\n: try. While Chinais India\u2019s\n: largest import source, the US\n: continues to be its largest\n: export destination.\n\nbeen learned that China has\ntaken an extraordinarily aggres-\nsive position on trade by sending\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.12745098039215,
+   "ocr_low_conf_share": 0.06862745098039216,
+   "headline": "F Why this matters for Delhi",
+   "deck": "",
+   "byline": "",
+   "text": "BOTH CHINESE and American posturing on trade assumes significance for India, which is in midst of negotiations fora bilateral trade deal with the US. China's curbs on\n\ncent, its biggest single-day drop in six months since early April. Threatening a steep hike in tariffs, Trump said: \"It has just\n\n: rareearths also pose a threat: to India's automobile indus-: try. While Chinais India's: largest import source, the US: continues to be its largest: export destination.\n\nbeen learned that China has taken an extraordinarily aggressive position on trade by sending",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1710,
+      666,
+      1780
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, OCTOBER11",
+   "ocr_conf": 83.0,
+   "ocr_low_conf_share": 0.2,
+   "headline": "",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, OCTOBER11",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1671,
+      4155,
+      2189
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      2230,
+      4168,
+      2351
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      2425,
+      3573,
+      2570
+     ],
+     [
+      3251,
+      2622,
+      3696,
+      3526
+     ],
+     [
+      3902,
+      2478,
+      4131,
+      2561
+     ],
+     [
+      3770,
+      2623,
+      4156,
+      3124
+     ],
+     [
+      3740,
+      3217,
+      4181,
+      3520
+     ]
+    ],
+    "layout_words": 211
+   },
+   "headline_raw": "Taliban delegation\nkept women out,\nEmbassy premises\ngave them shield",
+   "deck_raw": "MEA leaned on current staff to let Muttaqi\nhold media briefing in embassy: Sources",
+   "body_raw": "SHUBHAJIT ROY &\nPRAGYNESH\nNEW DELHI, DEOBAND,\nOCTOBER 11\n\nIT WAS the visiting Taliban del-\negation that had decided to ex-\nclude women journalists from\nthe media briefing Friday, an\nevent that was strongly resisted\nby current staffers, The Indian\nExpress has learnt.\nAt the heart ofthe controversy\nis the venue: the Afghanistan\nEmbassy on Shantipath in the\ncapital\u2019s Chanakyapuri diplo-\nmatic enclave.\nIthas acurrent staff strength\nof about 23 with six Afghans, all\nrepresenting the earlier regime,\nthe Islamic Republic of\nAfghanistan led by President\nAshraf Ghani who fled the coun-\ntry in August 2021.\nAhead of Thursday's visit by\nAfghanistan Foreign Minister\nand Taliban leader Amir Khan\nMuttaqi, these staffers asked\n\nWomenin\n|@ shackles\n\nSINCE THEY retumed to\npower in Kabul in 2021, the\nTaliban have issued over\n100 edicts restricting rights\nof women and girls: ban-\nning them from higher edu-\ncation and work; out of\npublic spaces. There are also\nrestrictions on their travel\nwithout male escorts; on\neven being heard singing or\nreading aloud from inside\ntheirhomes.\n\nCharge D\u2019Affaires (CDA) Sayed\nMohammed Ibhrahimkhil \u2014\nalso arepresentative of the erst-\nwhile regime \u2014 not to allow the\nTaliban briefing to be held there.\n\u201cWe knew they would want\nto declare this embassy as\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.26540284360189,
+   "ocr_low_conf_share": 0.03317535545023697,
+   "headline": "Taliban delegation kept women out, Embassy premises gave them shield",
+   "deck": "MEA leaned on current staff to let Muttaqi hold media briefing in embassy: Sources",
+   "byline": "SHUBHAJIT ROY &; PRAGYNESH; NEW DELHI, DEOBAND,; OCTOBER 11",
+   "text": "IT WAS the visiting Taliban delegation that had decided to exclude women journalists from the media briefing Friday, an event that was strongly resisted by current staffers, The Indian Express has learnt. At the heart ofthe controversy is the venue: the Afghanistan Embassy on Shantipath in the capital's Chanakyapuri diplomatic enclave. Ithas acurrent staff strength of about 23 with six Afghans, all representing the earlier regime, the Islamic Republic of Afghanistan led by President Ashraf Ghani who fled the country in August 2021. Ahead of Thursday's visit by Afghanistan Foreign Minister and Taliban leader Amir Khan Muttaqi, these staffers asked\n\nWomenin @ shackles\n\nSINCE THEY retumed to power in Kabul in 2021, the Taliban have issued over 100 edicts restricting rights of women and girls: banning them from higher education and work; out of public spaces. There are also restrictions on their travel without male escorts; on even being heard singing or reading aloud from inside theirhomes.\n\nCharge D'Affaires (CDA) Sayed Mohammed Ibhrahimkhil - also arepresentative of the erstwhile regime - not to allow the Taliban briefing to be held there. \"We knew they would want to declare this embassy as",
+   "n_words": 191,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1828,
+      764,
+      3050
+     ]
+    ],
+    "layout_words": 142,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "INHIS first outreach to New Delhi\namid the recentbilateral chill that\nhasseen 50percentUS tariffs and\nincreased H-1B visa fees, US\nAmbassador-designate Sergio\nGormetPrime Minister Narendra\nModi Saturday and framed his\nvisit in warm and effusive terms.\nLast month, during his\nSenate confirmation hearings,\nGor was bullish about the bilat-\neral relationship and had flagged\nIndia as a \u201cstrategic partner\nwhose trajectory will shape the\nregion and beyond.\u201d\nGor, who is here from\nOctober 9-14, also met External\nAffairs Minister S Jaishankar,\nNational Security Advisor Ajit\nDoval and Foreign Secretary\nVikram Misri Saturday.\n\u201cGladto receive Mr Sergio Gor,\nAmbassador-designate of the US\nto India. I'm confident that his\ntenure will furtherstrengthen the\nIndia-US Comprehensive Global\nStrategic Partnership,\u201d Modi said\nin apost on X,accompanied by an\nimage in which Gor is seen pre-\nsenting a photo of Modi with US\nPresident Donald Trump, signed",
+   "ocr_conf": 92.42957746478874,
+   "ocr_low_conf_share": 0.014084507042253521,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "INHIS first outreach to New Delhi amid the recentbilateral chill that hasseen 50percentUS tariffs and increased H-1B visa fees, US Ambassador-designate Sergio GormetPrime Minister Narendra Modi Saturday and framed his visit in warm and effusive terms. Last month, during his Senate confirmation hearings, Gor was bullish about the bilateral relationship and had flagged India as a \"strategic partner whose trajectory will shape the region and beyond.\" Gor, who is here from October 9-14, also met External Affairs Minister S Jaishankar, National Security Advisor Ajit Doval and Foreign Secretary Vikram Misri Saturday. \"Gladto receive Mr Sergio Gor, Ambassador-designate of the US to India. I'm confident that his tenure will furtherstrengthen the India-US Comprehensive Global Strategic Partnership,\" Modi said in apost on X,accompanied by an image in which Gor is seen presenting a photo of Modi with US President Donald Trump, signed",
+   "n_words": 140,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2287,
+      3196,
+      2615
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2302,
+      2780,
+      2364,
+      2808
+     ],
+     [
+      2649,
+      2882,
+      2871,
+      2911
+     ],
+     [
+      2360,
+      2992,
+      3187,
+      3022
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "44% dip in Indian student arrivals in\nUS over last yr, sharpest since Covid\nABHINAYAHARIGOVIND DROP AHEAD OF FALL SEMESTER a",
+   "deck_raw": "",
+   "body_raw": "50k'\n\nCovid WY 2,908\n\nSource:International Trade Administration (US Dept of Commerce)",
+   "ocr_conf": 86.18181818181819,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "44% dip in Indian student arrivals in US over last yr, sharpest since Covid ABHINAYAHARIGOVIND DROP AHEAD OF FALL SEMESTER a",
+   "deck": "",
+   "byline": "",
+   "text": "Covid WY 2,908\n\nSource:International Trade Administration (US Dept of Commerce)",
+   "n_words": 10,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      2740,
+      1252,
+      3050
+     ]
+    ],
+    "layout_words": 31,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "bythe latter.\nStating that the \u201cUS values its\nrelationship with India\u201d,Gorsaid:\n\u201c[had anincredible meeting with\nPrime Minister Modi. President\nTrump considers PM Modiasa\ngreat and personal friend...\n\u201c| arrived from Washington",
+   "ocr_conf": 89.2258064516129,
+   "ocr_low_conf_share": 0.06451612903225806,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "bythe latter. Stating that the \"US values its relationship with India\",Gorsaid: \"[had anincredible meeting with Prime Minister Modi. President Trump considers PM Modiasa great and personal friend... \" arrived from Washington",
+   "n_words": 31,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1299,
+      2740,
+      1740,
+      3043
+     ]
+    ],
+    "layout_words": 39,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "to New Delhiearly this moming\nand we hit the ground running...\n\u201cWe just finished an incredi-\nble meeting with Prime Minister\nModi where we discussed bilat-\neral issues including defence,\ntrade and technology. We also\nCONTINUED ONPAGE 2",
+   "ocr_conf": 91.63157894736842,
+   "ocr_low_conf_share": 0.05263157894736842,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "to New Delhiearly this moming and we hit the ground running... \"We just finished an incredible meeting with Prime Minister Modi where we discussed bilateral issues including defence, trade and technology. We also",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3171,
+      724,
+      3573
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3648,
+      640,
+      3718
+     ],
+     [
+      320,
+      3767,
+      763,
+      4782
+     ],
+     [
+      319,
+      4795,
+      764,
+      5099
+     ]
+    ],
+    "layout_words": 169
+   },
+   "headline_raw": "Out with her\nfriend, MBBS\nstudent raped\nnear college\nin Bengal",
+   "deck_raw": "",
+   "body_raw": "TANUSREE BOSE\nKOLKATA, OCTOBER 11\n\nA SECOND-YEAR MBBS student\nof a private medical college in\nWest Bengal\u2019s Pashchim Bardha-\nman district was allegedly\ndragged intoa forested area out-\nside her college campus and\nraped on Friday night. While her\nfamily has alleged three-four\nmen were involved, no arrest has\nbeen made so far, police said.\nStudents of the medical college,\nmeanwhile, staged a protest out-\nside the principal\u2019s office after\nthe matter came to light.\nAccording to police officials,\nthe woman, who hails from\nOdisha, had gone out of the cam-\npus witha friend when the inci-\ndent took place. On being\nalerted, the police rushed to the\nspot.The womanis currently un-\ndergoing treatment at a local\nhospital where her condition is\nstable, though she remains\ndeeply traumatised, officials\nsaid.\n\nNarayan Swaroop Nigam, the\nstate's Principal Health Secretary,\nsaid the matteris under police in-\nvestigation, and the Director of\nMedical Education has been\nasked to submit a detailed report.\nThe college said it will extend\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.60355029585799,
+   "ocr_low_conf_share": 0.04142011834319527,
+   "headline": "Out with her friend, MBBS student raped near college in Bengal",
+   "deck": "",
+   "byline": "TANUSREE BOSE; KOLKATA, OCTOBER 11",
+   "text": "A SECOND-YEAR MBBS student of a private medical college in West Bengal's Pashchim Bardhaman district was allegedly dragged intoa forested area outside her college campus and raped on Friday night. While her family has alleged three-four men were involved, no arrest has been made so far, police said. Students of the medical college, meanwhile, staged a protest outside the principal's office after the matter came to light. According to police officials, the woman, who hails from Odisha, had gone out of the campus witha friend when the incident took place. On being alerted, the police rushed to the spot.The womanis currently undergoing treatment at a local hospital where her condition is stable, though she remains deeply traumatised, officials said.\n\nNarayan Swaroop Nigam, the state's Principal Health Secretary, said the matteris under police investigation, and the Director of Medical Education has been asked to submit a detailed report. The college said it will extend",
+   "n_words": 153,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      3168,
+      3172,
+      3274
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      3297,
+      1715,
+      3420
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      3490,
+      1227,
+      3563
+     ],
+     [
+      809,
+      3610,
+      1251,
+      4079
+     ]
+    ],
+    "layout_words": 68
+   },
+   "headline_raw": "From banks of the Volga, a Russian republic calls India",
+   "deck_raw": "Consulate opening in Kazan, Telangana\nmakes strong case for trade, investment",
+   "body_raw": "RAKESH SINHA\nKAZAN(RUSSIA), OCTOBER 11\n\nIN KAZAN, where the Volga\nmeets theKamasouth of the city,\ntwo teams met on the field for a\nT20 outing on a sunny morning\nthis week. Vinay Kumar, India\u2019s\nenvoy to Moscow, was there to\ngreet Team Russia and Team\nIndia, their playing 11s largely\nstudents, watched by most with\nlittle or noknowledge of cricket.\nItwas softdiplomacyat play,\nIndia returning tothe city where,",
+   "ocr_conf": 93.72058823529412,
+   "ocr_low_conf_share": 0.0,
+   "headline": "From banks of the Volga, a Russian republic calls India",
+   "deck": "Consulate opening in Kazan, Telangana makes strong case for trade, investment",
+   "byline": "RAKESH SINHA; KAZAN(RUSSIA), OCTOBER 11",
+   "text": "IN KAZAN, where the Volga meets theKamasouth of the city, two teams met on the field for a T20 outing on a sunny morning this week. Vinay Kumar, India's envoy to Moscow, was there to greet Team Russia and Team India, their playing 11s largely students, watched by most with little or noknowledge of cricket. Itwas softdiplomacyat play, India returning tothe city where,",
+   "n_words": 63,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1319,
+      3452,
+      1695,
+      3570
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      3886,
+      1742,
+      4073
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "\\ \u201cgy ee er,\nAn, afi\nmoscow \u201cQo>--2*",
+   "deck_raw": "",
+   "body_raw": "a year ago, Prime Minister\nNarendra Modi and President Xi\nJinping met on the boundaries of\nthe BRICS summit, leading their\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.88,
+   "ocr_low_conf_share": 0.16,
+   "headline": "\\ \"gy ee er, An, afi moscow \"Qo>--2*",
+   "deck": "",
+   "byline": "",
+   "text": "a year ago, Prime Minister Narendra Modi and President Xi Jinping met on the boundaries of the BRICS summit, leading their",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3706,
+      3598,
+      3983,
+      3654
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3740,
+      3702,
+      4174,
+      3872
+     ],
+     [
+      3740,
+      3907,
+      4177,
+      4031
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "~ THE WORLD",
+   "deck_raw": "",
+   "body_raw": "GAZA: PALESTINIANS\nRETURN TO RUINS,\nAID GROUPS PUSH TO\nSCALE UP SUPPLIES\n\nTHOUSANDS LAID\nOFF IN U.S. AMID\nGOVT SHUTDOWN Pio",
+   "ocr_conf": 94.42857142857143,
+   "ocr_low_conf_share": 0.0,
+   "headline": "~ THE WORLD",
+   "deck": "",
+   "byline": "GAZA: PALESTINIANS; RETURN TO RUINS,; AID GROUPS PUSH TO; SCALE UP SUPPLIES; THOUSANDS LAID; OFF IN U.S. AMID; GOVT SHUTDOWN Pio",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      4144,
+      2689,
+      4226
+     ],
+     [
+      810,
+      4258,
+      2181,
+      4416
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      4440,
+      1154,
+      4510
+     ],
+     [
+      808,
+      4559,
+      1252,
+      4826
+     ],
+     [
+      1293,
+      5429,
+      1739,
+      6130
+     ],
+     [
+      2275,
+      4852,
+      2680,
+      5022
+     ]
+    ],
+    "layout_words": 130
+   },
+   "headline_raw": "Prashant Kishor kicks off election exeressnetwork\ncampaign from Tejashwi bastion",
+   "deck_raw": "",
+   "body_raw": "HIMANSHUHARSH\nRAGHOPUR, OCTOBER 11\n\nWHILE THE Mahagathbandhan\nalliance is still negotiating seat-\nsharing for the upcoming Bihar\n@ Assembly polls and\ni the RJD has yet to\ndeclare its candi-\ndates, the sound of\n\ncrafted from wool in Himachal\nPradesh\u2019s Kullu and\nDharamshala. Inspired by\nJapanese artist Hokusai\u2019s waves,\nthe collection blends sustainabil-\nity with tech and style.Many de-\nsigners are working with crafts,\nweaves and embroidery. But I\nwanted to create a tech-aided,\nproduction-friendly, wearable\nand clean material as that space\nis untapped in the India story,\u201d\nGupta tells The Indian Express.\n\u201cDenim is democratic, working\nclass. It is tough, but not warm\nenoughin the hills. That\u2019s when!\nbegan toexperiment with wool.\u201d\nA friend introduced him to\n\nED ARRESTS CFO OF\nRELIANCE POWER\nLIMITED IN BANK\nLOAN FRAUD CASE",
+   "ocr_conf": 92.47692307692307,
+   "ocr_low_conf_share": 0.03076923076923077,
+   "headline": "Prashant Kishor kicks off election exeressnetwork campaign from Tejashwi bastion",
+   "deck": "",
+   "byline": "HIMANSHUHARSH; RAGHOPUR, OCTOBER 11",
+   "text": "WHILE THE Mahagathbandhan alliance is still negotiating seat-sharing for the upcoming Bihar @ Assembly polls and i the RJD has yet to declare its candidates, the sound of\n\ncrafted from wool in Himachal Pradesh's Kullu and Dharamshala. Inspired by Japanese artist Hokusai's waves, the collection blends sustainability with tech and style.Many designers are working with crafts, weaves and embroidery. But I wanted to create a tech-aided, production-friendly, wearable and clean material as that space is untapped in the India story,\" Gupta tells The Indian Express. \"Denim is democratic, working class. It is tough, but not warm enoughin the hills. That's when! began toexperiment with wool.\" A friend introduced him to\n\nED ARRESTS CFO OF RELIANCE POWER LIMITED IN BANK LOAN FRAUD CASE",
+   "n_words": 122,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      4147,
+      4161,
+      4239
+     ],
+     [
+      2762,
+      4256,
+      4152,
+      4417
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      4442,
+      3136,
+      4512
+     ],
+     [
+      2763,
+      4560,
+      3203,
+      5109
+     ],
+     [
+      3736,
+      4404,
+      4180,
+      5102
+     ]
+    ],
+    "layout_words": 155
+   },
+   "headline_raw": "IPS officer death: Rohtak SP shifted;\npressure mounts for action on DGP",
+   "deck_raw": "",
+   "body_raw": "VARINDER BHATIA\nCHANDIGARH, OCTOBER 11\n\nFOUR DAYS after senior Haryana\nIPS officer Y Puran Kumar was\nfound dead with a gunshot\nwound at his residence, the\nHaryana government Saturday\ntook its first action in the case by\ntransferring Rohtak Super-\nintendent of Police (SP) Narendra\nBijarniya.\nBijarniya, a 2015-batch IPS of-\nficer, was among the police offi-\ncials named in the \u201cfinal note\u201d re-\ncovered from Kumar's pocket.\nSurinder Singh Bhoriya, a\n\nposting orders would be issued\nseparately.\nKumar, who belonged to a\nScheduled Caste, was found dead\nat his Chandigarh residence on\nTuesday. In her complaint, his\nwife, IAS officer Amneet PKumar,\naccused Bijarniya and Haryana\nDGP Shatrujeet Singh Kapur, be-\nsides seven other serving IPS offi-\ncers, one retired IPS officer and\nthree retired IAS officers ofharass-\nment \u201cresulting inthe death of my\nhusband on October 7, 2025.\u201d\nBijarniya\u2019s transfer comes\nevenas the state government has\nalerted all police commissioners\nCONTINUED ON PAGE 5",
+   "ocr_conf": 91.19871794871794,
+   "ocr_low_conf_share": 0.04487179487179487,
+   "headline": "IPS officer death: Rohtak SP shifted; pressure mounts for action on DGP",
+   "deck": "",
+   "byline": "VARINDER BHATIA; CHANDIGARH, OCTOBER 11",
+   "text": "FOUR DAYS after senior Haryana IPS officer Y Puran Kumar was found dead with a gunshot wound at his residence, the Haryana government Saturday took its first action in the case by transferring Rohtak Superintendent of Police (SP) Narendra Bijarniya. Bijarniya, a 2015-batch IPS officer, was among the police officials named in the \"final note\" recovered from Kumar's pocket. Surinder Singh Bhoriya, a\n\nposting orders would be issued separately. Kumar, who belonged to a Scheduled Caste, was found dead at his Chandigarh residence on Tuesday. In her complaint, his wife, IAS officer Amneet PKumar, accused Bijarniya and Haryana DGP Shatrujeet Singh Kapur, besides seven other serving IPS officers, one retired IPS officer and three retired IAS officers ofharassment \"resulting inthe death of my husband on October 7, 2025.\" Bijarniya's transfer comes evenas the state government has alerted all police commissioners",
+   "n_words": 140,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      4766,
+      3684,
+      4831
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      4996,
+      3691,
+      5109
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "Punjab CM Bhagwant Mann",
+   "deck_raw": "",
+   "body_raw": "2014-batch IPS officer, has been\nappointed the new Rohtak SP.\nThe government said Bijarniya\u2019s",
+   "ocr_conf": 90.64285714285714,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Punjab CM Bhagwant Mann",
+   "deck": "",
+   "byline": "",
+   "text": "2014-batch IPS officer, has been appointed the new Rohtak SP. The government said Bijarniya's",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      823,
+      4829,
+      1250,
+      4924
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      4915,
+      1251,
+      5100
+     ],
+     [
+      805,
+      5429,
+      1251,
+      6136
+     ]
+    ],
+    "layout_words": 108
+   },
+   "headline_raw": "Ee | drumbeats rent\n- BIHAR theairinRaghopur,\nthas ranchtianmrnt",
+   "deck_raw": "",
+   "body_raw": "the constituency of\nRJD leader and Leader of the\nOpposition (LoP) Tejashwi Yadav,\non Saturday morning.\nCONTINUED ONPAGE5\n\naway in Dholpur in Rajasthan, a\nfarmer's son idolised posters of\nJames Dean, wondering if he\ncould ever make the denims the\nAmerican actor wore,\nThe first boy, Anurag Gupta,\nnow35,made it todesign school.\nThe second, Satendra Singh, 29,\nmadeit to the Indian Institute of\nTechnology (IIT)-Delhi, where he\npatented the world\u2019s first indigo-\ndyed wool denim that Gupta has\nused in his collection at the on-\ngoing Lakme India Fashion Week.\nGupta\u2019s latest collection fea-\ntures shirts, jackets, dresses,\npants and overlays made from\nSingh\u2019s indigo-dyed wooldenim,",
+   "ocr_conf": 89.73584905660377,
+   "ocr_low_conf_share": 0.07547169811320754,
+   "headline": "Ee drumbeats rent - BIHAR theairinRaghopur, thas ranchtianmrnt",
+   "deck": "",
+   "byline": "",
+   "text": "the constituency of RJD leader and Leader of the Opposition (LoP) Tejashwi Yadav, on Saturday morning.\n\naway in Dholpur in Rajasthan, a farmer's son idolised posters of James Dean, wondering if he could ever make the denims the American actor wore, The first boy, Anurag Gupta, now35,made it todesign school. The second, Satendra Singh, 29, madeit to the Indian Institute of Technology (IIT)-Delhi, where he patented the world's first indigo-dyed wool denim that Gupta has used in his collection at the ongoing Lakme India Fashion Week. Gupta's latest collection features shirts, jackets, dresses, pants and overlays made from Singh's indigo-dyed wooldenim,",
+   "n_words": 101,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5263,
+      4172,
+      5448
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5432,
+      501,
+      5507
+     ],
+     [
+      320,
+      5625,
+      666,
+      5697
+     ],
+     [
+      316,
+      5745,
+      761,
+      6136
+     ],
+     [
+      1785,
+      5981,
+      2714,
+      6096
+     ],
+     [
+      3249,
+      5431,
+      3690,
+      6138
+     ],
+     [
+      3739,
+      5431,
+      4180,
+      6132
+     ]
+    ],
+    "layout_words": 259
+   },
+   "headline_raw": "From Dholpur & Ayodhya, via IIT: First indigo-dyed wool denim at fashion week",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nRINKU GHOSH\nNEW DELHI, OCTOBER 11\n\nJUST OUTSIDE Ayodhya, in the\ntiny town of Uttar Pradesh's\nSiddharth Nagar, a boy hated\nrunning his father's medical\nstore, Instead, he read newspa-\npers, his window to the world\noutside. His hero was Hrithik\nRoshan, whose fashion sense he\nadmired ever since he watched\nKaho Naa Pyaar Hai on TV. Far\n\nSatendra Singh, who developed the indigo-dyed wool denim\nat IIT-Delhi; designer Anurag Gupta; Gupta\u2019s collection atthe\nongoing Lakme India Fashion Week. Express\n\nSingh, who had developed the\nindigo-dyed wool denim as an\nMTech student (2021-2023) in-\nside an incubation lab at IIT-\nDelhi\u2019s Department of Textile\nand Fibre Engineering. \u201cCotton\ndenim lacks thermal insulation.\nWe used plasma technology \u2014\nionised gases \u2014 to beat back the\nwool's scratchy scales and en-\nhance itsstrength without dam-\naging its fibres. The result is a\ndenim warm enough tobe worn\nasa single layer in minus 3-4 de-\ngrees Celsius,\u201d explains Singh,\nwhose research is funded by the\nMinistry of Textiles, SIDBI and\nangel investors.\n\nThe denim\u2019s magic lies in its\nblend\u201435% wool mixed with\nbreathable hemp, banana fibre,\nbamboo and recycled cotton.\n\u201cIt\u2019s all-weather and moisture-\nabsorbent. You may board a\nflight wearing it in Delhi in\nDecember and not need to take\nit off when you landin a warmer\nBengaluru \u2014 it willdry out your\nsweat,\u201d explains Gupta. By re-\nmoving the scales from wool fi-\nbres, Singh has improved its me-\nchanical and moisture\nManagement properties: in\nother words, itis machine-wash-\nable and quick-drying. \u201cDry\nCONTINUED ON PAGE 5",
+   "ocr_conf": 91.8996138996139,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "From Dholpur & Ayodhya, via IIT: First indigo-dyed wool denim at fashion week",
+   "deck": "",
+   "byline": "ANCHOR; RINKU GHOSH; NEW DELHI, OCTOBER 11",
+   "text": "JUST OUTSIDE Ayodhya, in the tiny town of Uttar Pradesh's Siddharth Nagar, a boy hated running his father's medical store, Instead, he read newspapers, his window to the world outside. His hero was Hrithik Roshan, whose fashion sense he admired ever since he watched Kaho Naa Pyaar Hai on TV. Far\n\nSatendra Singh, who developed the indigo-dyed wool denim at IIT-Delhi; designer Anurag Gupta; Gupta's collection atthe ongoing Lakme India Fashion Week. Express\n\nSingh, who had developed the indigo-dyed wool denim as an MTech student (2021-2023) inside an incubation lab at IIT-Delhi's Department of Textile and Fibre Engineering. \"Cotton denim lacks thermal insulation. We used plasma technology - ionised gases - to beat back the wool's scratchy scales and enhance itsstrength without damaging its fibres. The result is a denim warm enough tobe worn asa single layer in minus 3-4 degrees Celsius,\" explains Singh, whose research is funded by the Ministry of Textiles, SIDBI and angel investors.\n\nThe denim's magic lies in its blend - 35% wool mixed with breathable hemp, banana fibre, bamboo and recycled cotton. \"It's all-weather and moisture-absorbent. You may board a flight wearing it in Delhi in December and not need to take it off when you landin a warmer Bengaluru - it willdry out your sweat,\" explains Gupta. By removing the scales from wool fibres, Singh has improved its mechanical and moisture Management properties: in other words, itis machine-washable and quick-drying. \"Dry",
+   "n_words": 237,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 16.9,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

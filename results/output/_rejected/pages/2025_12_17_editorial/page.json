@@ -1,0 +1,143 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_17_editorial",
+ "source_file": "2025-12-17_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-17_editorial.png",
+ "date": "2025-12-17",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 4,
+ "layout_stats": {
+  "H": 83.0,
+  "masthead_y": 140,
+  "n_lines": 28,
+  "mean_line_conf": 85.51392536035394,
+  "orphan_words": 67,
+  "body_words_total": 69
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      693,
+      1178,
+      3810,
+      1564
+     ]
+    ],
+    "layout_words": 41,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The potential of Al can be translated into population-scale impact only with the\ncrucial collaboration of India\u2019s researchers, public institutions and startups. Google is\nproud to support their critical work with our models and technology, as they drive\ntangible on-ground impact.",
+   "ocr_conf": 95.53658536585365,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The potential of Al can be translated into population-scale impact only with the crucial collaboration of India's researchers, public institutions and startups. Google is proud to support their critical work with our models and technology, as they drive tangible on-ground impact.",
+   "n_words": 41,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2685,
+      2216,
+      3561,
+      2679
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Indian researchers\nusing AlphaFold to\nsolve complex\nsocietal challenges",
+   "ocr_conf": 94.88888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Indian researchers using AlphaFold to solve complex societal challenges",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      689,
+      3662,
+      1786,
+      4124
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "tuberculosis screenings\nby KhushiBaby\nleveraging Google\u2019s\nOpen Health Stack",
+   "ocr_conf": 94.11111111111111,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "tuberculosis screenings by KhushiBaby leveraging Google's Open Health Stack",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2681,
+      5172,
+      3662,
+      5514
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "years of PhD-level\nresearch work\nsupported by Google",
+   "ocr_conf": 94.875,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "years of PhD-level research work supported by Google",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 4.4,
+ "flags": [
+  "only 0 article(s) kept",
+  "97% of body text had no headline above it"
+ ]
+}

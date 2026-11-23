@@ -1,0 +1,817 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_16_front",
+ "source_file": "2025-05-16_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-16_front.png",
+ "date": "2025-05-16",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 554,
+  "mean_line_conf": 90.71390288912853,
+  "orphan_words": 21,
+  "body_words_total": 2242
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      746,
+      724,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      791,
+      3175,
+      1167
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      696,
+      3052,
+      753
+     ]
+    ],
+    "body_boxes": [
+     [
+      813,
+      1212,
+      1249,
+      1522
+     ],
+     [
+      812,
+      1620,
+      1217,
+      1690
+     ],
+     [
+      811,
+      1739,
+      1252,
+      2289
+     ],
+     [
+      1298,
+      2016,
+      1739,
+      2289
+     ],
+     [
+      1786,
+      2017,
+      2231,
+      2282
+     ],
+     [
+      1300,
+      2439,
+      2288,
+      2477
+     ]
+    ],
+    "layout_words": 188
+   },
+   "headline_raw": "Trump frowns on Apple push to make\nin India; claims Delhi to drop all tariffs",
+   "deck_raw": "US PRESIDENT IN DOHA; REMARKS COME AS APPLE SHIFTS FROM CHINA",
+   "body_raw": "Says told CEO Cook:\n\u2018Don\u2019t want you to\nbuild in India, itis\none of highest tariff\nnations in world\u2019\n\nSOUMY ARENDRABARIK\nNEW DELHI, MAY15\n\nUS PRESIDENT Donald Trump\nsaid Thursday he has told Apple\nCEO Tim Cook that he does not\nwant the company to expand its\nmanufacturing operations in\nIndia, unless it is to cater specif-\nically to its domestic market. He\nalso claimed that India has\n\u201cagreed to charge us literally no\ntariffs\u201d on US goods.\nSpeaking at a business\nroundtable in Qatar's capital\nDoha while on a four-day visit to\nthe Gulf region, Trump said, \u201cI\n\nhad a little problem with Tim\nCook yesterday. I said, \u2018Tim you\nare my friend, I have treated you\nvery good, you are coming here\n(in the US) with a $500-billion\nannouncement, and now I hear\nyou are building all over India. I\n\ndon\u2019t want you building in India.\nYou can build in India if you want\nto take care of India, because\nIndia is one of the highest tariff\nnations in the world\u2019 Soitisvery\nhard to sell in India.\u201d\nCONTINUED ON PAGE 2\n\n\u2018IF TERROR CONTINUES, COSTS WILL INCREASE\u2019",
+   "ocr_conf": 90.60846560846561,
+   "ocr_low_conf_share": 0.031746031746031744,
+   "headline": "Trump frowns on Apple push to make in India; claims Delhi to drop all tariffs",
+   "deck": "US PRESIDENT IN DOHA; REMARKS COME AS APPLE SHIFTS FROM CHINA",
+   "byline": "SOUMY ARENDRABARIK; NEW DELHI, MAY15",
+   "text": "Says told CEO Cook: 'Don't want you to build in India, itis one of highest tariff nations in world'\n\nUS PRESIDENT Donald Trump said Thursday he has told Apple CEO Tim Cook that he does not want the company to expand its manufacturing operations in India, unless it is to cater specifically to its domestic market. He also claimed that India has \"agreed to charge us literally no tariffs\" on US goods. Speaking at a business roundtable in Qatar's capital Doha while on a four-day visit to the Gulf region, Trump said, \"I\n\nhad a little problem with Tim Cook yesterday. I said, 'Tim you are my friend, I have treated you very good, you are coming here (in the US) with a $500-billion announcement, and now I hear you are building all over India. I\n\ndon't want you building in India. You can build in India if you want to take care of India, because India is one of the highest tariff nations in the world' Soitisvery hard to sell in India.\"\n\n'IF TERROR CONTINUES, COSTS WILL INCREASE'",
+   "n_words": 179,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      773,
+      4178,
+      1291
+     ],
+     [
+      3252,
+      1333,
+      4178,
+      1462
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      704,
+      4037,
+      737
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      1544,
+      3532,
+      1613
+     ],
+     [
+      3247,
+      1662,
+      3692,
+      3082
+     ],
+     [
+      3739,
+      2097,
+      4182,
+      3075
+     ]
+    ],
+    "layout_words": 290
+   },
+   "headline_raw": "Indus pact on hold,\nGovt plans monthly\nflushing of Salal\nand Baglihar dams\nIn the past, Pak has always objected to\nthis saying this affects water flow",
+   "deck_raw": "MEANT TO CLEAR SILT AND SEDIMENT",
+   "body_raw": "RITIKACHOPRA\nNEW DELHI, MAY 15\n\nWITH THE Indus Waters Treaty\n(IWT) in abeyance and the gov-\nemment having already carried\nout the first flushing exercise at\nBaglihar and Salal \u2014its two run-\nof-the-river hydroelectric proj-\nects on the Chenab River in\nJammu and Kashmir \u2014 the\nCentral Water Commission\n(CWC) has now recommended\nthat such flushing become a\nmonthly routine, The Indian\nExpress has leamed.\nAsfirst reported by The Indian\nExpress on May 4, NHPC and the\nJammu & Kashmir administra-\ntion havebegun flushing the Salal\nand Baglihar reservoirs to clear\nout sediment that hinders power\noutput. This is the first such ex-\nercise since Salal was built in\n1987 and Bagliharin 2008-09, af-\nterPakistan\u2019s repeated objections\nunder the IWT had previously\nblocked these works.\nSources said the flushing that\nbegan in early May removed just\nover 7.5 million cubic metres\n(MCM) of sediment from the\n690 MW Salal and 900 MW\nBaglihar reservoirs.\n\u201cThe CWC has now recom-\nmended that forced flushing be\ncarried out monthly for\nboth projects, and an SOP (stan-\ndard operating procedure) will\n\nbe issued shortly,\u201d a senior\nofficial said.\nFlushing involves releasing\nstored water to remove sedi-\nment build-up \u2014 sand, silt and\nclay \u2014 that settles in reservoirs\nover time. Sediment reduces\nreservoir capacity and hampers\nhydropower output. By regularly\nflushing these particles out, op-\nerators restore storage space and\nimprove turbine efficiency, en-\nsuring reliable power generation\nand prolonging the life of hydro-\nelectric plants.\nHowever, Pakistan has rou-\ntinely objected to this exercise\ngiven that flushing, the release of\nstored water to remove sedi-\nment, can temporarily boost\ndownstream flow. And recharge,\nthe reservoir\u2019s replenishment by\nclosing of gates, can reduce the\nvolume available for later release.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.95172413793104,
+   "ocr_low_conf_share": 0.010344827586206896,
+   "headline": "Indus pact on hold, Govt plans monthly flushing of Salal and Baglihar dams In the past, Pak has always objected to this saying this affects water flow",
+   "deck": "MEANT TO CLEAR SILT AND SEDIMENT",
+   "byline": "RITIKACHOPRA; NEW DELHI, MAY 15",
+   "text": "WITH THE Indus Waters Treaty (IWT) in abeyance and the govemment having already carried out the first flushing exercise at Baglihar and Salal - its two runof-the-river hydroelectric projects on the Chenab River in Jammu and Kashmir - the Central Water Commission (CWC) has now recommended that such flushing become a monthly routine, The Indian Express has leamed. Asfirst reported by The Indian Express on May 4, NHPC and the Jammu & Kashmir administration havebegun flushing the Salal and Baglihar reservoirs to clear out sediment that hinders power output. This is the first such exercise since Salal was built in 1987 and Bagliharin 2008-09, afterPakistan's repeated objections under the IWT had previously blocked these works. Sources said the flushing that began in early May removed just over 7.5 million cubic metres (MCM) of sediment from the 690 MW Salal and 900 MW Baglihar reservoirs. \"The CWC has now recommended that forced flushing be carried out monthly for both projects, and an SOP (standard operating procedure) will\n\nbe issued shortly,\" a senior official said. Flushing involves releasing stored water to remove sediment build-up - sand, silt and clay - that settles in reservoirs over time. Sediment reduces reservoir capacity and hampers hydropower output. By regularly flushing these particles out, operators restore storage space and improve turbine efficiency, ensuring reliable power generation and prolonging the life of hydroelectric plants. However, Pakistan has routinely objected to this exercise given that flushing, the release of stored water to remove sediment, can temporarily boost downstream flow. And recharge, the reservoir's replenishment by closing of gates, can reduce the volume available for later release.",
+   "n_words": 268,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      460,
+      821,
+      633,
+      849
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      482,
+      1169,
+      683,
+      1239
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "the speaker ejects\ny Gnd the \u2018speech",
+   "ocr_conf": 63.57142857142857,
+   "ocr_low_conf_share": 0.42857142857142855,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "the speaker ejects y Gnd the 'speech",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      1208,
+      3204,
+      1553
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2277,
+      1582,
+      2620,
+      1652
+     ],
+     [
+      2272,
+      1701,
+      2716,
+      2283
+     ],
+     [
+      2763,
+      1543,
+      3205,
+      2283
+     ]
+    ],
+    "layout_words": 173
+   },
+   "headline_raw": "As Beijing, Washington\ndial down, Goyal to lead\nteam for US trade talks",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTAMISHRA\nNEW DELHI,MAY15\n\nA \u201cLARGE Indian trade\u201d delega-\ntion led by Union Commerce\nMinister Piyush Goyal is set to\nvisit the US for talks next week\nto potentially finalise the con-\ntours of an interim trade agree-\nment between the two coun-\ntries, a senior government\nofficial said Thursday.\nThe fresh round of trade talks\nwith the US assumes signifi-\ncance asit follows the conclusion\nof asurprise US-China trade deal\nthat saw substantial reductions\nin the \u201ctit-for-tat\u201d tariffs.\n\n\u201cThe deal has only resulted in\na de-escalation of tensions. But\nsubstantial tariffs on China\nremain. India is focusing on\nits competitiveness,\u201d an official\nsaid in response to aquestionon\nthe impact of the US-China deal\non India.\nOnthe recent action by India\nto propose retaliatory tariffs\nagainst the 25 per cent US duties\non steel and aluminium at WTO,\nthe official said that India aimed\nto reserve the right to retaliate\neven as negotiations withthe US\nwere ongoing. Another official\nexplained that India needed to\napproach the WTO within\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.47674418604652,
+   "ocr_low_conf_share": 0.03488372093023256,
+   "headline": "As Beijing, Washington dial down, Goyal to lead team for US trade talks",
+   "deck": "",
+   "byline": "RAVI DUTTAMISHRA; NEW DELHI,MAY15",
+   "text": "A \"LARGE Indian trade\" delegation led by Union Commerce Minister Piyush Goyal is set to visit the US for talks next week to potentially finalise the contours of an interim trade agreement between the two countries, a senior government official said Thursday. The fresh round of trade talks with the US assumes significance asit follows the conclusion of asurprise US-China trade deal that saw substantial reductions in the \"tit-for-tat\" tariffs.\n\n\"The deal has only resulted in a de-escalation of tensions. But substantial tariffs on China remain. India is focusing on its competitiveness,\" an official said in response to aquestionon the impact of the US-China deal on India. Onthe recent action by India to propose retaliatory tariffs against the 25 per cent US duties on steel and aluminium at WTO, the official said that India aimed to reserve the right to retaliate even as negotiations withthe US were ongoing. Another official explained that India needed to approach the WTO within",
+   "n_words": 159,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2111,
+      734,
+      2286
+     ]
+    ],
+    "layout_words": 9,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PUNJAB: SUDANESE\nSTUDENT OBJECTS\nTO HARASSMENT OF\nFRIEND, MURDERED",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "PUNJAB: SUDANESE; STUDENT OBJECTS; TO HARASSMENT OF; FRIEND, MURDERED",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2434,
+      1250,
+      2864
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2966,
+      599,
+      3036
+     ],
+     [
+      317,
+      3084,
+      762,
+      4220
+     ]
+    ],
+    "layout_words": 131
+   },
+   "headline_raw": "Jaishankar speaks with\nTaliban, welcomes its\nsupport on Pahalgam,\nand rebuff to Pakistan",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, MAY 15\n\nIN HIS first ever conversation\nwith Taliban-ruled Afghanistan's\nForeign Minister Amir Khan\nMuttaqi, External Affairs\nMinister S Jaishankar Thursday\nunderlined India\u2019s traditional\nfriendship with the Afghan peo-\nple and continuing support for\ntheir development needs.\nThe conversation took place\ndays after India and Pakistan\nagreed to stop military strikesin\nthe wake of Operation Sindoor\nconducted after the Pahalgam\nterror attack, an incident con-\ndemned by the Kabul regime.\nTensions between Afghanistan\nand Pakistan too have been run-\nning high.\nThis is also the first political-\nlevel contact and conversation\nsince the Taliban captured\npower in Kabul in August 2021.\nIn January this year, Foreign\nSecretary Vikram Misri met\nMuttaqi in Dubai.\nThe last political level contact\ntook place in 1999-2000 when\nthen External Affairs Minister",
+   "ocr_conf": 93.32824427480917,
+   "ocr_low_conf_share": 0.022900763358778626,
+   "headline": "Jaishankar speaks with Taliban, welcomes its support on Pahalgam, and rebuff to Pakistan",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, MAY 15",
+   "text": "IN HIS first ever conversation with Taliban-ruled Afghanistan's Foreign Minister Amir Khan Muttaqi, External Affairs Minister S Jaishankar Thursday underlined India's traditional friendship with the Afghan people and continuing support for their development needs. The conversation took place days after India and Pakistan agreed to stop military strikesin the wake of Operation Sindoor conducted after the Pahalgam terror attack, an incident condemned by the Kabul regime. Tensions between Afghanistan and Pakistan too have been running high. This is also the first political-level contact and conversation since the Taliban captured power in Kabul in August 2021. In January this year, Foreign Secretary Vikram Misri met Muttaqi in Dubai. The last political level contact took place in 1999-2000 when then External Affairs Minister",
+   "n_words": 121,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2439,
+      3196,
+      2807
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2764,
+      2888,
+      3127,
+      2959
+     ],
+     [
+      2761,
+      3008,
+      3205,
+      4222
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "BJP minister\ntargeted officer\nover faith, now\nSP MP flags\ncaste of 2 others",
+   "deck_raw": "",
+   "body_raw": "BHUPENDRA PANDEY\nLUCKNOW, MAY 15\n\nAS KUNWAR Vijay Shah, a min-\nister in BJP-ruled Madhya\nPradesh, faces an FIR and severe\ncriticism from the High Court\nand Supreme Court over his re-\nmarks directed at Colonel Sofiya\nQureshi, one of the women offi-\ncers who held daily briefings on\nOperation Sindoor, Samajwadi\nParty leader Ram Gopal Yadav\nwaded into the row Thursday in\nhis bid to attack the BJP, speak-\ning at length about the castes of\nthe other officersat the briefings.\nAddressing a gathering of\npartymen in Moradabad, Yadav,\nSP national general secretary and\na Rajya Sabha MP, said had the\nBJP known about the castes of\nWing Commander Vyomika\nSingh and Air Marshal AK Bharti,\nit would have \u201cabused\u201d themtoo.\nQuestioning the BJP over its\nTiranga Yatras on Operation\nSindoor, he said: \u201cThey can do\nanything for elections... What is\nthe need for this? And if it is\nneeded, dothis taking the entire\ncountry, all the political parties,\ninto confidence... Were the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.49404761904762,
+   "ocr_low_conf_share": 0.017857142857142856,
+   "headline": "BJP minister targeted officer over faith, now SP MP flags caste of 2 others",
+   "deck": "",
+   "byline": "BHUPENDRA PANDEY; LUCKNOW, MAY 15",
+   "text": "AS KUNWAR Vijay Shah, a minister in BJP-ruled Madhya Pradesh, faces an FIR and severe criticism from the High Court and Supreme Court over his remarks directed at Colonel Sofiya Qureshi, one of the women officers who held daily briefings on Operation Sindoor, Samajwadi Party leader Ram Gopal Yadav waded into the row Thursday in his bid to attack the BJP, speaking at length about the castes of the other officersat the briefings. Addressing a gathering of partymen in Moradabad, Yadav, SP national general secretary and a Rajya Sabha MP, said had the BJP known about the castes of Wing Commander Vyomika Singh and Air Marshal AK Bharti, it would have \"abused\" themtoo. Questioning the BJP over its Tiranga Yatras on Operation Sindoor, he said: \"They can do anything for elections... What is the need for this? And if it is needed, dothis taking the entire country, all the political parties, into confidence... Were the",
+   "n_words": 155,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      3228,
+      4127,
+      3690
+     ],
+     [
+      3248,
+      3745,
+      4163,
+      3877
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3251,
+      3153,
+      3739,
+      3191
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      3957,
+      3627,
+      4029
+     ],
+     [
+      3248,
+      4077,
+      3690,
+      5141
+     ],
+     [
+      3247,
+      5421,
+      3692,
+      6168
+     ],
+     [
+      3740,
+      4578,
+      3969,
+      4610
+     ],
+     [
+      3737,
+      4655,
+      4125,
+      4781
+     ],
+     [
+      3737,
+      4868,
+      4178,
+      5134
+     ],
+     [
+      3736,
+      5422,
+      4177,
+      6162
+     ]
+    ],
+    "layout_words": 373
+   },
+   "headline_raw": "President asks SC\non assent to Bills:\nCan court impose\ntimelines to decide?\nAsks if SC opinion is must when Bill is\nreserved for President\u2019s approval",
+   "deck_raw": "FRAMES 14 QUESTIONS",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, MAY 15\n\nIN Areference to the Supreme\nCourt, President Droupadi\nMurmu has posed 14 crucial\nquestions over the top court\u2019s\nApril 8 verdict that fixed time-\nlines for Governors and the\nPresident to act on Bills passed\nby state Assemblies.\nSeeking the Supreme Court\u2019s\nopinion under Article 143(1),\nMurmu sought to know\nwhether the actions of the\nGovemorsand President are jus-\nticiable and whether such time-\nlines can be imposed onthemin\nthe absence of any such provi-\nsion in the Constitution.\nThe reference pointed out\nthat \u201cthere are conflicting judg-\nments of the Supreme Court as\nto whether the assent of the\nPresident of India under Article\n201 of the Constitution of India\nis justiciable or not\u201d.\nUnder Article 145 (3), when\nthe President makes areference\nfor the court's opinion, it is\n\nthe military and worked the\nlines diplomatically, briefing and\ndebriefing the Prime Minister's\nOffice (PMO) and the office of the\nNational Security Adviser (NSA).\nWhile his composure was no-\nticed by those in the room where\nhe addressed the media, he was\nsharpon Pakistan's complicity in\ncross-border terrorism \u2014 oneday\npulling out a photograph show-\ning slain terrorists getting state\nfunerals and explaining terror\ntargets on a mapanother day.\nHowever, his statement on\nthe evening of May 10, when he\nannounced the pause on mili-\ntary action, led to an attack from\nwar-mongering trolls who\n\nEXPLAINED\n\nLAW\nTHE PRESIDENT\u2019S\nREFERENCE pace 10\n\nplaced before a five-judge bench.\nIn the Ayodhya dispute, the apex\ncourt, citing pendency of the\ncase, had declined to answer the\nquestion referred to it on\nwhether a temple existed below\nCONTINUED ON PAGE 2\n\nthought the ceasefire was a re-\ntreat on India\u2019s part, some even\ntargeting his daughter. In re-\nsponse, Misri did what people\nknow him for \u2014he didn't dignify\nthe comments with a public re-\naction; instead, he simply locked\nhis social media handle.\nIt may have been a rare, un-\ncomfortable moment of media\nglare for someone who is used to\nworking behind the scenes. In\n2001, when the Agra Summit be-\ntween then Prime Minister Atal\nBihari Vajpayee and Pakistan\nPresident Pervez Musharraf was\norganised, a former colleague re-\ncalls Misri putting in late hours.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.96246648793566,
+   "ocr_low_conf_share": 0.029490616621983913,
+   "headline": "President asks SC on assent to Bills: Can court impose timelines to decide? Asks if SC opinion is must when Bill is reserved for President's approval",
+   "deck": "FRAMES 14 QUESTIONS",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, MAY 15",
+   "text": "IN Areference to the Supreme Court, President Droupadi Murmu has posed 14 crucial questions over the top court's April 8 verdict that fixed time-lines for Governors and the President to act on Bills passed by state Assemblies. Seeking the Supreme Court's opinion under Article 143(1), Murmu sought to know whether the actions of the Govemorsand President are justiciable and whether such time-lines can be imposed onthemin the absence of any such provision in the Constitution. The reference pointed out that \"there are conflicting judgments of the Supreme Court as to whether the assent of the President of India under Article 201 of the Constitution of India is justiciable or not\". Under Article 145 (3), when the President makes areference for the court's opinion, it is\n\nthe military and worked the lines diplomatically, briefing and debriefing the Prime Minister's Office (PMO) and the office of the National Security Adviser (NSA). While his composure was noticed by those in the room where he addressed the media, he was sharpon Pakistan's complicity in cross-border terrorism - oneday pulling out a photograph showing slain terrorists getting state funerals and explaining terror targets on a mapanother day. However, his statement on the evening of May 10, when he announced the pause on military action, led to an attack from war-mongering trolls who\n\nEXPLAINED\n\nLAW THE PRESIDENT'S REFERENCE pace 10\n\nplaced before a five-judge bench. In the Ayodhya dispute, the apex court, citing pendency of the case, had declined to answer the question referred to it on whether a temple existed below\n\nthought the ceasefire was a retreat on India's part, some even targeting his daughter. In response, Misri did what people know him for - he didn't dignify the comments with a public reaction; instead, he simply locked his social media handle. It may have been a rare, uncomfortable moment of media glare for someone who is used to working behind the scenes. In 2001, when the Agra Summit between then Prime Minister Atal Bihari Vajpayee and Pakistan President Pervez Musharraf was organised, a former colleague recalls Misri putting in late hours.",
+   "n_words": 347,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      923,
+      3422,
+      1144,
+      3515
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      856,
+      3559,
+      1206,
+      3989
+     ],
+     [
+      806,
+      4075,
+      1249,
+      4220
+     ]
+    ],
+    "layout_words": 53
+   },
+   "headline_raw": "Keeping the\nlines open",
+   "deck_raw": "",
+   "body_raw": "WHILE INDIA is still to\ngrant recognition to\nTaliban in Afghanistan, it\nhas been providing hu-\nmanitarian and develop-\nment aid. Jaishankar\u2019s\nconversation with\nMuttaqi follows Foreign\nSecretary Misri\u2019s meeting\nwith the Taliban minister\nin Dubai this January.\n\nJaswant Singh wasin touch with\nTaliban Foreign Minister Wakil\nAhmed Muttawakil following\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.87037037037037,
+   "ocr_low_conf_share": 0.07407407407407407,
+   "headline": "Keeping the lines open",
+   "deck": "",
+   "byline": "",
+   "text": "WHILE INDIA is still to grant recognition to Taliban in Afghanistan, it has been providing humanitarian and development aid. Jaishankar's conversation with Muttaqi follows Foreign Secretary Misri's meeting with the Taliban minister in Dubai this January.\n\nJaswant Singh wasin touch with Taliban Foreign Minister Wakil Ahmed Muttawakil following",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      3502,
+      2680,
+      3773
+     ],
+     [
+      1297,
+      3759,
+      1551,
+      3825
+     ],
+     [
+      1787,
+      3831,
+      2189,
+      3899
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1784,
+      3757,
+      1921,
+      3814
+     ]
+    ],
+    "body_boxes": [
+     [
+      1297,
+      3839,
+      1523,
+      3867
+     ],
+     [
+      1296,
+      3916,
+      1738,
+      4228
+     ],
+     [
+      1784,
+      3903,
+      2158,
+      4028
+     ],
+     [
+      1785,
+      4115,
+      2225,
+      4228
+     ],
+     [
+      2274,
+      3759,
+      2717,
+      4222
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "Pak rogue nation, its n-weapons\nshould be under IAEA: Rajnath\nARUN SHARMA\nDEALINGS WITH PAK",
+   "deck_raw": "INSIDE",
+   "body_raw": "JAMMU, MAY 15\n\nCALLING PAKISTAN \u201can irre-\nsponsible and a rogue nation\u201d,\nDefence Minister Rajnath Singh\nsaid Thursday its \u201cnuclear\nweapons should be placed un-\nder the supervision of the\nInternational Atomic Energy\nAgency (IAEA)\u201d since these are\n\nWILL BE STRICTLY\nBILATERAL, SAYS\nJAISHANKAR PAGE 7\n\n\u201cnot in safe hands\u201d.\nHailing the Indian Armed\nForces forthe precision strikes on\n\nterror sites in Pakistan and\nPakistan-occupied Kashmir un-\nder Operation Sindoor, Singh,\nwho met troops at the Badami\nBagh cantonment in Srinagar,\nsaid, \u201cWe will go to any extent to\nend terrorism.\u201d He said Pakistan\nhasto \u201cstop sheltering terrorists\u201d.\n\u201cToday, from the land of\nSrinagar, | ask the world this ques-\ntion: Are nuclear weapons safe in\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.89166666666667,
+   "ocr_low_conf_share": 0.05,
+   "headline": "Pak rogue nation, its n-weapons should be under IAEA: Rajnath ARUN SHARMA DEALINGS WITH PAK",
+   "deck": "",
+   "byline": "JAMMU, MAY 15",
+   "text": "CALLING PAKISTAN \"an irresponsible and a rogue nation\", Defence Minister Rajnath Singh said Thursday its \"nuclear weapons should be placed under the supervision of the International Atomic Energy Agency (IAEA)\" since these are\n\nWILL BE STRICTLY BILATERAL, SAYS JAISHANKAR PAGE 7\n\n\"not in safe hands\". Hailing the Indian Armed Forces forthe precision strikes on\n\nterror sites in Pakistan and Pakistan-occupied Kashmir under Operation Sindoor, Singh, who met troops at the Badami Bagh cantonment in Srinagar, said, \"We will go to any extent to end terrorism.\" He said Pakistan hasto \"stop sheltering terrorists\". \"Today, from the land of Srinagar, ask the world this question: Are nuclear weapons safe in",
+   "n_words": 108,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4373,
+      1706,
+      4588
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      4298,
+      1426,
+      4336
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4667,
+      644,
+      4738
+     ],
+     [
+      319,
+      4787,
+      764,
+      5138
+     ],
+     [
+      319,
+      5421,
+      501,
+      5494
+     ],
+     [
+      806,
+      4628,
+      1249,
+      5138
+     ],
+     [
+      805,
+      5419,
+      1250,
+      6159
+     ],
+     [
+      1296,
+      4628,
+      1739,
+      5132
+     ],
+     [
+      1295,
+      5420,
+      1738,
+      5807
+     ]
+    ],
+    "layout_words": 311
+   },
+   "headline_raw": "After flagging Istanbul help to Pak,\nDelhi defers its envoy\u2019s acceptance",
+   "deck_raw": "BANGLADESH, THAILAND ENVOYS HAVE TO WAIT TOO",
+   "body_raw": "JAY MAZOOMDAAR\nNEW DELHI, MAY 15\n\nCITING \u201cSCHEDULING\u201d issues,\nthe Ministry of External Affairs\npostponed indefinitely the\nThursday event at Rashtrapati\nBhavan where Turkish\nAmbassador-designate Ali Murat\nErsoy was to present his Letter of\nCredence to the President of India.\nThe Ambassador-designate of\n\nPAGE 1\nANCHOR\n\nThailand and High Commis-\nsioner-designate of Bangladesh\nwere also scheduled to present\ntheir credentials at the event. A\nLetterof Credence is aformal doc-\nument appointing a diplomat as\nAmbassador or High Commi-\nssionerto another sovereign state.\nThe postponement comes the\nday the Bureau of Civil Aviation\nSecurity (BCAS), India\u2019s aviation\nsecurity regulator, revoked the se-\ncurity clearance of an Indian arm,\n\nvoice during Operation Sindoor.\nTogether, they signalled how in\nthis operation, the military and\ndiplomatic imperatives were in\nlock-step. For Misri, the message\nwas clear: to ensure that the daily\nbriefing was to the point\u2014embel-\nlished with neither frill nor shrill.\nNot a tall order for a diplomat\nwho began as an adman. Misri\njoined the Indian Foreign Service\n(IFS) in 1989, after three years at\nLintas India in Mumbai and\nContract Advertising in Delhi,\nwhere he worked closely with\nproduction teams. He would carry\nthe skill of the hardsell to some of\nthe toughest negotiating tables\naround the world \u2014 from China\n\nCelebi Airport Services India, of\nTurkey-headquartered airport\nground handling major Celebi\nAviation Holding in the interest of\n\u201cnational security\u2019 with immedi-\nate effect.\nOn May 12, the government\nsaid ithad taken note of Turkey's\nsupport to Pakistan before and\nduring Operation Sindoor, in-\ncluding its diplomatic and de-\nfence assistance. A Ministry of\nCONTINUEDON PAGE 2\n\nand Myanmar, where he held\nAmbassadorial stints, to Pakistan,\nwhere hewas First Secretary dur-\ning the Agra Summit.\nMisri\u2019s batchmates, col-\nleagues and former Ambassadors\ntalk of him as \u201ca thorough profes-\nsional\u201d and, more significantly, in\nthe me-myself-and-lageof social\nmedia, someone \u201cwho doesn\u2019t",
+   "ocr_conf": 89.04193548387097,
+   "ocr_low_conf_share": 0.06129032258064516,
+   "headline": "After flagging Istanbul help to Pak, Delhi defers its envoy's acceptance",
+   "deck": "BANGLADESH, THAILAND ENVOYS HAVE TO WAIT TOO",
+   "byline": "JAY MAZOOMDAAR; NEW DELHI, MAY 15",
+   "text": "CITING \"SCHEDULING\" issues, the Ministry of External Affairs postponed indefinitely the Thursday event at Rashtrapati Bhavan where Turkish Ambassador-designate Ali Murat Ersoy was to present his Letter of Credence to the President of India. The Ambassador-designate of\n\nANCHOR\n\nThailand and High Commissioner-designate of Bangladesh were also scheduled to present their credentials at the event. A Letterof Credence is aformal document appointing a diplomat as Ambassador or High Commissionerto another sovereign state. The postponement comes the day the Bureau of Civil Aviation Security (BCAS), India's aviation security regulator, revoked the security clearance of an Indian arm,\n\nvoice during Operation Sindoor. Together, they signalled how in this operation, the military and diplomatic imperatives were in lock-step. For Misri, the message was clear: to ensure that the daily briefing was to the point - embellished with neither frill nor shrill. Not a tall order for a diplomat who began as an adman. Misri joined the Indian Foreign Service (IFS) in 1989, after three years at Lintas India in Mumbai and Contract Advertising in Delhi, where he worked closely with production teams. He would carry the skill of the hardsell to some of the toughest negotiating tables around the world - from China\n\nCelebi Airport Services India, of Turkey-headquartered airport ground handling major Celebi Aviation Holding in the interest of \"national security' with immediate effect. On May 12, the government said ithad taken note of Turkey's support to Pakistan before and during Operation Sindoor, including its diplomatic and defence assistance. A Ministry of CONTINUEDON PAGE 2\n\nand Myanmar, where he held Ambassadorial stints, to Pakistan, where hewas First Secretary during the Agra Summit. Misri's batchmates, colleagues and former Ambassadors talk of him as \"a thorough professional\" and, more significantly, in the me-myself-and-lageof social media, someone \"who doesn't",
+   "n_words": 293,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      4296,
+      3181,
+      4499
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4589,
+      2079,
+      4659
+     ],
+     [
+      1784,
+      4709,
+      2225,
+      5140
+     ],
+     [
+      2272,
+      4550,
+      2714,
+      5140
+     ],
+     [
+      2760,
+      4551,
+      3201,
+      5133
+     ],
+     [
+      2759,
+      5421,
+      3202,
+      6168
+     ]
+    ],
+    "layout_words": 286
+   },
+   "headline_raw": "First action against Turkey: India arm\nof airport firm loses its security status",
+   "deck_raw": "",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, MAY 15\n\nIN THE FIRST official action\nagainst Turkey post the\nPahalgam terror attack, the\nBureau of Civil Aviation Security\n(BCAS) Thursday revoked with\nimmediate effect the security\nclearance of ground handling\nfirm Celebi Airport Services, the\nIndian arm of Turkey-headquar-\ntered Celebi Aviation Holding, in\ntheinterest of \u201cnational security\u201d.\n\nThe regulator's decision\ncomes amid a backlash in India\nover Turkey\u2019s open support for\nIslamabad and widespread use\nof Turkish drones by Pakistan\nagainst India during the four-day\nmilitary conflict. Many tour op-\nerators and airlines have also\nseen cancellation of bookings by\nIndian tourists to Turkey.\nIncidentally, Pakistan Prime\nMinister Shehbaz Sharif was in\nTurkey when the Pahalgam ter-\nror attack happened on April 22.\nHe had met President Recep\n\nTayyip Erdogan to discuss de-\nfence cooperation.\nGround handling refers to op-\nerations critical for flights to be\npreparedand operated. These in-\nclude passenger handling and\ncheck-in, baggage handling, cargo\nhandling and management, air-\ncraft servicing and maintenance,\nramp services, and catering.\nFollowing the BCAS order,\nDelhi International Airport Ltd\n(DIAL)immediately severed ties\nwith Celebi entities for ground\nCONTINUED ON PAGE 2\n\n1975 Sidney Lumet classic, with\nAl Pacino in the lead.\nGrowing up in a Kashmiri\nPandit family in Srinagar, where\nhe did his early schooling before\nmoving to Udhampur and\nGwalior, Misri, colleagues say,\nrarely speaks about himself at\npublic or private gatherings. A\nformer Ambassador who has\nknown Misri from his early days\nat the Pakistan desk of the\nMinistry of External Affairs, says,\n\u201cHe never made it about himself.\nIt was all about his work. That\nwas what kept him engrossed.\u201d\nThat self-effacing side wason\ndisplay between May 7 and 10,\nwhen Misri stayed in touch with",
+   "ocr_conf": 92.84615384615384,
+   "ocr_low_conf_share": 0.024475524475524476,
+   "headline": "First action against Turkey: India arm of airport firm loses its security status",
+   "deck": "",
+   "byline": "SUKALP SHARMA; NEW DELHI, MAY 15",
+   "text": "IN THE FIRST official action against Turkey post the Pahalgam terror attack, the Bureau of Civil Aviation Security (BCAS) Thursday revoked with immediate effect the security clearance of ground handling firm Celebi Airport Services, the Indian arm of Turkey-headquartered Celebi Aviation Holding, in theinterest of \"national security\".\n\nThe regulator's decision comes amid a backlash in India over Turkey's open support for Islamabad and widespread use of Turkish drones by Pakistan against India during the four-day military conflict. Many tour operators and airlines have also seen cancellation of bookings by Indian tourists to Turkey. Incidentally, Pakistan Prime Minister Shehbaz Sharif was in Turkey when the Pahalgam terror attack happened on April 22. He had met President Recep\n\nTayyip Erdogan to discuss defence cooperation. Ground handling refers to operations critical for flights to be preparedand operated. These include passenger handling and check-in, baggage handling, cargo handling and management, aircraft servicing and maintenance, ramp services, and catering. Following the BCAS order, Delhi International Airport Ltd (DIAL)immediately severed ties with Celebi entities for ground\n\n1975 Sidney Lumet classic, with Al Pacino in the lead. Growing up in a Kashmiri Pandit family in Srinagar, where he did his early schooling before moving to Udhampur and Gwalior, Misri, colleagues say, rarely speaks about himself at public or private gatherings. A former Ambassador who has known Misri from his early days at the Pakistan desk of the Ministry of External Affairs, says, \"He never made it about himself. It was all about his work. That was what kept him engrossed.\" That self-effacing side wason display between May 7 and 10, when Misri stayed in touch with",
+   "n_words": 269,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      5263,
+      4123,
+      5454
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      5617,
+      595,
+      5687
+     ],
+     [
+      318,
+      5736,
+      760,
+      6166
+     ]
+    ],
+    "layout_words": 58
+   },
+   "headline_raw": "No hardsell for this adman-turned-diplomat Foreign Secretary Misri",
+   "deck_raw": "",
+   "body_raw": "DIVYAA\nNEW DELHI, MAY 15\n\nOVER FOUR daysof incessant fir-\ning at the Line of Control last\nweek, over the din of drones,\nblackout screens, and frothing\nTVanchors, one of the few voices\nof calm was that of Foreign\nSecretary Vikram Misri.\nFlanked by two officers,\nColonel Sofiya Qureshi and Wing\nCommander Vyomika Singh,\nMisri became India\u2019s diplomatic",
+   "ocr_conf": 88.98275862068965,
+   "ocr_low_conf_share": 0.05172413793103448,
+   "headline": "No hardsell for this adman-turned-diplomat Foreign Secretary Misri",
+   "deck": "",
+   "byline": "DIVYAA; NEW DELHI, MAY 15",
+   "text": "OVER FOUR daysof incessant firing at the Line of Control last week, over the din of drones, blackout screens, and frothing TVanchors, one of the few voices of calm was that of Foreign Secretary Vikram Misri. Flanked by two officers, Colonel Sofiya Qureshi and Wing Commander Vyomika Singh, Misri became India's diplomatic",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      5813,
+      1549,
+      5870
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      5896,
+      1740,
+      6167
+     ]
+    ],
+    "layout_words": 35
+   },
+   "headline_raw": "advertise himself\u201d.\nA ceninc wireaii",
+   "deck_raw": "",
+   "body_raw": "interacted with Misri when he\nwas Ambassador in Myanmar\nvouches for \u201canother side\u201d \u2014 a\nlove for crime thrillers. He recalls\na decade-old conversation with\nMisri in Naypyidaw, where they\ndiscussed Dog Day Afternoon, the",
+   "ocr_conf": 94.34285714285714,
+   "ocr_low_conf_share": 0.0,
+   "headline": "advertise himself\". A ceninc wireaii",
+   "deck": "",
+   "byline": "",
+   "text": "interacted with Misri when he was Ambassador in Myanmar vouches for \"another side\" - a love for crime thrillers. He recalls a decade-old conversation with Misri in Naypyidaw, where they discussed Dog Day Afternoon, the",
+   "n_words": 35,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 20.3,
+ "flags": []
+}

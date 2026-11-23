@@ -1,0 +1,701 @@
+{
+ "version": "1.6",
+ "page_id": "2025_12_13_editorial",
+ "source_file": "2025-12-13_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-12-13_editorial.png",
+ "date": "2025-12-13",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 10,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 460,
+  "mean_line_conf": 89.69514548573054,
+  "orphan_words": 4,
+  "body_words_total": 1763
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4180,
+      888
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTALREGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 92.75,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTALREGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      357,
+      936,
+      730,
+      1098
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1148,
+      738,
+      1460
+     ],
+     [
+      323,
+      1689,
+      642,
+      1730
+     ]
+    ],
+    "layout_words": 34
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@LIONEL MESSI begins\nhis GOAT India Tour 2025,\nwhich will take the football\nlegend to Kolkata, Hyderabad,\nMumbaiand New Delhiover\nthree days. The eight-time\nBallon d\u2018Or winner will start\nhis trip from Kolkata.\n\nPARLIAMENT",
+   "ocr_conf": 81.20588235294117,
+   "ocr_low_conf_share": 0.14705882352941177,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "PARLIAMENT",
+   "text": "@LIONEL MESSI begins his GOAT India Tour 2025, which will take the football legend to Kolkata, Hyderabad, Mumbaiand New Delhiover three days. The eight-time Ballon d'Or winner will start his trip from Kolkata.",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      1008,
+      3182,
+      1334
+     ]
+    ],
+    "deck_boxes": [
+     [
+      786,
+      938,
+      1003,
+      988
+     ],
+     [
+      809,
+      1413,
+      1682,
+      1544
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1583,
+      1168,
+      1659
+     ],
+     [
+      809,
+      1707,
+      1251,
+      2339
+     ],
+     [
+      1298,
+      1588,
+      1742,
+      2333
+     ]
+    ],
+    "layout_words": 159
+   },
+   "headline_raw": "Oversight on IndiGo under scanner,\nDGCA sacks 4 flight ops inspectors",
+   "deck_raw": "AIRLINE\nAirline turns to former FAA advisor\nto review disruptions in schedule",
+   "body_raw": "Sukalp Sharma\nNew Delhi, December 12\n\nINTHE wake of themassive dis-\nruption in IndiGo\u2019s flight oper-\nations last week, aviation regu-\nlator Directorate General of Civil\nAviation (DGCA) has sacked\nfour flight operations inspectors\n(FOIs) who were responsible for\noversight on the airline and its\npreparation for the new pilot\nrest and duty duration rules.\nThefour FOls, engaged with\nthe DGCA on contract basis,\nhave been relieved with im-\nmediate effect to join their re-\nspective parent organisations,\naccording to an order by the\n\nregulator.\nThe DGCA named the four\nFOIs, whose services with the\nregulator have been termin-\nated, as Deputy ChiefFOIRishi\nRaj Chatterjee, Senior FOI\nSeema Jhamnani, and FOIs\nAnil Kumar Pokhriyal and\nPriyam Kaushik.\nQuestions have been raised\nfrom different quarters on the\nDGCAs oversight on IndiGo\nfollowing last week\u2019s spate of\nflight cancellations and delays\nthat severely impacted tens of\nthousands of passengers.\nThis could mark the begin-\nning of government and\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 94.062893081761,
+   "ocr_low_conf_share": 0.006289308176100629,
+   "headline": "Oversight on IndiGo under scanner, DGCA sacks 4 flight ops inspectors",
+   "deck": "AIRLINE Airline turns to former FAA advisor to review disruptions in schedule",
+   "byline": "",
+   "text": "Sukalp Sharma New Delhi, December 12\n\nINTHE wake of themassive disruption in IndiGo's flight operations last week, aviation regulator Directorate General of Civil Aviation (DGCA) has sacked four flight operations inspectors (FOIs) who were responsible for oversight on the airline and its preparation for the new pilot rest and duty duration rules. Thefour FOls, engaged with the DGCA on contract basis, have been relieved with immediate effect to join their respective parent organisations, according to an order by the\n\nregulator. The DGCA named the four FOIs, whose services with the regulator have been termin-ated, as Deputy ChiefFOIRishi Raj Chatterjee, Senior FOI Seema Jhamnani, and FOIs Anil Kumar Pokhriyal and Priyam Kaushik. Questions have been raised from different quarters on the DGCAs oversight on IndiGo following last week's spate of flight cancellations and delays that severely impacted tens of thousands of passengers. This could mark the beginning of government and",
+   "n_words": 149,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      1368,
+      3159,
+      1581
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      1625,
+      2143,
+      1699
+     ],
+     [
+      1786,
+      1747,
+      2227,
+      2340
+     ],
+     [
+      2349,
+      1628,
+      2639,
+      1702
+     ],
+     [
+      2274,
+      2226,
+      2712,
+      2340
+     ],
+     [
+      2761,
+      1630,
+      3204,
+      2334
+     ]
+    ],
+    "layout_words": 179
+   },
+   "headline_raw": "IndiGo capable... Govt to monitor\nthem very closely, says Naidu",
+   "deck_raw": "",
+   "body_raw": "Liz Mathew\nNew Delhi, December 12\n\nSTEPPING IN after disruptions\nin IndiGo flight operations left\nthousands stranded at airports\nacross the country last week,\nCivil Aviation Minister K Ram-\nmohan Naidu said Friday that\nthough he is satisfied with the\nprogress made in restoring nor-\nmalcy, the government will\nnow closely monitor IndiGo\noperations.\nAcknowledging that thecivil\naviation sector needs reforms,\nkeeping passenger interest as\npriority, he said the challenge is\n\n. EXPRESS\ninterview\n\ntobring in more aircraft fast.\nInan interview with The In-\ndian Express, Naidu said,\n\n\u201cThings are backto normal, all\noperations have stabilised and\nIndiGois operating up to more\nthan 1,950 flights. All the desti-\nnations are properly con-\nnected. So at the airport side\nand the passenger side, there is\nno problem. And for the pas-\nsengers who have been affected\nduring the peak of the crisis, is-\nsues are being addressed. Toa\nlarge extent, refunds and re-\nbookings have been closed.\nSince the time (given) is until\nDecember 15, that process will\ncontinue for three more days.\u201d\n\u201cIndiGo has been one ofthe\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 92.06666666666666,
+   "ocr_low_conf_share": 0.011111111111111112,
+   "headline": "IndiGo capable... Govt to monitor them very closely, says Naidu",
+   "deck": "",
+   "byline": "",
+   "text": "Liz Mathew New Delhi, December 12\n\nSTEPPING IN after disruptions in IndiGo flight operations left thousands stranded at airports across the country last week, Civil Aviation Minister K Rammohan Naidu said Friday that though he is satisfied with the progress made in restoring normalcy, the government will now closely monitor IndiGo operations. Acknowledging that thecivil aviation sector needs reforms, keeping passenger interest as priority, he said the challenge is\n\n. EXPRESS interview\n\ntobring in more aircraft fast. Inan interview with The Indian Express, Naidu said,\n\n\"Things are backto normal, all operations have stabilised and IndiGois operating up to more than 1,950 flights. All the destinations are properly connected. So at the airport side and the passenger side, there is no problem. And for the passengers who have been affected during the peak of the crisis, issues are being addressed. Toa large extent, refunds and rebookings have been closed. Since the time (given) is until December 15, that process will continue for three more days.\" \"IndiGo has been one ofthe",
+   "n_words": 169,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      2005,
+      4168,
+      2367
+     ],
+     [
+      3250,
+      2448,
+      4178,
+      2580
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3740,
+      2662,
+      4177,
+      2709
+     ]
+    ],
+    "body_boxes": [
+     [
+      3249,
+      2622,
+      3606,
+      2696
+     ],
+     [
+      3246,
+      2744,
+      3691,
+      4014
+     ],
+     [
+      3737,
+      2733,
+      4154,
+      3135
+     ],
+     [
+      3736,
+      3224,
+      4180,
+      4007
+     ]
+    ],
+    "layout_words": 287
+   },
+   "headline_raw": "100 to 125 days:\nMNREGA scheme\nto get name change\nIn FY25, average employment days per\nhousehold under scheme was just 50",
+   "deck_raw": "\u00a2 Approved by Cabinet",
+   "body_raw": "Harikishan Sharma\nNew Delhi, December 12\n\nTHE GOVERNMENT may fi-\nnalisearevampofthe Mahatma\nGandhi National Rural Guaran-\nteeAct and increasethe number\nof guaranteed employment\ndays to eligible rural households\nfrom 100 nowto 125.\nThe Union Cabinet dis-\ncussed the proposal to expand\nthe scheme and alsoto change\nthe name of the law itself to\nPujya Bapu Rural Employment\nGuarantee Act, sources in the\ngovernment said.\nWhile the law guaranteed\njobs for 100 days, the average\ndays of employment provided\nper household under the\nscheme was just about 50 days\nin 2024-25. In fact, the number\nof households completing\n100 days stood at 40.70 lakh\nlast year. In the current finan-\ncial year,only 6.74 lakh families\nhave hit the 100-day ceiling.\nThe proposal comes on the\nback of an approval process al-\nready initiated by the govern-\nment for continuation of the\nschemein the Sixteenth Finance\nCommission awards which will\nbe effective April 1, 2026.\n\nRs 11,718 CR for Census 2027\nABILLto set upa higher educa-\ntion regulator which will replace\nbodies suchas UGC and AICTE\nABILL to raise FDI inthe insur-\nance sector to 100 per cent\nABILL to opennuclear energy\nsector to private players\nPAGES 6, 15\n\nIn2022, acommittee consti-\ntuted by the Ministry of Rural\nDevelopment, which admin-\nisters the MNREGS, was tasked\nto study the performance of\nstates and issues related to the\nscheme\u2019s governance. The\ncommittee had submitted its\nreport last year.\nThe NREGA was enacted in\n2005, and was renamed by the\nthen UPA government as Ma-\nhatma Gandhi National Rural\nEmployment Guarantee Act\nwith effect from October 2,\n2009. According to sources, the\nNDA government will have to\namend the law to rename it and\nincrease the number of\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 90.86062717770035,
+   "ocr_low_conf_share": 0.04878048780487805,
+   "headline": "MNREGA scheme to get name change In FY25, average employment days per household under scheme was just 50",
+   "deck": "\u00a2 Approved by Cabinet",
+   "byline": "",
+   "text": "Harikishan Sharma New Delhi, December 12\n\nTHE GOVERNMENT may finalisearevampofthe Mahatma Gandhi National Rural GuaranteeAct and increasethe number of guaranteed employment days to eligible rural households The Union Cabinet discussed the proposal to expand the scheme and alsoto change the name of the law itself to Pujya Bapu Rural Employment Guarantee Act, sources in the government said. While the law guaranteed jobs for 100 days, the average days of employment provided per household under the scheme was just about 50 days in 2024-25. In fact, the number of households completing 100 days stood at 40.70 lakh last year. In the current financial year,only 6.74 lakh families have hit the 100-day ceiling. The proposal comes on the back of an approval process already initiated by the government for continuation of the schemein the Sixteenth Finance Commission awards which will be effective April 1, 2026.\n\nRs 11,718 CR for Census 2027 ABILLto set upa higher education regulator which will replace bodies suchas UGC and AICTE ABILL to raise FDI inthe insurance sector to 100 per cent ABILL to opennuclear energy sector to private players\n\nIn2022, acommittee constituted by the Ministry of Rural Development, which admin-isters the MNREGS, was tasked to study the performance of states and issues related to the scheme's governance. The committee had submitted its report last year. The NREGA was enacted in 2005, and was renamed by the then UPA government as Mahatma Gandhi National Rural Employment Guarantee Act with effect from October 2, 2009. According to sources, the NDA government will have to amend the law to rename it and increase the number of",
+   "n_words": 266,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2441,
+      1242,
+      2892
+     ],
+     [
+      321,
+      2967,
+      1088,
+      3098
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3576,
+      1243,
+      3692
+     ],
+     [
+      320,
+      3733,
+      678,
+      3861
+     ],
+     [
+      809,
+      3738,
+      1250,
+      4402
+     ],
+     [
+      320,
+      3897,
+      762,
+      4362
+     ],
+     [
+      851,
+      4517,
+      1203,
+      4613
+     ]
+    ],
+    "layout_words": 168
+   },
+   "headline_raw": "Follow America First\nstrategy, visiting\nUSTR officials told\nUS tech companies\nUnderline the need to prioritise\ncapex investments in America",
+   "deck_raw": "",
+   "body_raw": "US Deputy Trade Representative Rick Switzer (centre) and Assistant\nTrade Representative Brendan Lynch (second from right) during\nthe USIBC-USTRindustry roundtable earlier this week. x/eusiac\n\nSoumyarendra Barik\n& RaviDutta Mishra\nNew Dethi, December 12\n\nintelligence tothe US and focus\non creating meaningful jobs,\nrather than outsourcing those\nto foreign workers.\nAUS tradeteam led by Dep-\nuty US Trade Representative\nRick Switzer and Brendan\nLynch, the US chief negotiator\nfor the trade deal with India,\nwasin Delhi earlier this week to\niron out differencesin the long-\npending bilateral trade agree-\nment (BTA) between the two\ncountries.\nDuring two meetings with\nAmerican tech companies and\nsCONTINUED ON PAGE2\n\nIN DISCUSSIONS with Ameri-\ncan companies during the\ncourse of their two-day visit to\nIndia, officials from a visiting\nUnited States Trade Represen-\ntative (USTR) delegation are\nlearnt to have nudged these\ncompanies to follow an\n\u201cAmerica First\u201d strategy. They\nwere also urged to direct a sub-\nstantive part of their invest-\nments in sectors such as tech-\n\nBusiness as Usual\nBy EPUNNY",
+   "ocr_conf": 92.9047619047619,
+   "ocr_low_conf_share": 0.017857142857142856,
+   "headline": "Follow America First strategy, visiting USTR officials told US tech companies Underline the need to prioritise capex investments in America",
+   "deck": "",
+   "byline": "",
+   "text": "US Deputy Trade Representative Rick Switzer (centre) and Assistant Trade Representative Brendan Lynch (second from right) during the USIBC-USTRindustry roundtable earlier this week. x/eusiac\n\nSoumyarendra Barik & RaviDutta Mishra New Dethi, December 12\n\nintelligence tothe US and focus on creating meaningful jobs, rather than outsourcing those to foreign workers. AUS tradeteam led by Deputy US Trade Representative Rick Switzer and Brendan Lynch, the US chief negotiator for the trade deal with India, wasin Delhi earlier this week to iron out differencesin the long-pending bilateral trade agreement (BTA) between the two countries. During two meetings with American tech companies and sCONTINUED ON PAGE2\n\nIN DISCUSSIONS with American companies during the course of their two-day visit to India, officials from a visiting United States Trade Representative (USTR) delegation are learnt to have nudged these companies to follow an \"America First\" strategy. They were also urged to direct a substantive part of their invest-ments in sectors such as tech-\n\nBusiness as Usual By EPUNNY",
+   "n_words": 161,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1299,
+      3772,
+      2408,
+      3866
+     ],
+     [
+      1298,
+      3892,
+      3123,
+      3953
+     ],
+     [
+      1298,
+      4073,
+      2654,
+      4295
+     ],
+     [
+      1780,
+      4327,
+      2122,
+      4455
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1784,
+      4484,
+      2203,
+      4583
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      3936,
+      2147,
+      3970
+     ],
+     [
+      1296,
+      4332,
+      1653,
+      4406
+     ],
+     [
+      1293,
+      4454,
+      1738,
+      5207
+     ],
+     [
+      1783,
+      4614,
+      2225,
+      5048
+     ],
+     [
+      1784,
+      5131,
+      2224,
+      5207
+     ],
+     [
+      2273,
+      3938,
+      2473,
+      3971
+     ],
+     [
+      2273,
+      4337,
+      2714,
+      5200
+     ]
+    ],
+    "layout_words": 237
+   },
+   "headline_raw": "President\u2019s Prayer in Manipur\nPresident Droupadi Murmuat Bijoy Govindajee Temple in Imphal on Friday. On atwo-day visit to Manipur, Murmu spoke ata reception\nnrogqramme in Senanati district and also launched wariaiie develanmenta! nrnierte any\nIndia out of US-led coalition on\ncritical minerals supply chain\n[J EXPLAINED",
+   "deck_raw": "Countering China\u2019s\ndominance",
+   "body_raw": "programme in Senapati district and also launched various dev\n\nRaviDutta Mishra\nNew Delhi, December 12\n\nANEWUS-led strategic initiat-\nive, Pax Silica, which aims to\nbuild a secure supply chain\nranging from critical minerals\nand energyinputs to advanced\nmanufacturing and semicon-\nductors, does not include India\nThis comes at a time when\nan India-UStrade deal remains\nelusive despite several high-\nlevel talks and rounds of tech-\nnical negotiations.\nDeihihas been vying for op-\nportunitiesduringthe ongoing\nglobal supply chain realign-\nment as US and European com-\npanies are looking to diversify\naway from China. The West\u2019s\ndiversification push has gath-\n\nPax Silicais a US-led initiative\ntocounterChina\u2019s dom-\ninanceinnewagesectors. It\naims toreduce what UScalls\n\u201ccoercive dependencies\u201d and\nprotect materials and capa-\nbilities \u201cfoundational toarti-\nficial intelligence\u201d, and \u201cen-\nsure aligned nationscan\ndevelop and deploy transfor-\nmative technologies atscale\u201d.\n\nered pace, especially after\nChina imposed restrictions on\n\nta! projects. ani\n\nrare earth magnets, disrupting\nglobal supply chains.\nAUS Department of State\nstatement said the inaugural\nPax Silica Summit convenes\ncounterparts from Japan, the\nRepublic of Korea, Singapore,\nthe Netherlands, the United\nKingdom, Israel, the United\nArab Emirates and Australia.\n\u201cTogether, these countries are\nhome to the most important\ncompanies and investors\npowering the global AI supply\nchain,\u201d the statement said.\nPax Silica is a US-led stra-\ntegic initiative to build a \u201cse-\ncure, prosperous, and innova-\ntion-driven silicon supply\nchain\u201d \u2014 from critical minerals\nand energy inputs to advanced\n\u00bbCONTINUEDON PAGE2",
+   "ocr_conf": 87.94092827004219,
+   "ocr_low_conf_share": 0.08016877637130802,
+   "headline": "President's Prayer in Manipur President Droupadi Murmuat Bijoy Govindajee Temple in Imphal on Friday. On atwo-day visit to Manipur, Murmu spoke ata reception nrogqramme in Senanati district and also launched wariaiie develanmenta! nrnierte any India out of US-led coalition on critical minerals supply chain [J EXPLAINED",
+   "deck": "Countering China's dominance",
+   "byline": "",
+   "text": "programme in Senapati district and also launched various dev\n\nRaviDutta Mishra New Delhi, December 12\n\nANEWUS-led strategic initiative, Pax Silica, which aims to build a secure supply chain ranging from critical minerals and energyinputs to advanced manufacturing and semiconductors, does not include India This comes at a time when an India-UStrade deal remains elusive despite several high-level talks and rounds of technical negotiations. Deihihas been vying for opportunitiesduringthe ongoing global supply chain realignment as US and European companies are looking to diversify away from China. The West's diversification push has gath-\n\nPax Silicais a US-led initiative tocounterChina's dominanceinnewagesectors. It aims toreduce what UScalls \"coercive dependencies\" and protect materials and capabilities \"foundational toartificial intelligence\", and \"ensure aligned nationscan develop and deploy transformative technologies atscale\".\n\nered pace, especially after China imposed restrictions on\n\nta! projects. ani\n\nrare earth magnets, disrupting global supply chains. AUS Department of State statement said the inaugural Pax Silica Summit convenes counterparts from Japan, the Republic of Korea, Singapore, the Netherlands, the United Kingdom, Israel, the United Arab Emirates and Australia. \"Together, these countries are home to the most important companies and investors powering the global AI supply chain,\" the statement said. Pax Silica is a US-led strategic initiative to build a \"secure, prosperous, and innovation-driven silicon supply chain\" - from critical minerals and energy inputs to advanced \u00bbCONTINUEDON PAGE2",
+   "n_words": 222,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      4234,
+      4175,
+      4456
+     ],
+     [
+      2755,
+      4489,
+      3686,
+      4597
+     ],
+     [
+      2837,
+      4604,
+      3610,
+      4664
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2972,
+      4165,
+      3965,
+      4210
+     ]
+    ],
+    "body_boxes": [
+     [
+      2760,
+      4691,
+      3114,
+      4769
+     ],
+     [
+      2760,
+      4815,
+      3202,
+      5208
+     ],
+     [
+      3248,
+      4498,
+      4176,
+      4945
+     ],
+     [
+      3248,
+      4696,
+      3689,
+      4809
+     ],
+     [
+      3248,
+      4934,
+      3688,
+      5208
+     ]
+    ],
+    "layout_words": 142
+   },
+   "headline_raw": "Under scrutiny: A string of\napprovals behind Goa nightclub\nFrom food safety licences to pollution\nbody clearance and three NOCs",
+   "deck_raw": "25 PEOPLE DIED IN BLAZEON DECEMBER6",
+   "body_raw": "Pavneet Singh Chadha\nPanaji, December 12\n\nWITH THE fatal fire at a Goa\nnightclub putting the spotlight\non whether government de-\npartments had been lax in is-\nsuing approvals and prompting\nthe chief minister to say errant\nofficials would face action,\ndocuments accessed by The In-\ndian Express show that at least\nseven approvals were given by\n\ntheincident sothat accountabil-\nences to pollution \u2014 itycanbefixed.\nAccording to documents,\nnd three NOCs M/S Being GS Hospitality Goa\nArpora LLP, which operatesthe\nthe local panchayat in Arpora restaurant and has Saurabh\nand government departments Luthra, GauravLuthraand Ajay\nso that Birch by RomeoLane Guptaaspartners, entered into\ncouldoperate.The , \u2014 \u2014\u2014, a licence agree-\napprovals include EXPRESS | ment with the\ntrade, excise and 7 roperty owner,\nfand enfanr lire. | exclusive | property Vimar\n\nthe local panchayat in Arpora\nand government departments\nso that Birch by Romeo Lane\n\nfood safety lice- | ~~\nneces; a pollution\nbody nod; and three no-objec-\ntion certificates.\nAninquiry headed by North\nGoa district magistrate and col-\nlectorAnkit Yadav is examining",
+   "ocr_conf": 85.17341040462428,
+   "ocr_low_conf_share": 0.11560693641618497,
+   "headline": "Under scrutiny: A string of approvals behind Goa nightclub From food safety licences to pollution body clearance and three NOCs",
+   "deck": "25 PEOPLE DIED IN BLAZEON DECEMBER6",
+   "byline": "",
+   "text": "Pavneet Singh Chadha Panaji, December 12\n\nWITH THE fatal fire at a Goa nightclub putting the spotlight on whether government departments had been lax in issuing approvals and prompting the chief minister to say errant officials would face action, documents accessed by The Indian Express show that at least seven approvals were given by\n\ntheincident sothat accountabilences to pollution - itycanbefixed. According to documents, nd three NOCs M/S Being GS Hospitality Goa Arpora LLP, which operatesthe the local panchayat in Arpora restaurant and has Saurabh and government departments Luthra, GauravLuthraand Ajay so that Birch by RomeoLane Guptaaspartners, entered into couldoperate.The, - - -, a licence agree-approvals include EXPRESS ment with the trade, excise and 7 roperty owner, fand enfanr lire. exclusive property Vimar\n\nthe local panchayat in Arpora and government departments so that Birch by Romeo Lane\n\nfood safety lice- ~~ neces; a pollution body nod; and three no-objection certificates. Aninquiry headed by North Goa district magistrate and collectorAnkit Yadav is examining",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3925,
+      4850,
+      4176,
+      4945
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3735,
+      4935,
+      4176,
+      5167
+     ]
+    ],
+    "layout_words": 23
+   },
+   "headline_raw": "ment with the\nproperty owner,\nCaseindar Virmar",
+   "deck_raw": "",
+   "body_raw": "we | Surinder Kumar\nKhosla, on No-\nvember 28, 2023, to lease a prop-\nerty called \u2018Cordonicho Agor\u2019 at\nSankwadi Arpora measuring\n31,200 square metres.",
+   "ocr_conf": 81.12,
+   "ocr_low_conf_share": 0.12,
+   "headline": "ment with the property owner, Caseindar Virmar",
+   "deck": "",
+   "byline": "",
+   "text": "we Surinder Kumar Khosla, on November 28, 2023, to lease a property called 'Cordonicho Agor' at Sankwadi Arpora measuring 31,200 square metres.",
+   "n_words": 22,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      5381,
+      3198,
+      5502
+     ]
+    ],
+    "deck_boxes": [
+     [
+      321,
+      5298,
+      1864,
+      5356
+     ]
+    ],
+    "body_boxes": [
+     [
+      317,
+      5525,
+      652,
+      5600
+     ],
+     [
+      807,
+      5530,
+      1248,
+      5835
+     ],
+     [
+      318,
+      5650,
+      1248,
+      6201
+     ],
+     [
+      1295,
+      5531,
+      1737,
+      6202
+     ],
+     [
+      2759,
+      5532,
+      3204,
+      6239
+     ]
+    ],
+    "layout_words": 289
+   },
+   "headline_raw": "\u2018Will tell my son, I did this\u2019: Vinesh back on wrestling mat,",
+   "deck_raw": "@ SIXTEEN MONTHS AFTER SHE QUIT FOLLOWING DISQUALIFICATION FROM PARIS OLYMPICS",
+   "body_raw": "Mihir Vasavda\nMumbai, December 12\n\nthe Paris Olympics, where she\nwas disqualified for missing\nweight \u2014 said Friday that she\nhas returned to the mat.\n\u201cI don\u2019t think I am over it\nyet,\u201d Vinesh told The Indian\nExpress, referring to Paris,\nwhere she hadentered the final\n\nLAST YEAR in Paris, wrestler has returned to the mat.\nVinesh Phogat walked away \u201cI don\u2019t think I am over it\nfromthe matintears\u2014broken, yet,\u201d Vinesh told The Indian\nempty, undone. She didn\u2019tjust Express, referring to Paris,\nlose an Olympic medal, she | whereshehadentered the final\ncame home with a ofthe50 kgevent but\nbrutal heartbreak PAGE1 was disqualified on\nandannouncedher ) anchors the day of the bout\nretirement. after weighing 100\nSixteen months later, India\u2019s gramsoverthelimit \u201cBut Idid-\ngutsiest athlete\u2014whotookon n't want it to be my end.\u201d\nthesystem, then took down the Vinesh, 31, said she has re-\nworld\u2019s bestwrestlerinhercat- sumed training and is \u201cstep-\negory and reached thefinalof ping back toward Los Angeles\n\n2028 with a heart that\u2019s un-\nafraid and aspirit that refuses\ntobow.\u201d But the biggest motiva-\ntion behind hercomeback, she\nsaid, is the thought of her four-\nmonth-old son, Kridhav, her\n\u201clittle cheerleader\u201d as she calls\nhim, one day watching her\ncompete \u2014 and win.\n\u201cIt'll be an amazing feeling\nif my son, who will be three by\nthe time of the LA Olympics,\ncan watch me play atabigtour-\nnament and watch me win,\u201d Vi-\nnesh said. \u201cYou know, imagine\nascenario where, ifl\u2019mthere at\nthe 2028 Olympics, he\u2019ll curnto\n\nme and say, \u2018Arey mummy,\nkuch toh kar lo yaar\u2019 (Mom,\ncome on, do something)\u201d.\nWhile she competed in the\nS0kg category in Paris, Vinesh\nis likelyto wrestle in the 53kg or\n\u00a77kg weight class when she re-\nturns to competition in 2026.\nThe year will be a busy one for\nIndia\u2019s wrestlers, with the Asian\nChampionships scheduled for\nApril, the Asian Games in Sep-\ntember and the World Cham-\npionships in October.\nBefore she can compete in-\nternationally, Vinesh will have\nto navigate the domestic selec-\nJaipur",
+   "ocr_conf": 88.08333333333333,
+   "ocr_low_conf_share": 0.07738095238095238,
+   "headline": "'Will tell my son, I did this': Vinesh back on wrestling mat,",
+   "deck": "@ SIXTEEN MONTHS AFTER SHE QUIT FOLLOWING DISQUALIFICATION FROM PARIS OLYMPICS",
+   "byline": "",
+   "text": "Mihir Vasavda Mumbai, December 12\n\nthe Paris Olympics, where she was disqualified for missing weight - said Friday that she has returned to the mat. \"I don't think I am over it yet,\" Vinesh told The Indian Express, referring to Paris, where she hadentered the final\n\nLAST YEAR in Paris, wrestler has returned to the mat. Vinesh Phogat walked away \"I don't think I am over it fromthe matintears - broken, yet,\" Vinesh told The Indian empty, undone. She didn'tjust Express, referring to Paris, lose an Olympic medal, she whereshehadentered the final came home with a ofthe50 kgevent but brutal heartbreak PAGE1 was disqualified on andannouncedher ) anchors the day of the bout retirement. after weighing 100 Sixteen months later, India's gramsoverthelimit \"But Ididgutsiest athlete - whotookon n't want it to be my end.\" thesystem, then took down the Vinesh, 31, said she has reworld's bestwrestlerinhercat- sumed training and is \"step-egory and reached thefinalof ping back toward Los Angeles\n\n2028 with a heart that's unafraid and aspirit that refuses tobow.\" But the biggest motivation behind hercomeback, she said, is the thought of her four-month-old son, Kridhav, her \"little cheerleader\" as she calls him, one day watching her compete - and win. \"It'll be an amazing feeling if my son, who will be three by the time of the LA Olympics, can watch me play atabigtournament and watch me win,\" Vinesh said. \"You know, imagine ascenario where, ifl'mthere at the 2028 Olympics, he'll curnto\n\nme and say, 'Arey mummy, kuch toh kar lo yaar' (Mom, come on, do something)\". While she competed in the S0kg category in Paris, Vinesh is likelyto wrestle in the 53kg or \u00a77kg weight class when she returns to competition in 2026. The year will be a busy one for India's wrestlers, with the Asian Championships scheduled for April, the Asian Games in September and the World Championships in October. Before she can compete internationally, Vinesh will have to navigate the domestic selec-Jaipur",
+   "n_words": 326,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3219,
+      5384,
+      4114,
+      5503
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      5532,
+      3690,
+      5797
+     ],
+     [
+      3247,
+      5810,
+      3691,
+      6201
+     ],
+     [
+      3736,
+      5533,
+      4180,
+      6197
+     ]
+    ],
+    "layout_words": 152
+   },
+   "headline_raw": "eyes LA Olympics",
+   "deck_raw": "",
+   "body_raw": "tion trials. It\u2019s a long road\nahead, but she seems unfazed.\n\u201cThe path to Paris wasn\u2019t\nstraightforward either,\u201d Vinesh\nsaid, adding that her primary\nfocus now is to get back to full\nfitness.\n\nWhen asked about Vinesh\u2019s\nreturn, Sanjay Singh, president\nof the Wrestling Federation of\nIndia (WFI), said, \u201cShe is wel-\ncometo compete again.\u201d\n\u201cI want to assure that there\nwon\u2019t be any discrimination\nagainst anyone. As longas the\nrules and selection criteria of\nthe federation are followed,\n\neveryone is welcome,\u201d the WFI\nchief told The Indian Express\nover phone from Naranpura,\nAhmedabad, where the Na-\ntional Championships got\nunderway Friday.\nIncidentally, the venue of\nthe Nationals \u2014 Veer Savarkar\nSports Complex \u2014 has life-size\nportraits of the former WFI\npresident BrijBhushan Sharan\nSingh, a former MP facing trial\nin a Delhi court after some of\nthe country\u2019s top women\nwrestlers accused him ofsexual\nharassment in 2023. Vinesh\n\u00bbCONTINUEDON PAGE 2",
+   "ocr_conf": 93.23026315789474,
+   "ocr_low_conf_share": 0.013157894736842105,
+   "headline": "eyes LA Olympics",
+   "deck": "",
+   "byline": "",
+   "text": "tion trials. It's a long road ahead, but she seems unfazed. \"The path to Paris wasn't straightforward either,\" Vinesh said, adding that her primary focus now is to get back to full fitness.\n\nWhen asked about Vinesh's return, Sanjay Singh, president of the Wrestling Federation of India (WFI), said, \"She is welcometo compete again.\" \"I want to assure that there won't be any discrimination against anyone. As longas the rules and selection criteria of the federation are followed,\n\neveryone is welcome,\" the WFI chief told The Indian Express over phone from Naranpura, Ahmedabad, where the National Championships got underway Friday. Incidentally, the venue of the Nationals - Veer Savarkar Sports Complex - has life-size portraits of the former WFI president BrijBhushan Sharan Singh, a former MP facing trial in a Delhi court after some of the country's top women wrestlers accused him ofsexual harassment in 2023. Vinesh \u00bbCONTINUEDON PAGE 2",
+   "n_words": 150,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      954,
+      5874,
+      1248,
+      5962
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      6048,
+      1248,
+      6202
+     ]
+    ],
+    "layout_words": 23
+   },
+   "headline_raw": "MSE NE ENE eee\nwas disqualified on\nthe day of the bout",
+   "deck_raw": "",
+   "body_raw": "n't want it to be my end.\u201d\nVinesh, 31, said she has re-\nsumed training and is \u201cstep-\nping back toward Los Angeles",
+   "ocr_conf": 92.26086956521739,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "MSE NE ENE eee was disqualified on the day of the bout",
+   "deck": "",
+   "byline": "",
+   "text": "n't want it to be my end.\" Vinesh, 31, said she has resumed training and is \"stepping back toward Los Angeles",
+   "n_words": 21,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 18.7,
+ "flags": []
+}

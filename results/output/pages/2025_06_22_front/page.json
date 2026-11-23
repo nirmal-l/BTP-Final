@@ -1,0 +1,682 @@
+{
+ "version": "1.6",
+ "page_id": "2025_06_22_front",
+ "source_file": "2025-06-22_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-06-22_front.png",
+ "date": "2025-06-22",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1261,
+  "n_lines": 318,
+  "mean_line_conf": 88.55334437138683,
+  "orphan_words": 115,
+  "body_words_total": 1136
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      1302,
+      1738,
+      1432
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      1513,
+      1082,
+      1623
+     ],
+     [
+      806,
+      1671,
+      1251,
+      2332
+     ],
+     [
+      809,
+      2435,
+      1052,
+      2467
+     ],
+     [
+      808,
+      2912,
+      1240,
+      3083
+     ],
+     [
+      1297,
+      1910,
+      1741,
+      2333
+     ]
+    ],
+    "layout_words": 158
+   },
+   "headline_raw": "Iran launches new wave of drones and\nmissiles at Israel, hits building in north",
+   "deck_raw": "",
+   "body_raw": "DAVID RISING\n& SAM MEDNICK\nTEL AVIV, JUNE 21\n\nISRAEL'S MILITARY said Saturday\nit was preparing for the possibil-\nity of a lengthy war, and an-\nnounced it struck an Iranian nu-\nclear research facility overnight\nand killed three senior Iranian\ncommanders in targeted attacks.\nThe prospect of a wider war\nthreatened, too. Iranian-backed\nHouthirebels in Yemen said they\nwould resume attacks on US ves-\nsels and warships in the Red Sea\nif the Trump administration\njoins Israel's military campaign\nagainst Iran. The Houthis paused\nsuch attacksin May under a deal\nwith the US.\n\nTHE WORLD\n\nTALKS BETWEEN\nEUROPEANS, IRAN TO\nSPEED UP: MACRON\nPAGE 10\n\nThe US ambassador to Israel\nannounced the US has begun\n\u201cassisted departure flights,\u201d the\nfirst such flights from Israel since\nthe Hamas-led attack on\nOctober 7, 2023, that sparked the\nongoing warin Gaza.\nInside Iran, smoke rose from\nan area near a mountain in\nIsfahan, where the province\u2019s\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.0886075949367,
+   "ocr_low_conf_share": 0.03164556962025317,
+   "headline": "Iran launches new wave of drones and missiles at Israel, hits building in north",
+   "deck": "",
+   "byline": "DAVID RISING; & SAM MEDNICK; TEL AVIV, JUNE 21",
+   "text": "ISRAEL'S MILITARY said Saturday it was preparing for the possibility of a lengthy war, and announced it struck an Iranian nuclear research facility overnight and killed three senior Iranian commanders in targeted attacks. The prospect of a wider war threatened, too. Iranian-backed Houthirebels in Yemen said they would resume attacks on US vessels and warships in the Red Sea if the Trump administration joins Israel's military campaign against Iran. The Houthis paused such attacksin May under a deal with the US.\n\nTHE WORLD\n\nTALKS BETWEEN EUROPEANS, IRAN TO SPEED UP: MACRON\n\nThe US ambassador to Israel announced the US has begun \"assisted departure flights,\" the first such flights from Israel since the Hamas-led attack on October 7, 2023, that sparked the ongoing warin Gaza. Inside Iran, smoke rose from an area near a mountain in Isfahan, where the province's",
+   "n_words": 139,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1346,
+      716,
+      1396
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1414,
+      745,
+      1587
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "SLAM GOVT ACTION",
+   "deck_raw": "",
+   "body_raw": "JALNA CROP RELIEF\n\u2018SCAM\u2019: 21 OFFICIALS\nSUSPENDED\nPAGES 3,8",
+   "ocr_conf": 90.11111111111111,
+   "ocr_low_conf_share": 0.1111111111111111,
+   "headline": "SLAM GOVT ACTION",
+   "deck": "",
+   "byline": "JALNA CROP RELIEF; 'SCAM': 21 OFFICIALS; SUSPENDED; PAGES 3,8",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      1356,
+      3548,
+      1426
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, JUNE 21",
+   "ocr_conf": 94.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "SUKALP SHARMA; NEW DELHI, JUNE 21",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      1477,
+      3694,
+      1869
+     ]
+    ],
+    "layout_words": 51,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "AVIATION SAFETY watchdog\nDirectorate General of Civil\nAviation (DGCA)has issued astern\nwarning to Tata group airline Air\nIndia over repeated and serious\nlapses in flight crew rostering, and\nhas asked the carrier to remove\nthree of its officials from crew\ninitiate internal disciplinary pro-",
+   "ocr_conf": 90.18181818181819,
+   "ocr_low_conf_share": 0.06818181818181818,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "AVIATION SAFETY watchdog Directorate General of Civil Aviation (DGCA)has issued astern warning to Tata group airline Air India over repeated and serious lapses in flight crew rostering, and has asked the carrier to remove three of its officials from crew initiate internal disciplinary pro-",
+   "n_words": 44,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3806,
+      1436,
+      4021,
+      1502
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3740,
+      1633,
+      4146,
+      1747
+     ],
+     [
+      3740,
+      1831,
+      4182,
+      2018
+     ]
+    ],
+    "layout_words": 34
+   },
+   "headline_raw": "aa = *\noe\u2019",
+   "deck_raw": "",
+   "body_raw": "Further violation will lead\ntoaction including licence\nsuspension, warns DGCA\n\nviolation of crew scheduling\nnorms, licensing, or flight duty\ntime limitations detected in au-\ndits or inspections will lead to\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.3529411764706,
+   "ocr_low_conf_share": 0.0,
+   "headline": "oe'",
+   "deck": "",
+   "byline": "",
+   "text": "Further violation will lead toaction including licence suspension, warns DGCA\n\nviolation of crew scheduling norms, licensing, or flight duty time limitations detected in audits or inspections will lead to",
+   "n_words": 29,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1694,
+      772,
+      2078
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      561,
+      2184,
+      723,
+      2378
+     ],
+     [
+      320,
+      2462,
+      599,
+      2532
+     ],
+     [
+      315,
+      2580,
+      764,
+      4229
+     ]
+    ],
+    "layout_words": 215
+   },
+   "headline_raw": "Ahead of polls,\nNitish govt\nannounces 3-fold\nhike in social\nsecurity pension",
+   "deck_raw": "",
+   "body_raw": "Newrates\nwill cost\nadditional\n%921.41 cr\nannually\n\nSANTOSH SINGH\nPATNA, JUNE 21\n\nBIHAR CHIEF Minister Nitish\nKumar announced Saturday that\npension to senior citizens, wid-\nows and people with disabilities\nwould be increased from Rs 400\nto Rs 1,100/month \u2014 a nearly\nthree-fold increase that comes\nmonths before the state assem-\nbly election.\nThe new rates will be appli-\ncable from July, the Chief\nMinister said. There are over 1.09\ncrore pension beneficiaries in\nthe state, and the new pension\nrates would cost the government\nan additional Rs 921.41 crore\nannually.\nIn apostonX, the Bihar Chief\nMinister said: \u201cIt gives me great\npleasure to announce that social\nsecurity pension for old people,\npeople with disabilities and wid-\nows would get Rs 1,100/month\npension instead of Rs\n400/month. This amount willbe\ncredited to beneficiaries\u2019 bank\naccounts on the 10th of every\nmonth...The elderly are an in-\nvaluable part of society, and it\u2019s\nour government's top priority to\nensure them a life of dignity.\u201d\nWelcoming the move, Janata\nDal (United) national general sec-\nretary Manish Kumar Verma\nclaimed he had asked the chief\nminister to raise the social secu-\nrity pension after getting feed-\nback from the public. \u201cI'm grateful\ntothe chief minister for having re-\nsponded to my request,\u201d Verma,\na bureaucrat-turned-politician\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.61395348837209,
+   "ocr_low_conf_share": 0.05581395348837209,
+   "headline": "Ahead of polls, Nitish govt announces 3-fold hike in social security pension",
+   "deck": "",
+   "byline": "SANTOSH SINGH; PATNA, JUNE 21",
+   "text": "Newrates will cost additional annually\n\nBIHAR CHIEF Minister Nitish Kumar announced Saturday that pension to senior citizens, widows and people with disabilities would be increased from Rs 400 to Rs 1,100/month - a nearly three-fold increase that comes months before the state assembly election. The new rates will be applicable from July, the Chief Minister said. There are over 1.09 crore pension beneficiaries in the state, and the new pension rates would cost the government an additional Rs 921.41 crore annually. In apostonX, the Bihar Chief Minister said: \"It gives me great pleasure to announce that social security pension for old people, people with disabilities and widows would get Rs 1,100/month pension instead of Rs 400/month. This amount willbe credited to beneficiaries' bank accounts on the 10th of every month...The elderly are an invaluable part of society, and it's our government's top priority to ensure them a life of dignity.\" Welcoming the move, Janata Dal (United) national general secretary Manish Kumar Verma claimed he had asked the chief minister to raise the social security pension after getting feedback from the public. \"I'm grateful tothe chief minister for having responded to my request,\" Verma, a bureaucrat-turned-politician",
+   "n_words": 195,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      1872,
+      3693,
+      2025
+     ]
+    ],
+    "layout_words": 19,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ceedings against them, The Indian\nExpress has learnt.\nThe regulator has also cau-\ntioned the airline that any future",
+   "ocr_conf": 93.6842105263158,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ceedings against them, The Indian Express has learnt. The regulator has also cautioned the airline that any future",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2090,
+      4138,
+      2402
+     ],
+     [
+      3252,
+      2412,
+      4090,
+      2553
+     ],
+     [
+      3252,
+      2541,
+      3605,
+      2622
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      2624,
+      3535,
+      2652
+     ],
+     [
+      3251,
+      2701,
+      3693,
+      3091
+     ],
+     [
+      3740,
+      2544,
+      4182,
+      3085
+     ]
+    ],
+    "layout_words": 119
+   },
+   "headline_raw": "Advance tax collection\nerowth slows to 3.9%,\nincome tax mop-up\nlower than FY25 level\nAANCHAL MAGAZINE",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, JUNE 21\n\nADVANCE DIRECT tax collections\nfrom the first installment in the\ncurrent financial year 2025-26\ngrew by 3.87 per cent to Rs 156\nlakhcrore as onJune 19 this year,\nslower than the growth of 27.34\npercentseeninthe same period\na year ago, data released\nSaturday by the Income Tax\nDepartment showed.\n\nWhile advance tax collec-\ntions during April 1-June 19 for\ncorporate tax grew 5.86 per cent\nto Rs 1.22 lakhcrore, personal in-\ncome tax or non-corporate tax\ncollections recorded a slow-\ndown, with advance collections\nfalling by 2.68 per cent to\nRs 33,928.32 crore.\nThe advance tax collections\nfor personal income at\nRs 33,928.32 crore are lower than\nthe first installment collections\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.10924369747899,
+   "ocr_low_conf_share": 0.03361344537815126,
+   "headline": "Advance tax collection erowth slows to 3.9%, income tax mop-up lower than FY25 level AANCHAL MAGAZINE",
+   "deck": "",
+   "byline": "NEW DELHI, JUNE 21",
+   "text": "ADVANCE DIRECT tax collections from the first installment in the current financial year 2025-26 grew by 3.87 per cent to Rs 156 lakhcrore as onJune 19 this year, slower than the growth of 27.34 percentseeninthe same period a year ago, data released Saturday by the Income Tax Department showed.\n\nWhile advance tax collections during April 1-June 19 for corporate tax grew 5.86 per cent to Rs 1.22 lakhcrore, personal income tax or non-corporate tax collections recorded a slowdown, with advance collections falling by 2.68 per cent to The advance tax collections for personal income at Rs 33,928.32 crore are lower than the first installment collections",
+   "n_words": 105,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      2405,
+      2708,
+      2637
+     ],
+     [
+      1297,
+      2624,
+      1574,
+      2700
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1298,
+      2701,
+      1582,
+      2750
+     ]
+    ],
+    "body_boxes": [
+     [
+      1296,
+      2780,
+      1738,
+      3090
+     ],
+     [
+      1785,
+      2620,
+      2230,
+      3090
+     ],
+     [
+      2274,
+      2621,
+      2718,
+      2933
+     ],
+     [
+      2275,
+      2978,
+      2716,
+      3083
+     ]
+    ],
+    "layout_words": 154
+   },
+   "headline_raw": "Neighbourhood policy at work: India\nto fly home Nepal, Lanka citizens too\nSHUBHAJIT ROY",
+   "deck_raw": "NEW DELHI, JUNE 21",
+   "body_raw": "IN A major diplomatic outreach\nto its neighbours, India said\nSaturday it will evacuate nation-\nals of Nepal and Sri Lanka who\nare stranded in Iran and want to\nleave the country.\nOfficials in Delhi framedit as\nan example of India\u2019s \u201cneigh-\n\nbourhood first policy\u2019 \u2014 of help-\ning its neighbours in times of ci-\nsis, be it conflict, natural calamity\nor pandemic.\nThis announcement came on\nthe day two more flights, oper-\nated by the Iranian Mahan Air,\nlanded in Delhi.\nThe Indian embassy in\nTehran, in a post on X, said, \u201cOn\nrequest of the Governments of\nNepal and Sn Lanka, the Indian\n\nEmbassy's evacuation efforts in\nIran will also cover citizens of\nNepal and Sri Lanka.\u201d\n\u201cThe citizens of Nepal and Sri\nLanka may urgently reach out to\nthe Embassy, either on the\nTelegram channel or over the\nemergency contact numbers:\n\n4989128109109,\u201d it stated.\nNepal\u2019s Foreign Minister\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.13636363636364,
+   "ocr_low_conf_share": 0.05194805194805195,
+   "headline": "Neighbourhood policy at work: India to fly home Nepal, Lanka citizens too SHUBHAJIT ROY",
+   "deck": "NEW DELHI, JUNE 21",
+   "byline": "",
+   "text": "IN A major diplomatic outreach to its neighbours, India said Saturday it will evacuate nationals of Nepal and Sri Lanka who are stranded in Iran and want to leave the country. Officials in Delhi framedit as an example of India's \"neighbourhood first policy' - of helping its neighbours in times of cisis, be it conflict, natural calamity or pandemic. This announcement came on the day two more flights, operated by the Iranian Mahan Air, landed in Delhi. The Indian embassy in Tehran, in a post on X, said, \"On request of the Governments of Nepal and Sn Lanka, the Indian\n\nEmbassy's evacuation efforts in Iran will also cover citizens of Nepal and Sri Lanka.\" \"The citizens of Nepal and Sri Lanka may urgently reach out to the Embassy, either on the Telegram channel or over the emergency contact numbers:\n\nNepal's Foreign Minister",
+   "n_words": 142,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2923,
+      2502,
+      3153,
+      2587
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Asitdidin\n|@ Ukraine",
+   "ocr_conf": 62.333333333333336,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Asitdidin @ Ukraine",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2814,
+      2661,
+      3144,
+      3045
+     ]
+    ],
+    "layout_words": 36,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THIS IS not the first\ntime that Delhi has\nstepped in to evacuate\ncitizens of its neigh-\nbours. In the early days\nof the Ukraine war,\nIndia evacuated nation-\nals ofneighbouring\ncountries along with\nits own.",
+   "ocr_conf": 93.19444444444444,
+   "ocr_low_conf_share": 0.027777777777777776,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "THIS IS not the first time that Delhi has stepped in to evacuate citizens of its neighbours. In the early days of the Ukraine war, India evacuated nationals ofneighbouring countries along with its own.",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      4026,
+      2159,
+      4164
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      807,
+      4200,
+      2209,
+      4277
+     ],
+     [
+      1992,
+      4245,
+      2228,
+      4274
+     ]
+    ],
+    "layout_words": 25
+   },
+   "headline_raw": "PM LEADS YOGA DAY CELEBRATIONS",
+   "deck_raw": "",
+   "body_raw": "Prime Minister Narendra Modi leads a yoga session on the 11th International Day of Yoga, in\nVisakhapatnam, Andhra Pradesh, on Saturday. ANI REPORT, PAGE?\n\nREPORT, PAGE7",
+   "ocr_conf": 89.42307692307692,
+   "ocr_low_conf_share": 0.0,
+   "headline": "PM LEADS YOGA DAY CELEBRATIONS",
+   "deck": "",
+   "byline": "REPORT, PAGE7",
+   "text": "Prime Minister Narendra Modi leads a yoga session on the 11th International Day of Yoga, in Visakhapatnam, Andhra Pradesh, on Saturday. ANI REPORT, PAGE?",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4307,
+      733,
+      4364
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      4650,
+      734,
+      4820
+     ],
+     [
+      317,
+      4854,
+      754,
+      5028
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "RAJNATH IN J&K:\nSHOWED PAK ITS\n\u20181,000 CUTS\u2019 POLICY\nWILL NOT SUCCEED\n\nHARASSMENT CASE:\nCHARGES FRAMED\nAGAINST IPS OFFICER\nPAGES 7,8",
+   "ocr_conf": 84.95238095238095,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "RAJNATH IN J&K:; SHOWED PAK ITS; '1,000 CUTS' POLICY; WILL NOT SUCCEED; HARASSMENT CASE:; CHARGES FRAMED; AGAINST IPS OFFICER; PAGES 7,8",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      4383,
+      2143,
+      4646
+     ],
+     [
+      807,
+      4636,
+      1052,
+      4717
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      4718,
+      1091,
+      4746
+     ],
+     [
+      806,
+      4795,
+      1249,
+      5068
+     ],
+     [
+      1295,
+      4638,
+      1737,
+      5061
+     ],
+     [
+      1784,
+      4638,
+      2225,
+      5061
+     ]
+    ],
+    "layout_words": 133
+   },
+   "headline_raw": "ISRO readies SpaDeX-2 mission\nto dock satellites in elliptical orb\nANONNADUTT",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, JUNE 21\n\nAFTER SUCCESSFULLY bringing\ntogether two satellites in space,\nscientists at the Indian Space\nResearch Organisation (ISRO)are\ndrawing up plans for a second\nSpaDeX mission \u2014 this time to\ndock two satellites in an ellipti-\n\ncal orbit.\nThe ability to join two satel-\nlites in space, knownas docking,\nis critical for India\u2019s upcoming\nChandrayaan-4 mission and the\nproposed Bharatiya Antariksh\nStation, the country\u2019s planned\nspace station.\nIn the first SpaDeX mission,\ntwo 220-kg satellites were\nlaunched into a 470-km circular\n\norbit. Witha small relative veloc-\nity introduced between them,\nthe satellites were allowed to\ndrift apart before being progres-\nsively brought closer. On January\n16, they successfully docked. The\nexperiment also demonstrated\npower sharing between the\nsatellites and their ability to re-\nceive commands as a single\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.2406015037594,
+   "ocr_low_conf_share": 0.045112781954887216,
+   "headline": "ISRO readies SpaDeX-2 mission to dock satellites in elliptical orb ANONNADUTT",
+   "deck": "",
+   "byline": "NEW DELHI, JUNE 21",
+   "text": "AFTER SUCCESSFULLY bringing together two satellites in space, scientists at the Indian Space Research Organisation (ISRO)are drawing up plans for a second SpaDeX mission - this time to dock two satellites in an elliptical orbit. The ability to join two satellites in space, knownas docking, is critical for India's upcoming Chandrayaan-4 mission and the proposed Bharatiya Antariksh Station, the country's planned space station. In the first SpaDeX mission, two 220-kg satellites were launched into a 470-km circular\n\norbit. Witha small relative velocity introduced between them, the satellites were allowed to drift apart before being progressively brought closer. On January 16, they successfully docked. The experiment also demonstrated power sharing between the satellites and their ability to receive commands as a single",
+   "n_words": 121,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5220,
+      2223,
+      5454
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5511,
+      499,
+      5586
+     ],
+     [
+      317,
+      5705,
+      627,
+      5775
+     ],
+     [
+      316,
+      5824,
+      759,
+      6087
+     ],
+     [
+      364,
+      6101,
+      758,
+      6135
+     ],
+     [
+      1783,
+      5508,
+      2224,
+      5741
+     ],
+     [
+      1780,
+      5786,
+      2224,
+      6130
+     ]
+    ],
+    "layout_words": 130
+   },
+   "headline_raw": "On board AI 171: Proud parents headed\nto the UK to attend convocations",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nRITUSHARMA\nAHMEDABAD, JUNE 21\n\nTHRILLED THAT they would be\npart of her convocation cere-\nmony on June 23, Dhwani Patel\ncouldn't wait to see her parents\n\u2014and the graduation dress they\nhad picked out for her \u2014 in\nLondon.\n\nRajni Patel (51) and his wife,\n\nDivyaben (47), from Gujarat's\nVasad town, had also packed lo-\ncal snacks, new shoes and a\nwatch to surprise the 21-year-\nold. Travelling with them was\nDhwani\u2019s aunt, Hemangi Patel\n\n\u201cThey had scheduled a flight\nfor June 20 but advanced it to\nJune 16, and finally to June 12, as\nthey wanted to spend more time\nwith me since I was to sit for\nplacements after my convoca-\ntion. This was the first time\nsomeone from our family was\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.08461538461539,
+   "ocr_low_conf_share": 0.038461538461538464,
+   "headline": "On board AI 171: Proud parents headed to the UK to attend convocations",
+   "deck": "",
+   "byline": "ANCHOR; RITUSHARMA; AHMEDABAD, JUNE 21",
+   "text": "THRILLED THAT they would be part of her convocation ceremony on June 23, Dhwani Patel couldn't wait to see her parents - and the graduation dress they had picked out for her - in London.\n\nRajni Patel (51) and his wife,\n\nDivyaben (47), from Gujarat's Vasad town, had also packed local snacks, new shoes and a watch to surprise the 21-yearold. Travelling with them was Dhwani's aunt, Hemangi Patel\n\n\"They had scheduled a flight for June 20 but advanced it to June 16, and finally to June 12, as they wanted to spend more time with me since I was to sit for placements after my convocation. This was the first time someone from our family was",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 13.8,
+ "flags": []
+}

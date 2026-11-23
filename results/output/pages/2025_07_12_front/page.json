@@ -1,0 +1,848 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_12_front",
+ "source_file": "2025-07-12_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-12_front.png",
+ "date": "2025-07-12",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 544,
+  "mean_line_conf": 90.80020363583034,
+  "orphan_words": 13,
+  "body_words_total": 2249
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 96.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      784,
+      3199,
+      1143
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      696,
+      2926,
+      753
+     ],
+     [
+      553,
+      1182,
+      631,
+      1233
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      1193,
+      1221,
+      1535
+     ],
+     [
+      809,
+      1620,
+      1157,
+      1730
+     ],
+     [
+      807,
+      1778,
+      1252,
+      2994
+     ]
+    ],
+    "layout_words": 174
+   },
+   "headline_raw": "Joint polls constitutional, say ex-Culs,\nquestion sweeping powers to EC in Bill",
+   "deck_raw": "JUSTICES KHEHAR, CHANDRACHUD APPEAR BEFORE HOUSE PANEL\nWOYs Wit",
+   "body_raw": "Point to some\nprovisions in\nONOE Bill which\ncould lead to\nlegal challenges\n\nDEEPTIMAN TIWARY\n& DAMININATH\nNEW DELHI, JULY 11\n\nFORMER CHIEF Justices of India\nJustice J S Khehar and Justice D Y\nChandrachud, who appeared\nFriday before the Joint Committee\nof Parliament on the\u2018One Nation,\nOne Election\u2019 (ONOE) Bill, are\nlearnt to have said that the Bill\ndoes not violate the basic struc-\nture of the Constitution.\nHowever, they were said to\nhave underlined that the Bill in\nits present form may not pass\nthe Constitution muster, espe-\ncially with regard to the sweep-\ning powers given to the Election\nCommission of India.\nEarlier, former CJls UU Lalit\nand Ranjan Gogoi, who too ap-\npeared before the panel, had\nraised the issue of possible legal\nchallenges to the Bill.\nJustices Khehar and\nChandrachud had almost a five-\nhour-long discussion with the\ncommittee. They were said to\nhave not only gone through the\nentire Bill, provision by provi-\nsion, but also discussed the\nlarger issues of constitutional\nphilosophy, morality and politics\nCONTINUEDON PAGE2",
+   "ocr_conf": 91.89080459770115,
+   "ocr_low_conf_share": 0.028735632183908046,
+   "headline": "Joint polls constitutional, say ex-Culs, question sweeping powers to EC in Bill",
+   "deck": "JUSTICES KHEHAR, CHANDRACHUD APPEAR BEFORE HOUSE PANEL WOYs Wit",
+   "byline": "DEEPTIMAN TIWARY; & DAMININATH; NEW DELHI, JULY 11",
+   "text": "Point to some provisions in ONOE Bill which could lead to legal challenges\n\nFORMER CHIEF Justices of India Justice J S Khehar and Justice D Y Chandrachud, who appeared Friday before the Joint Committee of Parliament on the'One Nation, One Election' (ONOE) Bill, are learnt to have said that the Bill does not violate the basic structure of the Constitution. However, they were said to have underlined that the Bill in its present form may not pass the Constitution muster, especially with regard to the sweeping powers given to the Election Commission of India. Earlier, former CJls UU Lalit and Ranjan Gogoi, who too appeared before the panel, had raised the issue of possible legal challenges to the Bill. Justices Khehar and Chandrachud had almost a five-hour-long discussion with the committee. They were said to have not only gone through the entire Bill, provision by provision, but also discussed the larger issues of constitutional philosophy, morality and politics CONTINUEDON PAGE2",
+   "n_words": 160,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      631,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      524,
+      1118,
+      694,
+      1203
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "f Emevsercy but\nmention \u201cKORA?\nAALEYs With the",
+   "ocr_conf": 65.375,
+   "ocr_low_conf_share": 0.375,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "f Emevsercy but mention \"KORA? AALEYs With the",
+   "n_words": 8,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1444,
+      750,
+      1854
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      562,
+      2053,
+      752,
+      2082
+     ],
+     [
+      509,
+      2132,
+      700,
+      2161
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "Police file\ncomplaint\nagainst MLA\nwho assaulted\ncanteen staff",
+   "deck_raw": "",
+   "body_raw": "Shinde Sena\n\n\u00bb\u00ae Gaikwad",
+   "ocr_conf": 67.75,
+   "ocr_low_conf_share": 0.25,
+   "headline": "Police file complaint against MLA who assaulted canteen staff",
+   "deck": "",
+   "byline": "",
+   "text": "Shinde Sena\n\n\u00bb\u00ae Gaikwad",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      1446,
+      4174,
+      1899
+     ],
+     [
+      3253,
+      1925,
+      4159,
+      2057
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2136,
+      3652,
+      2206
+     ],
+     [
+      3253,
+      2256,
+      3695,
+      2805
+     ],
+     [
+      3739,
+      2097,
+      4182,
+      2798
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "Doval rejects Pak\nclaims on Op Sindoor:\nNot one photo of any\ndamage inside India\nIndigenous systems performed very\nwell, need to develop more, says NSA",
+   "deck_raw": "",
+   "body_raw": "ABHINAYAHARIGOVIND\nNEW DELHI, JULY 11\n\nIN FIRST public remarks on\nOperation Sindoor against terror\nbases in Pakistan and PoK,\nNational Security Advisor Ajit\nDoval, rejecting claims of the\nPakistan military inflicting dam-\nage, said Friday that there is not\n\u201cone photograph, one imagery\u201d\nof any damage caused on the\nIndian side.\nSpeaking as the chief guest at\nthe 62nd convocation at IIT\nMadras, Doval said he was proud\nof the indigenous systems de-\n\nployed during Operation\nSindoor, whether it was the\nBrahMos missile or the\nIntegrated Air Command and\nControl System, and underlined\nthe need todo more.\nReferring to Operation\nSindoor \u2014 India\u2019s military re-\nsponse on May 7 to the April 22\nPahalgam terror attack \u2014 the\nNSA Said, \u201cWe decided to have\nnine terrorist targets in the criss-\ncross of Pakistan; it was not only\nborder areas. We missed none.\nWe hit nowhere except that. It\nwas precise to the point where\nwe knew who is where. The\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.63414634146342,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Doval rejects Pak claims on Op Sindoor: Not one photo of any damage inside India Indigenous systems performed very well, need to develop more, says NSA",
+   "deck": "",
+   "byline": "ABHINAYAHARIGOVIND; NEW DELHI, JULY 11",
+   "text": "IN FIRST public remarks on Operation Sindoor against terror bases in Pakistan and PoK, National Security Advisor Ajit Doval, rejecting claims of the Pakistan military inflicting damage, said Friday that there is not \"one photograph, one imagery\" of any damage caused on the Indian side. Speaking as the chief guest at the 62nd convocation at IIT Madras, Doval said he was proud of the indigenous systems deployed during Operation Sindoor, whether it was the BrahMos missile or the Integrated Air Command and Control System, and underlined the need todo more. Referring to Operation Sindoor - India's military response on May 7 to the April 22 Pahalgam terror attack - the NSA Said, \"We decided to have nine terrorist targets in the crisscross of Pakistan; it was not only border areas. We missed none. We hit nowhere except that. It was precise to the point where we knew who is where. The",
+   "n_words": 151,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      2048,
+      744,
+      2171
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      2254,
+      747,
+      2323
+     ],
+     [
+      319,
+      2372,
+      764,
+      4299
+     ]
+    ],
+    "layout_words": 251
+   },
+   "headline_raw": "A\nr aaa Shinde Sena\nb Y MLA Sanjay\n\u00bb Gaikwad",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nMUMBAI, JULY 11\n\nMUMBAI POLICE on Friday reg-\nistered a non-cognizable (NC)\ncomplaint against Shiv Sena MLA\nSanjay Gaikwad for assaulting a\ncanteen worker after he was al-\nlegedly served stale food in his\nroom at the MLA Hostel Tuesday,\nThe Marine Drive police sta-\ntion lodged a suo motu com-\nplaint against Gaikwad, who\nrepresents Buldhana, and his\naide, who is also seen assaulting\nthe canteen worker in avideo of\nthe incident.\n\u201cWe have lodged an NC(non-\ncognizable complaint) under\nsections 115(2), 352 and 3(5) of\nthe BNS,\u201d a Marine Drive police\nstation officer said. The sections\ndeal with charges of voluntarily\ncausing hurt and intentional in-\nsult with intentto provoke breach\nof peace, among others.\nFollowing the incident, while\nChief Minister Devendra\nFadnavis said his behaviour had\ntarnished the image of the legis-\nlature and assured that action\nwould be taken, Gaikwad\u2019s party\nleader and Deputy Chief\nMinister Eknath Shinde said he\nhad reprimanded the MLA.\nOn Tuesday, Gaikwad en-\ntered the MLA hostel canteen\nand confronted the staff claim-\ning he was served sour dal and\nspoiled rice. In the video of the\nincident, Gaikwad is seen slap-\nping and punching the canteen\noperator and asking others to\nleave their bills unpaid. His sup-\nporters, too, joined him and as-\nsaulted the canteen staff.\nAn unapologetic Gaikwad\nlater said he had complained\nabout food quality on several oc-\ncasions, but no action was taken.\n\u201c.\u00ab The quality of food should be\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.00398406374502,
+   "ocr_low_conf_share": 0.0199203187250996,
+   "headline": "A r aaa Shinde Sena b Y MLA Sanjay \u00bb Gaikwad",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; MUMBAI, JULY 11",
+   "text": "MUMBAI POLICE on Friday registered a non-cognizable (NC) complaint against Shiv Sena MLA Sanjay Gaikwad for assaulting a canteen worker after he was allegedly served stale food in his room at the MLA Hostel Tuesday, The Marine Drive police station lodged a suo motu complaint against Gaikwad, who represents Buldhana, and his aide, who is also seen assaulting the canteen worker in avideo of the incident. \"We have lodged an NC(noncognizable complaint) under sections 115(2), 352 and 3(5) of the BNS,\" a Marine Drive police station officer said. The sections deal with charges of voluntarily causing hurt and intentional insult with intentto provoke breach of peace, among others. Following the incident, while Chief Minister Devendra Fadnavis said his behaviour had tarnished the image of the legislature and assured that action would be taken, Gaikwad's party leader and Deputy Chief Minister Eknath Shinde said he had reprimanded the MLA. On Tuesday, Gaikwad entered the MLA hostel canteen and confronted the staff claiming he was served sour dal and spoiled rice. In the video of the incident, Gaikwad is seen slapping and punching the canteen operator and asking others to leave their bills unpaid. His supporters, too, joined him and assaulted the canteen staff. An unapologetic Gaikwad later said he had complained about food quality on several occasions, but no action was taken. \".\u00ab The quality of food should be",
+   "n_words": 228,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      2078,
+      3196,
+      2348
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1296,
+      2342,
+      1681,
+      2400
+     ]
+    ],
+    "body_boxes": [
+     [
+      1298,
+      2414,
+      1574,
+      2442
+     ],
+     [
+      1293,
+      2491,
+      1741,
+      3002
+     ],
+     [
+      2275,
+      2334,
+      2715,
+      2607
+     ],
+     [
+      2274,
+      2612,
+      2718,
+      2995
+     ],
+     [
+      2762,
+      2335,
+      3207,
+      2956
+     ]
+    ],
+    "layout_words": 211
+   },
+   "headline_raw": "Four ex-CJIs raise red flag: EC power to delay\nsimultaneous elections may not pass muster",
+   "deck_raw": "APURVA VISHWANATH",
+   "body_raw": "NEW DELHI, JULY 11\n\nAPPEARING BEFORE the Joint\nCommittee of Parliament on\n\u2018One Nation, One Election\u2019\n(ONOE) Bill, four former Chief\nJustices of India have red-flagged\nthe vast powers that the Election\nCommission holds in the pro-\nposed law for holding simulta-\nneous polls.\nItis learnt that on Friday for-\nmer CJIs J S Khehar and D Y\nChandrachud expressed doubts\nwhether the power of EC to de-\n\nbeen given unrestricted powers\nto decide the schedule of simul-\ntaneous polls. In February, for-\nmer Cjl UU Lalit had also\ngiven some suggestions on vari-\nous aspects, including on the\npower of the EC.\n\n=- Parliamentary com-\n: mittee proceedings are\nprivileged, and details of\nme| exchanges between\nmembers during meet-\nings are not made public.\nThe 129th Constitution\nAmendment Bill, whichseeks to\nintroduce simultaneous polls,\nstates that the EC will decide\n\nwhether simultaneous polls are\nfeasible.\nThe proposed amendment to\nArticle 82 of the Constitution\nstipulates that the \u201cifthe Election\nCommission is of the opinion\nthat the elections to any\nLegislative Assembly cannot be\nconducted along with the\ngeneral election to the House of\nthe People, it may make a rec-\nommendation to the President,\nto declare by an order, that the\nelection to that Legislative\nAssembly may be conducted at\na later date.\u201d",
+   "ocr_conf": 91.66822429906541,
+   "ocr_low_conf_share": 0.03271028037383177,
+   "headline": "Four ex-CJIs raise red flag: EC power to delay simultaneous elections may not pass muster",
+   "deck": "APURVA VISHWANATH",
+   "byline": "NEW DELHI, JULY 11",
+   "text": "APPEARING BEFORE the Joint Committee of Parliament on 'One Nation, One Election' (ONOE) Bill, four former Chief Justices of India have red-flagged the vast powers that the Election Commission holds in the proposed law for holding simultaneous polls. Itis learnt that on Friday former CJIs J S Khehar and D Y Chandrachud expressed doubts whether the power of EC to debeen given unrestricted powers to decide the schedule of simultaneous polls. In February, former Cjl UU Lalit had also given some suggestions on various aspects, including on the power of the EC.\n\n=- Parliamentary com-: mittee proceedings are privileged, and details of me exchanges between members during meet-ings are not made public. The 129th Constitution Amendment Bill, whichseeks to introduce simultaneous polls, states that the EC will decide\n\nwhether simultaneous polls are feasible. The proposed amendment to Article 82 of the Constitution stipulates that the \"ifthe Election Commission is of the opinion that the elections to any Legislative Assembly cannot be conducted along with the general election to the House of the People, it may make a recommendation to the President, to declare by an order, that the election to that Legislative Assembly may be conducted at a later date.\"",
+   "n_words": 200,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2330,
+      2226,
+      2382
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2373,
+      2230,
+      2599
+     ],
+     [
+      1787,
+      2651,
+      2226,
+      2875
+     ],
+     [
+      1786,
+      2887,
+      2228,
+      3002
+     ]
+    ],
+    "layout_words": 67
+   },
+   "headline_raw": "cide if simultaneous polls can be\ndoalawvod frase 4 ctsata ice rancritetiia",
+   "deck_raw": "",
+   "body_raw": "delayed for a state is constitu-\ntionally permissible. Both are\nlearnt to have underlined that\nholding simultaneous pollsitself\nis constitutional and would not\nviolate the basic structure of the\n\nHowever, itislearnt Jz\nthat Justice Chandrachud 9 J=\ntold the committee that [35\nthe EC\u2019s powers might \u2018\u2014\nsuffer from constitutional infir-\nmities.\n\nIn March, Rajya Sabha MP\nand former CJI Ranjan Gogoi had\nalso pointed out that the EC had",
+   "ocr_conf": 86.57142857142857,
+   "ocr_low_conf_share": 0.1,
+   "headline": "cide if simultaneous polls can be doalawvod frase 4 ctsata ice rancritetiia",
+   "deck": "",
+   "byline": "",
+   "text": "delayed for a state is constitutionally permissible. Both are learnt to have underlined that holding simultaneous pollsitself is constitutional and would not violate the basic structure of the\n\nHowever, itislearnt Jz that Justice Chandrachud 9 J= told the committee that [35 the EC's powers might ' - suffer from constitutional infirmities.\n\nIn March, Rajya Sabha MP and former CJI Ranjan Gogoi had also pointed out that the EC had",
+   "n_words": 69,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      2871,
+      4165,
+      3303
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      3404,
+      3677,
+      3474
+     ],
+     [
+      3251,
+      3522,
+      3696,
+      3589
+     ],
+     [
+      3982,
+      3403,
+      4154,
+      3589
+     ],
+     [
+      3735,
+      3682,
+      4181,
+      4262
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "Will encourage people\nto have more children,\nSouth representation\nin House at risk: Naidu",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nHYDERABAD, JULY 11\n\nANDHRA PRADESH Chief\nMinister N Chandrababu Naidu\n\nPopulation\ngrowth\npolicy for\nAndhra\nsoon: CM\n\npopulation growth policy. In\nOctober 2024, he had warned\nagainst the effects of Andhra\u2019s\nageing population and said his\ngovernment wascontemplating\nlegislation to incentivise fami-\nlies to have more children.\nAnother Chief Minister of a\nsouthern state, Tamil Nadu\u2019s M\nK Stalin, has urged people to\nhave more children as higher\npopulation is a criterion to get\nmore MPs after delimitation.\nNaidu said on Friday: \u201cTo\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.75555555555556,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Will encourage people to have more children, South representation in House at risk: Naidu",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; HYDERABAD, JULY 11",
+   "text": "ANDHRA PRADESH Chief Minister N Chandrababu Naidu\n\nPopulation growth policy for Andhra soon: CM\n\npopulation growth policy. In October 2024, he had warned against the effects of Andhra's ageing population and said his government wascontemplating legislation to incentivise families to have more children. Another Chief Minister of a southern state, Tamil Nadu's M K Stalin, has urged people to have more children as higher population is a criterion to get more MPs after delimitation. Naidu said on Friday: \"To",
+   "n_words": 79,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      3147,
+      1656,
+      3597
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      3679,
+      1112,
+      3749
+     ],
+     [
+      806,
+      3797,
+      1256,
+      5139
+     ],
+     [
+      1321,
+      3717,
+      1719,
+      3872
+     ],
+     [
+      1294,
+      3955,
+      1739,
+      5132
+     ]
+    ],
+    "layout_words": 340
+   },
+   "headline_raw": "Held for supplying\narms in Moosewala\nkilling, accused goes\nmissing after bail",
+   "deck_raw": "",
+   "body_raw": "NIRBHAY THAKUR\nNEW DELHI, JULY 11\n\nMORE THAN two years after he\nflouted a key interim bail condi-\ntion, which led to an extension\nplea being cancelled, a key ac-\ncused in the killing of Punjabi\nsinger Sidhu Moosewala man-\naged to obtain relief from a Delhi\ncourt once again last month \u2014\nand is now missing.\nShahbaz Ansari from UP\u2019s\nBulandshahr, who was arrested\nin December 2022 for allegedly\nsupplying arms and ammuni-\ntion to gangster Lawrence\nBishnoi for the Moosewala\nkilling in May that year, was\ngranted interim bail fora month\non June 18 by avacation judge of\nthe Patiala House Court.\nThe relief was granted ona\nplea from Ansari that he wanted\nto be with his wife, Gulfisha,\nwhen she underwent a \u201cspine\ndecompression surgery\u201d at\nMMG Hospital in Ghaziabad.\nAnsari was directed to give his\nmobile number to the\nInvestigating Officer and provide\nweekly updates until his sched-\nuled surrender on July 18, ac-\ncording to court records.\nDays later, however, the\nNational Investigation Agency\n(NIA), which is probing the case,\n\neee! ss Shahbaz\nAnsari got\n~ interim bail\nr@ on June 18\n\nfound that Ansari\u2019s mobile\nphone was switched offand his\nlocation not traceable. The\nagency also found that the\nphone was registered in the\nname of an Assam resident; the\nperson who provided surety for\nbail had allegedly done it for\nmoney \u2014and the hospital men-\ntioned in the plea does not con-\nduct such procedures.\nFlagging these findings, the\nagency represented by Special\nPublic Prosecutor Rahul Tyagi\napproached the court and got\nthe bail cancelled on July 8. But\nAnsari failed to appear in court\ndespite a notice being issued. His\nadvocate Amit Srivastava sub-\nmitted that he was not aware of\nhis client\u2019s whereabouts.\nAnsari was first granted in-\nterim bail for five days on\nFebruary 3, 2023, onthe grounds\nthat his wife was pregnant. As a\ncondition, the court asked him\nto provide his contact number,\nplace of stay, and Google Pin lo-\ncation to the NIA. Four days later,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.34693877551021,
+   "ocr_low_conf_share": 0.01749271137026239,
+   "headline": "Held for supplying arms in Moosewala killing, accused goes missing after bail",
+   "deck": "",
+   "byline": "NIRBHAY THAKUR; NEW DELHI, JULY 11",
+   "text": "MORE THAN two years after he flouted a key interim bail condition, which led to an extension plea being cancelled, a key accused in the killing of Punjabi singer Sidhu Moosewala managed to obtain relief from a Delhi court once again last month - and is now missing. Shahbaz Ansari from UP's Bulandshahr, who was arrested in December 2022 for allegedly supplying arms and ammunition to gangster Lawrence Bishnoi for the Moosewala killing in May that year, was granted interim bail fora month on June 18 by avacation judge of the Patiala House Court. The relief was granted ona plea from Ansari that he wanted to be with his wife, Gulfisha, when she underwent a \"spine decompression surgery\" at MMG Hospital in Ghaziabad. Ansari was directed to give his mobile number to the Investigating Officer and provide weekly updates until his scheduled surrender on July 18, according to court records. Days later, however, the National Investigation Agency (NIA), which is probing the case,\n\neee! ss Shahbaz Ansari got ~ interim bail\n\nfound that Ansari's mobile phone was switched offand his location not traceable. The agency also found that the phone was registered in the name of an Assam resident; the person who provided surety for bail had allegedly done it for money - and the hospital mentioned in the plea does not conduct such procedures. Flagging these findings, the agency represented by Special Public Prosecutor Rahul Tyagi approached the court and got the bail cancelled on July 8. But Ansari failed to appear in court despite a notice being issued. His advocate Amit Srivastava submitted that he was not aware of his client's whereabouts. Ansari was first granted interim bail for five days on February 3, 2023, onthe grounds that his wife was pregnant. As a condition, the court asked him to provide his contact number, place of stay, and Google Pin location to the NIA. Four days later,",
+   "n_words": 319,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1782,
+      3215,
+      3170,
+      3417
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1785,
+      3151,
+      3153,
+      3185
+     ]
+    ],
+    "body_boxes": [
+     [
+      1785,
+      3481,
+      2061,
+      3551
+     ],
+     [
+      1784,
+      3600,
+      2229,
+      4267
+     ],
+     [
+      2273,
+      4076,
+      2715,
+      4268
+     ],
+     [
+      2762,
+      4076,
+      3203,
+      4261
+     ]
+    ],
+    "layout_words": 142
+   },
+   "headline_raw": "Jaishankar likely to be in China next\nweek, first visit since LAC standoff",
+   "deck_raw": "JULY 14-15 SCO HUDDLE IN RUN-UP TO SUMMIT LATER THIS YEAR",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, JULY 11\n\nEXTERNAL AFFAIRS Minister\nS Jaishankar is likely to travel to\nTianjin in China for the meeting\nof Foreign Ministers of the\nShanghai Cooperation Organi-\nsation on July 14-15, sources\nhave told The Indian Express.\nChinese Foreign Minister\nWang Yi is expected to host the\nmeeting which will be attended\nby counterparts from Pakistan,\nIran and Russia among others.\nThis will be Jaishankar\u2019s first\nvisit to China since the start of\nthe military standoff along the\nLine of Actual Control ineastern\nLadakh in May 2020.\n\nThe meeting of the Foreign\nMinisters will also set the stage\nfor the SCO Leaders\u2019 Summit in\nTianjin, which is expected to be\nheld early September.\n\nJaishankar's visit follows vis-\nits by Defence Minister Rajnath\nSingh and NSA Ajit Doval, who\nhad travelled to China in the last\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.74647887323944,
+   "ocr_low_conf_share": 0.02112676056338028,
+   "headline": "Jaishankar likely to be in China next week, first visit since LAC standoff",
+   "deck": "JULY 14-15 SCO HUDDLE IN RUN-UP TO SUMMIT LATER THIS YEAR",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, JULY 11",
+   "text": "EXTERNAL AFFAIRS Minister S Jaishankar is likely to travel to Tianjin in China for the meeting of Foreign Ministers of the Shanghai Cooperation Organisation on July 14-15, sources have told The Indian Express. Chinese Foreign Minister Wang Yi is expected to host the meeting which will be attended by counterparts from Pakistan, Iran and Russia among others. This will be Jaishankar's first visit to China since the start of the military standoff along the Line of Actual Control ineastern Ladakh in May 2020.\n\nThe meeting of the Foreign Ministers will also set the stage for the SCO Leaders' Summit in Tianjin, which is expected to be held early September.\n\nJaishankar's visit follows visits by Defence Minister Rajnath Singh and NSA Ajit Doval, who had travelled to China in the last",
+   "n_words": 130,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      3597,
+      3692,
+      3651
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3248,
+      3660,
+      3691,
+      3719
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      3721,
+      3692,
+      4269
+     ]
+    ],
+    "layout_words": 70
+   },
+   "headline_raw": "Friday said his government\nvara cann laraimnch ancahartnan _",
+   "deck_raw": "VVRLITEL SUPT AUC et POCY LOCI I~\ncourage peopleto have more chil-",
+   "body_raw": "dren, citing concerns that South\nIndia\u2019s low birth rate could affect\nits representation in Parliament.\n\u201cWe will launch a robust pol-\nicy on population growth soon.\nPopulation is our strongest eco-\nnomic resource. The world isin-\ncreasingly reliant on countries\nwith large populations,\u201d he said\nat the Amaravati Summit on\nWorld Population Day.\nThis is not the first time the\nTDP leader and NDA ally has\nspoken about the proposed",
+   "ocr_conf": 90.62857142857143,
+   "ocr_low_conf_share": 0.05714285714285714,
+   "headline": "Friday said his government vara cann laraimnch ancahartnan _",
+   "deck": "VVRLITEL SUPT AUC et POCY LOCI I~ courage peopleto have more chil-",
+   "byline": "",
+   "text": "dren, citing concerns that South India's low birth rate could affect its representation in Parliament. \"We will launch a robust policy on population growth soon. Population is our strongest economic resource. The world isincreasingly reliant on countries with large populations,\" he said at the Amaravati Summit on World Population Day. This is not the first time the TDP leader and NDA ally has spoken about the proposed",
+   "n_words": 67,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      4335,
+      4167,
+      4437
+     ],
+     [
+      2274,
+      4447,
+      4119,
+      4606
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      4629,
+      2668,
+      4699
+     ],
+     [
+      2272,
+      4749,
+      2714,
+      5059
+     ],
+     [
+      3735,
+      4591,
+      4183,
+      5134
+     ]
+    ],
+    "layout_words": 109
+   },
+   "headline_raw": "\u2018Our phones checked for Bangladesh contacts\u2019:\nBengal migrants freed from Odisha detention",
+   "deck_raw": "",
+   "body_raw": "RAVIK BHATTACHARYA\nKOLKATA, JULY 11\n\n\u201cWHEN WE showed them our\nvoter ID cards and Aadhaar\ncards, they said it was not\nenough. They wanted birth cer-\ntificates and school documents.\nThey even seized our phones\nand checked for phone numbers\nfrom Bangladesh.\u201d\n\nBengal, was among the migrant\nworkers picked up by Odisha\nPolice near Brajarajnagar in\nJharsuguda district. He was also\none of several people who have\nsince been released following in-\ntervention by West Bengal Police\nand the state administration.\nOver the past week, over 400\nmigrant workers from West\nBengal had been detained on\nsuspicion of being Bangladeshi\nnationals. Around 50 were later\nCONTINUED ON PAGE 2",
+   "ocr_conf": 94.25688073394495,
+   "ocr_low_conf_share": 0.0,
+   "headline": "'Our phones checked for Bangladesh contacts': Bengal migrants freed from Odisha detention",
+   "deck": "",
+   "byline": "RAVIK BHATTACHARYA; KOLKATA, JULY 11",
+   "text": "\"WHEN WE showed them our voter ID cards and Aadhaar cards, they said it was not enough. They wanted birth certificates and school documents. They even seized our phones and checked for phone numbers from Bangladesh.\"\n\nBengal, was among the migrant workers picked up by Odisha Police near Brajarajnagar in Jharsuguda district. He was also one of several people who have since been released following intervention by West Bengal Police and the state administration. Over the past week, over 400 migrant workers from West Bengal had been detained on suspicion of being Bangladeshi nationals. Around 50 were later",
+   "n_words": 98,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4482,
+      760,
+      4615
+     ],
+     [
+      317,
+      4669,
+      760,
+      4747
+     ]
+    ],
+    "deck_boxes": [
+     [
+      317,
+      4401,
+      568,
+      4458
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4766,
+      740,
+      4891
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "hot ORT\ntt fine\nKR. 3, = (ew,",
+   "deck_raw": "RAJASTHAN",
+   "body_raw": "RAJASTHAN FERTILE\nLAND, LOK DALA\nPARTY OF FARMERS:",
+   "ocr_conf": 94.625,
+   "ocr_low_conf_share": 0.0,
+   "headline": "hot ORT tt fine",
+   "deck": "RAJASTHAN",
+   "byline": "RAJASTHAN FERTILE; LAND, LOK DALA; PARTY OF FARMERS:",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4903,
+      747,
+      4953
+     ]
+    ],
+    "deck_boxes": [
+     [
+      317,
+      4953,
+      759,
+      5004
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5016,
+      674,
+      5049
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "JAYANT CHAUDHARY",
+   "deck_raw": "TRAFFIC CONGESTION",
+   "body_raw": "ON AJMER ROADS",
+   "ocr_conf": 93.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "JAYANT CHAUDHARY",
+   "deck": "TRAFFIC CONGESTION",
+   "byline": "ON AJMER ROADS",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5264,
+      4133,
+      5390
+     ]
+    ],
+    "deck_boxes": [
+     [
+      420,
+      5473,
+      760,
+      5575
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      5657,
+      625,
+      5769
+     ],
+     [
+      316,
+      5816,
+      759,
+      6166
+     ],
+     [
+      806,
+      5419,
+      1248,
+      6163
+     ],
+     [
+      1293,
+      5419,
+      1738,
+      6166
+     ],
+     [
+      2755,
+      5421,
+      3204,
+      6168
+     ],
+     [
+      3249,
+      5421,
+      3690,
+      6161
+     ],
+     [
+      3736,
+      5422,
+      4179,
+      6162
+     ]
+    ],
+    "layout_words": 555
+   },
+   "headline_raw": "Behind the Yatra, the young men who make gruelling climb a little easier",
+   "deck_raw": ": EXPRESS AT\nAMARNATH YATRA",
+   "body_raw": "ANAND MOHAN J\nAMARNATH TEMPLE\n(PAHALGAM), JULY 11\n\nOUTSIDETHEAmamath temple,\nponies laden with elderly pil-\ngrims make their way along\ntreacherous paths, while porters\nmove like worker ants across\nrock and snow. As they walk the\nfinal stretch towards the holy\ncave, an elderly man blesses his\nponywala, Zulfiqar, \u201cMay youdo\n\nwell in life.\u201d\nZulfiqar, 47, says his family\nhas been doing seva at the\nAmarnath Yatra fordecades now.\n\u201cWhat happened in Pahalgam\nwas aninjustice.A ponywalalike\nmyself was killed defending the\ntourists,\u201d he says, referring tothe\nApril 22 terror attack. \u201cSeva is also\npartof our faith; our whole fam-\nily depends on this yatra.\u201d\nTheannual Amarnath Yatrais\nsustained by thousands of fami-\nlies like Zulfiqar\u2019s \u2014 ponywalas\nand their sure-footed mountain\nhorses from Anantnag, pithoos\nwho carry heavy loads for miles,\ntent owners who provide shelter\nfrom the extreme climate, and\n\ndrivers who help ferry every-\nthing from diesel generators to\noxygen cylinders,\nIn fact, legend has it that the\nholy cave was discovered by a\nshepherd named Buta Malik in\n1850. Malik was high up in the\nmountains with his herd when a\nSufi saint gave him a bagful of\ncoal. Opening the bag after re-\nturning home, Malik found it to\nbe full of gold. The ecstatic shep-\nherd ran to thank the saint but\ncouldn't find him; instead, he\nfound thecave andtheice lingam.\nGenerations of men drawn\nfrom the remote villages of\nAnantnag district now symbol-\nise this syncretic ethos of\n\nKashmir, which was tested inthe\naftermath of the terror attack.\nDuring the 38-day trekking\nseason, a single ponywala earns\nRs 2,000 per day, owing to fixed\nroutes for each one. Each pony\ncancarry upto 100 kgand make\nthe journey multiple times daily\nduring peak season.\nRiyaz, who comes from\nAnantnag district and calls him-\nself a Virat Kohli fan, says that\n\u201cthis time, everyone is on edge\u201d.\n\u201cI break the tension by de-\nbating with them on whether\n(Virat) Kohli should have retired\nornot. That takes their mind off\nthings,\u201d he says.\nAt Mahagunas Top, Dr Nilesh\n\nKalsaria operates a hospital lo-\ncated at the highest point of the\nyatraroute,at 14,000 feet, where\nhe often has to deal with people\ncomplaining of oxygen depriva-\ntion. Dr Kalsaria has attended to\nover 390 patients so far. Today,\npatient number 29 is Qasar\nAhmed, who is hooked to an\noxygen cylinder.\nThis is the second stint at the\nhospital for Ahmed, who carries\nheavy loads to the highest peak.\n\u201cEven though I am used to the al-\ntitude, this mountain takes a\ntoll,\u201d he says.\nEaming around Rs 1,500 per\nday, he barely has time torecover\nas his customers wait outside.\n\n\u201cMy uncle died over 10 years ago\nafter suffering a heart attack car-\nrying heavy loads on this hill.\ndon\u2019t think about it much. I help\nas muchas J can,\u201d he says,\nAt the dusty tracks of Baltal,\nOmair Wani is the youngest per-\nson offering his services. At just\n11 years old, he offers to carry\nheavy loads to the base camp,\nbut hasn't found any customer.\n\u201cI can earn enough money to\nsupport 10 members of my fam-\nily. My two elder brothers also\nwork as porters. | haven't found\nasingle customer, so lam selling\nnimbu paani for now,\u201d he says.\nAt Panchtarni, the last base\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.70990990990991,
+   "ocr_low_conf_share": 0.03063063063063063,
+   "headline": "Behind the Yatra, the young men who make gruelling climb a little easier",
+   "deck": ": EXPRESS AT AMARNATH YATRA",
+   "byline": "ANAND MOHAN J; AMARNATH TEMPLE; (PAHALGAM), JULY 11",
+   "text": "OUTSIDETHEAmamath temple, ponies laden with elderly pilgrims make their way along treacherous paths, while porters move like worker ants across rock and snow. As they walk the final stretch towards the holy cave, an elderly man blesses his ponywala, Zulfiqar, \"May youdo\n\nwell in life.\" Zulfiqar, 47, says his family has been doing seva at the Amarnath Yatra fordecades now. \"What happened in Pahalgam was aninjustice.A ponywalalike myself was killed defending the tourists,\" he says, referring tothe April 22 terror attack. \"Seva is also partof our faith; our whole family depends on this yatra.\" Theannual Amarnath Yatrais sustained by thousands of families like Zulfiqar's - ponywalas and their sure-footed mountain horses from Anantnag, pithoos who carry heavy loads for miles, tent owners who provide shelter from the extreme climate, and\n\ndrivers who help ferry everything from diesel generators to oxygen cylinders, In fact, legend has it that the holy cave was discovered by a shepherd named Buta Malik in 1850. Malik was high up in the mountains with his herd when a Sufi saint gave him a bagful of coal. Opening the bag after returning home, Malik found it to be full of gold. The ecstatic shepherd ran to thank the saint but couldn't find him; instead, he found thecave andtheice lingam. Generations of men drawn from the remote villages of Anantnag district now symbolise this syncretic ethos of\n\nKashmir, which was tested inthe aftermath of the terror attack. During the 38-day trekking season, a single ponywala earns Rs 2,000 per day, owing to fixed routes for each one. Each pony cancarry upto 100 kgand make the journey multiple times daily during peak season. Riyaz, who comes from Anantnag district and calls himself a Virat Kohli fan, says that \"this time, everyone is on edge\". \"I break the tension by debating with them on whether (Virat) Kohli should have retired ornot. That takes their mind off things,\" he says. At Mahagunas Top, Dr Nilesh\n\nKalsaria operates a hospital located at the highest point of the yatraroute,at 14,000 feet, where he often has to deal with people complaining of oxygen deprivation. Dr Kalsaria has attended to over 390 patients so far. Today, patient number 29 is Qasar Ahmed, who is hooked to an oxygen cylinder. This is the second stint at the hospital for Ahmed, who carries heavy loads to the highest peak. \"Even though I am used to the altitude, this mountain takes a toll,\" he says. Eaming around Rs 1,500 per day, he barely has time torecover as his customers wait outside.\n\n\"My uncle died over 10 years ago after suffering a heart attack carrying heavy loads on this hill. don't think about it much. I help as muchas J can,\" he says, At the dusty tracks of Baltal, Omair Wani is the youngest person offering his services. At just 11 years old, he offers to carry heavy loads to the base camp, but hasn't found any customer. \"I can earn enough money to support 10 members of my family. My two elder brothers also work as porters. haven't found asingle customer, so lam selling nimbu paani for now,\" he says. At Panchtarni, the last base",
+   "n_words": 527,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.8,
+ "flags": []
+}

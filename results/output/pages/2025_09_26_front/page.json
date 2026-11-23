@@ -1,0 +1,878 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_26_front",
+ "source_file": "2025-09-26_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-26_front.png",
+ "date": "2025-09-26",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 488,
+  "mean_line_conf": 89.72280299450813,
+  "orphan_words": 80,
+  "body_words_total": 1808
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      696,
+      736,
+      767
+     ],
+     [
+      336,
+      809,
+      543,
+      898
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1035,
+      752,
+      1207
+     ],
+     [
+      320,
+      1239,
+      751,
+      1456
+     ]
+    ],
+    "layout_words": 21
+   },
+   "headline_raw": "EXPRESS NETWORK\n",
+   "deck_raw": "",
+   "body_raw": "SAMEER WANKHEDE\nFILES DEFAMATION\nSUIT AGAINST ARYAN\nKHAN\u2019S SERIES\n\nMAN ACCUSED\nOF SPYING FOR\nPAKISTAN HELD IN\nJAISALMER DISTRICT\nPAGES 3,10",
+   "ocr_conf": 94.14285714285714,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "SAMEER WANKHEDE; FILES DEFAMATION; SUIT AGAINST ARYAN; KHAN'S SERIES; MAN ACCUSED; OF SPYING FOR; PAKISTAN HELD IN; JAISALMER DISTRICT; PAGES 3,10",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      816,
+      700,
+      3178,
+      971
+     ],
+     [
+      814,
+      979,
+      3171,
+      1148
+     ]
+    ],
+    "deck_boxes": [
+     [
+      814,
+      696,
+      2167,
+      745
+     ]
+    ],
+    "body_boxes": [
+     [
+      2762,
+      1304,
+      3201,
+      1775
+     ],
+     [
+      2884,
+      2267,
+      3067,
+      2295
+     ]
+    ],
+    "layout_words": 43
+   },
+   "headline_raw": "Banks should work to be in global top\n10, fund small & medium firms: Shah",
+   "deck_raw": "FINANCIAL EXPRESS BEST BANKS AWARDS",
+   "body_raw": "Home Minister Amit Shah;\nMaharashtra CM Devendra\nFadnavis; Deputy CM Eknath\nShinde; Viveck Goenka,\nChairman and Managing\nDirector of the Express\nGroup; Anant Goenka,\nExecutive Director of The\nIndian Express Group; with\nwinners of the FE Best Banks\nAwards in Mumbai on\nThursday. Tashi Tobgyal\n\nco-presented by",
+   "ocr_conf": 90.06382978723404,
+   "ocr_low_conf_share": 0.0851063829787234,
+   "headline": "Banks should work to be in global top 10, fund small & medium firms: Shah",
+   "deck": "FINANCIAL EXPRESS BEST BANKS AWARDS",
+   "byline": "",
+   "text": "Home Minister Amit Shah; Maharashtra CM Devendra Fadnavis; Deputy CM Eknath Shinde; Viveck Goenka, Chairman and Managing Director of the Express Group; Anant Goenka, Executive Director of The Indian Express Group; with winners of the FE Best Banks Awards in Mumbai on Thursday. Tashi Tobgyal\n\nco-presented by",
+   "n_words": 47,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3519,
+      789,
+      3885,
+      826
+     ]
+    ],
+    "layout_words": 4,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "",
+   "ocr_conf": null,
+   "ocr_low_conf_share": null,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1642,
+      755,
+      2047
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      1581,
+      518,
+      1613
+     ]
+    ],
+    "body_boxes": [
+     [
+      561,
+      2132,
+      757,
+      2360
+     ],
+     [
+      321,
+      2450,
+      679,
+      2520
+     ],
+     [
+      318,
+      2571,
+      763,
+      4259
+     ]
+    ],
+    "layout_words": 217
+   },
+   "headline_raw": "Skipper Surya\nsays \u2018not guilty\u2019\nfor Pahalgam\nremarks after\nPCB complains",
+   "deck_raw": "ASIA CUP",
+   "body_raw": "Suryakumar\nYadav had\ndedicated\nwin to\nArmed\nForces\n\nDEVENDRA PANDEY\nMUMBAI, SEPTEMBER 25\n\nWITH BOTH sides filing com-\nplaints against each other fol-\nlowing two volatile encounters\nat the Asia Cup, India captain\nSuryakumar Yadav pleaded \u201cnot\nguilty\u2019 ata hearing in Dubai after\nthe Pakistan Cricket Board (PCB)\ncomplained to the International\nCricket Council (ICC) about his\npost-match comments on\nSeptember 14,\nSuryakumar had dedicated\nIndia\u2019s seven-wicket win over\nPakistan at the Asia Cup to the\n\u201cbravery\u201d of India's \u201carmed\nforces\u201d and said the team stood\nwith \u201cthe families of the victims\nof the Pahalgam terror attack\u201d,\nThe verdict is set to be an-\nnounced Friday.\nOn its part, the BCC] com-\nplained about the on-field ges-\ntures of Pakistan opener\nSahibzada Farhan and fast\nbowler Haris Rauf during the\nsecond encounter on September\n21. The BCCI\u2019s complaint has\nbeen forwarded to match referee\nAndy Pycroft with the hearing of\nPakistan players to be held on\nFriday \u2014 a day after their game\nagainst Bangladesh.\nOn Sunday, Farhan per-\nformeda \u201cgun celebration\u201d with\nhis bat after reaching his fifty in\nthe Super Fours match while\nRauf was seen gesturing to fans\nwhile fielding on the boundary\nline, Rauf was also involved ina\nverbal exchange that involved\nIndia openers Shubman Gill and\nAbhishek Sharma.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.23041474654377,
+   "ocr_low_conf_share": 0.018433179723502304,
+   "headline": "Skipper Surya says 'not guilty' for Pahalgam remarks after PCB complains",
+   "deck": "ASIA CUP",
+   "byline": "DEVENDRA PANDEY; MUMBAI, SEPTEMBER 25",
+   "text": "Suryakumar Yadav had dedicated win to Armed Forces\n\nWITH BOTH sides filing complaints against each other following two volatile encounters at the Asia Cup, India captain Suryakumar Yadav pleaded \"not guilty' ata hearing in Dubai after the Pakistan Cricket Board (PCB) complained to the International Cricket Council (ICC) about his post-match comments on September 14, Suryakumar had dedicated India's seven-wicket win over Pakistan at the Asia Cup to the \"bravery\" of India's \"armed forces\" and said the team stood with \"the families of the victims of the Pahalgam terror attack\", The verdict is set to be announced Friday. On its part, the BCC] complained about the on-field gestures of Pakistan opener Sahibzada Farhan and fast bowler Haris Rauf during the second encounter on September 21. The BCCI's complaint has been forwarded to match referee Andy Pycroft with the hearing of Pakistan players to be held on Friday - a day after their game against Bangladesh. On Sunday, Farhan performeda \"gun celebration\" with his bat after reaching his fifty in the Super Fours match while Rauf was seen gesturing to fans while fielding on the boundary line, Rauf was also involved ina verbal exchange that involved India openers Shubman Gill and Abhishek Sharma.",
+   "n_words": 202,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      1256,
+      2130,
+      2271,
+      2215
+     ],
+     [
+      898,
+      2340,
+      2602,
+      2442
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1164,
+      2282,
+      2299,
+      2315
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "choked CS ra Kotatn OVS We. a.\nyr \u201c*\nKX Guu Ss ihn EY NavniTmoTors 2 SUMIT AN \u2014",
+   "deck_raw": "",
+   "body_raw": "Associate Partners \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014_ Knowledge Partners, \u2014__\u2014\u2014\u2014_____-- Powered by -",
+   "ocr_conf": 68.33333333333333,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "choked CS ra Kotatn OVS We. a. KX Guu Ss ihn EY NavniTmoTors 2 SUMIT AN -",
+   "deck": "",
+   "byline": "",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      2544,
+      3188,
+      2634
+     ],
+     [
+      1787,
+      2646,
+      3187,
+      2785
+     ],
+     [
+      1786,
+      2771,
+      2092,
+      2835
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1787,
+      2850,
+      2145,
+      2878
+     ],
+     [
+      1785,
+      2928,
+      2226,
+      3390
+     ],
+     [
+      2325,
+      2996,
+      2430,
+      3085
+     ],
+     [
+      2967,
+      2939,
+      3141,
+      3028
+     ],
+     [
+      2967,
+      3106,
+      3150,
+      3250
+     ]
+    ],
+    "layout_words": 66
+   },
+   "headline_raw": "Day 1 of GST cut: 6-fold surge in credit\ncard online payments to %10,000 crore\nGEORGE MATHEW",
+   "deck_raw": "",
+   "body_raw": "MUMBAI, SEPTEMBER 25\n\nA DAY AFTER the government\nslashed GST rates, online plat-\nformssawa sudden spurtincon-\nsumer spending, with e-com-\nmerce transactions using credit\ncards alone jumping about six-\nfold ina single day on September\n22 toRs 10,411 crore, according to\nReserve Bank of India(RBI) data.\nJust a day earlier, on\nSeptember 21, credit card\nCONTINUED ON PAGE 2\n\nSept 19\nSept 20\n\nValue\n%3,023.47 cr\n\n21,514.37 cr\n310,411.84 cr\n37,274.20 cr",
+   "ocr_conf": 87.01388888888889,
+   "ocr_low_conf_share": 0.09722222222222222,
+   "headline": "Day 1 of GST cut: 6-fold surge in credit card online payments to %10,000 crore GEORGE MATHEW",
+   "deck": "",
+   "byline": "MUMBAI, SEPTEMBER 25",
+   "text": "A DAY AFTER the government slashed GST rates, online plat-formssawa sudden spurtinconsumer spending, with e-commerce transactions using credit cards alone jumping about sixfold ina single day on September 22 toRs 10,411 crore, according to Reserve Bank of India(RBI) data. Just a day earlier, on September 21, credit card\n\nSept 19 Sept 20\n\nValue",
+   "n_words": 53,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2686,
+      1534,
+      2904
+     ],
+     [
+      810,
+      2893,
+      1249,
+      2966
+     ]
+    ],
+    "deck_boxes": [
+     [
+      809,
+      2548,
+      1641,
+      2674
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      2967,
+      1250,
+      3397
+     ],
+     [
+      1295,
+      2768,
+      1737,
+      3231
+     ],
+     [
+      1297,
+      3314,
+      1651,
+      3388
+     ]
+    ],
+    "layout_words": 114
+   },
+   "headline_raw": "says buy swadeshi this Diwali\n\u2018 * banks to provide\nEXPRESSNEWS SERVICE small and mediu\nMUMBAI, SEPTEMBER 25 since they were\n5 - huildine. \u201cIf bank\nINDIAN BANKS should nolonger",
+   "deck_raw": "Frames swadeshi as made in India\nwith sweat of Indian workers,",
+   "body_raw": "plan just for growth, rather they\nmust start thinking of changing\nthe scale, and try to figure among\nthe top 10 banks in the world,\nsaid Amit Shah, Union Minister\nof Home Affairs and Cooperation\non Thursday at the Financial\nExpress Best Banks Awards\nevent in Mumbai.\nAddressing senior bankers\nand industry leaders, Shah asked\n\nbanks to provide funds to the\nsmall and medium enterprises\nsince they were key to nation\nbuilding. \u201cIf banks don't value\nMSMEs, it amounts to stopping\ntheir growth which is unfortu-\nnate. MSMEs have huge poten-\ntial. Look at Ambani, Adani,\nTorrent, etc... allof them started\nas MSMEs.\u201d\nThe government stands\nCONTINUED ON PAGE 2\n\nLIST OF WINNERS\nPAGE11",
+   "ocr_conf": 93.99122807017544,
+   "ocr_low_conf_share": 0.017543859649122806,
+   "headline": "says buy swadeshi this Diwali ' * banks to provide EXPRESSNEWS SERVICE small and mediu MUMBAI, SEPTEMBER 25 since they were 5 - huildine. \"If bank INDIAN BANKS should nolonger",
+   "deck": "Frames swadeshi as made in India with sweat of Indian workers,",
+   "byline": "",
+   "text": "plan just for growth, rather they must start thinking of changing the scale, and try to figure among the top 10 banks in the world, said Amit Shah, Union Minister of Home Affairs and Cooperation on Thursday at the Financial Express Best Banks Awards event in Mumbai. Addressing senior bankers and industry leaders, Shah asked\n\nbanks to provide funds to the small and medium enterprises since they were key to nation building. \"If banks don't value MSMEs, it amounts to stopping their growth which is unfortunate. MSMEs have huge potential. Look at Ambani, Adani, Torrent, etc... allof them started as MSMEs.\" The government stands\n\nLIST OF WINNERS",
+   "n_words": 107,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2506,
+      2769,
+      2984,
+      2851
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2460,
+      2939,
+      2586,
+      2978
+     ],
+     [
+      2640,
+      2939,
+      2730,
+      2978
+     ],
+     [
+      2613,
+      3162,
+      2788,
+      3197
+     ],
+     [
+      2812,
+      2939,
+      2938,
+      2978
+     ]
+    ],
+    "layout_words": 4
+   },
+   "headline_raw": "CREDIT CARD PAYMENTS",
+   "deck_raw": "",
+   "body_raw": "Volume\n\nValue\n\n%2,533.54cr\n\nVolume",
+   "ocr_conf": 92.25,
+   "ocr_low_conf_share": 0.0,
+   "headline": "CREDIT CARD PAYMENTS",
+   "deck": "",
+   "byline": "",
+   "text": "Volume\n\nValue\n\nVolume",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3246,
+      3160,
+      4110,
+      3234
+     ],
+     [
+      3251,
+      3450,
+      3689,
+      3522
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3249,
+      3362,
+      3636,
+      3420
+     ]
+    ],
+    "body_boxes": [
+     [
+      3250,
+      3522,
+      3691,
+      3945
+     ],
+     [
+      3737,
+      3286,
+      4179,
+      3945
+     ]
+    ],
+    "layout_words": 136
+   },
+   "headline_raw": "high-level security review meeting. @KavinderGupta/X via PTI\nADAY after four protesters were\nkilled and many injured in police",
+   "deck_raw": "SRINAGAR, SEPTEMBER25",
+   "body_raw": "firing in Leh, police detained over\n50 people inraidsacrossthe city\nand booked a Congress leader\naccused by the BJP of instigating\nthe stir, which was called insup-\nport of the demand for state-\nhood and protections under the\nSixth Schedule of the\nConstitution for Ladakh.\nSeparately, the Centre an-\nnounced cancellation of the\n\nFCRA licence of an organisation\nrun by Sonam Wangchuk, the\nclimate activist seen as the face\nof the protests. Action under the\nFCRA \u2014 or Foreign Contribution\n(Regulation) Act \u2014 cameinacase\nthat was lodged two months\nago, and followed a day after the\ngovernment accused Wangchuk\nof provoking the violence.\nNew Delhi also dispatched a\n\u2018special envoy\u2019 to Leh Thursday\nto try and resolve the unprece-\ndented situation. Asix-member\ndelegation (three each from Leh\nand Kargil districts) flew to Dethi\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.17518248175182,
+   "ocr_low_conf_share": 0.072992700729927,
+   "headline": "high-level security review meeting. @KavinderGupta/X via PTI ADAY after four protesters were killed and many injured in police",
+   "deck": "SRINAGAR, SEPTEMBER25",
+   "byline": "",
+   "text": "firing in Leh, police detained over 50 people inraidsacrossthe city and booked a Congress leader accused by the BJP of instigating the stir, which was called insupport of the demand for statehood and protections under the Sixth Schedule of the Constitution for Ladakh. Separately, the Centre announced cancellation of the\n\nFCRA licence of an organisation run by Sonam Wangchuk, the climate activist seen as the face of the protests. Action under the FCRA - or Foreign Contribution (Regulation) Act - cameinacase that was lodged two months ago, and followed a day after the government accused Wangchuk of provoking the violence. New Delhi also dispatched a 'special envoy' to Leh Thursday to try and resolve the unprecedented situation. Asix-member delegation (three each from Leh and Kargil districts) flew to Dethi",
+   "n_words": 129,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      3543,
+      1697,
+      3853
+     ],
+     [
+      808,
+      3863,
+      1247,
+      4011
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1456,
+      4092,
+      1681,
+      4185
+     ],
+     [
+      317,
+      4344,
+      563,
+      4401
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4933,
+      737,
+      5099
+     ],
+     [
+      809,
+      4035,
+      1204,
+      4105
+     ],
+     [
+      807,
+      4154,
+      1249,
+      4419
+     ],
+     [
+      807,
+      4431,
+      1249,
+      5139
+     ]
+    ],
+    "layout_words": 142
+   },
+   "headline_raw": "India\u2019s chief negotiator\nback after \u2018productive\u2019\nmeet; H-IB separate\nfrom trade:",
+   "deck_raw": "Stepping\n@ upefforts\nTHE WORLD",
+   "body_raw": "DRONES DISRUPT\nDANISH AIRPORTS IN\nHYBRID ATTACKS\nPAGE 12\n\nRAVIDUTTA MISHRA\nNEW DELHI, SEPTEMBER 25\n\nTHE INDIAN trade negotiating\nteam, led by Chief Negotiator for\nthe US deal Rajesh Agrawal, has\nreturned to India after meeting\nwith United States Trade\nRepresentative (USTR) Jamieson\nGreer.\n\nThe meeting this week is ex-\npected toease tension and bring\nNegotiations for atrade deal back\non track, according to two per-\nsons familiar with the talks.\nCommerce Minister Piyush\nGoyal is still in the US and is\nmeeting a number of business\nheads to push for investments in\nthe country.\nAUS official said the talks be-\ntween the teams from India and\nUS went well. The Russian oil is-\nsue, the US official said, is the\nthorniest issue between the two\ncountries, and any deal between\nthe two countries may need\nIndia to reduce its purchase of",
+   "ocr_conf": 92.97183098591549,
+   "ocr_low_conf_share": 0.007042253521126761,
+   "headline": "India's chief negotiator back after 'productive' meet; H-IB separate from trade:",
+   "deck": "Stepping @ upefforts THE WORLD",
+   "byline": "DRONES DISRUPT; DANISH AIRPORTS IN; HYBRID ATTACKS; RAVIDUTTA MISHRA; NEW DELHI, SEPTEMBER 25",
+   "text": "THE INDIAN trade negotiating team, led by Chief Negotiator for the US deal Rajesh Agrawal, has returned to India after meeting with United States Trade Representative (USTR) Jamieson Greer.\n\nThe meeting this week is expected toease tension and bring Negotiations for atrade deal back on track, according to two persons familiar with the talks. Commerce Minister Piyush Goyal is still in the US and is meeting a number of business heads to push for investments in the country. AUS official said the talks between the teams from India and US went well. The Russian oil issue, the US official said, is the thorniest issue between the two countries, and any deal between the two countries may need India to reduce its purchase of",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      3543,
+      3197,
+      3751
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      3837,
+      2213,
+      3947
+     ],
+     [
+      1784,
+      3997,
+      2225,
+      4307
+     ],
+     [
+      2762,
+      3799,
+      3202,
+      4301
+     ]
+    ],
+    "layout_words": 109
+   },
+   "headline_raw": "Punjab grandmother deported after\n34 yrs in US: \u2018Not allowed to say bye\u2019",
+   "deck_raw": "",
+   "body_raw": "MANRAJ GREWAL\nSHARMA\nCHANDIGARH, SEPTEMBER 25\n\nHARJIT KAUR reportedly\nreached the US in 1991 as a sin-\ngle mother, worked as a seam-\nstress at an Indian saree store,\npaid taxes and volunteered at\ngurdwaras. In between, she ap-\nplied for asylum but the bid was\nrejected.\n\nThirty-four years later, Harjit,\nnow 73, was sent back \u2014aretum\nmarked by prolonged shackling,\nconfinement in bare concrete\ncells, and denial of basic ameni-\nties, according to her lawyer\nDeepak Ahiuwalia. \u201cShe was not\neven allowed to say goodbye to\nher family or collect her belong-\nings,\u201d Ahluwalia said in an\nInstagram post, describing Kaur\u2019s\ndeportation as \u201cinhumane\u201d.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.86238532110092,
+   "ocr_low_conf_share": 0.027522935779816515,
+   "headline": "Punjab grandmother deported after 34 yrs in US: 'Not allowed to say bye'",
+   "deck": "",
+   "byline": "MANRAJ GREWAL; SHARMA; CHANDIGARH, SEPTEMBER 25",
+   "text": "HARJIT KAUR reportedly reached the US in 1991 as a single mother, worked as a seamstress at an Indian saree store, paid taxes and volunteered at gurdwaras. In between, she applied for asylum but the bid was rejected.\n\nThirty-four years later, Harjit, now 73, was sent back - aretum marked by prolonged shackling, confinement in bare concrete cells, and denial of basic amenities, according to her lawyer Deepak Ahiuwalia. \"She was not even allowed to say goodbye to her family or collect her belong-ings,\" Ahluwalia said in an Instagram post, describing Kaur's deportation as \"inhumane\".",
+   "n_words": 95,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1241,
+      3863,
+      1661,
+      4200
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1341,
+      4234,
+      1698,
+      4855
+     ],
+     [
+      1295,
+      4945,
+      1735,
+      5132
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "-US official\nE Stepping\ng | is @ upeffort:",
+   "deck_raw": "",
+   "body_raw": "NEGOTIATIONS ON a\ntrade deal, stalled overthe\nimposition of additional\nUS tariffs over India\u2019s pur-\nchase of Russian oil, re-\nvived earlier this month\nafter a US team visited\nNew Delhi. Indian nego-\ntiators then headed to\nthe US. Commerce\nMinister Piyush Goyal\nand External Affairs\nMinister S Jaishankar\nhave heldtalks in the US\nto signal stepped-upef-\nforts to reacha deal.\n\nRussian oil, so that the war in\nUkraine \u201ccomes to an end\u201d.\nThe meeting in the US be-\ntween the two teams was not a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.4888888888889,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "-US official E Stepping",
+   "deck": "",
+   "byline": "NEGOTIATIONS ON a",
+   "text": "trade deal, stalled overthe imposition of additional US tariffs over India's purchase of Russian oil, revived earlier this month after a US team visited New Delhi. Indian negotiators then headed to the US. Commerce Minister Piyush Goyal and External Affairs Minister S Jaishankar have heldtalks in the US to signal stepped-upefforts to reacha deal.\n\nRussian oil, so that the war in Ukraine \"comes to an end\". The meeting in the US between the two teams was not a",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      4020,
+      4167,
+      4436
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      4512,
+      3596,
+      4581
+     ],
+     [
+      3245,
+      4630,
+      3693,
+      5134
+     ],
+     [
+      3779,
+      4521,
+      4137,
+      4555
+     ],
+     [
+      3873,
+      4598,
+      4041,
+      4626
+     ]
+    ],
+    "layout_words": 78
+   },
+   "headline_raw": "Of 4 who died in Leh, 3\nin early 20s: \u201cThey had\nmultiple bullet wounds\non torso and head\u2019",
+   "deck_raw": "",
+   "body_raw": "DEEPTIMAN TIWARY\nLEH, SEPTEMBER 25\n\nONE CAME from Hanu village,\nover 160 km from Leh; another\nbelonged to Skur Buchan, over\n200 km from Ladakh\u2019s capital;\nthe other two were residents of\nIgoo village and Kharnakling,\nabout 40 km and seven km away,\nrespectively. Three of them were\nin their early 20s. At least one\nwas an ex-serviceman, and at\nleast two had jobs in Leh.\nThese are the snapshots of\nCONTINUEDON PAGE2\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "ocr_conf": 93.93589743589743,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Of 4 who died in Leh, 3 in early 20s: \"They had multiple bullet wounds on torso and head'",
+   "deck": "",
+   "byline": "DEEPTIMAN TIWARY; LEH, SEPTEMBER 25",
+   "text": "ONE CAME from Hanu village, over 160 km from Leh; another belonged to Skur Buchan, over 200 km from Ladakh's capital; the other two were residents of Igoo village and Kharnakling, about 40 km and seven km away, respectively. Three of them were in their early 20s. At least one was an ex-serviceman, and at least two had jobs in Leh. These are the snapshots of CONTINUEDON PAGE2\n\nBUSINESS AS USUAL\n\nBy UNNY",
+   "n_words": 73,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      4375,
+      3199,
+      4585
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1780,
+      4622,
+      2223,
+      4740
+     ],
+     [
+      1783,
+      4788,
+      2225,
+      5139
+     ],
+     [
+      2270,
+      4629,
+      2713,
+      5140
+     ],
+     [
+      2761,
+      4629,
+      3204,
+      5133
+     ]
+    ],
+    "layout_words": 184
+   },
+   "headline_raw": "Final EVM tally only after counting\nof all postal ballots: EC\u2019s new rule",
+   "deck_raw": "",
+   "body_raw": "DAMININATH\nNEW DELHI, SEPTEMBER 25\n\nREVERSING ITS 2019 decision to\nde-link the counting of postal\nballots and votes polled on EVMs,\nthe Election Commission on\nThursday changed the counting\nprocess to ensure that the EVM\ntally is only completed after all\nthe postal ballots are counted.\n\u201cThe penultimate (second\n\nlast) round of EVM/VVPATs\ncounting shall not be taken up\nuntil the counting of postal ballot\npapers is completed at the count-\ning centre,\u201d the EC said in instruc-\ntions issued to the Chief Electoral\nOfficers of all States and Union\nTerritories. It said the decision\nwas taken \u201cin order to further\nstreamline the counting process\nand to provide necessary clarity\nto the counting of postal ballot\u201d.\nIn case of a Parliamentary\n\nconstituency, if votes are\ncounted Assembly segment-\nwise at multiple counting cen-\ntres, the penultimate round of\nEVM/VVPAT counting need not\nbe stopped at all counting cen-\ntres until the postal ballots are\ncounted, it said. It would only be\nhalted in centres where the\npostal ballot counting was still\nunderway, it said.\nSources said the decision was\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.68852459016394,
+   "ocr_low_conf_share": 0.02185792349726776,
+   "headline": "Final EVM tally only after counting of all postal ballots: EC's new rule",
+   "deck": "",
+   "byline": "DAMININATH; NEW DELHI, SEPTEMBER 25",
+   "text": "REVERSING ITS 2019 decision to de-link the counting of postal ballots and votes polled on EVMs, the Election Commission on Thursday changed the counting process to ensure that the EVM tally is only completed after all the postal ballots are counted. \"The penultimate (second\n\nlast) round of EVM/VVPATs counting shall not be taken up until the counting of postal ballot papers is completed at the counting centre,\" the EC said in instructions issued to the Chief Electoral Officers of all States and Union Territories. It said the decision was taken \"in order to further streamline the counting process and to provide necessary clarity to the counting of postal ballot\". In case of a Parliamentary\n\nconstituency, if votes are counted Assembly segment-wise at multiple counting centres, the penultimate round of EVM/VVPAT counting need not be stopped at all counting centres until the postal ballots are counted, it said. It would only be halted in centres where the postal ballot counting was still underway, it said. Sources said the decision was",
+   "n_words": 169,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      567,
+      5266,
+      4144,
+      5400
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      5419,
+      1247,
+      5883
+     ],
+     [
+      806,
+      5895,
+      1246,
+      6159
+     ],
+     [
+      1293,
+      5419,
+      1738,
+      6166
+     ],
+     [
+      2760,
+      5421,
+      3201,
+      6168
+     ],
+     [
+      3244,
+      5421,
+      3689,
+      6168
+     ],
+     [
+      3732,
+      5422,
+      4177,
+      6162
+     ]
+    ],
+    "layout_words": 481
+   },
+   "headline_raw": "Revamped washrooms to new tracks, Delhi ready for para meet",
+   "deck_raw": "",
+   "body_raw": "The upgrades at the iconic\nstadium, which has been re-\nvamped for the 12th World Para\nAthletics Championships from\nSeptember 27 to October 5, re-\nflects India's growing profile in\npara-athletics: two new tracks,\n20 washrooms made fully acces-\nsible for para athletes, eight new\nlifts, an extended long jump pit\nand a revamped throwing plat-\nform.\n\nAfter bagging a rising num-\nber of medals at the Paralympics,\nfrom four in 2016 to 19 in 2021\nand 29 last year, India is now\nhosting a para-eventof this scale\nfor the first time.\nIndia won 10 medals in the\n\n2023 edition of the World\nChampionships and 17 last year.\nAnd, when an opportunity arose\nlast year to host big-ticket events,\nthe Paralympic Committee of\nIndia (PCI) \u201cgrabbed it with both\nhands,\u201d according to World Para\nAthletics president Paul Fitzgerald.\n\u201cIndia has grownin the para-\nsports community over the past\ndecade and showed good per-\nformances at global events. At\nWPA, we also wanted new re-\ngions to explore and that is the\ncross-section where we met to\nhost four big-ticket events in\nIndia including Grand Prix and\nWorld Championships,\u201d\nFitzgerald said.\n\nThe venue has two new\nMondotracks \u2014 one inthe main\nstadium and another in the\nwarm-up area. \u201cThe laying of the\nMondo track is definitely the\nbest thing that has happened for\nus. Earlier, when we used to go\nabroad, athletes faced difficulty\nwith the grip on a Mondo track\nbut there won't be any such is-\nsues now,\u201d Soorma said.\nThere have been other im-\nprovements, too.\n\u201cHalf of the 40 washrooms\nhave been made fully accessible\nfor para athletes, with the rest\nsemi-accessible. The new gym is\nequipped with all the equipment\nthata para athlete uses. We have\n\ninstalled eight new lifts that are\naccessible for para athletes. After\nthis World Championship, the\nstadium will be ready to host any\npara tournament,\u201d PCI president\nDevendra Jhajharia said.\nIn the field of play, the long\njump pit has been extended on\nboth sides to prevent injuries to\nvisually-impaired jumpers.\n\u201cWhen they go fora jump, some-\ntimes they lose direction and fall\non the track which is dangerous\nfor them. We have increased the\nthickness of the track near the\njumping pit to avoid that,\u201d said\nJhajharia.\nSimilarly, the old throwing\nplatforms for wheelchair ath-\n\nletes have been replaced.\nAround 2,200 participants,\nincluding athletes, coaches, and\nother officials, are arriving for the\nevent, with competitions start-\ning on Saturday and continuing\ntill October 5. They will be stay-\ningin 14 hotels that have wheel-\nchair accessibility with ramps.\n\u201cTransport is a big challenge\nbut we have sorted it out by de-\nploying buses across the city,\u201d\nJhajharia said. More than 60\nbuses will be plying and they will\nbe accessible to para athletes,\nwith 20 of them specifically en-\nabled for wheelchairs.\nA large technical crew is\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.3076923076923,
+   "ocr_low_conf_share": 0.016632016632016633,
+   "headline": "Revamped washrooms to new tracks, Delhi ready for para meet",
+   "deck": "",
+   "byline": "",
+   "text": "The upgrades at the iconic stadium, which has been revamped for the 12th World Para Athletics Championships from September 27 to October 5, reflects India's growing profile in para-athletics: two new tracks, 20 washrooms made fully accessible for para athletes, eight new lifts, an extended long jump pit and a revamped throwing platform.\n\nAfter bagging a rising number of medals at the Paralympics, from four in 2016 to 19 in 2021 and 29 last year, India is now hosting a para-eventof this scale for the first time. India won 10 medals in the\n\n2023 edition of the World Championships and 17 last year. And, when an opportunity arose last year to host big-ticket events, the Paralympic Committee of India (PCI) \"grabbed it with both hands,\" according to World Para Athletics president Paul Fitzgerald. \"India has grownin the para-sports community over the past decade and showed good performances at global events. At WPA, we also wanted new regions to explore and that is the cross-section where we met to host four big-ticket events in India including Grand Prix and World Championships,\" Fitzgerald said.\n\nThe venue has two new Mondotracks - one inthe main stadium and another in the warm-up area. \"The laying of the Mondo track is definitely the best thing that has happened for us. Earlier, when we used to go abroad, athletes faced difficulty with the grip on a Mondo track but there won't be any such issues now,\" Soorma said. There have been other improvements, too. \"Half of the 40 washrooms have been made fully accessible for para athletes, with the rest semi-accessible. The new gym is equipped with all the equipment thata para athlete uses. We have\n\ninstalled eight new lifts that are accessible for para athletes. After this World Championship, the stadium will be ready to host any para tournament,\" PCI president Devendra Jhajharia said. In the field of play, the long jump pit has been extended on both sides to prevent injuries to visually-impaired jumpers. \"When they go fora jump, sometimes they lose direction and fall on the track which is dangerous for them. We have increased the thickness of the track near the jumping pit to avoid that,\" said Jhajharia. Similarly, the old throwing platforms for wheelchair athletes have been replaced. Around 2,200 participants, including athletes, coaches, and other officials, are arriving for the event, with competitions starting on Saturday and continuing till October 5. They will be stay-ingin 14 hotels that have wheelchair accessibility with ramps. \"Transport is a big challenge but we have sorted it out by deploying buses across the city,\" Jhajharia said. More than 60 buses will be plying and they will be accessible to para athletes, with 20 of them specifically enabled for wheelchairs. A large technical crew is",
+   "n_words": 460,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5460,
+      715,
+      5530
+     ]
+    ],
+    "layout_words": 6,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PRITISH RAJ\nNEW DELHI, SEPTEMBER 25",
+   "ocr_conf": 94.83333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "PRITISH RAJ; NEW DELHI, SEPTEMBER 25",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5578,
+      759,
+      6166
+     ]
+    ],
+    "layout_words": 70,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "NOT SOlong ago, paralympic sil-\nver medallist Pranav Soorma\nwould enter the Jawaharlal\nNehru Stadium, seated in his\nwheelchair, and struggle to\nmake his way to the throwing\narea over the bumps and pot-\nholes on the way.\n\u201cBut nowit has changed.I can\npropel my wheelchair smoothly\nand sometimes without anyone's\nassistance,\u201d Soorma, a silver\nmedal winner in the club throw\nevent at the Paris Paralympics,\ntold The Indian Express.",
+   "ocr_conf": 89.08571428571429,
+   "ocr_low_conf_share": 0.1,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "NOT SOlong ago, paralympic silver medallist Pranav Soorma would enter the Jawaharlal Nehru Stadium, seated in his wheelchair, and struggle to make his way to the throwing area over the bumps and potholes on the way. \"But nowit has changed.I can propel my wheelchair smoothly and sometimes without anyone's assistance,\" Soorma, a silver medal winner in the club throw event at the Paris Paralympics, told The Indian Express.",
+   "n_words": 68,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.0,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

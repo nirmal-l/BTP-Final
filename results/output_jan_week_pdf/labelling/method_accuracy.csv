@@ -1,0 +1,5 @@
+method,n,accuracy,acc_95ci_low,acc_95ci_high,macro_f1,cohen_kappa
+transformer,48,0.583,0.443,0.712,0.336,0.068
+vader,48,0.396,0.27,0.537,0.387,0.119
+llm,48,0.646,0.504,0.766,0.63,0.451
+baseline: always 'neutral',48,0.583,0.443,0.712,0.246,0.0

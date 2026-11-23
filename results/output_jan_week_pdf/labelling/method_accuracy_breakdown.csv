@@ -1,0 +1,10 @@
+group_by,group,n,transformer_accuracy,vader_accuracy,llm_accuracy
+page_type,editorial,15,0.4,0.467,0.733
+page_type,front,27,0.667,0.444,0.667
+page_type,other,6,0.667,0.0,0.333
+topic_label,bjp / hindu / ambedkar / minister,11,0.545,0.636,0.818
+topic_label,india / coffee / gas / government,8,0.125,0.25,0.75
+topic_label,state / trump / hospital / manipur,11,0.636,0.364,0.364
+topic_label,team / test / gambhir / bumrah,5,0.8,0.4,0.8
+topic_label,women / iits / iit / india,5,0.8,0.4,0.4
+topic_label,workers / data / security / digital,8,0.75,0.25,0.75

@@ -1,0 +1,802 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_09_front",
+ "source_file": "2025-01-09_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-09_front.png",
+ "date": "2025-01-09",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 502,
+  "mean_line_conf": 88.35985579369982,
+  "orphan_words": 24,
+  "body_words_total": 1886
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      747,
+      723,
+      782
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      788,
+      3197,
+      1140
+     ],
+     [
+      814,
+      1172,
+      2698,
+      1238
+     ]
+    ],
+    "deck_boxes": [
+     [
+      815,
+      696,
+      3121,
+      746
+     ]
+    ],
+    "body_boxes": [
+     [
+      811,
+      2292,
+      1145,
+      2361
+     ],
+     [
+      811,
+      2410,
+      1251,
+      2646
+     ],
+     [
+      1297,
+      2253,
+      1742,
+      2646
+     ],
+     [
+      1783,
+      2254,
+      2229,
+      2639
+     ]
+    ],
+    "layout_words": 122
+   },
+   "headline_raw": "Security concerns to trade via Chabahar:\nIndia and Taliban hold first top-level talks\nReady to respond to urgent developmental needs of Afghan people: MEA",
+   "deck_raw": "FOREIGN SECY MEETS AFGHANISTAN ACTING FOREIGN MINISTER IN DUBAI",
+   "body_raw": "SHUBHAJITROY\nNEW DELHI. JANUARY 8\n\nIN THE first high-level bilateral\nengagement with the Taliban\nregime, Foreign Secretary Vikram\nMisri met Afghanistan acting\nForeign Minister Amir Khan\nMuttaqi in Dubai Wednesday.\n\nSo far, an Indian official,atthe\nlevel of Joint Secretary, had been\nmeeting Taliban ministers, in-\ncluding Muttaqi, and Defence\nMinister Mohammed Yaqood.\nBut Misri\u2019s meeting is an up-\ngrade, signalling high-level offi-\ncial engagement from the Indian\ngovernment.\nAstatement fromthe Minstry\n\nof External Affairs said the wo\nSIGES GSCUSSECVallOUS issu per-\naNnig ib bilaleral etalon as well\nas regional developmens.\nBut it was not just a meet-\nand-greet sort of a meeting as it\ncovered a range of issues \u2014\nIndia\u2019s \u201csecurity concerns\u201d in\nAfghanistan, the need for India\nCONTINUED ON PAGE2",
+   "ocr_conf": 86.18852459016394,
+   "ocr_low_conf_share": 0.09016393442622951,
+   "headline": "Security concerns to trade via Chabahar: India and Taliban hold first top-level talks Ready to respond to urgent developmental needs of Afghan people: MEA",
+   "deck": "FOREIGN SECY MEETS AFGHANISTAN ACTING FOREIGN MINISTER IN DUBAI",
+   "byline": "SHUBHAJITROY; NEW DELHI. JANUARY 8",
+   "text": "IN THE first high-level bilateral engagement with the Taliban regime, Foreign Secretary Vikram Misri met Afghanistan acting Foreign Minister Amir Khan Muttaqi in Dubai Wednesday.\n\nSo far, an Indian official,atthe level of Joint Secretary, had been meeting Taliban ministers, including Muttaqi, and Defence Minister Mohammed Yaqood. But Misri's meeting is an upgrade, signalling high-level official engagement from the Indian government. Astatement fromthe Minstry\n\nof External Affairs said the wo SIGES GSCUSSECVallOUS issu peraNnig ib bilaleral etalon as well as regional developmens. But it was not just a meetand-greet sort of a meeting as it covered a range of issues - India's \"security concerns\" in Afghanistan, the need for India",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      771,
+      4164,
+      1281
+     ],
+     [
+      3249,
+      1332,
+      4131,
+      1463
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      697,
+      4179,
+      736
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      2294,
+      3587,
+      2363
+     ],
+     [
+      3248,
+      2413,
+      3693,
+      3202
+     ],
+     [
+      3738,
+      2256,
+      4180,
+      3155
+     ]
+    ],
+    "layout_words": 206
+   },
+   "headline_raw": "Pannun plot: In US\njail, Gupta says no\nvisit from embassy\nin seven months\nAll funds spent... have asked for US\ncounsel: Gupta to The Indian Express",
+   "deck_raw": "DENIES CHARGES, LINK WITH VIKASH YADAV",
+   "body_raw": "RITIKACHOPRA\nNEW DELHI. JANUARY 8\n\nNIKHIL GUPTA, the Indian na-\ntional indicted by the US\nDepartment of Justice for al-\nlegedly being involved in amur-\nder-for-hire plot against\nAmerican citizen and Sikh sepa-\nratist Gurpatwant Singh Pannun,\nhas told The Indian Express that\nin theseven months since hisex-\ntradition from the Czech\nRepublic to the US, nobody from\nthe Indian govemmenthascon-\ntacted himevenashis family has\n\u201craised several requests.\u201d\n\u201cSince I have been extradited\nto the US from Prague (on June\n14), [haven't received any con-\nsular access. Nobody has visited\nme from the Indianembassy.My\nfamily raised several requests for\n\nthe same; however, nobody has\nvisited me to date,\" he told this\nnewspaper.\nGupta, currently being held\nin the Metropolitan Detention\nCenter in Brooklyn, New York,\nwas responding to aset of ques-\ntions from The indian Express .His\nreplies were shared through an\nintermediary who has beenin\nregular contact with him.\nIncidentally, during his al-\nmost year-long detention in\nPrague, Gupta said, he received\nIndian consular access thrice,\nIn late 2023, Gupta\u2019s family\nhad approached the Supreme\nCourt in India seeking its inter-\nvention in his matter. The top\ncourt rejected the plea stating\nthat itisa \"sensitive\" matter and\nSaid it is for the \u201cgovernment to\ntakeaction\"\u201d",
+   "ocr_conf": 89.7135922330097,
+   "ocr_low_conf_share": 0.024271844660194174,
+   "headline": "Pannun plot: In US jail, Gupta says no visit from embassy in seven months All funds spent... have asked for US counsel: Gupta to The Indian Express",
+   "deck": "DENIES CHARGES, LINK WITH VIKASH YADAV",
+   "byline": "RITIKACHOPRA; NEW DELHI. JANUARY 8",
+   "text": "NIKHIL GUPTA, the Indian national indicted by the US Department of Justice for allegedly being involved in amurder-for-hire plot against American citizen and Sikh separatist Gurpatwant Singh Pannun, has told The Indian Express that in theseven months since hisextradition from the Czech Republic to the US, nobody from the Indian govemmenthascontacted himevenashis family has \"raised several requests.\" \"Since I have been extradited to the US from Prague (on June 14), [haven't received any consular access. Nobody has visited me from the Indianembassy.My family raised several requests for\n\nthe same; however, nobody has visited me to date,\" he told this newspaper. Gupta, currently being held in the Metropolitan Detention Center in Brooklyn, New York, was responding to aset of questions from The indian Express.His replies were shared through an intermediary who has beenin regular contact with him. Incidentally, during his almost year-long detention in Prague, Gupta said, he received Indian consular access thrice, In late 2023, Gupta's family had approached the Supreme Court in India seeking its intervention in his matter. The top court rejected the plea stating that itisa \"sensitive\" matter and Said it is for the \"government to takeaction\"\"",
+   "n_words": 190,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      415,
+      884,
+      689,
+      938
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Wow come MarufACuTing,\nhaar\u2019( doubled uth such",
+   "ocr_conf": 49.142857142857146,
+   "ocr_low_conf_share": 0.42857142857142855,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Wow come MarufACuTing, haar'( doubled uth such",
+   "n_words": 7,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      627,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1169,
+      3200,
+      1596
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      1661,
+      3098,
+      1730
+     ],
+     [
+      2765,
+      1780,
+      3208,
+      2125
+     ]
+    ],
+    "layout_words": 35
+   },
+   "headline_raw": "Region in flux\nand 5 reasons\nbehind Delhi\u2019s\ndecision to\nengage Kabul",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI. JANUARY8\n\nFOREIGN SECRETARY Vikram\nMisri's meeting with Taliban-\nruled Afghanistan's acting\nForeign Minister Amir Khan\nMuttaqi takes place at a time\na when the\nE Fo | geopolitics of\n= theregionisin\n= a state of flux.",
+   "ocr_conf": 82.75,
+   "ocr_low_conf_share": 0.125,
+   "headline": "Region in flux and 5 reasons behind Delhi's decision to engage Kabul",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI. JANUARY8",
+   "text": "FOREIGN SECRETARY Vikram Misri's meeting with Taliban-ruled Afghanistan's acting Foreign Minister Amir Khan Muttaqi takes place at a time a when the = theregionisin = a state of flux.",
+   "n_words": 29,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1444,
+      733,
+      1866
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      1937,
+      668,
+      2085
+     ],
+     [
+      321,
+      2134,
+      766,
+      3428
+     ]
+    ],
+    "layout_words": 161
+   },
+   "headline_raw": "NDA\u2019s JD(U),\nOpp raise\nquestions on\njoint polls as\nJPC meets",
+   "deck_raw": "",
+   "body_raw": "ASAD REHMAN,\nDEEPTIMAN TIWARY\n& DAMINI NATH\nNEW DELHL JANUARY 8\n\nTHEJD(U), anally ofthe BJP, and\nOpposition parties were said to\nhave raised = = questions\nWednesday on the feasibility\nand implementation of \u2018One\nNation One Election\u2019 during the\nfirst meeting of the Joint\nParliamentary Committee\nformed to study the Bill, intro-\nduced in the last session of\nParliament, for simultaneous\nelections in thecountry.\nWhile committee members\nfrom Opposition parties were\nSaid to have raised the issue of\nConstitutionality of the Bill and\nissues of federalism, BJP allies\nsuch as the JD (U) wanted to\nknow how the Bill would cut poll\nexpenses in case governments\nfall multipletimes in atenure.\nThe YSRCP had doubts over\nthe use of EVMs and was said to\nbe firming up a suggestion forre-\nverting to the ballot paper.\nParliamentary committee\nproceedings are privileged and\ndetails of exchanges between\nmembers during meetings are\nnot made public.\nThe committee, which has39\nmembers,is examining two Bills\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.88343558282209,
+   "ocr_low_conf_share": 0.0736196319018405,
+   "headline": "NDA's JD(U), Opp raise questions on joint polls as JPC meets",
+   "deck": "",
+   "byline": "ASAD REHMAN,; DEEPTIMAN TIWARY; & DAMINI NATH; NEW DELHL JANUARY 8",
+   "text": "THEJD(U), anally ofthe BJP, and Opposition parties were said to have raised = = questions Wednesday on the feasibility and implementation of 'One Nation One Election' during the first meeting of the Joint Parliamentary Committee formed to study the Bill, introduced in the last session of Parliament, for simultaneous elections in thecountry. While committee members from Opposition parties were Said to have raised the issue of Constitutionality of the Bill and issues of federalism, BJP allies such as the JD (U) wanted to know how the Bill would cut poll expenses in case governments fall multipletimes in atenure. The YSRCP had doubts over the use of EVMs and was said to be firming up a suggestion forreverting to the ballot paper. Parliamentary committee proceedings are privileged and details of exchanges between members during meetings are not made public. The committee, which has39 members,is examining two Bills",
+   "n_words": 146,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2916,
+      2138,
+      3148,
+      2184
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2177,
+      3204,
+      2640
+     ]
+    ],
+    "layout_words": 48
+   },
+   "headline_raw": "@| _. While",
+   "deck_raw": "",
+   "body_raw": "i_______| there is no\nmove yet to\ngrant official recognition to the\nTaliban government, thisisanef-\nfort by India to secure itsownna-\ntionaland securityinterestswith\nmany moving partsin play.\nFive key factors were behind\nIndia\u2019s move to engage at a\nhigher level: Taliban's benefac-\ntor and altyPakistan has become\nCONTINUED ON PAGE2",
+   "ocr_conf": 84.34,
+   "ocr_low_conf_share": 0.1,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "move yet to grant official recognition to the Taliban government, thisisaneffort by India to secure itsownnationaland securityinterestswith many moving partsin play. Five key factors were behind India's move to engage at a higher level: Taliban's benefactor and altyPakistan has become",
+   "n_words": 40,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      2390,
+      2701,
+      2602
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SHADOW OVER\nCHAMPIONS TROPHY\nAS UK CALLS FOR\nAFGHAN BOYCOTT\nPAGE 15",
+   "ocr_conf": 95.58333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "SHADOW OVER; CHAMPIONS TROPHY; AS UK CALLS FOR; AFGHAN BOYCOTT",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2791,
+      2699,
+      3041
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1490,
+      3130,
+      2031,
+      3184
+     ],
+     [
+      323,
+      3509,
+      736,
+      3562
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      3125,
+      1170,
+      3194
+     ],
+     [
+      807,
+      3243,
+      1252,
+      4308
+     ],
+     [
+      1387,
+      3750,
+      2135,
+      3969
+     ],
+     [
+      1354,
+      4160,
+      1799,
+      4228
+     ],
+     [
+      1835,
+      4161,
+      2176,
+      4269
+     ],
+     [
+      2272,
+      3087,
+      2715,
+      3787
+     ],
+     [
+      2272,
+      3799,
+      2717,
+      4301
+     ]
+    ],
+    "layout_words": 314
+   },
+   "headline_raw": "2036 Olympic bid takes pan-India route:\nAhmedabad, Bhubaneswar, Bhopal, Pune",
+   "deck_raw": "THE MANY HOSTCITIES\nEXPRESS NETWORK",
+   "body_raw": "MIHIRVASAVDA\nAHMEDABAD, JANUARY 8\n\nHOCKEY IN Bhubaneswar, row-\ning in Bhopal, canoeing and\nkayaking in Pune, cricket in\nMumbai.\nAlthough Ahmedabad re-\nmains the focal point of India's\nbid to host the 2036 Olympics,\nthere have been deliberations at\nmultiple levels in the govern-\nment and bureaucracy to make\nthe Games\"\u201ca movement for the\nfull country\u201d by taking some\nSports & cities outside Gujarat,\nThe Indian Express has leamt.\nWith India in \u201ccontinuousdi-\nalogue\u201d with the Intemational\nOlympic Council's Future Hosts\nCommission, after submitting a\nLetter of Intent to host the 2036\nOlympics last October, the pro-\nposal will soon be shared with\nthe global body.\n\u201cThis is something in the\nmaking. How the final picture\nwill look, none of us know right\nnow. We will make a plan and\npresent it to the LOC. Based on\n\nAHMEDABAD\nNARENDRA MOD! STADIUM:\nOpening end closing ceremonies\nSARDAR VALLASHBHAI PATEL SPORTS ENCLAVE:\nAquatics, tennis, volleyball, basketball\n\nBHUBANESWAR | BHOPAL :\nHockey i Rowing :\n\nPUNE : MUMBAI\nCanoeing =: Cricket\n&kayaking :\n\nthose conversations, decisions\nwill be taken,\u201d an official said.\n\u201cWe wantto take the sports to\nother parts of India and make\nit a movement for the full\ncountry.\u201d\nSports infrastructure projects\nworth over Rs 6,000 croreare in\nthe pipeline as Ahmedabad\nmounts an aggressive bid tohost\nthe Olympics Officials said these\nprojects \u201cwill goahead, irrespec-\ntive of whether India\u2019s bid for the\nGames is successful\u201d.\n\u2018The Olympicscan beamot-\nvating factor, but these are aimed\nfor the larger public good in\nterms of health and recreation as\n\nwell as making the city a desti-\nnation for intemational sports,\u201d\nthe official said.\nOne such ongoing project, set\ntobe opened toelite athletes and\nthe public in March, is the\nNaranpura Sports Complex here.\nSpread over 20.39 acres, the\nmulti-purpose facility \u2014 built at\nacost of approximately Rs63177\ncrore \u2014 will house an Olympic-\nsized indoor swimming pool,\nCONTINUED ONPAGE 2",
+   "ocr_conf": 86.7981072555205,
+   "ocr_low_conf_share": 0.08832807570977919,
+   "headline": "2036 Olympic bid takes pan-India route: Ahmedabad, Bhubaneswar, Bhopal, Pune",
+   "deck": "THE MANY HOSTCITIES EXPRESS NETWORK",
+   "byline": "MIHIRVASAVDA; AHMEDABAD, JANUARY 8",
+   "text": "HOCKEY IN Bhubaneswar, rowing in Bhopal, canoeing and kayaking in Pune, cricket in Mumbai. Although Ahmedabad remains the focal point of India's bid to host the 2036 Olympics, there have been deliberations at multiple levels in the government and bureaucracy to make the Games\"\"a movement for the full country\" by taking some Sports & cities outside Gujarat, The Indian Express has leamt. With India in \"continuousdialogue\" with the Intemational Olympic Council's Future Hosts Commission, after submitting a Letter of Intent to host the 2036 Olympics last October, the proposal will soon be shared with the global body. \"This is something in the making. How the final picture will look, none of us know right now. We will make a plan and present it to the LOC. Based on\n\nAHMEDABAD NARENDRA MOD! STADIUM: Opening end closing ceremonies SARDAR VALLASHBHAI PATEL SPORTS ENCLAVE: Aquatics, tennis, volleyball, basketball\n\nBHUBANESWAR BHOPAL: Hockey i Rowing:\n\nPUNE: MUMBAI Canoeing =: Cricket &kayaking:\n\nthose conversations, decisions will be taken,\" an official said. \"We wantto take the sports to other parts of India and make it a movement for the full country.\" Sports infrastructure projects worth over Rs 6,000 croreare in the pipeline as Ahmedabad mounts an aggressive bid tohost the Olympics Officials said these projects \"will goahead, irrespective of whether India's bid for the Games is successful\". 'The Olympicscan beamotvating factor, but these are aimed for the larger public good in terms of health and recreation as\n\nwell as making the city a destination for intemational sports,\" the official said. One such ongoing project, set tobe opened toelite athletes and the public in March, is the Naranpura Sports Complex here. Spread over 20.39 acres, the multi-purpose facility - built at acost of approximately Rs63177 crore - will house an Olympic-sized indoor swimming pool,",
+   "n_words": 296,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2792,
+      3159,
+      3203
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      3877,
+      3096,
+      3946
+     ],
+     [
+      2761,
+      3996,
+      3205,
+      4577
+     ],
+     [
+      2760,
+      4590,
+      3204,
+      5171
+     ]
+    ],
+    "layout_words": 135
+   },
+   "headline_raw": "India hands\nover defence\nequipment\nand stores to\nthe Maldives",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, JANUARY 8\n\nINDIA \u201cHANDED over defence\nequipment and stores to the\nMakdives\u201d and Defence Ministers\nRajnath Singh and Mohamed\nGhassan Maumoon met in New\nDelhi Wednesday as the two\ncountries moved to restore ties\nafter a hiatus that spread rancour\nin the twocapitals.\nSingh and Maumoon held\ntalks to \u201cdeepen defence coop-\neration\u201d, \u201cenhance capability of\nthe Maldives National Defence\nForces\" and \u201cadd new vigour\"\ntoties.\n\nMaumoon, 44, isthe younger\nson of former Maldives President\nMaumoon Abdul Gayoom who\nruled the country for three\ndecades. He had served inthe\nPresidency of hisuncle, Abdulla\nYameen Abdul Gayoom, as State\nminister at the President's office\nand later at Social Affairs.\nYameen led the \u2018India Out\u2019 cam-\npaign whicheventually brought\nMohamed Muizzu to powerin\nNovember 2023, and ties with\nIndia headed south shortly\nthereafter.",
+   "ocr_conf": 92.17037037037036,
+   "ocr_low_conf_share": 0.014814814814814815,
+   "headline": "India hands over defence equipment and stores to the Maldives",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, JANUARY 8",
+   "text": "INDIA \"HANDED over defence equipment and stores to the Makdives\" and Defence Ministers Rajnath Singh and Mohamed Ghassan Maumoon met in New Delhi Wednesday as the two countries moved to restore ties after a hiatus that spread rancour in the twocapitals. Singh and Maumoon held talks to \"deepen defence cooperation\", \"enhance capability of the Maldives National Defence Forces\" and \"add new vigour\" toties.\n\nMaumoon, 44, isthe younger son of former Maldives President Maumoon Abdul Gayoom who ruled the country for three decades. He had served inthe Presidency of hisuncle, Abdulla Yameen Abdul Gayoom, as State minister at the President's office and later at Social Affairs. Yameen led the 'India Out' campaign whicheventually brought Mohamed Muizzu to powerin November 2023, and ties with India headed south shortly thereafter.",
+   "n_words": 127,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3266,
+      4143,
+      3613
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3247,
+      4353,
+      3635,
+      4461
+     ],
+     [
+      3243,
+      4511,
+      3693,
+      5214
+     ],
+     [
+      3734,
+      4314,
+      4185,
+      5106
+     ],
+     [
+      3737,
+      5105,
+      4178,
+      5214
+     ]
+    ],
+    "layout_words": 198
+   },
+   "headline_raw": "Six killed, dozens\ninjured in stampede\nover Tirupati tokens",
+   "deck_raw": "",
+   "body_raw": "RAHUL V PISHARODY &\nSREENIVAS JANYALA\nHYDERABAD. JANUARY 8\n\nAT LEAST six people were killed\nand dozens injured in astam-\npede in Andhra Pradesh's\nTirupati on Wednesdayevening.\nAtleast three of the victims are\nwomen, and manyof the injured\npilgrims are from Tamil Nadu. At\nleast 30people have been rushed\nto the Ruia Hospital for treatment\nwith serious injuries.\nTheAndhraPradesh govern-\nmenthas ordered an inquiry into\nthe incident. The Tirumala\nTirupati Devasthanam (TTD),\nwhich manages the affairsat the\ntemple, had arranged for special\ncounters to issue tokens for dar-\nshan on the occasion of the\n\nVaikunta Ekadasi festival on\nJanuary 9.\nThe tokens for the darstian of\nLord Venkateswara were being\ndistributed at the MGM High\nSchool at Bairagipatteda in\nTirupati, located close to the\nVishnu Nivasam temple.\nThousands of devotees seeking\nthe tokens started gathering at\nthe counters on Wednesday\nmoming, and by evening, there\nwasalready pushing and jostling.\nBR Naidu, TTD chairman,\nSaid the siainpede was i iggered\nwhen the gate was opened to let\nout a woman who was feeling\nuneasy, but the gathered devo-\ntees pushed in all at once.\nChief Minister\n\nN Chandrababu Naidu said he is\nsaddened at the \u201cghastly\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.08040201005025,
+   "ocr_low_conf_share": 0.08040201005025126,
+   "headline": "Six killed, dozens injured in stampede over Tirupati tokens",
+   "deck": "",
+   "byline": "RAHUL V PISHARODY &; SREENIVAS JANYALA; HYDERABAD. JANUARY 8",
+   "text": "AT LEAST six people were killed and dozens injured in astampede in Andhra Pradesh's Tirupati on Wednesdayevening. Atleast three of the victims are women, and manyof the injured pilgrims are from Tamil Nadu. At least 30people have been rushed to the Ruia Hospital for treatment with serious injuries. TheAndhraPradesh govern-menthas ordered an inquiry into the incident. The Tirumala Tirupati Devasthanam (TTD), which manages the affairsat the temple, had arranged for special counters to issue tokens for darshan on the occasion of the\n\nVaikunta Ekadasi festival on January 9. The tokens for the darstian of Lord Venkateswara were being distributed at the MGM High School at Bairagipatteda in Tirupati, located close to the Vishnu Nivasam temple. Thousands of devotees seeking the tokens started gathering at the counters on Wednesday moming, and by evening, there wasalready pushing and jostling. BR Naidu, TTD chairman, Said the siainpede was i iggered when the gate was opened to let out a woman who was feeling uneasy, but the gathered devotees pushed in all at once. Chief Minister\n\nN Chandrababu Naidu said he is saddened at the \"ghastly",
+   "n_words": 182,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      1579,
+      3976,
+      1945,
+      4031
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1624,
+      4197,
+      1799,
+      4229
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "KARAL: Athietics, shooting",
+   "deck_raw": "",
+   "body_raw": "i; Rowing |",
+   "ocr_conf": 52.666666666666664,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "KARAL: Athietics, shooting",
+   "deck": "",
+   "byline": "",
+   "text": "i; Rowing",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4121,
+      676,
+      4176
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      4188,
+      638,
+      4266
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "ISRO POSTPONES",
+   "deck_raw": "",
+   "body_raw": "DOCKING AGAIN\nPAGES 10, 12",
+   "ocr_conf": 87.8,
+   "ocr_low_conf_share": 0.0,
+   "headline": "ISRO POSTPONES",
+   "deck": "",
+   "byline": "DOCKING AGAIN",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4372,
+      1234,
+      4671
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4747,
+      703,
+      4816
+     ],
+     [
+      319,
+      4865,
+      761,
+      5219
+     ],
+     [
+      806,
+      4708,
+      1253,
+      5211
+     ]
+    ],
+    "layout_words": 102
+   },
+   "headline_raw": "As Justice Yadav digs in\nheels, CJI asks Allahabad\nHC for a fresh report",
+   "deck_raw": "",
+   "body_raw": "APURVAVISHWANATH\nNEW DELHI, JANUARY 8\n\nTHREE WEEKS after Allahabad\nHigh Court's Justice Shekhar\nYadav was summoned by the\nSupreme Court Collegium over\nhis remarks targeting Muslims\nat a Vishwa Hindu Parishad\nevent, the Chief Justice of India\nhas taken further steps, The\nIndian Express has leamt.\n\nChief Justice of India Sanjiv\nKhanna, itis learnt, has written\nto Allahabad High Court Chief\nJustice Arun Bhansali, seeking a\nfresh report on the issue.\nOn December 17, the\nCollegium headed byCjl Khanna\nhad met Justice Yadav and\nsought anexplanation However,\nsincethe meeting, Justice Yadav\nhasdughis heelsin and no apol-\nogy or explanation has been\nCONTINUEDONPAGE2",
+   "ocr_conf": 92.97058823529412,
+   "ocr_low_conf_share": 0.029411764705882353,
+   "headline": "As Justice Yadav digs in heels, CJI asks Allahabad HC for a fresh report",
+   "deck": "",
+   "byline": "APURVAVISHWANATH; NEW DELHI, JANUARY 8",
+   "text": "THREE WEEKS after Allahabad High Court's Justice Shekhar Yadav was summoned by the Supreme Court Collegium over his remarks targeting Muslims at a Vishwa Hindu Parishad event, the Chief Justice of India has taken further steps, The Indian Express has leamt.\n\nChief Justice of India Sanjiv Khanna, itis learnt, has written to Allahabad High Court Chief Justice Arun Bhansali, seeking a fresh report on the issue. On December 17, the Collegium headed byCjl Khanna had met Justice Yadav and sought anexplanation However, sincethe meeting, Justice Yadav hasdughis heelsin and no apology or explanation has been CONTINUEDONPAGE2",
+   "n_words": 96,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      4373,
+      2578,
+      4577
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      4630,
+      1647,
+      4699
+     ],
+     [
+      1296,
+      4749,
+      1737,
+      5212
+     ]
+    ],
+    "layout_words": 66
+   },
+   "headline_raw": "As tent city rises along Ganga for\nMaha Kumbh, a race against time",
+   "deck_raw": "",
+   "body_raw": "ANAND MOHAN J\nPRAYAGRAJ. JANUARY 8\n\nEVERY FEW years, a sprawling\ntemporary city is conjured on\nthe banks of the Ganga in\nPrayagraj, Uttar Pradesh, com-\nplete with roads, toilets, pontoon\nbridges and tents, to host mil-\nlions of pilgrims \u2014 only to van-\nish within weeks,\nThe Maha Kumbh, hailed as\nthe \u2018largest gatheringof human-\nity on Earth\u201d is set & commence\nCONTINUEDON PAGE 2",
+   "ocr_conf": 90.10606060606061,
+   "ocr_low_conf_share": 0.030303030303030304,
+   "headline": "As tent city rises along Ganga for Maha Kumbh, a race against time",
+   "deck": "",
+   "byline": "ANAND MOHAN J; PRAYAGRAJ. JANUARY 8",
+   "text": "EVERY FEW years, a sprawling temporary city is conjured on the banks of the Ganga in Prayagraj, Uttar Pradesh, complete with roads, toilets, pontoon bridges and tents, to host millions of pilgrims - only to vanish within weeks, The Maha Kumbh, hailed as the 'largest gatheringof humanity on Earth\" is set & commence CONTINUEDON PAGE 2",
+   "n_words": 56,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      5345,
+      4057,
+      5476
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5499,
+      499,
+      5573
+     ],
+     [
+      319,
+      5698,
+      726,
+      5767
+     ],
+     [
+      316,
+      5816,
+      760,
+      6159
+     ],
+     [
+      805,
+      5499,
+      1249,
+      6167
+     ],
+     [
+      1294,
+      5499,
+      1736,
+      6167
+     ],
+     [
+      2756,
+      5501,
+      3202,
+      6169
+     ],
+     [
+      3245,
+      5501,
+      3691,
+      6169
+     ],
+     [
+      3733,
+      5501,
+      4178,
+      6162
+     ]
+    ],
+    "layout_words": 438
+   },
+   "headline_raw": "Zeenat secured, now West Bengal and Odisha step on the tiger\u2019s tale",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nSUJIT BISOYI\nBHUBANESWAR, JANUARY 8\n\nZEENAT, THE wandering tigress\nwho left a 300-km trail behind\nher, is no couch potato. Well, she\nis no potato at all, Odisha has\nlashed out, in response to West\nBengal chief Minister Mamata\nBanerjee's criticism of the state\nover the three-year-old entering\nits state lines.\n\nMamata\u2019s remarks on\nMonday followed reports ofan-\nother tiger sighting close to the\nBengal-Jharkhand border. Her\ngrouse was that despite the\nBengal Forest Department's ef-\nforts in capturing Zeenat, the\nBJP-ruled Odisha government\nhad not shown gratitude.\nZeenat had lefta trail of panic\nacross five Bengal districts,\nMamata said, \u201cpeople could not\nleave their homes, schook had to\nbe closed\u201d... \u201cLater, they say, give\nback the tiger... Ifyou do not have\nspace, let us know. We will keep\nthe ter forever inour reserves\u201d\n\nAbout the new tiger spotting, she\nsaid: \u201cThrough the Chief Secretary,\nIwill ask the Odisha govemment\ntocome and rescueit.\u201d\nOdisha _\u2014_\u2014 Forest and\nEnvironment Minister Ganesh\nRam Singhkhuntia said Mamata\nwas being \u201cimmature\u201d and\ncalled her \u201coutrage\u201d political as\nthe BJP was in power in\nBhubaneswar. \u201cHer statement\nthat Odisha does not have ade-\nquate forests reflects her igno-\nrance asaround 39% of our total\ngeographical area comprises\nforests,\u201d Singhkhuntia told The\nIndian Express.\n\nPointing out that Zeenat,\nwho was brought from Tadoba-\nAndhari Tiger Reserve in\nMaharashtrain November to di-\nversify Odisha\u2019s genepool, had\nbeen released in Similipal's\nnorth division, from where she\nfirst crossed into Jharkhand, he\nsaid: \u201cDo animals know geo-\ngraphical boundaries? How can\nwe confine animals by geo-\ngraphical boundaries?.. Have we\never made anissueofelephants\nfrom Bengal entering Odisha?\nWild animals are free to move\nanywhere they want to.\u201d\nThe minister said he appreci-\n\nated the Bengal administration's\n\u201ccooperation\u201d in capturing\nZeenat, but that a team from\nSimilipal had also been closely\ntracking hermovement.\nAs per official sources, what\nmay have \u201cupset\u201d the West\nBengal administration and \u201cpro-\nvoked\" Mamata\u2019s reaction was\nthe letter sent by the National\nTiger Conservation Authority\n(NTCA)}on December 30, asking\nwhy Zeenat had been shifted to\nAlipore Zoo after capture instead\nof being translocated to Similipal\nas per the NTCA's SoP.\nQdisha Principal Chief\n\nConservator of Forests(Wildlife)\nseparately wrote to his Bengal\ncounterpart to immediately\nsend the tigress back to Similipal.\nA senior state Forest\nDepartment official said Odisha\nwas right in what it did. \u201cWe\nknow tigers will venture out as\nanimals are not supposed to\nknow geographical borders. We\nmade efforts to bring back\nZeenat asithad been broughtto\nSimilipal for a special purpose\n(diversifying the genepool) un-\nder the supervisionof the NTCA.\nThe Bengal administration\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.1917808219178,
+   "ocr_low_conf_share": 0.02968036529680365,
+   "headline": "Zeenat secured, now West Bengal and Odisha step on the tiger's tale",
+   "deck": "",
+   "byline": "ANCHOR; SUJIT BISOYI; BHUBANESWAR, JANUARY 8",
+   "text": "ZEENAT, THE wandering tigress who left a 300-km trail behind her, is no couch potato. Well, she is no potato at all, Odisha has lashed out, in response to West Bengal chief Minister Mamata Banerjee's criticism of the state over the three-year-old entering its state lines.\n\nMamata's remarks on Monday followed reports ofanother tiger sighting close to the Bengal-Jharkhand border. Her grouse was that despite the Bengal Forest Department's efforts in capturing Zeenat, the BJP-ruled Odisha government had not shown gratitude. Zeenat had lefta trail of panic across five Bengal districts, Mamata said, \"people could not leave their homes, schook had to be closed\"... \"Later, they say, give back the tiger... Ifyou do not have space, let us know. We will keep the ter forever inour reserves\"\n\nAbout the new tiger spotting, she said: \"Through the Chief Secretary, Iwill ask the Odisha govemment tocome and rescueit.\" Odisha _ - _ - Forest and Environment Minister Ganesh Ram Singhkhuntia said Mamata was being \"immature\" and called her \"outrage\" political as the BJP was in power in Bhubaneswar. \"Her statement that Odisha does not have adequate forests reflects her ignorance asaround 39% of our total geographical area comprises forests,\" Singhkhuntia told The Indian Express.\n\nPointing out that Zeenat, who was brought from Tadoba-Andhari Tiger Reserve in Maharashtrain November to diversify Odisha's genepool, had been released in Similipal's north division, from where she first crossed into Jharkhand, he said: \"Do animals know geographical boundaries? How can we confine animals by geographical boundaries?.. Have we ever made anissueofelephants from Bengal entering Odisha? Wild animals are free to move anywhere they want to.\" The minister said he appreciated the Bengal administration's \"cooperation\" in capturing Zeenat, but that a team from Similipal had also been closely tracking hermovement. As per official sources, what may have \"upset\" the West Bengal administration and \"provoked\" Mamata's reaction was the letter sent by the National Tiger Conservation Authority (NTCA)}on December 30, asking why Zeenat had been shifted to Alipore Zoo after capture instead of being translocated to Similipal as per the NTCA's SoP. Qdisha Principal Chief\n\nConservator of Forests(Wildlife) separately wrote to his Bengal counterpart to immediately send the tigress back to Similipal. A senior state Forest Department official said Odisha was right in what it did. \"We know tigers will venture out as animals are not supposed to know geographical borders. We made efforts to bring back Zeenat asithad been broughtto Similipal for a special purpose (diversifying the genepool) under the supervisionof the NTCA. The Bengal administration",
+   "n_words": 418,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.9,
+ "flags": []
+}

@@ -1,0 +1,664 @@
+page_id,source_file,date,page_type,articles_kept,candidates,dropped_short,dropped_duplicate,words_kept,mean_ocr_conf,skew_deg,photos_removed,unreliable,flags
+2025_01_01_editorial,2025-01-01_editorial.png,2025-01-01,editorial,6,8,0,2,3211,90.3,-0.05,0,False,
+2025_01_01_front,2025-01-01_front.png,2025-01-01,front,10,17,7,0,1829,88.9,-0.05,9,False,
+2025_01_02_editorial,2025-01-02_editorial.png,2025-01-02,editorial,7,10,2,1,3148,88.4,-0.05,1,False,
+2025_01_02_front,2025-01-02_front.png,2025-01-02,front,10,16,6,0,1909,89.0,-0.05,5,False,
+2025_01_03_editorial,2025-01-03_editorial.png,2025-01-03,editorial,10,16,6,0,2996,86.4,-0.05,2,True,1 kept article(s) without a headline
+2025_01_03_front,2025-01-03_front.png,2025-01-03,front,11,14,3,0,1816,88.8,-0.05,7,False,
+2025_01_04_editorial,2025-01-04_editorial.png,2025-01-04,editorial,6,7,1,0,3110,87.8,-0.05,1,False,
+2025_01_04_front,2025-01-04_front.png,2025-01-04,front,4,10,6,0,454,89.4,-0.05,4,False,
+2025_01_05_front,2025-01-05_front.png,2025-01-05,front,7,9,2,0,1297,86.7,-0.05,16,False,
+2025_01_06_editorial,2025-01-06_editorial.png,2025-01-06,editorial,7,7,0,0,2736,88.8,-0.05,1,False,
+2025_01_06_front,2025-01-06_front.png,2025-01-06,front,10,17,7,0,1730,86.8,-0.05,10,False,
+2025_01_07_editorial,2025-01-07_editorial.png,2025-01-07,editorial,8,8,0,0,3082,86.6,-0.05,0,False,
+2025_01_07_front,2025-01-07_front.png,2025-01-07,front,12,20,8,0,1731,86.8,-0.05,4,False,
+2025_01_08_editorial,2025-01-08_editorial.png,2025-01-08,editorial,7,7,0,0,3087,88.8,-0.05,1,False,
+2025_01_08_front,2025-01-08_front.png,2025-01-08,front,10,17,7,0,1473,88.9,-0.05,8,False,
+2025_01_09_editorial,2025-01-09_editorial.png,2025-01-09,editorial,8,9,1,0,3177,88.7,-0.05,1,False,
+2025_01_09_front,2025-01-09_front.png,2025-01-09,front,9,17,8,0,1620,89.6,-0.05,8,False,
+2025_01_10_editorial,2025-01-10_editorial.png,2025-01-10,editorial,8,10,2,0,3231,87.0,-0.05,1,True,1 kept article(s) without a headline
+2025_01_10_front,2025-01-10_front.png,2025-01-10,front,6,10,4,0,1108,88.8,-0.05,6,False,
+2025_01_11_editorial,2025-01-11_editorial.png,2025-01-11,editorial,12,19,7,0,2749,88.2,-0.05,0,False,
+2025_01_11_front,2025-01-11_front.png,2025-01-11,front,7,13,6,0,1200,89.6,-0.05,10,False,
+2025_01_12_front,2025-01-12_front.png,2025-01-12,front,10,16,6,0,1699,89.4,-0.05,6,False,
+2025_01_13_editorial,2025-01-13_editorial.png,2025-01-13,editorial,5,7,2,0,2904,86.0,-0.05,0,False,
+2025_01_13_front,2025-01-13_front.png,2025-01-13,front,8,13,5,0,1806,88.3,-0.05,6,False,
+2025_01_14_editorial,2025-01-14_editorial.png,2025-01-14,editorial,7,7,0,0,3149,87.9,-0.05,2,False,
+2025_01_14_front,2025-01-14_front.png,2025-01-14,front,6,7,1,0,645,87.1,-0.05,5,False,
+2025_01_15_editorial,2025-01-15_editorial.png,2025-01-15,editorial,10,17,7,0,3083,88.6,-0.05,0,True,3 kept article(s) without a headline
+2025_01_15_front,2025-01-15_front.png,2025-01-15,front,4,12,8,0,303,87.7,-0.05,7,False,
+2025_01_16_editorial,2025-01-16_editorial.png,2025-01-16,editorial,9,11,2,0,2976,86.6,-0.05,1,True,2 kept article(s) without a headline
+2025_01_16_front,2025-01-16_front.png,2025-01-16,front,9,14,5,0,1774,88.7,-0.05,7,False,
+2025_01_17_editorial,2025-01-17_editorial.png,2025-01-17,editorial,9,11,2,0,3209,88.0,-0.05,0,True,1 kept article(s) without a headline
+2025_01_17_front,2025-01-17_front.png,2025-01-17,front,7,12,5,0,486,88.0,-0.05,10,False,
+2025_01_18_editorial,2025-01-18_editorial.png,2025-01-18,editorial,7,8,1,0,2980,88.5,-0.05,0,False,
+2025_01_18_front,2025-01-18_front.png,2025-01-18,front,6,11,5,0,737,88.5,-0.05,6,True,1 kept article(s) without a headline
+2025_01_19_front,2025-01-19_front.png,2025-01-19,front,6,9,3,0,605,87.8,-0.05,7,False,
+2025_01_20_editorial,2025-01-20_editorial.png,2025-01-20,editorial,8,13,5,0,2659,86.6,-0.05,1,True,2 kept article(s) without a headline
+2025_01_20_front,2025-01-20_front.png,2025-01-20,front,8,13,5,0,897,87.6,-0.05,11,False,
+2025_01_21_editorial,2025-01-21_editorial.png,2025-01-21,editorial,7,7,0,0,3148,88.0,-0.05,2,False,
+2025_01_21_front,2025-01-21_front.png,2025-01-21,front,9,14,5,0,1533,88.6,-0.05,6,False,
+2025_01_22_editorial,2025-01-22_editorial.png,2025-01-22,editorial,11,11,0,0,2773,86.5,-0.05,3,False,
+2025_01_22_front,2025-01-22_front.png,2025-01-22,front,10,13,3,0,1619,89.5,-0.05,7,False,
+2025_01_23_editorial,2025-01-23_editorial.png,2025-01-23,editorial,12,17,5,0,2871,86.6,-0.05,2,False,
+2025_01_23_front,2025-01-23_front.png,2025-01-23,front,9,13,4,0,1556,89.5,-0.05,6,False,
+2025_01_24_editorial,2025-01-24_editorial.png,2025-01-24,editorial,15,19,4,0,3006,88.6,-0.05,0,True,2 kept article(s) without a headline
+2025_01_24_front,2025-01-24_front.png,2025-01-24,front,9,15,6,0,1677,89.9,-0.05,9,False,
+2025_01_25_editorial,2025-01-25_editorial.png,2025-01-25,editorial,7,7,0,0,3076,86.0,-0.05,0,False,
+2025_01_25_front,2025-01-25_front.png,2025-01-25,front,11,12,1,0,1478,88.2,-0.05,7,False,
+2025_01_26_front,2025-01-26_front.png,2025-01-26,front,2,7,5,0,240,85.2,-0.05,5,True,one article holds most of the page text - possible merge
+2025_01_28_editorial,2025-01-28_editorial.png,2025-01-28,editorial,11,13,2,0,3096,87.7,-0.05,1,True,5 kept article(s) without a headline
+2025_01_28_front,2025-01-28_front.png,2025-01-28,front,11,19,8,0,1656,89.8,-0.05,9,True,1 kept article(s) without a headline
+2025_01_29_editorial,2025-01-29_editorial.png,2025-01-29,editorial,6,6,0,0,3047,87.5,-0.05,0,False,
+2025_01_29_front,2025-01-29_front.png,2025-01-29,front,12,20,8,0,1589,87.4,-0.05,10,False,
+2025_01_30_editorial,2025-01-30_editorial.png,2025-01-30,editorial,9,11,2,0,3053,87.5,-0.05,1,True,2 kept article(s) without a headline
+2025_01_30_front,2025-01-30_front.png,2025-01-30,front,9,14,5,0,1225,86.9,-0.05,7,True,1 kept article(s) without a headline
+2025_01_31_editorial,2025-01-31_editorial.png,2025-01-31,editorial,7,8,1,0,3138,87.6,-0.05,1,False,
+2025_01_31_front,2025-01-31_front.png,2025-01-31,front,7,10,3,0,791,88.5,-0.05,7,False,
+2025_02_01_editorial,2025-02-01_editorial.png,2025-02-01,editorial,6,6,0,0,3277,88.0,-0.05,1,True,1 kept article(s) without a headline
+2025_02_01_front,2025-02-01_front.png,2025-02-01,front,11,17,6,0,1744,88.6,-0.05,7,True,1 kept article(s) without a headline
+2025_02_02_front,2025-02-02_front.png,2025-02-02,front,4,8,4,0,442,87.1,-0.05,5,False,
+2025_02_03_editorial,2025-02-03_editorial.png,2025-02-03,editorial,6,8,1,1,2721,87.2,-0.05,2,True,1 kept article(s) without a headline
+2025_02_03_front,2025-02-03_front.png,2025-02-03,front,9,12,3,0,968,88.7,-0.05,8,False,
+2025_02_04_editorial,2025-02-04_editorial.png,2025-02-04,editorial,12,14,2,0,3068,88.2,-0.05,1,True,3 kept article(s) without a headline
+2025_02_04_front,2025-02-04_front.png,2025-02-04,front,10,21,11,0,1591,88.9,-0.05,7,False,
+2025_02_05_editorial,2025-02-05_editorial.png,2025-02-05,editorial,7,7,0,0,3117,87.1,-0.05,0,False,
+2025_02_05_front,2025-02-05_front.png,2025-02-05,front,8,18,10,0,653,90.4,-0.05,6,True,2 kept article(s) without a headline
+2025_02_06_editorial,2025-02-06_editorial.png,2025-02-06,editorial,8,10,2,0,3252,89.0,-0.05,0,True,2 kept article(s) without a headline
+2025_02_06_front,2025-02-06_front.png,2025-02-06,front,7,12,5,0,895,88.7,-0.05,11,False,
+2025_02_07_editorial,2025-02-07_editorial.png,2025-02-07,editorial,10,14,4,0,3086,86.9,-0.05,2,True,3 kept article(s) without a headline
+2025_02_07_front,2025-02-07_front.png,2025-02-07,front,10,16,6,0,1722,88.9,-0.05,8,False,
+2025_02_08_editorial,2025-02-08_editorial.png,2025-02-08,editorial,15,20,5,0,2831,86.8,-0.05,1,True,2 kept article(s) without a headline
+2025_02_08_front,2025-02-08_front.png,2025-02-08,front,8,17,9,0,1153,88.3,-0.05,15,False,
+2025_02_09_front,2025-02-09_front.png,2025-02-09,front,6,17,11,0,1006,87.5,-0.05,11,True,1 kept article(s) without a headline
+2025_02_10_editorial,2025-02-10_editorial.png,2025-02-10,editorial,7,10,3,0,2728,87.8,-0.05,3,True,2 kept article(s) without a headline
+2025_02_10_front,2025-02-10_front.png,2025-02-10,front,6,10,4,0,608,88.5,-0.05,4,False,
+2025_02_11_editorial,2025-02-11_editorial.png,2025-02-11,editorial,9,13,4,0,3181,88.0,-0.05,1,True,27% of body text had no headline above it; 3 kept article(s) without a headline
+2025_02_11_front,2025-02-11_front.png,2025-02-11,front,7,12,5,0,636,89.9,-0.05,3,False,
+2025_02_12_editorial,2025-02-12_editorial.png,2025-02-12,editorial,6,7,1,0,3088,87.2,-0.05,2,False,
+2025_02_12_front,2025-02-12_front.png,2025-02-12,front,8,16,8,0,771,89.3,-0.05,3,False,
+2025_02_13_editorial,2025-02-13_editorial.png,2025-02-13,editorial,7,10,3,0,2912,88.2,-0.05,1,False,
+2025_02_13_front,2025-02-13_front.png,2025-02-13,front,14,17,3,0,1952,88.1,-0.05,4,False,
+2025_02_14_editorial,2025-02-14_editorial.png,2025-02-14,editorial,7,7,0,0,3045,88.1,-0.05,1,True,1 kept article(s) without a headline
+2025_02_14_front,2025-02-14_front.png,2025-02-14,front,10,14,4,0,1911,89.0,-0.05,5,False,
+2025_02_15_editorial,2025-02-15_editorial.png,2025-02-15,editorial,11,13,2,0,2797,87.9,-0.05,1,False,
+2025_02_15_front,2025-02-15_front.png,2025-02-15,front,11,16,5,0,1605,88.7,-0.05,3,True,2 kept article(s) without a headline
+2025_02_16_front,2025-02-16_front.png,2025-02-16,front,9,9,0,0,1880,89.3,-0.05,8,False,
+2025_02_17_editorial,2025-02-17_editorial.png,2025-02-17,editorial,9,17,8,0,2874,88.1,-0.05,0,True,4 kept article(s) without a headline
+2025_02_17_front,2025-02-17_front.png,2025-02-17,front,6,12,6,0,817,87.2,-0.05,8,False,
+2025_02_18_editorial,2025-02-18_editorial.png,2025-02-18,editorial,11,13,2,0,3055,88.8,-0.05,0,True,3 kept article(s) without a headline
+2025_02_18_front,2025-02-18_front.png,2025-02-18,front,9,15,6,0,1669,89.5,-0.05,6,False,
+2025_02_19_editorial,2025-02-19_editorial.png,2025-02-19,editorial,15,18,3,0,3109,88.0,-0.05,0,True,1 kept article(s) without a headline
+2025_02_19_front,2025-02-19_front.png,2025-02-19,front,6,11,5,0,723,89.1,-0.05,5,False,
+2025_02_20_editorial,2025-02-20_editorial.png,2025-02-20,editorial,8,12,4,0,3002,88.7,-0.05,1,True,2 kept article(s) without a headline
+2025_02_20_front,2025-02-20_front.png,2025-02-20,front,12,15,3,0,1916,89.6,-0.05,6,False,
+2025_02_21_editorial,2025-02-21_editorial.png,2025-02-21,editorial,8,11,3,0,3035,89.4,-0.05,1,True,1 kept article(s) without a headline
+2025_02_21_front,2025-02-21_front.png,2025-02-21,front,10,13,3,0,2133,89.0,-0.05,7,False,
+2025_02_22_editorial,2025-02-22_editorial.png,2025-02-22,editorial,9,11,2,0,3240,88.2,-0.05,1,True,1 kept article(s) without a headline
+2025_02_22_front,2025-02-22_front.png,2025-02-22,front,12,16,4,0,1610,90.5,-0.05,7,True,1 kept article(s) without a headline
+2025_02_23_front,2025-02-23_front.png,2025-02-23,editorial,7,11,4,0,1182,90.8,-0.05,8,True,1 kept article(s) without a headline
+2025_02_24_editorial,2025-02-24_editorial.png,2025-02-24,editorial,6,7,1,0,2686,89.1,-0.05,2,False,
+2025_02_24_front,2025-02-24_front.png,2025-02-24,front,9,15,6,0,1449,88.3,-0.05,9,False,
+2025_02_25_editorial,2025-02-25_editorial.png,2025-02-25,editorial,6,6,0,0,3059,86.9,-0.05,1,False,
+2025_02_25_front,2025-02-25_front.png,2025-02-25,front,10,15,5,0,1306,88.9,-0.05,8,False,
+2025_02_26_editorial,2025-02-26_editorial.png,2025-02-26,editorial,9,13,4,0,3190,88.5,-0.05,2,True,3 kept article(s) without a headline
+2025_02_26_front,2025-02-26_front.png,2025-02-26,front,9,18,9,0,1781,88.2,-0.05,6,False,
+2025_02_27_editorial,2025-02-27_editorial.png,2025-02-27,editorial,7,9,2,0,3189,87.9,-0.05,1,False,
+2025_02_27_front,2025-02-27_front.png,2025-02-27,front,6,11,5,0,761,90.9,-0.05,5,False,
+2025_02_28_editorial,2025-02-28_editorial.png,2025-02-28,editorial,6,8,2,0,3002,88.6,-0.05,2,False,
+2025_02_28_front,2025-02-28_front.png,2025-02-28,front,5,11,6,0,785,88.9,-0.05,5,False,
+2025_03_01_editorial,2025-03-01_editorial.png,2025-03-01,editorial,7,7,0,0,3146,88.1,-0.05,0,False,
+2025_03_01_front,2025-03-01_front.png,2025-03-01,front,5,6,1,0,506,88.6,-0.05,5,False,
+2025_03_02_front,2025-03-02_front.png,2025-03-02,front,9,12,3,0,1457,88.5,-0.05,10,False,
+2025_03_03_editorial,2025-03-03_editorial.png,2025-03-03,editorial,9,10,1,0,2829,88.0,-0.05,1,True,1 kept article(s) without a headline
+2025_03_03_front,2025-03-03_front.png,2025-03-03,front,9,10,1,0,1920,88.4,-0.05,5,False,
+2025_03_04_editorial,2025-03-04_editorial.png,2025-03-04,editorial,8,8,0,0,3338,87.9,-0.05,1,False,
+2025_03_04_front,2025-03-04_front.png,2025-03-04,front,7,19,12,0,1061,88.7,-0.05,9,False,
+2025_03_05_editorial,2025-03-05_editorial.png,2025-03-05,editorial,10,14,4,0,3212,88.8,-0.05,0,True,2 kept article(s) without a headline
+2025_03_05_front,2025-03-05_front.png,2025-03-05,front,8,14,6,0,1428,86.8,-0.05,8,False,
+2025_03_06_editorial,2025-03-06_editorial.png,2025-03-06,editorial,15,20,5,0,2875,87.5,-0.05,0,False,
+2025_03_06_front,2025-03-06_front.png,2025-03-06,front,11,13,2,0,1739,86.5,-0.05,8,False,
+2025_03_07_editorial,2025-03-07_editorial.png,2025-03-07,editorial,6,6,0,0,3214,86.9,-0.05,2,False,
+2025_03_07_front,2025-03-07_front.png,2025-03-07,front,12,17,5,0,1795,88.5,-0.05,11,True,1 kept article(s) without a headline
+2025_03_08_editorial,2025-03-08_editorial.png,2025-03-08,editorial,6,6,0,0,3255,87.3,-0.05,1,False,
+2025_03_08_front,2025-03-08_front.png,2025-03-08,front,8,9,1,0,1117,88.7,-0.05,7,False,
+2025_03_09_front,2025-03-09_front.png,2025-03-09,front,7,15,8,0,625,90.2,-0.05,11,True,1 kept article(s) without a headline
+2025_03_10_editorial,2025-03-10_editorial.png,2025-03-10,editorial,6,10,4,0,2740,88.0,-0.05,0,True,1 kept article(s) without a headline
+2025_03_10_front,2025-03-10_front.png,2025-03-10,front,9,12,3,0,1297,87.7,-0.05,9,False,
+2025_03_11_editorial,2025-03-11_editorial.png,2025-03-11,editorial,8,9,1,0,3189,87.7,-0.05,2,True,2 kept article(s) without a headline
+2025_03_11_front,2025-03-11_front.png,2025-03-11,front,6,9,3,0,539,89.2,-0.05,9,False,
+2025_03_12_editorial,2025-03-12_editorial.png,2025-03-12,editorial,7,7,0,0,3101,88.4,-0.05,0,True,1 kept article(s) without a headline
+2025_03_12_front,2025-03-12_front.png,2025-03-12,front,11,16,5,0,1791,88.9,-0.05,6,False,
+2025_03_13_editorial,2025-03-13_editorial.png,2025-03-13,editorial,14,22,8,0,2856,89.2,-0.05,0,True,2 kept article(s) without a headline
+2025_03_13_front,2025-03-13_front.png,2025-03-13,front,8,15,7,0,1102,88.7,-0.05,8,False,
+2025_03_16_front,2025-03-16_front.png,2025-03-16,front,8,12,4,0,1406,86.6,-0.05,10,False,
+2025_03_17_editorial,2025-03-17_editorial.png,2025-03-17,editorial,9,14,5,0,2660,87.1,-0.05,2,True,1 kept article(s) without a headline
+2025_03_17_front,2025-03-17_front.png,2025-03-17,front,7,13,6,0,983,88.7,-0.05,10,False,
+2025_03_18_editorial,2025-03-18_editorial.png,2025-03-18,editorial,6,6,0,0,3235,88.0,-0.05,0,False,
+2025_03_18_front,2025-03-18_front.png,2025-03-18,front,9,14,5,0,1964,88.7,-0.05,8,True,1 kept article(s) without a headline
+2025_03_19_editorial,2025-03-19_editorial.png,2025-03-19,editorial,7,7,0,0,3125,88.7,-0.05,2,False,
+2025_03_19_front,2025-03-19_front.png,2025-03-19,front,9,11,2,0,1403,88.1,-0.05,7,False,
+2025_03_20_editorial,2025-03-20_editorial.png,2025-03-20,editorial,9,10,1,0,2974,87.1,-0.05,0,True,2 kept article(s) without a headline
+2025_03_20_front,2025-03-20_front.png,2025-03-20,front,4,10,6,0,492,89.7,-0.05,7,False,
+2025_03_21_editorial,2025-03-21_editorial.png,2025-03-21,editorial,6,7,1,0,3195,87.1,-0.05,1,False,
+2025_03_21_front,2025-03-21_front.png,2025-03-21,front,9,16,7,0,1300,85.1,-0.05,5,False,
+2025_03_22_editorial,2025-03-22_editorial.png,2025-03-22,editorial,9,15,6,0,2911,87.0,-0.05,0,True,2 kept article(s) without a headline
+2025_03_22_front,2025-03-22_front.png,2025-03-22,front,5,11,6,0,924,85.2,-0.05,10,False,
+2025_03_23_front,2025-03-23_front.png,2025-03-23,front,10,21,11,0,1473,88.5,-0.05,10,True,2 kept article(s) without a headline
+2025_03_24_editorial,2025-03-24_editorial.png,2025-03-24,editorial,6,7,1,0,2790,87.3,-0.05,1,False,
+2025_03_24_front,2025-03-24_front.png,2025-03-24,front,4,16,12,0,600,86.5,-0.05,6,False,
+2025_03_25_editorial,2025-03-25_editorial.png,2025-03-25,editorial,8,9,1,0,3145,87.9,-0.05,2,True,2 kept article(s) without a headline
+2025_03_25_front,2025-03-25_front.png,2025-03-25,front,11,14,3,0,1882,89.8,-0.05,7,False,
+2025_03_26_editorial,2025-03-26_editorial.png,2025-03-26,editorial,8,9,1,0,3106,91.2,-0.05,2,True,1 kept article(s) without a headline
+2025_03_26_front,2025-03-26_front.png,2025-03-26,front,9,13,4,0,1871,90.7,-0.05,6,False,
+2025_03_27_editorial,2025-03-27_editorial.png,2025-03-27,editorial,8,10,2,0,3099,91.4,-0.05,1,False,
+2025_03_27_front,2025-03-27_front.png,2025-03-27,front,9,15,6,0,1958,91.4,-0.05,9,False,
+2025_03_28_editorial,2025-03-28_editorial.png,2025-03-28,front,10,14,4,0,3179,91.9,-0.05,1,True,2 kept article(s) without a headline
+2025_03_28_front,2025-03-28_front.png,2025-03-28,front,9,10,1,0,1457,91.2,-0.05,10,False,
+2025_03_29_editorial,2025-03-29_editorial.png,2025-03-29,editorial,8,11,3,0,3360,91.5,-0.05,1,True,2 kept article(s) without a headline
+2025_03_29_front,2025-03-29_front.png,2025-03-29,front,8,12,4,0,1304,91.6,-0.05,8,False,
+2025_03_30_front,2025-03-30_front.png,2025-03-30,front,10,15,5,0,1768,90.3,-0.05,8,False,
+2025_03_31_editorial,2025-03-31_editorial.png,2025-03-31,editorial,9,13,4,0,2994,91.2,-0.05,2,True,28% of body text had no headline above it; 3 kept article(s) without a headline
+2025_03_31_front,2025-03-31_front.png,2025-03-31,front,8,11,3,0,1111,91.0,-0.05,7,False,
+2025_04_01_editorial,2025-04-01_editorial.png,2025-04-01,editorial,8,12,4,0,3092,91.4,-0.05,1,True,2 kept article(s) without a headline
+2025_04_01_front,2025-04-01_front.png,2025-04-01,front,6,9,3,0,1163,91.7,-0.05,14,False,
+2025_04_02_editorial,2025-04-02_editorial.png,2025-04-02,editorial,7,8,1,0,3181,91.3,-0.05,2,True,1 kept article(s) without a headline
+2025_04_02_front,2025-04-02_front.png,2025-04-02,front,12,13,1,0,1821,91.5,-0.05,7,False,
+2025_04_03_editorial,2025-04-03_editorial.png,2025-04-03,editorial,7,8,1,0,3182,92.3,-0.05,0,True,1 kept article(s) without a headline
+2025_04_03_front,2025-04-03_front.png,2025-04-03,front,6,14,8,0,1392,91.2,-0.05,10,False,
+2025_04_04_editorial,2025-04-04_editorial.png,2025-04-04,editorial,9,11,2,0,3308,90.7,-0.05,0,True,3 kept article(s) without a headline
+2025_04_04_front,2025-04-04_front.png,2025-04-04,front,12,14,2,0,1964,90.5,-0.05,4,False,
+2025_04_05_editorial,2025-04-05_editorial.png,2025-04-05,editorial,9,13,4,0,3309,90.9,-0.05,0,True,2 kept article(s) without a headline
+2025_04_05_front,2025-04-05_front.png,2025-04-05,front,11,15,4,0,1844,91.6,-0.05,7,False,
+2025_04_06_front,2025-04-06_front.png,2025-04-06,front,9,12,3,0,1676,92.3,-0.05,5,False,
+2025_04_07_editorial,2025-04-07_editorial.png,2025-04-07,editorial,5,7,2,0,2982,90.7,-0.05,1,False,
+2025_04_07_front,2025-04-07_front.png,2025-04-07,front,11,17,6,0,1840,91.3,-0.05,6,False,
+2025_04_08_editorial,2025-04-08_editorial.png,2025-04-08,editorial,7,12,5,0,3075,92.4,-0.05,1,True,1 kept article(s) without a headline
+2025_04_08_front,2025-04-08_front.png,2025-04-08,front,9,18,9,0,1747,91.6,-0.05,7,False,
+2025_04_09_editorial,2025-04-09_editorial.png,2025-04-09,editorial,9,14,5,0,3215,90.6,-0.05,1,True,28% of body text had no headline above it; 3 kept article(s) without a headline
+2025_04_09_front,2025-04-09_front.png,2025-04-09,front,9,12,3,0,1936,91.6,-0.05,8,False,
+2025_04_10_editorial,2025-04-10_editorial.png,2025-04-10,editorial,8,13,5,0,3152,91.7,-0.05,0,True,1 kept article(s) without a headline
+2025_04_10_front,2025-04-10_front.png,2025-04-10,front,10,17,7,0,1831,91.4,-0.05,6,False,
+2025_04_11_editorial,2025-04-11_editorial.png,2025-04-11,editorial,11,16,5,0,3097,90.3,-0.05,0,True,2 kept article(s) without a headline
+2025_04_11_front,2025-04-11_front.png,2025-04-11,front,10,11,1,0,1689,90.1,-0.05,8,False,
+2025_04_12_editorial,2025-04-12_editorial.png,2025-04-12,editorial,10,14,4,0,3262,90.7,-0.05,2,False,
+2025_04_12_front,2025-04-12_front.png,2025-04-12,front,10,14,4,0,1466,91.1,-0.05,8,True,1 kept article(s) without a headline
+2025_04_13_front,2025-04-13_front.png,2025-04-13,editorial,11,17,6,0,2001,91.3,-0.05,7,False,
+2025_04_14_editorial,2025-04-14_editorial.png,2025-04-14,editorial,6,8,2,0,2789,91.9,-0.05,1,True,1 kept article(s) without a headline
+2025_04_14_front,2025-04-14_front.png,2025-04-14,front,10,19,9,0,1631,88.9,-0.05,9,False,
+2025_04_15_editorial,2025-04-15_editorial.png,2025-04-15,editorial,8,10,2,0,3273,91.9,-0.05,1,False,
+2025_04_15_front,2025-04-15_front.png,2025-04-15,front,10,15,5,0,1638,91.4,-0.05,10,True,2 kept article(s) without a headline
+2025_04_16_editorial,2025-04-16_editorial.png,2025-04-16,editorial,7,11,4,0,3146,91.2,-0.05,2,False,
+2025_04_16_front,2025-04-16_front.png,2025-04-16,front,10,16,6,0,1907,89.8,-0.05,7,False,
+2025_04_17_editorial,2025-04-17_editorial.png,2025-04-17,editorial,8,9,1,0,3321,91.4,-0.05,2,False,
+2025_04_17_front,2025-04-17_front.png,2025-04-17,front,9,13,4,0,2001,90.0,-0.05,6,True,1 kept article(s) without a headline
+2025_04_18_editorial,2025-04-18_editorial.png,2025-04-18,editorial,9,12,3,0,3047,89.7,-0.05,0,False,
+2025_04_18_front,2025-04-18_front.png,2025-04-18,front,11,12,1,0,2019,90.7,-0.05,9,False,
+2025_04_19_editorial,2025-04-19_editorial.png,2025-04-19,editorial,8,10,2,0,3268,91.4,-0.05,1,True,1 kept article(s) without a headline
+2025_04_19_front,2025-04-19_front.png,2025-04-19,front,9,13,4,0,1651,91.1,-0.05,6,False,
+2025_04_20_front,2025-04-20_front.png,2025-04-20,front,9,13,4,0,1485,92.0,-0.05,8,False,
+2025_04_21_editorial,2025-04-21_editorial.png,2025-04-21,editorial,6,8,1,1,2885,92.1,-0.05,1,False,
+2025_04_21_front,2025-04-21_front.png,2025-04-21,front,8,13,5,0,1530,91.1,-0.05,10,False,
+2025_04_22_editorial,2025-04-22_editorial.png,2025-04-22,editorial,7,12,5,0,3085,91.6,-0.05,1,True,1 kept article(s) without a headline
+2025_04_22_front,2025-04-22_front.png,2025-04-22,front,15,21,6,0,1873,92.2,-0.05,7,True,2 kept article(s) without a headline
+2025_04_23_editorial,2025-04-23_editorial.png,2025-04-23,editorial,17,19,2,0,3043,90.2,-0.05,1,True,2 kept article(s) without a headline
+2025_04_23_front,2025-04-23_front.png,2025-04-23,front,9,14,5,0,1306,91.5,-0.05,7,True,2 kept article(s) without a headline
+2025_04_24_editorial,2025-04-24_editorial.png,2025-04-24,editorial,8,11,3,0,3195,92.0,-0.05,2,True,2 kept article(s) without a headline
+2025_04_24_front,2025-04-24_front.png,2025-04-24,front,10,10,0,0,3482,85.4,-0.05,6,True,one article holds most of the page text - possible merge
+2025_04_25_editorial,2025-04-25_editorial.png,2025-04-25,editorial,8,12,4,0,3321,92.9,-0.05,1,True,2 kept article(s) without a headline
+2025_04_25_front,2025-04-25_front.png,2025-04-25,front,9,13,4,0,879,91.7,-0.05,12,False,
+2025_04_26_editorial,2025-04-26_editorial.png,2025-04-26,editorial,6,7,1,0,3221,91.4,-0.05,2,False,
+2025_04_26_front,2025-04-26_front.png,2025-04-26,front,10,13,3,0,2032,92.1,-0.05,6,False,
+2025_04_27_front,2025-04-27_front.png,2025-04-27,front,10,14,4,0,1625,91.2,-0.05,8,True,1 kept article(s) without a headline
+2025_04_28_editorial,2025-04-28_editorial.png,2025-04-28,editorial,7,10,3,0,2948,91.0,-0.05,1,True,2 kept article(s) without a headline
+2025_04_28_front,2025-04-28_front.png,2025-04-28,front,11,14,3,0,1720,91.6,-0.05,5,False,
+2025_04_29_editorial,2025-04-29_editorial.png,2025-04-29,editorial,8,13,5,0,3111,91.1,-0.05,2,False,
+2025_04_29_front,2025-04-29_front.png,2025-04-29,front,11,11,0,0,1840,91.3,-0.05,9,False,
+2025_04_30_editorial,2025-04-30_editorial.png,2025-04-30,editorial,7,9,2,0,3074,90.8,-0.05,2,False,
+2025_04_30_front,2025-04-30_front.png,2025-04-30,front,10,14,4,0,1597,91.3,-0.05,6,True,1 kept article(s) without a headline
+2025_05_01_editorial,2025-05-01_editorial.png,2025-05-01,editorial,8,10,2,0,3176,92.1,-0.05,1,False,
+2025_05_01_front,2025-05-01_front.png,2025-05-01,front,10,13,3,0,1927,92.0,-0.05,6,False,
+2025_05_02_editorial,2025-05-02_editorial.png,2025-05-02,editorial,12,20,8,0,3138,91.8,-0.05,0,True,50% of body text had no headline above it; 6 kept article(s) without a headline
+2025_05_02_front,2025-05-02_front.png,2025-05-02,front,10,11,1,0,1534,91.9,-0.05,10,False,
+2025_05_03_editorial,2025-05-03_editorial.png,2025-05-03,editorial,13,19,6,0,3306,91.5,-0.05,0,True,29% of body text had no headline above it; 5 kept article(s) without a headline
+2025_05_03_front,2025-05-03_front.png,2025-05-03,front,10,13,3,0,1624,91.5,-0.05,8,False,
+2025_05_04_front,2025-05-04_front.png,2025-05-04,front,7,16,9,0,886,92.8,-0.05,16,True,1 kept article(s) without a headline
+2025_05_05_editorial,2025-05-05_editorial.png,2025-05-05,editorial,5,8,3,0,2783,91.1,-0.05,1,False,
+2025_05_05_front,2025-05-05_front.png,2025-05-05,front,9,12,3,0,2091,92.2,-0.0,10,False,
+2025_05_06_editorial,2025-05-06_editorial.png,2025-05-06,editorial,8,14,6,0,3274,91.6,-0.05,1,True,2 kept article(s) without a headline
+2025_05_06_front,2025-05-06_front.png,2025-05-06,front,11,14,3,0,1562,91.8,-0.05,6,False,
+2025_05_07_editorial,2025-05-07_editorial.png,2025-05-07,editorial,11,14,3,0,3105,90.3,-0.05,0,False,
+2025_05_07_front,2025-05-07_front.png,2025-05-07,front,11,14,3,0,1860,91.6,-0.05,5,False,
+2025_05_08_editorial,2025-05-08_editorial.png,2025-05-08,editorial,9,13,4,0,3186,92.1,-0.05,1,True,2 kept article(s) without a headline
+2025_05_08_front,2025-05-08_front.png,2025-05-08,front,8,13,5,0,979,87.1,-0.05,10,False,
+2025_05_09_editorial,2025-05-09_editorial.png,2025-05-09,editorial,7,9,2,0,3240,92.8,-0.05,1,True,1 kept article(s) without a headline
+2025_05_09_front,2025-05-09_front.png,2025-05-09,front,8,8,0,0,1483,91.4,-0.05,4,False,
+2025_05_10_editorial,2025-05-10_editorial.png,2025-05-10,editorial,8,10,2,0,3289,91.6,-0.05,0,False,
+2025_05_10_front,2025-05-10_front.png,2025-05-10,front,8,9,1,0,1259,92.6,-0.05,8,False,
+2025_05_11_front,2025-05-11_front.png,2025-05-11,front,5,7,2,0,611,90.1,-0.05,16,False,
+2025_05_12_editorial,2025-05-12_editorial.png,2025-05-12,editorial,10,13,3,0,2989,90.6,-0.05,4,True,3 kept article(s) without a headline
+2025_05_12_front,2025-05-12_front.png,2025-05-12,front,9,10,1,0,1039,89.6,-0.05,10,False,
+2025_05_13_editorial,2025-05-13_editorial.png,2025-05-13,editorial,8,11,3,0,3261,92.7,-0.05,1,True,2 kept article(s) without a headline
+2025_05_13_front,2025-05-13_front.png,2025-05-13,front,11,15,4,0,1592,91.2,-0.05,7,True,1 kept article(s) without a headline
+2025_05_14_editorial,2025-05-14_editorial.png,2025-05-14,editorial,10,15,5,0,3240,90.8,-0.05,0,True,36% of body text had no headline above it; 5 kept article(s) without a headline
+2025_05_14_front,2025-05-14_front.png,2025-05-14,front,5,6,1,0,547,90.9,-0.05,6,False,
+2025_05_15_editorial,2025-05-15_editorial.png,2025-05-15,editorial,7,10,3,0,3264,91.6,-0.05,0,True,2 kept article(s) without a headline
+2025_05_15_front,2025-05-15_front.png,2025-05-15,front,5,8,3,0,608,89.6,-0.05,5,False,
+2025_05_16_editorial,2025-05-16_editorial.png,2025-05-16,editorial,7,10,3,0,3200,91.9,-0.05,2,True,1 kept article(s) without a headline
+2025_05_16_front,2025-05-16_front.png,2025-05-16,front,10,16,6,0,1951,91.6,-0.05,7,False,
+2025_05_17_editorial,2025-05-17_editorial.png,2025-05-17,editorial,8,11,3,0,3118,92.5,-0.05,1,True,1 kept article(s) without a headline
+2025_05_17_front,2025-05-17_front.png,2025-05-17,front,8,15,7,0,1232,89.8,-0.05,7,False,
+2025_05_18_front,2025-05-18_front.png,2025-05-18,front,8,14,6,0,1585,92.1,-0.05,6,False,
+2025_05_19_editorial,2025-05-19_editorial.png,2025-05-19,editorial,9,13,4,0,3104,91.7,-0.05,1,True,27% of body text had no headline above it; 3 kept article(s) without a headline
+2025_05_19_front,2025-05-19_front.png,2025-05-19,front,11,14,3,0,1857,92.2,-0.05,8,False,
+2025_05_20_editorial,2025-05-20_editorial.png,2025-05-20,editorial,8,11,3,0,2952,91.5,-0.05,2,True,1 kept article(s) without a headline
+2025_05_20_front,2025-05-20_front.png,2025-05-20,front,9,11,2,0,1146,91.0,-0.05,9,False,
+2025_05_21_editorial,2025-05-21_editorial.png,2025-05-21,editorial,13,18,5,0,3048,90.2,-0.05,1,True,2 kept article(s) without a headline
+2025_05_21_front,2025-05-21_front.png,2025-05-21,front,11,18,7,0,1907,91.3,-0.05,6,True,1 kept article(s) without a headline
+2025_05_22_editorial,2025-05-22_editorial.png,2025-05-22,editorial,8,12,4,0,3332,91.7,-0.05,0,True,1 kept article(s) without a headline
+2025_05_22_front,2025-05-22_front.png,2025-05-22,front,7,14,7,0,775,91.5,-0.05,6,True,1 kept article(s) without a headline
+2025_05_23_editorial,2025-05-23_editorial.png,2025-05-23,editorial,8,10,2,0,3255,90.6,-0.05,1,True,1 kept article(s) without a headline
+2025_05_23_front,2025-05-23_front.png,2025-05-23,front,10,15,5,0,2015,92.3,-0.05,8,False,
+2025_05_24_editorial,2025-05-24_editorial.png,2025-05-24,editorial,8,12,3,1,3139,91.0,-0.05,1,True,1 kept article(s) without a headline
+2025_05_24_front,2025-05-24_front.png,2025-05-24,front,7,10,3,0,1374,91.6,-0.05,10,False,
+2025_05_25_front,2025-05-25_front.png,2025-05-25,front,10,13,3,0,1713,89.4,-0.05,11,False,
+2025_05_26_editorial,2025-05-26_editorial.png,2025-05-26,editorial,7,11,4,0,2919,90.9,-0.05,1,True,2 kept article(s) without a headline
+2025_05_26_front,2025-05-26_front.png,2025-05-26,front,7,16,9,0,949,90.7,-0.05,6,False,
+2025_05_27_editorial,2025-05-27_editorial.png,2025-05-27,editorial,10,17,7,0,2934,91.7,-0.05,1,True,26% of body text had no headline above it; 4 kept article(s) without a headline
+2025_05_27_front,2025-05-27_front.png,2025-05-27,front,5,13,8,0,402,89.1,-0.05,15,False,
+2025_05_28_editorial,2025-05-28_editorial.png,2025-05-28,editorial,8,11,3,0,3200,91.0,-0.05,1,True,1 kept article(s) without a headline
+2025_05_28_front,2025-05-28_front.png,2025-05-28,front,7,15,8,0,1050,92.2,-0.05,14,False,
+2025_05_29_editorial,2025-05-29_editorial.png,2025-05-29,editorial,11,14,3,0,3179,89.5,-0.05,1,True,1 kept article(s) without a headline
+2025_05_29_front,2025-05-29_front.png,2025-05-29,front,10,11,1,0,1502,90.9,-0.05,8,False,
+2025_05_30_editorial,2025-05-30_editorial.png,2025-05-30,editorial,6,7,1,0,3106,91.0,-0.05,1,False,
+2025_05_30_front,2025-05-30_front.png,2025-05-30,front,10,17,7,0,2000,92.6,-0.05,7,False,
+2025_05_31_editorial,2025-05-31_editorial.png,2025-05-31,editorial,10,14,4,0,3336,91.5,-0.05,0,True,3 kept article(s) without a headline
+2025_05_31_front,2025-05-31_front.png,2025-05-31,front,9,12,3,0,1925,91.9,-0.05,8,False,
+2025_06_01_front,2025-06-01_front.png,2025-06-01,front,9,12,3,0,1666,90.4,-0.05,9,False,
+2025_06_02_editorial,2025-06-02_editorial.png,2025-06-02,editorial,6,8,2,0,2988,91.3,-0.05,1,False,
+2025_06_02_front,2025-06-02_front.png,2025-06-02,front,7,17,10,0,1084,91.3,-0.05,8,False,
+2025_06_03_editorial,2025-06-03_editorial.png,2025-06-03,editorial,9,11,2,0,3291,91.5,-0.05,1,True,1 kept article(s) without a headline
+2025_06_03_front,2025-06-03_front.png,2025-06-03,front,11,15,4,0,2019,92.0,-0.05,7,True,1 kept article(s) without a headline
+2025_06_04_editorial,2025-06-04_editorial.png,2025-06-04,editorial,15,19,4,0,2910,89.3,-0.05,1,True,3 kept article(s) without a headline
+2025_06_04_front,2025-06-04_front.png,2025-06-04,front,7,12,5,0,1087,91.5,-0.05,16,False,
+2025_06_05_editorial,2025-06-05_editorial.png,2025-06-05,editorial,8,10,2,0,3049,92.8,-0.05,1,True,1 kept article(s) without a headline
+2025_06_05_front,2025-06-05_front.png,2025-06-05,front,8,9,1,0,1058,90.1,-0.05,5,False,
+2025_06_06_editorial,2025-06-06_editorial.png,2025-06-06,editorial,7,9,2,0,3074,91.6,-0.05,2,False,
+2025_06_06_front,2025-06-06_front.png,2025-06-06,front,7,9,2,0,1597,92.0,-0.05,10,False,
+2025_06_07_editorial,2025-06-07_editorial.png,2025-06-07,editorial,7,9,2,0,3165,91.6,-0.05,2,False,
+2025_06_07_front,2025-06-07_front.png,2025-06-07,front,6,10,4,0,1000,90.4,-0.05,7,False,
+2025_06_08_front,2025-06-08_front.png,2025-06-08,front,3,7,4,0,417,85.4,-0.05,11,False,
+2025_06_09_editorial,2025-06-09_editorial.png,2025-06-09,editorial,9,11,2,0,2842,90.7,-0.05,2,True,3 kept article(s) without a headline
+2025_06_09_front,2025-06-09_front.png,2025-06-09,front,9,10,1,0,1852,90.9,-0.05,9,False,
+2025_06_10_editorial,2025-06-10_editorial.png,2025-06-10,editorial,8,11,3,0,3127,91.5,-0.05,1,True,2 kept article(s) without a headline
+2025_06_10_front,2025-06-10_front.png,2025-06-10,front,6,12,6,0,1133,91.9,-0.05,8,False,
+2025_06_11_editorial,2025-06-11_editorial.png,2025-06-11,editorial,13,16,3,0,2924,90.6,-0.05,1,True,1 kept article(s) without a headline
+2025_06_11_front,2025-06-11_front.png,2025-06-11,front,9,12,3,0,1915,91.0,-0.05,10,False,
+2025_06_12_editorial,2025-06-12_editorial.png,2025-06-12,editorial,12,14,2,0,3170,90.5,-0.05,1,False,
+2025_06_12_front,2025-06-12_front.png,2025-06-12,front,10,11,1,0,1878,91.1,-0.05,9,False,
+2025_06_13_editorial,2025-06-13_editorial.png,2025-06-13,editorial,8,18,10,0,3050,90.6,-0.05,1,True,1 kept article(s) without a headline
+2025_06_13_front,2025-06-13_front.png,2025-06-13,front,7,7,0,0,1587,92.1,-0.05,5,False,
+2025_06_14_editorial,2025-06-14_editorial.png,2025-06-14,editorial,8,11,3,0,3180,92.1,-0.05,0,True,1 kept article(s) without a headline
+2025_06_14_front,2025-06-14_front.png,2025-06-14,front,6,8,2,0,612,90.5,-0.05,5,False,
+2025_06_15_front,2025-06-15_front.png,2025-06-15,front,9,14,5,0,1252,89.6,-0.05,14,True,1 kept article(s) without a headline
+2025_06_16_editorial,2025-06-16_editorial.png,2025-06-16,editorial,12,15,3,0,2826,91.4,-0.05,1,True,3 kept article(s) without a headline
+2025_06_16_front,2025-06-16_front.png,2025-06-16,front,10,14,4,0,1653,91.3,-0.05,8,False,
+2025_06_17_editorial,2025-06-17_editorial.png,2025-06-17,editorial,7,10,3,0,3102,91.9,-0.05,1,True,1 kept article(s) without a headline
+2025_06_17_front,2025-06-17_front.png,2025-06-17,front,8,10,2,0,1297,92.0,-0.05,8,False,
+2025_06_18_editorial,2025-06-18_editorial.png,2025-06-18,editorial,8,9,1,0,3188,91.7,-0.05,1,True,1 kept article(s) without a headline
+2025_06_18_front,2025-06-18_front.png,2025-06-18,front,7,12,5,0,903,92.9,-0.05,9,False,
+2025_06_19_editorial,2025-06-19_editorial.png,2025-06-19,editorial,8,11,3,0,3014,91.9,-0.05,1,True,1 kept article(s) without a headline
+2025_06_19_front,2025-06-19_front.png,2025-06-19,front,6,12,6,0,768,90.7,-0.05,4,False,
+2025_06_20_editorial,2025-06-20_editorial.png,2025-06-20,editorial,8,10,2,0,3351,91.4,-0.05,0,True,1 kept article(s) without a headline
+2025_06_20_front,2025-06-20_front.png,2025-06-20,front,0,2,2,0,0,0.0,-0.05,8,True,only 0 article(s) kept
+2025_06_21_editorial,2025-06-21_editorial.png,2025-06-21,editorial,8,12,4,0,3290,91.3,-0.05,0,True,2 kept article(s) without a headline
+2025_06_21_front,2025-06-21_front.png,2025-06-21,front,9,14,5,0,1520,92.1,-0.05,10,False,
+2025_06_22_front,2025-06-22_front.png,2025-06-22,front,6,15,9,0,819,91.0,-0.05,9,False,
+2025_06_23_editorial,2025-06-23_editorial.png,2025-06-23,editorial,6,10,4,0,2945,93.0,-0.05,1,True,1 kept article(s) without a headline
+2025_06_23_front,2025-06-23_front.png,2025-06-23,front,9,12,3,0,1942,89.9,-0.05,10,False,
+2025_06_24_editorial,2025-06-24_editorial.png,2025-06-24,editorial,6,8,2,0,3186,91.7,-0.05,2,False,
+2025_06_24_front,2025-06-24_front.png,2025-06-24,front,7,13,6,0,740,92.1,-0.05,10,False,
+2025_06_25_editorial,2025-06-25_editorial.png,2025-06-25,editorial,7,9,1,1,3099,91.7,-0.05,0,False,
+2025_06_25_front,2025-06-25_front.png,2025-06-25,front,9,14,5,0,1627,92.4,-0.05,7,True,2 kept article(s) without a headline
+2025_06_26_editorial,2025-06-26_editorial.png,2025-06-26,editorial,6,7,1,0,3132,92.0,-0.05,0,False,
+2025_06_26_front,2025-06-26_front.png,2025-06-26,front,6,12,6,0,755,91.4,-0.05,9,False,
+2025_06_27_editorial,2025-06-27_editorial.png,2025-06-27,editorial,7,9,2,0,3201,91.7,-0.05,0,False,
+2025_06_27_front,2025-06-27_front.png,2025-06-27,front,5,11,6,0,617,92.3,-0.05,7,False,
+2025_06_28_editorial,2025-06-28_editorial.png,2025-06-28,editorial,7,10,3,0,3169,92.3,-0.05,1,True,1 kept article(s) without a headline
+2025_06_28_front,2025-06-28_front.png,2025-06-28,front,8,15,7,0,987,91.9,-0.05,8,False,
+2025_06_29_front,2025-06-29_front.png,2025-06-29,front,0,0,0,0,0,0.0,-0.05,7,True,only 0 article(s) kept
+2025_06_30_editorial,2025-06-30_editorial.png,2025-06-30,editorial,10,15,5,0,2772,91.3,-0.05,1,True,3 kept article(s) without a headline
+2025_06_30_front,2025-06-30_front.png,2025-06-30,front,8,13,5,0,1535,89.6,-0.05,14,False,
+2025_07_01_editorial,2025-07-01_editorial.png,2025-07-01,editorial,9,11,2,0,3120,91.7,-0.05,1,True,2 kept article(s) without a headline
+2025_07_01_front,2025-07-01_front.png,2025-07-01,front,13,18,5,0,1616,92.3,-0.05,9,True,2 kept article(s) without a headline
+2025_07_02_editorial,2025-07-02_editorial.png,2025-07-02,editorial,8,10,2,0,3178,90.6,-0.05,1,False,
+2025_07_02_front,2025-07-02_front.png,2025-07-02,front,10,12,2,0,1052,91.9,-0.05,12,False,
+2025_07_03_editorial,2025-07-03_editorial.png,2025-07-03,editorial,8,11,3,0,3211,92.5,-0.05,2,True,1 kept article(s) without a headline
+2025_07_03_front,2025-07-03_front.png,2025-07-03,front,10,13,3,0,1927,91.8,-0.05,6,False,
+2025_07_04_editorial,2025-07-04_editorial.png,2025-07-04,editorial,8,12,4,0,3147,91.7,-0.05,1,True,2 kept article(s) without a headline
+2025_07_04_front,2025-07-04_front.png,2025-07-04,front,6,8,2,0,954,88.6,-0.05,6,False,
+2025_07_05_editorial,2025-07-05_editorial.png,2025-07-05,editorial,9,12,3,0,3214,91.9,-0.05,2,True,27% of body text had no headline above it; 3 kept article(s) without a headline
+2025_07_05_front,2025-07-05_front.png,2025-07-05,front,11,18,7,0,1858,91.9,-0.05,7,False,
+2025_07_06_front,2025-07-06_front.png,2025-07-06,front,12,19,7,0,1747,91.5,-0.05,9,True,2 kept article(s) without a headline
+2025_07_07_editorial,2025-07-07_editorial.png,2025-07-07,editorial,9,14,5,0,2928,91.6,-0.05,1,True,2 kept article(s) without a headline
+2025_07_07_front,2025-07-07_front.png,2025-07-07,front,7,15,8,0,1712,90.7,-0.05,5,False,
+2025_07_08_editorial,2025-07-08_editorial.png,2025-07-08,editorial,8,9,1,0,3397,91.8,-0.05,0,False,
+2025_07_08_front,2025-07-08_front.png,2025-07-08,front,10,16,6,0,1908,92.1,-0.05,6,False,
+2025_07_09_editorial,2025-07-09_editorial.png,2025-07-09,editorial,7,10,3,0,3180,90.8,-0.05,3,True,1 kept article(s) without a headline
+2025_07_09_front,2025-07-09_front.png,2025-07-09,front,12,22,10,0,1842,92.1,-0.05,6,True,1 kept article(s) without a headline
+2025_07_10_editorial,2025-07-10_editorial.png,2025-07-10,editorial,10,13,3,0,3237,91.3,-0.05,2,True,2 kept article(s) without a headline
+2025_07_10_front,2025-07-10_front.png,2025-07-10,front,10,18,8,0,1774,91.4,-0.05,8,False,
+2025_07_11_editorial,2025-07-11_editorial.png,2025-07-11,editorial,8,11,3,0,3242,91.5,-0.05,1,True,2 kept article(s) without a headline
+2025_07_11_front,2025-07-11_front.png,2025-07-11,front,12,15,3,0,1812,90.9,-0.05,7,False,
+2025_07_12_editorial,2025-07-12_editorial.png,2025-07-12,editorial,10,15,5,0,3182,90.2,-0.05,1,True,28% of body text had no headline above it; 4 kept article(s) without a headline
+2025_07_12_front,2025-07-12_front.png,2025-07-12,front,11,17,6,0,2028,92.1,-0.05,6,False,
+2025_07_13_front,2025-07-13_front.png,2025-07-13,front,8,14,6,0,1517,93.0,-0.05,11,False,
+2025_07_14_editorial,2025-07-14_editorial.png,2025-07-14,editorial,5,8,3,0,2900,91.9,-0.05,0,False,
+2025_07_14_front,2025-07-14_front.png,2025-07-14,front,9,17,8,0,1502,91.8,-0.05,10,False,
+2025_07_15_editorial,2025-07-15_editorial.png,2025-07-15,editorial,10,15,5,0,3122,91.8,-0.05,2,True,2 kept article(s) without a headline
+2025_07_15_front,2025-07-15_front.png,2025-07-15,front,9,12,3,0,1752,91.9,-0.05,7,True,1 kept article(s) without a headline
+2025_07_16_editorial,2025-07-16_editorial.png,2025-07-16,editorial,11,15,4,0,3016,90.6,-0.05,1,False,
+2025_07_16_front,2025-07-16_front.png,2025-07-16,front,11,19,8,0,1517,91.8,-0.05,11,True,1 kept article(s) without a headline
+2025_07_17_editorial,2025-07-17_editorial.png,2025-07-17,editorial,6,8,2,0,3260,92.1,-0.05,1,False,
+2025_07_17_front,2025-07-17_front.png,2025-07-17,front,8,18,10,0,1482,90.7,-0.05,10,False,
+2025_07_18_editorial,2025-07-18_editorial.png,2025-07-18,editorial,8,14,6,0,2865,90.2,-0.05,1,False,
+2025_07_18_front,2025-07-18_front.png,2025-07-18,front,9,13,4,0,1966,91.6,-0.05,7,True,1 kept article(s) without a headline
+2025_07_19_editorial,2025-07-19_editorial.png,2025-07-19,editorial,9,13,4,0,3023,90.1,-0.05,2,False,
+2025_07_19_front,2025-07-19_front.png,2025-07-19,front,4,8,4,0,774,84.0,-0.05,14,False,
+2025_07_20_front,2025-07-20_front.png,2025-07-20,front,9,21,12,0,1719,92.4,-0.05,9,False,
+2025_07_21_editorial,2025-07-21_editorial.png,2025-07-21,editorial,7,8,1,0,2862,89.6,-0.05,1,False,
+2025_07_21_front,2025-07-21_front.png,2025-07-21,front,10,17,7,0,1822,91.3,-0.05,7,True,1 kept article(s) without a headline
+2025_07_22_editorial,2025-07-22_editorial.png,2025-07-22,editorial,6,8,2,0,3226,90.8,-0.05,1,False,
+2025_07_22_front,2025-07-22_front.png,2025-07-22,front,10,14,4,0,1570,92.0,-0.05,9,False,
+2025_07_23_editorial,2025-07-23_editorial.png,2025-07-23,editorial,8,10,2,0,3321,90.6,-0.05,1,True,1 kept article(s) without a headline
+2025_07_23_front,2025-07-23_front.png,2025-07-23,front,8,12,4,0,1092,91.6,-0.05,6,False,
+2025_07_24_editorial,2025-07-24_editorial.png,2025-07-24,editorial,7,10,3,0,3370,91.2,-0.05,1,False,
+2025_07_24_front,2025-07-24_front.png,2025-07-24,front,11,18,7,0,2011,91.2,-0.05,7,True,1 kept article(s) without a headline
+2025_07_25_editorial,2025-07-25_editorial.png,2025-07-25,editorial,9,14,5,0,3196,92.3,-0.05,1,True,28% of body text had no headline above it; 3 kept article(s) without a headline
+2025_07_25_front,2025-07-25_front.png,2025-07-25,front,7,10,3,0,691,89.7,-0.05,5,True,1 kept article(s) without a headline
+2025_07_26_editorial,2025-07-26_editorial.png,2025-07-26,editorial,10,13,3,0,3136,92.5,-0.05,1,True,2 kept article(s) without a headline
+2025_07_26_front,2025-07-26_front.png,2025-07-26,front,10,18,8,0,1243,91.5,-0.05,7,False,
+2025_07_27_front,2025-07-27_front.png,2025-07-27,front,8,10,2,0,944,91.7,-0.05,16,False,
+2025_07_28_editorial,2025-07-28_editorial.png,2025-07-28,editorial,9,13,4,0,2712,93.4,-0.05,0,True,1 kept article(s) without a headline
+2025_07_28_front,2025-07-28_front.png,2025-07-28,front,8,18,10,0,1450,92.2,-0.05,8,True,1 kept article(s) without a headline
+2025_07_29_editorial,2025-07-29_editorial.png,2025-07-29,editorial,9,11,2,0,3177,91.0,-0.05,2,False,
+2025_07_29_front,2025-07-29_front.png,2025-07-29,front,9,12,3,0,1164,92.5,-0.05,9,False,
+2025_07_30_editorial,2025-07-30_editorial.png,2025-07-30,editorial,7,9,2,0,3262,91.8,-0.05,1,False,
+2025_07_30_front,2025-07-30_front.png,2025-07-30,front,7,11,4,0,940,90.1,-0.05,12,True,1 kept article(s) without a headline
+2025_07_31_editorial,2025-07-31_editorial.png,2025-07-31,editorial,8,10,2,0,3224,90.7,-0.05,1,True,1 kept article(s) without a headline
+2025_07_31_front,2025-07-31_front.png,2025-07-31,front,8,13,5,0,888,89.5,-0.05,13,False,
+2025_08_01_editorial,2025-08-01_editorial.png,2025-08-01,editorial,7,9,2,0,3235,90.8,-0.05,1,False,
+2025_08_01_front,2025-08-01_front.png,2025-08-01,front,9,11,2,0,834,91.9,-0.05,6,True,1 kept article(s) without a headline
+2025_08_02_editorial,2025-08-02_editorial.png,2025-08-02,editorial,6,7,1,0,3377,92.0,-0.05,1,False,
+2025_08_02_front,2025-08-02_front.png,2025-08-02,front,8,15,7,0,1114,88.0,-0.05,12,True,1 kept article(s) without a headline
+2025_08_03_front,2025-08-03_front.png,2025-08-03,front,9,15,6,0,1649,91.4,-0.05,10,False,
+2025_08_04_editorial,2025-08-04_editorial.png,2025-08-04,editorial,7,13,6,0,3062,91.2,-0.05,0,True,2 kept article(s) without a headline
+2025_08_04_front,2025-08-04_front.png,2025-08-04,front,8,12,4,0,1682,91.5,-0.05,7,False,
+2025_08_05_editorial,2025-08-05_editorial.png,2025-08-05,editorial,8,9,1,0,3239,91.6,-0.05,1,False,
+2025_08_05_front,2025-08-05_front.png,2025-08-05,front,6,7,1,0,774,91.3,-0.05,6,False,
+2025_08_07_editorial,2025-08-07_editorial.png,2025-08-07,editorial,8,11,3,0,3237,92.3,-0.05,0,False,
+2025_08_07_front,2025-08-07_front.png,2025-08-07,front,10,15,5,0,1771,90.7,-0.05,6,False,
+2025_08_08_editorial,2025-08-08_editorial.png,2025-08-08,editorial,7,11,4,0,3069,90.2,-0.05,1,False,
+2025_08_08_front,2025-08-08_front.png,2025-08-08,front,9,14,5,0,1917,91.2,-0.05,7,False,
+2025_08_09_editorial,2025-08-09_editorial.png,2025-08-09,editorial,12,15,3,0,3068,91.1,-0.05,0,False,
+2025_08_09_front,2025-08-09_front.png,2025-08-09,front,10,16,6,0,1841,92.3,-0.05,9,False,
+2025_08_10_front,2025-08-10_front.png,2025-08-10,front,11,15,4,0,1754,89.9,-0.05,10,False,
+2025_08_11_editorial,2025-08-11_editorial.png,2025-08-11,editorial,8,9,1,0,2830,91.0,-0.05,1,False,
+2025_08_11_front,2025-08-11_front.png,2025-08-11,front,10,16,6,0,2195,91.9,-0.05,7,True,1 kept article(s) without a headline
+2025_08_12_editorial,2025-08-12_editorial.png,2025-08-12,editorial,7,8,1,0,3235,92.2,-0.05,1,False,
+2025_08_12_front,2025-08-12_front.png,2025-08-12,front,6,12,6,0,819,91.1,-0.05,5,False,
+2025_08_13_editorial,2025-08-13_editorial.png,2025-08-13,editorial,12,13,1,0,3225,90.2,-0.05,2,False,
+2025_08_13_front,2025-08-13_front.png,2025-08-13,front,8,13,5,0,1271,90.9,-0.05,13,False,
+2025_08_14_editorial,2025-08-14_editorial.png,2025-08-14,editorial,10,16,6,0,3208,92.5,-0.05,1,True,27% of body text had no headline above it; 3 kept article(s) without a headline
+2025_08_14_front,2025-08-14_front.png,2025-08-14,front,10,18,8,0,1726,92.1,-0.05,10,False,
+2025_08_15_editorial,2025-08-15_editorial.png,2025-08-15,editorial,10,15,5,0,3259,90.7,-0.05,1,True,28% of body text had no headline above it; 4 kept article(s) without a headline
+2025_08_15_front,2025-08-15_front.png,2025-08-15,front,7,10,3,0,676,91.3,-0.05,7,False,
+2025_08_17_front,2025-08-17_front.png,2025-08-17,front,10,20,10,0,1937,91.1,-0.05,9,False,
+2025_08_18_editorial,2025-08-18_editorial.png,2025-08-18,editorial,5,7,2,0,2927,91.3,-0.05,3,False,
+2025_08_18_front,2025-08-18_front.png,2025-08-18,front,9,14,5,0,1696,90.3,-0.05,6,False,
+2025_08_19_editorial,2025-08-19_editorial.png,2025-08-19,editorial,10,15,5,0,3222,91.3,-0.05,2,True,3 kept article(s) without a headline
+2025_08_19_front,2025-08-19_front.png,2025-08-19,front,10,16,6,0,1391,91.8,-0.05,8,False,
+2025_08_20_editorial,2025-08-20_editorial.png,2025-08-20,editorial,9,12,3,0,3183,90.9,-0.05,1,True,2 kept article(s) without a headline
+2025_08_20_front,2025-08-20_front.png,2025-08-20,front,8,15,7,0,1489,91.9,-0.05,7,False,
+2025_08_21_editorial,2025-08-21_editorial.png,2025-08-21,editorial,12,17,5,0,3409,90.1,-0.05,1,True,2 kept article(s) without a headline
+2025_08_21_front,2025-08-21_front.png,2025-08-21,front,7,8,1,0,627,91.8,-0.05,10,False,
+2025_08_22_editorial,2025-08-22_editorial.png,2025-08-22,editorial,11,13,2,0,3126,91.3,-0.05,1,True,2 kept article(s) without a headline
+2025_08_22_front,2025-08-22_front.png,2025-08-22,front,6,12,6,0,872,92.4,-0.05,6,True,one article holds most of the page text - possible merge
+2025_08_23_editorial,2025-08-23_editorial.png,2025-08-23,editorial,6,8,2,0,3224,91.5,-0.05,1,False,
+2025_08_23_front,2025-08-23_front.png,2025-08-23,front,7,10,3,0,1224,92.7,-0.05,8,False,
+2025_08_24_front,2025-08-24_front.png,2025-08-24,front,10,16,6,0,1329,90.4,-0.05,14,True,2 kept article(s) without a headline
+2025_08_25_editorial,2025-08-25_editorial.png,2025-08-25,editorial,7,11,4,0,2879,92.0,-0.05,1,True,2 kept article(s) without a headline
+2025_08_25_front,2025-08-25_front.png,2025-08-25,front,10,12,2,0,1793,90.7,-0.05,7,False,
+2025_08_26_editorial,2025-08-26_editorial.png,2025-08-26,editorial,8,10,2,0,3216,92.4,-0.05,1,True,2 kept article(s) without a headline
+2025_08_26_front,2025-08-26_front.png,2025-08-26,front,9,17,8,0,1034,90.9,-0.05,11,False,
+2025_08_27_editorial,2025-08-27_editorial.png,2025-08-27,editorial,10,15,5,0,2988,91.3,-0.05,2,True,1 kept article(s) without a headline
+2025_08_27_front,2025-08-27_front.png,2025-08-27,front,5,8,3,0,546,91.4,-0.05,14,False,
+2025_08_28_editorial,2025-08-28_editorial.png,2025-08-28,editorial,8,11,3,0,3159,91.3,-0.05,1,True,1 kept article(s) without a headline
+2025_08_28_front,2025-08-28_front.png,2025-08-28,front,7,11,4,0,816,90.8,-0.05,5,True,1 kept article(s) without a headline
+2025_08_29_editorial,2025-08-29_editorial.png,2025-08-29,editorial,13,22,9,0,3019,90.7,-0.05,0,True,28% of body text had no headline above it; 3 kept article(s) without a headline
+2025_08_29_front,2025-08-29_front.png,2025-08-29,front,6,7,1,0,681,91.3,-0.05,4,False,
+2025_08_30_editorial,2025-08-30_editorial.png,2025-08-30,editorial,14,17,3,0,3122,91.3,-0.05,1,True,2 kept article(s) without a headline
+2025_08_30_front,2025-08-30_front.png,2025-08-30,front,6,11,5,0,744,92.5,-0.05,6,False,
+2025_08_31_front,2025-08-31_front.png,2025-08-31,front,8,12,4,0,843,91.6,-0.05,17,True,1 kept article(s) without a headline
+2025_09_01_editorial,2025-09-01_editorial.png,2025-09-01,editorial,7,8,1,0,2890,90.1,-0.05,1,False,
+2025_09_01_front,2025-09-01_front.png,2025-09-01,front,13,13,0,0,1873,91.8,-0.05,6,False,
+2025_09_02_editorial,2025-09-02_editorial.png,2025-09-02,editorial,6,8,1,1,3361,91.5,-0.05,1,False,
+2025_09_02_front,2025-09-02_front.png,2025-09-02,front,9,15,6,0,1367,90.2,-0.05,7,True,1 kept article(s) without a headline
+2025_09_03_editorial,2025-09-03_editorial.png,2025-09-03,editorial,10,12,2,0,3335,90.1,-0.05,1,False,
+2025_09_03_front,2025-09-03_front.png,2025-09-03,front,5,7,2,0,723,91.6,-0.05,5,True,1 kept article(s) without a headline
+2025_09_04_editorial,2025-09-04_editorial.png,2025-09-04,editorial,8,10,2,0,3381,91.2,-0.05,1,True,26% of body text had no headline above it; 2 kept article(s) without a headline
+2025_09_04_front,2025-09-04_front.png,2025-09-04,front,5,11,6,0,665,92.1,-0.05,8,False,
+2025_09_05_editorial,2025-09-05_editorial.png,2025-09-05,editorial,9,14,5,0,3148,91.2,-0.05,1,True,2 kept article(s) without a headline
+2025_09_05_front,2025-09-05_front.png,2025-09-05,front,10,18,8,0,1380,91.7,-0.05,10,False,
+2025_09_06_editorial,2025-09-06_editorial.png,2025-09-06,editorial,12,16,4,0,2970,92.2,-0.05,1,True,1 kept article(s) without a headline
+2025_09_06_front,2025-09-06_front.png,2025-09-06,front,11,15,4,0,1906,91.7,-0.05,7,True,2 kept article(s) without a headline
+2025_09_07_front,2025-09-07_front.png,2025-09-07,front,9,19,10,0,1445,91.0,-0.05,9,False,
+2025_09_08_editorial,2025-09-08_editorial.png,2025-09-08,editorial,8,14,6,0,2921,90.9,-0.05,2,True,2 kept article(s) without a headline
+2025_09_08_front,2025-09-08_front.png,2025-09-08,front,7,14,7,0,1026,89.4,-0.05,7,False,
+2025_09_09_editorial,2025-09-09_editorial.png,2025-09-09,editorial,9,12,3,0,3363,91.4,-0.05,1,True,2 kept article(s) without a headline
+2025_09_09_front,2025-09-09_front.png,2025-09-09,front,11,15,4,0,1875,90.4,-0.05,6,False,
+2025_09_10_editorial,2025-09-10_editorial.png,2025-09-10,editorial,9,14,5,0,3201,91.6,-0.05,0,True,1 kept article(s) without a headline
+2025_09_10_front,2025-09-10_front.png,2025-09-10,front,9,12,3,0,1383,90.6,-0.05,8,False,
+2025_09_11_editorial,2025-09-11_editorial.png,2025-09-11,editorial,9,16,7,0,3012,92.3,-0.05,0,True,3 kept article(s) without a headline
+2025_09_11_front,2025-09-11_front.png,2025-09-11,front,7,8,1,0,896,91.0,-0.05,5,False,
+2025_09_12_editorial,2025-09-12_editorial.png,2025-09-12,editorial,8,10,2,0,3202,90.8,-0.05,0,True,1 kept article(s) without a headline
+2025_09_12_front,2025-09-12_front.png,2025-09-12,front,7,11,4,0,1148,84.6,-0.05,10,False,
+2025_09_13_editorial,2025-09-13_editorial.png,2025-09-13,editorial,10,15,5,0,3166,91.5,-0.05,1,True,2 kept article(s) without a headline
+2025_09_13_front,2025-09-13_front.png,2025-09-13,front,8,9,1,0,1209,92.0,-0.05,7,False,
+2025_09_14_front,2025-09-14_front.png,2025-09-14,front,9,11,2,0,1442,91.0,-0.05,9,False,
+2025_09_15_editorial,2025-09-15_editorial.png,2025-09-15,editorial,10,14,4,0,3094,91.5,-0.05,1,True,2 kept article(s) without a headline
+2025_09_15_front,2025-09-15_front.png,2025-09-15,front,7,8,1,0,1516,92.6,-0.05,8,False,
+2025_09_16_editorial,2025-09-16_editorial.png,2025-09-16,editorial,13,19,6,0,3201,90.8,-0.05,1,True,3 kept article(s) without a headline
+2025_09_16_front,2025-09-16_front.png,2025-09-16,front,8,17,9,0,1534,91.0,-0.05,4,False,
+2025_09_17_editorial,2025-09-17_editorial.png,2025-09-17,editorial,8,11,3,0,3057,92.5,-0.05,0,True,1 kept article(s) without a headline
+2025_09_17_front,2025-09-17_front.png,2025-09-17,front,4,9,5,0,653,89.5,-0.05,8,False,
+2025_09_18_editorial,2025-09-18_editorial.png,2025-09-18,editorial,7,10,3,0,3163,91.5,-0.05,0,False,
+2025_09_18_front,2025-09-18_front.png,2025-09-18,front,5,10,5,0,591,89.8,-0.05,6,False,
+2025_09_19_editorial,2025-09-19_editorial.png,2025-09-19,editorial,9,12,3,0,3273,91.6,-0.05,1,True,2 kept article(s) without a headline
+2025_09_19_front,2025-09-19_front.png,2025-09-19,front,7,13,6,0,1056,89.0,-0.05,6,False,
+2025_09_20_editorial,2025-09-20_editorial.png,2025-09-20,editorial,9,10,1,0,3205,91.3,-0.05,1,True,1 kept article(s) without a headline
+2025_09_20_front,2025-09-20_front.png,2025-09-20,front,8,12,4,0,925,90.8,-0.05,7,False,
+2025_09_21_front,2025-09-21_front.png,2025-09-21,front,5,11,6,0,567,89.7,-0.05,12,False,
+2025_09_22_editorial,2025-09-22_editorial.png,2025-09-22,editorial,9,16,7,0,2762,92.1,-0.05,1,True,33% of body text had no headline above it; 4 kept article(s) without a headline
+2025_09_22_front,2025-09-22_front.png,2025-09-22,front,7,14,7,0,1442,91.2,-0.05,8,False,
+2025_09_23_editorial,2025-09-23_editorial.png,2025-09-23,editorial,10,17,6,1,2994,90.4,-0.05,1,True,1 kept article(s) without a headline
+2025_09_23_front,2025-09-23_front.png,2025-09-23,front,9,14,5,0,1145,91.9,-0.05,11,False,
+2025_09_24_editorial,2025-09-24_editorial.png,2025-09-24,editorial,8,9,1,0,3186,91.2,-0.05,1,False,
+2025_09_24_front,2025-09-24_front.png,2025-09-24,front,7,11,4,0,1406,92.1,-0.05,8,False,
+2025_09_25_editorial,2025-09-25_editorial.png,2025-09-25,editorial,11,17,6,0,3178,90.9,-0.05,0,True,2 kept article(s) without a headline
+2025_09_25_front,2025-09-25_front.png,2025-09-25,front,5,7,2,0,502,90.1,-0.05,9,False,
+2025_09_26_editorial,2025-09-26_editorial.png,2025-09-26,editorial,13,19,6,0,2979,91.2,-0.05,1,True,2 kept article(s) without a headline
+2025_09_26_front,2025-09-26_front.png,2025-09-26,front,11,17,6,0,1557,91.5,-0.05,7,True,1 kept article(s) without a headline
+2025_09_27_editorial,2025-09-27_editorial.png,2025-09-27,editorial,9,14,5,0,3331,91.6,-0.05,1,True,26% of body text had no headline above it; 3 kept article(s) without a headline
+2025_09_27_front,2025-09-27_front.png,2025-09-27,front,9,15,6,0,1446,91.9,-0.05,8,False,
+2025_09_28_front,2025-09-28_front.png,2025-09-28,front,8,10,2,0,917,91.7,-0.05,10,False,
+2025_09_29_editorial,2025-09-29_editorial.png,2025-09-29,editorial,6,8,2,0,3084,90.4,-0.05,2,True,1 kept article(s) without a headline
+2025_09_29_front,2025-09-29_front.png,2025-09-29,front,7,9,2,0,910,89.3,-0.05,6,False,
+2025_09_30_editorial,2025-09-30_editorial.png,2025-09-30,editorial,11,19,8,0,3181,91.4,-0.05,2,True,34% of body text had no headline above it; 5 kept article(s) without a headline
+2025_09_30_front,2025-09-30_front.png,2025-09-30,front,9,12,3,0,1707,91.6,-0.05,7,False,
+2025_10_01_editorial,2025-10-01_editorial.png,2025-10-01,editorial,10,15,5,0,3180,90.6,-0.05,1,True,26% of body text had no headline above it; 3 kept article(s) without a headline
+2025_10_01_front,2025-10-01_front.png,2025-10-01,front,8,12,4,0,912,92.1,-0.05,12,False,
+2025_10_02_editorial,2025-10-02_editorial.png,2025-10-02,editorial,8,11,3,0,3224,90.6,-0.05,0,True,1 kept article(s) without a headline
+2025_10_02_front,2025-10-02_front.png,2025-10-02,front,5,16,11,0,782,90.7,-0.05,9,False,
+2025_10_03_editorial,2025-10-03_editorial.png,2025-10-03,editorial,8,10,2,0,3089,92.3,-0.05,1,True,1 kept article(s) without a headline
+2025_10_03_front,2025-10-03_front.png,2025-10-03,front,7,13,6,0,1479,91.3,-0.05,6,False,
+2025_10_04_editorial,2025-10-04_editorial.png,2025-10-04,editorial,6,9,3,0,3038,91.6,-0.05,0,False,
+2025_10_04_front,2025-10-04_front.png,2025-10-04,front,9,10,1,0,1423,91.6,-0.05,12,False,
+2025_10_05_front,2025-10-05_front.png,2025-10-05,front,8,15,7,0,1350,91.0,-0.05,10,False,
+2025_10_06_editorial,2025-10-06_editorial.png,2025-10-06,editorial,8,16,8,0,2903,91.0,-0.05,1,True,31% of body text had no headline above it; 3 kept article(s) without a headline
+2025_10_06_front,2025-10-06_front.png,2025-10-06,front,6,9,3,0,1150,91.3,-0.05,7,False,
+2025_10_07_editorial,2025-10-07_editorial.png,2025-10-07,editorial,8,11,3,0,3186,92.0,-0.05,0,True,1 kept article(s) without a headline
+2025_10_07_front,2025-10-07_front.png,2025-10-07,front,4,9,5,0,527,91.9,-0.05,7,False,
+2025_10_08_editorial,2025-10-08_editorial.png,2025-10-08,editorial,8,11,3,0,3035,91.2,-0.05,1,False,
+2025_10_08_front,2025-10-08_front.png,2025-10-08,front,8,12,4,0,963,91.3,-0.05,9,False,
+2025_10_09_editorial,2025-10-09_editorial.png,2025-10-09,editorial,7,8,1,0,3106,92.5,-0.05,1,False,
+2025_10_09_front,2025-10-09_front.png,2025-10-09,front,8,14,6,0,866,91.0,-0.05,8,False,
+2025_10_10_editorial,2025-10-10_editorial.png,2025-10-10,editorial,10,13,3,0,3132,92.4,-0.05,2,True,25% of body text had no headline above it; 3 kept article(s) without a headline
+2025_10_10_front,2025-10-10_front.png,2025-10-10,front,5,14,9,0,414,91.8,-0.05,4,True,1 kept article(s) without a headline
+2025_10_11_editorial,2025-10-11_editorial.png,2025-10-11,editorial,10,14,4,0,3140,91.9,-0.05,1,True,2 kept article(s) without a headline
+2025_10_11_front,2025-10-11_front.png,2025-10-11,front,8,14,6,0,979,90.8,-0.05,10,False,
+2025_10_12_front,2025-10-12_front.png,2025-10-12,front,10,18,8,0,1347,91.3,-0.05,11,True,1 kept article(s) without a headline
+2025_10_13_editorial,2025-10-13_editorial.png,2025-10-13,editorial,6,8,2,0,2978,90.6,-0.05,1,False,
+2025_10_13_front,2025-10-13_front.png,2025-10-13,front,9,11,2,0,1242,91.0,-0.05,8,False,
+2025_10_14_editorial,2025-10-14_editorial.png,2025-10-14,editorial,11,13,2,0,3215,90.8,-0.05,1,True,1 kept article(s) without a headline
+2025_10_14_front,2025-10-14_front.png,2025-10-14,front,4,14,10,0,528,90.3,-0.05,7,True,1 kept article(s) without a headline
+2025_10_15_editorial,2025-10-15_editorial.png,2025-10-15,editorial,7,8,1,0,3350,91.7,-0.05,1,False,
+2025_10_15_front,2025-10-15_front.png,2025-10-15,front,8,10,2,0,1100,91.5,-0.05,9,False,
+2025_10_16_editorial,2025-10-16_editorial.png,2025-10-16,editorial,13,16,2,1,3249,92.4,-0.05,1,True,1 kept article(s) without a headline
+2025_10_16_front,2025-10-16_front.png,2025-10-16,front,7,16,9,0,731,90.4,-0.05,10,False,
+2025_10_17_editorial,2025-10-17_editorial.png,2025-10-17,editorial,11,13,2,0,3176,91.6,-0.05,0,False,
+2025_10_17_front,2025-10-17_front.png,2025-10-17,front,11,16,5,0,1658,91.1,-0.05,6,False,
+2025_10_18_editorial,2025-10-18_editorial.png,2025-10-18,editorial,12,23,11,0,3290,90.8,-0.05,1,True,38% of body text had no headline above it; 6 kept article(s) without a headline
+2025_10_18_front,2025-10-18_front.png,2025-10-18,front,11,14,3,0,1779,91.8,-0.05,7,False,
+2025_10_19_front,2025-10-19_front.png,2025-10-19,front,6,14,8,0,703,91.1,-0.05,10,False,
+2025_10_20_editorial,2025-10-20_editorial.png,2025-10-20,editorial,9,17,8,0,2719,91.0,-0.05,1,True,27% of body text had no headline above it; 3 kept article(s) without a headline
+2025_10_20_front,2025-10-20_front.png,2025-10-20,front,5,12,7,0,622,89.6,-0.05,9,False,
+2025_10_23_editorial,2025-10-23_editorial.png,2025-10-23,editorial,8,9,1,0,3156,90.8,-0.05,1,False,
+2025_10_23_front,2025-10-23_front.png,2025-10-23,front,9,16,7,0,1607,91.7,-0.05,8,False,
+2025_10_24_editorial,2025-10-24_editorial.png,2025-10-24,editorial,7,8,1,0,3292,91.1,-0.05,1,False,
+2025_10_24_front,2025-10-24_front.png,2025-10-24,front,7,14,7,0,974,90.9,-0.05,9,False,
+2025_10_25_editorial,2025-10-25_editorial.png,2025-10-25,editorial,9,14,5,0,3018,93.3,-0.05,1,True,3 kept article(s) without a headline
+2025_10_25_front,2025-10-25_front.png,2025-10-25,front,8,13,5,0,1152,91.3,-0.05,11,False,
+2025_10_26_front,2025-10-26_front.png,2025-10-26,front,10,13,3,0,1757,91.6,-0.05,8,False,
+2025_10_27_editorial,2025-10-27_editorial.png,2025-10-27,editorial,7,13,6,0,2761,91.8,-0.05,1,True,3 kept article(s) without a headline
+2025_10_27_front,2025-10-27_front.png,2025-10-27,front,7,13,6,0,1466,90.8,-0.05,10,False,
+2025_10_28_editorial,2025-10-28_editorial.png,2025-10-28,editorial,9,14,5,0,3036,90.5,-0.05,1,True,26% of body text had no headline above it; 3 kept article(s) without a headline
+2025_10_28_front,2025-10-28_front.png,2025-10-28,front,5,14,9,0,632,90.5,-0.05,7,True,1 kept article(s) without a headline
+2025_10_29_editorial,2025-10-29_editorial.png,2025-10-29,editorial,11,15,4,0,3297,89.7,-0.05,2,True,2 kept article(s) without a headline
+2025_10_29_front,2025-10-29_front.png,2025-10-29,front,6,10,4,0,718,90.6,-0.05,10,True,1 kept article(s) without a headline
+2025_10_30_editorial,2025-10-30_editorial.png,2025-10-30,editorial,8,10,2,0,3273,90.9,-0.05,1,True,3 kept article(s) without a headline
+2025_10_30_front,2025-10-30_front.png,2025-10-30,front,10,16,6,0,1694,91.8,-0.05,10,False,
+2025_10_31_editorial,2025-10-31_editorial.png,2025-10-31,editorial,7,9,2,0,3090,91.3,-0.05,2,True,1 kept article(s) without a headline
+2025_10_31_front,2025-10-31_front.png,2025-10-31,front,9,15,6,0,1786,91.5,-0.05,6,True,1 kept article(s) without a headline
+2025_11_01_editorial,2025-11-01_editorial.png,2025-11-01,editorial,9,11,2,0,3210,90.4,-0.05,1,False,
+2025_11_01_front,2025-11-01_front.png,2025-11-01,front,8,14,6,0,1421,91.5,-0.05,6,False,
+2025_11_02_front,2025-11-02_front.png,2025-11-02,front,11,15,4,0,1365,91.6,-0.05,13,True,4 kept article(s) without a headline
+2025_11_03_editorial,2025-11-03_editorial.png,2025-11-03,editorial,6,8,2,0,2915,90.7,-0.05,3,False,
+2025_11_03_front,2025-11-03_front.png,2025-11-03,front,3,10,7,0,693,88.0,-0.05,6,False,
+2025_11_04_editorial,2025-11-04_editorial.png,2025-11-04,editorial,8,11,3,0,3099,91.9,-0.05,1,False,
+2025_11_04_front,2025-11-04_front.png,2025-11-04,front,8,11,3,0,1762,91.2,-0.05,8,False,
+2025_11_05_editorial,2025-11-05_editorial.png,2025-11-05,editorial,7,11,4,0,3313,89.8,-0.05,1,False,
+2025_11_05_front,2025-11-05_front.png,2025-11-05,front,7,12,5,0,1639,89.6,-0.05,6,False,
+2025_11_06_editorial,2025-11-06_editorial.png,2025-11-06,editorial,9,12,3,0,3751,86.2,-0.05,1,False,
+2025_11_06_front,2025-11-06_front.png,2025-11-06,front,10,16,6,0,1248,89.2,-0.05,8,False,
+2025_11_07_editorial,2025-11-07_editorial.png,2025-11-07,editorial,12,21,9,0,3365,90.8,-0.05,1,True,4 kept article(s) without a headline
+2025_11_07_front,2025-11-07_front.png,2025-11-07,front,8,11,3,0,1917,88.3,-0.05,5,False,
+2025_11_08_editorial,2025-11-08_editorial.png,2025-11-08,editorial,6,10,4,0,4331,89.8,-0.05,1,False,
+2025_11_08_front,2025-11-08_front.png,2025-11-08,front,11,14,3,0,1753,90.4,-0.05,6,True,1 kept article(s) without a headline
+2025_11_09_front,2025-11-09_front.png,2025-11-09,front,7,13,6,0,642,74.0,-0.05,12,True,low OCR confidence (74)
+2025_11_10_editorial,2025-11-10_editorial.png,2025-11-10,editorial,8,12,4,0,3194,87.8,-0.05,1,False,
+2025_11_10_front,2025-11-10_front.png,2025-11-10,front,9,13,4,0,2021,88.5,-0.05,6,False,
+2025_11_11_editorial,2025-11-11_editorial.png,2025-11-11,editorial,16,23,7,0,3338,88.6,-0.05,1,False,
+2025_11_11_front,2025-11-11_front.png,2025-11-11,front,6,8,2,0,813,91.1,-0.05,7,False,
+2025_11_12_editorial,2025-11-12_editorial.png,2025-11-12,editorial,8,15,7,0,3339,89.5,-0.05,2,True,1 kept article(s) without a headline
+2025_11_12_front,2025-11-12_front.png,2025-11-12,front,11,11,0,0,1782,89.5,-0.05,4,False,
+2025_11_13_editorial,2025-11-13_editorial.png,2025-11-13,editorial,9,11,2,0,3762,87.6,-0.05,1,False,
+2025_11_13_front,2025-11-13_front.png,2025-11-13,front,11,13,2,0,1950,91.1,-0.0,10,False,
+2025_11_14_editorial,2025-11-14_editorial.png,2025-11-14,editorial,7,10,3,0,3172,92.1,-0.05,1,False,
+2025_11_14_front,2025-11-14_front.png,2025-11-14,front,6,9,3,0,772,91.4,-0.05,2,False,
+2025_11_15_editorial,2025-11-15_editorial.png,2025-11-15,editorial,9,13,4,0,3195,90.0,-0.05,1,False,
+2025_11_15_front,2025-11-15_front.png,2025-11-15,front,7,16,9,0,810,89.0,-0.05,14,False,
+2025_11_16_front,2025-11-16_front.png,2025-11-16,front,9,12,3,0,1726,90.7,-0.05,9,False,
+2025_11_17_editorial,2025-11-17_editorial.png,2025-11-17,editorial,7,9,2,0,3347,89.2,-0.05,1,False,
+2025_11_17_front,2025-11-17_front.png,2025-11-17,front,7,11,4,0,1084,89.4,-0.05,6,False,
+2025_11_18_editorial,2025-11-18_editorial.png,2025-11-18,editorial,14,20,6,0,3183,89.8,-0.05,1,True,3 kept article(s) without a headline
+2025_11_18_front,2025-11-18_front.png,2025-11-18,front,8,12,4,0,1032,89.7,-0.05,4,False,
+2025_11_19_editorial,2025-11-19_editorial.png,2025-11-19,editorial,10,14,4,0,3013,90.4,-0.05,1,False,
+2025_11_19_front,2025-11-19_front.png,2025-11-19,front,7,12,5,0,1770,89.8,-0.05,8,False,
+2025_11_20_editorial,2025-11-20_editorial.png,2025-11-20,editorial,12,15,3,0,3504,88.8,-0.05,1,False,
+2025_11_20_front,2025-11-20_front.png,2025-11-20,front,10,13,3,0,2037,90.4,-0.05,5,True,1 kept article(s) without a headline
+2025_11_21_editorial,2025-11-21_editorial.png,2025-11-21,editorial,13,21,8,0,3155,90.7,-0.05,1,False,
+2025_11_21_front,2025-11-21_front.png,2025-11-21,front,10,12,2,0,1340,89.5,-0.05,6,False,
+2025_11_22_editorial,2025-11-22_editorial.png,2025-11-22,editorial,13,15,2,0,3238,89.4,-0.05,1,False,
+2025_11_22_front,2025-11-22_front.png,2025-11-22,front,8,13,5,0,1118,89.3,-0.05,10,False,
+2025_11_23_front,2025-11-23_front.png,2025-11-23,front,11,15,4,0,1837,90.1,-0.05,5,False,
+2025_11_24_editorial,2025-11-24_editorial.png,2025-11-24,editorial,7,14,7,0,3153,86.5,-0.05,1,False,
+2025_11_24_front,2025-11-24_front.png,2025-11-24,front,11,11,0,0,2028,89.8,-0.05,4,True,1 kept article(s) without a headline
+2025_11_25_editorial,2025-11-25_editorial.png,2025-11-25,editorial,8,11,3,0,3781,88.0,-0.05,1,False,
+2025_11_25_front,2025-11-25_front.png,2025-11-25,front,7,8,1,0,990,89.7,-0.05,5,False,
+2025_11_26_editorial,2025-11-26_editorial.png,2025-11-26,editorial,12,19,7,0,3437,86.6,-0.05,1,True,2 kept article(s) without a headline
+2025_11_26_front,2025-11-26_front.png,2025-11-26,front,8,10,2,0,1053,88.6,-0.05,4,False,
+2025_11_27_editorial,2025-11-27_editorial.png,2025-11-27,editorial,10,13,3,0,3388,88.5,-0.05,1,False,
+2025_11_27_front,2025-11-27_front.png,2025-11-27,front,11,16,5,0,1793,90.1,-0.05,4,True,2 kept article(s) without a headline
+2025_11_28_editorial,2025-11-28_editorial.png,2025-11-28,editorial,10,16,6,0,3597,90.4,-0.05,1,True,3 kept article(s) without a headline
+2025_11_28_front,2025-11-28_front.png,2025-11-28,front,11,13,2,0,2255,88.3,-0.05,4,False,
+2025_11_29_editorial,2025-11-29_editorial.png,2025-11-29,editorial,9,16,7,0,3329,89.7,-0.05,1,False,
+2025_11_29_front,2025-11-29_front.png,2025-11-29,front,8,16,8,0,1331,90.0,-0.05,12,False,
+2025_11_30_front,2025-11-30_front.png,2025-11-30,front,8,12,4,0,1163,89.1,-0.05,11,False,
+2025_12_01_editorial,2025-12-01_editorial.png,2025-12-01,editorial,10,15,5,0,3448,87.0,-0.05,1,False,
+2025_12_01_front,2025-12-01_front.png,2025-12-01,front,9,11,2,0,1787,89.6,-0.05,8,False,
+2025_12_02_editorial,2025-12-02_editorial.png,2025-12-02,editorial,13,17,4,0,3225,87.9,-0.05,1,True,2 kept article(s) without a headline
+2025_12_02_front,2025-12-02_front.png,2025-12-02,front,10,12,2,0,1972,91.4,-0.05,8,False,
+2025_12_03_editorial,2025-12-03_editorial.png,2025-12-03,editorial,16,24,8,0,3188,89.1,-0.05,1,True,3 kept article(s) without a headline
+2025_12_03_front,2025-12-03_front.png,2025-12-03,front,8,10,2,0,1139,90.3,-0.05,8,False,
+2025_12_04_editorial,2025-12-04_editorial.png,2025-12-04,editorial,10,16,6,0,3229,89.4,-0.05,1,True,4 kept article(s) without a headline
+2025_12_04_front,2025-12-04_front.png,2025-12-04,front,0,0,0,0,0,0.0,-0.05,2,True,only 0 article(s) kept
+2025_12_05_editorial,2025-12-05_editorial.png,2025-12-05,editorial,8,10,2,0,3438,90.3,-0.05,1,False,
+2025_12_05_front,2025-12-05_front.png,2025-12-05,front,8,10,2,0,890,85.1,-0.05,7,True,1 kept article(s) without a headline
+2025_12_06_editorial,2025-12-06_editorial.png,2025-12-06,editorial,11,16,5,0,3499,90.1,-0.05,1,True,2 kept article(s) without a headline
+2025_12_06_front,2025-12-06_front.png,2025-12-06,front,8,14,6,0,1473,90.6,-0.05,5,True,2 kept article(s) without a headline
+2025_12_07_front,2025-12-07_front.png,2025-12-07,front,8,12,4,0,1655,89.6,-0.05,8,True,1 kept article(s) without a headline
+2025_12_08_editorial,2025-12-08_editorial.png,2025-12-08,editorial,6,11,5,0,3477,90.0,-0.05,1,False,
+2025_12_08_front,2025-12-08_front.png,2025-12-08,front,3,5,2,0,881,83.6,-0.05,4,True,58% of body text had no headline above it; 1 kept article(s) without a headline
+2025_12_09_editorial,2025-12-09_editorial.png,2025-12-09,editorial,8,10,2,0,3627,87.8,-0.05,1,False,
+2025_12_09_front,2025-12-09_front.png,2025-12-09,front,10,12,2,0,1678,90.7,-0.05,6,False,
+2025_12_10_editorial,2025-12-10_editorial.png,2025-12-10,editorial,13,21,8,0,3028,87.9,-0.05,1,True,1 kept article(s) without a headline
+2025_12_10_front,2025-12-10_front.png,2025-12-10,front,8,11,3,0,878,88.7,-0.05,9,False,
+2025_12_11_editorial,2025-12-11_editorial.png,2025-12-11,editorial,7,10,3,0,3601,87.5,-0.05,1,False,
+2025_12_11_front,2025-12-11_front.png,2025-12-11,front,9,11,2,0,1982,90.6,-0.05,7,True,1 kept article(s) without a headline
+2025_12_12_editorial,2025-12-12_editorial.png,2025-12-12,editorial,9,12,3,0,3569,87.5,-0.05,1,True,1 kept article(s) without a headline
+2025_12_12_front,2025-12-12_front.png,2025-12-12,front,9,15,6,0,1434,91.1,-0.05,6,False,
+2025_12_13_editorial,2025-12-13_editorial.png,2025-12-13,editorial,9,13,4,0,3441,88.9,-0.05,1,False,
+2025_12_13_front,2025-12-13_front.png,2025-12-13,front,8,12,4,0,1605,90.5,-0.05,10,False,
+2025_12_14_front,2025-12-14_front.png,2025-12-14,front,7,14,7,0,906,90.0,-0.05,9,False,
+2025_12_15_editorial,2025-12-15_editorial.png,2025-12-15,editorial,11,15,4,0,3117,88.7,-0.05,1,False,
+2025_12_15_front,2025-12-15_front.png,2025-12-15,front,9,15,6,0,1753,90.4,-0.05,5,False,
+2025_12_16_editorial,2025-12-16_editorial.png,2025-12-16,editorial,8,11,3,0,3306,88.8,-0.05,1,False,
+2025_12_16_front,2025-12-16_front.png,2025-12-16,front,10,12,2,0,1261,88.7,-0.05,6,False,
+2025_12_17_editorial,2025-12-17_editorial.png,2025-12-17,editorial,8,12,4,0,3456,87.3,-0.05,1,False,
+2025_12_17_front,2025-12-17_front.png,2025-12-17,front,9,13,4,0,1719,90.3,-0.05,8,False,
+2025_12_18_editorial,2025-12-18_editorial.png,2025-12-18,editorial,6,11,5,0,3392,88.5,-0.05,1,False,
+2025_12_18_front,2025-12-18_front.png,2025-12-18,front,9,17,8,0,1629,90.8,-0.05,8,False,
+2025_12_19_editorial,2025-12-19_editorial.png,2025-12-19,editorial,8,11,3,0,3569,87.4,-0.05,1,False,
+2025_12_19_front,2025-12-19_front.png,2025-12-19,front,9,15,6,0,1515,89.2,-0.05,6,True,1 kept article(s) without a headline
+2025_12_20_editorial,2025-12-20_editorial.png,2025-12-20,editorial,13,18,5,0,3527,85.9,-0.05,1,False,
+2025_12_20_front,2025-12-20_front.png,2025-12-20,front,7,11,4,0,945,89.4,-0.05,9,False,
+2025_12_21_front,2025-12-21_front.png,2025-12-21,front,7,13,6,0,1020,88.8,-0.05,9,False,
+2025_12_22_editorial,2025-12-22_editorial.png,2025-12-22,editorial,7,9,2,0,3313,84.5,-0.05,1,False,
+2025_12_22_front,2025-12-22_front.png,2025-12-22,front,7,9,2,0,748,90.0,-0.05,2,False,
+2025_12_23_front,2025-12-23_front.png,2025-12-23,front,11,15,4,0,1973,90.9,-0.05,5,False,
+2025_12_24_editorial,2025-12-24_editorial.png,2025-12-24,editorial,12,19,7,0,3070,90.0,-0.05,1,False,
+2025_12_24_front,2025-12-24_front.png,2025-12-24,front,6,9,3,0,734,90.3,-0.05,5,True,1 kept article(s) without a headline
+2025_12_25_editorial,2025-12-25_editorial.png,2025-12-25,editorial,13,18,5,0,3318,86.9,-0.05,1,False,
+2025_12_25_front,2025-12-25_front.png,2025-12-25,front,8,11,3,0,1779,90.1,-0.05,9,False,
+2025_12_26_editorial,2025-12-26_editorial.png,2025-12-26,editorial,6,7,1,0,3417,89.5,-0.05,1,False,
+2025_12_26_front,2025-12-26_front.png,2025-12-26,front,8,12,4,0,1003,88.9,-0.05,7,False,
+2025_12_27_editorial,2025-12-27_editorial.png,2025-12-27,editorial,8,9,1,0,3445,88.8,-0.05,1,False,
+2025_12_27_front,2025-12-27_front.png,2025-12-27,front,10,15,5,0,1787,89.8,-0.05,6,False,
+2025_12_28_front,2025-12-28_front.png,2025-12-28,front,8,9,1,0,905,89.8,-0.05,10,False,
+2025_12_29_editorial,2025-12-29_editorial.png,2025-12-29,editorial,5,9,4,0,3239,89.8,-0.05,1,False,
+2025_12_29_front,2025-12-29_front.png,2025-12-29,front,9,16,7,0,1515,89.4,-0.05,6,False,
+2025_12_30_editorial,2025-12-30_editorial.png,2025-12-30,editorial,12,14,2,0,3505,86.8,-0.05,1,False,
+2025_12_30_front,2025-12-30_front.png,2025-12-30,front,9,18,9,0,2171,89.5,-0.05,4,False,
+2025_12_31_editorial,2025-12-31_editorial.png,2025-12-31,editorial,10,13,3,0,3178,89.5,-0.05,1,False,
+2025_12_31_front,2025-12-31_front.png,2025-12-31,front,8,12,4,0,1512,89.6,-0.05,5,False,

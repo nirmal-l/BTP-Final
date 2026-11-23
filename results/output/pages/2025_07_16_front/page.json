@@ -1,0 +1,856 @@
+{
+ "version": "1.6",
+ "page_id": "2025_07_16_front",
+ "source_file": "2025-07-16_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-07-16_front.png",
+ "date": "2025-07-16",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 441,
+  "mean_line_conf": 90.85744833695962,
+  "orphan_words": 105,
+  "body_words_total": 1765
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      815,
+      792,
+      3154,
+      1165
+     ],
+     [
+      812,
+      1211,
+      1725,
+      1342
+     ]
+    ],
+    "deck_boxes": [
+     [
+      814,
+      696,
+      2326,
+      745
+     ],
+     [
+      320,
+      1423,
+      736,
+      1480
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      1526,
+      759,
+      1604
+     ],
+     [
+      811,
+      1421,
+      1152,
+      1493
+     ],
+     [
+      805,
+      1542,
+      1251,
+      1932
+     ],
+     [
+      1298,
+      1820,
+      1740,
+      1926
+     ]
+    ],
+    "layout_words": 75
+   },
+   "headline_raw": "BJP ally TDP to EC: Define SIR scope,\nmake clear there\u2019s no citizenship link\nParty says any deletion from voter list\nmust be preceded by a valid inquiry",
+   "deck_raw": "DELEGATION MEETS ELECTION COMMISSIONERS\nEXPRESS NETWORK",
+   "body_raw": "2 LECTURERS AMONG\n3 HELD IN KARNATAKA\n\nPUSHKAR BANAKAR\nNEW DELHI, JULY 15\n\nAS QUESTIONSare raised overthe\nongoing Special Intensive\nRevision (SIR) of electoral rolls in\npoll-bound Bihar, the Telugu\nDesam Party (TDP), the ruling\nNDA\u2018s second-largest constituent,\nhas sought clarity on \u201cthe scope\nof the exercise\u201d and said it should\nbe made clear that it is \u201cnot re-\nlated to citizenship verification\u201d.\n\nIna letter to Chief Election\nCommissioner Gyanesh Kumar\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.73333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "BJP ally TDP to EC: Define SIR scope, make clear there's no citizenship link Party says any deletion from voter list must be preceded by a valid inquiry",
+   "deck": "DELEGATION MEETS ELECTION COMMISSIONERS EXPRESS NETWORK",
+   "byline": "2 LECTURERS AMONG; 3 HELD IN KARNATAKA; PUSHKAR BANAKAR; NEW DELHI, JULY 15",
+   "text": "AS QUESTIONSare raised overthe ongoing Special Intensive Revision (SIR) of electoral rolls in poll-bound Bihar, the Telugu Desam Party (TDP), the ruling NDA's second-largest constituent, has sought clarity on \"the scope of the exercise\" and said it should be made clear that it is \"not related to citizenship verification\".\n\nIna letter to Chief Election Commissioner Gyanesh Kumar",
+   "n_words": 57,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      371,
+      896,
+      667,
+      962
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Wow do You handte 4 state lke\nAssam on & Special Intensive\naes ee ar a ae",
+   "ocr_conf": 53.411764705882355,
+   "ocr_low_conf_share": 0.47058823529411764,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Wow do You handte 4 state lke Assam on & Special Intensive",
+   "n_words": 12,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      631,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      1208,
+      3201,
+      1491
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      1582,
+      2556,
+      1652
+     ],
+     [
+      2275,
+      1700,
+      2719,
+      1933
+     ],
+     [
+      2760,
+      1543,
+      3206,
+      1927
+     ]
+    ],
+    "layout_words": 88
+   },
+   "headline_raw": "10 days to go, Bihar CEO\nlaunches online form for\nresidents outside state",
+   "deck_raw": "",
+   "body_raw": "SANTOSH SINGH\nPATNA, JULY 15\n\nWITH ONLY 10 days left for the\nsubmission and uploading of\nenumeration forms to be in-\ncluded as voters in the Election\nCommission\u2019s Special Intensive\nRevision (SIR) drive, Bihar Chief\n\nElectoral Office (CEO) has\nlaunched \u201can easy, two-step\u201d on-\nline form for the estimated one\ncrore migrants living outside the\nstate, amid concerns that they\nmay be left out of the exercise.\nBihar CEO Vinod Singh Gun-\nJiyal told The indian Express in an\ninterview earlier that the Election\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.44318181818181,
+   "ocr_low_conf_share": 0.03409090909090909,
+   "headline": "10 days to go, Bihar CEO launches online form for residents outside state",
+   "deck": "",
+   "byline": "SANTOSH SINGH; PATNA, JULY 15",
+   "text": "WITH ONLY 10 days left for the submission and uploading of enumeration forms to be included as voters in the Election Commission's Special Intensive Revision (SIR) drive, Bihar Chief\n\nElectoral Office (CEO) has launched \"an easy, two-step\" online form for the estimated one crore migrants living outside the state, amid concerns that they may be left out of the exercise. Bihar CEO Vinod Singh Gun-Jiyal told The indian Express in an interview earlier that the Election",
+   "n_words": 76,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3254,
+      1422,
+      4055,
+      1500
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "External Affairs Minister S Jaishankar meets Chinese\nPresident Xi Jinping in Beijing, Tuesday. PT!",
+   "ocr_conf": 91.28571428571429,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "External Affairs Minister S Jaishankar meets Chinese President Xi Jinping in Beijing, Tuesday. PT!",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      1618,
+      754,
+      1668
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      1684,
+      751,
+      1827
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      1843,
+      712,
+      1971
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "FOR STUDENT'S RAPE",
+   "deck_raw": "SC NOTICE TO U.P. ON\nQR CODE DIRECTIVE\nON KANWAR ROUTE",
+   "body_raw": "ODISHA STUDENT\nWHO SET HERSELF\nABLAZE DIES pP3,6,7",
+   "ocr_conf": 89.25,
+   "ocr_low_conf_share": 0.125,
+   "headline": "FOR STUDENT'S RAPE",
+   "deck": "SC NOTICE TO U.P. ON QR CODE DIRECTIVE ON KANWAR ROUTE",
+   "byline": "ODISHA STUDENT; WHO SET HERSELF; ABLAZE DIES pP3,6,7",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      1603,
+      4124,
+      2121
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3254,
+      2164,
+      4133,
+      2294
+     ]
+    ],
+    "body_boxes": [
+     [
+      3253,
+      2374,
+      3536,
+      2444
+     ],
+     [
+      3247,
+      2492,
+      3697,
+      3279
+     ],
+     [
+      3900,
+      2429,
+      4128,
+      2522
+     ],
+     [
+      3786,
+      2574,
+      4138,
+      2923
+     ],
+     [
+      3740,
+      3009,
+      4183,
+      3272
+     ]
+    ],
+    "layout_words": 179
+   },
+   "headline_raw": "Jaishankar meets\nXi, reminds SCO\nof need to combat\nterror, separatism",
+   "deck_raw": "Raises Pahalgam attack, says it was\ndone to sow religious divide in India",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, JULY 15\n\nIN HIS first visit to China since\nthe start of the military standoff\nbetween Chinese and Indian\ntroops along the Line of Actual\nControl in eastern Ladakh in\n2020, External Affairs Minister S\nJaishankar met President Xi\nJinping in Beijing Tuesday and\napprised him of the \u201crecent de-\nvelopment\u201d in bilateral ties \u2014 the\ntwocountries have begun taking\nsteps to repair relations.\nIn a post on X after meeting\nXi, Jaishankar, who is attending a\ngathering of Foreign Ministers of\nthe Shanghai Cooperation\nOrganisation in Tianjin, said,\n\u201cCalled on President Xi Jinping\nthis morning in Beijing along\nwith my fellow SCO Foreign\n\nMoving to\n}@ repair ties\n\nIN THE months after the\ndisengagement of troops\nin eastern Ladakh, India\nand China have sought to\nrepair ties. The resump-\ntion of the Mansarovar\nYatra and discussions to\nrestore direct flights are\npointers to the efforts.\n\nMinisters. Conveyed the greet-\nings of President Droupadi\nMurmu & Prime Minister\nNarendra Modi. Apprised\nPresident Xi of the recent devel-\nopment of our bilateral ties.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.86666666666666,
+   "ocr_low_conf_share": 0.027777777777777776,
+   "headline": "Jaishankar meets Xi, reminds SCO of need to combat terror, separatism",
+   "deck": "Raises Pahalgam attack, says it was done to sow religious divide in India",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, JULY 15",
+   "text": "IN HIS first visit to China since the start of the military standoff between Chinese and Indian troops along the Line of Actual Control in eastern Ladakh in 2020, External Affairs Minister S Jaishankar met President Xi Jinping in Beijing Tuesday and apprised him of the \"recent development\" in bilateral ties - the twocountries have begun taking steps to repair relations. In a post on X after meeting Xi, Jaishankar, who is attending a gathering of Foreign Ministers of the Shanghai Cooperation Organisation in Tianjin, said, \"Called on President Xi Jinping this morning in Beijing along with my fellow SCO Foreign\n\nMoving to }@ repair ties\n\nIN THE months after the disengagement of troops in eastern Ladakh, India and China have sought to repair ties. The resumption of the Mansarovar Yatra and discussions to restore direct flights are pointers to the efforts.\n\nMinisters. Conveyed the greet-ings of President Droupadi Murmu & Prime Minister Narendra Modi. Apprised President Xi of the recent development of our bilateral ties.",
+   "n_words": 166,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2077,
+      1209,
+      2540
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      3440,
+      726,
+      3510
+     ],
+     [
+      318,
+      3559,
+      763,
+      4259
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "Tesla cruises into\nIndia, with Mumbai\nas first stop for its\nModel Y variant",
+   "deck_raw": "",
+   "body_raw": "SOUMYARENDRABARIK\nNEW DELHI, JULY 15\n\nELON MUSK\u2019S Tesla, the global\nelectric vehicle (EV) giant, made\nits official entry into India\nTuesday, launching its first\nshowroom in Mumbai and\nshowcasing its Model Y SUV.\nInaugurating the showroom\nin Mumbai, Maharashtra Chief\nMinister Devendra Fadnavis\nsaid: \u201cThis is not just the inaugu-\nration of an experience centre\nbut a statement that Tesla has ar-\nrived, in the right city and state,\nthat is Mumbai, Maharashtra.\nMumbai stands for innovation\nand sustainability.\u201d\nThe entry marks a close to a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.76666666666667,
+   "ocr_low_conf_share": 0.07777777777777778,
+   "headline": "Tesla cruises into India, with Mumbai as first stop for its Model Y variant",
+   "deck": "",
+   "byline": "SOUMYARENDRABARIK; NEW DELHI, JULY 15",
+   "text": "ELON MUSK'S Tesla, the global electric vehicle (EV) giant, made its official entry into India Tuesday, launching its first showroom in Mumbai and showcasing its Model Y SUV. Inaugurating the showroom in Mumbai, Maharashtra Chief Minister Devendra Fadnavis said: \"This is not just the inauguration of an experience centre but a statement that Tesla has arrived, in the right city and state, that is Mumbai, Maharashtra. Mumbai stands for innovation and sustainability.\" The entry marks a close to a",
+   "n_words": 79,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      2359,
+      1709,
+      2632
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1295,
+      3323,
+      1581,
+      3393
+     ],
+     [
+      1295,
+      3442,
+      1740,
+      4103
+     ],
+     [
+      1296,
+      4186,
+      1523,
+      4261
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "Shukla & team\nreturn; he has\ninspired a billion\ndreams, says PM",
+   "deck_raw": "",
+   "body_raw": "ANONNA DUTT\nNEW DELHI, JULY 15\n\nONLY THE second Indian to\ntravel to space, and the first from\nthe country to visit the\nInternational Space Station (ISS),\nGroup Captain Shubhanshu\nShukla returned to Earth on\nTuesday, after a 20-day land-\nmark space journey that pre-\npares the ground for India's own\nhuman spaceflight mission,\nGaganyaan.\nAssisted by two people, and\nwith a broad smile on his face,\nShukla emerged from the space\ncapsule, getting his first feel of\nEarth in almost three weeks\nCONTINUED ON PAGE 2\n\nEXPLAINED\nPAGE 13",
+   "ocr_conf": 89.57777777777778,
+   "ocr_low_conf_share": 0.06666666666666667,
+   "headline": "Shukla & team return; he has inspired a billion dreams, says PM",
+   "deck": "",
+   "byline": "ANONNA DUTT; NEW DELHI, JULY 15",
+   "text": "ONLY THE second Indian to travel to space, and the first from the country to visit the International Space Station (ISS), Group Captain Shubhanshu Shukla returned to Earth on Tuesday, after a 20-day landmark space journey that prepares the ground for India's own human spaceflight mission, Gaganyaan. Assisted by two people, and with a broad smile on his face, Shukla emerged from the space capsule, getting his first feel of Earth in almost three weeks\n\nEXPLAINED",
+   "n_words": 76,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      3347,
+      4138,
+      3813
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      3878,
+      3561,
+      3987
+     ],
+     [
+      3246,
+      4038,
+      3692,
+      5141
+     ],
+     [
+      3737,
+      4394,
+      4181,
+      5134
+     ]
+    ],
+    "layout_words": 249
+   },
+   "headline_raw": "Pahalgam terrorists\nfired in air after the\nkillings to celebrate,\nkey witness tells NIA",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, JULY 15\n\nA KEY eyewitness to the\nPahalgam terror attack has told\ninvestigators that he saw the gun-\nmen fire four rounds in the airin\n\u201ccelebration\u201d after killing 26 civil-\niansin the meadows on April 22,\nThe Indian Express has learnt.\nThe \u201cstar protected eyewit-\nness\u201d, who the National\nInvestigation Agency tracked\nwith help from the Jammu and\nKashmir Police and central intel-\nligence agencies, had been con-\nfronted by the three Pakistan-\nbased terrorists in the Baisaran\nmeadow minutes after the at-\ntack, it is learnt.\nLast month, the NIA had ar-\nrested two locals \u2014 Parvaiz\nAhmad Jothar and Bashir Ahmad\n\u2014 for allegedly harbouring the\nattackers, \u201cThey disclosed the\nidentities of the three armed ter-\nrorists and confirmed that they\nwere Pakistani nationals affili-\nated to the Lashkar-e-Toiba,\u201d an\nNIA spokesperson had said.\nAs its probe proceeded, the\n\nNIA founda local \u2014 now the star\nwitness \u2014 who was able to share\nkey details of what transpired in\nthe minutes after the attack. He\nis learnt to have told investiga-\ntors that the gunmen stopped\nhim while they were leaving\nBaisaran after gunning down the\ncivilians. \u201cHe was asked to recite\nthe kalma, and once he started\nspeaking in his local accent, they\nspared him. They started cele-\nbratory firing \u2014 four rounds\nwere shot in the air,\u201d said a\nsource, who is familiar with his\nstatement.\nOn the basis of his statement,\nthe investigation team seized\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.714859437751,
+   "ocr_low_conf_share": 0.028112449799196786,
+   "headline": "Pahalgam terrorists fired in air after the killings to celebrate, key witness tells NIA",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, JULY 15",
+   "text": "A KEY eyewitness to the Pahalgam terror attack has told investigators that he saw the gunmen fire four rounds in the airin \"celebration\" after killing 26 civil-iansin the meadows on April 22, The Indian Express has learnt. The \"star protected eyewitness\", who the National Investigation Agency tracked with help from the Jammu and Kashmir Police and central intelligence agencies, had been confronted by the three Pakistanbased terrorists in the Baisaran meadow minutes after the attack, it is learnt. Last month, the NIA had arrested two locals - Parvaiz Ahmad Jothar and Bashir Ahmad - for allegedly harbouring the attackers, \"They disclosed the identities of the three armed terrorists and confirmed that they were Pakistani nationals affiliated to the Lashkar-e-Toiba,\" an NIA spokesperson had said. As its probe proceeded, the\n\nNIA founda local - now the star witness - who was able to share key details of what transpired in the minutes after the attack. He is learnt to have told investigators that the gunmen stopped him while they were leaving Baisaran after gunning down the civilians. \"He was asked to recite the kalma, and once he started speaking in his local accent, they spared him. They started celebratory firing - four rounds were shot in the air,\" said a source, who is familiar with his statement. On the basis of his statement, the investigation team seized",
+   "n_words": 226,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      851,
+      3446,
+      1106,
+      3489
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      849,
+      3814,
+      1138,
+      3842
+     ]
+    ],
+    "layout_words": 3
+   },
+   "headline_raw": "KEY FEATURES",
+   "deck_raw": "",
+   "body_raw": "STANDARD: 500 km",
+   "ocr_conf": 93.33333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "KEY FEATURES",
+   "deck": "",
+   "byline": "",
+   "text": "STANDARD: 500 km",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      850,
+      3870,
+      1111,
+      3918
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      850,
+      3932,
+      1176,
+      3960
+     ],
+     [
+      848,
+      3997,
+      1124,
+      4102
+     ],
+     [
+      809,
+      4185,
+      1167,
+      4259
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "67.89 lakh",
+   "deck_raw": "",
+   "body_raw": "LONG-RANGE: 622 km\n\nTOUCHSCREEN:\n15.4inch front row,\n8inch second row\n\nRELATED REPORT\nPAGE11",
+   "ocr_conf": 92.84615384615384,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "TOUCHSCREEN:",
+   "text": "LONG-RANGE: 622 km\n\n15.4inch front row, 8inch second row\n\nRELATED REPORT",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4332,
+      1727,
+      4543
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4627,
+      683,
+      4778
+     ],
+     [
+      318,
+      4827,
+      760,
+      5138
+     ],
+     [
+      1049,
+      4587,
+      1213,
+      4815
+     ],
+     [
+      807,
+      4905,
+      1247,
+      5139
+     ],
+     [
+      1294,
+      4589,
+      1737,
+      5132
+     ]
+    ],
+    "layout_words": 156
+   },
+   "headline_raw": "Breather for Kerala nurse as Yemen\ndefers execution during countdown",
+   "deck_raw": "",
+   "body_raw": "SHAJU PHILIP\n& SHUBHAJIT ROY\nTHIRUVANANTHAPURAM,\nNEW DELHI, JULY 15\n\nLOCAL AUTHORITIES in Yemen\nare learnt tohave postponed the\nexecution of Kerala nurse\nNimisha Priya, which was sched-\nuled for July 16.\nGovernment sources said\nthat the Centre, which has been\nrendering \u201call possible assis-\n\nNimisha\nPriya was\nsentenced\nto death in\n2018 for\nmurder\n\ntance\u201d in the matter, made con-\ncerted efforts in recent days to\nseek more time for the family to\nreacha mutually agreeable solu-\ntion with the other party. The\nnurse\u2019s family and supporters\n\nhave been trying to negotiate a\n\u201cblood money\u201d deal with the\nfamily of the murder victim, Talal\nAbdo Mehdi, so that Priya could\nbe pardoned under Sharia law.\nDespite the \u201csensitivities\u201d in-\nvolved, sources said that Indian\nofficials have been in regular\ntouch with the local jail author-\nities and the prosecutor's office\nin Yemen.\nThe development comes a\nday after the Centre informed\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.35897435897436,
+   "ocr_low_conf_share": 0.03205128205128205,
+   "headline": "Breather for Kerala nurse as Yemen defers execution during countdown",
+   "deck": "",
+   "byline": "SHAJU PHILIP; & SHUBHAJIT ROY; THIRUVANANTHAPURAM,; NEW DELHI, JULY 15",
+   "text": "LOCAL AUTHORITIES in Yemen are learnt tohave postponed the execution of Kerala nurse Nimisha Priya, which was scheduled for July 16. Government sources said that the Centre, which has been rendering \"all possible assis-\n\nNimisha Priya was sentenced to death in murder\n\ntance\" in the matter, made concerted efforts in recent days to seek more time for the family to reacha mutually agreeable solution with the other party. The nurse's family and supporters\n\nhave been trying to negotiate a \"blood money\" deal with the family of the murder victim, Talal Abdo Mehdi, so that Priya could be pardoned under Sharia law. Despite the \"sensitivities\" involved, sources said that Indian officials have been in regular touch with the local jail authorities and the prosecutor's office in Yemen. The development comes a day after the Centre informed",
+   "n_words": 135,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4403,
+      3191,
+      4645
+     ],
+     [
+      1783,
+      4631,
+      2186,
+      4695
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      4712,
+      2068,
+      4740
+     ],
+     [
+      1783,
+      4788,
+      2228,
+      5136
+     ],
+     [
+      2274,
+      4629,
+      2714,
+      5133
+     ],
+     [
+      2760,
+      4629,
+      3205,
+      5133
+     ]
+    ],
+    "layout_words": 184
+   },
+   "headline_raw": "Class 8 new book flags \u2018brutality\u2019 of\nMughals, with no-blame disclaimer\nABHINAYA HARIGOVIND",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, JULY 15\n\nDESCRIBING BABUR as a \u201cbrutal\nand ruthless conqueror, slaugh-\ntering entire populations of\ncities\u201d, Akbar's reign as a \u201cblend\nof brutality and tolerance\u201d, and\nAurangzeb who destroyed tem-\nplesand gurdwaras, the NCERT\u2019s\nnew Class 8 Social Science text-\nbook, which introduces students\n\nto the Delhi Sultanate and the\nMughals, points to \u201cmany in-\nstances of religious intolerance\u201d\nduring the period.\nThe NCERT says the rationale\nfor including them has been ex-\nplained in a \u201cNote on Some\nDarker Periods in History\u201d and\none of the chapters in the book\nincludes a cautionary note that\n\u201cno one should be held responsi-\nble today for events of the past\u201d.\nPart 1 of the Social Science\n\nbook for Class 8 \u2014 \u2018Exploring\nSociety: Indian and Beyond\u2019 \u2014 was\nreleased this week for use inthe\nongoing academic session. Of\nthe new NCERT books, thisis the\nfirst to introduce students tothe\nDelhi Sultanate and _ the\nMughals.\nAlthough this period was in-\ntroduced to students in Class 7 in\nearlier years, the NCERT says that\nthe period of Indian history that\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.1413043478261,
+   "ocr_low_conf_share": 0.03260869565217391,
+   "headline": "Class 8 new book flags 'brutality' of Mughals, with no-blame disclaimer ABHINAYA HARIGOVIND",
+   "deck": "",
+   "byline": "NEW DELHI, JULY 15",
+   "text": "DESCRIBING BABUR as a \"brutal and ruthless conqueror, slaughtering entire populations of cities\", Akbar's reign as a \"blend of brutality and tolerance\", and Aurangzeb who destroyed templesand gurdwaras, the NCERT's new Class 8 Social Science textbook, which introduces students\n\nto the Delhi Sultanate and the Mughals, points to \"many instances of religious intolerance\" during the period. The NCERT says the rationale for including them has been explained in a \"Note on Some Darker Periods in History\" and one of the chapters in the book includes a cautionary note that \"no one should be held responsible today for events of the past\". Part 1 of the Social Science\n\nbook for Class 8 - 'Exploring Society: Indian and Beyond' - was released this week for use inthe ongoing academic session. Of the new NCERT books, thisis the first to introduce students tothe Delhi Sultanate and _ the Mughals. Although this period was introduced to students in Class 7 in earlier years, the NCERT says that the period of Indian history that",
+   "n_words": 169,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      567,
+      5265,
+      4144,
+      5398
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      803,
+      5419,
+      1247,
+      6166
+     ],
+     [
+      2759,
+      5421,
+      3203,
+      5971
+     ],
+     [
+      2760,
+      5976,
+      3202,
+      6165
+     ],
+     [
+      3249,
+      5421,
+      3691,
+      6168
+     ],
+     [
+      3737,
+      5422,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 397
+   },
+   "headline_raw": "Before 114-yr-old\u2019s run ended: \u2018Life is beautiful, I don\u2019t wish to die\u2019",
+   "deck_raw": "",
+   "body_raw": "95, and soon after he had fin-\nished a marathon, Fauja Singh,\nresplendent in a big, black tur-\nban paired witha matching satin\nshirt, had told a group ofjourmnal-\nists gathered around him in\nChandigarh: \u201cZindagi inni sohni\nhai ki maran nu te jee hi nahin\nkarda (Life is so beautiful that I\njust don\u2019t feel like dying).\u201d His\neyes twinkled and his face\ncreased into a wide smile.\nHe ran some more, before he\nfinally hung up his bootsin 2013,\nwhen he turned 102. But Fauja\nSingh never gave up on life \u2014 or\nhis shoes. He collected at least\n100 pairs and much later in life,\nditched his kurta-pyjama for\n\nbuilding a dhaba for his son\nKuldeep when the roofcollapsed\nand killed the youngster, the fifth\nof his six children. That was in\nAugust 1994, just two years after\nhis wife, Gian Kaur, died.\nDevastated, Fauja lost all will to\nlive, His youngest son Harvinder\nSingh remembers seeing him\nmourning for hours at the cre-\nmation ground. That's when\nSukhjinder, the eldest of his sons\nwho lived in England, took him\nalong.\n\nIn London, he went on long\nwalks, \u201cI had nothing to do at\nhome. My son told me to take a\nbus to the local gurdwara, but I\ndecided to walk instead,\u201d he\n\nwould recount.\nA chance encounter with\nHarmander Singh, a marathon\ncoach who met Fauja at a neigh-\nbourhood park just six months\nearlier, would lead to the 89-\nyear-old running his first\nmarathon in April 2000, at age\n89. He ran 6 hours, 54 minutes\nto finish the 26-mile (41-km)\nrun. And soon, he was famous.\nAdidas appointed him as its\nbrand ambassador and his bill-\nboards appeared across London.\nHe wasalsoatorchbearer for the\n2012 London Olympics.\nKhushwant Singh says Fauja\nwas once invited by Queen\nElizabeth II, ameeting for which\n\nhe was briefed extensively for\ntwo days. \u201cThey told him, \u2018Don't\ntry to hug her, just shake her\nhand\u2019,\u201d he says.\n\u201cThe best part was the affec-\ntion that came my way,\u201d Fauja\ntold The Indian Express in an ear-\nlier interview. \u201cEven the mem-\nsahibs would call me grandad.\u201d\nSoon, Fauja was a jet-setting\nmarathoner, greeted aboard\nflights with public announce-\nments. A British Airways crew\neven printed \u201cWorld traveller,\ncenturion marathoner\u201d on his\nboarding pass, and Fauja\nbeamed.\nIn 2011, after running nine\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.72292191435768,
+   "ocr_low_conf_share": 0.020151133501259445,
+   "headline": "Before 114-yr-old's run ended: 'Life is beautiful, I don't wish to die'",
+   "deck": "",
+   "byline": "",
+   "text": "95, and soon after he had finished a marathon, Fauja Singh, resplendent in a big, black turban paired witha matching satin shirt, had told a group ofjourmnalists gathered around him in Chandigarh: \"Zindagi inni sohni hai ki maran nu te jee hi nahin karda (Life is so beautiful that I just don't feel like dying).\" His eyes twinkled and his face creased into a wide smile. He ran some more, before he finally hung up his bootsin 2013, when he turned 102. But Fauja Singh never gave up on life - or his shoes. He collected at least 100 pairs and much later in life, ditched his kurta-pyjama for\n\nbuilding a dhaba for his son Kuldeep when the roofcollapsed and killed the youngster, the fifth of his six children. That was in August 1994, just two years after his wife, Gian Kaur, died. Devastated, Fauja lost all will to live, His youngest son Harvinder Singh remembers seeing him mourning for hours at the cremation ground. That's when Sukhjinder, the eldest of his sons who lived in England, took him along.\n\nIn London, he went on long walks, \"I had nothing to do at home. My son told me to take a bus to the local gurdwara, but I decided to walk instead,\" he\n\nwould recount. A chance encounter with Harmander Singh, a marathon coach who met Fauja at a neigh-bourhood park just six months earlier, would lead to the 89- year-old running his first marathon in April 2000, at age 89. He ran 6 hours, 54 minutes to finish the 26-mile (41-km) run. And soon, he was famous. Adidas appointed him as its brand ambassador and his bill-boards appeared across London. He wasalsoatorchbearer for the 2012 London Olympics. Khushwant Singh says Fauja was once invited by Queen Elizabeth II, ameeting for which\n\nhe was briefed extensively for two days. \"They told him, 'Don't try to hug her, just shake her hand',\" he says. \"The best part was the affection that came my way,\" Fauja told The Indian Express in an earlier interview. \"Even the memsahibs would call me grandad.\" Soon, Fauja was a jet-setting marathoner, greeted aboard flights with public announce-ments. A British Airways crew even printed \"World traveller, centurion marathoner\" on his boarding pass, and Fauja beamed. In 2011, after running nine",
+   "n_words": 383,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5460,
+      734,
+      5645
+     ]
+    ],
+    "layout_words": 11,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ANJU AGNIHOTRI CHABA\n& MANRAJ GREWAL\nSHARMA\nJALANDHAR, CHANDIGARH,\nJULY 15",
+   "ocr_conf": 87.45454545454545,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "ANJU AGNIHOTRI CHABA; & MANRAJ GREWAL; SHARMA; JALANDHAR, CHANDIGARH,; JULY 15",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 18,
+   "layout": {
+    "headline_boxes": [
+     [
+      1291,
+      5415,
+      1736,
+      5475
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1290,
+      5461,
+      1737,
+      6167
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "joggers and fancy suits. \u201cI love\nclathec tnn \u201d ha tald The Indian",
+   "deck_raw": "",
+   "body_raw": "clothes too,\u201d he told The Indian\nExpress that afternoon in\nChandigarh, volunteering to\nopen his suitcase to display his\ncollection.\nChandigarh-based writer\nKhushwant Singh, who wrote a\n2011 biography of the\nmarathoner, recalls that when\nhe first met him in 2005, Fauja\nwas wearing an electric blue suit,\natie that read \u201cMarathoner\u201d and\na pair of shoes with \u201cFauja\u201d on\none and \u201cSingh\u201d on the other.\nIf Fauja first ran, it was to es-\ncape a personal tragedy.\nVillagers in his Beas village in\nJalandhar district say Fauja was",
+   "ocr_conf": 91.31460674157303,
+   "ocr_low_conf_share": 0.056179775280898875,
+   "headline": "joggers and fancy suits. \"I love clathec tnn \" ha tald The Indian",
+   "deck": "",
+   "byline": "",
+   "text": "clothes too,\" he told The Indian Express that afternoon in Chandigarh, volunteering to open his suitcase to display his collection. Chandigarh-based writer Khushwant Singh, who wrote a 2011 biography of the marathoner, recalls that when he first met him in 2005, Fauja was wearing an electric blue suit, atie that read \"Marathoner\" and a pair of shoes with \"Fauja\" on one and \"Singh\" on the other. If Fauja first ran, it was to escape a personal tragedy. Villagers in his Beas village in Jalandhar district say Fauja was",
+   "n_words": 88,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 19,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      5696,
+      759,
+      6166
+     ]
+    ],
+    "layout_words": 63,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "AT 114, Fauja Singh died too\nsoon. For aman who led a re-\nmarkable life, the end was\nabrupt, almost staccato \u2014 hit by\nan unidentified vehicle while\ncrossing the road.\nFauja Singh was 100 when he\nbecame'the oldest man toruna\nmarathon\u2019 \u2014 clocking 8 hours\nand 11 minutes at the Toronto\nMarathon in 2011. Some years\nearlier, when he was a sprightly",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.015873015873015872,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "AT 114, Fauja Singh died too soon. For aman who led a remarkable life, the end was abrupt, almost staccato - hit by an unidentified vehicle while crossing the road. Fauja Singh was 100 when he became'the oldest man toruna marathon' - clocking 8 hours and 11 minutes at the Toronto Marathon in 2011. Some years earlier, when he was a sprightly",
+   "n_words": 62,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.5,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

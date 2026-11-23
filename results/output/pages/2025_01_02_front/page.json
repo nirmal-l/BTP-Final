@@ -1,0 +1,811 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_02_front",
+ "source_file": "2025-01-02_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-02_front.png",
+ "date": "2025-01-02",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 541,
+  "mean_line_conf": 88.7807167262805,
+  "orphan_words": 29,
+  "body_words_total": 2167
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 92.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      785,
+      3130,
+      1377
+     ],
+     [
+      813,
+      1170,
+      1730,
+      1303
+     ]
+    ],
+    "deck_boxes": [
+     [
+      813,
+      696,
+      2752,
+      754
+     ],
+     [
+      812,
+      1426,
+      1138,
+      1475
+     ]
+    ],
+    "body_boxes": [
+     [
+      813,
+      1384,
+      1170,
+      1412
+     ],
+     [
+      811,
+      1503,
+      1253,
+      1924
+     ],
+     [
+      1298,
+      1343,
+      1740,
+      1452
+     ],
+     [
+      1298,
+      1463,
+      1742,
+      1851
+     ],
+     [
+      1810,
+      1425,
+      2193,
+      1893
+     ],
+     [
+      2761,
+      1504,
+      3205,
+      1925
+     ]
+    ],
+    "layout_words": 227
+   },
+   "headline_raw": "Govt extends special subsidy on DAP,\nweakening rupee upsets calculations\nImmediate priority: Ensuring fertiliser om wnt Rs 874.77 cr fund for tec\navailability for next Mani season . EE. ae infusion, extension for\nImmediate priority: Ensuring fertiliser\navailability for next kharif season",
+   "deck_raw": "CABINET NOD FOR CONTINUING WITH \u20ac3,500/TONNE SUBSIDY\nNEW DELHI, JANUARY 1",
+   "body_raw": "HARISH DAMODARAN\n\nTHE CENTRE hasextended a spe-\ncial subsidy of Rs 3,500 per tonne\nondi-ammonium phosphate\n(DAP), which was to end on\nDecember 31, for a further one-\nyear period from January 1, 2025.\nThe decision, cleared by the\nUnion Cabinet Wednesday, is\naimed at containing any surge in\nfarmgate prices of India's second\nmost-consumed fertiliser That\n\npressure is more, given the ru-\npee\u2019s recent slide against the US\ndollar.\n\nThe Modi govemment has\ninformallyfrozen the maximum\nretail prices (MRP) of ail non-\nurea fertilisers. This is despite\nthem being \u201cdecontrolled\u201d on\npaper, unlike urea whose MRP\nhas been statutorily fixed at\nRs 266.50 per 45-kg bag (after\nneem-coating and goods and\nservices tax) since November\n\nTHE GOVERNMENT said its\ndecision to extend the spe-\ncial subsidy on DAP will\nhelp farmers, but concems\nare rising over the impact\nof the falling rupee. The in-\ndustry isunderlining that\nDAP imports will not be vi-\nable unless the govern-\nment increases the subsidy\nor allows it to revise the\nMRP upward.\n\nModi, who chaired the Cabinet\nmeeting, said, \u201cOurs is a\nGovernment fully committed to\nfurthering the welfare of farm-\ners. We are proud of all our\nfarmer sisters and brothers who\nwork hard to feed our nation.\nThe first Cabinet of 2025 is ded-\nicated to enhancing prosperity\nfor our farmers. | am glad that\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.36244541484716,
+   "ocr_low_conf_share": 0.05240174672489083,
+   "headline": "Govt extends special subsidy on DAP, weakening rupee upsets calculations Immediate priority: Ensuring fertiliser om wnt Rs 874.77 cr fund for tec availability for next Mani season. EE. ae infusion, extension for Immediate priority: Ensuring fertiliser availability for next kharif season",
+   "deck": "CABINET NOD FOR CONTINUING WITH \u20ac3,500/TONNE SUBSIDY NEW DELHI, JANUARY 1",
+   "byline": "HARISH DAMODARAN",
+   "text": "THE CENTRE hasextended a special subsidy of Rs 3,500 per tonne ondi-ammonium phosphate (DAP), which was to end on December 31, for a further oneyear period from January 1, 2025. The decision, cleared by the Union Cabinet Wednesday, is aimed at containing any surge in farmgate prices of India's second most-consumed fertiliser That\n\npressure is more, given the rupee's recent slide against the US dollar.\n\nThe Modi govemment has informallyfrozen the maximum retail prices (MRP) of ail nonurea fertilisers. This is despite them being \"decontrolled\" on paper, unlike urea whose MRP has been statutorily fixed at Rs 266.50 per 45-kg bag (after neem-coating and goods and services tax) since November\n\nTHE GOVERNMENT said its decision to extend the special subsidy on DAP will help farmers, but concems are rising over the impact of the falling rupee. The industry isunderlining that DAP imports will not be viable unless the government increases the subsidy or allows it to revise the MRP upward.\n\nModi, who chaired the Cabinet meeting, said, \"Ours is a Government fully committed to furthering the welfare of farmers. We are proud of all our farmer sisters and brothers who work hard to feed our nation. The first Cabinet of 2025 is dedicated to enhancing prosperity for our farmers. am glad that",
+   "n_words": 212,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      773,
+      4147,
+      1266
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3253,
+      697,
+      3893,
+      730
+     ]
+    ],
+    "body_boxes": [
+     [
+      3252,
+      1386,
+      3579,
+      1494
+     ],
+     [
+      3249,
+      1544,
+      3694,
+      2640
+     ],
+     [
+      3735,
+      1344,
+      4183,
+      2641
+     ]
+    ],
+    "layout_words": 298
+   },
+   "headline_raw": "18 former MoS, 12\nex-MPs still have\nsecurity, decide:\nPolice to tell MHA",
+   "deck_raw": "DELHI POLICE SECURITY AUDIT",
+   "body_raw": "MAHENDERSINGH\nMANRAL\nNEW DELHI. JANUARY 1\n\nTHE DELHI Police plans to ap-\nproach the Ministry of Home\nAffairs with a list of 18 former\nMinistersofState and 12 former\nMembers of Pandiament who\nhave security cover even after\ncompetion of their tenure/term.\nThe Indian Express has leamt\nthat police will ask the Ministry\nto decide whether the security\ncover needs to be retained for\nthese individuals.\nAsource in the Delhi Police\nheadquarters said the security\nunit conducted an audit a few\nmonths ago afterit noticed that\nmultiple people had security\ncover and that a review had not\nbeenundertaken for along time\ninthe case of some.\n\u201cAfter theaudit, the security\ncover of many people was re-\nmoved. But it also found that\nmany MoS, MPs and other per-\nsons, even after completing\ntheir designated tenure, still had\nsecurity cover,\" a source said.\nThose named in theaudit re-\n\nport, the source said, include for-\nmer MoS with Y-category secu-\nrity cover: Bhagwat Kishanrao\nKarad, Devusinh Chauhan,Bhanu\nPratap Singh Verma, Jasvantsinh\nBhabhor, John Barla, Kaushal\nKishore, Krishna Raj, Manish\nTewari, PP Chaudhary, Rajkumar\nRanjan Singh, Rameswar Teli, SS\nAhluwalia, Sanjeev Kumar\nBalyan, Som Parkash, Sudarshan\nBhagat, VMuraleedharan, former\nArmy chief GeneralV KSingh and\nVijay Goel.\n\u201cThere are three MoS: Ajay\nBhatt, Ashwini Kumar Choubey\nand Bishweswar Tudu, whose\nprofiles have been changed, but\nthey still have security cover of\nY-Caiegoryas per their iast port-\nfolio. As per the audit report, all\nformerMoSstill have three PSOs,\nand four police personnel at\ntheir homes,\u201d the source said.\nIn tine with procedure, a se-\ncurity review of the Protected\nPerson, which was provided on\npositional basis or threat basis,\nwas conducted upon comple-\ntion of tenure. After the review,\nthe Delhi Police sent a letter to\nthe MHA forits final decision.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.09060402684564,
+   "ocr_low_conf_share": 0.03355704697986577,
+   "headline": "18 former MoS, 12 ex-MPs still have security, decide: Police to tell MHA",
+   "deck": "DELHI POLICE SECURITY AUDIT",
+   "byline": "MAHENDERSINGH; MANRAL; NEW DELHI. JANUARY 1",
+   "text": "THE DELHI Police plans to approach the Ministry of Home Affairs with a list of 18 former MinistersofState and 12 former Members of Pandiament who have security cover even after competion of their tenure/term. The Indian Express has leamt that police will ask the Ministry to decide whether the security cover needs to be retained for these individuals. Asource in the Delhi Police headquarters said the security unit conducted an audit a few months ago afterit noticed that multiple people had security cover and that a review had not beenundertaken for along time inthe case of some. \"After theaudit, the security cover of many people was removed. But it also found that many MoS, MPs and other persons, even after completing their designated tenure, still had security cover,\" a source said. Those named in theaudit report, the source said, include former MoS with Y-category security cover: Bhagwat Kishanrao Karad, Devusinh Chauhan,Bhanu Pratap Singh Verma, Jasvantsinh Bhabhor, John Barla, Kaushal Kishore, Krishna Raj, Manish Tewari, PP Chaudhary, Rajkumar Ranjan Singh, Rameswar Teli, SS Ahluwalia, Sanjeev Kumar Balyan, Som Parkash, Sudarshan Bhagat, VMuraleedharan, former Army chief GeneralV KSingh and Vijay Goel. \"There are three MoS: Ajay Bhatt, Ashwini Kumar Choubey and Bishweswar Tudu, whose profiles have been changed, but they still have security cover of Y-Caiegoryas per their iast portfolio. As per the audit report, all formerMoSstill have three PSOs, and four police personnel at their homes,\" the source said. In tine with procedure, a security review of the Protected Person, which was provided on positional basis or threat basis, was conducted upon completion of tenure. After the review, the Delhi Police sent a letter to the MHA forits final decision.",
+   "n_words": 279,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      627,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      1167,
+      3197,
+      1570
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      1661,
+      2716,
+      1925
+     ],
+     [
+      2765,
+      2106,
+      2996,
+      2138
+     ]
+    ],
+    "layout_words": 26
+   },
+   "headline_raw": "Rs 824.77 cr fund for tech\ninfusion, extension for 2\ncrop insurance schemes\n\" * Modi, who chaired the Cabinet\nHARIKISHAN SHARMA meeting, said, \u201cOurs is a",
+   "deck_raw": "",
+   "body_raw": "THE UNIONCabinet Wednesday\napproved continuation of the\nPradhan Mantri Fasal Bima\nYojana and = Restructured\nWeather Based Crop Insurance\nScheme until 2025-26,\nPrime Minister Narendra\n\nEXPLAINED",
+   "ocr_conf": 88.92307692307692,
+   "ocr_low_conf_share": 0.07692307692307693,
+   "headline": "Rs 824.77 cr fund for tech infusion, extension for 2 crop insurance schemes \" * Modi, who chaired the Cabinet HARIKISHAN SHARMA meeting, said, \"Ours is a",
+   "deck": "",
+   "byline": "EXPLAINED",
+   "text": "THE UNIONCabinet Wednesday approved continuation of the Pradhan Mantri Fasal Bima Yojana and = Restructured Weather Based Crop Insurance Scheme until 2025-26, Prime Minister Narendra",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      1445,
+      736,
+      1869
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      1937,
+      651,
+      2006
+     ],
+     [
+      321,
+      2056,
+      766,
+      2834
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "Air India first\nairline to roll\nout Wi-Fi for\nselect flights\nin country",
+   "deck_raw": "",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, JANUARY 1\n\nAIR INDIA on Wednesday rolled\nout Wi-Fi intemet connectivity\nservices on board domestic\nflightsoperated by select aircraft\nin its fleet \u2014 Airbus A350, Boeing\n787-9. and some Airbus\nA321neo. The Tata Group-\nowned airline was already offer-\ning internet connectivity on in-\nternational flights operated by\nthese aircraft as part of a pilot\nprogramme.\nAir India is the first Indian air-\nline to offer intemet connectiv-\nity on domestic flights.\nIn a statement, the airline\nsaid Wi-Fi will be offered free of\ncharge for a limited introductory\nperiod, but did not specify the\nduration.",
+   "ocr_conf": 87.6,
+   "ocr_low_conf_share": 0.08,
+   "headline": "Air India first airline to roll out Wi-Fi for select flights in country",
+   "deck": "",
+   "byline": "SUKALP SHARMA; NEW DELHI, JANUARY 1",
+   "text": "AIR INDIA on Wednesday rolled out Wi-Fi intemet connectivity services on board domestic flightsoperated by select aircraft in its fleet - Airbus A350, Boeing 787-9. and some Airbus A321neo. The Tata Group-owned airline was already offering internet connectivity on international flights operated by these aircraft as part of a pilot programme. Air India is the first Indian airline to offer intemet connectivity on domestic flights. In a statement, the airline said Wi-Fi will be offered free of charge for a limited introductory period, but did not specify the duration.",
+   "n_words": 89,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2712,
+      3679,
+      3004
+     ],
+     [
+      2764,
+      3034,
+      3630,
+      3194
+     ],
+     [
+      2763,
+      3169,
+      2993,
+      3233
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      3324,
+      3206,
+      4262
+     ],
+     [
+      3248,
+      3480,
+      3632,
+      3517
+     ],
+     [
+      3248,
+      3603,
+      3690,
+      3795
+     ],
+     [
+      3248,
+      3799,
+      3692,
+      4152
+     ],
+     [
+      3248,
+      4157,
+      3690,
+      4263
+     ]
+    ],
+    "layout_words": 201
+   },
+   "headline_raw": "Polls over, reunion calls\nfrom both NCP groups:\nSharad Pawar is our\ndeity, says Praful Patel\nMANOJ MORE",
+   "deck_raw": "",
+   "body_raw": "AMONG THE many prayers\nmade on New Year's Day, one\nstands out in Maharashtra. On\nWednesday, Maharashtra\nDeputy Chief Minister Ajit\nPawar's mother Asha Pawar vis-\nited the temple town of\nPandharpur and, in her own\nwords, prayed for the reunion of\nAjit and his uncle and NCP (SP)\nchief Sharad Pawar.\n\u201cAll disputes should end...\nSharad Pawar and Ajit Pawar\nshould reunite,\u201d Asha Pawar told\nreporters after visiting the\nVithal-Rukmini temple in the\ntemple town, adding that she\nhad also prayed for \u201call wishes of\nAjit Pawar\" tocome true.\nWhile some would argue\nthat thetwo wishes are irrecon-\ncilable, Asha isn\u2019t the only one\nwishing for \u201creunion\u201d less than\namonth after the Maharashtra\n\nSharad Pawar, Ajit Pawar\n\nelection results gave Ajitanedge\nover Sharad Pawar, under whose\nshadow the nephew had long\nstayed \u2014 and finally rebelled\nagainst.\n\nPraful Patel, a senior mem-\nber of the NCP led by Ajit, said:\n\u201cSharad Pawar is our deity. We\nhave ahigh degree of respect for\nhim If the Pawar family comes\ntogether, it will make us ex-\ntremely happy. I consider my-\nself a member of the Pawar\nfamily.\u201d\n\nNarhari Zirwal, an NCP MLA,\nechoed the same, saying \u201cit felt\nCONTINUEDONPAGE 2",
+   "ocr_conf": 91.12,
+   "ocr_low_conf_share": 0.035,
+   "headline": "Polls over, reunion calls from both NCP groups: Sharad Pawar is our deity, says Praful Patel MANOJ MORE",
+   "deck": "",
+   "byline": "",
+   "text": "AMONG THE many prayers made on New Year's Day, one stands out in Maharashtra. On Wednesday, Maharashtra Deputy Chief Minister Ajit Pawar's mother Asha Pawar visited the temple town of Pandharpur and, in her own words, prayed for the reunion of Ajit and his uncle and NCP (SP) chief Sharad Pawar. \"All disputes should end... Sharad Pawar and Ajit Pawar should reunite,\" Asha Pawar told reporters after visiting the Vithal-Rukmini temple in the temple town, adding that she had also prayed for \"all wishes of Ajit Pawar\" tocome true. While some would argue that thetwo wishes are irreconcilable, Asha isn't the only one wishing for \"reunion\" less than amonth after the Maharashtra\n\nSharad Pawar, Ajit Pawar\n\nelection results gave Ajitanedge over Sharad Pawar, under whose shadow the nephew had long stayed - and finally rebelled against.\n\nPraful Patel, a senior member of the NCP led by Ajit, said: \"Sharad Pawar is our deity. We have ahigh degree of respect for him If the Pawar family comes together, it will make us extremely happy. I consider myself a member of the Pawar family.\"\n\nNarhari Zirwal, an NCP MLA, echoed the same, saying \"it felt CONTINUEDONPAGE 2",
+   "n_words": 195,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3738,
+      2715,
+      4177,
+      3125
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3770,
+      3205,
+      4177,
+      3416
+     ],
+     [
+      3739,
+      3521,
+      4101,
+      3593
+     ],
+     [
+      3734,
+      3643,
+      4181,
+      5132
+     ]
+    ],
+    "layout_words": 203
+   },
+   "headline_raw": "UP minister\nand Apna Dal\nleader claims\nthreat to life\nfrom state STF",
+   "deck_raw": "",
+   "body_raw": "i. Ashish Patel;\n> ; his wife\n-2 8 Anupriya\n_ cA | Patel is\n(od Union MoS\n\nBHUPENDRA PANDEY\nLUCKNOW, JANUARY 1\n\nUTTAR PRADESH Cabinet minis-\nterAshish Patel has accused the\nstate Special Task Force of \u201ccon-\nspiring\u201d against him and alleged\na threat to his life from the\nagency. Patel belongs to the\nApnaDal(Sonelal), acrucial ally\nof the BJP. His wife Anupriya\nPatel, who heads the party, is a\nUnion Minister of State.\nAshish'sclaims follow allega-\ntions made by Anupriya\u2019s es-\ntranged sister Pallavi, a\nSamajwadi Party MIA, against\nthe department under him.\nAshish heads the Technical\nEducation, Consumer Protection,\nWeights & Measures Ministry,\nand Pallavi has allleged irregu-\nlarities and comuptionin promo-\ntion to 250 posts of Heads of\nDepartment across the state in\nthe Technical Education\nDepartment.\nDenying the \u201cbaseless\u201d alle-\ngations Ashish hasclaimed a lin-\neage to Sardar Patel, as well as\nclaimed an anti-OBC agenda.\nSpeaking to The Indian Express,\nAshish said: \u201cI have said that the\nChief Minister(Yogi Adityanath)\nmay get aCBi probe done into all\nthe decisions taken by me...I do\nnot fear anybody or any conse-\nquences, but Iam facing a threat\nfrom the STF. Iwill speak on the\nwhole issue tomorrow.\u201d\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.45853658536585,
+   "ocr_low_conf_share": 0.08780487804878048,
+   "headline": "UP minister and Apna Dal leader claims threat to life from state STF",
+   "deck": "",
+   "byline": "BHUPENDRA PANDEY; LUCKNOW, JANUARY 1",
+   "text": "i. Ashish Patel; >; his wife -2 8 Anupriya (od Union MoS\n\nUTTAR PRADESH Cabinet ministerAshish Patel has accused the state Special Task Force of \"conspiring\" against him and alleged a threat to his life from the agency. Patel belongs to the ApnaDal(Sonelal), acrucial ally of the BJP. His wife Anupriya Patel, who heads the party, is a Union Minister of State. Ashish'sclaims follow allegations made by Anupriya's estranged sister Pallavi, a Samajwadi Party MIA, against the department under him. Ashish heads the Technical Education, Consumer Protection, Weights & Measures Ministry, and Pallavi has allleged irregularities and comuptionin promotion to 250 posts of Heads of Department across the state in the Technical Education Department. Denying the \"baseless\" alle-gations Ashish hasclaimed a lineage to Sardar Patel, as well as claimed an anti-OBC agenda. Speaking to The Indian Express, Ashish said: \"I have said that the Chief Minister(Yogi Adityanath) may get aCBi probe done into all the decisions taken by me...I do not fear anybody or any consequences, but Iam facing a threat from the STF. Iwill speak on the whole issue tomorrow.\"",
+   "n_words": 181,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2898,
+      761,
+      2960
+     ],
+     [
+      810,
+      3322,
+      1759,
+      3391
+     ]
+    ],
+    "deck_boxes": [
+     [
+      346,
+      2846,
+      762,
+      2895
+     ]
+    ],
+    "body_boxes": [
+     [
+      320,
+      2965,
+      764,
+      4028
+     ]
+    ],
+    "layout_words": 131
+   },
+   "headline_raw": "Gore suc POULES ;onOWs an ONngo-\ning pilot programme on intema-\nAHEAD OF MAHA KUMBH",
+   "deck_raw": "\u201cThe deploymentof Wi-Fion",
+   "body_raw": "tional services operated by the\nAirbus A350, select Airbus\nA321neo and Boeing B787-9 air-\ncraft serving intemational desti-\nnations including New York,\nLondon, Paris and Singapore. As\nwith the domestic offer, Wi-Fi is\ncomplimentary for an introduc-\ntory period. Air India will progres-\nsively rollout the service on ather\naircraft in its fleetover time,\u201d the\nairline said ina statement\nOn-board intemet services\nare fast becomingastandard of-\nfering, particularly among major\nfull-service carriers globally. Air\nIndia has ambitions to be\ncounted among the world's fore-\nmost full-service carriers.\nBesides the new A350 planes,\nwhichAr India started operating\nin 2024, the other aircraft are un-\nderstood to be those of erstwhile\nVistara, which merged with Air\nIndia in November. All these air-\ncraft are equipped with special\nhardware that is required & offer",
+   "ocr_conf": 87.29770992366412,
+   "ocr_low_conf_share": 0.07633587786259542,
+   "headline": "Gore suc POULES;onOWs an ONngoing pilot programme on intema-AHEAD OF MAHA KUMBH",
+   "deck": "\"The deploymentof Wi-Fion",
+   "byline": "",
+   "text": "tional services operated by the Airbus A350, select Airbus A321neo and Boeing B787-9 aircraft serving intemational destinations including New York, London, Paris and Singapore. As with the domestic offer, Wi-Fi is complimentary for an introductory period. Air India will progressively rollout the service on ather aircraft in its fleetover time,\" the airline said ina statement On-board intemet services are fast becomingastandard offering, particularly among major full-service carriers globally. Air India has ambitions to be counted among the world's foremost full-service carriers. Besides the new A350 planes, whichAr India started operating in 2024, the other aircraft are understood to be those of erstwhile Vistara, which merged with Air India in November. All these aircraft are equipped with special hardware that is required & offer",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      3438,
+      2714,
+      3477
+     ]
+    ],
+    "layout_words": 22,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "People arrive for the Maha Kumbh Mela, to be held from January 13 to February 26, in Uttar Pradesh's Prayagraj Wednesday. pn",
+   "ocr_conf": 86.72727272727273,
+   "ocr_low_conf_share": 0.045454545454545456,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "People arrive for the Maha Kumbh Mela, to be held from January 13 to February 26, in Uttar Pradesh's Prayagraj Wednesday. pn",
+   "n_words": 22,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      3582,
+      1723,
+      4029
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      4079,
+      1727,
+      4209
+     ],
+     [
+      322,
+      4302,
+      764,
+      4354
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      4925,
+      707,
+      5095
+     ],
+     [
+      809,
+      4272,
+      1135,
+      4341
+     ],
+     [
+      808,
+      4391,
+      1256,
+      5133
+     ],
+     [
+      1295,
+      4547,
+      1713,
+      4580
+     ],
+     [
+      1295,
+      4670,
+      1737,
+      5130
+     ]
+    ],
+    "layout_words": 156
+   },
+   "headline_raw": "New turn to Battle of\nBegums: Bangladesh\nrewrites textbooks\non 1971 liberation war",
+   "deck_raw": "\u2018Khaleda husband Ziaur Rahman, not\nSheikh Mujib, declared independence\u2019\nEXPRESS NETWORK >",
+   "body_raw": "ED MAY BOOK ITS\nSHIMLA OFFICER\nNAMED IN BRIBERY\nCASE PAGE 3\n\nARJUN SENGUPTA\nNEW DELHI, JANUARY 1\n\nTEXTBOOKS IN Bangladesh will\nnow state that ZiaurRahman \u2014\nnot \u2018Bangabandhu' Sheikh\nMujibur Rahman \u2014 declared the\ncountry'sindependence in 1971,\nThe Daily Star reported on\nWednesday. The new textbooks\nhave also removed Mujib's title\nof \u2018Father of the Nation\u2019.\n\u201cThe new textbooks for the\n2025 academic year will state that\n\u2018on March 26, 1971,ZiaurRahman\ndeclared the independence of\nBangladesh, andon March 27, he\nmade another declaration of in-\ndependence on behalf of\nBangabandhu'\"ProfA KM Reazul\nHassan,chainman of the National\nCurriculum and Textbook Board,\n\nSheikh Hasina, KhaledaZia\n\ntold The Daily Star.\nZiaur was the founder of the\nBangladesh Nationalist Party\n(BNP) and husband of current\nBNP chief Khaleda Zia. Mujib, fa-\nther of recently deposed\nBangladesh Prime Minister\nSheikh Hasina, led the\nBangladesh liberation struggle.\nThis is not the first time that\nBangladesh textbooks have\nCONTINUED ONPAGE 2",
+   "ocr_conf": 90.35483870967742,
+   "ocr_low_conf_share": 0.03870967741935484,
+   "headline": "New turn to Battle of Begums: Bangladesh rewrites textbooks on 1971 liberation war",
+   "deck": "'Khaleda husband Ziaur Rahman, not Sheikh Mujib, declared independence' EXPRESS NETWORK >",
+   "byline": "ED MAY BOOK ITS; SHIMLA OFFICER; NAMED IN BRIBERY; CASE PAGE 3; ARJUN SENGUPTA; NEW DELHI, JANUARY 1",
+   "text": "TEXTBOOKS IN Bangladesh will now state that ZiaurRahman - not 'Bangabandhu' Sheikh Mujibur Rahman - declared the country'sindependence in 1971, The Daily Star reported on Wednesday. The new textbooks have also removed Mujib's title of 'Father of the Nation'. \"The new textbooks for the 2025 academic year will state that 'on March 26, 1971,ZiaurRahman declared the independence of Bangladesh, andon March 27, he made another declaration of independence on behalf of Bangabandhu'\"ProfA KM Reazul Hassan,chainman of the National Curriculum and Textbook Board,\n\nSheikh Hasina, KhaledaZia\n\ntold The Daily Star. Ziaur was the founder of the Bangladesh Nationalist Party (BNP) and husband of current BNP chief Khaleda Zia. Mujib, father of recently deposed Bangladesh Prime Minister Sheikh Hasina, led the Bangladesh liberation struggle. This is not the first time that Bangladesh textbooks have",
+   "n_words": 132,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2126,
+      3627,
+      2370,
+      3659
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE WORLD",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "THE WORLD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      4029,
+      760,
+      4084
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      4096,
+      760,
+      4153
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      4154,
+      762,
+      4221
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "internet connectivity on board.\nLiemes harnkann ARann nina?",
+   "deck_raw": "ee eee oe\nconnectivity on select interna-",
+   "body_raw": "tional flights prior to the merger.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 80.1,
+   "ocr_low_conf_share": 0.2,
+   "headline": "internet connectivity on board. Liemes harnkann ARann nina?",
+   "deck": "ee eee oe connectivity on select interna-",
+   "byline": "",
+   "text": "tional flights prior to the merger.",
+   "n_words": 6,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      1785,
+      4334,
+      3671,
+      4554
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1784,
+      4630,
+      2148,
+      4737
+     ],
+     [
+      1782,
+      4788,
+      2226,
+      5131
+     ],
+     [
+      2513,
+      4669,
+      2705,
+      4816
+     ],
+     [
+      2271,
+      4906,
+      2714,
+      5139
+     ],
+     [
+      2760,
+      4589,
+      3206,
+      5139
+     ],
+     [
+      3246,
+      4590,
+      3693,
+      5132
+     ]
+    ],
+    "layout_words": 224
+   },
+   "headline_raw": "For Kerala nurse on Yemen death row, hope\nhangs on a thread \u2014 pardon from victim\u2019s kin",
+   "deck_raw": "",
+   "body_raw": "SHAJU PHILIP\nTHIRUVANANTHAPURAM,\nJANUARY 1\n\nWITH YEMEN President Rashad\nal-Alimi approving the death\nsentence for 37-year-old Indian\nnurse Nimisha Priya, for her fam-\nityin Kerala, anyhope of repneve\nnow hangs by a thread \u2014 a par-\ndon from the family of Talal\nAbdo Mehdi, the Yemeni citizen\nwhose murder she has been\n\nNimisha\nPriya was\nconvicted in\nmurder case\n\nconvicted of.\nAccording to the prosecu-\ntion\u2019s case, Nimisha, who\nworked as a nurse in Yemen, al-\nlegedly murdered Talal in July\n2017 by \u201cinjecting him with\n\nsedatives to get her passport that\nwas in his possession\u201d.\nSamuel Jerome Baskaran, a\nsocial worker who is currently\ninvolved inthe negotiations with\ngovernment officials in Yemen\nand Talal\u2019s family, told The Indian\nExpress that the President's or-\nder reached the prosecutor on\nMonday, December 30. \u201cThe key\nto Nimisha's life now rests with\nthe familyofTalal. Shewill live if\nthey forgive her. Ourjobis to\nconvince the family to do that,\u201d\n\nhe told The Indian Express.\nSamuel, however, said the\nnegotiators were chasing a very\ntight deadline. \u201cWe had anexcel-\nlent first phase of mediation. We\nestablished contact with Talal's\nfamily, but the mediation did not\ncontinue because the Save\nNimisha Priya International\nAction Council (set upin 2020 to\nraise the required funds for ne-\ngotiations) did not send the sec-\nond installment of funds. Our\nCONTINUED ONPAGE 2",
+   "ocr_conf": 89.5625,
+   "ocr_low_conf_share": 0.0625,
+   "headline": "For Kerala nurse on Yemen death row, hope hangs on a thread - pardon from victim's kin",
+   "deck": "",
+   "byline": "SHAJU PHILIP; THIRUVANANTHAPURAM,; JANUARY 1",
+   "text": "WITH YEMEN President Rashad al-Alimi approving the death sentence for 37-year-old Indian nurse Nimisha Priya, for her famityin Kerala, anyhope of repneve now hangs by a thread - a pardon from the family of Talal Abdo Mehdi, the Yemeni citizen whose murder she has been\n\nNimisha Priya was convicted in murder case\n\nconvicted of. According to the prosecution's case, Nimisha, who worked as a nurse in Yemen, allegedly murdered Talal in July 2017 by \"injecting him with\n\nsedatives to get her passport that was in his possession\". Samuel Jerome Baskaran, a social worker who is currently involved inthe negotiations with government officials in Yemen and Talal's family, told The Indian Express that the President's order reached the prosecutor on Monday, December 30. \"The key to Nimisha's life now rests with the familyofTalal. Shewill live if they forgive her. Ourjobis to convince the family to do that,\"\n\nhe told The Indian Express. Samuel, however, said the negotiators were chasing a very tight deadline. \"We had anexcellent first phase of mediation. We established contact with Talal's family, but the mediation did not continue because the Save Nimisha Priya International Action Council (set upin 2020 to raise the required funds for negotiations) did not send the second installment of funds. Our",
+   "n_words": 208,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      5266,
+      4116,
+      5426
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5420,
+      499,
+      5495
+     ],
+     [
+      318,
+      5569,
+      759,
+      5648
+     ],
+     [
+      804,
+      5420,
+      1248,
+      6167
+     ],
+     [
+      1290,
+      5420,
+      1736,
+      6167
+     ],
+     [
+      2759,
+      5422,
+      3202,
+      6169
+     ],
+     [
+      3246,
+      5422,
+      3691,
+      6169
+     ],
+     [
+      3735,
+      5423,
+      4180,
+      6130
+     ]
+    ],
+    "layout_words": 463
+   },
+   "headline_raw": "A network of doctors in J&K brings \u2018golden hour\u2019 to remote areas",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nNAVEEDIQBAL\n\nior,cardiologist Dr Imran Hafeez,\nforassistance.\n\u201cHe was a bit unsure, but I\ntold him to stay on the call and\nadminister the drug. Once the\npain settled, the patient was\nbrought over to the Sher-e-\nKashmir Institute of Medical\nSciences(SKIMS)in Srinagar and\nsaved just in time,\u201d Dr Hafeez\ntold The Indian Express.\nThe incident was the spark\nthat led to the creation of a net-\nwork of doctors across J&K that\nhas been working on ensuring\nthat patients on the peripheries\nof the state's healthcare in fra-\nstructure get the required treat-\nment within the \u201cgolden hour\u201d \u2014\n\nthe first 60 minutes after a heart\nattack, during which propertreat-\nment can significantly improve\nchancesof survival.\nThe network, Save Heart\nFoundation, connects over 1.200\ndoctors from 130 hospitals\nacross J&K over WhatsApp, al-\nJowing even those with little car-\ndiology experience to provide\nlife-saving treatment to patients\nat makeshift medical campsand\nprimary health centres by tap-\nping into theexpertise of senior\ncardiologists.\nAccording to its members,\nover 6,000 liveshavebeen saved\nthrough early intervention via\ntheir WhatsApp group sincethe\n\nnetwork started in 2017.\nCurrently, the network cov-\ners nearly all hospitals in\nKashmir, large parts of Jammu\nand some areas of Ladakh.\nEvery few minutes, Dr\nHafeez's phone lights up as his\ncolleagues interact on the\nWhatsApp group, upload ing\nECGs and seeking the expertise\nof cardiologists on the platform.\n\u201cIn remote corners, say at a\nprimary health centre, the set-\nup includes a medical officer and\nconsultants. So, when a patient\nwith heart complicationscomes\nin, whether or not thepersonon\nduty is a cardiologist, they up-\njoad the ECG on our WhatsApp\n\ngroup and the cardiologist avail-\nable atthe time responds and\nguides the doctor on further\ntreatment before they are re-\nferred to SKIMSoradistrict hos-\npital if required,\u201d he said.\nSKIMSis the Valley's premier\nhealth institute and caters toa\nmajority of Kashmir's patient\nload. Dr Hafeez, who has been a\ncardiologist here for 20 years,\nsaid, \u201cin cardiology, timeis mus-\ncle. So, ideally, the sooner a pa-\ntient reaches us, the better the\nchance we have to save the heart.\nWith our topography and the\ndistancesinvolved, a patientcan\nsometimes takeeven four hours\nbefore reaching the hospital.\u201d\n\nIn places like Kupwara and\nKulgam, which have remote vil-\nlages that often face issues of\nconnectivity, the expertise of the\ncardiologists on the group has\nhelped save several lives.\nDr Aijaz Ahmad Bhat, posted\nat the Sub-District Hospital in\nKupwara, said that while he has\nbeen posted at the hospital for\nthe last 19 years, he first con-\nducted thrombolysis on a pa-\ntient with assistance from doc-\ntors on the group in 2017 and\nsince then, \u201cthousands of pa-\ntients have been saved through\nearlyintervention of thedoctors\non the group\u201d.",
+   "ocr_conf": 89.45119305856834,
+   "ocr_low_conf_share": 0.05422993492407809,
+   "headline": "A network of doctors in J&K brings 'golden hour' to remote areas",
+   "deck": "",
+   "byline": "ANCHOR; NAVEEDIQBAL",
+   "text": "ior,cardiologist Dr Imran Hafeez, forassistance. \"He was a bit unsure, but I told him to stay on the call and administer the drug. Once the pain settled, the patient was brought over to the Sher-e-Kashmir Institute of Medical Sciences(SKIMS)in Srinagar and saved just in time,\" Dr Hafeez told The Indian Express. The incident was the spark that led to the creation of a network of doctors across J&K that has been working on ensuring that patients on the peripheries of the state's healthcare in frastructure get the required treatment within the \"golden hour\" -\n\nthe first 60 minutes after a heart attack, during which propertreatment can significantly improve chancesof survival. The network, Save Heart Foundation, connects over 1.200 doctors from 130 hospitals across J&K over WhatsApp, al-Jowing even those with little cardiology experience to provide life-saving treatment to patients at makeshift medical campsand primary health centres by tapping into theexpertise of senior cardiologists. According to its members, over 6,000 liveshavebeen saved through early intervention via their WhatsApp group sincethe\n\nnetwork started in 2017. Currently, the network covers nearly all hospitals in Kashmir, large parts of Jammu and some areas of Ladakh. Every few minutes, Dr Hafeez's phone lights up as his colleagues interact on the WhatsApp group, upload ing ECGs and seeking the expertise of cardiologists on the platform. \"In remote corners, say at a primary health centre, the setup includes a medical officer and consultants. So, when a patient with heart complicationscomes in, whether or not thepersonon duty is a cardiologist, they upjoad the ECG on our WhatsApp\n\ngroup and the cardiologist available atthe time responds and guides the doctor on further treatment before they are referred to SKIMSoradistrict hospital if required,\" he said. SKIMSis the Valley's premier health institute and caters toa majority of Kashmir's patient load. Dr Hafeez, who has been a cardiologist here for 20 years, said, \"in cardiology, timeis muscle. So, ideally, the sooner a patient reaches us, the better the chance we have to save the heart. With our topography and the distancesinvolved, a patientcan sometimes takeeven four hours before reaching the hospital.\"\n\nIn places like Kupwara and Kulgam, which have remote villages that often face issues of connectivity, the expertise of the cardiologists on the group has helped save several lives. Dr Aijaz Ahmad Bhat, posted at the Sub-District Hospital in Kupwara, said that while he has been posted at the hospital for the last 19 years, he first conducted thrombolysis on a patient with assistance from doctors on the group in 2017 and since then, \"thousands of patients have been saved through earlyintervention of thedoctors on the group\".",
+   "n_words": 436,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      5654,
+      758,
+      5777
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      315,
+      5777,
+      763,
+      6166
+     ]
+    ],
+    "layout_words": 55
+   },
+   "headline_raw": "SRINAGAR, JANUARY 1\nIN 2016, a 35-year-old pilgrim",
+   "deck_raw": "",
+   "body_raw": "undertaking the long trek to the\nAmamath cave suffered a heart\nattack in the Baltal area of\nJammu == and_~\u2014s Kashmir's\nGanderbal district. As he was\nbrought into the makeshift med-\nical bay set up for pilgrims, a\nyoung doctor \u2014 unsure of ad-\nministering drugs to thrombol-\nyse the patient \u2014 called his sen-",
+   "ocr_conf": 86.9090909090909,
+   "ocr_low_conf_share": 0.10909090909090909,
+   "headline": "SRINAGAR, JANUARY 1 IN 2016, a 35-year-old pilgrim",
+   "deck": "",
+   "byline": "",
+   "text": "undertaking the long trek to the Amamath cave suffered a heart attack in the Baltal area of Jammu == and_~ - s Kashmir's Ganderbal district. As he was brought into the makeshift medical bay set up for pilgrims, a young doctor - unsure of administering drugs to thrombolyse the patient - called his sen-",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.5,
+ "flags": []
+}

@@ -1,0 +1,654 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_14_front",
+ "source_file": "2025-09-14_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-14_front.png",
+ "date": "2025-09-14",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 9,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 405,
+  "mean_line_conf": 91.1262680597866,
+  "orphan_words": 0,
+  "body_words_total": 1605
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3859,
+      73,
+      4072,
+      186
+     ],
+     [
+      3749,
+      315,
+      4176,
+      485
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3773,
+      236,
+      4162,
+      275
+     ]
+    ],
+    "body_boxes": [
+     [
+      3744,
+      498,
+      4184,
+      610
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "eve\nMaking Room\nfor Ragas",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "The classical music baithak\nis now digital-sawvy, ticketed\nand more democratic",
+   "ocr_conf": 92.9090909090909,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve Making Room for Ragas",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "The classical music baithak is now digital-sawvy, ticketed and more democratic",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1497,
+      4176,
+      1959
+     ],
+     [
+      3252,
+      2015,
+      4164,
+      2146
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3339,
+      2218,
+      4096,
+      2311
+     ],
+     [
+      3309,
+      2427,
+      3479,
+      2823
+     ],
+     [
+      3793,
+      2838,
+      4139,
+      2868
+     ],
+     [
+      3251,
+      2964,
+      3950,
+      3048
+     ],
+     [
+      3251,
+      3020,
+      4178,
+      3646
+     ],
+     [
+      3252,
+      3651,
+      3691,
+      3725
+     ]
+    ],
+    "layout_words": 110
+   },
+   "headline_raw": "On Govt table: How\nto help exporters not\nlose market share\ndue to 50% US tariff\nAssures to backstop losses; confident\nsecondary 25% tariffs will go soon",
+   "deck_raw": "",
+   "body_raw": "U.S. IMPORTS OF TEXTILES AND APPAREL\n(in billion US$)\n\nWorld\nChina\nVietnam\nIndia\nBangladesh\nIndonesia\nCambodia\n\nSource: US Dept of Commerce\n\nANIL SASI ECONOMY\nNEWDELHI,SEPTEMBERT3) sb we ween\n\nNEW DELHI, SEPTEMBER 13 U.S. SEEKS G7 ACTION\nTO PREVENT loss of market AGAINST COUNTRIES\nshare following thehigh50%Us BUYING RUSSIAN OIL\ntariffs, the government isready PAGE9\nto extend aseries of mitigating\nmeasures such as subsidised in-\nterest rates, collateral-freeloans \u2014_ reciprocal US tariffs kicked-in on\nand credit guarantee, tolabour- August 7, India managed a 12%\nintensive exporters. Exporters growth in shipments of textiles\nalso want government support and apparelsto the US. This was,\nin facilitating access to big do- however, far lower than the ex-\nmesticbuyers\u2014 both publiclike \u2014 port growthclocked by competi-\nthe Railways, and private like tors Vietnam, Bangladesh,\nReliance Retail and Aditya Birla Indonesia and Cambodia.\nGroup. Withthe additional 25% sec-\n\nIn the first half of this year,\nand just weeks before the 25%",
+   "ocr_conf": 85.83870967741936,
+   "ocr_low_conf_share": 0.09032258064516129,
+   "headline": "On Govt table: How to help exporters not lose market share due to 50% US tariff Assures to backstop losses; confident secondary 25% tariffs will go soon",
+   "deck": "",
+   "byline": "U.S. IMPORTS OF TEXTILES AND APPAREL",
+   "text": "(in billion US$)\n\nWorld China Vietnam India Bangladesh Indonesia Cambodia\n\nSource: US Dept of Commerce\n\nANIL SASI ECONOMY NEWDELHI,SEPTEMBERT3) sb we ween\n\nNEW DELHI, SEPTEMBER 13 U.S. SEEKS G7 ACTION TO PREVENT loss of market AGAINST COUNTRIES share following thehigh50%Us BUYING RUSSIAN OIL tariffs, the government isready PAGE9 to extend aseries of mitigating measures such as subsidised interest rates, collateral-freeloans - _ reciprocal US tariffs kicked-in on and credit guarantee, tolabour- August 7, India managed a 12% intensive exporters. Exporters growth in shipments of textiles also want government support and apparelsto the US. This was, in facilitating access to big do- however, far lower than the exmesticbuyers - both publiclike - port growthclocked by competithe Railways, and private like tors Vietnam, Bangladesh, Reliance Retail and Aditya Birla Indonesia and Cambodia. Group. Withthe additional 25% sec-\n\nIn the first half of this year, and just weeks before the 25%",
+   "n_words": 148,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      326,
+      1589,
+      3183,
+      1937
+     ],
+     [
+      323,
+      1992,
+      1185,
+      2192
+     ]
+    ],
+    "deck_boxes": [
+     [
+      325,
+      1498,
+      2567,
+      1548
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      2263,
+      669,
+      2410
+     ],
+     [
+      321,
+      2462,
+      762,
+      3046
+     ],
+     [
+      809,
+      2224,
+      1254,
+      3043
+     ],
+     [
+      1826,
+      3763,
+      2162,
+      3878
+     ],
+     [
+      1826,
+      3915,
+      2105,
+      4074
+     ]
+    ],
+    "layout_words": 215
+   },
+   "headline_raw": "In Manipur, PM seeks to bridge the divide: \u2018Peace\nimperative, | am with you, Govt of India with you\u2019\nNew dawn of hope, belief knocking\non the doors, he says after meeting\npeople displaced due to violence",
+   "deck_raw": "UNVEILS SLEW OF PROJECTS ON FIRST VISIT TO STATE AFTER VIOLENCE",
+   "body_raw": "SUKRITA BARUAH &\nDEEPTIMAN TIWARY\nIMPHAL, NEW DELHI,\nSEPTEMBER 13\n\nUNDERLINING THAT \u201cpeace is\nimperative for development\u201d,\nPrime Minister Narendra Modi,\non his first visit to Manipur ever\nsince the start of ethnic violence\nin the state in May 2023, told\nthe people Saturday: \u201cI am with\nyou, the Government of Indiais\nwith you.\u201d\nSpeaking in the Kuki-Zo\nstronghold of Churachandpur\u2014\nhe took the road from Imphal,\nabandoning plans to use the hel-\nicopter owing to inclement\nweather \u2014 Modi said, \u201cThis land\n\nof Manipur is the land of hope\nand aspirations. But unfortu-\nnately, violence took over this\nmagnificent region. | met those\nvictims a few moments ago, who\nare living in camps. After talking\nto them, I can say that the new\ndawn of hope and belief is\nknocking on the doors of\nManipur. At any place, peace is\nimperative for development. In\nthe past 11 years, decades-old\ndisputes in the North-East have\nbeen resolved. People have cho-\nsen the path of peace. They have\ngiven priority to development. !\nam happy that recently a dia-\nlogue has been started with dif-\nferent groups in the hills (where\nKuki-Zos dominate) and the\nCONTINUED ON PAGE 2\n\n@ Kuki-Zo Council\ndemands separate UT\nwith legislature\n\n@ \u2018Grave insultto\nwounded people\u2019:\nCong slams PM\nPAGE4",
+   "ocr_conf": 92.54418604651163,
+   "ocr_low_conf_share": 0.023255813953488372,
+   "headline": "In Manipur, PM seeks to bridge the divide: 'Peace imperative, am with you, Govt of India with you' New dawn of hope, belief knocking on the doors, he says after meeting people displaced due to violence",
+   "deck": "UNVEILS SLEW OF PROJECTS ON FIRST VISIT TO STATE AFTER VIOLENCE",
+   "byline": "SUKRITA BARUAH &; DEEPTIMAN TIWARY; IMPHAL, NEW DELHI,; SEPTEMBER 13",
+   "text": "UNDERLINING THAT \"peace is imperative for development\", Prime Minister Narendra Modi, on his first visit to Manipur ever since the start of ethnic violence in the state in May 2023, told the people Saturday: \"I am with you, the Government of Indiais with you.\" Speaking in the Kuki-Zo stronghold of Churachandpur - he took the road from Imphal, abandoning plans to use the helicopter owing to inclement weather - Modi said, \"This land\n\nof Manipur is the land of hope and aspirations. But unfortunately, violence took over this magnificent region. met those victims a few moments ago, who are living in camps. After talking to them, I can say that the new dawn of hope and belief is knocking on the doors of Manipur. At any place, peace is imperative for development. In the past 11 years, decades-old disputes in the North-East have been resolved. People have chosen the path of peace. They have given priority to development.! am happy that recently a dialogue has been started with different groups in the hills (where Kuki-Zos dominate) and the\n\n@ Kuki-Zo Council demands separate UT with legislature\n\n@ 'Grave insultto wounded people': Cong slams PM",
+   "n_words": 194,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3118,
+      1720,
+      3337
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      3410,
+      665,
+      3480
+     ],
+     [
+      320,
+      3529,
+      761,
+      4118
+     ],
+     [
+      322,
+      4292,
+      733,
+      4324
+     ],
+     [
+      319,
+      4684,
+      736,
+      4853
+     ],
+     [
+      320,
+      4888,
+      726,
+      5106
+     ],
+     [
+      808,
+      4006,
+      1249,
+      4115
+     ],
+     [
+      1298,
+      4006,
+      1737,
+      4112
+     ]
+    ],
+    "layout_words": 136
+   },
+   "headline_raw": "Two speeches, one message: Can\u2019t\nlet Manipur\u2019s past bury its future",
+   "deck_raw": "",
+   "body_raw": "SUKRITA BARUAH\nIMPHAL, SEPTEMBER 13\n\nTHE CENTRAL theme of Prime\nMinister Narendra Modi\u2019s two\nspeeches in Manipur \u2014 deliv-\nered 60 kilometres apart in areas\ndominated by two communities\nin conflict \u2014 was the need to en-\nsure that the aspirations of the\nState, particularly its youth, are\nnot \u201cburied under the dark\nshadow of violence.\u201d\nAs he inaugurated and an-\nnounced a slew of projects, the\nPM made it a point to underline\nhow each hasa partto playinthe\nstate\u2019s journey to peace and\n\nEXPRESS NETWORK\n\nTOP MAOIST LEADER\nKISHENJI\u2019S WIFE\nSURRENDERS\nAFTER 43 YEARS\n\nCONG SEEKS PROBE\nINTO KEY TOURISM\nPROJECT FOR\nBALKRISHNA FIRM\nPAGES 3, 5\n\nprogress. He highlighted that the\nfuture belonged to Manipur\nand the Northeast, and violence\n\nand disharmony were imped-\niments to the state reaching its\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.71323529411765,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Two speeches, one message: Can't let Manipur's past bury its future",
+   "deck": "",
+   "byline": "SUKRITA BARUAH; IMPHAL, SEPTEMBER 13",
+   "text": "THE CENTRAL theme of Prime Minister Narendra Modi's two speeches in Manipur - delivered 60 kilometres apart in areas dominated by two communities in conflict - was the need to ensure that the aspirations of the State, particularly its youth, are not \"buried under the dark shadow of violence.\" As he inaugurated and announced a slew of projects, the PM made it a point to underline how each hasa partto playinthe state's journey to peace and\n\nEXPRESS NETWORK\n\nTOP MAOIST LEADER KISHENJI'S WIFE SURRENDERS AFTER 43 YEARS\n\nCONG SEEKS PROBE INTO KEY TOURISM PROJECT FOR BALKRISHNA FIRM PAGES 3, 5\n\nprogress. He highlighted that the future belonged to Manipur and the Northeast, and violence\n\nand disharmony were impediments to the state reaching its",
+   "n_words": 123,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      3120,
+      3160,
+      3418
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      3491,
+      2667,
+      3561
+     ],
+     [
+      2271,
+      3611,
+      2715,
+      4120
+     ],
+     [
+      2763,
+      3452,
+      3201,
+      3487
+     ],
+     [
+      2762,
+      3520,
+      3204,
+      4113
+     ]
+    ],
+    "layout_words": 125
+   },
+   "headline_raw": "6 key takeaways: From\ninfrastructure as unifier\nto sports for integration",
+   "deck_raw": "",
+   "body_raw": "DEEPTIMAN TIWARY\nNEW DELHI, SEPTEMBER 13\n\nIN BOTH his speeches \u2014 in\nChurachandpur and Imphal \u2014\nPrime Minister Narendia\nModi\u2019s themes were |\nconsistent: peace as a = \u2018\nprecondition for |=\nprogress, reconciliation |><\nbetween the hills and __\nthe valley, infrastructure\nand welfare as bridges, and re-\nnewed focus on local gover-\nnance, women, and youth,\nHere are six key takeaways\n\nfrom the PM's speeches:\n\nPeace for progress\nCalling violence an \u201cinjustice\u201d\nto Manipur's forefathers as weil as\nfuture generations, Modi made\npeace the central theme\na of his trip. In Churach-\n\"] andpur, he said, \u201cThis\nland of Manipur is the\nme | _landofhopeand aspira-\ntions. But, unfortunately,\nviolence took over this\nmagnificent region... the new\ndawn of hopeand beliefis knock-\ning the doorsof Manipur.\u201d\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.32575757575758,
+   "ocr_low_conf_share": 0.09090909090909091,
+   "headline": "6 key takeaways: From infrastructure as unifier to sports for integration",
+   "deck": "",
+   "byline": "DEEPTIMAN TIWARY; NEW DELHI, SEPTEMBER 13",
+   "text": "IN BOTH his speeches - in Churachandpur and Imphal - Prime Minister Narendia Modi's themes were consistent: peace as a = ' precondition for = progress, reconciliation >< between the hills and __ the valley, infrastructure and welfare as bridges, and renewed focus on local governance, women, and youth, Here are six key takeaways\n\nfrom the PM's speeches:\n\nPeace for progress Calling violence an \"injustice\" to Manipur's forefathers as weil as future generations, Modi made peace the central theme a of his trip. In Churach- \"] andpur, he said, \"This land of Manipur is the me _landofhopeand aspirations. But, unfortunately, violence took over this magnificent region... the new dawn of hopeand beliefis knocking the doorsof Manipur.\"",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3741,
+      3129,
+      4162,
+      3172
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3738,
+      3295,
+      4181,
+      3718
+     ]
+    ],
+    "layout_words": 52
+   },
+   "headline_raw": "BUYING RUSSIAN OIL",
+   "deck_raw": "",
+   "body_raw": "reciprocal US tariffs kicked-in on\nAugust 7, India managed a 12%\ngrowth in shipments of textiles\nand apparels to the US. This was,\nhowever, far lower than the ex-\nport growth clocked by competi-\ntors Vietnam, Bangladesh,\nIndonesia and Cambodia.\nWiththe additional 25% sec-\nondary tariffs for Russian oil\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.20754716981132,
+   "ocr_low_conf_share": 0.03773584905660377,
+   "headline": "BUYING RUSSIAN OIL",
+   "deck": "",
+   "byline": "",
+   "text": "reciprocal US tariffs kicked-in on August 7, India managed a 12% growth in shipments of textiles and apparels to the US. This was, however, far lower than the export growth clocked by competitors Vietnam, Bangladesh, Indonesia and Cambodia. Withthe additional 25% secondary tariffs for Russian oil",
+   "n_words": 46,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3792,
+      4153,
+      4242
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3737,
+      4285,
+      3875,
+      4342
+     ]
+    ],
+    "body_boxes": [
+     [
+      3251,
+      4322,
+      3673,
+      4434
+     ],
+     [
+      3249,
+      4482,
+      3691,
+      5145
+     ],
+     [
+      3738,
+      4383,
+      4147,
+      4553
+     ],
+     [
+      3738,
+      4640,
+      4179,
+      5142
+     ]
+    ],
+    "layout_words": 165
+   },
+   "headline_raw": "Rape of Sikh woman\nin UK sparks outrage,\npolice probe \u2018racially\nageravated attack\u2019",
+   "deck_raw": "INSIDE",
+   "body_raw": "MANRAJ GREWAL\nSHARMA\nCHANDIGARH, SEPTEMBER 13\n\nABRITISH-BORN Sikh womanin\nher 20s was raped and assaulted\nin broad daylight in England\u2019s\nWest Midlands county earlier\nthis week, an incident the West\nMidlands Police said they were\ninvestigating as \u201ca racially moti-\nvated hate crime\u201d.\nThe September 9 attack near\nTame Road in Oldbury has sent\nshockwaves through the com-\nmunity and drawn condemna-\ntion from Sikh organisations,\nhighlighting fears of rising racial\ntensions in the region.\nAccording to the West\nMidlands Police, the woman was\n\n\u2018NOW, | HAVE TO DO\nHIS LAST RITES\u2019:\nDALLAS MURDER\nVICTIM\u2019S MOTHER ps5\n\napproached around 8.30 am by\ntwo white men while walking\nthrougha park. They said the as-\nsailants raped the woman and\nbeat her up while hurling racist\nabuse, including telling her \u201cYou\ndon\u2019t belong in this country\u201d and\n\u201cGo back to your country.\u201d\nThe victim, described as a\nBritish citizen of Indian origin, re-\nported the attack soon after,\nprompting a swift police response.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.15151515151516,
+   "ocr_low_conf_share": 0.06060606060606061,
+   "headline": "Rape of Sikh woman in UK sparks outrage, police probe 'racially ageravated attack'",
+   "deck": "",
+   "byline": "MANRAJ GREWAL; SHARMA; CHANDIGARH, SEPTEMBER 13",
+   "text": "ABRITISH-BORN Sikh womanin her 20s was raped and assaulted in broad daylight in England's West Midlands county earlier this week, an incident the West Midlands Police said they were investigating as \"a racially motivated hate crime\". The September 9 attack near Tame Road in Oldbury has sent shockwaves through the community and drawn condemnation from Sikh organisations, highlighting fears of rising racial tensions in the region. According to the West Midlands Police, the woman was\n\n'NOW, HAVE TO DO HIS LAST RITES': DALLAS MURDER VICTIM'S MOTHER ps5\n\napproached around 8.30 am by two white men while walking througha park. They said the assailants raped the woman and beat her up while hurling racist abuse, including telling her \"You don't belong in this country\" and \"Go back to your country.\" The victim, described as a British citizen of Indian origin, reported the attack soon after, prompting a swift police response.",
+   "n_words": 149,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      806,
+      4264,
+      1722,
+      4544
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1991,
+      4633,
+      2225,
+      4737
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      4637,
+      1190,
+      4707
+     ],
+     [
+      807,
+      4755,
+      1248,
+      5146
+     ],
+     [
+      1296,
+      4598,
+      1738,
+      5100
+     ],
+     [
+      1784,
+      4837,
+      2105,
+      4907
+     ],
+     [
+      1783,
+      4955,
+      2225,
+      5147
+     ]
+    ],
+    "layout_words": 144
+   },
+   "headline_raw": "How 6 X-ray technicians,\nall named \u2018Arpit Singh\u2019,\nwent undetected in UP",
+   "deck_raw": "EXPRESS\nAT ASIACUP",
+   "body_raw": "MANISH SAHU\nLUCKNOW, SEPTEMBER 13\n\nINTHE list of 403 successful can-\ndidates put out by the Uttar\nPradesh Subordinate Services\nSelection Commission in 2016,\naccording to a state health de-\npartment official, the 80thname\nread: Arpit Singh, son of Anil\nKumar Singh.\nThe only Arpit Singh in the\nlist that year, the Agra resident\n\nwas posted as an X-ray techni-\ncian at the Community Health\nCentre (CHC) in Hathras ona\nmonthly salary of around\nRs 35,000.\nNine years on, in August this\nyear, the curious caseof six more\nX-ray technicians withthe same\nname, the same father's name\nand the same recruitment year\nworking in six district hospitals\nand healthcentres started doing\nthe rounds.\n\nSANDIPG\nDUBAI, SEPTEMBER 13\n\nINTHE walkway beside the nets\nfor trainees at the ICC Academy,\nRashid Alam reminisces the fe-\nrocity of the India-Pakistan ri-\nvalry to his two children, both",
+   "ocr_conf": 92.77083333333333,
+   "ocr_low_conf_share": 0.034722222222222224,
+   "headline": "How 6 X-ray technicians, all named 'Arpit Singh', went undetected in UP",
+   "deck": "EXPRESS AT ASIACUP",
+   "byline": "MANISH SAHU; LUCKNOW, SEPTEMBER 13",
+   "text": "INTHE list of 403 successful candidates put out by the Uttar Pradesh Subordinate Services Selection Commission in 2016, according to a state health department official, the 80thname read: Arpit Singh, son of Anil Kumar Singh. The only Arpit Singh in the list that year, the Agra resident\n\nwas posted as an X-ray technician at the Community Health Centre (CHC) in Hathras ona monthly salary of around Nine years on, in August this year, the curious caseof six more X-ray technicians withthe same name, the same father's name and the same recruitment year working in six district hospitals and healthcentres started doing the rounds.\n\nSANDIPG DUBAI, SEPTEMBER 13\n\nINTHE walkway beside the nets for trainees at the ICC Academy, Rashid Alam reminisces the ferocity of the India-Pakistan rivalry to his two children, both",
+   "n_words": 132,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4331,
+      3199,
+      4535
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1786,
+      4269,
+      3137,
+      4302
+     ]
+    ],
+    "body_boxes": [
+     [
+      2760,
+      4560,
+      3203,
+      5101
+     ]
+    ],
+    "layout_words": 68
+   },
+   "headline_raw": "Some things not in our control: Coach\nto team on first clash after Op Sindoor",
+   "deck_raw": "INDIA VS PAK IN DUBAI TODAY: RIVALRY THAT HAS LOST ITS EDGE",
+   "body_raw": "wearing Pakistan jerseys bear-\ning their names. \u201cWoh zamaana\nalag tha\u201d (Those times were dif-\nferent),\u201d he says. \u201cWe had the\nworld's best fast bowlers and\ngreat batsmen too. Those days\nwe would beat India regularly.\u201d\nAlam, who is from Karachi\nand works in Dubai as a software\nengineer, says his children don't\nunderstand what it all once\nmeant. \u201cThey can't be blamed.\nThe rivalry has become\none-sided.\"",
+   "ocr_conf": 94.17647058823529,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Some things not in our control: Coach to team on first clash after Op Sindoor",
+   "deck": "INDIA VS PAK IN DUBAI TODAY: RIVALRY THAT HAS LOST ITS EDGE",
+   "byline": "",
+   "text": "wearing Pakistan jerseys bearing their names. \"Woh zamaana alag tha\" (Those times were different),\" he says. \"We had the world's best fast bowlers and great batsmen too. Those days we would beat India regularly.\" Alam, who is from Karachi and works in Dubai as a software engineer, says his children don't understand what it all once meant. \"They can't be blamed. The rivalry has become one-sided.\"",
+   "n_words": 66,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      316,
+      5301,
+      1759,
+      5430
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      5471,
+      499,
+      5547
+     ],
+     [
+      319,
+      5666,
+      700,
+      5736
+     ],
+     [
+      318,
+      5784,
+      760,
+      6168
+     ],
+     [
+      806,
+      5468,
+      1248,
+      6175
+     ],
+     [
+      1295,
+      5468,
+      1737,
+      6176
+     ]
+    ],
+    "layout_words": 256
+   },
+   "headline_raw": "Angler\u2019s paradise regained:",
+   "deck_raw": "",
+   "body_raw": "PAGE1\nANCHOR\n\nBASHAARAT MASOOD\nSRINAGAR, SEPTEMBER 13\n\nIN THE winter of 1900, the\nBritish introduced Kashmir to a\nnew guest \u2014 the Scotland native\nbrown trout. Fittingly, the new\nguest took to the place like fish\nto water \u2014 not only did it enrich\nits aquatic life but it also made it\nan angler\u2019s paradise. Over acen-\ntury later, Kashmir is all set to\nwelcome back its old friend \u2014\n\nthe fisheries department plans\ntoreintroduce the trout back into\nthe Valley for game.\nThe fish will be reintroduced\ninto cold-water streams in\nOctober. \u201cThis isa huge moment\nforus. We're doingit for the first\ntime since the British,\u201d Abdul\nMajid Tak, director of Kashmir\u2019s\nfisheries department, tells The\nIndian Express. \u201cThis project is\ngoing to revive it.\u201d\nA cold-water fish, the brown\ntrout \u2014 like its cousin, the rain-\nbow trout \u2014 prefers cool and\nwell-oxygenated water. Usually\ngrowing to between 15 and 22\ninches in length and between 1\n\nand 5 pounds, the trout is consid-\nered apopular game fish. While\nthe rainbow trout can grow ro-\nbustly in fish farms or fish tanks,\nmaking them good for food pro-\nduction, the brown trout only\nthrivesin the wild. Best suited to\nfreshwaters, this fish spends\nmuch of its time in crevices be-\ntween boulders in streams.\nAccording to the govern-\nment\u2019s fisheries website, the\nBritish first introduced the\nbrown trout in the Valley's\nstreams in 1900 thanks to the ef-\nforts of Frank J Mitchel, an\nEnglishman who owned a pri-\nvate carpet factory in Kashmir.",
+   "ocr_conf": 92.73046875,
+   "ocr_low_conf_share": 0.0234375,
+   "headline": "Angler's paradise regained:",
+   "deck": "",
+   "byline": "ANCHOR; BASHAARAT MASOOD; SRINAGAR, SEPTEMBER 13",
+   "text": "IN THE winter of 1900, the British introduced Kashmir to a new guest - the Scotland native brown trout. Fittingly, the new guest took to the place like fish to water - not only did it enrich its aquatic life but it also made it an angler's paradise. Over acentury later, Kashmir is all set to welcome back its old friend -\n\nthe fisheries department plans toreintroduce the trout back into the Valley for game. The fish will be reintroduced into cold-water streams in October. \"This isa huge moment forus. We're doingit for the first time since the British,\" Abdul Majid Tak, director of Kashmir's fisheries department, tells The Indian Express. \"This project is going to revive it.\" A cold-water fish, the brown trout - like its cousin, the rainbow trout - prefers cool and well-oxygenated water. Usually growing to between 15 and 22 inches in length and between 1\n\nand 5 pounds, the trout is considered apopular game fish. While the rainbow trout can grow robustly in fish farms or fish tanks, making them good for food production, the brown trout only thrivesin the wild. Best suited to freshwaters, this fish spends much of its time in crevices between boulders in streams. According to the government's fisheries website, the British first introduced the brown trout in the Valley's streams in 1900 thanks to the efforts of Frank J Mitchel, an Englishman who owned a private carpet factory in Kashmir.",
+   "n_words": 240,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1790,
+      5302,
+      4148,
+      5432
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2257,
+      5903,
+      2679,
+      6137
+     ],
+     [
+      2757,
+      5470,
+      3205,
+      6174
+     ],
+     [
+      3246,
+      5470,
+      3691,
+      6171
+     ],
+     [
+      3736,
+      5471,
+      4179,
+      6171
+     ]
+    ],
+    "layout_words": 288
+   },
+   "headline_raw": "Kashmir to bring back brown trout for game",
+   "deck_raw": "",
+   "body_raw": "Brown trout was introduced\nin Kashmir\u2019s streams by the\nBritish in 1900; (left) the\nfisheries dept imported\n3 lakh \u2018pure\u2019 brown trout\neggs from Denmark\n\nThis was the second attempt\nto introduce the fish into the\nValley \u2014the first was a year ago,\nwhen the then Maharaja of\nJammu and Kashmir, Pratap\nSingh, received it as a return gift\nfrom the then Earl of Bradford.\nWhile the first attempt \u2014a\nconsignment of 10,000 brown\ntrout eggs that perished even be-\nfore they reached the Valley \u2014\nwas a failure, the second was a\nresounding success. The ship-\nment that came included 1,800\nfries, or tiny trout, and was intro-\nduced intothe Panzagam stream\nin Kashmir's Dachigam.\nSoon, the brown trout came\n\nto inhabit other streams, from the\nLidder in South Kashmir's\nPahalgam and Bringhi in\nKokernag, to Ferozpora in\nTangmarg. As it increasingly be-\ncame a game fish, Kashmir \u2014\nthrough the fisheries depart-\nment established under Frank J\nMitchel\u2019s watch in 1903 \u2014 desig-\nnated 360 \u2018beats\u2019, or areas where\nexclusive fishing rights are sold\nor rented to anglers, for it.\nEventually, rampant and un-\nregulated angling over the years\ncaused the fish population to de-\ncline. Over the last year, however,\nthe fisheries department has de-\ncided to embark on a mission to\n\nrevive Kashmir\u2019s brown trout\npopulation for game.\nAccording to officials, it was\nthe central Pradhan Mantri\nMatsya Sampada Yojana\n(PMMSY) and J&K\u2019s Holistic\nAgricultural Development\nProgramme \u2014 both aimed at\npromoting sustainable agricul-\ntural practices \u2014 that gave impe-\ntus to the project.\n\u201cThe schemes allowed us to\nimport germplasm from out-\nside,\u201d Shabir Ahmad Shabir, as-\nsistant fisheries director for\nAnantnag and Kulgam, says.\nThe germplasm \u2014 three lakh\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.83391003460207,
+   "ocr_low_conf_share": 0.03460207612456748,
+   "headline": "Kashmir to bring back brown trout for game",
+   "deck": "",
+   "byline": "",
+   "text": "Brown trout was introduced in Kashmir's streams by the British in 1900; (left) the fisheries dept imported 3 lakh 'pure' brown trout eggs from Denmark\n\nThis was the second attempt to introduce the fish into the Valley - the first was a year ago, when the then Maharaja of Jammu and Kashmir, Pratap Singh, received it as a return gift from the then Earl of Bradford. While the first attempt - a consignment of 10,000 brown trout eggs that perished even before they reached the Valley - was a failure, the second was a resounding success. The shipment that came included 1,800 fries, or tiny trout, and was introduced intothe Panzagam stream in Kashmir's Dachigam. Soon, the brown trout came\n\nto inhabit other streams, from the Lidder in South Kashmir's Pahalgam and Bringhi in Kokernag, to Ferozpora in Tangmarg. As it increasingly became a game fish, Kashmir - through the fisheries department established under Frank J Mitchel's watch in 1903 - designated 360 'beats', or areas where exclusive fishing rights are sold or rented to anglers, for it. Eventually, rampant and unregulated angling over the years caused the fish population to decline. Over the last year, however, the fisheries department has decided to embark on a mission to\n\nrevive Kashmir's brown trout population for game. According to officials, it was the central Pradhan Mantri Matsya Sampada Yojana (PMMSY) and J&K's Holistic Agricultural Development Programme - both aimed at promoting sustainable agricultural practices - that gave impetus to the project. \"The schemes allowed us to import germplasm from outside,\" Shabir Ahmad Shabir, assistant fisheries director for Anantnag and Kulgam, says. The germplasm - three lakh",
+   "n_words": 274,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 16.2,
+ "flags": []
+}

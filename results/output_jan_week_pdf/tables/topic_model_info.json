@@ -1,0 +1,88 @@
+{
+ "method": "BERTopic",
+ "clustering": "k-means (k=6, silhouette=0.390)",
+ "n_topics": 6,
+ "outliers_reassigned": 0,
+ "topic_words": {
+  "0": [
+   "bjp",
+   "hindu",
+   "ambedkar",
+   "minister",
+   "savarkar",
+   "government",
+   "party",
+   "caste",
+   "dominance",
+   "indian"
+  ],
+  "1": [
+   "state",
+   "trump",
+   "hospital",
+   "manipur",
+   "district",
+   "sindhi",
+   "minister",
+   "forest",
+   "department",
+   "case"
+  ],
+  "2": [
+   "india",
+   "coffee",
+   "gas",
+   "government",
+   "indian",
+   "global",
+   "trump",
+   "costs",
+   "prices",
+   "space"
+  ],
+  "3": [
+   "workers",
+   "data",
+   "security",
+   "digital",
+   "migrants",
+   "social",
+   "people",
+   "e-shram",
+   "government",
+   "unorganised"
+  ],
+  "4": [
+   "team",
+   "test",
+   "gambhir",
+   "bumrah",
+   "sharma",
+   "captain",
+   "rohit",
+   "india",
+   "coach",
+   "game"
+  ],
+  "5": [
+   "women",
+   "iits",
+   "iit",
+   "india",
+   "percentage",
+   "employment",
+   "data",
+   "education",
+   "rate",
+   "students"
+  ]
+ },
+ "topic_labels": {
+  "0": "bjp / hindu / ambedkar / minister",
+  "1": "state / trump / hospital / manipur",
+  "2": "india / coffee / gas / government",
+  "3": "workers / data / security / digital",
+  "4": "team / test / gambhir / bumrah",
+  "5": "women / iits / iit / india"
+ }
+}

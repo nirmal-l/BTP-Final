@@ -1,0 +1,778 @@
+{
+ "version": "1.6",
+ "page_id": "2025_05_25_front",
+ "source_file": "2025-05-25_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-05-25_front.png",
+ "date": "2025-05-25",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 11,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 0,
+  "n_lines": 474,
+  "mean_line_conf": 89.52785891440955,
+  "orphan_words": 16,
+  "body_words_total": 1984
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3831,
+      73,
+      4043,
+      186
+     ],
+     [
+      3726,
+      322,
+      4157,
+      467
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3745,
+      236,
+      4134,
+      274
+     ]
+    ],
+    "body_boxes": [
+     [
+      3697,
+      498,
+      4181,
+      620
+     ]
+    ],
+    "layout_words": 18
+   },
+   "headline_raw": "eve\n\u2018MY LIFE IS A\nSCHOOL",
+   "deck_raw": "THE SUNDAY EXPRESS MAGAZINE",
+   "body_raw": "Filmmaker Apama Sen on why,\ndespite OTT, she is still looking\nfor a space to tell her stories",
+   "ocr_conf": 91.44444444444444,
+   "ocr_low_conf_share": 0.0,
+   "headline": "eve 'MY LIFE IS A SCHOOL",
+   "deck": "THE SUNDAY EXPRESS MAGAZINE",
+   "byline": "",
+   "text": "Filmmaker Apama Sen on why, despite OTT, she is still looking for a space to tell her stories",
+   "n_words": 18,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      852,
+      568,
+      884
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE WORLD",
+   "ocr_conf": 95.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "THE WORLD",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2767,
+      922,
+      4170,
+      1462
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2769,
+      829,
+      4114,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      2767,
+      1501,
+      3202,
+      1915
+     ],
+     [
+      2765,
+      1989,
+      3170,
+      2099
+     ],
+     [
+      2764,
+      2147,
+      3205,
+      3084
+     ],
+     [
+      2766,
+      3169,
+      3085,
+      3202
+     ],
+     [
+      3303,
+      1699,
+      3370,
+      1738
+     ],
+     [
+      3252,
+      2185,
+      4174,
+      2301
+     ]
+    ],
+    "layout_words": 176
+   },
+   "headline_raw": "Leverage FTAs, remove\nobsolete laws, PM tells\nstates in NITI meeting",
+   "deck_raw": "IF CENTRE, STATES A TEAM, NO GOAL IMPOSSIBLE: PM",
+   "body_raw": "Modi: Operation\nSindoor \u2018not\none-off initiative\u2019,\nmust modernise\ncivil defence\npreparedness\n\nAGGAM WALIA&\nSOUMYARENDRABARIK\nNEW DELHI, MAY 24\n\nPRIME MINISTER Narendra Modi\nSaturday said there is a need to\nincrease the speed of develop-\nment, and \u201cif the Centre and\nstates work together like Team\nIndia, no goal is impossible\u201d.\nAddressing the 10th NITI\nAayog Goveming Council, which\nincludes Chief Ministers and\nLieutenant Governors of states\nand Union Territories besides the\nthink tank\u2019s members and its\nVice Chairperson, Modi said, \u201cWe\nshould focuson one goal, to make\nBharat Viksit by 2047. We should\nhave the aim of making each\nstate Viksit, each city Viksit, each\nNagar Palika Viksit and each vil-\nlage Viksit. If we work on these\nlines, we will not have to wait till\n2047 to become Viksit Bharat.\u201d\nAt apress briefing later in the\nevening, BVR Subrahmanyam,\nCONTINUED ON PAGE 2\n\nMORE REPORTS\n\nae\n\nPrime Minister Narendra Modi with Andhra Pradesh CM\nN Chandrababu Naidu and Tamil Nadu CM M K Stalin during\nthe NITI Aayog Governing Council meeting in New Delhi. pm",
+   "ocr_conf": 88.98863636363636,
+   "ocr_low_conf_share": 0.06818181818181818,
+   "headline": "Leverage FTAs, remove obsolete laws, PM tells states in NITI meeting",
+   "deck": "IF CENTRE, STATES A TEAM, NO GOAL IMPOSSIBLE: PM",
+   "byline": "AGGAM WALIA&; SOUMYARENDRABARIK; NEW DELHI, MAY 24",
+   "text": "Modi: Operation Sindoor 'not one-off initiative', must modernise civil defence preparedness\n\nPRIME MINISTER Narendra Modi Saturday said there is a need to increase the speed of development, and \"if the Centre and states work together like Team India, no goal is impossible\". Addressing the 10th NITI Aayog Goveming Council, which includes Chief Ministers and Lieutenant Governors of states and Union Territories besides the think tank's members and its Vice Chairperson, Modi said, \"We should focuson one goal, to make Bharat Viksit by 2047. We should have the aim of making each state Viksit, each city Viksit, each Nagar Palika Viksit and each village Viksit. If we work on these lines, we will not have to wait till 2047 to become Viksit Bharat.\" At apress briefing later in the evening, BVR Subrahmanyam,\n\nMORE REPORTS\n\nae\n\nPrime Minister Narendra Modi with Andhra Pradesh CM N Chandrababu Naidu and Tamil Nadu CM M K Stalin during the NITI Aayog Governing Council meeting in New Delhi. pm",
+   "n_words": 163,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1367,
+      714,
+      1583
+     ]
+    ],
+    "layout_words": 14,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "JAFAR PANAHI\u2019S \u2018iT\nWAS JUST AN\nACCIDENT\u2019 WINS\nPALME D\u2019OR AT\nCANNES PAGE 10",
+   "ocr_conf": 88.85714285714286,
+   "ocr_low_conf_share": 0.07142857142857142,
+   "headline": "",
+   "deck": "",
+   "byline": "JAFAR PANAHI'S 'iT; WAS JUST AN; ACCIDENT' WINS; PALME D'OR AT; CANNES PAGE 10",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      1693,
+      743,
+      2016
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      323,
+      2105,
+      709,
+      2175
+     ],
+     [
+      321,
+      2224,
+      764,
+      4079
+     ],
+     [
+      320,
+      4123,
+      761,
+      4435
+     ]
+    ],
+    "layout_words": 290
+   },
+   "headline_raw": "Govt ratifies\n8.25% interest\nrate on EPF\nfor 2024-25",
+   "deck_raw": "",
+   "body_raw": "PRESS TRUST OFINDIA\nNEW DELHI, MAY 24\n\nTHE GOVERNMENT has ratified\nthe rate of interest on employ-\nees\u2019 provident fund at 8.25 per\ncent for FY25, enabling retire-\nment fund body EPFO todeposit\nthe annual interest accumula-\ntion in the post-retirement funds\nof over 7 crore subscribers.\nEPFO, on February 28, had\ndecided toretain the interest rate\nof 8.25 per cent on employees\u2019\nprovident fund (EPF) deposits for\nthe financial year 2024-25, equal\nto the rate provided in the pre-\nceding fiscal. The approved rate\nof interest for 2024-25 was sent\nfor concurrence of the Ministry\nof Finance.\n\u201cMinistry of Finance has\ngiven concurrence to 8.25 per\ncent rate of interest on the EPF\nfor 2024-25 fiscal year and\nlabour ministry sent a commu-\nnication regarding this to the\nEPFO on Thursday,\u201d a Labour\nMinistry official told PTL\nNow the interest amount as\nper the rate ratified for FY25\nwill be credited into the ac-\ncounts of over 7 crore sub-\nscribers of EPFO.\nThe decision on interest rate\nwas taken at the 237th meeting\nof the central board of trustees\nof the EPFO chaired by Union\nMinister for Labour & Employ-\nment Mansukh Mandaviya in\nNew Delhi on February 28.\nCompared to many fixed-in-\ncome instruments, EPF offers\nrelatively higher and stable re-\nturns, ensuring steady growth\non post-retirement savings.\nIn February 2024, the EPFO\nhad increased the interest rate\nmarginally to 8.25 per cent for\n2023-24, from 8.15 per cent in\n\nIn March 2022, EPFO had\nlowered the interest on EPF for\n2021-22 to an over four-decade\nlow of 8.1 per cent, from 8.5 per\ncentin 2020-21. The8.10 percent\nrate of interest on EPF for 2020-\n21 wasthe lowest since 1977-78,\nwhen it stood at 8 percent",
+   "ocr_conf": 91.91349480968859,
+   "ocr_low_conf_share": 0.03806228373702422,
+   "headline": "Govt ratifies 8.25% interest rate on EPF",
+   "deck": "",
+   "byline": "PRESS TRUST OFINDIA; NEW DELHI, MAY 24",
+   "text": "THE GOVERNMENT has ratified the rate of interest on employees' provident fund at 8.25 per cent for FY25, enabling retirement fund body EPFO todeposit the annual interest accumulation in the post-retirement funds of over 7 crore subscribers. EPFO, on February 28, had decided toretain the interest rate of 8.25 per cent on employees' provident fund (EPF) deposits for the financial year 2024-25, equal to the rate provided in the preceding fiscal. The approved rate of interest for 2024-25 was sent for concurrence of the Ministry of Finance. \"Ministry of Finance has given concurrence to 8.25 per cent rate of interest on the EPF for 2024-25 fiscal year and labour ministry sent a communication regarding this to the EPFO on Thursday,\" a Labour Ministry official told PTL Now the interest amount as per the rate ratified for FY25 will be credited into the accounts of over 7 crore subscribers of EPFO. The decision on interest rate was taken at the 237th meeting of the central board of trustees of the EPFO chaired by Union Minister for Labour & Employment Mansukh Mandaviya in New Delhi on February 28. Compared to many fixed-income instruments, EPF offers relatively higher and stable returns, ensuring steady growth on post-retirement savings. In February 2024, the EPFO had increased the interest rate marginally to 8.25 per cent for 2023-24, from 8.15 per cent in\n\nIn March 2022, EPFO had lowered the interest on EPF for 2021-22 to an over four-decade low of 8.1 per cent, from 8.5 per centin 2020-21. The8.10 percent rate of interest on EPF for 2020- 21 wasthe lowest since 1977-78, when it stood at 8 percent",
+   "n_words": 272,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      1910,
+      2546,
+      1988
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      812,
+      2016,
+      1734,
+      2053
+     ],
+     [
+      808,
+      2104,
+      2036,
+      2221
+     ],
+     [
+      1436,
+      2105,
+      2036,
+      2181
+     ],
+     [
+      1862,
+      2017,
+      2716,
+      2053
+     ],
+     [
+      2087,
+      2105,
+      2701,
+      2222
+     ]
+    ],
+    "layout_words": 82
+   },
+   "headline_raw": "MONSOON Hits KERALA, EARLIEST SINCE 2009",
+   "deck_raw": "",
+   "body_raw": "Clouds over Kerala\u2019s Kovalam beach Saturday as the saiittiwes\n\nTHIS!Stheearliestonsetofmonsoon | THEIMD saidthe southwest monsoon\nover Kerala since 2009, whenit arrived | hasalsoadvanced into parts of\nMay 23. Normally, the onset is by June1. | Karmmataka, Mizoram and Tamil Nadu.\n\n: THEIMD said the southwest monsoon\n| hasalsoadvancedinto partsof =\n\noan hit the state eight days ahead of schedule.pm PAGE4\n\n| INAPRIL, IMD forecast above-normal\n_ rainfall this year, expected to be 105%\n: of the Long Period Average of 880 mm.",
+   "ocr_conf": 79.08536585365853,
+   "ocr_low_conf_share": 0.17073170731707318,
+   "headline": "MONSOON Hits KERALA, EARLIEST SINCE 2009",
+   "deck": "",
+   "byline": "",
+   "text": "Clouds over Kerala's Kovalam beach Saturday as the saiittiwes\n\nTHIS!Stheearliestonsetofmonsoon THEIMD saidthe southwest monsoon over Kerala since 2009, whenit arrived hasalsoadvanced into parts of May 23. Normally, the onset is by June1. Karmmataka, Mizoram and Tamil Nadu.\n\n: THEIMD said the southwest monsoon hasalsoadvancedinto partsof =\n\noan hit the state eight days ahead of schedule.pm PAGE4\n\nINAPRIL, IMD forecast above-normal _ rainfall this year, expected to be 105%: of the Long Period Average of 880 mm.",
+   "n_words": 76,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      2390,
+      2653,
+      2631
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      2329,
+      1858,
+      2362
+     ],
+     [
+      812,
+      2659,
+      1721,
+      2837
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      2936,
+      1190,
+      3006
+     ],
+     [
+      810,
+      3055,
+      1253,
+      3324
+     ],
+     [
+      1297,
+      2898,
+      1739,
+      3328
+     ],
+     [
+      1788,
+      3215,
+      2227,
+      3328
+     ],
+     [
+      2276,
+      2660,
+      2715,
+      2768
+     ],
+     [
+      2275,
+      2781,
+      2716,
+      3322
+     ]
+    ],
+    "layout_words": 180
+   },
+   "headline_raw": "To dial down, Army works on plan to\n\u2018rebalance\u2019 troops, equipment at border",
+   "deck_raw": "ALERT CONTINUES IN OPERATION SINDOOR PAUSE\nPak will pull back; India had not ramped\nup mobilisation but will ease earlier\nrestrictions on leave and movement",
+   "body_raw": "AMRITANAYAK DUTTA\nNEW DELHI, MAY 24\n\nAFORTNIGHT into the pause of\nmilitary action in the wake of the\nApril22 Pahalgam terror attack,\naproposed plan for \u201crebalancing\nof troops\u201d is being discussed\nwithin the military to avoid any\nfresh escalation at the borders,\n\nThe Indian Express has learned.\nThis even as Operation\nSindoor is on pause and all alerts\nremain at their heightened levels.\nWhile Indian and Pak armies\nare focusing on multiple confi-\ndence-building measures, plans\nfor de-escalating troops and\nequipment from the borders\nwithin the next fortnight are be-\ning considered.\n\nSources said Pakistan, which\ncarried out major reinforce-\nments of troops and equipment\n\nover the last few weeks, will also\npull them back to pre-April lo-\ncations.\n\nIncidentally, Indiahad not or-\ndered large-scale mobilisation or\ndeployment of offensive forma-\ntions over the last month.\nLimited equipment and corre-\nsponding troops, which had\nbeen moved from their perma-\nnent locations to operational\nones, are now planning to go\nback to their reguiar locations.\nDuring Operation Sindoor,\nthe density of troops along the\nborders had increased but that\nCONTINUEDON PAGE2",
+   "ocr_conf": 93.82777777777778,
+   "ocr_low_conf_share": 0.011111111111111112,
+   "headline": "To dial down, Army works on plan to 'rebalance' troops, equipment at border",
+   "deck": "ALERT CONTINUES IN OPERATION SINDOOR PAUSE Pak will pull back; India had not ramped up mobilisation but will ease earlier restrictions on leave and movement",
+   "byline": "AMRITANAYAK DUTTA; NEW DELHI, MAY 24",
+   "text": "AFORTNIGHT into the pause of military action in the wake of the April22 Pahalgam terror attack, aproposed plan for \"rebalancing of troops\" is being discussed within the military to avoid any fresh escalation at the borders,\n\nThe Indian Express has learned. This even as Operation Sindoor is on pause and all alerts remain at their heightened levels. While Indian and Pak armies are focusing on multiple confidence-building measures, plans for de-escalating troops and equipment from the borders within the next fortnight are being considered.\n\nSources said Pakistan, which carried out major reinforce-ments of troops and equipment\n\nover the last few weeks, will also pull them back to pre-April locations.\n\nIncidentally, Indiahad not ordered large-scale mobilisation or deployment of offensive formations over the last month. Limited equipment and corresponding troops, which had been moved from their permanent locations to operational ones, are now planning to go back to their reguiar locations. During Operation Sindoor, the density of troops along the borders had increased but that CONTINUEDON PAGE2",
+   "n_words": 166,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2407,
+      4171,
+      2719
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3253,
+      2781,
+      3687,
+      2891
+     ],
+     [
+      3249,
+      2939,
+      3694,
+      3244
+     ],
+     [
+      3742,
+      2742,
+      3841,
+      2770
+     ],
+     [
+      3738,
+      2782,
+      4184,
+      3244
+     ]
+    ],
+    "layout_words": 102
+   },
+   "headline_raw": "Stalin, Revanth focus on\ncooperative federalism;\n3 Opp CMs stay away",
+   "deck_raw": "",
+   "body_raw": "EXPRESS NEWS SERVICE\nCHENNAI, HYDERABAD, SHIMLA,\nCHANDIGARH, RANCHI, MAY 24\n\nFROMTAMILNaduand Telangana\nin the south to Punjab and\nHimachal Pradesh in the north,\nchief ministers of Opposition-\nruled states Saturday used the Niti\nAayog meeting chaired by Prime\nMinister Narendra Modi to draw\nthe Centre\u2019s attention to their de-\n\nmands.\n\nThree of the nine Opposition\nCMs \u2014 West Bengal\u2019s Mamata\nBanerjee, Kerala's Pinarayi Vijayan\nand Karnataka\u2019s Siddaramaiah \u2014\nstayed away from Saturday's\nGoveming Council meeting.\nDuringhis presentation, Tamil\nNadu CM M K Stalin highlighted\nhis state\u2019s developmental strides\nwhile raising concerns over the\nCentre's fiscal policies. Both he\nCONTINUED ON PAGE 6",
+   "ocr_conf": 85.0,
+   "ocr_low_conf_share": 0.12745098039215685,
+   "headline": "Stalin, Revanth focus on cooperative federalism; 3 Opp CMs stay away",
+   "deck": "",
+   "byline": "EXPRESS NEWS SERVICE; CHENNAI, HYDERABAD, SHIMLA,; CHANDIGARH, RANCHI, MAY 24",
+   "text": "FROMTAMILNaduand Telangana in the south to Punjab and Himachal Pradesh in the north, chief ministers of Opposition-ruled states Saturday used the Niti Aayog meeting chaired by Prime Minister Narendra Modi to draw the Centre's attention to their demands.\n\nThree of the nine Opposition CMs - West Bengal's Mamata Banerjee, Kerala's Pinarayi Vijayan and Karnataka's Siddaramaiah - stayed away from Saturday's Goveming Council meeting. Duringhis presentation, Tamil Nadu CM M K Stalin highlighted his state's developmental strides while raising concerns over the Centre's fiscal policies. Both he",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      3394,
+      1680,
+      3824
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      3925,
+      1185,
+      4036
+     ],
+     [
+      808,
+      4084,
+      1250,
+      5107
+     ],
+     [
+      1296,
+      4518,
+      1679,
+      4594
+     ],
+     [
+      1298,
+      4673,
+      1618,
+      4747
+     ],
+     [
+      1297,
+      4837,
+      1737,
+      5100
+     ]
+    ],
+    "layout_words": 182
+   },
+   "headline_raw": "Shubman Gill picked\nas India\u2019s new Test\ncaptain, his village\non border celebrates",
+   "deck_raw": "",
+   "body_raw": "MIHIRVASAVDA\n& NITINSHARMA\nMUMBAI, FAZILKA, MAY 24\n\nSHUBMAN GIL has been picked\ntolead India\u2019s Test team intoa new\nera, steering through a transition\nphase following the retirements\nof Virat Kohli and Rohit Sharma,\nStarting with the five-match se-\nriesin England from June 20.\nAt 25 years, Gill is India's\nyoungest Test captain since\nSachin Tendulkar, who was 23\nwhen he helmed the team \u2014 and\nthe fifth youngest ever, after\nMansoor Ali Khan Pataudi (21),\nKapil Dev (24), Ravi Shastri (also\n25, but 55 days younger), and\nTendulkar.\nWhile Jasprit Bumrah (31)\nhas played the role of stand-in\ncaptain in the past, the selectors\ndid not hand him the reins for\nthe long term, citing \u201cworkload\nmanagement\u201d. Chairman of se-\nlectors Ajit Agarkar confirmed\non Saturday that Bumrah would\nnot play all five Test matches in\nEngland.\n\nAt 25, Gill is India\u2019s fifth\nyoungest Test captain. Pm!\n\nMORE REPORTS\nPAGE 13\n\nWith Ravichandran Ashwin\nhanging up his boots after the\nthird Test of the Border-Gavaskar\nseries in Australia last year, fast\nbowler Mohammed Shami ig-\nnored because of fitness\nCONTINUED ON PAGE2",
+   "ocr_conf": 91.23626373626374,
+   "ocr_low_conf_share": 0.038461538461538464,
+   "headline": "Shubman Gill picked as India's new Test captain, his village on border celebrates",
+   "deck": "",
+   "byline": "MIHIRVASAVDA; & NITINSHARMA; MUMBAI, FAZILKA, MAY 24",
+   "text": "SHUBMAN GIL has been picked tolead India's Test team intoa new era, steering through a transition phase following the retirements of Virat Kohli and Rohit Sharma, Starting with the five-match seriesin England from June 20. At 25 years, Gill is India's youngest Test captain since Sachin Tendulkar, who was 23 when he helmed the team - and the fifth youngest ever, after Mansoor Ali Khan Pataudi (21), Kapil Dev (24), Ravi Shastri (also 25, but 55 days younger), and Tendulkar. While Jasprit Bumrah (31) has played the role of stand-in captain in the past, the selectors did not hand him the reins for the long term, citing \"workload management\". Chairman of selectors Ajit Agarkar confirmed on Saturday that Bumrah would not play all five Test matches in England.\n\nAt 25, Gill is India's fifth youngest Test captain. Pm!\n\nMORE REPORTS\n\nWith Ravichandran Ashwin hanging up his boots after the third Test of the Border-Gavaskar series in Australia last year, fast bowler Mohammed Shami ignored because of fitness",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      3474,
+      3194,
+      3682
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1789,
+      3399,
+      2747,
+      3432
+     ],
+     [
+      1788,
+      3716,
+      3199,
+      3772
+     ]
+    ],
+    "body_boxes": [
+     [
+      1787,
+      3847,
+      2071,
+      3917
+     ],
+     [
+      1787,
+      3965,
+      2226,
+      4238
+     ],
+     [
+      2274,
+      4123,
+      2679,
+      4192
+     ],
+     [
+      2760,
+      3808,
+      3205,
+      4074
+     ],
+     [
+      2763,
+      4086,
+      3203,
+      4231
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "Dhaka churn: Army for polls, Yunus\nthreatens to quit, signals he\u2019s \u2018staying\u2019",
+   "deck_raw": "BNP WANTS ROADMAP FOR DECEMBER POLLS\nNeed elected govt...we must return to barracks: Bangla General",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, MAY 24\n\nMUHAMMAD YUNUS will re-\nmain as head of Bangladesh'sin-\nterim government, an adviser in\nhis cabinet said Saturday, two\ndays after a key ally said he had\nthreatened resignation.\n\u201cHe (Yunus)didn't say hewill\n\nMuhammad Yunus;\nGeneral Waker-Uz-Zaman\n\nleave, He said that while we face\nmany obstacles in carrying out\nthe work and responsibilities as-\nsigned to us, we are overcoming\nthem...He (Yunus) is definitely\nstaying,\u201d Planning Adviser\nWahiduddin Mahmud said after\n\nameeting of the advisory council,\nHe said none of the advisers\nwere going anywhere as \u201cthe\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.97938144329896,
+   "ocr_low_conf_share": 0.061855670103092786,
+   "headline": "Dhaka churn: Army for polls, Yunus threatens to quit, signals he's 'staying'",
+   "deck": "BNP WANTS ROADMAP FOR DECEMBER POLLS Need elected govt...we must return to barracks: Bangla General",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, MAY 24",
+   "text": "MUHAMMAD YUNUS will remain as head of Bangladesh'sinterim government, an adviser in his cabinet said Saturday, two days after a key ally said he had threatened resignation. \"He (Yunus)didn't say hewill\n\nMuhammad Yunus; General Waker-Uz-Zaman\n\nleave, He said that while we face many obstacles in carrying out the work and responsibilities assigned to us, we are overcoming them...He (Yunus) is definitely staying,\" Planning Adviser Wahiduddin Mahmud said after\n\nameeting of the advisory council, He said none of the advisers were going anywhere as \"the",
+   "n_words": 84,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3475,
+      4096,
+      3926
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      4007,
+      3650,
+      4077
+     ],
+     [
+      3251,
+      4126,
+      3692,
+      5109
+     ],
+     [
+      3901,
+      4059,
+      4123,
+      4151
+     ],
+     [
+      3773,
+      4206,
+      4126,
+      4753
+     ],
+     [
+      3737,
+      4839,
+      4180,
+      5102
+     ]
+    ],
+    "layout_words": 220
+   },
+   "headline_raw": "CBSE sets stage for\nteaching in mother\ntongue, asks schools\nto map languages",
+   "deck_raw": "",
+   "body_raw": "ABHINAYA HARIGOVIND\nNEW DELHI, MAY 24\n\nSIGNALLING THE Centre's intent\nto make teaching in the mother\ntongue mandatory at the pri-\nmary level in the future, the\nCentral Board of Secondary\nEducation (CBSE) has asked all\naffiliated schools to map stu-\ndents\u2019 mother tongues \u201cat the\nearliest\u201d and align instructional\nmaterials accordingly before the\nend of the summer break.\nCurrently, English is the\ndominant language of instruc-\ntion in primary classes in CBSE\nschools across the country. The\nCBSE is the largest national\nschool board with over 30,000\nschools affiliated to it.\nThe CBSE circular states that\nfrom pre-primary to Class 2 \u2014\ncalled the \u2018foundational stage\u2019\nunder the National Education\nPolicy 2020 \u2014 teaching should\nbein the child\u2019s home language,\nmother tongue, or a familiar re-\n\nThe\n}@ challenge\n\nIMPLEMENTING THE\nCBSE's instructions may\nprove to be a challengein\ncities with mobile popu-\nlations like Delhi, where\npeople have migrated\nfrom across the country.\nFinding acommon\nmother tongue \u2014 or even\nacommon regional lan-\nguage \u2014 fora classroom\nwith children from di-\nverse linguistic back-\ngrounds will not be easy.\n\ngional language. This language,\nreferred to as \u2018R1\u2019, should ideally\nbe the mother tongue. If that's\nnot practical, it can be the state\nlanguage, as long as it\u2019s familiar\nto the child, the circular adds.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.61818181818182,
+   "ocr_low_conf_share": 0.02727272727272727,
+   "headline": "CBSE sets stage for teaching in mother tongue, asks schools to map languages",
+   "deck": "",
+   "byline": "ABHINAYA HARIGOVIND; NEW DELHI, MAY 24",
+   "text": "SIGNALLING THE Centre's intent to make teaching in the mother tongue mandatory at the primary level in the future, the Central Board of Secondary Education (CBSE) has asked all affiliated schools to map students' mother tongues \"at the earliest\" and align instructional materials accordingly before the end of the summer break. Currently, English is the dominant language of instruction in primary classes in CBSE schools across the country. The CBSE is the largest national school board with over 30,000 schools affiliated to it. The CBSE circular states that from pre-primary to Class 2 - called the 'foundational stage' under the National Education Policy 2020 - teaching should bein the child's home language, mother tongue, or a familiar re-\n\nThe }@ challenge\n\nIMPLEMENTING THE CBSE's instructions may prove to be a challengein cities with mobile populations like Delhi, where people have migrated from across the country. Finding acommon mother tongue - or even acommon regional language - fora classroom with children from diverse linguistic back-grounds will not be easy.\n\ngional language. This language, referred to as 'R1', should ideally be the mother tongue. If that's not practical, it can be the state language, as long as it's familiar to the child, the circular adds.",
+   "n_words": 203,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1784,
+      4305,
+      3156,
+      4506
+     ],
+     [
+      1788,
+      4546,
+      3145,
+      4606
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1785,
+      4677,
+      2164,
+      4787
+     ],
+     [
+      1786,
+      4837,
+      2226,
+      5108
+     ],
+     [
+      2274,
+      4638,
+      2714,
+      5108
+     ],
+     [
+      2758,
+      4639,
+      3205,
+      5101
+     ]
+    ],
+    "layout_words": 171
+   },
+   "headline_raw": "Adani to Ambani: Sibal gets India Inc\nto pay 0 cr for lawyers\u2019 health cove\nNew SC Bar president wants it scrapped or renegotiated",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\n& MANOJ CG\nNEW DELHI, MAY 24\n\nSENIOR ADVOCATE Kapil Sibal,\nformer president ofthe Supreme\nCourt Bar Association, who has\nraised Rs 50 crore from a few big\nindustrialists to fund a group\nmedical insurance policy forthe\nBar's members, has met with op-\n\nposition from a section within\nthe association.\n\u201cAs the new SCBA president,\nmy first endeavour will be to dis-\ncuss this policy in the Executive\nCommittee meeting... My per-\nsonal view is that this policy defi-\nnitely needs toberenegotiated or\nscrapped, because the premium\nthat we are paying for a Rs 2 lakh\ncover is highly disproportionate\nto the premium that we pay fora\n\nRs 5 lakh cover,\u201d Senior Advocate\nVikas Singh, who waselected the\nnew president of the Barbodylast\nweek, told The Indian Express.\nAt aGeneral Body Meeting of\nthe SCBA on May 5, Singh had\nexpressed his opposition. To a\nquestion on whether Sibal\u2019s en-\ndeavour raised issues of conflict\nof interest, Singh said it depends\nonwhether these are CSR funds.\nCONTINUED ON PAGE 6",
+   "ocr_conf": 90.4327485380117,
+   "ocr_low_conf_share": 0.04093567251461988,
+   "headline": "Adani to Ambani: Sibal gets India Inc to pay 0 cr for lawyers' health cove New SC Bar president wants it scrapped or renegotiated",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; & MANOJ CG; NEW DELHI, MAY 24",
+   "text": "SENIOR ADVOCATE Kapil Sibal, former president ofthe Supreme Court Bar Association, who has raised Rs 50 crore from a few big industrialists to fund a group medical insurance policy forthe Bar's members, has met with opposition from a section within the association. \"As the new SCBA president, my first endeavour will be to discuss this policy in the Executive Committee meeting... My personal view is that this policy definitely needs toberenegotiated or scrapped, because the premium that we are paying for a Rs 2 lakh cover is highly disproportionate to the premium that we pay fora\n\nRs 5 lakh cover,\" Senior Advocate Vikas Singh, who waselected the new president of the Barbodylast week, told The Indian Express. At aGeneral Body Meeting of the SCBA on May 5, Singh had expressed his opposition. To a question on whether Sibal's endeavour raised issues of conflict of interest, Singh said it depends onwhether these are CSR funds.",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      5260,
+      4140,
+      5393
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      5430,
+      1600,
+      5619
+     ]
+    ],
+    "body_boxes": [
+     [
+      318,
+      5668,
+      499,
+      5742
+     ],
+     [
+      319,
+      5863,
+      752,
+      5933
+     ],
+     [
+      319,
+      5982,
+      759,
+      6136
+     ],
+     [
+      808,
+      5667,
+      1251,
+      6048
+     ],
+     [
+      808,
+      6060,
+      1248,
+      6136
+     ],
+     [
+      1295,
+      5667,
+      1737,
+      6137
+     ],
+     [
+      2762,
+      5472,
+      3157,
+      6098
+     ],
+     [
+      3249,
+      5430,
+      3691,
+      6138
+     ],
+     [
+      3735,
+      5431,
+      4179,
+      6132
+     ]
+    ],
+    "layout_words": 366
+   },
+   "headline_raw": "General no longer so general: 36 hours on board an Amrit Bharat train",
+   "deck_raw": "Seats with air-spring suspension to vacuum toilets and\nLED display \u2014 The Indian Express boards an Amrit Bharat,\none of 50 upgraded express trains for migrant routes",
+   "body_raw": "PAGET\nANCHOR\n\nDHEERAJ MISHRA\nSAHARSA TO MUMBAI, MAY 24\n\nSANJAY KUMAR, 38, puts train\ntravel in perspective \u2014 no ro-\nmance of the rails, just pure strat-\negy. \u201cAgar aap dabdaba nahi\n\ndikhaiyega toh baithane ko bhi\nnahi milega (If you don't show\nyour might, you won't even geta\nplace to sit). This is the reality of\nthe general class compartment.\u201d\nSitting by an open window,\nlegs folded, he says, \u201cThis time, I\nam lucky. I usually don\u2019t get the\nwindow seat... I don\u2019t even get\nto sit.\u201d\n\nSanjay, a mechanic from\nGopalganj in Bihar, is on board\n\nthe Saharsa-Lokmanya Tilak\nTerminus Amrit Bharat, one ofa\nseries of 50 affordable express\ntrains for general- and sleeper-\nclass passengers that the govern-\nment plans torun on routes that\nsee high movement of migrant\nworkers.\nWhile the Saharsa-Mumbai\ntrainis the third Amrit Bharat ex-\npress (after Darbhanga-Delhi\nand Malda-Bengaluru), it is the\n\nAMRIT BHARAT 2.0:\nWHAT'S NEW\n@ Charging sockets with\nmultiple ports\nmEmergencytalk-back unit\n@Radium-illuminated\nflooring strips\nBLED displays with real-\ntime info on train speed,\nnext station\nToilets with vacuum\nevacuation, odour control\nElectro-pneumatic\nassisted brake system\n\nfirst in the Amrit Bharat 2.0 se-\nries \u2014 non-AC trains with up-\ngraded facilities, which, the gov-\nernment says, will \u201cprovide\naffordable service and high-\nquality travelling experience for\npeople in the lower-income and\nlower-middle-income category\u201d.\nThe trains are part of the\nRailways\u2019 larger Amrit Bharat\nproject to modernise trains and\nrailway stations. On May 22,\nPrime Minister Narendra Modi\ninaugurated 103 Amrit Bharat\nrailway stations through video\nconference,\nWith 11 general coaches,\neight reserved sleeper coaches,\n\ntwo second-class luggage-cum-\nguard coaches, and one pantry\ncar, the Amrit Bharat trains\npromise torevolutionise the way\nmuch of India travels.\nKumar, who is on his way to\nMumbai for an interview that he\nhopes will land him a job in the\nMiddle East, says, \u201cFor AC class\npassengers, travelling can be a\nleisure activity. You can sit by the\nwindow and watch the passing\nlandscape, but for us, most of the\ntime, we barely get to move or\nlook outside \u2014 the whole coach\nisso jam-packed. People often ask\nhow we manage to travel in such\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.95901639344262,
+   "ocr_low_conf_share": 0.05737704918032787,
+   "headline": "General no longer so general: 36 hours on board an Amrit Bharat train",
+   "deck": "Seats with air-spring suspension to vacuum toilets and LED display - The Indian Express boards an Amrit Bharat, one of 50 upgraded express trains for migrant routes",
+   "byline": "PAGET; ANCHOR; DHEERAJ MISHRA; SAHARSA TO MUMBAI, MAY 24",
+   "text": "SANJAY KUMAR, 38, puts train travel in perspective - no romance of the rails, just pure strategy. \"Agar aap dabdaba nahi\n\ndikhaiyega toh baithane ko bhi nahi milega (If you don't show your might, you won't even geta place to sit). This is the reality of the general class compartment.\" Sitting by an open window, legs folded, he says, \"This time, I am lucky. I usually don't get the window seat... I don't even get to sit.\"\n\nSanjay, a mechanic from Gopalganj in Bihar, is on board\n\nthe Saharsa-Lokmanya Tilak Terminus Amrit Bharat, one ofa series of 50 affordable express trains for general- and sleeper-class passengers that the government plans torun on routes that see high movement of migrant workers. While the Saharsa-Mumbai trainis the third Amrit Bharat express (after Darbhanga-Delhi and Malda-Bengaluru), it is the\n\nAMRIT BHARAT 2.0: WHAT'S NEW @ Charging sockets with multiple ports mEmergencytalk-back unit @Radium-illuminated flooring strips BLED displays with real-time info on train speed, next station Toilets with vacuum evacuation, odour control Electro-pneumatic assisted brake system\n\nfirst in the Amrit Bharat 2.0 series - non-AC trains with upgraded facilities, which, the government says, will \"provide affordable service and high-quality travelling experience for people in the lower-income and lower-middle-income category\". The trains are part of the Railways' larger Amrit Bharat project to modernise trains and railway stations. On May 22, Prime Minister Narendra Modi inaugurated 103 Amrit Bharat railway stations through video conference, With 11 general coaches, eight reserved sleeper coaches,\n\ntwo second-class luggage-cumguard coaches, and one pantry car, the Amrit Bharat trains promise torevolutionise the way much of India travels. Kumar, who is on his way to Mumbai for an interview that he hopes will land him a job in the Middle East, says, \"For AC class passengers, travelling can be a leisure activity. You can sit by the window and watch the passing landscape, but for us, most of the time, we barely get to move or look outside - the whole coach isso jam-packed. People often ask how we manage to travel in such",
+   "n_words": 342,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.0,
+ "flags": []
+}

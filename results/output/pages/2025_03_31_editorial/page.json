@@ -1,0 +1,547 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_31_editorial",
+ "source_file": "2025-03-31_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-31_editorial.png",
+ "date": "2025-03-31",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 2,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 509,
+  "n_lines": 446,
+  "mean_line_conf": 90.0650244901498,
+  "orphan_words": 907,
+  "body_words_total": 3233
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      605,
+      1473,
+      714
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      820,
+      1234,
+      877
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      433,
+      919,
+      1416,
+      962
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "TheIndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 92.88888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "TheIndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1997,
+      597,
+      3801,
+      822
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2270,
+      885,
+      3535,
+      1017
+     ]
+    ],
+    "body_boxes": [
+     [
+      2316,
+      2020,
+      2828,
+      3104
+     ],
+     [
+      2920,
+      1253,
+      3528,
+      3112
+     ]
+    ],
+    "layout_words": 401
+   },
+   "headline_raw": "A judge in the dock",
+   "deck_raw": "One case of alleged corruption is setting off concerns\non judicial independence. Let\u2019s tread cautiously",
+   "body_raw": "Contrary to a semi-literate\nreading of the decision\n(which perpetuates the\nconvenient political myth of\njudges appointing judges),\nthe majority upheld the\nPresident's power to appoint\njustices subject to the advice\nof the judicial Collegium.\nThe collision now is between\nthe two constitutionally\n\u2018limited\u2019 primacies \u2014 that of\nthe President and the\nCollegium. There is\ncurrently plenty of evidence\nto suggest a constitutional\ndyarchy at work, wherein\nboth the executive and\njudiciary together agree on\nthe nominations, save\nperhaps when the Collegium\nreiterates its decision.\n\nfor \u201ccorrupt\u201d and \u201ctainted\u201d justices, and the\npolicy needs asustained second look as merely\ntransferring a justice accused of corruption is\nno answer at all to the underlying problem.\nThe wider issue of a strike call by the Bar\nis settled by the 2003 decision of Ex-Captain\nHarish Uppal, where the Supreme Court held\nthat neither the Bar Council nor the Bar\nAssociation can sanction the calling of meet-\nings to discuss going on strike. The court re-\nmained anxious about situations where\nlawyer strikes obstruct iustice administration\nby prohibiting advocates from appearing be-\nfore district or high courts. Italso showed that\nappellate courts, at the same time, ought to\nremain extrasensitive in facilitating prima fa-\ncie just complaints against judicial officers \u2014\nthese must be considered most expeditiously\nand equitably.\nAddressing a distinguished gathering of\njustices and jurists, Dhankhar recently said that\nthe Supreme Court\u2019s decision to strike down\nthe NJAC constitutional amendment and the\nAct was a \u201cscenario perhaps unparalleled in\nthedemocratic history of the world\u201d. Of course,\nso was the 50-plus year-old Kesavananda\nBharati declaration of implied limitations on\nParliament\u2019s powers to amend the\nConstitution under Article 368.\nTrue, the angst over the striking down of\nthe NJACamendment centred on the fact that\nit had been passed by Parliament with only\none dissent (veteran lawyer Ram Jethmalani\nbeing the sole voice against the amendment)\nand ratified by 18 states. The parliamentary\nverdict was only fully accepted by Justice Jasti\nChelameswar who held that the \u201cjudiciary is\nnottheonly organ which protects the liberties\nof the people\u201d.\nThe majority (led by Justice Jagdish Singh\nKhehar) carefully declared the NJAC void as it\nwould breed a culture of \u201creciprocity\u201d of\nfavours between the government and the ju-\ndiciary, and thus \u201cdestroy\u201d the integrity of the\nstructures of the constitutional judicial review,\nand he pointedly asked how future judges ap-\npointed under the NJAC could be independ-",
+   "ocr_conf": 91.02493765586036,
+   "ocr_low_conf_share": 0.04488778054862843,
+   "headline": "A judge in the dock",
+   "deck": "One case of alleged corruption is setting off concerns on judicial independence. Let's tread cautiously",
+   "byline": "",
+   "text": "Contrary to a semi-literate reading of the decision (which perpetuates the convenient political myth of judges appointing judges), the majority upheld the President's power to appoint justices subject to the advice of the judicial Collegium. The collision now is between the two constitutionally 'limited' primacies - that of the President and the Collegium. There is currently plenty of evidence to suggest a constitutional dyarchy at work, wherein both the executive and judiciary together agree on the nominations, save perhaps when the Collegium reiterates its decision.\n\nfor \"corrupt\" and \"tainted\" justices, and the policy needs asustained second look as merely transferring a justice accused of corruption is no answer at all to the underlying problem. The wider issue of a strike call by the Bar is settled by the 2003 decision of Ex-Captain Harish Uppal, where the Supreme Court held that neither the Bar Council nor the Bar Association can sanction the calling of meet-ings to discuss going on strike. The court remained anxious about situations where lawyer strikes obstruct iustice administration by prohibiting advocates from appearing before district or high courts. Italso showed that appellate courts, at the same time, ought to remain extrasensitive in facilitating prima facie just complaints against judicial officers - these must be considered most expeditiously and equitably. Addressing a distinguished gathering of justices and jurists, Dhankhar recently said that the Supreme Court's decision to strike down the NJAC constitutional amendment and the Act was a \"scenario perhaps unparalleled in thedemocratic history of the world\". Of course, so was the 50-plus year-old Kesavananda Bharati declaration of implied limitations on Parliament's powers to amend the Constitution under Article 368. True, the angst over the striking down of the NJACamendment centred on the fact that it had been passed by Parliament with only one dissent (veteran lawyer Ram Jethmalani being the sole voice against the amendment) and ratified by 18 states. The parliamentary verdict was only fully accepted by Justice Jasti Chelameswar who held that the \"judiciary is nottheonly organ which protects the liberties of the people\". The majority (led by Justice Jagdish Singh Khehar) carefully declared the NJAC void as it would breed a culture of \"reciprocity\" of favours between the government and the judiciary, and thus \"destroy\" the integrity of the structures of the constitutional judicial review, and he pointedly asked how future judges appointed under the NJAC could be independ-",
+   "n_words": 395,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      639,
+      1088,
+      1209,
+      1192
+     ]
+    ],
+    "deck_boxes": [
+     [
+      353,
+      1232,
+      1496,
+      1339
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      1367,
+      1529,
+      3101
+     ]
+    ],
+    "layout_words": 487
+   },
+   "headline_raw": "IIT NOTES",
+   "deck_raw": "Report on student placements requires analysis \u2014 to enable\ngovernment to join dots between job market, skills, economy",
+   "body_raw": "AMPUS PLACEMENT PROCESSES in the IITs and other technical universities\nare highly anticipated events for most students graduating from these insti-\ntutes. They have traditionally been seen as launchpads for careers that are\nfulfilling and lucrative. The success rate of graduates from the country\u2019s top\ntechnical institutes is also closely watched by knowledge economy specialists and job\nmarket experts. That\u2019s why the government should conducta threadbare analysis of the\ndata it provided to the Parliamentary Standing Committee on Education, Women,\nChildren, Youth and Sports. In its report, the Committee headed by Congress MP Digvijaya\nSingh notes an \u201cunusual decline\u201d in placements in IITs between 2021-22 and 2023-24.\nBarring IIT BHU, 22 of the 23 IITs have seen adrop in placements.\nPlacements, as the Standing Committee rightly points out, are highly dependent on\nmarket trends. It\u2019s also correct that a section of IIT students have a history of gravitating\ntowards careers unrelated to their academic qualifications \u2014 the bureaucracy, for in-\nstance. However, the Committee's conclusion that the decline \u201ccould be for various rea-\nsons... like students opting for higher education or pursuing start-up ventures\u201d should\nbe compared with the data on students showing up for the campus placement processes.\nThese figures show that inall IITs, other than the one in Tirupati, the number of students\nshowing up for campus placements has gone up. It appears that the increasing number\nof engineering graduates has heightened the competition at these events. The Standing\nCommittee\u2019s data should also be compared with the figures for 2021-2022, when there\nwas a spike in placement percentages. This was largely due to a recovery in the job mar-\nket after the Covid pandemic. But campus placements came down in 2022-23 and they\nfell further the following year. Reports and anecdotal evidence indicate that the global\neconomic slowdown has compelled companies to cut down on hiring and scale down\nsalary packages. In fact, as reported by this newspaper on March 28, participants at the\nCandidates Open House for the PM Internship Scheme organised last week by the Union\nMinistry of Corporate Affairs also talked of fewer openings in the IT sector. The IITs have\nreportedly reached out to alumni networks to help the graduating students navigate the\nchallenging job market. Concerns over falling placements of students from the country\u2019s\ntop technical institutions should also inform the government's plans for the economy,\nespecially its entrepreneurial programmes such as Make In India.\nIn the past, the IITs were, by and large, exempted from the industry's criticism that\nthe country\u2019s engineering graduates lack employability skills, However, educational plan-\nners cannot afford to ignore that the rapid evolution of technology requires even the\ncountry\u2019s top institutions to upscale their curricula. As the Parliamentary Standing\nCommittee has suggested, they will \u201cneed to find ways to enhance employability\u201d. The\nCommittee\u2019s report should push the government to join dots and make connections \u2014\nbetween the job market, skills and the broader economy.",
+   "ocr_conf": 93.69609856262834,
+   "ocr_low_conf_share": 0.014373716632443531,
+   "headline": "IIT NOTES",
+   "deck": "Report on student placements requires analysis - to enable government to join dots between job market, skills, economy",
+   "byline": "",
+   "text": "AMPUS PLACEMENT PROCESSES in the IITs and other technical universities are highly anticipated events for most students graduating from these institutes. They have traditionally been seen as launchpads for careers that are fulfilling and lucrative. The success rate of graduates from the country's top technical institutes is also closely watched by knowledge economy specialists and job market experts. That's why the government should conducta threadbare analysis of the data it provided to the Parliamentary Standing Committee on Education, Women, Children, Youth and Sports. In its report, the Committee headed by Congress MP Digvijaya Singh notes an \"unusual decline\" in placements in IITs between 2021-22 and 2023-24. Barring IIT BHU, 22 of the 23 IITs have seen adrop in placements. Placements, as the Standing Committee rightly points out, are highly dependent on market trends. It's also correct that a section of IIT students have a history of gravitating towards careers unrelated to their academic qualifications - the bureaucracy, for instance. However, the Committee's conclusion that the decline \"could be for various reasons... like students opting for higher education or pursuing start-up ventures\" should be compared with the data on students showing up for the campus placement processes. These figures show that inall IITs, other than the one in Tirupati, the number of students showing up for campus placements has gone up. It appears that the increasing number of engineering graduates has heightened the competition at these events. The Standing Committee's data should also be compared with the figures for 2021-2022, when there was a spike in placement percentages. This was largely due to a recovery in the job market after the Covid pandemic. But campus placements came down in 2022-23 and they fell further the following year. Reports and anecdotal evidence indicate that the global economic slowdown has compelled companies to cut down on hiring and scale down salary packages. In fact, as reported by this newspaper on March 28, participants at the Candidates Open House for the PM Internship Scheme organised last week by the Union Ministry of Corporate Affairs also talked of fewer openings in the IT sector. The IITs have reportedly reached out to alumni networks to help the graduating students navigate the challenging job market. Concerns over falling placements of students from the country's top technical institutions should also inform the government's plans for the economy, especially its entrepreneurial programmes such as Make In India. In the past, the IITs were, by and large, exempted from the industry's criticism that the country's engineering graduates lack employability skills, However, educational plan-ners cannot afford to ignore that the rapid evolution of technology requires even the country's top institutions to upscale their curricula. As the Parliamentary Standing Committee has suggested, they will \"need to find ways to enhance employability\". The Committee's report should push the government to join dots and make connections - between the job market, skills and the broader economy.",
+   "n_words": 482,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1622,
+      1141,
+      1995,
+      1184
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "UPENDRA BAXI",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "UPENDRA BAXI",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1618,
+      1252,
+      2226,
+      3111
+     ]
+    ],
+    "layout_words": 350,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THESUPREME COURTS timely three-mem-\nberjudicial enquiry into corruption allegations\nagainst Justice Yashwant Varma is a welcome\ninitial move. It has become both the talkofthe\ntown and of the gown. Everyone agrees that\nreleasing all the details of the allegations on\nthe website of the Supreme Court is a big and\nbold move by Chief Justice of India Sanjiv\nKhanna and the Supreme Court Collegium.\nJagdeep Dhankhar, the Vice President and\nChairman of the Rajya Sabha, has lauded the\nCJ \u201cfor stepsin the right direction\u201d in publish-\ning the reports related to the in-house proce-\ndure against Justice Varma over thealleged dis-\ncovery of cash at his official premises. Justices\nSheel Nagu (ofthe Punjaband Haryana HC),G\nS Sandhawalia (of the Himachal Pradesh HC)\nand Anu Sivaraman (of the Karnataka HC) have\ncommenced their in-house enquiry.\nAt the outset, itneeds to beacknowledged\nthat ours is an adversarial justice system, in\nwhich no person can be held guilty unless so\ndecreed by a competent forum of law. Justice\nVarma has denied all wrongdoing and has sug-\ngested that there is adeep \u201cconspiracy\u201d against\nhim. The presumption of innocence is a cor-\nnerstone of the administration of justice, and\nfair trial is a fundamental right of all citizens\naccused of acrime. It would be misleading and\nerroneous to regard the concemed judge as\n\u201cguilty\u201d, no matter how strong the prima facie\ncase against him may appear, and regardless\nof the mass media and public perceptions.\nPerhaps, at an appropriate stage in the pro-\nceedings, Justice Varma may lay bare the de-\ntails of any \u201cconspiracy\u201d to malign him, but is\nit the case that most people are prepared tobe-\nlieve the \u201cworst\u201d about justices at their work?\nAt thesame time, the C]I and thecollegium\nare justified in taking suitable administrative\naction, within their competence, and have de-\ncided both to transfer the justice to his parent\ncourt, the Allahabad HC, and then to de-roster\nhim pending enquiry. The ire ofthe Allahabad\nHC Bar Association over this is undersiandabie\nbut the language they have used is not. No\ncourt is tobe regarded asa \u201cdumping ground\u201d",
+   "ocr_conf": 89.41142857142857,
+   "ocr_low_conf_share": 0.05714285714285714,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "THESUPREME COURTS timely three-memberjudicial enquiry into corruption allegations against Justice Yashwant Varma is a welcome initial move. It has become both the talkofthe town and of the gown. Everyone agrees that releasing all the details of the allegations on the website of the Supreme Court is a big and bold move by Chief Justice of India Sanjiv Khanna and the Supreme Court Collegium. Jagdeep Dhankhar, the Vice President and Chairman of the Rajya Sabha, has lauded the CJ \"for stepsin the right direction\" in publishing the reports related to the in-house procedure against Justice Varma over thealleged discovery of cash at his official premises. Justices Sheel Nagu (ofthe Punjaband Haryana HC),G S Sandhawalia (of the Himachal Pradesh HC) and Anu Sivaraman (of the Karnataka HC) have commenced their in-house enquiry. At the outset, itneeds to beacknowledged that ours is an adversarial justice system, in which no person can be held guilty unless so decreed by a competent forum of law. Justice Varma has denied all wrongdoing and has suggested that there is adeep \"conspiracy\" against him. The presumption of innocence is a cornerstone of the administration of justice, and fair trial is a fundamental right of all citizens accused of acrime. It would be misleading and erroneous to regard the concemed judge as \"guilty\", no matter how strong the prima facie case against him may appear, and regardless of the mass media and public perceptions. Perhaps, at an appropriate stage in the proceedings, Justice Varma may lay bare the details of any \"conspiracy\" to malign him, but is it the case that most people are prepared tobe-lieve the \"worst\" about justices at their work? At thesame time, the C]I and thecollegium are justified in taking suitable administrative action, within their competence, and have decided both to transfer the justice to his parent court, the Allahabad HC, and then to de-roster him pending enquiry. The ire ofthe Allahabad HC Bar Association over this is undersiandabie but the language they have used is not. No court is tobe regarded asa \"dumping ground\"",
+   "n_words": 340,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3570,
+      1253,
+      4180,
+      2953
+     ]
+    ],
+    "layout_words": 265,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "ent-minded when the NJAC was \u201cexclusively\nplaced under the control of the executive\u201d.\nContrary to a semi-literate reading of the\ndecision (which perpetuates the convenient\npolitical myth of judges appointing judges),\nthe majority upheld the President's power to\nappoint justices subjectio the adviceof the ju-\ndicial Collegium. Thecollisionnowis between\nthe two constitutionally \u201climited\u201d primacies\n\u2014 that of the President and the Collegium.\nThere is currently plenty of evidence to sug-\ngestaconstitutional dyarchyatwork, wherein\nboth theexecutive and judiciary together agree\non the nominations, save perhaps when the\nCollegium reiterates its decision. However, the\npresent event of alleged judicial corruption\nscarcely bears the weight for any re-consider-\nationof theCollegiumas the concemed Justice\nwaselevated by both the competent constitu-\ntional authorities.\nJustice Madan Lokurwondered aloud, ina\nconcurring NJAC opinion, whether bringing\nback into action the tradition of \u201ccommitted\njudiciary\u201d would do the country any good at\nalland his conclusion was resoundingly in the\nnegative. In fact, he declared the very idea ofa\ncommitted judiciary as now constitutionally\n\u201cunimaginable\u201d. Jethmalani\u2019s cry in the wilder-\nness, based on theevents and lived experiences\nof the Emergency of 1975-77, should forever\nbe heard even by our constitutionally hearing-\nimpaired ears.\nThe public outrage at the outburst of high\njudicial \u201ccorruption\u201d is indeed a matter of so-\nial perception butitmasks what] described in\nmy Chimanlal Setalvad Lectures (1985) as a\ncluster of 10 factors by which trade andindus-\ntry besiege judicial independence. The imper-\natives of the ideologies, and technologies, of\nneo-liberalism now need to address and re-\ndress the real causes and consequences of\nwhat I then named \u201cjudicial independence\nwithin dependence\u201d.",
+   "ocr_conf": 90.8754716981132,
+   "ocr_low_conf_share": 0.03773584905660377,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "ent-minded when the NJAC was \"exclusively placed under the control of the executive\". Contrary to a semi-literate reading of the decision (which perpetuates the convenient political myth of judges appointing judges), the majority upheld the President's power to appoint justices subjectio the adviceof the judicial Collegium. Thecollisionnowis between the two constitutionally \"limited\" primacies - that of the President and the Collegium. There is currently plenty of evidence to suggestaconstitutional dyarchyatwork, wherein both theexecutive and judiciary together agree on the nominations, save perhaps when the Collegium reiterates its decision. However, the present event of alleged judicial corruption scarcely bears the weight for any re-consider-ationof theCollegiumas the concemed Justice waselevated by both the competent constitutional authorities. Justice Madan Lokurwondered aloud, ina concurring NJAC opinion, whether bringing back into action the tradition of \"committed judiciary\" would do the country any good at alland his conclusion was resoundingly in the negative. In fact, he declared the very idea ofa committed judiciary as now constitutionally \"unimaginable\". Jethmalani's cry in the wilderness, based on theevents and lived experiences of the Emergency of 1975-77, should forever be heard even by our constitutionally hearing-impaired ears. The public outrage at the outburst of high judicial \"corruption\" is indeed a matter of soial perception butitmasks what] described in my Chimanlal Setalvad Lectures (1985) as a cluster of 10 factors by which trade andindustry besiege judicial independence. The imperatives of the ideologies, and technologies, of neo-liberalism now need to address and redress the real causes and consequences of what I then named \"judicial independence within dependence\".",
+   "n_words": 255,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3637,
+      2999,
+      4184,
+      3112
+     ]
+    ],
+    "layout_words": 20,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is professor of law, University of\nWarwick, and former vice chancellor of\nUniversities of South Gujarat and Delhi",
+   "ocr_conf": 88.2,
+   "ocr_low_conf_share": 0.1,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is professor of law, University of Warwick, and former vice chancellor of Universities of South Gujarat and Delhi",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      506,
+      3193,
+      1337,
+      3296
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3324,
+      1529,
+      4957
+     ]
+    ],
+    "layout_words": 473
+   },
+   "headline_raw": "AFTER THE QUAKE",
+   "deck_raw": "",
+   "body_raw": "As Myanmar struggles to get back on its feet, it will need\nsupport. India must continue tolend a helping hand\nT HE DEVASTATING 7.7-magnitude earthquake that struck central Myanmaron\nMarch 28 was one of the strongest tohit theregion in years, alsocausing severe\ndamage in neighbouring Thailand. The scale of the destruction in Myanmar is\nstillbeing assessed, but it could take weeks to determine the accurate death toll,\nand economicdamages could surpass its entire GDP. Already struggling with a brutal civil\nwar for the last four years in the aftermath of a military coup that culminated in the arrest\nof Aung San Suu Kyi, Myanmar now faces an even greater humanitarian crisis. Pictures of\nhistoric monasteries, pagodas and mosques crumbling also frame the terrible toll. Myanmar\u2019s\nshadow National Unity Government, which coordinates the popular struggle against the rul-\ning military, has announced a unilateral, partial two-week ceasefire to facilitate relief ef-\nforts, and the junta has made a rare appeal for international assistance. India, acting as a\nfirst responder, has been quick to dispatch humanitarian aid to its embattled neighbour.\nThis follows Prime Minister Narendra Modi\u2019s Saturday moming phone call with Senior\nGeneral Min Aung Hlaing, who heads the junta\u2014 hisfirst call with the military leader since the\nFebruary 2021 coup. Through its swift efforts to get relief to Myanmar, India has acted in the\nspirit of Vasudhaiva Kutumbakam (the world is one family). Under \u201cOperation Brahma\u201d, the\nIndianArmy, Navy and Air Force have been deployed. Multiple aircraft have departed, with the\nfirst carrying 15 tonnes of relief material, and two ships, INS Satpura and INS Savitri, carrying\n40 tonnes of aid, set sail on March 29 to the Port of Yangon \u2014 two more are expected to start\nsoon. The Indian Army has also established a60-bed medical treatment centre with 118 med-\nical personnel to provide critical care. An 80-member National Disaster Response Forceteam\nfor rescue operations has been dispatched with concrete cutters, drill machines and canine\nsquads to assist local authorities in rescuing people still trapped under the debris.\nDelhi has a strong track record of providing emergency aid abroad during natural dis-\nasters, health emergencies, and conflicts. India launched Operation Maitri after a7.8-\nmagnitude earthquake struck Nepal in April 2015. In response to appeals made by the\nUnited Nations for humanitarian assistance to Afghanistan after the Taliban's takeover in\n2021, India provided 50,000 metric tons of wheat, essential medicines, and COVID-19\nvaccines, India was also at the forefront of the international aid effort after the 2004 Indian\nOcean earthquake and tsunami, recorded as the deadliest natural disaster of the 21st cen-\ntury, killing an estimated 2,27,898 people in 14 countries (including thousands in Tamil\nNadu). As Myanmar struggles to get back on its feet, sustained support will be essential\nfor rebuilding lives and infrastructure. India should continue to lend a helping hand.",
+   "ocr_conf": 91.16244725738396,
+   "ocr_low_conf_share": 0.035864978902953586,
+   "headline": "AFTER THE QUAKE",
+   "deck": "",
+   "byline": "",
+   "text": "As Myanmar struggles to get back on its feet, it will need support. India must continue tolend a helping hand T HE DEVASTATING 7.7-magnitude earthquake that struck central Myanmaron March 28 was one of the strongest tohit theregion in years, alsocausing severe damage in neighbouring Thailand. The scale of the destruction in Myanmar is stillbeing assessed, but it could take weeks to determine the accurate death toll, and economicdamages could surpass its entire GDP. Already struggling with a brutal civil war for the last four years in the aftermath of a military coup that culminated in the arrest of Aung San Suu Kyi, Myanmar now faces an even greater humanitarian crisis. Pictures of historic monasteries, pagodas and mosques crumbling also frame the terrible toll. Myanmar's shadow National Unity Government, which coordinates the popular struggle against the ruling military, has announced a unilateral, partial two-week ceasefire to facilitate relief efforts, and the junta has made a rare appeal for international assistance. India, acting as a first responder, has been quick to dispatch humanitarian aid to its embattled neighbour. This follows Prime Minister Narendra Modi's Saturday moming phone call with Senior General Min Aung Hlaing, who heads the junta - hisfirst call with the military leader since the February 2021 coup. Through its swift efforts to get relief to Myanmar, India has acted in the spirit of Vasudhaiva Kutumbakam (the world is one family). Under \"Operation Brahma\", the IndianArmy, Navy and Air Force have been deployed. Multiple aircraft have departed, with the first carrying 15 tonnes of relief material, and two ships, INS Satpura and INS Savitri, carrying 40 tonnes of aid, set sail on March 29 to the Port of Yangon - two more are expected to start soon. The Indian Army has also established a60-bed medical treatment centre with 118 medical personnel to provide critical care. An 80-member National Disaster Response Forceteam for rescue operations has been dispatched with concrete cutters, drill machines and canine squads to assist local authorities in rescuing people still trapped under the debris. Delhi has a strong track record of providing emergency aid abroad during natural disasters, health emergencies, and conflicts. India launched Operation Maitri after a7.8- magnitude earthquake struck Nepal in April 2015. In response to appeals made by the United Nations for humanitarian assistance to Afghanistan after the Taliban's takeover in 2021, India provided 50,000 metric tons of wheat, essential medicines, and COVID-19 vaccines, India was also at the forefront of the international aid effort after the 2004 Indian Ocean earthquake and tsunami, recorded as the deadliest natural disaster of the 21st century, killing an estimated 2,27,898 people in 14 countries (including thousands in Tamil Nadu). As Myanmar struggles to get back on its feet, sustained support will be essential for rebuilding lives and infrastructure. India should continue to lend a helping hand.",
+   "n_words": 470,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2275,
+      3305,
+      4062,
+      3415
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2271,
+      3478,
+      4007,
+      3539
+     ],
+     [
+      2317,
+      3713,
+      2829,
+      3769
+     ]
+    ],
+    "body_boxes": [
+     [
+      2316,
+      4463,
+      2823,
+      5257
+     ],
+     [
+      2920,
+      3711,
+      3527,
+      5253
+     ],
+     [
+      3570,
+      3711,
+      4177,
+      5136
+     ],
+     [
+      3596,
+      5180,
+      4174,
+      5254
+     ],
+     [
+      3569,
+      5536,
+      4175,
+      5726
+     ]
+    ],
+    "layout_words": 659
+   },
+   "headline_raw": "OF DETACHMENT & BELONGING",
+   "deck_raw": "Chandigarh offers a home, while being at ease with its residents\u2019 other homes\nTHE CITY AND I",
+   "body_raw": "Corbusier Centre. A string of small fortified\npalaces that encircle the region can be dated\nfrom the Mughal period onwards. Most of\nthese forts are inan advanced state of ruin. In\nthe case of Burail, the only heritage structure\nwithin the sectoral map of the city, the fort\ncomplex is a mesh of numerous privately\nowned residences, includingthehastions,one\nof which has been remade into houses; the\nothers will likely follow suit.\nIn this sea of ignorance, the Rock Garden\nseems tobethe point of convergence, holding\nthe city together. This came across sharply in\nthe past month, when the act of the city ad-\nministration to raze a section of the garden's\nouter wall and fell trees to widen the road\nalongside it to ease parking for the High Court\ncomplex has been met with vocal and contin-\nuous protests, Citizens have termed this an as-\nsault on the heritage of the city and the media\nis flooded with nostalgic accounts underlining\nthe significance of the garden to the lives and\nmemories of the residents. Nek Chand\u2019s Rock\nGarden, built in stealth over 15 years before be-\ning discovered, is in many ways the antithesis\nof Corbusieran Chandigarh. For long, I have\nstruggled with my contradictory feelings on\nthis sculpture sprawl. Its befuddling aesthetic\ncomes dangerously cose tocringebut ends up\nat charm; it provokes a constant speculation\nwhether and whenthe lines between strategic\nplacement and philosophical statement inter-\nsect, overlap orrun parallel to each other. Made\nout of the same concrete that fascinated\nCorbusier, itneveriiieless imitates tie conven-\ntions of traditional heritage structures assidu-\nously avoided by high modernism. Curvy, nar-\nrow passageways lead towards pavilions,\ncolonnades, archways, fortifications, gorges\n\nand waterfalls even as rows and rows of ani-\nmaland human figures seem to monitor one\u2019s\nprogress, Made out of construction waste from\nuprooted villages and the under-construction\nCity, as well as from natural artifacts and items\nof everyday use, I wonder if the Rock Garden\nprovided the link between the past and pres-\nent for people who needed to distance them-\nseives from their immediate histories. Or, does\nit embody the view that a settlement flour-\nishes only whenitrefuses to abide by the rigid\nrules of order imposed from above?\nAs Islowly explored the history of the re-\ngion, I came to see that while this particular\nparcel of land that became a greenfield city\nisenmeshed within the crosscurrents of this\ngeo-historical region, it has stood in proud\nisolation from it. The distance from history\nhas perhaps offered a new form of belong-\ning to those flooding the city and stretching\nits de-facto boundaries in the direction of a\nmetropolis. Located at the confluence of\nthree states with a shared contentious his-\ntory leading to conflicting claims on re-\nsources and meaning, Chandigarh\u2019s detach-\nment means it is unperturbed by the\nallegiance sought by larger linguistic, ethnic\norregional entities. It offers asense of home\nwhile being comfortable with the other\nhomes that its residents feel part of. I have\nnever felt that I had to choose between\nChandigarh and Delhi. There are monuments\nin Delhi] am yet to visit, and I will never have\nenough of the same view of the Himalayas\nfrom the Sukhna lake.1 go home to Delhi and\ncome back home to Chandigarh.\n\nThe writer teaches Political Science at Panjab\nUniversity, Chandigarh\n\nThe talks will take placein Thimphu between\nApril 2 and 7. The Chinese delegation will be\nled by Deputy Foreign Minister Liu Xu Qing\nand Bhutan\u2019s delegation by its ambassador to\nIndia, Om Pradban.",
+   "ocr_conf": 90.82852807283763,
+   "ocr_low_conf_share": 0.04704097116843703,
+   "headline": "OF DETACHMENT & BELONGING",
+   "deck": "Chandigarh offers a home, while being at ease with its residents' other homes THE CITY AND I",
+   "byline": "",
+   "text": "Corbusier Centre. A string of small fortified palaces that encircle the region can be dated from the Mughal period onwards. Most of these forts are inan advanced state of ruin. In the case of Burail, the only heritage structure within the sectoral map of the city, the fort complex is a mesh of numerous privately owned residences, includingthehastions,one of which has been remade into houses; the others will likely follow suit. In this sea of ignorance, the Rock Garden seems tobethe point of convergence, holding the city together. This came across sharply in the past month, when the act of the city administration to raze a section of the garden's outer wall and fell trees to widen the road alongside it to ease parking for the High Court complex has been met with vocal and continuous protests, Citizens have termed this an assault on the heritage of the city and the media is flooded with nostalgic accounts underlining the significance of the garden to the lives and memories of the residents. Nek Chand's Rock Garden, built in stealth over 15 years before being discovered, is in many ways the antithesis of Corbusieran Chandigarh. For long, I have struggled with my contradictory feelings on this sculpture sprawl. Its befuddling aesthetic comes dangerously cose tocringebut ends up at charm; it provokes a constant speculation whether and whenthe lines between strategic placement and philosophical statement intersect, overlap orrun parallel to each other. Made out of the same concrete that fascinated Corbusier, itneveriiieless imitates tie conventions of traditional heritage structures assiduously avoided by high modernism. Curvy, narrow passageways lead towards pavilions, colonnades, archways, fortifications, gorges\n\nand waterfalls even as rows and rows of animaland human figures seem to monitor one's progress, Made out of construction waste from uprooted villages and the under-construction City, as well as from natural artifacts and items of everyday use, I wonder if the Rock Garden provided the link between the past and present for people who needed to distance them-seives from their immediate histories. Or, does it embody the view that a settlement flour-ishes only whenitrefuses to abide by the rigid rules of order imposed from above? As Islowly explored the history of the region, I came to see that while this particular parcel of land that became a greenfield city isenmeshed within the crosscurrents of this geo-historical region, it has stood in proud isolation from it. The distance from history has perhaps offered a new form of belonging to those flooding the city and stretching its de-facto boundaries in the direction of a metropolis. Located at the confluence of three states with a shared contentious history leading to conflicting claims on resources and meaning, Chandigarh's detachment means it is unperturbed by the allegiance sought by larger linguistic, ethnic orregional entities. It offers asense of home while being comfortable with the other homes that its residents feel part of. I have never felt that I had to choose between Chandigarh and Delhi. There are monuments in Delhi] am yet to visit, and I will never have enough of the same view of the Himalayas from the Sukhna lake.1 go home to Delhi and come back home to Chandigarh.\n\nThe writer teaches Political Science at Panjab University, Chandigarh\n\nThe talks will take placein Thimphu between April 2 and 7. The Chinese delegation will be led by Deputy Foreign Minister Liu Xu Qing and Bhutan's delegation by its ambassador to India, Om Pradban.",
+   "n_words": 572,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1618,
+      3710,
+      2226,
+      5252
+     ]
+    ],
+    "layout_words": 267,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "WHENI MOVED to Chandigarh from Delhial-\nmosttwo decades ago, | found thelack of built\nhistory the most unsettling feature of an oth-\nerwise seamless move. lyearned, not as much\nfor the spectacular heritage structures of Delhi\nthat weave in many of the big moments of\nsubcontinental history, but for the humble\nstone-and-rubble masonry edifices \u2014 tombs,\nmosques, pavilions, turrets, stepwells \u2014 that\ndotthe national capital. In comparison, the re-\nlentless grey of Chandigarh\u2019s cityscape and\nthe severe uniformity of its grid-based sec-\ntoral plan provided cold comfort.\nMysearch for monuments meant follow-\ning the many roads leading out of this Union\nTerritory to the three states that border it. At\nsome point, it also intertwined with a quest\ntograsp the city\u2019s self-understanding. I found\na profound disconnect felt by the residents\nwith the Corbusierian legacy even when they\nfrequently use its two defining adjectives \u2014\nmodem and planned \u2014 toargue in favourof a\ncity they clearly love and idealise. Most resi-\ndents have either not stepped into or remain\nuntouched by the Capitol Complex, aUNESCO\nworld heritage site and the pinnacle of\nCorbusier's grandexperiment with modemist\narchitecture. No information or description\naccompanies (nor are heritage walks held in)\nthose landmark buildings (and sculptures)\nthat are actually frequented by the public \u2014\nbe it the Government Museum and Arts\nGallery complex, the Gandhi Bhawan or\nStudent Centre in Panjab University or even\nthe famed Sector 17 plaza.\nResidents are likewise ignorant of the few\nremnants of pre-city history. Harappan era ar-\ntifacts found during the construction of the\ncity are tucked away in one room of the Le",
+   "ocr_conf": 90.62921348314607,
+   "ocr_low_conf_share": 0.04868913857677903,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "WHENI MOVED to Chandigarh from Delhialmosttwo decades ago, found thelack of built history the most unsettling feature of an otherwise seamless move. lyearned, not as much for the spectacular heritage structures of Delhi that weave in many of the big moments of subcontinental history, but for the humble stone-and-rubble masonry edifices - tombs, mosques, pavilions, turrets, stepwells - that dotthe national capital. In comparison, the relentless grey of Chandigarh's cityscape and the severe uniformity of its grid-based sectoral plan provided cold comfort. Mysearch for monuments meant following the many roads leading out of this Union Territory to the three states that border it. At some point, it also intertwined with a quest tograsp the city's self-understanding. I found a profound disconnect felt by the residents with the Corbusierian legacy even when they frequently use its two defining adjectives - modem and planned - toargue in favourof a city they clearly love and idealise. Most residents have either not stepped into or remain untouched by the Capitol Complex, aUNESCO world heritage site and the pinnacle of Corbusier's grandexperiment with modemist architecture. No information or description accompanies (nor are heritage walks held in) those landmark buildings (and sculptures) that are actually frequented by the public - be it the Government Museum and Arts Gallery complex, the Gandhi Bhawan or Student Centre in Panjab University or even the famed Sector 17 plaza. Residents are likewise ignorant of the few remnants of pre-city history. Harappan era artifacts found during the construction of the city are tucked away in one room of the Le",
+   "n_words": 259,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1679,
+      5455,
+      2120,
+      5489
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "|-=* INDIAN EXPRESS &",
+   "ocr_conf": 50.5,
+   "ocr_low_conf_share": 0.75,
+   "headline": "",
+   "deck": "",
+   "byline": "-=* INDIAN EXPRESS &",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2268,
+      5402,
+      3505,
+      5491
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2270,
+      5534,
+      2789,
+      5578
+     ],
+     [
+      3571,
+      5777,
+      4146,
+      5821
+     ]
+    ],
+    "body_boxes": [
+     [
+      2266,
+      5615,
+      2875,
+      6165
+     ],
+     [
+      3569,
+      5853,
+      4176,
+      6167
+     ]
+    ],
+    "layout_words": 148
+   },
+   "headline_raw": "MARCH 31, 1985, FORTY YEARS AGO",
+   "deck_raw": "CPM LEADS CHARGE\nGRENADE SPARKS PANIC",
+   "body_raw": "THE COMMUNIST PARTY of India (Marxist)\nhas taken an initiative to hold a meeting of\nthe 12 opposition parties that were repre-\nsented at the Calcutta conclave in January\nlast year, to discuss its proposal to launch a\njoint campaign against the government's\n\u201canti-people\u201d policies and \u201clarge-scale rig-\nging\u201d in the recent Lok Sabha and assembly\nelections. Significantly, the CPM hasalso ini-\ntiated a move for rapprochement with the\nCPI, with which it is engaged in a war of\nwords that started when the two parties op-\nposed each other in the recent Lok Sabhaand\nassembly elections,\n\nPANIC AROSE IN Chandigarh when a\ngrenade, HE-36, was detected by the side of\nthe road near the Sector 19-27 Lights\nCrossing by patrolling CRPF personnelonthe\neve of President Zail Singh's visit. It was\nlaunched near the electricity maintenance\nbooth. The police rushed immediately and\nthe grenade was covered with sandbags.",
+   "ocr_conf": 92.85810810810811,
+   "ocr_low_conf_share": 0.02702702702702703,
+   "headline": "MARCH 31, 1985, FORTY YEARS AGO",
+   "deck": "CPM LEADS CHARGE GRENADE SPARKS PANIC",
+   "byline": "",
+   "text": "THE COMMUNIST PARTY of India (Marxist) has taken an initiative to hold a meeting of the 12 opposition parties that were represented at the Calcutta conclave in January last year, to discuss its proposal to launch a joint campaign against the government's \"anti-people\" policies and \"large-scale rigging\" in the recent Lok Sabha and assembly elections. Significantly, the CPM hasalso initiated a move for rapprochement with the CPI, with which it is engaged in a war of words that started when the two parties opposed each other in the recent Lok Sabhaand assembly elections,\n\nPANIC AROSE IN Chandigarh when a grenade, HE-36, was detected by the side of the road near the Sector 19-27 Lights Crossing by patrolling CRPF personnelonthe eve of President Zail Singh's visit. It was launched near the electricity maintenance booth. The police rushed immediately and the grenade was covered with sandbags.",
+   "n_words": 144,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2915,
+      5535,
+      3520,
+      5589
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2916,
+      5616,
+      3524,
+      5928
+     ],
+     [
+      2922,
+      5976,
+      3432,
+      6019
+     ],
+     [
+      2918,
+      6051,
+      3522,
+      6166
+     ]
+    ],
+    "layout_words": 82
+   },
+   "headline_raw": "JHUGGIS GUTTED IN FIRE",
+   "deck_raw": "",
+   "body_raw": "ABOUT 500 JHUGGIS were gutted ina devas-\ntating fire that raged for about two hours in a\njhuggi colony in Samaipur in North Delhi.\nSince most of the occupants were sleeping\noutside, they escaped major bums. However,\na few received minor burns. By the time the\nfire was brought under control, most of the\nbelongings of the jhuggi dwellers had burnt.\n\nSINO-BHUTAN TALKS\n\nAHIGH-LEVEL Chinese delegation has report-\nedly left Beijing for Bhutan to discuss the de-\nmarcation of the Sino-Bhutanese boundary.",
+   "ocr_conf": 90.14634146341463,
+   "ocr_low_conf_share": 0.04878048780487805,
+   "headline": "JHUGGIS GUTTED IN FIRE",
+   "deck": "",
+   "byline": "SINO-BHUTAN TALKS",
+   "text": "ABOUT 500 JHUGGIS were gutted ina devastating fire that raged for about two hours in a jhuggi colony in Samaipur in North Delhi. Since most of the occupants were sleeping outside, they escaped major bums. However, a few received minor burns. By the time the fire was brought under control, most of the belongings of the jhuggi dwellers had burnt.\n\nAHIGH-LEVEL Chinese delegation has reportedly left Beijing for Bhutan to discuss the demarcation of the Sino-Bhutanese boundary.",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 22.0,
+ "flags": [
+  "28% of body text had no headline above it",
+  "3 kept article(s) without a headline"
+ ]
+}

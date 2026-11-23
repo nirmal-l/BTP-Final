@@ -1,0 +1,545 @@
+{
+ "version": "1.6",
+ "page_id": "2025_10_10_editorial",
+ "source_file": "2025-10-10_editorial.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-10-10_editorial.png",
+ "date": "2025-10-10",
+ "filename_page_type": "editorial",
+ "edition": null,
+ "page_type": "editorial",
+ "skew_deg": -0.05,
+ "n_photos": 2,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 508,
+  "n_lines": 448,
+  "mean_line_conf": 91.86136222262796,
+  "orphan_words": 845,
+  "body_words_total": 3373
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      373,
+      604,
+      1474,
+      713
+     ]
+    ],
+    "deck_boxes": [
+     [
+      616,
+      819,
+      1235,
+      875
+     ]
+    ],
+    "body_boxes": [
+     [
+      761,
+      771,
+      1089,
+      802
+     ],
+     [
+      435,
+      918,
+      1416,
+      960
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "The IndianEXPRESS",
+   "deck_raw": "RAMNATH GOENKA",
+   "body_raw": "FOUNDED By @\n\nBECAUSE THE TRUTH INVOLVES US ALL",
+   "ocr_conf": 94.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "The IndianEXPRESS",
+   "deck": "RAMNATH GOENKA",
+   "byline": "FOUNDED By @; BECAUSE THE TRUTH INVOLVES US ALL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1997,
+      596,
+      3801,
+      823
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2273,
+      886,
+      3569,
+      1017
+     ]
+    ],
+    "body_boxes": [
+     [
+      2319,
+      2026,
+      2828,
+      3071
+     ],
+     [
+      2925,
+      1290,
+      3531,
+      3067
+     ]
+    ],
+    "layout_words": 399
+   },
+   "headline_raw": "A future-facing pact",
+   "deck_raw": "For India-UK partnership to reach its full potential, gaps\nin mobility, regulation and trust must be addressed",
+   "body_raw": "client-facing roles in America. Indian com-\npanies are already recalibrating strategies:\nLeaning harderon intra-company L1 trans-\nfers, offshoring marginal work back to India\nor closer geographies, or deploying B-1\nbusiness visas for short visits.\nThetiming places the UK in an interest-\ning position. As the US tightens the screws,\nBritain is offering a gentler pitch \u2014 lower\nvisa fees, expanded \u201cGlobal Talent\u201d routes,\nand anarrative of being friendlier to Indian\ntech professionals. In that context, the\nIndia-UK FTA, even if silent on full mobil-\nity rights, becomes part of a broader con-\ntest: Can the UK capture some of the talent\nthat the US is effectively pricing out? The\nFTA may not grant sweeping visa access, but\nthe shifting US regime increases the stakes\n\u2014Indian professionals and firms will watch\nhow Britain balances openness and domes-\ntic politics, and how effectively it can con-\nvert trading ties into pathways for people.\nAn interesting dimension of this agree-\nment is how it may reframe Scotch whisky\nnot only as atraded product but as afinancial\nasset class. The deal halves India\u2019simport duty\non Scotch from 150 per cent to 75 per cent\ninitially, which improves margin prospects\nfor distillers, intermediaries and distributors.\nThat shift has already spurred financial inno-\nvation. For example, just before the FTA was\nsigned, the Caledonian Malt Fund LP, a\nBermuda-registered investment fund fo-\ncusedon Scotch whisky casks, was launched.\nItis openly anchored on the expectation that\ntariff relief in India will strengthen demand\nand valuation of casks. In this way, the trade\nagreement offers more than just greater flows\nof goods \u2014 it lays the groundwork for cross-\nborder capital investment. For Indian in-\nvestors, whisky may evolve from a luxury im-\nporttoa meaningful portfolio allocation tied\nto global demand, maturation cycles, and\nbonded warehouse structures,\nYet challenges remain. The bilateral in-",
+   "ocr_conf": 92.35338345864662,
+   "ocr_low_conf_share": 0.03007518796992481,
+   "headline": "A future-facing pact",
+   "deck": "For India-UK partnership to reach its full potential, gaps in mobility, regulation and trust must be addressed",
+   "byline": "",
+   "text": "client-facing roles in America. Indian companies are already recalibrating strategies: Leaning harderon intra-company L1 transfers, offshoring marginal work back to India or closer geographies, or deploying B-1 business visas for short visits. Thetiming places the UK in an interesting position. As the US tightens the screws, Britain is offering a gentler pitch - lower visa fees, expanded \"Global Talent\" routes, and anarrative of being friendlier to Indian tech professionals. In that context, the India-UK FTA, even if silent on full mobility rights, becomes part of a broader contest: Can the UK capture some of the talent that the US is effectively pricing out? The FTA may not grant sweeping visa access, but the shifting US regime increases the stakes - Indian professionals and firms will watch how Britain balances openness and domestic politics, and how effectively it can convert trading ties into pathways for people. An interesting dimension of this agreement is how it may reframe Scotch whisky not only as atraded product but as afinancial asset class. The deal halves India'simport duty on Scotch from 150 per cent to 75 per cent initially, which improves margin prospects for distillers, intermediaries and distributors. That shift has already spurred financial innovation. For example, just before the FTA was signed, the Caledonian Malt Fund LP, a Bermuda-registered investment fund focusedon Scotch whisky casks, was launched. Itis openly anchored on the expectation that tariff relief in India will strengthen demand and valuation of casks. In this way, the trade agreement offers more than just greater flows of goods - it lays the groundwork for cross-border capital investment. For Indian investors, whisky may evolve from a luxury importtoa meaningful portfolio allocation tied to global demand, maturation cycles, and bonded warehouse structures, Yet challenges remain. The bilateral in-",
+   "n_words": 293,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      505,
+      1088,
+      1344,
+      1192
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      1232,
+      1530,
+      2868
+     ]
+    ],
+    "layout_words": 481
+   },
+   "headline_raw": "TATA MISTRUST",
+   "deck_raw": "",
+   "body_raw": "Disagreements between Tata trustees must be resolved \u2014 and\nthey, more than anyone else, need to set their house in order\nINE YEARS AFTER Cyrus Mistry was unceremoniously removed as chairman\nN of Tata Sons, and a year after the death of the patriarch, Ratan Tata, the\nshadow of both stilllooms over thestoried group. Long held as an exemplar\nin corporate governance, the group is nowa house in disorder. Sharp differ-\nences of opinion have emerged between the trustees of the Tata Trusts, which together\nhold roughly 66 per cent stake in Tata Sons, the group\u2019s holding company. Considering the\nsheer breadth of sectors it operates in \u2014 from steel to auto, software, retail and semicon-\nductors \u2014 aiiviher powei siriggie at the conglomerate could have far-reaching ramifica-\ntions. Uncertainty at the top and a long-drawn-out conflict will impact decision-making,\naffecting not only the group\u2019s businesses but the wider economy as well.\nReports suggest that the disagreements between the trustees arose over board appoint-\nments, access to sensitiveinformation and the listing of Tata Sons. The latter also hasimpli-\ncations for the ShapoorjiPallonji Group \u2014 the group holds an 18.37 percent stake in TataSons\n\u2014asa listing would helpit unlock value, ease its debtburden. The RBI hadclassified Tata Sons\nas an upper-layer NBFC and given ita deadline of September 30, 2025 for listing. But, with\nthe deadline passing \u2014Tata Sons has moved to deregister as an NBFC \u2014 the central bank is\nstill deliberating. Last Wednesday, RBI Governor Sanjay Malhotrais reported to have said that\n\u201cany entity which has a registration, till it is not cancelled, will continue to do its business\u201d.\nA few days ago, Tata Trusts chairman Noel Tata, vice chairman Venu Srinivasan, trustee\nDarius Khambata andTata Sons chairman N Chandrasekaran met with Home Minister Amit\nShah and Finance Minister Nirmala Sitharaman. While government intervention in the\nmatter wouldraisea red flag, the fact that thetrustees held ameeting with senior Union gov-\nemment ministers underlines the seriousness of the situation.\nThe absence of a towering figure, after the death of Ratan Tata, is being felt. Unlike the\nWest, capitalism in India has tended to be more promoter-driven, For all their limitations,\npromoters dotend tobring stability toa business. Butthe history of the Indian corporate sec-\ntoris also littered with examples of how, when strong promoters have passed away or did not\nhave aclear succession line, the group either weakened or split. Under Ratan Tata's steward-\nship, the Tatas sailed through storms, with an approach that prized achieving \u201cconsensus\nand unanimity on issues\u201d, as Vijay Singh, who was on the board of TataSons, told this news-\npaper. For a group that has prided itself on its principled approach to business, and has long\nbeen held in high regard for its integrity, this saga must be quickly brought to an end. The\nTata Trusts must put their house in order \u2014 it\u2019s vital to their future.",
+   "ocr_conf": 89.75311203319502,
+   "ocr_low_conf_share": 0.058091286307053944,
+   "headline": "TATA MISTRUST",
+   "deck": "",
+   "byline": "",
+   "text": "Disagreements between Tata trustees must be resolved - and they, more than anyone else, need to set their house in order INE YEARS AFTER Cyrus Mistry was unceremoniously removed as chairman N of Tata Sons, and a year after the death of the patriarch, Ratan Tata, the shadow of both stilllooms over thestoried group. Long held as an exemplar in corporate governance, the group is nowa house in disorder. Sharp differ-ences of opinion have emerged between the trustees of the Tata Trusts, which together hold roughly 66 per cent stake in Tata Sons, the group's holding company. Considering the sheer breadth of sectors it operates in - from steel to auto, software, retail and semiconductors - aiiviher powei siriggie at the conglomerate could have far-reaching ramifications. Uncertainty at the top and a long-drawn-out conflict will impact decision-making, affecting not only the group's businesses but the wider economy as well. Reports suggest that the disagreements between the trustees arose over board appoint-ments, access to sensitiveinformation and the listing of Tata Sons. The latter also hasimplications for the ShapoorjiPallonji Group - the group holds an 18.37 percent stake in TataSons - asa listing would helpit unlock value, ease its debtburden. The RBI hadclassified Tata Sons as an upper-layer NBFC and given ita deadline of September 30, 2025 for listing. But, with the deadline passing - Tata Sons has moved to deregister as an NBFC - the central bank is still deliberating. Last Wednesday, RBI Governor Sanjay Malhotrais reported to have said that \"any entity which has a registration, till it is not cancelled, will continue to do its business\". A few days ago, Tata Trusts chairman Noel Tata, vice chairman Venu Srinivasan, trustee Darius Khambata andTata Sons chairman N Chandrasekaran met with Home Minister Amit Shah and Finance Minister Nirmala Sitharaman. While government intervention in the matter wouldraisea red flag, the fact that thetrustees held ameeting with senior Union govemment ministers underlines the seriousness of the situation. The absence of a towering figure, after the death of Ratan Tata, is being felt. Unlike the West, capitalism in India has tended to be more promoter-driven, For all their limitations, promoters dotend tobring stability toa business. Butthe history of the Indian corporate sectoris also littered with examples of how, when strong promoters have passed away or did not have aclear succession line, the group either weakened or split. Under Ratan Tata's stewardship, the Tatas sailed through storms, with an approach that prized achieving \"consensus and unanimity on issues\", as Vijay Singh, who was on the board of TataSons, told this newspaper. For a group that has prided itself on its principled approach to business, and has long been held in high regard for its integrity, this saga must be quickly brought to an end. The Tata Trusts must put their house in order - it's vital to their future.",
+   "n_words": 475,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1626,
+      1145,
+      2082,
+      1184
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "SOUMYA BHOWMICK",
+   "ocr_conf": 91.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "SOUMYA BHOWMICK",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1621,
+      1289,
+      2230,
+      3059
+     ]
+    ],
+    "layout_words": 302,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "WHEN UK PRIME Minister Keir Starmer\nlanded in Mumbai, the visit was marked by\nconsiderable pomp \u2014 Bollywood-style\nframes, cultural showcases, and a large UK\nbusiness and academic delegation accom-\npanying him. Alongside that spectacle, his\nteam unveiled fresh investment pledges\nfrom Indian firms and reaffirmed their in-\ntentto bring the India-UK trade deal into ef-\nfect quickly. But for this partnership to reach\nits full potential, attention must turn to mi-\ngration, talent, and every other bridge that\nconnects two economies \u2014 even whisky\ncasks used as cross-border investments.\nWhen prime ministers Narendra Modi\nand Starmer formally signed the India~UK\nFree Trade Agreement earlier this year, both\nsides spoke of a new era of collaboration \u2014\nnot justin trade, but in shared ambition. The\npact promises to remove or reduce tariffson\nmost goods and services. The UK expects to\nreap benefits of around \u00a348 billion annually\nover time, and India foresees deeper access\nfor its exporters. The agreement holds real\npotential: According to government model-\nling, UK exports to India could increase by\nnearly 60 per cent, and imports from India\nby about 25 per cent, resulting in a total trade\nincrease of approximately \u00a325.5 billion in the\nlong run. While the gains aren't earth-shat-\nteringin relative terms, they are meaningful\n\u2014 especially for sectors where India holds\ncompetitive strength, suchas textiles, leather,\nand specialty goods. In return, this benefits\nUK capabilities in advanced manufacturing,\ngreen technology, and services,\nWhat complicates the mobility debate\nfurther is the shifting global landscape of\nskilled migration. In September 2025, the\nUS announced a staggering increase in the\napplication fee for new H-1B petitions:\nFrom a few thousand dollars to $100,000.\nThis move is widely seen as \u201cprohibitive\u201d,\nespecially for Indian tech firms that have re-\nlied on the H-1B route for decades to staff",
+   "ocr_conf": 93.95364238410596,
+   "ocr_low_conf_share": 0.006622516556291391,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "WHEN UK PRIME Minister Keir Starmer landed in Mumbai, the visit was marked by considerable pomp - Bollywood-style frames, cultural showcases, and a large UK business and academic delegation accompanying him. Alongside that spectacle, his team unveiled fresh investment pledges from Indian firms and reaffirmed their intentto bring the India-UK trade deal into effect quickly. But for this partnership to reach its full potential, attention must turn to migration, talent, and every other bridge that connects two economies - even whisky casks used as cross-border investments. When prime ministers Narendra Modi and Starmer formally signed the India~UK Free Trade Agreement earlier this year, both sides spoke of a new era of collaboration - not justin trade, but in shared ambition. The pact promises to remove or reduce tariffson most goods and services. The UK expects to reap benefits of around \u00a348 billion annually over time, and India foresees deeper access for its exporters. The agreement holds real potential: According to government modelling, UK exports to India could increase by nearly 60 per cent, and imports from India by about 25 per cent, resulting in a total trade increase of approximately \u00a325.5 billion in the long run. While the gains aren't earth-shat-teringin relative terms, they are meaningful - especially for sectors where India holds competitive strength, suchas textiles, leather, and specialty goods. In return, this benefits UK capabilities in advanced manufacturing, green technology, and services, What complicates the mobility debate further is the shifting global landscape of skilled migration. In September 2025, the US announced a staggering increase in the application fee for new H-1B petitions: From a few thousand dollars to $100,000. This move is widely seen as \"prohibitive\", especially for Indian tech firms that have relied on the H-1B route for decades to staff",
+   "n_words": 295,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3576,
+      1291,
+      4182,
+      2871
+     ]
+    ],
+    "layout_words": 267,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "vestment treaty, which is still being negoti-\nated, is crucial for ensuring investor protec-\ntions, tax clarity, and effective dispute res-\nolution, India still needs to address\nregulatory and sanitary barriers that limit\nmarket access for goods such as mangoes,\nspices, and marine products. Meanwhile,\nthe UK's planned Carbon Border\nAdjustment Mechanism looms over car-\nbon-intensive Indian exports, such as steel\nand cement, unless safeguards are agreed\nupon. And, perhaps most immediately, the\ndeal must pass the UK Parliament \u2014 a\nprocess that could stretch into a year or\nmore, subject also to domestic lobbying\npressures on sensitive sectors.\nWhat matters most, though, is what\nhappens on the ground in the years ahead.\nWill British firms expand hiring of Indian\nprofessionals \u2014 even under general immi-\ngration pathways? Will Indian exporters\nscale up manufacturing and innovation-led\nexports to the UK? Will whisky imports\nflow more freely, and will Scotch casks be-\ncome a recognised asset class for bilateral\ncapital flows? If yes, then the FTA may earn\na place as more than just a headline \u2014 it\ncould be a live engine of growth, coopera-\ntion and shared opportunity.\nUltimately, this partnership is not with-\nout risk, but it is well worth the effort. The\nIndia-UK FTA charts a hopeful path, blend-\ning commerce, strategy and innovation. Its\nsuccess will depend less on the signatures\nand more on sustained delivery, adaptabil-\nity and the willingness to bridge the gaps in\nmobility, regulation and trust. If both sides\ninvest in converting promise into practice,\nthis deal might quietly become one of the\nstrongest pillars in their long-term future.",
+   "ocr_conf": 94.57303370786516,
+   "ocr_low_conf_share": 0.003745318352059925,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "vestment treaty, which is still being negotiated, is crucial for ensuring investor protections, tax clarity, and effective dispute resolution, India still needs to address regulatory and sanitary barriers that limit market access for goods such as mangoes, spices, and marine products. Meanwhile, the UK's planned Carbon Border Adjustment Mechanism looms over carbon-intensive Indian exports, such as steel and cement, unless safeguards are agreed upon. And, perhaps most immediately, the deal must pass the UK Parliament - a process that could stretch into a year or more, subject also to domestic lobbying pressures on sensitive sectors. What matters most, though, is what happens on the ground in the years ahead. Will British firms expand hiring of Indian professionals - even under general immigration pathways? Will Indian exporters scale up manufacturing and innovation-led exports to the UK? Will whisky imports flow more freely, and will Scotch casks become a recognised asset class for bilateral capital flows? If yes, then the FTA may earn a place as more than just a headline - it could be a live engine of growth, cooperation and shared opportunity. Ultimately, this partnership is not without risk, but it is well worth the effort. The India-UK FTA charts a hopeful path, blending commerce, strategy and innovation. Its success will depend less on the signatures and more on sustained delivery, adaptability and the willingness to bridge the gaps in mobility, regulation and trust. If both sides invest in converting promise into practice, this deal might quietly become one of the strongest pillars in their long-term future.",
+   "n_words": 257,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3593,
+      2915,
+      4181,
+      3067
+     ]
+    ],
+    "layout_words": 24,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The writer is a fellow and lead, World\nEconomies and Sustainability at the Centre\nfor New Economic Diplomacy (CNED) at\nObserver Research Foundation (ORF)",
+   "ocr_conf": 94.83333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The writer is a fellow and lead, World Economies and Sustainability at the Centre for New Economic Diplomacy (CNED) at Observer Research Foundation (ORF)",
+   "n_words": 24,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      440,
+      2951,
+      1409,
+      3035
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3080,
+      1529,
+      4711
+     ]
+    ],
+    "layout_words": 472
+   },
+   "headline_raw": "FIRST STEPS TO PEACE",
+   "deck_raw": "",
+   "body_raw": "For now, Trump's plan appears viable due to pressures on both\nsides in Gaza. Butit will be along and arduous haul\nXTRAORDINARY SCENES OF celebration played out in Gaza and Tel Aviv on\n, October 9 \u2014 dancing, clapping, fireworks, celebratory gunfire, tears of joy. After\n734 days of war, sparked by Hamas\u2019s October 7,2023 terror attack on Israeland\nfollowed by an Israeli retaliation that unleashed death and destruction on a\nscale that drew widespread global condemnation, there is along-awaited flicker of hope.\nBoth sides announced Thursday that they had agreed on the first phase of a ceasefire deal.\nThe office of Israeli Prime Minister Benjamin Netanyahu, however, clarified that the agree-\nment would take effect only after cabinet approval. The exchange of a number of Israeli\nhostages and Palestinian prisoners is to take place within 72 hours of the deal\u2019simplemen-\ntation. The agreement was announced on social media by US President Donald Trump,\nwhose 20-point plan, backed by Arab states, compelled Israel and Hamas to re-enter indi-\nrect talks in Egypt this week. He has indicated that he may travel to Egypt to oversee what\ncould be the greatest diplomatic achievement so far of the US President's second term.\nTrump\u2019s plan appears viable for now due to pressures on both sides. Israel faces grow-\ning international isolation for its war that has killed at least 66,000 Palestinian people and\ncatalysed a famine in parts of the Gaza Strip. Netanyahu, a master of political self-preser-\nvation, has been on the receiving end of mounting domestic angerover his failure to bring\nback the remaining hostages. He likely believes he can withstand a backlash even if his\nfar-right allies threaten to quit his government over the agreement. Hamas, meanwhile,\nhas been unable to inflict damage on Israeli forcesin Gaza and has been pressed by Qatar,\nEgypt and Turkey to make concessions Both sides, therefore, may think they gain more from\nthe deal than from continuing hostilities.\nFor all the optimism and hope, however, there are reasons to proceed with caution. The\ncurrent stage is reminiscent of the January ceasefire, which collapsed within weeks af-\nter Netanyahu unilaterally abandoned the agreement and renewed Israel's offensive. For\nany ceasefire to hold, Trump will need to lay down the line for his Israeli counterpart,\nwho has displayed his penchant for disruption, most recently in Qatar. Then there are the\nknown unknowns: It remains unclear how much territory Israeli forces will relinquish,\nwhether Hamas will truly disarm, and what governance in Gaza will look like after the\nwar. Most importantly, peace cannot \u2014 and should not \u2014 be pursued without prioritis-\ning the rights of the Palestinian people. India, too, must play its part in ensuring that the\ncurrent path leads to eventual self-determination and statehood for Palestine, because that\nremains the safest bet for the region\u2019s long-term security.",
+   "ocr_conf": 91.94714587737843,
+   "ocr_low_conf_share": 0.040169133192389,
+   "headline": "FIRST STEPS TO PEACE",
+   "deck": "",
+   "byline": "",
+   "text": "For now, Trump's plan appears viable due to pressures on both sides in Gaza. Butit will be along and arduous haul XTRAORDINARY SCENES OF celebration played out in Gaza and Tel Aviv on, October 9 - dancing, clapping, fireworks, celebratory gunfire, tears of joy. After 734 days of war, sparked by Hamas's October 7,2023 terror attack on Israeland followed by an Israeli retaliation that unleashed death and destruction on a scale that drew widespread global condemnation, there is along-awaited flicker of hope. Both sides announced Thursday that they had agreed on the first phase of a ceasefire deal. The office of Israeli Prime Minister Benjamin Netanyahu, however, clarified that the agreement would take effect only after cabinet approval. The exchange of a number of Israeli hostages and Palestinian prisoners is to take place within 72 hours of the deal'simplementation. The agreement was announced on social media by US President Donald Trump, whose 20-point plan, backed by Arab states, compelled Israel and Hamas to re-enter indirect talks in Egypt this week. He has indicated that he may travel to Egypt to oversee what could be the greatest diplomatic achievement so far of the US President's second term. Trump's plan appears viable for now due to pressures on both sides. Israel faces growing international isolation for its war that has killed at least 66,000 Palestinian people and catalysed a famine in parts of the Gaza Strip. Netanyahu, a master of political self-preservation, has been on the receiving end of mounting domestic angerover his failure to bring back the remaining hostages. He likely believes he can withstand a backlash even if his far-right allies threaten to quit his government over the agreement. Hamas, meanwhile, has been unable to inflict damage on Israeli forcesin Gaza and has been pressed by Qatar, Egypt and Turkey to make concessions Both sides, therefore, may think they gain more from the deal than from continuing hostilities. For all the optimism and hope, however, there are reasons to proceed with caution. The current stage is reminiscent of the January ceasefire, which collapsed within weeks after Netanyahu unilaterally abandoned the agreement and renewed Israel's offensive. For any ceasefire to hold, Trump will need to lay down the line for his Israeli counterpart, who has displayed his penchant for disruption, most recently in Qatar. Then there are the known unknowns: It remains unclear how much territory Israeli forces will relinquish, whether Hamas will truly disarm, and what governance in Gaza will look like after the war. Most importantly, peace cannot - and should not - be pursued without prioritising the rights of the Palestinian people. India, too, must play its part in ensuring that the current path leads to eventual self-determination and statehood for Palestine, because that remains the safest bet for the region's long-term security.",
+   "n_words": 465,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      3260,
+      4178,
+      3386
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2277,
+      3434,
+      4103,
+      3494
+     ]
+    ],
+    "body_boxes": [
+     [
+      2318,
+      4574,
+      2822,
+      5218
+     ],
+     [
+      2923,
+      3707,
+      3531,
+      5203
+     ],
+     [
+      3574,
+      3708,
+      4180,
+      5128
+     ],
+     [
+      3766,
+      5172,
+      4177,
+      5207
+     ],
+     [
+      3573,
+      5489,
+      4178,
+      5644
+     ]
+    ],
+    "layout_words": 583
+   },
+   "headline_raw": "ABOUT CONTROL, NOT CULTURE",
+   "deck_raw": "Women on stage, shining, choosing, speaking \u2014 that scares the bullies in Rishikesh",
+   "body_raw": "The hypocrisy is staggering.\nWe sell \u201cWestern clothes\u2019 in\nevery store, run beauty\npageants on national\ntelevision, celebrate Miss\nUniverse wins, but when a\nsmall-town pageant tries to\ndo the same, suddenly, it\u2019s\nthe end of Indian\ncivilisation. I want to\ncall it out for what it is:\nMoral panic dressed up as\ncultural protection.\n\nmore of us must do: They talked back.One\ncontestant confronted the leader of the\npack and asked him to stop the sale of\nWestern clothes if they had a problem.\nAnother asked the only question that re-\nally matters: \u201cWho are you?\u201d\nExactly. Whoare these men to decide how\nwomen should live, work, or dress? Who\nmade them the gatekeepers of morality?\nWhat happened in Rishikesh isn\u2019t just\nan isolated burst of chauvinism. It\u2019s part of\na larger culture that polices women con-\nstantly: From school uniforms to workplace\nattire to the way women employees are in-\ndirectly asked to be more \u201cagreeable\u201d. We\nare told it\u2019s about respect, but really, it's\nabout power.\nAnd this power doesn\u2019t only shout; it\nseeps quietly into the everyday lives of\nwomen. It\u2019s why girls are taught to text\n\u201creached home\u201d before they have even\ncaught their breath. Why parents track lo-\ncation pins instead of trusting that the\nstreets will be safe. Why so many women\ndon\u2019t go out after a certain hour, avoid\nwearing \u201crevealing\u201d clothes, or tuck away\ndreams that seem \u201ctoo bold\u201d. The country\nnever stops reminding women that their\nsafety, their choices, their dignity are\nall conditional.\nThat's what incidents like Rishikesh do:\nThey don\u2019t just humiliate a few contestants\non stage; they send a message to every\nyoung woman watching \u2014 know yourlim-\nits. They chip away at women\u2019s confidence,\none catcall, one piece of \u201cadvice\u201d, one in-\nterruption at a time. For every contestant\nwho dared to stand there in heels, there\n\nwere likely a dozen others who wanted to,\nbut didn\u2019t because they knew the world\nwould punish them for trying.\nBeauty pageants, for all their flaws, still\ngive women something rare in small-town\nIndia: A stage. An opportunity and the con-\nfidence to dream bigger. For many, it\u2019s not\nabout glamour, it\u2019s about agency. And that\u2019s\nwhat unnerves men like these. Awoman\non stage, shining, choosing, speaking \u2014\nthat\u2019s the real threat for them. These men,\nwho are not worth naming, blur into one\nanother. Men cut from the same cloth, face-\nless in their fury, identical in their need to\ncontrol, unknowingly terrified of women\nwho won't shrink before them.\nBut women aren\u2019t shrinking anymore.\nFrom politicians in hijabs, pilots, journal-\nists, Army officers, bartenders, and pageant\ncontestants \u2014 they\u2019re pushing back, talk-\ning back, standing tall in the glare of moral\npolicing. So, unsolicited advice from men\nneeds to stop.\nIndia\u2019s culture, that these self-pro-\nclaimed protectors \u201cguard\u201d, crumbles\nevery time a woman is told to sit down,\nshut up, and go home. Our culture needs\nprotection from such men and their intim-\nidation tactics, from the constant policing\ndisguised as tradition and morality. The\nrea] threat to our culture isn\u2019t women in\nshort dresses; it\u2019s men like these with short\ntempers and long lectures on morality. And\nif our culture is so fragile that a few women\nin sequins can break it, maybe it\u2019s not\nworth saving at all.\n\nstela.dey@indianexpress.com\n\nAt the joint conference of the World Bank and\ntheIMFin Seoul, hesaid developing countries\nshould reform their policies in a way that\nwould promote an adequate flow of capital.",
+   "ocr_conf": 93.41852487135506,
+   "ocr_low_conf_share": 0.018867924528301886,
+   "headline": "ABOUT CONTROL, NOT CULTURE",
+   "deck": "Women on stage, shining, choosing, speaking - that scares the bullies in Rishikesh",
+   "byline": "",
+   "text": "The hypocrisy is staggering. We sell \"Western clothes' in every store, run beauty pageants on national television, celebrate Miss Universe wins, but when a small-town pageant tries to do the same, suddenly, it's the end of Indian civilisation. I want to call it out for what it is: Moral panic dressed up as cultural protection.\n\nmore of us must do: They talked back.One contestant confronted the leader of the pack and asked him to stop the sale of Western clothes if they had a problem. Another asked the only question that really matters: \"Who are you?\" Exactly. Whoare these men to decide how women should live, work, or dress? Who made them the gatekeepers of morality? What happened in Rishikesh isn't just an isolated burst of chauvinism. It's part of a larger culture that polices women constantly: From school uniforms to workplace attire to the way women employees are indirectly asked to be more \"agreeable\". We are told it's about respect, but really, it's about power. And this power doesn't only shout; it seeps quietly into the everyday lives of women. It's why girls are taught to text \"reached home\" before they have even caught their breath. Why parents track location pins instead of trusting that the streets will be safe. Why so many women don't go out after a certain hour, avoid wearing \"revealing\" clothes, or tuck away dreams that seem \"too bold\". The country never stops reminding women that their safety, their choices, their dignity are all conditional. That's what incidents like Rishikesh do: They don't just humiliate a few contestants on stage; they send a message to every young woman watching - know yourlimits. They chip away at women's confidence, one catcall, one piece of \"advice\", one interruption at a time. For every contestant who dared to stand there in heels, there\n\nwere likely a dozen others who wanted to, but didn't because they knew the world would punish them for trying. Beauty pageants, for all their flaws, still give women something rare in small-town India: A stage. An opportunity and the confidence to dream bigger. For many, it's not about glamour, it's about agency. And that's what unnerves men like these. Awoman on stage, shining, choosing, speaking - that's the real threat for them. These men, who are not worth naming, blur into one another. Men cut from the same cloth, faceless in their fury, identical in their need to control, unknowingly terrified of women who won't shrink before them. But women aren't shrinking anymore. From politicians in hijabs, pilots, journal-ists, Army officers, bartenders, and pageant contestants - they're pushing back, talking back, standing tall in the glare of moral policing. So, unsolicited advice from men needs to stop. India's culture, that these self-proclaimed protectors \"guard\", crumbles every time a woman is told to sit down, shut up, and go home. Our culture needs protection from such men and their intimidation tactics, from the constant policing disguised as tradition and morality. The rea] threat to our culture isn't women in short dresses; it's men like these with short tempers and long lectures on morality. And if our culture is so fragile that a few women in sequins can break it, maybe it's not worth saving at all.\n\nstela.dey@indianexpress.com\n\nAt the joint conference of the World Bank and theIMFin Seoul, hesaid developing countries should reform their policies in a way that would promote an adequate flow of capital.",
+   "n_words": 571,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1620,
+      3706,
+      2226,
+      5198
+     ]
+    ],
+    "layout_words": 250,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "A BUNCH OF men in Rishikesh decided a\ncouple of days ago that they'd had enough\nof women participating in beauty pageants.\nMembers of a fringe right-wing outfit\nstormed a Miss Rishikesh rehearsal and\nstarted lecturing contestants about \u201cIndian\nculture\u201d. One of them was heard telling the\nwomen, \u201cModelling khatam ho gayi, ghar jao\n(Modelling is over, go home)\u201d.\nImagine that. A man walking into a\nroom full of women and telling them to \u201cgo\nhome\u201d. Because apparently, women exist-\ning confidently in public, wearing clothes\nhe disapproves of, are now a threat to\nUttarakhand\u2019s sanskriti. This isn\u2019t about cul-\nture. It\u2019s about control. And now, frankly,\nit\u2019s exhausting.\nFrom Valentine\u2019s Day raids to pub at-\ntacks, from college dress code \u201cguidelines\u201d\nto self-appointed gender guards, India\u2019s\nmoral police are having quite the free run.\nThey pop up wherever women dare to be\nvisible, modern, ambitious, or simply free.\nThe hypocrisy is staggering. We sell\n\u201cWestern clothes\u201d in every store, run\nbeauty pageants on national television, cel-\nebrate Miss Universe wins, but when a\nsmall-town pageant tries to do the same,\nsuddenly, it\u2019s the end of Indian civilisation.\nI want to call it out for what it is: Moral\npanic dressed up as cultural protection.\nRishikesh, acity known worldwide for yoga\nand international visitors in shorts and\nsports bras, apparently can\u2019t handle its own\nwomen walking a ramp in similar outfits.\nForeigners can wear what they want;\nIndian women must \u201cknow their place\u201d.\nThe women at that rehearsal did what",
+   "ocr_conf": 92.356,
+   "ocr_low_conf_share": 0.04,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "A BUNCH OF men in Rishikesh decided a couple of days ago that they'd had enough of women participating in beauty pageants. Members of a fringe right-wing outfit stormed a Miss Rishikesh rehearsal and started lecturing contestants about \"Indian culture\". One of them was heard telling the women, \"Modelling khatam ho gayi, ghar jao (Modelling is over, go home)\". Imagine that. A man walking into a room full of women and telling them to \"go home\". Because apparently, women existing confidently in public, wearing clothes he disapproves of, are now a threat to Uttarakhand's sanskriti. This isn't about culture. It's about control. And now, frankly, it's exhausting. From Valentine's Day raids to pub attacks, from college dress code \"guidelines\" to self-appointed gender guards, India's moral police are having quite the free run. They pop up wherever women dare to be visible, modern, ambitious, or simply free. The hypocrisy is staggering. We sell \"Western clothes\" in every store, run beauty pageants on national television, celebrate Miss Universe wins, but when a small-town pageant tries to do the same, suddenly, it's the end of Indian civilisation. I want to call it out for what it is: Moral panic dressed up as cultural protection. Rishikesh, acity known worldwide for yoga and international visitors in shorts and sports bras, apparently can't handle its own women walking a ramp in similar outfits. Foreigners can wear what they want; Indian women must \"know their place\". The women at that rehearsal did what",
+   "n_words": 246,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      394,
+      4796,
+      1458,
+      4880
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4924,
+      1529,
+      5913
+     ],
+     [
+      321,
+      5970,
+      1528,
+      6138
+     ]
+    ],
+    "layout_words": 314
+   },
+   "headline_raw": "LESSONS IN ENDURANCE",
+   "deck_raw": "",
+   "body_raw": "Nobel to Laszl6 Krasznahorkai is endorsement of literature as\nresistance, a reminder that great artis not always easy\nEADING LASZLO KRASZNAHORKAI can be a daunting exercise. The\nR= writerscharacters drift through landscapes of entropy and ruin\n\u2014 provincial towns, collapsing empires, haunted minds. His prose unfurls\nacrosslong, labyrinthine sentences that spiral through darkness and grace,\nthat demands that readers look harder, stay longer, feel more. But for those who follow\nhis winding syntax to the end, the reward is a haunting clarity, of the faint, stubborn lights\nof hope that lie beyond the abyss. It is this architecture of apocalypse and his almost\nmonastic faith in language\u2019s capacity to reckon with chaos, \u201chis compelling and vision-\nary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art\u201d, that the\nNobel Prize in Literature 2025 honoured.\nBorn in the provincial town of Gyula, Krasznahorkai's novels reflect Europe's shifting tec-\ntonics. In Satdntang6( 1985), adapted into a seven-hour filmby B\u00e9laTarr, a collapsing Hungarian\nvillage becomes a stage for cyclical delusion. InThe Melancholy of Resistance(1989),the arrival\nof aghostly circus revives a provincial town\u2019s simmering anxieties. In War and War(1999),a\nlonely archivist travels to New York in a manic bid to publish a mysterious manuscript that\nmay ormaynot holdthe key to transcending time. In these narratives thatunravel morethan\nthey resolve, Krasznahorkai, 71, confronts the most elemental of human fears \u2014 annihila-\ntion, irrelevance, absurdity \u2014 and the unschooled insubordination of hope.\nInaworld steeped in conflicts and climate crises and a pervasive culture of superficiality,\n\nthat great artis not always immediate, or easy. It demands attention, engagement, even sur-\nrender. Sometimes, it lacks the polished graces of the mainstream, the marketable ease of the\neasily comprehensible. Sometimes, as Krasznahorkai shows, it is a long sentence that leads\nreaders into hearts of darkness, not tobe lost, but to witness \u2014 and to leam how to endure.",
+   "ocr_conf": 88.82108626198082,
+   "ocr_low_conf_share": 0.07028753993610223,
+   "headline": "LESSONS IN ENDURANCE",
+   "deck": "",
+   "byline": "",
+   "text": "Nobel to Laszl6 Krasznahorkai is endorsement of literature as resistance, a reminder that great artis not always easy EADING LASZLO KRASZNAHORKAI can be a daunting exercise. The R= writerscharacters drift through landscapes of entropy and ruin - provincial towns, collapsing empires, haunted minds. His prose unfurls acrosslong, labyrinthine sentences that spiral through darkness and grace, that demands that readers look harder, stay longer, feel more. But for those who follow his winding syntax to the end, the reward is a haunting clarity, of the faint, stubborn lights of hope that lie beyond the abyss. It is this architecture of apocalypse and his almost monastic faith in language's capacity to reckon with chaos, \"his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art\", that the Nobel Prize in Literature 2025 honoured. Born in the provincial town of Gyula, Krasznahorkai's novels reflect Europe's shifting tectonics. In Satdntang6( 1985), adapted into a seven-hour filmby B\u00e9laTarr, a collapsing Hungarian village becomes a stage for cyclical delusion. InThe Melancholy of Resistance(1989),the arrival of aghostly circus revives a provincial town's simmering anxieties. In War and War(1999),a lonely archivist travels to New York in a manic bid to publish a mysterious manuscript that may ormaynot holdthe key to transcending time. In these narratives thatunravel morethan they resolve, Krasznahorkai, 71, confronts the most elemental of human fears - annihilation, irrelevance, absurdity - and the unschooled insubordination of hope. Inaworld steeped in conflicts and climate crises and a pervasive culture of superficiality,\n\nthat great artis not always immediate, or easy. It demands attention, engagement, even surrender. Sometimes, it lacks the polished graces of the mainstream, the marketable ease of the easily comprehensible. Sometimes, as Krasznahorkai shows, it is a long sentence that leads readers into hearts of darkness, not tobe lost, but to witness - and to leam how to endure.",
+   "n_words": 309,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      5336,
+      3571,
+      5438
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2270,
+      5488,
+      2876,
+      5913
+     ],
+     [
+      2270,
+      5966,
+      2858,
+      6009
+     ],
+     [
+      2271,
+      6043,
+      2875,
+      6156
+     ],
+     [
+      2923,
+      5489,
+      3528,
+      5840
+     ],
+     [
+      2923,
+      5888,
+      3434,
+      5931
+     ],
+     [
+      2922,
+      5965,
+      3526,
+      6157
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "OcroBER 10, 1985, Forty YEARS AGO",
+   "deck_raw": "",
+   "body_raw": "HIJACKERS SURRENDER\nFOUR PALESTINIANS WHO hijacked the\nItalian cruise liner Achille Lauro surren-\ndered after holding 400 crew and passen-\ngers hostage for two days, Egyptian foreign\nminister Esmat Abdel-Maguid announced.\nHe said, \u201cThe hijackers of the Italian ship\nsurrendered... They willleave Egypt... And\nthe Italian vessel will head towards Port\nSaid harbour.\u201d\n\nPM ON SIKH DETAINEES\n\nPRIME MINISTER RAJIV Gandhi has said\nthat the Centre would not make any com-\npromises to release Sikhs charged with\n\nwaging war against the state. Gandhi was\nasked during an interview with The\nGuardian how much control the central\ngovernment would retain over prisoners to\nbe released under the amnesty promised\nby Punjab's new Akali Dal government. \u201cIt\ndepends... the prisoners who are charged\nwith war against the state... we are not\ncompromising on that.\u201d\n\nLIBERALISING TRADE\n\nWORLD BANK PRESIDENT A W Clausen called\non developing and industrialised nations to\nimplement reforms that would enable them\ntoactively participate in efforts to liberaliseand\nstrengthen the international trading system.",
+   "ocr_conf": 94.23170731707317,
+   "ocr_low_conf_share": 0.006097560975609756,
+   "headline": "OcroBER 10, 1985, Forty YEARS AGO",
+   "deck": "",
+   "byline": "HIJACKERS SURRENDER; PM ON SIKH DETAINEES",
+   "text": "FOUR PALESTINIANS WHO hijacked the Italian cruise liner Achille Lauro surrendered after holding 400 crew and passen-gers hostage for two days, Egyptian foreign minister Esmat Abdel-Maguid announced. He said, \"The hijackers of the Italian ship surrendered... They willleave Egypt... And the Italian vessel will head towards Port Said harbour.\"\n\nPRIME MINISTER RAJIV Gandhi has said that the Centre would not make any compromises to release Sikhs charged with\n\nwaging war against the state. Gandhi was asked during an interview with The Guardian how much control the central government would retain over prisoners to be released under the amnesty promised by Punjab's new Akali Dal government. \"It depends... the prisoners who are charged with war against the state... we are not compromising on that.\"\n\nLIBERALISING TRADE\n\nWORLD BANK PRESIDENT A W Clausen called on developing and industrialised nations to implement reforms that would enable them toactively participate in efforts to liberaliseand strengthen the international trading system.",
+   "n_words": 155,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3573,
+      5691,
+      4059,
+      5735
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3573,
+      5767,
+      4178,
+      6150
+     ]
+    ],
+    "layout_words": 71
+   },
+   "headline_raw": "HAZARDOUS PLANT",
+   "deck_raw": "",
+   "body_raw": "A COMMITTEE OF experts, which has ex-\namined the safety and pollution control\nmeasures of the chlorine plant of Shriram\nFood and Fertiliser industries on Najafgarh\nRoad, West Delhi, has concluded that its lo-\ncation in a populous area and along a busy\narterial road poses a hazard to the commu-\nnity. The large number of chlorine one-ton-\nners kept in the storage area add to the po-\ntential leak hazard.",
+   "ocr_conf": 92.8169014084507,
+   "ocr_low_conf_share": 0.028169014084507043,
+   "headline": "HAZARDOUS PLANT",
+   "deck": "",
+   "byline": "",
+   "text": "A COMMITTEE OF experts, which has examined the safety and pollution control measures of the chlorine plant of Shriram Food and Fertiliser industries on Najafgarh Road, West Delhi, has concluded that its location in a populous area and along a busy arterial road poses a hazard to the community. The large number of chlorine one-tonners kept in the storage area add to the potential leak hazard.",
+   "n_words": 66,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 22.6,
+ "flags": [
+  "25% of body text had no headline above it",
+  "3 kept article(s) without a headline"
+ ]
+}

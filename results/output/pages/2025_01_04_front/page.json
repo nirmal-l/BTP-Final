@@ -1,0 +1,440 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_04_front",
+ "source_file": "2025-01-04_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-04_front.png",
+ "date": "2025-01-04",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 4,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 206,
+  "mean_line_conf": 89.0259728001233,
+  "orphan_words": 5,
+  "body_words_total": 652
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      696,
+      2985,
+      759
+     ],
+     [
+      813,
+      785,
+      3166,
+      1130
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      1171,
+      1241,
+      1426
+     ],
+     [
+      808,
+      1502,
+      1145,
+      1610
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "CALLS AAP AN AAPDA (DISASTER), TELLS VOTERS TO EFFECT CHANGE\nPM targets Kejriwal in poll opener: | built\nhomes for people, not a Sheesh Mahal",
+   "deck_raw": "",
+   "body_raw": "AAP chief hits back\nwith remarks on\nPM clothes, travel\nexpenditure\n\nDEVANSHMITTAL\n& NIRBHAY THAKUR\nNEW DELHI. JANUARY 3",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "CALLS AAP AN AAPDA (DISASTER), TELLS VOTERS TO EFFECT CHANGE PM targets Kejriwal in poll opener: built homes for people, not a Sheesh Mahal",
+   "deck": "",
+   "byline": "DEVANSHMITTAL; & NIRBHAY THAKUR; NEW DELHI. JANUARY 3",
+   "text": "AAP chief hits back with remarks on PM clothes, travel expenditure",
+   "n_words": 11,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      366,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Business AS USUAL",
+   "ocr_conf": 77.66666666666667,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Business AS USUAL",
+   "n_words": 3,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 89.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2156,
+      1173,
+      3181,
+      1471
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      1661,
+      2716,
+      2054
+     ],
+     [
+      2763,
+      1504,
+      3208,
+      2046
+     ]
+    ],
+    "layout_words": 110
+   },
+   "headline_raw": "~ PMdraws battlelines for\nDelhi polls: Modi model\nversus Kejriwal model",
+   "deck_raw": "",
+   "body_raw": "THE BJP has so far not released\nanyname forthe DelhiAssembly\nelections \u2014 trailing both\nthe AAP and Congress in\nthis \u2014 let alone clarify\nwhether \u00a3 will havea chief\nminister face or not. \u2018\u2014\nHowever, as Prime Minister\nNarendra Modi virtually\nlaunched the BJP's campaign for\n\nthe Capital Friday, pitting his\ngovernment model directly\nagainst the AAP's, any remaining\ndoubts about who would leadit,\nand how, were settled.\nIt was also a resounding re-\n. ply to constant jabs by\nAAP convenor Arvind\n: Kejriwal at the BJP. asking\nse | it torevealits CM face and\nvision for Delhi. The AAP\nwas, in reality, \u201caapda (disaster)\"\nfor Delhi, Modi said. Listing the\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.28448275862068,
+   "ocr_low_conf_share": 0.07758620689655173,
+   "headline": "~ PMdraws battlelines for Delhi polls: Modi model versus Kejriwal model",
+   "deck": "",
+   "byline": "",
+   "text": "THE BJP has so far not released anyname forthe DelhiAssembly elections - trailing both the AAP and Congress in this - let alone clarify whether \u00a3 will havea chief minister face or not. ' - However, as Prime Minister Narendra Modi virtually launched the BJP's campaign for\n\nthe Capital Friday, pitting his government model directly against the AAP's, any remaining doubts about who would leadit, and how, were settled. It was also a resounding re-. ply to constant jabs by AAP convenor Arvind: Kejriwal at the BJP. asking se it torevealits CM face and vision for Delhi. The AAP was, in reality, \"aapda (disaster)\" for Delhi, Modi said. Listing the",
+   "n_words": 110,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      1445,
+      759,
+      1869
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      1937,
+      727,
+      2006
+     ],
+     [
+      316,
+      2056,
+      767,
+      3113
+     ]
+    ],
+    "layout_words": 130
+   },
+   "headline_raw": "Draft rules\nreleased, Govt\nbrings back\nlocalisation of\npersonal data",
+   "deck_raw": "",
+   "body_raw": "SOUMYARENDRABARIK\nNEW DELHI. JANUARY 3\n\nDATA LOCALISATION, a bugbear\nfor Big Tech that was removed\nfrom the Data Protection Act,\n2023, made a comeback under\nthe draft rules released Friday. The\ndraftrulescome more thana year\nafter the Digital Personal Data\nProtection Act received the\nPresident's assent in August 2023.\nData localisation relates to\nmeasures that result in restrict-\ning data flow within a jurisdic-\ntion's boundaries\nThe draft Digital Personal\nData Protection Rules, 2025, pro-\npose that the Union government\nwill specify the kind of personal\ndata which can be processed by\n\u201csignificant data fiduciaries\u201d,\nsubject to the restriction that\nsuch personal data and traffic\ndata related to its flow is not\ntransferred outside the territory\nof India. A committee, to be\nformed by the government, will\ndetermine suchdata.\nCONTINUEDONPAGE2",
+   "ocr_conf": 92.46153846153847,
+   "ocr_low_conf_share": 0.015384615384615385,
+   "headline": "Draft rules released, Govt brings back localisation of personal data",
+   "deck": "",
+   "byline": "SOUMYARENDRABARIK; NEW DELHI. JANUARY 3",
+   "text": "DATA LOCALISATION, a bugbear for Big Tech that was removed from the Data Protection Act, 2023, made a comeback under the draft rules released Friday. The draftrulescome more thana year after the Digital Personal Data Protection Act received the President's assent in August 2023. Data localisation relates to measures that result in restricting data flow within a jurisdiction's boundaries The draft Digital Personal Data Protection Rules, 2025, propose that the Union government will specify the kind of personal data which can be processed by \"significant data fiduciaries\", subject to the restriction that such personal data and traffic data related to its flow is not transferred outside the territory of India. A committee, to be formed by the government, will determine suchdata. CONTINUEDONPAGE2",
+   "n_words": 122,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1722,
+      4170,
+      2156
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      2255,
+      3605,
+      2324
+     ],
+     [
+      3251,
+      2373,
+      3697,
+      3115
+     ],
+     [
+      3737,
+      2690,
+      4184,
+      2884
+     ],
+     [
+      3738,
+      2968,
+      4180,
+      3116
+     ]
+    ],
+    "layout_words": 127
+   },
+   "headline_raw": "Rohit told he\u2019s not part\nof Test plans after tour\nof Australia, selectors\nto have chat with Virat",
+   "deck_raw": "",
+   "body_raw": "VENKATA KRISHNAB\nCHENNAI, JANUARY 3\n\nAHEAD OF the final Test at\nSydney, the national selectors\nhad informed captain Rohit\nSharma that he wasn't part of\ntheir red-ball cricket plans after\nthe ongoing Border-Gavaskar\nTrophy series.\nThe Indian Express has learnt\nthat this was followed by Rohit\ngoing into a huddle with coach\nGautam Gambhir and chairman\nof selectors Ajit Agarkar, and\nsubsequently sitting out of the\nSydney game.\nThis unexpected turn of\nevents has raised speculations\nabout the 37-year-old captain\ncalling it a day, which would\nmean that the Melbourne Test\n\nIndia coach Gautam\nGambhir and players Rohit\nSharma and Jasprit Bumrah\nahead of the final Test against\nAustralia in Sydney.ANni\n\nthat Australia won by 184 runs\nwouldendupashislast gamein\nIndia whites. Speaking for the\nCONTINUED ONPAGE 2",
+   "ocr_conf": 90.55118110236221,
+   "ocr_low_conf_share": 0.047244094488188976,
+   "headline": "Rohit told he's not part of Test plans after tour of Australia, selectors to have chat with Virat",
+   "deck": "",
+   "byline": "VENKATA KRISHNAB; CHENNAI, JANUARY 3",
+   "text": "AHEAD OF the final Test at Sydney, the national selectors had informed captain Rohit Sharma that he wasn't part of their red-ball cricket plans after the ongoing Border-Gavaskar Trophy series. The Indian Express has learnt that this was followed by Rohit going into a huddle with coach Gautam Gambhir and chairman of selectors Ajit Agarkar, and subsequently sitting out of the Sydney game. This unexpected turn of events has raised speculations about the 37-year-old captain calling it a day, which would mean that the Melbourne Test\n\nIndia coach Gautam Gambhir and players Rohit Sharma and Jasprit Bumrah ahead of the final Test against Australia in Sydney.ANni\n\nthat Australia won by 184 runs wouldendupashislast gamein India whites. Speaking for the",
+   "n_words": 119,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      808,
+      2195,
+      1733,
+      2494
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      2570,
+      1144,
+      2639
+     ],
+     [
+      803,
+      2689,
+      1250,
+      3121
+     ],
+     [
+      1297,
+      2532,
+      1739,
+      2764
+     ],
+     [
+      1296,
+      2808,
+      1739,
+      3114
+     ]
+    ],
+    "layout_words": 117
+   },
+   "headline_raw": "More flights to Thailand\nand Malaysia as visa-free\nentry spurs Indian traffic",
+   "deck_raw": "",
+   "body_raw": "SUKALP SHARMA\nNEW DELHI, JANUARY 3\n\nIN THE autumn of 2023,\nThailand and Malaysiaextended\nvisa-free entry to Indian nation-\nals in the hope of attracting\ntourists from the country ata\ntime when they were travelling\noverseas|like never before.\nSlow post-pandemic eco-\nnomic recovery in Chinahad ev-\nidently hit tourist inflows to\nSoutheast Asian hotspots, while\n\nIndia's recovery in terms of inter-\nnational passenger traffic was\nbooming. Meanwhile, emerging\ndestinations in other regions,\nparticularty Central Asiaand the\nCaucasus, abo picked upintenrms\n\nAyear on, both Southeast\nAsian nations appear pleased\nwith the results, so muchso that\nthey have decided to extend the\nvisa-free entry facility for Indian\npassport holders further.\nAviation and travel industry\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.3103448275862,
+   "ocr_low_conf_share": 0.05172413793103448,
+   "headline": "More flights to Thailand and Malaysia as visa-free entry spurs Indian traffic",
+   "deck": "",
+   "byline": "SUKALP SHARMA; NEW DELHI, JANUARY 3",
+   "text": "IN THE autumn of 2023, Thailand and Malaysiaextended visa-free entry to Indian nationals in the hope of attracting tourists from the country ata time when they were travelling overseas like never before. Slow post-pandemic economic recovery in Chinahad evidently hit tourist inflows to Southeast Asian hotspots, while\n\nIndia's recovery in terms of international passenger traffic was booming. Meanwhile, emerging destinations in other regions, particularty Central Asiaand the Caucasus, abo picked upintenrms\n\nAyear on, both Southeast Asian nations appear pleased with the results, so muchso that they have decided to extend the visa-free entry facility for Indian passport holders further. Aviation and travel industry",
+   "n_words": 103,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1787,
+      2200,
+      2222,
+      2490
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1786,
+      2571,
+      2120,
+      2640
+     ],
+     [
+      1786,
+      2691,
+      2226,
+      3114
+     ]
+    ],
+    "layout_words": 54
+   },
+   "headline_raw": "In Manipur\u2019s\nKangpokpi, SP\ninjured as mob\nattacks his office",
+   "deck_raw": "",
+   "body_raw": "SUKRITA BARUAH\nGUWAHATI, JANUARY 3\n\nVIOLENCE ERUPTED in Mani-\npur's Kangpokpi district on\nFriday night as a mob attacked\nthe office of the Superintendent\nof Police, resulting inthe SP and\nothers sustaining injuries,\nAccording to a senior police\nofficer, the assailants allegedly\npelted stones and hurled petrol\nbombs at the SP office in\nCONTINUEDONPAGE2",
+   "ocr_conf": 91.14814814814815,
+   "ocr_low_conf_share": 0.037037037037037035,
+   "headline": "In Manipur's Kangpokpi, SP injured as mob attacks his office",
+   "deck": "",
+   "byline": "SUKRITA BARUAH; GUWAHATI, JANUARY 3",
+   "text": "VIOLENCE ERUPTED in Manipur's Kangpokpi district on Friday night as a mob attacked the office of the Superintendent of Police, resulting inthe SP and others sustaining injuries, According to a senior police officer, the assailants allegedly pelted stones and hurled petrol bombs at the SP office in CONTINUEDONPAGE2",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      2197,
+      3197,
+      2495
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2273,
+      2572,
+      2609,
+      2641
+     ],
+     [
+      2273,
+      2691,
+      2715,
+      3122
+     ],
+     [
+      2765,
+      2557,
+      2995,
+      2588
+     ]
+    ],
+    "layout_words": 54
+   },
+   "headline_raw": "India raises Brahmaputra\ndam plan with China,\nobjects to new counties",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJITROY\nNEW DELHI, JANUARY 3\n\nDAYS AFTER Beijing cleared the\nconstruction of the world's\nlargest damontheBrahmaputra\nriver in Tibet close to the Indian\nborder, raising concemsin lower\nriparian states India and\nBangladesh, Delhi said Friday it\nhasconveyedits concems tothe\nChinese side over the mega hy-\ndel project.\nIndia has urged China to en-\n\nEXPLAINED",
+   "ocr_conf": 93.42592592592592,
+   "ocr_low_conf_share": 0.0,
+   "headline": "India raises Brahmaputra dam plan with China, objects to new counties",
+   "deck": "",
+   "byline": "SHUBHAJITROY; NEW DELHI, JANUARY 3",
+   "text": "DAYS AFTER Beijing cleared the construction of the world's largest damontheBrahmaputra river in Tibet close to the Indian border, raising concemsin lower riparian states India and Bangladesh, Delhi said Friday it hasconveyedits concems tothe Chinese side over the mega hydel project. India has urged China to en-\n\nEXPLAINED",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2606,
+      3145,
+      2758
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      2888,
+      3204,
+      3115
+     ]
+    ],
+    "layout_words": 29
+   },
+   "headline_raw": "DIPLOMACY & STRATEGY\nTSANGPO DAM,\nINDIA\u2019S OPTIONS",
+   "deck_raw": "",
+   "body_raw": "sure that the interests of down-\nstream states of the Brahma-\nputra are\u201cnot harmed by activi-\nties in upstream areas\u201d.\nDelhi has also lodged a protest\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.53333333333333,
+   "ocr_low_conf_share": 0.1,
+   "headline": "DIPLOMACY & STRATEGY TSANGPO DAM, INDIA'S OPTIONS",
+   "deck": "",
+   "byline": "",
+   "text": "sure that the interests of downstream states of the Brahma-putra are\"not harmed by activities in upstream areas\". Delhi has also lodged a protest",
+   "n_words": 23,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 9.8,
+ "flags": []
+}

@@ -1,0 +1,348 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_01_front",
+ "source_file": "2025-03-01_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-01_front.png",
+ "date": "2025-03-01",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 203,
+  "mean_line_conf": 85.02153958377059,
+  "orphan_words": 0,
+  "body_words_total": 610
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      882,
+      3175,
+      1363
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      1699,
+      1635,
+      1807
+     ],
+     [
+      1297,
+      1858,
+      1743,
+      2321
+     ]
+    ],
+    "layout_words": 65
+   },
+   "headline_raw": "India, EU look to seal trade deal this\nyear, Trump keeps markets reeling",
+   "deck_raw": "",
+   "body_raw": "HITESH VYAS\n& GEORGE MATHEW\nMUMBAI, FEBRUARY 28\n\nTHE INDIAN stock market wit-\nnessed another bloodbath on\nFriday, with key indices crashing\nby 1.9 percent and wiping out a\nstaggering 18 percent of investor\nwealth since September last\nyeac The relentless sell-off has\nleft investors reeling, with the\nSensex plummeting 14.72 per\ncent (12,638 points) and the\nNifty tumbling 15.6 per cent\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.39393939393939,
+   "ocr_low_conf_share": 0.030303030303030304,
+   "headline": "India, EU look to seal trade deal this year, Trump keeps markets reeling",
+   "deck": "",
+   "byline": "HITESH VYAS; & GEORGE MATHEW; MUMBAI, FEBRUARY 28",
+   "text": "THE INDIAN stock market witnessed another bloodbath on Friday, with key indices crashing by 1.9 percent and wiping out a staggering 18 percent of investor wealth since September last yeac The relentless sell-off has left investors reeling, with the Sensex plummeting 14.72 per cent (12,638 points) and the Nifty tumbling 15.6 per cent",
+   "n_words": 53,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      1405,
+      2657,
+      1741
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1832,
+      1768,
+      2217,
+      2195
+     ],
+     [
+      1839,
+      2212,
+      2216,
+      2253
+     ],
+     [
+      2275,
+      1770,
+      2662,
+      1842
+     ],
+     [
+      2372,
+      2137,
+      2673,
+      2296
+     ]
+    ],
+    "layout_words": 39
+   },
+   "headline_raw": "Friday fright: Sensex dives 1.9%;\nNifty down 15% since Sept peak\nSC NDIAYSRESLOF THE WORLD",
+   "deck_raw": "",
+   "body_raw": "FALL/GAIN ININDICES\nSINCE SEPT 26, 2024\nNifty50 -15.6%\nSensex -14.1%\nDowJones* 2.5%\nHang Seng 15.1%\nShanghaiComposite 10.7%\nEuro Stoxx 50 8.2%\nNikkei 225 A5%\n\nKOSP1 5.2%\n\nFALLFROM PEAK: NIFTY,\nMIDCAP, SMALLCAP\n\n4 NiftyMid |\n| Smallcap400\nee es |\nSept 26'24 Feb28,'25\nSource: NSE",
+   "ocr_conf": 73.52272727272727,
+   "ocr_low_conf_share": 0.29545454545454547,
+   "headline": "Friday fright: Sensex dives 1.9%; Nifty down 15% since Sept peak SC NDIAYSRESLOF THE WORLD",
+   "deck": "",
+   "byline": "FALL/GAIN ININDICES",
+   "text": "DowJones* 2.5% Hang Seng 15.1% ShanghaiComposite 10.7% Euro Stoxx 50 8.2% Nikkei 225 A5%\n\nFALLFROM PEAK: NIFTY, MIDCAP, SMALLCAP\n\n4 NiftyMid Smallcap400 ee es Source: NSE",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2763,
+      1409,
+      3231,
+      1907
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      1979,
+      3137,
+      2048
+     ],
+     [
+      2760,
+      2098,
+      3206,
+      3154
+     ]
+    ],
+    "layout_words": 142
+   },
+   "headline_raw": "GDP shows an\nuptick, but Q4\nkey for 6.5%\ngrowth in FY25 |\nCEA: Exports, capex,\nMahakumbh spending\nwill power Q4 growth",
+   "deck_raw": "",
+   "body_raw": "AANCHAL MAGAZINE\nNEW DELHI FEBRUARY 28\n\nINDIA\u2019S REAL Gross Domestic\nProduct picked pace sequentially\nto grow 6.2 per cent in October\nDecember 2024 (Q3 of 2024-25\nor FY25) compared with 5.6 per\ncent in July-September 2024\n(Q2), aided by accelerating con-\nsumption demand, quarterly\nGDP estimates released by the\nNational Statistics Office showed\nFriday.I1nQ3 of 2023-24, the GDP\nhad grown 9.5 percent.\nFor the full financial year\nFY25, the GDP growth rate, as\nper the second advance esti-\nmates, isseen marginallyhigher\nat 6.5 percent as against the 6.4\npercent inthe firstadvanceesti-\nmates released in January. This\nis significant since it hascome\ndespite a sharp upward revision\nof GDP data for FY24. As perthe\nlatest estimates, GDP growth in\nFY24 has been revised up to 92\nper cent from 8.2 per cent ear-\nlier. At 9.2 per cent, the GDP\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.95804195804196,
+   "ocr_low_conf_share": 0.04895104895104895,
+   "headline": "GDP shows an uptick, but Q4 key for 6.5% growth in FY25 CEA: Exports, capex, Mahakumbh spending will power Q4 growth",
+   "deck": "",
+   "byline": "AANCHAL MAGAZINE; NEW DELHI FEBRUARY 28",
+   "text": "INDIA'S REAL Gross Domestic Product picked pace sequentially to grow 6.2 per cent in October December 2024 (Q3 of 2024-25 or FY25) compared with 5.6 per cent in July-September 2024 (Q2), aided by accelerating consumption demand, quarterly GDP estimates released by the National Statistics Office showed Friday.I1nQ3 of 2023-24, the GDP had grown 9.5 percent. For the full financial year FY25, the GDP growth rate, as per the second advance estimates, isseen marginallyhigher at 6.5 percent as against the 6.4 percent inthe firstadvanceestimates released in January. This is significant since it hascome despite a sharp upward revision of GDP data for FY24. As perthe latest estimates, GDP growth in FY24 has been revised up to 92 per cent from 8.2 per cent earlier. At 9.2 per cent, the GDP",
+   "n_words": 129,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      1722,
+      4151,
+      1911
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3252,
+      1979,
+      3629,
+      2048
+     ],
+     [
+      3252,
+      2098,
+      3694,
+      2401
+     ],
+     [
+      3254,
+      2503,
+      3462,
+      2535
+     ],
+     [
+      3254,
+      2585,
+      3614,
+      2671
+     ],
+     [
+      3254,
+      2861,
+      3389,
+      2892
+     ],
+     [
+      3252,
+      2942,
+      3638,
+      3118
+     ],
+     [
+      3739,
+      2293,
+      4175,
+      2370
+     ],
+     [
+      3784,
+      2530,
+      4141,
+      2565
+     ],
+     [
+      3877,
+      2606,
+      4043,
+      2635
+     ]
+    ],
+    "layout_words": 70
+   },
+   "headline_raw": "Uttarakhand avalanche:\n33 rescued, search for 22",
+   "deck_raw": "",
+   "body_raw": "AISWARYARAJ\nDEHRADUN, FEBRUARY 28\n\nAN AVALANCHE hit a Border\nRoads Organisation (BRO) proj-\nect site near Mana \u2014 India's\n\u201cfirst\u201d village \u2014 in Uttarakhand's\nChamoli district, trapping sev-\neral workers and prompting a\nrescue operation that involved\nCONTINUED ON PAGE 2\n\nECONOMY\n\nEPFO RETAINS\n8.25% RATE FOR\n\nINSIDE\n\nCM GUPTA MEETS\nSHAH OVER DELHI\nLAW & ORDER\nPAGE3\n\nRescue operation underway\nnear Mana on Friday. AN!\n\nBusiness AS USUAL\n\nBy UNNY",
+   "ocr_conf": 88.50704225352112,
+   "ocr_low_conf_share": 0.08450704225352113,
+   "headline": "Uttarakhand avalanche: 33 rescued, search for 22",
+   "deck": "",
+   "byline": "AISWARYARAJ; DEHRADUN, FEBRUARY 28",
+   "text": "AN AVALANCHE hit a Border Roads Organisation (BRO) project site near Mana - India's \"first\" village - in Uttarakhand's Chamoli district, trapping several workers and prompting a rescue operation that involved\n\nECONOMY\n\nEPFO RETAINS 8.25% RATE FOR\n\nCM GUPTA MEETS SHAH OVER DELHI LAW & ORDER\n\nRescue operation underway near Mana on Friday. AN!\n\nBusiness AS USUAL\n\nBy UNNY",
+   "n_words": 59,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      2115,
+      1230,
+      2502
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      2570,
+      695,
+      2718
+     ],
+     [
+      318,
+      2768,
+      762,
+      3152
+     ],
+     [
+      807,
+      2531,
+      1254,
+      3153
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "\u2018Right time\u2019 for India\npartnership: EU flags\nglobal headwinds",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJITROY,\nRAVIDUTTAMISHRA\n&DIVYAA\nNEW DELHI, FEBRUARY 28\n\nAT A time when both India and\nthe European Union brace toface\nreciprocal tariffs from the US and\nthetrans-Atlantic relationship is\nstrained like never before, Prime\nMinisterNarendra Modi and vis-\niting President of the European\nCommission Ursula von der\nLeyen tasked their negotiatorsto\nconclude the India-EU Free Trade\n\nAgreement by end of 2025.\nThis comes as world leaders\nscramble to diversify exports to\nmitigate the impact of likety US\ntariffs announced by President\nDonald Trump. While Trump\nhas signalled no relief for India\non tariffs, he has announced\nplans toimpose 25 per cent tar-\nifs onthe EU.\nThis was the backdrop against\nwhich Modi and von der Leyen\nunderlined the significance of the\nindia-EU parmership.\nCalling the engagement\nCONTINUED ONPAGE 2",
+   "ocr_conf": 90.5234375,
+   "ocr_low_conf_share": 0.046875,
+   "headline": "'Right time' for India partnership: EU flags global headwinds",
+   "deck": "",
+   "byline": "SHUBHAJITROY,; RAVIDUTTAMISHRA; &DIVYAA; NEW DELHI, FEBRUARY 28",
+   "text": "AT A time when both India and the European Union brace toface reciprocal tariffs from the US and thetrans-Atlantic relationship is strained like never before, Prime MinisterNarendra Modi and visiting President of the European Commission Ursula von der Leyen tasked their negotiatorsto conclude the India-EU Free Trade\n\nAgreement by end of 2025. This comes as world leaders scramble to diversify exports to mitigate the impact of likety US tariffs announced by President Donald Trump. While Trump has signalled no relief for India on tariffs, he has announced plans toimpose 25 per cent tarifs onthe EU. This was the backdrop against which Modi and von der Leyen underlined the significance of the india-EU parmership. Calling the engagement",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      1298,
+      2396,
+      2687,
+      2582
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      2650,
+      1635,
+      2719
+     ],
+     [
+      1296,
+      2808,
+      1739,
+      3161
+     ],
+     [
+      1786,
+      2612,
+      2228,
+      3161
+     ],
+     [
+      2274,
+      2612,
+      2716,
+      2994
+     ],
+     [
+      2274,
+      3079,
+      2644,
+      3153
+     ]
+    ],
+    "layout_words": 160
+   },
+   "headline_raw": "Opportunity in sell-off, make staggered\ninvestments in large caps, say experts",
+   "deck_raw": "",
+   "body_raw": "SANDEEP SINGH\nMUMBAI, FEBRUARY 28\n\nfell 19% to anear-eight-month\nlow, and the Nifty fell 186% to\n22,124, market experts assured\ninvestors that the fundamentals\nof theIndianeconomy remained\nstrong. Nilesh Shah, MD, Kotak\nMahindra AMC, said investors\nshould continue to invest in a\ngradual and staggered manner.\n\nThe crash wasthere- [i\nsult of multiple factors, [=\nShah said \u201cA bitofearn- [=\ning disappointment and |\u201c \u2122\nhigh valuations have\nbeen key reasons for foreign in-\nvestors to go out of Indian mar-\nkets. But there are several other\nfactors that pushed them to take\nthat call,\" he said.\nAmong them were US\nPresident Donald Trump's call\nfor investmentsin America, and\nanticipated higher profits after\n\na! tax (PAT) due to possible\n: taxcuts. Also, the fact that\nretums on US high-yield\nB@) bondsare equalto the re-\nturns on Indian equity\nhas led some investors to invest\ninthe US.\n\u201cOnthe domestic front, there\nhas been a slowdown in the\nCONTINUED ONPAGE 2\n\nEXPERTS EXPLAIN\nPAGE 10",
+   "ocr_conf": 85.6441717791411,
+   "ocr_low_conf_share": 0.11042944785276074,
+   "headline": "Opportunity in sell-off, make staggered investments in large caps, say experts",
+   "deck": "",
+   "byline": "SANDEEP SINGH; MUMBAI, FEBRUARY 28",
+   "text": "fell 19% to anear-eight-month low, and the Nifty fell 186% to 22,124, market experts assured investors that the fundamentals of theIndianeconomy remained strong. Nilesh Shah, MD, Kotak Mahindra AMC, said investors should continue to invest in a gradual and staggered manner.\n\nThe crash wasthere- [i sult of multiple factors, [= Shah said \"A bitofearn- [= ing disappointment and \" \u2122 high valuations have been key reasons for foreign investors to go out of Indian markets. But there are several other factors that pushed them to take that call,\" he said. Among them were US President Donald Trump's call for investmentsin America, and anticipated higher profits after\n\na! tax (PAT) due to possible: taxcuts. Also, the fact that retums on US high-yield B@) bondsare equalto the returns on Indian equity has led some investors to invest inthe US. \"Onthe domestic front, there has been a slowdown in the\n\nEXPERTS EXPLAIN",
+   "n_words": 149,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 10.1,
+ "flags": []
+}

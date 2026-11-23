@@ -1,0 +1,606 @@
+{
+ "version": "1.6",
+ "page_id": "2025_04_25_front",
+ "source_file": "2025-04-25_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-04-25_front.png",
+ "date": "2025-04-25",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 12,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 299,
+  "mean_line_conf": 88.80193805050784,
+  "orphan_words": 51,
+  "body_words_total": 1093
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      332,
+      792,
+      3185,
+      1320
+     ]
+    ],
+    "deck_boxes": [
+     [
+      339,
+      699,
+      3189,
+      758
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      2846,
+      677,
+      2993
+     ],
+     [
+      1786,
+      2808,
+      2261,
+      3437
+     ]
+    ],
+    "layout_words": 98
+   },
+   "headline_raw": "\u2018Will track terrorists, pursue\nthem to the ends of the earth\u2019",
+   "deck_raw": "IN MESSAGE TO WORLD, PM VOWS ACTION ON PAHALGAM ATTACK PERPETRATORS, BACKERS",
+   "body_raw": "HIMANSHU HARSH\n& VIKAS PATHAK\nMADHUBANI, NEW DELHI,\nAPRIL 24\n\ners. We will pursue them to the\nends of the earth. India\u2019s spirit will\nnever be broken by terrorism.\u201d\n\u201cTerrorism will not go un-\npunished. Every effort will be\nmade to ensure that justice is\ndone. The entire nation is firm in\nthis resolve. Everyone who be-\nlieves in humanity is with us, I\nthank the people of various ~\ncountries and their leaders who\nhave stood with usin this time...\nThe punishment will be signifi-\ncant and stringent, which these\nterrorists would have never even\nthought about.\u201d",
+   "ocr_conf": 91.92857142857143,
+   "ocr_low_conf_share": 0.02040816326530612,
+   "headline": "'Will track terrorists, pursue them to the ends of the earth'",
+   "deck": "IN MESSAGE TO WORLD, PM VOWS ACTION ON PAHALGAM ATTACK PERPETRATORS, BACKERS",
+   "byline": "HIMANSHU HARSH; & VIKAS PATHAK; MADHUBANI, NEW DELHI,; APRIL 24",
+   "text": "ers. We will pursue them to the ends of the earth. India's spirit will never be broken by terrorism.\" \"Terrorism will not go unpunished. Every effort will be made to ensure that justice is done. The entire nation is firm in this resolve. Everyone who believes in humanity is with us, I thank the people of various ~ countries and their leaders who have stood with usin this time... The punishment will be significant and stringent, which these terrorists would have never even thought about.\"",
+   "n_words": 85,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      1694,
+      2837,
+      1834
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      1860,
+      2578,
+      1930
+     ],
+     [
+      2276,
+      1978,
+      2716,
+      2290
+     ]
+    ],
+    "layout_words": 39
+   },
+   "headline_raw": "official, all visas",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 24\n\nRESPONDING to the Pahalgam\nterrorattack, aday afterit put the\nIndus Waters Treaty (IWT) on\nhold, downgraded diplomatic\nties and shut the Attari-Wagah\nborder, India ratcheted up the\npressure on Pakistan.\nIndia formally informed",
+   "ocr_conf": 94.05128205128206,
+   "ocr_low_conf_share": 0.0,
+   "headline": "official, all visas",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 24",
+   "text": "RESPONDING to the Pahalgam terrorattack, aday afterit put the Indus Waters Treaty (IWT) on hold, downgraded diplomatic ties and shut the Attari-Wagah border, India ratcheted up the pressure on Pakistan. India formally informed",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2857,
+      1694,
+      3198,
+      1834
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      1821,
+      3206,
+      2283
+     ]
+    ],
+    "layout_words": 62
+   },
+   "headline_raw": "cancelled",
+   "deck_raw": "",
+   "body_raw": "Pakistan that New Delhihas de-\ncided the IWT be held in\nabeyance with immediate effect.\nIt also decided tocancel all exist-\ning visas to Paknationals withef-\nfect from April 27 and suspend\nvisa services for them.\nThis move, a day after can-\ncelling visas under a special\nSAARC scheme, will impact Pak\nnationals who come to India for\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.85483870967742,
+   "ocr_low_conf_share": 0.03225806451612903,
+   "headline": "cancelled",
+   "deck": "",
+   "byline": "",
+   "text": "Pakistan that New Delhihas decided the IWT be held in abeyance with immediate effect. It also decided tocancel all existing visas to Paknationals witheffect from April 27 and suspend visa services for them. This move, a day after cancelling visas under a special SAARC scheme, will impact Pak nationals who come to India for",
+   "n_words": 54,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      3254,
+      1763,
+      4144,
+      2248
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3254,
+      2335,
+      3686,
+      2405
+     ],
+     [
+      3251,
+      2453,
+      3694,
+      3121
+     ],
+     [
+      3738,
+      2296,
+      4183,
+      3115
+     ]
+    ],
+    "layout_words": 178
+   },
+   "headline_raw": "Opp backs Govt on\nsteps against terror,\nquestions security\n\u2018lapse\u2019 in Pahalgam",
+   "deck_raw": "",
+   "body_raw": "MANOJC G&LIZMATHEW\nNEW DELHI, APRIL 24\n\nA DAY after India announced a\nraftof measures against Pakistan\ninresponse to the Pahalgam ter-\nror attack, leaders across party\nlines pledged unconditional sup-\nport to the governmentin what-\never actions it may take against\nthe perpetrators of the attack and\ntheir handlers. At the same time,\nseveral Opposition leaders ques-\ntioned the government, saying\nthe attack pointed to \u201clapses\u201d in\nsecurity and intelligence.\nAt an all-party meeting\nThursday, the government\nshared its assessment of the\nemerging situation with leaders\n\nof political parties to forge a\nbroad domestic political consen-\nsus on the matter.\nSeveral Opposition leaders\nflagged the issue of \u201clapses\u201d in\nsecurity and intelligence and\nquestioned the government over\nthe absence of Prime Minister\nNarendra Modi at the meeting.\nUnion Home Minister Amit\nShah, Defence Minister Rajnath\nSingh, Finance Minister Nirmala\nSitharaman and External Affairs\nMinister Jaishankar \u2014all mem-\nbers of the Cabinet Committee\non Security (CCS) which decided\nthe retaliatory steps against\nPakistan \u2014 attended the meet-\ning and briefed the leaders.\nSeveral leaders, including\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.15168539325843,
+   "ocr_low_conf_share": 0.033707865168539325,
+   "headline": "Opp backs Govt on steps against terror, questions security 'lapse' in Pahalgam",
+   "deck": "",
+   "byline": "MANOJC G&LIZMATHEW; NEW DELHI, APRIL 24",
+   "text": "A DAY after India announced a raftof measures against Pakistan inresponse to the Pahalgam terror attack, leaders across party lines pledged unconditional support to the governmentin whatever actions it may take against the perpetrators of the attack and their handlers. At the same time, several Opposition leaders questioned the government, saying the attack pointed to \"lapses\" in security and intelligence. At an all-party meeting Thursday, the government shared its assessment of the emerging situation with leaders\n\nof political parties to forge a broad domestic political consensus on the matter. Several Opposition leaders flagged the issue of \"lapses\" in security and intelligence and questioned the government over the absence of Prime Minister Narendra Modi at the meeting. Union Home Minister Amit Shah, Defence Minister Rajnath Singh, Finance Minister Nirmala Sitharaman and External Affairs Minister Jaishankar - all members of the Cabinet Committee on Security (CCS) which decided the retaliatory steps against Pakistan - attended the meeting and briefed the leaders. Several leaders, including",
+   "n_words": 162,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      2360,
+      3142,
+      2702
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      2730,
+      2577,
+      2800
+     ],
+     [
+      2274,
+      2848,
+      2716,
+      3121
+     ],
+     [
+      2765,
+      2691,
+      3207,
+      3114
+     ]
+    ],
+    "layout_words": 98
+   },
+   "headline_raw": "Pak suspends Shimla\npact, says its airspace is\nshut for Indian carriers",
+   "deck_raw": "",
+   "body_raw": "SHUBHAJIT ROY\nNEW DELHI, APRIL 24\n\nADAY after India announced a\nslew of measures against it, in-\ncluding the suspension of the\nIndus Waters Treaty (IWT), in\nthe wake of the Pahalgam terror\nattack, Pakistan said Thursday it\n\u201cshall exercise the right to hold\n\nall bilateral agreements with\nIndia including but not limited\nto Simla Agreement in\nabeyance\u201d. It also closed its air-\nspace to all Indian airlines.\nThe Simla Agreement was\nsigned inJuly 1972 following the\ndefeat of Pakistan by Indian\narmed forces in the 1971 war\nthat led to the creation of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.62244897959184,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Pak suspends Shimla pact, says its airspace is shut for Indian carriers",
+   "deck": "",
+   "byline": "SHUBHAJIT ROY; NEW DELHI, APRIL 24",
+   "text": "ADAY after India announced a slew of measures against it, including the suspension of the Indus Waters Treaty (IWT), in the wake of the Pahalgam terror attack, Pakistan said Thursday it \"shall exercise the right to hold\n\nall bilateral agreements with India including but not limited to Simla Agreement in abeyance\". It also closed its airspace to all Indian airlines. The Simla Agreement was signed inJuly 1972 following the defeat of Pakistan by Indian armed forces in the 1971 war that led to the creation of",
+   "n_words": 86,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      612,
+      2563,
+      1938,
+      2709
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      774,
+      2725,
+      1776,
+      2757
+     ],
+     [
+      810,
+      2807,
+      1253,
+      3475
+     ],
+     [
+      1341,
+      2860,
+      1699,
+      2894
+     ]
+    ],
+    "layout_words": 107
+   },
+   "headline_raw": "Ab aatankiyon ki bachi kuchi zameen ko bhi mitti\nmein milane ka samay aa gaya hai",
+   "deck_raw": "",
+   "body_raw": "PRIME MINISTER NARENDRA MODI, ON HAVENS OF TERRORISTS\n\nhis government announced a\nslew of measures against Pakistan\nin the wake of the Pahalgam\nkillings, the Prime Minister said,\n\u201cAb aatankiyon ki bachi kuchi za-\nmeen ko bhi mitti mein milane ka\nsamay aa gaya hai (the time has\ncome to raze whatever is left of\nthe haven of terrorists).\u201d\nAnd switching to English\nwhich he rarely does in the mid-\ndle of a public speech, Modi, ad-\ndressing the international com-\nmunity, said, \u201cToday, from thesoil\nof Bihar, Isay tothe whole world:\nIndia will identify, tack and pun-\nish every terrorist and their back-\n\nBUSINESS AS USUAL",
+   "ocr_conf": 94.10280373831776,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Ab aatankiyon ki bachi kuchi zameen ko bhi mitti mein milane ka samay aa gaya hai",
+   "deck": "",
+   "byline": "PRIME MINISTER NARENDRA MODI, ON HAVENS OF TERRORISTS",
+   "text": "his government announced a slew of measures against Pakistan in the wake of the Pahalgam killings, the Prime Minister said, \"Ab aatankiyon ki bachi kuchi zameen ko bhi mitti mein milane ka samay aa gaya hai (the time has come to raze whatever is left of the haven of terrorists).\" And switching to English which he rarely does in the middle of a public speech, Modi, addressing the international community, said, \"Today, from thesoil of Bihar, Isay tothe whole world: India will identify, tack and punish every terrorist and their back-\n\nBUSINESS AS USUAL",
+   "n_words": 94,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      3045,
+      762,
+      3475
+     ]
+    ],
+    "layout_words": 51,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PROMISING RETRIBUTION for\nthe Pahalgam terror attack,\nPrime Minister Narendra Modi\nsent Pakistan a tough message\nThursday when he said \u201cIndia\nwill identify, track and punish\nevery terrorist and their backers\u201d\nand would \u201cpursue them to the\nends of the earth\u201d.\nAddressing a rally in\nMadhubani in Bihar a day after",
+   "ocr_conf": 94.09803921568627,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "PROMISING RETRIBUTION for",
+   "text": "the Pahalgam terror attack, Prime Minister Narendra Modi sent Pakistan a tough message Thursday when he said \"India will identify, track and punish every terrorist and their backers\" and would \"pursue them to the ends of the earth\". Addressing a rally in Madhubani in Bihar a day after",
+   "n_words": 48,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3621,
+      1114,
+      3805
+     ],
+     [
+      319,
+      3842,
+      1205,
+      3980
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      809,
+      3955,
+      1250,
+      5012
+     ]
+    ],
+    "layout_words": 127
+   },
+   "headline_raw": "Managing escalation\nin Delhi: Uncharted\nwaters, a new compass\n{Or Minister Narendra Modi k",
+   "deck_raw": "",
+   "body_raw": "Minister Narendra Modi has\nfaced more than one. But the\ncurrent crisis could be far more\ndemanding.\nTo be sure, Delhi\u2019soverall na-\ntional power has grown in rela-\ntion to Islamabad \u2014 India\u2019s GDP\nat $4 trillion, for example, is 10\ntimes larger than Pakistan\u2019s.\nDelhi's global diplomatic influ-\nence now _ overshadows\nIslamabad\u2019s \u2014 many traditional\nfriends of Pakistan are now neu-\ntral if not tilted towards\nJ India. Pakistan is more\n1 internally divided than\never and its western bor-\nme@| ders with Afghanistan\nrestive.\nYet, there are manyimponder-\nables that Modi must deal with,\nincluding the significant capabil-\nities of the Pakistan Army. But\ngiven the horrific nature ofthe at-\ntack and the outrage that has con-\nvulsed the nation, the PM may\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.73076923076923,
+   "ocr_low_conf_share": 0.08461538461538462,
+   "headline": "Managing escalation in Delhi: Uncharted waters, a new compass {Or Minister Narendra Modi k",
+   "deck": "",
+   "byline": "",
+   "text": "Minister Narendra Modi has faced more than one. But the current crisis could be far more demanding. To be sure, Delhi'soverall national power has grown in relation to Islamabad - India's GDP at $4 trillion, for example, is 10 times larger than Pakistan's. Delhi's global diplomatic influence now _ overshadows Islamabad's - many traditional friends of Pakistan are now neutral if not tilted towards J India. Pakistan is more 1 internally divided than ever and its western borme@ ders with Afghanistan restive. Yet, there are manyimponderables that Modi must deal with, including the significant capabilities of the Pakistan Army. But given the horrific nature ofthe attack and the outrage that has convulsed the nation, the PM may",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1296,
+      3622,
+      2179,
+      3806
+     ],
+     [
+      1297,
+      3834,
+      2149,
+      4037
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1297,
+      4351,
+      2210,
+      4466
+     ],
+     [
+      1783,
+      4550,
+      2227,
+      4815
+     ],
+     [
+      1296,
+      4589,
+      1666,
+      4775
+     ],
+     [
+      1295,
+      4827,
+      1736,
+      5019
+     ],
+     [
+      1785,
+      4828,
+      2225,
+      5012
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "Pahalgam attackers:\nTwo Lashkar men from\nPak, Valley accomplice",
+   "deck_raw": "",
+   "body_raw": "(From left) Sketches of Pakistan nationals and LeT terrorists\nHashim Musa, Ali Bhai and J&K\u2019s Adil Hussain Thoker put\nout by J&K Police. They are wanted for the Pahalgam attack.\n\nleased by Jammu and Kashmir\npolice of the Pahalgam attackers.\nPolice have identified the\nthree as Hashim Musa and Ali\nBhai alias Talha from Pakistan,\nand Valley local Adil Hussain\nThoker.\n\nBASHAARAT MASOOD\n& MAHENDER SINGH\nMANRAL\nSRINAGAR, NEW DELHI,\nAPRIL 24\n\nTWO PAKISTANI nationals who\ninfiltrated in the last year and a\nhalf, and a South Kashmir resi-\ndent who acted as their local\nguide, feature in the sketches re-\n\nAccording to police records,\nMusa and Ali have been active in\nthe Kashmir Valley for almost\ntwo years now. While Musa is\nCONTINUED ONPAGE 2",
+   "ocr_conf": 94.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Pahalgam attackers: Two Lashkar men from Pak, Valley accomplice",
+   "deck": "",
+   "byline": "",
+   "text": "(From left) Sketches of Pakistan nationals and LeT terrorists Hashim Musa, Ali Bhai and J&K's Adil Hussain Thoker put out by J&K Police. They are wanted for the Pahalgam attack.\n\nleased by Jammu and Kashmir police of the Pahalgam attackers. Police have identified the three as Hashim Musa and Ali Bhai alias Talha from Pakistan, and Valley local Adil Hussain Thoker.\n\nBASHAARAT MASOOD & MAHENDER SINGH MANRAL SRINAGAR, NEW DELHI, APRIL 24\n\nTWO PAKISTANI nationals who infiltrated in the last year and a half, and a South Kashmir resident who acted as their local guide, feature in the sketches re-\n\nAccording to police records, Musa and Ali have been active in the Kashmir Valley for almost two years now. While Musa is",
+   "n_words": 122,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4211,
+      676,
+      4290
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      321,
+      4313,
+      622,
+      4341
+     ],
+     [
+      317,
+      4391,
+      761,
+      5011
+     ]
+    ],
+    "layout_words": 74
+   },
+   "headline_raw": "CRajA MOHAN",
+   "deck_raw": "",
+   "body_raw": "NEW DELHI, APRIL 24\n\nIN MANY a Kashmir crisis, a fre-\nquent invocation has been: \u201caar\nyapaar\u2019 \u2014or the decisive\nfinal battle\u2014 between [\u00a9\nthe twonations. Yet, each E\ntime, India and Pakistan >\nhave walked back from [iS\nthe brink. L_\u2014\nAfter the brutal terror attack\nin Pahalgam Tuesday, the old\nghosts hardly buried, new ones\nare conjuring.\nAll indian Prime Ministers, in\nthe last four decades, have been\nfrequently tested by a military\ncrisis with Pakistan. Prime",
+   "ocr_conf": 87.56962025316456,
+   "ocr_low_conf_share": 0.08860759493670886,
+   "headline": "CRajA MOHAN",
+   "deck": "",
+   "byline": "NEW DELHI, APRIL 24",
+   "text": "IN MANY a Kashmir crisis, a frequent invocation has been: \"aar yapaar' - or the decisive final battle - between [\u00a9 the twonations. Yet, each E time, India and Pakistan > have walked back from [iS the brink. L_ - After the brutal terror attack in Pahalgam Tuesday, the old ghosts hardly buried, new ones are conjuring. All indian Prime Ministers, in the last four decades, have been frequently tested by a military crisis with Pakistan. Prime",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      5157,
+      2099,
+      5372
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      5464,
+      501,
+      5496
+     ],
+     [
+      321,
+      5617,
+      684,
+      5723
+     ],
+     [
+      320,
+      5775,
+      761,
+      6166
+     ],
+     [
+      1784,
+      5735,
+      2222,
+      5924
+     ],
+     [
+      1785,
+      6014,
+      2229,
+      6160
+     ]
+    ],
+    "layout_words": 91
+   },
+   "headline_raw": "She held on to father\u2019s body, until her\nchildren\u2019s cries shook her to action",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nSHAJU PHILIP\nTHIRUVANANTHAPURAM,\nAPRIL24\n\nTHE DAUGHTER of N\nRamachandran, who was\namong the 26 victims of the\nPahalgam terror attack, told The\nIndian Express that as she lay\nnumb, holding onto her father's\nbody, it was a panicked cry from\nher children that made her move\naway from the terrorists.\nRamachandran\u2019s body was\n\nArathi, the daughter of\nPahalgam attack victim\nN Ramachandran; (left) MoS\nSuresh Gopi pays tribute to\nRamachandran in Kochi. pn\n\ndistant gunshot when scores of\ntourists were lounginginthearea.\n\u201cThen I heard the same\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.04395604395604,
+   "ocr_low_conf_share": 0.02197802197802198,
+   "headline": "She held on to father's body, until her children's cries shook her to action",
+   "deck": "",
+   "byline": "ANCHOR; SHAJU PHILIP; THIRUVANANTHAPURAM,; APRIL24",
+   "text": "THE DAUGHTER of N Ramachandran, who was among the 26 victims of the Pahalgam terror attack, told The Indian Express that as she lay numb, holding onto her father's body, it was a panicked cry from her children that made her move away from the terrorists. Ramachandran's body was\n\nArathi, the daughter of Pahalgam attack victim N Ramachandran; (left) MoS Suresh Gopi pays tribute to Ramachandran in Kochi. pn\n\ndistant gunshot when scores of tourists were lounginginthearea. \"Then I heard the same",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3177,
+      5582,
+      4048,
+      5798
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3636,
+      5831,
+      4006,
+      5908
+     ],
+     [
+      3735,
+      5943,
+      3992,
+      6005
+     ]
+    ],
+    "layout_words": 11
+   },
+   "headline_raw": "RAS 2021 4 aatra afirenfat ert antesta",
+   "deck_raw": "",
+   "body_raw": "Exclusive Live Batch\nfrom Classroom\n\ntastes ae & far\n_ OR Code Saat",
+   "ocr_conf": 68.84615384615384,
+   "ocr_low_conf_share": 0.38461538461538464,
+   "headline": "RAS 2021 4 aatra afirenfat ert antesta",
+   "deck": "",
+   "byline": "",
+   "text": "Exclusive Live Batch from Classroom\n\ntastes ae & far _ OR Code Saat",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2551,
+      5824,
+      3592,
+      5898
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2344,
+      5955,
+      3057,
+      5995
+     ],
+     [
+      3098,
+      5947,
+      3625,
+      6159
+     ]
+    ],
+    "layout_words": 19
+   },
+   "headline_raw": "29 3IcT A AE ITER (Online & Offline)",
+   "deck_raw": "",
+   "body_raw": "9 Riddhi - Siddhi, Gopalpura Bypass, Jaipur\n\nContact us-\n@ Springboard Academy Online\n[il Springboard Academy Jaipur",
+   "ocr_conf": 88.05882352941177,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "29 3IcT A AE ITER (Online & Offline)",
+   "deck": "",
+   "byline": "",
+   "text": "9 Riddhi - Siddhi, Gopalpura Bypass, Jaipur\n\nContact us- @ Springboard Academy Online [il Springboard Academy Jaipur",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  }
+ ],
+ "seconds": 13.1,
+ "flags": []
+}

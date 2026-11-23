@@ -1,0 +1,786 @@
+{
+ "version": "1.6",
+ "page_id": "2025_09_27_front",
+ "source_file": "2025-09-27_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-09-27_front.png",
+ "date": "2025-09-27",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1291,
+  "n_lines": 420,
+  "mean_line_conf": 90.10165404283826,
+  "orphan_words": 51,
+  "body_words_total": 1665
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      1419,
+      722,
+      1453
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      457,
+      1496,
+      630,
+      1524
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 92.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      1458,
+      3200,
+      1824
+     ]
+    ],
+    "deck_boxes": [
+     [
+      810,
+      1369,
+      2657,
+      1418
+     ]
+    ],
+    "body_boxes": [
+     [
+      809,
+      1859,
+      1243,
+      2119
+     ],
+     [
+      809,
+      2215,
+      1244,
+      2324
+     ],
+     [
+      806,
+      2373,
+      1250,
+      2684
+     ],
+     [
+      1294,
+      2530,
+      1737,
+      2678
+     ],
+     [
+      1786,
+      2531,
+      2225,
+      2678
+     ]
+    ],
+    "layout_words": 97
+   },
+   "headline_raw": "Wangchuk held under NSA, flown from\nLeh to Jodhpur as Govt cracks down",
+   "deck_raw": "ACCUSED OF INCITING MOB WHICH TURNED VIOLENT IN LEH",
+   "body_raw": "Leh, Kargil bodies\nback activist, say\nwill meet Centre\nonly after funerals\n\nDEEPTIMAN TIWARY\n& BASHAARAT MASOOD\nLEH, SRINAGAR, SEPTEMBER 26\n\nCLIMATE ACTIVIST Sonam\nWangchuk, whohasbeen spear-\nheading the movement seeking\nstatehood and protections under\nthe Sixth Schedule for Ladakh,\nwas detained under the strin-\ngent National Security Act(NSA)\nby the police in Leh on Friday. His\n\nwife said he has been taken toa\njail inJodhpur.\nThedevelopment comes days\nafter the Centre accused him of in-\n\nstigating the violent protests that\nbroke out in Leh on Wednesday,\nwhich ended in the death of four\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.76530612244898,
+   "ocr_low_conf_share": 0.061224489795918366,
+   "headline": "Wangchuk held under NSA, flown from Leh to Jodhpur as Govt cracks down",
+   "deck": "ACCUSED OF INCITING MOB WHICH TURNED VIOLENT IN LEH",
+   "byline": "DEEPTIMAN TIWARY; & BASHAARAT MASOOD; LEH, SRINAGAR, SEPTEMBER 26",
+   "text": "Leh, Kargil bodies back activist, say will meet Centre only after funerals\n\nCLIMATE ACTIVIST Sonam Wangchuk, whohasbeen spear-heading the movement seeking statehood and protections under the Sixth Schedule for Ladakh, was detained under the stringent National Security Act(NSA) by the police in Leh on Friday. His\n\nwife said he has been taken toa jail inJodhpur. Thedevelopment comes days after the Centre accused him of instigating the violent protests that broke out in Leh on Wednesday, which ended in the death of four",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      421,
+      1596,
+      722,
+      1694
+     ]
+    ],
+    "layout_words": 12,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Every time you car\u2019 have\n(0\\ \u201ceu engine. We Fett\nfy\u2019 REUTE O ough With",
+   "ocr_conf": 53.333333333333336,
+   "ocr_low_conf_share": 0.4666666666666667,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Every time you car' have (0\\ \"eu engine. We Fett fy' REUTE O ough With",
+   "n_words": 15,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      1920,
+      3193,
+      2266
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      1860,
+      2939,
+      1893
+     ]
+    ],
+    "body_boxes": [
+     [
+      2273,
+      2295,
+      2672,
+      2365
+     ],
+     [
+      2273,
+      2413,
+      2714,
+      2679
+     ],
+     [
+      2763,
+      2256,
+      3204,
+      2679
+     ],
+     [
+      2946,
+      3959,
+      3200,
+      3988
+     ]
+    ],
+    "layout_words": 81
+   },
+   "headline_raw": "50,000 in Ladakh apply\nfor 534 govt jobs, 1 in 6\nof UT\u2019s total population",
+   "deck_raw": "ADVERTISED TWO MONTHS AGO",
+   "body_raw": "VIKAS PATHAK\nNEW DELHI, SEPTEMBER 26\n\nONJULY 16, the Leh Autonomous\nHill Development-Subordinate\nServices Recruitment Board ad-\nvertised for534jobs across var-\nious departments of the\nUnion Territory of Ladakh\u2019s\nadministration.\n\nAccording to Rehmatullah\nButt, Deputy Director, District\nEmployment and Counselling\nDepartment, Leh, about 50,000\napplications were received for\nthese job vacancies. \u201cThe exam\nis likely to be held in the first or\nsecond week of November,\u201d he\ntold The Indian Express.\nLadakh is the country\u2019s\nCONTINUED ON PAGE 2\n\nREPORTS, PAGE 4",
+   "ocr_conf": 92.7560975609756,
+   "ocr_low_conf_share": 0.036585365853658534,
+   "headline": "50,000 in Ladakh apply for 534 govt jobs, 1 in 6 of UT's total population",
+   "deck": "ADVERTISED TWO MONTHS AGO",
+   "byline": "VIKAS PATHAK; NEW DELHI, SEPTEMBER 26",
+   "text": "ONJULY 16, the Leh Autonomous Hill Development-Subordinate Services Recruitment Board advertised for534jobs across various departments of the Union Territory of Ladakh's administration.\n\nAccording to Rehmatullah Butt, Deputy Director, District Employment and Counselling Department, Leh, about 50,000 applications were received for these job vacancies. \"The exam is likely to be held in the first or second week of November,\" he told The Indian Express. Ladakh is the country's\n\nREPORTS, PAGE 4",
+   "n_words": 70,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2179,
+      716,
+      2605
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      2121,
+      628,
+      2153
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      2965,
+      743,
+      3040
+     ],
+     [
+      319,
+      3123,
+      686,
+      3193
+     ],
+     [
+      318,
+      3242,
+      763,
+      3507
+     ],
+     [
+      318,
+      3519,
+      763,
+      4141
+     ]
+    ],
+    "layout_words": 114
+   },
+   "headline_raw": "SKY, Rauf\nfined 30%\nof match fee\neach, Farhan\ngets warning",
+   "deck_raw": "ASIA CUP ROW",
+   "body_raw": "Skipper Suryakumar Yadav,\nPakistan pacer Haris Rauf\n\nVENKATAKRISHNAB\nCHENNAI, SEPTEMBER 26\n\nINDIA CAPTAIN Suryakumar\nYadav and Pakistan pacer Haris\nRauf have been found guilty of\nbreaching the International\nCricket Council's code of conduct\nat the ongoing Asia Cup in the\nUAE.\n\nAfter the hearings that con-\ncluded Friday, match referee\nRichie Richardson has fined both\nplayers 30 per cent of their\nmatch fee, while another\nPakistan player Sahibzada\nFarhan has been let off with a\nwarning for his gun celebration\nafter reaching 50.\nAfter Suryakumar\u2019s remarks\nabout the terror attack in\nPahalgam and dedication of\nIndia\u2019s win over Pakistan to the\nIndian armed forces, the\nPakistan Cricket Board filed a\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.39473684210526,
+   "ocr_low_conf_share": 0.008771929824561403,
+   "headline": "SKY, Rauf fined 30% of match fee each, Farhan gets warning",
+   "deck": "ASIA CUP ROW",
+   "byline": "VENKATAKRISHNAB; CHENNAI, SEPTEMBER 26",
+   "text": "Skipper Suryakumar Yadav, Pakistan pacer Haris Rauf\n\nINDIA CAPTAIN Suryakumar Yadav and Pakistan pacer Haris Rauf have been found guilty of breaching the International Cricket Council's code of conduct at the ongoing Asia Cup in the UAE.\n\nAfter the hearings that concluded Friday, match referee Richie Richardson has fined both players 30 per cent of their match fee, while another Pakistan player Sahibzada Farhan has been let off with a warning for his gun celebration after reaching 50. After Suryakumar's remarks about the terror attack in Pahalgam and dedication of India's win over Pakistan to the Indian armed forces, the Pakistan Cricket Board filed a",
+   "n_words": 105,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3249,
+      2164,
+      4098,
+      2647
+     ],
+     [
+      3251,
+      2677,
+      4171,
+      2808
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      2888,
+      3649,
+      2960
+     ],
+     [
+      3248,
+      3008,
+      3694,
+      3755
+     ],
+     [
+      3249,
+      3760,
+      3690,
+      3913
+     ],
+     [
+      3898,
+      2891,
+      4084,
+      3034
+     ],
+     [
+      3784,
+      3087,
+      4136,
+      3596
+     ],
+     [
+      3738,
+      3682,
+      4179,
+      3906
+     ]
+    ],
+    "layout_words": 199
+   },
+   "headline_raw": "Trump announces\n100% tariff on\nimport of patented\npharma products\nFor now, India may not feel heat, but\nexport of \u2018branded generics\u2019 a concern",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTA MISHRA\nNEW DELHI, SEPTEMBER 26\n\nEXPANDING THE tariff net, US\nPresident Donald Trump has\nsaid his administration will be\nimposing a 100 per cent tariffon\nbranded or patented pharma-\nceutical products, a 50 per cent\ntariff on all kitchen cabinets,\nbathroom vanities and associ-\nated products, anda 25 percent\ntariff on heavy trucks from\nOctober 1.\nThis comes in the wake of\nthe US Department of Comme-\nrce launching a range of investi-\ngations under Section 232 of the\nTrade Expansion Act of 1962,\nwhich gives Trump the power to\nraise tariffs citing \u201cnational se-\ncurity\u201d.\n\n\u201cStarting October 1st, 2025,\nwe will be imposing a 100 per\ncent tariff on any branded or\npatented pharmaceutical prod-\n\nIndia\u2019s\ngeneric\n|\u00ae exports\n\nINDIA ACCOUNTS for\nnearly 6 per cent of total\nUS imports, largely dom-\ninated by generic medi-\ncines. According to\nGlobal Trade Research\nInitiative, India exported\n$9.8 billion worth of\npharmaceutical formula-\ntions to the US in 2024-\n25, accounting for\n398 per cent of its\ntotal pharma exports.\n\nuct, unless a company is build-\ning their pharmaceutical manu-\nfacturing plant in America. \u2018Is\nbuilding\u2019 will be defined as\n\u2018breaking ground\u2019 and/or \u2018under\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.1356783919598,
+   "ocr_low_conf_share": 0.035175879396984924,
+   "headline": "Trump announces 100% tariff on import of patented pharma products For now, India may not feel heat, but export of 'branded generics' a concern",
+   "deck": "",
+   "byline": "RAVI DUTTA MISHRA; NEW DELHI, SEPTEMBER 26",
+   "text": "EXPANDING THE tariff net, US President Donald Trump has said his administration will be imposing a 100 per cent tariffon branded or patented pharmaceutical products, a 50 per cent tariff on all kitchen cabinets, bathroom vanities and associated products, anda 25 percent tariff on heavy trucks from October 1. This comes in the wake of the US Department of Commerce launching a range of investigations under Section 232 of the Trade Expansion Act of 1962, which gives Trump the power to raise tariffs citing \"national security\".\n\n\"Starting October 1st, 2025, we will be imposing a 100 per cent tariff on any branded or patented pharmaceutical prod-\n\nIndia's generic \u00ae exports\n\nINDIA ACCOUNTS for nearly 6 per cent of total US imports, largely dominated by generic medicines. According to Global Trade Research Initiative, India exported $9.8 billion worth of pharmaceutical formula-tions to the US in 2024- 25, accounting for 398 per cent of its total pharma exports.\n\nuct, unless a company is building their pharmaceutical manufacturing plant in America. 'Is building' will be defined as 'breaking ground' and/or 'under",
+   "n_words": 178,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      2910,
+      1729,
+      3231
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      3323,
+      1099,
+      3468
+     ],
+     [
+      807,
+      3520,
+      1248,
+      4149
+     ],
+     [
+      1296,
+      3798,
+      1738,
+      4142
+     ]
+    ],
+    "layout_words": 125
+   },
+   "headline_raw": "Gunshots fired, stones\nhurled as crowd clashes\nwith police in Bareilly",
+   "deck_raw": "",
+   "body_raw": "MANISH SAHU\n& SAMAN HUSAIN\nLUCKNOW, NOIDA,\nSEPTEMBER 26\n\nTENSION MOUNTED in Bareilly\nin Uttar Pradesh Friday after po-\nlice stopped people carrying \u2018I\nLove Muhammad\u2019 placards from\nassembling and used force to\ndisperse them when some inthe\ncrowd protested and allegedly\nhurled stones and raised slogans.\nPolice said some protesters even\nopened fire.\nDIG Ajay Kumar Sahni said\nmost people offered the Friday\nprayers peacefully and dis-\npersed. \u201cLater, a few miscreants\narrived and started raising slo-\ngans, pelting stones and even\n\nopened fire. The entire incident\nhas been videographed and pho-\ntographed for evidence,\u201d he said.\nBareilly Additional SP\nManush said some protesters\nopened fire at a few places and\nthere were clashes at eight-nine\nlocations. He said cartridges and\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.88095238095238,
+   "ocr_low_conf_share": 0.015873015873015872,
+   "headline": "Gunshots fired, stones hurled as crowd clashes with police in Bareilly",
+   "deck": "",
+   "byline": "MANISH SAHU; & SAMAN HUSAIN; LUCKNOW, NOIDA,; SEPTEMBER 26",
+   "text": "TENSION MOUNTED in Bareilly in Uttar Pradesh Friday after police stopped people carrying 'I Love Muhammad' placards from assembling and used force to disperse them when some inthe crowd protested and allegedly hurled stones and raised slogans. Police said some protesters even opened fire. DIG Ajay Kumar Sahni said most people offered the Friday prayers peacefully and dispersed. \"Later, a few miscreants arrived and started raising slogans, pelting stones and even\n\nopened fire. The entire incident has been videographed and photographed for evidence,\" he said. Bareilly Additional SP Manush said some protesters opened fire at a few places and there were clashes at eight-nine locations. He said cartridges and",
+   "n_words": 109,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      3813,
+      2453,
+      3891
+     ],
+     [
+      1808,
+      4019,
+      2451,
+      4147
+     ],
+     [
+      1783,
+      4217,
+      2669,
+      4418
+     ],
+     [
+      1785,
+      4428,
+      2561,
+      4574
+     ],
+     [
+      1785,
+      4547,
+      2047,
+      4629
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1809,
+      4037,
+      2254,
+      4073
+     ],
+     [
+      1785,
+      4631,
+      2200,
+      4659
+     ],
+     [
+      1783,
+      4709,
+      2225,
+      5172
+     ],
+     [
+      2270,
+      4866,
+      2665,
+      4941
+     ],
+     [
+      2272,
+      5025,
+      2712,
+      5172
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "GOODBYE, MIG-21\nEXPLAINED ROAD AHEAD FOR\nIAF\u2019S DWINDLING FIGHTER FLEET\nTo surrender or not: To\nleaders of Maoist party\ndisagree on its future\nNIKHILA HENRY",
+   "deck_raw": "",
+   "body_raw": "EXPLAINED ROAD AHEAD FOR\n\nHYDERABAD, SEPTEMBER 26\n\nTHE MAOIST party is facing an\ninternal conflict, with two\ngroups at odds over whether or\nnot to lay down arms and join\nthe mainstream. According to\nhighly placed sources in the\nTelangana state intelligence\nwing, the two groups are led by\nMallojula Venugopal Rao alias\nSonu and Thippiri Tirupathi alias\nDevuji, both of whom are from\nthe state.\n\nMallojula Venugopal Rao,\nThippiriTirupathi\n\nWhile the former is the ideo-\nlogical head of the party andisin\nfavour of surrendering thelatter,\nCONTINUED ON PAGE2",
+   "ocr_conf": 94.53932584269663,
+   "ocr_low_conf_share": 0.0,
+   "headline": "GOODBYE, MIG-21 EXPLAINED ROAD AHEAD FOR IAF'S DWINDLING FIGHTER FLEET To surrender or not: To leaders of Maoist party disagree on its future NIKHILA HENRY",
+   "deck": "",
+   "byline": "EXPLAINED ROAD AHEAD FOR; HYDERABAD, SEPTEMBER 26",
+   "text": "THE MAOIST party is facing an internal conflict, with two groups at odds over whether or not to lay down arms and join the mainstream. According to highly placed sources in the Telangana state intelligence wing, the two groups are led by Mallojula Venugopal Rao alias Sonu and Thippiri Tirupathi alias Devuji, both of whom are from the state.\n\nMallojula Venugopal Rao, ThippiriTirupathi\n\nWhile the former is the ideological head of the party andisin favour of surrendering thelatter,",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1780,
+      3914,
+      3154,
+      3991
+     ]
+    ],
+    "layout_words": 24,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Air Force personnel perform a drill at the decommissioning ceremony of the Russian-origin\nMiG-21 at the Chandigarh Air Force Station on Friday. Kamleshwar Singh REPORTS, PAG!",
+   "ocr_conf": 92.76923076923077,
+   "ocr_low_conf_share": 0.038461538461538464,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Air Force personnel perform a drill at the decommissioning ceremony of the Russian-origin MiG-21 at the Chandigarh Air Force Station on Friday. Kamleshwar Singh REPORTS, PAG!",
+   "n_words": 26,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2480,
+      4037,
+      3051,
+      4129
+     ]
+    ],
+    "layout_words": 10,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "THE EDIT PAGE MY BROTHER ANDHIS\nMIG-21 By Rekha Krishnan",
+   "ocr_conf": 85.7,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "THE EDIT PAGE MY BROTHER ANDHIS",
+   "text": "MIG-21 By Rekha Krishnan",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      3248,
+      3982,
+      4152,
+      4413
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4512,
+      3647,
+      4582
+     ],
+     [
+      3248,
+      4630,
+      3697,
+      5180
+     ],
+     [
+      3733,
+      4473,
+      4180,
+      5173
+     ]
+    ],
+    "layout_words": 160
+   },
+   "headline_raw": "Reversing own order,\nSC clears JSW Steel\u2019s\ntakeover of Bhushan\nPower and Steel",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, SEPTEMBER 26\n\nTHE SUPREME Court Friday up-\nheld steel major JSW Steel Ltd's\nover Rs 19,000-crore bid to ac-\nquire Bhushan Power and Steel\nLtd (BPSL) through the Corporate\nInsolvency Resolution Process\n(CIRP) route, reversing its May\norder directing the liquidation of\nthe bankrupt company.\nThe bench of Chief Justice of\nIndia B R Gavai and Justices S$ C\nSharma and K Vinod Chandran\nupheld the February 17, 2020,\nNational Company Law\n\nAppellate Tribunal (NCLAT) or-\nder, which approved JSW\u2019s res-\nolution plan.\nJSW had acquired BPSL in\nMarch 2021 under the Insolvency\nand Bankruptcy Code (IBC).\nOn May 2this year,a bench of\nJustices Bela Trivedi and S C\nSharma set aside the NCLAT or-\nder, saying the Resolution Plan\napproved by the CoC(Committee\nof Creditors) was \u201cnot in con-\nformity with the provisions...of\nthe IBC\u201d. Exercising suo motu\npowers under Article 142, the\ncourt also directed the National\nCompany Law Tribunal (NCLT) to\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.30434782608695,
+   "ocr_low_conf_share": 0.043478260869565216,
+   "headline": "Reversing own order, SC clears JSW Steel's takeover of Bhushan Power and Steel",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, SEPTEMBER 26",
+   "text": "THE SUPREME Court Friday upheld steel major JSW Steel Ltd's over Rs 19,000-crore bid to acquire Bhushan Power and Steel Ltd (BPSL) through the Corporate Insolvency Resolution Process (CIRP) route, reversing its May order directing the liquidation of the bankrupt company. The bench of Chief Justice of India B R Gavai and Justices S$ C Sharma and K Vinod Chandran upheld the February 17, 2020, National Company Law\n\nAppellate Tribunal (NCLAT) order, which approved JSW's resolution plan. JSW had acquired BPSL in March 2021 under the Insolvency and Bankruptcy Code (IBC). On May 2this year,a bench of Justices Bela Trivedi and S C Sharma set aside the NCLAT order, saying the Resolution Plan approved by the CoC(Committee of Creditors) was \"not in conformity with the provisions...of the IBC\". Exercising suo motu powers under Article 142, the court also directed the National Company Law Tribunal (NCLT) to",
+   "n_words": 146,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      4215,
+      1700,
+      4310
+     ],
+     [
+      317,
+      4331,
+      1646,
+      4479
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      319,
+      4509,
+      655,
+      4579
+     ],
+     [
+      317,
+      4628,
+      762,
+      5178
+     ],
+     [
+      807,
+      4984,
+      1247,
+      5178
+     ],
+     [
+      1294,
+      4471,
+      1739,
+      5171
+     ]
+    ],
+    "layout_words": 205
+   },
+   "headline_raw": "PM sends %10,000 each to 75 lakh\nwomen under Bihar job scheme",
+   "deck_raw": "",
+   "body_raw": "HIMANSHU HARSH\nPATNA, SEPTEMBER 26\n\nPRIME MINISTER Narendra Modi\non Friday launched Bihar\u2019s\nMukhyamantri Mahila Rojgar\nYojana via video conferencing,\ntransferring the first instalment of\nRs 10,000 each into the bank ac-\ncounts of 75 lakh beneficiaries of\nthe schemeto promote women's\nself-employment and livelihood.\n\u201cIn the auspicious time of\nNavratri, | have had the opportu-\nnity to be part of the happiness\nofthe women in Bihar. So far, 75\nlakh sisters have joined this\n\nscheme. Rs 10,000 each hasbeen\nsent into the bank accounts of all\nthese sisters at once,\u201d Modi said.\nWomen can apply to be ben-\neficiaries of the scheme if they\n\nare permanent residents of\nBihar, between the ages of 18\nand 60, and are outside the in-\ncome tax bracket. Akey require-\nment is membership in a self-\nhelp group (SHG), such as those\nassociated with the JEEViKA net-\nwork. Only one woman per\nhousehold can be a beneficiary.\nUnder the scheme, benefici-\naries will be provided Rs 10,000\nas initial support to start an en-\nterprise. Depending on the suc-\ncessof their initiative, additional\naid of up to Rs 2 lakh will be\ngiven. A total of Rs 7,500 crore\nwas transferred to the bank\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.05853658536586,
+   "ocr_low_conf_share": 0.04390243902439024,
+   "headline": "PM sends %10,000 each to 75 lakh women under Bihar job scheme",
+   "deck": "",
+   "byline": "HIMANSHU HARSH; PATNA, SEPTEMBER 26",
+   "text": "PRIME MINISTER Narendra Modi on Friday launched Bihar's Mukhyamantri Mahila Rojgar Yojana via video conferencing, transferring the first instalment of Rs 10,000 each into the bank accounts of 75 lakh beneficiaries of the schemeto promote women's self-employment and livelihood. \"In the auspicious time of Navratri, have had the opportunity to be part of the happiness ofthe women in Bihar. So far, 75 lakh sisters have joined this\n\nscheme. Rs 10,000 each hasbeen sent into the bank accounts of all these sisters at once,\" Modi said. Women can apply to be beneficiaries of the scheme if they\n\nare permanent residents of Bihar, between the ages of 18 and 60, and are outside the income tax bracket. Akey requirement is membership in a self-help group (SHG), such as those associated with the JEEViKA network. Only one woman per household can be a beneficiary. Under the scheme, beneficiaries will be provided Rs 10,000 as initial support to start an enterprise. Depending on the successof their initiative, additional aid of up to Rs 2 lakh will be given. A total of Rs 7,500 crore was transferred to the bank",
+   "n_words": 185,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      2759,
+      4221,
+      3175,
+      4278
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      4879,
+      3011,
+      4911
+     ],
+     [
+      2761,
+      4965,
+      3132,
+      5136
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "EXPRESS NETWORK",
+   "deck_raw": "",
+   "body_raw": "RAJASTHAN\n\nSUPREME COURT'S\nCCTV POSERTO\nRAJASTHAN GOVT\nPAGE3",
+   "ocr_conf": 58.375,
+   "ocr_low_conf_share": 0.75,
+   "headline": "EXPRESS NETWORK",
+   "deck": "",
+   "byline": "RAJASTHAN; SUPREME COURT'S; CCTV POSERTO; RAJASTHAN GOVT",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5304,
+      4135,
+      5471
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      316,
+      5499,
+      676,
+      5648
+     ],
+     [
+      316,
+      5697,
+      758,
+      6166
+     ],
+     [
+      807,
+      5460,
+      1247,
+      5652
+     ],
+     [
+      807,
+      5461,
+      1735,
+      5771
+     ],
+     [
+      807,
+      5817,
+      1735,
+      5851
+     ],
+     [
+      806,
+      5895,
+      1735,
+      6166
+     ],
+     [
+      2759,
+      5462,
+      3202,
+      6161
+     ],
+     [
+      3244,
+      5462,
+      3689,
+      6168
+     ],
+     [
+      3735,
+      5463,
+      4177,
+      6162
+     ]
+    ],
+    "layout_words": 499
+   },
+   "headline_raw": "India-US deal could involve a grand bargain on oil: New Jersey Governor",
+   "deck_raw": "",
+   "body_raw": "GEORGE MATHEW,\nHITESHVYAS\n& SANDEEP SINGH\nMUMBAI, SEPTEMBER 26\n\nDISAGREEING WITH\u2019 US\nPresident Donald Trump's move\nto impose high tariffs on allies,\nNew Jersey Governor Phil\nMurphy \u2014 a top leader of the ri-\nval Democratic Party \u2014 said here\nWednesday that when it comes\nto the India-US bilateral trade\ndeal, there will be a \u201clanding\nplace\u201d on the 50% tariffs but\nthere could be a \u201cgrand bargain\u201d\nincluding on oil.\n\nThe 25% penalty tariff was\nslapped on India last month for\nimporting Russian oil,\nIncidentally, Union\nCommerce Minister Piyush\n\nThe 25% penalty tariff was Asked about the ongoing\nslapped on Indialast month for trade talks, Murphy told The\nimporting Russian oil, Indian Express in an exclusive in-\nIncidentally, Union _ terview: \u2018Thevibrations around\nCommerce Minister Piyush suggest there's a landing place\nGoyal, who wasin the sooner rather than\nUS recently for trade 4 later...the vibrations\ntalks, said Wedn- Ne are that there's going\n\nergy security goals ggeetescrporrg = which means that it\n\nelement\u201d of US in- Pam Murpny _ tive thanthe current.\nvolvement in the GOVERNOR OF But it's probably a\nyears to come. For the NEW JERSEY grand bargain...that\npastfewyears,theUS has oil as part of it.\nhasbeen the fifth largest supplier Murphy was in Mumbai with\nof crude oil to India and thesec- his wife Tammy Murphy as part\nond-largest supplier of LNG. of their six-day four-city \u201ceco-\n\nnomic mission\u201d to India that in-\ncluded visits to New Delhi, Kochi,\nBangalore and Mumbai. A for-\nmer US Ambassador to Germany\n(2009-13), Murphy has worked\nin Goldman Sachs where he\nheaded the firm\u2019s Asia unit.\nSupporting US President\nDonald Trump's measures with\nrespect to Russia, he cautioned\nthat imposing heavy tariffs on\nAmerica\u2019s allies \u201cis not the right\nway to get there.\u201d\nAsked if India was being sin-\ngled out given that China also\nimports Russian oil, he said:\n\u201cChina needs to be taken to\ntask...China cannot come out of\n\nthis and cannot get away with\nwhat they're doing.\u201d\nOn Russia, he echoed\nTrump's objective of ensuring\naccountability. \u201cRussia deserves\nto be taken to task, and they need\nto continue to be taken to task.\nBut I'm not of the opinion that\nputting big tariffs on your alliesis\nthe way to do that,\u201d Murphy said.\nMurphy also made it clear\nthat he does not \u201cagree with the\npolicy\u201d on H-1B visas, signalling\nconcern over its impact on stu-\ndents and immigrant communi-\nties. He will complete eight years\nas Governor in January of New\nJersey, a state where the Indian\n\ndiaspora isa force to reckon with.\nTouching upon immigration\nconcerns, particularly the H-1B\nvisa issue that directly affects\nNew Jersey\u2019s large Indian com-\nmunity, Murphy struck a more\noptimistic note. \u201cIt (H-1B Visa is-\nsue) started out like, holy cow,\nFriday, $100,000 a year. It's now\ndown to $16,667 year. The peo-\nple we have spoken to say it\nwon't get worse than that. It\ncould get better,\u201d the Governor\nsaid. \"I agree with the principle\nto give every American kid the\nshot at everything that could be\nfulfilled, but this is not the way\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.61153846153846,
+   "ocr_low_conf_share": 0.046153846153846156,
+   "headline": "India-US deal could involve a grand bargain on oil: New Jersey Governor",
+   "deck": "",
+   "byline": "GEORGE MATHEW,; HITESHVYAS; & SANDEEP SINGH; MUMBAI, SEPTEMBER 26; DISAGREEING WITH' US",
+   "text": "President Donald Trump's move to impose high tariffs on allies, New Jersey Governor Phil Murphy - a top leader of the rival Democratic Party - said here Wednesday that when it comes to the India-US bilateral trade deal, there will be a \"landing place\" on the 50% tariffs but there could be a \"grand bargain\" including on oil.\n\nThe 25% penalty tariff was slapped on India last month for importing Russian oil, Incidentally, Union Commerce Minister Piyush\n\nThe 25% penalty tariff was Asked about the ongoing slapped on Indialast month for trade talks, Murphy told The importing Russian oil, Indian Express in an exclusive in-Incidentally, Union _ terview: 'Thevibrations around Commerce Minister Piyush suggest there's a landing place Goyal, who wasin the sooner rather than US recently for trade 4 later...the vibrations talks, said Wedn- Ne are that there's going\n\nergy security goals ggeetescrporrg = which means that it\n\nelement\" of US in- Pam Murpny _ tive thanthe current. volvement in the GOVERNOR OF But it's probably a years to come. For the NEW JERSEY grand bargain...that pastfewyears,theUS has oil as part of it. hasbeen the fifth largest supplier Murphy was in Mumbai with of crude oil to India and thesec- his wife Tammy Murphy as part ond-largest supplier of LNG. of their six-day four-city \"economic mission\" to India that included visits to New Delhi, Kochi, Bangalore and Mumbai. A former US Ambassador to Germany (2009-13), Murphy has worked in Goldman Sachs where he headed the firm's Asia unit. Supporting US President Donald Trump's measures with respect to Russia, he cautioned that imposing heavy tariffs on America's allies \"is not the right way to get there.\" Asked if India was being singled out given that China also imports Russian oil, he said: \"China needs to be taken to task...China cannot come out of\n\nthis and cannot get away with what they're doing.\" On Russia, he echoed Trump's objective of ensuring accountability. \"Russia deserves to be taken to task, and they need to continue to be taken to task. But I'm not of the opinion that putting big tariffs on your alliesis the way to do that,\" Murphy said. Murphy also made it clear that he does not \"agree with the policy\" on H-1B visas, signalling concern over its impact on students and immigrant communities. He will complete eight years as Governor in January of New Jersey, a state where the Indian\n\ndiaspora isa force to reckon with. Touching upon immigration concerns, particularly the H-1B visa issue that directly affects New Jersey's large Indian community, Murphy struck a more optimistic note. \"It (H-1B Visa issue) started out like, holy cow, Friday, $100,000 a year. It's now down to $16,667 year. The people we have spoken to say it won't get worse than that. It could get better,\" the Governor said. \"I agree with the principle to give every American kid the shot at everything that could be fulfilled, but this is not the way",
+   "n_words": 493,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 17.8,
+ "flags": []
+}

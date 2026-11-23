@@ -1,0 +1,845 @@
+{
+ "version": "1.6",
+ "page_id": "2025_02_01_front",
+ "source_file": "2025-02-01_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-02-01_front.png",
+ "date": "2025-02-01",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 35.0,
+  "masthead_y": 623,
+  "n_lines": 495,
+  "mean_line_conf": 87.65932495379863,
+  "orphan_words": 77,
+  "body_words_total": 1970
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      369,
+      744,
+      723,
+      779
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 62.666666666666664,
+   "ocr_low_conf_share": 0.3333333333333333,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      461,
+      823,
+      627,
+      852
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      789,
+      4108,
+      1307
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2767,
+      698,
+      3755,
+      747
+     ]
+    ],
+    "body_boxes": [
+     [
+      2764,
+      1361,
+      3195,
+      1701
+     ]
+    ],
+    "layout_words": 14
+   },
+   "headline_raw": "Imperative to wipe out\ntrust deficit, onus on\ngovt agencies: Survey",
+   "deck_raw": "BUDGET PRESENTATION TODAY",
+   "body_raw": "\u2018Business as\nusual\u2019 approach\ncarries a high risk\nof stagnation in\ngrowth, says CEA",
+   "ocr_conf": 92.78571428571429,
+   "ocr_low_conf_share": 0.0,
+   "headline": "Imperative to wipe out trust deficit, onus on govt agencies: Survey",
+   "deck": "BUDGET PRESENTATION TODAY",
+   "byline": "",
+   "text": "'Business as usual' approach carries a high risk of stagnation in growth, says CEA",
+   "n_words": 14,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      325,
+      1526,
+      759,
+      1985
+     ]
+    ],
+    "deck_boxes": [
+     [
+      326,
+      1449,
+      708,
+      1481
+     ]
+    ],
+    "body_boxes": [
+     [
+      322,
+      2135,
+      766,
+      2519
+     ]
+    ],
+    "layout_words": 53
+   },
+   "headline_raw": "Hate crime,\nbook SHO:\nDelhi court on\nforced singing\nof anthem",
+   "deck_raw": "2020 DELHI RIOTS",
+   "body_raw": "ACTING ON a complaint which\naccused police of assaulting five\nmen and forcing them tosing the\nNational Anthem during the\n2020 Northeast Dethi riots, a\nDelhi court has called the police\naction a \u201chate crime\u201d and or-\ndered an FIR against the SHO of\nthe local police station.\nAvideo of the incident shows",
+   "ocr_conf": 90.18867924528301,
+   "ocr_low_conf_share": 0.03773584905660377,
+   "headline": "Hate crime, book SHO: Delhi court on forced singing of anthem",
+   "deck": "2020 DELHI RIOTS",
+   "byline": "",
+   "text": "ACTING ON a complaint which accused police of assaulting five men and forcing them tosing the National Anthem during the 2020 Northeast Dethi riots, a Delhi court has called the police action a \"hate crime\" and ordered an FIR against the SHO of the local police station. Avideo of the incident shows",
+   "n_words": 52,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      2765,
+      1860,
+      3109,
+      1911
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      1941,
+      3207,
+      2922
+     ]
+    ],
+    "layout_words": 120
+   },
+   "headline_raw": "NEW DELHI, JANUARY 31",
+   "deck_raw": "",
+   "body_raw": "ASKING GOVERNMENT agen-\ncies to set the agenda for build-\ning trust, Chief Economic\nAdvisor V Anantha Nageswaran\nsaid for a Viksit Bharat by 2047,\nit ts imperative to wipe out the\n\u201ctrust deficit\u201d in the country.\nIn his seven-page preface to\nthe Economic Survey 2024-25,\ntheCEA, whoisthe force behind\nthe Ministry of Finance's\nEconomic Division, chose\n\u201cderegulation\u201d as his central\ntheme because \u201cgetting out of\nthe way\u201d isnot easy for societies\nlike India's.\n\u201cBut, \u2018get out of the way\u2019 and\ntrust people, we must, for we\nhave no other choice,\u201d the CEA\nsaid. Oncethe trustdeficit is ad-\ndressed, it is a good bet the\nindian public will overcome the\nchallenges and turn them into\nopportunities, he said.\nNageswaran recommended",
+   "ocr_conf": 90.8,
+   "ocr_low_conf_share": 0.03333333333333333,
+   "headline": "NEW DELHI, JANUARY 31",
+   "deck": "",
+   "byline": "",
+   "text": "ASKING GOVERNMENT agencies to set the agenda for building trust, Chief Economic Advisor V Anantha Nageswaran said for a Viksit Bharat by 2047, it ts imperative to wipe out the \"trust deficit\" in the country. In his seven-page preface to the Economic Survey 2024-25, theCEA, whoisthe force behind the Ministry of Finance's Economic Division, chose \"deregulation\" as his central theme because \"getting out of the way\" isnot easy for societies like India's. \"But, 'get out of the way' and trust people, we must, for we have no other choice,\" the CEA said. Oncethe trustdeficit is addressed, it is a good bet the indian public will overcome the challenges and turn them into opportunities, he said. Nageswaran recommended",
+   "n_words": 117,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      814,
+      2077,
+      1599,
+      2159
+     ],
+     [
+      810,
+      2078,
+      2656,
+      2421
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1018,
+      2012,
+      2510,
+      2045
+     ],
+     [
+      813,
+      2448,
+      1728,
+      2578
+     ]
+    ],
+    "body_boxes": [
+     [
+      810,
+      2649,
+      1160,
+      2758
+     ],
+     [
+      810,
+      2808,
+      1254,
+      3318
+     ],
+     [
+      1299,
+      2610,
+      1742,
+      3042
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "Govt worked to lift\nGovt worked to lift | Sonia calls President\neconomy out of policy \u2018poor thing\u2019, PM says\nparalysis: President \u2014 insulting; Rashtrapat:",
+   "deck_raw": "BUDGET SESSION STARTS WITH ADDRESS TO JOINT SITTING OF HOUSES\n\u2018Saturation approach to ensure no one\nis left behind in Viksit Bharat journey\u2019",
+   "body_raw": "LIZMATHEW\n& VIKAS PATHAK\nNEW DELHI, JANUARY 31\n\nPRESIDENT DROUPADI Murmu\nsaid Friday that the government\nhas \u201cworked with strong deter-\nmination to lifttheeconomy out\nof astateof policy paralysis\" \u2014a\nterm used by the BJP-led NDA\ngovernment to refer to 10 years\nof UPArule \u2014 giving \u201chighest pri-\nority\u201d to \u201cthe poor, middleclass,\nthe youth, women and farmers\u201d\nin the implementation of deci-\nsions and policies.\nIn her address to a joint sit-\n\nting of Parliament at the start of\nthe Budget Session \u2014 the\nPresident's address outlines the\ngovemment's policy agendaand\nstand on issues \u2014 Murmu said,\n\u201cMy govemment isinfusing new\nenergy through unprecedented\nachievements in this Amnit Kaal\nof India\u2019s development journey.\nThe pace of work has tripled in\nthis third term. Today, the nation",
+   "ocr_conf": 84.36220472440945,
+   "ocr_low_conf_share": 0.10236220472440945,
+   "headline": "Govt worked to lift Govt worked to lift Sonia calls President economy out of policy 'poor thing', PM says paralysis: President - insulting; Rashtrapat:",
+   "deck": "BUDGET SESSION STARTS WITH ADDRESS TO JOINT SITTING OF HOUSES 'Saturation approach to ensure no one is left behind in Viksit Bharat journey'",
+   "byline": "LIZMATHEW; & VIKAS PATHAK; NEW DELHI, JANUARY 31",
+   "text": "PRESIDENT DROUPADI Murmu said Friday that the government has \"worked with strong determination to lifttheeconomy out of astateof policy paralysis\" - a term used by the BJP-led NDA government to refer to 10 years of UPArule - giving \"highest priority\" to \"the poor, middleclass, the youth, women and farmers\" in the implementation of decisions and policies. In her address to a joint sitting of Parliament at the start of the Budget Session - the President's address outlines the govemment's policy agendaand stand on issues - Murmu said, \"My govemment isinfusing new energy through unprecedented achievements in this Amnit Kaal of India's development journey. The pace of work has tripled in this third term. Today, the nation",
+   "n_words": 116,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3253,
+      2000,
+      4178,
+      2316
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2534,
+      3693,
+      3234
+     ],
+     [
+      3900,
+      2414,
+      4148,
+      2550
+     ],
+     [
+      3772,
+      2613,
+      4135,
+      3045
+     ],
+     [
+      3740,
+      3122,
+      4125,
+      3200
+     ]
+    ],
+    "layout_words": 136
+   },
+   "headline_raw": "India to grow 6.3-6.8%\nin FY26, wants focus\non domestic levers",
+   "deck_raw": "",
+   "body_raw": "THE ECONOMIC survey pro-\njected a growth rate of 6.3-6.8\npercent for 2025-26 onthe back\nof a \u201cstrong external account,\ncalibrated fiscal consolidation\nand stable private consump-\ntion\", and said domestic growth\nlevers will be more important\nthan external ones in the com-\ningyears for the Indianeconomy.\nPrescribing \u201cderegulation\nand reforms at the grassroots\nlevel\u201d, it said for structural re-\nforms to succeed, there should\nbe reliance on internal engines\nfocusing on acentral element \u2014\n\u201cthe economic freedom of\nCONTINUEDONPAGE 2\n\nForgrowth,\ntime to look\n}@ within\n\nFOR VIKSIT Bharat, India\nhas t grow 8% for at least\n10 years Right now, the\nSurveyis of the view given\nwhat'shappeningto global\ntrade growth, India doesn't\nhave many prospects to\ntake aleap. Instead, it\nwants India tofocus ondo-\nmesic levers, of which\nderegulation isabg part.\n\nRELATED REPORTS\nPAGES9,13",
+   "ocr_conf": 86.29411764705883,
+   "ocr_low_conf_share": 0.08088235294117647,
+   "headline": "India to grow 6.3-6.8% in FY26, wants focus on domestic levers",
+   "deck": "",
+   "byline": "",
+   "text": "THE ECONOMIC survey projected a growth rate of 6.3-6.8 percent for 2025-26 onthe back of a \"strong external account, calibrated fiscal consolidation and stable private consumption\", and said domestic growth levers will be more important than external ones in the comingyears for the Indianeconomy. Prescribing \"deregulation and reforms at the grassroots level\", it said for structural reforms to succeed, there should be reliance on internal engines focusing on acentral element - \"the economic freedom of CONTINUEDONPAGE 2\n\nForgrowth, time to look }@ within\n\nFOR VIKSIT Bharat, India has t grow 8% for at least 10 years Right now, the Surveyis of the view given what'shappeningto global trade growth, India doesn't have many prospects to take aleap. Instead, it wants India tofocus ondomesic levers, of which deregulation isabg part.\n\nRELATED REPORTS PAGES9,13",
+   "n_words": 131,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      1788,
+      2320,
+      2682,
+      2586
+     ],
+     [
+      1788,
+      2574,
+      2226,
+      2639
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3029,
+      2988,
+      3202,
+      3047
+     ],
+     [
+      1297,
+      3043,
+      1739,
+      3100
+     ],
+     [
+      2273,
+      3145,
+      2715,
+      3204
+     ]
+    ],
+    "body_boxes": [
+     [
+      1296,
+      3086,
+      1739,
+      3311
+     ],
+     [
+      1786,
+      2730,
+      2229,
+      3161
+     ],
+     [
+      2272,
+      2572,
+      2715,
+      3135
+     ],
+     [
+      2273,
+      3206,
+      2715,
+      3311
+     ],
+     [
+      2762,
+      3048,
+      3206,
+      3233
+     ]
+    ],
+    "layout_words": 169
+   },
+   "headline_raw": "insulting; Rashtrapati\nBhavan: In poor taste\nEXPRESS NEWS SERVICE",
+   "deck_raw": "activity, and\nis witnessing major decisions\nand molec Seino inmnenworitc\nRe ee See ee eee VVEEEIOL\nnaming Sonia, it said the com-",
+   "body_raw": "and policies beinginipemented\nat an extraordinary speed, with\nthe highest priority given tothe\npoor, middle class, the youth,\nwomen and farmers.\u201d\nCONTINUEDONPAGE 2\n\nCONGRESS PARLIAMENTARY\nParty Chairperson Sonia Gandhi\nfound herself in a political soup\nFriday for calling President\nDroupadi Murmu a\u201cpoor thing\u201d\nand saying she appeared to be\n\u201cvery tired\" by the end of her\ncustomary address to the joint\nsitting of Parliament at the start\nof the Budget Session.\nBoth the Rashtrapati Bhavan\n\nsulted thetribalsand the poor.\nInteracting with the media\nafter the President's address\nended, Sonia said: \u201cPoor lady, the\nPresident was getting very tired\nby the end. She could hardly\nspeak, poor thing.\u201d\nLeader of the Opposition\nRahul Gandhi, who flanked\nSonia, along with sister and Lok\nSabha MP Priyanka Gandhi\nVadra, chipped in, calling the\nspeech \u201cboring\u201d.\nThe President's Office issued\na4 fara amt im rartnmcna Ahern\n\nments were in \"poor taste, unfor-\ntunate and entirely avoidable\u201d,\nCONTINUEDON PAGE 2\n\nembracing risk-based regula-\ntions, The Economic Survey un-\nderscored that deregulation is\nmore essential for growth of\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.14772727272727,
+   "ocr_low_conf_share": 0.10227272727272728,
+   "headline": "insulting; Rashtrapati Bhavan: In poor taste EXPRESS NEWS SERVICE",
+   "deck": "activity, and is witnessing major decisions and molec Seino inmnenworitc Re ee See ee eee VVEEEIOL naming Sonia, it said the com-",
+   "byline": "CONGRESS PARLIAMENTARY",
+   "text": "and policies beinginipemented at an extraordinary speed, with the highest priority given tothe poor, middle class, the youth, women and farmers.\" CONTINUEDONPAGE 2\n\nParty Chairperson Sonia Gandhi found herself in a political soup Friday for calling President Droupadi Murmu a\"poor thing\" and saying she appeared to be \"very tired\" by the end of her customary address to the joint sitting of Parliament at the start of the Budget Session. Both the Rashtrapati Bhavan\n\nsulted thetribalsand the poor. Interacting with the media after the President's address ended, Sonia said: \"Poor lady, the President was getting very tired by the end. She could hardly speak, poor thing.\" Leader of the Opposition Rahul Gandhi, who flanked Sonia, along with sister and Lok Sabha MP Priyanka Gandhi Vadra, chipped in, calling the speech \"boring\". The President's Office issued a4 fara amt im rartnmcna Ahern\n\nments were in \"poor taste, unfortunate and entirely avoidable\", CONTINUEDON PAGE 2\n\nembracing risk-based regula-tions, The Economic Survey underscored that deregulation is more essential for growth of",
+   "n_words": 167,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      2527,
+      763,
+      2588
+     ]
+    ],
+    "deck_boxes": [
+     [
+      322,
+      2592,
+      763,
+      2649
+     ]
+    ],
+    "body_boxes": [
+     [
+      319,
+      2650,
+      766,
+      4260
+     ],
+     [
+      322,
+      4363,
+      564,
+      4395
+     ]
+    ],
+    "layout_words": 194
+   },
+   "headline_raw": "police personnel assaulting the\nfive men including cammlainant",
+   "deck_raw": "ee eg ne ee gg pe eee eee\nMohd Wasim, and forcing them",
+   "body_raw": "to sing the National Anthem and\nVande Mataram.\nIn his January 18 order,\nJudicial Magistrate First Class\nUdbhav Kumar Jain of\nKarkardooma Court directed po-\nlice to file an FIR under IPC sec-\ntions 295A (deliberate and mali-\ncious acts intended to outrage\nreligious feelings of any class by\nsulting its religon) 323(volun-\ntarily causing hurt), 342 (wrong-\nfulconfinement)and 506(crim-\ninal intimidation) against the\nofficer who held theSHO postat\nJyoti Nagar police station in\nFebruary-March 2020.\n\u201cThe current SHO is directed\nto depute a responsible officer,\nnot below the rank of Inspector,\ntoconduct investigation in the\npresent matter, and role of ather\nunknown police officials invowed\nin the commission of alleged of-\nfencescan be ascertained during\ninvestigation,\u201d the order said.\nPolice have to submit a com-\npliance report by February 11.\nSenior officers said Friday the AR\nhas not been registered yet and\nlegaloptions are being explored.\nOn the SHO's role, the order\nsaid, \u201cClearly, the SHOPS fyoti\nNagar MrTomar (compkte name\nnot provided) and other un-\nknown police officials engaged\nthemselvesin ha crimes against\nthe complainant/victim and they\ncannot be protected under the\ngarb of sanction as alleged\nCONTINUED ONPAGE 2\n\nTHE WORLD",
+   "ocr_conf": 88.31958762886597,
+   "ocr_low_conf_share": 0.07731958762886598,
+   "headline": "police personnel assaulting the five men including cammlainant",
+   "deck": "Mohd Wasim, and forcing them",
+   "byline": "THE WORLD",
+   "text": "to sing the National Anthem and Vande Mataram. In his January 18 order, Judicial Magistrate First Class Udbhav Kumar Jain of Karkardooma Court directed police to file an FIR under IPC sections 295A (deliberate and malicious acts intended to outrage religious feelings of any class by sulting its religon) 323(voluntarily causing hurt), 342 (wrong-fulconfinement)and 506(criminal intimidation) against the officer who held theSHO postat Jyoti Nagar police station in February-March 2020. \"The current SHO is directed to depute a responsible officer, not below the rank of Inspector, toconduct investigation in the present matter, and role of ather unknown police officials invowed in the commission of alleged offencescan be ascertained during investigation,\" the order said. Police have to submit a compliance report by February 11. Senior officers said Friday the AR has not been registered yet and legaloptions are being explored. On the SHO's role, the order said, \"Clearly, the SHOPS fyoti Nagar MrTomar (compkte name not provided) and other unknown police officials engaged themselvesin ha crimes against the complainant/victim and they cannot be protected under the garb of sanction as alleged",
+   "n_words": 180,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      1786,
+      3161,
+      2228,
+      3219
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1787,
+      3226,
+      2228,
+      3283
+     ]
+    ],
+    "body_boxes": [
+     [
+      1786,
+      3284,
+      2226,
+      3318
+     ]
+    ],
+    "layout_words": 5
+   },
+   "headline_raw": "and the BJP led byPrime Minister\nNaren es Adned: clarmmad Cnnia'c",
+   "deck_raw": "SCC E RIES IVRAN, SRL LIE wie >\nremarks. Modi said the",
+   "body_raw": "Congress's \u201croyal family\u201d had in-",
+   "ocr_conf": 85.4,
+   "ocr_low_conf_share": 0.0,
+   "headline": "and the BJP led byPrime Minister Naren es Adned: clarmmad Cnnia'c",
+   "deck": "SCC E RIES IVRAN, SRL LIE wie > remarks. Modi said the",
+   "byline": "",
+   "text": "Congress's \"royal family\" had in-",
+   "n_words": 5,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      2276,
+      3386,
+      4138,
+      3598
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2277,
+      3641,
+      2666,
+      3902
+     ],
+     [
+      2756,
+      3641,
+      3206,
+      4309
+     ],
+     [
+      3251,
+      4196,
+      3692,
+      4310
+     ],
+     [
+      3734,
+      3642,
+      4182,
+      4303
+     ]
+    ],
+    "layout_words": 196
+   },
+   "headline_raw": "Not equipped to deal with judge\u2019s misbehaviour,\nall options we have are soft options: Justice Roy",
+   "deck_raw": "",
+   "body_raw": "SC judge retires,\nsays he \u2018politely\ndeclined\u2019 offers\nfrom the Govt\n\nsaid that all the options before\nthetopcourt including transfer-\nring a judge or initiating an in-\nhouse inquiry are \u201csoft options\nand not very effective.\u201d\n\u201cLam notsure(what the insti-\ntutional response must be). |\nthink all our options are soft op-\ntions and not very effective. We\nare not equipped to deal with\nsuch situations. You see, the\nConstitution has several safe-\nguards for judges, which are re-\nquired for us to do our job, free\nfrom any external pressures.\nThese safeguards are required but\ntheyarealsocominginthewayof\n\ninstitutional responses,\u201d said.\nJustice Roy, who retired after\nsix yearsin the apexcourt Friday,\n\nspoke to TheIndian Express on ju-\ndicial discipline and the institu-\ntional response to the incident\nwhere Allahabad High Court\njudge Shekhar Yadav made re-\nmarks targeting Muslims at a\nVishwa Hindu Parishad event.\n\u201cBut | mustadd that thisisjust\none ortwo judges in over 1,000\njudges of constitutional courts,\nPerhaps we made a mistake in\nchoosing a person but it\u2019s not as\nif everything is bad,\" hesaid. The\nIndian Express had reported on\nJanuary9 that the ChiefJusticeof\nIndia Sanjiv Khanna had initiated\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.50510204081633,
+   "ocr_low_conf_share": 0.04591836734693878,
+   "headline": "Not equipped to deal with judge's misbehaviour, all options we have are soft options: Justice Roy",
+   "deck": "",
+   "byline": "",
+   "text": "SC judge retires, says he 'politely declined' offers from the Govt\n\nsaid that all the options before thetopcourt including transferring a judge or initiating an inhouse inquiry are \"soft options and not very effective.\" \"Lam notsure(what the institutional response must be). think all our options are soft options and not very effective. We are not equipped to deal with such situations. You see, the Constitution has several safeguards for judges, which are required for us to do our job, free from any external pressures. These safeguards are required but theyarealsocominginthewayof\n\ninstitutional responses,\" said. Justice Roy, who retired after six yearsin the apexcourt Friday,\n\nspoke to TheIndian Express on judicial discipline and the institutional response to the incident where Allahabad High Court judge Shekhar Yadav made remarks targeting Muslims at a Vishwa Hindu Parishad event. \"But mustadd that thisisjust one ortwo judges in over 1,000 judges of constitutional courts, Perhaps we made a mistake in choosing a person but it's not as if everything is bad,\" hesaid. The Indian Express had reported on January9 that the ChiefJusticeof India Sanjiv Khanna had initiated",
+   "n_words": 181,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2274,
+      4037,
+      2714,
+      4156
+     ]
+    ],
+    "deck_boxes": [
+     [
+      2274,
+      3995,
+      2658,
+      4023
+     ]
+    ],
+    "body_boxes": [
+     [
+      2272,
+      4156,
+      2714,
+      4309
+     ]
+    ],
+    "layout_words": 20
+   },
+   "headline_raw": "NEW DELHI, JANUARY 31\nACKNOWLEDGING THAT theju-",
+   "deck_raw": "APURVAVISHWANATH",
+   "body_raw": "diciary is \u201cnot equipped\u201d to deal\nwith instances of alleged judicial\nmisbehaviour, Justice Hrishikesh\nRoy, judge of the Supreme Court,",
+   "ocr_conf": 75.6,
+   "ocr_low_conf_share": 0.25,
+   "headline": "NEW DELHI, JANUARY 31 ACKNOWLEDGING THAT theju-",
+   "deck": "APURVAVISHWANATH",
+   "byline": "",
+   "text": "diciary is \"not equipped\" to deal with instances of alleged judicial misbehaviour, Justice Hrishikesh Roy, judge of the Supreme Court,",
+   "n_words": 20,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      4374,
+      4154,
+      4468
+     ],
+     [
+      2760,
+      4491,
+      4117,
+      4645
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      4670,
+      3108,
+      4779
+     ],
+     [
+      2760,
+      4828,
+      3202,
+      5132
+     ],
+     [
+      3491,
+      4709,
+      3684,
+      4817
+     ],
+     [
+      3246,
+      4947,
+      3689,
+      5139
+     ],
+     [
+      3736,
+      4632,
+      4178,
+      5132
+     ]
+    ],
+    "layout_words": 134
+   },
+   "headline_raw": "Canada allows Dalla, India\u2019s most\nwanted, to remove ankle tracker",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI, JANUARY 31\n\nAMONTH after he was released\non bail bya Canadian courtin a\nfirearms case, Canada-based\nArshdeep Singh Gill alias Arsh\nDalla of Khalistan Tiger Force\n(KTF), designated a terrorist by\nIndia, has been allowed to re-\nmove his ankle bracelet tracker\n\nArsh Dalla,\ndesignateda\nterroristin\n\nput on him asa bail condition,\nThe indian Express has learnt.\nAccording to sources, Indian\ninvestigation agencies, which\napproached the Royal Canadian\n\nMounted Police todiscuss Dalla's\narrest, have found that his ankle\nbracelet put on himafter he was\ngranted bail in December, was\nremoved after he deposited a\nfine of 30,000 Canadian dollars.\nIt comes at a time when ties\nbetween the twocountries, frosty\nsince September2023 when then\nCanadian Prime Minister Justin\nTrudeau raised allegations about\nIndian government's \u201cpotential\u201d\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.20149253731343,
+   "ocr_low_conf_share": 0.04477611940298507,
+   "headline": "Canada allows Dalla, India's most wanted, to remove ankle tracker",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI, JANUARY 31",
+   "text": "AMONTH after he was released on bail bya Canadian courtin a firearms case, Canada-based Arshdeep Singh Gill alias Arsh Dalla of Khalistan Tiger Force (KTF), designated a terrorist by India, has been allowed to remove his ankle bracelet tracker\n\nArsh Dalla, designateda terroristin\n\nput on him asa bail condition, The indian Express has learnt. According to sources, Indian investigation agencies, which approached the Royal Canadian\n\nMounted Police todiscuss Dalla's arrest, have found that his ankle bracelet put on himafter he was granted bail in December, was removed after he deposited a fine of 30,000 Canadian dollars. It comes at a time when ties between the twocountries, frosty since September2023 when then Canadian Prime Minister Justin Trudeau raised allegations about Indian government's \"potential\"",
+   "n_words": 122,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      4411,
+      2206,
+      4679
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      4905,
+      764,
+      4958
+     ]
+    ],
+    "body_boxes": [
+     [
+      324,
+      4973,
+      727,
+      5092
+     ],
+     [
+      805,
+      4826,
+      1253,
+      5137
+     ],
+     [
+      1294,
+      4669,
+      1740,
+      5138
+     ],
+     [
+      1784,
+      4670,
+      2229,
+      5131
+     ]
+    ],
+    "layout_words": 167
+   },
+   "headline_raw": "List of dead soon, verifying reports\nof second incident: Kumbh DIG",
+   "deck_raw": "SERIES OF FAILURES \u2014",
+   "body_raw": "HAMAS TO RELEASE\n3 HOSTAGES TODAY\nPAGE 12\n\nTWO DAYS after a pre-dawn\nstampede near the Sangam left\n30 people dead and 60 injured,\npolice said Friday that they have\ndecided to inquire into reports of\nanother incident that day in the\nJhusi area of the Maha Kumbh in\nPrayagraj, nearly 2 km from the\n\nSite of the stampede.\nVaibhav Krishna, DIG\nKumbh, said, \u201cFootage of the in-\ncident will be thoroughly exam-\nined, including recordings from\ncameras installed at the site.\u201d\nThe police decision follows\nreportsofa panic situation in the\nJhusi area soon after the stam-\npede at the Sangam Nose, the\nstrip of land at theconfluenceof\nthe Ganga, Yamuna and the\n\nmythical Saraswati, Police had\nearlier denied claims by some\nshopkeepersofastampede-like\nsituation and loss oflivesin Jhusi.\nAsked about the count of\nstampede victims, DIG Krishna\nmaintained that 30 people had\ndied. He said a list of the dead\nwas likely to be released\nSaturday. The UP government\nhas announced an ex gratiaof\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.55952380952381,
+   "ocr_low_conf_share": 0.023809523809523808,
+   "headline": "List of dead soon, verifying reports of second incident: Kumbh DIG",
+   "deck": "SERIES OF FAILURES -",
+   "byline": "HAMAS TO RELEASE; 3 HOSTAGES TODAY",
+   "text": "TWO DAYS after a pre-dawn stampede near the Sangam left 30 people dead and 60 injured, police said Friday that they have decided to inquire into reports of another incident that day in the Jhusi area of the Maha Kumbh in Prayagraj, nearly 2 km from the\n\nSite of the stampede. Vaibhav Krishna, DIG Kumbh, said, \"Footage of the incident will be thoroughly exam-ined, including recordings from cameras installed at the site.\" The police decision follows reportsofa panic situation in the Jhusi area soon after the stampede at the Sangam Nose, the strip of land at theconfluenceof the Ganga, Yamuna and the\n\nmythical Saraswati, Police had earlier denied claims by some shopkeepersofastampede-like situation and loss oflivesin Jhusi. Asked about the count of stampede victims, DIG Krishna maintained that 30 people had died. He said a list of the dead was likely to be released Saturday. The UP government has announced an ex gratiaof",
+   "n_words": 153,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      2272,
+      4908,
+      2528,
+      4967
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2276,
+      4974,
+      2673,
+      5097
+     ]
+    ],
+    "layout_words": 7
+   },
+   "headline_raw": "TIKILLED, 15",
+   "deck_raw": "",
+   "body_raw": "INJURED IN PUNJAB\nROAD ACCIDENT\nPAGES 3,6",
+   "ocr_conf": 67.57142857142857,
+   "ocr_low_conf_share": 0.2857142857142857,
+   "headline": "TIKILLED, 15",
+   "deck": "",
+   "byline": "INJURED IN PUNJAB; ROAD ACCIDENT; PAGES 3,6",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 16,
+   "layout": {
+    "headline_boxes": [
+     [
+      568,
+      5253,
+      4119,
+      5435
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      5420,
+      1250,
+      5534
+     ],
+     [
+      807,
+      5578,
+      1252,
+      6162
+     ],
+     [
+      1293,
+      5421,
+      1740,
+      6167
+     ],
+     [
+      2757,
+      5422,
+      3202,
+      6169
+     ],
+     [
+      3246,
+      5422,
+      3690,
+      6169
+     ],
+     [
+      3735,
+      5422,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 475
+   },
+   "headline_raw": "In Kejriwal citadel, buzz of unease: \u2018Not all promises fulfilled\u2019",
+   "deck_raw": "",
+   "body_raw": "situation is worsening so how\ncan we be sure they will fulfill\ntheir promises\u201d.\n\nINTHElastthreeAssemblyelec-\ntions spanning nearty 12 years,\nthe majority of votersin the New\nDelhi constituency spoke in one\nvoice, echoing the name of\nArvind Kejriwal \u2014 and that\nshowed in the results: 53.46% in\n2013, 64.14% in 2015 and 61.1% in\n2020. This time, as voting!ooms\non February 5, those voices don't\nhave the same echo.\nOver the past week, The Indian\nExpress crisscrossed this high-\nprofile block of 1.09 lakh voters in\nthe heart of Delhi, where slum\n\nclusters jostle with upscale\nhotspots, and found that while\nmany are willing to give the AAP\nfounder another chance, there is\nalso asense of disillusonment.\n\u201cHe is giving us thesame old\npromises. Heishimself living in\navilla, and only visits us from\nelection to election. When it\nrains here, the roads become wa-\nterlogged,\u201d says Pushpa Verma,\nwhostaysin theSangam Mess]JJ\ncluster near Mandi House.\n\u201cWe were all staunch sup-\nporters of Kejriwalji,\u201d says Jaikesh\nMishra, the autodriver But today,\nmost of the WhatsApp groupson\nhis phone have a BJP tilt. \u2018There\nare no parking spaces forus... the\n\nmiddle manasksusRs 1,000 fora\npermit sometimes,\u201d Mishra adds\nwhile listing his grievances.\n\u201cKejriwal has helped poor\npeople alot, butnowevery other\nparty s following his policy. They\nare all promising the same free-\nbies,\u201d says Chattar Singh (50),\nwho clicks photos for a living at\nIndia Gate, amid a busy after-\nnoon, \u201cThe BJP has also promised\nfree electricity and water this\ntime, and they improve the in-\nfrastructure too. People want\nchange sometimes,\u201d he says.\nPointing to arrangements\nmade at Kartavya Path for\nRepublic Day, Singh, who lives in\naJjcluster nearby, adds, \u2018The BJP\n\nhas done allthis. Theycan change\nthe state of Delhi's roads aswell.\u201d\nIn 2015 and 2020, Kejriwal\npushed the BJP to a distant sec-\nond, with Nupur Sharma man-\naging just 28.73% of votes and\nSunil Kumar Yadav 32.75% five\nyears later Meanwhile, the AAP\nconsolidated its hold across the\nNational Capital with close to\n15%of Delhi's total budgetdedi-\ncated to subsidies, including free\nbus ndes, free electricity and wa-\nter. The AAP government also\nspent close to 40% of its budget\nonhealthand education, among\nthe highest for any state And yet,\nt'snotanopenand shutcase this\ntime in Kejnwal'sfort.\n\nOne reason, of course, is that\namong the 22 other candidates\nin the fray here are the sons of\ntwo former Delhi CMs: BJP's\nParvesh Verma, son of Sahib\nSingh Verma, and Congress's\nSandeep Dikshit, son of Sheila\nDikshit. In fact, it was here in\n2013 that Kejriwal himself de-\nthroned Sheila Dikshit, ending\nher 15-year rule.\n\u201cAll the parties are offering\nthe same things... Evenif 15% vote\nfor the Congress in New Delhi,\nBJP could win,\u201d says Mishra, the\nauto driver, adding that \u201cif\nCongress was not there, Kejriwal\nwould have woneasily\u201d.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 86.94117647058823,
+   "ocr_low_conf_share": 0.09033613445378151,
+   "headline": "In Kejriwal citadel, buzz of unease: 'Not all promises fulfilled'",
+   "deck": "",
+   "byline": "",
+   "text": "situation is worsening so how can we be sure they will fulfill their promises\".\n\nINTHElastthreeAssemblyelections spanning nearty 12 years, the majority of votersin the New Delhi constituency spoke in one voice, echoing the name of Arvind Kejriwal - and that showed in the results: 53.46% in 2013, 64.14% in 2015 and 61.1% in 2020. This time, as voting!ooms on February 5, those voices don't have the same echo. Over the past week, The Indian Express crisscrossed this high-profile block of 1.09 lakh voters in the heart of Delhi, where slum\n\nclusters jostle with upscale hotspots, and found that while many are willing to give the AAP founder another chance, there is also asense of disillusonment. \"He is giving us thesame old promises. Heishimself living in avilla, and only visits us from election to election. When it rains here, the roads become waterlogged,\" says Pushpa Verma, whostaysin theSangam Mess]JJ cluster near Mandi House. \"We were all staunch supporters of Kejriwalji,\" says Jaikesh Mishra, the autodriver But today, most of the WhatsApp groupson his phone have a BJP tilt. 'There are no parking spaces forus... the\n\nmiddle manasksusRs 1,000 fora permit sometimes,\" Mishra adds while listing his grievances. \"Kejriwal has helped poor people alot, butnowevery other party s following his policy. They are all promising the same free-bies,\" says Chattar Singh (50), who clicks photos for a living at India Gate, amid a busy afternoon, \"The BJP has also promised free electricity and water this time, and they improve the infrastructure too. People want change sometimes,\" he says. Pointing to arrangements made at Kartavya Path for Republic Day, Singh, who lives in aJjcluster nearby, adds, 'The BJP\n\nhas done allthis. Theycan change the state of Delhi's roads aswell.\" In 2015 and 2020, Kejriwal pushed the BJP to a distant second, with Nupur Sharma managing just 28.73% of votes and Sunil Kumar Yadav 32.75% five years later Meanwhile, the AAP consolidated its hold across the National Capital with close to 15%of Delhi's total budgetdedicated to subsidies, including free bus ndes, free electricity and water. The AAP government also spent close to 40% of its budget onhealthand education, among the highest for any state And yet, t'snotanopenand shutcase this time in Kejnwal'sfort.\n\nOne reason, of course, is that among the 22 other candidates in the fray here are the sons of two former Delhi CMs: BJP's Parvesh Verma, son of Sahib Singh Verma, and Congress's Sandeep Dikshit, son of Sheila Dikshit. In fact, it was here in 2013 that Kejriwal himself dethroned Sheila Dikshit, ending her 15-year rule. \"All the parties are offering the same things... Evenif 15% vote for the Congress in New Delhi, BJP could win,\" says Mishra, the auto driver, adding that \"if Congress was not there, Kejriwal would have woneasily\".",
+   "n_words": 460,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 17,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5577,
+      761,
+      6166
+     ]
+    ],
+    "layout_words": 72,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "PUSHPA SHARMA (44), a\nhousewife from a slum cluster,\nsays she \u201cwas a staunch sup-\nporter\u201d of Arvind Kejriwal \u201cbut\nhe is giving us the same old\npromises now\".\nJAIKESH MISHRA (41) says\nsome promises that Kejriwal\nmade to auto drivers like him\n\u201chave not been fulfilled\u201d and\n\u201csome have changed their opin-\nions (about the ex-CM)\u201d.\nSUSHIL ARORA (42), a tour op-\nerator, saySAAP\u2019s offers are \u201cvery\ntempting\u201d but \u201cDelhi's financial",
+   "ocr_conf": 89.40277777777777,
+   "ocr_low_conf_share": 0.041666666666666664,
+   "headline": "",
+   "deck": "",
+   "byline": "PUSHPA SHARMA (44), a",
+   "text": "housewife from a slum cluster, says she \"was a staunch supporter\" of Arvind Kejriwal \"but he is giving us the same old promises now\". JAIKESH MISHRA (41) says some promises that Kejriwal made to auto drivers like him \"have not been fulfilled\" and \"some have changed their opinions (about the ex-CM)\". SUSHIL ARORA (42), a tour operator, saySAAP's offers are \"very tempting\" but \"Delhi's financial",
+   "n_words": 65,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 19.3,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,766 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_20_front",
+ "source_file": "2025-11-20_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-20_front.png",
+ "date": "2025-11-20",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 5,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 842,
+  "n_lines": 552,
+  "mean_line_conf": 89.87228010264695,
+  "orphan_words": 72,
+  "body_words_total": 2217
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3583,
+      858,
+      4180,
+      888
+     ]
+    ],
+    "layout_words": 5,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "ocr_conf": 93.0,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "POSTAL REGN. NO. JAIPUR CITY/001/2024-26",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      355,
+      936,
+      730,
+      1096
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      1148,
+      739,
+      1343
+     ],
+     [
+      320,
+      1386,
+      741,
+      1655
+     ],
+     [
+      321,
+      1705,
+      746,
+      1854
+     ],
+     [
+      321,
+      1904,
+      746,
+      2098
+     ],
+     [
+      318,
+      2144,
+      681,
+      2212
+     ],
+     [
+      321,
+      2264,
+      756,
+      2332
+     ],
+     [
+      321,
+      2372,
+      687,
+      2410
+     ],
+     [
+      365,
+      2567,
+      717,
+      2660
+     ]
+    ],
+    "layout_words": 113
+   },
+   "headline_raw": "Happening\ntoday",
+   "deck_raw": "",
+   "body_raw": "@CONSTITUTION BENCH of\ntheSC willpronounce its opin-\nionin the reference sought by\nthe President ontimelines for\ngranting assent to Bills.\n\n@ RSS CHIEF Mohan Bhagwat\nwill arrive in Manipur capital\nImphal for a three-day visit, his\nfirst since conflict gripped the\nstate in May 2023. His visit is\npart of the Sangh\u2019s centenary\ncelebrations.\n\n@RBI GOVERNOR Sanjay Mal-\nhotra will speak at Delhi School\nof Economics\u2019 Public Policy\nConference.\n\n@FINANCE MINISTER Nirmala\nSitharaman will hold pre-\nBudget consultations with rep-\nresentatives fromthe hospital-\nity sector and labour unions.\n\ne@GOVT WILL release core\nsector data for October\n\n@56th EDITION of Intemational\nFilm Festival of Indiastarts inGoa\n\nTRACKTHESE AND MORE ON\n\nBusiness as Usual\nByEPUNNY",
+   "ocr_conf": 91.33628318584071,
+   "ocr_low_conf_share": 0.02654867256637168,
+   "headline": "Happening today",
+   "deck": "",
+   "byline": "@CONSTITUTION BENCH of",
+   "text": "theSC willpronounce its opinionin the reference sought by the President ontimelines for granting assent to Bills.\n\n@ RSS CHIEF Mohan Bhagwat will arrive in Manipur capital Imphal for a three-day visit, his first since conflict gripped the state in May 2023. His visit is part of the Sangh's centenary celebrations.\n\n@RBI GOVERNOR Sanjay Malhotra will speak at Delhi School of Economics' Public Policy Conference.\n\n@FINANCE MINISTER Nirmala Sitharaman will hold pre-Budget consultations with representatives fromthe hospitality sector and labour unions.\n\ne@GOVT WILL release core sector data for October\n\n@56th EDITION of Intemational Film Festival of Indiastarts inGoa\n\nTRACKTHESE AND MORE ON\n\nBusiness as Usual ByEPUNNY",
+   "n_words": 105,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      812,
+      1006,
+      3199,
+      1345
+     ],
+     [
+      809,
+      1413,
+      1224,
+      1674
+     ]
+    ],
+    "deck_boxes": [
+     [
+      813,
+      937,
+      2713,
+      986
+     ]
+    ],
+    "body_boxes": [
+     [
+      807,
+      1742,
+      1110,
+      1818
+     ],
+     [
+      807,
+      1867,
+      1248,
+      2411
+     ],
+     [
+      1295,
+      2185,
+      1738,
+      2418
+     ],
+     [
+      1784,
+      2186,
+      2228,
+      2416
+     ],
+     [
+      2271,
+      2186,
+      2716,
+      2412
+     ],
+     [
+      2763,
+      1704,
+      3062,
+      1779
+     ],
+     [
+      2760,
+      1829,
+      3207,
+      2413
+     ],
+     [
+      2782,
+      2959,
+      3184,
+      3213
+     ]
+    ],
+    "layout_words": 250
+   },
+   "headline_raw": "Stage set for Nitish to take charge\nas Bihar CM today \u2014 his 10th time\nAround 20 likely\nto beswornin\ntoday; PM and\nShah to attend",
+   "deck_raw": "NITISH STAKES CLAIM TO FORM GOVT; SAMRAT, SINHA LIKELY DEPUTIES AGAIN",
+   "body_raw": "Santosh Singh\nPatna, November 19\n\nSTAKING CLAIM Wednesday\nto form the next governmentin\nBihar where the NDA returned\nto power at the head of a land-\nslide in the Assembly elections,\nJD (U) leader Nitish Kumar will\nbe sworn in as Chief Minister\nfor a record tenth time at\nPatna\u2019s historic Gandhi Maidan\nThursday.\nPrime Minister Narendra\nModi, Union Minister Amit\nShah, BJP national president\nJP Nadda and other senior\n\nleaders of the NDA are ex-\npected to attend the swearing-\nin ceremony.\nOn Wednesday, Nitish was\nunanimously elected leader of\nthe NDA ata meeting of its 202\n\nlegislators inthe Central Hall of\nthe Assembly. He was felici-\ntated with a huge garlandat the\nmeeting where Union Minister\nand BJP Bihar in-charge Dhar-\nmendra Pradhan, LJP (RV)\n\nchief Chirag Paswan, RLM\nchief Upendra Kushwaha and\nHAM (S) patron Jitan Ram\nManjhi were also present.\nThe JD(U)had elected Nitish\n\u00bbCONTINUED ON PAGE2\n\nSantosh Singh\nPatna, November 19\n\nTHE MUKHYAMATRI Mahila\nRojgar Yojana that saw Rs\n10,000 being deposited as first\ninstalment in the accounts of\n1.5 crore women in Bihar dur-\ning the polls is beingseen as one\nof the reasons for the NDA\u2019s\nelection sweep. A large part of\nthe credit, say NDA leaders,\ngoes to Assam Chief Minister\nHimanta Biswa Sarma.\nSarma, who will face As-\nsembly elections in Assam\nsoon, told The Indian Express\n\u00bbCONTINUED ON PAGE2\n\n\u201cBefore Asia Cup, I deleted\nall the apps onmy phone...\nthat keeps me calm\u201d\nSURYAKUMAR YADAV\nINDIA'S T201 CAPTAIN\nPAGES 16, I7",
+   "ocr_conf": 89.75298804780877,
+   "ocr_low_conf_share": 0.043824701195219126,
+   "headline": "Stage set for Nitish to take charge as Bihar CM today - his 10th time Around 20 likely to beswornin today; PM and Shah to attend",
+   "deck": "NITISH STAKES CLAIM TO FORM GOVT; SAMRAT, SINHA LIKELY DEPUTIES AGAIN",
+   "byline": "",
+   "text": "Santosh Singh Patna, November 19\n\nSTAKING CLAIM Wednesday to form the next governmentin Bihar where the NDA returned to power at the head of a landslide in the Assembly elections, JD (U) leader Nitish Kumar will be sworn in as Chief Minister for a record tenth time at Patna's historic Gandhi Maidan Thursday. Prime Minister Narendra Modi, Union Minister Amit Shah, BJP national president JP Nadda and other senior\n\nleaders of the NDA are expected to attend the swearingin ceremony. On Wednesday, Nitish was unanimously elected leader of the NDA ata meeting of its 202\n\nlegislators inthe Central Hall of the Assembly. He was felicitated with a huge garlandat the meeting where Union Minister and BJP Bihar in-charge Dharmendra Pradhan, LJP (RV)\n\nchief Chirag Paswan, RLM chief Upendra Kushwaha and HAM (S) patron Jitan Ram Manjhi were also present. The JD(U)had elected Nitish\n\nSantosh Singh Patna, November 19\n\nTHE MUKHYAMATRI Mahila Rojgar Yojana that saw Rs 10,000 being deposited as first instalment in the accounts of 1.5 crore women in Bihar during the polls is beingseen as one of the reasons for the NDA's election sweep. A large part of the credit, say NDA leaders, goes to Assam Chief Minister Himanta Biswa Sarma. Sarma, who will face Assembly elections in Assam soon, told The Indian Express\n\n\"Before Asia Cup, I deleted all the apps onmy phone... that keeps me calm\" SURYAKUMAR YADAV INDIA'S T201 CAPTAIN PAGES 16, I7",
+   "n_words": 238,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3227,
+      938,
+      4169,
+      979
+     ]
+    ],
+    "layout_words": 7,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "~10 YRS AFTER LYNCHING IN U.P\u2019S BISADA",
+   "ocr_conf": 79.71428571428571,
+   "ocr_low_conf_share": 0.14285714285714285,
+   "headline": "",
+   "deck": "",
+   "byline": "~10 YRS AFTER LYNCHING IN U.P'S BISADA",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3252,
+      1886,
+      4173,
+      2332
+     ],
+     [
+      3250,
+      2420,
+      3691,
+      2623
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3249,
+      2661,
+      3681,
+      2737
+     ],
+     [
+      3245,
+      2786,
+      3691,
+      3854
+     ],
+     [
+      3739,
+      2386,
+      4180,
+      2852
+     ],
+     [
+      3736,
+      2864,
+      4182,
+      3848
+     ]
+    ],
+    "layout_words": 327
+   },
+   "headline_raw": "Looking for Akhlaq:\nHouse deserted,\nneighbours reticent,\naccused \u2018move on\u2019\nGovt proposal to\nwithdraw charges\nasurprise: Lawyer",
+   "deck_raw": "",
+   "body_raw": "Neetika Jha\nBisada (Noida), November 19\n\nVOICES DROP toa whisper and\ncrowds thin out at the mention\nof Mohammed Akhlaq in Bi-\nsada, the village in Gautam\nBuddh Nagar district of Uttar\nPradesh where helived and was\nlynched over alleged cow\nslaughter in September 2015.\nThe UP government has moved\nto withdraw charges against all\nthe 18 accused in the case now,\nmorethan 10 years later, but in\nBisada, Akhlaq has been long\nforgotten.\nIn the narrow lanes leading\naway from astatue of Maha-\nrana Pratap, located at the en-\ntrance of Bisada, questions\nabout the case are met with an\nuneasy exchange of glances.\nFew respond when asked to\npoint out the houses of the ac-\ncused who, in the eight years\nthat they have been outon bail,\nhave put the case behind and\n\u201cmoved on\u201d to jobs, new lives.\nWhile 19 people in all were\n\nchargesheeted, one of them,\nRavi Sisodiya, died in judicial\ncustody.\nAbout 500 metres from the\nentrance of Bisada lies Akhlaq\u2019s\ndeserted house, acorroded lock\nhanging on its cobalt blue iron\ngate, the paint peeling off the\nbrick walls. A week after the\nincident, the family left Bisada,\nand now different members\nlive in undisclosed locations for\n\n\u201csecurity reasons\u201d.\nWhile one of Akhlaq\u2019s sons\nis in government service, his\ndaughter and one of the wit-\nnesses is married, saysthe fam-\nily\u2019s lawyer Yusuf Saifi. Danish,\nAkhlaq\u2019s son who was severely\ninjured in the September 2015\nincident and spent a longtime\nin hospital, is also married now.\nSaifi, who speaks on behalf\nof the family, which doesn\u2019t\nwant to talk to the media, says\nthe government\u2019s proposal to\nwithdraw the case against the\naccused at this stage, when the\nevidence is being submitted, is\nsurprising. \u201cThe statement of\nthe daughter was being re-\ncorded before thecourt... Dan-\nish is yet to record his state-\nment,\u201d he adds. Of the other\ntwowitnesses, Akhlaq\u2019s mother\nhas died while his wife, on\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 92.02140672782875,
+   "ocr_low_conf_share": 0.03058103975535168,
+   "headline": "Looking for Akhlaq: House deserted, neighbours reticent, accused 'move on' Govt proposal to withdraw charges asurprise: Lawyer",
+   "deck": "",
+   "byline": "",
+   "text": "Neetika Jha Bisada (Noida), November 19\n\nVOICES DROP toa whisper and crowds thin out at the mention of Mohammed Akhlaq in Bisada, the village in Gautam Buddh Nagar district of Uttar Pradesh where helived and was lynched over alleged cow slaughter in September 2015. The UP government has moved to withdraw charges against all the 18 accused in the case now, morethan 10 years later, but in Bisada, Akhlaq has been long forgotten. In the narrow lanes leading away from astatue of Maharana Pratap, located at the entrance of Bisada, questions about the case are met with an uneasy exchange of glances. Few respond when asked to point out the houses of the accused who, in the eight years that they have been outon bail, have put the case behind and \"moved on\" to jobs, new lives. While 19 people in all were\n\nchargesheeted, one of them, Ravi Sisodiya, died in judicial custody. About 500 metres from the entrance of Bisada lies Akhlaq's deserted house, acorroded lock hanging on its cobalt blue iron gate, the paint peeling off the brick walls. A week after the incident, the family left Bisada, and now different members live in undisclosed locations for\n\n\"security reasons\". While one of Akhlaq's sons is in government service, his daughter and one of the witnesses is married, saysthe family's lawyer Yusuf Saifi. Danish, Akhlaq's son who was severely injured in the September 2015 incident and spent a longtime in hospital, is also married now. Saifi, who speaks on behalf of the family, which doesn't want to talk to the media, says the government's proposal to withdraw the case against the accused at this stage, when the evidence is being submitted, is surprising. \"The statement of the daughter was being recorded before thecourt... Danish is yet to record his statement,\" he adds. Of the other twowitnesses, Akhlaq's mother has died while his wife, on",
+   "n_words": 315,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      873,
+      2642,
+      2648,
+      2900
+     ],
+     [
+      875,
+      2929,
+      1205,
+      3074
+     ],
+     [
+      1303,
+      2966,
+      2220,
+      3098
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1459,
+      2570,
+      2067,
+      2614
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      3098,
+      1180,
+      3224
+     ],
+     [
+      808,
+      3260,
+      1250,
+      3725
+     ],
+     [
+      807,
+      3738,
+      1249,
+      4171
+     ],
+     [
+      1292,
+      3858,
+      1737,
+      4171
+     ],
+     [
+      1784,
+      3858,
+      2225,
+      4172
+     ],
+     [
+      1290,
+      4240,
+      2232,
+      4272
+     ],
+     [
+      2272,
+      2944,
+      2716,
+      4165
+     ]
+    ],
+    "layout_words": 322
+   },
+   "headline_raw": "Probe freezes bank accounts, looks\nat Telegram chats, \u2018foreign handlers\u2019\n| EXPRESS |\n| exclusive |\nOf 3 handlers, 2 in PoK & Afghanistan,\ntheir identities being verified",
+   "deck_raw": "RED FORT BLAST MODULE",
+   "body_raw": "Deeptiman Tiwary &\nMahender Singh Manral\nNew Delhi, November 19\n\nSECURITY AGENCIES probing\nthe Red Fort blast-linked Jaish-\ne-Mohammad terror module\nare said to have found a \u201cwide-\nspread network\u201d thatconnects\n\u201cforeign handlers\u201d in Afghanis-\ntan and Pakistan-occupied\nKashmir to local operatives, in-\ncluding Umar Nabi whose car\nexploded killing at least 12\npeople, The Indian Express has\nlearnt. Bank accounts amount-\n\ning to over Rs 2 lakh have been\nfrozen and investigators are ex-\nploring digital trails of calls,\nchats and fund routes.\nAtleast two\u201chandlers\u201d have\nbeen identified as Faisal Ishfaq\nBhat and Dr Ukasha, both cur-\nrently believed to be in PoK and\nAfghanistan, sources said.\nA third has been identified\nas Hashim who, investigators\n\nsaid, hasbeen in touch with the\nnow arrested cleric, Maulvi\nIrfan Ahmad Wagay, and some\nof the module\u2019s members via\nTelegram.\nInvestigatorssay the alleged\nlinks between \u201cforeign\nhandlers\u201d and \u201clocal oper-\n\natives\u201d first emerged last\nmonth, when they began pro-\nbing threatening posters bear-\ning the insignia of Jaish-e-Mo-\nhammad (JeM), which\nappeared across shopfrontsand\nstreet corners on October 19.\nThe following day, three\n\nFULL REPORT ON WWW.INDIANEXPRESS.COM\n\nmen from Nowgam \u2014 Yasir-ul-\nAshraf, Arif Nisar and Maqsood\nAhmad Dar\u2014 were arrested by\nthe police.\nInvestigators said they re-\nportedly admitted that the\nposters were their handiwork:\nYasir had dictated the text, Arif\nhad created it on his phone\nusing an Urdu-font app, and\nMagqsood had printed itona\nhome device.\nPolice found Arif was alleg-\nedly \u201cactive\u201d on a Telegram\ngroup operated by a Pakistan-\nbased JeM-linked handler,\nHanzulla alias Umer bin Khat-\ntab. There was another com-\nmon link between the three -\nthecleric Wagay.\nOfficers arrested Wagay from\nNadigam, Shopian, on October\n27. What emerged during hisin-\nterrogation transformed the\ncase from a minor propaganda\nincident into the first layer ofa\ntrans-state militant network.\nInvestigators said Wagay ac-\nknowledged that he knew the\nthree men, that he had once\n\u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 90.04968944099379,
+   "ocr_low_conf_share": 0.046583850931677016,
+   "headline": "Probe freezes bank accounts, looks at Telegram chats, 'foreign handlers' EXPRESS exclusive Of 3 handlers, 2 in PoK & Afghanistan, their identities being verified",
+   "deck": "RED FORT BLAST MODULE",
+   "byline": "",
+   "text": "Deeptiman Tiwary & Mahender Singh Manral New Delhi, November 19\n\nSECURITY AGENCIES probing the Red Fort blast-linked Jaishe-Mohammad terror module are said to have found a \"widespread network\" thatconnects \"foreign handlers\" in Afghanistan and Pakistan-occupied Kashmir to local operatives, including Umar Nabi whose car exploded killing at least 12 people, The Indian Express has learnt. Bank accounts amounting to over Rs 2 lakh have been frozen and investigators are exploring digital trails of calls, chats and fund routes. Atleast two\"handlers\" have been identified as Faisal Ishfaq Bhat and Dr Ukasha, both currently believed to be in PoK and Afghanistan, sources said. A third has been identified as Hashim who, investigators\n\nsaid, hasbeen in touch with the now arrested cleric, Maulvi Irfan Ahmad Wagay, and some of the module's members via Telegram. Investigatorssay the alleged links between \"foreign handlers\" and \"local operatives\" first emerged last month, when they began probing threatening posters bearing the insignia of Jaish-e-Mohammad (JeM), which appeared across shopfrontsand street corners on October 19. The following day, three\n\nmen from Nowgam - Yasir-ul-Ashraf, Arif Nisar and Maqsood Ahmad Dar - were arrested by the police. Investigators said they reportedly admitted that the posters were their handiwork: Yasir had dictated the text, Arif had created it on his phone using an Urdu-font app, and Magqsood had printed itona home device. Police found Arif was allegedly \"active\" on a Telegram group operated by a Pakistanbased JeM-linked handler, Hanzulla alias Umer bin Khattab. There was another common link between the three - thecleric Wagay. Officers arrested Wagay from Nadigam, Shopian, on October 27. What emerged during hisinterrogation transformed the case from a minor propaganda incident into the first layer ofa trans-state militant network. Investigators said Wagay acknowledged that he knew the three men, that he had once",
+   "n_words": 296,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      3323,
+      757,
+      3617
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      3654,
+      697,
+      3732
+     ],
+     [
+      317,
+      3780,
+      762,
+      4923
+     ],
+     [
+      317,
+      4932,
+      759,
+      5079
+     ]
+    ],
+    "layout_words": 155
+   },
+   "headline_raw": "Day after Hidma\nencounter, 7\nmore Maoists\nkilled in Andhra",
+   "deck_raw": "",
+   "body_raw": "Sreenivas Janyala\nHyderabad, November 19\n\nAT LEAST seven Maoists were\nkilled in Andhra Pradesh on\nWednesday morningas the op-\neration that led to the death of\nMadvi Hidma, one of the most\nwanted rebel leaders, and five\nothers continued in Alluri Sita-\nrama Raju district.\nAdditional Director General\nof Police(ADGP) Mahesh Chan-\ndra Laddha said the Maoists\nwere killed in an exchange of\nfire with the Greyhounds and\nlocal police.\nFour of them were men and\nthree were women. One of the\ndeceased has been identified as\nbomb specialist Metturu Joga-\nrao from Andhra Pradesh\u2019s Sri-\nkakulam district. Also known\nas Babu and Tech Shankar for\nhis ability to build improvised\nexplosive devices, Jogarao was\nwanted by the National Inves-\ntigation Agency (NIA).\nLaddha said while Hidma,\nhis wife Madakam Raje, State\nZonal Committee Member\nDeve, Lakmal, Mallaand Kamlu\n\nwere killed during Tuesday\nmorning\u2019s exchange of fire, a\nfew Maoists managed toescape.\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 91.70967741935483,
+   "ocr_low_conf_share": 0.03870967741935484,
+   "headline": "Day after Hidma encounter, 7 more Maoists killed in Andhra",
+   "deck": "",
+   "byline": "",
+   "text": "Sreenivas Janyala Hyderabad, November 19\n\nAT LEAST seven Maoists were killed in Andhra Pradesh on Wednesday morningas the operation that led to the death of Madvi Hidma, one of the most wanted rebel leaders, and five others continued in Alluri Sita-rama Raju district. Additional Director General of Police(ADGP) Mahesh Chandra Laddha said the Maoists were killed in an exchange of fire with the Greyhounds and local police. Four of them were men and three were women. One of the deceased has been identified as bomb specialist Metturu Jogarao from Andhra Pradesh's Srikakulam district. Also known as Babu and Tech Shankar for his ability to build improvised explosive devices, Jogarao was wanted by the National Investigation Agency (NIA). Laddha said while Hidma, his wife Madakam Raje, State Zonal Committee Member Deve, Lakmal, Mallaand Kamlu\n\nwere killed during Tuesday morning's exchange of fire, a few Maoists managed toescape.",
+   "n_words": 146,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      2761,
+      3286,
+      3201,
+      3329
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2761,
+      4097,
+      3198,
+      4286
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "THE WORLD pace 1s",
+   "deck_raw": "",
+   "body_raw": "SC GIVES INTERIM\nBAIL TOELGAAR\nPARISHAD CASE\nACCUSED JAGTAP",
+   "ocr_conf": 71.55555555555556,
+   "ocr_low_conf_share": 0.2222222222222222,
+   "headline": "THE WORLD pace 1s",
+   "deck": "",
+   "byline": "SC GIVES INTERIM; BAIL TOELGAAR; PARISHAD CASE; ACCUSED JAGTAP",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3958,
+      4159,
+      4340
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4412,
+      3611,
+      4489
+     ],
+     [
+      3248,
+      4537,
+      3692,
+      5088
+     ],
+     [
+      3738,
+      4417,
+      4178,
+      5082
+     ]
+    ],
+    "layout_words": 156
+   },
+   "headline_raw": "SC invalidates Tribunal\nReforms provisions,\nsays Govt brought back\nclauses removed earlier",
+   "deck_raw": "",
+   "body_raw": "Ananthakrishnan G\nNew Delhi, November 19\n\nUNDERLINING THAT \u201cthe\nConstitution is what the Court\nsaysit is\u201d and Parliament's \u201cdis-\ncretion is broad but not abso-\nlute,\u201d the Supreme Court Wed-\nnesday struck down key\nprovisions relating to the ap-\npointment process in the\nTribunals Reforms (Rational-\nisation and Conditions of Ser-\nvice) Act, 2021, as unconstitu-\ntional and violative of\nseparation of powers and judi-\ncial independence.\n\nThe bench of Chief Justice\nof India B R Gavai and K Vinod\nChandran said provisions al-\nready struck down by it in an\nearlier Ordinance had been re-\nenacted in the 2021 law with\nminor tweaks.\n\u201cThe Constitution is what\nthe Court says it is, not in the\nsense of aggrandising judicial\nauthority, but as a necessary co-\nrollary of the Court\u2019s role as the\nfinal arbiter of constitutional\nmeaning,\u201d the bench said.\nThe ruling is the latest in a\nseries of five judgments since\n\u00bbCONTINUED ON PAGE2",
+   "ocr_conf": 90.87820512820512,
+   "ocr_low_conf_share": 0.03205128205128205,
+   "headline": "SC invalidates Tribunal Reforms provisions, says Govt brought back clauses removed earlier",
+   "deck": "",
+   "byline": "",
+   "text": "Ananthakrishnan G New Delhi, November 19\n\nUNDERLINING THAT \"the Constitution is what the Court saysit is\" and Parliament's \"discretion is broad but not absolute,\" the Supreme Court Wednesday struck down key provisions relating to the appointment process in the Tribunals Reforms (Rational-isation and Conditions of Service) Act, 2021, as unconstitutional and violative of separation of powers and judicial independence.\n\nThe bench of Chief Justice of India B R Gavai and K Vinod Chandran said provisions already struck down by it in an earlier Ordinance had been reenacted in the 2021 law with minor tweaks. \"The Constitution is what the Court says it is, not in the sense of aggrandising judicial authority, but as a necessary corollary of the Court's role as the final arbiter of constitutional meaning,\" the bench said. The ruling is the latest in a series of five judgments since",
+   "n_words": 142,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      807,
+      4394,
+      3183,
+      4497
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      4531,
+      1165,
+      4605
+     ],
+     [
+      806,
+      4655,
+      1251,
+      5086
+     ],
+     [
+      1296,
+      4534,
+      1740,
+      5086
+     ],
+     [
+      1783,
+      4535,
+      2226,
+      5087
+     ],
+     [
+      2271,
+      4535,
+      2713,
+      5080
+     ],
+     [
+      2760,
+      4536,
+      3226,
+      5091
+     ]
+    ],
+    "layout_words": 341
+   },
+   "headline_raw": "As BLOs struggle against deadline, 16% of forms digitised",
+   "deck_raw": "",
+   "body_raw": "Express News Service\nNew Delhi, November19\n\nTHE DAILY data put out by the\nElection Commission shows\nthat half-way into the one-\nmonth enumeration phase of\nthe Special Intensive Revision\n(SIR), ongoing in nine states and\nthree Union Territories, 99% of\nthe 51 crore registered electors\nhad received their forms as of\nWednesday. However, only\nabout 16% of the completed\n\nforms had been digitised, with\nreportscomingin fromstatesof\nBooth Level Officers (BLOs),\nwho are responsible for the dis-\ntribution, collection and digit-\nisation of forms, complaining of\npressure to meet the deadline.\nAs per the schedule an-\nnounced by the EC on October\n27, the SIR process started on\nNovember 4, and all electors in\nthe 12 states / UTs have to sub-\nmit their enumeration forms\nby December 4, in order to be\n\nonthe draft electoral rollsto be\npublished on December 9, EC\nsources said that the digitised\nforms can technically be up-\nloaded till the publication ofthe\ndraft roll, givingthe BLOs afew\nextra days.\nOn Wednesday, a third\ndeath of a BLO by suicide was\nreported, this time from West\nBengal, with family members\nblamingitonthestress of meet-\ning the SIR deadline. The ear-\nlier deaths had been reported\n\nfrom Kerala and Rajasthan.\nAfter Bihar, when it had to\nmake several changes due tois-\nsues arising from the SIR, the\nEChad tweaked the process for\nthis phase. In Bihar, all those\nwho were not onthe 2003 elec-\ntoral rolls of the state, when the\nlast intensive revision was\ndone, were required to submit\ndocuments to prove eligibility\nalong with the enumeration\nforms. This time, the EC has\nsaid no documents are to be\n\ntaken in this phase, and elec-\ntors can provide the required\ndetails regarding the last inten-\nsive revision roll in the form\nitself. This means BLOs haveto\nphysically match the forms\nwith the old electoral rolls,\nwhich is proving to be amonu-\nmental task.\nIf the matching does not\nhappen, notices would be is-\nsued from December 9 toJanu-\nary 31, 2026. It is at that phase\n\u00bbCONTINUEDONPAGE2 .",
+   "ocr_conf": 90.86510263929618,
+   "ocr_low_conf_share": 0.03519061583577713,
+   "headline": "As BLOs struggle against deadline, 16% of forms digitised",
+   "deck": "",
+   "byline": "",
+   "text": "Express News Service New Delhi, November19\n\nTHE DAILY data put out by the Election Commission shows that half-way into the onemonth enumeration phase of the Special Intensive Revision (SIR), ongoing in nine states and three Union Territories, 99% of the 51 crore registered electors had received their forms as of Wednesday. However, only about 16% of the completed\n\nforms had been digitised, with reportscomingin fromstatesof Booth Level Officers (BLOs), who are responsible for the distribution, collection and digit-isation of forms, complaining of pressure to meet the deadline. As per the schedule announced by the EC on October 27, the SIR process started on November 4, and all electors in the 12 states / UTs have to submit their enumeration forms\n\nonthe draft electoral rollsto be published on December 9, EC sources said that the digitised forms can technically be uploaded till the publication ofthe draft roll, givingthe BLOs afew extra days. On Wednesday, a third death of a BLO by suicide was reported, this time from West Bengal, with family members blamingitonthestress of meeting the SIR deadline. The earlier deaths had been reported\n\nfrom Kerala and Rajasthan. After Bihar, when it had to make several changes due toissues arising from the SIR, the EChad tweaked the process for this phase. In Bihar, all those who were not onthe 2003 electoral rolls of the state, when the last intensive revision was done, were required to submit documents to prove eligibility along with the enumeration forms. This time, the EC has said no documents are to be\n\ntaken in this phase, and electors can provide the required details regarding the last intensive revision roll in the form itself. This means BLOs haveto physically match the forms with the old electoral rolls, which is proving to be amonumental task. If the matching does not happen, notices would be issued from December 9 toJanuary 31, 2026. It is at that phase \u00bbCONTINUEDONPAGE2.",
+   "n_words": 318,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      5265,
+      2766,
+      5385
+     ]
+    ],
+    "deck_boxes": [
+     [
+      319,
+      5203,
+      1555,
+      5235
+     ]
+    ],
+    "body_boxes": [
+     [
+      316,
+      5405,
+      679,
+      5482
+     ],
+     [
+      317,
+      5530,
+      760,
+      5882
+     ],
+     [
+      727,
+      5871,
+      836,
+      5902
+     ],
+     [
+      317,
+      5920,
+      782,
+      5961
+     ],
+     [
+      316,
+      5968,
+      758,
+      6201
+     ],
+     [
+      806,
+      5410,
+      1247,
+      6195
+     ],
+     [
+      1293,
+      5410,
+      1736,
+      6202
+     ],
+     [
+      1784,
+      5968,
+      2636,
+      6043
+     ],
+     [
+      1783,
+      6088,
+      2223,
+      6196
+     ],
+     [
+      2270,
+      6088,
+      2712,
+      6203
+     ]
+    ],
+    "layout_words": 280
+   },
+   "headline_raw": "Now, desi gene editing tech to aid cheaper, comm",
+   "deck_raw": "@ \u2018MINIATURE ALTERNATIVE\u2019 TO PROPRIETARY CRISPR-CAS TECHNOLOGY",
+   "body_raw": "Harish Damodaran\nNew Dethi, November 19\n\nIN Aboostto indigenous efforts\nat genome-edited (GE) crop\nbreeding, Indian scientists have\ndeveloped what isclaimedto be\na \u201cminiature alternative\u201d tothe\nproprietary CRISPR-Cas pro-\nteins-based technology to pre-\nciselycutandtweakthe DNAof\nplants. Cc ODA\n\nPAGE1\n\nnology \u2014for which ) aNcl\n\ntheIndianCouncilof ~\nAgricultural Research (ICAR)\nhas recently been granted a pat-\nent \u2014 deploys the so-called\nTnpB or Transposon-associ-\nated proteins. These, just like\n\nthe most widely used CRISPR-\nassociated Cas9 and Casi2a\nproteins, act as \u201cmolecular scis-\nsors\u201d to cleave the DNA of a\ngene ata predetermined target\nsite and change its sequence.\nSuch editing is aimed at bring-\ning forth desirable alterations\nin that gene\u2019s expression and\nfunction.\n\u201cWhat we have developed is\na new GE system\nE1 based on TnpB, in-\n10r stead of Cas proteins.\nIt offers an alter-\nnative, yet highly effective\nnext-generation tool for ge-\nnome editing in plants,\u201d said\nKutubuddin Ali Molla, senior\nscientist at ICAR\u2019s Central Rice\n\nResearch Institute (CRRD in\nCuttack, Odisha and lead in-\nventor of the technology.\nThe CRISPR-Cas techno-\nlogies are controlled mainly by\nthe Broad Institute (a partner-\nship between the Massachu-\nsetts Institute of Technology\nand Harvard University) and\nthe USseeds-cum-crop protec-\ntion chemicals giant Corteva\nAgriscience. While Broad Insti-\ntute owns the patents for\nCRISPR-Casi2a, Corteva has a\njoint licencing agreement with\nthe former to offer access to\nCRISPR-Cas9 technology for\nagricultural applications.\nWhile scientists have devel-\noped rice varieties using\n\nKutubuddin Ali Molla, senior scientist at Central Rice Research\nInstitute, Cuttack and lead inventor of the new GE technology.\n\nCRISPR-Cas technology, they\nfacea major hindrance in com-\nmercial cultivation since the in-\n\ntellectual property (IP) rights\nare with global companies/in-\nstitutions that may demand",
+   "ocr_conf": 88.25,
+   "ocr_low_conf_share": 0.08450704225352113,
+   "headline": "Now, desi gene editing tech to aid cheaper, comm",
+   "deck": "@ 'MINIATURE ALTERNATIVE' TO PROPRIETARY CRISPR-CAS TECHNOLOGY",
+   "byline": "",
+   "text": "Harish Damodaran New Dethi, November 19\n\nIN Aboostto indigenous efforts at genome-edited (GE) crop breeding, Indian scientists have developed what isclaimedto be a \"miniature alternative\" tothe proprietary CRISPR-Cas proteins-based technology to preciselycutandtweakthe DNAof plants. Cc ODA\n\nnology - for which ) aNcl\n\ntheIndianCouncilof ~ Agricultural Research (ICAR) has recently been granted a patent - deploys the so-called TnpB or Transposon-associated proteins. These, just like\n\nthe most widely used CRISPR-associated Cas9 and Casi2a proteins, act as \"molecular scissors\" to cleave the DNA of a gene ata predetermined target site and change its sequence. Such editing is aimed at bringing forth desirable alterations in that gene's expression and function. \"What we have developed is a new GE system E1 based on TnpB, in- 10r stead of Cas proteins. It offers an alternative, yet highly effective next-generation tool for genome editing in plants,\" said Kutubuddin Ali Molla, senior scientist at ICAR's Central Rice\n\nResearch Institute (CRRD in Cuttack, Odisha and lead inventor of the technology. The CRISPR-Cas technologies are controlled mainly by the Broad Institute (a partnership between the Massachusetts Institute of Technology and Harvard University) and the USseeds-cum-crop protection chemicals giant Corteva Agriscience. While Broad Institute owns the patents for CRISPR-Casi2a, Corteva has a joint licencing agreement with the former to offer access to CRISPR-Cas9 technology for agricultural applications. While scientists have developed rice varieties using\n\nKutubuddin Ali Molla, senior scientist at Central Rice Research Institute, Cuttack and lead inventor of the new GE technology.\n\nCRISPR-Cas technology, they facea major hindrance in commercial cultivation since the intellectual property (IP) rights are with global companies/institutions that may demand",
+   "n_words": 265,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2770,
+      5267,
+      3950,
+      5387
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2760,
+      5454,
+      3197,
+      6170
+     ],
+     [
+      3247,
+      5412,
+      3690,
+      5878
+     ],
+     [
+      3246,
+      5890,
+      4179,
+      6203
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "ercial GE crop breeding",
+   "deck_raw": "",
+   "body_raw": "eMolecular scissors\nCRISPR WORKS like a pair of\n\u2018molecular scissors\u2019 to tweak DNA.\nWHILE INDIAN scientists have\nusedit to breed\ncrops with\nsuperior traits,\nplanting is hin-\ndered by IP rights.\nTHE NEW tech-\nnology will allow more flexibility\nin genome-edited crop breeding\nwithout being bound by iP curbs.\nAND COMPARED tothetech\nabroad, the Indian tech uses\nsmaller proteins that can be\ninjected into acell more easily.\n\nlicense fees. Here\u2019s where in-\ndigenous genome-edited crop\nbreeding tools will help.\nThe advantage with the\nTnpB proteins used by Dr\nMolla\u2019s team is their com-\npactness: They are much\nsmaller, having 400-500\namino acids per molecule,\ncompared with 1,000-1,400\nfor Cas9 and about 1,300 for\nCasi2a.\n\n\u201cIfCas9 and Casi2aarefoot- tremeenvironments-surviving\nballs, TnpBs are baseballs,\u201d bacteria called Deinococcus\nsummed up the 40-year-old radiodurans), tissue culture-\nMolla, whose workhasalsobeen mediated delivery isn\u2019t\npublished in the prestigious required. Small cargo size en-\nPlant Biotechnology and high- ables the protein to be easily\nlightedinthe ChemistryEurope packedinaviral vector that can\nand Nature Indiajoumals. \u00bbCONTINUED ON PAGE 2",
+   "ocr_conf": 85.67058823529412,
+   "ocr_low_conf_share": 0.1,
+   "headline": "ercial GE crop breeding",
+   "deck": "",
+   "byline": "",
+   "text": "eMolecular scissors CRISPR WORKS like a pair of 'molecular scissors' to tweak DNA. WHILE INDIAN scientists have usedit to breed crops with superior traits, planting is hindered by IP rights. THE NEW technology will allow more flexibility in genome-edited crop breeding without being bound by iP curbs. AND COMPARED tothetech abroad, the Indian tech uses smaller proteins that can be injected into acell more easily.\n\nlicense fees. Here's where indigenous genome-edited crop breeding tools will help. The advantage with the TnpB proteins used by Dr Molla's team is their compactness: They are much smaller, having 400-500 amino acids per molecule, for Cas9 and about 1,300 for Casi2a.\n\n\"IfCas9 and Casi2aarefoot- tremeenvironments-surviving balls, TnpBs are baseballs,\" bacteria called Deinococcus summed up the 40-year-old radiodurans), tissue culture-Molla, whose workhasalsobeen mediated delivery isn't published in the prestigious required. Small cargo size en-Plant Biotechnology and high- ables the protein to be easily lightedinthe ChemistryEurope packedinaviral vector that can",
+   "n_words": 154,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3734,
+      5412,
+      4177,
+      6003
+     ]
+    ],
+    "layout_words": 60,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "The bulkiness of Cas9 and\nCasi2a makesit more challeng-\ning to deliver these proteins\nintothecells where the targeted\nDNA/genetic material resides.\nThe transfer of Cas proteins is\ndone via agrobacterium tissue\nculture media.\n\u201cWith the hypercompact\ngenome editor using our TnpB\n(which is only 408 aminoacids\nlong and sourced from an ex-\ntreme environments-surviving\nbacteria called Deinococcus\nradiodurans), tissue culture-",
+   "ocr_conf": 93.08333333333333,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "The bulkiness of Cas9 and Casi2a makesit more challenging to deliver these proteins intothecells where the targeted DNA/genetic material resides. The transfer of Cas proteins is done via agrobacterium tissue culture media. \"With the hypercompact genome editor using our TnpB (which is only 408 aminoacids long and sourced from an extreme environments-surviving bacteria called Deinococcus radiodurans), tissue culture-",
+   "n_words": 58,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 20.7,
+ "flags": [
+  "1 kept article(s) without a headline"
+ ]
+}

@@ -1,0 +1,4 @@
+method,positive,neutral,negative
+transformer,0.02,0.915,0.065
+vader,0.479,0.2,0.321
+llm,0.201,0.345,0.454

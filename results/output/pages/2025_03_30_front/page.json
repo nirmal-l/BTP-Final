@@ -1,0 +1,755 @@
+{
+ "version": "1.6",
+ "page_id": "2025_03_30_front",
+ "source_file": "2025-03-30_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-03-30_front.png",
+ "date": "2025-03-30",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 8,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 1260,
+  "n_lines": 500,
+  "mean_line_conf": 89.30262318295738,
+  "orphan_words": 8,
+  "body_words_total": 1927
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      824,
+      4161,
+      1357
+     ],
+     [
+      3253,
+      1384,
+      4157,
+      1642
+     ],
+     [
+      3298,
+      1673,
+      3607,
+      1747
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3290,
+      2147,
+      3789,
+      2207
+     ],
+     [
+      3910,
+      1654,
+      4159,
+      1696
+     ],
+     [
+      3993,
+      2054,
+      4162,
+      2089
+     ],
+     [
+      3896,
+      2102,
+      4160,
+      2199
+     ]
+    ],
+    "layout_words": 17
+   },
+   "headline_raw": "Top Maoist leader\namong 18 killed\nin two encounters\nin Chhattisgarh\n134 Maoists killed in state since start\nof year, including 117 in Bastar region\nMAOISTSKILLEDINBASTAR\nO37 thantiyears",
+   "deck_raw": "",
+   "body_raw": "TOLELASANARAh\nooo oO fo) WN\nSPeSePgeeeoRgmeecen\n\n\u201cCHHATTISGARH\n\n\u00a9 Dantewada\n\n~ Sukma Fa\n2\n{ *TillMarch 29;",
+   "ocr_conf": 42.25,
+   "ocr_low_conf_share": 0.6875,
+   "headline": "Top Maoist leader among 18 killed in two encounters in Chhattisgarh 134 Maoists killed in state since start of year, including 117 in Bastar region MAOISTSKILLEDINBASTAR O37 thantiyears",
+   "deck": "",
+   "byline": "TOLELASANARAh; \"CHHATTISGARH",
+   "text": "ooo oO fo) WN SPeSePgeeeoRgmeecen\n\n\u00a9 Dantewada\n\n~ Sukma Fa { *TillMarch 29;",
+   "n_words": 13,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      813,
+      1302,
+      2181,
+      1432
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      811,
+      1513,
+      1133,
+      1583
+     ],
+     [
+      808,
+      1632,
+      1252,
+      2497
+     ],
+     [
+      1299,
+      2027,
+      1739,
+      2490
+     ],
+     [
+      1947,
+      1519,
+      2171,
+      1652
+     ],
+     [
+      1824,
+      1712,
+      2189,
+      2451
+     ]
+    ],
+    "layout_words": 244
+   },
+   "headline_raw": "Subject to IAEA safeguards, New Jersey-based Holtec\ncan transfer tech to L&T, Tata, subsidiary; no military use",
+   "deck_raw": "",
+   "body_raw": "ANIL SASI\nNEW DELHI, MARCH 29\n\nTWO DECADES after it was\ninked, decks have been cleared\nto tap the commercial potential\nof the India-US civil nuclear deal\nwith an unprecedented regula-\ntory clearance from the US\nDepartment of Energy (DoE)\nthat will allow a US company to\nbuild and design nuclear reac-\ntors in India.\nThe March 26 approval from\nDoE cleared Holtec International's\napplication for specific authorisa-\ntion With respect to the restrictive\nregulation that is referred to as\n\u201c10CFR810\u201d. (Part 810 of Title 10,\nCode of Federal Regulations ofthe\nUS Atomic Energy Act of 1954).\nThis authorisation permits\nHoltec, with conditions, totrans-\nfer \u201cunclassified small modular\nreactor (SMR) technology\u201d to\n\nthree firms in India: its regional\nsubsidiary Holtec Asia; Tata\nConsulting Engineers Ltd; and\nLarsen & Toubro Ltd. Holtec\nInternational is promoted by\nIndian-American Kris P Singh,\nand has its wholly-owned sub-\nsidiary Holtec Asia operating an\nengineering unit in Pune since\n2010 and has a manufacturing\nunit in Dahej, Gujarat.\nCONTINUED ON PAGE 2\n\nWhat\nnextafter\n@ theOK\n\nHOLTEC COULDexplore a\ncollaboration on nuclear\nwithTCE, one of India\u2019s\nlargest consulting engi-\nneering firms in the power\nsector, and could partner\nwithL&Tto manufacture\nsome of the components\nrequired for upcoming nu-\nclear plants here. In due\ncourse, Holtec said it hopes\nto work with the twostate-\nowned entities authorised\nunder existing Indian law\nto operate nuclear power\nplants in India, NPCILand\nNTPC, as potential cus-\ntomers and operators of\nthe SMR-160 reactors.",
+   "ocr_conf": 89.74590163934427,
+   "ocr_low_conf_share": 0.06147540983606557,
+   "headline": "Subject to IAEA safeguards, New Jersey-based Holtec can transfer tech to L&T, Tata, subsidiary; no military use",
+   "deck": "",
+   "byline": "ANIL SASI; NEW DELHI, MARCH 29",
+   "text": "TWO DECADES after it was inked, decks have been cleared to tap the commercial potential of the India-US civil nuclear deal with an unprecedented regulatory clearance from the US Department of Energy (DoE) that will allow a US company to build and design nuclear reactors in India. The March 26 approval from DoE cleared Holtec International's application for specific authorisation With respect to the restrictive regulation that is referred to as \"10CFR810\". (Part 810 of Title 10, Code of Federal Regulations ofthe US Atomic Energy Act of 1954). This authorisation permits Holtec, with conditions, totransfer \"unclassified small modular reactor (SMR) technology\" to\n\nthree firms in India: its regional subsidiary Holtec Asia; Tata Consulting Engineers Ltd; and Larsen & Toubro Ltd. Holtec International is promoted by Indian-American Kris P Singh, and has its wholly-owned subsidiary Holtec Asia operating an engineering unit in Pune since 2010 and has a manufacturing unit in Dahej, Gujarat.\n\nWhat nextafter @ theOK\n\nHOLTEC COULDexplore a collaboration on nuclear withTCE, one of India's largest consulting engineering firms in the power sector, and could partner withL&Tto manufacture some of the components required for upcoming nuclear plants here. In due course, Holtec said it hopes to work with the twostateowned entities authorised under existing Indian law to operate nuclear power plants in India, NPCILand NTPC, as potential customers and operators of the SMR-160 reactors.",
+   "n_words": 225,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      2273,
+      1300,
+      3198,
+      1609
+     ],
+     [
+      2273,
+      1649,
+      3144,
+      1709
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2275,
+      1790,
+      2620,
+      1860
+     ],
+     [
+      2273,
+      1911,
+      2721,
+      2498
+     ],
+     [
+      2761,
+      1751,
+      3203,
+      2491
+     ]
+    ],
+    "layout_words": 172
+   },
+   "headline_raw": "Trade deal: First tranche\nby Fall, but no relief\nyet on reciprocal tariffs\nTerms of Reference being discussed",
+   "deck_raw": "",
+   "body_raw": "RAVI DUTTA MISHRA\nNEW DELHI, MARCH 29\n\nTHE FOUR-DAY India-US trade\ntalks concluded Saturday with\nsubstantial convergence on the\ncontours of a trade deal but\nwithout finalising the Terms of\nReference (ToR), a document\nthat kickstarts negotiations by\ndefining the scope and objec-\ntives of a bilateral trade agree-\nment (BTA), a government offi-\ncial told The Indian Express.\nIn astatement after the talks,\nIndia\u2019s Commerce and Industry\nMinistry said the talks ended\nwith a \u201cbroad understanding\u201d of\n\nthe next steps towards a bilateral\ntrade agreement both countries\naim to sign by Fall. It, however,\ndid not indicate whether there\nwould be any relaxation on\nPresident Donald Trump's deci-\nsion to impose reciprocal tariffs\nfrom April 2 as was expected by\nthe Indian industry.\n\u201cBoth sides, through four\ndays of discussions in New Delhi,\nhave broadly agreed onthe next\nsteps towards a mutually bene-\nficial, multi-sector BTA, aiming\nto finalise its first tranche by fall\n2025. Sectoral expert-level en-\ngagements under the BTA will\nbegin virtually in the coming\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.20809248554913,
+   "ocr_low_conf_share": 0.06358381502890173,
+   "headline": "Trade deal: First tranche by Fall, but no relief yet on reciprocal tariffs Terms of Reference being discussed",
+   "deck": "",
+   "byline": "RAVI DUTTA MISHRA; NEW DELHI, MARCH 29",
+   "text": "THE FOUR-DAY India-US trade talks concluded Saturday with substantial convergence on the contours of a trade deal but without finalising the Terms of Reference (ToR), a document that kickstarts negotiations by defining the scope and objectives of a bilateral trade agreement (BTA), a government official told The Indian Express. In astatement after the talks, India's Commerce and Industry Ministry said the talks ended with a \"broad understanding\" of\n\nthe next steps towards a bilateral trade agreement both countries aim to sign by Fall. It, however, did not indicate whether there would be any relaxation on President Donald Trump's decision to impose reciprocal tariffs from April 2 as was expected by the Indian industry. \"Both sides, through four days of discussions in New Delhi, have broadly agreed onthe next steps towards a mutually beneficial, multi-sector BTA, aiming to finalise its first tranche by fall 2025. Sectoral expert-level engagements under the BTA will begin virtually in the coming",
+   "n_words": 156,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      324,
+      1493,
+      714,
+      1662
+     ]
+    ],
+    "layout_words": 8,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "MAYOR JAILED,\nISTANBUL SEES\nLARGEST PROTEST\nIN DECADE",
+   "ocr_conf": 95.375,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "MAYOR JAILED,; ISTANBUL SEES; LARGEST PROTEST; IN DECADE",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      324,
+      1779,
+      762,
+      1833
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      2366,
+      661,
+      2532
+     ]
+    ],
+    "layout_words": 10
+   },
+   "headline_raw": "EXPRESS NETWORK >",
+   "deck_raw": "",
+   "body_raw": "IIM-A CAMPUS IN\nDUBAI IN SEPT,\nSAYS DIRECTOR\nPAGE 4",
+   "ocr_conf": 88.1,
+   "ocr_low_conf_share": 0.1,
+   "headline": "EXPRESS NETWORK >",
+   "deck": "",
+   "byline": "IIM-A CAMPUS IN; DUBAI IN SEPT,; SAYS DIRECTOR",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      3290,
+      2181,
+      3789,
+      2239
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      2346,
+      3624,
+      2416
+     ],
+     [
+      3247,
+      2465,
+      3692,
+      3172
+     ]
+    ],
+    "layout_words": 90
+   },
+   "headline_raw": "OOdOdDQODOAADA GON\nSSsgaq OofS00 N\nNNAVHaas",
+   "deck_raw": "",
+   "body_raw": "JAYPRAKASH S NAIDU\nBASTAR, MARCH 29\n\nASENIOR Maoist leader involved\nin the 2013 Jhiram Ghati attack, in\nwhich several Congress leaders\nwere killed, was among 18\nMaoists gunned downintwoen-\ncounters in Sukma and Bijapur\ndistricts of south Chhattisgarh on\nSaturday, officials said.\nKudhami Jagdish alias\nBadhura, a member of the\nDandakaranya Special Zonal\nCommittee, the highest state-\nlevel committee in Chhattisgarh\nof the banned Communist Party\nof India (Maoist), was also in\ncharge of the Darbha division and\ncarried a bounty of Rs 25 lakh.\nThe Jhiram Ghati attack had",
+   "ocr_conf": 91.26666666666667,
+   "ocr_low_conf_share": 0.022222222222222223,
+   "headline": "OOdOdDQODOAADA GON SSsgaq OofS00 N NNAVHaas",
+   "deck": "",
+   "byline": "JAYPRAKASH S NAIDU; BASTAR, MARCH 29",
+   "text": "ASENIOR Maoist leader involved in the 2013 Jhiram Ghati attack, in which several Congress leaders were killed, was among 18 Maoists gunned downintwoencounters in Sukma and Bijapur districts of south Chhattisgarh on Saturday, officials said. Kudhami Jagdish alias Badhura, a member of the Dandakaranya Special Zonal Committee, the highest state-level committee in Chhattisgarh of the banned Communist Party of India (Maoist), was also in charge of the Darbha division and carried a bounty of Rs 25 lakh. The Jhiram Ghati attack had",
+   "n_words": 82,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      3844,
+      2178,
+      4160,
+      2241
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      2307,
+      4178,
+      2689
+     ],
+     [
+      3737,
+      2701,
+      4180,
+      3165
+     ]
+    ],
+    "layout_words": 101
+   },
+   "headline_raw": "\u2014\\\u2014 *TillMarch 29;\nSource:Chhattisgarh Police",
+   "deck_raw": "",
+   "body_raw": "left 32 people, including state\nCongress leaders Mahendra\nKarma, Nand Kumar Patel, Uday\nMudliyar and Vidya Charan\nShukla, dead.\n\u201cHe wasalso the mastermind\nof the 2023 Aranpur IED blast in\nwhich 10 DRG jawans and a civil-\nian driver were killed,\u201d said an\nofficial.\n\nJagdish, aged around 40, has\nalengthy criminal record, witha\nsenior official claiming his in-\nvolvement in over 100 killings of\nsecurity personnel, civilians and\npoliticians. He hailed from\nDantewada and was a key\nMaoist leader for around two\ndecades. His wife, also a Maoist,\nwas killed in anencounter in the\npast, officials said.\nCONTINUED ON PAGE 2",
+   "ocr_conf": 90.52475247524752,
+   "ocr_low_conf_share": 0.04950495049504951,
+   "headline": "- \\ - *TillMarch 29; Source:Chhattisgarh Police",
+   "deck": "",
+   "byline": "",
+   "text": "left 32 people, including state Congress leaders Mahendra Karma, Nand Kumar Patel, Uday Mudliyar and Vidya Charan Shukla, dead. \"He wasalso the mastermind of the 2023 Aranpur IED blast in which 10 DRG jawans and a civilian driver were killed,\" said an official.\n\nJagdish, aged around 40, has alengthy criminal record, witha senior official claiming his involvement in over 100 killings of security personnel, civilians and politicians. He hailed from Dantewada and was a key Maoist leader for around two decades. His wife, also a Maoist, was killed in anencounter in the past, officials said.",
+   "n_words": 95,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2642,
+      1245,
+      2969
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      810,
+      3015,
+      1253,
+      3795
+     ],
+     [
+      322,
+      3054,
+      644,
+      3124
+     ],
+     [
+      318,
+      3174,
+      1249,
+      3998
+     ]
+    ],
+    "layout_words": 207
+   },
+   "headline_raw": "Myanmar quake toll\nover 1,600, India sends\nrelief, rescue teams",
+   "deck_raw": "",
+   "body_raw": "Min Aung Hlaing of Myanmar.\nConveyed our deepcondolences\nat the loss of lives in the devas-\ntating earthquake. As a close\nfriend and neighbour, India\nstands in solidarity with the peo-\nple of Myanmar in this difficult\nhour,\u201d Modi posted on X.\nSenior General Min Aung\nHlaingis expected to join the BIM-\nSTEC Summit in Bangkok next\nweek, which Modi is attending.\nUnder Operation Brahma,\nwhich officials said is named af-\nter the God of creation and is\naimed at rebuilding the country,\nIndia sent multiple tranches of\ndisaster relief material, human-\nitarian assistance, search and\nrescue teams,\n\nDIVYAA\nNEW DELHI, MARCH 29\n\nWITH THE death toll in friend and neighbour, India\nMyanmar rising to 1,644a day \u2014 standsinsolidarity with the peo-\nafter a 7.7-magnitude earth- _ ple of Myanmar in this difficult\nquake hitthe country andneigh- _ hour,\u201d Modi posted on X.\nbouring Thailand, India on Senior General Min Aung\nSaturday launched Operation _Hlaingis expected tojoin the BIM-\nBrahma to aid rescue and relief +STEC Summit in Bangkok next\nwork, pitching inwithtonnesof | week, which Modiis attending.\nration, tents, medicines, sleep- Under Operation Brahma,\ning bags, rescue teams and \u2014_ whichofficials said is named af-\nequipment, canine squad anda __ ter the God of creation and is\nfully functional field hospital. aimed at rebuilding the country,\nPrime Minister Narendra India sent multiple tranches of\nModi spoke to Senior General _ disaster relief material, human-\nMin Aung Hlaing, whoheads the __itarian assistance, search and\nmilitary-led government in rescue teams,\nMyanmar, on Saturday moming CONTINUED ON PAGE 2\n\u2014 his first call with the military\nleader since the February 2021\ncoup there. RELATED REPORTS\n\u201cSpoke with Senior General THE WORLD",
+   "ocr_conf": 85.41935483870968,
+   "ocr_low_conf_share": 0.11469534050179211,
+   "headline": "Myanmar quake toll over 1,600, India sends relief, rescue teams",
+   "deck": "",
+   "byline": "DIVYAA; NEW DELHI, MARCH 29",
+   "text": "Min Aung Hlaing of Myanmar. Conveyed our deepcondolences at the loss of lives in the devastating earthquake. As a close friend and neighbour, India stands in solidarity with the people of Myanmar in this difficult hour,\" Modi posted on X. Senior General Min Aung Hlaingis expected to join the BIM-STEC Summit in Bangkok next week, which Modi is attending. Under Operation Brahma, which officials said is named after the God of creation and is aimed at rebuilding the country, India sent multiple tranches of disaster relief material, humanitarian assistance, search and rescue teams,\n\nWITH THE death toll in friend and neighbour, India Myanmar rising to 1,644a day - standsinsolidarity with the peoafter a 7.7-magnitude earth- _ ple of Myanmar in this difficult quake hitthe country andneigh- _ hour,\" Modi posted on X. bouring Thailand, India on Senior General Min Aung Saturday launched Operation _Hlaingis expected tojoin the BIM-Brahma to aid rescue and relief +STEC Summit in Bangkok next work, pitching inwithtonnesof week, which Modiis attending. ration, tents, medicines, sleep- Under Operation Brahma, ing bags, rescue teams and - _ whichofficials said is named afequipment, canine squad anda __ ter the God of creation and is fully functional field hospital. aimed at rebuilding the country, Prime Minister Narendra India sent multiple tranches of Modi spoke to Senior General _ disaster relief material, human-Min Aung Hlaing, whoheads the __itarian assistance, search and military-led government in rescue teams, - his first call with the military leader since the February 2021 coup there. RELATED REPORTS \"Spoke with Senior General THE WORLD",
+   "n_words": 257,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3247,
+      3316,
+      4181,
+      3788
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3250,
+      3887,
+      3570,
+      3957
+     ],
+     [
+      3248,
+      4008,
+      3690,
+      4713
+     ],
+     [
+      3737,
+      3849,
+      4177,
+      4470
+     ],
+     [
+      3737,
+      4482,
+      4176,
+      4707
+     ]
+    ],
+    "layout_words": 211
+   },
+   "headline_raw": "Amid fault-lines, Waqf\nBill may come later\nrather than sooner\nSection in party and government feels\nBill can wait until Bihar elections over",
+   "deck_raw": "",
+   "body_raw": "LIZMATHEW\nNEW DELHI, MARCH 29\n\nEVEN AS Union Home Minister\nAmit Shah reiterated that the\nWaaf (Amendment) Bill will be\nintroduced in the ongoing\nBudget session, there's a section\nwithin the government and the\nruling BJP which wants to ex-\nplore the possibility of bringing\nthe contentious Bill later rather\nthan sooner.\nSources said these leaders\nfeel that given the fault-lines\nover delimitation and the three-\nlanguage policy \u2014 both being\nframed asa northvs south divide\n\u2014 the Wagf Bill could harden\nthese dividing lines.\n\u201cThere is a view that the gov-\n\nernment could wait for some\nmore time,\u201d said a senior BJP\nleader. And that there was a case\nfordeferring the Bill until after the\nelections in Bihar later this year.\nWhen contacted, ally JD(U)\nMP Kaushalendra Kumar\nclaimed the Bill wasn\u2019t a factor\nin the election. \u201cThe government\nsays the Bill is good for Muslim\ncommunity. We have to see the\nBill anyway. | do not think the\npassage of the Bill, before or af-\nter, would make any difference\nto the NDA inthe Bihar election,\u201d\nhe said.\n\nStill, there are some who feel\nthe Bill can be reintroduced in\nthis session but the voting and\npassage can be taken up later.\nWhencontacted, Opposition\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.11904761904762,
+   "ocr_low_conf_share": 0.02857142857142857,
+   "headline": "Amid fault-lines, Waqf Bill may come later rather than sooner Section in party and government feels Bill can wait until Bihar elections over",
+   "deck": "",
+   "byline": "LIZMATHEW; NEW DELHI, MARCH 29",
+   "text": "EVEN AS Union Home Minister Amit Shah reiterated that the Waaf (Amendment) Bill will be introduced in the ongoing Budget session, there's a section within the government and the ruling BJP which wants to explore the possibility of bringing the contentious Bill later rather than sooner. Sources said these leaders feel that given the fault-lines over delimitation and the three-language policy - both being framed asa northvs south divide - the Wagf Bill could harden these dividing lines. \"There is a view that the government could wait for some more time,\" said a senior BJP leader. And that there was a case fordeferring the Bill until after the elections in Bihar later this year. When contacted, ally JD(U) MP Kaushalendra Kumar claimed the Bill wasn't a factor in the election. \"The government says the Bill is good for Muslim community. We have to see the Bill anyway. do not think the passage of the Bill, before or after, would make any difference to the NDA inthe Bihar election,\" he said.\n\nStill, there are some who feel the Bill can be reintroduced in this session but the voting and passage can be taken up later. Whencontacted, Opposition",
+   "n_words": 196,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      4144,
+      1726,
+      4364
+     ]
+    ],
+    "deck_boxes": [
+     [
+      320,
+      4069,
+      870,
+      4102
+     ]
+    ],
+    "body_boxes": [
+     [
+      321,
+      4440,
+      747,
+      4510
+     ],
+     [
+      319,
+      4558,
+      761,
+      4877
+     ],
+     [
+      320,
+      4914,
+      1146,
+      4949
+     ],
+     [
+      1294,
+      4402,
+      1737,
+      5107
+     ]
+    ],
+    "layout_words": 128
+   },
+   "headline_raw": "SC releasing internal probe report\nsets dangerous precedent: Sibal",
+   "deck_raw": "JUSTICE VARMA INCIDENT",
+   "body_raw": "EXPRESS NEWS SERVICE\nNEW DELHI, MARCH 29\n\nRAJYA SABHA MP and Supreme\nCourt Bar Association president\nKapil Sibal has saidthe top court's\ndecision to make publican inter-\nnal inquiry report in the Justice\nYashwant Varma episode sets a\n\u201cdangerous prece- | ,\ndent\u2019 Justice Varma +O\n\nver i\ntreofastormever yee a = already lost: Si\n\nMarch 22 announced a three-\nmember Committee compris-\ning Punjab and Haryana High\nCourt Chief Justice Sheel Nagu,\nHimachal Pradesh High Court\nChief Justice G S Sandhawaalia,\nand Karnataka High Court\njudge Justice Anu Sivaraman\nwould conduct an inquiry. The\ncourt also made public a\nredacted internal inquiry re-\nport by the Delhi High Court\nand also uploaded videos and\nphotographs that Delhi Police\nCommissioner Sanjay Arora\npurportedly shared with Delhi\nChief Justice Devendra Kumar\nUpadhyaya.",
+   "ocr_conf": 86.81679389312977,
+   "ocr_low_conf_share": 0.11450381679389313,
+   "headline": "SC releasing internal probe report sets dangerous precedent: Sibal",
+   "deck": "JUSTICE VARMA INCIDENT",
+   "byline": "EXPRESS NEWS SERVICE; NEW DELHI, MARCH 29",
+   "text": "RAJYA SABHA MP and Supreme Court Bar Association president Kapil Sibal has saidthe top court's decision to make publican internal inquiry report in the Justice Yashwant Varma episode sets a \"dangerous prece-, dent' Justice Varma +O\n\nver i treofastormever yee a = already lost: Si\n\nMarch 22 announced a three-member Committee comprising Punjab and Haryana High Court Chief Justice Sheel Nagu, Himachal Pradesh High Court Chief Justice G S Sandhawaalia, and Karnataka High Court judge Justice Anu Sivaraman would conduct an inquiry. The court also made public a redacted internal inquiry report by the Delhi High Court and also uploaded videos and photographs that Delhi Police Commissioner Sanjay Arora purportedly shared with Delhi Chief Justice Devendra Kumar Upadhyaya.",
+   "n_words": 118,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      1781,
+      4145,
+      2733,
+      4365
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1785,
+      4070,
+      2706,
+      4103
+     ]
+    ],
+    "body_boxes": [
+     [
+      1784,
+      4441,
+      2219,
+      4511
+     ],
+     [
+      1781,
+      4560,
+      2225,
+      5147
+     ],
+     [
+      2510,
+      4440,
+      2688,
+      4627
+     ],
+     [
+      2271,
+      4717,
+      2712,
+      5148
+     ]
+    ],
+    "layout_words": 147
+   },
+   "headline_raw": "\u2018Cash-at-Judge\u2019s door\u2019: ]\nJudge acquitted, says ju",
+   "deck_raw": "SPECIAL CBI COURT DECISION IN 2008 CASE",
+   "body_raw": "JAGPREET SINGHSANDHU\nCHANDIGARH, MARCH 29\n\nA SPECIAL CBI court here on\nSaturday acquitted former\nPunjab and Haryana High Court\njudge Justice Nirmal Yadav, who\nhas since retired, and three oth-\ners in the \u2018cash-at-judge\u2019s door\u2019\ncase dating back to 2008. While\nfive persons were accused inthe\ncase, one has since died.\nThe Court of Special CBI\nJudge Alka Malik pronounced\nthe verdict on Saturday. A de-\ntailed order is yet to be released\nby the court,\nSpeaking to reporters after\n\nJustice\nNirmal\nYadav\nretired in\nMarch 2011\n\nthe verdict, Justice Yadav said she\nhad finally been vindicated.\n\u201cJudiciary is really fair, of course\nit has taken a long time, maybe\ndue to many reasons... but now\nitis done,\u201d she said.\nThe case dates back to August\n13, 2008, when Rs 15 lakhin cash\nwas allegedly delivered at the\nresidence of another then\nPunjab and Haryana HC judge,",
+   "ocr_conf": 92.578231292517,
+   "ocr_low_conf_share": 0.02040816326530612,
+   "headline": "'Cash-at-Judge's door': ] Judge acquitted, says ju",
+   "deck": "SPECIAL CBI COURT DECISION IN 2008 CASE",
+   "byline": "JAGPREET SINGHSANDHU; CHANDIGARH, MARCH 29",
+   "text": "A SPECIAL CBI court here on Saturday acquitted former Punjab and Haryana High Court judge Justice Nirmal Yadav, who has since retired, and three others in the 'cash-at-judge's door' case dating back to 2008. While five persons were accused inthe case, one has since died. The Court of Special CBI Judge Alka Malik pronounced the verdict on Saturday. A detailed order is yet to be released by the court, Speaking to reporters after\n\nJustice Nirmal Yadav retired in March 2011\n\nthe verdict, Justice Yadav said she had finally been vindicated. \"Judiciary is really fair, of course it has taken a long time, maybe due to many reasons... but now itis done,\" she said. The case dates back to August 13, 2008, when Rs 15 lakhin cash was allegedly delivered at the residence of another then Punjab and Haryana HC judge,",
+   "n_words": 140,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      2736,
+      4145,
+      3183,
+      4366
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2756,
+      4403,
+      3203,
+      5141
+     ]
+    ],
+    "layout_words": 100
+   },
+   "headline_raw": "Former HC\ndiciary fair",
+   "deck_raw": "",
+   "body_raw": "Justice Nirmaljit Kaur, who is also\nretired now. It was alleged that\nthe cash was meant for Justice\nYadav, but was wrongly deliv-\nered at the other judge\u2019s resi-\ndence due to their similar-\nsounding names.\nJustice Kaur informed the\nthen HC Chief Justice and the po-\nlice, following which a First\nInformation Report (FIR) was reg-\nistered on August 16, 2008. Ten\ndays later, the case was trans-\nferred tothe CBI, which registered\na fresh FIR on August 28, 2008.\nAccording to the CBI probe,\nthe money was delivered by a\nclerk of former Haryana\nCONTINUED ON PAGE 2",
+   "ocr_conf": 91.67,
+   "ocr_low_conf_share": 0.03,
+   "headline": "Former HC diciary fair",
+   "deck": "",
+   "byline": "",
+   "text": "Justice Nirmaljit Kaur, who is also retired now. It was alleged that the cash was meant for Justice Yadav, but was wrongly delivered at the other judge's residence due to their similar-sounding names. Justice Kaur informed the then HC Chief Justice and the police, following which a First Information Report (FIR) was registered on August 16, 2008. Ten days later, the case was transferred tothe CBI, which registered a fresh FIR on August 28, 2008. According to the CBI probe, the money was delivered by a clerk of former Haryana",
+   "n_words": 90,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      3738,
+      4784,
+      4176,
+      4841
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3735,
+      4886,
+      4163,
+      5057
+     ]
+    ],
+    "layout_words": 9
+   },
+   "headline_raw": "EXPRESS NETWORK \u00a9",
+   "deck_raw": "",
+   "body_raw": "PROTEST IN STATE\nCAPITAL OVER\nTEMPLE VANDALISM,\nSUSPECT ARRESTED",
+   "ocr_conf": 95.88888888888889,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS NETWORK \u00a9",
+   "deck": "",
+   "byline": "PROTEST IN STATE; CAPITAL OVER; TEMPLE VANDALISM,; SUSPECT ARRESTED",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      320,
+      4869,
+      927,
+      4994
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      320,
+      4993,
+      1248,
+      5146
+     ]
+    ],
+    "layout_words": 30
+   },
+   "headline_raw": "as been at the cen- DE A\ntre of a storm ever ,\nsince cash was al- CXCHANGE",
+   "deck_raw": "",
+   "body_raw": "legedly found at his\nNew Delhi home duringafireon to his parent High Court in\nMarch 14 and has beentrans- Allahabad.\nferred from the Delhi High Court The Supreme Court on",
+   "ocr_conf": 91.2,
+   "ocr_low_conf_share": 0.03333333333333333,
+   "headline": "as been at the cen- DE A tre of a storm ever, since cash was al- CXCHANGE",
+   "deck": "",
+   "byline": "",
+   "text": "legedly found at his New Delhi home duringafireon to his parent High Court in March 14 and has beentrans- Allahabad. ferred from the Delhi High Court The Supreme Court on",
+   "n_words": 30,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 15,
+   "layout": {
+    "headline_boxes": [
+     [
+      323,
+      5302,
+      4146,
+      5429
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      318,
+      5515,
+      501,
+      5547
+     ],
+     [
+      320,
+      5666,
+      632,
+      5736
+     ],
+     [
+      316,
+      5784,
+      763,
+      6136
+     ],
+     [
+      805,
+      5468,
+      1251,
+      6136
+     ],
+     [
+      1296,
+      5468,
+      1738,
+      6137
+     ],
+     [
+      2755,
+      5470,
+      3203,
+      6138
+     ],
+     [
+      3247,
+      5470,
+      3687,
+      5939
+     ],
+     [
+      3248,
+      5944,
+      3687,
+      6138
+     ],
+     [
+      3735,
+      5470,
+      4176,
+      6132
+     ]
+    ],
+    "layout_words": 436
+   },
+   "headline_raw": "Covid is past but it future-proofs this Jharkhand control room for migrants",
+   "deck_raw": "",
+   "body_raw": "ANCHOR\n\nHIMANSHU HARSH\nPATNA, MARCH 29\n\nIN DECEMBER, a video of\nJharkhand migrants narrating\ntheir plight in Cameroon went\nviral. In it, 47 migrants recruited\nby a Mumbai-based construc-\ntion engineering company to in-\nstall power lines in the central\nAfrican country highlighted the\nmonths of exploitation and mis-\n\ntreatment they suffered \u2014 right\nfrom unpaid wages and inade-\nquate food and water to threats\nfrom their employer.\nThe SOS video caused out-\nrage, leading the State Migrant\nControl Room (SMCR) of\nJharkhand to launch a rescue\nmission in coordination with the\nIndian and Cameroon govern-\nments to repatriate the workers\nin three phases until the first\nweek of January.\nLaunched by the Jharkhand\ngovernment on March 27,2020,\nat the beginning of the Covid-19\npandemicas a crisis helpline, the\n\nSMCR of today is more than a\ncontrol room: it is a single point\naccess for everything pertaining\nto Jharkhand migrants, both do-\nmestic and international. From\nconducting rescue missions to\nproviding legal aid, skill training\nand supporting migrants\u2019 fami-\nlies, the SMCR does it all.\n\u201cIt began as a 24x7 helpline\nfor lockdown-hit workers but\nhas since become a one-stop so-\nlution to address the concerns of\nmigrant workers and their fam-\nilies. In the last five years, we\nhave handled over 11 lakh calls\nand resolved 66,831 cases,\u201d says\n\nShikha Lakra, head of\nJharkhand\u2019s State Migrant\nControl Room \u2014 a body under\nthe state\u2019s Department of\nLabour, Employment, Training\nand Skill Development.\nIn 2023-24, for instance, the\nSMCR not only brought back 74\nJharkhand workers from\nCameroon but also helped them\nrecover Rs 69.77 lakh in unpaid\ndues. \u201cThey were further en-\nrolled in state welfare schemes\nto secure their future liveli-\nhoods,\" Lakra says.\nWith 11 helplines \u2014 six land-\nlines and five WhatsApp num-\n\nbers \u2014 SMCR provides migrant\nworkers and their families\naround-the-clock counselling,\nlegal guidance, and help with\nlabour law violations.\n\u201cThe lines are multilingual,\noffering help in Hindi as well as\nlocal dialects such as Santhali\nand Angika. In addition, one can\nalso register their grievances\nwith usviaemail or Twitter,\u201d she\nsays.\n\nApart from spearheading\nrescue operations, the SMCRalso\ndeals with trafficking, child\nlabour and bonded labour cases\nand helps migrants tackle wage\n\ndisputes.\n\u201cIt\u2019s also a hub for informa-\ntion on labour laws and govern-\nment schemes for migrants and\nunorganised workers,\u201d Lakra\nsays, adding thatits skill training\nprogrammes are tailored to suit\nmarket demands.\nThe Safe and Responsible\nMigration Initiative (SRMI),\nlaunched under the SMCR in\nDecember 2021, is aimed at in-\ncreasing social security and\nwelfare coverage for migrant\nworkers.\n\u201cIt systematically registers\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.68119266055047,
+   "ocr_low_conf_share": 0.022935779816513763,
+   "headline": "Covid is past but it future-proofs this Jharkhand control room for migrants",
+   "deck": "",
+   "byline": "ANCHOR; HIMANSHU HARSH; PATNA, MARCH 29",
+   "text": "IN DECEMBER, a video of Jharkhand migrants narrating their plight in Cameroon went viral. In it, 47 migrants recruited by a Mumbai-based construction engineering company to install power lines in the central African country highlighted the months of exploitation and mistreatment they suffered - right from unpaid wages and inadequate food and water to threats from their employer. The SOS video caused outrage, leading the State Migrant Control Room (SMCR) of Jharkhand to launch a rescue mission in coordination with the Indian and Cameroon govern-ments to repatriate the workers in three phases until the first week of January. Launched by the Jharkhand government on March 27,2020, at the beginning of the Covid-19 pandemicas a crisis helpline, the\n\nSMCR of today is more than a control room: it is a single point access for everything pertaining to Jharkhand migrants, both domestic and international. From conducting rescue missions to providing legal aid, skill training and supporting migrants' families, the SMCR does it all. \"It began as a 24x7 helpline for lockdown-hit workers but has since become a one-stop solution to address the concerns of migrant workers and their families. In the last five years, we have handled over 11 lakh calls and resolved 66,831 cases,\" says\n\nShikha Lakra, head of Jharkhand's State Migrant Control Room - a body under the state's Department of Labour, Employment, Training and Skill Development. In 2023-24, for instance, the SMCR not only brought back 74 Jharkhand workers from Cameroon but also helped them recover Rs 69.77 lakh in unpaid dues. \"They were further enrolled in state welfare schemes to secure their future livelihoods,\" Lakra says. With 11 helplines - six land-lines and five WhatsApp numbers - SMCR provides migrant workers and their families around-the-clock counselling, legal guidance, and help with labour law violations. \"The lines are multilingual, offering help in Hindi as well as local dialects such as Santhali and Angika. In addition, one can also register their grievances with usviaemail or Twitter,\" she says.\n\nApart from spearheading rescue operations, the SMCRalso deals with trafficking, child labour and bonded labour cases and helps migrants tackle wage\n\ndisputes. \"It's also a hub for information on labour laws and government schemes for migrants and unorganised workers,\" Lakra says, adding thatits skill training programmes are tailored to suit market demands. The Safe and Responsible Migration Initiative (SRMI), launched under the SMCR in December 2021, is aimed at increasing social security and welfare coverage for migrant workers. \"It systematically registers",
+   "n_words": 409,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.6,
+ "flags": []
+}

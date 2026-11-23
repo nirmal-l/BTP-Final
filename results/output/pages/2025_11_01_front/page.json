@@ -1,0 +1,721 @@
+{
+ "version": "1.6",
+ "page_id": "2025_11_01_front",
+ "source_file": "2025-11-01_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-11-01_front.png",
+ "date": "2025-11-01",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 6,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 432,
+  "mean_line_conf": 89.02285356375269,
+  "orphan_words": 5,
+  "body_words_total": 1673
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      364,
+      746,
+      722,
+      780
+     ]
+    ],
+    "layout_words": 3,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "BUSINESS AS USUAL",
+   "ocr_conf": 95.66666666666667,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "BUSINESS AS USUAL",
+   "text": "",
+   "n_words": 0,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      810,
+      786,
+      1778,
+      1130
+     ],
+     [
+      812,
+      1171,
+      1729,
+      1374
+     ]
+    ],
+    "deck_boxes": [
+     [
+      814,
+      696,
+      1808,
+      744
+     ],
+     [
+      379,
+      1436,
+      704,
+      1481
+     ],
+     [
+      357,
+      1562,
+      726,
+      1725
+     ]
+    ],
+    "body_boxes": [
+     [
+      359,
+      2054,
+      725,
+      2203
+     ],
+     [
+      810,
+      1463,
+      1189,
+      1533
+     ],
+     [
+      809,
+      1581,
+      1251,
+      2162
+     ]
+    ],
+    "layout_words": 89
+   },
+   "headline_raw": "India, US seal 10-\nframework, sign:\nCritical to free, open Indo-Pacific, says\nRajnath; Hegseth calls it cornerstone\nfor regional stability and deterrence",
+   "deck_raw": "PACT SIGNED IN KUALA LUMPU >\nBIG PICTURE\nLIGHTER AT\nTHE END OF\nTHE SCALE",
+   "body_raw": "As new-generation\nweight-loss drugs enter\nthe market, tracking\nstories and successes\n\nAMRITANAYAK DUTTA\nNEW DELHI, OCTOBER 31\n\nAS THEY continue to negotiate a\nbilateral trade dealand thethorny\nissue of a tariff penalty by\nWashington over Delhi's purchase\nof Russian oil, India and the US\nFriday signed a 10-year Frame-\nwork for the US-India Major\nDefence Partnership, signalling\nstable ties between the two coun-\ntries inthe defence sector.\nThe pact was signed follow-\ning abilateral meeting between\nDefence Minister Rajnath Singh\nand his US counterpart Pete\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.53932584269663,
+   "ocr_low_conf_share": 0.033707865168539325,
+   "headline": "India, US seal 10- framework, sign: Critical to free, open Indo-Pacific, says Rajnath; Hegseth calls it cornerstone for regional stability and deterrence",
+   "deck": "PACT SIGNED IN KUALA LUMPU > BIG PICTURE LIGHTER AT THE END OF THE SCALE",
+   "byline": "AMRITANAYAK DUTTA; NEW DELHI, OCTOBER 31",
+   "text": "As new-generation weight-loss drugs enter the market, tracking stories and successes\n\nAS THEY continue to negotiate a bilateral trade dealand thethorny issue of a tariff penalty by Washington over Delhi's purchase of Russian oil, India and the US Friday signed a 10-year Framework for the US-India Major Defence Partnership, signalling stable ties between the two countries inthe defence sector. The pact was signed following abilateral meeting between Defence Minister Rajnath Singh and his US counterpart Pete",
+   "n_words": 76,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      458,
+      823,
+      631,
+      851
+     ]
+    ],
+    "layout_words": 2,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "By UNNY",
+   "ocr_conf": 91.5,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "By UNNY",
+   "n_words": 2,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      1313,
+      1516,
+      1677,
+      1609
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1334,
+      1662,
+      1700,
+      2123
+     ]
+    ],
+    "layout_words": 37
+   },
+   "headline_raw": "E . Over next\nia @ decade",
+   "deck_raw": "",
+   "body_raw": "DEFENCE INTEROPERABIL-\nITY, logistics, repair and\nmaintenance will be key\ncomponents of the frame-\nwork India's defence\ninventory includes US-\norigin ware such as Super\nHercules, Globemaster,\nPoseidon aircraft; Chin-\nooks, Seahawks and\nApaches; Harpoons;\nand M777 howitzers.",
+   "ocr_conf": 91.63157894736842,
+   "ocr_low_conf_share": 0.05263157894736842,
+   "headline": "E. Over next ia @ decade",
+   "deck": "",
+   "byline": "",
+   "text": "DEFENCE INTEROPERABIL-ITY, logistics, repair and maintenance will be key components of the framework India's defence inventory includes USorigin ware such as Super Hercules, Globemaster, Poseidon aircraft; Chin-ooks, Seahawks and Apaches; Harpoons; and M777 howitzers.",
+   "n_words": 34,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      3251,
+      2098,
+      4113,
+      2304
+     ]
+    ],
+    "deck_boxes": [
+     [
+      3252,
+      2351,
+      4129,
+      2482
+     ],
+     [
+      3343,
+      2559,
+      4087,
+      2603
+     ]
+    ],
+    "body_boxes": [
+     [
+      3295,
+      2656,
+      3625,
+      2719
+     ],
+     [
+      3559,
+      2879,
+      3585,
+      2915
+     ],
+     [
+      3249,
+      3159,
+      3689,
+      3275
+     ],
+     [
+      3249,
+      3325,
+      3691,
+      3827
+     ],
+     [
+      3529,
+      3083,
+      4137,
+      3113
+     ]
+    ],
+    "layout_words": 87
+   },
+   "headline_raw": "new hub for Indian\nmedical students",
+   "deck_raw": "Indian remittances for educationin\nGeorgia jump 5 times since 2018-19\n\u201cTRAVEL FOR EDUCATION\u2019 REMITTANCES",
+   "body_raw": "MGeorgia W Ukraine\nAmount inUSD million\n\n2)\nload\n\nABHINAYA HARIGOVIND\nNEW DELHI, OCTOBER 31\n\nWITH THE war in Ukraine con-\ntinuing in its fourth year and in-\nternational students switching\nto safer alternatives, Georgia is\nfast emerging as anew and fast-\ngrowing destination for Indian\nmedical aspirants, data shows.\nIndians spent $50.25 million\non education in Georgia in 2024-\n25, anearly five-fold surge from\n$10.33 million in 2018-19, ac-\ncording to data on Reserve Bank\nof India\u2019s Liberalised Remittance\n\nData from RBI under Liberalised Remittance Scheme",
+   "ocr_conf": 89.68604651162791,
+   "ocr_low_conf_share": 0.05813953488372093,
+   "headline": "new hub for Indian medical students",
+   "deck": "Indian remittances for educationin Georgia jump 5 times since 2018-19 \"TRAVEL FOR EDUCATION' REMITTANCES",
+   "byline": "",
+   "text": "MGeorgia W Ukraine Amount inUSD million\n\nload\n\nABHINAYA HARIGOVIND NEW DELHI, OCTOBER 31\n\nWITH THE war in Ukraine continuing in its fourth year and international students switching to safer alternatives, Georgia is fast emerging as anew and fast-growing destination for Indian medical aspirants, data shows. Indians spent $50.25 million on education in Georgia in 2024- 25, anearly five-fold surge from $10.33 million in 2018-19, according to data on Reserve Bank of India's Liberalised Remittance\n\nData from RBI under Liberalised Remittance Scheme",
+   "n_words": 81,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      319,
+      2315,
+      1227,
+      2781
+     ],
+     [
+      319,
+      2807,
+      1197,
+      2939
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      3837,
+      1250,
+      4142
+     ],
+     [
+      319,
+      3875,
+      675,
+      3945
+     ],
+     [
+      318,
+      4149,
+      1249,
+      4662
+     ]
+    ],
+    "layout_words": 141
+   },
+   "headline_raw": "In Begusarai, Nitish\u2019s\naid for women keeps\nkey voter base intact,\nbut youth restless\nWomen credit CM for development\nof state, youth ask: Where are jobs?",
+   "deck_raw": "",
+   "body_raw": ". * help groups (SHGs) better\nSANTOSH SINGH known as \u201cJeevikas\u201d. Ask them\nBEGUSARAI, OCTOBER 31 about the \u201cDashazari Yojana\u201d \u2014\n\u2014\u2014_\u2014\u2014 the Mukhya Mantri Mahila\nTRAVELLING ACROSS the Rajen- \u2014_ Rojgar Yojana under which one\ndra Setu over the Ganga, eligible woman from\none crosses over from each family will receive\nMokama in Patnadistrict [ | an initial financial aid of\n\nSANTOSH SINGH\nBEGUSARAI, OCTOBER 31\n\ntoBegusarai,onceknown 1 oe Rs 10,000 to start an in-\nas the \u201cLeningrad of come-generating activity\nBihar\u2019. A road turns right DECISION of herchoice \u2014 and most\nat Bihat, heading towards 2025 say they have received\nthe village of Rachiyahi, BIHAR the money, while others\nwhere Chief Minister are hopeful of getting it\nNitish Kumarisset toaddressthe sooner rather than later. Some\nsecondofhisfivepublicmeetings admit to having used the money\nof the day. to buy new clothes and crackers\nScoresofwomenmaketheir for their children during Diwali,\nway to the rally venue inthe or spent it on fruits and other\nMatihani Assembly constituency. \u2014_ items for Chhath Puja. Some say\nSeveral of them belong to self- CONTINUED ON PAGE 2",
+   "ocr_conf": 88.35164835164835,
+   "ocr_low_conf_share": 0.07692307692307693,
+   "headline": "In Begusarai, Nitish's aid for women keeps key voter base intact, but youth restless Women credit CM for development of state, youth ask: Where are jobs?",
+   "deck": "",
+   "byline": "SANTOSH SINGH; BEGUSARAI, OCTOBER 31",
+   "text": ". * help groups (SHGs) better SANTOSH SINGH known as \"Jeevikas\". Ask them BEGUSARAI, OCTOBER 31 about the \"Dashazari Yojana\" - - - _ - - the Mukhya Mantri Mahila TRAVELLING ACROSS the Rajen- - _ Rojgar Yojana under which one dra Setu over the Ganga, eligible woman from one crosses over from each family will receive Mokama in Patnadistrict [ an initial financial aid of\n\ntoBegusarai,onceknown 1 oe Rs 10,000 to start an inas the \"Leningrad of come-generating activity Bihar'. A road turns right DECISION of herchoice - and most at Bihat, heading towards 2025 say they have received the village of Rachiyahi, BIHAR the money, while others where Chief Minister are hopeful of getting it Nitish Kumarisset toaddressthe sooner rather than later. Some secondofhisfivepublicmeetings admit to having used the money of the day. to buy new clothes and crackers Scoresofwomenmaketheir for their children during Diwali, way to the rally venue inthe or spent it on fruits and other Matihani Assembly constituency. - _ items for Chhath Puja. Some say",
+   "n_words": 171,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      2762,
+      2318,
+      3196,
+      2640
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2762,
+      2730,
+      3127,
+      2800
+     ],
+     [
+      2759,
+      2848,
+      3202,
+      4222
+     ]
+    ],
+    "layout_words": 171
+   },
+   "headline_raw": "Ford to revive\nChennai plant\nwith %3,250-cr\ninvestment",
+   "deck_raw": "",
+   "body_raw": "ARUN JANARDHANAN\nCHENNAI, OCTOBER 31\n\nIN A move that signals both a\nstrategic shift and a renewed bet,\nFord Motor Company on Friday\nconfirmed it will restart manu-\nfacturing at its Chennai plant,\nfour years after halting vehicle\nproduction in the country. The\nautomaker will invest Rs 3,250\ncrore to set up a next-generation\npowertrain facility that will ex-\nclusively produce advanced en-\ngines for global markets.\nThe project \u2014 one of the\nlargest fresh investments by a\nlegacy US automaker in India fol-\nlowing the post-pandemic exit\ncycles \u2014 is expected to generate\nmore than 600 direct jobs,\nalongside hundreds of indirect\nroles across suppliers and logis-\ntics networks.\nThe move does not signal an\nimmediate return of Ford carsto\nIndian showrooms. The com-\npany has not announced plansto\nre-enter the domestic passenger\nvehicle market, and executives\nhave indicated that the Chennai\nfacility\u2019s output will be geared\npredominantly toward export\nprograms aligned with Ford's\nglobal powertrain roadmap.\nThe company halted produc-\ntion at its Maraimalai Nagar\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.7953216374269,
+   "ocr_low_conf_share": 0.017543859649122806,
+   "headline": "Ford to revive Chennai plant investment",
+   "deck": "",
+   "byline": "ARUN JANARDHANAN; CHENNAI, OCTOBER 31",
+   "text": "IN A move that signals both a strategic shift and a renewed bet, Ford Motor Company on Friday confirmed it will restart manufacturing at its Chennai plant, four years after halting vehicle production in the country. The automaker will invest Rs 3,250 crore to set up a next-generation powertrain facility that will exclusively produce advanced engines for global markets. The project - one of the largest fresh investments by a legacy US automaker in India following the post-pandemic exit cycles - is expected to generate more than 600 direct jobs, alongside hundreds of indirect roles across suppliers and logistics networks. The move does not signal an immediate return of Ford carsto Indian showrooms. The company has not announced plansto re-enter the domestic passenger vehicle market, and executives have indicated that the Chennai facility's output will be geared predominantly toward export programs aligned with Ford's global powertrain roadmap. The company halted production at its Maraimalai Nagar",
+   "n_words": 155,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3767,
+      3168,
+      4149,
+      3362
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3819,
+      3385,
+      4098,
+      3413
+     ],
+     [
+      3737,
+      3483,
+      4180,
+      3827
+     ]
+    ],
+    "layout_words": 42
+   },
+   "headline_raw": "YouR RIGHT\nTO KNOW\nAN EXPRESS RTI",
+   "deck_raw": "",
+   "body_raw": "APPLICATION\n\nScheme (LRS), obtained under\nthe RTI Act.\nThis rise, the LRS data shows,\nhas come largely at Ukraine's ex-\npense, with Indian remittances for\neducation there dropping from\n$14.80 million in 2018-19 to just\n$2.40 million in 2024-25,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 87.34883720930233,
+   "ocr_low_conf_share": 0.06976744186046512,
+   "headline": "YouR RIGHT TO KNOW AN EXPRESS RTI",
+   "deck": "",
+   "byline": "APPLICATION",
+   "text": "Scheme (LRS), obtained under the RTI Act. This rise, the LRS data shows, has come largely at Ukraine's expense, with Indian remittances for education there dropping from $14.80 million in 2018-19 to just",
+   "n_words": 33,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      3357,
+      2725,
+      3607
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1784,
+      3600,
+      1920,
+      3656
+     ]
+    ],
+    "body_boxes": [
+     [
+      1295,
+      3640,
+      1643,
+      3710
+     ],
+     [
+      1295,
+      3759,
+      1740,
+      4228
+     ],
+     [
+      1787,
+      3948,
+      2184,
+      4028
+     ],
+     [
+      1785,
+      4115,
+      2224,
+      4228
+     ],
+     [
+      2272,
+      3600,
+      2717,
+      4222
+     ]
+    ],
+    "layout_words": 164
+   },
+   "headline_raw": "Patel wanted to merge all of Kashmir\nwith India, Nehru didn\u2019t let him: PM",
+   "deck_raw": "INSIDE",
+   "body_raw": "ADITIRAJA\nVADODARA, OCTOBER 31\n\nPRIME MINISTER Narendra\nModi on Friday targeted the\nCongress for adopting a \u201cspine-\nless attitude\u201d while dealing with\nissues related to the country\u2019s\nsovereignty, and said that while\nSardar Vallabhbhai Patel wanted\n\u201call of Kashmir\u201d to be united\nwith India, Jawaharlal Nehru\n\u201cdid not let his wish be fulfilled\u201d.\nThe Prime Minister was\nspeaking at the Rashtriya Ekta\n\nKHARGE CALLS FOR\nBAN ON RSS PAGE7\n\nDiwas (National Unity Day) cel-\nebrations at Ekta Nagar in\nGujarat\u2019s Narmada district. On\n\nthe occasion of Sardar Patel's\n150th birth anniversary, Modi\npaid floral tribute at the Statue of\nUnity and presided over the Ekta\nDiwas Parade.\nAddressing the gathering,\nModi said, \u201cMany among today\u2019s\nyouth may not be aware that\nSardar Saheb wanted the acces-\nsion of all of Kashmir in the same\nway that he merged other\nprincely states (with India). But\nNehruji did not let his wish be\nfulfilled. Kashmir was divided\nwith aseparate constitution and\nCONTINUED ON PAGE2",
+   "ocr_conf": 93.14814814814815,
+   "ocr_low_conf_share": 0.012345679012345678,
+   "headline": "Patel wanted to merge all of Kashmir with India, Nehru didn't let him: PM",
+   "deck": "",
+   "byline": "ADITIRAJA; VADODARA, OCTOBER 31",
+   "text": "PRIME MINISTER Narendra Modi on Friday targeted the Congress for adopting a \"spineless attitude\" while dealing with issues related to the country's sovereignty, and said that while Sardar Vallabhbhai Patel wanted \"all of Kashmir\" to be united with India, Jawaharlal Nehru \"did not let his wish be fulfilled\". The Prime Minister was speaking at the Rashtriya Ekta\n\nKHARGE CALLS FOR BAN ON RSS PAGE7\n\nDiwas (National Unity Day) celebrations at Ekta Nagar in Gujarat's Narmada district. On\n\nthe occasion of Sardar Patel's 150th birth anniversary, Modi paid floral tribute at the Statue of Unity and presided over the Ekta Diwas Parade. Addressing the gathering, Modi said, \"Many among today's youth may not be aware that Sardar Saheb wanted the accession of all of Kashmir in the same way that he merged other princely states (with India). But Nehruji did not let his wish be fulfilled. Kashmir was divided with aseparate constitution and",
+   "n_words": 152,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      3901,
+      4111,
+      4192
+     ],
+     [
+      3250,
+      4222,
+      4131,
+      4368
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4394,
+      3626,
+      4464
+     ],
+     [
+      3247,
+      4512,
+      3693,
+      5141
+     ],
+     [
+      3733,
+      4355,
+      4181,
+      5134
+     ]
+    ],
+    "layout_words": 183
+   },
+   "headline_raw": "Probe agencies can\u2019t\nsummon lawyers over\nadvice to clients unless\nexceptions satisfied: SC",
+   "deck_raw": "",
+   "body_raw": "ANANTHAKRISHNANG\nNEW DELHI, OCTOBER 31\n\nOBSERVING THAT \u201cfacts and cir-\ncumstances of a crime commit-\nted, oranFIR registered, is not to\nbe elicited from the Advocate\nwho represents the accused,\nwhich again is a reflection of the\nabject failure ofthe investigating\nagency\u201d, the Supreme Court\nFriday issued a series of direc-\ntions to ensure that lawyers are\nnot summoned by investigating\nagencies ina case involving their\nclient unless exceptions laid out\nin the Bharatiya Sakshya\nAdhiniyam (BSA) are satisfied.\nThe bench of Chief Justice of\n\nIndia BR Gavai and Justices K\nVinod Chandran and NV Anjaria\nsaid, \u201cIt is for the investigator to\nobtain independent evidence of\nthe culpability of the accused.\nThe position of trust the\nAdvocate occupies vis-a-vis his\nclient cannot be put to test by an\nattempt to breach the profes-\nsional confidence, conferred with\nasolemn privilege under Section\n132 (of BSA); which has reflec-\ntions of theconstitutional protec-\ntion against self-incrimination.\u201d\nThe question was referred to\nthe three-judge bench by atwo-\njudge benchinan appeal against\na Gujarat High Court order which\nrefused to quash a summons\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.40760869565217,
+   "ocr_low_conf_share": 0.05434782608695652,
+   "headline": "Probe agencies can't summon lawyers over advice to clients unless exceptions satisfied: SC",
+   "deck": "",
+   "byline": "ANANTHAKRISHNANG; NEW DELHI, OCTOBER 31",
+   "text": "OBSERVING THAT \"facts and circumstances of a crime committed, oranFIR registered, is not to be elicited from the Advocate who represents the accused, which again is a reflection of the abject failure ofthe investigating agency\", the Supreme Court Friday issued a series of directions to ensure that lawyers are not summoned by investigating agencies ina case involving their client unless exceptions laid out in the Bharatiya Sakshya Adhiniyam (BSA) are satisfied. The bench of Chief Justice of\n\nIndia BR Gavai and Justices K Vinod Chandran and NV Anjaria said, \"It is for the investigator to obtain independent evidence of the culpability of the accused. The position of trust the Advocate occupies vis-a-vis his client cannot be put to test by an attempt to breach the professional confidence, conferred with asolemn privilege under Section 132 (of BSA); which has reflections of theconstitutional protection against self-incrimination.\" The question was referred to the three-judge bench by atwo-judge benchinan appeal against a Gujarat High Court order which refused to quash a summons",
+   "n_words": 168,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      910,
+      4149,
+      1248,
+      4192
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      808,
+      4232,
+      1249,
+      4419
+     ]
+    ],
+    "layout_words": 23
+   },
+   "headline_raw": "Rs 10,000 to start an in-",
+   "deck_raw": "",
+   "body_raw": "1ON| fherchoice\u2014 and most\n5 say they have received\nR the money, while others\nare hopeful of getting it\nsooner rather than later. Some",
+   "ocr_conf": 79.625,
+   "ocr_low_conf_share": 0.20833333333333334,
+   "headline": "Rs 10,000 to start an in-",
+   "deck": "",
+   "byline": "",
+   "text": "1ON fherchoice - and most 5 say they have received R the money, while others are hopeful of getting it sooner rather than later. Some",
+   "n_words": 25,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      1294,
+      4304,
+      3189,
+      4565
+     ],
+     [
+      1296,
+      4556,
+      1614,
+      4616
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      1294,
+      4628,
+      1732,
+      4698
+     ],
+     [
+      1294,
+      4749,
+      1736,
+      5139
+     ],
+     [
+      2761,
+      4551,
+      3201,
+      5133
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "Mumbai hostage plan \u2018hatched 3 months ago\u2019:\nProcuring motion sensors, holding dry runs\nMOHAMED THAVER",
+   "deck_raw": "",
+   "body_raw": "& MANISH KUMAR PATHAK\nMUMBAI, OCTOBER 31\n\nINVESTIGATORS SUSPECT the al-\nleged perpetrator of Thursday's\nhostage crisis in Mumbai started\nplanning the \u201coperation\u201d about\n\u201cthree months ago\u201d \u2014 and then\nprocured motion sensors for\ntracking the police; enacted \u201cdry\nruns\u201d packaged as \u201crehearsals\u201d\nwith the child artists he kid-\nnapped and their parents; and,\n\ncut CCTV at the studio where he\nheld 19 hostages, The Indian\nExpress has learnt.\nThe parents of some of the\nchildren said the alleged\nhostage-taker, identified as en-\ntrepreneur Rohit Arya, helda \u201cre-\nhearsal shoot\u2019 of the kidnapping\nfor a \u201cweb-series audition\u201d just\na day before the incident \u2014 and\ninvolved them, too, in the two-\nhour exercise.\nEvenonThursday, a \u201cfinal re-\ntake\u201d was taken about two hours\nCONTINUED ON PAGE 2",
+   "ocr_conf": 93.14960629921259,
+   "ocr_low_conf_share": 0.015748031496062992,
+   "headline": "Mumbai hostage plan 'hatched 3 months ago': Procuring motion sensors, holding dry runs MOHAMED THAVER",
+   "deck": "",
+   "byline": "& MANISH KUMAR PATHAK; MUMBAI, OCTOBER 31",
+   "text": "INVESTIGATORS SUSPECT the alleged perpetrator of Thursday's hostage crisis in Mumbai started planning the \"operation\" about \"three months ago\" - and then procured motion sensors for tracking the police; enacted \"dry runs\" packaged as \"rehearsals\" with the child artists he kidnapped and their parents; and,\n\ncut CCTV at the studio where he held 19 hostages, The Indian Express has learnt. The parents of some of the children said the alleged hostage-taker, identified as entrepreneur Rohit Arya, helda \"rehearsal shoot' of the kidnapping for a \"web-series audition\" just a day before the incident - and involved them, too, in the twohour exercise. EvenonThursday, a \"final retake\" was taken about two hours",
+   "n_words": 110,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      317,
+      4686,
+      1248,
+      4799
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      842,
+      4849,
+      1165,
+      5043
+     ]
+    ],
+    "layout_words": 17
+   },
+   "headline_raw": "\u2014 DECISION ty 2025 \u2014\u2014\u2014\u2014",
+   "deck_raw": "",
+   "body_raw": "@ Jan Suraaj leads way\nin fielding Muslims\nand women; a quarter\nof candidates have\npostgraduate degrees",
+   "ocr_conf": 94.76470588235294,
+   "ocr_low_conf_share": 0.0,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "@ Jan Suraaj leads way in fielding Muslims and women; a quarter of candidates have postgraduate degrees",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      322,
+      5264,
+      4165,
+      5391
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5434,
+      499,
+      5507
+     ],
+     [
+      315,
+      5570,
+      757,
+      5727
+     ],
+     [
+      316,
+      5775,
+      758,
+      6126
+     ],
+     [
+      803,
+      5419,
+      1247,
+      6127
+     ],
+     [
+      1293,
+      5419,
+      1735,
+      5771
+     ],
+     [
+      1293,
+      5776,
+      1735,
+      6127
+     ],
+     [
+      2757,
+      5421,
+      3201,
+      6128
+     ],
+     [
+      3243,
+      5421,
+      3689,
+      6129
+     ],
+     [
+      3735,
+      5422,
+      4177,
+      6122
+     ]
+    ],
+    "layout_words": 539
+   },
+   "headline_raw": "\u201cThe child who was so quiet, hid herself... now she\u2019s able to face everyone\u2019",
+   "deck_raw": "",
+   "body_raw": "PAGE 1\nANCHOR\n\nSHANKAR NARAYAN\n& DEVENDRAPANDEY\nNAVIMUMBAI, OCTOBER 31\n\nDEFIANT FIGHTBACKS and leav-\ning it all out there for the teamis\nsomething Jemimah Rodrigues\nhas regularly done for her school,\nSt Joseph\u2019s Convent in Bandra\nWest, and for Mumbai cricket.\nAnd in her backyard in Navi\nMumbai, on the biggest stage,\nshe got the better of the mighty\n\nAussies Thursday and helped\nIndia take a monumental leap\ninto the World Cup final.\nJemimah'sfirst coachand father,\nIvan, who wasthere on the side-\nlinesof the emotionally charged\ngame with his wife, came up\nwith a biblical David vs Goliath\nreference to describe the tense\nbattle between the tall Aussie\nbowlers and his daughter.\n\u201cI always believed in her ca-\npabilities,\u201d the proud father Ivan\ntells The Indian Express. \u201cThat\nDavid vs Goliath story isso apt \u2014\nthe little David, Jjemimah, proved\nherself under pressure against\nthe mighty Goliath, the Aussies.\n\nAlot of hard work has gone into\nher preparation right from her\nchildhood . It was God's favor\nand kindness that this victory\ncame at the right time and\nagainst the strongest team,\u201d he\nsays, urging that she needs to\nbattle once more for India on\nSunday.\n\nGrowing up in an all-girls\nschool, Rodrigues was intro-\nduced to spirituality early in life\nand, asshe matured froma quiet\nyoung girl to. a confident woman,\nher faith in the Almighty only\ndeepened.\n\u201cIn class, she was a very quiet\nstudent and she knew the pur-\n\npose of her life,\u201d says her former\nprincipal Sister Blanche. \u201cShe\nwas good in studies, so that's\nwhy she could manage both that\nand her games practice. She\nwould adjust her exam time, her\nstudy time, and she was very\nmuch like God-fearing, and her\nwhole mind was trusting in the\nLord that God is with me, and he\nwill bless me and that\u2019s why she\nwas able to manage. It was a hec-\ntictime, but she was able to cope\nwith all that in school.\u201d\nLike every active Bandraite,\nJemimah dabbied at cricket,\nfootball and basketball, but\neventually, it was with a broad\n\nwooden bat that she brought the\nbest out of her personality, on\nthe field. \u201cShe played cricket and\nfootball, in which she was very\ngood, along with hockey, basket-\nball,as well as throwball and vol-\nleyball. She had a passion for all\ndifferent games. But then she\nmade the choice for cricket,\u201d her\nformer school principal says.\nSport also turned a very in-\ntroverted girl into a happy, out-\ngoing personality. \"As I said in\nthe beginning, she was very\nquiet, but afterwards, when she\nstarted getting into the game\nand going for different matches\nslowly, slowly her personality\n\nalso developed. At the end, in the\n10th Standard, she was ap-\npointed the school games cap-\ntain,\u201d says Sister Blanche.\n\u201cSlowly, she became so bold\nand so victorious. The child who\nwas so quiet and hid herself, you\nknow, now she's able to face\neveryone,\u201d Sister Blanche says,\nadding Jemimah recently revis-\nited her alma mater and left a\ntremendous impression on stu-\ndents, asshe grew in confidence\nwith the India crest.\n\u201cQuite a big difference be-\ntween what she(Jemimah) was\nin her school and what she is\nCONTINUED ON PAGE 2",
+   "ocr_conf": 92.14684014869889,
+   "ocr_low_conf_share": 0.031598513011152414,
+   "headline": "\"The child who was so quiet, hid herself... now she's able to face everyone'",
+   "deck": "",
+   "byline": "ANCHOR; SHANKAR NARAYAN; & DEVENDRAPANDEY; NAVIMUMBAI, OCTOBER 31",
+   "text": "DEFIANT FIGHTBACKS and leaving it all out there for the teamis something Jemimah Rodrigues has regularly done for her school, St Joseph's Convent in Bandra West, and for Mumbai cricket. And in her backyard in Navi Mumbai, on the biggest stage, she got the better of the mighty\n\nAussies Thursday and helped India take a monumental leap into the World Cup final. Jemimah'sfirst coachand father, Ivan, who wasthere on the side-linesof the emotionally charged game with his wife, came up with a biblical David vs Goliath reference to describe the tense battle between the tall Aussie bowlers and his daughter. \"I always believed in her capabilities,\" the proud father Ivan tells The Indian Express. \"That David vs Goliath story isso apt - the little David, Jjemimah, proved herself under pressure against the mighty Goliath, the Aussies.\n\nAlot of hard work has gone into her preparation right from her childhood. It was God's favor and kindness that this victory came at the right time and against the strongest team,\" he says, urging that she needs to battle once more for India on Sunday.\n\nGrowing up in an all-girls school, Rodrigues was introduced to spirituality early in life and, asshe matured froma quiet young girl to. a confident woman, her faith in the Almighty only deepened. \"In class, she was a very quiet student and she knew the purpose of her life,\" says her former principal Sister Blanche. \"She was good in studies, so that's why she could manage both that and her games practice. She would adjust her exam time, her study time, and she was very much like God-fearing, and her whole mind was trusting in the Lord that God is with me, and he will bless me and that's why she was able to manage. It was a hectictime, but she was able to cope with all that in school.\" Like every active Bandraite, Jemimah dabbied at cricket, football and basketball, but eventually, it was with a broad\n\nwooden bat that she brought the best out of her personality, on the field. \"She played cricket and football, in which she was very good, along with hockey, basketball,as well as throwball and volleyball. She had a passion for all different games. But then she made the choice for cricket,\" her former school principal says. Sport also turned a very introverted girl into a happy, outgoing personality. \"As I said in the beginning, she was very quiet, but afterwards, when she started getting into the game and going for different matches slowly, slowly her personality\n\nalso developed. At the end, in the 10th Standard, she was appointed the school games captain,\" says Sister Blanche. \"Slowly, she became so bold and so victorious. The child who was so quiet and hid herself, you know, now she's able to face everyone,\" Sister Blanche says, adding Jemimah recently revisited her alma mater and left a tremendous impression on students, asshe grew in confidence with the India crest. \"Quite a big difference between what she(Jemimah) was in her school and what she is",
+   "n_words": 508,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 16.9,
+ "flags": []
+}

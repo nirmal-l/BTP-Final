@@ -1,0 +1,715 @@
+{
+ "version": "1.6",
+ "page_id": "2025_01_03_front",
+ "source_file": "2025-01-03_front.png",
+ "path": "/Users/nirmal/Documents/BTP_FINAL/results/raw_scraped/2025-01-03_front.png",
+ "date": "2025-01-03",
+ "filename_page_type": "front",
+ "edition": null,
+ "page_type": "front",
+ "skew_deg": -0.05,
+ "n_photos": 7,
+ "layout_stats": {
+  "H": 34.0,
+  "masthead_y": 623,
+  "n_lines": 493,
+  "mean_line_conf": 88.535752800839,
+  "orphan_words": 16,
+  "body_words_total": 1987
+ },
+ "articles": [
+  {
+   "n": 1,
+   "layout": {
+    "headline_boxes": [
+     [
+      366,
+      701,
+      723,
+      784
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      459,
+      823,
+      625,
+      852
+     ],
+     [
+      324,
+      1472,
+      463,
+      1503
+     ],
+     [
+      319,
+      1851,
+      695,
+      2086
+     ]
+    ],
+    "layout_words": 12
+   },
+   "headline_raw": "BUSINESS AS USUAL",
+   "deck_raw": "",
+   "body_raw": "By UNNY\n\nSPORT\n\nKHEL RATNA FOR\nMANU, GUKESH,\nHARMANPREET,\nPRAVEENKUMAR\nPAGE 16",
+   "ocr_conf": 78.0,
+   "ocr_low_conf_share": 0.16666666666666666,
+   "headline": "BUSINESS AS USUAL",
+   "deck": "",
+   "byline": "SPORT",
+   "text": "By UNNY\n\nKHEL RATNA FOR MANU, GUKESH, HARMANPREET, PRAVEENKUMAR",
+   "n_words": 9,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 2,
+   "layout": {
+    "headline_boxes": [
+     [
+      811,
+      696,
+      3197,
+      759
+     ],
+     [
+      811,
+      784,
+      3194,
+      1142
+     ],
+     [
+      853,
+      1357,
+      1698,
+      1429
+     ]
+    ],
+    "deck_boxes": [
+     [
+      811,
+      1170,
+      1723,
+      1304
+     ]
+    ],
+    "body_boxes": [
+     [
+      805,
+      1697,
+      1729,
+      1774
+     ],
+     [
+      1295,
+      1857,
+      1739,
+      2875
+     ]
+    ],
+    "layout_words": 146
+   },
+   "headline_raw": "WILL LOOK AT PITCH AND DECIDE (ON ROHIT): GAMBHIR AHEAD OF FINAL TEST\nMelbourne effect: First time, captain to\nsit out, Bumrah steps into Rohit\u2019s shoes\nGambhir cracks whip in dressing room: *Rahut ho gaya\u2019\nees \u2014\u2014\u2014 . \u201cEET \u2014 ne een \u00abee",
+   "deck_raw": "Head coach: Had \u2018honest words\u2019 with\nplayers, team \u2018lacked fight\u2019 this series",
+   "body_raw": "The Indian Express first reported on the dressing downin the\ndressing room on January 1\n\nthrowdowns There was no offi-\ncial announcement, but by\nevening the word was out \u2014\nRohit, who has been struggling\nfor runs, had \u201copted to rest\u201d\nwhile vice-captain Jasprit\nBumrah would lead the side.\nThe team seemed to take the\nchange at the topinits stride.\nAfter the press conference, Rohit,\nBumrah and Gambhir were seen\nsitting in the bucket-seats out-\nside their dressing room \u2014 chat-\nting, back-slapping and laughing.\nAfter this short meeting, Rohit\nwalked towardsthe team bus, to\nbe greeted by aroar froma small\ncrowd lined up outside. \u201cRohit,\nRohit,\" they chanted, and the\n\u201crested\u201d captain gave a big smile\nas he sauntered int thebus.\nIt was an unusual day. The\npre-match press conference,\nslated to start at 1.10 pm, began\nnearly half-an-hour late: word\nCONTINUEDON PAGE2",
+   "ocr_conf": 88.44444444444444,
+   "ocr_low_conf_share": 0.06944444444444445,
+   "headline": "WILL LOOK AT PITCH AND DECIDE (ON ROHIT): GAMBHIR AHEAD OF FINAL TEST Melbourne effect: First time, captain to sit out, Bumrah steps into Rohit's shoes Gambhir cracks whip in dressing room: *Rahut ho gaya' ees - - -. \"EET - ne een \u00abee",
+   "deck": "Head coach: Had 'honest words' with players, team 'lacked fight' this series",
+   "byline": "",
+   "text": "The Indian Express first reported on the dressing downin the dressing room on January 1\n\nthrowdowns There was no official announcement, but by evening the word was out - Rohit, who has been struggling for runs, had \"opted to rest\" while vice-captain Jasprit Bumrah would lead the side. The team seemed to take the change at the topinits stride. After the press conference, Rohit, Bumrah and Gambhir were seen sitting in the bucket-seats outside their dressing room - chatting, back-slapping and laughing. After this short meeting, Rohit walked towardsthe team bus, to be greeted by aroar froma small crowd lined up outside. \"Rohit, Rohit,\" they chanted, and the \"rested\" captain gave a big smile as he sauntered int thebus. It was an unusual day. The pre-match press conference, slated to start at 1.10 pm, began nearly half-an-hour late: word CONTINUEDON PAGE2",
+   "n_words": 141,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 3,
+   "layout": {
+    "headline_boxes": [
+     [
+      3250,
+      695,
+      4164,
+      1211
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3251,
+      1304,
+      3574,
+      1373
+     ],
+     [
+      3247,
+      1425,
+      3695,
+      2956
+     ],
+     [
+      3735,
+      1941,
+      4183,
+      2956
+     ],
+     [
+      3738,
+      3058,
+      3988,
+      3090
+     ],
+     [
+      3738,
+      3136,
+      4174,
+      3307
+     ]
+    ],
+    "layout_words": 341
+   },
+   "headline_raw": "Omar: PM assured\nstatehood for J&K,\nso let\u2019s give Centre\nfirst opportunity",
+   "deck_raw": "",
+   "body_raw": "NAVEEDIQBAL\nSRINAGAR, JANUARY 2\n\nIN HIS first media interaction\nhere Thursday, two-and-a-half\nmonths after taking over as\nJammu and Kashmir Chief\nMinister, Omar Abdullah\nstressed on restoration of state-\nhood to J&K but added that his\ngoverment was willing to wait\nfor the Centre to do so rather\nthan taking recourse to courts.\nWhile acknowledging that\ndual power centres were a prob-\nlemin running the government,\nOmar also emphasised that he\nwas under no pressure from the\nCentre, Raj Bhavan or the BJP to\n\u201cchange our thinking or our lan-\nguage orour agenda\u201d.\n\u201cFrom the first day, the PM\nandthe HM (Home Minister)\nhavetold me that You havebeen\ngiven the mandate and we arein\nthe Opposition There will be no\neffort to destabilise this govern-\nment. The support that we ex-\ntended to the Lieutenant\nGovemor will be extended to\nyou. We will respect the man-\ndate of the people of J&K\u2019. These\nare the words of the PM and\nHM,\u201d Omar said.\nPointing out that Prime\nMinister Narendra Modi had\nhimself committed to restora-\ntion of statehood to J&K, Omar\nsaid he wanted to give the Centre\n\u201cthe first opportunity\u201d to do so.\n\u201cEvery goverment orevery in-\ndividual has recourse to courts.\n\nBut that was never going to be\nour first option,\u201d he said.\nThe CM added that the Union\ngovemmentwasnot blind to the\n\u201cbenefits\u201d of the elections that\nSaW GHiTNATIC paiticipation by\nthe people of J&K. \u2018The biggest\npromise the Central goverment\nmade to J&K is restoration of\nstatehood... When the Supreme\nCourt gave its verdict... it said\nthat statehood be restored \u2018as\nsoon as possible\u2019. It has been a\nyear and we believe that that's\nenough.\u201d\nThe biggest responsibility of\nhis own government, Omar\nsaid, was to respect \u201cthe senti-\nments and aspirations\" of the\npeople of J&K.\nOnwhythelack of statehood\nwas his \u201cbiggest challenge\u201d, he\nsaid: \u201cJ&K runs a deficit budget,\ntherefore we are more depend-\nent on the Government of India\nCONTINUED ON PAGE 2\n\nTHE WORLD\n\nNEW ORLEANS\nATTACKER \u2018INSPIRED\u2019\nBY ISLAMIC STATE,\nU.S. ARMY VETERAN",
+   "ocr_conf": 91.16959064327486,
+   "ocr_low_conf_share": 0.038011695906432746,
+   "headline": "Omar: PM assured statehood for J&K, so let's give Centre first opportunity",
+   "deck": "",
+   "byline": "NAVEEDIQBAL; SRINAGAR, JANUARY 2",
+   "text": "IN HIS first media interaction here Thursday, two-and-a-half months after taking over as Jammu and Kashmir Chief Minister, Omar Abdullah stressed on restoration of statehood to J&K but added that his goverment was willing to wait for the Centre to do so rather than taking recourse to courts. While acknowledging that dual power centres were a prob-lemin running the government, Omar also emphasised that he was under no pressure from the Centre, Raj Bhavan or the BJP to \"change our thinking or our language orour agenda\". \"From the first day, the PM andthe HM (Home Minister) havetold me that You havebeen given the mandate and we arein the Opposition There will be no effort to destabilise this government. The support that we extended to the Lieutenant Govemor will be extended to you. We will respect the mandate of the people of J&K'. These are the words of the PM and HM,\" Omar said. Pointing out that Prime Minister Narendra Modi had himself committed to restoration of statehood to J&K, Omar said he wanted to give the Centre \"the first opportunity\" to do so. \"Every goverment orevery individual has recourse to courts.\n\nBut that was never going to be our first option,\" he said. The CM added that the Union govemmentwasnot blind to the \"benefits\" of the elections that SaW GHiTNATIC paiticipation by the people of J&K. 'The biggest promise the Central goverment made to J&K is restoration of statehood... When the Supreme Court gave its verdict... it said that statehood be restored 'as soon as possible'. It has been a year and we believe that that's enough.\" The biggest responsibility of his own government, Omar said, was to respect \"the sentiments and aspirations\" of the people of J&K. Onwhythelack of statehood was his \"biggest challenge\", he said: \"J&K runs a deficit budget, therefore we are more dependent on the Government of India\n\nTHE WORLD\n\nNEW ORLEANS ATTACKER 'INSPIRED' BY ISLAMIC STATE, U.S. ARMY VETERAN",
+   "n_words": 324,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 4,
+   "layout": {
+    "headline_boxes": [
+     [
+      2764,
+      1168,
+      3195,
+      1633
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      2763,
+      1700,
+      3096,
+      1769
+     ],
+     [
+      2761,
+      1819,
+      3207,
+      2401
+     ],
+     [
+      2762,
+      2412,
+      3207,
+      2876
+     ]
+    ],
+    "layout_words": 126
+   },
+   "headline_raw": "What after\nthe tough call:\nRohit, Virat\nand question\nof captaincy",
+   "deck_raw": "",
+   "body_raw": "SANDIPG\nNEW DELHI, JANUARY 2\n\nA YEAR of transition and trans-\nformations awaits Indian cricket\ninthe longest format. The ongo-\ning series isstillalive. India could\nwin in Sydney, retain the BGT,\nand are not yet out of the World\nTest Championship final race.\nBut there areclear signs that the\nselectors, head coach Gautam\n7 Gambhir and\ni team manage-\n< mentare thinking\nim e@| ahead and plan-\n* ning to leap into\nthe future of\n\nIndian cricket.\nIn the process, they would\ntake tough and important calls.\nLike the form and future of\nCaptain Rohit Sharma and Virat\nKohli, two struggling stalwarts;\nor who will be the captainwhen\nRohit retires; or the immediate\nfuture of Rishabh Pant. India's\nnext big Test seriesis six months\naway. They travel for a five-match\nCONTINUEDON PAGE2",
+   "ocr_conf": 88.67424242424242,
+   "ocr_low_conf_share": 0.06818181818181818,
+   "headline": "What after the tough call: Rohit, Virat and question of captaincy",
+   "deck": "",
+   "byline": "SANDIPG; NEW DELHI, JANUARY 2",
+   "text": "A YEAR of transition and trans-formations awaits Indian cricket inthe longest format. The ongoing series isstillalive. India could win in Sydney, retain the BGT, and are not yet out of the World Test Championship final race. But there areclear signs that the selectors, head coach Gautam 7 Gambhir and i team manage- < mentare thinking im e@ ahead and plan- * ning to leap into the future of\n\nIndian cricket. In the process, they would take tough and important calls. Like the form and future of Captain Rohit Sharma and Virat Kohli, two struggling stalwarts; or who will be the captainwhen Rohit retires; or the immediate future of Rishabh Pant. India's next big Test seriesis six months away. They travel for a five-match CONTINUEDON PAGE2",
+   "n_words": 125,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 5,
+   "layout": {
+    "headline_boxes": [
+     [
+      809,
+      2082,
+      1233,
+      2146
+     ]
+    ],
+    "deck_boxes": [
+     [
+      808,
+      2251,
+      1098,
+      2309
+     ]
+    ],
+    "body_boxes": [
+     [
+      808,
+      2213,
+      1065,
+      2241
+     ],
+     [
+      807,
+      2332,
+      1250,
+      2882
+     ]
+    ],
+    "layout_words": 73
+   },
+   "headline_raw": "EXPRESS IN AUSTRALIA",
+   "deck_raw": "SYDNEY, JANUARY 2",
+   "body_raw": "SRIRAM VEERA\n\nTHE EARLY hint of India captain\nRohit Sharma sitting out of the\nfinal Test of the Border-Gavaskar\nTrophy at Sydney came from\nhead coach Gautam Gambhir.\n\u201cWe shall look at the pitch and\ntake acall tomorrow,\" he said at\nthe pre-match pressconference\nhere on Thursday.\nIt's rare for the inclusion of a\nteam captain being subjectto the\nnature ofthe pitch.\nLater, Rohit had a light net\nsession, facing a few casual",
+   "ocr_conf": 93.87671232876713,
+   "ocr_low_conf_share": 0.0,
+   "headline": "EXPRESS IN AUSTRALIA",
+   "deck": "SYDNEY, JANUARY 2",
+   "byline": "SRIRAM VEERA",
+   "text": "THE EARLY hint of India captain Rohit Sharma sitting out of the final Test of the Border-Gavaskar Trophy at Sydney came from head coach Gautam Gambhir. \"We shall look at the pitch and take acall tomorrow,\" he said at the pre-match pressconference here on Thursday. It's rare for the inclusion of a team captain being subjectto the nature ofthe pitch. Later, Rohit had a light net session, facing a few casual",
+   "n_words": 71,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 6,
+   "layout": {
+    "headline_boxes": [
+     [
+      321,
+      2197,
+      761,
+      2669
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      322,
+      3085,
+      653,
+      3193
+     ],
+     [
+      318,
+      3243,
+      765,
+      3674
+     ],
+     [
+      320,
+      3718,
+      762,
+      3989
+     ]
+    ],
+    "layout_words": 88
+   },
+   "headline_raw": "Manmohan\nmemorial: Ekta\nSthal, Vijay\nGhat, Rashtriya\nSmriti Sthal on\nGovt shortlist",
+   "deck_raw": "",
+   "body_raw": "MAHENDER SINGH\nMANRAL\nNEW DELHI. JANUARY 2\n\nTOP OFFICIALS from the Ministry\nof Home Affairs, Ministry of\nHousing and Urban Affairs and\nCentral Public Works\nDepartment identified three po-\ntential sites for former Prime\nMinister Manmohan Singh's me-\nmorial \u2014 Ekta Sthal, Vijay Ghat\nand Rashtriya Smriti Sthal \u2014ata\nmeetingon Thursday aftemoon,\nThe Indian Express hasleamt.\n\nthe final site is awaited.\nEktaSthal is home to former\nPresident Giani Zail Singh's\nsamadhi: Vijay Ghat houses the\nmemorial of India\u2019s second\nPrime Minister Lal Bahadur\nShastri; Rashtriya Smriti Sthal is",
+   "ocr_conf": 90.11363636363636,
+   "ocr_low_conf_share": 0.045454545454545456,
+   "headline": "Manmohan memorial: Ekta Sthal, Vijay Ghat, Rashtriya Smriti Sthal on Govt shortlist",
+   "deck": "",
+   "byline": "MAHENDER SINGH; MANRAL; NEW DELHI. JANUARY 2",
+   "text": "TOP OFFICIALS from the Ministry of Home Affairs, Ministry of Housing and Urban Affairs and Central Public Works Department identified three potential sites for former Prime Minister Manmohan Singh's memorial - Ekta Sthal, Vijay Ghat and Rashtriya Smriti Sthal - ata meetingon Thursday aftemoon, The Indian Express hasleamt.\n\nthe final site is awaited. EktaSthal is home to former President Giani Zail Singh's samadhi: Vijay Ghat houses the memorial of India's second Prime Minister Lal Bahadur Shastri; Rashtriya Smriti Sthal is",
+   "n_words": 80,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 7,
+   "layout": {
+    "headline_boxes": [
+     [
+      1782,
+      3029,
+      3156,
+      3238
+     ],
+     [
+      1785,
+      3407,
+      2226,
+      3481
+     ]
+    ],
+    "deck_boxes": [
+     [
+      1784,
+      3364,
+      2118,
+      3414
+     ]
+    ],
+    "body_boxes": [
+     [
+      1783,
+      3322,
+      2062,
+      3350
+     ],
+     [
+      1779,
+      3481,
+      2225,
+      3991
+     ],
+     [
+      2515,
+      3322,
+      2711,
+      3508
+     ],
+     [
+      2269,
+      3602,
+      2716,
+      3991
+     ],
+     [
+      2759,
+      3285,
+      3203,
+      3952
+     ]
+    ],
+    "layout_words": 197
+   },
+   "headline_raw": "Iran minister in Delhi for talks to\nboost ties, trade via Chabahar\nDAYS BEFORE Donald Trump re-",
+   "deck_raw": "NEW DELHI, JANUARY 2",
+   "body_raw": "SHUBHAJITROY\n\ntums to the Oval Office, Majid\nTakht-Ravanchi, Iran's Deputy\nForeign Minister, has reached\nNew Dethi for talks Friday with\nExternal Affairs Minister S\nJaishankar and Foreign Sec retary\nVikram Misi. Iranis looking atin-\ncreasing bilateral rade with India,\nincluding via the Chabahar port\nFrom tourism to agriculture,\nTehran wants to boost ties with\nDelhi and bilateral talks will\ntake place before the Trumpad-\n\nMajid Takht-\nRavanchi,\nIran Deputy\nForeign\nMinister\n\nministration takes charge on\nJanuary 20.\nSources said Iran would also\nlike to get a sense from Indian\nofficials on dealing with sanc-\ntions \u2014 India has stopped buy-\ning oil from Iran due to the\nthreat of sanctions, but has con-\ntinued to buy oil from Russia\ndespite sanctions.\n\nA top Iranian government\nsource said while the \u201ccircum-\nstances\u201d of Russia and [ran are\n\u201cdifferent\u201d, these questions\nmerit discussions. \u201cWe don't\nwant to deal with the past, but\nwant to look into the future,\u201d the\nsource said.\nFor Tehran, which has suf-\nfered from the economic sanc-\ntions imposed during Trump's\nfirst term, increasing trade with\nIndiais \u201cvery important\". Tehran\nhopesto diversify to other areas,\nincluding agriculture and petro-\nchemical products through the\nChabahar port.",
+   "ocr_conf": 90.10659898477158,
+   "ocr_low_conf_share": 0.050761421319796954,
+   "headline": "Iran minister in Delhi for talks to boost ties, trade via Chabahar DAYS BEFORE Donald Trump re-",
+   "deck": "NEW DELHI, JANUARY 2",
+   "byline": "SHUBHAJITROY",
+   "text": "tums to the Oval Office, Majid Takht-Ravanchi, Iran's Deputy Foreign Minister, has reached New Dethi for talks Friday with External Affairs Minister S Jaishankar and Foreign Sec retary Vikram Misi. Iranis looking atincreasing bilateral rade with India, including via the Chabahar port From tourism to agriculture, Tehran wants to boost ties with Delhi and bilateral talks will take place before the Trumpad-\n\nMajid Takht-Ravanchi, Iran Deputy Foreign Minister\n\nministration takes charge on January 20. Sources said Iran would also like to get a sense from Indian officials on dealing with sanctions - India has stopped buying oil from Iran due to the threat of sanctions, but has continued to buy oil from Russia despite sanctions.\n\nA top Iranian government source said while the \"circumstances\" of Russia and [ran are \"different\", these questions merit discussions. \"We don't want to deal with the past, but want to look into the future,\" the source said. For Tehran, which has suffered from the economic sanctions imposed during Trump's first term, increasing trade with Indiais \"very important\". Tehran hopesto diversify to other areas, including agriculture and petrochemical products through the Chabahar port.",
+   "n_words": 187,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 8,
+   "layout": {
+    "headline_boxes": [
+     [
+      3738,
+      3324,
+      4178,
+      3374
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3737,
+      3387,
+      4159,
+      3512
+     ]
+    ],
+    "layout_words": 8
+   },
+   "headline_raw": "ONE KILLED IN TESLA",
+   "deck_raw": "",
+   "body_raw": "TRUCK BLAST\nOUTSIDE TRUMP\u2019S\nVEGAS HOTEL pace 12",
+   "ocr_conf": 73.375,
+   "ocr_low_conf_share": 0.25,
+   "headline": "ONE KILLED IN TESLA",
+   "deck": "",
+   "byline": "TRUCK BLAST; OUTSIDE TRUMP'S",
+   "text": "VEGAS HOTEL pace 12",
+   "n_words": 4,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 9,
+   "layout": {
+    "headline_boxes": [
+     [
+      3246,
+      3623,
+      4168,
+      4074
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      3248,
+      4156,
+      3611,
+      4225
+     ],
+     [
+      3246,
+      4274,
+      3692,
+      5140
+     ],
+     [
+      3979,
+      4195,
+      4172,
+      4342
+     ],
+     [
+      3736,
+      4432,
+      4182,
+      5132
+     ]
+    ],
+    "layout_words": 196
+   },
+   "headline_raw": "Unless there is clear\nproof, we cannot take\naction: CM Naidu on\nAdani power contract",
+   "deck_raw": "",
+   "body_raw": "SREENIVAS JANYALA\nHYDERABAD, JANUARY 2\n\nANDHRA PRADESH Chief\nMinister N Chandrababu Naidu\nhas said that the Solar Energy\nCorporation of India\u2019s agree-\nment to purchase power from\nthe Adani Group was an advan-\ntage for the state government\nand any action on bribery\ncharges would be takenonly a\nter athorough examination of\nthe records.\n\u201cWe will move ahead as per\nthe provisionsof law after exam-\nining the records,\u201d Naidusaidon\nWednesday at the TDP's head-\nquarters at Mangalagiri. On\nTuesday, the CM said in\nVijayawada that the state gov-\nernment cannot scrap the con-\ntracts unless there is adequate\nproof of irregularities.\n\u201cWe have to pay high penal-\n\n\u2018Will move\nahead as per\nprovisions\nof law\n\nties if we scrap the contracts.\nUnless there is clear proof, we\ncannot take action,\u201d he said.\nThe development comes\nmore than a month after\nGautam Adani's indictmentin\nthe United States over allega-\ntions of bribing Indian govem-\nment officials to secure \u201clucra-\ntive solar energy supply\ncontracts\u201d.\nSpeaking in the Legislative\nAssembly on November 22,\nNaidu had said that his govern-\nment wasin possession of the US\nindictment reports, and action\nwould be taken if irregularities\nCONTINUED ON PAGE 2",
+   "ocr_conf": 89.79591836734694,
+   "ocr_low_conf_share": 0.061224489795918366,
+   "headline": "Unless there is clear proof, we cannot take action: CM Naidu on Adani power contract",
+   "deck": "",
+   "byline": "SREENIVAS JANYALA; HYDERABAD, JANUARY 2",
+   "text": "ANDHRA PRADESH Chief Minister N Chandrababu Naidu has said that the Solar Energy Corporation of India's agreement to purchase power from the Adani Group was an advantage for the state government and any action on bribery charges would be takenonly a ter athorough examination of the records. \"We will move ahead as per the provisionsof law after examining the records,\" Naidusaidon Wednesday at the TDP's headquarters at Mangalagiri. On Tuesday, the CM said in Vijayawada that the state government cannot scrap the contracts unless there is adequate proof of irregularities. \"We have to pay high penal-\n\n'Will move ahead as per provisions of law\n\nties if we scrap the contracts. Unless there is clear proof, we cannot take action,\" he said. The development comes more than a month after Gautam Adani's indictmentin the United States over allegations of bribing Indian govemment officials to secure \"lucrative solar energy supply contracts\". Speaking in the Legislative Assembly on November 22, Naidu had said that his government wasin possession of the US indictment reports, and action would be taken if irregularities",
+   "n_words": 177,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 10,
+   "layout": {
+    "headline_boxes": [],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      804,
+      3874,
+      1730,
+      3951
+     ]
+    ],
+    "layout_words": 16,
+    "orphan": true
+   },
+   "headline_raw": "",
+   "deck_raw": "",
+   "body_raw": "Manipur Chief Minister N Biren Singh with newly appointed\nGovernor Ajay Bhalla in Imphal onThursday. Pm PAGE6",
+   "ocr_conf": 89.58823529411765,
+   "ocr_low_conf_share": 0.058823529411764705,
+   "headline": "",
+   "deck": "",
+   "byline": "",
+   "text": "Manipur Chief Minister N Biren Singh with newly appointed Governor Ajay Bhalla in Imphal onThursday. Pm PAGE6",
+   "n_words": 17,
+   "kept": false,
+   "drop_reason": "under 50 words"
+  },
+  {
+   "n": 11,
+   "layout": {
+    "headline_boxes": [
+     [
+      318,
+      4015,
+      605,
+      4073
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      4075,
+      762,
+      4736
+     ],
+     [
+      322,
+      4844,
+      549,
+      4875
+     ],
+     [
+      319,
+      4927,
+      708,
+      5053
+     ]
+    ],
+    "layout_words": 81
+   },
+   "headline_raw": "eee Mem rem\nfor departed leaders",
+   "deck_raw": "",
+   "body_raw": "While Vijay Ghat is located\non the main Ring Road near\nRajghat (Mahatma Gandhi's me-\nmorial), Ekta Sthal lies between\nShanti Van (Jawaharlal Nehru's\nsamadhi) and Vijay Ghat, along\nRajghat, and Rashtriya Smriti\nSthal is near EktaSthal.\nAccording to sources, Urban\nDevelopment Secretary K\nSrinivas will inform Singh's fam-\nily about the proposed sites.\nLand allocation will follow the\nestablishment of a Trust, for\nwhich the family would be asked\n\u00a9 Nominate members.\nCONTINUEDONPAGE2\n\nEXPLAINED\n\nAVIATION\nHOW IN-FLIGHT\nINTERNET WORKS",
+   "ocr_conf": 85.9875,
+   "ocr_low_conf_share": 0.0875,
+   "headline": "eee Mem rem for departed leaders",
+   "deck": "",
+   "byline": "EXPLAINED",
+   "text": "While Vijay Ghat is located on the main Ring Road near Rajghat (Mahatma Gandhi's memorial), Ekta Sthal lies between Shanti Van (Jawaharlal Nehru's samadhi) and Vijay Ghat, along Rajghat, and Rashtriya Smriti Sthal is near EktaSthal. According to sources, Urban Development Secretary K Srinivas will inform Singh's family about the proposed sites. Land allocation will follow the establishment of a Trust, for which the family would be asked \u00a9 Nominate members. CONTINUEDONPAGE2\n\nAVIATION HOW IN-FLIGHT INTERNET WORKS",
+   "n_words": 77,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 12,
+   "layout": {
+    "headline_boxes": [
+     [
+      806,
+      4057,
+      3130,
+      4291
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      806,
+      4351,
+      1139,
+      4420
+     ],
+     [
+      806,
+      4469,
+      1251,
+      5137
+     ],
+     [
+      1330,
+      4705,
+      1608,
+      4908
+     ]
+    ],
+    "layout_words": 95
+   },
+   "headline_raw": "Did Rajaji tiger walk 500 km to Jammu? Army has a\nphotograph; Forest dept says seems \u2018photoshopped\u2019",
+   "deck_raw": "",
+   "body_raw": "JAY MAZOOMDAAR\nNEW DELHI, JANUARY 2\n\nCOULD A tiger \u201csighted\u201d afew\nkilometres from the Line of\nControl in Jammu's Rajouri be\nthe big cat thatsetoutin anorth-\nwest direction from\nUttarakhand's Rajaji Tiger\nReserve, travelling more than\n500 km, over two years?\nWe may never know because\nthe \u201csighting\u201d by the Army's\nRoad Opening Party (ROP) close\nto the Rajouri-Poonch highway\non the slopes of Pir Panjal moun-\ntains at aheight of 6,000 feet has\nlanded the Jammuand Kashmir\nforest department and the Army\non opposite sides.\n\n(Himachal)\nKalesar National \u2014\nPark (Haryana)\nRajaji Tiger Reserve\n(Uttarakhand)",
+   "ocr_conf": 88.33333333333333,
+   "ocr_low_conf_share": 0.07291666666666667,
+   "headline": "Did Rajaji tiger walk 500 km to Jammu? Army has a photograph; Forest dept says seems 'photoshopped'",
+   "deck": "",
+   "byline": "JAY MAZOOMDAAR; NEW DELHI, JANUARY 2",
+   "text": "COULD A tiger \"sighted\" afew kilometres from the Line of Control in Jammu's Rajouri be the big cat thatsetoutin anorth-west direction from Uttarakhand's Rajaji Tiger Reserve, travelling more than 500 km, over two years? We may never know because the \"sighting\" by the Army's Road Opening Party (ROP) close to the Rajouri-Poonch highway on the slopes of Pir Panjal mountains at aheight of 6,000 feet has landed the Jammuand Kashmir forest department and the Army on opposite sides.\n\n(Himachal) Kalesar National - Park (Haryana) Rajaji Tiger Reserve (Uttarakhand)",
+   "n_words": 88,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 13,
+   "layout": {
+    "headline_boxes": [
+     [
+      566,
+      5264,
+      4124,
+      5394
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      802,
+      5420,
+      1248,
+      6167
+     ],
+     [
+      1294,
+      5420,
+      1736,
+      6167
+     ],
+     [
+      2757,
+      5422,
+      3205,
+      6168
+     ],
+     [
+      3246,
+      5422,
+      3689,
+      6169
+     ],
+     [
+      3735,
+      5422,
+      4180,
+      6162
+     ]
+    ],
+    "layout_words": 495
+   },
+   "headline_raw": "Begging at traffic signals to directing traffic: \u2018Proud moment for me\u2019",
+   "deck_raw": "",
+   "body_raw": "Telangana had announced itsde-\ncision to employ trans persons\nto manage traffic, along thelines\nof home guardsinthe police de-\npartment. A government order\nwas issued earlier in December\n2024, announcing vacancies for\n50 trans persons and their de-\nploymentas traffic assistants un-\nder a pilot project for six months.\nInthelast week of December,\n39 trans persons joined the\nHyderabad Traflic Police as traffic\nassistants. Before their induction,\nall new appoiniess passed awrit-\nten exam, cleared all physical\ntests and underwent a 20-day\ntraining on manning traffic at key\nintersections across the city.\n\nAfter they heard about the\ngovernment's announcement,\nChinni says her family reached\nout to her \u201cafter 10 years\u201d. An\nontychild, she says she has been\nestranged from her parents, a\nfarmer couple, for a decade \u2014\nsince she decided to move to\nHyderabad for a gender reas-\nsignment surgery.\n\u201cI don't have any plans of go-\ning back home, nor did they ask\nme to come back All that my\nparents said over the call was\nthat I should takecare of myself,\nstop begging and do my job\nwell,\u201d says Chinni, who has been\ndeputed to direct traffic from 8\nam to2 pm.\n\nWhile she has been told that\nshe will receive a stipend, she\nsays she doesn't know the\namount. \u201cI am waiting for my\nsalary so I can pay my rent and\nfor other expenses. | stopped\nbegging after applying for this\njob, so [have not had anyincome\nfor awhik. Things have been abit\ntightsince then,\u201d she says, adding\nthat they have been told theirex-\ntension after six months will de-\npend upon their performance.\nChinni, who lives ina one-\nroom houseinSuraram, alocal-\nityin Hyderabad, saysshe pays a\nmuch higher rent compared to\nothers.\" While they pay Rs4,000,\nmyrent forthe same accommo-\n\ndationis Rs6,500 because of my\ngender. Landlords take advan-\ntage of our situation,\u201d she alleges.\nTalking about her transition,\nChinni says she feitlikea female\never since she hit puberty.\nFearing judgement and rejec-\ntion, she never shared her feel-\nings with her parents. When she\ndid eventually confide in some\nfriends, all of them heckled her\nWith no information or sup-\nport to help her navigate her\nfeelings, Chinni was atsea, Then,\nin Class 10, she met someone\nwho felt the same and knew\nabout the transgendercommu-\nnity. \u201cThat fnend put in touch\nwith the transgender commu-\n\nnity in Hyderabad. After Class 12,\nnearly 10 years ago, I cut all ties\nwith my family and moved to\nHyderabad without a single\npenny inmy pocket,\u201d she says.\nWhile she was uncertain\nabout the move to Hyderabad,\nshe eventually found anew fam-\nity in the transgender commu-\nnity inthe city. Over the nexttwo\nyears, Chinni says she begged at\ntraffic signals daily to raise\nmoney for her reassignment sur-\ngery, whichcost Rs 5 lakh six\nyears ago. \u201cI never told my par-\nents about the surgery, but they\nfound out somehow,\" shesays.\nOver the next few years,\nCONTINUED ON PAGE 2",
+   "ocr_conf": 88.73131313131313,
+   "ocr_low_conf_share": 0.05454545454545454,
+   "headline": "Begging at traffic signals to directing traffic: 'Proud moment for me'",
+   "deck": "",
+   "byline": "",
+   "text": "Telangana had announced itsdecision to employ trans persons to manage traffic, along thelines of home guardsinthe police department. A government order was issued earlier in December 2024, announcing vacancies for 50 trans persons and their deploymentas traffic assistants under a pilot project for six months. Inthelast week of December, 39 trans persons joined the Hyderabad Traflic Police as traffic assistants. Before their induction, all new appoiniess passed awritten exam, cleared all physical tests and underwent a 20-day training on manning traffic at key intersections across the city.\n\nAfter they heard about the government's announcement, Chinni says her family reached out to her \"after 10 years\". An ontychild, she says she has been estranged from her parents, a farmer couple, for a decade - since she decided to move to Hyderabad for a gender reassignment surgery. \"I don't have any plans of going back home, nor did they ask me to come back All that my parents said over the call was that I should takecare of myself, stop begging and do my job well,\" says Chinni, who has been deputed to direct traffic from 8 am to2 pm.\n\nWhile she has been told that she will receive a stipend, she says she doesn't know the amount. \"I am waiting for my salary so I can pay my rent and for other expenses. stopped begging after applying for this job, so [have not had anyincome for awhik. Things have been abit tightsince then,\" she says, adding that they have been told theirextension after six months will depend upon their performance. Chinni, who lives ina oneroom houseinSuraram, alocalityin Hyderabad, saysshe pays a much higher rent compared to others.\" While they pay Rs4,000, myrent forthe same accommodationis Rs6,500 because of my gender. Landlords take advantage of our situation,\" she alleges. Talking about her transition, Chinni says she feitlikea female ever since she hit puberty. Fearing judgement and rejection, she never shared her feelings with her parents. When she did eventually confide in some friends, all of them heckled her With no information or support to help her navigate her feelings, Chinni was atsea, Then, in Class 10, she met someone who felt the same and knew about the transgendercommunity. \"That fnend put in touch with the transgender community in Hyderabad. After Class 12, nearly 10 years ago, I cut all ties with my family and moved to Hyderabad without a single penny inmy pocket,\" she says. While she was uncertain about the move to Hyderabad, she eventually found anew famity in the transgender community inthe city. Over the nexttwo years, Chinni says she begged at traffic signals daily to raise money for her reassignment surgery, whichcost Rs 5 lakh six years ago. \"I never told my parents about the surgery, but they found out somehow,\" shesays. Over the next few years,",
+   "n_words": 468,
+   "kept": true,
+   "drop_reason": ""
+  },
+  {
+   "n": 14,
+   "layout": {
+    "headline_boxes": [
+     [
+      316,
+      5310,
+      501,
+      5371
+     ]
+    ],
+    "deck_boxes": [],
+    "body_boxes": [
+     [
+      317,
+      5459,
+      671,
+      5528
+     ],
+     [
+      318,
+      5578,
+      760,
+      6166
+     ]
+    ],
+    "layout_words": 88
+   },
+   "headline_raw": "ANCHOR",
+   "deck_raw": "",
+   "body_raw": "RAHUL V PISHARODY\nHYDERABAD, JANUARY 2\n\nFROM BEGGING at intersections\nuntiliast year todirecting traffic at\none ofthe verysame spotsin uni-\nform this year \u2014 life has come a\nfull circle for BSravani Chinni, 28.\nKeeping an eye on the vehi-\nclesatAlugadda Bavi Junction in\nTelangana's Secunderabad as she\nspeaks to The Indian Express,\nChinni says, \u2018This isa very proud\nmoment for me. Among other\nplaces, I begged at this very sig-\nnal for 10 years. Now, am man-\naging traffic at this very place.\u201d\nNearly three months ago,",
+   "ocr_conf": 82.02272727272727,
+   "ocr_low_conf_share": 0.125,
+   "headline": "ANCHOR",
+   "deck": "",
+   "byline": "RAHUL V PISHARODY; HYDERABAD, JANUARY 2",
+   "text": "FROM BEGGING at intersections untiliast year todirecting traffic at one ofthe verysame spotsin uniform this year - life has come a full circle for BSravani Chinni, 28. Keeping an eye on the vehiclesatAlugadda Bavi Junction in Telangana's Secunderabad as she speaks to The Indian Express, Chinni says, 'This isa very proud moment for me. Among other places, I begged at this very signal for 10 years. Now, am managing traffic at this very place.\" Nearly three months ago,",
+   "n_words": 78,
+   "kept": true,
+   "drop_reason": ""
+  }
+ ],
+ "seconds": 18.7,
+ "flags": []
+}
