@@ -1,45 +1,148 @@
-\section{Introduction}
-Chapter 2 goes here ...
+\section{Overview}
 
-Sample image insertion. 
+The issue of how computers can ``read'' a vast body of documents is one of the primary problems that researchers of information retrieval and computational linguistics have been working on for the last thirty years. The development track starting from early algorithms based on matrix algebra representations of texts to cutting-edge models using neural architectures belongs to the most intriguing areas in AI research history, which includes paradigm shifts and not merely advancements.
 
-\begin{figure}[h]
+In this literature review, we outline four generations of developments of topic modeling: beginning with matrix factorization approaches, serving as a groundwork, moving then to probabilistic generative models and neural or transformer models dominating nowadays, and ending with more niche studies in topic modeling, such as news corpora and joint topic-sentiment models. Because the second phase of this project adds sentiment analysis and a fully automatic text-extraction pipeline, the review then covers the three families of sentiment analysis methods used in this work (lexicons, fine-tuned transformers and large language models), the study of sentiment and negativity in news media, and the literature on OCR and layout analysis of newspapers. References for the key papers according to five criteria are included in Table~\ref{tab:litsummary}.
+
+\section{Matrix Factorization Approaches: A Foundation}
+
+\subsection{Latent Semantic Analysis}
+Topic detection with computers begins with Latent Semantic Analysis introduced back in 1990 by Deerwester et al.\ in their pioneering work published in the Journal of the American Society for Information Science \cite{deerwester1990}. The fundamental assumption underlining the LSA approach is rather straightforward: words that appear in similar contexts mean the same thing. It is easy to construct the corresponding matrix (with rows being terms and columns being documents), and subsequently decompose it using SVD.
+
+Consider, for example, some terms from the news genre such as ``inflation'', ``CPI'', ``price rise'', and ``cost of living''. They do not usually occur in the same documents; yet, they share common context words such as ``government'', ``budget'', ``households'', and ``relief''. This means that LSA finds such similarities between words and makes clusters out of them; something that is difficult or even impossible to accomplish with term frequency matching alone.
+
+However, the following issues arise in this case. Firstly, SVD allows for negative factor values, which means that the topics obtained in this way would be unnatural and contain both positive (which must be present in topics) and negative (which should not be in topics) words. Secondly, LSA relies heavily on the size of the vocabulary used, and the number of document-term co-occurrences must be large enough, otherwise it fails to perform well in short and specialized corpora.
+
+\subsection{Non-negative Matrix Factorization}
+On the other hand, the seminal work by Lee and Seung published in Nature in 1999 \cite{lee1999}, which introduces the concept of Non-negative Matrix Factorization (NMF), directly addresses this issue. Since it ensures that all entries in the matrix are positive, NMF guarantees that the decomposition process leads to a parts-based decomposition approach. Thus, a topic is always a combination of words, with no subtraction involved, and a document is a combination of topics, again with no subtraction involved. This means that the resulting topics will be easier to understand, as the topic will always contain words like ``court'', ``verdict'', ``accused'', ``bail'' and ``sentence'', none of which have negative loadings.
+
+However, NMF also has some problems of its own. The constraint of non-negativity, while useful for interpretability, prevents NMF from addressing overlaps and ambiguities between real-life topics. For instance, if an article reports about economic fraud, it deals with both ``economy'' and ``crime/judiciary'' topics. Moreover, selecting the number of topics in NMF cannot be done objectively as in LDA.
+
+\section{The Probabilistic Era: LDA and Its Variants}
+
+\subsection{Latent Dirichlet Allocation}
+The paper that receives the most citations in the entire body of topic modeling literature is the 2003 paper by Blei, Ng, and Jordan that appeared in the Journal of Machine Learning Research \cite{blei2003}. LDA, as this technique is known, provides a new way of looking at the problem altogether. Rather than treating topics as vectors in a space, this new framework tells an entirely different story regarding the generation of the documents themselves. The story is simple enough. Consider a collection of documents that have been ``created'' from a distribution of topics that have been drawn from the Dirichlet distribution. Then, for each word in the document, choose a topic and draw the word from the corresponding word distribution. Finally, the inference step, which is what we are interested in, is to go backward from the documents back to the topic distribution.
+
+First of all, LDA possesses some desirable theoretical properties. For example, LDA takes into account that a document can contain topics in combination instead of being devoted to only one topic. Thus, a sports report written in the Times of India about a match taking place in Mumbai will be highly affected by two topics, namely, ``sports'' and ``India/cities''. In addition, Dirichlet priors work like regularization because they help avoid degeneracy in the problem-solving process.
+
+LDA was widely used in nearly all fields for topic modeling at once. Its biggest drawback consists in the ``bag-of-words'' assumption, where each document is viewed as the sum of words without regard to their order; for example, ``the cat sat on the mat'' and ``the mat sat on the cat'' represent the same idea according to LDA. This approach does not take into account much of the semantic information that exists in sentences in a text, particularly in formal text. The other disadvantage of LDA is associated with its inefficiency in processing large amounts of data.
+
+\subsection{Dynamic Topic Models}
+With the advent of the model of Dynamic Topic Models (DTM) by Blei and Lafferty (2006) \cite{blei2006}, a new milestone has been achieved in the study of LDA. Instead of modelling the corpus as an atemporal process wherein the topics are static over time, DTM models the dynamic evolution of the topics over time slices within the corpus with varying word distributions through a state space process. The topic called ``public health'' may have its word distributions revolving around ``dengue'', ``monsoon'', ``hospitals'', and ``AIIMS'' in 2015, whereas the same topic would revolve around ``COVID'', ``vaccination'', ``lockdown'', and ``oxygen'' in 2021.
+
+Given the fact that the dataset in question is made up of articles from different dates, DTM might help provide information on how the discourse on the topics evolves over time. Topic evolution might prove very useful in media analysis since it has been seen that the discourse on topics such as economics or elections or even public health changes over time based on certain events that take place.
+
+\subsection{Neural Variational Inference: ProdLDA}
+The key drawback of the LDA algorithm described above has been addressed in the work of Srivastava and Sutton, published in 2017 at ICLR \cite{srivastava2017}. Both Gibbs sampling and variational EM are computationally costly and difficult to parallelize. The authors propose using a Variational Autoencoder instead. While the full name of their algorithm is NVDM, we shall focus our attention here on ProdLDA.
+
+The first element, the encoder of the ProdLDA model, takes the input vector, corresponding to the bag-of-words representation of a document, and outputs the topic distribution for the document. Then, the decoder of the model attempts to reproduce the document itself from the output topic distribution. Training is performed via the technique of gradient descent optimization, making ProdLDA an order of magnitude faster and more scalable than any previous algorithm for LDA inference. Alongside the computational gains, the authors also observe improved coherence of topics generated by their model compared to vanilla LDA, which may be explained by the inherent regularizer effect of the bottleneck neural network architecture.
+
+\section{Neural Approach: BERTopic}
+
+With the development of large pre-trained language models, there have been significant changes in NLP, and topic modeling has not escaped these changes. The paper ``BERTopic'' \cite{grootendorst2022}, presented by Grootendorst in 2022, is one of the most modern approaches to topic modeling and is the basis for the methodology adopted in this project.
+
+Four phases distinguish the pipeline for the work of BERTopic; however, each phase is unique and separate from others. First, a sentence transformer \cite{reimers2019} converts the documents into dense vectors; a pre-trained BERT-family model is used in order to capture semantic similarities (``all-MiniLM-L6-v2'' \cite{wang2020} or similar). Unlike the bag-of-words approach for LDA, a vector contains information on the essence of a document. For example, ``did not meet expectations'' and ``underperformed'' will have extremely similar vectors although they include entirely different word sets.
+
+The second phase consists of compressing the embeddings into an even lower dimensionality (384 or 768 dimensions are initially used), and this compression is made possible thanks to the UMAP (Uniform Manifold Approximation and Projection) technique \cite{mcinnes2018}; typically, only five dimensions are used after compression. UMAP is preferred over PCA (Principal Component Analysis) for this task because it preserves local neighbourhood structure, which is what the next, density-based, step needs.
+
+Last but not least, hierarchical density-based spatial clustering of applications with noise (HDBSCAN) \cite{campello2013} is executed on the obtained embeddings. One of the crucial advantages of HDBSCAN over the popular K-Means algorithm and standard DBSCAN is that this model can identify a document as a member of a noise cluster instead of allocating the document into any of the clusters. If a certain document happens to lie in an area with low density in the space of obtained embeddings, then it is assigned to the noise cluster ($-1$). Basically, BERTopic takes care of outlying documents by placing them into a noise category in contrast to K-Means or any other standard clustering algorithms which assign documents an arbitrary label.
+
+Finally, c-TF-IDF is used to obtain topic representatives. Traditional TF-IDF can be viewed as a tool measuring how unusual a certain word in a certain document is compared to the entire document collection. c-TF-IDF assumes that all documents allocated in the cluster under consideration represent only one mega-document, and then applies the idea of TF-IDF to the mega-document, identifying those words which stand out among the words of all other topics.
+
+The BERTopic model would fit newspaper data very well due to journalism being synonymous with rich synonyms and euphemisms. The bag-of-words model is unable to work with such documents, but the context embedding model works with them effortlessly. Furthermore, there is a special structure of journalistic writing which means that semantically similar paragraphs will cluster closer than social media posts.
+
+\section{Comparison Literature on Topic Modeling Effectiveness}
+
+There are two recent papers that offer valuable comparisons in topic models in this research. While these papers did not use data sets that are similar to the one employed in this research, their findings are quite interesting.
+
+Egger and Yu (2022) \cite{egger2022} tested LDA, NMF, Top2Vec, and BERTopic on a data set of tweets, which are relatively informal, short, and noisy texts. The researchers discovered that NMF and BERTopic were superior models compared to LDA on this type of data set, and that BERTopic offered better coherence when applied to short texts. However, the authors did not conduct sentiment analysis in their experiment. The structural differences between the Twitter dataset and the newspaper dataset include that tweets are made up of short texts (20--30 words), while the typical length of paragraphs in the newspaper can be 80--150 words.
+
+The study carried out by Turan et al.\ (2024) \cite{turan2024} in Studies in Computational Intelligence (Springer) is concerned with the comparative analysis of Amazon product reviews. Like the Twitter data analyzed above, the Amazon consumer reviews dataset is also consumer-generated and short. The highly informal, consumer-generated nature of reviews makes them perfect examples of how BERTopic outperforms LDA. Once again, no sentiment analysis module was developed in this research, nor did the researchers use the journalistic domain for comparison.
+
+In both studies, the superiority of BERTopic over LDA and NMF in topic modeling is clearly confirmed, but none of them test their methods in analyzing long formal texts. Our work is aimed at filling in this gap using newspaper articles as our data.
+
+\section{Topic Modeling and Sentiment Analysis on News Corpora}
+
+It appears that the research in the field of NLP specifically directed at analyzing news articles is somewhat underrepresented in the current literature. There are three articles relevant to our work.
+
+In the study conducted by Gouliev and P{\'e}rez-T{\'e}llez (2024) \cite{gouliev2024}, LDA and K-Means clustering techniques were applied for the task of topic classification, whereas logistic regression combined with the NRC Emotion Lexicon performed sentiment analysis of more than a million news headlines gathered from ABC News (Australian Broadcasting Corporation) in a period of 19 years. The sentiment classification model presented by the authors reached an accuracy level of 93\%.
+
+Nevertheless, there exist three distinct architectural features that differentiate their system from our approach. Firstly, the authors use LDA, not BERTopic; hence, the topics created by their model cannot capture the semantics of paraphrasing, since they consist merely of bag-of-words structures. Secondly, the authors implement their sentiment analysis pipeline using a pre-made lexicon (NRC) to assign certain sentiment labels depending on the emotion assigned to each word. Finally, the key distinguishing feature is that their topic and sentiment analysis pipelines operate independently from each other; that is, the former defines topics, and the latter assigns sentiments without any interaction at all. Our model analyses sentiment per BERTopic cluster, interpreting the clusters as structure for the sentiment analysis.
+
+Topic modeling and sentiment analysis have been further used together in the work of Yadav and Shakya (2022) \cite{yadav2022}, where the authors have used LDA to find the topics while SVM and Naive Bayes algorithms were used to classify the sentiments. In this work, the usefulness of combining these two can be confirmed; however, the problem of architectural limitation is still apparent in that the two processes are performed separately.
+
+The study published in Digital Scholarship in the Humanities (2025) \cite{dsh2025} has used topic modeling, sentiment analysis, and time series analysis to analyze Pulitzer Prize-winning journalistic pieces. One could consider this one of the very few studies in humanities computing that uses all three approaches in the whole process for journalistic works. However, this study has a problem with its dataset, as it only consists of articles winning the Pulitzer Prize, which does not represent the typical daily output of a newspaper.
+
+\section{Integrated Topic-Sentiment Pipelines}
+
+The only published paper related to this study in architecture is Zhu and Yen (2024) \cite{zhu2024}. In their research, the authors have applied BERTopic for extracting topics from financial news and subsequently have connected topic cluster assignment with sentiment signals for predicting the stock market. The contribution of the paper shows that the topic clusters generated by BERTopic models can be used as inputs to a machine learning task successfully, which is our main purpose in this study as well.
+
+What distinguishes this paper from our study is the topic area and the type of downstream task. Financial news constitute a niche corpus and have a very narrow set of vocabulary and topics (such as earnings reports, central bank announcements, market events). In addition, the researchers had an external variable to predict (the price of the stock). Newspaper texts, on the other hand, represent a much broader spectrum of topics such as politics, arts, sports, local news, etc., without having a particular variable to predict.
+
+In a survey paper in Springer LNCS, Lghaouch et al.\ (2024) \cite{lghaouch2024} traced the state of the art in hybrid approaches to topic modeling and sentiment analysis, summarizing the different applications of topic information in enhancing sentiment classification tasks, such as document-level topic information, topic information as aspect anchors in aspect-based sentiment analysis, and topic priors in Bayesian sentiment models. The survey paper is the foundational theory for the terminology used to describe and situate our project. We are developing an approach to topic-guided sentiment analysis, according to the terminology from the survey paper, in a domain, formal newspaper text, described as relatively underdeveloped.
+
+\section{Sentiment Analysis Methods: Lexicons, Transformers and Language Models}
+
+Sentiment analysis, also called opinion mining, is the computational study of opinions, sentiments and emotions expressed in text \cite{pang2008,liu2012}. For a document, the task is usually reduced to assigning one of a small number of classes (here: negative, neutral, positive) or a score on a bipolar scale. Three families of methods are in common use, and each of them is represented in this project.
+
+\noindent\textbf{Lexicon-based methods.} A sentiment lexicon assigns a valence to every word, and the sentiment of a text is derived from the valences of the words it contains. VADER (Valence Aware Dictionary and sEntiment Reasoner) \cite{hutto2014} is a rule-based model of this kind. It combines a lexicon of about 7,500 human-rated features, with valences from $-4$ to $+4$, with five heuristics for punctuation, capitalisation, degree modifiers, contrastive conjunctions and negation, and it outputs a normalised ``compound'' score between $-1$ and $+1$. The authors recommend the thresholds $\pm 0.05$ to turn the compound score into a label. VADER is fast, needs no training data and is transparent, but it was built and validated for short social-media text and it ignores the context in which a word is used. Lexicon methods have a long history in the automatic coding of news sentiment \cite{young2012,soroka2015bad}.
+
+\noindent\textbf{Fine-tuned transformer classifiers.} BERT \cite{devlin2019} and its robustly optimised variant RoBERTa \cite{liu2019} are pre-trained on large text collections and then fine-tuned on labelled sentiment data. The model used in this work, \texttt{cardiffnlp/twitter-roberta-base-sentiment-latest}, is a RoBERTa-base model that was further pre-trained on about 124 million tweets from 2018 to 2021 \cite{loureiro2022} and fine-tuned for three-class sentiment on the TweetEval benchmark \cite{barbieri2020}. A transformer reads each word in context, so it can handle negation and idiom far better than a lexicon, but it is limited to a maximum input length (512 tokens for RoBERTa), and its training domain (tweets) differs from that of news.
+
+\noindent\textbf{Prompted large language models.} Large language models (LLMs) such as GPT-3 \cite{brown2020} can perform a classification task from instructions alone, without task-specific training data. Gilardi et al.\ \cite{gilardi2023} showed that an LLM used as an annotator can outperform crowd workers on several text-annotation tasks, and Zhang et al.\ \cite{zhang2023} found that LLMs perform well on simple sentiment classification in a zero-shot setting, while being weaker on more structured or fine-grained tasks. LLM labelling also has known weaknesses: answers can depend on the wording of the prompt and can vary between runs \cite{reiss2023}, the model is a black box, and a hosted model has a cost per request. In this project Claude Haiku \cite{anthropic2026} is used as an annotator: it receives written definitions of the three classes and the full article and returns a label, a score and a short reason.
+
+\section{Sentiment and Negativity in News Media}
+
+Sentiment analysis of news differs from sentiment analysis of reviews or tweets because most news text is intended to be factual, and the ``sentiment'' of a news item is largely the sentiment of the events it reports. A well-established finding in political communication is that news content tends to be more negative than positive, and that audiences attend more to negative stories \cite{soroka2015news}. Soroka et al.\ \cite{soroka2015bad} showed that sentiment scoring of news can separate negativity from more specific emotions such as fear and anger, and Young and Soroka \cite{young2012} introduced an automated dictionary-based coding of sentiment in political texts. More recently, Rozado et al.\ \cite{rozado2022} used transformer language models to label the sentiment and emotion of millions of news headlines from US media over two decades, showing that automated, model-based labelling makes such longitudinal studies possible. Entman's account of framing \cite{entman1993} explains why headlines are worth scoring separately from the body text: a headline selects and emphasises some aspects of an event, and its tone can differ from the tone of the story under it.
+
+These studies mostly use a single sentiment tool and mostly analyse headlines or short texts. They do not compare a lexicon, a transformer and an LLM on the same full-length articles, and they do not tie sentiment to a topic model.
+
+\section{OCR and Layout Analysis of Newspapers}
+
+Tesseract \cite{smith2007} is the most widely used open-source OCR engine; since version 4 it uses an LSTM-based recognition model. OCR of newspapers is harder than OCR of single-column documents, because a page contains many columns, headlines of many sizes, photographs, advertisements and captions. A separate research line addresses newspaper layout analysis, and benchmark collections of historical newspapers such as the ENP dataset \cite{clausner2015} provide ground truth for it. Most of this work is aimed at digitisation of archives and uses trained layout models; here we use a rule-based layout analyser, because the pages come from one newspaper with a stable design, and rules can be inspected, adjusted and explained.
+
+OCR errors degrade the downstream NLP tasks to different degrees \cite{lopresti2009,vanstrien2020}, which is why this project measures OCR confidence per page, filters low-quality text, and flags pages whose segmentation looks unreliable. For binarisation of pages with uneven ink and paper tone, local adaptive thresholds such as Sauvola's method \cite{sauvola2000} are standard.
+
+\section{Research Gap and Positioning}
+
+As seen from the review above, the gaps in the existing literature can be clearly outlined. Firstly, there is no existing study using all three of the following aspects at once: BERTopic as a topic modeling method, newspaper text as the domain, and an integrated approach with topics structuring the sentiment analysis.
+
+Existing studies that implement BERTopic \cite{grootendorst2022,egger2022,turan2024,zhu2024} are either applied to Twitter or Amazon text (informal and short), or to financial news text. In both cases, topic modeling is not connected to sentiment analysis. Topic modeling applied to newspapers \cite{gouliev2024,yadav2022} uses LDA as the topic modeling method and considers topic modeling and sentiment analysis as two separate processes, even though the latter can make use of the former as structured input. There is only one study using neural topic modeling for long-form news text, but it works on a limited and curated corpus of texts \cite{dsh2025}.
+
+Secondly, the sentiment literature on news mostly relies on one tool and on headlines or short texts, and the practical question of how much the conclusion depends on the choice between a lexicon, a transformer and an LLM is rarely quantified. Thirdly, work on newspaper text typically starts from clean digital text or from curated archives, while the step from a printed page to separate, correctly ordered articles is treated as a separate problem.
+
+This project aims to fill these gaps. It builds an automatic page-to-article pipeline, compares three sentiment methods with each other and with human labels on the same full-length articles, and uses BERTopic topics to organise the sentiment results over a full year of a real newspaper.
+
+\begin{table}[p]
 \centering
-\includegraphics[width = 2in]{LNMIIT.png}
-\caption{LNMIIT Logo }
-\label{figure:1}
-\end{figure}
-
-
-Sample table
-\begin{table}[t]
-\centering
-\begin{tabular}{|c|c|c|}
-\hline
-Transitions($\triangle_{k-1}, \triangle_k, \triangle_{k+1})$ & Delay of Line $'k'$ & Crosstalk class $C_c$\\
-\hline
-
-$\uparrow-\uparrow , \downarrow-\downarrow, \uparrow-\downarrow, \downarrow-\uparrow, \uparrow- -$ & & \\
-
-,$ \downarrow - -, - - -, - - \uparrow, - - \downarrow$  & 0 & 1\\
-\hline
-
-$\uparrow\uparrow\uparrow, \downarrow\downarrow\downarrow $& 1 & 2\\
-\hline
-
-$\uparrow\uparrow -, \downarrow\downarrow-, -\uparrow\uparrow, -\downarrow\downarrow$ & 1+$\lambda$ &3\\
-\hline
-
-$-\uparrow-, -\downarrow-, \uparrow\downarrow\downarrow, \uparrow\uparrow\downarrow, \downarrow\downarrow\uparrow, \downarrow\uparrow\uparrow$ & 1 +$2\lambda$ & 4\\
-\hline
-
-$-\uparrow\downarrow, -\downarrow\uparrow, \downarrow\uparrow-, \uparrow\downarrow-$ & 1 +$3\lambda$ & 5\\
-\hline
-
-$\uparrow\downarrow\uparrow, \downarrow\uparrow\downarrow $ & 1 +$4\lambda$ & 6\\
-\hline
-
+\caption{Cross-referenced summary of key reviewed papers}
+\label{tab:litsummary}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{@{}r p{2.5cm} c p{2.1cm} p{1.4cm} p{2.0cm} p{3.0cm}@{}}
+\toprule
+\textbf{\#} & \textbf{Author(s)} & \textbf{Year} & \textbf{Topic / Method} & \textbf{Sentiment?} & \textbf{Data domain} & \textbf{Relevance to this work}\\
+\midrule
+1  & Deerwester et al. & 1990 & LSA (SVD)       & No        & IR corpus        & Mathematical foundation\\
+2  & Lee \& Seung      & 1999 & NMF             & No        & Images/Text      & Interpretability baseline\\
+3  & Blei et al.       & 2003 & LDA             & No        & News, Science    & Core probabilistic model\\
+4  & Blei \& Lafferty  & 2006 & DTM             & No        & Science papers   & Temporal extension\\
+5  & Srivastava \& Sutton & 2017 & ProdLDA      & No        & General          & Neural bridge\\
+6  & Grootendorst      & 2022 & BERTopic        & No        & General          & Core model of this project\\
+7  & Egger \& Yu       & 2022 & BERTopic        & No        & Twitter          & Validates BERTopic superiority\\
+8  & Turan et al.      & 2024 & BERTopic        & No        & Amazon           & Compares models on informal text\\
+9  & Gouliev \& P{\'e}rez & 2024 & LDA          & Yes (NRC) & News headlines   & Separate pipelines comparison\\
+10 & DSH study         & 2025 & Topic model     & Yes       & Prize journalism & Integrated pipeline\\
+11 & Yadav \& Shakya   & 2022 & LDA             & Yes (SVM) & News headlines   & Direct competitor\\
+12 & Zhu \& Yen        & 2024 & BERTopic        & Yes       & Financial news   & Architectural sibling\\
+13 & Lghaouch et al.   & 2024 & Survey          & Yes       & Multiple         & Survey support\\
+\midrule
+14 & Hutto \& Gilbert  & 2014 & VADER lexicon   & Yes       & Social media     & Sentiment method 1\\
+15 & Loureiro et al.   & 2022 & RoBERTa (TimeLMs) & Yes     & Tweets           & Sentiment method 2\\
+16 & Gilardi et al.    & 2023 & LLM annotation  & Yes       & Tweets, news     & Basis of sentiment method 3\\
+17 & Rozado et al.     & 2022 & Transformer labelling & Yes & News headlines   & Longitudinal news sentiment\\
+18 & Soroka et al.     & 2015 & Lexicon scoring & Yes       & News content     & Negativity in news\\
+\bottomrule
 \end{tabular}
-\caption{Delay and Crosstalk Classes for various 3-bit combinations (transitions)}
-\label{tab:}
 \end{table}

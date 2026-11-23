@@ -1,25 +1,56 @@
-\section{The Area of Work}
- 
-\blindtext
+\section{Motivation and Background}
 
+On a daily basis, newspapers publish countless articles ranging from politics to economy, sport, health, science, and culture. For a person who is trying to track a certain subject through the newspaper, the vast amount of material cannot be processed easily. The task of describing the coverage of a certain topic throughout several months or years of news items, or the change in attitude towards a political figure over an election cycle, is simply impossible to complete manually. The necessity to process and analyze texts on a large scale gave birth to a field called Natural Language Processing (NLP).
 
-\section{Problem Addressed}
-\blindtext
+There are numerous NLP tasks that could be performed on such a dataset; however, there are two of them that are especially useful when combined together. Namely, topic modeling and sentiment analysis have been shown to produce a wealth of insights. Topic modeling can help answer the question ``what do these texts speak about?'' whereas sentiment analysis can provide an answer to another important question ``how does the writer feel about this?''
 
-\section{Existing System}
-\blindtext
+Textual content in newspapers, however, is a unique and understudied area for the application of such techniques. Texts in newspapers are quite different from the short and casual text found on social media platforms, which have been the primary focus of many papers dealing with topic models. Newspaper articles are relatively long texts that adhere to certain structural conventions, especially the famous inverted pyramid structure where the most important news is placed at the beginning. They come with certain editorial frames and evaluation even when they purport to be objective \cite{entman1993}.
 
-\subsection{ System 1}
-\blindtext
+Another challenge faced in this project was due to the need to process newspaper data that was not readily available as digital text. For this study, we needed to obtain text data from images of newspaper pages. This process required us to utilize Tesseract, a popular and free optical character recognition program \cite{smith2007}. This process introduces another type of noise into the data that has to be cleaned before further processing using NLP techniques, and it raises a problem that plain OCR does not solve: a newspaper page is not one text but a mosaic of dozens of articles, advertisements, photographs and captions, and the articles must be separated before they can be analysed one by one.
 
- \subsection{System 2}
- \subsubsection{Qorking of System 2}
- We can create subsubsection also. 
-\section{Creation of bibliography}
-Use bibch1.bib file to save your bib format citations. Use the command \cite{saini2010alternative} for referring to a particular article \cite{imre2006majority}. 
-and a new citation \cite{chen2023pareto}. 
+The work reported here was carried out in two phases. The first phase (previous semester) studied the topic modeling half of the problem: it compared three topic models, LSA, LDA and BERTopic, on a corpus of OCR'd newspaper pages and showed that BERTopic gives the most coherent and interpretable topics. The second phase (this semester) completes the system. It automates the collection and segmentation of newspaper pages, adds three different ways of measuring sentiment (a lexicon, a transformer and a large language model), compares them against human judgement, and applies the whole pipeline to a full year of a real newspaper: 663 page images and 5,648 articles of The Indian Express (Jaipur edition) for the calendar year 2025.
 
+\section{Problem Statement}
 
+While there is an increasing trend towards automatic news text analysis, most studies employ classical topic modeling methods (LSA, LDA) without accounting for sentiments, or combine topic modeling with sentiments on pre-cleaned, headline-only datasets. In addition, although BERTopic has already proven itself well suited for analysis of brief texts, its performance on more formal language such as journalism has rarely been investigated. Finally, sentiment analysis of news is usually done with a single tool, whereas the available tools (word lists, fine-tuned transformers and prompted large language models) are built on different assumptions and may describe the same newspaper very differently.
 
+These shortcomings are addressed by this study in the form of the following research questions:
+\begin{enumerate}
+\item What is the relative efficiency of topic modeling by LSA, LDA, and BERTopic for a real newspaper dataset that has been collected by means of OCR, and does lemmatization matter? (Phase I)
+\item Can a fully automatic pipeline turn a year of newspaper page images into reliable article-level text, without a person inspecting each page?
+\item How do a lexicon-based method (VADER), a transformer classifier (RoBERTa) and a large language model (Claude Haiku) differ in the sentiment they assign to news articles, and which of them agrees best with human judgement?
+\item What do the topics and their sentiment reveal about a year of newspaper coverage: which subjects are reported positively or negatively, how do the front page and the editorial page differ, and do the changes over time follow the news events of the year?
+\end{enumerate}
 
+\section{Objectives}
 
+The particular aims of the proposed research are as follows:
+\begin{itemize}
+\item Implementation of an OCR-based dataset extraction pipeline using Tesseract, extended in this phase from manually prepared text to automatic page acquisition, article segmentation and cleaning;
+\item Creation of a preprocessing pipeline capable of removing OCR artifacts and adapting to newspaper-specific vocabulary (Phase I: two versions of the dataset, with and without lemmatization);
+\item Implement and compare three topic models, LSA, LDA, and BERTopic, on the processed newspaper corpus using Python, and measure them with topic coherence (Cv and UMass) and qualitative inspection (Phase I);
+\item Build a one-year corpus of The Indian Express (Jaipur edition) covering the front page of every issue and the editorial page of every issue that has one, and segment it into articles with reliability checks;
+\item Implement three sentiment methods (VADER, a RoBERTa transformer and Claude Haiku) behind one common interface, with an article-level label, a score between $-1$ and $+1$ and a separate headline score;
+\item Measure the agreement between the methods, and their accuracy against a hand-labelled sample, using chance-corrected statistics and significance tests;
+\item Use BERTopic topics as the structure for sentiment analysis: report sentiment by topic, by page type, by month and by day, and relate the changes to real events.
+\end{itemize}
+
+\section{Scope and Limitations}
+
+The newspaper corpus selected for this task comprises articles from one Indian English-language newspaper, The Indian Express, Jaipur edition, for the calendar year 2025. Only two pages of each issue are analysed: the front page (every issue) and the editorial page (Monday to Saturday; there is no editorial page on Sundays). Results cannot be generalized to other languages, other newspapers or tabloids due to differences in structure conventions and editorial positions.
+
+The following limitations should be kept in mind when reading the results.
+\begin{itemize}
+\item The data are collected from page images by OCR and rule-based segmentation, so the quality of the dataset is lower than that of a corpus obtained through an API. Most front-page stories continue on an inside page, and only the part printed on the front page is analysed.
+\item Sentiment is defined as the \emph{tone of the text}, not the author's opinion and not the reader's reaction. This is a subjective concept; the human labels used for evaluation come from a single annotator and cover only 48 articles from the first week of January.
+\item The large language model is a commercial service. Its answers are stored (cached) so the reported results can be reproduced exactly, but a fresh run could differ in a small number of labels.
+\item Topic names are produced automatically from the top words of each cluster; their interpretation in this report is ours.
+\end{itemize}
+
+\section{Methodology}
+
+The methodology is a sequence of processing and analysis steps designed to analyze digitized newspaper corpora effectively. In the first place, page images of the newspaper are collected and cleaned (deskewing, photograph removal, binarisation). Next, each page is segmented into articles by a rule-based layout analyser, and each article is OCR'd with Tesseract, cleaned and filtered. Sentiment is then scored three ways in parallel (VADER, a RoBERTa transformer and Claude Haiku), and topics are found with BERTopic, the topic model selected in Phase I. Finally the results are joined and analysed by topic, page type and time, and the three sentiment methods are compared with each other and with a hand-labelled sample. All steps are implemented in Python as one command-line pipeline that stores its results page by page, so that an interrupted run can be resumed and a repeated run is deterministic.
+
+\section{Organization of Report}
+
+In Chapter~2, we conduct a detailed literature review that explores the development of topic modeling from matrix factorization-based techniques to more recent neural modeling. In addition, the review covers the related work done on integrating sentiment analysis within topic modeling for news text, the main families of sentiment analysis methods, and the literature on OCR and layout analysis of newspapers. Chapter~3 includes the description of the whole process undertaken in our study: page acquisition, preprocessing, article segmentation, OCR and cleaning, the three sentiment methods, topic modeling and the evaluation methodology. Chapter~4 contains the presentation of the experiment results: first the topic model comparison of Phase I, and then the full-year results on method agreement, accuracy, topics, sentiment by topic, page type and time. Chapter~5 summarizes the findings, the contributions and the limitations, and outlines future work.
